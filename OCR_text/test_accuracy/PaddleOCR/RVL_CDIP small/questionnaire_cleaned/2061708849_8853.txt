@@ -1,0 +1,33 @@
+PROPOSED
+1998 UE OUTBOUND SURVEY SCRIPT
+)c
+A
+Greeting
+1.Hello, may I speak with (list nameplease
+If list name available: Go to 2.
+If list name not available after 5 attempts: Is there a better day for me to call list paine)
+back?" -Schedule callback, and go to Closing I.
+Record 3rd party refusal if list name is hospitalized in jail is on extenged vacation/travel
+or is a juvenile.
+2.Hello, my name is (TSR name.I'm calling on behalf of Philip Morris. You name currently
+receive coupons and other.promotional offers.
+Do you wish to remain on our mailing list?
+If says,I do not smoke.Or I guit."
+If says, I do not smoke a Philip Morris brand." The Philip Morris maintains a list of adult
+smokers regardless of brand. Would you like to remain on that list?
+Ifsays:"Why haven't I ever received coupons?Philip Morris sends promotional offers and
+coupons to selected individuals on the mailing list.
+If says,How did you get my name?Im sorryI was not provided with that information."
+Continue with script.
+If says, Please don't call me again.Ill make a note to remove your name from our list.
+I'm sorry to have inconvenienced you.-Code as Do Not Call, and go to Closing I.
+If no:Codes as Remove Name, and go to Closing 1
+IfYes:Are you 21 or older
+If no:Code as Under 21 and go to Closing I
+If yes: Confirm spelling of all information including phone number
+2061708849
+3.I have just a few questions about your smoking preferences, do you have a few minutes?
+Created:4/25/98
+Revised:
+Approved:
+To Site:

@@ -1,0 +1,77 @@
+COMUNICUSINC.
+Male
+5
+-1
+Chicago
+6-1
+Project LLD-7
+Female
+-2
+New York
+-2
+San Fyancisco
+-3
+April1978
+GROUP
+4-
+AM
+WAN
+PM
+AM
+PM)
+ADDI
+CIT
+TEL
+INT
+VAI
+Hello,I'm
+from Communicus, a consumer opinion firm.
+We are
+conducting a survey and would like to include you.
+la.
+Do you smoke filter, non-menthol cigarettes?
+Yes
+CONTINUE
+No
+TERMINATE
+b.
+How many cigarettes do you usually smoke per day?
+DO NOT READ LIST.)
+6-0
+TEEERNNNE
+Between 10 and 15
+7-1
+16to25
+-2
+More than 25
+-3
+C.
+What is your regular brand of cigarettes, that is, the one brand you smoke
+most often?
+PROBE FOR SPECIFIC STYLE).
+-2
+-1.IF FROM QUOTA 2,THEN CIRCLE-2.
+2.
+Which of the following statements apply to you?
+A.
+I eat dinner in a restaurant at least once a month.
+-
+B.
+I read a daily newspaper.
+-2
+C. I do most of the food shopping for myself and/or my family.
+3
+D.
+I have taken an airline trip on a schedulcd commercial airline
+in the past 12 months.
+-4
+3.
+Into which of the following age groups do you fall? ReaD LIsT.
+84471740
+Under 21
+TERMINATE
+21-34
+35-65
+65+
+TERMINATE
+-1-D

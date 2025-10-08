@@ -1,0 +1,41 @@
+B1cK
+pa
+CA
+8
+U-126
+031486/1
+FEMALE
+SCREENER
+Menthol Cigarettes
+Hello,I'm
+of
+We are conducting a brief survey on cigarettes and would like to
+include your opinions.
+l. First, is there anyone living in your household who is employed
+in the sale, manufacture or distribution of tobacco products,
+or market research, or advertising?
+ves
+(TERMINATE)
+No
+X
+2. Is there a female living in your home between the ages of
+18 and 34 who smokes at least 10 cigarettes per day?
+Yes /
+ON
+(TERMINATE)
+3.May I speak to that person?
+IF NOT AVAILABLE,MAKE APPOINTMENT
+TO CALL LATER.SAVE SCREENER.
+GET
+NAME AND TELEPHONE NUMBER.)
+Is your regular brand of cigarettes a filter or non-filter
+cigarette?
+Filter _X
+85369806
+Non-filter
+(TERMINATE)
+5. Is your regular brand of cigarettes menthol or non-menthol?
+Menthol
+X
+Non-menthol
+(TERMINATE)
