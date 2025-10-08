@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="18/12/2007" author="Jouve ">
+  <source width="2471" height="3508">01655_L.png</source>
+  <document>Lettre manuscrite</document>
+  <scenario>Relance de courrier sans réponse</scenario>
+  <writer>BRUN Fanny</writer>
+  <sender_person>Fanny BRUN</sender_person>
+  <sender_company></sender_company>
+  <sender_tel>+33(0)3.52.85.08.46</sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <date>21/12/2006</date>
+  <place></place>
+  <box top_left_x="63" top_left_y="90" bottom_right_x="935" bottom_right_y="631">
+  <type>Coordonnées Expéditeur</type>
+  <text>Fanny Belin\n2 rue ¤Moment¤\n25200 MONTBELIARD\ntel : 03 52 85 08 46\nref. client : FRFSV41</text>
+  </box>
+  <box top_left_x="1886" top_left_y="668" bottom_right_x="2393" bottom_right_y="774">
+  <type>Date, Lieu</type>
+  <text>le 21.12.06</text>
+  </box>
+  <box top_left_x="834" top_left_y="860" bottom_right_x="1679" bottom_right_y="992">
+  <type>Ouverture</type>
+  <text>Madame, Monsieur,</text>
+  </box>
+  <box top_left_x="45" top_left_y="1149" bottom_right_x="2288" bottom_right_y="2202">
+  <type>Corps de texte</type>
+  <text>Je vous ai adressé le mois dernier un ¤{courier/courrier}¤\nafin de résilier mon compte.\nOr, il semble que ma demande n'a pas été prise\nen considération.\nJe vous remercie donc de faire dès maintenant\nle nécessaire.\nCordialement,</text>
+  </box>
+  <box top_left_x="1499" top_left_y="2269" bottom_right_x="1860" bottom_right_y="2540">
+  <type>Signature</type>
+  <text></text>
+  </box>
+</annotation>
