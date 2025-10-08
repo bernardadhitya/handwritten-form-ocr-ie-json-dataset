@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2496" height="3505">01236_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Difficulté de paiement</scenario>
+  <writer>JOURDAN Louis</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="213" top_left_y="291" bottom_right_x="769" bottom_right_y="433">
+       <type>Code d'envoi</type>
+       <text>BOZUMJ</text>
+  </box>
+  <box top_left_x="443" top_left_y="454" bottom_right_x="1250" bottom_right_y="561">
+       <type>Nom</type>
+       <text>Jourdan</text>
+  </box>
+  <box top_left_x="1442" top_left_y="456" bottom_right_x="2213" bottom_right_y="562">
+       <type>Prénom</type>
+       <text>Louis</text>
+  </box>
+  <box top_left_x="526" top_left_y="556" bottom_right_x="2218" bottom_right_y="657">
+       <type>Adresse</type>
+       <text>37 av des pignatières</text>
+  </box>
+  <box top_left_x="603" top_left_y="657" bottom_right_x="1020" bottom_right_y="764">
+       <type>Code Postal</type>
+       <text>06700</text>
+  </box>
+  <box top_left_x="1142" top_left_y="653" bottom_right_x="2222" bottom_right_y="765">
+       <type>Ville</type>
+       <text>ST Laurent du Var</text>
+  </box>
+  <box top_left_x="412" top_left_y="768" bottom_right_x="1282" bottom_right_y="917">
+       <type>Téléphone</type>
+       <text>0423454610</text>
+  </box>
+  <box top_left_x="550" top_left_y="1036" bottom_right_x="2224" bottom_right_y="1152">
+       <type>Catégorie Scénario</type>
+       <text>Difficulté de paiment</text>
+  </box>
+  <box top_left_x="335" top_left_y="1146" bottom_right_x="2224" bottom_right_y="1327">
+       <type>Objet Scénario</type>
+       <text>Demande d'¤{echelonnement/échelonnement}¤\n</text>
+  </box>
+  <box top_left_x="328" top_left_y="1323" bottom_right_x="2222" bottom_right_y="1513">
+       <type>Complément Scénario</type>
+       <text>Le montant de votre facture est trop élevé\n</text>
+  </box>
+  <box top_left_x="949" top_left_y="1531" bottom_right_x="1584" bottom_right_y="1681">
+       <type>Référence client</type>
+       <text>VFGOX16</text>
+  </box>
+  <box top_left_x="626" top_left_y="1678" bottom_right_x="2228" bottom_right_y="1777">
+       <type>Interlocuteur</type>
+       <text>BOF telecom</text>
+  </box>
+  <box top_left_x="538" top_left_y="1767" bottom_right_x="2229" bottom_right_y="1876">
+       <type>Adresse Interlocuteur</type>
+       <text>immeuble sefcotel</text>
+  </box>
+  <box top_left_x="616" top_left_y="1865" bottom_right_x="1044" bottom_right_y="1985">
+       <type>Code Postal Interlocuteur</type>
+       <text>73321</text>
+  </box>
+  <box top_left_x="1178" top_left_y="1868" bottom_right_x="2229" bottom_right_y="1971">
+       <type>Ville Interlocuteur</type>
+       <text>Tignes</text>
+  </box>
+  <box top_left_x="1095" top_left_y="2203" bottom_right_x="1309" bottom_right_y="2313">
+       <type>Temps passé</type>
+       <text>25</text>
+  </box>
+  <box top_left_x="943" top_left_y="2147" bottom_right_x="1018" bottom_right_y="2191">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1116" top_left_y="2138" bottom_right_x="1165" bottom_right_y="2190">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1331" top_left_y="2139" bottom_right_x="1382" bottom_right_y="2190">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="346" top_left_y="2605" bottom_right_x="423" bottom_right_y="2653">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1636" top_left_y="2560" bottom_right_x="2235" bottom_right_y="2671">
+       <type>Date d'envoi postal</type>
+       <text>le 4/12/2006</text>
+  </box>
+  <box top_left_x="363" top_left_y="2700" bottom_right_x="423" bottom_right_y="2749">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="347" top_left_y="2794" bottom_right_x="424" bottom_right_y="2845">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1778" top_left_y="2732" bottom_right_x="2227" bottom_right_y="2850">
+       <type>Date d'envoi par fax</type>
+       <text>le 4/12/2006</text>
+  </box>
+  <box top_left_x="343" top_left_y="2887" bottom_right_x="424" bottom_right_y="2940">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1634" top_left_y="2852" bottom_right_x="2229" bottom_right_y="2955">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1775" top_left_y="3049" bottom_right_x="2041" bottom_right_y="3144">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="618" top_left_y="3076" bottom_right_x="668" bottom_right_y="3125">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="823" top_left_y="3074" bottom_right_x="875" bottom_right_y="3125">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1005" top_left_y="3075" bottom_right_x="1055" bottom_right_y="3126">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1115" top_left_y="2950" bottom_right_x="2231" bottom_right_y="3051">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
