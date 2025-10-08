@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="18/12/2007" author="Jouve">
+  <source width="2465" height="3502">01011_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Modification de contrat / Commande</scenario>
+  <writer>VIALE Arnaud</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="128" top_left_y="292" bottom_right_x="712" bottom_right_y="440">
+       <type>Code d'envoi</type>
+       <text>CBHKIO</text>
+  </box>
+  <box top_left_x="370" top_left_y="462" bottom_right_x="1218" bottom_right_y="574">
+       <type>Nom</type>
+       <text>VIALE</text>
+  </box>
+  <box top_left_x="1421" top_left_y="463" bottom_right_x="2231" bottom_right_y="572">
+       <type>Prénom</type>
+       <text>Arnaud</text>
+  </box>
+  <box top_left_x="457" top_left_y="569" bottom_right_x="2236" bottom_right_y="671">
+       <type>Adresse</type>
+       <text>6 RUE DE EDLING</text>
+  </box>
+  <box top_left_x="538" top_left_y="675" bottom_right_x="976" bottom_right_y="787">
+       <type>Code Postal</type>
+       <text>57320</text>
+  </box>
+  <box top_left_x="1104" top_left_y="670" bottom_right_x="2239" bottom_right_y="786">
+       <type>Ville</type>
+       <text>ANZELING</text>
+  </box>
+  <box top_left_x="337" top_left_y="793" bottom_right_x="1251" bottom_right_y="947">
+       <type>Téléphone</type>
+       <text>0303347960</text>
+  </box>
+  <box top_left_x="483" top_left_y="1074" bottom_right_x="2239" bottom_right_y="1193">
+       <type>Catégorie Scénario</type>
+       <text>Modification de contrat / commande</text>
+  </box>
+  <box top_left_x="256" top_left_y="1187" bottom_right_x="2239" bottom_right_y="1378">
+       <type>Objet Scénario</type>
+       <text>Changement concernant ma dernière commande\n</text>
+  </box>
+  <box top_left_x="248" top_left_y="1374" bottom_right_x="2238" bottom_right_y="1574">
+       <type>Complément Scénario</type>
+       <text>Annulation de ma dernière commande\n</text>
+  </box>
+  <box top_left_x="902" top_left_y="1592" bottom_right_x="1569" bottom_right_y="1749">
+       <type>Référence client</type>
+       <text>LUUED91</text>
+  </box>
+  <box top_left_x="562" top_left_y="1746" bottom_right_x="2243" bottom_right_y="1849">
+       <type>Interlocuteur</type>
+       <text>Les 3 Suifs</text>
+  </box>
+  <box top_left_x="469" top_left_y="1841" bottom_right_x="2241" bottom_right_y="1953">
+       <type>Adresse Interlocuteur</type>
+       <text>12 RUE DE LA PIERRE LEVEE</text>
+  </box>
+  <box top_left_x="551" top_left_y="1945" bottom_right_x="999" bottom_right_y="2069">
+       <type>Code Postal Interlocuteur</type>
+       <text>85130</text>
+  </box>
+  <box top_left_x="1140" top_left_y="1946" bottom_right_x="2242" bottom_right_y="2050">
+       <type>Ville Interlocuteur</type>
+       <text>LA GABRETIERE</text>
+  </box>
+  <box top_left_x="1052" top_left_y="2297" bottom_right_x="1277" bottom_right_y="2413">
+       <type>Temps passé</type>
+       <text>15</text>
+  </box>
+  <box top_left_x="866" top_left_y="2238" bottom_right_x="943" bottom_right_y="2282">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1074" top_left_y="2229" bottom_right_x="1125" bottom_right_y="2283">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1298" top_left_y="2229" bottom_right_x="1352" bottom_right_y="2283">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="270" top_left_y="2726" bottom_right_x="347" bottom_right_y="2772">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1620" top_left_y="2671" bottom_right_x="2247" bottom_right_y="2788">
+       <type>Date d'envoi postal</type>
+       <text></text>
+  </box>
+  <box top_left_x="268" top_left_y="2821" bottom_right_x="319" bottom_right_y="2871">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="266" top_left_y="2919" bottom_right_x="320" bottom_right_y="2967">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1768" top_left_y="2852" bottom_right_x="2239" bottom_right_y="2975">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="266" top_left_y="3015" bottom_right_x="320" bottom_right_y="3066">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1618" top_left_y="2977" bottom_right_x="2242" bottom_right_y="3084">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1766" top_left_y="3182" bottom_right_x="2045" bottom_right_y="3279">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="552" top_left_y="3213" bottom_right_x="605" bottom_right_y="3264">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="767" top_left_y="3210" bottom_right_x="822" bottom_right_y="3263">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="957" top_left_y="3210" bottom_right_x="1009" bottom_right_y="3263">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1073" top_left_y="3079" bottom_right_x="2244" bottom_right_y="3183">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
