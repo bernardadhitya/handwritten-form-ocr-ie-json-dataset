@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2468" height="3504">00216_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Difficulté de paiement</scenario>
+  <writer>STEINER Cecile</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="180" top_left_y="345" bottom_right_x="739" bottom_right_y="488">
+       <type>Code d'envoi</type>
+       <text>OHYGRO</text>
+  </box>
+  <box top_left_x="412" top_left_y="510" bottom_right_x="1223" bottom_right_y="616">
+       <type>Nom</type>
+       <text>STEINER</text>
+  </box>
+  <box top_left_x="1418" top_left_y="511" bottom_right_x="2193" bottom_right_y="616">
+       <type>Prénom</type>
+       <text>Cecile</text>
+  </box>
+  <box top_left_x="495" top_left_y="611" bottom_right_x="2199" bottom_right_y="711">
+       <type>Adresse</type>
+       <text>Quartier de la Pible</text>
+  </box>
+  <box top_left_x="572" top_left_y="712" bottom_right_x="992" bottom_right_y="820">
+       <type>Code Postal</type>
+       <text>83170</text>
+  </box>
+  <box top_left_x="1114" top_left_y="708" bottom_right_x="2201" bottom_right_y="819">
+       <type>Ville</type>
+       <text>LA Celle</text>
+  </box>
+  <box top_left_x="379" top_left_y="824" bottom_right_x="1254" bottom_right_y="973">
+       <type>Téléphone</type>
+       <text>0439725017</text>
+  </box>
+  <box top_left_x="518" top_left_y="1094" bottom_right_x="2199" bottom_right_y="1210">
+       <type>Catégorie Scénario</type>
+       <text>difficulté de paiement</text>
+  </box>
+  <box top_left_x="300" top_left_y="1204" bottom_right_x="2199" bottom_right_y="1387">
+       <type>Objet Scénario</type>
+       <text>Demande d'échelonnement\n</text>
+  </box>
+  <box top_left_x="292" top_left_y="1382" bottom_right_x="2200" bottom_right_y="1574">
+       <type>Complément Scénario</type>
+       <text>aucun\n</text>
+  </box>
+  <box top_left_x="919" top_left_y="1591" bottom_right_x="1559" bottom_right_y="1742">
+       <type>Référence client</type>
+       <text>EVXXC29</text>
+  </box>
+  <box top_left_x="593" top_left_y="1739" bottom_right_x="2208" bottom_right_y="1839">
+       <type>Interlocuteur</type>
+       <text>NAIF ASSURANCES</text>
+  </box>
+  <box top_left_x="504" top_left_y="1830" bottom_right_x="2208" bottom_right_y="1938">
+       <type>Adresse Interlocuteur</type>
+       <text>22, rue Raphael de Folli¤rov¤e</text>
+  </box>
+  <box top_left_x="582" top_left_y="1929" bottom_right_x="1013" bottom_right_y="2049">
+       <type>Code Postal Interlocuteur</type>
+       <text>35360</text>
+  </box>
+  <box top_left_x="1149" top_left_y="1931" bottom_right_x="2208" bottom_right_y="2033">
+       <type>Ville Interlocuteur</type>
+       <text>La Gouesniere</text>
+  </box>
+  <box top_left_x="1065" top_left_y="2268" bottom_right_x="1280" bottom_right_y="2379">
+       <type>Temps passé</type>
+       <text>10</text>
+  </box>
+  <box top_left_x="911" top_left_y="2215" bottom_right_x="960" bottom_right_y="2280">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1086" top_left_y="2203" bottom_right_x="1135" bottom_right_y="2255">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1301" top_left_y="2203" bottom_right_x="1353" bottom_right_y="2256">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="314" top_left_y="2683" bottom_right_x="352" bottom_right_y="2724">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1609" top_left_y="2628" bottom_right_x="2211" bottom_right_y="2740">
+       <type>Date d'envoi postal</type>
+       <text>7/09/06</text>
+  </box>
+  <box top_left_x="312" top_left_y="2784" bottom_right_x="359" bottom_right_y="2819">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="319" top_left_y="2873" bottom_right_x="360" bottom_right_y="2910">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1751" top_left_y="2802" bottom_right_x="2204" bottom_right_y="2920">
+       <type>Date d'envoi par fax</type>
+       <text>7/09/06</text>
+  </box>
+  <box top_left_x="312" top_left_y="2960" bottom_right_x="361" bottom_right_y="3007">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1607" top_left_y="2922" bottom_right_x="2207" bottom_right_y="3025">
+       <type>Date d'envoi par courriel</type>
+       <text>7/09/06</text>
+  </box>
+  <box top_left_x="1749" top_left_y="3119" bottom_right_x="2016" bottom_right_y="3213">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="584" top_left_y="3146" bottom_right_x="635" bottom_right_y="3196">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="790" top_left_y="3145" bottom_right_x="842" bottom_right_y="3196">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="979" top_left_y="3147" bottom_right_x="1018" bottom_right_y="3197">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1084" top_left_y="3020" bottom_right_x="2208" bottom_right_y="3120">
+       <type>Marque et modèle scanner</type>
+       <text>HP Scanner Jet 5550C</text>
+  </box>
+</annotation>
