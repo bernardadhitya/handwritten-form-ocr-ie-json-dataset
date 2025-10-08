@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="18/12/2007" author="Jouve">
+  <source width="2475" height="3504">01154_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Modification de contrat / Commande</scenario>
+  <writer>MESSINA Brigitte</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="171" top_left_y="367" bottom_right_x="727" bottom_right_y="509">
+       <type>Code d'envoi</type>
+       <text>VCLDEZ</text>
+  </box>
+  <box top_left_x="401" top_left_y="530" bottom_right_x="1207" bottom_right_y="637">
+       <type>Nom</type>
+       <text>Messina</text>
+  </box>
+  <box top_left_x="1399" top_left_y="532" bottom_right_x="2169" bottom_right_y="636">
+       <type>Prénom</type>
+       <text>Brigitte</text>
+  </box>
+  <box top_left_x="484" top_left_y="632" bottom_right_x="2175" bottom_right_y="730">
+       <type>Adresse</type>
+       <text>15 rue champs des côtés</text>
+  </box>
+  <box top_left_x="560" top_left_y="733" bottom_right_x="976" bottom_right_y="840">
+       <type>Code Postal</type>
+       <text>90300</text>
+  </box>
+  <box top_left_x="1099" top_left_y="729" bottom_right_x="2176" bottom_right_y="839">
+       <type>Ville</type>
+       <text>Sermamagny</text>
+  </box>
+  <box top_left_x="368" top_left_y="844" bottom_right_x="1237" bottom_right_y="994">
+       <type>Téléphone</type>
+       <text>0331912223</text>
+  </box>
+  <box top_left_x="507" top_left_y="1114" bottom_right_x="2176" bottom_right_y="1231">
+       <type>Catégorie Scénario</type>
+       <text>Modification de contrat/Commande</text>
+  </box>
+  <box top_left_x="292" top_left_y="1224" bottom_right_x="2177" bottom_right_y="1406">
+       <type>Objet Scénario</type>
+       <text>Commande de trois paires de chaussettes\n(ref produit : CH45-12)</text>
+  </box>
+  <box top_left_x="284" top_left_y="1402" bottom_right_x="2178" bottom_right_y="1590">
+       <type>Complément Scénario</type>
+       <text>Aucun\n</text>
+  </box>
+  <box top_left_x="907" top_left_y="1609" bottom_right_x="1542" bottom_right_y="1757">
+       <type>Référence client</type>
+       <text>EOAVW64</text>
+  </box>
+  <box top_left_x="584" top_left_y="1756" bottom_right_x="2185" bottom_right_y="1850">
+       <type>Interlocuteur</type>
+       <text>La Reboute</text>
+  </box>
+  <box top_left_x="496" top_left_y="1846" bottom_right_x="2184" bottom_right_y="1948">
+       <type>Adresse Interlocuteur</type>
+       <text>Le Bourg</text>
+  </box>
+  <box top_left_x="574" top_left_y="1943" bottom_right_x="1002" bottom_right_y="2063">
+       <type>Code Postal Interlocuteur</type>
+       <text>22320</text>
+  </box>
+  <box top_left_x="1135" top_left_y="1942" bottom_right_x="2184" bottom_right_y="2044">
+       <type>Ville Interlocuteur</type>
+       <text>La Harmoye</text>
+  </box>
+  <box top_left_x="1053" top_left_y="2282" bottom_right_x="1266" bottom_right_y="2393">
+       <type>Temps passé</type>
+       <text>10</text>
+  </box>
+  <box top_left_x="876" top_left_y="2221" bottom_right_x="954" bottom_right_y="2280">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1074" top_left_y="2218" bottom_right_x="1123" bottom_right_y="2270">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1287" top_left_y="2218" bottom_right_x="1339" bottom_right_y="2270">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="306" top_left_y="2687" bottom_right_x="353" bottom_right_y="2737">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1593" top_left_y="2640" bottom_right_x="2190" bottom_right_y="2751">
+       <type>Date d'envoi postal</type>
+       <text>29/11/06</text>
+  </box>
+  <box top_left_x="302" top_left_y="2777" bottom_right_x="353" bottom_right_y="2834">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="306" top_left_y="2877" bottom_right_x="357" bottom_right_y="2923">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1735" top_left_y="2813" bottom_right_x="2182" bottom_right_y="2930">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="303" top_left_y="2969" bottom_right_x="384" bottom_right_y="3025">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1591" top_left_y="2933" bottom_right_x="2185" bottom_right_y="3035">
+       <type>Date d'envoi par courriel</type>
+       <text>29/11/06</text>
+  </box>
+  <box top_left_x="1732" top_left_y="3129" bottom_right_x="1997" bottom_right_y="3224">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="578" top_left_y="3158" bottom_right_x="629" bottom_right_y="3207">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="782" top_left_y="3157" bottom_right_x="834" bottom_right_y="3207">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="964" top_left_y="3157" bottom_right_x="1018" bottom_right_y="3214">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1073" top_left_y="3031" bottom_right_x="2186" bottom_right_y="3131">
+       <type>Marque et modèle scanner</type>
+       <text>Epson Stylus CX3650</text>
+  </box>
+</annotation>
