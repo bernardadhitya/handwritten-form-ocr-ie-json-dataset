@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="18/12/2007" author="Jouve">
+  <source width="2472" height="3504">01461_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Changement de données personnelles</scenario>
+  <writer>CORBIN Marie-laure</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="169" top_left_y="362" bottom_right_x="724" bottom_right_y="505">
+       <type>Code d'envoi</type>
+       <text>ACQWSO</text>
+  </box>
+  <box top_left_x="399" top_left_y="526" bottom_right_x="1205" bottom_right_y="633">
+       <type>Nom</type>
+       <text>CORBIN</text>
+  </box>
+  <box top_left_x="1398" top_left_y="529" bottom_right_x="2168" bottom_right_y="634">
+       <type>Prénom</type>
+       <text>Marie-Laure</text>
+  </box>
+  <box top_left_x="481" top_left_y="628" bottom_right_x="2173" bottom_right_y="728">
+       <type>Adresse</type>
+       <text>61 rue principale</text>
+  </box>
+  <box top_left_x="557" top_left_y="728" bottom_right_x="974" bottom_right_y="836">
+       <type>Code Postal</type>
+       <text>57640</text>
+  </box>
+  <box top_left_x="1096" top_left_y="725" bottom_right_x="2174" bottom_right_y="836">
+       <type>Ville</type>
+       <text>MACROY</text>
+  </box>
+  <box top_left_x="366" top_left_y="840" bottom_right_x="1234" bottom_right_y="989">
+       <type>Téléphone</type>
+       <text>0344263985</text>
+  </box>
+  <box top_left_x="504" top_left_y="1108" bottom_right_x="2172" bottom_right_y="1226">
+       <type>Catégorie Scénario</type>
+       <text>Changement de données personnelles</text>
+  </box>
+  <box top_left_x="288" top_left_y="1217" bottom_right_x="2172" bottom_right_y="1402">
+       <type>Objet Scénario</type>
+       <text>Nouvelles coordonnées postales (Vous considèrerez\nvotre adresse fictive comme votre nouvelle adresse)</text>
+  </box>
+  <box top_left_x="279" top_left_y="1395" bottom_right_x="2173" bottom_right_y="1587">
+       <type>Complément Scénario</type>
+       <text>Vous déménagez\n</text>
+  </box>
+  <box top_left_x="901" top_left_y="1603" bottom_right_x="1535" bottom_right_y="1754">
+       <type>Référence client</type>
+       <text>JMQZE28</text>
+  </box>
+  <box top_left_x="578" top_left_y="1750" bottom_right_x="2177" bottom_right_y="1850">
+       <type>Interlocuteur</type>
+       <text>NAIF Assurances</text>
+  </box>
+  <box top_left_x="490" top_left_y="1840" bottom_right_x="2176" bottom_right_y="1949">
+       <type>Adresse Interlocuteur</type>
+       <text>99 AVENUE DE NIEPPE</text>
+  </box>
+  <box top_left_x="567" top_left_y="1938" bottom_right_x="993" bottom_right_y="2058">
+       <type>Code Postal Interlocuteur</type>
+       <text>57970</text>
+  </box>
+  <box top_left_x="1127" top_left_y="1941" bottom_right_x="2176" bottom_right_y="2044">
+       <type>Ville Interlocuteur</type>
+       <text>BASSE HAM</text>
+  </box>
+  <box top_left_x="1044" top_left_y="2276" bottom_right_x="1257" bottom_right_y="2387">
+       <type>Temps passé</type>
+       <text>15</text>
+  </box>
+  <box top_left_x="890" top_left_y="2215" bottom_right_x="966" bottom_right_y="2276">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1064" top_left_y="2212" bottom_right_x="1113" bottom_right_y="2264">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1279" top_left_y="2213" bottom_right_x="1331" bottom_right_y="2265">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="295" top_left_y="2678" bottom_right_x="340" bottom_right_y="2726">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1582" top_left_y="2634" bottom_right_x="2178" bottom_right_y="2748">
+       <type>Date d'envoi postal</type>
+       <text>14 décembre 2006</text>
+  </box>
+  <box top_left_x="296" top_left_y="2773" bottom_right_x="345" bottom_right_y="2821">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="294" top_left_y="2866" bottom_right_x="354" bottom_right_y="2935">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1723" top_left_y="2808" bottom_right_x="2170" bottom_right_y="2925">
+       <type>Date d'envoi par fax</type>
+       <text>14 décembre 2006</text>
+  </box>
+  <box top_left_x="295" top_left_y="2960" bottom_right_x="372" bottom_right_y="3032">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1579" top_left_y="2927" bottom_right_x="2172" bottom_right_y="3030">
+       <type>Date d'envoi par courriel</type>
+       <text>14 décembre 2006</text>
+  </box>
+  <box top_left_x="1719" top_left_y="3123" bottom_right_x="1983" bottom_right_y="3218">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="540" top_left_y="3146" bottom_right_x="630" bottom_right_y="3199">
+       <type>Format PNG</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="769" top_left_y="3148" bottom_right_x="820" bottom_right_y="3198">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="950" top_left_y="3148" bottom_right_x="999" bottom_right_y="3199">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1060" top_left_y="3023" bottom_right_x="2173" bottom_right_y="3125">
+       <type>Marque et modèle scanner</type>
+       <text>Hewlett Packard ScanJet 3300 C</text>
+  </box>
+</annotation>
