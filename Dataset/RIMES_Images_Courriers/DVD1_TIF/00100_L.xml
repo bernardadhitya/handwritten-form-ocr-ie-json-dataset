@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve ">
+  <source width="2470" height="3501">00100_L.png</source>
+  <document>Lettre manuscrite</document>
+  <scenario>Réclamation</scenario>
+  <writer>BIANCO Jocelyne</writer>
+  <sender_person>BIANCO Jocelyne</sender_person>
+  <sender_company></sender_company>
+  <sender_tel>+33(0)3.49.88.26.66</sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company>La Reboute</receiver_company>
+  <date>03/08/06</date>
+  <place>Marspich</place>
+  <box top_left_x="28" top_left_y="16" bottom_right_x="1190" bottom_right_y="520">
+  <type>Coordonnées Expéditeur</type>
+  <text>BIANCO Jocelyne\n10 rue Marcel PAGNOL\n57700 MARSPICH\nTél : 03 49 88 26 66</text>
+  </box>
+  <box top_left_x="1038" top_left_y="620" bottom_right_x="2173" bottom_right_y="807">
+  <type>Date, Lieu</type>
+  <text>Marspich, Le 3 Août 2006</text>
+  </box>
+  <box top_left_x="1203" top_left_y="816" bottom_right_x="2129" bottom_right_y="1208">
+  <type>Coordonnées Destinataire</type>
+  <text>La Reboute\n7, Avenue de La Poste\n06220 Vallauris</text>
+  </box>
+  <box top_left_x="573" top_left_y="1320" bottom_right_x="1423" bottom_right_y="1467">
+  <type>Ouverture</type>
+  <text>Madame, Monsieur,</text>
+  </box>
+  <box top_left_x="93" top_left_y="1537" bottom_right_x="2376" bottom_right_y="3035">
+  <type>Corps de texte</type>
+  <text>Je vous envoie ce ¤{courier/courrier}¤ car j'ai commandé\nle 17 juillet 2006 une paire de chaussures\n(réf : 033579 / catalogue Eté - Automne 2006)\net elle m'a été livrée avant hier sans ¤{lacet/lacets}¤.\nAinsi, je souhaiterais me faire rembourser mon\nachat en sachant que je vous ai renvoyé les\nchaussures par Colissimo (n° 3375XY).\nMes ¤{References/Références}¤ client sont TGXMZ54.\nCordialement,</text>
+  </box>
+  <box top_left_x="1083" top_left_y="3060" bottom_right_x="1493" bottom_right_y="3291">
+  <type>Signature</type>
+  <text></text>
+  </box>
+</annotation>
