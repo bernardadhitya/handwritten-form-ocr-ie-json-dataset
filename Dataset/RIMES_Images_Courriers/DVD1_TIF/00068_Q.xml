@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2467" height="3501">00068_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Modification de contrat / Commande</scenario>
+  <writer>PONS Franck</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="165" top_left_y="360" bottom_right_x="723" bottom_right_y="502">
+       <type>Code d'envoi</type>
+       <text>OMBYAU</text>
+  </box>
+  <box top_left_x="396" top_left_y="524" bottom_right_x="1204" bottom_right_y="631">
+       <type>Nom</type>
+       <text>PONS</text>
+  </box>
+  <box top_left_x="1399" top_left_y="525" bottom_right_x="2172" bottom_right_y="629">
+       <type>Prénom</type>
+       <text>Franck</text>
+  </box>
+  <box top_left_x="478" top_left_y="627" bottom_right_x="2176" bottom_right_y="723">
+       <type>Adresse</type>
+       <text>3 rue du Vieux Moulin</text>
+  </box>
+  <box top_left_x="554" top_left_y="728" bottom_right_x="972" bottom_right_y="836">
+       <type>Code Postal</type>
+       <text>68750</text>
+  </box>
+  <box top_left_x="1094" top_left_y="723" bottom_right_x="2175" bottom_right_y="833">
+       <type>Ville</type>
+       <text>BERGHEIM</text>
+  </box>
+  <box top_left_x="362" top_left_y="842" bottom_right_x="1233" bottom_right_y="990">
+       <type>Téléphone</type>
+       <text>0375018070</text>
+  </box>
+  <box top_left_x="500" top_left_y="1112" bottom_right_x="2176" bottom_right_y="1228">
+       <type>Catégorie Scénario</type>
+       <text>Modification de Contrat / Commande</text>
+  </box>
+  <box top_left_x="282" top_left_y="1223" bottom_right_x="2175" bottom_right_y="1406">
+       <type>Objet Scénario</type>
+       <text>Commande d'actions boursières pour un montant de\n1500 euros</text>
+  </box>
+  <box top_left_x="274" top_left_y="1403" bottom_right_x="2174" bottom_right_y="1592">
+       <type>Complément Scénario</type>
+       <text>\n</text>
+  </box>
+  <box top_left_x="897" top_left_y="1612" bottom_right_x="1533" bottom_right_y="1763">
+       <type>Référence client</type>
+       <text>PKMAZ37</text>
+  </box>
+  <box top_left_x="573" top_left_y="1762" bottom_right_x="2177" bottom_right_y="1859">
+       <type>Interlocuteur</type>
+       <text>Banque Société Géniale</text>
+  </box>
+  <box top_left_x="483" top_left_y="1853" bottom_right_x="2175" bottom_right_y="1960">
+       <type>Adresse Interlocuteur</type>
+       <text>102 av Jean Jaures</text>
+  </box>
+  <box top_left_x="561" top_left_y="1953" bottom_right_x="989" bottom_right_y="2072">
+       <type>Code Postal Interlocuteur</type>
+       <text>51100</text>
+  </box>
+  <box top_left_x="1123" top_left_y="1954" bottom_right_x="2175" bottom_right_y="2055">
+       <type>Ville Interlocuteur</type>
+       <text>REIMS</text>
+  </box>
+  <box top_left_x="1040" top_left_y="2293" bottom_right_x="1254" bottom_right_y="2405">
+       <type>Temps passé</type>
+       <text>15</text>
+  </box>
+  <box top_left_x="886" top_left_y="2227" bottom_right_x="937" bottom_right_y="2283">
+       <type>Stylo bille</type>
+       <text></text>
+  </box>
+  <box top_left_x="1060" top_left_y="2227" bottom_right_x="1109" bottom_right_y="2280">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1249" top_left_y="2230" bottom_right_x="1353" bottom_right_y="2289">
+       <type>Stylo feutre</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="284" top_left_y="2702" bottom_right_x="331" bottom_right_y="2762">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1579" top_left_y="2654" bottom_right_x="2179" bottom_right_y="2766">
+       <type>Date d'envoi postal</type>
+       <text>18/07/06</text>
+  </box>
+  <box top_left_x="287" top_left_y="2797" bottom_right_x="326" bottom_right_y="2847">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="286" top_left_y="2891" bottom_right_x="333" bottom_right_y="2941">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1721" top_left_y="2828" bottom_right_x="2171" bottom_right_y="2945">
+       <type>Date d'envoi par fax</type>
+       <text>18/07/06</text>
+  </box>
+  <box top_left_x="286" top_left_y="2987" bottom_right_x="363" bottom_right_y="3038">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1577" top_left_y="2948" bottom_right_x="2173" bottom_right_y="3051">
+       <type>Date d'envoi par courriel</type>
+       <text>18/07/06</text>
+  </box>
+  <box top_left_x="1718" top_left_y="3146" bottom_right_x="1984" bottom_right_y="3241">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="533" top_left_y="3176" bottom_right_x="610" bottom_right_y="3237">
+       <type>Format PNG</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="764" top_left_y="3174" bottom_right_x="815" bottom_right_y="3225">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="944" top_left_y="3174" bottom_right_x="994" bottom_right_y="3225">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1056" top_left_y="3047" bottom_right_x="2175" bottom_right_y="3148">
+       <type>Marque et modèle scanner</type>
+       <text>HP ScanJet 5550 C</text>
+  </box>
+</annotation>
