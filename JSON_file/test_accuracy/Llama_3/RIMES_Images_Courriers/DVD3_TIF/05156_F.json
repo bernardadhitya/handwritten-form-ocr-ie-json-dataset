@@ -1,0 +1,4 @@
+{
+    "error": "No JSON detected",
+    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nTélécopie Télécopie: 04.41.31.23.33 A: AsseiC De:PiwT EliSQ Date:1o.04.04 Objet:Donneas Pesannelle Pages: 2 Réponse Confidentiel Pour avis Commentaires Urgent: Non\n\nThis text is a sample email message. Here is the structured JSON output:\n\n```\n{\n  \"tel\": \"04.41.31.23.33\",\n  \"a\": \"AsseiC\",\n  \"d\": \"PiwT\",\n  \"e\": \"EliSQ\",\n  \"date\": \"10.04.04\",\n  \"objet\": \"Donneas Pesannelle\",\n"
+}

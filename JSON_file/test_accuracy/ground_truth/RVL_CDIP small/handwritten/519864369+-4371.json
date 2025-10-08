@@ -1,0 +1,94 @@
+{
+    "accountInformationManagement": "TO6FUS132P1",
+    "date": "07/31/96",
+    "time": "08:50",
+    "prodCamlib": "PROD CAMLIB",
+    "reportTitle": "PARTNERS SOM INQUIRY BY PERIOD",
+    "nextFn": "Next FN",
+    "parent": {
+        "id": "777360",
+        "name": "ALBERTSON'S INC.",
+        "location": "BOISE, ID"
+    },
+    "shipPoint": {
+        "id": "584470",
+        "name": "ALBERTSONS DIST.CE",
+        "location": "TOLLESON, AZ"
+    },
+    "somPeriod": {
+        "start": "01/01/96",
+        "end": "06/30/96"
+    },
+    "partnersPlan": "PARTNERS PLAN A",
+    "baseShares": {
+        "rjrtSom": "36.3-36.5",
+        "rjrtFpsom": "19.7",
+        "rjrtSavSoc": "72.8"
+    },
+    "companies": [
+        {
+            "name": "R.J.REYNOLDS",
+            "fullPrice": 166581,
+            "somToDate": 19.2,
+            "savings": 139974,
+            "socToDate": 72.7,
+            "companyToDate": 306555,
+            "companySom": 35.3
+        },
+        {
+            "name": "PHILIP MORRIS",
+            "fullPrice": 379618,
+            "somToDate": 43.7,
+            "savings": 802,
+            "socToDate": 0.4,
+            "companyToDate": 380420,
+            "companySom": 43.8
+        },
+        {
+            "name": "B.A.T.",
+            "fullPrice": 83852,
+            "somToDate": 9.6,
+            "savings": 51663,
+            "socToDate": 26.8,
+            "companyToDate": 135515,
+            "companySom": 15.6
+        },
+        {
+            "name": "LORILLARD",
+            "fullPrice": 39307,
+            "somToDate": 4.5,
+            "savings": 39307,
+            "socToDate": 4.5
+        },
+        {
+            "name": "LIGGETT & MYER",
+            "fullPrice": 5007,
+            "somToDate": 0.5,
+            "savings": 5007,
+            "socToDate": 0.5
+        },
+        {
+            "name": "OTHER MISC MAN"
+        }
+    ],
+    "totals": {
+        "fullPrice": 674365,
+        "somToDate": 77.7,
+        "savings": 192439,
+        "socToDate": 22.2,
+        "companyToDate": 866804
+    },
+    "misc": {
+        "mthHelp": "QUIT RETRN Dwnld Prnt Brd",
+        "pAcc": "P Acc",
+        "nAcc": "N Acc",
+        "date": "Date",
+        "pMth": "P Mth",
+        "nMth": "N Mth",
+        "main": "MAIN",
+        "prompt": "Press Enter to Display Month Totals",
+        "startMonth": "01 96 MMYY)",
+        "unknown1": 51986,
+        "unknown2": 4369
+    }
+}

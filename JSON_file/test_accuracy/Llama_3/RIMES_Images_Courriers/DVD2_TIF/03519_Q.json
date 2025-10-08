@@ -1,0 +1,37 @@
+{
+    "id": "RIATK",
+    "name": "LARROSS",
+    "identity": "fictive",
+    "address": {
+        "city": "Taw",
+        "postalCode": "otars"
+    },
+    "contribution": [
+        {
+            "type": "letter",
+            "cost": 6,
+            "method": "post"
+        },
+        {
+            "type": "fax",
+            "cost": 2,
+            "method": "post"
+        },
+        {
+            "type": "fax",
+            "cost": 1,
+            "method": "phone"
+        },
+        {
+            "type": "email",
+            "cost": 1,
+            "method": "email"
+        },
+        {
+            "type": "email",
+            "cost": 2,
+            "method": "email"
+        }
+    ],
+    "message": "J'espère que vous allez bien. Je vous remercie pour votre aide. Avec affection, Nenise"
+}

@@ -1,0 +1,4 @@
+{
+    "error": "No JSON detected",
+    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nEpsitech AEP TELECOPIE 14 rue des Fréres Lumiere 69680Chassieu-France Téléphone 334 78 90 65 87 Télécopie33 478401584 Date: 3/01106 Objet:\nResifiahion d'assurance auto De:\nAl'attention de:\nHarielle BARDIN Société:\nSociété: MANIF Asjurances Télécopie:\n02 52 2413 35\n\nNote: The text is written in French.\n\nTranslated to English, the text is:\n\nEpsitech AEP TELECOPIE 14 rue des Fréres Lumiere 69680Chassieu-France Telephone 334 78 90 65 87 Fax 33 478401584 Date: 3/01/06 Object:\nRequest for insurance auto De:\nTo the attention of:\nHarielle BARDIN Company:\nCompany: MANIF Asjurances Telephone:\n02 52 2413 35\n\n## Step 1: Identify the structured information in the text\nThe structured information in the text includes:\n- Name"
+}

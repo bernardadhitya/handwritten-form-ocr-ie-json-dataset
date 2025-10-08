@@ -1,0 +1,56 @@
+{
+    "study": "WINSTON 85 - MARLBORO 85 PRODUCT ATTITUDE STUDY",
+    "use_this": "MRD71-0546",
+    "column": 23456,
+    "date": null,
+    "respondent_name": null,
+    "int_initials": null,
+    "telephone_number": 89101,
+    "introduction_and_eligibility": {
+        "introduction": "Hello, I'm calling for Lane Services, a marketing research company, and we're doing a survey on products used in the home.",
+        "question_1": "Have you, yourself, smoked any cigarettes in the past 7 days, or not?",
+        "continue": true,
+        "no": "ANOTHER PERSON AT HOME 18 OR OVER WHO SMOKES CIGARETTES AND REPEAT QUESTION 1a.",
+        "cigarettes_smoked": {
+            "less_than_1": "TERMINATE AND DO NOT COUNT TOWARD QUOTA",
+            "1-15": 1,
+            "16-25": 2,
+            "over_25": 3
+        }
+    },
+    "usual_brand": {
+        "question": "What is your usual brand of cigarette?",
+        "winston": 1,
+        "marlboro": 2,
+        "if_other_brands": "TERMINATE"
+    },
+    "size": {
+        "question": "Is that the regular king size, or the extra-long 100 millimeter size?",
+        "regular_king_size": {
+            "winston": "GO TO 2d",
+            "marlboro": "GO TO 2c"
+        },
+        "extra_long_size": "TERMINATE AND DO NOT COUNT TOWARD QUOTA"
+    },
+    "marlboro_type": {
+        "question": "Is that the regular Marlboro in the red package, Marlboro Menthol in the green package, or the new low tar Marlboro Lights that comes in a gold package?",
+        "regular_marlboro": "GO TO 2",
+        "marlboro_menthol": "TERMINATE AND DO NOT COUNT TOWARD QUOTA",
+        "marlboro_lights": null
+    },
+    "pack_type": {
+        "question": "Do you usually buy Winstons (Marlboros) in the soft paper pack or hard box pack?",
+        "soft_paper_pack": null,
+        "hard_box_pack": 2
+    },
+    "duration": {
+        "question": "About how long has Winston (Marlboro) been your usual brand of cigarette?",
+        "1-4_weeks": 1,
+        "1-6_months": 2,
+        "6-12_months": 3,
+        "1-2_years": 4,
+        "2-5_years": 5,
+        "over_5_years": 6
+    },
+    "if_usual_brand_is_marlboro": "GO TO YELLOW QUESTIONNAIRE"
+}

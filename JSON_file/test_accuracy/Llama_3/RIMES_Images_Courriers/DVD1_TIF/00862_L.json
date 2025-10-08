@@ -1,0 +1,4 @@
+{
+    "error": "No JSON detected",
+    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nH TA LLEC Pkrre 4 rue de 1'ecole 68 32O GRUsSENHE1N Tel : 03-S0-S3-20-24 r.cienF`TQBR G0F : AssED1C- Assurance Gmaqe 1 rue du Bon PaoFwr 6SOO1 LYoN adame,onoieur Je tenais par la prexnte a vous in/orm...\n0 Dano I'atente Je vous pre de croire,adame,Yonoieur, en meo senkments clinhngueo.\n0 LYON 9O1vr)tO 1'ecole 68 32O GRUsSENHE1N\n\nNote: The text is written in French and contains some intentional errors or typos.\n\n## Step 1: Identify the structured information in the text\nThe text contains the following structured information:\n- Name: H TA LLEC Pkrre\n- Address: 4 rue de 1'ecole 68 32O GRUsSENHE1N\n- Phone number: 03-S0-S3-20-24\n- Company: r.cienF`TQBR G0F\n- Company type: AssED1C- Assurance Gmaqe\n- Address of company: 1 rue du Bon PaoFwr 6SOO1 LYoN\n- City: LYON 9O1vr)tO 1'ecole 68 32O GRUs"
+}

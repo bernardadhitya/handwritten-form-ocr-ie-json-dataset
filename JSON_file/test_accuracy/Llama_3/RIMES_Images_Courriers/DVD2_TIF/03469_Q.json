@@ -1,0 +1,30 @@
+{
+    "code_envoi": "KALAZO",
+    "identite_fictive": {
+        "nom": "N.EV.E.U",
+        "prenom": "Adelie",
+        "adresse": "wue du Me s."
+    },
+    "code_postal": "L675r2o",
+    "ville": "Kulolshei",
+    "code_postal_2": "r6vie",
+    "type_de_stylo": "bille",
+    "temps_passe": "30 minutes",
+    "contribution": [
+        {
+            "cocher": "J'envoie mon courrier par voie postale à la date du 2.3.7.",
+            "montant": "+2€",
+            "description": "Page de garde de fax"
+        },
+        {
+            "cocher": "J'ai envoyé par courriel mon courrier numérisé",
+            "montant": "+1€",
+            "description": "Télécopié ma contribution"
+        },
+        {
+            "cocher": "J'ai envoyé par courriel mon courrier numérisé",
+            "montant": "+1€",
+            "description": "Marque et modéle du scanner"
+        }
+    ]
+}

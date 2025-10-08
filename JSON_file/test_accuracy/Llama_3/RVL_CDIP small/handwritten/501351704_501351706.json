@@ -1,0 +1,4 @@
+{
+    "error": "No JSON detected",
+    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n```json\n{\n  \"name\": \"John Doe\",\n  \"age\": 30,\n  \"address\": {\n    \"street\": \"123 Main St\",\n    \"city\": \"Anytown\",\n    \"state\": \"CA\",\n    \""
+}

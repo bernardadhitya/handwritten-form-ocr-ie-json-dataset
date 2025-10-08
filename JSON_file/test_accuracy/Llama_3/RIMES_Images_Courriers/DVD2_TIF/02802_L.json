@@ -1,0 +1,4 @@
+{
+    "error": "No JSON detected",
+    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nRue1 Nicle SePa FR TELEPHOViE 80O, Route des Haquisaxal 91,Place ds Bowg 06 6FO STHahn_dv Uar &9952 PLOUE2OCH Tel : 04.71.11.18.29 ReteRence client: AO#ND 9 St Hanh du Uar, Veudredi 9yeurier07 OBJET:...\nHme Nicoie Ruei 1, 80O, Route des Haquisaxal 91,Place ds Bowg 06 6FO STHahn_dv Uar &9952 PLOUE2OCH Tel : 04.71.11.18.29 ReteRence client: AO#ND 9 St Hanh du Uar, Veudredi 14yeurier07 OBJET:...\nHme Nicoie Ruei 1, 80O, Route des Haquisaxal 91,Place ds Bowg 06 6FO STHahn_dv Uar &9952 PLOUE2OCH Tel : 04.71.11.18.29 ReteRence client: AO#ND 9 St Hanh du Uar, Veudredi 14yeurier07 OBJET:...\n\n\n## Structured JSON Output\n```json\n[\n  {\n    \"reference\": \"AO#ND 9 St Hanh du Uar\",\n    \"date\": \"Veudredi 9yeurier07\",\n    \"object\": \"OBJET:...\",\n    \"address\": {\n"
+}

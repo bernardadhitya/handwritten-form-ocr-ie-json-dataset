@@ -1,0 +1,54 @@
+{
+    "design": {
+        "basie_design": {
+            "cells": {
+                "treated": {
+                    "cells": "some praceclares"
+                },
+                "untreated": {
+                    "cells": "some praceclares"
+                }
+            },
+            "growth": {
+                "medium": "some medium"
+            },
+            "selection": {
+                "method": "some method"
+            },
+            "replication": {
+                "number": 2,
+                "experiments": 18
+            },
+            "survival": {
+                "threshold": 200,
+                "percentage": 100
+            }
+        },
+        "standard_calculations": {
+            "mean": {
+                "method": "some method"
+            },
+            "standard_deviation": {
+                "method": "some method"
+            }
+        }
+    },
+    "results": {
+        "mutants": {
+            "per": {
+                "percentage": 40,
+                "mean": 1.0
+            },
+            "survivors": {
+                "percentage": 60,
+                "mean": 2.0
+            }
+        },
+        "dates": {
+            "per": {
+                "percentage": 16,
+                "mean": 1.0
+            }
+        }
+    }
+}

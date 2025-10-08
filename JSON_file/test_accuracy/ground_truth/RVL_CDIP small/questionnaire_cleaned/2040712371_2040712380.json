@@ -1,0 +1,72 @@
+{
+    "document_id": "1094",
+    "time": "0840AM",
+    "location": "HOTEL NIKKONF QAYS",
+    "subject": "TELEPHONE RESEARCH",
+    "page": "P.2",
+    "section": "Questionnaire",
+    "respondent": {
+        "name": "",
+        "address": "",
+        "city_state": "",
+        "zip_code": "",
+        "telephone_number": "",
+        "date": "",
+        "interviewers_signature": ""
+    },
+    "introduction": {
+        "greeting": "Hello, my name is",
+        "from": "",
+        "request": "May I please speak to NAME OF PERSON LISTED ABOVE"
+    },
+    "instructions": "THE REMAINDER OF THIS QUESTIONNAIRE IS TO BE ADMINISTERED ONLY TO THE PERSON WHOSE NAME IS LISTED ABOVE. IF NOT AVAILABLE, FIND OUT WHEN SHE WILL BE, AND CALL BACK AT THAT TIME.",
+    "availability": {
+        "not_available": "Not Available",
+        "call_back": "Call back",
+        "end": "END"
+    },
+    "survey": {
+        "introduction": "We're conducting an opinion survey today among adult women about various products used in the household and I'd like to ask you a few questions.",
+        "age_category": {
+            "question": "Into which of the following categories does your age fall?",
+            "categories": [
+                "18-21",
+                "21-24",
+                "25-29",
+                "45-54",
+                "65 or over",
+                "Refused"
+            ],
+            "termination": "THANK AND TERMINATE"
+        },
+        "questions": [
+            {
+                "question": "Do you smoke cigarettes?",
+                "answers": {
+                    "yes": "1",
+                    "no": "0"
+                },
+                "termination": "THANK AND TERMINATE"
+            },
+            {
+                "question": "Do you currently smoke filtered or non-filtered cigarettes?",
+                "answers": {
+                    "filtered": "1",
+                    "non_filtered": "0"
+                },
+                "termination": "THANK AND TERMINATE"
+            },
+            {
+                "question": "Is your regular brand of cigarettes non-menthol or menthol?",
+                "answers": {
+                    "non_menthol": "1",
+                    "menthol": "2"
+                }
+            }
+        ]
+    },
+    "contact": {
+        "telephone_number": "20407123",
+        "company": "MARKETING INFO SYS INTL."
+    }
+}

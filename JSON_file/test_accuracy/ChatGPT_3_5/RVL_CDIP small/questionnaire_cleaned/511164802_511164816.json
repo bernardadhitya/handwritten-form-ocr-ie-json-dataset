@@ -1,0 +1,58 @@
+{
+    "Name": "DARelL Adkins",
+    "Date": "2/9",
+    "Code": "S0",
+    "Age": 33,
+    "Weight": "LR0",
+    "Tasks": [
+        {
+            "Task": "Consent form"
+        },
+        {
+            "Task": "Breath CO level (upon arrival)",
+            "PPM": 10
+        },
+        {
+            "Task": "EEG cap hook-up"
+        },
+        {
+            "Task": "Insert catheter"
+        },
+        {
+            "Task": "Practice the task"
+        },
+        {
+            "Task": "Pre-smoking task",
+            "Breath CO Level": "PPM",
+            "Blood sample (-5 min Pre-smoking)": "%COHb Level"
+        },
+        {
+            "Task": "Smoke Cigarette utilizing QSDS Machine",
+            "Breath CO Level": "PPM",
+            "Blood sample (1 min. Post-smoking)": "%COHb Level"
+        },
+        {
+            "Task": "First Post-smoking task",
+            "Breath CO Level": "PPM",
+            "Blood sample (8 min. Post-smoking)": "%COHb Level"
+        },
+        {
+            "Task": "Second Post-smoking task",
+            "Breath CO Level": "PPM",
+            "Blood sample (15 min. Post-smoking)": "%COHb Level"
+        },
+        {
+            "Task": "Third Post-smoking task",
+            "Breath CO Level": "PPM",
+            "Blood sample (22 min. Post-smoking)": "%COHb Level"
+        },
+        {
+            "Task": "Fourth Post-smoking task",
+            "Breath CO Level": "PPM",
+            "Blood sample (29 min. Post-smoking)": "%COHb Level"
+        },
+        {
+            "Task": "Fifth Post-smoking task"
+        }
+    ]
+}

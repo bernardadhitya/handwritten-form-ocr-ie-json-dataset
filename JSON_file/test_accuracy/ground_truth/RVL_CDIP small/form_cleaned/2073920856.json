@@ -1,0 +1,60 @@
+{
+    "company": "Philip Morris International",
+    "request": {
+        "type": "Property Disposal/Transfer Request",
+        "requested_by": "Fabriquos do Tabac Reunies",
+        "location": "Neuchatel, Switzerland",
+        "date": "May 1995",
+        "number": "AOOOOLT"
+    },
+    "disposal": {
+        "value": "CHF 16,459,448",
+        "selling_price": "CHF 18,459,445",
+        "original_cost": "CHF 16,459,448",
+        "depreciation": "CHF 0",
+        "loss": "CHF 0",
+        "items": [
+            {
+                "description": "Equipment",
+                "value": "CHF 409,063",
+                "selling_price": "CHF 409,063"
+            },
+            {
+                "description": "Primary - Cut fiser",
+                "value": "CHF 10,621,206",
+                "selling_price": "CHF 10,621,206"
+            },
+            {
+                "description": "Plant services",
+                "value": "CHF 1,593,668",
+                "selling_price": "CHF 1,593,668"
+            },
+            {
+                "description": "Others - Land improv. - Garage",
+                "value": "CHF 185,978",
+                "selling_price": "CHF 185,978"
+            },
+            {
+                "description": "Others - West ramp Secondary",
+                "value": "CHF 902,240",
+                "selling_price": "CHF 902,240"
+            },
+            {
+                "description": "Others - Leasehold improv",
+                "value": "CHF 389,582",
+                "selling_price": "CHF 389,582"
+            }
+        ],
+        "total_local_currency": "CHF 20,224,580",
+        "total_usd": "USD 17,897,850"
+    },
+    "reason_for_disposal_transfer": "All equipment except MANG Pa Meridkeand stem export packing line to be scrapped.",
+    "approval": {
+        "philip_morris_companies_inc": "Approved",
+        "regional_approval": "Approved",
+        "internal_approval": "Approved"
+    },
+    "contact": {
+        "phone": "2073920856"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "Customer": {
+        "Name": "James Kapp",
+        "Address": {
+            "Street": "Candlestick Pk",
+            "City": "Winslon Salem",
+            "State": "NC",
+            "Zip": "27102"
+        }
+    },
+    "Company": {
+        "Name": "R. J. Reynolds Tobacco Company",
+        "Department": "Consumer Relations"
+    },
+    "Survey": {
+        "Date": "5-95",
+        "Managers": [
+            {
+                "Name": "Taxk Gul",
+                "Title": "Consumer Satisfaction Research Manager"
+            },
+            {
+                "Name": "Mark Conrad",
+                "Title": "Consumer Satisfaction Research Manager"
+            }
+        ]
+    }
+}

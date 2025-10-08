@@ -1,0 +1,4 @@
+{
+    "error": "No JSON detected",
+    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nThis certificate is valued at 259 DORAL Pack Seals and can be used only for DORAL.\nROSE MARIE MATTSON | THIS ORIGINAL CERTIFICATE CAN'BE USED ONLY ONCE No cori a Wo pail eat wl be tres for orsre fe ores gee ZLLTS. (Translation: No copy or reproduction of this certificate will be tolerated for any other purpose.)\nThis certificate is valued at 259 DORAL Pack Seals and can be used only for DORAL.\nROSE MARIE MATTSON | THIS ORIGINAL CERTIFICATE CAN'BE USED ONLY ONCE No cori a Wo pail eat wl be tres for orsre fe ores gee ZLLTS. (Translation: No copy or reproduction of this certificate will be tolerated for any other purpose.)\n\nHere is the structured JSON output:\n\n```json\n{\n  \"certificate\": {\n    \"value\": 259,\n   "
+}

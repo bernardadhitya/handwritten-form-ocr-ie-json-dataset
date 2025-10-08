@@ -1,0 +1,55 @@
+{
+    "date": "October 9, 1989",
+    "recipient": {
+        "name": "Dr. James Ivett",
+        "department": "Genetic Toxicology",
+        "organization": "Hazleton Laboratories America",
+        "address": {
+            "street": "5516 Nicholson Lane",
+            "suite": "Suite 400",
+            "city": "Kensington",
+            "state": "MD",
+            "zip": "20895"
+        }
+    },
+    "greeting": "Dear Jim:",
+    "body": {
+        "introduction": "Please find enclosed the following samples to be tested in our SCE program:",
+        "samples": [
+            {
+                "name": "SC-IC-7",
+                "totalWTPMmg": 136.8
+            },
+            {
+                "name": "SC-IC-8",
+                "totalWTPMmg": 143.9
+            },
+            {
+                "name": "SC-IC-9",
+                "totalWTPMmg": 147.0
+            },
+            {
+                "name": "SC-IC-10",
+                "totalWTPMmg": 168.4
+            },
+            {
+                "name": "SC-IC-11",
+                "totalWTPMmg": 171.1
+            }
+        ],
+        "contact": "If you have any questions concerning these samples, please contact me at your convenience.",
+        "request": "Again, I would appreciate a copy of the draft reports on this series of samples as you complete them."
+    },
+    "closing": "Sincerely,",
+    "sender": {
+        "name": "Johnnie R. Hayes Ph.D.",
+        "title": "Master Toxicologist"
+    },
+    "initials": "JRH:orm",
+    "cc": "R.L. Suber",
+    "enclosures": [
+        "51494",
+        "IVETT2.doC",
+        "2652"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "Sender": {
+        "Name": "Societe Generale",
+        "Address": "Tour Societe Generale, 92972 Paris La Defense Cedex, France",
+        "Type": "Societe Anonyme",
+        "Capital": "528,749,122.50 EUR",
+        "Registration": "RCS Paris B 552 120 222"
+    },
+    "Contact": {
+        "Fax": "SG",
+        "Attention": "A F attention",
+        "Tel": "01.60.76.63.33",
+        "From": "staphanie Zadet",
+        "Tel2": "03.80.74.85.9",
+        "Phone number to call in case of page missing": "Tel",
+        "Acknowledgement request": {
+            "Fax": "non",
+            "Tel": "no",
+            "courrier": "yes"
+        }
+    },
+    "Document": {
+        "Type": "Confidential document",
+        "Confirmation follows": "yes",
+        "Subject": "Demande d'accuse de reception"
+    }
+}

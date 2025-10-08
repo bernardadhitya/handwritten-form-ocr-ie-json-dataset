@@ -1,0 +1,4 @@
+{
+    "error": "No JSON detected",
+    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nTélécopie Valérie ROTA A:\nNAIF ASSURANCES De:\nDate : 4 décembre 2006 Télécopie :\nPages : 2 Téléphone : 03.91.64.93.53 Objet :\nDemande de rendez-vous Réponse Confidentiel Commentaires X Urgent Pour avis -Notes:\nYV & pSuF m9n Cow`er demad d ud a.\nAelephonie : 03.91.64.93.53\nEmail : rota.valerie@naif.fr\nFax : 03.91.64.93.53\nContact : Valérie ROTA\nDate : 4 décembre 2006\n\nNote: The text is in French, and the formatting is not ideal for machine readability. I'll do my best to extract the structured information.\n\nHere is the extracted structured JSON output:\n```\n{\n  \"date\": \"4 décembre 2006\",\n  \"sender\": {\n    \"name\": \"Valérie ROTA\",\n    \"title\": \"A"
+}

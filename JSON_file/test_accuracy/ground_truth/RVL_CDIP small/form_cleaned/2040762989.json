@@ -1,0 +1,50 @@
+{
+    "outdoor_bulletin": {
+        "display_contract": {
+            "agency": {
+                "name": "Leo Burnett Company, Inc.",
+                "address": "Prudential Plaza, Chicago, Illinois 60601",
+                "phone": "312-565-5959"
+            },
+            "to": {
+                "date": "December 14, 1992",
+                "company": "Ackerley Communications",
+                "address": "3601 6th Ave, Seattle, WA 99734"
+            },
+            "contract_no": "WASEAT01-87",
+            "advertiser": {
+                "name": "Philip Morris, Inc.",
+                "product": "Tobacco",
+                "trading_area": "610"
+            },
+            "contract_details": {
+                "market": "Seattle, WA",
+                "location": "Elliott Ave and Galer NF",
+                "size": "14'x43'",
+                "illumination": "Yes",
+                "contract_period": "From date of completion approximately 1/1/83 through 12/31/83 with January 1 becoming the annual anniversary date",
+                "rate_information": {
+                    "gross_monthly_cost": 2938.2,
+                    "discount": 0.0,
+                    "discounted_monthly_cost": 2933.28
+                },
+                "cancellation_privileges": "On any January 1 anniversary date upon 60 days notice from agency without penalty",
+                "copy_changes": "If this bulletin is to be completely painted there will be 3 complete paintings, including the initial, annually, or if this bulletin is to be partially posted there will be 6 postings of posted portion and 3 paintings of painted portion, including the initial, annually, or if this bulletin is to be completely posted, there will be 6 postings, including the initial, annually.",
+                "extensions": {
+                    "above": 5,
+                    "each_side": 2,
+                    "below": 0
+                },
+                "special_instructions": "Plant will install holophane by 2/1/83. Also 5x17 extension."
+            },
+            "accepted": {
+                "agency": "Leo Burnett Company, Inc.",
+                "agency_id": 2040762989,
+                "company": "Same as above"
+            },
+            "billing_information": {
+                "send_invoices_to": "Accounting Dept. Sect. B"
+            }
+        }
+    }
+}

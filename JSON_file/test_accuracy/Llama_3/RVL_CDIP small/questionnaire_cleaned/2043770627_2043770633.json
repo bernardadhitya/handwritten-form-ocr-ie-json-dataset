@@ -1,0 +1,62 @@
+{
+    "Interviewer": "Kelto",
+    "InterviewerCompany": "Commercial Analysts Company",
+    "InterviewerPosition": "Commercial Analyst",
+    "InterviewerDate": "March 1978",
+    "Interviewee": {
+        "Name": "Wale",
+        "Sex": "Male",
+        "SmokesCigarettes": true
+    },
+    "Smoker1": {
+        "Name": "Fenies",
+        "Sex": "Female",
+        "SmokesCigarettes": true
+    },
+    "Smoker2": {
+        "Name": "Sed",
+        "Sex": "Male",
+        "SmokesCigarettes": true
+    },
+    "Smoker3": {
+        "Name": "Jee",
+        "Sex": "Male",
+        "SmokesCigarettes": true
+    },
+    "Smoker4": {
+        "Name": "Me",
+        "Sex": "Male",
+        "SmokesCigarettes": true
+    },
+    "Instructions": {
+        "TerminateIfMeritSmoker": true,
+        "SelectFamilyMemberIfNoMeritSmoker": true,
+        "RecordMeritSmokerAvailability": true
+    },
+    "Callback": {
+        "Date": "3/6/a4"
+    },
+    "IntervieweeInformation": {
+        "FirstName": "Wale",
+        "LastName": "Sed",
+        "Sex": "Male",
+        "SmokesCigarettes": true
+    },
+    "SmokerInformation": {
+        "MeritCigarette1": {
+            "Name": "Fenies",
+            "Sex": "Female",
+            "SmokesCigarettes": true
+        },
+        "MeritCigarette2": {
+            "Name": "Jee",
+            "Sex": "Male",
+            "SmokesCigarettes": true
+        },
+        "MeritCigarette3": {
+            "Name": "Me",
+            "Sex": "Male",
+            "SmokesCigarettes": true
+        }
+    }
+}

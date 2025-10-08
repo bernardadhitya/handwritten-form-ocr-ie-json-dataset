@@ -1,0 +1,41 @@
+{
+    "form": "TESTING REQUEST FORM",
+    "part": "Part2",
+    "sampleDesign": "Sample Design",
+    "note": "A Complete Testing Request consists of Parts I (Test Request),2 (Sample Design) 3 (Sample Release),4(Protocols),and5 (Testing Status)",
+    "date": "9/26/96",
+    "requestCode": "AM",
+    "requestorContactName": "G.Patskan",
+    "phoneNumber": "5991",
+    "activityCode": "2A13",
+    "sampleInformation": {
+        "sampleCodes": {
+            "control": [
+                "96.KJ.128",
+                "129",
+                "130",
+                "131",
+                "132",
+                "133"
+            ],
+            "test": [
+                "96.KI.136",
+                "137",
+                "138",
+                "139",
+                "140",
+                "141"
+            ]
+        }
+    },
+    "manufacturingLocation": "Semiworks O/C",
+    "components": "BBOSL supplied by E.Patterson",
+    "constructionParameters": "See Semiworks Request 96-08376-83",
+    "approvalOfSampleDesign": {
+        "name": "G.Patskan",
+        "date": "OcK,Z./S96"
+    },
+    "gerrs": "Before this is run 1ets make sure euergfhiuy",
+    "sor": "RL-2230",
+    "number": "2076083379"
+}

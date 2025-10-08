@@ -1,0 +1,66 @@
+{
+    "details": {
+        "author": "Dc.Rawrence",
+        "report": "forthcoming",
+        "report_number": "P19/85",
+        "type": "CONDENSATE"
+    },
+    "stored": {
+        "type_total": "Concentrated",
+        "recovered": {
+            "t-30": 320.99,
+            "CuC1": "Contnii",
+            "volatiles": {
+                "pentane": {
+                    "volume": 52.0,
+                    "soluble_material": 5,
+                    "insoluble_material": 61.8
+                }
+            },
+            "aqueous_layer": {
+                "type_pentane": "INSOL PENTANG"
+            }
+        }
+    },
+    "extraction": {
+        "continuous": "ether",
+        "ether_extract": "exhausted",
+        "sol_ether": 15.05,
+        "concentrated_to": "dryness",
+        "washed_successively_with": {
+            "sol_water": 54.1,
+            "chemical_separation": {
+                "a-1": {
+                    "weak_bases": 0.581,
+                    "washed_successively_with": "HCl 5%"
+                },
+                "a-2": {
+                    "stronger_bases": 0.5405,
+                    "NaC": 321,
+                    "NOH": "b"
+                },
+                "strongly_acidic_constituents": 0.5025,
+                "moderately_acidic_constituents": 0.191,
+                "weakly_acidic_constituents": 0.156
+            }
+        }
+    },
+    "chromatography": {
+        "subfr": {
+            "e-1": {
+                "eluted_with": "hexane",
+                "value": 5.227
+            },
+            "e-2": {
+                "eluted_with": "CyC",
+                "value": 5.473
+            },
+            "50585": "subfr",
+            "pure_MeOH": 4941
+        }
+    },
+    "components": {
+        "bases": "acids",
+        "phenols": "neutral"
+    }
+}

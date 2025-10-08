@@ -1,0 +1,81 @@
+{
+    "issueDate": "11/17/92",
+    "producer": {
+        "name": "Johnson & Higgins",
+        "address": "125 Broad Street, New York, New York 10004"
+    },
+    "companiesAffordingCoverage": [
+        "Hartford Fire Ins. Co.",
+        "Hartford Accident & Indemnity",
+        "Twin City Fire Ins. Co.",
+        "Hartford Underwriters Ins. Co."
+    ],
+    "subsidiaries": [
+        "Kraft General Foods, Inc.",
+        "Oscar Mayer Foods Corp.",
+        "Miller Brewing Co.",
+        "Entenmann's, Inc."
+    ],
+    "coverages": [
+        {
+            "type": "General Liability",
+            "policyNumber": "10JSEC35120E",
+            "policyEffectiveDate": "5/1/92",
+            "policyExpirationDate": "5/1/93",
+            "limits": {
+                "generalAggregate": 100000,
+                "productsCompOpAgg": 1000000,
+                "personalAdvInjury": 1000000,
+                "eachOccurrence": 1000000,
+                "fireDamage": 1000000,
+                "medExpense": 10000
+            }
+        },
+        {
+            "type": "Automobile Liability",
+            "policyNumber": "10CSEC35119E",
+            "policyEffectiveDate": "5/1/92",
+            "policyExpirationDate": "5/1/93",
+            "limits": {
+                "combinedSingleLimit": 1000000
+            },
+            "coverage": [
+                "anyAuto",
+                "allOwnedAutos",
+                "scheduledAutos",
+                "hiredAutos"
+            ]
+        },
+        {
+            "type": "Worker's Compensation",
+            "policyNumber": "10WBRP28119E",
+            "policyEffectiveDate": "5/1/92",
+            "policyExpirationDate": "5/1/93",
+            "limits": {
+                "statutoryLimits": true,
+                "eachAccident": 500000,
+                "diseasePolicyLimit": 500000,
+                "diseaseEachEmployee": 500000
+            }
+        }
+    ],
+    "includesOperationsOf": "ANCOFCODS CORP.",
+    "accountNumber": "611090061",
+    "address": "5180 Northwest 12th Ave., Ft. Lauderdale, FL 33309",
+    "description": "Wood Business Products Inc. is added as general liability policy.",
+    "certificateHolder": {
+        "name": "Wood Business Products, Inc.",
+        "address": "4333 Edgewood Rd. NE, Cedar Rapids, IA 52499",
+        "attention": "Insurance Dept."
+    },
+    "cancellation": {
+        "noticePeriod": "30 days",
+        "obligation": "No obligation or liability upon the company, its agents or representatives."
+    },
+    "authorizedRepresentative": {
+        "name": "Roles A Kel.",
+        "contact": "2063196412"
+    },
+    "form": "ACORD25-S (7/90)",
+    "corporation": "ACORD CORPORATION 1990"
+}

@@ -1,0 +1,42 @@
+{
+    "Company": "Communicus",
+    "Date": "AprLL , 1978",
+    "Project": "Project LLD-6",
+    "Address": "34z",
+    "City": "Omaha",
+    "Telephone": "XMSUNICUS _",
+    "Interviewed By": "Bello",
+    "Validated By": "MLIDATED BY",
+    "Survey Questions": [
+        {
+            "Question": "Do you smoke filter, non-menthol cigarettes?",
+            "Options": [
+                "CONTINUE",
+                "TERMINATE"
+            ]
+        },
+        {
+            "Question": "How many cigarettes do you usually smoke per day? (DO NOT READ LIST-)",
+            "Options": [
+                "TERMINATE"
+            ]
+        },
+        {
+            "Question": "Which of the following statements apply to you?",
+            "Options": [
+                "I eat dinner at a restaurant at least once a month.",
+                "I read a daily newspaper.",
+                "I do most of the food shopping for myself and/or family.",
+                "I have taken an airline trip on a scheduled commercial airline in the past 12 months."
+            ]
+        },
+        {
+            "Question": "Into which of the following age groups do you fall? (READ LIST)",
+            "Options": [
+                "Under",
+                "CONTINUE",
+                "TERMINATE"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "B1cK",
+    "state": "CA",
+    "age": 8,
+    "code": "U-126",
+    "reference": "031486/1",
+    "gender": "FEMALE",
+    "role": "SCREENER",
+    "product": "Menthol Cigarettes",
+    "survey": {
+        "introduction": "Hello, I'm of We are conducting a brief survey on cigarettes and would like to include your opinions.",
+        "questions": [
+            {
+                "question": "Is there anyone living in your household who is employed in the sale, manufacture or distribution of tobacco products, or market research, or advertising?",
+                "answer": "No"
+            },
+            {
+                "question": "Is there a female living in your home between the ages of 18 and 34 who smokes at least 10 cigarettes per day?",
+                "answer": "Yes"
+            },
+            {
+                "question": "May I speak to that person?",
+                "note": "IF NOT AVAILABLE, MAKE APPOINTMENT TO CALL LATER. SAVE SCREENER. GET NAME AND TELEPHONE NUMBER."
+            },
+            {
+                "question": "Is your regular brand of cigarettes a filter or non-filter cigarette?",
+                "answer": "Filter"
+            },
+            {
+                "question": "Is your regular brand of cigarettes menthol or non-menthol?",
+                "answer": "Menthol"
+            }
+        ]
+    },
+    "code_number": "85369806"
+}

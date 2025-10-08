@@ -1,0 +1,51 @@
+{
+    "gender": "Male",
+    "age": 5,
+    "locations": [
+        "Milwaukee",
+        "Syracuse",
+        "Omaha"
+    ],
+    "company": "CUSINC.",
+    "project": "Project LLD-6",
+    "date": "April, 1978",
+    "group": "GROUP",
+    "survey": {
+        "introduction": "I'm from Communicus, a consumer opinion firm. We are conducting a survey and would like to include you.",
+        "questions": [
+            {
+                "question": "Do you smoke filter, non-menthol cigarettes?",
+                "options": [
+                    "CONTINUE",
+                    "TERMINATE"
+                ]
+            },
+            {
+                "question": "How many cigarettes do you usually smoke per day?",
+                "options": [
+                    "6-0 TERMINATE",
+                    "Between 10 and 15",
+                    "16 to 25",
+                    "More than 25"
+                ]
+            },
+            {
+                "question": "Which of the following statements apply to you?",
+                "options": [
+                    "I eat dinner in a restaurant at least once a month.",
+                    "I read a daily newspaper.",
+                    "I do most of the food shopping for myself and/or my family.",
+                    "I have taken an airline trip on a scheduled commercial airline in the past 12 months."
+                ]
+            },
+            {
+                "question": "Into which of the following age groups do you fall?",
+                "options": [
+                    "Under 21 TERMINATE",
+                    "21-34 CONTINUE",
+                    "TERMINATE"
+                ]
+            }
+        ]
+    }
+}

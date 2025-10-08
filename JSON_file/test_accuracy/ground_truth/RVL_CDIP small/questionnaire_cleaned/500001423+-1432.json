@@ -1,0 +1,53 @@
+{
+    "project": "NEBRASKA PROJECT",
+    "questionnaire": {
+        "title": "Srouer questionnaire",
+        "interviewer": "V.LANCE TARRANCE & ASSOCIATES",
+        "study_number": "STUDY#",
+        "confidentiality": "PERSONAL/CONFIDENTIAL",
+        "time_started": "TIME STARTED",
+        "time_ended": "TIME ENDED",
+        "finance": "FINANCE",
+        "introduction": "Hello, I'm of V.Lance Tarrance & Associates, a national public opinion research firm located in Houston. Today, we are talking to people in Nebraska about cigarette smoking and I would like to ask you some questions.",
+        "questions": [
+            {
+                "question": "Are you 18 years of age or older?",
+                "answers": {
+                    "yes": "CONTINUE",
+                    "no": "GO TO C."
+                }
+            },
+            {
+                "question": "Do you yourself usually smoke at least one cigarette a day?",
+                "answers": {
+                    "yes": "GO TO Q.1",
+                    "no": "GO TO C."
+                }
+            },
+            {
+                "question": "Is there anyone in your household who is 18 years or older who usually smokes at least one cigarette a day?",
+                "answers": {
+                    "yes": "ASK TO SPEAK TO THAT PERSON, REPEAT INTRO AND GO TO B.",
+                    "no": "THANK AND TERMINATE"
+                }
+            }
+        ],
+        "statements": [
+            {
+                "statement": "Fewer people seem to be smoking cigarettes nowadays?",
+                "responses": [
+                    "Agree/strongly",
+                    "Agree",
+                    "Undecided",
+                    "Disagree",
+                    "Disagree/strongly"
+                ],
+                "follow_up": "IF ANSWERED ASK: And do you feel strongly about that?"
+            }
+        ],
+        "codes": [
+            "50000",
+            "1423"
+        ]
+    }
+}

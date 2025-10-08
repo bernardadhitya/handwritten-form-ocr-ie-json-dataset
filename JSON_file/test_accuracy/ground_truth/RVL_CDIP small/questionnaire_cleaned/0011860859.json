@@ -1,0 +1,68 @@
+{
+    "areaCodeAndPhoneNumber": "713481-185",
+    "company": "Kapuler Marketing Research",
+    "projectNumber": "88-2932",
+    "date": "March 21, 1988",
+    "interview": {
+        "name": null,
+        "results": "CA",
+        "state": "1234",
+        "duration": "0.21",
+        "wave": null,
+        "sex": "Male"
+    },
+    "brandsRated": [
+        {
+            "brand": "Virginie Slims",
+            "weeks": "5",
+            "rating": "-1"
+        },
+        {
+            "brand": "Penale",
+            "weeks": "6",
+            "rating": "1"
+        },
+        {
+            "brand": "More",
+            "weeks": "7",
+            "rating": "-3"
+        },
+        {
+            "brand": "Capri",
+            "weeks": "20",
+            "rating": "15"
+        },
+        {
+            "brand": "Salar",
+            "weeks": null,
+            "rating": null
+        },
+        {
+            "brand": "Benson and Hedges",
+            "weeks": null,
+            "rating": null
+        }
+    ],
+    "survey": {
+        "introduction": "Hello, I'm from Kapuler Marketing Research, a public opinion firm in Chicago. We are conducting a national study about consumers' opinions of some products you may use. Your phone number was selected at random from all telephone households in the area, and we would really appreciate your opinions for this study. I'd like to assure you that we are not selling any products, and your answers will be held in complete confidence.",
+        "questions": [
+            {
+                "question": "May I please speak to someone 21 years of age or older?",
+                "responses": {
+                    "noOne21OrOlder": "TERMINATE",
+                    "calledToPhone": "GO TO Q.B",
+                    "unavailable": "SET UP CALLBACK"
+                }
+            },
+            {
+                "question": "How many people, 21 years of age or older, in your household... Drink diet beverages? Smoke cigarettes? Eat Mexican food",
+                "note": "IF NONE TO SMOKE CIGARETTES TERMINATE. IF ONE ASK FOR THAT PERSON THEN AND Q.D"
+            },
+            {
+                "question": "Do you or does anyone in your immediate family work for...",
+                "note": "IF YES TO ANY, TERMINATE Q.C."
+            }
+        ]
+    },
+    "companyCode": "466108074"
+}

@@ -1,0 +1,43 @@
+{
+    "lockout_no": "LOCKOUT.134",
+    "company": "PHILIP MORRIS U.S.A.",
+    "page": "PAGE",
+    "issue_date": "08/31/90",
+    "supersedes": "02/01/90",
+    "applicable_to": "LOCKOUT PROCEDURE",
+    "update_responsibility": "Area Supervisor",
+    "subject": "Lockout/Tagout Procedure for Water Heater - Water Plant",
+    "approval": {
+        "approver": "P.w.wsin",
+        "loss_prevention_approval": "LOSSPREVENTIONAPPROVAL"
+    },
+    "basic_job_procedure": {
+        "key_points": [
+            {
+                "step": 1,
+                "description": "Notify all affected employees that the lockout tagout will be performed."
+            },
+            {
+                "step": 2,
+                "description": "Shut down equipment by normal stopping procedure and ensure equipment has come to a complete stop."
+            },
+            {
+                "step": 3,
+                "description": "Lock out/tag out the following potentially hazardous energy sources per Park 500 Lockout Policy. See attachment for energy isolation locations.",
+                "details": [
+                    {
+                        "type": "Electrical",
+                        "procedure": "Disconnects shall be in the 'OFF' position, locked and tagged with a Philip Morris-supplied locking device.",
+                        "warning": "Death or serious injury could result from disconnect arcing or exploding while equipment is under load/running."
+                    },
+                    {
+                        "type": "Electrical",
+                        "procedure": "Always stand to the side and look away from a disconnect box when activating on/off switch. This will minimize potential exposure should an electrical arc occur.",
+                        "warning": "Electrical shock or death could result from frayed, exposed or improperly grounded wiring or unauthorized tampering with energized electrical circuits."
+                    }
+                ]
+            }
+        ]
+    },
+    "document_id": "2030120273"
+}

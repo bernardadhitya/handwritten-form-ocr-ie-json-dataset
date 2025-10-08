@@ -1,0 +1,81 @@
+{
+    "conference_center": "NEW YORK CONFERENCE CENTER",
+    "group": "GROUP",
+    "datetime": "DATETIME",
+    "address": "240 MADISON AVENUE",
+    "survey": {
+        "title": "Social Networks Screener",
+        "job_number": "JOB04/359",
+        "location": {
+            "city": "NEW YORK",
+            "state": "NY",
+            "zip": "10016"
+        },
+        "respondent": {
+            "name": "AOBARD",
+            "phone": "2/8 373-8638",
+            "city": "BROOKLYN",
+            "zip": "223"
+        },
+        "questions": [
+            {
+                "question": "Does anyone living in your household fit that description?",
+                "options": [
+                    "No",
+                    "Yes-May I speak to him?",
+                    "Not at home (ARRANGE TO CALL BACK LATER.)",
+                    "No, refused (THANK AND TERMINATE)"
+                ]
+            },
+            {
+                "question": "First how old are you?",
+                "response": "30 years",
+                "note": "if fewer than 18 or greater than 24, terminate"
+            },
+            {
+                "question": "I'm going to read a list of different types of products. For each product I mention please tell me whether you, yourself, use that type of product.",
+                "products": [
+                    {
+                        "name": "Packaged cookies",
+                        "response": "Yes"
+                    },
+                    {
+                        "name": "Diet or low-calorie soft drinks",
+                        "response": "Yes"
+                    },
+                    {
+                        "name": "Regular soft drinks",
+                        "response": "Yes"
+                    },
+                    {
+                        "name": "Decaffeinated coffee",
+                        "response": "Yes"
+                    },
+                    {
+                        "name": "Regular coffee",
+                        "response": "No"
+                    },
+                    {
+                        "name": "Cigarettes",
+                        "response": "No",
+                        "note": "If answered 'no' to cigarettes, THANK AND TERMINATE."
+                    },
+                    {
+                        "name": "Paper towels",
+                        "response": "Yes"
+                    },
+                    {
+                        "name": "Frozen vegetables",
+                        "response": "No"
+                    },
+                    {
+                        "name": "Canned vegetables",
+                        "response": "No"
+                    }
+                ]
+            }
+        ]
+    },
+    "code": "9ewvP zE",
+    "id": "2049165342"
+}

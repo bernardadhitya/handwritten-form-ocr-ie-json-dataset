@@ -1,0 +1,89 @@
+{
+    "title": "NATICNAE CONSENSUS SURVEYS",
+    "id": "#42318W",
+    "address": {
+        "street": "801 Second Avenue",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10017",
+        "additional_code": "26855"
+    },
+    "instructions": "Please take a few minutes to go through the advertisements in this book. Please take as much time with each ad as you care to. If you ordinarily wear reading glasses you'll need them. Now I'd like to ask you a few questions about the ads in the book.",
+    "questions": [
+        {
+            "question": "What brands or products do you remember seeing ads for in the book?",
+            "prompt": "Prosg",
+            "additional_prompt": "Any other brands",
+            "note": "DO NOT READ EITHER BRAND NAMES OR PRODUCT CATEGORIES."
+        }
+    ],
+    "categories": {
+        "general_ads": [
+            "Anana Ranga",
+            "Dols Pineapple",
+            "General Electric Washer",
+            "Coldas Light",
+            "Duke",
+            "BankAmericard/VISA",
+            "Bolens Lawn Mower",
+            "Bayer Aspirin",
+            "Hilton Hotels",
+            "Cold medicine",
+            "Kawasaki",
+            "Kent",
+            "Colda",
+            "Budweiser",
+            "Old Spice Pocket Cologne",
+            "Canadian Club",
+            "Polaroid Camera",
+            "Coca Cola",
+            "Singer Sewing Machines",
+            "Concord Watches",
+            "Taster's Choice",
+            "toothpaste",
+            "Weight Watchers",
+            "Crest"
+        ],
+        "cigarette_ads": [
+            "Golden Light",
+            "Golcer",
+            "Kant Golden",
+            "Kent Golden Light",
+            "Kent Light"
+        ]
+    },
+    "cigarette_questions": [
+        {
+            "question": "Do you remember any ads for cigarettes?",
+            "brands": [
+                "Golden Light",
+                "Golcer",
+                "Kant Golden",
+                "Kent Golden Light",
+                "Kent Light"
+            ],
+            "additional_prompt": "Any others",
+            "note": "SPECIFY"
+        },
+        {
+            "question": "Do you remember any ads for any other brands of cigarettes?",
+            "additional_prompt": "Any others",
+            "brands": [
+                "Golden Lights",
+                "Golden (Unspecified)",
+                "Kent Golden",
+                "Kent Light"
+            ],
+            "note": "SPECIFY"
+        }
+    ],
+    "skip_instructions": [
+        "IF NO CIGARETTE BRANDS MENTIONED ABOVE ASK Q.3.",
+        "IF ONLY ONE OR TWO CIGARETTE BRANDS MENTIONED SKIP TO Q.3b.",
+        "IF ALL THREE CIGARETTE BRANDS MENTIONED SKIP TO Q.4.",
+        "IF NO CIGARETTE BRANDS MENTIONED ABOVE ASK",
+        "IF ONE OR TWO CIGARETTE BRANDS MENTIONED ASK",
+        "IF TRUE MENTIONED IN Q.23a CONTINUE",
+        "IF TRUE NOT MENTIONED IN Q.2.3 OR 3b SKIP TO Q.10."
+    ]
+}

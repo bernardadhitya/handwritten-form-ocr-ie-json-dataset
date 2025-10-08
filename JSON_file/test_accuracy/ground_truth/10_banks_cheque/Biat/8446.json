@@ -1,0 +1,28 @@
+{
+    "transaction": {
+        "type": "VERSEMENTESPECES",
+        "bank": "BIAT",
+        "account_number": "907043",
+        "transaction_id": "Ntrucht",
+        "recipient": {
+            "name": "Renata Lukic",
+            "additional_info": "Net t rew lar Cwar"
+        },
+        "issuer": {
+            "name": "Ethel M. Bryson",
+            "code": "R.1.B."
+        },
+        "amount": {
+            "written": "CeuenThousand.SxHunared and SeventuShree",
+            "numeric": 7673
+        },
+        "note": "Nate deloptrotion",
+        "client_signature": "Signature du clicnt",
+        "cashier": {
+            "name": "Caisse",
+            "approval": "Cocher ct visa de la AT"
+        },
+        "date": "06/05/22",
+        "reference": "rsesgpe"
+    }
+}

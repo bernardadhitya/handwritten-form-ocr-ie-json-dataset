@@ -1,0 +1,38 @@
+{
+    "city": "Reidsville",
+    "plan": "Chemical Management Plan",
+    "year": 1993,
+    "inventory": {
+        "chemicalUsageFactSheet": {
+            "processChemicalsUsedInExcessOf100PoundsPerDay": {
+                "categories": [
+                    "Water Treatment Chemicals",
+                    "Cleaning Compounds"
+                ],
+                "facility": {
+                    "name": "The American Tobacco Company",
+                    "permitNumber": "0001"
+                },
+                "chemicalDescription": {
+                    "productName": "FullerG2315 DC",
+                    "description": "Liquid Adhesive",
+                    "productClassification": "Inorganic",
+                    "chemicalFormula": "Vinyl Acetate",
+                    "casNumber": "108-05-4",
+                    "percentActives": "Non-water",
+                    "manufacturer": "H.B. Fuller Company",
+                    "msdsOnFile": "No"
+                },
+                "chemicalUsage": {
+                    "annualUsageLbs": 74880,
+                    "averageMonthlyUsageLbs": 6240,
+                    "application": {
+                        "type": "Production Process",
+                        "description": "label adhesive"
+                    }
+                },
+                "referenceNumber": "ATX02 0132045"
+            }
+        }
+    }
+}

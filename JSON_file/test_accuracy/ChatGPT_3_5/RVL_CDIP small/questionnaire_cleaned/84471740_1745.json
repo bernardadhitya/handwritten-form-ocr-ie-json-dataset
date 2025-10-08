@@ -1,0 +1,27 @@
+{
+    "Gender": "Male",
+    "Location": {
+        "City": "Chicago",
+        "State": "New York"
+    },
+    "Company": "OOHUNICUS INC.",
+    "Project": "Project LLD-San Francisco",
+    "Date": "April, 1970",
+    "Survey": {
+        "Question1": "Do you smoke filter non-menthol cigarettes?",
+        "Response1": "Yes",
+        "Question2": "How many cigarettes do you usually smoke per day?",
+        "Response2": "Between 10 and More than 25",
+        "Question3": "What is your regular brand of cigarettes?",
+        "Response3": "Refer to list of brands",
+        "Question4": "Which of the following statements apply to you?",
+        "Responses4": [
+            "Eat dinner at a restaurant at least once a week",
+            "Read daily newspaper",
+            "Do most of the food shopping for myself and/or my family",
+            "Have taken a scheduled commercial airline trip in the past 12 months"
+        ],
+        "Question5": "Into which of the following age groups do you fall?",
+        "Response5": "1-1 (D)"
+    }
+}

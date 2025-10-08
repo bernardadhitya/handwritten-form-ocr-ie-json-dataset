@@ -1,0 +1,4 @@
+{
+    "error": "No JSON detected",
+    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nDa hoy 27 5 Rue d ls 1plctto o6 62o CiPiERxS Tel : 04.92.29.52.82 Tiesoeue des Impot BOurg 29 63o s5Jcau du Dg Rep C&uk:5Z5GV13 Ohfet: Demonde dle Reme 9rauewe 1oF- voy.sdwi.O 5im.2 rwonmY epudant, me... (text truncated)\n\nNote: The text appears to be a phone number and address, but the rest of the text seems to be garbled and not readable.\n\nHere is the structured information:\n\n* Address: 27 5 Rue d'ls 1plctto o6 62o CiPiERxS\n* Phone Number: 04.92.29.52.82\n* City: BOurg\n* Country: France\n* Postal Code: 29 63o s5Jcau du Dg\n* Organization: Tiesoeue des Impot\n* Organization Type: BOurg ( likely a local government or administrative organization)\n* Representative: Demonde dle Reme\n* Representative Title: Ohfet\n* Representative Contact: 9ra"
+}

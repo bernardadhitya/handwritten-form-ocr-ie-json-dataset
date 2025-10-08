@@ -1,0 +1,123 @@
+{
+    "id": 4017,
+    "address": {
+        "street": "770 Lexington Ave.",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10021"
+    },
+    "company": "Contemporary Marketing Research",
+    "document": {
+        "type": "Commercial Test",
+        "section": "Screening Questionnaire",
+        "questions": [
+            {
+                "question": "Do you or does anyone in your family work for the following types of companies?",
+                "options": [
+                    "A Market Research firm",
+                    "An advertising agency",
+                    "A Manufacturer or distributor of cigarettes or tobacco products"
+                ],
+                "action": "Terminate if yes to any"
+            },
+            {
+                "question": "Which of the following groups includes your age?",
+                "options": [
+                    "Under 21",
+                    "21-29",
+                    "30-34",
+                    "35-39",
+                    "40-49",
+                    "50-59",
+                    "60-65",
+                    "Over 65",
+                    "Refused Age"
+                ],
+                "action": {
+                    "terminate": [
+                        "Under 21",
+                        "Over 65",
+                        "Refused Age"
+                    ],
+                    "continue": [
+                        "21-29",
+                        "30-34",
+                        "35-39",
+                        "40-49",
+                        "50-59",
+                        "60-65"
+                    ]
+                }
+            },
+            {
+                "question": "Do you smoke cigarettes?",
+                "options": [
+                    "Yes",
+                    "No"
+                ],
+                "action": "Terminate if No"
+            },
+            {
+                "question": "About how many cigarettes do you smoke?",
+                "options": [
+                    "Less than 10",
+                    "10-19",
+                    "20-29",
+                    "30-39",
+                    "40 or More"
+                ],
+                "action": {
+                    "terminate": [
+                        "Less than 10"
+                    ],
+                    "continue": [
+                        "10-19",
+                        "20-29",
+                        "30-39",
+                        "40 or More"
+                    ]
+                }
+            }
+        ],
+        "ads": [
+            {
+                "ad_letter": "y",
+                "questionnaire_color": "White",
+                "quota_groups": {
+                    "male": [
+                        1
+                    ],
+                    "female": [
+                        2
+                    ],
+                    "age_21_34": [
+                        1
+                    ],
+                    "age_35_plus": [
+                        2
+                    ]
+                }
+            },
+            {
+                "ad_letter": "2",
+                "questionnaire_color": "Blue",
+                "quota_groups": {
+                    "male": [
+                        3
+                    ],
+                    "female": [
+                        4
+                    ]
+                }
+            },
+            {
+                "ad_letter": "hi",
+                "questionnaire_color": "Pink"
+            },
+            {
+                "ad_letter": "g",
+                "questionnaire_color": "Yellow"
+            }
+        ]
+    }
+}

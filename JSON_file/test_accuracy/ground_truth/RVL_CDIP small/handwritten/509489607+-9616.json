@@ -1,0 +1,105 @@
+{
+    "Salen": {
+        "t.85": {
+            "BLEND_FORMULATION": {
+                "Seho": {
+                    "tL00": "JunKS",
+                    "TOTAL_%": 44,
+                    "GROUP_%": 4,
+                    "K19": {
+                        "TOTAL_%": 1.0,
+                        "GROUP_%": 15.0
+                    },
+                    "C30": {
+                        "TOTAL_%": 24.75,
+                        "GROUP_%": 25.5
+                    },
+                    "TR": {
+                        "TOTAL_%": 19.0,
+                        "GROUP_%": 15.59
+                    },
+                    "TB": {
+                        "TOTAL_%": 20.7,
+                        "GROUP_%": 15.38
+                    },
+                    "bbb1": {
+                        "TOTAL_%": 5,
+                        "GROUP_%": 25.7
+                    },
+                    "7A": {
+                        "TOTAL_%": 6.67,
+                        "GROUP_%": 24.75
+                    },
+                    "L": {
+                        "TOTAL_%": 13.18,
+                        "GROUP_%": 15.0
+                    },
+                    "3-23": {
+                        "TOTAL_%": 8,
+                        "GROUP_%": 15.0
+                    },
+                    "13-1": {
+                        "TOTAL_%": 15.0
+                    }
+                }
+            }
+        }
+    },
+    "Test_Parts_AZ": {
+        "Casing": {
+            "Case_For": [
+                "Materials",
+                "Cutting",
+                "Cut/Dry",
+                "Cutting",
+                "Cut/Dry",
+                "Cutting",
+                "CutyTC"
+            ],
+            "B4": {
+                "1": "I1"
+            },
+            "289": 208,
+            "35": 144,
+            "208": "B2",
+            "56": "Ha",
+            "18": 74,
+            "5": 14,
+            "CL": 3,
+            "54": 9,
+            "47": 47,
+            "60": 9,
+            "72": "by",
+            "0": 0,
+            "B3": 30,
+            "147": 169,
+            "15": 6,
+            "100": 105,
+            "34": 101,
+            "TOTAL": 701,
+            "671": "Casing For Cutting"
+        }
+    },
+    "Casing_For_Cutting": {
+        "Type": "App. Rate %",
+        "Aging_Hrs": "Strip",
+        "Cut_Filler": {
+            "Test_Parts_AZ": "T.D.For G13",
+            "Type": "N/A",
+            "Application_Rate_Lbs_1000": "Shorts(Y/N"
+        },
+        "Final_T.D.For_Casing_&_Cutting": {
+            "Type": "Application Rate(/1000)",
+            "-164": 4,
+            "m-133": "Target % Moisture:Cut Filler"
+        },
+        "Target_%_Moisture_Cut_Filler": "4.4/4",
+        "9.8.2": "Pack",
+        "2.75": "Target % Menthol:Cut Filler",
+        "Pack": 45,
+        "Steam_Flotation_Temp_F": 1500,
+        "15": 0,
+        "50948": 9607,
+        "RJRT_Form": "8647 6/84"
+    }
+}

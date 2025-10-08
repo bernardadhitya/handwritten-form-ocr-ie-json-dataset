@@ -1,0 +1,37 @@
+{
+    "title": "WISCONSIN MARKET MONITOR",
+    "date": "August, 1997",
+    "sections": [
+        {
+            "title": "UNAIDED BRAND AWARENESS",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "text": "WHEN YOU THINK OF CIGARETTES, WHAT BRANDS COME TO MIND? WHAT OTHERS CAN YOU THINK OF? (Ask until unproductive.)"
+                },
+                {
+                    "id": "Q2",
+                    "text": "WHICH CIGARETTE BRANDS HAVE YOU SEEN ADVERTISED DURING THE PAST FOUR WEEKS, EITHER IN A NEWSPAPER OR MAGAZINE, ON A BILLBOARD, OR ON A DISPLAY IN A STORE? WHAT OTHERS? (Ask until unproductive.)"
+                },
+                {
+                    "id": "Q3",
+                    "text": "BUY ONE, GET ONE FREE OFFERS. FREE SAMPLES, FREE MERCHANDISE, INSTANT REBATE STICKERS THAT YOU TEAR OFF PACKS OR CARTONS AT THE STORE, OR MONEY-OFF COUPONS IN MAGAZINES, NEWSPAPERS OR THE MAIL. IN THE PAST FOUR WEEKS, WHICH CIGARETTE BRANDS HAVE YOU SEEN PROMOTED? WHAT OTHERS? (Ask until unproductive.)"
+                },
+                {
+                    "id": "Q3C",
+                    "text": "DURING THE PAST FOUR WEEKS, HAVE YOU, OR ANYONE IN YOUR HOUSEHOLD, RECEIVED ANY ADVERTISING OR PROMOTIONAL MATERIALS FOR CIGARETTES THROUGH THE MAIL, OR NOT?"
+                },
+                {
+                    "id": "Q3D",
+                    "text": "WHAT BRANDS OF CIGARETTES WERE FEATURED IN THE MATERIALS THAT YOU RECEIVED IN THE MAIL? (Record on standard brands list. Accept multiple responses.)",
+                    "condition": "Ask Q3-D if Yes at Q3-C."
+                }
+            ],
+            "probes": "Probes for Q1, 2, & 3 (If Plain/Private on the package. If there is no name or DK, then ask, IS THAT A GPC PRODUCT OR A NON-GPC PRODUCT?)"
+        }
+    ],
+    "metadata": {
+        "code": "462124694",
+        "source": "PRODUCED FROM B&W WEB SITE"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "productOpinion": {
+        "company": "LA30RAT0RY",
+        "address": "P.O. Box 26563, Richmond, Virginia 23261",
+        "telephone": "(804) 271-5002"
+    },
+    "instructions": {
+        "label": "ON THIS LABEL SHOULD TAKE THE TEST ONLY THE PERSON WHOSE NAME APPEARS",
+        "returnBallotBy": "CODES",
+        "addressChange": {
+            "prompt": "Please print name/address corrections",
+            "applyTo": "Does the change apply to you or just to all family members on label?"
+        },
+        "addressChangeDetails": "If Address Changed: What is your (Please include area code.)"
+    },
+    "message": {
+        "greeting": "Dear Panelist",
+        "content": "With this ballot I am enclosing six packs of cigarettes coded as follows: -3 packs. Please read the directions for each part carefully and pay special attention when judging these cigarettes--we will be sending you a free carton of the test cigarette you choose in Part III.",
+        "closing": "Thank you very much--your cooperation in this test is most helpful.",
+        "signature": "Study Leader"
+    },
+    "testInstructions": {
+        "part": "PART",
+        "firstStep": "FIRST SMOKE ONE OR TWO PACKS OF THE CIGARETTES CODED",
+        "phrases": "Read the phrases at each end of each line of boxes. Which phrase do you think describes the cigarette coded",
+        "scale": {
+            "left": "the left side--the more you think the description is true the closer to the left side.",
+            "right": "If you think side--again the surer it is the closer to the right side."
+        }
+    },
+    "cigaretteEvaluation": {
+        "mildTaste": {
+            "negative": "Does not have a mild taste.",
+            "positive": "Has a mild taste"
+        },
+        "harshness": {
+            "negative": "Is not harsh",
+            "positive": "Is harsh"
+        },
+        "goodTaste": {
+            "negative": "Does not have a good taste",
+            "positive": "Has a good taste"
+        },
+        "satisfaction": {
+            "negative": "Is not satisfying",
+            "positive": "Is satisfying"
+        },
+        "coolSmoking": {
+            "negative": "Is not cool smoking",
+            "positive": "Is cool smoking"
+        },
+        "burnRate": "Burns too fast",
+        "draw": {
+            "negative": "Does not have an easy draw",
+            "positive": "Has an easy draw"
+        },
+        "dryTaste": {
+            "negative": "Does not have a dry taste in the mouth",
+            "positive": "Has a dry taste in the mouth"
+        },
+        "aftertaste": {
+            "negative": "Does not leave a good aftertaste in my mouth",
+            "positive": "Leaves a good aftertaste in my mouth"
+        },
+        "preference": {
+            "dislike": "I dislike extremely",
+            "like": "I like extremely"
+        }
+    },
+    "note": "CONTINUE ON REVERSE SIDE",
+    "code": "NV=10N"
+}

@@ -1,0 +1,44 @@
+{
+    "survey": {
+        "question": "Which of the following brands would you consider buying?",
+        "brands": [
+            "Marlboro",
+            "Salem",
+            "Basic",
+            "Malibu",
+            "Savannah",
+            "Benson",
+            "Hedges"
+        ]
+    },
+    "smoking_habits": {
+        "regular_brand": "Marlboro",
+        "brands_smoked": [
+            "Marlboro",
+            "Newport Strips"
+        ],
+        "packs_smoked": {
+            "Marlboro": "10 packs",
+            "Newport Strips": "0 packs"
+        },
+        "frequency": "Daily"
+    },
+    "demographics": {
+        "age": "30",
+        "gender": "Male",
+        "ethnicity": "African American"
+    },
+    "coupon_usage": {
+        "regular_brand": "Marlboro",
+        "coupon_usage_frequency": "Occasionally",
+        "coupon_type": "Cigarettes"
+    },
+    "contact_information": {
+        "name": "John Doe",
+        "address": "123 Main Street",
+        "city": "Anytown",
+        "state": "NY",
+        "zip": "12345",
+        "phone_number": "555-555-5555"
+    }
+}

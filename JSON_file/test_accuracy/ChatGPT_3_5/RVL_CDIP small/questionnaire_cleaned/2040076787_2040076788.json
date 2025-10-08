@@ -1,0 +1,34 @@
+{
+    "Interviewer": "Janel Hall of Home Testing Institute",
+    "Questions": [
+        {
+            "Question": "Did you receive the 10 packs of test cigarettes we mailed",
+            "Response": "Yes",
+            "Follow-up": "Did You smoke all 10 packs of cigarettes"
+        },
+        {
+            "Question": "Did You smoke all 10 packs of cigarettes",
+            "Response": "Yes",
+            "Follow-up": "How many packs of each did You smoke"
+        },
+        {
+            "Question": "Did You notice any difference in TASTE between the cigarettes called NI8 you tried first and the cigarettes called F85 You tried second?",
+            "Response": "Yes",
+            "Follow-up": [
+                {
+                    "Question": "Which cigarette has more Taste",
+                    "Response": "NI8 cigarettes have more Taste"
+                },
+                {
+                    "Question": "Which of the cigarettes's taste did you like better",
+                    "Response": "Prefer taste of N18 cigarettes"
+                },
+                {
+                    "Question": "Did you notice whether one cigarette was harsher on Your mouth or throat than the other",
+                    "Response": "Yes",
+                    "Follow-up": "Which cigarette was harsher"
+                }
+            ]
+        }
+    ]
+}

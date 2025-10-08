@@ -1,0 +1,114 @@
+{
+    "company": "Dr.Rudolf Sommer GmbH",
+    "address": {
+        "street": "Grunerstr.33",
+        "city": "40239 Dasseldorf"
+    },
+    "contact": {
+        "phone": "0211/908 92-0"
+    },
+    "project": {
+        "name": "YAS-Studie'94/Version A (NL/B/G)",
+        "project_nr": "7/",
+        "interviewer_nr": "8/",
+        "address_list_nr": "10-1NL",
+        "contact_interview": "10-2B",
+        "country_code": "10-3G"
+    },
+    "questions": [
+        {
+            "id": "11",
+            "question": "Do you smoke factory-made cigarettes at least occasionally?",
+            "answers": [
+                {
+                    "text": "Yes",
+                    "code": 1
+                },
+                {
+                    "text": "No",
+                    "code": 2
+                }
+            ]
+        },
+        {
+            "id": "12",
+            "question": "How many cigarettes a day do you smoke on average?",
+            "answers": [
+                {
+                    "text": "Less than 3 cigarettes a day",
+                    "code": 1
+                },
+                {
+                    "text": "3-9 cigarettes daily",
+                    "code": 2
+                },
+                {
+                    "text": "10-11 cigarettes daily",
+                    "code": 3
+                },
+                {
+                    "text": "12-16 cigarettes daily",
+                    "code": 4
+                },
+                {
+                    "text": "17-22 cigarettes daily",
+                    "code": 5
+                },
+                {
+                    "text": "approx. 1 packet, 23-27 cigarettes daily",
+                    "code": 6
+                },
+                {
+                    "text": "28-32 cigarettes daily, approx. 1 1/2 packets",
+                    "code": 7
+                },
+                {
+                    "text": "33-40 cigarettes daily, approx. 2 packets",
+                    "code": 8
+                },
+                {
+                    "text": "More than 40 cigarettes daily/more than 2 packets",
+                    "code": 9
+                },
+                {
+                    "text": "I don't know, but more than 3 cigarettes daily",
+                    "code": 0
+                }
+            ]
+        },
+        {
+            "id": "13",
+            "question": "Do you or someone from your family work...",
+            "answers": [
+                {
+                    "text": "in advertising",
+                    "code": 1
+                },
+                {
+                    "text": "in market research",
+                    "code": 2
+                },
+                {
+                    "text": "in the tobacco industry or in tobacco trading",
+                    "code": 3
+                },
+                {
+                    "text": "at the provincial or Federal Government",
+                    "code": 4
+                },
+                {
+                    "text": "in a refreshing drinks firm",
+                    "code": 5
+                },
+                {
+                    "text": "in an alcoholic drinks firm or brewery",
+                    "code": 6
+                },
+                {
+                    "text": "in none of these areas",
+                    "code": 7
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Study Number": "401 05",
+    "Location": {
+        "City": "New York",
+        "State": "New York"
+    },
+    "Date": "January 1974",
+    "Main Interview Questionnaire": {
+        "Question": "What do you believe is the main point of this test ad?",
+        "Manufacturer's main point": "What is the main point that the manufacturer is trying to communicate?"
+    },
+    "Overall Reaction": {
+        "Question": "I would like to get your overall reaction to this new cigarette",
+        "Options": [
+            "Very favorable",
+            "Somewhat favorable",
+            "Somewhat unfavorable",
+            "Unfavorable"
+        ]
+    },
+    "Reasons for Reaction": {
+        "Question": "Why do you feel that way?",
+        "Like": "What, if anything, do you specifically like about this new product?",
+        "Dislike": "And what, if anything, do you specifically dislike about this new product?"
+    }
+}

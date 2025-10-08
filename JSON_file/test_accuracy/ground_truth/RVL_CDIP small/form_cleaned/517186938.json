@@ -1,0 +1,54 @@
+{
+    "form": {
+        "title": "MASTER FORM",
+        "revision": "RJRTForm7137Rev.4/93",
+        "itemNumber": "71373",
+        "company": "R.J. REYNOLDS TOBACCO COMPANY",
+        "displayPlan": "DISPLAY PLAN FOR VENDING MACHINE OPERATORS",
+        "plan": "PLAN B-2",
+        "paymentScale": {
+            "accuracyPercentage": {
+                "90-100%": "100%",
+                "80-89%": "90%",
+                "70-79%": "80%",
+                "60-69%": "70%",
+                "50-59%": "60%",
+                "49 and Below": "Same as Accuracy Percentage"
+            }
+        },
+        "auditRequirement": "No payment can be made to Vendor without an acceptable audit. An audit is unacceptable if completed surveys/questionnaires returned account for less than 10% of Vendor's locations. In such instances, Vendor will have the option of requesting a re-audit of all locations at Vendor's expense.",
+        "terminationClause": "This display plan will remain in effect until terminated by notice by either party or until superseded by a new display contract. In the event of failure of performance by Vendor, no monies will be paid under this display plan.",
+        "acceptance": "R. J. Reynolds Tobacco Company and Vendor indicate their acceptance of the terms of this Agreement by their respective signatures herein below:",
+        "effectiveDate": "193",
+        "companySignature": {
+            "name": "Betty CARR",
+            "title": "By"
+        },
+        "vendorSignature": {
+            "name": "NDIN",
+            "title": "X"
+        },
+        "vendorDetails": {
+            "streetAddress": "3548mairs7.",
+            "division": "BLEERLO",
+            "divisionNumber": "1626",
+            "city": "SN",
+            "state": "y035",
+            "zip": "TRU/DVM No.: 045030",
+            "rjrSisNo": "068 29",
+            "rjrNameStamp": "51718",
+            "title": "D.T.Walsh",
+            "otherNumbers": [
+                "34465",
+                "6938"
+            ]
+        },
+        "additionalInfo": "Our Vending Plans are made available on proportionately equal terms to all competing Vendors. Contact your local Reynolds Sales Representative for information on these plans.",
+        "copies": [
+            "1 Division Office",
+            "2 Vendor Copy",
+            "3 Tru-Check Computer Systems, Inc."
+        ],
+        "truCheckAddress": "85 Executive Blvd. Elmsford, New York 10523"
+    }
+}

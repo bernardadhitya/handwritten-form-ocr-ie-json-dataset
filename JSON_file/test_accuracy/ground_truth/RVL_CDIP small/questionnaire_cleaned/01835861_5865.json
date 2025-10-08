@@ -1,0 +1,70 @@
+{
+    "title": "NATIONAL CONSENSUS SURVEYS",
+    "address": {
+        "street": "801- Second Avenue",
+        "suite": "42318w",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10017"
+    },
+    "instructions": [
+        "Please take a few minutes to go through the advertisements in this book.",
+        "HAND RESPONDENT PORTFOLIO AND TAKE IT BACK BEFORE CONTINUING.",
+        "Now, I'd like to ask you a few questions about the ads in the book."
+    ],
+    "questions": [
+        {
+            "question": "What brands or products do you remember seeing ads for in the book?",
+            "categories": [
+                "GENERAL ADS",
+                "CIGARETTE ADS"
+            ],
+            "brands": [
+                "Dole Pineapple",
+                "BankAmericard/VISA",
+                "Asana Range",
+                "General Electric Washer",
+                "Bayer Aspirin",
+                "Hilton Hotels",
+                "Golden Lights",
+                "Golden (Unsp.)",
+                "Bolans Lawn Mower",
+                "Kawasaki",
+                "Budweiser",
+                "Old Spice Pocket Cologne",
+                "Kent Golden",
+                "Polaroid Camera",
+                "Kent",
+                "Canadian Club",
+                "Singer Sewing Machines",
+                "Coca Cola",
+                "Taster's Choice",
+                "Concord Watches",
+                "toothpaste",
+                "Other (SPECIFY)"
+            ]
+        },
+        {
+            "question": "Do you remember any ads for cigarettes?",
+            "brands": [
+                "Golden Up",
+                "Kent Golden",
+                "Kent",
+                "Lights",
+                "Other (SPECIFY)"
+            ]
+        },
+        {
+            "question": "Do you remember any ads for any other brands of cigarettes?",
+            "brands": [
+                "Luke",
+                "Golden Lights",
+                "Kent",
+                "Golden (Unsp.)",
+                "Kent Golden Light",
+                "Kent Lights",
+                "Other (SPECIFY)"
+            ]
+        }
+    ]
+}

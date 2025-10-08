@@ -1,0 +1,43 @@
+{
+    "Do you smoke cigarettes?": {
+        "Options": [
+            "Yes",
+            "No"
+        ]
+    },
+    "Have you smoked any cigarettes in the past seven days?": {
+        "Options": [
+            "Yes",
+            "No"
+        ]
+    },
+    "Approximately how many cigarettes do you smoke per day?": {
+        "Options": [
+            "1-15",
+            "16-25",
+            "Over 25",
+            "DK/NA"
+        ]
+    },
+    "Would you say that you are smoking more cigarettes per day now than you did a year ago, less now than you did a year ago, about the same amount per day now as you did a year ago?": {
+        "Options": [
+            "More",
+            "Less",
+            "The Same"
+        ]
+    },
+    "What brand do you smoke most often and consider to be your usual brand?": {
+        "Filter or Non-Filter": [
+            "Filter",
+            "Non-Filter"
+        ],
+        "Menthol or Non-Menthol": [
+            "Menthol",
+            "Non-Menthol"
+        ],
+        "Size": [
+            "Regular #3 Size",
+            "The Longer 100's"
+        ]
+    }
+}

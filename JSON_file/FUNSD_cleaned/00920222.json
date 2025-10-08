@@ -1,0 +1,43 @@
+{
+    "purchasing": {
+        "po_number": "1534",
+        "revision": "10/79",
+        "date": "March 27, 1984",
+        "purchase_requisition": "LT-10-79",
+        "stationary": true,
+        "vendor": {
+            "name": "Borriston Laboratories, Inc.",
+            "address": "5050 Beech Place Temple Hills, MD 20748"
+        },
+        "terms": {
+            "net": 15,
+            "fob": "N/A",
+            "via": "N/A"
+        },
+        "ship_to": {
+            "department": "Lorillard Research Center",
+            "attention": "Dr. Connie Stone",
+            "address": "420 English Street Greensboro, NC 27405",
+            "date_wanted": "As required"
+        },
+        "order_details": {
+            "quantity": null,
+            "code": null,
+            "description": "Authorization to perform the 'Acute Oral Toxicity Study in the Rat' tests on materials D13 and D23 supplied by Lorillard.",
+            "unit_price": 2050,
+            "total_price": 4100,
+            "notes": "Studies are to be conducted in accordance with the October 17, 1980 formal agreement between Borriston and Lorillard. All work is to be coordinated with Dr. Connie Stone."
+        },
+        "contact": {
+            "name": "Dr. Connie Stone",
+            "phone": "919373-666"
+        },
+        "follow_up_date": null,
+        "requisition_no": "00920222",
+        "issued_by": "N.9.Mimem",
+        "budget_no": "4111",
+        "account_no": "9590",
+        "department_no": null,
+        "approved_by": null
+    }
+}

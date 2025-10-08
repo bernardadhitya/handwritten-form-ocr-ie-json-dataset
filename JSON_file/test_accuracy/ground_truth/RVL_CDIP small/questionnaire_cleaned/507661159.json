@@ -1,0 +1,78 @@
+{
+    "samples": [
+        {
+            "sample": "SAMPLE1",
+            "type": "VOTING SMOKERS",
+            "n": 400,
+            "introduction": "Hello this is FIRST AND LAST NAME of Moore Information, a public opinion research company. We are conducting a survey among registered voters throughout the state of Oregon.",
+            "questions": [
+                {
+                    "question": "Have I reached PHONE #?",
+                    "if_no": "TERMINATE"
+                },
+                {
+                    "question": "Could I please speak to?",
+                    "if_na": "Schedule a callback"
+                }
+            ]
+        },
+        {
+            "sample": "SAMPLE 2",
+            "type": "SMOKING NON-VOTERS",
+            "introduction": "Hello this is FIRST AND LAST NAME of Moore Information, a public opinion research company. We are conducting a survey among people throughout the state of Oregon.",
+            "questions": [
+                {
+                    "question": "Have I reached PHONE #?",
+                    "if_no": "TERMINATE"
+                },
+                {
+                    "question": "Could I please speak to?",
+                    "if_na": "Schedule callback"
+                }
+            ]
+        },
+        {
+            "sample": "SAMPLE 3",
+            "type": "OREGON VOTERS",
+            "n": 400,
+            "introduction": "Hello this is FIRST AND LAST NAME of Moore Information, a public opinion research company. We are conducting a survey among registered voters throughout the state of Oregon.",
+            "questions": [
+                {
+                    "question": "Have I reached PHONE #?",
+                    "if_no": "TERMINATE"
+                },
+                {
+                    "question": "Are you registered to vote?",
+                    "if_no": "Could I speak to a member of the household who is registered to vote please?",
+                    "if_no_one_registered": "TERMINATE"
+                },
+                {
+                    "question": "IF YES: Could you spend a few minutes on the phone with me to discuss current events in Oregon?",
+                    "response": "Thank you."
+                },
+                {
+                    "question": "Do you feel things in Oregon are generally going in the right direction or do you feel things have pretty seriously gotten off on the wrong track?",
+                    "responses": [
+                        {
+                            "response": "right direction",
+                            "sample1": "60%",
+                            "sample2": "52%",
+                            "sample3": "62%"
+                        },
+                        {
+                            "response": "wrong track",
+                            "sample1": "29%",
+                            "sample2": "35%",
+                            "sample3": "26%"
+                        },
+                        {
+                            "response": "DON'T READ don't know",
+                            "sample1": "11%",
+                            "sample2": "13%"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

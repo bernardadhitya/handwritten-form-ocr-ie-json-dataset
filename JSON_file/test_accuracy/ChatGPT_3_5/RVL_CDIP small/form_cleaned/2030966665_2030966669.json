@@ -1,0 +1,30 @@
+{
+    "Originator": "Estes",
+    "Proposed Change": {
+        "to": "Parameters",
+        "Standard": "Control"
+    },
+    "Problem Statement": "Current Blending Feed Parameters (Controllable) are causing shift the process level away from center in reaction special causes",
+    "Evidence": "Provide data support need for change",
+    "Improvements": "Process will centered at target blend percentages for each component blend integrity should improve",
+    "Identify Probable Causes": "Stock-Prep is the customer",
+    "Proposed System Change": {
+        "Change": "Blending Feed Parameters",
+        "Parameters": [
+            "VST",
+            "KST",
+            "Bright Scrap",
+            "Burl",
+            "excessar",
+            "Class fron Controllable"
+        ],
+        "Establish Standards": "for weightbelt controller set current blending output and blend points based",
+        "Recommend Measurements": "of effectiveness of percentages"
+    },
+    "Action Plan": "Communicate impacted personnel by 11/28/89, Convert controllable parameters to tracking and new standards at 2300 11/28/89",
+    "Personnel Impacted": [
+        "Blend Attendants",
+        "Blending Supervisors",
+        "SPC Specialist"
+    ]
+}

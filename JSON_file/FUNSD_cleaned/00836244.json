@@ -1,0 +1,70 @@
+{
+    "test": "AMES ASSAY FOR MUTAGENICITY",
+    "compound": "2,4-Dihydroxypyridine",
+    "source": {
+        "lot_no": "OR61-2",
+        "dates": {
+            "9/3/80": "received",
+            "9/10/80-10/10/80": "tested",
+            "10/10/80": "porteo"
+        }
+    },
+    "investigators": [
+        {
+            "name": "H. S. Tong",
+            "notebook_page": "BIO7-24"
+        },
+        {
+            "name": "A. A. Poole"
+        }
+    ],
+    "toxicity_percent_survival": [
+        50,
+        80,
+        100
+    ],
+    "solvent": "DMSO/WATER",
+    "concentration_mg_ml": 0.5,
+    "other": "S. TYPHIMUAIUM",
+    "strains": {
+        "TA1535": {
+            "control_revertants_per_plate": 4.67,
+            "test_revertants_control_revertants_per_plate": {
+                "500_ug_plate": 0.92,
+                "250_ug_plate": 1.0,
+                "125_ug_plate": 0.83
+            }
+        },
+        "TA100": {
+            "control_revertants_per_plate": 8.0,
+            "test_revertants_control_revertants_per_plate": {
+                "500_ug_plate": 0.88,
+                "250_ug_plate": 0.79,
+                "125_ug_plate": 0.92
+            }
+        },
+        "TA98": {
+            "control_revertants_per_plate": 123.0,
+            "test_revertants_control_revertants_per_plate": {
+                "500_ug_plate": 0.96,
+                "250_ug_plate": 0.97,
+                "125_ug_plate": 0.85
+            }
+        }
+    },
+    "positive_control": {
+        "compound": "2-AMINOANTHRACENE",
+        "reversion_rate": {
+            "4_ug_plate": 1.2,
+            "2_ug_plate": 1.39,
+            "30_ug_plate": 1.8
+        }
+    },
+    "conclusion": "This compound is judged non-mutagenic in this test system.",
+    "copies_to": [
+        "Dr. Minnemeyer",
+        "Ms. L. B. Gray"
+    ],
+    "organization": "LORILLARD-RESEARCH CENTER",
+    "form": "FORM6 (5/80)"
+}

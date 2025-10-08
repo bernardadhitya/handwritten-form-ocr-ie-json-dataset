@@ -1,0 +1,4 @@
+{
+    "error": "No JSON detected",
+    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nBENETEA U Mi&c apwymg 2moy s T1 rue de l'AbeeLonfomt 9ue de la Morime 54 11F FAViRES 29f3O GUiLViNEC T: 03.31.12.30. 03 Ou nU mC \"Chorit or vhe bimehl mml suis m Tetaite depuis mo a ma :omno dolum ewt...\". \n\nTranslation: \nBENETEAU Mi&c apwymg 2moy s T1 rue de l'AbeeLonfomt 9ue de la Morime 54 11F FAViRES 29f3O GUiLViNEC T: 03.31.12.30. 03 Ou nU mC \"Chorit or vhe bimehl mml suis m Tetaite depuis mo a ma :omno dolum ewt...\".\n\n\nThe structured JSON output should be in the following format:\n\n```\n{\n  \"name\": \""
+}

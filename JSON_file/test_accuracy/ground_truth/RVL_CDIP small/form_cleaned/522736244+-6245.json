@@ -1,0 +1,59 @@
+{
+    "company": "Tobacco Company",
+    "contact": {
+        "name": "Joseph Thornton",
+        "position": "Consumer Relations",
+        "address": {
+            "street": "233 Sutton Lake Rd",
+            "city": "Winston-Salem",
+            "state": "NC",
+            "zip": "27102"
+        },
+        "alternate_address": {
+            "city": "Wilmington",
+            "state": "NC",
+            "zip": "28401-9000"
+        }
+    },
+    "message": "Thank you for contacting us. As part of our continued efforts to stop underage smoking we verify that every smoker on our mailing list is 21 years of age or older. In order to be added to our active mailing list and to be eligible to receive future mailings, please complete this form and include a copy of an official identification that contains your name, current address, and date of birth (driver's license, sporting license, MEDICAID Voucher or State ID). If you have any questions about filling out this form please call 1-800-777-2695. We're open Monday through Friday from 8:00 a.m. to 6:00 p.m. EST. The name, street address, city, and state on your official identification MUST MATCH the name, street address, city, and state shown above or as corrected below on this Age Verification Form.",
+    "steps": [
+        {
+            "step": 1,
+            "instruction": "Check to make sure the mailing address above is correct. Print any corrections in the box below on the right. Any corrections must match your ID.",
+            "note": "The address on your official ID must match the address where you will receive mailings or we will be unable to process the Age Verification Form.",
+            "corrections": {
+                "name": "No Corrections",
+                "street_address": "",
+                "city_state_zip": ""
+            }
+        },
+        {
+            "step": 2,
+            "instruction": "Your signature and date of birth are required to determine your eligibility.",
+            "birthdate": "month/day/year",
+            "today_date": "month/day/year"
+        },
+        {
+            "step": 3,
+            "instruction": "Attach a copy of your identification.",
+            "driver_license": "3752144",
+            "name_on_id": "Joseph Randolph Thornton",
+            "address_on_id": "3 Sutton Lk Rd, NC 28401-9000",
+            "certification": "I certify that I am a smoker; that I am 21 years of age or older; and that I want to receive in the mail offers, premiums, and/or coupons, as well as cigarettes that I may purchase or that may be sent to me for testing and evaluation purposes. I understand that giving false information in order to accept these offers may constitute a violation of law.",
+            "signature": "Joseph R. Thornton",
+            "usual_brand": "Camel B"
+        },
+        {
+            "step": 4,
+            "instruction": "Send form and copy of ID in the enclosed self-addressed envelope, or mail to",
+            "mail_to": {
+                "address": "P.O. Box 2959",
+                "city": "Winston-Salem",
+                "state": "NC",
+                "zip": "27102",
+                "attention": "Consumer Relations"
+            }
+        }
+    ],
+    "offer_restriction": "Offer Restricted to Smokers 21 Years of Age or Older."
+}

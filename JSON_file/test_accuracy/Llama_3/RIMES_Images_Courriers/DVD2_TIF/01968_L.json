@@ -1,0 +1,4 @@
+{
+    "error": "No JSON detected",
+    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nYAHI AOUI Rom&iu 11 fUe de de5z 57 8OO Coorceies our N`ed 1E.03.50.23.75.1f Cienk n;X WTUN 23 NNA Au r&nces rue Camille Sennaosy 23 46O Royere de Vassivere dadamme, Ronoreor ouhaire resilier le contra...\nCiFro&n BX G29 XAB 57 aC Sinceres oalutorions Rom&:o YAHIAOUTE 11 fUe de de5z 57 8OO Coorceies our N`ed 1E.03.50.23.75.1f Cienk n;X WTUN 23 NNA Au r&nces rue Camille Sennaosy 23 46O Royere de Vassivere dadamme, Ronoreor ouhaire resilier le contra...\n \nThe text is written in a style that is similar to a handwritten or typed text, with some intentional misspellings and formatting issues. The text appears to be a letter or a message written in French.\n\nHere is the structured JSON output:\n\n```\n{\n  \"text\": \"YAHI AOUI Rom&iu"
+}

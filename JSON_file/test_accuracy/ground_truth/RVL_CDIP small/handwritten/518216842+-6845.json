@@ -1,0 +1,43 @@
+{
+    "store": "ALBERTSONS",
+    "address": {
+        "street": "bOPierAve#5",
+        "city": "Oceao",
+        "state": "CA",
+        "zip": "93H45"
+    },
+    "transaction": {
+        "number": "3075",
+        "terminal": "10",
+        "cashier": "000401",
+        "store_number": "1646",
+        "date": "Thu Jun 29 1995",
+        "time": "63ip"
+    },
+    "items": [
+        {
+            "name": "GTOARETTES",
+            "price": 13.89,
+            "tax": true
+        },
+        {
+            "name": "TRIDENT",
+            "price": 0.79,
+            "tax": false
+        },
+        {
+            "name": "TRIDENT",
+            "price": 0.79,
+            "tax": false
+        }
+    ],
+    "totals": {
+        "subtotal": 15.47,
+        "tax_paid": 1.01,
+        "total": 16.48,
+        "cash": 17.0,
+        "total_tender": 17.0,
+        "change": 0.52
+    },
+    "message": "THANK YOU"
+}

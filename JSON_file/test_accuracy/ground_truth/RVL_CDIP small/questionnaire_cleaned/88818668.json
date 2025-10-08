@@ -1,0 +1,52 @@
+{
+    "Blend": "Regular",
+    "Brand": "Kent",
+    "Callback": "INASRVIEW ON YORK FILTER CIGARETTE PRODUCT TEST",
+    "RespondentName": "JNorton",
+    "ID": "t.3955",
+    "Questions": [
+        {
+            "Question": "About how many of the YORK FILTER cigarettes did you yourself smoke?",
+            "Response": null
+        },
+        {
+            "Question": "What, if anything, did you particularly like about York FILTER cigarettes?",
+            "Response": "Taste"
+        },
+        {
+            "Question": "What, if anything, did you particularly dislike about York FILTER cigarettes?",
+            "Response": "Strength/lack of mildness"
+        }
+    ],
+    "RatingComparison": {
+        "Taste": {
+            "MuchMoreSatisfying": false,
+            "LittleMoreSatisfying": false,
+            "AboutTheSame": false,
+            "LittleLessSatisfying": false,
+            "MuchLessSatisfying": false
+        },
+        "Mildness": {
+            "MuchMilder": false,
+            "LittleMilder": false,
+            "AboutTheSame": false,
+            "LittleStronger": false
+        },
+        "FilterDraw": {
+            "MuchEasier": false,
+            "LittleEasier": false
+        }
+    },
+    "Preference": {
+        "Taste": "No Preference",
+        "Mildness": "No Preference",
+        "FilterDraw": "No Preference"
+    },
+    "OverallPreference": {
+        "York": "Much more",
+        "RegularBrand": "Much more",
+        "YorkLittleMore": false,
+        "RegularBrandLittleMore": false,
+        "NoPreference": false
+    }
+}

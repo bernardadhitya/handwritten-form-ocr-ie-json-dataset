@@ -1,0 +1,52 @@
+{
+    "Code d'envoi": {
+        "Questionnaire": "Y",
+        "Identite fictive": {
+            "Nom": "LAMI",
+            "Prenom": "Gaunq",
+            "Adresse": "134_~ne. dea_uexgexs",
+            "Code postal": "880.00",
+            "Ville": "Desneville",
+            "Tel": "3523"
+        },
+        "Scenario": {
+            "Categorie": "Demande d'information",
+            "Objet": "Demande d'entretien concessionnaire",
+            "Contribution": {
+                "Type de stylo utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "48 minutes",
+                "Elements de contribution": {
+                    "Jenvoie mon courrier par voie postale a la date du": "(6€)",
+                    "Mon courrier contient une page de garde de fax": "(+2€)",
+                    "Avant mon envoi postal, j'ai telecopie ma contribution le": "(+1€)",
+                    "J'ai envoye par courriel mon courrier numerise le": "(+10€)"
+                }
+            }
+        },
+        "Interlocuteur": {
+            "Nom": "Manik Aasman ks",
+            "Adresse": "Balinielto",
+            "Code postal": "38300",
+            "Ville": "Badinieea"
+        },
+        "Redaction": {
+            "Type de stylo (noir) utilise": [
+                "bille",
+                "plume",
+                "feutre"
+            ],
+            "Temps passe a traiter le scenario": "48 minutes",
+            "Marque et modele du scanner": "Non specified",
+            "Format": [
+                "PNG",
+                "GIF",
+                "TIFF"
+            ],
+            "Resolution des images": "dpilppp"
+        }
+    }
+}

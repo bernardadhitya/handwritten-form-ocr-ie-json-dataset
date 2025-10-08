@@ -1,0 +1,4 @@
+{
+    "error": "No JSON detected",
+    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nSOBEA FAX Date:\nZz/03/2007 Pagesa suivre De :\nYomm ZEHl Service :\nT6lephone : 03 38 66 7&4S Fax.A:\nLc 3 Sw Société :\nTéléphone :\nFax Objet:o Yodrc Yo-siur de uJ9n9p CD vicqe Mec SOBEA Auvergne rue des Donzieres B.P31450 45012 Ciermon Cedex 1 Tel. : 04 73 14 40 60 Fax : 04 73 17 53 79\n\nNote: The text is in French.\n\nHere is the contact information for SOBEA FAX:\n\n* Date: 03/03/2007\n* Pages to follow: \n* De: Yomm\n* Service: T6lephone\n* Telephone: 03 38 66 7&4S\n* Fax: 03 38 66 7&4S\n* Company: Société des Entreprises de l'Automobile (SOBEA)\n* Address: rue des Donzieres, B.P31450, 45012 Ciermon Cedex 1\n* Telephone: 04 73 14 40 60\n* Fax: "
+}

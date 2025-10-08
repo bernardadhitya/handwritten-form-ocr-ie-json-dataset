@@ -1,0 +1,78 @@
+{
+    "questionnaire": {
+        "job_number": "#92-7-3014",
+        "instructions": "Please fill out all information below and return to receptionist",
+        "questions": [
+            {
+                "question_number": 1,
+                "question_text": "What is your age?"
+            },
+            {
+                "question_number": 2,
+                "question_text": "How many packs of cigarettes do you smoke in an average day?"
+            },
+            {
+                "question_number": 3,
+                "question_text": "What is your regular brand of cigarettes - that is, the brand you smoke most often?"
+            },
+            {
+                "question_number": 4,
+                "question_text": "Is your regular brand of cigarettes",
+                "options": [
+                    "filter",
+                    "menthol",
+                    "non-filter",
+                    "non-menthol",
+                    "king",
+                    "full-flavor",
+                    "100's",
+                    "medium",
+                    "120's",
+                    "light mild",
+                    "ultra light"
+                ]
+            },
+            {
+                "question_number": 5,
+                "question_text": "Do you purchase your regular brand of cigarettes in",
+                "options": [
+                    "soft pack",
+                    "box"
+                ]
+            },
+            {
+                "question_number": 6,
+                "question_text": "Are you currently employed?",
+                "options": [
+                    "YES",
+                    "NO"
+                ],
+                "sub_questions": [
+                    {
+                        "question_text": "Is that",
+                        "options": [
+                            "full time",
+                            "part time"
+                        ]
+                    }
+                ]
+            },
+            {
+                "question_number": 7,
+                "question_text": "What is your occupation?"
+            },
+            {
+                "question_number": 8,
+                "question_text": "What type of company do you work for?"
+            },
+            {
+                "question_number": 9,
+                "question_text": "Do you, or does anyone in your household, or any of your friends work for a supermarket, a convenience store, a bar, a restaurant or other places that sell cigarettes?",
+                "options": [
+                    "YES",
+                    "NO"
+                ]
+            }
+        ]
+    }
+}

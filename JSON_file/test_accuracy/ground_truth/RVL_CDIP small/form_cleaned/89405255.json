@@ -1,0 +1,49 @@
+{
+    "compound_physical_parameters": {
+        "lac_compound_code": "A8",
+        "date": "10/21/80",
+        "molecular_weight": "220",
+        "water_solubility": {
+            "measured": "WATER",
+            "estimated": "OTHER",
+            "amount": "<0.5"
+        },
+        "class": {
+            "acid": false,
+            "base": false,
+            "salt": false,
+            "other": "ester"
+        },
+        "reactivity": {
+            "description_of_reactivity": {
+                "without_heating": "UNCHANGED",
+                "with_heating": {
+                    "water_brine": "DECOMPOSITION",
+                    "25%HCL": "UNCHANGED",
+                    "HON%C": "UNCHANGED",
+                    "SOOHCO": "UNCHANGED",
+                    "oxygen": "UNCHANGED",
+                    "light": "UNCHANGED"
+                }
+            }
+        },
+        "safety_comments": "Use the normal handling procedures for an olefinic ester. The Ames mutagenic screening test indicated no detectable mutagenic activity. The acute oral toxicity (LD50) value in mice was 4.0 g/kg.",
+        "chemical_purity": "86",
+        "analytical_methods": [
+            "gas chromatography",
+            "chromatography"
+        ],
+        "storage_recommendations": {
+            "special_storage": "dark brown bottle; stored under inert atmosphere in refrigerator.",
+            "compound_sensitive_to": {
+                "air": true,
+                "light": true,
+                "moisture": false,
+                "other": "The material is relatively unstable to heat, light and oxygen (air) and will decompose within 1 month at room temperature. More rapid decomposition will occur at higher temperatures."
+            }
+        },
+        "signature": "PeRS",
+        "signature_date": "10/21/80",
+        "form": "FORM9 (1080)"
+    }
+}

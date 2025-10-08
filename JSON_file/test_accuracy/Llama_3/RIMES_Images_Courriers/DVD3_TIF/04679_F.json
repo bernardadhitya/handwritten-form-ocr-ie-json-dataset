@@ -1,0 +1,4 @@
+{
+    "error": "No JSON detected",
+    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nGroupement d'lntérét Public dsWu0 29.rue Blaise Pascal tel.0562934242 courriel:contact@camsp65.fr 65000 Tarbes fax:0562934241 internet:www.camsp65.fr MACHAOo Tiphane Les 4A LT eop y B 3 Iu3 LE VAL Le... (rest of the groupement d'intérêt public information is not provided)\n\nHowever, the following information is provided for the MACHAOo Tiphane Les 4A LT eop y B 3 Iu3 LE VAL Le :\n\n*   Name: MACHAOo Tiphane Les 4A LT eop y B 3 Iu3 LE VAL Le\n*   Address: 29.rue Blaise Pascal, 65000 Tarbes\n*   Phone: 0562934242\n*   Email: contact@camsp65.fr\n*   Fax: 0562934241\n*   Internet: www.camsp65.fr\n\nHere is the structured JSON"
+}

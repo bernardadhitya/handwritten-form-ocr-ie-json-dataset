@@ -1,0 +1,63 @@
+{
+    "PhilipMorisUSA": {
+        "IndustrialHygiene": {
+            "STRESS_CHARACTERIZATION": {
+                "I_IDENTIFICATION": {
+                    "City": "BC",
+                    "Plant": "1",
+                    "ExposureZone": "4",
+                    "Location": "8",
+                    "Year": "89",
+                    "Month": "1688",
+                    "Day": "16",
+                    "IdentificationNumber": "18",
+                    "OmitSample": "20",
+                    "Number": "22",
+                    "Sample": "80"
+                },
+                "II_JOBCLASS_REPRESENTATION": {
+                    "CARD": "1",
+                    "EmployeeName": {
+                        "Last": "28",
+                        "First": "Job",
+                        "MI": "Code"
+                    },
+                    "SS#": "37",
+                    "Representation": "RepresentativeRUnusual-U",
+                    "R": "42",
+                    "IfR": {
+                        "OtherRepresentativeJobCodes": [
+                            "43",
+                            "47",
+                            "51",
+                            "55",
+                            "59"
+                        ]
+                    },
+                    "Shifts": {
+                        "Day": "A",
+                        "Evenings": "B",
+                        "Graveyard": "C",
+                        "Novel": "N"
+                    },
+                    "Confidential": "Aorrisv",
+                    "ExposureZoneSpecified": "Unusual monitoring results will only be assigned to individuals specified. For representative monitoring all appropriate shifts will be specified."
+                },
+                "III_JOB_CHARACTERIZATION": {
+                    "CARD": "26",
+                    "JobType": {
+                        "RoutineNormal": "InfrequentVariable-V",
+                        "StartUp": "S",
+                        "UpsetAbnormal": "R",
+                        "Batch": "B"
+                    },
+                    "JobFrequency": {
+                        "TimesMonth": "29",
+                        "MinutesTime": "32"
+                    },
+                    "JobDescription": "BPSExn Anm 35-79 40-050-1 2031536200 9/81"
+                }
+            }
+        }
+    }
+}

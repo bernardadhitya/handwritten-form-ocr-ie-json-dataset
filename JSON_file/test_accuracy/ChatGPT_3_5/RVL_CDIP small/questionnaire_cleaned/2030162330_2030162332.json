@@ -1,0 +1,32 @@
+{
+    "Parameter": "Biochemical Oxygen Demand",
+    "Date": "11/26/90",
+    "Sample Analyzed Within 48 Hours After Collection": "No",
+    "Incubation Bottles": {
+        "Capacity": "250-300 ml",
+        "Ground Glass Stoppers": "Yes",
+        "Cleaned Before Use": "Yes",
+        "Exclusion of Chronic Detergent": "Yes"
+    },
+    "Incubator": {
+        "Thermostatically Controlled at 20 +/- 1°C": "Yes",
+        "Temperature Checked and Logged Daily": "Yes",
+        "Thermometer Graduated in Increments of 1.0% or Less": "Yes",
+        "Thermometer Calibrated with NIST or NIST Traceable Thermometer Annually": "Yes"
+    },
+    "Samples Kept in the Dark": "Yes",
+    "Nutrient Solutions": {
+        "Checked for Contamination": "Yes",
+        "Prepared at pH 7.2": "Yes"
+    },
+    "Chlorinated Samples": {
+        "Sodium Sulfite Dechlorination Agent Prepared Daily": "Yes"
+    },
+    "Dilution Water": {
+        "Free of Contamination or Growths": "Yes",
+        "Equilibrated to 20°C Before Use": "Yes",
+        "Saturated with Oxygen Before Use": "Yes",
+        "Blank for Each Test Series": "Yes",
+        "Depletion Less Than 0.4 mg/l": "Yes"
+    }
+}

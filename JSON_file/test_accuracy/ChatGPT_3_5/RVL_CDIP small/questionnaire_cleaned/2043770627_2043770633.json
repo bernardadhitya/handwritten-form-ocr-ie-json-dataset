@@ -1,0 +1,24 @@
+{
+    "Company": "Commercial Analysts Company",
+    "Address": "East 43rd Street, New York, New York, 10017",
+    "Year Established": 1978,
+    "Instructions": {
+        "Start Time": "1as",
+        "Interviewer": "Hello from Commercial Analysts Company",
+        "Questions": [
+            {
+                "Question": "Do you or does anyone in your household smoke cigarettes?",
+                "Terminate": "(TERMINATE)"
+            },
+            {
+                "Question": "Can you tell me the regular brand of cigarettes the person mentioned smokes most often?",
+                "Record": "RECORD BELOW ON GRID"
+            }
+        ],
+        "Interviewer Instructions": {
+            "If No Merit Smokers": "TERMINATE",
+            "If Respondent Smokes Merit": "CONTINUE",
+            "If Desired Merit Smoker Is Not At Home": "RECORD BELOW; And CALL Back At That Time"
+        }
+    }
+}

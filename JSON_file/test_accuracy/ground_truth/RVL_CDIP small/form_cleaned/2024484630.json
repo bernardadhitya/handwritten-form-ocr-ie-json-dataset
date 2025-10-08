@@ -1,0 +1,84 @@
+{
+    "company": "INBIFO Institut fur biologische Forschung GmbH",
+    "contact": {
+        "telefax": "",
+        "department": "DEPT.ASM",
+        "telephone": "(02203 303-1",
+        "teletax": "02203)303-362",
+        "telex": "8874675inbid",
+        "address": "Fuggerstra6e 3- 5000 Koin 90",
+        "telefax2": "22"
+    },
+    "recipient": {
+        "company": "Charles River Laboratories",
+        "attn": "Ms. Leslie Marston",
+        "address": "251, Ballardvale Street, Wilmington, Mass. 1887, USA",
+        "faxNo": "001-508-657 501"
+    },
+    "reference": {
+        "yourReference": "",
+        "ourReference": "MKA/MWO",
+        "retNo": "BF178.WM"
+    },
+    "date": "26 Aug.91",
+    "location": "Koln",
+    "order": {
+        "item": "CD rats",
+        "quantity": {
+            "male": 47,
+            "female": 47
+        },
+        "type": "Sprague Dawley outbred",
+        "specifications": {
+            "cesarianDerived": true,
+            "pathogenFree": true,
+            "pathogensFreeFrom": [
+                "Corona virus SDav",
+                "Hl virus",
+                "latent rat virus KRv",
+                "para-influenza virus type l murine (sendai)",
+                "pneumonia virus of mice PvM",
+                "reovirus type 3 reo 3",
+                "Mycoplasma pulmonis"
+            ]
+        },
+        "delivery": {
+            "date": "10 Sep.91",
+            "ageAtArrival": "31 days",
+            "bodyWeight": {
+                "male": "110 \u00b1 5 grams",
+                "female": "90 \u00b1 5 grams"
+            },
+            "filterBoxes": true,
+            "foodAvailable": true,
+            "birthdatesRequired": true,
+            "healthCertificateRequired": true
+        },
+        "additionalOrderOption": {
+            "quantity": {
+                "male": 15,
+                "female": 15
+            },
+            "decisionDeadline": "5 Sep.91"
+        }
+    },
+    "confirmation": {
+        "method": "fax",
+        "detailsRequired": [
+            "transport agency",
+            "air carrier",
+            "flight route",
+            "numbers"
+        ]
+    },
+    "contactForIssues": true,
+    "contactNumber": "2024484630",
+    "closing": {
+        "thanks": "Thank in advance for your cooperation.",
+        "kindRegards": "Kaegler"
+    },
+    "companyDetails": {
+        "registration": "Sitz derGesellschaftKoin HR B 367",
+        "director": "Dr.Wolf Reininghaus"
+    }
+}

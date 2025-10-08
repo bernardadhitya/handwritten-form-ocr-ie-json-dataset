@@ -1,0 +1,35 @@
+{
+    "Employee": {
+        "Name": "Philip Motis",
+        "Country": "USA"
+    },
+    "Job": {
+        "Title": "Industrial Hygiene",
+        "Characterization": "8tress",
+        "Identification": "Plant Exposure Zone",
+        "Location": "RLS S Pei AReaZ",
+        "Year": "33",
+        "Month": "04",
+        "Identification Number": "23",
+        "Job Class Representation": {
+            "Job Code": "3",
+            "Representation": "Representative",
+            "Other Representative Job Codes": "59",
+            "Shifts": [
+                "Day",
+                "Evenings",
+                "Graveyard",
+                "Novel - N"
+            ],
+            "Note": "Representative monitoring will be assigned to all individuals with the job code listed and the specified exposure zone. Unusual monitoring results will only be assigned to individuals specified. For representative monitoring, all appropriate shifts will be specified."
+        },
+        "Job Characterization": {
+            "Job Type": "Routine/Normal",
+            "Job Frequency": {
+                "Times per Month": "3",
+                "Minutes per Time": "76"
+            },
+            "Job Description": "Start-Up Batch"
+        }
+    }
+}

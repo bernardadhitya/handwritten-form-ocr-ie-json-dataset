@@ -1,0 +1,30 @@
+{
+    "project": {
+        "name": "THE AMERICAN APPROVED MARKETING PROJECT",
+        "type": "TOBACCO EXPENSE RECOMMENDATION",
+        "company": "COMPANY",
+        "project_number": "S0002 Supp 2",
+        "description": "Displays",
+        "brands": {
+            "current_budget": 7569000.0,
+            "private_stock": "Private Stock",
+            "carlton": "Carlton",
+            "adjustment": 0.0,
+            "revised_budget": 7569000.0
+        },
+        "offer_description": "Displays",
+        "charges": [
+            {
+                "charge_code": "CAR-MMT-DSP",
+                "amount": 31000.0
+            },
+            {
+                "charge_code": "PRV-MMT-DSP",
+                "amount": 31000.0
+            }
+        ],
+        "distribution": null,
+        "prepared_by": "rcountn",
+        "file": null
+    }
+}

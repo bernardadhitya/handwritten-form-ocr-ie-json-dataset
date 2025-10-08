@@ -1,0 +1,4 @@
+{
+    "error": "No JSON detected",
+    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nCau& Pou C3 Du & la haru 4G 1l9 TraUes l.025 74 q5YO BoF t&cOM Plaa tuou VaI N t`F 1Ac H 66 lO NEF14cK Tnwleey  2E Deccmu 2oo Kf: GYX5R12 Csue 2cmmac: Q 2l& mou ahumtmeu cu sen'a \"Mcknrdu,' ele3gEu my... (text truncated)\n\nNote: The text appears to be a jumbled collection of words and numbers, but it seems to be a phone number and some other information.\n\nHere is the extracted structured information:\n\n* `phone_number`: `1-919-TRAUES-1-025-74-5-0-BOF-T&C-OM-PLAA-TUOU-VAI-N-T-F-1AC-H-66-LO-NEF14C-K-TNWLEEY-2E-DECCMU-2OO-KF-GYX5R12`\n* `area_code`: `1`\n* `prefix`: `919`\n* `suffix`: `TRAUES`\n* `exchange`: `1`\n* `line_number`: `025"
+}

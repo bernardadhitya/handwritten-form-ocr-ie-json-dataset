@@ -1,0 +1,49 @@
+{
+    "company": "SE SURVEYS, INC.",
+    "location": {
+        "city": "New York",
+        "state": "New York"
+    },
+    "codes": {
+        "5301": "861A"
+    },
+    "survey": {
+        "title": "CIGARETTE PRODUCT TEST SCREENING QUESTIONNAIRE",
+        "respondent": {
+            "name": "",
+            "telephone_area_code": ""
+        },
+        "interviewer": "",
+        "address": {
+            "street": "",
+            "city": "",
+            "state": "",
+            "zip_code": ""
+        },
+        "interview_time": {
+            "started": "",
+            "ended": ""
+        }
+    },
+    "questions": [
+        {
+            "question": "Is there anyone in the household who smokes cigarettes?",
+            "responses": {
+                "yes": "Continue to Q2",
+                "no": "Terminate and circle below"
+            }
+        },
+        {
+            "question": "Do you or does any member of your household work for any company which manufactures, distributes, or promotes consumer products?",
+            "responses": {
+                "yes": "What product(s)?",
+                "no": "Continue"
+            }
+        }
+    ],
+    "notes": {
+        "if_tobacco_mentioned": "Terminate and circle below",
+        "related_industry": "23"
+    },
+    "reference_number": "03856992"
+}

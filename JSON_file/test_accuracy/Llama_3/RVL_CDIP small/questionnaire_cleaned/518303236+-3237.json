@@ -1,0 +1,32 @@
+{
+    "customer": {
+        "name": "Mr. James Kapp",
+        "address": {
+            "street": "27102 Newburgh, NY",
+            "city": "Newburgh",
+            "state": "NY",
+            "zip": "12550"
+        }
+    },
+    "company": {
+        "name": "R. J. Reynolds Tobacco Company",
+        "address": {
+            "street": "5100 Hillsboro Rd NE",
+            "city": "Atlanta",
+            "state": "GA",
+            "zip": "30341"
+        },
+        "representative": {
+            "name": "Mack Conrad",
+            "title": "Consumer Satisfaction Research Manager"
+        }
+    },
+    "request": {
+        "type": "customer service",
+        "description": "assistance with a promotion or product related issue"
+    },
+    "response": {
+        "type": "request for feedback",
+        "description": "to complete a questionnaire about how well you were treated by our company representative"
+    }
+}

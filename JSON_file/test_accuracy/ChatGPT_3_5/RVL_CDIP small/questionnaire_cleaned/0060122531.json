@@ -1,0 +1,33 @@
+{
+    "questions": [
+        {
+            "question": "For each characteristic, was the cigarette excellent, good, fair, or poor?",
+            "characteristics": [
+                {
+                    "name": "Taste",
+                    "response": "EXCELLENT"
+                },
+                {
+                    "name": "Burning Quality",
+                    "response": "GOOD"
+                },
+                {
+                    "name": "Mildness",
+                    "response": "FAIR"
+                }
+            ]
+        },
+        {
+            "question": "If this cigarette was available, would you smoke it regularly?",
+            "response": "YES"
+        },
+        {
+            "question": "What brand of cigarettes do you currently smoke?",
+            "response": "Marlboro"
+        },
+        {
+            "question": "Sex",
+            "response": "MALE"
+        }
+    ]
+}

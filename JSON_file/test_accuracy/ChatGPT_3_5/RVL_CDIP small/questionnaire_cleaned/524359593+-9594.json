@@ -1,0 +1,44 @@
+{
+    "areas": {
+        "easy to understand": {
+            "neither": 1,
+            "somewhat": 1,
+            "satisfied nor": 1,
+            "satisfied": 1,
+            "dissatisfied": 3
+        },
+        "answer question": {
+            "neither": 1,
+            "somewhat": 1,
+            "satisfied": 1,
+            "dissatisfied": 3
+        },
+        "courteous": {
+            "neither": 1,
+            "somewhat": 1,
+            "satisfied": 1,
+            "dissatisfied": 3
+        },
+        "response to request": {
+            "satisfied": 1,
+            "somewhat satisfied": 1,
+            "neither satisfied nor dissatisfied": 1,
+            "somewhat dissatisfied": 1,
+            "dissatisfied": 3
+        },
+        "continue purchase brand": {
+            "definitely": 1,
+            "probably": 1,
+            "might or probably": 1,
+            "definitely would not": 1,
+            "would not": 2
+        },
+        "recommend brand": {
+            "definitely": 1,
+            "probably": 1,
+            "might or probably": 1,
+            "definitely would not": 1,
+            "would not": 2
+        }
+    }
+}

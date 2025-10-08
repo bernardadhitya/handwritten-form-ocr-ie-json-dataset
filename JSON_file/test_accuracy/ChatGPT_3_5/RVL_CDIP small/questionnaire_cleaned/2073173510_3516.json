@@ -1,0 +1,22 @@
+{
+    "date": "August 23, 1984",
+    "company": "WINONA RESEARCH",
+    "location": "8200 Humboldt Ave, Minnoapollo, MN 65431",
+    "age_groups": {
+        "under_21": "THANK & TERMINATE",
+        "21_to_34": "SELECT OPTION CAT",
+        "35_and_over": "THANK & TERMINATE"
+    },
+    "smoking_habits": {
+        "cigarettes": {
+            "question": "Do you smoke cigarettes?",
+            "response": "Yes",
+            "action": "SKIP TO Q3"
+        },
+        "cigars": {
+            "question": "Did you ever smoke cigars?",
+            "response": "Yes",
+            "action": "TERMINATE & TALLY"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "telefaxCopy": {
+        "sender": {
+            "name": "Dr. Rao",
+            "title": "Snr. Pathologist",
+            "company": "Huntingdon Research Centre Ltd.",
+            "address": "Huntingdon Cambs PE18 6ES, England",
+            "facsimileNo": "0480 890693",
+            "faxNumber": "2026004095",
+            "date": "7th July 1992"
+        },
+        "receiver": {
+            "attentionOf": "Dr. Teredesai",
+            "company": "INBIFO Vertragsforschung",
+            "faxNumber": "2203303552"
+        },
+        "faxDetails": {
+            "totalNumberOfPages": 3,
+            "extn": "1022",
+            "message": "Re: IBf/l Isopropyl chloride - Inhalation toxicity study in rats. Please find enclosed proposed alternative histopathology summary as per your recent request."
+        },
+        "control": {
+            "type": "OUTGOING",
+            "date": "07 July 1992",
+            "controlNumber": "#3 462",
+            "additionalInfo": "17.199 /NO.3080690780P1 (TUE 07.07 92 15:04 FROM HRC (UK)"
+        }
+    }
+}

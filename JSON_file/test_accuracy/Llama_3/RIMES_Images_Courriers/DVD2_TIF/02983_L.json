@@ -1,0 +1,4 @@
+{
+    "error": "No JSON detected",
+    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nAUBRU N CHa&ne 119 Rue deo ROIAiNs 6t690 R iTTErsH0FFEN TkR.: 03.51.44. 60.76 MAN1F Asswanuo &O RN PYRENEES 1M9O COUiZA REPrk&nr: MJxAE 05 ObeF: M@n conhard'axwamc Wsyonoalalt cvile Madamey Hancieur d... (last name not provided)\n\nContact Information:\nName: AUBRU N CHa&ne\nAddress: 119 Rue deo ROIAiNs 6t690 R iTTErsH0FFEN TkR.\nPhone: 03.51.44.60.76\nEmail: MAN1F Asswanuo &O RN PYRENEES 1M9O COUiZA REPrk&nr: MJxAE\n\nSocial Media:\nName: MJxAE\nUsername: MJxAE\nPlatform: COUiZA REPrk&nr\nEmail: MJxAE\n\nNote: The provided text is not a standard JSON output, but rather a text with some structured information. The output below is an attempt to extract the structured information and format it into a JSON object.\n\n```json\n{\n  \""
+}

@@ -1,0 +1,4 @@
+{
+    "error": "No JSON detected",
+    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nHATTEi Ad&le BANQVE SoCETE GENiALE Jo bis PlANOis DE LA CHAPElE Plac de la maire 883lO VENTRON 3o7co BiAUZAC Tel: O3 q3 36 2g 47 Ref.Cent: LWLLE1O objet: changemert de cadomas telüphoniqua8 VENTRON, J... (part of the text)\n\nHere is the structured information:\n\n* Name: HATTEi Ad&le BANQVE SoCETE GENiALE Jo bis PlANOis DE LA CHAPElE\n* Address: \n\t+ Street: Plac de la maire\n\t+ City: 883lO VENTRON\n\t+ Country: 3o7co\n\t+ Postal Code: BiAUZAC\n* Phone Number: 03 36 2g 47\n* Reference: LWLLE1O\n* Object: changemert"
+}

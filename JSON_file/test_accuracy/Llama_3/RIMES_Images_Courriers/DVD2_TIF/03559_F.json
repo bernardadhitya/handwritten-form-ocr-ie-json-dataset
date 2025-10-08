@@ -1,0 +1,4 @@
+{
+    "error": "No JSON detected",
+    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nTELECOPIE De 7m X1ZDlRi7 Date 13 maw 2O 7 A:MA1F Assuuanc Service :\nSinisvr Télécopie : 64-60-76-43-Téléphone :\n3 3 vehicule ExpuVr se Objet :\nUrgent Pour avis Commentaires Réponse Confidentiel tnouver fe uocnr Counia 2 mere dwu mon veticuk accidnVc' lZ fevnia 2oo4\n\nTranslation:\n\nTELECOPIE De 7m X1ZDlRi7 Date 13 maw 2O 7 A:MA1F Assuuanc Service :\nSinisvr Télécopie : 64-60-76-43-Téléphone :\n3 3 vehicule ExpuVr se Objet :\nUrgent Pour avis Commentaires Réponse Confidentiel tnouver fe uocnr Counia 2 mere dwu mon veticuk accidnVc' lZ fevnia 2oo4\n\nStructured JSON output:\n\n```json\n{\n  \"date\": \"13 m"
+}

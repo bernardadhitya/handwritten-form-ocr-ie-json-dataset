@@ -1,0 +1,79 @@
+{
+    "conference_center": "NEW YORK CONFERENCE CENTER",
+    "group_date_time": "167",
+    "address": {
+        "street": "240 MADISON AVENUE",
+        "city": "NEW YORK",
+        "state": "NY",
+        "zip": "10016"
+    },
+    "survey": {
+        "title": "Social Networks Screener",
+        "job_number": "04/359",
+        "respondent": {
+            "name": "GVES/M/N",
+            "phone": "2/8779-S8S",
+            "address": "33-773S7",
+            "city": "KO",
+            "zip": "32"
+        },
+        "questions": [
+            {
+                "question": "Does anyone living in your household fit that description?",
+                "options": [
+                    "No",
+                    "Yes-May I speak to him?",
+                    "Yes",
+                    "Not at home (ARRANGE TO CALL BACK LATER.)",
+                    "No, refused (THANK AND TERMINATE)"
+                ]
+            },
+            {
+                "question": "First, how old are you?",
+                "condition": "years (if fewer than 18 or greater than 24, terminate)"
+            },
+            {
+                "question": "I'm going to read a list of different types of products. For each product I mention please tell me whether you, yourself, use that type of product.",
+                "products": [
+                    {
+                        "name": "Packaged cookies",
+                        "response": "Yes"
+                    },
+                    {
+                        "name": "Diet or low-calorie soft drinks",
+                        "response": "No"
+                    },
+                    {
+                        "name": "Regular soft drinks",
+                        "response": "Yes"
+                    },
+                    {
+                        "name": "Decaffeinated coffee",
+                        "response": "No"
+                    },
+                    {
+                        "name": "Regular coffee",
+                        "response": "No"
+                    },
+                    {
+                        "name": "Cigarettes",
+                        "response": "Yes"
+                    },
+                    {
+                        "name": "Paper towels",
+                        "response": "Yes"
+                    },
+                    {
+                        "name": "Frozen vegetables",
+                        "response": "Yes"
+                    },
+                    {
+                        "name": "Canned vegetables",
+                        "response": "?"
+                    }
+                ]
+            }
+        ],
+        "contact_number": "2049165909"
+    }
+}

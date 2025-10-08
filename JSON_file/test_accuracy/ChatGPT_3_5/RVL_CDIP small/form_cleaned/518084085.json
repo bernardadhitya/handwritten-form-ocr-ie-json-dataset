@@ -1,0 +1,28 @@
+{
+    "store_number": "7443X",
+    "store_name": "SAMS CLUB",
+    "location": {
+        "address": "6363 Valley Springs",
+        "city": "Riverside",
+        "state": "CA",
+        "zip_code": "92507"
+    },
+    "promotions": [
+        {
+            "product": "CAMEL",
+            "discount_amount": "$0.30",
+            "pack_number": "700077",
+            "display_quantities": "50"
+        },
+        {
+            "product": "DORAL",
+            "discount_amount": "$0.30",
+            "pack_number": "700074",
+            "display_quantities": "50"
+        }
+    ],
+    "general_manager": {
+        "name": "Trick",
+        "sales_reps_name": "Omar"
+    }
+}

@@ -1,0 +1,4 @@
+{
+    "error": "No JSON detected",
+    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nFranus fELltKlN 36 ru B4NSAC 63OOO CLEEnONT fERRAN5 Til : 04.14.91.85.29 SIpaFR Tbphonc 971N QQV 9Q O5sch : Nouvells coordonnes ban couier Madame,Honsieur & un changimunt de banqu, mes coordonnies ba... (text truncated)\n\nNote: The text appears to be a jumbled collection of numbers and letters, possibly a phone number or address with intentional errors or obfuscation.\n\nHere is the extracted structured JSON output:\n\n```\n{\n  \"name\": \"Franus fELltKlN\",\n  \"number\": \"36 ru B4NSAC 63OOO\",\n  \"type\": \"phone\",\n  \"date\": \"04.14.91.85.29\",\n  \"address\": \"CLEEnONT fERRAN5 Til\",\n  \"phoneType\": \"mobile\",\n  \"phoneCode\": \"971\",\n  \"countryCode\": \"QQV\",\n  \"city\": \"O5sch\",\n  \"type"
+}

@@ -1,0 +1,90 @@
+{
+    "survey": {
+        "title": "NATIONAL CONSENSUS SURVEYS",
+        "id": "#42318W",
+        "location": {
+            "city": "New York",
+            "state": "New York",
+            "address": "801 Second Avenue",
+            "zip": "10017"
+        },
+        "respondent": {
+            "name": "A Beil",
+            "phone": "216354-826"
+        },
+        "instructions": [
+            "Please take a few minutes to go through the advertisements in this book.",
+            "Please take as much time with each ad as you care to.",
+            "If you ordinarily wear reading glasses, you'll need them.",
+            "HAND RESPONDENT PORTFOLIO AND TAKE IT BACK BEFORE CONTINUING."
+        ],
+        "questions": [
+            {
+                "text": "Now, I'd like to ask you a few questions about the ads in the book. What brands or products do you remember seeing ads for in the book?",
+                "prompt": "Any other brands?",
+                "categories": {
+                    "general_ads": [
+                        "Luke",
+                        "Amana Range",
+                        "Dole Pineapple",
+                        "BankAmericard/VISA",
+                        "General Electric Washer",
+                        "Golden Lights",
+                        "Bayer Aspirin",
+                        "Hilton Hotels",
+                        "Kent Golden Lights",
+                        "Kawasaki",
+                        "Golden",
+                        "Bolens Lawn Mower",
+                        "Budweiser",
+                        "Old Spice Pocket Cologne",
+                        "Kent",
+                        "Canadian Club",
+                        "Polaroid Camera",
+                        "Kent Lights",
+                        "Coca Cola",
+                        "Singer Sewing Machines",
+                        "Kent Unsp.",
+                        "Concord Watches",
+                        "Taster's Choice",
+                        "Lights Unsp.",
+                        "Crest",
+                        "Weight Watchers",
+                        "Other"
+                    ],
+                    "cigarette_ads": [
+                        "Golden Lights",
+                        "Golden",
+                        "Kent Golden",
+                        "Kent",
+                        "Golden",
+                        "Kent Lights",
+                        "Kent Unsp.",
+                        "Other"
+                    ]
+                }
+            },
+            {
+                "text": "Do you remember any ads for cigarettes?",
+                "prompt": "What brands do you remember?",
+                "follow_up": "Any others?",
+                "brands": [
+                    "Golden Lights",
+                    "Golden",
+                    "Kent Golden",
+                    "Kent",
+                    "Golden",
+                    "Kent Lights",
+                    "Kent Unsp.",
+                    "Other"
+                ]
+            }
+        ],
+        "skip_logic": {
+            "if_no_cigarette_brands_mentioned": "ASK Q.3a",
+            "if_one_or_two_cigarette_brands_mentioned": "ASK Q.3b",
+            "if_all_three_cigarette_brands_mentioned": "SKIP TO Q.4",
+            "if_true_mentioned_in_q2_3a_or_3b": "SKIP TO Q.10"
+        }
+    }
+}

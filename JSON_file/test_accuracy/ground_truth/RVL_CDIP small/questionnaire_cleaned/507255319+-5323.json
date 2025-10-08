@@ -1,0 +1,78 @@
+{
+    "ACNEN": "SGS.C.",
+    "Caty": "176LSRE",
+    "RNE": "6222",
+    "FILLER": "C1",
+    "Job": "NEWSWEEK7/18/88",
+    "YF_PACN": "tTise",
+    "FPACENT": "ESAT FCALLEACX",
+    "IStarted": "PMI",
+    "RRYOCA": "361SAT",
+    "Survey": {
+        "Introduction": "I am an interviewer for a company that is doing a survey on products people use.",
+        "AgeCategory": "According to your quota, youngest in the age category who is at home now.",
+        "Questions": [
+            {
+                "Question": "Have you bought or used any frozen foods in the past month or not?",
+                "Response": "YES"
+            },
+            {
+                "Question": "Do you smoke at least cigarettes a day or not?",
+                "Response": "29-1b"
+            },
+            {
+                "Question": "Have you bought or used a headache remedy in the past month or not?",
+                "Response": "1"
+            },
+            {
+                "Question": "Have you flown on a commercial airline in the past 6 months, or not?",
+                "Response": "e()"
+            },
+            {
+                "Question": "Do you occasionally have a glass of wine or beer with dinner?",
+                "Response": "()"
+            }
+        ],
+        "Qualification": "Respondent must be a cigarette smoker in 1b to qualify for the survey.",
+        "NewsweekIssue": {
+            "Question": "Have you already read this particular July 18 issue of Newsweek magazine?",
+            "Response": "31H"
+        },
+        "Employment": {
+            "Question": "Do you or does anyone in your family work for:",
+            "Options": [
+                "A producer of frozen foods?",
+                "A government agency?",
+                "A marketing research company?",
+                "A construction company?",
+                "A pharmaceutical or drug company?",
+                "A tobacco company?",
+                "An airline?",
+                "An advertising agency?",
+                "A newspaper or magazine publisher?"
+            ],
+            "Response": "YES"
+        },
+        "SelfEmployed": "31",
+        "SurveyParticipation": {
+            "Question": "Have you or anyone in your household participated in a survey within the past six months where a magazine was left with you and you were asked to read it?",
+            "Response": "211NO"
+        },
+        "MagazineReadingHabits": {
+            "Introduction": "Now I'd like to ask you a few questions about your magazine reading habits. Here is a list of magazines.",
+            "Purpose": "The purpose of this is to make magazines more useful and interesting. Would you be willing to participate?",
+            "FollowUp": "Tomorrow I'll call you by telephone to interview you about the magazine."
+        }
+    },
+    "Contact": {
+        "AreaCode": "46-11",
+        "TelNo": "50725",
+        "CityState": "CITY/STATE",
+        "ZipCode": "ZIP COD",
+        "DateOfReinterview": "Acpt.",
+        "Time": "ITIME",
+        "Interviewer": "IENDED: PM 1",
+        "CodeLetter": "438-441",
+        "InterviewerID": "21 310-14"
+    }
+}

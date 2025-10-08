@@ -1,0 +1,36 @@
+{
+    "Company": "Philip Moris USA",
+    "Department": "Industrial Hygiene",
+    "Job Characterization": {
+        "Stress": "CHARACTERIZATION",
+        "Identification": "IDENTIFICATION",
+        "Exposure Zone Location": "Plant",
+        "Year": "LCJ",
+        "Month": "mS",
+        "Identification Number": "22",
+        "Job Class Representation Card": {
+            "Employee's Name": {
+                "Last": "_",
+                "First": "_"
+            },
+            "Job Code Representation": "Representative",
+            "Shifts": {
+                "Evenings": "U",
+                "Graveyard": "RU",
+                "Novel": "N"
+            },
+            "Note": "Representative monitoring will be assigned to all individuals with the Job and the exposure zone specified. Unusual monitoring results will only be assigned to individuals specified. For representative monitoring appropriate shifts will be specified."
+        },
+        "Job Characterization Card": {
+            "Job Type": {
+                "Routine/Normal": "-",
+                "Infrequent/Variable": "-",
+                "Stand-Up": "-",
+                "Upset/Abnormal": "-"
+            },
+            "Job Frequency": "Times/Month",
+            "Minutes": "(Time - If Appropriate, EG: Batch; Variable)",
+            "Job Description": "(Include Machines)"
+        }
+    }
+}

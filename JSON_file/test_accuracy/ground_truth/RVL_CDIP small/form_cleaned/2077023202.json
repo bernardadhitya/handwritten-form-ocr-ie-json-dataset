@@ -1,0 +1,85 @@
+{
+    "instructions": "Complete all information requested below, retain the pink copy for your records. Attach form and labels (2 labels required for overnight packages) to item being sent. For pick-up of large items call shipping and receiving on extension 2395. If you prefer, small items may please bring the items to the Lobby Messenger Room. When filling out this form, please indicate in the column marked CODE SELECTION your numeric choice for each field on the form. For example, if you work for USA Sales under code selection column you would indicate your division number as 2 and department number as 201. If your package requires next day delivery by 10:30 A.M. you would indicate the service requested as 22. If you have any questions, please contact the supervisor of Shipping and Receiving on extension 2398.",
+    "name": "MAON",
+    "date_extension": "",
+    "division": {
+        "code_selection": {
+            "1": "PM Management Corp.",
+            "2": "USA"
+        },
+        "division_number": "",
+        "department": {
+            "101": "Controller",
+            "108": "Tax",
+            "201": "Sales",
+            "102": "HQICS",
+            "109": "Audit",
+            "202": "Marketing",
+            "103": "General Counsel",
+            "110": "Treasurer",
+            "203": "Operations",
+            "104": "Public Affairs",
+            "105": "Planning",
+            "111": "Pension",
+            "204": "Corp. Affairs",
+            "112": "HQ Services",
+            "205": "Finance",
+            "106": "Personnel",
+            "113": "Travel",
+            "206": "Personnel",
+            "107": "Executive",
+            "114": "PMCC",
+            "207": "Executive"
+        },
+        "department_number": ""
+    },
+    "type_of_service": {
+        "note": "ON FRIDAY, UNLESS SPECIFIED, OVERNIGHT DELIVERIES WILL BE MADE ON MONDAY",
+        "service_number": "",
+        "courier": {
+            "air_messenger_local": {
+                "29": "Regular 3 hours $5.25",
+                "22": "Overnight by 10:30 $6.50",
+                "30": "Rush 2 hours $9.00",
+                "23": "Overnight by 12:00 noon $5.00",
+                "31": "Trucking Base $15.50",
+                "insured": {
+                    "24": "Saturday delivery by 5:00 pm $10.00",
+                    "25": "Second Day $3.50"
+                }
+            }
+        },
+        "ups_rps_ground": {
+            "26": "Regular Residential $2.35",
+            "business": "$2.95"
+        },
+        "us_postal_service": {
+            "32": "Priority Mail $3.00 up to 2 lbs.",
+            "33": "Certified Mail $1.42",
+            "34": "Int. Registered Mail $5.45",
+            "35": "Express Mail $10.75",
+            "36": "Certified Return Receipt $2.52"
+        },
+        "international_shipments": {
+            "27": "International Courier (Non Pouch) $11.00",
+            "39": "Int. Express Mail - Starting at $11.50",
+            "40": "Int. Mail Small Package under 4 lbs."
+        }
+    },
+    "weight": "",
+    "ship_to": {
+        "name": "PETER W. SPKINS FSO",
+        "c_o": "DORSEY WINEY",
+        "address": "SXH",
+        "city": "MIANC5",
+        "pcode": "40",
+        "telephone": ""
+    },
+    "pick_up_from": "2077023202",
+    "form_number": "3251 APM INC. REV. 1/S5 #ed Forms",
+    "distribution": {
+        "white": "Shipping",
+        "yellow": "Shipping",
+        "pink": "Requestor"
+    }
+}

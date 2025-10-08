@@ -1,0 +1,4 @@
+{
+    "error": "No JSON detected",
+    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nPK&ippume CHET1N 13iue de ChaCourlars 90 35O EVETTE SALBEKT Tel. : 03.04.43.58.7 AssEDIC -Assuraue Chtruage 31 Aveue Geue'ral dc Cau 66 161 LE BOULOU changeueul de situahon Jau&al Evelte Salbr5,&e 16...\nZ lest a vohe -deposhon pour houl 2usegueuul k vow pur dagrer, ouur mes h'uce salulalrons, ouur mes h'uce salulalrons, ouur mes h'uce salulalrons, ouur mes h'uc...\n```\n\nHere is the text with the non-structured information removed:\n\n```\nCHET1N 13iue de ChaCourlars 90 35O EVETTE SALBEKT\nTel. : 03.04.43.58.7\nAssEDIC -Assuraue Chtruage\n31 Aveue Geue'ral dc Cau 66 161\nLE BOULOU changeueul de situahon Jau&al Evelte Salbr5,&e 16\n```\n\nThe structured information is:\n\n* Name: CHET1N\n* Address: 13iue de ChaCourlars 90 35O\n* Phone: 03.04.43.58.7"
+}

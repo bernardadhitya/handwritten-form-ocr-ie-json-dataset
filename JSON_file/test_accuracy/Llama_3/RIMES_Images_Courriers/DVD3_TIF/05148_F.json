@@ -1,0 +1,4 @@
+{
+    "error": "No JSON detected",
+    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n6,Bd Maréchal Fayolle 43000 Le Puy en Velay Pharmacie Centrale tél.0471054876-Fax047105587410 Télécopie Lonu natk nan:! Mmane De:\nA:\ncomf aluci) 9t Q9 43 33 2 ly Télécopie: 01 Pages :\nto) ho/ 02 Date :\nTéléphone:\n0bjet:ExH dc mon YWi mW Cc :\nUrgent  Pour avis Commentaires Réponse Confidentiel\nA:\ncomf aluci) 9t Q9 43 33 2 ly Télécopie: 01 Pages :\nto) ho/ 02 Date :\nTéléphone:\n0bjet:ExH dc mon YWi mW Cc :\nUrgent  Pour avis Commentaires Réponse Confidentiel\n\nHere is the structured JSON output:\n\n```json\n{\n  \"pharmacy\": {\n    \"address\": \"Bd Maréchal Fayolle 43000 Le Puy en Velay\",\n    \"phone\": \"0471054876\",\n    \"fax\": \"0471055874\",\n    \"telephone\": \"01\",\n    \"pages\": \"02\",\n    \"date"
+}

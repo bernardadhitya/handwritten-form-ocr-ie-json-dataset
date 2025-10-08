@@ -1,0 +1,71 @@
+{
+    "departmentExpenseBudgetSummary": {
+        "company": "Lorillard, Division of Loew's Corp.",
+        "department": {
+            "division": "Sales",
+            "domesticTaxFree": {
+                "projectedCurrentYearBudget": {
+                    "expenses": 19,
+                    "account": "WALI",
+                    "budget": {
+                        "currentYear": 17000,
+                        "actual": 8500,
+                        "projectedTotal": 25500,
+                        "increaseDecrease": 6450
+                    }
+                },
+                "items": [
+                    {
+                        "codeNo": 6460,
+                        "description": "Consumer Sampling 4's",
+                        "projectedCurrentYearBudget": {
+                            "budget": 30000,
+                            "currentYear": 4500,
+                            "actual": 8000,
+                            "projectedTotal": 10000,
+                            "increaseDecrease": 18000
+                        }
+                    },
+                    {
+                        "codeNo": 6470,
+                        "description": "Consumer Sampling 20's",
+                        "projectedCurrentYearBudget": {
+                            "budget": 28000,
+                            "currentYear": 10000,
+                            "actual": 16000,
+                            "projectedTotal": 4000,
+                            "increaseDecrease": 20000
+                        }
+                    },
+                    {
+                        "codeNo": 6560,
+                        "description": "Consumer Offer Items",
+                        "projectedCurrentYearBudget": {
+                            "budget": 20000,
+                            "currentYear": 19000,
+                            "actual": 10000,
+                            "projectedTotal": 29000
+                        }
+                    },
+                    {
+                        "codeNo": 91104867,
+                        "description": "Special Promotion Cost",
+                        "projectedCurrentYearBudget": {
+                            "budget": 42000,
+                            "currentYear": 13000,
+                            "actual": 60000,
+                            "projectedTotal": 32500,
+                            "increaseDecrease": 92500
+                        }
+                    }
+                ],
+                "total": {
+                    "budget": 120000,
+                    "currentYear": 27500
+                }
+            }
+        },
+        "dateSubmitted": null,
+        "departmentManager": null
+    }
+}

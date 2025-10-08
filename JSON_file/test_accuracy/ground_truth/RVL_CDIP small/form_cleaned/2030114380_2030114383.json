@@ -1,0 +1,34 @@
+{
+    "lockout_no": "LOCKOUT.137",
+    "page": "of",
+    "company": "PHILIPMORRIS U.S.A.",
+    "issue_date": "09/05/90",
+    "supersedes": "02/01/90",
+    "applicable_to": "",
+    "update_responsibility": "Area Supe",
+    "subject": "Lockout/Tagout Procedure for Schwing Sludge Pump",
+    "approval": "P.w.udfsm",
+    "oss_prevention": "",
+    "basic_job_procedure": {
+        "key_points": [
+            {
+                "job_step": "Notify all affected employees that the lockout/tagout will be performed."
+            },
+            {
+                "job_step": "Shut down equipment by normal stopping procedure and ensure equipment has come to a complete stop."
+            },
+            {
+                "job_step": "Lock out/tag out the following potentially hazardous energy sources per Park 500 Lockout Policy. See attachment for energy isolation locations.",
+                "details": [
+                    {
+                        "type": "Electrical",
+                        "instruction": "Disconnects shall be in the 'OFF' position, locked and tagged with a Philip Morris-supplied locking device.",
+                        "warning": "Death or serious injury could result from disconnect arcing or exploding while equipment is under load/running. Electrical shock or death could result from frayed, exposed or improperly grounded wiring or unauthorized tampering with energized electrical circuits.",
+                        "safety_tip": "Always stand to the side and look away from a disconnect box when activating on/off switch. This will minimize potential exposure should an electrical arc occur."
+                    }
+                ]
+            }
+        ]
+    },
+    "document_id": "2030114380"
+}

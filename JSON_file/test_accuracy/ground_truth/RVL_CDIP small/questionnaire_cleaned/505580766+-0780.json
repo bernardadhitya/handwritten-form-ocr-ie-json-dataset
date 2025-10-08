@@ -1,0 +1,64 @@
+{
+    "company": "Bellomy-Carrigg, Inc",
+    "job_number": "0906",
+    "location": {
+        "address": "UNIVERSITY PARKWAY",
+        "city": "WINSTON SALEM",
+        "state": "NC",
+        "zip_code": "270G"
+    },
+    "date": "October, 1984",
+    "project": {
+        "id": "2083",
+        "pages": "1-4",
+        "title": "AA EXTENDED USE CONCEPT/PRODUCT TEST",
+        "document_type": "SCREENER"
+    },
+    "respondent": {
+        "name": "",
+        "address": "",
+        "state": "",
+        "area_code": "",
+        "phone": "",
+        "date": "",
+        "interviewed_by": ""
+    },
+    "instructions": {
+        "target": "INTERVIEW WOMEN ONLY",
+        "introduction": "Hello, I'm from (your company), an independent marketing research company. We're conducting a survey with women about various consumer products. (Ask to speak to female 18+ years or older.)"
+    },
+    "questions": [
+        {
+            "question_number": 1,
+            "age_groups": {
+                "under_18": "TERMINATE, ERASE AND RE-USE",
+                "18-24": "CHECK QUOTA TO DETERMINE IF NEEDED.",
+                "35-50+": "IF OVER QUOTA ASK FOR ANOTHER FEMALE IN AGE GROUP NEEDED.",
+                "refuse": "TERMINATE, ERASE AND RE-USE"
+            }
+        },
+        {
+            "question_number": 2,
+            "daily_products": [
+                "Breathmints",
+                "Mouthwash",
+                "Cigarettes",
+                "Gel toothpaste",
+                "Cream toothpaste"
+            ],
+            "condition": "CONTINUE ONLY IF CIGARETTES CHECKED ABOVE IN Q.2. ASK FOR ANOTHER FEMALE HOUSEHOLD MEMBER 18+ AND GO BACK TO Q.1. OTHERWISE, IF NONE, TERMINATE, ERASE AND RE-USE."
+        },
+        {
+            "question_number": 3,
+            "brands_used_past_week": [
+                "Certs breathmints",
+                "Clorets breathmints",
+                "Topal toothpaste",
+                "Aqua Fresh toothpaste",
+                "Clinomint",
+                "Scope",
+                "Listerine"
+            ]
+        }
+    ]
+}

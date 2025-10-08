@@ -1,0 +1,44 @@
+{
+    "Name": "Sadosky",
+    "Day": "Wed 3",
+    "ID": "0-126",
+    "Code": "031486/1",
+    "Gender": "FEMALE",
+    "Occupation": "SCREENER",
+    "Products": [
+        "Menthol",
+        "Cigarettes"
+    ],
+    "Survey": {
+        "Questions": [
+            {
+                "Question": "Is there anyone living in Your household who employed in the sale, manufacture or distribution of tobacco products, market research, advertising?",
+                "Options": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            {
+                "Question": "Is there a female living in Your home between the ages 18 and 34 who smokes at least 10 cigarettes per day?",
+                "Options": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            {
+                "Question": "Is your regular brand of cigarettes filter or non-filter?",
+                "Options": [
+                    "Filter",
+                    "Non-filter"
+                ]
+            },
+            {
+                "Question": "Is your regular brand of cigarettes menthol or non-menthol?",
+                "Options": [
+                    "Menthol",
+                    "Non-menthol"
+                ]
+            }
+        ]
+    }
+}

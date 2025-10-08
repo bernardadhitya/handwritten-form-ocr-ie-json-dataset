@@ -1,0 +1,36 @@
+{
+    "caseNumber": "94C18147",
+    "courtLocation": {
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90023"
+    },
+    "plaintiff": {
+        "name": "George Andrew Koenigshofer",
+        "address": "43080 Parkway Ave",
+        "city": "Hemet",
+        "state": "CA",
+        "zip": "92544"
+    },
+    "defendant": {
+        "name": "Lorillard, Incorporated",
+        "agent": "Ronald Mandelbaum",
+        "address": "275 So. Muirfield Road",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90004"
+    },
+    "claim": {
+        "amount": 5000.0,
+        "description": "Product liability/wrongful death of Della L. Koenigshofer due to lung cancer",
+        "date": "08/14/93"
+    },
+    "trial": {
+        "date": "09/15/94",
+        "filedDate": "08/12/94"
+    },
+    "declaration": {
+        "date": "08/12/94",
+        "name": "George Andrew Koenigshofer"
+    }
+}

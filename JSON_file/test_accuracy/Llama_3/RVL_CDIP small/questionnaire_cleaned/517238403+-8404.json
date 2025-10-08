@@ -1,0 +1,35 @@
+{
+    "name": "James Rosser",
+    "address": {
+        "street": "790 Douglas Ave",
+        "city": "Monroe",
+        "state": "OH",
+        "zip": "45050"
+    },
+    "customer_id": "270246583",
+    "letter_id": "WWC 001",
+    "sender": {
+        "name": "Aah Conrad",
+        "title": "Consumer Satisfaction Research Manager",
+        "organization": "Mark Conrad"
+    },
+    "request": {
+        "type": "assistance",
+        "description": "request for assistance"
+    },
+    "survey": {
+        "type": "customer satisfaction",
+        "description": "to complete a questionnaire about how well you were treated by our company representative"
+    },
+    "warning": {
+        "type": "health warning",
+        "description": "Smoking causes lung cancer, heart disease, emphysema, and may complicate pregnancy."
+    },
+    "data": {
+        "smoking_data": {
+            "cigarette_weight": "17mg",
+            "cigarette_length": "14img",
+            "cigarette_weight_by_FTC_method": "a 14img ricci a per cigarette"
+        }
+    }
+}

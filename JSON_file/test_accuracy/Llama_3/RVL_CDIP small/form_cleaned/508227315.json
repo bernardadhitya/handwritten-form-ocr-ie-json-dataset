@@ -1,0 +1,48 @@
+{
+    "AuthorizationRequest": {
+        "AuthorizationType": "Capital Exper",
+        "TotalRequest": 350000,
+        "Other": 20000,
+        "Contract": 150000,
+        "ProductSupport": 100000,
+        "PreviousProposals": "No",
+        "SubsequentProposals": "No",
+        "Minimum": 60000,
+        "FundsRequired": {
+            "Department": "780",
+            "ExpenseCode": "04-90-0218-9010-780"
+        },
+        "CorporateFunds": {
+            "Department": "Corporate",
+            "ExpenseCode": "04-90-0218-9010-780"
+        },
+        "FinancialImpact": {
+            "OperatingEarnings": 250000000,
+            "CorporateFunds": 60000
+        },
+        "Reviews": {
+            "Date": "5/5/97",
+            "Department": "STB-TRD",
+            "Signature": "gap=sr.ve"
+        },
+        "Implementation": {
+            "Date": "5/5/97",
+            "Department": "Implomentor/Project Manager",
+            "Signature": "Project Ghent Representati"
+        },
+        "Legal": {
+            "Date": "5/5/97",
+            "Department": "SLIZLEGALSSY",
+            "Signature": "peta"
+        },
+        "Approval": {
+            "Date": "5/5/97",
+            "Department": "BoM",
+            "Signature": "é Fin, & Admin."
+        },
+        "ProjectManager": {
+            "Name": "G. T. Burger",
+            "Department": "Department Management"
+        }
+    }
+}

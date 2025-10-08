@@ -1,0 +1,42 @@
+{
+    "study": "CIGARETTE STUDY",
+    "participant": {
+        "name": "",
+        "telephone": "",
+        "address": "",
+        "city_state": "",
+        "zip": ""
+    },
+    "interviewer": {
+        "name": "",
+        "date": ""
+    },
+    "gender": {
+        "male": false,
+        "female": false
+    },
+    "age_group": {
+        "under_18": false,
+        "18_24": false,
+        "25_34": false,
+        "35_49": false
+    },
+    "company_type": {
+        "drug_company": false,
+        "food_manufacturer": false,
+        "mobile_manufacturer": false,
+        "advertising_agency": false,
+        "television_manufacturer": false
+    },
+    "cigarettes_per_day": {
+        "less_than_1": false,
+        "none": false,
+        "1_4": false,
+        "5_9": false,
+        "10_15": false,
+        "16_19": false,
+        "20": false,
+        "25": false,
+        "26_30": false
+    }
+}

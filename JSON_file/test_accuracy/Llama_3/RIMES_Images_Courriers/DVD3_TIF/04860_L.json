@@ -1,0 +1,16 @@
+{
+    "name": "string",
+    "address": {
+        "street": "string",
+        "city": "string",
+        "zip": "string"
+    },
+    "phone": "string",
+    "email": "string",
+    "vehicle": {
+        "make": "string",
+        "model": "string",
+        "year": "string"
+    },
+    "interests": "string"
+}

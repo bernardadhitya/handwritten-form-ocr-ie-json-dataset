@@ -1,0 +1,102 @@
+{
+    "acute_toxicity_in_mice": {
+        "compound": {
+            "name": "3-Hydroxy-3-methylbutanoic acid",
+            "code": "Tur 13",
+            "or_number": "OR39-23",
+            "a_number": "A4"
+        },
+        "source": {
+            "date_received": "Unknown",
+            "tested": "12/28/78",
+            "reported": "10/6/80",
+            "update": "Unknown"
+        },
+        "investigators": [
+            "H.S. Tong",
+            "M.S. Forte"
+        ],
+        "notebook_page": "BIO14-23",
+        "signature": "Swiss-Webster",
+        "strain_of_mice": {
+            "male": "Unknown",
+            "female": "Unknown",
+            "date_received": "Unknown",
+            "average_weight_range_gm": "Unknown",
+            "source": "Camm Research"
+        },
+        "route_of_compound_administration": [
+            "P.O.",
+            "O.I.P.",
+            "I.V.",
+            "Inhalation"
+        ],
+        "compound_vehicle": [
+            "Methyl Cellulose",
+            "Corn Oil",
+            "Saline",
+            "Other"
+        ],
+        "groups": [
+            {
+                "group_no": 1,
+                "percent_solution": 5,
+                "mg_per_kg_bodyweight": 1800,
+                "no_of_deaths_not_tested": "1/6"
+            },
+            {
+                "group_no": 2,
+                "percent_solution": 10,
+                "mg_per_kg_bodyweight": 2160,
+                "no_of_deaths_not_tested": "0/6"
+            },
+            {
+                "group_no": 3,
+                "percent_solution": 10,
+                "mg_per_kg_bodyweight": 2592,
+                "no_of_deaths_not_tested": "0/6"
+            },
+            {
+                "group_no": 4,
+                "percent_solution": 10,
+                "mg_per_kg_bodyweight": 3732,
+                "no_of_deaths_not_tested": "3/6"
+            },
+            {
+                "group_no": 5,
+                "percent_solution": 10,
+                "mg_per_kg_bodyweight": 4479,
+                "no_of_deaths_not_tested": "6/6"
+            }
+        ],
+        "reference_for_calculation": {
+            "authors": [
+                "Litchfield, J. T.",
+                "Wilcoxin, F."
+            ],
+            "journal": "J. of Pharmacol and Exper. Ther.",
+            "volume": 90,
+            "pages": "99",
+            "year": 1948
+        },
+        "ld50_95_confidence_limits": "3.5 (3.1 to 3.9) g/kg",
+        "observations": [
+            "Respiratory depression",
+            "Constriction of blood vessels",
+            "Inactivity"
+        ],
+        "recovery": "Survivors recovered in 48 hours.",
+        "recommended_safe_dose": {
+            "trial": "Single",
+            "method": "Inhalation",
+            "dose": "0.3 mg"
+        },
+        "document_id": "00040534",
+        "copies_to": [
+            "Dr. H. J. Minnemeyer",
+            "Ms. L. B. Gray"
+        ],
+        "organization": "Lorillard Research Center",
+        "form": "FORM 7 (5/80)"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "script": {
+        "title": "1998 UE Outbound Survey Script",
+        "sections": [
+            {
+                "id": "A",
+                "title": "Greeting",
+                "steps": [
+                    {
+                        "id": 1,
+                        "text": "Hello, may I speak with (list name)?",
+                        "instructions": [
+                            {
+                                "condition": "If list name available",
+                                "action": "Go to 2."
+                            },
+                            {
+                                "condition": "If list name not available after 5 attempts",
+                                "action": "Is there a better day for me to call list name back? Schedule callback, and go to Closing I."
+                            },
+                            {
+                                "condition": "Record 3rd party refusal if list name is hospitalized, in jail, is on extended vacation/travel, or is a juvenile."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "text": "Hello, my name is (TSR name). I'm calling on behalf of Philip Morris. You currently receive coupons and other promotional offers. Do you wish to remain on our mailing list?",
+                        "responses": [
+                            {
+                                "condition": "If says, 'I do not smoke.' or 'I quit.'",
+                                "action": "If says, 'I do not smoke a Philip Morris brand.' The Philip Morris maintains a list of adult smokers regardless of brand. Would you like to remain on that list?"
+                            },
+                            {
+                                "condition": "If says, 'Why haven't I ever received coupons?'",
+                                "action": "Philip Morris sends promotional offers and coupons to selected individuals on the mailing list."
+                            },
+                            {
+                                "condition": "If says, 'How did you get my name?'",
+                                "action": "I'm sorry, I was not provided with that information. Continue with script."
+                            },
+                            {
+                                "condition": "If says, 'Please don't call me again.'",
+                                "action": "I'll make a note to remove your name from our list. I'm sorry to have inconvenienced you. Code as Do Not Call, and go to Closing I."
+                            },
+                            {
+                                "condition": "If no",
+                                "action": "Code as Remove Name, and go to Closing I."
+                            },
+                            {
+                                "condition": "If yes",
+                                "action": "Are you 21 or older?"
+                            },
+                            {
+                                "condition": "If no",
+                                "action": "Code as Under 21 and go to Closing I."
+                            },
+                            {
+                                "condition": "If yes",
+                                "action": "Confirm spelling of all information including phone number 2061708849."
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "text": "I have just a few questions about your smoking preferences, do you have a few minutes?"
+                    }
+                ]
+            }
+        ],
+        "metadata": {
+            "created": "4/25/98",
+            "revised": null,
+            "approved": null,
+            "to_site": null
+        }
+    }
+}

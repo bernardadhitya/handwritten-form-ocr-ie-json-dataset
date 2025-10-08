@@ -1,0 +1,87 @@
+{
+    "id": 1015,
+    "company": "AHF MARKETING RESEARCH",
+    "project_number": "#42318W",
+    "project_name": "NATIONAL CONSENSUS SURVEYS",
+    "address": {
+        "street": "801 Second Avenue",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10017"
+    },
+    "date": "January, 1978",
+    "survey": {
+        "title": "CIGARETTE PORTFOLIO SCREENING QUESTIONNAIRE",
+        "time_interview": {
+            "started": null,
+            "ended": null
+        },
+        "respondent": {
+            "name": null,
+            "telephone": null,
+            "address": null,
+            "state": null
+        },
+        "interviewer": null,
+        "interview_date": null,
+        "validated_by": null,
+        "validation_date": null
+    },
+    "city_options": [
+        "Boston",
+        "Cleveland",
+        "Jacksonville",
+        "Los Angeles",
+        "New York",
+        "Bello"
+    ],
+    "initial_refusal": {
+        "circle_next_highest_number": [
+            2,
+            4,
+            10,
+            11,
+            20,
+            28,
+            30,
+            32,
+            34,
+            36,
+            37,
+            38,
+            39,
+            40,
+            48,
+            61,
+            50,
+            60
+        ]
+    },
+    "participation": {
+        "terminate_and_circle_next_highest_number": [
+            3,
+            5,
+            5,
+            10,
+            11,
+            12
+        ],
+        "continue": null
+    },
+    "age_card": {
+        "terminate_and_circle_next_highest_number": [
+            "Under 21",
+            "29"
+        ],
+        "continue": [
+            "to 55",
+            "to 60"
+        ],
+        "under_age": [
+            10,
+            11,
+            12
+        ]
+    },
+    "reference_number": "01840728"
+}

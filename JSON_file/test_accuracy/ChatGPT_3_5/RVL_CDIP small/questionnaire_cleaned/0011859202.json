@@ -1,0 +1,31 @@
+{
+    "Researcher": "ALFRED NOLITZ RESEARCH",
+    "Address": "527 18th Avenue, New York, NY 10029",
+    "Date": "1966",
+    "Location": "FIVIER CLINICAREHOME BCDWT TEST 4",
+    "Purpose": "conducting survey on cigarette smoking habits and preferences",
+    "Participants": {
+        "Age": "18 years or older",
+        "Gender": "Male, Female",
+        "Occupation": "Student, Homemaker, Other",
+        "Relationship": "Uncle, Aunt, Son-in-Law, etc."
+    },
+    "Questions": [
+        {
+            "Question": "Are you a current filter cigarette smoker?",
+            "Response": "Yes"
+        },
+        {
+            "Question": "Have you completed the listing of current filter cigarette smokers in the household?",
+            "Response": "Yes"
+        },
+        {
+            "Question": "Would you be willing to try filter cigarettes during the next few days?",
+            "Response": "Yes"
+        },
+        {
+            "Question": "How many packs of cigarettes do you smoke per day?",
+            "Response": "1"
+        }
+    ]
+}

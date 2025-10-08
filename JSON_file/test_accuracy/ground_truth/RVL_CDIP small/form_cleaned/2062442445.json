@@ -1,0 +1,111 @@
+{
+    "program": "SUMMER SALES SPECTACULAR",
+    "retailerUnderstanding": {
+        "phaseI": {
+            "priceReduction": {
+                "Marlboro": {
+                    "pack": "20\u00a2",
+                    "carton": "$2"
+                },
+                "Basic": {
+                    "pack": "20\u00a2",
+                    "carton": "$2"
+                }
+            },
+            "duration": {
+                "start": "June 26, 1995",
+                "end": "July 9, 1995"
+            },
+            "posItems": [
+                {
+                    "item": "POS Item #1",
+                    "location": "Location"
+                },
+                {
+                    "item": "POS Item #2",
+                    "location": "Location"
+                },
+                {
+                    "item": "POS Item #3",
+                    "location": "Location"
+                },
+                {
+                    "item": "POS Item #4",
+                    "location": "Location"
+                }
+            ]
+        },
+        "phaseII": {
+            "priceReduction": {
+                "Benson & Hedges": {
+                    "pack": "20\u00a2",
+                    "carton": "$2"
+                },
+                "Merit": {
+                    "pack": "20\u00a2",
+                    "carton": "$2"
+                },
+                "Parliament": {
+                    "pack": "20\u00a2",
+                    "carton": "$2"
+                },
+                "Virginia Slims": {
+                    "pack": "20\u00a2",
+                    "carton": "$2"
+                }
+            },
+            "duration": {
+                "start": "/95",
+                "end": "/95"
+            },
+            "posItems": [
+                {
+                    "item": "POS Item #1",
+                    "location": "Location"
+                },
+                {
+                    "item": "POS Item #2",
+                    "location": "Location"
+                },
+                {
+                    "item": "POS Item #3",
+                    "location": "Location"
+                }
+            ]
+        }
+    },
+    "promotionAllowance": {
+        "phaseI": {
+            "potentialAllowance": "$"
+        },
+        "phaseII": {
+            "potentialAllowance": "$"
+        },
+        "flexFundAllowance": "extend Marlboro 1 week",
+        "totalPotentialAllowance": "$"
+    },
+    "auditRights": "Philip Morris reserves the right to audit compliance of any of these program requirements at any time.",
+    "storeDetails": {
+        "storeName": "Amtsican Diug",
+        "control": "75",
+        "storeAddress": "88 SwiFtDeCbrkias 60521",
+        "phone": "2062442445"
+    },
+    "representative": {
+        "name": "Barbava Lyncl",
+        "territoryNumber": "",
+        "signature": "",
+        "date": ""
+    },
+    "retailer": {
+        "name": "",
+        "signature": "",
+        "date": ""
+    },
+    "distribution": {
+        "original": "Section Office",
+        "copy1": "PM Manager",
+        "copy2": "Retailer",
+        "copy3": "PM Representative"
+    }
+}

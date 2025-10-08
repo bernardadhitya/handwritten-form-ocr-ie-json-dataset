@@ -1,0 +1,25 @@
+{
+    "agreement": {
+        "parties": [
+            {
+                "name": "G.D Societa per Azioni",
+                "type": "representative"
+            },
+            {
+                "name": "R. J.",
+                "type": "individual"
+            }
+        ],
+        "product": {
+            "name": "Project CAL",
+            "description": "new product"
+        },
+        "discussions": {
+            "existence": true,
+            "nature": "new product"
+        },
+        "disclosure": {
+            "agreement": true
+        }
+    }
+}

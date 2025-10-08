@@ -1,0 +1,39 @@
+{
+    "bulletinDataSurvey": {
+        "estimateNumber": "PEE AQ/1",
+        "plantOperatorMarket": "letTie",
+        "location": "Rp.J + I @ Interolox",
+        "questions": [
+            {
+                "question": "What is the current Daily Effective Circulation of this unit?",
+                "answer": "48"
+            },
+            {
+                "question": "How many lamps are used on this unit?",
+                "answer": null
+            },
+            {
+                "question": "What type and wattage are they?",
+                "answer": {
+                    "numberOfLamps": null,
+                    "typeWattage": "400 wt"
+                }
+            },
+            {
+                "question": "How often is the face of this unit scraped?",
+                "answer": {
+                    "timesPerYear": "Aseede"
+                }
+            },
+            {
+                "question": "Is there any elementary school, junior high school, or high school or children's playground within 500 ft. of the above location?",
+                "answer": "YES"
+            },
+            {
+                "question": "Is there any playground between 500 ft. and 1000 ft. of the above location?",
+                "answer": "NO"
+            }
+        ],
+        "plantManagerSignatureDate": "93107124"
+    }
+}

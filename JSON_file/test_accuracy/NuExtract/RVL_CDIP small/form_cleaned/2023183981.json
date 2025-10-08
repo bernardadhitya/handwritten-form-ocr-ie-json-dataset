@@ -1,0 +1,4 @@
+{
+    "error": "No JSON detected",
+    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nINBIFO Institut fur biologische Forschung Koln FORM 42.KW85 ERO/MWO RZ50DiVB2 BRAMWO INTECRATING REPORT/DOCUMENTATION-LAUFZETTEL PQ133 Hit BLATT NR.\nTITEL:\nS 3LAT NR. A VORGANG STELLE DATUM BZW.\nZN PERSON EINGANG AUSGANG 6.ua86 .1 12 Teometur HMER R.llaife Hepwor, SorfonBruch berds HIR 4 Mibailt clly A 7.H8 3 Pisruill Ssu epy No.San PPR HHR 2023183981 a Erlauterungen s. Ruckseite 51/KW 83.\n\n{\n  \"institution\": \"INBIFO Institut fur biologische Forschung Koln\",\n  \"form\": \"FORM 42.KW85\",\n  \"document\": \"ERO/MWO RZ50DiVB2 BRAMWO INTECRATING REPORT/DOCUMENTATION-LAUFZETTEL PQ133 Hit BLATT NR.\",\n  \"title\": \"S 3LAT NR. A VORGANG STELLE DATUM BZW.\",\n  \"person\": \"ZN PERSON EINGANG AUSGANG 6.ua86 .1 12 Teometur HMER R.llaife Hepwor, SorfonBruch berds HIR 4 Mibailt clly A 7.H8 3 Pisruill"
+}

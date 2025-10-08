@@ -1,0 +1,40 @@
+{
+    "compound_physical_parameters": {
+        "compound": "A30",
+        "ot_numocr": "PHYSICAL STATE",
+        "physical_state": "Clear Colorless liquid",
+        "ph": "8.13 at 24\u00b0C",
+        "extrapolation_procedures": "Dr. P.D. Schickedantz, Lorillard Research Center",
+        "accession_number": "1662",
+        "reference": "OR 83-81"
+    },
+    "airns": "See sor for Biological Solutions",
+    "oral": {
+        "reference": "OR 100-32",
+        "solubility": [
+            {
+                "amount": "0.5g",
+                "solvent": "0.5 mL corn oil",
+                "temperature": "room temperature"
+            },
+            {
+                "amount": "0.2 mg",
+                "solvent": "0.5 mL 10% propylene glycol solution",
+                "temperature": "38\u00b0C"
+            }
+        ],
+        "procedure": "Add A30 to warm (38\u00b0C) propylene glycol, add warm water to make 10% propylene glycol solution."
+    },
+    "storage_recommendations": "Refrigerate in amber bottle at no more than 8\u00b0C.",
+    "compound_sensitive_to": [
+        "AR",
+        "HEAT",
+        "MOISTURE",
+        "OTHER"
+    ],
+    "safety_comments": {
+        "suggested_handling_procedure": "00836816"
+    },
+    "date": "LOHIII,AH(3) RESEA",
+    "form": "FORM 9 (7-82)"
+}

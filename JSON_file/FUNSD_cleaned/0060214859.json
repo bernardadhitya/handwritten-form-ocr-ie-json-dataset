@@ -1,0 +1,37 @@
+{
+    "report": "Report517",
+    "date": "10-NOV-1986",
+    "materialTested": "P-830 GLASS FIBER",
+    "supplier": "OWENS CORNING",
+    "lotOrSample": "ROLL34&35",
+    "quantityReceived": "2ROLLS",
+    "dateReceived": "11-6-86",
+    "accepted": true,
+    "rejected": false,
+    "issues": {
+        "weight": {
+            "description": "Weight out of specifications on ROLLS34&35",
+            "roll34": "183.04",
+            "roll35": "183.44",
+            "specs": "190-210 GMS/SQM"
+        },
+        "loi": {
+            "description": "LOI out of spec on ROLL 34",
+            "average": "2.49%",
+            "specifications": "2.6-3.1%"
+        }
+    },
+    "comments": "Kenneth W. Smith",
+    "technologist": "QA",
+    "telephone": "#6926",
+    "rjr": "50599 106C",
+    "distribution": [
+        "Mr. Lucien L. Bass, III",
+        "Dr. L.H. O'Conner",
+        "Mr. L.W. Peterson",
+        "Mr. W.B. Scantland",
+        "Ms. R. deLacy",
+        "Mr. M.U. Shannon",
+        "Mr. R.L. MeGee"
+    ]
+}

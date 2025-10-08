@@ -1,0 +1,65 @@
+{
+    "document": {
+        "header": {
+            "time": "10:30",
+            "company": "Bellomy-gg.Inc.",
+            "job_number": "0906",
+            "address": "5 University Parkway, Va ujy vi oddy",
+            "date": "October, 1984",
+            "location": "Winston-Salem",
+            "code": "2143",
+            "version": "1-4"
+        },
+        "title": "AA Extended Use Concept/Product Test Screener",
+        "respondent": {
+            "name": "set Ade",
+            "address": "A STATEM",
+            "area_code": ")PHONE",
+            "date": "!0-6",
+            "interviewed_by": "INTERVIEW WOMEN ONLY"
+        },
+        "introduction": "Hello, I'm from (your company), an independent marketing research",
+        "instructions": "Ask to speak to female 18+ years or older.",
+        "questions": [
+            {
+                "question_number": 1,
+                "question_text": "Into which of the following age groups does your age belong? Are you....",
+                "options": [
+                    "Under 18. TERMINATE, ERASE AND RE-USE",
+                    "18-24 CHECK QUOTA TO DETERMINE IF NEEDED. IF OVER QUOTA, ASK FOR ANOTHER FEMALE IN AGE GROUP NEEDED.",
+                    "25-34",
+                    "35-49",
+                    "50+",
+                    "Refused. TERMINATE, ERASE AND RE-USE"
+                ]
+            },
+            {
+                "question_number": 2,
+                "question_text": "Which of the following products do you use daily?",
+                "options": [
+                    "Breathmints.",
+                    "Mouthwash.",
+                    "Cigarettes",
+                    "Gel toothpaste.",
+                    "Cream toothpaste."
+                ],
+                "note": "Continue only if cigarettes checked above in Q.2. Otherwise, ask for another female household member 18+ and go back to Q.1. If none, terminate, erase and re-use."
+            },
+            {
+                "question_number": 3,
+                "question_text": "Which of the following brands have you used in the past week?",
+                "options": [
+                    "Certs breathmints.",
+                    "Clorets breathmints.",
+                    "50552",
+                    "Topal toothpaste.",
+                    "Aqua Fresh toothpaste.",
+                    "Clinomint.",
+                    "6392",
+                    "Scope.",
+                    "Listerine."
+                ]
+            }
+        ]
+    }
+}

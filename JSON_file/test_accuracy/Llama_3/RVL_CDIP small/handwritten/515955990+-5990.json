@@ -1,0 +1,53 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "type": "select",
+            "label": "USUAL BRAND",
+            "options": [
+                "Menbit",
+                "Qt NeeMexbl",
+                "SURDES",
+                "4. hy SAL BRAND?"
+            ]
+        },
+        {
+            "id": 2,
+            "type": "select",
+            "label": "Brand",
+            "options": [
+                "1: Menbit",
+                "2: Qt NeeMexbl",
+                "3: SURDES",
+                "4: hy SAL BRAND?"
+            ]
+        },
+        {
+            "id": 3,
+            "type": "select",
+            "label": "How do you usually buy your USUAL BRAND?",
+            "options": [
+                "1: Online",
+                "2: In-store",
+                "3: Other (please specify)"
+            ]
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "label": "Additional comments"
+        }
+    ],
+    "requirements": [
+        {
+            "id": 1,
+            "type": "signature",
+            "label": "Signature"
+        },
+        {
+            "id": 2,
+            "type": "birthdate",
+            "label": "Birthdate"
+        }
+    ]
+}

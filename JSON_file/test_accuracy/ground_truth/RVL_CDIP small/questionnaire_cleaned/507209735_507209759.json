@@ -1,0 +1,102 @@
+{
+    "draft": [
+        2,
+        3
+    ],
+    "company": "D/RInc.",
+    "study_number": "372-07",
+    "location": "Pensacola",
+    "date": "February, 1989",
+    "locations": [
+        {
+            "id": 2,
+            "name": "Los Angeles"
+        },
+        {
+            "id": 3,
+            "name": "San Francisco"
+        },
+        {
+            "id": 4,
+            "name": "St. Louis"
+        },
+        {
+            "id": 5,
+            "name": "Corpus Christie"
+        },
+        {
+            "name": "Syracuse"
+        },
+        {
+            "name": "Pittsburgh"
+        },
+        {
+            "id": 8,
+            "name": "Houston"
+        },
+        {
+            "id": 9,
+            "name": "Baltimore"
+        },
+        {
+            "id": 10,
+            "name": "Chicago"
+        },
+        {
+            "id": 11,
+            "name": "Columbus"
+        }
+    ],
+    "test": "Advertising Communication Test",
+    "screener": {
+        "introduction": "Hello my name is from Diagnostic Research, a consumer research firm. We are conducting a survey in this area on consumer products, and we would like very much to get your viewpoint.",
+        "indicate_sex": {
+            "male": 12,
+            "female": null
+        },
+        "check_quotas": true,
+        "products_used_daily": [
+            {
+                "id": 12,
+                "name": "Toothpaste"
+            },
+            {
+                "id": null,
+                "name": "Mouthwash"
+            },
+            {
+                "id": 3,
+                "name": "Cigarettes",
+                "terminate_if_no": true
+            },
+            {
+                "name": "Chewing gum"
+            }
+        ],
+        "education_level": [
+            {
+                "id": 123,
+                "name": "Grade school"
+            },
+            {
+                "id": null,
+                "name": "High school"
+            },
+            {
+                "id": null,
+                "name": "Trade or technical school"
+            },
+            {
+                "id": 4,
+                "name": "Some college"
+            },
+            {
+                "id": 5,
+                "name": "College graduate or more"
+            }
+        ],
+        "check_quotas_education": true
+    },
+    "reference_number": "507209735",
+    "copy_type": "BEST COPY"
+}

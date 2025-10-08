@@ -1,0 +1,53 @@
+{
+    "advertising": {
+        "division": "SuperSports Promotions Event Marketing",
+        "address": {
+            "street": "1101 - 9th Avenue North",
+            "city": "St. Petersburg",
+            "state": "FL",
+            "zip": "33705",
+            "phone": "(813) 822-8929"
+        },
+        "event": {
+            "name": "Superbowl of Supercross",
+            "date": "Saturday, March 25",
+            "location": "Tampa Stadium"
+        },
+        "trade": {
+            "radio_station": "LAV4S",
+            "rates": {
+                "60_second_spots": {
+                    "number": 30,
+                    "rate": 0.0,
+                    "total_value": 0.0
+                },
+                "tickets": {
+                    "number": 2,
+                    "price": 0.0,
+                    "total_value": 0.0
+                }
+            }
+        },
+        "agreement": {
+            "start_date": "March 11th",
+            "end_date": "March 25th",
+            "affidavit": {
+                "delivery": "within 3 working days",
+                "recipient": "Bill Carlson",
+                "address": "1101 - 9th Avenue North, St. Petersburg, FL 33705"
+            },
+            "invoice": {
+                "delivery": "within 3 working days",
+                "recipient": "Bill Carlson",
+                "address": "1101 - 9th Avenue North, St. Petersburg, FL 33705"
+            },
+            "payment_terms": {
+                "payment": "tickets sent",
+                "deadline": "April 30"
+            }
+        },
+        "note": {
+            "limitation": "tickets limited to 50 per station"
+        }
+    }
+}

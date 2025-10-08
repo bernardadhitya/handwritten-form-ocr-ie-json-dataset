@@ -1,0 +1,68 @@
+{
+    "company": "READS.INC",
+    "address": "44 EAST 23rd STREET, NEW YORK, NY 10010",
+    "project_number": "Z19-3",
+    "form": "SCREENING QUESTIONNAIRE",
+    "questions": [
+        {
+            "question": "What is your age?",
+            "options": [
+                {
+                    "text": "Younger than 21",
+                    "action": "TERMINATE"
+                },
+                {
+                    "text": "Between 21 and 35",
+                    "action": "CONTINUE"
+                },
+                {
+                    "text": "Older than 35",
+                    "action": "TERMINATE"
+                }
+            ]
+        },
+        {
+            "question": "Does any member of your immediate family work for:",
+            "options": [
+                {
+                    "text": "Advertising agency",
+                    "action": "TERMINATE"
+                },
+                {
+                    "text": "Company manufacturing, selling or distributing beer, wine or other alcoholic beverages",
+                    "action": "TERMINATE"
+                },
+                {
+                    "text": "Company manufacturing, selling or distributing tobacco products",
+                    "action": "TERMINATE"
+                }
+            ]
+        },
+        {
+            "question": "Which of the following did you do in the past 2 days?",
+            "options": [
+                {
+                    "text": "Drink a glass of wine",
+                    "action": "CONTINUE"
+                },
+                {
+                    "text": "Drink beer",
+                    "action": "CONTINUE"
+                }
+            ]
+        },
+        {
+            "question": "About how many cigarettes do you smoke in an average day?",
+            "options": [
+                {
+                    "text": "Less than 1 pack",
+                    "action": "CONTINUE"
+                },
+                {
+                    "text": "1 pack or more",
+                    "action": "TERMINATE"
+                }
+            ]
+        }
+    ]
+}

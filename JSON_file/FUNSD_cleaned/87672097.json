@@ -1,0 +1,70 @@
+{
+    "acute_toxicity_in_mice": {
+        "compound": "Mapleine",
+        "source": "Crescent",
+        "lorillard_no": "B75",
+        "lot_no": null,
+        "date_received": "12/4/80",
+        "tested": "3/12/81-3/24/81",
+        "reported": "3/30/81",
+        "investigators": [
+            "H.S.Tong",
+            "A.A.Poole"
+        ],
+        "notebook_page": "BC19-15",
+        "signatures": null,
+        "strain_of_mice": "Swiss-Webster",
+        "male": null,
+        "female": null,
+        "date_received_mice": "3/5/81",
+        "average_weight_range_gm": "16-30",
+        "camm_research": null,
+        "route_of_compound_administration": [
+            "P.O.",
+            "P",
+            "iV.",
+            "INHALATION"
+        ],
+        "compound_vehicle": [
+            "METHYL CELLULOSE",
+            "CORNO",
+            "SALNE"
+        ],
+        "percent_solution": null,
+        "dosage": [
+            {
+                "no_tested": 1,
+                "mg_body_weight": 100,
+                "result": "0/6"
+            },
+            {
+                "no_tested": 2,
+                "mg_body_weight": 100,
+                "result": "0/6"
+            },
+            {
+                "no_tested": 3,
+                "mg_body_weight": 100,
+                "result": "0/6"
+            },
+            {
+                "no_tested": 4,
+                "mg_body_weight": 100,
+                "result": "0/6"
+            },
+            {
+                "no_tested": 5,
+                "mg_body_weight": 100,
+                "result": "0/6"
+            }
+        ],
+        "reference": "Weil, Carrol S., Biometrics, Vol.8 No.3. Sept. 1952, D. 249.",
+        "conclusion": "Higher doses were impractical. The recommended safe dose for trial inhalation in man is 80.6, 40.3, or 26.8 mg per cigarette when smoked 1, 2 or 3 cigarettes per hour, respectively.",
+        "document_id": "87672097",
+        "copies_to": [
+            "H.J. Minnemeyer",
+            "Gray"
+        ],
+        "lorillard_research_center": "FORM.7. (580)"
+    }
+}

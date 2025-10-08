@@ -1,0 +1,64 @@
+{
+    "Date": "January 18, 1996",
+    "ProjectApproval": {
+        "Department": "Market Planning and Information",
+        "SalesAnalysis": "Consumer Research",
+        "ProjectTitle": "Direct Mail Conversion Research",
+        "JobNumber": "5543/295",
+        "RevisionReason": "Lower Incidence",
+        "MarketingAndResearchObjectives": [
+            "Determine the level of interest and conversion opportunities among competitive smokers receiving a Direct Mail offer for Newport Lights.",
+            "Provide insight into the reasons for offer acceptance or rejection of offer and examine consumer perceptions about Newport Lights."
+        ],
+        "ResearchDesign": {
+            "InterviewsDividedAmongGroups": [
+                {
+                    "Group": "Best redeeming customers (2+ paid coupons)",
+                    "SampleSize": 750
+                },
+                {
+                    "Group": "Paid redeeming customers (1 paid coupon)",
+                    "SampleSize": 750
+                },
+                {
+                    "Group": "Non-redeeming customers (no redemption)",
+                    "SampleSize": 750
+                }
+            ],
+            "TotalSampleSize": 2250,
+            "AgeRequirement": "21+ years"
+        },
+        "RespondentInterview": {
+            "ScreenerIncidence": "5 minutes",
+            "RevisedIncidence": "38%",
+            "QuestionnaireLength": "10 minutes",
+            "RevisedFrom": "70%"
+        },
+        "ResearchFirm": "A&G Research",
+        "CostEstimateByMonth": {
+            "January": 100600,
+            "February": null,
+            "March": null,
+            "April": null,
+            "May": null,
+            "June": null,
+            "July": null,
+            "August": null,
+            "September": null,
+            "October": null,
+            "November": null,
+            "December": 100600
+        },
+        "RevisedFrom": 76600,
+        "PreparedBy": "S.R.Benson",
+        "RevisedCostsIfAny": null,
+        "ApprovedBy": {
+            "GroupManager": "A. Pashelk",
+            "FieldworkSchedule": "Start Field w/o 11/13/95",
+            "ReportingSchedule": {
+                "ProductManager": "Topline w/o 12/18/95",
+                "GroupProductManager": "Final Report 12/31/95"
+            }
+        }
+    }
+}

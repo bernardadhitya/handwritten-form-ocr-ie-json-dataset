@@ -1,0 +1,4 @@
+{
+    "error": "No JSON detected",
+    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nMicha PERROT 18 rue Ande Hinqray 88360 Ferdrust SepafRTelephonie Route de BelleCroix 13 s20 Paradou Objet: demande de cataloque Ferdrupt, &e 2S otdore 20o6 Madame,Monsiur Cataloque des praduits que so... (French text)\n\n## Step 1: Identify the structured information in the text\nThe text appears to be a French email or letter with a mix of structured and unstructured information. The structured information includes the sender's name, address, and phone number, as well as the recipient's title and address.\n\n## Step 2: Extract the structured information\nThe structured information can be extracted as follows:\n- Sender: Micha PERROT\n- Address: 18 rue Ande Hinqray, 88360 Ferdrust\n- Phone Number:"
+}

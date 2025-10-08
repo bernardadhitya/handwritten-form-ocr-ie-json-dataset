@@ -1,0 +1,25 @@
+{
+    "transaction": {
+        "type": "VERSEMENTESPECES",
+        "bank": "BIAT",
+        "account_number": "907043",
+        "transaction_id": "Ntrucht",
+        "customer": {
+            "name": "Maria Kalb",
+            "additional_info": "Netu rersst lar cwar."
+        },
+        "agent": {
+            "name": "Chelsea Watson",
+            "code": "R.1.B."
+        },
+        "amount": {
+            "written": "Six-Hundred and Thirty-Nine",
+            "numeric": 639
+        },
+        "total": "Total du verscment",
+        "date": "06/05/22",
+        "signature": "Signature du clicnt",
+        "branch": "Caisse",
+        "verification": "Cocher ctvisa dela iAT"
+    }
+}

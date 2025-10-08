@@ -1,0 +1,4 @@
+{
+    "error": "No JSON detected",
+    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n8 12 mons 2oO7 M. DESC1AmPS 4 nwe do Nenago 68127 OBERIER GHEIM Tel: 03.31 49.31.84 France Tec phone a 6613o PRATS DE SouRN/A it : demande o nenrsuoenen n6s1XNU : 7wB nua8S necemmer olemand olm en Sre... (text truncated)\n\nNote: The text appears to be a phone number and address in French, but the text is truncated and not readable.\n\nHere is the structured information:\n\n* Address: 68127 OBERIER GHEIM\n* Phone number: 03.31 49.31.84\n* Country: France\n* City: Nenago\n* Postal code: 68127\n\nHere is the structured JSON output:\n\n```\n{\n  \"address\": \"68127 OBERIER GHEIM\",\n  \"phone\": \"03"
+}

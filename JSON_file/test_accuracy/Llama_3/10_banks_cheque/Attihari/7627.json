@@ -1,0 +1,4 @@
+{
+    "error": "No JSON detected",
+    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nAttari B.P252 Chequ N0O7E27 Payez contre ce cheque non endosseble One Hundred and Twelve lloll1gaal Sal au proft dure banqus cu duncrgoresmg oseinad A lardre deDavid Howard Payable AMilan 011012022 Ti... ( truncated )\n\nNote: The text appears to be a jumbled mix of letters and numbers, but it can be deciphered as a payment receipt or invoice. Here's a possible deciphered version:\n\n\"Payment receipt for $112.00\nCheque number: B.P.252\nCheque date: 01/12/2022\nPayee: David Howard\nPayee's address: Milan, 011012022\"\n\nHere's the structured JSON output:\n\n```json\n{\n  \"amount\": 112.00,\n  \"chequeNumber\": \"B.P.252\",\n  \"chequeDate\": \"01/12/2022\",\n  \"payee\": {\n    \"name\":"
+}

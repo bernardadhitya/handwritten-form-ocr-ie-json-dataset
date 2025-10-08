@@ -1,0 +1,86 @@
+{
+    "title": "NATIONAL CONSENSUS SURVEYS",
+    "address": {
+        "street": "801 Second Avenue",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10017"
+    },
+    "contact": {
+        "phone": "82-95"
+    },
+    "instructions": "Please take a few minutes to go through the advertisements in this book. Please take as much time with each ad as you care to. If you ordinarily wear reading glasses, you'll need them.",
+    "note": "HAND RESPONDENT PORTFOLIO AND TAKE IT BACK BEFORE CONTINUING.",
+    "questions": [
+        {
+            "prompt": "Now I'd like to ask you a few questions about the ads in the book. Any other brands?",
+            "note": "DO NOT READ EITHER BRAND NAMES OR PRODUCT CATEGORIES.",
+            "categories": [
+                "GENERAL ADS",
+                "CIGARETTE ADS"
+            ],
+            "brands": [
+                "Dole Pineapple",
+                "Banana Range",
+                "Luke",
+                "BankAmericard/VISA",
+                "General Electric Washer",
+                "Bayer Aspirin",
+                "Hilton Hotels",
+                "Golden Lights",
+                "Uasp",
+                "Bolens Lawn Mower",
+                "Budweiser",
+                "Old Spice Pocket Cologne",
+                "Kawasaki",
+                "Golden Light",
+                "Canadian Club",
+                "Polaroid Camera",
+                "Coca Cola",
+                "Singer Sewing",
+                "Concord Watches",
+                "Tester's Choice",
+                "Crest toothpaste",
+                "Weight Watcher"
+            ],
+            "cigarette_brands": {
+                "if_no_mention": {
+                    "question": "Do you remember any ads for cigarettes?",
+                    "options": [
+                        "Yes",
+                        "No"
+                    ],
+                    "follow_up": "What brands do you remember seeing ads for? Any others?",
+                    "brands": [
+                        "Luke",
+                        "Golden Unsp.",
+                        "Light",
+                        "Kent Unsp.",
+                        "Other (SPECIFY)",
+                        "DK"
+                    ]
+                },
+                "if_one_or_two_mentioned": "SKIP TO Q.3b.",
+                "if_all_mentioned": "SKIP TO Q.4."
+            },
+            "additional_brands": [
+                "Luke",
+                "Golden Lights",
+                "Golden Uasp.",
+                "Kent Golden",
+                "Kent Light",
+                "Kent Golden Lights"
+            ],
+            "true_mention": {
+                "if_true_mentioned": "CONTINUE.",
+                "if_true_not_mentioned": "SKIP TO Q.10.",
+                "brands": [
+                    "Light Unsp.",
+                    "Kent (Unsp.)",
+                    "True",
+                    "Other (SPECIFY)"
+                ]
+            }
+        }
+    ]
+}

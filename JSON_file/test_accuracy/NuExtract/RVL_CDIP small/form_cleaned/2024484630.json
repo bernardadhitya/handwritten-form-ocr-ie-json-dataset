@@ -1,0 +1,33 @@
+{
+    "company": "INBIFO Institut fur biologische Forschung GmbH",
+    "contact": {
+        "name": "Ms. Leslie Marston",
+        "address": "251, Ballardvale Street",
+        "city": "Wilmington",
+        "state": "Mass.",
+        "zip": "1887",
+        "country": "USA"
+    },
+    "order": {
+        "initial_quantity": {
+            "male": 47,
+            "female": 47
+        },
+        "additional_quantity": {
+            "male": 15,
+            "female": 15
+        },
+        "delivery_date": "10 Sep.91",
+        "age_of_rats": {
+            "male": "3l days",
+            "female": "90  5 grams"
+        },
+        "health_certificate": true,
+        "transport_details": {
+            "agency": "",
+            "air_carrier": "",
+            "flight_route": "",
+            "numbers": ""
+        }
+    }
+}

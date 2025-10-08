@@ -1,0 +1,56 @@
+{
+    "contract": {
+        "contract_number": "9APH30-01",
+        "title": "TDI Advertising Contract",
+        "year": 1981,
+        "advertiser": "Philip Morris U.S.A",
+        "medium": [
+            "Kiosk",
+            "Dioramas",
+            "Exhibits",
+            "Island: Showcase",
+            "Other: Clocks",
+            "Car Cards",
+            "Posters",
+            "Timetables"
+        ],
+        "display_size": "20x45",
+        "showing_size": "Philadelphia Commuterland",
+        "locations": 20,
+        "term": {
+            "start_date": "January 1, 1982",
+            "duration": "Three Years",
+            "rate": {
+                "first_year": 1701.0,
+                "second_year": 1786.0,
+                "third_year": 1875.0
+            },
+            "rate_increase_limit": 5
+        },
+        "payment": {
+            "amount": 1701.0,
+            "frequency": "Per Month",
+            "advance": true
+        },
+        "copy_changes": "Monthly or less frequently at the advertiser's discretion",
+        "service_charges": "When applicable, will be billed separately",
+        "agency_commission": 15,
+        "remarks": "Above rate is for space only. All costs of copy and production at the advertiser's expense. See Attachment A.",
+        "conditions": "Printed on the reverse side."
+    },
+    "agency": {
+        "name": "Leo Burnett Company U.S.A",
+        "accepted_by": "Transportation Displays, Inc.",
+        "address": {
+            "street": "Prudential Plaza",
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip": "69601"
+        },
+        "sales_representative": "Pamela J. Richards",
+        "telephone_number": "312565-5959",
+        "sales_office": "New York",
+        "contract_no": "2040762059",
+        "advertiser_agency_copy": true
+    }
+}

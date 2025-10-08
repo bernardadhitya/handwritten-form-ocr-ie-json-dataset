@@ -1,0 +1,149 @@
+{
+    "survey": {
+        "respondent": {
+            "name": "Ms. Rachelle S. Coate",
+            "address": {
+                "street": "801 Pine Avenue",
+                "apartment": "Apartment 210",
+                "city": "Long Beach",
+                "state": "CA",
+                "zip": "90813-5815"
+            },
+            "signature": "X",
+            "birthdate": "required"
+        },
+        "questions": [
+            {
+                "id": 1,
+                "question": "What is your regular brand of cigarettes?",
+                "answer": "Regular brand"
+            },
+            {
+                "id": 2,
+                "question": "If your regular brand were not available, what other brands would you consider buying?",
+                "options": [
+                    "Alpine",
+                    "Basic",
+                    "Doral",
+                    "GPC",
+                    "Now",
+                    "Parliament",
+                    "Pyramid",
+                    "Salem",
+                    "Superslims",
+                    "True",
+                    "Viceroy",
+                    "Vantage",
+                    "Virginia Slims",
+                    "Winston",
+                    "Other",
+                    "None"
+                ],
+                "answer": "Selected brands"
+            },
+            {
+                "id": 3,
+                "question": "Is your regular brand Regular/King Size or Menthol or Superslims?",
+                "answer": "Regular/King Size"
+            },
+            {
+                "id": 4,
+                "question": "Is your regular brand Filter or Non-filter?",
+                "answer": "Filter"
+            },
+            {
+                "id": 5,
+                "question": "Is your regular brand Lowest/Ultra/Extra Low Tar, Light/Mild, or Full Flavor?",
+                "answer": "Full Flavor"
+            },
+            {
+                "id": 6,
+                "question": "Do you usually buy it by the Pack, Carton, or Both Ways?",
+                "answer": "Pack"
+            },
+            {
+                "id": 7,
+                "question": "How long have you smoked this brand?",
+                "options": [
+                    "Less than 1 year",
+                    "1 to 2 years",
+                    "2 to 3 years",
+                    "3 to 5 years",
+                    "Over 5 years"
+                ],
+                "answer": "2 to 3 years"
+            },
+            {
+                "id": 8,
+                "question": "What, if any, was your previous brand?",
+                "answer": "Previous brand"
+            },
+            {
+                "id": 9,
+                "question": "The next time you go to the store, if your regular brand were not available, what would you do?",
+                "options": [
+                    "Go to another store to buy my regular brand.",
+                    "Buy another type or length of my regular brand.",
+                    "Buy a different brand entirely."
+                ],
+                "answer": "Go to another store to buy my regular brand."
+            },
+            {
+                "id": 10,
+                "question": "Which of the following statements best describes the way you use cigarette coupons?",
+                "options": [
+                    "I use almost any cigarette coupon I get.",
+                    "I occasionally use coupons for cigarettes even if they are not for my regular brand.",
+                    "I only use coupons if they are for my regular brand.",
+                    "I never use coupons to buy cigarettes."
+                ],
+                "answer": "I only use coupons if they are for my regular brand."
+            },
+            {
+                "id": 11,
+                "question": "How often do you use special in-store cigarette offers such as a free gift with purchase, a 2-for-1, or special prices?",
+                "options": [
+                    "I look for special offers for my regular brand.",
+                    "I take advantage of special offers for brands other than my regular brand."
+                ],
+                "answer": "I look for special offers for my regular brand."
+            },
+            {
+                "id": 14,
+                "question": "Which of the following best describes you?",
+                "options": [
+                    "White",
+                    "Asian",
+                    "African-American",
+                    "American Indian",
+                    "Hispanic",
+                    "Other"
+                ],
+                "answer": "White"
+            },
+            {
+                "id": 15,
+                "question": "Is there another smoker in your household 21 years of age or older?",
+                "answer": "Yes",
+                "details": {
+                    "first_name": "First Name",
+                    "middle_initial": "M",
+                    "last_name": "Last Name",
+                    "birthdate": "Birthdate",
+                    "regular_brand": "Regular Brand"
+                }
+            },
+            {
+                "id": 16,
+                "question": "Would you be interested in receiving information about issues that affect smokers?",
+                "answer": "Yes"
+            },
+            {
+                "id": 17,
+                "question": "Would you be interested in joining a smokers group to help protect your right to smoke?",
+                "answer": "Yes"
+            }
+        ],
+        "contact_number": "2024746832"
+    }
+}

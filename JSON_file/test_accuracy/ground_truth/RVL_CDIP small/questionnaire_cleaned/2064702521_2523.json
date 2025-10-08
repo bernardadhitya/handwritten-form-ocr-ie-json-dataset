@@ -1,0 +1,30 @@
+{
+    "fax": "8049152137",
+    "consumerCenter": "Consumer Opinion Center",
+    "brochureNonResponders": {
+        "respondent": {
+            "dateTimeContacted": "02/9/98 MON 08:36",
+            "leftFullMessage": false,
+            "noAnswer": false,
+            "script": {
+                "greeting": "Hello, may I please speak with name on label - adult smoker?",
+                "callerName": "",
+                "callCenter": "Consumer Opinion Center",
+                "ifNotAvailable": {
+                    "askForTimeDate": "when he/she might be available",
+                    "dateTime": ""
+                },
+                "ifAskedAboutCall": "to ask a couple of questions about a mailing we sent to this address",
+                "brochureMailing": {
+                    "timeFrame": "During the past two weeks",
+                    "description": "a brochure that was enclosed in a clear plastic envelope",
+                    "received": "IF RECEIVED, Go to second page",
+                    "notReceived": "IF NOT RECEIVED Go to third page"
+                }
+            }
+        }
+    },
+    "contactNumber": "2064702521",
+    "unknownField": "73",
+    "unknownField2": "1/d N"
+}

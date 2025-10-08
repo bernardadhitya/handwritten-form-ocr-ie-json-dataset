@@ -1,0 +1,39 @@
+{
+    "Company": "Aplaarcus INC",
+    "Location": "MLlwaukee",
+    "Address": "301 Fevale Syracuse",
+    "Project": "LLD-6",
+    "City": "Onaha",
+    "Established": "April, 1978",
+    "Services": "Consumer opinion survey",
+    "Questions": {
+        "1": {
+            "Question": "Do you smoke filter, non-menthol cigarettes?",
+            "Options": [
+                "CONTINUE",
+                "TERMINATE"
+            ]
+        },
+        "2": {
+            "Question": "How many cigarettes do you usually smoke per day?",
+            "Note": "(DO NOT READ LIST. TERMINATE)"
+        },
+        "3": {
+            "Question": "Which of the following statements apply to you?",
+            "Options": [
+                "Eat dinner in a restaurant at least once a month",
+                "Read daily newspaper",
+                "Do the food shopping for my family",
+                "Have taken an airline trip on a scheduled commercial airline in the past 12 months"
+            ]
+        },
+        "4": {
+            "Question": "Into which of the following age groups do you fall?",
+            "Options": [
+                "Under 21",
+                "TERMINATE",
+                "CONTINUE"
+            ]
+        }
+    }
+}

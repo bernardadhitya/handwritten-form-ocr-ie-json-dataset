@@ -1,0 +1,41 @@
+{
+    "cigarette": {
+        "id": "ABC-1",
+        "name": "ABC-1"
+    },
+    "characteristics": [
+        {
+            "name": "Flavor",
+            "rating": "Excellent"
+        },
+        {
+            "name": "Aroma",
+            "rating": "Good"
+        },
+        {
+            "name": "Burn rate",
+            "rating": "Fair"
+        },
+        {
+            "name": "Smoke quality",
+            "rating": "Fair"
+        },
+        {
+            "name": "Taste",
+            "rating": "Excellent"
+        },
+        {
+            "name": "Overall",
+            "rating": "Excellent"
+        }
+    ],
+    "additional_comments": {
+        "text": "None"
+    },
+    "regular_smoking": {
+        "yes": true
+    },
+    "why": {
+        "text": "Because it was excellent"
+    }
+}

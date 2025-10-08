@@ -1,0 +1,57 @@
+{
+    "productOpinion": {
+        "laboratory": "P.O. Box 26563, Richmond, Virginia 23261",
+        "telephone": "804-271-6002"
+    },
+    "instructions": {
+        "label": "ONLY THE PERSON WHOSE NAME APPEARS ON THIS LABEL SHOULD TAKE THE TEST",
+        "returnBallotBy": "RED",
+        "addressChange": {
+            "applyTo": "you or just to all family members",
+            "newPhoneNumber": "Please include area code"
+        }
+    },
+    "letter": {
+        "greeting": "Dear Panelist",
+        "content": "With this ballot I am enclosing ten packs of cigarettes with nine different pack codes as well as a complimentary pack for your smoking enjoyment. The packs coded ___ and ___ are for Part I. The packs coded ___ and ___ are for Part II. The packs coded ___ and ___ are for Part III. Smoke cigarettes from the three packs and compare the cigarettes as to how similar or different they are from one pack to another. For each part, one of the packs of cigarettes is different from the other two packs. Smoke cigarettes from the three packs and decide which pack is the different one. Because cigarettes are made from a natural product, there may be small differences even between the cigarettes within a pack. I suggest that you smoke all of the cigarettes from each pack before deciding which pack is different. Thank you very much. Your cooperation in this test is most helpful.",
+        "closing": "Study Leader"
+    },
+    "parts": {
+        "partI": {
+            "instruction": "Smoke cigarettes from the packs coded ___ and ___. Compare these cigarettes and indicate below which pack is different. Please choose one even if you are not sure of the difference."
+        },
+        "partII": {
+            "instruction": "Smoke cigarettes from the packs coded ___ and ___. Compare these cigarettes and indicate below which pack is different. Please choose one even if you are not sure of the difference."
+        },
+        "partIII": {
+            "instruction": "Smoke cigarettes from the packs coded ___ and ___. Compare these cigarettes and indicate below which pack is different. Please choose one even if you are not sure of the difference."
+        }
+    },
+    "questions": {
+        "currentCigarette": {
+            "exactName": "The exact name of the brand",
+            "contains": {
+                "milds": "Does the name contain: Milds",
+                "superLights": "Super Lights or Extra Lights",
+                "other": "Other"
+            },
+            "filtered": "Is it filtered? Yes",
+            "package": {
+                "softPack": "Soft Pack",
+                "hardPack": "Hard Pack"
+            },
+            "menthol": "Is it menthol? Yes/No",
+            "length": "Is the length: 80mm or shorter, 85mm, 100mm, 120mm",
+            "dailyConsumption": "How many cigarettes do you smoke per day?"
+        },
+        "cigaretteLengthScale": {
+            "placeEnd": "Place End of Cigarette Here",
+            "lengths": {
+                "80": "80",
+                "85": "85",
+                "100": "100",
+                "120": "120mm"
+            }
+        }
+    }
+}

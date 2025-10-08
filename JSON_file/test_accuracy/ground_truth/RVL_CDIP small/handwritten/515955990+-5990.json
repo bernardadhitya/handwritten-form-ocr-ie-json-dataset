@@ -1,0 +1,65 @@
+{
+    "offer_restricted_to_smokers": "21 years of age or older",
+    "survey_deadline": "6/30/9",
+    "instructions": "Be sure to include your birthdate and signature.",
+    "questions": [
+        {
+            "question": "Is your USUAL BRAND?",
+            "options": [
+                "Menthol",
+                "Non-Menthol"
+            ]
+        },
+        {
+            "question": "Is your USUAL BRAND check (Use)",
+            "options": [
+                "Non-Filter",
+                "Filter/King",
+                "100's Long",
+                "120's Extra"
+            ]
+        },
+        {
+            "question": "Have you bought any brands other than your usual in the PAST 3 MONTHS?",
+            "options": [
+                "Yes",
+                "No"
+            ]
+        },
+        {
+            "question": "How do you usually purchase cigarettes?",
+            "options": [
+                "By the pack",
+                "By the carton"
+            ]
+        },
+        {
+            "question": "Which of the following best describes the way you use coupons to buy your USUAL BRAND of cigarettes?",
+            "options": [
+                "I never use coupons to buy my Usual Brand",
+                "I use coupons as often as I can to buy my Usual Brand",
+                "I only buy my Usual Brand with a coupon",
+                "I never get coupons for my Usual Brand"
+            ]
+        },
+        {
+            "question": "Are you currently saving packs, proofs of purchase, UPC codes, or 'funny money' for any cigarette brand?",
+            "options": [
+                "Yes",
+                "No"
+            ]
+        },
+        {
+            "question": "In the past six months, have you sent any packs, proofs of purchase, UPC codes, or 'funny money' to get merchandise?",
+            "options": [
+                "Yes",
+                "No"
+            ]
+        }
+    ],
+    "response_note": "RESPONSE WILL NOT BE PROCESSED WITHOUT SIGNATURE AND BIRTHDATE",
+    "birthdate_prompt": "What is your birthdate?",
+    "todays_date_prompt": "Today's date",
+    "legal_note": "I understand that giving false information in order to accept these offers may constitute a violation of law.",
+    "signature_prompt": "Signature"
+}

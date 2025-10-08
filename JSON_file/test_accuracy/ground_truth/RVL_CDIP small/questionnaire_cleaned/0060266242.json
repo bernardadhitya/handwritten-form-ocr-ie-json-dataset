@@ -1,0 +1,38 @@
+{
+    "company": "On-site TestirigInc",
+    "study_number": "40105",
+    "address": "4 Cast 42nd Street, New York, New York",
+    "date": "January 1974",
+    "study_type": "CIGARETTE STUDY",
+    "interview": {
+        "main_questionnaire": {
+            "show_concept": "A3",
+            "question_1": {
+                "text": "What do you believe is the main point of this test ad? What is the main point that the manufacturer is trying to communicate?",
+                "probe": true
+            },
+            "remove_concept": "A3",
+            "question_2": {
+                "text": "I would like to get your overall reaction to this new cigarette. What is the letter of the one statement on this card which best describes your overall reaction to this new cigarette?",
+                "options": {
+                    "A": "Very favorable",
+                    "B": "Somewhat favorable",
+                    "C": "Somewhat unfavorable",
+                    "D": "Very unfavorable"
+                }
+            },
+            "question_3": {
+                "text": "Why do you feel that way?",
+                "probe": true
+            },
+            "question_4": {
+                "text": "What, if anything, do you specifically like about this new product?",
+                "probe": true
+            },
+            "question_5": {
+                "text": "And what, if anything, do you specifically dislike about this new product?",
+                "probe": true
+            }
+        }
+    }
+}

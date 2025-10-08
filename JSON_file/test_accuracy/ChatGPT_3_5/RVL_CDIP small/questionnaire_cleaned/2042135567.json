@@ -1,0 +1,22 @@
+{
+    "address": {
+        "street": "8200 HUMBOLT AVENUE",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip": "55431"
+    },
+    "county": "WINONA",
+    "company": "WINONA RESEARCH",
+    "year": 1990,
+    "age": {
+        "range": "22",
+        "question": "What is your age?"
+    },
+    "smoking": {
+        "question": "Do you smoke cigarettes?",
+        "options": [
+            "Yes",
+            "Refused"
+        ]
+    }
+}

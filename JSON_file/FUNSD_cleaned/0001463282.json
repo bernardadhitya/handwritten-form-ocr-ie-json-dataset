@@ -1,0 +1,81 @@
+{
+    "marketingResearchAuthorization": {
+        "recommendedProposalAttached": true,
+        "date": "4/16/90",
+        "number": 6,
+        "description": "y-1 Ultra 100's vs. Winston ultra 100's",
+        "requestedBy": "W.I. Carpenter",
+        "researchRequestAttached": true,
+        "originalBudgetedAmount": 23.3,
+        "competitiveProposalsObtained": [
+            {
+                "supplier": "Kapuler",
+                "cost": 33675,
+                "travel": 2000,
+                "totalCost": 35675,
+                "costPerInterview": 84.2
+            },
+            {
+                "supplier": "Market Facts",
+                "cost": 35000,
+                "travel": 2000,
+                "totalCost": 37000,
+                "costPerInterview": 87.5
+            }
+        ],
+        "projected": {
+            "summaryOfMRDBudget": {
+                "year": 1990,
+                "internalInitDate": "4/10/90",
+                "totalAreaBudget": 370000,
+                "extAuthDate": "4/12/90",
+                "currentBalanceAvailable": 199900,
+                "thisChange": -35675,
+                "fromCurrentBudget": 0,
+                "fieldComplete": "6/10/90",
+                "fromNextYearsBudget": 0,
+                "newBalance": 164225,
+                "finalReportDue": "7/9/90",
+                "supplierReportCommittedToDate": 205775,
+                "waves": "(Current Year)"
+            },
+            "projectType": "Product Test",
+            "productTestA&Uetc": true,
+            "sampleSize": 400,
+            "recommendedSupplier": "Kapuler",
+            "reasonsForRecommendation": "Lowest project costs"
+        },
+        "submittedBy": {
+            "name": "P.W. Putney",
+            "date": null
+        },
+        "approvedBy": [
+            {
+                "name": "L.E.",
+                "date": null
+            },
+            {
+                "name": null,
+                "date": null
+            },
+            {
+                "name": null,
+                "date": null
+            }
+        ],
+        "budgetCheck": {
+            "name": "lowaro",
+            "date": null
+        },
+        "originalProjectFile": true,
+        "cc": [
+            "S. Willinger",
+            "K.A. Hutchison",
+            "S.A. loward"
+        ],
+        "projectNo": "1990-486",
+        "accountName": "BARCLAY",
+        "rd00006Revised": "3/90",
+        "pps10425": "670801704"
+    }
+}

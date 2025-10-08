@@ -1,0 +1,63 @@
+{
+    "addendum": "II",
+    "compound_physical_parameters": {
+        "lrc_compound_code": "A32",
+        "date": "11/13/81",
+        "molecular_weight": 200.29,
+        "solubility": {
+            "measured": "WATER",
+            "estimated": "OTHER",
+            "amount": "0'100e"
+        },
+        "class": [
+            "ACID",
+            "BASE",
+            "SALT",
+            "OTeE"
+        ],
+        "reactivity": {
+            "description_of_reactivity": {
+                "without_heating": {
+                    "water_or_brine": "UNCHANGED",
+                    "25HCL": "UNCHANGED",
+                    "5%_NOH": "UNCHANGED",
+                    "alcohols": "UNCHANGED",
+                    "oxygen": "UNCHANGED",
+                    "light": "UNCHANGED"
+                },
+                "with_heating_60C": {
+                    "water_or_brine": "DECOMPOSITION",
+                    "25HCL": "DECOMPOSITION",
+                    "5%_NOH": "DECOMPOSITION",
+                    "alcohols": "DECOMPOSITION",
+                    "oxygen": "DECOMPOSITION",
+                    "light": "DECOMPOSITION"
+                }
+            }
+        }
+    },
+    "safety_comments": {
+        "suggested_handling_procedure": "00837285",
+        "chemical_purity": null,
+        "analytical_methods": null,
+        "storage_recommendations": {
+            "normal_storage": null,
+            "special_storage": "Refrigerate in amber bottle at no more than 8c"
+        },
+        "compound_sensitive_to": [
+            "AIR",
+            "LIGHT",
+            "MOISTURE",
+            "OTHER"
+        ]
+    },
+    "comments": {
+        "ph": "The pH of a 50% concentration of A32 in a 52.6% dioxane/water",
+        "interpolation_procedures": "by Dr. P. D. Schickedantz, Lorillard Research Center Accession No. 1662, Reference OR 83-125.",
+        "solubility": "See sop for Biological Solutions",
+        "oral": "5g A32 forms a suspension with stirring in 10 ml 1t Tween 80 at room temperature. Reference OR 72-151.",
+        "acute_cardiovascular": "Mi 2 mg A32 with 0.2 ml 80s propylene glycol in this mixture at room temperature. Reference OR 72-152."
+    },
+    "signature": null,
+    "date": "FOM100"
+}

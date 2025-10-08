@@ -1,0 +1,37 @@
+{
+    "communicationResultReport": {
+        "date": "Nov. 16, 1996",
+        "time": "6:31 AM",
+        "fileMode": "I1",
+        "option": "FILE MODE",
+        "addressGroup": "PTION",
+        "result": "OK",
+        "page": "P.3/3",
+        "memoryTx": "479",
+        "errorReason": [
+            {
+                "code": "E-3",
+                "description": "NE SNSNERR LINE FAIL"
+            },
+            {
+                "code": "E-4",
+                "description": "NUSFACSIMILE CONNECTION"
+            }
+        ]
+    },
+    "sender": {
+        "company": "Philip Morris USA",
+        "department": "Marketing, Information & Planning",
+        "address": "100 Park Avenue - Fourteenth Floor, New York, New York 10017",
+        "fax": "(917) 663-5327"
+    },
+    "faxTransmittalSheet": {
+        "date": "",
+        "amount": "Annont",
+        "name": "",
+        "title": "375y",
+        "company": "PM-vSA",
+        "faxNumber": "2081659400",
+        "fromName": "Name"
+    }
+}

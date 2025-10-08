@@ -1,0 +1,27 @@
+{
+    "ID": "19107412308",
+    "Date": "JAN 10'97",
+    "Time": "15:22",
+    "No": "003",
+    "Page": "P.02",
+    "MonthYear": "January 97",
+    "Test": "Indy Test Inbound Script-APAC",
+    "Script": [
+        {
+            "Step": 1,
+            "Text": "Thank you for calling the Eclipse information line. This is Hlow may I help you? I'm calling about your new cigarette. I want to find out more about it/try it for free."
+        },
+        {
+            "Step": 2,
+            "Text": "I'll be happy to help you, ma'am/sir, but first may I have your zip code please? May I have your home phone number please? If consumer's record is on file confirm address, smoking status and dob, then proceed to question 9b and ask only if necessary. If record is not on file proceed to question 3."
+        },
+        {
+            "Step": 3,
+            "Text": "All right, are you a smoker? Yes continue with 4. No ask 4 and if 21 or older respond with: We can talk with non-smokers over the age of 21 and give out limited information however you cannot participate in any of our promotions. If you'd like, we have a brochure of information that I can send you. If interested capture name and address. APAC sends material. Thank you for your interest. You should be receiving this information within 2-3 weeks. May I have your date of birth please? Date of Birth: If a smoker age 21 or older, go to 5. If under 21 go to 4a. (If objection to age question respond with: Mr/Ms. as a tobacco company, we want to ensure that we don't mail or talk to individuals under the age of 21. So, I'm sure you can understand why we'd like to know your date of birth. If refuses to give DOB, terminate the call.)"
+        }
+    ],
+    "Codes": [
+        "51684",
+        "7840"
+    ]
+}

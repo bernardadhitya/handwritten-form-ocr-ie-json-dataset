@@ -1,0 +1,4 @@
+{
+    "error": "No JSON detected",
+    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nYON Gersldine 14 sue ou 7 fevner 6874o BALGAU NNA Asouranceo 03.94.38.29.04 1M Rouhe Nahonale 43 ReF: TFcTN26 6&89o Z0UAFQUEs Balgau, le 1102104 Tadame, Tlonsi eur, Par cette preente lettre, veuillez... (text truncated)\n\nUnfortunately, the provided text is not in a format that can be easily parsed into structured JSON. However, I can attempt to extract some structured information from the text and provide a simplified JSON output.\n\nHere is the extracted information:\n\n* `name`: YON Gersldine\n* `date`: 14 sue ou 7 fevner 6874o\n* `location`: BALGAU NNA\n* `phone`: 03.94.38.29.04\n* `reference`: TFcTN26\n* `address`: Rouhe Nahonale 43\n* `city`: Tadame\n* `country`: Tlonsi eur\n* `purpose`: (not"
+}

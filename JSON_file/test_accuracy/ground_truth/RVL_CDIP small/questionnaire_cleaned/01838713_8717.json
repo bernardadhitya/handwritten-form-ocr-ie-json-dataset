@@ -1,0 +1,72 @@
+{
+    "title": "Mational Consensus Surveys",
+    "address": {
+        "street": "801 Secoud Avenue",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10017"
+    },
+    "instructions": "Please take a few minutes to go through the advertisements in this book. Please take as much time with each ad as you care to. If you ordinarily wear reading glasses, you'll need them.",
+    "questions": [
+        {
+            "question": "What brands or products do you remember seeing ads for in the book?",
+            "categories": [
+                {
+                    "category": "General Ads",
+                    "brands": [
+                        "Amens Range",
+                        "Dole-Pineapples",
+                        "Cold Lights",
+                        "BankAmericard/VISA",
+                        "General Electric Washers",
+                        "Bayer Aspirin",
+                        "Hilton Hotels",
+                        "Golden (sp.)",
+                        "Bolena Lawn Mower",
+                        "Old Spice Pocket Cologne",
+                        "Lavasaki",
+                        "Kent Golden Light",
+                        "Budweiser",
+                        "Canadian Club",
+                        "Polaroid Camera",
+                        "Coca Cola",
+                        "Concord Watches",
+                        "Tester's Choice",
+                        "Weight Watchers",
+                        "Other"
+                    ]
+                },
+                {
+                    "category": "Cigarette Ads",
+                    "brands": [
+                        "Golden (Unsp.)",
+                        "Kent Golden Light",
+                        "Kent",
+                        "Other"
+                    ]
+                }
+            ]
+        },
+        {
+            "question": "Do you remember any ads for cigarettes?",
+            "if_no_cigarette_brands_mentioned": true
+        },
+        {
+            "question": "What brand?",
+            "if_one_or_two_cigarette_brands_mentioned": true,
+            "brands": [
+                "Golden (Unsp.)",
+                "Kent Golden Light",
+                "Kent",
+                "Other"
+            ]
+        }
+    ],
+    "skip_logic": {
+        "if_no_cigarette_brands_mentioned": "Ask Q.3",
+        "if_only_one_or_two_cigarette_brands_mentioned": "Skip to Q.3b",
+        "if_all_three_cigarette_brands_mentioned": "Skip to Q.4",
+        "if_true_mentioned_in_Q2_or_3": "Continue",
+        "if_true_not_mentioned_in_Q2_or_3b": "Skip to Q.10"
+    }
+}
