@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2470" height="3502">00175_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Modification de contrat / Commande</scenario>
+  <writer>PERRAUD Stephane</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="100" top_left_y="207" bottom_right_x="699" bottom_right_y="359">
+       <type>Code d'envoi</type>
+       <text>ZIMGES</text>
+  </box>
+  <box top_left_x="349" top_left_y="382" bottom_right_x="1216" bottom_right_y="496">
+       <type>Nom</type>
+       <text>PERRAUD</text>
+  </box>
+  <box top_left_x="1423" top_left_y="381" bottom_right_x="2252" bottom_right_y="492">
+       <type>Prénom</type>
+       <text>Stéphane</text>
+  </box>
+  <box top_left_x="438" top_left_y="492" bottom_right_x="2258" bottom_right_y="592">
+       <type>Adresse</type>
+       <text>11 rue du vignoble</text>
+  </box>
+  <box top_left_x="520" top_left_y="601" bottom_right_x="969" bottom_right_y="715">
+       <type>Code Postal</type>
+       <text>67530</text>
+  </box>
+  <box top_left_x="1100" top_left_y="594" bottom_right_x="2261" bottom_right_y="710">
+       <type>Ville</type>
+       <text>OTTROTT</text>
+  </box>
+  <box top_left_x="314" top_left_y="722" bottom_right_x="1249" bottom_right_y="879">
+       <type>Téléphone</type>
+       <text>0343544372</text>
+  </box>
+  <box top_left_x="464" top_left_y="1009" bottom_right_x="2259" bottom_right_y="1133">
+       <type>Catégorie Scénario</type>
+       <text>Modification de contrat/commande</text>
+  </box>
+  <box top_left_x="233" top_left_y="1126" bottom_right_x="2262" bottom_right_y="1323">
+       <type>Objet Scénario</type>
+       <text>commande de trois paires de chaussettes\n(référence du produit : CH45-12)</text>
+  </box>
+  <box top_left_x="225" top_left_y="1321" bottom_right_x="2265" bottom_right_y="1524">
+       <type>Complément Scénario</type>
+       <text>\n</text>
+  </box>
+  <box top_left_x="896" top_left_y="1543" bottom_right_x="1580" bottom_right_y="1705">
+       <type>Référence client</type>
+       <text>ZDSLOOO</text>
+  </box>
+  <box top_left_x="547" top_left_y="1702" bottom_right_x="2273" bottom_right_y="1808">
+       <type>Interlocuteur</type>
+       <text>Les 3 suifs</text>
+  </box>
+  <box top_left_x="451" top_left_y="1798" bottom_right_x="2271" bottom_right_y="1913">
+       <type>Adresse Interlocuteur</type>
+       <text>Le MOUTCHIC</text>
+  </box>
+  <box top_left_x="534" top_left_y="1904" bottom_right_x="995" bottom_right_y="2032">
+       <type>Code Postal Interlocuteur</type>
+       <text>33680</text>
+  </box>
+  <box top_left_x="1139" top_left_y="1906" bottom_right_x="2271" bottom_right_y="2015">
+       <type>Ville Interlocuteur</type>
+       <text>LACANAU</text>
+  </box>
+  <box top_left_x="1049" top_left_y="2267" bottom_right_x="1279" bottom_right_y="2386">
+       <type>Temps passé</type>
+       <text>8</text>
+  </box>
+  <box top_left_x="857" top_left_y="2199" bottom_right_x="965" bottom_right_y="2259">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1067" top_left_y="2199" bottom_right_x="1150" bottom_right_y="2262">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1274" top_left_y="2199" bottom_right_x="1385" bottom_right_y="2259">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="236" top_left_y="2700" bottom_right_x="327" bottom_right_y="2756">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1630" top_left_y="2653" bottom_right_x="2272" bottom_right_y="2775">
+       <type>Date d'envoi postal</type>
+       <text>29/08/06</text>
+  </box>
+  <box top_left_x="236" top_left_y="2802" bottom_right_x="326" bottom_right_y="2858">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="234" top_left_y="2904" bottom_right_x="327" bottom_right_y="2961">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1781" top_left_y="2840" bottom_right_x="2263" bottom_right_y="2966">
+       <type>Date d'envoi par fax</type>
+       <text>31/08/06</text>
+  </box>
+  <box top_left_x="237" top_left_y="3006" bottom_right_x="327" bottom_right_y="3065">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1626" top_left_y="2969" bottom_right_x="2265" bottom_right_y="3080">
+       <type>Date d'envoi par courriel</type>
+       <text>29/08/06</text>
+  </box>
+  <box top_left_x="1777" top_left_y="3181" bottom_right_x="2062" bottom_right_y="3283">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="508" top_left_y="3208" bottom_right_x="616" bottom_right_y="3264">
+       <type>Format PNG</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="754" top_left_y="3207" bottom_right_x="810" bottom_right_y="3262">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="950" top_left_y="3209" bottom_right_x="1003" bottom_right_y="3263">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1068" top_left_y="3074" bottom_right_x="2266" bottom_right_y="3183">
+       <type>Marque et modèle scanner</type>
+       <text>Canon Canoscan Lide 20</text>
+  </box>
+</annotation>
