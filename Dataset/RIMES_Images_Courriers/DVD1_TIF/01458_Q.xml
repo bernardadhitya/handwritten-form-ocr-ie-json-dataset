@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="18/12/2007" author="Jouve">
+  <source width="2470" height="3503">01458_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Difficulté de paiement</scenario>
+  <writer>CAPARROS Marie</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="171" top_left_y="341" bottom_right_x="730" bottom_right_y="482">
+       <type>Code d'envoi</type>
+       <text>QTOKOF</text>
+  </box>
+  <box top_left_x="403" top_left_y="504" bottom_right_x="1213" bottom_right_y="609">
+       <type>Nom</type>
+       <text>CAPARROS</text>
+  </box>
+  <box top_left_x="1407" top_left_y="504" bottom_right_x="2181" bottom_right_y="606">
+       <type>Prénom</type>
+       <text>Marie</text>
+  </box>
+  <box top_left_x="487" top_left_y="606" bottom_right_x="2186" bottom_right_y="698">
+       <type>Adresse</type>
+       <text>33 Rue du Gal de Gaulle</text>
+  </box>
+  <box top_left_x="563" top_left_y="706" bottom_right_x="982" bottom_right_y="811">
+       <type>Code Postal</type>
+       <text>67110</text>
+  </box>
+  <box top_left_x="1104" top_left_y="700" bottom_right_x="2186" bottom_right_y="806">
+       <type>Ville</type>
+       <text>NIEDERBRONN LES BAINS</text>
+  </box>
+  <box top_left_x="371" top_left_y="818" bottom_right_x="1244" bottom_right_y="966">
+       <type>Téléphone</type>
+       <text>0345643164</text>
+  </box>
+  <box top_left_x="510" top_left_y="1088" bottom_right_x="2189" bottom_right_y="1203">
+       <type>Catégorie Scénario</type>
+       <text>DIFFICULTE DE PAIEMENT</text>
+  </box>
+  <box top_left_x="293" top_left_y="1198" bottom_right_x="2189" bottom_right_y="1379">
+       <type>Objet Scénario</type>
+       <text>DEMANDE D'ECHELONNEMENT\n</text>
+  </box>
+  <box top_left_x="284" top_left_y="1376" bottom_right_x="2189" bottom_right_y="1566">
+       <type>Complément Scénario</type>
+       <text>Votre endettement est devenu trop\nimportant</text>
+  </box>
+  <box top_left_x="909" top_left_y="1585" bottom_right_x="1547" bottom_right_y="1734">
+       <type>Référence client</type>
+       <text>LDAXW73</text>
+  </box>
+  <box top_left_x="584" top_left_y="1731" bottom_right_x="2194" bottom_right_y="1827">
+       <type>Interlocuteur</type>
+       <text>BANQUE SOCIETE GENIALE</text>
+  </box>
+  <box top_left_x="496" top_left_y="1821" bottom_right_x="2194" bottom_right_y="1925">
+       <type>Adresse Interlocuteur</type>
+       <text>PLF MISTRAL ST JACQUES</text>
+  </box>
+  <box top_left_x="574" top_left_y="1920" bottom_right_x="1003" bottom_right_y="2040">
+       <type>Code Postal Interlocuteur</type>
+       <text>06130</text>
+  </box>
+  <box top_left_x="1138" top_left_y="1918" bottom_right_x="2194" bottom_right_y="2021">
+       <type>Ville Interlocuteur</type>
+       <text>GRASSE</text>
+  </box>
+  <box top_left_x="1054" top_left_y="2261" bottom_right_x="1268" bottom_right_y="2372">
+       <type>Temps passé</type>
+       <text>25</text>
+  </box>
+  <box top_left_x="876" top_left_y="2200" bottom_right_x="951" bottom_right_y="2278">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1076" top_left_y="2196" bottom_right_x="1125" bottom_right_y="2248">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1288" top_left_y="2197" bottom_right_x="1340" bottom_right_y="2249">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="298" top_left_y="2667" bottom_right_x="378" bottom_right_y="2741">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1595" top_left_y="2620" bottom_right_x="2196" bottom_right_y="2733">
+       <type>Date d'envoi postal</type>
+       <text>12/12/2006</text>
+  </box>
+  <box top_left_x="292" top_left_y="2754" bottom_right_x="333" bottom_right_y="2809">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="301" top_left_y="2856" bottom_right_x="350" bottom_right_y="2925">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1738" top_left_y="2794" bottom_right_x="2188" bottom_right_y="2912">
+       <type>Date d'envoi par fax</type>
+       <text>12/12/06</text>
+  </box>
+  <box top_left_x="300" top_left_y="2948" bottom_right_x="351" bottom_right_y="2998">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1593" top_left_y="2914" bottom_right_x="2190" bottom_right_y="3017">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1734" top_left_y="3111" bottom_right_x="2000" bottom_right_y="3205">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="573" top_left_y="3138" bottom_right_x="624" bottom_right_y="3188">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="778" top_left_y="3137" bottom_right_x="830" bottom_right_y="3188">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="961" top_left_y="3137" bottom_right_x="1011" bottom_right_y="3188">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1071" top_left_y="3012" bottom_right_x="2191" bottom_right_y="3112">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
