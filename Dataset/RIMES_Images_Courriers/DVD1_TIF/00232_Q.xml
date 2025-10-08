@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2467" height="3502">00232_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Gestion de sinistre</scenario>
+  <writer>MAROLLEAU Yvette</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="149" top_left_y="341" bottom_right_x="705" bottom_right_y="485">
+       <type>Code d'envoi</type>
+       <text>IRCDEN</text>
+  </box>
+  <box top_left_x="379" top_left_y="506" bottom_right_x="1187" bottom_right_y="615">
+       <type>Nom</type>
+       <text>MAROLLEAU</text>
+  </box>
+  <box top_left_x="1380" top_left_y="510" bottom_right_x="2152" bottom_right_y="615">
+       <type>Prénom</type>
+       <text>Yvette</text>
+  </box>
+  <box top_left_x="462" top_left_y="609" bottom_right_x="2158" bottom_right_y="707">
+       <type>Adresse</type>
+       <text>5 rue de la mairie</text>
+  </box>
+  <box top_left_x="539" top_left_y="709" bottom_right_x="956" bottom_right_y="815">
+       <type>Code Postal</type>
+       <text>54800</text>
+  </box>
+  <box top_left_x="1078" top_left_y="705" bottom_right_x="2160" bottom_right_y="811">
+       <type>Ville</type>
+       <text>GONDRECOURT AIX</text>
+  </box>
+  <box top_left_x="347" top_left_y="822" bottom_right_x="1217" bottom_right_y="968">
+       <type>Téléphone</type>
+       <text>0378809038</text>
+  </box>
+  <box top_left_x="486" top_left_y="1089" bottom_right_x="2159" bottom_right_y="1203">
+       <type>Catégorie Scénario</type>
+       <text>Gestion de sinistre (sinistre)</text>
+  </box>
+  <box top_left_x="270" top_left_y="1199" bottom_right_x="2160" bottom_right_y="1378">
+       <type>Objet Scénario</type>
+       <text>vous faites appel à votre assurance\nhabitation</text>
+  </box>
+  <box top_left_x="263" top_left_y="1375" bottom_right_x="2162" bottom_right_y="1563">
+       <type>Complément Scénario</type>
+       <text>votre toit a été endommagé\npar la chute d'un arbre</text>
+  </box>
+  <box top_left_x="887" top_left_y="1581" bottom_right_x="1524" bottom_right_y="1730">
+       <type>Référence client</type>
+       <text>JXERZO1</text>
+  </box>
+  <box top_left_x="563" top_left_y="1728" bottom_right_x="2169" bottom_right_y="1821">
+       <type>Interlocuteur</type>
+       <text>NAIF ASSURANCES</text>
+  </box>
+  <box top_left_x="474" top_left_y="1816" bottom_right_x="2168" bottom_right_y="1918">
+       <type>Adresse Interlocuteur</type>
+       <text>13 r st Médard</text>
+  </box>
+  <box top_left_x="552" top_left_y="1914" bottom_right_x="981" bottom_right_y="2033">
+       <type>Code Postal Interlocuteur</type>
+       <text>80400</text>
+  </box>
+  <box top_left_x="1115" top_left_y="1913" bottom_right_x="2168" bottom_right_y="2013">
+       <type>Ville Interlocuteur</type>
+       <text>ERCHEU</text>
+  </box>
+  <box top_left_x="1033" top_left_y="2252" bottom_right_x="1247" bottom_right_y="2362">
+       <type>Temps passé</type>
+       <text></text>
+  </box>
+  <box top_left_x="855" top_left_y="2167" bottom_right_x="956" bottom_right_y="2269">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1053" top_left_y="2187" bottom_right_x="1102" bottom_right_y="2239">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1269" top_left_y="2187" bottom_right_x="1321" bottom_right_y="2239">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="258" top_left_y="2627" bottom_right_x="351" bottom_right_y="2731">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1574" top_left_y="2609" bottom_right_x="2173" bottom_right_y="2721">
+       <type>Date d'envoi postal</type>
+       <text></text>
+  </box>
+  <box top_left_x="284" top_left_y="2750" bottom_right_x="333" bottom_right_y="2798">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="282" top_left_y="2845" bottom_right_x="334" bottom_right_y="2891">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1716" top_left_y="2783" bottom_right_x="2165" bottom_right_y="2900">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="283" top_left_y="2936" bottom_right_x="334" bottom_right_y="2986">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1572" top_left_y="2903" bottom_right_x="2167" bottom_right_y="3004">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1713" top_left_y="3097" bottom_right_x="1978" bottom_right_y="3190">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="555" top_left_y="3125" bottom_right_x="606" bottom_right_y="3174">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="760" top_left_y="3124" bottom_right_x="812" bottom_right_y="3174">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="941" top_left_y="3124" bottom_right_x="991" bottom_right_y="3174">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1052" top_left_y="3000" bottom_right_x="2168" bottom_right_y="3098">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
