@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="18/12/2007" author="Jouve">
+  <source width="2473" height="3503">00668_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Difficulté de paiement</scenario>
+  <writer>THEVENET Jocelyne</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="115" top_left_y="291" bottom_right_x="671" bottom_right_y="432">
+       <type>Code d'envoi</type>
+       <text>HFPACT</text>
+  </box>
+  <box top_left_x="345" top_left_y="454" bottom_right_x="1152" bottom_right_y="559">
+       <type>Nom</type>
+       <text>THEVENEY</text>
+  </box>
+  <box top_left_x="1345" top_left_y="454" bottom_right_x="2116" bottom_right_y="557">
+       <type>Prénom</type>
+       <text>Jocelyne</text>
+  </box>
+  <box top_left_x="428" top_left_y="555" bottom_right_x="2123" bottom_right_y="652">
+       <type>Adresse</type>
+       <text>Cité Archimède</text>
+  </box>
+  <box top_left_x="504" top_left_y="656" bottom_right_x="921" bottom_right_y="762">
+       <type>Code Postal</type>
+       <text>06670</text>
+  </box>
+  <box top_left_x="1044" top_left_y="651" bottom_right_x="2124" bottom_right_y="761">
+       <type>Ville</type>
+       <text>PLAN DU VAR</text>
+  </box>
+  <box top_left_x="312" top_left_y="767" bottom_right_x="1183" bottom_right_y="915">
+       <type>Téléphone</type>
+       <text>0467478038</text>
+  </box>
+  <box top_left_x="452" top_left_y="1035" bottom_right_x="2123" bottom_right_y="1150">
+       <type>Catégorie Scénario</type>
+       <text>Difficulté de paiement</text>
+  </box>
+  <box top_left_x="236" top_left_y="1144" bottom_right_x="2124" bottom_right_y="1327">
+       <type>Objet Scénario</type>
+       <text>Demande de remise gracieuse\n</text>
+  </box>
+  <box top_left_x="229" top_left_y="1321" bottom_right_x="2125" bottom_right_y="1512">
+       <type>Complément Scénario</type>
+       <text>Endettement trop important\n</text>
+  </box>
+  <box top_left_x="852" top_left_y="1529" bottom_right_x="1487" bottom_right_y="1679">
+       <type>Référence client</type>
+       <text>POQOZ10</text>
+  </box>
+  <box top_left_x="528" top_left_y="1676" bottom_right_x="2130" bottom_right_y="1775">
+       <type>Interlocuteur</type>
+       <text>¤{Tresorerie/Trésorerie}¤ des Impôts</text>
+  </box>
+  <box top_left_x="439" top_left_y="1766" bottom_right_x="2128" bottom_right_y="1874">
+       <type>Adresse Interlocuteur</type>
+       <text>Centre Bourg</text>
+  </box>
+  <box top_left_x="516" top_left_y="1864" bottom_right_x="943" bottom_right_y="1983">
+       <type>Code Postal Interlocuteur</type>
+       <text>63320</text>
+  </box>
+  <box top_left_x="1077" top_left_y="1866" bottom_right_x="2128" bottom_right_y="1967">
+       <type>Ville Interlocuteur</type>
+       <text>NESCHERS</text>
+  </box>
+  <box top_left_x="995" top_left_y="2202" bottom_right_x="1208" bottom_right_y="2312">
+       <type>Temps passé</type>
+       <text>6</text>
+  </box>
+  <box top_left_x="815" top_left_y="2140" bottom_right_x="918" bottom_right_y="2190">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1011" top_left_y="2161" bottom_right_x="1090" bottom_right_y="2197">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1230" top_left_y="2137" bottom_right_x="1282" bottom_right_y="2189">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="245" top_left_y="2605" bottom_right_x="322" bottom_right_y="2653">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1534" top_left_y="2559" bottom_right_x="2132" bottom_right_y="2671">
+       <type>Date d'envoi postal</type>
+       <text>18/10/06</text>
+  </box>
+  <box top_left_x="255" top_left_y="2705" bottom_right_x="322" bottom_right_y="2749">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="246" top_left_y="2792" bottom_right_x="323" bottom_right_y="2842">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1676" top_left_y="2732" bottom_right_x="2124" bottom_right_y="2849">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="246" top_left_y="2885" bottom_right_x="323" bottom_right_y="2938">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1532" top_left_y="2851" bottom_right_x="2126" bottom_right_y="2954">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1673" top_left_y="3048" bottom_right_x="1938" bottom_right_y="3143">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="517" top_left_y="3074" bottom_right_x="567" bottom_right_y="3124">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="721" top_left_y="3074" bottom_right_x="773" bottom_right_y="3124">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="903" top_left_y="3073" bottom_right_x="952" bottom_right_y="3124">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1013" top_left_y="2949" bottom_right_x="2128" bottom_right_y="3049">
+       <type>Marque et modèle scanner</type>
+       <text>LEXMARK</text>
+  </box>
+</annotation>
