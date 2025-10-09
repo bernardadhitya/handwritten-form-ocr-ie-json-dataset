@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2470" height="3504">04288_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Gestion de sinistre</scenario>
+  <writer>FAY Sandrine</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="91" top_left_y="201" bottom_right_x="689" bottom_right_y="352">
+       <type>Code d'envoi</type>
+       <text>DOUZRV</text>
+  </box>
+  <box top_left_x="339" top_left_y="375" bottom_right_x="1205" bottom_right_y="488">
+       <type>Nom</type>
+       <text>FAY</text>
+  </box>
+  <box top_left_x="1413" top_left_y="376" bottom_right_x="2240" bottom_right_y="486">
+       <type>Prénom</type>
+       <text>Sandrine</text>
+  </box>
+  <box top_left_x="427" top_left_y="484" bottom_right_x="2246" bottom_right_y="585">
+       <type>Adresse</type>
+       <text>9 rue d'Aubigny</text>
+  </box>
+  <box top_left_x="509" top_left_y="592" bottom_right_x="957" bottom_right_y="705">
+       <type>Code Postal</type>
+       <text>88440</text>
+  </box>
+  <box top_left_x="1088" top_left_y="586" bottom_right_x="2247" bottom_right_y="701">
+       <type>Ville</type>
+       <text>NOMEXY</text>
+  </box>
+  <box top_left_x="304" top_left_y="712" bottom_right_x="1238" bottom_right_y="870">
+       <type>Téléphone</type>
+       <text>0385097094</text>
+  </box>
+  <box top_left_x="453" top_left_y="1001" bottom_right_x="2247" bottom_right_y="1122">
+       <type>Catégorie Scénario</type>
+       <text>Gestion de sinistre</text>
+  </box>
+  <box top_left_x="221" top_left_y="1118" bottom_right_x="2247" bottom_right_y="1311">
+       <type>Objet Scénario</type>
+       <text>Vous souhaitez être couvert au titre\nde la ¤{resposabilité/responsabilité}¤ civile</text>
+  </box>
+  <box top_left_x="213" top_left_y="1308" bottom_right_x="2246" bottom_right_y="1509">
+       <type>Complément Scénario</type>
+       <text>Vous avez marché sur le chien\nde votre voisine</text>
+  </box>
+  <box top_left_x="881" top_left_y="1530" bottom_right_x="1562" bottom_right_y="1690">
+       <type>Référence client</type>
+       <text>YLGHP55</text>
+  </box>
+  <box top_left_x="534" top_left_y="1688" bottom_right_x="2253" bottom_right_y="1789">
+       <type>Interlocuteur</type>
+       <text>NAIF Assurance</text>
+  </box>
+  <box top_left_x="439" top_left_y="1785" bottom_right_x="2252" bottom_right_y="1894">
+       <type>Adresse Interlocuteur</type>
+       <text>46 rue de la Republique</text>
+  </box>
+  <box top_left_x="522" top_left_y="1890" bottom_right_x="981" bottom_right_y="2017">
+       <type>Code Postal Interlocuteur</type>
+       <text>88260</text>
+  </box>
+  <box top_left_x="1125" top_left_y="1890" bottom_right_x="2252" bottom_right_y="1997">
+       <type>Ville Interlocuteur</type>
+       <text>DARNEY</text>
+  </box>
+  <box top_left_x="1036" top_left_y="2253" bottom_right_x="1266" bottom_right_y="2371">
+       <type>Temps passé</type>
+       <text>10</text>
+  </box>
+  <box top_left_x="845" top_left_y="2184" bottom_right_x="953" bottom_right_y="2245">
+       <type>Stylo bille</type>
+       <text></text>
+  </box>
+  <box top_left_x="1032" top_left_y="2173" bottom_right_x="1139" bottom_right_y="2263">
+       <type>Stylo plume</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1261" top_left_y="2185" bottom_right_x="1372" bottom_right_y="2245">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="211" top_left_y="2682" bottom_right_x="314" bottom_right_y="2754">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1617" top_left_y="2635" bottom_right_x="2259" bottom_right_y="2755">
+       <type>Date d'envoi postal</type>
+       <text>27 mars 2007</text>
+  </box>
+  <box top_left_x="227" top_left_y="2786" bottom_right_x="274" bottom_right_y="2843">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="227" top_left_y="2888" bottom_right_x="315" bottom_right_y="2945">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1769" top_left_y="2820" bottom_right_x="2250" bottom_right_y="2946">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="227" top_left_y="2989" bottom_right_x="315" bottom_right_y="3046">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1614" top_left_y="2949" bottom_right_x="2252" bottom_right_y="3059">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1765" top_left_y="3160" bottom_right_x="2049" bottom_right_y="3262">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="523" top_left_y="3190" bottom_right_x="577" bottom_right_y="3243">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="741" top_left_y="3202" bottom_right_x="825" bottom_right_y="3246">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="937" top_left_y="3189" bottom_right_x="991" bottom_right_y="3244">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1056" top_left_y="3055" bottom_right_x="2254" bottom_right_y="3162">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>

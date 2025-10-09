@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2475" height="3500">04285_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Relance de courrier sans réponse</scenario>
+  <writer>PEPIN Albert</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="168" top_left_y="367" bottom_right_x="728" bottom_right_y="509">
+       <type>Code d'envoi</type>
+       <text>ZVDNZU</text>
+  </box>
+  <box top_left_x="401" top_left_y="529" bottom_right_x="1212" bottom_right_y="636">
+       <type>Nom</type>
+       <text>PEPIN</text>
+  </box>
+  <box top_left_x="1406" top_left_y="528" bottom_right_x="2181" bottom_right_y="632">
+       <type>Prénom</type>
+       <text>ALBERT</text>
+  </box>
+  <box top_left_x="485" top_left_y="631" bottom_right_x="2186" bottom_right_y="726">
+       <type>Adresse</type>
+       <text>14 CHEMIN DU BOURLET</text>
+  </box>
+  <box top_left_x="562" top_left_y="733" bottom_right_x="981" bottom_right_y="839">
+       <type>Code Postal</type>
+       <text>70270</text>
+  </box>
+  <box top_left_x="1104" top_left_y="725" bottom_right_x="2186" bottom_right_y="833">
+       <type>Ville</type>
+       <text>ST BARTHELEMY</text>
+  </box>
+  <box top_left_x="371" top_left_y="845" bottom_right_x="1243" bottom_right_y="993">
+       <type>Téléphone</type>
+       <text>0345648824</text>
+  </box>
+  <box top_left_x="512" top_left_y="1113" bottom_right_x="2186" bottom_right_y="1228">
+       <type>Catégorie Scénario</type>
+       <text>Relance de courrier sans réponse</text>
+  </box>
+  <box top_left_x="297" top_left_y="1223" bottom_right_x="2185" bottom_right_y="1403">
+       <type>Objet Scénario</type>
+       <text>votre demande d'information du mois dernier\nest restée sans effet</text>
+  </box>
+  <box top_left_x="289" top_left_y="1400" bottom_right_x="2183" bottom_right_y="1587">
+       <type>Complément Scénario</type>
+       <text>\n</text>
+  </box>
+  <box top_left_x="911" top_left_y="1606" bottom_right_x="1545" bottom_right_y="1756">
+       <type>Référence client</type>
+       <text>YTVFM54</text>
+  </box>
+  <box top_left_x="588" top_left_y="1755" bottom_right_x="2186" bottom_right_y="1851">
+       <type>Interlocuteur</type>
+       <text>MAIRIE</text>
+  </box>
+  <box top_left_x="500" top_left_y="1847" bottom_right_x="2184" bottom_right_y="1950">
+       <type>Adresse Interlocuteur</type>
+       <text>69 boulevard François Mitterrand</text>
+  </box>
+  <box top_left_x="578" top_left_y="1946" bottom_right_x="1005" bottom_right_y="2065">
+       <type>Code Postal Interlocuteur</type>
+       <text>63000</text>
+  </box>
+  <box top_left_x="1138" top_left_y="1946" bottom_right_x="2186" bottom_right_y="2047">
+       <type>Ville Interlocuteur</type>
+       <text>CLERMONT FERRAND</text>
+  </box>
+  <box top_left_x="1055" top_left_y="2283" bottom_right_x="1269" bottom_right_y="2393">
+       <type>Temps passé</type>
+       <text>25</text>
+  </box>
+  <box top_left_x="901" top_left_y="2219" bottom_right_x="952" bottom_right_y="2273">
+       <type>Stylo bille</type>
+       <text></text>
+  </box>
+  <box top_left_x="1076" top_left_y="2219" bottom_right_x="1124" bottom_right_y="2270">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1264" top_left_y="2221" bottom_right_x="1367" bottom_right_y="2271">
+       <type>Stylo feutre</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="304" top_left_y="2690" bottom_right_x="358" bottom_right_y="2750">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1594" top_left_y="2642" bottom_right_x="2191" bottom_right_y="2754">
+       <type>Date d'envoi postal</type>
+       <text>29/03/07</text>
+  </box>
+  <box top_left_x="310" top_left_y="2785" bottom_right_x="359" bottom_right_y="2833">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="311" top_left_y="2886" bottom_right_x="358" bottom_right_y="2939">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1734" top_left_y="2816" bottom_right_x="2181" bottom_right_y="2933">
+       <type>Date d'envoi par fax</type>
+       <text>29/03/07</text>
+  </box>
+  <box top_left_x="308" top_left_y="2976" bottom_right_x="359" bottom_right_y="3037">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1590" top_left_y="2936" bottom_right_x="2183" bottom_right_y="3040">
+       <type>Date d'envoi par courriel</type>
+       <text>29/03/07</text>
+  </box>
+  <box top_left_x="1732" top_left_y="3135" bottom_right_x="1997" bottom_right_y="3231">
+       <type>Résolution</type>
+       <text>400</text>
+  </box>
+  <box top_left_x="580" top_left_y="3163" bottom_right_x="630" bottom_right_y="3213">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="783" top_left_y="3162" bottom_right_x="835" bottom_right_y="3213">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="964" top_left_y="3163" bottom_right_x="1012" bottom_right_y="3213">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1073" top_left_y="3036" bottom_right_x="2185" bottom_right_y="3136">
+       <type>Marque et modèle scanner</type>
+       <text>HP LASERJET 9000 Lmfp</text>
+  </box>
+</annotation>

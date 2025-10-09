@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2471" height="3512">04291_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Changement de données personnelles</scenario>
+  <writer>LALLEMAND Jean-yves</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="173" top_left_y="300" bottom_right_x="731" bottom_right_y="441">
+       <type>Code d'envoi</type>
+       <text>VSOFBX</text>
+  </box>
+  <box top_left_x="404" top_left_y="462" bottom_right_x="1213" bottom_right_y="568">
+       <type>Nom</type>
+       <text>LALLEMAND</text>
+  </box>
+  <box top_left_x="1406" top_left_y="463" bottom_right_x="2180" bottom_right_y="566">
+       <type>Prénom</type>
+       <text>JEAN-YVES</text>
+  </box>
+  <box top_left_x="488" top_left_y="564" bottom_right_x="2186" bottom_right_y="659">
+       <type>Adresse</type>
+       <text>4 IMPASSE DES CHAMPS</text>
+  </box>
+  <box top_left_x="565" top_left_y="664" bottom_right_x="983" bottom_right_y="769">
+       <type>Code Postal</type>
+       <text>25400</text>
+  </box>
+  <box top_left_x="1106" top_left_y="659" bottom_right_x="2189" bottom_right_y="766">
+       <type>Ville</type>
+       <text>EXINCOURT</text>
+  </box>
+  <box top_left_x="372" top_left_y="775" bottom_right_x="1245" bottom_right_y="921">
+       <type>Téléphone</type>
+       <text>0350502579</text>
+  </box>
+  <box top_left_x="512" top_left_y="1042" bottom_right_x="2185" bottom_right_y="1158">
+       <type>Catégorie Scénario</type>
+       <text>CHANGEMENT DE DONNÉES PERSONNELLES</text>
+  </box>
+  <box top_left_x="296" top_left_y="1151" bottom_right_x="2185" bottom_right_y="1334">
+       <type>Objet Scénario</type>
+       <text>NOUVELLES COORDONNEES BANCAIRES\n</text>
+  </box>
+  <box top_left_x="288" top_left_y="1328" bottom_right_x="2186" bottom_right_y="1519">
+       <type>Complément Scénario</type>
+       <text>VOUS CHANGEZ DE BANQUE\n</text>
+  </box>
+  <box top_left_x="912" top_left_y="1535" bottom_right_x="1549" bottom_right_y="1685">
+       <type>Référence client</type>
+       <text>KQFOF37</text>
+  </box>
+  <box top_left_x="588" top_left_y="1681" bottom_right_x="2196" bottom_right_y="1780">
+       <type>Interlocuteur</type>
+       <text>BoF TELECOM</text>
+  </box>
+  <box top_left_x="498" top_left_y="1771" bottom_right_x="2197" bottom_right_y="1878">
+       <type>Adresse Interlocuteur</type>
+       <text>2 RUE DE LA FRUITIERE</text>
+  </box>
+  <box top_left_x="576" top_left_y="1869" bottom_right_x="1006" bottom_right_y="1987">
+       <type>Code Postal Interlocuteur</type>
+       <text>74130</text>
+  </box>
+  <box top_left_x="1140" top_left_y="1871" bottom_right_x="2197" bottom_right_y="1971">
+       <type>Ville Interlocuteur</type>
+       <text>VOUGY</text>
+  </box>
+  <box top_left_x="1055" top_left_y="2204" bottom_right_x="1269" bottom_right_y="2314">
+       <type>Temps passé</type>
+       <text>27</text>
+  </box>
+  <box top_left_x="900" top_left_y="2139" bottom_right_x="951" bottom_right_y="2194">
+       <type>Stylo bille</type>
+       <text></text>
+  </box>
+  <box top_left_x="1077" top_left_y="2140" bottom_right_x="1125" bottom_right_y="2191">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1264" top_left_y="2138" bottom_right_x="1368" bottom_right_y="2206">
+       <type>Stylo feutre</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="298" top_left_y="2593" bottom_right_x="381" bottom_right_y="2666">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1596" top_left_y="2561" bottom_right_x="2196" bottom_right_y="2673">
+       <type>Date d'envoi postal</type>
+       <text>28/03/07</text>
+  </box>
+  <box top_left_x="305" top_left_y="2701" bottom_right_x="355" bottom_right_y="2748">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="303" top_left_y="2795" bottom_right_x="355" bottom_right_y="2841">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1739" top_left_y="2733" bottom_right_x="2188" bottom_right_y="2850">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="303" top_left_y="2886" bottom_right_x="355" bottom_right_y="2935">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1594" top_left_y="2852" bottom_right_x="2190" bottom_right_y="2955">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1735" top_left_y="3048" bottom_right_x="2000" bottom_right_y="3142">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="576" top_left_y="3075" bottom_right_x="626" bottom_right_y="3124">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="781" top_left_y="3074" bottom_right_x="832" bottom_right_y="3125">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="963" top_left_y="3074" bottom_right_x="1012" bottom_right_y="3125">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1074" top_left_y="2950" bottom_right_x="2191" bottom_right_y="3049">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>

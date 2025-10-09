@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2472" height="3507">04276_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Gestion de sinistre</scenario>
+  <writer>CASTELLI Carole</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="170" top_left_y="286" bottom_right_x="726" bottom_right_y="428">
+       <type>Code d'envoi</type>
+       <text>CNWSRG</text>
+  </box>
+  <box top_left_x="400" top_left_y="449" bottom_right_x="1207" bottom_right_y="556">
+       <type>Nom</type>
+       <text>CASTELLI</text>
+  </box>
+  <box top_left_x="1399" top_left_y="452" bottom_right_x="2170" bottom_right_y="557">
+       <type>Prénom</type>
+       <text>Carole</text>
+  </box>
+  <box top_left_x="483" top_left_y="550" bottom_right_x="2175" bottom_right_y="651">
+       <type>Adresse</type>
+       <text>17 rue Ferdinand Fabre</text>
+  </box>
+  <box top_left_x="559" top_left_y="651" bottom_right_x="976" bottom_right_y="759">
+       <type>Code Postal</type>
+       <text>34000</text>
+  </box>
+  <box top_left_x="1098" top_left_y="647" bottom_right_x="2178" bottom_right_y="761">
+       <type>Ville</type>
+       <text>MONTPELLIER</text>
+  </box>
+  <box top_left_x="368" top_left_y="762" bottom_right_x="1237" bottom_right_y="913">
+       <type>Téléphone</type>
+       <text>0403286035</text>
+  </box>
+  <box top_left_x="506" top_left_y="1030" bottom_right_x="2175" bottom_right_y="1150">
+       <type>Catégorie Scénario</type>
+       <text>Gestion de sinistre</text>
+  </box>
+  <box top_left_x="290" top_left_y="1140" bottom_right_x="2174" bottom_right_y="1326">
+       <type>Objet Scénario</type>
+       <text>Vous faites appel à votre assurance\nhabitation</text>
+  </box>
+  <box top_left_x="281" top_left_y="1318" bottom_right_x="2173" bottom_right_y="1511">
+       <type>Complément Scénario</type>
+       <text>Vous avez subi un dégât des eaux\n</text>
+  </box>
+  <box top_left_x="902" top_left_y="1526" bottom_right_x="1537" bottom_right_y="1677">
+       <type>Référence client</type>
+       <text>GVPBK97</text>
+  </box>
+  <box top_left_x="579" top_left_y="1673" bottom_right_x="2180" bottom_right_y="1774">
+       <type>Interlocuteur</type>
+       <text>NAIF ASSURANCES</text>
+  </box>
+  <box top_left_x="491" top_left_y="1763" bottom_right_x="2180" bottom_right_y="1872">
+       <type>Adresse Interlocuteur</type>
+       <text>8 route de St Leu</text>
+  </box>
+  <box top_left_x="569" top_left_y="1861" bottom_right_x="995" bottom_right_y="1981">
+       <type>Code Postal Interlocuteur</type>
+       <text>77240</text>
+  </box>
+  <box top_left_x="1130" top_left_y="1863" bottom_right_x="2179" bottom_right_y="1966">
+       <type>Ville Interlocuteur</type>
+       <text>CESSON</text>
+  </box>
+  <box top_left_x="1046" top_left_y="2199" bottom_right_x="1259" bottom_right_y="2310">
+       <type>Temps passé</type>
+       <text>15</text>
+  </box>
+  <box top_left_x="891" top_left_y="2134" bottom_right_x="942" bottom_right_y="2189">
+       <type>Stylo bille</type>
+       <text></text>
+  </box>
+  <box top_left_x="1042" top_left_y="2137" bottom_right_x="1141" bottom_right_y="2197">
+       <type>Stylo plume</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1282" top_left_y="2135" bottom_right_x="1333" bottom_right_y="2187">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="297" top_left_y="2603" bottom_right_x="344" bottom_right_y="2651">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1584" top_left_y="2557" bottom_right_x="2182" bottom_right_y="2671">
+       <type>Date d'envoi postal</type>
+       <text>28 mars 2007</text>
+  </box>
+  <box top_left_x="296" top_left_y="2695" bottom_right_x="346" bottom_right_y="2743">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="295" top_left_y="2790" bottom_right_x="346" bottom_right_y="2835">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1726" top_left_y="2731" bottom_right_x="2174" bottom_right_y="2849">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="296" top_left_y="2882" bottom_right_x="373" bottom_right_y="2932">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1581" top_left_y="2850" bottom_right_x="2176" bottom_right_y="2954">
+       <type>Date d'envoi par courriel</type>
+       <text>27 mars 2007</text>
+  </box>
+  <box top_left_x="1722" top_left_y="3047" bottom_right_x="1987" bottom_right_y="3142">
+       <type>Résolution</type>
+       <text>200</text>
+  </box>
+  <box top_left_x="566" top_left_y="3071" bottom_right_x="616" bottom_right_y="3121">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="770" top_left_y="3071" bottom_right_x="821" bottom_right_y="3122">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="952" top_left_y="3074" bottom_right_x="998" bottom_right_y="3124">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1062" top_left_y="2947" bottom_right_x="2177" bottom_right_y="3049">
+       <type>Marque et modèle scanner</type>
+       <text>SNAPSCAN e25 AGFA</text>
+  </box>
+</annotation>
