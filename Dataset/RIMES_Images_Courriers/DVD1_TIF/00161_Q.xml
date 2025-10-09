@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2467" height="3502">00161_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Demande d'information</scenario>
+  <writer>DA SILVA Cassandra</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="101" top_left_y="251" bottom_right_x="700" bottom_right_y="404">
+       <type>Code d'envoi</type>
+       <text>YJUTRP</text>
+  </box>
+  <box top_left_x="349" top_left_y="425" bottom_right_x="1218" bottom_right_y="540">
+       <type>Nom</type>
+       <text>DA SILVA</text>
+  </box>
+  <box top_left_x="1426" top_left_y="423" bottom_right_x="2256" bottom_right_y="534">
+       <type>Prénom</type>
+       <text>Cassandra</text>
+  </box>
+  <box top_left_x="438" top_left_y="533" bottom_right_x="2262" bottom_right_y="635">
+       <type>Adresse</type>
+       <text>15 Rue Soland</text>
+  </box>
+  <box top_left_x="521" top_left_y="643" bottom_right_x="971" bottom_right_y="757">
+       <type>Code Postal</type>
+       <text>68720</text>
+  </box>
+  <box top_left_x="1102" top_left_y="634" bottom_right_x="2264" bottom_right_y="750">
+       <type>Ville</type>
+       <text>HOCHSTATT</text>
+  </box>
+  <box top_left_x="315" top_left_y="763" bottom_right_x="1252" bottom_right_y="921">
+       <type>Téléphone</type>
+       <text>0352056547</text>
+  </box>
+  <box top_left_x="466" top_left_y="1049" bottom_right_x="2265" bottom_right_y="1175">
+       <type>Catégorie Scénario</type>
+       <text>Demande d'information</text>
+  </box>
+  <box top_left_x="234" top_left_y="1168" bottom_right_x="2266" bottom_right_y="1364">
+       <type>Objet Scénario</type>
+       <text>Demande de précision sur la dernière\nfacture</text>
+  </box>
+  <box top_left_x="227" top_left_y="1359" bottom_right_x="2266" bottom_right_y="1563">
+       <type>Complément Scénario</type>
+       <text>Le montant de la facture est trop\nélevée</text>
+  </box>
+  <box top_left_x="897" top_left_y="1583" bottom_right_x="1581" bottom_right_y="1744">
+       <type>Référence client</type>
+       <text>KAJOO51</text>
+  </box>
+  <box top_left_x="549" top_left_y="1742" bottom_right_x="2273" bottom_right_y="1845">
+       <type>Interlocuteur</type>
+       <text>NNA Assurances</text>
+  </box>
+  <box top_left_x="454" top_left_y="1840" bottom_right_x="2272" bottom_right_y="1950">
+       <type>Adresse Interlocuteur</type>
+       <text>8 Rue François Guerin</text>
+  </box>
+  <box top_left_x="538" top_left_y="1946" bottom_right_x="998" bottom_right_y="2073">
+       <type>Code Postal Interlocuteur</type>
+       <text>38360</text>
+  </box>
+  <box top_left_x="1142" top_left_y="1945" bottom_right_x="2272" bottom_right_y="2053">
+       <type>Ville Interlocuteur</type>
+       <text>Sassenage</text>
+  </box>
+  <box top_left_x="1053" top_left_y="2308" bottom_right_x="1284" bottom_right_y="2426">
+       <type>Temps passé</type>
+       <text></text>
+  </box>
+  <box top_left_x="861" top_left_y="2254" bottom_right_x="971" bottom_right_y="2300">
+       <type>Stylo bille</type>
+       <text></text>
+  </box>
+  <box top_left_x="1073" top_left_y="2265" bottom_right_x="1156" bottom_right_y="2303">
+       <type>Stylo plume</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1278" top_left_y="2242" bottom_right_x="1390" bottom_right_y="2303">
+       <type>Stylo feutre</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="240" top_left_y="2743" bottom_right_x="331" bottom_right_y="2811">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1636" top_left_y="2691" bottom_right_x="2279" bottom_right_y="2811">
+       <type>Date d'envoi postal</type>
+       <text>28/08/06</text>
+  </box>
+  <box top_left_x="238" top_left_y="2845" bottom_right_x="330" bottom_right_y="2908">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="234" top_left_y="2947" bottom_right_x="331" bottom_right_y="3009">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1788" top_left_y="2876" bottom_right_x="2271" bottom_right_y="3003">
+       <type>Date d'envoi par fax</type>
+       <text>28/08/06</text>
+  </box>
+  <box top_left_x="236" top_left_y="3049" bottom_right_x="332" bottom_right_y="3112">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1633" top_left_y="3005" bottom_right_x="2274" bottom_right_y="3116">
+       <type>Date d'envoi par courriel</type>
+       <text>28/08/06</text>
+  </box>
+  <box top_left_x="1785" top_left_y="3216" bottom_right_x="2071" bottom_right_y="3318">
+       <type>Résolution</type>
+       <text>200</text>
+  </box>
+  <box top_left_x="540" top_left_y="3250" bottom_right_x="594" bottom_right_y="3304">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="762" top_left_y="3249" bottom_right_x="817" bottom_right_y="3303">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="959" top_left_y="3252" bottom_right_x="1036" bottom_right_y="3302">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1075" top_left_y="3110" bottom_right_x="2276" bottom_right_y="3220">
+       <type>Marque et modèle scanner</type>
+       <text>snapscan e50-Scanwise 2 00</text>
+  </box>
+</annotation>
