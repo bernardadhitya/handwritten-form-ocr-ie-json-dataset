@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2467" height="3505">00218_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Relance de courrier sans réponse</scenario>
+  <writer>BON Romain</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="172" top_left_y="375" bottom_right_x="728" bottom_right_y="517">
+       <type>Code d'envoi</type>
+       <text>JBSMXM</text>
+  </box>
+  <box top_left_x="403" top_left_y="538" bottom_right_x="1209" bottom_right_y="644">
+       <type>Nom</type>
+       <text>BON</text>
+  </box>
+  <box top_left_x="1402" top_left_y="538" bottom_right_x="2172" bottom_right_y="641">
+       <type>Prénom</type>
+       <text>Romain</text>
+  </box>
+  <box top_left_x="487" top_left_y="640" bottom_right_x="2178" bottom_right_y="734">
+       <type>Adresse</type>
+       <text>4 A Rue de la Grotte</text>
+  </box>
+  <box top_left_x="563" top_left_y="741" bottom_right_x="979" bottom_right_y="847">
+       <type>Code Postal</type>
+       <text>57520</text>
+  </box>
+  <box top_left_x="1101" top_left_y="735" bottom_right_x="2179" bottom_right_y="841">
+       <type>Ville</type>
+       <text>LIXING LES ROUHLING</text>
+  </box>
+  <box top_left_x="371" top_left_y="853" bottom_right_x="1239" bottom_right_y="1000">
+       <type>Téléphone</type>
+       <text>0393779039</text>
+  </box>
+  <box top_left_x="510" top_left_y="1121" bottom_right_x="2180" bottom_right_y="1237">
+       <type>Catégorie Scénario</type>
+       <text>Relance de ¤{Courier/courrier}¤ sans réponse</text>
+  </box>
+  <box top_left_x="295" top_left_y="1233" bottom_right_x="2181" bottom_right_y="1414">
+       <type>Objet Scénario</type>
+       <text>Votre réclamation du mois dernier est\nrestée sans suite</text>
+  </box>
+  <box top_left_x="287" top_left_y="1411" bottom_right_x="2182" bottom_right_y="1599">
+       <type>Complément Scénario</type>
+       <text>aucun\n</text>
+  </box>
+  <box top_left_x="910" top_left_y="1617" bottom_right_x="1544" bottom_right_y="1767">
+       <type>Référence client</type>
+       <text>AHBOL40</text>
+  </box>
+  <box top_left_x="586" top_left_y="1765" bottom_right_x="2185" bottom_right_y="1860">
+       <type>Interlocuteur</type>
+       <text>NAIF Assurances</text>
+  </box>
+  <box top_left_x="498" top_left_y="1856" bottom_right_x="2183" bottom_right_y="1959">
+       <type>Adresse Interlocuteur</type>
+       <text>24 rue de l'HOTEL DE VILLE</text>
+  </box>
+  <box top_left_x="575" top_left_y="1954" bottom_right_x="1002" bottom_right_y="2073">
+       <type>Code Postal Interlocuteur</type>
+       <text>85540</text>
+  </box>
+  <box top_left_x="1136" top_left_y="1953" bottom_right_x="2184" bottom_right_y="2054">
+       <type>Ville Interlocuteur</type>
+       <text>LE CHAMP ST PERE</text>
+  </box>
+  <box top_left_x="1054" top_left_y="2292" bottom_right_x="1267" bottom_right_y="2402">
+       <type>Temps passé</type>
+       <text>10</text>
+  </box>
+  <box top_left_x="876" top_left_y="2211" bottom_right_x="955" bottom_right_y="2285">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1074" top_left_y="2227" bottom_right_x="1123" bottom_right_y="2279">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1289" top_left_y="2227" bottom_right_x="1341" bottom_right_y="2279">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="282" top_left_y="2682" bottom_right_x="355" bottom_right_y="2757">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1593" top_left_y="2649" bottom_right_x="2191" bottom_right_y="2761">
+       <type>Date d'envoi postal</type>
+       <text>13/09/06</text>
+  </box>
+  <box top_left_x="307" top_left_y="2793" bottom_right_x="356" bottom_right_y="2841">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="305" top_left_y="2887" bottom_right_x="356" bottom_right_y="2933">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1735" top_left_y="2822" bottom_right_x="2183" bottom_right_y="2940">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="280" top_left_y="2968" bottom_right_x="384" bottom_right_y="3040">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1591" top_left_y="2942" bottom_right_x="2185" bottom_right_y="3045">
+       <type>Date d'envoi par courriel</type>
+       <text>12/09/06</text>
+  </box>
+  <box top_left_x="1732" top_left_y="3139" bottom_right_x="1997" bottom_right_y="3234">
+       <type>Résolution</type>
+       <text>200</text>
+  </box>
+  <box top_left_x="577" top_left_y="3168" bottom_right_x="627" bottom_right_y="3218">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="755" top_left_y="3159" bottom_right_x="858" bottom_right_y="3244">
+       <type>Format GIF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="962" top_left_y="3166" bottom_right_x="1012" bottom_right_y="3217">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1073" top_left_y="3041" bottom_right_x="2186" bottom_right_y="3141">
+       <type>Marque et modèle scanner</type>
+       <text>HP Scanjet 3770</text>
+  </box>
+</annotation>
