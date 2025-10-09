@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2471" height="3509">03870_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Relance de courrier sans réponse</scenario>
+  <writer>OZTURK Guy</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="172" top_left_y="362" bottom_right_x="732" bottom_right_y="505">
+       <type>Code d'envoi</type>
+       <text>KUSCWA</text>
+  </box>
+  <box top_left_x="404" top_left_y="522" bottom_right_x="1217" bottom_right_y="630">
+       <type>Nom</type>
+       <text>OZTURK</text>
+  </box>
+  <box top_left_x="1411" top_left_y="519" bottom_right_x="2187" bottom_right_y="624">
+       <type>Prénom</type>
+       <text>Guy</text>
+  </box>
+  <box top_left_x="488" top_left_y="621" bottom_right_x="2192" bottom_right_y="719">
+       <type>Adresse</type>
+       <text>26 route du Vignoble</text>
+  </box>
+  <box top_left_x="565" top_left_y="726" bottom_right_x="986" bottom_right_y="832">
+       <type>Code Postal</type>
+       <text>67450</text>
+  </box>
+  <box top_left_x="1108" top_left_y="717" bottom_right_x="2195" bottom_right_y="826">
+       <type>Ville</type>
+       <text>LAMPERTHEIM</text>
+  </box>
+  <box top_left_x="373" top_left_y="838" bottom_right_x="1249" bottom_right_y="984">
+       <type>Téléphone</type>
+       <text>0381864582</text>
+  </box>
+  <box top_left_x="513" top_left_y="1098" bottom_right_x="2195" bottom_right_y="1219">
+       <type>Catégorie Scénario</type>
+       <text>Relance de courrier sans réponse</text>
+  </box>
+  <box top_left_x="296" top_left_y="1209" bottom_right_x="2195" bottom_right_y="1395">
+       <type>Objet Scénario</type>
+       <text>Mon changement de données personnelles n'a pas été\npris en compte</text>
+  </box>
+  <box top_left_x="288" top_left_y="1389" bottom_right_x="2197" bottom_right_y="1579">
+       <type>Complément Scénario</type>
+       <text>\n</text>
+  </box>
+  <box top_left_x="915" top_left_y="1597" bottom_right_x="1555" bottom_right_y="1746">
+       <type>Référence client</type>
+       <text>LHUHC66</text>
+  </box>
+  <box top_left_x="589" top_left_y="1744" bottom_right_x="2202" bottom_right_y="1839">
+       <type>Interlocuteur</type>
+       <text>Banque Débit Lyonnais</text>
+  </box>
+  <box top_left_x="500" top_left_y="1835" bottom_right_x="2200" bottom_right_y="1938">
+       <type>Adresse Interlocuteur</type>
+       <text>Au Bourg</text>
+  </box>
+  <box top_left_x="579" top_left_y="1933" bottom_right_x="1009" bottom_right_y="2051">
+       <type>Code Postal Interlocuteur</type>
+       <text>25190</text>
+  </box>
+  <box top_left_x="1144" top_left_y="1933" bottom_right_x="2201" bottom_right_y="2032">
+       <type>Ville Interlocuteur</type>
+       <text>CHAMESOIL</text>
+  </box>
+  <box top_left_x="1061" top_left_y="2269" bottom_right_x="1277" bottom_right_y="2379">
+       <type>Temps passé</type>
+       <text>30</text>
+  </box>
+  <box top_left_x="918" top_left_y="2221" bottom_right_x="957" bottom_right_y="2250">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1083" top_left_y="2205" bottom_right_x="1132" bottom_right_y="2256">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1297" top_left_y="2205" bottom_right_x="1349" bottom_right_y="2256">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="323" top_left_y="2691" bottom_right_x="337" bottom_right_y="2710">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1605" top_left_y="2622" bottom_right_x="2207" bottom_right_y="2735">
+       <type>Date d'envoi postal</type>
+       <text>20 Mars 07</text>
+  </box>
+  <box top_left_x="326" top_left_y="2788" bottom_right_x="336" bottom_right_y="2804">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="305" top_left_y="2887" bottom_right_x="357" bottom_right_y="2917">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1748" top_left_y="2795" bottom_right_x="2200" bottom_right_y="2913">
+       <type>Date d'envoi par fax</type>
+       <text>20 Mars 07</text>
+  </box>
+  <box top_left_x="305" top_left_y="2978" bottom_right_x="357" bottom_right_y="3010">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1604" top_left_y="2915" bottom_right_x="2203" bottom_right_y="3019">
+       <type>Date d'envoi par courriel</type>
+       <text>20 Mars 07</text>
+  </box>
+  <box top_left_x="1746" top_left_y="3113" bottom_right_x="2013" bottom_right_y="3208">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="582" top_left_y="3145" bottom_right_x="633" bottom_right_y="3195">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="788" top_left_y="3143" bottom_right_x="840" bottom_right_y="3194">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="986" top_left_y="3153" bottom_right_x="1021" bottom_right_y="3188">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1081" top_left_y="3014" bottom_right_x="2204" bottom_right_y="3116">
+       <type>Marque et modèle scanner</type>
+       <text>¤Nashunatec ¤ DSC 338</text>
+  </box>
+</annotation>

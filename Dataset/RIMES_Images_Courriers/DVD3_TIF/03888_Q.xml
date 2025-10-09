@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2472" height="3504">03888_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Gestion de sinistre</scenario>
+  <writer>MATEO Justine</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="144" top_left_y="359" bottom_right_x="702" bottom_right_y="503">
+       <type>Code d'envoi</type>
+       <text>LGRMUT</text>
+  </box>
+  <box top_left_x="376" top_left_y="524" bottom_right_x="1183" bottom_right_y="632">
+       <type>Nom</type>
+       <text>MATEO</text>
+  </box>
+  <box top_left_x="1377" top_left_y="528" bottom_right_x="2150" bottom_right_y="634">
+       <type>Prénom</type>
+       <text>Justine</text>
+  </box>
+  <box top_left_x="458" top_left_y="626" bottom_right_x="2154" bottom_right_y="725">
+       <type>Adresse</type>
+       <text>37 rue Principale</text>
+  </box>
+  <box top_left_x="534" top_left_y="725" bottom_right_x="951" bottom_right_y="833">
+       <type>Code Postal</type>
+       <text>68210</text>
+  </box>
+  <box top_left_x="1073" top_left_y="722" bottom_right_x="2154" bottom_right_y="832">
+       <type>Ville</type>
+       <text>HECKEN</text>
+  </box>
+  <box top_left_x="341" top_left_y="837" bottom_right_x="1212" bottom_right_y="987">
+       <type>Téléphone</type>
+       <text>0311719906</text>
+  </box>
+  <box top_left_x="481" top_left_y="1108" bottom_right_x="2153" bottom_right_y="1227">
+       <type>Catégorie Scénario</type>
+       <text>Gestion de sinistre</text>
+  </box>
+  <box top_left_x="265" top_left_y="1219" bottom_right_x="2153" bottom_right_y="1406">
+       <type>Objet Scénario</type>
+       <text>Vous faites appel à votre assurance automobile\n</text>
+  </box>
+  <box top_left_x="257" top_left_y="1398" bottom_right_x="2153" bottom_right_y="1590">
+       <type>Complément Scénario</type>
+       <text>Vous avez provoqué un accident de la route\n(vous ¤{declarerez/déclarerez}¤ joindre le constat)</text>
+  </box>
+  <box top_left_x="880" top_left_y="1606" bottom_right_x="1516" bottom_right_y="1754">
+       <type>Référence client</type>
+       <text>CWWPB15</text>
+  </box>
+  <box top_left_x="557" top_left_y="1753" bottom_right_x="2159" bottom_right_y="1847">
+       <type>Interlocuteur</type>
+       <text>NAIF Assurance</text>
+  </box>
+  <box top_left_x="468" top_left_y="1842" bottom_right_x="2158" bottom_right_y="1945">
+       <type>Adresse Interlocuteur</type>
+       <text>rue MORDPAIN</text>
+  </box>
+  <box top_left_x="546" top_left_y="1940" bottom_right_x="975" bottom_right_y="2060">
+       <type>Code Postal Interlocuteur</type>
+       <text>89160</text>
+  </box>
+  <box top_left_x="1108" top_left_y="1939" bottom_right_x="2161" bottom_right_y="2040">
+       <type>Ville Interlocuteur</type>
+       <text>SENNEVOY LE BAS</text>
+  </box>
+  <box top_left_x="1027" top_left_y="2279" bottom_right_x="1243" bottom_right_y="2390">
+       <type>Temps passé</type>
+       <text>10</text>
+  </box>
+  <box top_left_x="872" top_left_y="2218" bottom_right_x="950" bottom_right_y="2285">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1047" top_left_y="2214" bottom_right_x="1097" bottom_right_y="2266">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1263" top_left_y="2215" bottom_right_x="1316" bottom_right_y="2266">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="289" top_left_y="2681" bottom_right_x="356" bottom_right_y="2735">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1570" top_left_y="2635" bottom_right_x="2170" bottom_right_y="2747">
+       <type>Date d'envoi postal</type>
+       <text>19/03/07</text>
+  </box>
+  <box top_left_x="279" top_left_y="2781" bottom_right_x="329" bottom_right_y="2829">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="278" top_left_y="2875" bottom_right_x="329" bottom_right_y="2921">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1713" top_left_y="2808" bottom_right_x="2162" bottom_right_y="2926">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="260" top_left_y="2964" bottom_right_x="357" bottom_right_y="3023">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1568" top_left_y="2928" bottom_right_x="2165" bottom_right_y="3032">
+       <type>Date d'envoi par courriel</type>
+       <text>19/03/07</text>
+  </box>
+  <box top_left_x="1710" top_left_y="3126" bottom_right_x="1976" bottom_right_y="3221">
+       <type>Résolution</type>
+       <text>150</text>
+  </box>
+  <box top_left_x="550" top_left_y="3155" bottom_right_x="628" bottom_right_y="3225">
+       <type>Format PNG</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="756" top_left_y="3155" bottom_right_x="808" bottom_right_y="3205">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="938" top_left_y="3155" bottom_right_x="988" bottom_right_y="3206">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1048" top_left_y="3027" bottom_right_x="2166" bottom_right_y="3128">
+       <type>Marque et modèle scanner</type>
+       <text>Lexmark P3150</text>
+  </box>
+</annotation>
