@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2473" height="3504">03393_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Gestion de sinistre</scenario>
+  <writer>GASCHET Christiane</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="166" top_left_y="364" bottom_right_x="721" bottom_right_y="508">
+       <type>Code d'envoi</type>
+       <text>SXHRBC</text>
+  </box>
+  <box top_left_x="396" top_left_y="529" bottom_right_x="1201" bottom_right_y="636">
+       <type>Nom</type>
+       <text>GASCHET</text>
+  </box>
+  <box top_left_x="1394" top_left_y="530" bottom_right_x="2164" bottom_right_y="634">
+       <type>Prénom</type>
+       <text>Christiane</text>
+  </box>
+  <box top_left_x="478" top_left_y="633" bottom_right_x="2168" bottom_right_y="728">
+       <type>Adresse</type>
+       <text>16 Rue de la Paix</text>
+  </box>
+  <box top_left_x="554" top_left_y="734" bottom_right_x="970" bottom_right_y="840">
+       <type>Code Postal</type>
+       <text>67240</text>
+  </box>
+  <box top_left_x="1092" top_left_y="728" bottom_right_x="2168" bottom_right_y="838">
+       <type>Ville</type>
+       <text>KALTENHOUSE</text>
+  </box>
+  <box top_left_x="364" top_left_y="845" bottom_right_x="1231" bottom_right_y="993">
+       <type>Téléphone</type>
+       <text>0354094985</text>
+  </box>
+  <box top_left_x="502" top_left_y="1115" bottom_right_x="2169" bottom_right_y="1232">
+       <type>Catégorie Scénario</type>
+       <text>Gestion de sinistre</text>
+  </box>
+  <box top_left_x="286" top_left_y="1227" bottom_right_x="2169" bottom_right_y="1409">
+       <type>Objet Scénario</type>
+       <text>Appel à assurances habitation\n</text>
+  </box>
+  <box top_left_x="279" top_left_y="1407" bottom_right_x="2168" bottom_right_y="1597">
+       <type>Complément Scénario</type>
+       <text>Subi un ¤{dégat/dégât}¤ des eaux\n</text>
+  </box>
+  <box top_left_x="899" top_left_y="1616" bottom_right_x="1532" bottom_right_y="1767">
+       <type>Référence client</type>
+       <text>XOODX02</text>
+  </box>
+  <box top_left_x="576" top_left_y="1765" bottom_right_x="2172" bottom_right_y="1862">
+       <type>Interlocuteur</type>
+       <text>NNA Assurances</text>
+  </box>
+  <box top_left_x="488" top_left_y="1856" bottom_right_x="2169" bottom_right_y="1961">
+       <type>Adresse Interlocuteur</type>
+       <text>Place Crottigne</text>
+  </box>
+  <box top_left_x="565" top_left_y="1956" bottom_right_x="991" bottom_right_y="2076">
+       <type>Code Postal Interlocuteur</type>
+       <text>53150</text>
+  </box>
+  <box top_left_x="1124" top_left_y="1956" bottom_right_x="2170" bottom_right_y="2058">
+       <type>Ville Interlocuteur</type>
+       <text>MONTSURS</text>
+  </box>
+  <box top_left_x="1042" top_left_y="2297" bottom_right_x="1255" bottom_right_y="2409">
+       <type>Temps passé</type>
+       <text>10</text>
+  </box>
+  <box top_left_x="888" top_left_y="2231" bottom_right_x="938" bottom_right_y="2287">
+       <type>Stylo bille</type>
+       <text></text>
+  </box>
+  <box top_left_x="1056" top_left_y="2216" bottom_right_x="1136" bottom_right_y="2295">
+       <type>Stylo plume</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1250" top_left_y="2247" bottom_right_x="1354" bottom_right_y="2295">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="279" top_left_y="2685" bottom_right_x="341" bottom_right_y="2769">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1580" top_left_y="2660" bottom_right_x="2177" bottom_right_y="2773">
+       <type>Date d'envoi postal</type>
+       <text>7 Mars 2007</text>
+  </box>
+  <box top_left_x="277" top_left_y="2790" bottom_right_x="344" bottom_right_y="2871">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="290" top_left_y="2898" bottom_right_x="342" bottom_right_y="2945">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1720" top_left_y="2835" bottom_right_x="2169" bottom_right_y="2953">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="290" top_left_y="2991" bottom_right_x="341" bottom_right_y="3041">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1576" top_left_y="2956" bottom_right_x="2170" bottom_right_y="3059">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1716" top_left_y="3153" bottom_right_x="1980" bottom_right_y="3248">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="561" top_left_y="3181" bottom_right_x="612" bottom_right_y="3231">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="765" top_left_y="3180" bottom_right_x="817" bottom_right_y="3231">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="947" top_left_y="3180" bottom_right_x="996" bottom_right_y="3231">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1057" top_left_y="3054" bottom_right_x="2170" bottom_right_y="3154">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
