@@ -1,0 +1,75 @@
+{
+    "survey": {
+        "questions": [
+            {
+                "id": 1,
+                "title": "LETTER",
+                "questions": [
+                    {
+                        "text": "Was our letter easy to understand?",
+                        "responses": [
+                            "Very Satisfied",
+                            "Somewhat Satisfied",
+                            "Neither Satisfied Nor Dissatisfied",
+                            "Somewhat Dissatisfied",
+                            "Very Dissatisfied"
+                        ]
+                    },
+                    {
+                        "text": "Did our letter answer your question or concern?",
+                        "responses": [
+                            "Very Satisfied",
+                            "Somewhat Satisfied",
+                            "Neither Satisfied Nor Dissatisfied",
+                            "Somewhat Dissatisfied",
+                            "Very Dissatisfied"
+                        ]
+                    },
+                    {
+                        "text": "Was our letter courteous?",
+                        "responses": [
+                            "Very Satisfied",
+                            "Somewhat Satisfied",
+                            "Neither Satisfied Nor Dissatisfied",
+                            "Somewhat Dissatisfied",
+                            "Very Dissatisfied"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Which ONE of the following statements BEST describes the way you feel about R.J. Reynolds' response to your request for assistance?",
+                "responses": [
+                    "I was very satisfied.",
+                    "I was somewhat satisfied",
+                    "I was neither satisfied nor dissatisfied.",
+                    "I was somewhat dissatisfied",
+                    "I was very dissatisfied"
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Based on our letter, will you continue to purchase the brand of cigarettes you contacted us about?",
+                "responses": [
+                    "I Definitely Would",
+                    "I Probably Would",
+                    "I Might or Might Not",
+                    "I Probably Would Not",
+                    "I Definitely Would Not"
+                ]
+            },
+            {
+                "id": 4,
+                "title": "Based on our letter, would you recommend R.J. Reynolds' brands to an adult smoker (21 years of age or older) who currently smokes a competitive brand?",
+                "responses": [
+                    "I Definitely Would",
+                    "I Probably Would",
+                    "I Might or Might Not",
+                    "I Probably Would Not",
+                    "I Definitely Would Not"
+                ]
+            }
+        ]
+    }
+}
