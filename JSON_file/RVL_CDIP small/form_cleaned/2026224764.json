@@ -1,0 +1,52 @@
+{
+    "date": "18-AUG-1994",
+    "time": "11:43",
+    "sender": {
+        "name": "Andy Nelmes",
+        "company": "GALLAHER LIMITED",
+        "department": "GALLAHER CORPORATE AFFRS",
+        "phone": "0932856585"
+    },
+    "recipient": [
+        {
+            "name": "Mitch Ritter",
+            "company": "Philip Morris",
+            "location": "Neuchatel"
+        },
+        {
+            "name": "Mike wnson",
+            "company": "Rothmans",
+            "location": "Basildon"
+        },
+        {
+            "name": "Lutz Mueller",
+            "company": "R.J.Reynolds",
+            "location": "Cologne"
+        }
+    ],
+    "cc": [
+        {
+            "name": "P.Eck",
+            "company": "Chadboume Park"
+        },
+        {
+            "name": "K.Davis",
+            "company": "LWD"
+        },
+        {
+            "name": "P.Sadler",
+            "company": "IIL"
+        }
+    ],
+    "fax_details": {
+        "pages_sent": 7,
+        "reference": "SCOTH Review",
+        "date": "18.08.94"
+    },
+    "message": "I have sent again the references to the various sections. I inadvertently gave out the previous set. Please find attached the updated reference lists for Sections 2-6.",
+    "additional_info": {
+        "tortmon": "2026224764",
+        "pp": "Andy Nelmes",
+        "attachment": "Att."
+    }
+}

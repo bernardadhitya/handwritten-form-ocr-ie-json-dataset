@@ -1,0 +1,61 @@
+{
+    "purchaseOrder": {
+        "orderNumber": "080194",
+        "company": "PHILIP MORRIS",
+        "contact": {
+            "telex": "827311",
+            "phone": "804-274-2000",
+            "address": {
+                "poBox": "26603",
+                "city": "Richmond",
+                "state": "Virginia",
+                "zip": "23261"
+            }
+        },
+        "shipTo": {
+            "name": "VIRGINIA BEARINGS",
+            "address": {
+                "street": "PARK 500, 58O6 Midlothian Turnpike, North Warehouse, Doors 77/78",
+                "city": "Richmond",
+                "state": "Virginia",
+                "zip": "23225"
+            },
+            "attention": "CHERYL"
+        },
+        "destination": {
+            "address": {
+                "street": "410 Bermuda Hundred Road",
+                "city": "Chester",
+                "state": "Virginia",
+                "zip": "23831"
+            },
+            "attention": "SKIP JOYNER"
+        },
+        "date": "05/12/92",
+        "terms": "NET30",
+        "fob": "DESTINATION",
+        "freightTerms": "INCLUDED",
+        "vendor": "TRUCK",
+        "instructions": [
+            "Invoices must be mailed with original bill of lading or transportation receipt, if applicable, to P.O. Box 26603, Richmond, VA 23261.",
+            "If Seller performs any work on Buyer's property, Seller and Seller's subcontractors, agents and employees shall comply with General Safety Regulations for Contractors (copy attached).",
+            "Purchase order number must appear on all invoices, bills of lading, cases, packing lists and correspondence.",
+            "This purchase order is exempt from the Va. State Sales Tax under exemption No. 216-028456-4 unless otherwise specified."
+        ],
+        "items": [
+            {
+                "lineItem": 1,
+                "quantity": "EA",
+                "description": "GRAMMER GS12 SUSPENSION SEAT WITH VINYL SEAT COVER AND OPTIONAL SEATBELT. PRICE INCLUDES INSTALLATION ON FORK TRUCKS TO BE IDENTIFIED UPON DELIVERY OF SEATS",
+                "unitPrice": 290.0,
+                "total": 870.0
+            }
+        ],
+        "orderTotal": 870.0,
+        "taxable": false,
+        "account": "990-173-652",
+        "requester": "JOYNER",
+        "requisitioner": "R.L. MERRITT",
+        "sck": "SCK"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "ClubName": "Cb",
+    "ScheduleA": {
+        "PermanentVisibilityItems": {
+            "Goods": [
+                "Marlboro Neons",
+                "Napkins per month",
+                "Marlboro Backlit Pack",
+                "Ashtrays",
+                "Marlboro Wall Graphics",
+                "Bar Organizers",
+                "Garnish Trays",
+                "Match Caddies",
+                "Gutter Mats",
+                "Bar Mats",
+                "Chalk Boards",
+                "Pollcits"
+            ],
+            "Style": {
+                "GutterMats": "3",
+                "BarMats": "3",
+                "ChalkBoards": "E"
+            }
+        },
+        "Media": {
+            "PrintMediaAdvertisements": "The placement publication, style and frequency of the media advertisements to be determined by Producer."
+        },
+        "OtherConsideration": {
+            "PerformancePayment": "s000",
+            "PaymentSchedule": [
+                {
+                    "Amount": "$S8",
+                    "Condition": "within 45 days of the Club's execution and the Producer's receipt and acceptance of this Agreement."
+                },
+                {
+                    "Date": "July 1, 2000"
+                },
+                {
+                    "Date": "September 15, 2000"
+                },
+                {
+                    "Amount": "$5008",
+                    "Date": "December 1, 2000"
+                }
+            ]
+        }
+    },
+    "ClubInitialHere": "2083866340",
+    "DocumentCode": "AO-21-P"
+}

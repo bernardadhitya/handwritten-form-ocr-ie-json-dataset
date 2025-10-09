@@ -1,0 +1,46 @@
+{
+    "revolution": {
+        "page": "02",
+        "date": "05/16/2000",
+        "time": "13:30",
+        "fax_number": "4156562720",
+        "page_number": "32",
+        "form": "PHILIP MORRIS USA PRINT CERTIFICATION FORM-2000",
+        "instructions": "Please complete both Section A and B below. Section A certifies that your publication is not directed primarily to those under 21 years of age. This must be completed to allow Philip Morris USA to assess the placement of tobacco advertising in your publication.",
+        "section_a": {
+            "publisher": "I am the publisher of Revolution magazine",
+            "title_of_publication": "Revolution",
+            "certification": "I certify that the title of publication is not directed primarily to those under 21 years of age.",
+            "date": "05-16-00",
+            "signature": "Name (Print): SPSONBN.Yo",
+            "present_publisher": true
+        },
+        "section_b": {
+            "name_of_publication": "Revolution",
+            "circulation": {
+                "newsstand": "60%",
+                "subscription": "40%"
+            },
+            "demographic": {
+                "circulation_age_21+": "60%",
+                "demographic_age_21+": "40%"
+            },
+            "research": "Please attach all necessary data to support this summary.",
+            "data_source": "Data are Study Prototype Based on Rolling Stone",
+            "type_of_study": "Please check one",
+            "media_research": [
+                "MediaMark Research Inc.",
+                "Media Audit",
+                "Scarborough",
+                "Simmons",
+                "Other"
+            ],
+            "other": "If other, please describe on phone below",
+            "questionnaire": "Revolution will be conducting a reader's survey in the premier issue. Readers will be asked their age in order to best determine the percent of readers 21+. Philip Morris will be informed of our findings immediately.",
+            "contact": {
+                "fax_or_contact": "IASCHNEIDER",
+                "phone": "917-663-5315"
+            }
+        }
+    }
+}

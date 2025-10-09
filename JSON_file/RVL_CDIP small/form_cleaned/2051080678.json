@@ -1,0 +1,100 @@
+{
+    "document": {
+        "status": "OFFICIAL",
+        "location": "USA",
+        "date": "APR 23 1991",
+        "file": "ER 22, 1 OF 1",
+        "sheet": "7",
+        "issued": "March",
+        "retention_period": {
+            "in_storage": "H",
+            "in_dept": "+2",
+            "responsible_records_management_group": "MIHHOS",
+            "department_head": "APPLIED TECHNOLOGY",
+            "legal_counsel": "PHILIP"
+        },
+        "dept_code": "Q1MFP14A",
+        "authorization": "2051050678",
+        "categories": [
+            {
+                "name": "CALENDARS/DAYTIMERS/DIARIES",
+                "retention": "TER"
+            },
+            {
+                "name": "MANAGERS' CONFIDENTIAL FILES",
+                "retention": "TER"
+            },
+            {
+                "name": "PROCESSING PLANTS & PROCEDURES",
+                "retention": "TER"
+            },
+            {
+                "name": "PERSONNEL RECORDS",
+                "retention": "TER"
+            },
+            {
+                "name": "ADMINISTRATIVE EQUIPMENT HISTORIES",
+                "retention": "TER"
+            },
+            {
+                "name": "POLICIES",
+                "retention": "TER"
+            },
+            {
+                "name": "PATENTS",
+                "retention": "TER"
+            },
+            {
+                "name": "PROJECTS",
+                "retention": "TER"
+            }
+        ],
+        "key_to_retentions": {
+            "until_superseded": "SUP",
+            "until_terminated": "TER",
+            "current_month": "C+2",
+            "while_active": "ACT",
+            "current_year": "C",
+            "permanently": "P"
+        },
+        "revised_date": "1991",
+        "record_codes": [
+            {
+                "category": "MANUFACTURING",
+                "code": "A1078"
+            },
+            {
+                "category": "RECORD",
+                "code": "C2650"
+            },
+            {
+                "category": "CATEGORY",
+                "code": "E1376"
+            },
+            {
+                "category": "RECORD",
+                "code": "HO318"
+            },
+            {
+                "category": "CATEGORY",
+                "code": "M1545"
+            },
+            {
+                "category": "RECORD",
+                "code": "P2309"
+            },
+            {
+                "category": "CATEGORY",
+                "code": "P2311"
+            },
+            {
+                "category": "RECORD",
+                "code": "P2312"
+            },
+            {
+                "category": "CATEGORY",
+                "code": "P2310"
+            }
+        ]
+    }
+}

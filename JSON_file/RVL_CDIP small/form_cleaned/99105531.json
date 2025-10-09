@@ -1,0 +1,39 @@
+{
+    "date": "09/12/00",
+    "time": "16:10",
+    "fax_number": "15086602139",
+    "sender": "A.ORILLARD",
+    "department": "GREENSBORO SALES",
+    "page_info": "002/002",
+    "recipient": {
+        "name": "Joseph J. Braga",
+        "address": "570N Elm St, West Bridgewater, MA 02379-1140"
+    },
+    "sender_company": {
+        "name": "R.J.Reynolds Tobacco Co.",
+        "address": "P.O.Box 2959, Winston-Salem, NC 27102-2959"
+    },
+    "contact_info": {
+        "fax_issue_contact": "1-800-336-33",
+        "customer_assistance": "1-800-862-4338"
+    },
+    "announcement_date": "September 12, 2000",
+    "announcement": {
+        "effective_date": "September 18, 2000",
+        "price_increase": {
+            "products": [
+                "Monarch",
+                "Best Value"
+            ],
+            "market": "general market"
+        },
+        "rebate": {
+            "amount_per_carton": 0.16,
+            "first_payment_week": "week of September 25, 2000",
+            "coverage_period": "September 18, 2000 through September 22, 2000"
+        }
+    },
+    "closing": "Thank you for your continued support in the marketing of our products.",
+    "company_signature": "R.J.REYNOLDS TOBACCO COMPANY",
+    "note": "If you did not receive this announcement via FAX and would like to do so in the future, please contact RJR Customer Assistance."
+}

@@ -1,0 +1,34 @@
+{
+    "formTitle": "Participation Verification Form",
+    "instructions": "Please complete this form, checking off all appropriate boxes, and send it in the enclosed postage-paid envelope or mail to 1500 Ardmore Blvd., Suite 202, Pittsburgh, PA 15221. Please write clearly.",
+    "participation": {
+        "programParticipation": "YES, we're participating in the Ask First/It's the Law program and we're doing our part to prevent tobacco sales to minors.",
+        "displayMaterials": "We're displaying the Ask First/It's the Law decals and promotional materials on our door or window and at point of sale.",
+        "employeeTraining": "We've trained our employees to know the law and to be sure to ask for identification when in doubt about a purchaser's age.",
+        "employeeAcknowledgment": "Our employees have read and signed the Employee Acknowledgment Form and we have hung the 'Don't Ask for Trouble' poster in the back room as a constant reminder to them."
+    },
+    "mailingList": "YES, add my establishment to the Ask First/It's the Law mailing list to receive new and updated materials and information.",
+    "manager": {
+        "name": "Manager Name",
+        "signature": "Signature"
+    },
+    "store": {
+        "name": "Name of Store or Business",
+        "storeId": "include store id # if relevant",
+        "address": "Address",
+        "cityStateZip": "CityState, Zip",
+        "telephone": "Telephone",
+        "type": [
+            "Convenience",
+            "Gas/Service Station",
+            "Grocery",
+            "Drug Store/Pharmacy",
+            "Magazine/Newsstand",
+            "Mass Merchandiser",
+            "Chain/Number of Locations I Manage",
+            "Wholesaler"
+        ]
+    },
+    "promotionalUse": "YES, you may use my store's name as an Ask First/It's the Law participant in promotional materials and advertising with my prior knowledge.",
+    "supportingMessage": "Supporting Responsible Tobacco Retailing"
+}
