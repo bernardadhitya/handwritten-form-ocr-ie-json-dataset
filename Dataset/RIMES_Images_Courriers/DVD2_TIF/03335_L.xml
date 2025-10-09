@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve ">
+  <source width="2473" height="3504">03335_L.png</source>
+  <document>Lettre manuscrite</document>
+  <scenario>Gestion de sinistre</scenario>
+  <writer>FRERE Julie</writer>
+  <sender_person>Frere Julie</sender_person>
+  <sender_company></sender_company>
+  <sender_tel>+33(0)3.12.88.46.34</sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company>Baaf Assurances</receiver_company>
+  <subject>Objet : expertise de mon ¤{vehicule/véhicule}¤</subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="7" top_left_y="34" bottom_right_x="963" bottom_right_y="742">
+  <type>Coordonnées Expéditeur</type>
+  <text>¤{Frere/Frère}¤ Julie\n14 rue des pecheurs\n68600 Biesheim\nTél : 03.12.88.46.34</text>
+  </box>
+  <box top_left_x="11" top_left_y="765" bottom_right_x="1195" bottom_right_y="982">
+  <type>Objet</type>
+  <text>Objet : expertise de mon ¤{vehicule/véhicule}¤</text>
+  </box>
+  <box top_left_x="1248" top_left_y="1027" bottom_right_x="2360" bottom_right_y="1568">
+  <type>Coordonnées Destinataire</type>
+  <text>Baaf Assurances\nRue Guillaume Briconnet\n77100 Meaux</text>
+  </box>
+  <box top_left_x="715" top_left_y="1633" bottom_right_x="1191" bottom_right_y="1838">
+  <type>Ouverture</type>
+  <text>Monsieur,</text>
+  </box>
+  <box top_left_x="129" top_left_y="1880" bottom_right_x="2451" bottom_right_y="3056">
+  <type>Corps de texte</type>
+  <text>Mon véhicule a été accidenté le mois\ndernier et a subit une expertise de la part de\nvotre agent. Mes références clientes sont XKGGG89.\nA ce jour, je n'ai eu aucune nouvelle de votre\npart concernant ce dossier. Je vous prie de\nm'informer des ¤{resultats/résultats}¤ de cette expertise au\nplus tôt. Cordialement</text>
+  </box>
+  <box top_left_x="1100" top_left_y="3079" bottom_right_x="1663" bottom_right_y="3342">
+  <type>Signature</type>
+  <text></text>
+  </box>
+</annotation>
