@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2472" height="3507">04411_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Relance de courrier sans réponse</scenario>
+  <writer>RABOUIN Joel</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="92" top_left_y="261" bottom_right_x="692" bottom_right_y="414">
+       <type>Code d'envoi</type>
+       <text>VYEPWB</text>
+  </box>
+  <box top_left_x="340" top_left_y="436" bottom_right_x="1212" bottom_right_y="553">
+       <type>Nom</type>
+       <text>Rabouin</text>
+  </box>
+  <box top_left_x="1420" top_left_y="440" bottom_right_x="2253" bottom_right_y="553">
+       <type>Prénom</type>
+       <text>Joel</text>
+  </box>
+  <box top_left_x="430" top_left_y="547" bottom_right_x="2259" bottom_right_y="653">
+       <type>Adresse</type>
+       <text>42 Rue du Rhin</text>
+  </box>
+  <box top_left_x="513" top_left_y="656" bottom_right_x="963" bottom_right_y="772">
+       <type>Code Postal</type>
+       <text>68730</text>
+  </box>
+  <box top_left_x="1095" top_left_y="652" bottom_right_x="2261" bottom_right_y="771">
+       <type>Ville</type>
+       <text>Blotzheim</text>
+  </box>
+  <box top_left_x="306" top_left_y="776" bottom_right_x="1245" bottom_right_y="937">
+       <type>Téléphone</type>
+       <text>0377687575</text>
+  </box>
+  <box top_left_x="455" top_left_y="1065" bottom_right_x="2259" bottom_right_y="1192">
+       <type>Catégorie Scénario</type>
+       <text>Relance courrier</text>
+  </box>
+  <box top_left_x="223" top_left_y="1184" bottom_right_x="2260" bottom_right_y="1381">
+       <type>Objet Scénario</type>
+       <text>Reclamation du mois dernier restée\nsans ¤{reponse/réponse}¤</text>
+  </box>
+  <box top_left_x="215" top_left_y="1375" bottom_right_x="2260" bottom_right_y="1580">
+       <type>Complément Scénario</type>
+       <text>\n</text>
+  </box>
+  <box top_left_x="887" top_left_y="1598" bottom_right_x="1572" bottom_right_y="1760">
+       <type>Référence client</type>
+       <text>DVOIC80</text>
+  </box>
+  <box top_left_x="538" top_left_y="1757" bottom_right_x="2265" bottom_right_y="1863">
+       <type>Interlocuteur</type>
+       <text>CAF</text>
+  </box>
+  <box top_left_x="442" top_left_y="1855" bottom_right_x="2263" bottom_right_y="1969">
+       <type>Adresse Interlocuteur</type>
+       <text>Au Bourg</text>
+  </box>
+  <box top_left_x="525" top_left_y="1961" bottom_right_x="986" bottom_right_y="2089">
+       <type>Code Postal Interlocuteur</type>
+       <text>17470</text>
+  </box>
+  <box top_left_x="1131" top_left_y="1962" bottom_right_x="2264" bottom_right_y="2072">
+       <type>Ville Interlocuteur</type>
+       <text>Cherbonnières</text>
+  </box>
+  <box top_left_x="1042" top_left_y="2324" bottom_right_x="1273" bottom_right_y="2443">
+       <type>Temps passé</type>
+       <text>30</text>
+  </box>
+  <box top_left_x="849" top_left_y="2255" bottom_right_x="959" bottom_right_y="2316">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1061" top_left_y="2255" bottom_right_x="1145" bottom_right_y="2318">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1267" top_left_y="2270" bottom_right_x="1379" bottom_right_y="2316">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="238" top_left_y="2760" bottom_right_x="317" bottom_right_y="2809">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1625" top_left_y="2710" bottom_right_x="2270" bottom_right_y="2831">
+       <type>Date d'envoi postal</type>
+       <text>28 MARS 2007</text>
+  </box>
+  <box top_left_x="227" top_left_y="2858" bottom_right_x="316" bottom_right_y="2914">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="227" top_left_y="2961" bottom_right_x="317" bottom_right_y="3016">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1778" top_left_y="2896" bottom_right_x="2262" bottom_right_y="3023">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="227" top_left_y="3061" bottom_right_x="317" bottom_right_y="3127">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1622" top_left_y="3025" bottom_right_x="2264" bottom_right_y="3136">
+       <type>Date d'envoi par courriel</type>
+       <text>28 MARS 2007</text>
+  </box>
+  <box top_left_x="1774" top_left_y="3237" bottom_right_x="2060" bottom_right_y="3339">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="527" top_left_y="3265" bottom_right_x="581" bottom_right_y="3319">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="748" top_left_y="3264" bottom_right_x="803" bottom_right_y="3318">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="949" top_left_y="3256" bottom_right_x="1004" bottom_right_y="3343">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1062" top_left_y="3130" bottom_right_x="2265" bottom_right_y="3239">
+       <type>Marque et modèle scanner</type>
+       <text>Ricoh 338</text>
+  </box>
+</annotation>
