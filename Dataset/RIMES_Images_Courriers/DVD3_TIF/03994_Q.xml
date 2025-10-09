@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2475" height="3506">03994_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Demande d'information</scenario>
+  <writer>POUPARD Naomi</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="172" top_left_y="300" bottom_right_x="729" bottom_right_y="442">
+       <type>Code d'envoi</type>
+       <text>MRDEAT</text>
+  </box>
+  <box top_left_x="403" top_left_y="463" bottom_right_x="1210" bottom_right_y="569">
+       <type>Nom</type>
+       <text>POUPARD</text>
+  </box>
+  <box top_left_x="1403" top_left_y="464" bottom_right_x="2174" bottom_right_y="568">
+       <type>Prénom</type>
+       <text>Naomi</text>
+  </box>
+  <box top_left_x="486" top_left_y="565" bottom_right_x="2181" bottom_right_y="663">
+       <type>Adresse</type>
+       <text>1 rue de la Voute</text>
+  </box>
+  <box top_left_x="561" top_left_y="665" bottom_right_x="979" bottom_right_y="772">
+       <type>Code Postal</type>
+       <text>25490</text>
+  </box>
+  <box top_left_x="1102" top_left_y="661" bottom_right_x="2182" bottom_right_y="771">
+       <type>Ville</type>
+       <text>BADEVEL</text>
+  </box>
+  <box top_left_x="369" top_left_y="777" bottom_right_x="1240" bottom_right_y="924">
+       <type>Téléphone</type>
+       <text>0337392119</text>
+  </box>
+  <box top_left_x="509" top_left_y="1045" bottom_right_x="2180" bottom_right_y="1161">
+       <type>Catégorie Scénario</type>
+       <text>Demande d'information</text>
+  </box>
+  <box top_left_x="293" top_left_y="1155" bottom_right_x="2181" bottom_right_y="1337">
+       <type>Objet Scénario</type>
+       <text>demande de catalogue de produits proposés\n</text>
+  </box>
+  <box top_left_x="284" top_left_y="1332" bottom_right_x="2181" bottom_right_y="1522">
+       <type>Complément Scénario</type>
+       <text>\n</text>
+  </box>
+  <box top_left_x="907" top_left_y="1539" bottom_right_x="1543" bottom_right_y="1690">
+       <type>Référence client</type>
+       <text>GSLUM83</text>
+  </box>
+  <box top_left_x="583" top_left_y="1687" bottom_right_x="2187" bottom_right_y="1784">
+       <type>Interlocuteur</type>
+       <text>Banque Débit Lyonnais</text>
+  </box>
+  <box top_left_x="495" top_left_y="1777" bottom_right_x="2186" bottom_right_y="1883">
+       <type>Adresse Interlocuteur</type>
+       <text>1 rue Joliot Curie</text>
+  </box>
+  <box top_left_x="573" top_left_y="1876" bottom_right_x="1000" bottom_right_y="1995">
+       <type>Code Postal Interlocuteur</type>
+       <text>57255</text>
+  </box>
+  <box top_left_x="1134" top_left_y="1877" bottom_right_x="2186" bottom_right_y="1977">
+       <type>Ville Interlocuteur</type>
+       <text>STE MARIE AUX CHENES</text>
+  </box>
+  <box top_left_x="1051" top_left_y="2213" bottom_right_x="1265" bottom_right_y="2323">
+       <type>Temps passé</type>
+       <text>15</text>
+  </box>
+  <box top_left_x="872" top_left_y="2140" bottom_right_x="974" bottom_right_y="2212">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1071" top_left_y="2148" bottom_right_x="1120" bottom_right_y="2200">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1286" top_left_y="2148" bottom_right_x="1338" bottom_right_y="2200">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="291" top_left_y="2616" bottom_right_x="370" bottom_right_y="2679">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1591" top_left_y="2569" bottom_right_x="2189" bottom_right_y="2681">
+       <type>Date d'envoi postal</type>
+       <text>23/03/2007</text>
+  </box>
+  <box top_left_x="281" top_left_y="2705" bottom_right_x="369" bottom_right_y="2768">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="285" top_left_y="2802" bottom_right_x="380" bottom_right_y="2864">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1733" top_left_y="2742" bottom_right_x="2182" bottom_right_y="2859">
+       <type>Date d'envoi par fax</type>
+       <text>23/03/2007</text>
+  </box>
+  <box top_left_x="288" top_left_y="2882" bottom_right_x="380" bottom_right_y="2959">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1589" top_left_y="2862" bottom_right_x="2184" bottom_right_y="2964">
+       <type>Date d'envoi par courriel</type>
+       <text>23/03/2007</text>
+  </box>
+  <box top_left_x="1730" top_left_y="3058" bottom_right_x="1995" bottom_right_y="3152">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="547" top_left_y="3071" bottom_right_x="650" bottom_right_y="3149">
+       <type>Format PNG</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="778" top_left_y="3085" bottom_right_x="829" bottom_right_y="3136">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="960" top_left_y="3085" bottom_right_x="1009" bottom_right_y="3136">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1070" top_left_y="2960" bottom_right_x="2185" bottom_right_y="3059">
+       <type>Marque et modèle scanner</type>
+       <text>LEXMARK X1190</text>
+  </box>
+</annotation>

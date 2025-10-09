@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2472" height="3506">03990_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Gestion de sinistre</scenario>
+  <writer>LUCAS Veronique</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="78" top_left_y="192" bottom_right_x="672" bottom_right_y="345">
+       <type>Code d'envoi</type>
+       <text>GASESU</text>
+  </box>
+  <box top_left_x="323" top_left_y="368" bottom_right_x="1183" bottom_right_y="483">
+       <type>Nom</type>
+       <text>LUCAS</text>
+  </box>
+  <box top_left_x="1390" top_left_y="370" bottom_right_x="2213" bottom_right_y="482">
+       <type>Prénom</type>
+       <text>Véronique</text>
+  </box>
+  <box top_left_x="410" top_left_y="478" bottom_right_x="2220" bottom_right_y="582">
+       <type>Adresse</type>
+       <text>1 A Rue Principale</text>
+  </box>
+  <box top_left_x="492" top_left_y="586" bottom_right_x="938" bottom_right_y="701">
+       <type>Code Postal</type>
+       <text>57480</text>
+  </box>
+  <box top_left_x="1068" top_left_y="581" bottom_right_x="2224" bottom_right_y="699">
+       <type>Ville</type>
+       <text>RI¤TZ¤ING</text>
+  </box>
+  <box top_left_x="285" top_left_y="707" bottom_right_x="1217" bottom_right_y="868">
+       <type>Téléphone</type>
+       <text>0334415990</text>
+  </box>
+  <box top_left_x="433" top_left_y="998" bottom_right_x="2220" bottom_right_y="1125">
+       <type>Catégorie Scénario</type>
+       <text>Gestion de sinistre</text>
+  </box>
+  <box top_left_x="202" top_left_y="1117" bottom_right_x="2219" bottom_right_y="1318">
+       <type>Objet Scénario</type>
+       <text>Vous faites appel à votre assurance\nautomobile</text>
+  </box>
+  <box top_left_x="193" top_left_y="1310" bottom_right_x="2219" bottom_right_y="1520">
+       <type>Complément Scénario</type>
+       <text>Vous avez provoqué un accident de la\nroute (vous déclarerez joindre le constat)</text>
+  </box>
+  <box top_left_x="858" top_left_y="1536" bottom_right_x="1537" bottom_right_y="1699">
+       <type>Référence client</type>
+       <text>TEUEK75</text>
+  </box>
+  <box top_left_x="511" top_left_y="1694" bottom_right_x="2227" bottom_right_y="1803">
+       <type>Interlocuteur</type>
+       <text>NAIF Assurances</text>
+  </box>
+  <box top_left_x="415" top_left_y="1791" bottom_right_x="2227" bottom_right_y="1909">
+       <type>Adresse Interlocuteur</type>
+       <text>Le Bourg</text>
+  </box>
+  <box top_left_x="498" top_left_y="1898" bottom_right_x="956" bottom_right_y="2028">
+       <type>Code Postal Interlocuteur</type>
+       <text>64640</text>
+  </box>
+  <box top_left_x="1100" top_left_y="1901" bottom_right_x="2227" bottom_right_y="2011">
+       <type>Ville Interlocuteur</type>
+       <text>HELETTE</text>
+  </box>
+  <box top_left_x="1009" top_left_y="2266" bottom_right_x="1238" bottom_right_y="2386">
+       <type>Temps passé</type>
+       <text>10</text>
+  </box>
+  <box top_left_x="831" top_left_y="2196" bottom_right_x="925" bottom_right_y="2258">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1030" top_left_y="2222" bottom_right_x="1110" bottom_right_y="2262">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1233" top_left_y="2210" bottom_right_x="1344" bottom_right_y="2259">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="195" top_left_y="2702" bottom_right_x="285" bottom_right_y="2762">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1587" top_left_y="2654" bottom_right_x="2230" bottom_right_y="2777">
+       <type>Date d'envoi postal</type>
+       <text>22-03-07</text>
+  </box>
+  <box top_left_x="194" top_left_y="2801" bottom_right_x="283" bottom_right_y="2861">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="193" top_left_y="2908" bottom_right_x="283" bottom_right_y="2976">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1738" top_left_y="2843" bottom_right_x="2221" bottom_right_y="2971">
+       <type>Date d'envoi par fax</type>
+       <text>22-03-07</text>
+  </box>
+  <box top_left_x="192" top_left_y="3010" bottom_right_x="282" bottom_right_y="3068">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1583" top_left_y="2973" bottom_right_x="2222" bottom_right_y="3085">
+       <type>Date d'envoi par courriel</type>
+       <text>22-03-07</text>
+  </box>
+  <box top_left_x="1733" top_left_y="3186" bottom_right_x="2018" bottom_right_y="3288">
+       <type>Résolution</type>
+       <text>200</text>
+  </box>
+  <box top_left_x="489" top_left_y="3213" bottom_right_x="543" bottom_right_y="3267">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="709" top_left_y="3213" bottom_right_x="764" bottom_right_y="3268">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="894" top_left_y="3200" bottom_right_x="984" bottom_right_y="3271">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1023" top_left_y="3078" bottom_right_x="2223" bottom_right_y="3188">
+       <type>Marque et modèle scanner</type>
+       <text>Konica Minolta Bizhub C350</text>
+  </box>
+</annotation>

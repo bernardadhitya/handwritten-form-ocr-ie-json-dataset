@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve ">
+  <source width="2476" height="3501">03970_L.png</source>
+  <document>Lettre manuscrite</document>
+  <scenario>Demande d'information</scenario>
+  <writer>PARDON Michel</writer>
+  <sender_person>PARDON Michel</sender_person>
+  <sender_company></sender_company>
+  <sender_tel>+33(0)3.21.01.24.83</sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company>Banque crédit populaire</receiver_company>
+  <subject>Objet : ¤{Precision/Précision}¤ sur la dernière facture</subject>
+  <date>21/03/2007</date>
+  <place></place>
+  <box top_left_x="197" top_left_y="305" bottom_right_x="1027" bottom_right_y="900">
+  <type>Coordonnées Expéditeur</type>
+  <text>PARDON Michel\n16 Rue du Plone\n57260, VERGAVILLE\nTél : 03 21 01 24 83</text>
+  </box>
+  <box top_left_x="1781" top_left_y="108" bottom_right_x="2438" bottom_right_y="266">
+  <type>Date, Lieu</type>
+  <text>le 21 mars, 2007</text>
+  </box>
+  <box top_left_x="1557" top_left_y="722" bottom_right_x="2333" bottom_right_y="1197">
+  <type>Coordonnées Destinataire</type>
+  <text>Banque crédit populaire\nRue d'essling\n31480, CADOURS</text>
+  </box>
+  <box top_left_x="185" top_left_y="1248" bottom_right_x="1630" bottom_right_y="1414">
+  <type>Objet</type>
+  <text>Objet : ¤{Precision/Précision}¤ sur la dernière facture</text>
+  </box>
+  <box top_left_x="162" top_left_y="1479" bottom_right_x="981" bottom_right_y="1622">
+  <type>Coordonnées Expéditeur</type>
+  <text>¤{Ref./Réf.}¤ Client : BHJRY55</text>
+  </box>
+  <box top_left_x="154" top_left_y="1692" bottom_right_x="853" bottom_right_y="1843">
+  <type>Ouverture</type>
+  <text>Madame / Monsieur,</text>
+  </box>
+  <box top_left_x="150" top_left_y="1889" bottom_right_x="2295" bottom_right_y="2809">
+  <type>Corps de texte</type>
+  <text>Je crois que il y a quelque problème dans\nma facture de la mois dernière. Je veux les ¤{details/détails}¤ de\ntoutes les transactions SVP. Aussi, ¤{precisez/précisez}¤ les dates des\ntransactions. Dans l'attente de votre réponse ¤{agreable/agréable}¤, je\nvous présente mes salutations distinguées.</text>
+  </box>
+  <box top_left_x="1545" top_left_y="2890" bottom_right_x="2017" bottom_right_y="3176">
+  <type>Signature</type>
+  <text></text>
+  </box>
+</annotation>
