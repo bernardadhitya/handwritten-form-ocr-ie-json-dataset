@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2468" height="3500">01748_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Fermeture de compte</scenario>
+  <writer>BORDAS Christian</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="177" top_left_y="306" bottom_right_x="735" bottom_right_y="448">
+       <type>Code d'envoi</type>
+       <text>VSISZL</text>
+  </box>
+  <box top_left_x="409" top_left_y="465" bottom_right_x="1217" bottom_right_y="573">
+       <type>Nom</type>
+       <text>Bordas</text>
+  </box>
+  <box top_left_x="1410" top_left_y="462" bottom_right_x="2182" bottom_right_y="566">
+       <type>Prénom</type>
+       <text>Christian</text>
+  </box>
+  <box top_left_x="492" top_left_y="563" bottom_right_x="2187" bottom_right_y="661">
+       <type>Adresse</type>
+       <text>27 rue du Maire Schnaffer Chez Baff</text>
+  </box>
+  <box top_left_x="568" top_left_y="666" bottom_right_x="986" bottom_right_y="773">
+       <type>Code Postal</type>
+       <text>67560</text>
+  </box>
+  <box top_left_x="1108" top_left_y="656" bottom_right_x="2188" bottom_right_y="766">
+       <type>Ville</type>
+       <text>Roshein</text>
+  </box>
+  <box top_left_x="377" top_left_y="777" bottom_right_x="1248" bottom_right_y="927">
+       <type>Téléphone</type>
+       <text>0360993831</text>
+  </box>
+  <box top_left_x="517" top_left_y="1043" bottom_right_x="2188" bottom_right_y="1161">
+       <type>Catégorie Scénario</type>
+       <text>Fermeture de compte</text>
+  </box>
+  <box top_left_x="303" top_left_y="1153" bottom_right_x="2188" bottom_right_y="1336">
+       <type>Objet Scénario</type>
+       <text>Fermeture de compte bancaire\n</text>
+  </box>
+  <box top_left_x="296" top_left_y="1330" bottom_right_x="2186" bottom_right_y="1519">
+       <type>Complément Scénario</type>
+       <text>Vous venez de perdre votre emploi\n</text>
+  </box>
+  <box top_left_x="917" top_left_y="1538" bottom_right_x="1551" bottom_right_y="1687">
+       <type>Référence client</type>
+       <text>FYACY32</text>
+  </box>
+  <box top_left_x="595" top_left_y="1684" bottom_right_x="2196" bottom_right_y="1779">
+       <type>Interlocuteur</type>
+       <text>Banque Société Géniale</text>
+  </box>
+  <box top_left_x="507" top_left_y="1772" bottom_right_x="2196" bottom_right_y="1876">
+       <type>Adresse Interlocuteur</type>
+       <text>3 Rue Président Edouard Herriot</text>
+  </box>
+  <box top_left_x="585" top_left_y="1871" bottom_right_x="1013" bottom_right_y="1990">
+       <type>Code Postal Interlocuteur</type>
+       <text>69001</text>
+  </box>
+  <box top_left_x="1146" top_left_y="1868" bottom_right_x="2196" bottom_right_y="1970">
+       <type>Ville Interlocuteur</type>
+       <text>LYON</text>
+  </box>
+  <box top_left_x="1064" top_left_y="2208" bottom_right_x="1278" bottom_right_y="2318">
+       <type>Temps passé</type>
+       <text>20</text>
+  </box>
+  <box top_left_x="910" top_left_y="2144" bottom_right_x="961" bottom_right_y="2199">
+       <type>Stylo bille</type>
+       <text></text>
+  </box>
+  <box top_left_x="1091" top_left_y="2117" bottom_right_x="1158" bottom_right_y="2204">
+       <type>Stylo plume</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1300" top_left_y="2144" bottom_right_x="1351" bottom_right_y="2195">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="329" top_left_y="2585" bottom_right_x="376" bottom_right_y="2638">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1606" top_left_y="2564" bottom_right_x="2204" bottom_right_y="2675">
+       <type>Date d'envoi postal</type>
+       <text>4 janvier 2007</text>
+  </box>
+  <box top_left_x="318" top_left_y="2707" bottom_right_x="368" bottom_right_y="2754">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="333" top_left_y="2777" bottom_right_x="390" bottom_right_y="2848">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1748" top_left_y="2736" bottom_right_x="2197" bottom_right_y="2853">
+       <type>Date d'envoi par fax</type>
+       <text>3 janvier 2007</text>
+  </box>
+  <box top_left_x="331" top_left_y="2873" bottom_right_x="396" bottom_right_y="2943">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1605" top_left_y="2856" bottom_right_x="2199" bottom_right_y="2958">
+       <type>Date d'envoi par courriel</type>
+       <text>3 janvier 2007</text>
+  </box>
+  <box top_left_x="1745" top_left_y="3051" bottom_right_x="2010" bottom_right_y="3146">
+       <type>Résolution</type>
+       <text>400</text>
+  </box>
+  <box top_left_x="590" top_left_y="3080" bottom_right_x="640" bottom_right_y="3130">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="794" top_left_y="3079" bottom_right_x="846" bottom_right_y="3130">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="997" top_left_y="3063" bottom_right_x="1049" bottom_right_y="3130">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1086" top_left_y="2953" bottom_right_x="2200" bottom_right_y="3053">
+       <type>Marque et modèle scanner</type>
+       <text>Canon-Canoscan N676U</text>
+  </box>
+</annotation>

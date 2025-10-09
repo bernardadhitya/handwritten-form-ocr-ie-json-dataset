@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="18/12/2007" author="Jouve">
+  <source width="2475" height="3504">01726_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Fermeture de compte</scenario>
+  <writer>ROUGE Patricia</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="134" top_left_y="298" bottom_right_x="717" bottom_right_y="446">
+       <type>Code d'envoi</type>
+       <text>EOOSDN</text>
+  </box>
+  <box top_left_x="376" top_left_y="469" bottom_right_x="1220" bottom_right_y="580">
+       <type>Nom</type>
+       <text>ROUGE</text>
+  </box>
+  <box top_left_x="1422" top_left_y="470" bottom_right_x="2230" bottom_right_y="579">
+       <type>Prénom</type>
+       <text>PATRICIA</text>
+  </box>
+  <box top_left_x="462" top_left_y="575" bottom_right_x="2235" bottom_right_y="676">
+       <type>Adresse</type>
+       <text>5 BIS RUE HOHL</text>
+  </box>
+  <box top_left_x="542" top_left_y="681" bottom_right_x="979" bottom_right_y="792">
+       <type>Code Postal</type>
+       <text>67290</text>
+  </box>
+  <box top_left_x="1107" top_left_y="676" bottom_right_x="2236" bottom_right_y="790">
+       <type>Ville</type>
+       <text>ROSTEIG</text>
+  </box>
+  <box top_left_x="342" top_left_y="798" bottom_right_x="1252" bottom_right_y="953">
+       <type>Téléphone</type>
+       <text>0348294911</text>
+  </box>
+  <box top_left_x="487" top_left_y="1079" bottom_right_x="2237" bottom_right_y="1199">
+       <type>Catégorie Scénario</type>
+       <text>Fermeture de compte</text>
+  </box>
+  <box top_left_x="262" top_left_y="1194" bottom_right_x="2237" bottom_right_y="1384">
+       <type>Objet Scénario</type>
+       <text>Résiliation d'assurance auto\n</text>
+  </box>
+  <box top_left_x="255" top_left_y="1380" bottom_right_x="2236" bottom_right_y="1579">
+       <type>Complément Scénario</type>
+       <text>vous vendez votre véhicule\n</text>
+  </box>
+  <box top_left_x="905" top_left_y="1597" bottom_right_x="1569" bottom_right_y="1754">
+       <type>Référence client</type>
+       <text>SBENG21</text>
+  </box>
+  <box top_left_x="567" top_left_y="1751" bottom_right_x="2243" bottom_right_y="1852">
+       <type>Interlocuteur</type>
+       <text>BAAF Assurances</text>
+  </box>
+  <box top_left_x="474" top_left_y="1844" bottom_right_x="2243" bottom_right_y="1954">
+       <type>Adresse Interlocuteur</type>
+       <text>15 BIS RUE DE L'EGLISE</text>
+  </box>
+  <box top_left_x="556" top_left_y="1947" bottom_right_x="1003" bottom_right_y="2072">
+       <type>Code Postal Interlocuteur</type>
+       <text>29241</text>
+  </box>
+  <box top_left_x="1143" top_left_y="1948" bottom_right_x="2243" bottom_right_y="2054">
+       <type>Ville Interlocuteur</type>
+       <text>LOCQUIREC</text>
+  </box>
+  <box top_left_x="1056" top_left_y="2300" bottom_right_x="1280" bottom_right_y="2416">
+       <type>Temps passé</type>
+       <text>10</text>
+  </box>
+  <box top_left_x="893" top_left_y="2248" bottom_right_x="976" bottom_right_y="2303">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1077" top_left_y="2232" bottom_right_x="1128" bottom_right_y="2286">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1302" top_left_y="2233" bottom_right_x="1356" bottom_right_y="2287">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="259" top_left_y="2722" bottom_right_x="354" bottom_right_y="2798">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1620" top_left_y="2674" bottom_right_x="2245" bottom_right_y="2790">
+       <type>Date d'envoi postal</type>
+       <text>28/12/2006</text>
+  </box>
+  <box top_left_x="266" top_left_y="2821" bottom_right_x="354" bottom_right_y="2891">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="265" top_left_y="2920" bottom_right_x="355" bottom_right_y="2982">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1768" top_left_y="2854" bottom_right_x="2237" bottom_right_y="2976">
+       <type>Date d'envoi par fax</type>
+       <text>28/12/2006</text>
+  </box>
+  <box top_left_x="264" top_left_y="3018" bottom_right_x="355" bottom_right_y="3078">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1618" top_left_y="2979" bottom_right_x="2240" bottom_right_y="3086">
+       <type>Date d'envoi par courriel</type>
+       <text>28/12/2006</text>
+  </box>
+  <box top_left_x="1766" top_left_y="3184" bottom_right_x="2043" bottom_right_y="3283">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="558" top_left_y="3214" bottom_right_x="611" bottom_right_y="3266">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="772" top_left_y="3213" bottom_right_x="825" bottom_right_y="3266">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="961" top_left_y="3213" bottom_right_x="1013" bottom_right_y="3266">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1076" top_left_y="3082" bottom_right_x="2241" bottom_right_y="3186">
+       <type>Marque et modèle scanner</type>
+       <text>MINOLTA DIALTA DI 3510 F</text>
+  </box>
+</annotation>
