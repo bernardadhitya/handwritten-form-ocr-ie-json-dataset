@@ -1,0 +1,84 @@
+{
+    "company": "ALTONAIL",
+    "offer": "More",
+    "zip_code": "56301",
+    "instructions": "All you have to do is fill out the information card below, sign it and mail it back. We'll put you on our mailing list and you'll then be eligible to receive these exclusive deals. It's our way of saying thanks for choosing MORE. And the only way to get these Uniquely MORE offers.",
+    "offer_restriction": "OFFER RESTRICTED TO SMOKERS 21 YEARS OF AGE OR OLDER.",
+    "eligibility_instructions": "To be eligible to start receiving special offers, please do the following: Remember to fill in your birthdate below. Complete and sign this original information card.",
+    "form_fields": {
+        "name": "Name (Print)",
+        "address": "Address",
+        "city_state_zip": "City/State/Zip",
+        "apt_no": "Apt. No",
+        "daytime_phone_number": "Daytime telephone number",
+        "signature_and_birthdate_required": "SIGNATURE AND BIRTHDATE REQUIRED",
+        "birthdate": "What is your birthdate",
+        "todays_date": "Today's date",
+        "certification": "I certify that I am",
+        "signature_required": "Signature required"
+    },
+    "questions": [
+        {
+            "question": "Check one of these as it appears on your pack",
+            "options": [
+                "Slims/Super Slims",
+                "Extra",
+                "Wides",
+                "Ultima"
+            ]
+        },
+        {
+            "question": "What brand of cigarette do you enjoy smoking most often",
+            "options": [
+                "Special Lights",
+                "Select",
+                "NONE"
+            ]
+        },
+        {
+            "question": "Is your brand of cigarette...",
+            "options": [
+                "Regular length",
+                "Menthol",
+                "Long (100s)",
+                "Non-Menthol",
+                "Extra long (120s)"
+            ]
+        },
+        {
+            "question": "Is your brand...",
+            "options": [
+                "LIGHT",
+                "Lights",
+                "Mediums",
+                "Milds",
+                "None of these"
+            ]
+        },
+        {
+            "question": "Out of the last 10 times you bought cigarettes, how many were MORE",
+            "options": []
+        },
+        {
+            "question": "If you had to make a choice, what would you consider your second favorite brand of cigarette?",
+            "options": [
+                "MORE"
+            ]
+        },
+        {
+            "question": "Which of the following best describes you?",
+            "options": [
+                "Caucasian",
+                "African-American",
+                "Native American",
+                "Asian",
+                "Hispanic"
+            ]
+        }
+    ],
+    "additional_info": {
+        "tar_nicotine_content": "ER 15 mg. tar 1.1 mg. nicotine MENTH 16 mg. tar 1.2 mg. nicotine avg. per cigarette by FTC method",
+        "surgeon_general_warning": "SURGEON GENERAL'S WARNING: Cigarette Smoke Contains Carbon Monoxide.",
+        "company_info": "1995 (1) RJ. REYNOLDS TOBACCO CO."
+    }
+}
