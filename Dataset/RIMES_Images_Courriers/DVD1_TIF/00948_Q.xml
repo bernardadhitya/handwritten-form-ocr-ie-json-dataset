@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="18/12/2007" author="Jouve">
+  <source width="2467" height="3502">00948_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Réclamation</scenario>
+  <writer>PALACIOS Armelle</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="157" top_left_y="352" bottom_right_x="717" bottom_right_y="494">
+       <type>Code d'envoi</type>
+       <text>PZNHME</text>
+  </box>
+  <box top_left_x="389" top_left_y="516" bottom_right_x="1202" bottom_right_y="622">
+       <type>Nom</type>
+       <text>PALACIOS</text>
+  </box>
+  <box top_left_x="1396" top_left_y="516" bottom_right_x="2172" bottom_right_y="620">
+       <type>Prénom</type>
+       <text>Armelle</text>
+  </box>
+  <box top_left_x="473" top_left_y="618" bottom_right_x="2177" bottom_right_y="715">
+       <type>Adresse</type>
+       <text>91, rue du Wenheck</text>
+  </box>
+  <box top_left_x="550" top_left_y="720" bottom_right_x="970" bottom_right_y="826">
+       <type>Code Postal</type>
+       <text>57730</text>
+  </box>
+  <box top_left_x="1093" top_left_y="715" bottom_right_x="2179" bottom_right_y="824">
+       <type>Ville</type>
+       <text>Petit Eberswiller</text>
+  </box>
+  <box top_left_x="357" top_left_y="832" bottom_right_x="1233" bottom_right_y="979">
+       <type>Téléphone</type>
+       <text>0388365256</text>
+  </box>
+  <box top_left_x="498" top_left_y="1100" bottom_right_x="2181" bottom_right_y="1217">
+       <type>Catégorie Scénario</type>
+       <text>Réclamation</text>
+  </box>
+  <box top_left_x="282" top_left_y="1211" bottom_right_x="2182" bottom_right_y="1395">
+       <type>Objet Scénario</type>
+       <text>Vous vous plaignez de ¤{nuissances/nuisances}¤ sonores\n</text>
+  </box>
+  <box top_left_x="275" top_left_y="1389" bottom_right_x="2182" bottom_right_y="1580">
+       <type>Complément Scénario</type>
+       <text>Le ¤{traffic/trafic}¤ dans votre rue a fortement\naugmenté</text>
+  </box>
+  <box top_left_x="902" top_left_y="1598" bottom_right_x="1542" bottom_right_y="1749">
+       <type>Référence client</type>
+       <text></text>
+  </box>
+  <box top_left_x="577" top_left_y="1746" bottom_right_x="2190" bottom_right_y="1845">
+       <type>Interlocuteur</type>
+       <text>MAIRIE</text>
+  </box>
+  <box top_left_x="488" top_left_y="1838" bottom_right_x="2189" bottom_right_y="1944">
+       <type>Adresse Interlocuteur</type>
+       <text>1, rue Général Leclerc</text>
+  </box>
+  <box top_left_x="567" top_left_y="1939" bottom_right_x="997" bottom_right_y="2059">
+       <type>Code Postal Interlocuteur</type>
+       <text>62161</text>
+  </box>
+  <box top_left_x="1132" top_left_y="1937" bottom_right_x="2189" bottom_right_y="2039">
+       <type>Ville Interlocuteur</type>
+       <text>MAROEUIL</text>
+  </box>
+  <box top_left_x="1050" top_left_y="2277" bottom_right_x="1266" bottom_right_y="2389">
+       <type>Temps passé</type>
+       <text>25</text>
+  </box>
+  <box top_left_x="870" top_left_y="2221" bottom_right_x="972" bottom_right_y="2286">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1070" top_left_y="2212" bottom_right_x="1119" bottom_right_y="2264">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1287" top_left_y="2211" bottom_right_x="1339" bottom_right_y="2264">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="299" top_left_y="2686" bottom_right_x="345" bottom_right_y="2735">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1595" top_left_y="2635" bottom_right_x="2197" bottom_right_y="2748">
+       <type>Date d'envoi postal</type>
+       <text>13/11/2006</text>
+  </box>
+  <box top_left_x="298" top_left_y="2782" bottom_right_x="348" bottom_right_y="2830">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="297" top_left_y="2877" bottom_right_x="348" bottom_right_y="2923">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1738" top_left_y="2808" bottom_right_x="2190" bottom_right_y="2927">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="297" top_left_y="2969" bottom_right_x="349" bottom_right_y="3018">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1594" top_left_y="2929" bottom_right_x="2193" bottom_right_y="3033">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1735" top_left_y="3127" bottom_right_x="2002" bottom_right_y="3222">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="571" top_left_y="3158" bottom_right_x="622" bottom_right_y="3208">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="777" top_left_y="3156" bottom_right_x="829" bottom_right_y="3207">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="959" top_left_y="3156" bottom_right_x="1009" bottom_right_y="3207">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1071" top_left_y="3028" bottom_right_x="2194" bottom_right_y="3130">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
