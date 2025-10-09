@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2474" height="3505">01924_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Demande d'information</scenario>
+  <writer>MARCHAND Jeremy</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="129" top_left_y="314" bottom_right_x="714" bottom_right_y="462">
+       <type>Code d'envoi</type>
+       <text>AADASA</text>
+  </box>
+  <box top_left_x="371" top_left_y="484" bottom_right_x="1221" bottom_right_y="595">
+       <type>Nom</type>
+       <text>MARCHAND</text>
+  </box>
+  <box top_left_x="1422" top_left_y="484" bottom_right_x="2234" bottom_right_y="592">
+       <type>Prénom</type>
+       <text>Jeremy</text>
+  </box>
+  <box top_left_x="459" top_left_y="592" bottom_right_x="2243" bottom_right_y="691">
+       <type>Adresse</type>
+       <text>5 rue Espel</text>
+  </box>
+  <box top_left_x="541" top_left_y="697" bottom_right_x="981" bottom_right_y="808">
+       <type>Code Postal</type>
+       <text>68220</text>
+  </box>
+  <box top_left_x="1108" top_left_y="692" bottom_right_x="2247" bottom_right_y="805">
+       <type>Ville</type>
+       <text>HAGENTHAL LE BAS</text>
+  </box>
+  <box top_left_x="338" top_left_y="815" bottom_right_x="1256" bottom_right_y="970">
+       <type>Téléphone</type>
+       <text>0307498052</text>
+  </box>
+  <box top_left_x="484" top_left_y="1097" bottom_right_x="2240" bottom_right_y="1216">
+       <type>Catégorie Scénario</type>
+       <text>Demande d'information</text>
+  </box>
+  <box top_left_x="258" top_left_y="1211" bottom_right_x="2240" bottom_right_y="1402">
+       <type>Objet Scénario</type>
+       <text>Demande de rendez-vous avec conseiller\n</text>
+  </box>
+  <box top_left_x="251" top_left_y="1397" bottom_right_x="2242" bottom_right_y="1598">
+       <type>Complément Scénario</type>
+       <text>Votre endettement est devenu trop important\n</text>
+  </box>
+  <box top_left_x="906" top_left_y="1614" bottom_right_x="1575" bottom_right_y="1772">
+       <type>Référence client</type>
+       <text>ELERS76</text>
+  </box>
+  <box top_left_x="566" top_left_y="1768" bottom_right_x="2251" bottom_right_y="1872">
+       <type>Interlocuteur</type>
+       <text>Banque Société géniale</text>
+  </box>
+  <box top_left_x="473" top_left_y="1862" bottom_right_x="2251" bottom_right_y="1975">
+       <type>Adresse Interlocuteur</type>
+       <text>Place de l'¤{hotel/hôtel}¤ de ville</text>
+  </box>
+  <box top_left_x="555" top_left_y="1965" bottom_right_x="1004" bottom_right_y="2091">
+       <type>Code Postal Interlocuteur</type>
+       <text>82350</text>
+  </box>
+  <box top_left_x="1145" top_left_y="1967" bottom_right_x="2251" bottom_right_y="2074">
+       <type>Ville Interlocuteur</type>
+       <text>ALBIAS</text>
+  </box>
+  <box top_left_x="1058" top_left_y="2320" bottom_right_x="1282" bottom_right_y="2435">
+       <type>Temps passé</type>
+       <text>30</text>
+  </box>
+  <box top_left_x="871" top_left_y="2263" bottom_right_x="950" bottom_right_y="2318">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1080" top_left_y="2252" bottom_right_x="1131" bottom_right_y="2306">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1304" top_left_y="2253" bottom_right_x="1359" bottom_right_y="2307">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="265" top_left_y="2739" bottom_right_x="353" bottom_right_y="2803">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1624" top_left_y="2695" bottom_right_x="2251" bottom_right_y="2814">
+       <type>Date d'envoi postal</type>
+       <text>15.01.07</text>
+  </box>
+  <box top_left_x="266" top_left_y="2839" bottom_right_x="353" bottom_right_y="2892">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="271" top_left_y="2938" bottom_right_x="325" bottom_right_y="2986">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1773" top_left_y="2877" bottom_right_x="2243" bottom_right_y="3001">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="265" top_left_y="3035" bottom_right_x="353" bottom_right_y="3100">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1622" top_left_y="3002" bottom_right_x="2246" bottom_right_y="3112">
+       <type>Date d'envoi par courriel</type>
+       <text>15.01.07</text>
+  </box>
+  <box top_left_x="1769" top_left_y="3209" bottom_right_x="2046" bottom_right_y="3309">
+       <type>Résolution</type>
+       <text>200</text>
+  </box>
+  <box top_left_x="556" top_left_y="3232" bottom_right_x="609" bottom_right_y="3285">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="770" top_left_y="3232" bottom_right_x="824" bottom_right_y="3286">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="961" top_left_y="3233" bottom_right_x="1013" bottom_right_y="3286">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1077" top_left_y="3103" bottom_right_x="2247" bottom_right_y="3212">
+       <type>Marque et modèle scanner</type>
+       <text>Ricoh Aficio 2035 e</text>
+  </box>
+</annotation>
