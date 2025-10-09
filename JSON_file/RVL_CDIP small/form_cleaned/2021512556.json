@@ -1,0 +1,83 @@
+{
+    "department": "Department of the Treasury - Bureau of Alcohol, Tobacco and Firearms",
+    "form_title": "Formula for Article Made with Specially Denatured Alcohol or Rum",
+    "instructions": "Prepare in quadruplicate - See instructions on back",
+    "fields": {
+        "1": {
+            "name": "NAME",
+            "value": "Philip Morris U.S.A."
+        },
+        "2": {
+            "name": "DATE",
+            "value": "April 18, 1978"
+        },
+        "3": {
+            "name": "ADDRESS",
+            "value": "3601 Commerce Road Richmond Virginia 23234"
+        },
+        "4": {
+            "name": "INDUSTRIAL USE PERMIT NUMBER",
+            "value": "SDA-VA-285"
+        },
+        "5": {
+            "name": "TYPE OF OPERATION",
+            "value": [
+                "MANUFACTURER",
+                "DISTRIBUTOR",
+                "BOTTLER"
+            ]
+        },
+        "7": {
+            "name": "NAME OF ARTICLE, OR USE OF ALCOHOL OR RUM IF AN ARTICLE IS NOT TO BE MANUFACTURED",
+            "value": "Tobacco Flavor (Menthol)"
+        },
+        "8": {
+            "name": "CODE NUMBER",
+            "value": "460"
+        },
+        "9": {
+            "name": "SPECIALLY DENATURED ALCOHOL OR RUM FORMULA USED",
+            "value": "S.D.A. 4"
+        },
+        "10": {
+            "name": "PROOF",
+            "value": "190 and/or 200"
+        },
+        "11": {
+            "name": "FORMULA",
+            "value": {
+                "Water": "q.s. 1 gallon",
+                "SD Alcohol": "72 oz."
+            }
+        },
+        "12": {
+            "name": "COMMERCIAL LABEL(S)",
+            "note": "Formula must total one gallon or multiple thereof and quantity of each ingredient in one gallon of the finished product should be stated, as in the following type of formula",
+            "value": {
+                "Aromatic Preblend": "0.033 Gal. See approved formulas",
+                "Menthol": "30.000 Ozs.",
+                "Alcohol S.D.4": "0.506 Gal.",
+                "Propylene Glycol": "0.105 Gal.",
+                "Glycerine": "0.105 Gal."
+            }
+        },
+        "13": {
+            "name": "SIZES OF COMMERCIAL PACKAGES",
+            "value": "30-to 55-gallon steel drums"
+        },
+        "14": {
+            "name": "SIGNATURE",
+            "value": "AUTHORIZED AGENT"
+        }
+    },
+    "laboratory_number_sample": "2021512556",
+    "analyst": {
+        "name": "RAY NELSON",
+        "title": "Chemist"
+    },
+    "approval": {
+        "date": "May 1, 1978",
+        "director": "ORDIRECTOR"
+    },
+    "form_number": "ATF Form 1479-A Rev. 1-73 Prior Rev. 572 may be used"
+}

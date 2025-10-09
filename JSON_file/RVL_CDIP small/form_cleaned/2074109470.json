@@ -1,0 +1,36 @@
+{
+    "date": "02/11/00",
+    "day": "FRI",
+    "time": "07:31",
+    "fax_number": "8042743730",
+    "department": "SCIENTIFIC AFFAIRS",
+    "page_number": "001",
+    "tx_report": {
+        "status": "TRANSMISSION OK",
+        "tx_rx_no": "3833",
+        "connection_tel": "8011492203303362",
+        "subaddress": "",
+        "connection_id": "INBIFO Koeln",
+        "start_time": "02/11 07:24",
+        "usage_time": "06'11",
+        "pages": "11",
+        "result": "OK"
+    },
+    "facsimile": {
+        "to": {
+            "name": "snKlusss uenHol",
+            "company": "INBO",
+            "phone": "//49-3203-303-36"
+        },
+        "from": {
+            "name": "Alloltaz",
+            "company": "Philip Morris USA, Worldwide Scientific Affairs, Richmond, VA",
+            "phone": "804/274894",
+            "fax": "804/274-373"
+        },
+        "date": "",
+        "pages_to_follow": "",
+        "confidentiality_notice": "This facsimile transmission and/or the documents accompanying it may contain confidential information belonging to the sender. The information is intended only for the use of the addressee or entity named above. If you are not the intended recipient, you are hereby notified that any disclosure, copying, distribution or the taking of any action in reliance of the contents of this information is strictly prohibited by law. If you have received this transmission in error, please immediately notify us by telephone to arrange for the return of the documents.",
+        "message": "P,ean / lyis"
+    }
+}

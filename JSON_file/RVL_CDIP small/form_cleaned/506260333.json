@@ -1,0 +1,82 @@
+{
+    "company": "R. J. Reynolds Tobacco USA, Inc.",
+    "authorizationRequest": {
+        "object": "AUTHORIZATION REQUEST",
+        "dateRouted": "4/23/87",
+        "arno": "A-87-",
+        "supplementalARProject": "86-780-026",
+        "originator": "B.C.Moody",
+        "deptRefNo": "780",
+        "startDate": "10/86",
+        "operationalDate": "12/87",
+        "approvalRequestSummary": {
+            "previouslyApprovedAR": "B-31",
+            "studyDescription": "subchronic nose-only inhalation toxicology study of ALphA smoke in rats",
+            "contractAmount": 867521,
+            "additionalFundingRequested": 39768,
+            "combinedTotal": 907289
+        },
+        "authorizationRequested": {
+            "previously": 867521,
+            "thisRequest": 39768,
+            "total": 907289
+        },
+        "authorizationType": {
+            "contractLaboratoryStudies": {
+                "totalRequest": {
+                    "previously": 867521,
+                    "thisRequest": 39768,
+                    "total": 907289
+                }
+            },
+            "productModificationIntroduction": {
+                "subsequentProposalsRequired": "Yes",
+                "previousProposals": "B-31"
+            },
+            "baseOrOtherContinuingCommitment": {
+                "minimum": null,
+                "total": null,
+                "costJustifiedAt": null,
+                "roi": null
+            }
+        },
+        "financeData": {
+            "authorityRequestedCoveredBy": {
+                "capital": null,
+                "expense": 39768,
+                "capitalID": null,
+                "budgetedDepartment": "780"
+            },
+            "projectID": null,
+            "fundsRequiredFrom": {
+                "department": null,
+                "expenseCode": "04-90-0218-9010-780",
+                "corporate": null
+            }
+        },
+        "financialImpact": {
+            "year1987": {
+                "averageOperatingEarningsLoss": 39768
+            },
+            "corporateFundsRequested": null
+        },
+        "reviewsApprovals": {
+            "deptInitials": "RAMlay",
+            "signature": "SL54-87",
+            "date": null,
+            "deptInitials2": "R&D/GRD",
+            "signature2": "3-R&D",
+            "date2": "5-11-87",
+            "deptInitials3": "I-R&D",
+            "signature3": "RALAD5",
+            "date3": "5-8",
+            "cfo": "g/Plan.RJR yA4/g",
+            "operations": null,
+            "finAdmin": null,
+            "presCEO": "506260333"
+        },
+        "implementorProjectManager": "T.Mosberg",
+        "projectClientRepresentative": "RA.Lloyd",
+        "departmentManagement": "m8711-R.01/87"
+    }
+}

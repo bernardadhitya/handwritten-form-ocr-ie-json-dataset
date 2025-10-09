@@ -1,0 +1,107 @@
+{
+    "title": "MASTER C.STIONAIRE - SUNDAY SUPPLEMENT DAY-AFTER RECALL STUDY",
+    "study_id": "19-602",
+    "locations": [
+        "Albuquerque",
+        "New Orleans",
+        "Dayton",
+        "Philadelphia",
+        "Minneapolis",
+        "Pittsburgh"
+    ],
+    "introduction": {
+        "from": "BURKE MARKETING RESEARCH",
+        "target": "MEN/WOMEN 18 YEARS OF AGE AND OLDER"
+    },
+    "questions": [
+        {
+            "id": "1",
+            "text": "ARE YOU/MAY I PLEASE SPEAK WITH ANY MAN/WOMAN 18 YEARS OF AGE OR OLDER?",
+            "responses": {
+                "no": "disc/record col. of standard F-217/col.3 of REYCO F-309A/P309B",
+                "yes": "Q.2A"
+            }
+        },
+        {
+            "id": "2A",
+            "text": "HAVE YOU YOURSELF SMOKED ANY CIGARETTES IN THE PAST 7 DAYS OR NOT?",
+            "responses": {
+                "no": "go to 2C",
+                "yes": "Q.2B"
+            }
+        },
+        {
+            "id": "2B",
+            "text": "APPROXIMATELY HOW MANY CIGARETTES DO YOU USUALLY SMOKE PER DAY?"
+        },
+        {
+            "id": "2C",
+            "text": "HAVE YOU YOURSELF SMOKED ANY CIGARS IN THE PAST 7 DAYS OR NOT?",
+            "responses": {
+                "no_and_not_smoke": "ask for other male/female smoker 18+. If none available discontinue/record col. 8 of standard F-217/col.11 of REYCO F-309A/P-309B",
+                "no_and_smoke": "ask Q.3",
+                "yes": "ask Q.2D"
+            }
+        },
+        {
+            "id": "2D",
+            "text": "APPROXIMATELY HOW MANY CIGARS DO YOU USUALLY SMOKE PER DAY?",
+            "responses": {
+                "less_than_1_cigar_and_less_than_1_cigarette": "ask for other male/female smoker 18+. If none available discontinue/record col. 8 of standard F-217/col.11 of REYCO F-309A/F-309B",
+                "less_than_1_cigar_but_1+_cigarettes": "ask Q.3"
+            }
+        },
+        {
+            "id": "READERSHIP_SCREENING",
+            "text": "DID YOU YOURSELF, HAPPEN TO READ OR LOOK THROUGH ANY PART OF SUNDAY MORNING'S ISSUE OF OR NOT?",
+            "responses": {
+                "no": "disc/record col.9 of standard F-217/col.5 of REYCO F-309A/F-309B",
+                "yes": "Q.4"
+            }
+        },
+        {
+            "id": "4",
+            "text": "WHEN DID YOU LAST READ OR LOOK THROUGH THIS ISSUE OF?",
+            "responses": {
+                "not_last_read_yesterday": "disc/record col.10 of standard F-217/col.6 of REYCO F-309A/F-309B",
+                "read_today": "disc/record col.11 of standard F-217/col.7 of REYCO F-309A/F-309B",
+                "last_read_yesterday": "Q.5"
+            }
+        },
+        {
+            "id": "5",
+            "text": "HOW MANY TIMES ALTOGETHER WOULD YOU SAY YOU PICKED UP THIS ISSUE OF TO READ OR LOOK THROUGH IT?"
+        },
+        {
+            "id": "6",
+            "text": "DO YOU REMEMBER SEEING AN AD FOR ANY TOBACCO PRODUCTS IN YESTERDAY'S ISSUE OF OR NOT?",
+            "responses": {
+                "yes": "Q.7",
+                "no": "Q.7"
+            }
+        },
+        {
+            "id": "7",
+            "text": "WHAT BRAND? WHAT OTHERS? ANY OTHERS?",
+            "responses": {
+                "correct_brand": "correct type-Q.8",
+                "incorrect_type": "Q.57",
+                "incorrect_brand": "Q.7"
+            }
+        },
+        {
+            "id": "8",
+            "text": "DID YOU HAPPEN TO SEE AN AD FOR BRAND TOBACCO PRODUCTS IN YESTERDAY'S ISSUE OF OR NOT?",
+            "brands": [
+                "WINCHESTER",
+                "DORAL",
+                "50122"
+            ],
+            "rotate_order": "a-e"
+        }
+    ],
+    "additional_info": {
+        "Q.#8": "01170",
+        "Q.#9": "2823"
+    }
+}

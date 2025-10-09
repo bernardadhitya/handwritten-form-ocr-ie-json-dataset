@@ -1,0 +1,97 @@
+{
+    "study": {
+        "title": "TRUE CTTES",
+        "location": "BELGIUM",
+        "respondent": {
+            "name": "",
+            "number": "",
+            "address": "",
+            "language": {
+                "French": -1,
+                "Flomish": -2
+            },
+            "gender": {
+                "male": -1,
+                "female": -2
+            },
+            "date": "",
+            "concept": {
+                "A": -1,
+                "B": -2
+            },
+            "card": {
+                "number": 1,
+                "value": -1
+            }
+        },
+        "questions": [
+            {
+                "id": 1,
+                "text": "First, please tell me which letter on this card identifies the age group in which you belong.",
+                "options": {
+                    "A": {
+                        "age": "Under 21",
+                        "code": -1
+                    },
+                    "B": {
+                        "age": "21-24",
+                        "code": -2
+                    },
+                    "C": {
+                        "age": "25-29",
+                        "code": "GOTOQ.2"
+                    },
+                    "D": {
+                        "age": "30-34",
+                        "code": -4
+                    },
+                    "E": {
+                        "age": "35-39",
+                        "code": -5
+                    },
+                    "F": {
+                        "age": "40-44",
+                        "code": 9
+                    },
+                    "G": {
+                        "age": "45-50",
+                        "code": -7
+                    },
+                    "H": {
+                        "age": "51-55",
+                        "code": -8
+                    },
+                    "I": {
+                        "age": "56 and Over",
+                        "code": 6
+                    },
+                    "Ref": {
+                        "code": 0
+                    }
+                }
+            },
+            {
+                "id": 2,
+                "text": "How many cigarettes do you smoke in an average day?",
+                "options": {
+                    "I don't smoke": {
+                        "code": 0
+                    },
+                    "Less than half a pack": {
+                        "code": -1
+                    },
+                    "More than half a pack but less than a full pack": {
+                        "code": 3
+                    },
+                    "A full pack or more but less than 2 packs": {
+                        "code": 4
+                    },
+                    "Two packs or more": {
+                        "code": 5
+                    }
+                }
+            }
+        ],
+        "reference_number": 84044398
+    }
+}

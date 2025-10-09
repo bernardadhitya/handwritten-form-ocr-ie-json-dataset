@@ -1,0 +1,55 @@
+{
+    "study": "CIGARETTE AD TRACKING STUDY - WAVE I SPOKANE",
+    "code": "CARO5-1",
+    "questionnaire": "SCREENING QUESTIONNAIRE",
+    "sample_slip": "ATTACH COMPLETE SAMPLE SLIP",
+    "time_started": "7",
+    "time_ended": "",
+    "contact_info": {
+        "area_code": "",
+        "phone_number": "",
+        "best_time_to_call": ""
+    },
+    "introduction": "We're conducting a survey and would like several minutes of your time. Hello, I'm from Q.E.D. Research, a national market research firm located in New Jersey.",
+    "questions": {
+        "1a": {
+            "question": "Would you please tell me the sex and age of each member of your household who is 21 years or older and was smoking cigarettes at this time last year but no longer smokes cigarettes?",
+            "options": {
+                "former_smokers_age": {
+                    "respondent": "",
+                    "other_males": "",
+                    "other_females": ""
+                }
+            }
+        },
+        "1b": {
+            "question": "Now who in your household 21 years of age or older currently smokes cigarettes?",
+            "options": {
+                "current_smokers_age": {
+                    "respondent": "",
+                    "other_males": "",
+                    "other_females": ""
+                }
+            }
+        },
+        "1c": {
+            "question": "Do you smoke a menthol or a non-menthol brand of cigarettes?",
+            "options": {
+                "menthol": "",
+                "non_menthol": ""
+            }
+        },
+        "1d": {
+            "question": "Does (OTHER SMOKER) smoke a menthol or non-menthol brand of cigarettes?",
+            "options": {
+                "menthol": "",
+                "non_menthol": ""
+            }
+        }
+    },
+    "callback_info": {
+        "household_member_not_available": "ARRANGE A CALLBACK",
+        "full_name_of_qualified_household_member": "",
+        "best_time_to_call_back": ""
+    }
+}

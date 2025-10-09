@@ -1,0 +1,42 @@
+{
+    "form_id": "F07",
+    "form_title": "VISUAL CIGARETTE CHECK",
+    "to": "",
+    "date": "",
+    "from": "MARY SANDERPORD",
+    "reference_number": "N0385",
+    "production_request_data": {
+        "cigarette_length": "95mm",
+        "cigarette_coded": "blh N5",
+        "cigarette_should_be": {
+            "cork_tipped": true,
+            "white_tipped": false,
+            "overtipped": false
+        }
+    },
+    "visual_check_data": {
+        "tax_stamp": "Yes",
+        "tipping_paper": {
+            "white": false,
+            "cork": false,
+            "overtipped": false
+        },
+        "warning_label": [
+            "Smoking Causes Lung Cancer, Heart Disease Emphysema, And May Complicate Pregnancy.",
+            "Quitting Smoking Now Greatly Reduces Serious Risks to Your Health.",
+            "Cigarette Smoke Contains Carbon Monoxide.",
+            "Smoking By Pregnant Women May Result in Fetal Injury Premature Birth, And Low Birth Weight."
+        ],
+        "results_of_visual_inspection": {
+            "okay": true,
+            "not_okay": false,
+            "reason": ""
+        }
+    },
+    "visual_check_completed_by": {
+        "name": "M.sanleth",
+        "department": "Panel Operations",
+        "contact_number": "2024098042"
+    },
+    "notification": "PLEASE NOTIFY MARY SANDERFORD IF YOU DO NOT WANT THE CIGARETTES TO BE SHIPPED AS USUAL"
+}

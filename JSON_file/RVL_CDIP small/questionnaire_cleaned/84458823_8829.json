@@ -1,0 +1,81 @@
+{
+    "company": "AHF MARKETINC RESEARCH",
+    "division": "NATIONAL CONSENSUS SURVEYS",
+    "address": {
+        "street": "801 Second Avenue",
+        "suite": "#12947W",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10017"
+    },
+    "date": "May, 1977",
+    "survey": {
+        "title": "CIGARETTE PORTFOLIO SCREENING QUESTIONNAIRE",
+        "interview": {
+            "start_time": "IME INTERVIEW",
+            "end_time": "ENDED"
+        },
+        "respondent": {
+            "name": "RESPONDENT NAME",
+            "telephone": "TEL.#",
+            "address": "ADDRESS",
+            "city": "CITY",
+            "state": "STATE"
+        },
+        "interviewer": "INTERVIEWER",
+        "metro_area": "METRO AREA",
+        "date": "DATE",
+        "validated_by": "VALIDATED BY",
+        "validation_date": "DATE"
+    },
+    "cities": [
+        "Albany",
+        "Boston",
+        "Denver",
+        "Buffalo",
+        "Milwaukee",
+        "Des Moines",
+        "Minneapolis",
+        "Syracuse"
+    ],
+    "initial_refusal_numbers": [
+        16,
+        17,
+        18,
+        20,
+        33,
+        36,
+        40,
+        52,
+        53,
+        56,
+        59,
+        60,
+        76,
+        80,
+        92,
+        93,
+        96,
+        101,
+        118,
+        119
+    ],
+    "participation": {
+        "question": "Have you, yourself, participated in a market research survey in the past three months or so?",
+        "terminate_instruction": "TERMINATE AND CIRCLE NEXT HIGHEST NUMBER BELOW",
+        "response": {
+            "yes": "CONTINUE",
+            "no": "TERMINATE"
+        }
+    },
+    "age": {
+        "question": "TERMINATE AND CIRCLE NEXT HIGHEST NUMBER BELOW NEXT TO UNDER OR OVER AGE",
+        "categories": {
+            "under_21": "Under 21",
+            "21_to_24": "21 to 24",
+            "over_55": "Over 55"
+        },
+        "terminate_instruction": "TERMINATE AND CIRCLE NEXT HIGHEST NUMBER BELOW NEXT TO UNDER OR OVER AGE",
+        "take_back_instruction": "TAKE BACK AGE CARD"
+    }
+}

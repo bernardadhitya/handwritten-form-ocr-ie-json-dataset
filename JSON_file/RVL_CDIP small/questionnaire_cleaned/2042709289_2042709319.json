@@ -1,0 +1,79 @@
+{
+    "document": {
+        "title": "DRAFT 1",
+        "company": "WINONA MRB, INC.",
+        "address": "8200 Humboldt Ave. So.",
+        "position": "SCREENER",
+        "project": "CHELSEA TMT-WEEK 13",
+        "location": "Minneapolis, MN 55431",
+        "number": "NO.1602-90607",
+        "date": "JULY, 1989",
+        "market": [
+            "Eastern PA",
+            "Tampa/Or"
+        ],
+        "misc": [
+            "hsl Al",
+            "Hoe AwAne -",
+            "Hello, I'm",
+            "national or",
+            "RESEARCH.",
+            "We are a",
+            "household.",
+            "nan in your",
+            "2042709289",
+            "la.",
+            "First",
+            "9",
+            "Don't know/refused",
+            "NO",
+            "CRT SCREEN"
+        ],
+        "questions": [
+            {
+                "question": "Are you under 18, between 18 and 34, or 35 years of age or older?",
+                "options": [
+                    {
+                        "answer": "Under 18",
+                        "code": "1",
+                        "action": "SKIP TO Q.3b"
+                    },
+                    {
+                        "answer": "18-34",
+                        "code": "2",
+                        "action": "CHECK QUOTAS. IF FILLED"
+                    },
+                    {
+                        "answer": "35 or Over",
+                        "action": "SKIP TO Q.3b. OTHERWISE, ASK Q.3a.",
+                        "code": "3"
+                    },
+                    {
+                        "answer": "Refused to answer question",
+                        "code": "Y",
+                        "action": "THANK & TERMINATE. SELECT R.2 ON CRT SCREEN."
+                    }
+                ]
+            },
+            {
+                "question": "Do you smoke cigarettes?",
+                "options": [
+                    {
+                        "answer": "Yes",
+                        "action": "SKIP TO Q.3c"
+                    },
+                    {
+                        "answer": "No",
+                        "code": "2"
+                    },
+                    {
+                        "answer": "Refused to answer question",
+                        "code": "Y",
+                        "action": "THANK & TERMINATE. SELECT R.3a ON CRT SCREEN."
+                    }
+                ]
+            }
+        ],
+        "footer": "2042709290 06/20/89/cz/1"
+    }
+}

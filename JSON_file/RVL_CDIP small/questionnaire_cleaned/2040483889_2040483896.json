@@ -1,0 +1,82 @@
+{
+    "screener": {
+        "home_testing_institute": {
+            "address": {
+                "po_box": "9200",
+                "suite": "P108-M2",
+                "city": "Port Washington",
+                "state": "NY",
+                "zip": "11050"
+            },
+            "id": "8078"
+        },
+        "time_started": "1-7",
+        "time_ended": "8",
+        "interviewer": {
+            "name": "Naane",
+            "id": "9-10"
+        },
+        "date": "11-12",
+        "status_codes": {
+            "did_not_receive_product": "16",
+            "disconnected": "17",
+            "stopped_smoking": "18",
+            "other_tester": "19",
+            "respondent_not_available": "20",
+            "no_answer": "21",
+            "completed_interview": "22",
+            "refused_interview": "23",
+            "non_usable": "24",
+            "no_such_person": "25"
+        },
+        "callback_attempt": "26",
+        "notes": {
+            "not_available": "NA",
+            "wrong_number": "01sC",
+            "did_not_receive": "Didn't",
+            "not_sure": "NSP",
+            "refused": "RNA",
+            "date_time": {
+                "date": "Date1",
+                "time": "Time"
+            }
+        }
+    },
+    "interview": {
+        "introduction": "Hello, I'm calling for Janet Hall of Home Testing Institute. May I speak to NAME OF PERSON ON LABEL?",
+        "questions": [
+            {
+                "id": "1a",
+                "text": "Did you receive the 10 packs of Test Cigarettes we mailed to you?",
+                "responses": {
+                    "yes": "1",
+                    "no": "2"
+                }
+            },
+            {
+                "id": "1b",
+                "text": "How many packs of each did you smoke?",
+                "responses": {
+                    "packs_cigarettes_j2": "20",
+                    "packs_cigarettes_n5": "20"
+                }
+            },
+            {
+                "id": "1c",
+                "text": "Along with the Test Cigarettes we sent you a report form to complete. Would you?",
+                "responses": {
+                    "yes": "1",
+                    "no": "2"
+                }
+            },
+            {
+                "id": "1d",
+                "text": "If I called you back in 15 minutes do you think you could find the form?",
+                "responses": {
+                    "yes": "1",
+                    "no": "2"
+                }
+            }
+        ]
+    }
+}

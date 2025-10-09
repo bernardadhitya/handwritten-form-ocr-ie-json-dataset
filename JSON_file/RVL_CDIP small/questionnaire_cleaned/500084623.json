@@ -1,0 +1,68 @@
+{
+    "company": "Leggett & Lustig Research Inc",
+    "address": {
+        "street": "101 Park Avenue",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10017"
+    },
+    "contact": {
+        "phone": "212-725-1146"
+    },
+    "date": "March 1977",
+    "survey": {
+        "title": "Public Opinion Survey",
+        "introduction": "Hello, I'm from Leggett & Lustig, a national marketing and opinion research company. We're conducting a public opinion survey in this area. This will only take a few minutes and your opinions will be very helpful to us.",
+        "questions": [
+            {
+                "id": "Q.A",
+                "text": "First, are you 18 years of age or older?",
+                "options": {
+                    "continue": "Yes",
+                    "terminate": "No"
+                }
+            },
+            {
+                "id": "Q.B",
+                "text": "Do you smoke cigarettes?",
+                "options": {
+                    "ask_next": "Yes",
+                    "skip_to": "Q.1",
+                    "no": "No"
+                }
+            },
+            {
+                "id": "Q.C",
+                "text": "How many cigarettes do you smoke in an average day?",
+                "instruction": "Write in number. If less than 10, count toward non-smoker quota. If 10 or more, count toward smoker quota."
+            },
+            {
+                "id": "A",
+                "text": "Which of these statements best describes your general opinion about smoking cigarettes?",
+                "options": [
+                    "Smoking isn't very harmful to your health.",
+                    "Only heavy smoking is very harmful to your health.",
+                    "Any smoking is very harmful to your health."
+                ]
+            },
+            {
+                "id": "B",
+                "text": "Which of these statements best describes your general opinion about drinking alcoholic beverages?",
+                "options": [
+                    "Drinking alcohol isn't very harmful to your health.",
+                    "Only heavy drinking of alcohol is very harmful to your health.",
+                    "Any drinking of alcohol is very harmful to your health."
+                ]
+            },
+            {
+                "id": "C",
+                "text": "Which of these statements best describes your general opinion about using saccharine or products containing saccharine?",
+                "options": [
+                    "Using saccharine isn't very harmful to your health.",
+                    "Only heavy use of saccharine is very harmful to your health.",
+                    "Any use of saccharine is very harmful to your health."
+                ]
+            }
+        ]
+    }
+}

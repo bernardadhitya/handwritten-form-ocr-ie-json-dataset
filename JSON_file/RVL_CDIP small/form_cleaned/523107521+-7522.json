@@ -1,0 +1,42 @@
+{
+    "company": {
+        "name": "Warner-Jenkinson Company, Inc.",
+        "address": "2526 Baldwin Street, St. Louis, MO 63106",
+        "phone": "800/325-8110 ext. 7475"
+    },
+    "document": {
+        "type": "Material Safety Data Sheet",
+        "date_prepared": "3/93",
+        "revision_date": "10/95",
+        "chemist_initials": ""
+    },
+    "product_identification": {
+        "product_code_description": "No. K7008 D&C Red #22",
+        "technical_name": "Not applicable",
+        "synonyms": "Color Additive",
+        "classification_code": "Not hazardous",
+        "product_cas_nos": "17372-87-1 D&C Red #22"
+    },
+    "hazardous_ingredients": {
+        "statement": "None of the ingredients of this material meet the definition of 'Hazardous Chemical', 29 CFR 1910.1200."
+    },
+    "physical_data": {
+        "melting_point_c": "Not applicable",
+        "solubility_in_water": "Soluble",
+        "flash_point_method": "Not applicable",
+        "%volatile_by_volume": "Not applicable",
+        "pH": "Not applicable",
+        "appearance_and_odor": "A dry colorant"
+    },
+    "fire_and_explosion_hazard_data": {
+        "extinguishing_media": "Water, chemical foam, or dry chemical extinguisher",
+        "special_fire_fighting_procedures": "None",
+        "unusual_fire_and_explosion_hazard": "None"
+    },
+    "reactivity_data": {
+        "stability": "Under normal storage and handling conditions, this is a stable material when kept in a closed container",
+        "materials_conditions_to_avoid": "None",
+        "hazardous_decomposition_products": "None",
+        "hazardous_polymerization": "Will not occur"
+    }
+}

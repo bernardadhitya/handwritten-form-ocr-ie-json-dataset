@@ -1,0 +1,52 @@
+{
+    "date": "09/19/96",
+    "time": "06:07",
+    "phone_number": "2026371505",
+    "document_id": "359PMPHIIPMORRIS",
+    "page_number": "003/006",
+    "code": "PELPMOR9/96",
+    "survey": {
+        "introduction": "Good evening/afternoon. My name is from Mason-Dixon Political/Media.",
+        "questions": [
+            {
+                "question": "Are you a registered voter in the US?",
+                "response": "YES"
+            },
+            {
+                "question": "Do you feel that things in the country are generally going in the right direction or do you feel things have pretty seriously gotten off on the wrong track?",
+                "options": {
+                    "right_direction": 1,
+                    "wrong_track": 3,
+                    "not_sure": "DK"
+                }
+            },
+            {
+                "question": "In your opinion, is there too much regulation, not enough regulation, or is the amount of regulation about right?",
+                "options": {
+                    "too_much": "DR",
+                    "not_enough": "DF",
+                    "about_right": 3,
+                    "not_sure": "DK"
+                }
+            },
+            {
+                "question": "Which of the following do you think should be the first priority of the FDA?",
+                "options": {
+                    "faster_approval": 1,
+                    "secure_safe_food": 2,
+                    "expand_authority": 3,
+                    "other": "DX"
+                }
+            },
+            {
+                "question": "Have you recently seen, read, or heard anything about the Food and Drug Administration?",
+                "response": {
+                    "yes": 1,
+                    "no": 2
+                }
+            }
+        ],
+        "additional_info": "The FDA announced regulations with the stated purpose of reducing underage tobacco use. Among other measures, the regulations would require all outdoor tobacco advertising to be black text on a white background only, with no colors or images, ban tobacco billboards near schools, and prohibit merchandise like bags and caps which bear tobacco product brand logos. The FDA also announced its intention to pursue additional regulatory measures."
+    },
+    "contact_number": "2065308248"
+}

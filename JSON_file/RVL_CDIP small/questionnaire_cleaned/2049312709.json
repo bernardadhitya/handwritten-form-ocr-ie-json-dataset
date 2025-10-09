@@ -1,0 +1,107 @@
+{
+    "office_use_only": {
+        "A": null,
+        "CEC": null,
+        "CECX": null,
+        "CECC": null,
+        "OEC": null,
+        "OECX": null,
+        "OECC": null,
+        "OCC": null,
+        "RECOL": null,
+        "DRAFT": "#1"
+    },
+    "company": {
+        "name": "Marketing Information Systems Inc.",
+        "id": "#831389",
+        "address": {
+            "street": "100 Sylvan Avenue",
+            "city": "Englewood Cliffs",
+            "state": "New Jersey",
+            "zip": "07632"
+        },
+        "date": "March, 1989",
+        "phone_numbers": [
+            "1-800-631-1623",
+            "201-947-6900"
+        ]
+    },
+    "survey": {
+        "title": "SS AD/PACK TEST",
+        "type": "Screener",
+        "introduction": "Hello, I'm of Marketing Information Systems. We're conducting an opinion survey today among women between the ages of 18 and 54 about various products.",
+        "questions": [
+            {
+                "id": 1,
+                "text": "First of all are you between the ages of 18 and 54?",
+                "options": {
+                    "yes": "7",
+                    "no": "THANK AND TERMINATE"
+                }
+            },
+            {
+                "id": 2,
+                "text": "What is your exact age?",
+                "instruction": "RECORD EXACT AGE AT LEFT BELOW THEN X CORRESPONDING AGE CATEGORY",
+                "age_categories": {
+                    "18-21": "8",
+                    "22-24": "3",
+                    "25-29": "5",
+                    "30-34": "6",
+                    "35-39": "8",
+                    "40-44": "9",
+                    "45-49": "0",
+                    "50-54": "x"
+                }
+            },
+            {
+                "id": 3,
+                "text": "NOT ASKED"
+            },
+            {
+                "id": 4,
+                "text": "RECORD DO NOT ASK",
+                "options": {
+                    "White": "10-1",
+                    "Black": "2"
+                }
+            },
+            {
+                "id": 5,
+                "text": "Next, I'm going to read you a list of products. For each one I read, please tell me if you, yourself, use the product.",
+                "instruction": "READ ENTIRE LIST ONE AT A TIME AND RECORD",
+                "products": {
+                    "Antacids": {
+                        "yes": "11",
+                        "no": "1"
+                    },
+                    "Aspirin": {
+                        "yes": "2",
+                        "no": "2"
+                    },
+                    "Beer": {
+                        "yes": "3",
+                        "no": "3"
+                    },
+                    "Breakfast cereals": {
+                        "yes": "4",
+                        "no": "4"
+                    },
+                    "Cigarettes": {
+                        "yes": "5",
+                        "no": "5",
+                        "terminate": "THANK AND TERMINATE"
+                    },
+                    "Diet soda": {
+                        "yes": "6",
+                        "no": "6"
+                    },
+                    "Frozen vegetables": {
+                        "yes": "7",
+                        "no": "7"
+                    }
+                }
+            }
+        ]
+    }
+}

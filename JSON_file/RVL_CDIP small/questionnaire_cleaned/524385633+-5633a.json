@@ -1,0 +1,75 @@
+{
+    "survey": {
+        "questions": [
+            {
+                "id": 1,
+                "title": "PHONE CALL",
+                "questions": [
+                    {
+                        "text": "Was our representative courteous and polite?",
+                        "options": [
+                            "Very Satisfied",
+                            "Somewhat Satisfied",
+                            "Neither Satisfied Nor Dissatisfied",
+                            "Somewhat Dissatisfied",
+                            "Very Dissatisfied"
+                        ]
+                    },
+                    {
+                        "text": "Was our representative knowledgeable?",
+                        "options": [
+                            "Very Satisfied",
+                            "Somewhat Satisfied",
+                            "Neither Satisfied Nor Dissatisfied",
+                            "Somewhat Dissatisfied",
+                            "Very Dissatisfied"
+                        ]
+                    },
+                    {
+                        "text": "Was your question/request handled?",
+                        "options": [
+                            "Very Satisfied",
+                            "Somewhat Satisfied",
+                            "Neither Satisfied Nor Dissatisfied",
+                            "Somewhat Dissatisfied",
+                            "Very Dissatisfied"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "Which ONE of the following statements BEST describes the way you feel about R.J. Reynolds' response to your request for assistance?",
+                "options": [
+                    "I was very satisfied.",
+                    "I was somewhat satisfied.",
+                    "I was neither satisfied nor dissatisfied",
+                    "I was somewhat dissatisfied.",
+                    "I was very dissatisfied"
+                ]
+            },
+            {
+                "id": 3,
+                "text": "Based on the service you received, will you continue to purchase the brand of cigarettes you contacted us about?",
+                "options": [
+                    "I Definitely Would",
+                    "I Probably Would",
+                    "I Might or Might Not",
+                    "I Probably Would Not",
+                    "I Definitely Would Not"
+                ]
+            },
+            {
+                "id": 4,
+                "text": "Based on the service you received, would you recommend this brand of cigarettes to an adult smoker (21 years of age or older) who currently smokes a competitive brand?",
+                "options": [
+                    "I Definitely Would",
+                    "I Probably Would",
+                    "I Might or Might Not",
+                    "I Probably Would Not",
+                    "I Definitely Would Not"
+                ]
+            }
+        ]
+    }
+}

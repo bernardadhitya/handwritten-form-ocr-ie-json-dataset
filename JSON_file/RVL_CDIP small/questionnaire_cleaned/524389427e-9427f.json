@@ -1,0 +1,54 @@
+{
+    "survey": {
+        "title": "DOIOCPs",
+        "instructions": "PLEASE TELL US WHAT YOU THINK",
+        "contact_method": {
+            "phone": "If you contacted us by phone, please answer all questions.",
+            "letter": "If you contacted us by letter, please skip to Question #2."
+        },
+        "questions": [
+            {
+                "id": 1,
+                "category": "EASE OF CONTACT",
+                "aspects": [
+                    "Ability to get through on first call",
+                    "Satisfaction with telephone recording",
+                    "If put on hold, length of time on hold"
+                ]
+            },
+            {
+                "id": 2,
+                "category": "PERSONNEL",
+                "aspects": [
+                    "Courtesy",
+                    "Professionalism",
+                    "Knowledge",
+                    "Authority to resolve problem"
+                ]
+            },
+            {
+                "id": 3,
+                "category": "RESPONSE",
+                "aspects": [
+                    "Clarity",
+                    "Helpfulness",
+                    "Follow through"
+                ]
+            }
+        ],
+        "satisfaction_statement": {
+            "completely_satisfied": "I was completely satisfied",
+            "not_completely_satisfied": "I was NOT completely satisfied but the action taken",
+            "not_at_all_satisfied_action_taken": "I was NOT AT ALL satisfied with the action taken",
+            "not_at_all_satisfied_no_action": "I was NOT AT ALL satisfied no action was taken"
+        },
+        "question_about": {
+            "definitely": "Definitely",
+            "probably": "Probably",
+            "might_or_might_not": "Might or Might Not",
+            "probably_not": "Probably Not",
+            "definitely_not": "Definitely Not"
+        },
+        "additional_comments": "Please add any additional comments:"
+    }
+}

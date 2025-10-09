@@ -1,0 +1,173 @@
+{
+    "survey": {
+        "contact_method": {
+            "phone": {
+                "questions": [
+                    {
+                        "id": 1,
+                        "category": "Ease of Contact",
+                        "questions": [
+                            {
+                                "question": "Ability to get through on first call",
+                                "responses": {
+                                    "very_satisfied": 0,
+                                    "somewhat_satisfied": 0,
+                                    "neither": 0,
+                                    "somewhat_dissatisfied": 0,
+                                    "very_dissatisfied": 0
+                                }
+                            },
+                            {
+                                "question": "Satisfaction with telephone recording",
+                                "responses": {
+                                    "very_satisfied": 0,
+                                    "somewhat_satisfied": 0,
+                                    "neither": 0,
+                                    "somewhat_dissatisfied": 0,
+                                    "very_dissatisfied": 0
+                                }
+                            },
+                            {
+                                "question": "If put on hold, length of time on hold",
+                                "responses": {
+                                    "very_satisfied": 0,
+                                    "somewhat_satisfied": 0,
+                                    "neither": 0,
+                                    "somewhat_dissatisfied": 0,
+                                    "very_dissatisfied": 0
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "letter": {
+                "questions": [
+                    {
+                        "id": 2,
+                        "category": "Personnel",
+                        "questions": [
+                            {
+                                "question": "Courtesy",
+                                "responses": {
+                                    "very_satisfied": 0,
+                                    "somewhat_satisfied": 0,
+                                    "neither": 0,
+                                    "somewhat_dissatisfied": 0,
+                                    "very_dissatisfied": 0
+                                }
+                            },
+                            {
+                                "question": "Professionalism",
+                                "responses": {
+                                    "very_satisfied": 0,
+                                    "somewhat_satisfied": 0,
+                                    "neither": 0,
+                                    "somewhat_dissatisfied": 0,
+                                    "very_dissatisfied": 0
+                                }
+                            },
+                            {
+                                "question": "Knowledge",
+                                "responses": {
+                                    "very_satisfied": 0,
+                                    "somewhat_satisfied": 0,
+                                    "neither": 0,
+                                    "somewhat_dissatisfied": 0,
+                                    "very_dissatisfied": 0
+                                }
+                            },
+                            {
+                                "question": "Authority to resolve problem",
+                                "responses": {
+                                    "very_satisfied": 0,
+                                    "somewhat_satisfied": 0,
+                                    "neither": 0,
+                                    "somewhat_dissatisfied": 0,
+                                    "very_dissatisfied": 0
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "category": "Response",
+                        "questions": [
+                            {
+                                "question": "Timeliness",
+                                "responses": {
+                                    "very_satisfied": 0,
+                                    "somewhat_satisfied": 0,
+                                    "neither": 0,
+                                    "somewhat_dissatisfied": 0,
+                                    "very_dissatisfied": 0
+                                }
+                            },
+                            {
+                                "question": "Clarity",
+                                "responses": {
+                                    "very_satisfied": 0,
+                                    "somewhat_satisfied": 0,
+                                    "neither": 0,
+                                    "somewhat_dissatisfied": 0,
+                                    "very_dissatisfied": 0
+                                }
+                            },
+                            {
+                                "question": "Helpfulness",
+                                "responses": {
+                                    "very_satisfied": 0,
+                                    "somewhat_satisfied": 0,
+                                    "neither": 0,
+                                    "somewhat_dissatisfied": 0,
+                                    "very_dissatisfied": 0
+                                }
+                            },
+                            {
+                                "question": "Follow through on promised action",
+                                "responses": {
+                                    "very_satisfied": 0,
+                                    "somewhat_satisfied": 0,
+                                    "neither": 0,
+                                    "somewhat_dissatisfied": 0,
+                                    "very_dissatisfied": 0
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "overall_satisfaction": {
+            "question": "Which ONE of the following statements BEST describes the way you feel about the action taken by the R.J. Reynolds Consumer Relations Department to respond to your request for assistance?",
+            "responses": [
+                "I was completely satisfied.",
+                "I was NOT completely satisfied but the action taken was acceptable.",
+                "I was NOT completely satisfied but some action was taken.",
+                "I was NOT AT ALL satisfied with the action taken.",
+                "I was NOT AT ALL satisfied; no action was taken."
+            ]
+        },
+        "brand_loyalty": {
+            "question": "Based on how you were treated by our representative, will you continue to purchase the brand of cigarettes you contacted us about?",
+            "responses": {
+                "definitely_would": 1,
+                "probably_would": 1,
+                "might_or_might_not": 1,
+                "probably_would_not": 1,
+                "definitely_would_not": 0
+            }
+        },
+        "recommendation": {
+            "question": "Would you recommend this brand of cigarettes to an adult smoker (21 years of age or older)?",
+            "responses": {
+                "definitely_would": 1,
+                "probably_would": 1,
+                "might_or_might_not": 1,
+                "probably_would_not": 1,
+                "definitely_would_not": 0
+            }
+        },
+        "additional_comments": "Please add any additional comments."
+    }
+}

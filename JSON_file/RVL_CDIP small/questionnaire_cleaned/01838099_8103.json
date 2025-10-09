@@ -1,0 +1,60 @@
+{
+    "survey": {
+        "title": "NATIONAL CONSENSUS SURVEYS",
+        "address": {
+            "street": "801 Second Avenue",
+            "city": "New York",
+            "state": "New York",
+            "zip": "10017"
+        },
+        "questions": [
+            {
+                "id": "E874",
+                "prompt": "Please take a few minutes to go through the advertisements in this book. Take each time with each ad as you are to. If you ordinarily wear reading glasses, please do not.",
+                "follow_up": "Now I'd like to ask you a few questions about the ads in the book. What brands or products do you remember seeing ads for in the book? Please specify."
+            },
+            {
+                "category": "CENTRAL ADS",
+                "brands": [
+                    "Amana Range",
+                    "Dole Pineapple",
+                    "BankAmericard/VISA",
+                    "General Electric Washer",
+                    "Bayer Aspirin",
+                    "Bolex Leva Koer",
+                    "Kawasaki",
+                    "Budweiser",
+                    "Old Spice Pocket Cologne",
+                    "Polaroid Cameras",
+                    "Coca Cola",
+                    "Singer Sewing Machine",
+                    "Concord Watches",
+                    "Taster's Choice",
+                    "Crest Toothpaste",
+                    "Weight Watchers"
+                ]
+            },
+            {
+                "category": "CIGARETTE ADS",
+                "brands": [
+                    "Lue",
+                    "Colden (Unsp.)",
+                    "Kent",
+                    "Canadian Club",
+                    "Colas",
+                    "Lights (Unsp.)",
+                    "Golden Lights",
+                    "Kent Golden Lights",
+                    "Kent Lights"
+                ],
+                "questions": [
+                    {
+                        "id": "Q3",
+                        "prompt": "Do you remember any ads for cigarettes?",
+                        "follow_up": "What brand do you recall seeing ads for? Any others?"
+                    }
+                ]
+            }
+        ]
+    }
+}

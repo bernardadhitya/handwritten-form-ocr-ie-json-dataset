@@ -1,0 +1,44 @@
+{
+    "sentBy": "RAND MCNALLY NY",
+    "timestamp": "2-17-95 3:41 PM",
+    "identifier": "912129075808#15",
+    "cnstMAie": "rKt",
+    "transmissionReport": {
+        "documentStatus": "CONFIRMED",
+        "sampleStatus": "REDUCED SAMPLE ABOVE - SEE DETAILS BELOW",
+        "count": {
+            "totalPagesScanned": 6,
+            "totalPagesConfirmed": 6
+        },
+        "ns": "No",
+        "remoteStation": {
+            "name": "PHILIPMOKRIS",
+            "startTime": "7-20-93 3:41 PM",
+            "duration": "2'40\"",
+            "pages": 6,
+            "module": "GEC",
+            "results": "COMPLETED"
+        },
+        "total": "02'46",
+        "operationNumber": 48,
+        "note": "48RSC",
+        "errorCorrection": "EC",
+        "errorCorrectionDetails": "ERKOR CORRECT",
+        "g2Communication": "G2",
+        "g2CommunicationDetails": "G2 COMMNCATON",
+        "remoteStatus": "POED BYREMOTE",
+        "storeAndForward": "SU",
+        "relay": {
+            "relayStatus": "STORE&FORWARD",
+            "relayInitiation": "R1",
+            "relayStation": "MB"
+        },
+        "additionalInfo": {
+            "xoivwOlNs": "IG",
+            "polling": "POLLING A ROTH",
+            "multiPolling": "M",
+            "multiPollingDetails": "MTI-POIING",
+            "contactNumber": "2071557632"
+        }
+    }
+}
