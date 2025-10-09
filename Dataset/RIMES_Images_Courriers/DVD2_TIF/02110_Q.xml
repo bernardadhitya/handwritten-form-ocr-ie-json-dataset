@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2470" height="3506">02110_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Modification de contrat / Commande</scenario>
+  <writer>VAZ Gabin</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="109" top_left_y="266" bottom_right_x="704" bottom_right_y="417">
+       <type>Code d'envoi</type>
+       <text>CXBJIR</text>
+  </box>
+  <box top_left_x="356" top_left_y="440" bottom_right_x="1218" bottom_right_y="555">
+       <type>Nom</type>
+       <text>VAZ</text>
+  </box>
+  <box top_left_x="1423" top_left_y="442" bottom_right_x="2247" bottom_right_y="554">
+       <type>Prénom</type>
+       <text>GABIN</text>
+  </box>
+  <box top_left_x="445" top_left_y="549" bottom_right_x="2255" bottom_right_y="655">
+       <type>Adresse</type>
+       <text>LE BOUT</text>
+  </box>
+  <box top_left_x="527" top_left_y="658" bottom_right_x="973" bottom_right_y="773">
+       <type>Code Postal</type>
+       <text>71260</text>
+  </box>
+  <box top_left_x="1104" top_left_y="653" bottom_right_x="2258" bottom_right_y="774">
+       <type>Ville</type>
+       <text>PERONNE</text>
+  </box>
+  <box top_left_x="321" top_left_y="777" bottom_right_x="1252" bottom_right_y="936">
+       <type>Téléphone</type>
+       <text>0342919169</text>
+  </box>
+  <box top_left_x="467" top_left_y="1063" bottom_right_x="2253" bottom_right_y="1187">
+       <type>Catégorie Scénario</type>
+       <text>MODIFICATION DE CONTRAT</text>
+  </box>
+  <box top_left_x="233" top_left_y="1180" bottom_right_x="2251" bottom_right_y="1376">
+       <type>Objet Scénario</type>
+       <text>COMMANDE DE 3 PAIRES DE ¤{CHAUSETTES/CHAUSSETTES}¤\n</text>
+  </box>
+  <box top_left_x="224" top_left_y="1369" bottom_right_x="2251" bottom_right_y="1575">
+       <type>Complément Scénario</type>
+       <text>AUCUN\n</text>
+  </box>
+  <box top_left_x="892" top_left_y="1591" bottom_right_x="1576" bottom_right_y="1753">
+       <type>Référence client</type>
+       <text>JOFYA55</text>
+  </box>
+  <box top_left_x="550" top_left_y="1748" bottom_right_x="2265" bottom_right_y="1855">
+       <type>Interlocuteur</type>
+       <text>LA REBOUTE</text>
+  </box>
+  <box top_left_x="456" top_left_y="1844" bottom_right_x="2264" bottom_right_y="1959">
+       <type>Adresse Interlocuteur</type>
+       <text>12 AVENUE DE L'ECOLE</text>
+  </box>
+  <box top_left_x="539" top_left_y="1949" bottom_right_x="996" bottom_right_y="2076">
+       <type>Code Postal Interlocuteur</type>
+       <text>36100</text>
+  </box>
+  <box top_left_x="1139" top_left_y="1951" bottom_right_x="2264" bottom_right_y="2059">
+       <type>Ville Interlocuteur</type>
+       <text>LES BORDES</text>
+  </box>
+  <box top_left_x="1051" top_left_y="2308" bottom_right_x="1282" bottom_right_y="2426">
+       <type>Temps passé</type>
+       <text>20</text>
+  </box>
+  <box top_left_x="887" top_left_y="2243" bottom_right_x="938" bottom_right_y="2302">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1073" top_left_y="2239" bottom_right_x="1125" bottom_right_y="2294">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1301" top_left_y="2239" bottom_right_x="1356" bottom_right_y="2294">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="245" top_left_y="2738" bottom_right_x="333" bottom_right_y="2794">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1629" top_left_y="2690" bottom_right_x="2273" bottom_right_y="2809">
+       <type>Date d'envoi postal</type>
+       <text>22/01/2007</text>
+  </box>
+  <box top_left_x="251" top_left_y="2842" bottom_right_x="304" bottom_right_y="2893">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="249" top_left_y="2943" bottom_right_x="304" bottom_right_y="2992">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1777" top_left_y="2875" bottom_right_x="2256" bottom_right_y="3001">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="244" top_left_y="3042" bottom_right_x="333" bottom_right_y="3098">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1623" top_left_y="3004" bottom_right_x="2258" bottom_right_y="3113">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1774" top_left_y="3213" bottom_right_x="2057" bottom_right_y="3314">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="540" top_left_y="3243" bottom_right_x="594" bottom_right_y="3297">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="759" top_left_y="3243" bottom_right_x="814" bottom_right_y="3297">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="952" top_left_y="3242" bottom_right_x="1005" bottom_right_y="3296">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1069" top_left_y="3108" bottom_right_x="2260" bottom_right_y="3215">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>

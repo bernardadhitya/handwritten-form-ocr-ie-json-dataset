@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2475" height="3504">02155_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Changement de données personnelles</scenario>
+  <writer>AMELINE Louise</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="166" top_left_y="298" bottom_right_x="724" bottom_right_y="439">
+       <type>Code d'envoi</type>
+       <text>XMUIFP</text>
+  </box>
+  <box top_left_x="397" top_left_y="460" bottom_right_x="1207" bottom_right_y="565">
+       <type>Nom</type>
+       <text>AMELINE</text>
+  </box>
+  <box top_left_x="1400" top_left_y="459" bottom_right_x="2173" bottom_right_y="562">
+       <type>Prénom</type>
+       <text>Louise</text>
+  </box>
+  <box top_left_x="481" top_left_y="562" bottom_right_x="2180" bottom_right_y="654">
+       <type>Adresse</type>
+       <text>10 rue Marcel Pagnol</text>
+  </box>
+  <box top_left_x="558" top_left_y="662" bottom_right_x="976" bottom_right_y="767">
+       <type>Code Postal</type>
+       <text>57700</text>
+  </box>
+  <box top_left_x="1099" top_left_y="656" bottom_right_x="2181" bottom_right_y="762">
+       <type>Ville</type>
+       <text>MARSPICH</text>
+  </box>
+  <box top_left_x="366" top_left_y="774" bottom_right_x="1238" bottom_right_y="919">
+       <type>Téléphone</type>
+       <text>0373310879</text>
+  </box>
+  <box top_left_x="505" top_left_y="1039" bottom_right_x="2180" bottom_right_y="1153">
+       <type>Catégorie Scénario</type>
+       <text>Changement de données personnelles</text>
+  </box>
+  <box top_left_x="288" top_left_y="1148" bottom_right_x="2179" bottom_right_y="1328">
+       <type>Objet Scénario</type>
+       <text>Nouvelles ¤{Coordonnees/Coordonnées}¤ bancaires\n(Vous declarez joindre un RiB)</text>
+  </box>
+  <box top_left_x="281" top_left_y="1325" bottom_right_x="2180" bottom_right_y="1511">
+       <type>Complément Scénario</type>
+       <text>Vous changez de banque\n</text>
+  </box>
+  <box top_left_x="906" top_left_y="1531" bottom_right_x="1542" bottom_right_y="1679">
+       <type>Référence client</type>
+       <text>KKXOZ37</text>
+  </box>
+  <box top_left_x="581" top_left_y="1678" bottom_right_x="2188" bottom_right_y="1772">
+       <type>Interlocuteur</type>
+       <text>NAIF Assurance</text>
+  </box>
+  <box top_left_x="493" top_left_y="1767" bottom_right_x="2188" bottom_right_y="1871">
+       <type>Adresse Interlocuteur</type>
+       <text>rue Aristide Briand</text>
+  </box>
+  <box top_left_x="570" top_left_y="1865" bottom_right_x="999" bottom_right_y="1983">
+       <type>Code Postal Interlocuteur</type>
+       <text>14450</text>
+  </box>
+  <box top_left_x="1134" top_left_y="1866" bottom_right_x="2187" bottom_right_y="1965">
+       <type>Ville Interlocuteur</type>
+       <text>GRANDCAMP MAISY</text>
+  </box>
+  <box top_left_x="1052" top_left_y="2200" bottom_right_x="1266" bottom_right_y="2309">
+       <type>Temps passé</type>
+       <text>15</text>
+  </box>
+  <box top_left_x="871" top_left_y="2140" bottom_right_x="975" bottom_right_y="2212">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1072" top_left_y="2136" bottom_right_x="1121" bottom_right_y="2188">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1288" top_left_y="2137" bottom_right_x="1340" bottom_right_y="2188">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="311" top_left_y="2573" bottom_right_x="377" bottom_right_y="2652">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1592" top_left_y="2554" bottom_right_x="2192" bottom_right_y="2665">
+       <type>Date d'envoi postal</type>
+       <text>23/1/07</text>
+  </box>
+  <box top_left_x="301" top_left_y="2696" bottom_right_x="351" bottom_right_y="2744">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="296" top_left_y="2789" bottom_right_x="378" bottom_right_y="2842">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1735" top_left_y="2726" bottom_right_x="2185" bottom_right_y="2842">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="302" top_left_y="2882" bottom_right_x="379" bottom_right_y="2937">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1591" top_left_y="2845" bottom_right_x="2187" bottom_right_y="2947">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1732" top_left_y="3040" bottom_right_x="1997" bottom_right_y="3134">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="573" top_left_y="3068" bottom_right_x="623" bottom_right_y="3118">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="778" top_left_y="3067" bottom_right_x="829" bottom_right_y="3118">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="960" top_left_y="3067" bottom_right_x="1009" bottom_right_y="3117">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1070" top_left_y="2943" bottom_right_x="2188" bottom_right_y="3042">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
