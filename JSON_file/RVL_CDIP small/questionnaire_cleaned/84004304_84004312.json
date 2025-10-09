@@ -1,0 +1,96 @@
+{
+    "company": "AHF MAKKETINC RESEARCH",
+    "department": "NATIONAL CONSENSUS SURVEYS",
+    "address": {
+        "street": "801 Second Avenue",
+        "suite": "4552",
+        "unit": "#2507.7W",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10017"
+    },
+    "contact": "61n8ny",
+    "survey": {
+        "title": "CIGARETTE PORTFOLIO SCHEENING QUFSTIONNATRE",
+        "time_interview": {
+            "started": 35,
+            "ended": 155
+        },
+        "respondent": {
+            "name": "OCAQGL",
+            "telephone": "438-429",
+            "address": "Sum.me",
+            "city": "ASTATE",
+            "interviewer": "fe",
+            "metro_area": "",
+            "date": ""
+        },
+        "indicate_city": [
+            "Boston",
+            "Des Moines",
+            "Detroit",
+            "Lincoln",
+            "New Orleans",
+            "Oasha",
+            "San Francisco"
+        ],
+        "clnital_refusal": [
+            2,
+            10,
+            21,
+            22,
+            25,
+            26,
+            27,
+            2,
+            57,
+            58,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            101,
+            110,
+            210,
+            310,
+            410,
+            530,
+            610,
+            107,
+            108,
+            109,
+            210,
+            211,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120
+        ],
+        "participated_in_study": {
+            "question": "Have you, yourself, participated in a market research survey in the past three months or so?",
+            "terminate_and_circle": "TERMINATE AND CIRCLE NEXT HIGHEST NUMBER BELOW",
+            "response": "Yes",
+            "continue": "CONTINUE"
+        },
+        "age_card": {
+            "terminate_and_circle": "TERMINATE AND CIRCLE NEXT HIGHEST NUMBER BELOW NEXT TO UNDER OR OVER AGE",
+            "age_ranges": {
+                "under_21": 7,
+                "21_to_29": 35,
+                "30_to_39": "",
+                "40_to_45": "",
+                "46_to_49": 14,
+                "50_to_55": "",
+                "under_or_over_age": 6
+            },
+            "take_back": "TAKE BACK AGECARD"
+        }
+    }
+}

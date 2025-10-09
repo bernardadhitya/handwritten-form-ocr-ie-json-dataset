@@ -1,0 +1,61 @@
+{
+    "study_number": "0o0o0o",
+    "study_type": "xxxxxx",
+    "respondent_range": "1-90",
+    "new_cpt_screening_questionnaire": {
+        "date": "",
+        "name": "",
+        "address": "",
+        "city_state": "",
+        "telephone": "",
+        "date_interview": "",
+        "time_begun": "",
+        "interviewer": "",
+        "validated_by": "Kello, 1"
+    },
+    "introduction": "We are conducting a survey in this area about various types of products and I'd like to ask you a few questions.",
+    "interviewer_note": "If you reject a respondent because of language or hearing problems, in a hurry, etc., record below.",
+    "terminate_problem": "01020304050607080910111213141516171819202122232425",
+    "questions": {
+        "A": {
+            "question": "First, into which of the following groups does your age fall?",
+            "options": {
+                "under_18": "Terminate and record below.",
+                "18_24": "",
+                "25_34": "",
+                "35_56": "",
+                "50_and_over": "",
+                "refused": "Terminate and record below."
+            },
+            "terminate_reason": "Wrong age/refused"
+        },
+        "B": {
+            "question": "Interviewer record sex.",
+            "options": {
+                "male": "",
+                "female": ""
+            },
+            "terminate_reason": "Over quota sex"
+        },
+        "C": {
+            "question": "To ensure equal representation of people in this study, what is your race?",
+            "options": {
+                "white": ""
+            }
+        },
+        "D": {
+            "question": "Our records indicate that you use cigarettes daily. Approximately how many cigarettes do you usually smoke per day?",
+            "options": {
+                "less_than_5": "",
+                "5_10": "",
+                "11_20": "",
+                "21_30": "",
+                "31_40": "",
+                "41_or_more": "",
+                "dont_know_no_answer": "Terminate and record below."
+            },
+            "terminate_reason": "Smoke less than per day/don't know/no answer"
+        }
+    },
+    "code": "507310902"
+}

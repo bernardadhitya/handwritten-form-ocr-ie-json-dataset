@@ -1,0 +1,86 @@
+{
+    "processObservation": {
+        "measuringTeamProcess": {
+            "A": {
+                "question": "How clear are the group goals?",
+                "options": {
+                    "1": "No apparent goals",
+                    "2": "Goal confusion, uncertainty or conflict",
+                    "3": "Average goal clarity",
+                    "4": "Goals mostly clear",
+                    "5": "Goals very clear"
+                }
+            },
+            "B": {
+                "question": "How much trust and openness exist within the group?",
+                "options": {
+                    "1": "Distrust and no openness",
+                    "2": "Little trust, some openness",
+                    "3": "Average trust and openness",
+                    "4": "Considerable trust and openness",
+                    "5": "High degree of trust and openness"
+                }
+            },
+            "C": {
+                "question": "How empathetic are group members to each other?",
+                "options": {
+                    "1": "No empathy",
+                    "2": "Little empathy",
+                    "3": "Average empathy",
+                    "4": "Considerable empathy",
+                    "5": "High degree of empathy"
+                }
+            },
+            "D": {
+                "question": "How much attention is paid to process (the way the group is working)?",
+                "options": {
+                    "1": "No attention to process",
+                    "2": "Little attention to process",
+                    "3": "Some concern with group process",
+                    "4": "A fair balance between process and content",
+                    "5": "Very concerned with balancing process and content"
+                }
+            },
+            "E": {
+                "question": "How are group and leadership needs met?",
+                "options": {
+                    "1": "Not met, drifting",
+                    "2": "Leadership concentrated in one person",
+                    "3": "Some leadership sharing",
+                    "4": "Leadership function distributed",
+                    "5": "Leadership needs met creatively"
+                }
+            },
+            "F": {
+                "question": "How are group decisions made?",
+                "options": {
+                    "1": "Unable to reach decisions",
+                    "2": "Made by one person or few people",
+                    "3": "Made by majority vote",
+                    "4": "Attempts made at integrating minority views",
+                    "5": "Full participation and tested consensus"
+                }
+            },
+            "G": {
+                "question": "How well are group resources utilized?",
+                "options": {
+                    "1": "One or two contribute",
+                    "2": "Several try to contribute but are discouraged",
+                    "3": "Average use of group resources",
+                    "4": "Group resources well used and encouraged",
+                    "5": "Group resources fully and effectively used"
+                }
+            },
+            "H": {
+                "question": "How much do members feel they belong to the group?",
+                "options": {
+                    "1": "Members have no sense of belonging",
+                    "2": "Members are not close, but there are some friendly relations",
+                    "3": "About average sense of belonging",
+                    "4": "Warm sense of belonging",
+                    "5": "Strong sense of belonging among members"
+                }
+            }
+        }
+    }
+}

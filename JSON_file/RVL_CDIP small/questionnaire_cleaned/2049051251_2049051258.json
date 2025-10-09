@@ -1,0 +1,86 @@
+{
+    "code": "PM413-2",
+    "id": 989,
+    "title": "SCREENER",
+    "organization": "HOME TESTING INSTITUTE",
+    "address": {
+        "POBox": "9200",
+        "city": "Port Washington",
+        "state": "NY",
+        "zip": "11050"
+    },
+    "time": {
+        "started": null,
+        "ended": null
+    },
+    "interviewer": {
+        "name": null,
+        "id": null
+    },
+    "date": null,
+    "questions": [
+        {
+            "id": "TQ1",
+            "text": "Did not receive product",
+            "responses": [
+                "Stopped smoking",
+                "Disconnected (New # not available)",
+                "Respondent not available for duration of test",
+                "Other contact/Lang/Hear",
+                "Could not participate",
+                "Deceased",
+                "No answer after attempts",
+                "Refused to be interviewed",
+                "Completed interview",
+                "Not stopped smoking",
+                "No such person",
+                "Non-usable (Switched brands)"
+            ]
+        }
+    ],
+    "instructions": [
+        {
+            "text": "Hello. to NAME OF PERSON ON LABEL IF RESPONDENT NOT AVAILABLE. I'm calling for Janet Hall of Home Testing Institute. May I speak",
+            "actions": [
+                {
+                    "response": "Yes",
+                    "next": "ASK Q.1b"
+                },
+                {
+                    "response": "No",
+                    "next": "VERIFY ADDRESS, THANK RESPONDENT AND TERMINATE"
+                }
+            ]
+        },
+        {
+            "id": "1b",
+            "text": "How many packs of each did you smoke?",
+            "responses": [
+                {
+                    "type": "Packs Cigarettes T5",
+                    "id": 28
+                },
+                {
+                    "type": "Packs Cigarettes N4",
+                    "id": 29
+                }
+            ],
+            "condition": "IF LESS THAN 2 PACKS OF EITHER/BOTH, MAKE CALLBACK ARRANGEMENT"
+        },
+        {
+            "id": "1d",
+            "text": "If I called you back in 15 minutes do you think you could find the form?",
+            "actions": [
+                {
+                    "response": "Yes",
+                    "next": "MAKE CALLBACK ARRANGEMENT"
+                },
+                {
+                    "response": "No",
+                    "next": "GO TO BLUE QUESTIONNAIRE"
+                }
+            ]
+        }
+    ],
+    "contact_number": "2049051251"
+}

@@ -1,0 +1,67 @@
+{
+    "CARD2": {
+        "RESP.#": "1234",
+        "MRD#": "5",
+        "Date": "7/622",
+        "Question3": {
+            "Question": "particular pack?",
+            "Response": "I BOUQT"
+        },
+        "Question4a": {
+            "Question": "I'm interested in where you bought these cigarettes. In what type of store did you buy them?",
+            "Options": [
+                "GROCERY STORE",
+                "DRUG STORE",
+                "DISCOUNT HOUSE",
+                "SERVICE STATION",
+                "LIQUOR STORE",
+                "RESTAURANT/BAR",
+                "DELICATESSEN",
+                "NEWSSTAND/TOBACCO SHOP",
+                "CANDY STORE",
+                "OTHER (Specify)"
+            ]
+        },
+        "Question4b": {
+            "Question": "Just what kind of grocery store was that? Was it a large supermarket, a small neighborhood grocery, or a convenience store that stays open long hours and has a limited amount of groceries?",
+            "Options": [
+                "SUPERMARKET",
+                "SMALL GROCERY",
+                "CONVENIENCE STORE",
+                "OTHER (Specify)"
+            ]
+        },
+        "Question4c": {
+            "Question": "Was it a regular supermarket whose main business is groceries or was it a one-stop type store which sells groceries as well as a full line of non-grocery products?",
+            "Options": [
+                "REGULAR SUPERMARKET",
+                "ONE-STOP SUPER STORE"
+            ]
+        },
+        "Question4d": {
+            "Question": "Had you planned to buy this brand before going to the store, or not?",
+            "Options": [
+                "YES",
+                "NO"
+            ]
+        },
+        "Question4e": {
+            "Question": "Did you buy the cigarettes you are currently smoking from a vending machine, or not?",
+            "Options": [
+                "YES",
+                "NO"
+            ]
+        },
+        "Question4f": {
+            "Question": "How many packs did you buy?",
+            "Response": "03"
+        },
+        "Question4g": {
+            "Question": "Did you buy these cigarettes by the pack or by the carton?",
+            "Options": [
+                "PACK",
+                "CARTON"
+            ]
+        }
+    }
+}

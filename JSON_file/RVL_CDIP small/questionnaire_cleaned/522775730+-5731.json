@@ -1,0 +1,70 @@
+{
+    "survey": {
+        "contact_method": "phone",
+        "questions": [
+            {
+                "id": 1,
+                "category": "ease_of_contact",
+                "aspects": [
+                    "ability_to_get_through_on_first_call",
+                    "satisfaction_with_telephone_recording",
+                    "length_of_time_on_hold"
+                ]
+            },
+            {
+                "id": 2,
+                "category": "personnel",
+                "aspects": [
+                    "courtesy",
+                    "professionalism",
+                    "knowledge",
+                    "authority_to_resolve_problem"
+                ]
+            },
+            {
+                "id": 3,
+                "category": "response",
+                "aspects": [
+                    "timeliness",
+                    "clarity",
+                    "helpfulness",
+                    "follow_through_on_promised_action"
+                ]
+            },
+            {
+                "id": 4,
+                "category": "satisfaction_with_action",
+                "options": [
+                    "completely_satisfied",
+                    "not_completely_satisfied_but_acceptable",
+                    "not_completely_satisfied_but_some_action_taken",
+                    "not_at_all_satisfied_with_action_taken",
+                    "not_at_all_satisfied_no_action_taken"
+                ]
+            },
+            {
+                "id": 5,
+                "category": "future_purchase_intent",
+                "options": [
+                    "definitely_would",
+                    "probably_would",
+                    "might_or_might_not",
+                    "probably_would_not",
+                    "definitely_would_not"
+                ]
+            },
+            {
+                "id": 6,
+                "category": "recommendation_intent",
+                "options": [
+                    "definitely_would",
+                    "probably_would",
+                    "might_or_might_not",
+                    "probably_would_not",
+                    "definitely_would_not"
+                ]
+            }
+        ],
+        "additional_comments": ""
+    }
+}

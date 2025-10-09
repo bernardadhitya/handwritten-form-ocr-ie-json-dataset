@@ -1,0 +1,56 @@
+{
+    "company": "COMMUNICUS, INC.",
+    "document": "INTERVIEWER QUESTIONNAIRE",
+    "project": "RJR-61",
+    "date": "February, 1981",
+    "locations": {
+        "Boston": "5-1",
+        "Los Angeles": "-5",
+        "Chicago": "-2",
+        "Memphis": "-6",
+        "Minneapolis": "-3",
+        "Miami": "-7",
+        "Indianapolis": "-4",
+        "Washington": "AM"
+    },
+    "personal_info": {
+        "name": "",
+        "time_began": "AM",
+        "address": "",
+        "time_ended": "PM",
+        "town_city": "",
+        "state": "",
+        "telephone": "",
+        "zip_code": "",
+        "interviewed_by": "",
+        "date": "",
+        "validated_by": "",
+        "validation_date": ""
+    },
+    "introduction": "Hello, I'm from Communicus, a consumer opinion firm. We are conducting a survey and would like to include you. FEMALEs ONLY",
+    "questions": {
+        "card_a": {
+            "prompt": "Please look at this card and tell me which of the following phrases apply to you.",
+            "options": {
+                "a": "I eat dinner out at a restaurant at least twice a month.",
+                "b": "I have a valid drivers license.",
+                "c": "I subscribe to a daily newspaper.",
+                "d": "I smoke one or more cigarettes per day.",
+                "e": "I frequently have a glass of wine with dinner."
+            },
+            "ineligible": "DOES NOT SMOKE CIGARETTES"
+        },
+        "card_b": {
+            "prompt": "Into which of the following age groups do you fall? READ LIST",
+            "options": {
+                "under_25": "TERMINATE AND CIRCLE BELOW",
+                "25_34": "9-1",
+                "35_or_over": "TERMINATE AND CIRCLE BELOW"
+            },
+            "ineligible": {
+                "under_25": "INELIGIBLE, UNDER 25",
+                "over_34": "INELIGIBLE, OVER 34"
+            }
+        }
+    }
+}

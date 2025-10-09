@@ -1,0 +1,65 @@
+{
+    "gender": [
+        "Male",
+        "Female"
+    ],
+    "locations": [
+        "Chicago",
+        "Philadelphia"
+    ],
+    "company": "COUICUS, INC.",
+    "survey": {
+        "introduction": "We are from Communicus, a consumer opinion firm. We are conducting a survey and would like to include you.",
+        "questions": [
+            {
+                "question": "Do you smoke cigarettes?",
+                "answers": {
+                    "Yes": "CONTINUE",
+                    "No": "TERMINATE"
+                }
+            },
+            {
+                "question": "Is the brand of cigarettes you smoke most often and consider to be your regular brand a menthol cigarette or a non-menthol cigarette?",
+                "answers": {
+                    "Menthol": "CONTINUE",
+                    "Non-menthol": "TERMINATE"
+                }
+            },
+            {
+                "question": "How many cigarettes do you smoke per day?",
+                "answers": {
+                    "0-9": "TERMINATE",
+                    "Between 10 and 15": "CONTINUE",
+                    "16 to 25": "CONTINUE",
+                    "More than 25": "CONTINUE"
+                }
+            },
+            {
+                "question": "Which of the following statements apply to you?",
+                "options": [
+                    "I eat dinner in a restaurant at least once a month.",
+                    "I read a daily newspaper.",
+                    "I do most of the food shopping for myself and/or my family.",
+                    "I have taken an airline trip on a scheduled commercial airline in the past 12 months."
+                ]
+            },
+            {
+                "question": "Into which of the following age groups do you fall?",
+                "answers": {
+                    "Under 18": "TERMINATE",
+                    "18 to 24": "CONTINUE",
+                    "25 to 34": "CONTINUE",
+                    "35 to 44": "QUOTA 2",
+                    "45 to 49": "CONTINUE",
+                    "50 or over": "TERMINATE"
+                }
+            }
+        ]
+    },
+    "misc": {
+        "date": "January 1978",
+        "interviewed_by": "",
+        "dated_by": "",
+        "code": "84459668"
+    }
+}

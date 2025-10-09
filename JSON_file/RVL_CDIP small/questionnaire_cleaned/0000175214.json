@@ -1,0 +1,41 @@
+{
+    "address": "44 EAST 23rd STREET, NEW YORK, NY 10010",
+    "project_number": "219-3",
+    "document_type": "SCREENING QUESTIONNAIRE",
+    "date": "November 1982",
+    "introduction": "Good morning/afternoon/evening. My name is [Name] from Market Trends, Inc., a public opinion research company. We are conducting a public opinion survey in this mall and I would like to ask you a few short questions.",
+    "questions": [
+        {
+            "question": "What is your age? Are you between the ages of 21 and 35, younger or older?",
+            "options": [
+                "Younger than 21 - TERMINATE",
+                "Between 21 and 35 - CONTINUE",
+                "Older than 35 - TERMINATE"
+            ]
+        },
+        {
+            "question": "Does any immediate family work for: (READ CHOICES)",
+            "options": [
+                "An advertising agency",
+                "A market research company",
+                "A company manufacturing, selling or distributing beer, wine or other alcoholic beverages - TERMINATE",
+                "A company manufacturing, selling or distributing tobacco products - TERMINATE"
+            ]
+        },
+        {
+            "question": "Did you (READ EACH CHOICE):",
+            "options": [
+                "Drink a glass of wine? Yes/No",
+                "Have a glass of beer? Yes/No",
+                "Smoke a cigarette? Yes/No"
+            ]
+        },
+        {
+            "question": "About how many cigarettes do you smoke in an average day? Would you say: (READ CHOICES)",
+            "options": [
+                "Less than half a pack",
+                "Half a pack or more"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "company": "WINONA MRB INC.",
+    "study": "1988 CONTINUOUS TRACKING STUDY",
+    "address": {
+        "street": "8200 Humboldt Ave. So.",
+        "number": "NO.1602-80008",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip": "55431"
+    },
+    "date": "JANUARY 1988",
+    "questions": [
+        {
+            "id": "1a",
+            "text": "Hello. I'm of Winona Research, a national public opinion firm calling long distance from Phoenix, Arizona. I'd like to ask you a few questions, and your answers, of course, will be kept entirely confidential. We're talking to people 18 years of age and over so first of all are you 18 or over?",
+            "responses": {
+                "1": "Yes. ASK Q.1b",
+                "2": "No. ASK: May I please speak to someone who is 18 or over? IF NO ONE 18 OR OVER AT HOME NOW WHO CAN BE INTERVIEWED THANK AND ARRANGE TO CALL BACK. IF NECESSARY RE-INTRODUCE YOURSELF AND PROCEED IF NO ADULT 18+ LIVES IN HOUSEHOLD TERMINATE AND TALLY."
+            }
+        },
+        {
+            "id": "1b",
+            "text": "And since we are talking to a cross-section of people living all over the United States could you tell me do you live in a ...",
+            "options": {
+                "1": "Big city",
+                "2": "Small city",
+                "3": "Town",
+                "4": "Suburb",
+                "5": "Out in the country",
+                "6": "or What? SPECIFY",
+                "7": "Don't Know",
+                "8": "Refused"
+            }
+        },
+        {
+            "id": "2",
+            "text": "Are there any people in this household, including yourself, who are 18 years of age or over and smoke cigarettes?",
+            "responses": {
+                "Yes": "ASK Q.3",
+                "No": "GO TO Q.49"
+            }
+        }
+    ],
+    "callback": {
+        "date": "01/13/88",
+        "time": "dt/3",
+        "name": "",
+        "age": "",
+        "telephone": "2049365841",
+        "time_zone": {
+            "E": "",
+            "C": "",
+            "M": ""
+        },
+        "state_code": "",
+        "county_code": ""
+    }
+}

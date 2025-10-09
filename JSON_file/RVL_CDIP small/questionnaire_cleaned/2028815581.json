@@ -1,0 +1,48 @@
+{
+    "study": "PREP STUDY",
+    "session": "REGULAR",
+    "brand": "NAES",
+    "date": "DATEO",
+    "code": "ZZ",
+    "group": "G1",
+    "product": "CIGARETTE",
+    "time": {
+        "deprivation": "2 HOURS",
+        "nicotine": "1 HOUR",
+        "caffeine": "LAST CIGARETTE /C5",
+        "last_caffeine": "LAST CAFFEINE"
+    },
+    "attributes": {
+        "mouth_throat_impact": {
+            "low": true,
+            "high": false
+        },
+        "flavor": {
+            "unusual": false
+        },
+        "off_taste": {
+            "strong": false
+        },
+        "mouth_coating": {
+            "very": false
+        },
+        "satisfaction": {
+            "very": false
+        },
+        "preference": {
+            "extremely": false
+        }
+    },
+    "mentholated": {
+        "is_mentholated": true,
+        "menthol": {
+            "very_little": false,
+            "a_lot": false
+        },
+        "cooling": {
+            "very_little": false,
+            "a_lot": false
+        }
+    },
+    "id": "2028815581"
+}

@@ -1,0 +1,40 @@
+{
+    "survey": {
+        "contact_method": "phone",
+        "questions": [
+            {
+                "id": 1,
+                "category": "EASE OF CONTACT",
+                "responses": {
+                    "ability_to_get_through_on_first_call": "Very Satisfied",
+                    "satisfaction_with_telephone_recording": "Dissatisfied",
+                    "length_of_time_on_hold": "Dissatisfied"
+                }
+            },
+            {
+                "id": 2,
+                "category": "PERSONNEL",
+                "responses": {
+                    "courtesy": "Very Satisfied",
+                    "professionalism": "Very Satisfied",
+                    "knowledge": "Very Satisfied",
+                    "authority_to_resolve_problem": "Very Satisfied"
+                }
+            },
+            {
+                "id": 3,
+                "category": "RESPONSE",
+                "responses": {
+                    "timeliness": "Very Satisfied",
+                    "clarity": "Very Satisfied",
+                    "helpfulness": "Somewhat Satisfied",
+                    "follow_through_on_promised_action": "Very Satisfied"
+                }
+            }
+        ],
+        "statement": "I was completely satisfied.",
+        "continue_purchase": "Definitely Would",
+        "recommend_brand": "Definitely Would",
+        "additional_comments": "When I filled out and mailed your last survey, but your product is very good."
+    }
+}

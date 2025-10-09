@@ -1,0 +1,75 @@
+{
+    "market": {
+        "address": "44 East 23rd Street, New York, New York 10010",
+        "project_no": "219-3"
+    },
+    "questionnaire": {
+        "title": "Screening Questionnaire",
+        "date": "November 1982",
+        "introduction": "Good morning/afternoon/evening, my name is from Market Trends Inc., a public opinion research company. We are conducting a public opinion survey in this mall and I would like to ask you a few short questions.",
+        "questions": [
+            {
+                "question": "What is your age?",
+                "options": [
+                    {
+                        "text": "Younger than 21",
+                        "action": "TERMINATE"
+                    },
+                    {
+                        "text": "Between 21-35",
+                        "action": "CONTINUE"
+                    },
+                    {
+                        "text": "Older than 35",
+                        "action": "TERMINATE"
+                    }
+                ]
+            },
+            {
+                "question": "Which of the following best describes your occupation?",
+                "options": [
+                    {
+                        "text": "Advertising agency",
+                        "action": "TERMINATE"
+                    },
+                    {
+                        "text": "Market research company",
+                        "action": "TERMINATE"
+                    },
+                    {
+                        "text": "A company manufacturing, selling, or distributing tobacco products",
+                        "action": "TERMINATE"
+                    }
+                ]
+            },
+            {
+                "question": "Which of the following did you do in the past 2 days?",
+                "instructions": "Do not record answers. Read each choice.",
+                "options": [
+                    {
+                        "text": "Drink a glass of wine?",
+                        "response": "Yes"
+                    },
+                    {
+                        "text": "Have a glass of beer?",
+                        "response": "Yes"
+                    },
+                    {
+                        "text": "Smoke a cigarette?",
+                        "response": "Yes",
+                        "action": "CONTINUE"
+                    }
+                ]
+            },
+            {
+                "question": "About how many cigarettes do you smoke?",
+                "options": [
+                    {
+                        "text": "Less than half a pack",
+                        "action": "TERMINATE"
+                    }
+                ]
+            }
+        ]
+    }
+}

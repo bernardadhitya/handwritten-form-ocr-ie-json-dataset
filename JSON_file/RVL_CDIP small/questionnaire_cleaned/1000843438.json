@@ -1,0 +1,39 @@
+{
+    "ballot": {
+        "mustBeInMailBy": "R1-3536"
+    },
+    "partI": {
+        "testCigarettes": {
+            "C9": "3 packs",
+            "J5": "3 packs",
+            "M7": "4 packs"
+        },
+        "instructions": "First smoke some of the cigarettes marked C9 and J5. Then put a checkmark after each of the statements below to show how you feel about cigarettes C9 and J5. If the statement applies to C9 only put a checkmark in the C9 column. If it applies to both C9 and J5 put a checkmark in the 'Both' column. If it doesn't apply to either cigarette, put a checkmark in the 'Neither' column. You should end up with one checkmark for each item and a total of 7 checkmarks. YOU DO NOT HAVE TO SMOKE ALL OF THE CIGARETTES - ONLY AS MANY AS YOU NEED TO.",
+        "statements": [
+            "Was too strong or too harsh.",
+            "Was a satisfying, pleasurable smoke.",
+            "Was tobacco-like in taste.",
+            "Was too bitter in taste.",
+            "Was too sweet in taste.",
+            "Was too spicy in taste.",
+            "Had an off-taste."
+        ],
+        "preference": {
+            "options": [
+                "C9",
+                "J5",
+                "No Preference"
+            ]
+        }
+    },
+    "partII": {
+        "instructions": "Now smoke the cigarettes marked M7. Smoke as many as you need to in order to make this judgment.",
+        "judgment": {
+            "M7IsMoreLike": [
+                "C9",
+                "J5"
+            ]
+        },
+        "note": "Be sure to circle one or the other, even if you are uncertain. Have fun"
+    }
+}

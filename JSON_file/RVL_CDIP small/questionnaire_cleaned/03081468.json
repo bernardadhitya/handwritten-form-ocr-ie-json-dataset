@@ -1,0 +1,86 @@
+{
+    "company": "Probit Systems Corporation",
+    "questions": [
+        {
+            "question": "What is your age?",
+            "answer": null
+        },
+        {
+            "question": "Are you married?",
+            "answer": "Yes"
+        },
+        {
+            "question": "How many children do you have?",
+            "answer": null
+        },
+        {
+            "question": "What are their ages?",
+            "answer": null
+        },
+        {
+            "question": "Do you own or rent your home?",
+            "answer": null,
+            "options": [
+                "own",
+                "rent"
+            ]
+        },
+        {
+            "question": "Do you have a job?",
+            "answer": null,
+            "options": [
+                "Full-time outside job",
+                "Part-time outside job",
+                "No outside job"
+            ]
+        },
+        {
+            "question": "If you have an outside job, what is your specific occupation?",
+            "answer": null
+        },
+        {
+            "question": "What kind of company do you work for?",
+            "answer": null
+        },
+        {
+            "question": "If married, what is your spouse's job?",
+            "answer": null
+        },
+        {
+            "question": "What kind of company does your spouse work for?",
+            "answer": null
+        },
+        {
+            "question": "What is the total income of your family?",
+            "answer": null,
+            "options": [
+                "$5,000-$7,499",
+                "$7,500-$9,999",
+                "$10,000-$14,999",
+                "$15,000-$20,000",
+                "$20,000 or over"
+            ]
+        },
+        {
+            "question": "Did you graduate from?",
+            "answer": null,
+            "options": [
+                "Grammar School",
+                "High School",
+                "College",
+                "Secretarial/Trade Business"
+            ]
+        },
+        {
+            "question": "About how many cigarettes do you smoke in an average day?",
+            "answer": null,
+            "options": [
+                "Three packs or more",
+                "Two to three packs",
+                "One to two packs",
+                "Less than one pack"
+            ]
+        }
+    ],
+    "id": "03081468"
+}

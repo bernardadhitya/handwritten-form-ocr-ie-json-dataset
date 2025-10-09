@@ -1,0 +1,66 @@
+{
+    "date": "01-21-1994",
+    "time": "02:13PM",
+    "from": "3 Gannett Orive",
+    "to": "2129875307",
+    "page": "P.02",
+    "company": "Ambrosino Research Inc",
+    "contact": "Haar",
+    "job_number": "2083-11",
+    "id": "Cigarette Tracking Study",
+    "month_year": "January, 1994",
+    "document_type": "Screener",
+    "version": "5-2",
+    "respondent": {
+        "name": "",
+        "address": "",
+        "city": "",
+        "state": "",
+        "telephone_number": {
+            "area_code": "",
+            "number": ""
+        }
+    },
+    "interviewer": {
+        "name": "",
+        "date": "",
+        "time_began": "an",
+        "time_ended": "am",
+        "length": "pm"
+    },
+    "introduction": "Hello, I'm from ARI, a national market research company. We're doing a survey and would like you to participate.",
+    "questions": [
+        {
+            "question": "First of all, are you...",
+            "options": [
+                "Male",
+                "Female"
+            ],
+            "age_groups": [
+                "Under 18",
+                "18-21",
+                "22-24",
+                "25-30",
+                "35-44",
+                "45-54",
+                "55-64",
+                "65 or older"
+            ],
+            "instructions": [
+                "Ask to speak to someone 18 or older",
+                "Check quota",
+                "Terminate if refused"
+            ]
+        },
+        {
+            "question": "Do you smoke cigarettes?",
+            "options": [
+                "Yes - Continue",
+                "No - Ask for another smoker 18 years or over, re-introduce yourself, and start again at Q."
+            ]
+        }
+    ],
+    "total": "100",
+    "fax_number": "2071594586",
+    "fax_time": "12:29pm"
+}

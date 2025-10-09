@@ -1,0 +1,44 @@
+{
+    "study": {
+        "hed": "nsylvaaia",
+        "code": "19117",
+        "jenuer": "CICARETTE BRAND SWITCHING STUDY",
+        "screener": {
+            "introduction": "Hello, calling long distance from The Data Croup in Philadelphia. We are a market research firm, and today we're conducting a short national study.",
+            "question": "Is there anyone living in your household 18 years of age or older who smokes ten or more cigarettes a day?",
+            "actions": {
+                "continue": "CONTINUE",
+                "terminate": "TERMINATE & RECORD ON SAMPLE FORM"
+            },
+            "age_questions": {
+                "men": "Please tell me the ages of all the men in your household who smoke ten or more cigarettes a day.",
+                "women": "Now tell me the ages of all the women in your household who smoke ten or more cigarettes a day."
+            },
+            "age_groups": [
+                "18 to 20",
+                "30 to 34",
+                "35 to 39",
+                "40 to 49",
+                "50 & over"
+            ],
+            "survey_instructions": "For this survey, I would like to speak to:",
+            "order": [
+                "Youngest Male",
+                "Next Youngest Male",
+                "Youngest Female",
+                "Next Youngest Female"
+            ],
+            "respondent_instructions": "SPEAK TO THE FIRST AVAILABLE QUALIFIED RESPONDENT FROM ABOVE LIST. RE-INTRODUCE YOURSELF WHEN SPEAKING TO A RESPONDENT WHO IS CALLED TO THE PHONE.",
+            "respondent_gender": {
+                "male": "Male",
+                "female": "Female"
+            },
+            "terminate_record": "TERMINATE & RECORD ON SAMPLE FORM",
+            "smoking_habits": {
+                "9_or_less": "Less than 1/2 a pack",
+                "10_to_19": "1/2 but less than 1 pack",
+                "30_to_39": "1 1/2 but less than 2 packs"
+            }
+        }
+    }
+}

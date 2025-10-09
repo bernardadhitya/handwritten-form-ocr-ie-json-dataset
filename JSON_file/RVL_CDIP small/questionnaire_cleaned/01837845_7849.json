@@ -1,0 +1,74 @@
+{
+    "company": "National Consensus Surveys",
+    "address": {
+        "street": "801 Second Avenue",
+        "suite": "42318",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10017"
+    },
+    "phone": "o2/6-96-846",
+    "instructions": "Please take a few minutes to go through the advertisements in this book. Take as much time with each ad as you care to. If you ordinarily wear reading glasses, you'll need them.",
+    "questions": [
+        {
+            "prompt": "Now, I'd like to ask you a few questions about the ads in the book.",
+            "question": "What brands or products do you remember seeing ads for in the book? Please specify.",
+            "note": "DO NOT READ EITHER BRAND NAMES OR PRODUCT CATEGORIES."
+        }
+    ],
+    "categories": {
+        "general_ads": [
+            "Asana Range",
+            "Dole Pineapple",
+            "BaskAmerican/VISA",
+            "General Electric Washer",
+            "Bayer Aspirin",
+            "Hilton Hotels",
+            "Colden Lights",
+            "Colden",
+            "Bolens Lawn Mower",
+            "Budweiser",
+            "Kawasaki",
+            "Old Spice Pocket Cologne",
+            "Canadian Club",
+            "Polaroid Camera",
+            "Coca Cola",
+            "Singer Sewing Machines",
+            "Concord Watches",
+            "Taster's Choice",
+            "Crest toothpaste",
+            "Weight Watchers"
+        ],
+        "cigarette_ads": [
+            "Kent",
+            "Golden Light",
+            "Kent Golden",
+            "Kent Lights",
+            "Kent Unsp.",
+            "Golden Unsp."
+        ]
+    },
+    "additional_questions": [
+        {
+            "condition": "IF NO CIGARETTE BRANDS MENTIONED ABOVE ASK Q.3.",
+            "question": "Do you remember any ads for cigarettes?"
+        },
+        {
+            "condition": "IF ONLY ONE OR TWO CIGARETTE BRANDS MENTIONED, SKIP TO Q.3.",
+            "question": "Any others?"
+        },
+        {
+            "condition": "IF ALL THREE CIGARETTE BRANDS MENTIONED, SKIP TO Q.4.",
+            "question": "Do you remember any ads for any other brands of cigarettes?"
+        }
+    ],
+    "brands": [
+        "Luke",
+        "Colden Lights",
+        "Colden Unsp.",
+        "Kent Golden",
+        "Kent",
+        "Kent Lights",
+        "True"
+    ]
+}

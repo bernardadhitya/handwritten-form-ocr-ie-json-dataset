@@ -1,0 +1,99 @@
+{
+    "survey": {
+        "title": "WATIONAL CONSENSUS SURVEYS",
+        "id": 42318,
+        "location": {
+            "address": "seeny ponne t08",
+            "city": "New York",
+            "state": "New York",
+            "zip": "10017"
+        },
+        "phone": "Zenli",
+        "instructions": "Please take a few minutes to go through the advertisements in this book. Please take as much time with each ad as you care. If you ordinarily wear reading glasses, you'll need them.",
+        "respondent_portfolio": "HAND RESPONDENT PORTFOLIO AND TAKE IT BACK BEFORE CONTINUING.",
+        "questions": [
+            {
+                "id": 1,
+                "text": "Now, I'd like to ask you a few questions about the ads in the book",
+                "options": [
+                    "Any other brands?",
+                    "GENERAL ADS",
+                    "CIGARETTE ADS"
+                ]
+            },
+            {
+                "id": 2,
+                "brands": [
+                    "Amana Range",
+                    "Dole Pineapple",
+                    "Luke",
+                    "BankAmerica/VISA",
+                    "General Electric Washer",
+                    "Golden",
+                    "Lighte",
+                    "Bayer Aspirin",
+                    "Bicon Hotels",
+                    "Bolens Lawn Mower",
+                    "Old Spice Pocket Cologne",
+                    "Kawasaki",
+                    "Budweiser",
+                    "Gold",
+                    "Canadian Club",
+                    "Polaroid Camera",
+                    "Coca Cola",
+                    "Concord Watches",
+                    "Taster's Choice",
+                    "Lihte Uosp.",
+                    "Crest toothpaste",
+                    "Weight Watcher",
+                    "Other"
+                ],
+                "specify": "SPECIFY:"
+            },
+            {
+                "id": 3,
+                "text": "IF NO CIGARETTE BRANDS MENTIONED ABOVE ASK Q.3a.",
+                "conditions": [
+                    "IF ONLY ONE OR TWO CIGARETTE BRANDS MENTIONED SKIP TO Q.3.",
+                    "IF ALL THREE CIGARETTE BRANDS MENTIONED SKIP TO Q.4.",
+                    "IF NO CIGARETTE BRANDS MENTIONED ABOVE ASK"
+                ],
+                "question": "Do you remember any ads for cigarettes",
+                "options": [
+                    "What brand",
+                    "Any others?"
+                ],
+                "brands": [
+                    "Golden Light",
+                    "Golden",
+                    "Kent Golden",
+                    "Kent Cap.",
+                    "Other"
+                ],
+                "specify": "SPECIFY:"
+            },
+            {
+                "id": 4,
+                "text": "IF ONE OR TWO CIGARETTE BRANDS MENTIONED, ASK",
+                "question": "Do you remember any ads for any other brands of cigarettes",
+                "options": [
+                    "Yes",
+                    "Any others?"
+                ],
+                "brands": [
+                    "Golden Lights",
+                    "Golden",
+                    "Kent Golden Lights",
+                    "Kent Golden",
+                    "Kent Lights"
+                ],
+                "id_number": 1838727,
+                "conditions": [
+                    "IF TRUE MENTIONED IN Q.2, 3a OR 3b, CONTINUE.",
+                    "IF TRUE NOT MENTIONED IN Q.2, 3a OR 3b, SKIP"
+                ],
+                "specify": "SPECIFY:"
+            }
+        ]
+    }
+}

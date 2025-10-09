@@ -1,0 +1,31 @@
+{
+    "company": "PRODUCT OPINION LABORATORY",
+    "address": {
+        "po_box": "26563",
+        "city": "Richmond",
+        "state": "Virginia",
+        "zip": "23261"
+    },
+    "telephone": "804271-3368",
+    "instructions": {
+        "return_ballot_by": "ON THIS LABEL",
+        "test_instructions": "ONLY THE PERSON WHOSE NAME APPEARS",
+        "code": "N-8023",
+        "red_codes": "Please print name/address corrections for all family members on label.",
+        "address_change": {
+            "question": "Does the change apply to all family members or just to you?",
+            "if_changed": "Please include new phone number and area code."
+        },
+        "coded_as": "T5",
+        "directions": "Please read the directions for each part and fill out the ballot completely.",
+        "cigarettes": {
+            "return_instructions": "Return it to me in the enclosed envelope.",
+            "code": "IRS",
+            "phrases": "Read the phrases at each end of each line of boxes. Which phrase do you think describes the cigarette better?",
+            "marking_instructions": "If the one on the left describes it better, mark an X in one of the boxes on the left side. If the phrase on the right side of the boxes is a better description, mark one of the boxes on the right side. The more you think the description is true, the closer to the respective side."
+        },
+        "cigarette_code": "1000390292",
+        "satisfaction": "Satisfying smoking",
+        "aftertaste": "Leaves a good aftertaste in my mouth"
+    }
+}

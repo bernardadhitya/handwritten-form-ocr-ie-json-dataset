@@ -1,0 +1,138 @@
+{
+    "location": [
+        "Chicago",
+        "Detroit",
+        "Los Angeles",
+        "Houston"
+    ],
+    "company": "COMMUNICUS, INC.",
+    "project": "LLD-24",
+    "date": "June, 1981",
+    "survey": {
+        "introduction": "Hello, I'm from Communicus, a consumer opinion firm. We are conducting a survey and would like to include you.",
+        "questions": [
+            {
+                "question": "Do you, or does anyone in your immediate family, work for?",
+                "options": [
+                    {
+                        "label": "A food company",
+                        "code": 1
+                    },
+                    {
+                        "label": "The civil service/government",
+                        "code": 2
+                    },
+                    {
+                        "label": "A market research company",
+                        "code": 3,
+                        "terminate": true
+                    },
+                    {
+                        "label": "A construction company",
+                        "code": 4
+                    },
+                    {
+                        "label": "A pharmaceutical company",
+                        "code": 5
+                    },
+                    {
+                        "label": "A tobacco company",
+                        "code": 6,
+                        "terminate": true
+                    },
+                    {
+                        "label": "An airline",
+                        "code": 7
+                    },
+                    {
+                        "label": "A stock exchange",
+                        "code": 8
+                    },
+                    {
+                        "label": "An advertising agency",
+                        "code": 6
+                    },
+                    {
+                        "label": "An insurance company",
+                        "code": 0
+                    },
+                    {
+                        "label": "A newspaper/magazine publisher",
+                        "code": "x"
+                    },
+                    {
+                        "label": "INCN",
+                        "code": "y"
+                    }
+                ],
+                "ineligible": "Works for a starred employer"
+            },
+            {
+                "question": "Which of the following statements apply to you?",
+                "options": [
+                    {
+                        "label": "I eat dinner in a restaurant at least once a month.",
+                        "code": 1
+                    },
+                    {
+                        "label": "I read a daily newspaper.",
+                        "code": 2
+                    },
+                    {
+                        "label": "I smoke ten or more cigarettes per day.",
+                        "code": 3,
+                        "terminate": true
+                    },
+                    {
+                        "label": "I do most of the food shopping for myself and/or my family.",
+                        "code": 5
+                    },
+                    {
+                        "label": "I have taken an airline trip on a scheduled commercial airline in the past 12 months.",
+                        "code": 5
+                    }
+                ],
+                "ineligible": "Does not smoke cigarettes"
+            },
+            {
+                "question": "Into which of the following age groups do you fall?",
+                "options": [
+                    {
+                        "label": "Under 18",
+                        "terminate": true
+                    },
+                    {
+                        "label": "25-34",
+                        "code": 4
+                    },
+                    {
+                        "label": "35-49",
+                        "code": 3
+                    },
+                    {
+                        "label": "50-59",
+                        "code": 4
+                    },
+                    {
+                        "label": "60 or over",
+                        "code": 5
+                    }
+                ],
+                "ineligible": "Under 18"
+            }
+        ]
+    },
+    "interview": {
+        "time_began": "AM",
+        "time_ended": "PM",
+        "address": "",
+        "city_town": "",
+        "state": "",
+        "telephone": "",
+        "zip_code": "",
+        "interviewed_by": "",
+        "date": "",
+        "validated_by": "",
+        "validation_date": ""
+    }
+}

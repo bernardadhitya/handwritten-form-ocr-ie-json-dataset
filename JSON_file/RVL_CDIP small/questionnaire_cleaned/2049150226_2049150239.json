@@ -1,0 +1,40 @@
+{
+    "company": "CONWAY/MILLIKEN & Associates",
+    "address": "875 North Michigan Avenue, Chicago, IL 60611",
+    "job_number": "6-265",
+    "time_started": "August, 1992",
+    "version": 18,
+    "cell": 19,
+    "cigarette_ad_test": {
+        "type": "Detailed Interview",
+        "ads_shown": [
+            "C45",
+            "940",
+            "S6"
+        ],
+        "questions": [
+            {
+                "question": "After seeing this ad, which number on the scale best describes how well you like this brand?",
+                "scale": {
+                    "like_extremely": 10,
+                    "dislike_extremely": 1
+                }
+            },
+            {
+                "question": "Now, thinking about the ad overall, please tell me how well you liked or disliked it.",
+                "scale": {
+                    "like_extremely": 10,
+                    "dislike_extremely": 1
+                }
+            },
+            {
+                "question": "Have you seen this ad before?",
+                "options": {
+                    "yes": 1,
+                    "no": 2
+                }
+            }
+        ]
+    },
+    "reference_number": "2049150226"
+}

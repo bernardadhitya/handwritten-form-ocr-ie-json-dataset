@@ -1,0 +1,68 @@
+{
+    "company": "O'BRIEN-SHERWOOD ASSOCIATES INC.",
+    "test": "CIGARETTE SALES SIMULATION TEST",
+    "address": {
+        "street": "57-16 WOODSIDE AVENUE",
+        "suite": "EF-7",
+        "city": "WOODSIDE",
+        "state": "NEW YORK",
+        "zip": "11377"
+    },
+    "locations": [
+        "CHIGAGO",
+        "NEW JERSEY",
+        "PHOENIX"
+    ],
+    "screening_page": {
+        "greeting": "Good morning/afternoon/evening.",
+        "introduction": "My name is [Name] from Research Co. We're talking to people about their opinions about certain products, and I'd like to ask you a few questions.",
+        "questions": [
+            {
+                "question": "Are you 18 or over?",
+                "answers": {
+                    "yes": "ASK Q.2",
+                    "no": "THANK AND TERMINATE"
+                }
+            },
+            {
+                "question": "In the past week or two, have you spent any time looking through or reading a magazine or newspaper at home?",
+                "answers": {
+                    "yes": "ASK Q.3",
+                    "no": "THANK AND TERMINATE"
+                }
+            },
+            {
+                "question": "Do you smoke filter cigarettes?",
+                "answers": {
+                    "yes": "ASK Q.4",
+                    "no": "THANK AND TERMINATE"
+                }
+            },
+            {
+                "question": "Do you usually smoke King-Size cigarettes or longer than King-size, that is the 100 millimeter or 120 millimeter size?",
+                "answers": {
+                    "king-size": "ASK Q.5",
+                    "longer": "THANK AND TERMINATE"
+                }
+            },
+            {
+                "question": "Do you usually smoke a Menthol or a Non-Menthol cigarette?",
+                "answers": {
+                    "menthol": "GO TO BACK SIDE OF SCREENER",
+                    "non-menthol": "ASK Q.6"
+                }
+            },
+            {
+                "question": "What is your regular brand of cigarettes, the brand you smoke most often?",
+                "instruction": "RECORD BELOW, SHOW BRAND LIST TO DETERMINE WHICH VERSION AND LETTERS",
+                "record": {
+                    "full_name": "",
+                    "letters": ""
+                },
+                "note": "IF BRAND HAS NO LETTERS NEXT TO IT THANK AND TERMINATE"
+            }
+        ],
+        "invitation": "TELL RESPONDENT THAT WE HAVE SOME ADS WE'D LIKE HIM/HER TO LOOK AT AND INVITE INTO INTERVIEW ROOM"
+    },
+    "contact_number": "2040314775"
+}

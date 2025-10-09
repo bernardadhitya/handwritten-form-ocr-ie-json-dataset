@@ -1,0 +1,53 @@
+{
+    "office_use_only": {
+        "cec": "CECX/CC",
+        "ht": "OEC",
+        "oecx_cc": "OCC",
+        "recol": "DRAFT#2"
+    },
+    "company_info": {
+        "name": "MARKETING INFORMATION SYSTEMS INTL., INC.",
+        "address": "100 Sy1van Avenue",
+        "contact": "#832294",
+        "phone": "1-800-631-1623/201-947-6900",
+        "location": "Englewood C11ffs, New Jersey",
+        "zip": "07632",
+        "date": "July, 1994"
+    },
+    "survey_info": {
+        "card": "CARD1COL.61",
+        "test": "MEGA OUTLET IN-STORE TEST",
+        "questionnaire": "(Quest1onnatre)"
+    },
+    "questions": [
+        {
+            "question": "What is your age?",
+            "instruction": "RECORD EXACT AGE AT LEFT BELOW THEN X CORRESPONDING AGE CATEGORY",
+            "options": {
+                "under_21": "THANK AND TERMINATE",
+                "21-24": 1,
+                "25-34": 2,
+                "35-44": 3,
+                "45-54": 4,
+                "55-64": 5,
+                "65_and_over": 6
+            }
+        },
+        {
+            "question": "RECORD DO NOT ASK",
+            "options": {
+                "male": 1,
+                "female": 2
+            }
+        },
+        {
+            "question": "I noticed you purchased cigarettes today. Did you buy them for yourself, someone else, or both yourself and someone else?",
+            "options": {
+                "self_only": "1 CONTINUE WITH Q.4",
+                "someone_else_only": "2 THANK TERMINATE CIRCLE NEXT NUMBER BELOW AND RE-USE",
+                "both_self_and_someone_else": "3 CONTINUE WITH Q.4"
+            }
+        }
+    ],
+    "instructions": "PLEASE HAVE THE RESPONDENT READ SIGN AND ANSWER THE QUESTIONS ON THE NEXT PAGE."
+}

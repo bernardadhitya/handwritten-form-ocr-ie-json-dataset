@@ -1,0 +1,84 @@
+{
+    "survey": {
+        "contact_method": "phone",
+        "questions": [
+            {
+                "question": "How satisfied were you in each of the following areas?",
+                "areas": [
+                    {
+                        "area": "Ease of Contact",
+                        "criteria": [
+                            {
+                                "criterion": "Ability to get through on first call",
+                                "response": "Somewhat Dissatisfied"
+                            },
+                            {
+                                "criterion": "Satisfaction with telephone recording",
+                                "response": "Not Answered"
+                            },
+                            {
+                                "criterion": "If put on hold, length of time on hold",
+                                "response": "Not Answered"
+                            }
+                        ]
+                    },
+                    {
+                        "area": "Personnel",
+                        "criteria": [
+                            {
+                                "criterion": "Courtesy",
+                                "response": "Very Satisfied"
+                            },
+                            {
+                                "criterion": "Professionalism",
+                                "response": "Not Answered"
+                            },
+                            {
+                                "criterion": "Knowledge",
+                                "response": "Not Answered"
+                            },
+                            {
+                                "criterion": "Authority to resolve problem",
+                                "response": "Not Answered"
+                            }
+                        ]
+                    },
+                    {
+                        "area": "Response",
+                        "criteria": [
+                            {
+                                "criterion": "Timeliness",
+                                "response": "Not Answered"
+                            },
+                            {
+                                "criterion": "Clarity",
+                                "response": "Not Answered"
+                            },
+                            {
+                                "criterion": "Helpfulness",
+                                "response": "Not Answered"
+                            },
+                            {
+                                "criterion": "Follow through on promised action",
+                                "response": "Very Dissatisfied"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "question": "Which ONE of the following statements BEST describes the way you feel about the action taken by the R.J. Reynolds Consumer Relations Department to respond to your request for assistance?",
+                "response": "I was NOT completely satisfied but the action taken was acceptable"
+            },
+            {
+                "question": "Based on how well you were treated by our representative, will you continue to purchase the brand of cigarettes you contacted us about?",
+                "response": "Definitely Would Not"
+            },
+            {
+                "question": "Would you recommend this brand of cigarettes to an adult smoker (21 years of age or older)?",
+                "response": "Not Answered"
+            }
+        ],
+        "additional_comments": "Neser"
+    }
+}

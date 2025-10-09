@@ -1,0 +1,181 @@
+{
+    "survey": {
+        "questions": [
+            {
+                "id": 1,
+                "question": "What is your regular brand of cigarettes-that is, the brand you smoke most often?"
+            },
+            {
+                "id": 2,
+                "question": "Is your regular brand...",
+                "options": [
+                    "Regular/King Size",
+                    "100's",
+                    "120's"
+                ]
+            },
+            {
+                "id": 3,
+                "question": "Is your regular brand...",
+                "options": [
+                    "Menthol",
+                    "Non-Menthol"
+                ]
+            },
+            {
+                "id": 4,
+                "question": "Is your regular brand...?",
+                "options": [
+                    "Filter",
+                    "Non-Filter"
+                ]
+            },
+            {
+                "id": 5,
+                "question": "Is your regular brand...?",
+                "options": [
+                    "Lowest/1 mg Tar",
+                    "Medium",
+                    "Ultra/Extra Low Tar",
+                    "Full Flavor",
+                    "Light/Mild"
+                ]
+            },
+            {
+                "id": 6,
+                "question": "Do you usually buy it by the...?",
+                "options": [
+                    "Pack",
+                    "Carton",
+                    "Both Ways"
+                ]
+            },
+            {
+                "id": 7,
+                "question": "How long have you smoked this brand?",
+                "options": [
+                    "Less than 1 year",
+                    "1 to 2 years",
+                    "2 to 3 years",
+                    "3 to 5 years",
+                    "Over 5 years"
+                ]
+            },
+            {
+                "id": 8,
+                "question": "What, if any, was your previous brand?"
+            },
+            {
+                "id": 9,
+                "question": "The next time you go to the store, if your regular brand were not available, what would you do?",
+                "options": [
+                    "Go to another store to buy my regular brand",
+                    "Buy another type or length of my regular brand",
+                    "Wait until the store has my regular brand",
+                    "Buy a different brand entirely"
+                ]
+            },
+            {
+                "id": 10,
+                "question": "Which of the following statements best describes the way you use cigarette coupons?",
+                "options": [
+                    "I use almost any cigarette coupon I get",
+                    "I occasionally use coupons for cigarettes, even if they are not for my regular brand",
+                    "I only use coupons if they are for my regular brand",
+                    "I never use coupons to buy cigarettes"
+                ]
+            },
+            {
+                "id": 11,
+                "question": "How often do you use special in-store cigarette offers, such as a free gift with purchase, a 2-for-1, or special prices?",
+                "options": [
+                    "Frequently",
+                    "Occasionally",
+                    "Never"
+                ]
+            },
+            {
+                "id": 12,
+                "question": "If your regular brand were not available, what other brands would you consider buying?",
+                "options": [
+                    "Alpine",
+                    "Basic",
+                    "Doral",
+                    "GPC",
+                    "Now",
+                    "Benson & Hedges",
+                    "Best Buy",
+                    "Best Value",
+                    "Bristol",
+                    "Cambridge",
+                    "Camel",
+                    "Capri",
+                    "Carlton",
+                    "Magna",
+                    "Marlboro",
+                    "Merit",
+                    "Misty",
+                    "Monarch",
+                    "Montclair",
+                    "More",
+                    "Newport",
+                    "Pall Mall",
+                    "Parliament",
+                    "Pyramid",
+                    "Raleigh",
+                    "Salem",
+                    "Superslims",
+                    "True",
+                    "Vantage",
+                    "Viceroy",
+                    "Virginia Slims",
+                    "Store Brand/Generic"
+                ]
+            },
+            {
+                "id": 13,
+                "question": "Please list all the brands of cigarettes you smoked and how many packs did you smoke of each brand?"
+            },
+            {
+                "id": 14,
+                "question": "Which of the following best describes you?",
+                "options": [
+                    "White",
+                    "American Indian",
+                    "Asian",
+                    "African-American",
+                    "Hispanic",
+                    "Other"
+                ]
+            },
+            {
+                "id": 15,
+                "question": "Is there another smoker in your household 21 years of age or older? Please print full name, birthdate, and regular brand."
+            },
+            {
+                "id": 16,
+                "question": "Would you be interested in receiving information about issues that affect smokers?",
+                "options": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            {
+                "id": 17,
+                "question": "Would you be interested in joining a smokers' group to help protect your right to smoke?",
+                "options": [
+                    "Yes",
+                    "No"
+                ]
+            }
+        ],
+        "personal_info": {
+            "signature": "required",
+            "birthdate": "required",
+            "contact": {
+                "address": "29 Vcorhis Drive, Old Bethpage, NY 11804-1025",
+                "phone": "2024748035"
+            }
+        }
+    }
+}

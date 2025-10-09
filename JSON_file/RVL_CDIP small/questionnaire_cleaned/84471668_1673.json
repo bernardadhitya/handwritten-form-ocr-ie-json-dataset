@@ -1,0 +1,66 @@
+{
+    "company": "COUNICUS, INC.",
+    "gender": "Male",
+    "age": 5,
+    "location": {
+        "city": "Chicago",
+        "project": "Project LLD-7"
+    },
+    "interview": {
+        "gender": "Female",
+        "age": -2,
+        "city": "New York",
+        "date": "April, 1978",
+        "additional_city": "San Francisco",
+        "group": "GROUP",
+        "interviewed_by": "AM",
+        "validated_by": "PM",
+        "address": {
+            "city_town": "AM"
+        }
+    },
+    "survey": {
+        "introduction": "Hello, I'm from Communicus, a consumer opinion firm. We are conducting a survey and would like to include you.",
+        "questions": [
+            {
+                "question": "Do you smoke filter, non-menthol cigarettes?",
+                "answers": {
+                    "yes": "CONTINUE",
+                    "no": "TERMINATE"
+                }
+            },
+            {
+                "question": "How many cigarettes do you usually smoke per day?",
+                "answers": {
+                    "6-0": "TERMINATE",
+                    "10-15": "7-1",
+                    "16-25": "-2",
+                    "more_than_25": "C"
+                }
+            },
+            {
+                "question": "What is your regular brand of cigarettes, that is, the one brand you smoke most often?",
+                "answer": "Marllsro",
+                "note": "REFER TO LIST OF BRANDS. IF BRAND GIVEN IS FROM QUOTA 1, THEN CIRCLE -2. IF FROM QUOTA 2 THEN CIRCLE -2."
+            },
+            {
+                "question": "Which of the following statements apply to you?",
+                "statements": {
+                    "A": "I eat dinner in a restaurant at least once a month.",
+                    "B": "I read a daily newspaper.",
+                    "C": "I do most of the food shopping for myself and/or my family.",
+                    "D": "I have taken an airline trip on a scheduled commercial airline in the past 12 months."
+                }
+            },
+            {
+                "question": "Into which of the following age groups do you fall?",
+                "age_groups": {
+                    "under_21": "TERMINATE",
+                    "21-34": "9-",
+                    "35-65": "",
+                    "65+": "TERMINATE"
+                }
+            }
+        ]
+    }
+}

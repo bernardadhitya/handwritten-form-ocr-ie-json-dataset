@@ -1,0 +1,24 @@
+{
+    "code": "FB96SHNC",
+    "page": "3/3",
+    "odicode": "PM15 OKLAHOMA",
+    "targets": "FULLHOUSE-ANE",
+    "troops": "RETAILERS",
+    "issue": "REPEAL OF UNIFORMITY LAW",
+    "draft": "01/30/96 5:00 PM ET",
+    "script": {
+        "introduction": "Good morning/afternoon/evening, my name is TsR-uso. May I please speak with Mr./Mrs./Ms. [constituent]? (If constituent is unavailable, find out when they would be available.)",
+        "awareness_question": "Are you aware that the State Legislature is proposing legislation which, if enacted, would eliminate the current uniform statewide law regarding the retail sale of tobacco products?",
+        "awareness_response": "IF YES OR NO",
+        "impact_statement": "If this proposal is passed, local governments would have the authority to create new regulations for the retail sales of cigarettes. As a result, retailers may no longer be able to compete on a level playing field. Your business may be at a significant disadvantage compared to those in neighboring communities who are not subjected to any new restrictions.",
+        "opposition_question": "Are you opposed to the repeal of the statewide law that could have a negative economic impact on your business?",
+        "call_to_action": {
+            "if_yes": "This proposal could be voted on within the next several weeks so it is important to call your legislator and let him/her know that a repeal of the statewide uniformity law can be bad for business.",
+            "if_yes_will_call_legislator": "Great! Do you have a pen and paper ready? TSR INSTRUCTION: PLEASE WAIT FOR CONTACT TO GET A PEN AND PAPER. YOU WILL BE GIVING OUT BSA REP AND SENATOR'S NAME. Representative [NAME]'s phone number at the Capitol is XXX-XXX-XXXX and Senator [NAME]'s phone number at the Capitol is XXX-XXX-XXXX. When you reach his/her office, let them know this proposal could create an unfair economic burden to retailers in your community. The current state law is working fine and should not be changed. If he/she is not available, please leave a message with his/her assistant."
+        },
+        "another_action": "Thank you for your time. Good-bye.",
+        "if_irate_or_hostile": "I am sorry to have disturbed you. Good-bye.",
+        "tsr_instruction": "Give capitol number to constituents who understand the issue, are articulate, polite, and who strongly oppose a repeal."
+    },
+    "contact_number": "2048394150"
+}

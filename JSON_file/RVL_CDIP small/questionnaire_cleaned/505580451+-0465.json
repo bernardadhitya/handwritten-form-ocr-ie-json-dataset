@@ -1,0 +1,35 @@
+{
+    "name": "Bellomy-Carrigg",
+    "location": "UNIVERSITY PARKWAY, Winston-Salem, NC 2710",
+    "job": "Job0906",
+    "address": "2913 Stanwuck, Nashville, TN 37207",
+    "area_code_phone": "8-09",
+    "date": "09/04",
+    "interviewed_by": "Sm",
+    "survey": {
+        "target": "Women 18+ years or older",
+        "age_groups": {
+            "under_18": "Terminate, erase and re-use",
+            "18-24": "Check quota to determine if needed",
+            "25-34": "Check quota to determine if needed",
+            "35-49": "Check quota to determine if needed",
+            "50+": "Check quota to determine if needed",
+            "refused": "Terminate, erase and re-use"
+        },
+        "daily_products": {
+            "breathmints": false,
+            "mouthwash": false,
+            "cigarettes": true,
+            "gel_toothpaste": false,
+            "cream_toothpaste": false
+        },
+        "brands_used_past_week": [
+            "Certs breathmints",
+            "Clorets breathmints",
+            "Topal toothpaste",
+            "Aqua Fresh toothpaste",
+            "Clinomint",
+            "Scope"
+        ]
+    }
+}
