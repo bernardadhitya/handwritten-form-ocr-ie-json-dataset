@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2466" height="3502">00376_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Modification de contrat / Commande</scenario>
+  <writer>GALLIER Gilbert</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="215" top_left_y="416" bottom_right_x="782" bottom_right_y="559">
+       <type>Code d'envoi</type>
+       <text>UVMQMA</text>
+  </box>
+  <box top_left_x="450" top_left_y="581" bottom_right_x="1271" bottom_right_y="688">
+       <type>Nom</type>
+       <text>Gallier</text>
+  </box>
+  <box top_left_x="1468" top_left_y="582" bottom_right_x="2254" bottom_right_y="686">
+       <type>Prénom</type>
+       <text>Gilbert</text>
+  </box>
+  <box top_left_x="533" top_left_y="684" bottom_right_x="2259" bottom_right_y="779">
+       <type>Adresse</type>
+       <text>16 rue du moulin</text>
+  </box>
+  <box top_left_x="611" top_left_y="786" bottom_right_x="1036" bottom_right_y="893">
+       <type>Code Postal</type>
+       <text>57300</text>
+  </box>
+  <box top_left_x="1160" top_left_y="780" bottom_right_x="2260" bottom_right_y="890">
+       <type>Ville</type>
+       <text>AY SUR MOSELLE</text>
+  </box>
+  <box top_left_x="416" top_left_y="899" bottom_right_x="1302" bottom_right_y="1048">
+       <type>Téléphone</type>
+       <text>0346875020</text>
+  </box>
+  <box top_left_x="557" top_left_y="1170" bottom_right_x="2258" bottom_right_y="1285">
+       <type>Catégorie Scénario</type>
+       <text>modification de contrat/commande</text>
+  </box>
+  <box top_left_x="337" top_left_y="1281" bottom_right_x="2257" bottom_right_y="1462">
+       <type>Objet Scénario</type>
+       <text>demande de mensualisation de l'¤{impot/impôt}¤ sur\nle revenu</text>
+  </box>
+  <box top_left_x="329" top_left_y="1459" bottom_right_x="2257" bottom_right_y="1649">
+       <type>Complément Scénario</type>
+       <text>\n</text>
+  </box>
+  <box top_left_x="961" top_left_y="1667" bottom_right_x="1607" bottom_right_y="1819">
+       <type>Référence client</type>
+       <text>GRKUG56</text>
+  </box>
+  <box top_left_x="632" top_left_y="1816" bottom_right_x="2260" bottom_right_y="1914">
+       <type>Interlocuteur</type>
+       <text>trésorerie des ¤{impots/impôts}¤</text>
+  </box>
+  <box top_left_x="541" top_left_y="1908" bottom_right_x="2257" bottom_right_y="2013">
+       <type>Adresse Interlocuteur</type>
+       <text>1 Boulevard Maurice Violette</text>
+  </box>
+  <box top_left_x="620" top_left_y="2009" bottom_right_x="1055" bottom_right_y="2129">
+       <type>Code Postal Interlocuteur</type>
+       <text>28000</text>
+  </box>
+  <box top_left_x="1190" top_left_y="2007" bottom_right_x="2260" bottom_right_y="2109">
+       <type>Ville Interlocuteur</type>
+       <text>Chartres</text>
+  </box>
+  <box top_left_x="1108" top_left_y="2347" bottom_right_x="1327" bottom_right_y="2458">
+       <type>Temps passé</type>
+       <text>35</text>
+  </box>
+  <box top_left_x="926" top_left_y="2290" bottom_right_x="1029" bottom_right_y="2337">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1129" top_left_y="2283" bottom_right_x="1179" bottom_right_y="2334">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1348" top_left_y="2282" bottom_right_x="1402" bottom_right_y="2334">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="351" top_left_y="2757" bottom_right_x="393" bottom_right_y="2806">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1659" top_left_y="2702" bottom_right_x="2271" bottom_right_y="2815">
+       <type>Date d'envoi postal</type>
+       <text>29/09/06</text>
+  </box>
+  <box top_left_x="345" top_left_y="2852" bottom_right_x="389" bottom_right_y="2902">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="344" top_left_y="2947" bottom_right_x="393" bottom_right_y="2997">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1805" top_left_y="2874" bottom_right_x="2264" bottom_right_y="2995">
+       <type>Date d'envoi par fax</type>
+       <text>29/09/06</text>
+  </box>
+  <box top_left_x="351" top_left_y="3041" bottom_right_x="394" bottom_right_y="3091">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1659" top_left_y="2995" bottom_right_x="2266" bottom_right_y="3101">
+       <type>Date d'envoi par courriel</type>
+       <text>28/09/06</text>
+  </box>
+  <box top_left_x="1802" top_left_y="3193" bottom_right_x="2073" bottom_right_y="3288">
+       <type>Résolution</type>
+       <text>149</text>
+  </box>
+  <box top_left_x="597" top_left_y="3229" bottom_right_x="669" bottom_right_y="3279">
+       <type>Format PNG</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="830" top_left_y="3226" bottom_right_x="883" bottom_right_y="3277">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1015" top_left_y="3225" bottom_right_x="1065" bottom_right_y="3276">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1129" top_left_y="3094" bottom_right_x="2267" bottom_right_y="3199">
+       <type>Marque et modèle scanner</type>
+       <text>Canon pixma MP 110</text>
+  </box>
+</annotation>
