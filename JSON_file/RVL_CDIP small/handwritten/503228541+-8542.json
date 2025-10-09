@@ -1,0 +1,32 @@
+{
+    "subject": "CIGARETTE FILTER EVALUATION",
+    "code": "697H",
+    "onqor": "703",
+    "id": "146006",
+    "author": "C. Rohsit Lioy",
+    "pages": "145954-145955",
+    "purpose": "The purpose of this work was to evaluate the focus of the method.",
+    "procedure": "The test by removing a section plug and replacing with 12mm wood. The procedure tested the impact in diameter and compressed to the normal filter. The cigarettes were selected by measuring and some to determine total smoke solids.",
+    "results": {
+        "description": "Total smoke sample high low",
+        "values": [
+            {
+                "sample": "50mm3RNEO",
+                "scuos": "-66-4",
+                "value1": 3.58338,
+                "value2": 3.5,
+                "value3": 8.8,
+                "value4": 9.7
+            },
+            {
+                "sample": "LL-66-4-3(CONTROL)",
+                "value1": 5.64,
+                "value2": 3.523,
+                "value3": 3.57,
+                "value4": 8.8,
+                "value5": 185
+            }
+        ]
+    },
+    "summary": "Winston cigarettes were prepared by replacing 12mm of the section plug with foam rubber. The form was compressed. Ten cigarettes were prepared."
+}
