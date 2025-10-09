@@ -1,0 +1,37 @@
+{
+    "mailingList": {
+        "address": {
+            "POBox": "B45",
+            "city": "Winston-Salem",
+            "state": "NC",
+            "zip": "8103-0345"
+        },
+        "message": "Thank you for sending the catalog. My name and address was correct on the outside but wrong on the inside."
+    },
+    "outsideAddress": {
+        "name": "Catherine Thomason",
+        "POBox": "895",
+        "city": "Vinemont",
+        "state": "AL",
+        "zip": "35179-0095"
+    },
+    "insideAddress": {
+        "name": "Serf Federic",
+        "address": "Highway 31",
+        "city": "Vinemont",
+        "zip": "35179-598"
+    },
+    "orderInquiry": {
+        "message": "I would like to order something but don't know if I should use the order form. Scared that my order would be sent to the store on ice. Please make a correction. Thank you very much!",
+        "name": "Catherine D. Thomason",
+        "address": "Doi Bwy 895",
+        "city": "Vinemont",
+        "state": "AL",
+        "zip": "35179-0095",
+        "code": "52281"
+    },
+    "payment": {
+        "method": "Cash",
+        "amount": "3121"
+    }
+}
