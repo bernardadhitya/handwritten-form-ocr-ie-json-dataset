@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2472" height="3506">02520_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Réclamation</scenario>
+  <writer>LAFONTAINE Jean-philippe</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="178" top_left_y="365" bottom_right_x="738" bottom_right_y="506">
+       <type>Code d'envoi</type>
+       <text>OMNQJK</text>
+  </box>
+  <box top_left_x="411" top_left_y="528" bottom_right_x="1223" bottom_right_y="633">
+       <type>Nom</type>
+       <text>LAFONTAINE</text>
+  </box>
+  <box top_left_x="1416" top_left_y="528" bottom_right_x="2193" bottom_right_y="630">
+       <type>Prénom</type>
+       <text>Jean Philippe</text>
+  </box>
+  <box top_left_x="494" top_left_y="630" bottom_right_x="2201" bottom_right_y="722">
+       <type>Adresse</type>
+       <text>19, rue du BOIS</text>
+  </box>
+  <box top_left_x="572" top_left_y="730" bottom_right_x="994" bottom_right_y="837">
+       <type>Code Postal</type>
+       <text>88350</text>
+  </box>
+  <box top_left_x="1115" top_left_y="724" bottom_right_x="2209" bottom_right_y="831">
+       <type>Ville</type>
+       <text>GRAND</text>
+  </box>
+  <box top_left_x="378" top_left_y="844" bottom_right_x="1258" bottom_right_y="992">
+       <type>Téléphone</type>
+       <text>0325394684</text>
+  </box>
+  <box top_left_x="518" top_left_y="1114" bottom_right_x="2198" bottom_right_y="1229">
+       <type>Catégorie Scénario</type>
+       <text>¤{Reclamation/Réclamation}¤</text>
+  </box>
+  <box top_left_x="301" top_left_y="1225" bottom_right_x="2198" bottom_right_y="1405">
+       <type>Objet Scénario</type>
+       <text>Vous souhaitez vous faire rembourser\n</text>
+  </box>
+  <box top_left_x="294" top_left_y="1403" bottom_right_x="2201" bottom_right_y="1591">
+       <type>Complément Scénario</type>
+       <text>Le produit livré est ¤{defectueux/défectueux}¤\n</text>
+  </box>
+  <box top_left_x="921" top_left_y="1611" bottom_right_x="1561" bottom_right_y="1760">
+       <type>Référence client</type>
+       <text>OJQQJ62</text>
+  </box>
+  <box top_left_x="595" top_left_y="1759" bottom_right_x="2211" bottom_right_y="1854">
+       <type>Interlocuteur</type>
+       <text>Sépa FR ¤{Telephonie/Téléphonie}¤</text>
+  </box>
+  <box top_left_x="506" top_left_y="1849" bottom_right_x="2211" bottom_right_y="1953">
+       <type>Adresse Interlocuteur</type>
+       <text></text>
+  </box>
+  <box top_left_x="585" top_left_y="1947" bottom_right_x="1016" bottom_right_y="2067">
+       <type>Code Postal Interlocuteur</type>
+       <text>24520</text>
+  </box>
+  <box top_left_x="1150" top_left_y="1948" bottom_right_x="2211" bottom_right_y="2049">
+       <type>Ville Interlocuteur</type>
+       <text>LAMONZIE MONTASTRUC</text>
+  </box>
+  <box top_left_x="1067" top_left_y="2287" bottom_right_x="1282" bottom_right_y="2397">
+       <type>Temps passé</type>
+       <text>8</text>
+  </box>
+  <box top_left_x="888" top_left_y="2226" bottom_right_x="990" bottom_right_y="2275">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1088" top_left_y="2222" bottom_right_x="1137" bottom_right_y="2274">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1302" top_left_y="2223" bottom_right_x="1355" bottom_right_y="2275">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="302" top_left_y="2688" bottom_right_x="393" bottom_right_y="2756">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1609" top_left_y="2645" bottom_right_x="2209" bottom_right_y="2759">
+       <type>Date d'envoi postal</type>
+       <text>05/02/07</text>
+  </box>
+  <box top_left_x="308" top_left_y="2787" bottom_right_x="392" bottom_right_y="2839">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="308" top_left_y="2883" bottom_right_x="394" bottom_right_y="2935">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1751" top_left_y="2820" bottom_right_x="2202" bottom_right_y="2937">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="304" top_left_y="2977" bottom_right_x="394" bottom_right_y="3040">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1607" top_left_y="2940" bottom_right_x="2204" bottom_right_y="3042">
+       <type>Date d'envoi par courriel</type>
+       <text>03/02/07</text>
+  </box>
+  <box top_left_x="1749" top_left_y="3136" bottom_right_x="2015" bottom_right_y="3231">
+       <type>Résolution</type>
+       <text>200</text>
+  </box>
+  <box top_left_x="562" top_left_y="3154" bottom_right_x="646" bottom_right_y="3231">
+       <type>Format PNG</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="793" top_left_y="3164" bottom_right_x="845" bottom_right_y="3214">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="975" top_left_y="3164" bottom_right_x="1025" bottom_right_y="3214">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1086" top_left_y="3038" bottom_right_x="2206" bottom_right_y="3138">
+       <type>Marque et modèle scanner</type>
+       <text>HP PSC 1510 Tout-en-un</text>
+  </box>
+</annotation>
