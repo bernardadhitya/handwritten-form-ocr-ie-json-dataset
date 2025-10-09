@@ -1,0 +1,57 @@
+{
+    "q1581": "Aow kewe Smokenknthol",
+    "STD": {
+        "1mq/ml": 1.084,
+        "0.1mq/ml": 0.101,
+        "0.01mq/ml": 0.012
+    },
+    "Samples": [
+        {
+            "id": "L-1623-B3",
+            "puff_count": 155,
+            "smallpad": {
+                "value": 0.01
+            },
+            "largepad": {
+                "value": 0.03,
+                "result": 0.23625
+            }
+        },
+        {
+            "id": "L-16263-B3",
+            "puff_count": 158,
+            "smallpad": {
+                "value": 0.005,
+                "result": 0.6125
+            },
+            "largepad": {
+                "value": 0.653,
+                "result": 0.19875
+            }
+        },
+        {
+            "id": "L-16263-C3",
+            "puff_count": 178,
+            "smallpad": {
+                "value": 0.006,
+                "result": 0.015
+            },
+            "largepad": {
+                "value": 0.07,
+                "result": 0.2425
+            },
+            "additional_smallpad": {
+                "value": 0.007,
+                "result": 0.0175
+            },
+            "additional_largepad": {
+                "value": 0.063,
+                "result": 0.33625
+            }
+        }
+    ],
+    "values": [
+        50890,
+        6487
+    ]
+}
