@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2470" height="3503">02181_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Modification de contrat / Commande</scenario>
+  <writer>CALMEL Laurie</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="86" top_left_y="284" bottom_right_x="685" bottom_right_y="439">
+       <type>Code d'envoi</type>
+       <text>LMPOGQ</text>
+  </box>
+  <box top_left_x="334" top_left_y="455" bottom_right_x="1203" bottom_right_y="573">
+       <type>Nom</type>
+       <text>CALMEL</text>
+  </box>
+  <box top_left_x="1411" top_left_y="448" bottom_right_x="2241" bottom_right_y="563">
+       <type>Prénom</type>
+       <text>Laurie</text>
+  </box>
+  <box top_left_x="423" top_left_y="558" bottom_right_x="2246" bottom_right_y="668">
+       <type>Adresse</type>
+       <text>6 rue des écoles</text>
+  </box>
+  <box top_left_x="505" top_left_y="674" bottom_right_x="953" bottom_right_y="789">
+       <type>Code Postal</type>
+       <text>68560</text>
+  </box>
+  <box top_left_x="1085" top_left_y="661" bottom_right_x="2245" bottom_right_y="781">
+       <type>Ville</type>
+       <text>HIRSINGUE</text>
+  </box>
+  <box top_left_x="300" top_left_y="793" bottom_right_x="1233" bottom_right_y="953">
+       <type>Téléphone</type>
+       <text>0358079750</text>
+  </box>
+  <box top_left_x="449" top_left_y="1082" bottom_right_x="2235" bottom_right_y="1207">
+       <type>Catégorie Scénario</type>
+       <text>Modification Contrat/Commande</text>
+  </box>
+  <box top_left_x="220" top_left_y="1201" bottom_right_x="2233" bottom_right_y="1399">
+       <type>Objet Scénario</type>
+       <text>Commande de trois paires de chaussettes\n(ref : 6445-12)</text>
+  </box>
+  <box top_left_x="212" top_left_y="1392" bottom_right_x="2229" bottom_right_y="1596">
+       <type>Complément Scénario</type>
+       <text>\n</text>
+  </box>
+  <box top_left_x="876" top_left_y="1614" bottom_right_x="1553" bottom_right_y="1774">
+       <type>Référence client</type>
+       <text>JCQWM79</text>
+  </box>
+  <box top_left_x="532" top_left_y="1771" bottom_right_x="2239" bottom_right_y="1873">
+       <type>Interlocuteur</type>
+       <text>LA REBOUTE</text>
+  </box>
+  <box top_left_x="438" top_left_y="1867" bottom_right_x="2238" bottom_right_y="1977">
+       <type>Adresse Interlocuteur</type>
+       <text>34 rue de castres</text>
+  </box>
+  <box top_left_x="521" top_left_y="1972" bottom_right_x="977" bottom_right_y="2099">
+       <type>Code Postal Interlocuteur</type>
+       <text>34610</text>
+  </box>
+  <box top_left_x="1120" top_left_y="1972" bottom_right_x="2238" bottom_right_y="2079">
+       <type>Ville Interlocuteur</type>
+       <text>St GERVAIS S/MARE</text>
+  </box>
+  <box top_left_x="1033" top_left_y="2331" bottom_right_x="1261" bottom_right_y="2450">
+       <type>Temps passé</type>
+       <text>20</text>
+  </box>
+  <box top_left_x="842" top_left_y="2266" bottom_right_x="950" bottom_right_y="2324">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1052" top_left_y="2289" bottom_right_x="1133" bottom_right_y="2327">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1282" top_left_y="2262" bottom_right_x="1338" bottom_right_y="2318">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="239" top_left_y="2766" bottom_right_x="320" bottom_right_y="2816">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1610" top_left_y="2714" bottom_right_x="2246" bottom_right_y="2833">
+       <type>Date d'envoi postal</type>
+       <text>24/01/07</text>
+  </box>
+  <box top_left_x="238" top_left_y="2865" bottom_right_x="291" bottom_right_y="2915">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="239" top_left_y="2965" bottom_right_x="320" bottom_right_y="3017">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1761" top_left_y="2898" bottom_right_x="2239" bottom_right_y="3021">
+       <type>Date d'envoi par fax</type>
+       <text>24/01/07</text>
+  </box>
+  <box top_left_x="233" top_left_y="3063" bottom_right_x="321" bottom_right_y="3120">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1608" top_left_y="3024" bottom_right_x="2241" bottom_right_y="3133">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1758" top_left_y="3234" bottom_right_x="2040" bottom_right_y="3335">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="527" top_left_y="3261" bottom_right_x="581" bottom_right_y="3314">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="745" top_left_y="3261" bottom_right_x="800" bottom_right_y="3315">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="938" top_left_y="3262" bottom_right_x="991" bottom_right_y="3316">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1055" top_left_y="3129" bottom_right_x="2242" bottom_right_y="3235">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
