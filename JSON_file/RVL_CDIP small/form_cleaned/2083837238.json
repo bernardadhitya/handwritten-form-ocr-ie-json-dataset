@@ -1,0 +1,32 @@
+{
+    "program": "2000 Marlboro Bar Program",
+    "contractTopSheet": {
+        "gmmssm": "Todd Shoemaker",
+        "market": "Los Angeles",
+        "venue": {
+            "name": "Trocadero",
+            "id": "LAX-0240-03"
+        },
+        "clubType": {
+            "event": true,
+            "visibility": true,
+            "music": "RNB"
+        },
+        "venueAdmissionPolicy": [
+            "A018-P",
+            "A021-P",
+            "PAO-P",
+            "A018-V",
+            "AO21-V"
+        ],
+        "gmmSsmSignature": {
+            "signature": null,
+            "date": "4-17-00"
+        },
+        "sellInApproval": {
+            "signature": null,
+            "date": null
+        },
+        "contactNumber": "2083837238"
+    }
+}

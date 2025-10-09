@@ -1,0 +1,41 @@
+{
+    "date": "05/19/00",
+    "time": "11:22",
+    "IVP_valves": 8,
+    "product_code": "+++603TOB PROC",
+    "material_safety_data_sheet": "Graphite",
+    "department": "U.S. Department of Labor",
+    "standard": "OSHA Hazard Communication Standard",
+    "administration": "Occupational Safety and Health Administration",
+    "CFR": "29CFR1910.1200",
+    "form": "Non-Mandatory Form",
+    "form_approved": "OMB No.1218-0072",
+    "manufacturer": {
+        "name": "ChemStar Mechanical Packing Inc",
+        "emergency_telephone_number": "83-425",
+        "telephone_number_for_information": "P.O. Box 216 2110 N. Prairie Industrial Pkwy, Mulberry, Florida 33860",
+        "date_prepared": "July 13, 1991"
+    },
+    "hazardous_ingredients": {
+        "chemical_identity": "Not considered a hazardous material",
+        "ACGIH_TLV": "7671"
+    },
+    "physical_chemical_characteristics": {
+        "boiling_point": "Inert oil portion",
+        "specific_gravity": "1.2",
+        "vapor_pressure": "<",
+        "melting_point": "5tn",
+        "vapor_density": "AR=1",
+        "evaporation_rate": "Surfactant portion",
+        "appearance_and_color": "Black fiber or black and yellow fiber"
+    },
+    "fire_and_explosion_hazard_data": {
+        "flash_point": "N/A",
+        "flammable_limits": {
+            "LEL": "N/A",
+            "UEL": "Inert oil portion > 610\u00b0F"
+        },
+        "extinguishing_media": "52153",
+        "unusual_fire_and_explosion_hazards": "PTFE will burn when ignited in 100% oxygen"
+    }
+}

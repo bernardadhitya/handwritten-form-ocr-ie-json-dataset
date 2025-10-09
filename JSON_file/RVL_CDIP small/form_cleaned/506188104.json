@@ -1,0 +1,81 @@
+{
+    "document_id": "0FR-/1-04:87",
+    "company": "R.J.Reynolds Tobacco USA, Inc.",
+    "authorization_request": {
+        "subject": "Contract Research Supplement",
+        "date_routed": "11/13/87",
+        "arrn": "ARRN",
+        "originator": "D.E.Townsend",
+        "dept_ref_no": "775",
+        "start_date": "11/30/87",
+        "operational_date": "11/30/87",
+        "approval_request_summary": "This request is a supplement to the previously approved request A-87-7. Additional funds are necessary to complete the cooperative research project with CHAM of North America since the development of a mathematical model of the Alpha product is more complex than CHAM or RJRT predicted. Progress to date has been good and model completion date is January 10, 1988.",
+        "no_additional_funding": "No additional funding will be requested.",
+        "authority_requested": {
+            "previously": {
+                "capital": "124,960",
+                "expense": "124,960"
+            },
+            "this_request": {
+                "capital": "27,482",
+                "expense": "27,482"
+            },
+            "total": {
+                "capital": "152,442",
+                "expense": "152,442"
+            }
+        },
+        "authorization_type": "Contract Research/Consultation",
+        "total_request": "152,442",
+        "product_modification_introduction": "No",
+        "previous_proposals": "Other",
+        "lease_or_other_continuing_commitment": {
+            "minimum": "$",
+            "total": "$"
+        },
+        "cost_justified_at": "%ROI"
+    },
+    "finance_data": {
+        "authority_requested_covered_by": {
+            "capital": "$",
+            "expense": "$152,442"
+        },
+        "capital_id": "",
+        "budgeted_department_no": "780",
+        "project_id": "",
+        "funds_required_from": {
+            "department_no": "",
+            "expense_code": "04-90-0218-9010-780",
+            "corporate": "$"
+        }
+    },
+    "financial_impact": {
+        "1987": "$152,442",
+        "thereafter": "Average Operating Earnings/(Loss)"
+    },
+    "corporate_funds_requested": "$",
+    "reviews_approvals": {
+        "approvals": [
+            {
+                "initials": "DET",
+                "date": "/23/87",
+                "signature": "",
+                "dept_initials": "WMH",
+                "svp_r&d": "MES",
+                "grd": "",
+                "npt_r&d": "3/8",
+                "cfo": "RAL",
+                "mkt_pln": "",
+                "operations": "RIR",
+                "law": "",
+                "fin_admin": "GAB",
+                "sls": "",
+                "pres_ceo": ""
+            }
+        ]
+    },
+    "implementor_project_manager": "D.E.Townsend",
+    "project_client_representative": "B.C.Moody",
+    "department_management": "R.A.Lloyd",
+    "form": "RJRT Form 8711-Rev.01/87"
+}

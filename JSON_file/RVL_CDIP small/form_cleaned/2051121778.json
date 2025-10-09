@@ -1,0 +1,70 @@
+{
+    "LegalCounselApproval": "",
+    "ResponsibleRecordsManagementGroupApproval": "",
+    "AuthorizedSignature": "",
+    "NameOfDepartment": "",
+    "From": "",
+    "To": "",
+    "RequestedRevision": {
+        "CRC": "",
+        "CRP": "",
+        "DEL": ""
+    },
+    "Note": "Attach a description of records in each new category requested and reasons for any suggested retention period. You will receive a response with reasons for denial of requested additions or changes.",
+    "Records": [
+        {
+            "Category": "CONTRACTS & AGREEMENTS - UNOFFICIAL COPIES",
+            "Code": "O1ERSP17",
+            "Description": "Security",
+            "RetentionPeriod": {
+                "InDept": "M+2",
+                "InStorage": "C+3",
+                "Total": ""
+            }
+        },
+        {
+            "Category": "ALARM SHEETS",
+            "Code": "",
+            "Description": "",
+            "RetentionPeriod": {
+                "InDept": "",
+                "InStorage": "",
+                "Total": ""
+            }
+        },
+        {
+            "Category": "MANPOWER PLANNING",
+            "Code": "",
+            "Description": "",
+            "RetentionPeriod": {
+                "InDept": "",
+                "InStorage": "",
+                "Total": ""
+            }
+        }
+    ],
+    "RetentionScheduleMaintenanceForm": {
+        "RecordCategory": "",
+        "ForRecordsManagementUse": "",
+        "RequestedRevisionCodes": {
+            "ADD": "Add to the records retention schedule",
+            "CRC": "Change the retention period for a category",
+            "CRP": "Change the record category description",
+            "DEL": "Delete from the records retention schedule"
+        }
+    },
+    "ResponsibleRecordsManagementGroup": "",
+    "RetentionPeriod": {
+        "ACT": "K+2",
+        "C+3": "",
+        "Total": ""
+    },
+    "Date": "",
+    "RecordsCoordinator": "",
+    "DepartmentHead": "",
+    "Code": {
+        "C0616": "",
+        "A0343": "",
+        "MO335": ""
+    }
+}

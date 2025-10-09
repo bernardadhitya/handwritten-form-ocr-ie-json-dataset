@@ -1,0 +1,98 @@
+{
+    "contractResearchCenter": "CRC CONTRACT RESEARCH CENTER",
+    "form": "FORM17CW91",
+    "department": "DRD/MCM",
+    "project": {
+        "name": "PERFORMIOLOADETERMIN",
+        "farmApproved": true,
+        "description": "SAMPLE COLLECTION FOR THE DETERMINATION",
+        "projectNumber": "ANMON"
+    },
+    "sampleSite": "Day of study: 33",
+    "samples": [
+        {
+            "group": 1,
+            "code": "11.21",
+            "standardTime": {
+                "start": "1251",
+                "end": "q0"
+            },
+            "duration": 1.5,
+            "flow": null,
+            "remarks": null
+        },
+        {
+            "group": 2,
+            "code": "M.21",
+            "standardTime": {
+                "start": "12.51",
+                "end": "90"
+            },
+            "duration": 15,
+            "flow": null,
+            "remarks": null
+        },
+        {
+            "group": 3,
+            "code": "CR",
+            "standardTime": {
+                "start": "M21",
+                "end": "12.5"
+            },
+            "duration": 90,
+            "flow": "AS",
+            "remarks": null
+        },
+        {
+            "group": 4,
+            "code": "eR",
+            "standardTime": {
+                "start": "M21",
+                "end": "19.51"
+            },
+            "duration": "go",
+            "flow": "A5",
+            "remarks": null
+        },
+        {
+            "group": 5,
+            "code": "M21",
+            "standardTime": {
+                "start": "12.5",
+                "end": "go"
+            },
+            "duration": "A.S",
+            "flow": null,
+            "remarks": null
+        },
+        {
+            "group": 6,
+            "code": "eR",
+            "standardTime": {
+                "start": "11.2",
+                "end": "19.51"
+            },
+            "duration": 0.6,
+            "flow": 1.5,
+            "remarks": null
+        },
+        {
+            "group": "O.CR",
+            "code": "M",
+            "standardTime": {
+                "start": "19.51",
+                "end": "90"
+            },
+            "duration": "AS",
+            "flow": null,
+            "remarks": null
+        }
+    ],
+    "additionalInfo": {
+        "number": "2505122440",
+        "date": "5Jne 91",
+        "initials": "M",
+        "code": "429",
+        "extra": "061E"
+    }
+}

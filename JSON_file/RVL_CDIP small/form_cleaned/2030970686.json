@@ -1,0 +1,58 @@
+{
+    "REV": "2/01",
+    "LAB_SERVICES": {
+        "Parameter": {
+            "Time_OOC": 6,
+            "OOC": "PG_STD_CONC.",
+            "Values": [
+                {
+                    "Value": 28.6,
+                    "Code": 814,
+                    "Identifier": "8HL"
+                },
+                {
+                    "Value": 19.0,
+                    "Code": "14a",
+                    "Identifier": 748
+                },
+                {
+                    "Value": 28.4,
+                    "Code": 304,
+                    "Identifier": 1070
+                },
+                {
+                    "Value": 34.1,
+                    "Code": "Lt",
+                    "Identifier": 195
+                },
+                {
+                    "Value": "3a.1",
+                    "Code": 43,
+                    "Identifier": 195
+                },
+                {
+                    "Value": 43,
+                    "Code": 196
+                },
+                {
+                    "Value": 25.8,
+                    "Code": 50,
+                    "Identifier": "tbl"
+                },
+                {
+                    "Value": "QH.",
+                    "Code": 38,
+                    "Identifier": 90
+                }
+            ]
+        },
+        "PG_SANPLE_PREP_TIME": 5,
+        "PG_SHAKER_TIME": 5,
+        "ESS_ACCURACY": 107,
+        "CONS_ACCURACY": {
+            "REFINED": 5,
+            "UNREF": "CC"
+        },
+        "CC": 0.0370636
+    }
+}

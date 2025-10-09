@@ -1,0 +1,88 @@
+{
+    "Fotim": "6957-Rev.9/81",
+    "Company": "R.J.REYNOLDS TOBACCO COMPANY",
+    "AuthorizationRequest": {
+        "Date": "8-2-82",
+        "RefNo": "82-494",
+        "Subject": "FLAVOR INGREDIENTS MODIFICATION",
+        "RelatedPreviousProposals": {
+            "RefNos": []
+        },
+        "AuthorizationRequested": {
+            "ExpenseChange": false,
+            "ProductIntroduction": false,
+            "RawMaterials": false,
+            "NewProduct": false,
+            "SalaryWageScales": false,
+            "BrandExtension": false,
+            "FringeBenefits": false,
+            "Headcount": false,
+            "ProductModification": true,
+            "Commitment": false,
+            "Other": false,
+            "ChangeFrom": "Yes",
+            "No": "No",
+            "CapitalExpenditure": false,
+            "PolicyChange": false,
+            "OperatingPlan": false,
+            "RevisedOperatingPlan": false
+        },
+        "AmountRequested": {
+            "Total": [
+                19,
+                19,
+                19,
+                19,
+                19
+            ],
+            "Requested": [
+                "$",
+                "$",
+                "$",
+                "$",
+                "$",
+                "$"
+            ]
+        },
+        "Proposal": "This proposal is to simplify the flue-cured reconstituted flavors by removal of those related to RJRT's Flavor/Ingredient Protocol. These components are 2-acetylfuran, furfural, furfuryl alcohol, crotonic acid, isophorone, and 3,5-dimethylpyridine. The attached list indicates the brands with these flavor components. Panel test results on NOw 85, NOw 100, and without questionable components. These flavor components were originally included in formulas based on reconstitution of tobacco flavors.",
+        "Objectives": "The objective is to remove items that are of questionable status. These changes will save about $8500 in raw material costs.",
+        "ReviewedBy": [
+            {
+                "Name": "QOG.R.DiMarco",
+                "Department": "Applied R&D",
+                "Date": "8/2/82"
+            },
+            {
+                "Name": "D.H.Pieh1",
+                "Department": "Brands R&D",
+                "Date": "8/2/82"
+            },
+            {
+                "Name": "R.E.Morse",
+                "Department": "Operations",
+                "Date": "8/2/82"
+            },
+            {
+                "Name": "J.D.PhillipsR",
+                "Department": "Q.Assurance",
+                "Date": "8/2/82"
+            },
+            {
+                "Name": "C.E.Snyder",
+                "Department": "Materials Mgmt.",
+                "Date": "8/2/82"
+            }
+        ],
+        "Approvals": {
+            "Marketing": false,
+            "Manufacturing": false,
+            "FinAndAdmin": false,
+            "PresidentAndCOO": false
+        }
+    },
+    "OriginatedBy": {
+        "Name": "Milly Wong M",
+        "Department": "Applied R&D"
+    },
+    "PersonResponsibleForImplementing": "Donald L. Roberts"
+}

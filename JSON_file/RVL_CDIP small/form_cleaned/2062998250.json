@@ -1,0 +1,55 @@
+{
+    "fax": {
+        "date": "09/07/85",
+        "day": "THU",
+        "time": "16:41",
+        "number": "3154710930"
+    },
+    "company": {
+        "name": "BYRNE DAIRY-SYRACUSE",
+        "id": "001"
+    },
+    "order": {
+        "date": "SEP-05-0300",
+        "time": "16:08",
+        "from": "PHILIP MORRIS",
+        "to": "BYRNE DAIRY",
+        "page": "P.03",
+        "form": "MARLBORO ORDER FORM",
+        "promotion": "BUY SPACKS GET HREE CAMSRA -PROMOTON",
+        "stores": "BYRNE DAIRY STORES",
+        "authorized_signature": "P.M.MANAGER",
+        "manager": "Vincent Smith",
+        "territory_number": "1242-00",
+        "supplier": "SCHEIDELMAN",
+        "delivery_date": "9/18/95",
+        "products": [
+            {
+                "name": "MARL.SET.KING",
+                "quantity": 6
+            },
+            {
+                "name": "MARL. BX. KNG"
+            },
+            {
+                "name": "MARL.LT.SET.KG"
+            },
+            {
+                "name": "MARL.LT.BX.KG"
+            },
+            {
+                "name": "HCALON"
+            }
+        ],
+        "note": "These are Marlboro 5 Packnrodnct",
+        "packs_per_carton": "TOSPACKS PERCARTON",
+        "reference_number": "2062998250",
+        "transmission": {
+            "date": "09/07/95",
+            "day": "THU",
+            "time": "1608",
+            "tx_rx_number": "8682",
+            "page": "003"
+        }
+    }
+}

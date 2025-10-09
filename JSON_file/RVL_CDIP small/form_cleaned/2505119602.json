@@ -1,0 +1,66 @@
+{
+    "form": {
+        "name": "CRC CONTRACT RESEARCH CENTER",
+        "form_number": "11",
+        "approval_date": "05/96",
+        "project_number": "3271",
+        "group_code": "27CW 96",
+        "day_of_study": 6,
+        "date": "VA",
+        "group": {
+            "total_number_of_rats": 20,
+            "observations": {
+                "decreased_spontaneous_activity": true,
+                "trembling": true,
+                "partially_or_fully_closed_eyelids": true,
+                "harderian_gland_secretion": true,
+                "partially_or_fully_wet_or_moist_fur": true,
+                "abnormal_breathing": true
+            }
+        },
+        "individual": {
+            "rat_number": "X1a",
+            "sex": "unknown",
+            "time": 30,
+            "score": {
+                "spontaneous_activity": 0,
+                "reaction_to_sound_touch": 0,
+                "decreased_turning_reflex": 0,
+                "decreased_gripping_ability": 0,
+                "closed_eyelids": 0,
+                "harderian_gland_secretion": 0,
+                "trembling": 0
+            },
+            "check": {
+                "normal": "O",
+                "finding": "x"
+            },
+            "remarks": "ydaos ct d",
+            "error_codes": {
+                "A": "writing",
+                "B": "calculation",
+                "C": "mixing up",
+                "D": "reading",
+                "E": "copy",
+                "F": "other with explanation"
+            },
+            "initials": "SD",
+            "date": "05AUG 197",
+            "grades": {
+                "normal": 0,
+                "slight_decrease": -1,
+                "marked_decrease": -2,
+                "strong_decrease": -3,
+                "slight_increase": 1,
+                "marked_increase": 2,
+                "strong_increase": 3
+            },
+            "check_grades": {
+                "normal": 0,
+                "slight": 1,
+                "marked": 2,
+                "severe": 3
+            }
+        }
+    }
+}
