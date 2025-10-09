@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2472" height="3507">02581_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Modification de contrat / Commande</scenario>
+  <writer>AUBERT Sylvaine</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="181" top_left_y="266" bottom_right_x="741" bottom_right_y="409">
+       <type>Code d'envoi</type>
+       <text>NTTGXV</text>
+  </box>
+  <box top_left_x="413" top_left_y="430" bottom_right_x="1225" bottom_right_y="538">
+       <type>Nom</type>
+       <text>Aubert</text>
+  </box>
+  <box top_left_x="1419" top_left_y="433" bottom_right_x="2195" bottom_right_y="537">
+       <type>Prénom</type>
+       <text>Sylvaine</text>
+  </box>
+  <box top_left_x="497" top_left_y="533" bottom_right_x="2201" bottom_right_y="630">
+       <type>Adresse</type>
+       <text>rue des Tonneliers</text>
+  </box>
+  <box top_left_x="574" top_left_y="634" bottom_right_x="994" bottom_right_y="740">
+       <type>Code Postal</type>
+       <text>67170</text>
+  </box>
+  <box top_left_x="1117" top_left_y="629" bottom_right_x="2203" bottom_right_y="738">
+       <type>Ville</type>
+       <text>Bernolsheim</text>
+  </box>
+  <box top_left_x="380" top_left_y="746" bottom_right_x="1256" bottom_right_y="893">
+       <type>Téléphone</type>
+       <text>0303389929</text>
+  </box>
+  <box top_left_x="520" top_left_y="1014" bottom_right_x="2202" bottom_right_y="1130">
+       <type>Catégorie Scénario</type>
+       <text>modification de contrat/commande</text>
+  </box>
+  <box top_left_x="306" top_left_y="1125" bottom_right_x="2202" bottom_right_y="1307">
+       <type>Objet Scénario</type>
+       <text>commande de trois paires de chaussettes\n(référence du produit : CH45-12)</text>
+  </box>
+  <box top_left_x="299" top_left_y="1303" bottom_right_x="2202" bottom_right_y="1492">
+       <type>Complément Scénario</type>
+       <text>aucun\n</text>
+  </box>
+  <box top_left_x="924" top_left_y="1510" bottom_right_x="1562" bottom_right_y="1660">
+       <type>Référence client</type>
+       <text>NEWDJ56</text>
+  </box>
+  <box top_left_x="599" top_left_y="1658" bottom_right_x="2208" bottom_right_y="1753">
+       <type>Interlocuteur</type>
+       <text>La Reboute</text>
+  </box>
+  <box top_left_x="510" top_left_y="1749" bottom_right_x="2208" bottom_right_y="1851">
+       <type>Adresse Interlocuteur</type>
+       <text>Centre Commercial</text>
+  </box>
+  <box top_left_x="588" top_left_y="1847" bottom_right_x="1018" bottom_right_y="1966">
+       <type>Code Postal Interlocuteur</type>
+       <text>56270</text>
+  </box>
+  <box top_left_x="1152" top_left_y="1846" bottom_right_x="2208" bottom_right_y="1947">
+       <type>Ville Interlocuteur</type>
+       <text>Ploemeur</text>
+  </box>
+  <box top_left_x="1070" top_left_y="2185" bottom_right_x="1285" bottom_right_y="2295">
+       <type>Temps passé</type>
+       <text>20</text>
+  </box>
+  <box top_left_x="908" top_left_y="2119" bottom_right_x="984" bottom_right_y="2190">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1090" top_left_y="2121" bottom_right_x="1139" bottom_right_y="2172">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1306" top_left_y="2121" bottom_right_x="1359" bottom_right_y="2172">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="311" top_left_y="2590" bottom_right_x="367" bottom_right_y="2657">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1614" top_left_y="2542" bottom_right_x="2215" bottom_right_y="2653">
+       <type>Date d'envoi postal</type>
+       <text>5/02/07</text>
+  </box>
+  <box top_left_x="320" top_left_y="2685" bottom_right_x="369" bottom_right_y="2735">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="319" top_left_y="2778" bottom_right_x="368" bottom_right_y="2828">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1757" top_left_y="2715" bottom_right_x="2209" bottom_right_y="2832">
+       <type>Date d'envoi par fax</type>
+       <text>5/02/07</text>
+  </box>
+  <box top_left_x="320" top_left_y="2872" bottom_right_x="369" bottom_right_y="2922">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1613" top_left_y="2835" bottom_right_x="2211" bottom_right_y="2938">
+       <type>Date d'envoi par courriel</type>
+       <text>4/02/07</text>
+  </box>
+  <box top_left_x="1755" top_left_y="3032" bottom_right_x="2021" bottom_right_y="3126">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="592" top_left_y="3060" bottom_right_x="643" bottom_right_y="3110">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="798" top_left_y="3059" bottom_right_x="849" bottom_right_y="3110">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="994" top_left_y="3065" bottom_right_x="1030" bottom_right_y="3112">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1091" top_left_y="2933" bottom_right_x="2213" bottom_right_y="3033">
+       <type>Marque et modèle scanner</type>
+       <text>Canon MC801</text>
+  </box>
+</annotation>
