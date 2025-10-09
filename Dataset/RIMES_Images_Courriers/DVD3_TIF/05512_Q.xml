@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2477" height="3499">05512_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Changement de données personnelles</scenario>
+  <writer>TRICOT Kilian</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="88" top_left_y="354" bottom_right_x="649" bottom_right_y="495">
+       <type>Code d'envoi</type>
+       <text>JJTGRF</text>
+  </box>
+  <box top_left_x="320" top_left_y="517" bottom_right_x="1134" bottom_right_y="623">
+       <type>Nom</type>
+       <text>TRICOT</text>
+  </box>
+  <box top_left_x="1329" top_left_y="517" bottom_right_x="2107" bottom_right_y="621">
+       <type>Prénom</type>
+       <text>Kilian</text>
+  </box>
+  <box top_left_x="404" top_left_y="619" bottom_right_x="2113" bottom_right_y="714">
+       <type>Adresse</type>
+       <text>167 A, rue Principale</text>
+  </box>
+  <box top_left_x="481" top_left_y="720" bottom_right_x="902" bottom_right_y="827">
+       <type>Code Postal</type>
+       <text>67350</text>
+  </box>
+  <box top_left_x="1026" top_left_y="715" bottom_right_x="2115" bottom_right_y="825">
+       <type>Ville</type>
+       <text>ETTENDORF</text>
+  </box>
+  <box top_left_x="288" top_left_y="832" bottom_right_x="1166" bottom_right_y="979">
+       <type>Téléphone</type>
+       <text>0389634954</text>
+  </box>
+  <box top_left_x="427" top_left_y="1100" bottom_right_x="2111" bottom_right_y="1215">
+       <type>Catégorie Scénario</type>
+       <text>Changement de données personnelles</text>
+  </box>
+  <box top_left_x="210" top_left_y="1211" bottom_right_x="2112" bottom_right_y="1391">
+       <type>Objet Scénario</type>
+       <text>Nouvelle coordonnées bancaires (vous\ndéclarez joindre un BiB)</text>
+  </box>
+  <box top_left_x="203" top_left_y="1389" bottom_right_x="2115" bottom_right_y="1576">
+       <type>Complément Scénario</type>
+       <text>Vous changez de banque\n</text>
+  </box>
+  <box top_left_x="832" top_left_y="1596" bottom_right_x="1474" bottom_right_y="1745">
+       <type>Référence client</type>
+       <text>TVSYH80</text>
+  </box>
+  <box top_left_x="505" top_left_y="1744" bottom_right_x="2124" bottom_right_y="1839">
+       <type>Interlocuteur</type>
+       <text>France Téléphone</text>
+  </box>
+  <box top_left_x="415" top_left_y="1834" bottom_right_x="2123" bottom_right_y="1938">
+       <type>Adresse Interlocuteur</type>
+       <text>Place Le Bouet</text>
+  </box>
+  <box top_left_x="494" top_left_y="1933" bottom_right_x="926" bottom_right_y="2052">
+       <type>Code Postal Interlocuteur</type>
+       <text>47390</text>
+  </box>
+  <box top_left_x="1061" top_left_y="1932" bottom_right_x="2123" bottom_right_y="2033">
+       <type>Ville Interlocuteur</type>
+       <text>LAYBAC</text>
+  </box>
+  <box top_left_x="977" top_left_y="2271" bottom_right_x="1193" bottom_right_y="2381">
+       <type>Temps passé</type>
+       <text>20</text>
+  </box>
+  <box top_left_x="796" top_left_y="2216" bottom_right_x="873" bottom_right_y="2286">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="998" top_left_y="2206" bottom_right_x="1048" bottom_right_y="2258">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1215" top_left_y="2206" bottom_right_x="1267" bottom_right_y="2258">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="202" top_left_y="2677" bottom_right_x="301" bottom_right_y="2751">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1523" top_left_y="2626" bottom_right_x="2127" bottom_right_y="2739">
+       <type>Date d'envoi postal</type>
+       <text>04/05/07</text>
+  </box>
+  <box top_left_x="200" top_left_y="2748" bottom_right_x="270" bottom_right_y="2823">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="201" top_left_y="2868" bottom_right_x="301" bottom_right_y="2931">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1667" top_left_y="2799" bottom_right_x="2120" bottom_right_y="2918">
+       <type>Date d'envoi par fax</type>
+       <text>04/05/07</text>
+  </box>
+  <box top_left_x="213" top_left_y="2961" bottom_right_x="301" bottom_right_y="3032">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1522" top_left_y="2920" bottom_right_x="2123" bottom_right_y="3023">
+       <type>Date d'envoi par courriel</type>
+       <text>04/05/07</text>
+  </box>
+  <box top_left_x="1665" top_left_y="3117" bottom_right_x="1932" bottom_right_y="3211">
+       <type>Résolution</type>
+       <text>200</text>
+  </box>
+  <box top_left_x="498" top_left_y="3147" bottom_right_x="549" bottom_right_y="3197">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="705" top_left_y="3146" bottom_right_x="757" bottom_right_y="3197">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="878" top_left_y="3164" bottom_right_x="937" bottom_right_y="3221">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="998" top_left_y="3018" bottom_right_x="2124" bottom_right_y="3120">
+       <type>Marque et modèle scanner</type>
+       <text>Agfa Snapscan Touche</text>
+  </box>
+</annotation>
