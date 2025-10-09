@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2472" height="3506">03457_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Relance de courrier sans réponse</scenario>
+  <writer>LEMAN Emilie</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="89" top_left_y="238" bottom_right_x="690" bottom_right_y="391">
+       <type>Code d'envoi</type>
+       <text>OUKILF</text>
+  </box>
+  <box top_left_x="339" top_left_y="414" bottom_right_x="1209" bottom_right_y="529">
+       <type>Nom</type>
+       <text>LEMAN</text>
+  </box>
+  <box top_left_x="1417" top_left_y="415" bottom_right_x="2249" bottom_right_y="527">
+       <type>Prénom</type>
+       <text>Emilie</text>
+  </box>
+  <box top_left_x="428" top_left_y="524" bottom_right_x="2254" bottom_right_y="628">
+       <type>Adresse</type>
+       <text>40 rue des Varaines</text>
+  </box>
+  <box top_left_x="510" top_left_y="633" bottom_right_x="960" bottom_right_y="748">
+       <type>Code Postal</type>
+       <text>57130</text>
+  </box>
+  <box top_left_x="1091" top_left_y="628" bottom_right_x="2255" bottom_right_y="745">
+       <type>Ville</type>
+       <text>ARS sur Moselle</text>
+  </box>
+  <box top_left_x="303" top_left_y="754" bottom_right_x="1241" bottom_right_y="912">
+       <type>Téléphone</type>
+       <text>0316113061</text>
+  </box>
+  <box top_left_x="453" top_left_y="1042" bottom_right_x="2257" bottom_right_y="1166">
+       <type>Catégorie Scénario</type>
+       <text>¤{Resiliation/Résiliation}¤ de contrat : Relance</text>
+  </box>
+  <box top_left_x="220" top_left_y="1161" bottom_right_x="2258" bottom_right_y="1357">
+       <type>Objet Scénario</type>
+       <text>Demande du mois dernier pas prise en\ncompte</text>
+  </box>
+  <box top_left_x="212" top_left_y="1353" bottom_right_x="2259" bottom_right_y="1559">
+       <type>Complément Scénario</type>
+       <text>\n</text>
+  </box>
+  <box top_left_x="885" top_left_y="1576" bottom_right_x="1570" bottom_right_y="1738">
+       <type>Référence client</type>
+       <text>WILOT22</text>
+  </box>
+  <box top_left_x="536" top_left_y="1735" bottom_right_x="2264" bottom_right_y="1839">
+       <type>Interlocuteur</type>
+       <text>EDF</text>
+  </box>
+  <box top_left_x="440" top_left_y="1832" bottom_right_x="2261" bottom_right_y="1943">
+       <type>Adresse Interlocuteur</type>
+       <text>19 rue Kalhausen</text>
+  </box>
+  <box top_left_x="524" top_left_y="1938" bottom_right_x="985" bottom_right_y="2066">
+       <type>Code Postal Interlocuteur</type>
+       <text>67260</text>
+  </box>
+  <box top_left_x="1129" top_left_y="1938" bottom_right_x="2262" bottom_right_y="2046">
+       <type>Ville Interlocuteur</type>
+       <text>Herbitzheim</text>
+  </box>
+  <box top_left_x="1041" top_left_y="2300" bottom_right_x="1272" bottom_right_y="2419">
+       <type>Temps passé</type>
+       <text>30</text>
+  </box>
+  <box top_left_x="848" top_left_y="2229" bottom_right_x="958" bottom_right_y="2296">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1059" top_left_y="2232" bottom_right_x="1144" bottom_right_y="2296">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1266" top_left_y="2247" bottom_right_x="1378" bottom_right_y="2293">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="240" top_left_y="2739" bottom_right_x="316" bottom_right_y="2789">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1624" top_left_y="2685" bottom_right_x="2270" bottom_right_y="2806">
+       <type>Date d'envoi postal</type>
+       <text>12/03/2007</text>
+  </box>
+  <box top_left_x="228" top_left_y="2837" bottom_right_x="316" bottom_right_y="2893">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="228" top_left_y="2939" bottom_right_x="317" bottom_right_y="2995">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1778" top_left_y="2872" bottom_right_x="2262" bottom_right_y="2998">
+       <type>Date d'envoi par fax</type>
+       <text>12/03/2007</text>
+  </box>
+  <box top_left_x="228" top_left_y="3041" bottom_right_x="317" bottom_right_y="3100">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1622" top_left_y="3001" bottom_right_x="2264" bottom_right_y="3111">
+       <type>Date d'envoi par courriel</type>
+       <text>12/03/2007</text>
+  </box>
+  <box top_left_x="1774" top_left_y="3212" bottom_right_x="2061" bottom_right_y="3314">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="528" top_left_y="3242" bottom_right_x="582" bottom_right_y="3296">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="748" top_left_y="3241" bottom_right_x="804" bottom_right_y="3296">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="936" top_left_y="3241" bottom_right_x="1004" bottom_right_y="3311">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1062" top_left_y="3106" bottom_right_x="2266" bottom_right_y="3214">
+       <type>Marque et modèle scanner</type>
+       <text>Nastumatec DSC 338</text>
+  </box>
+</annotation>
