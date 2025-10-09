@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2475" height="3507">02092_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Réclamation</scenario>
+  <writer>FLOCH Lola</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="178" top_left_y="380" bottom_right_x="738" bottom_right_y="522">
+       <type>Code d'envoi</type>
+       <text>JWLPFB</text>
+  </box>
+  <box top_left_x="410" top_left_y="544" bottom_right_x="1223" bottom_right_y="651">
+       <type>Nom</type>
+       <text>FLOCH</text>
+  </box>
+  <box top_left_x="1417" top_left_y="545" bottom_right_x="2194" bottom_right_y="648">
+       <type>Prénom</type>
+       <text>LOLA</text>
+  </box>
+  <box top_left_x="495" top_left_y="647" bottom_right_x="2198" bottom_right_y="741">
+       <type>Adresse</type>
+       <text>14 rue de la république</text>
+  </box>
+  <box top_left_x="571" top_left_y="749" bottom_right_x="990" bottom_right_y="855">
+       <type>Code Postal</type>
+       <text>57330</text>
+  </box>
+  <box top_left_x="1113" top_left_y="742" bottom_right_x="2198" bottom_right_y="850">
+       <type>Ville</type>
+       <text>HETTANGE GRANDE</text>
+  </box>
+  <box top_left_x="379" top_left_y="862" bottom_right_x="1253" bottom_right_y="1010">
+       <type>Téléphone</type>
+       <text>0356037113</text>
+  </box>
+  <box top_left_x="518" top_left_y="1133" bottom_right_x="2199" bottom_right_y="1249">
+       <type>Catégorie Scénario</type>
+       <text>Réclamation</text>
+  </box>
+  <box top_left_x="302" top_left_y="1244" bottom_right_x="2200" bottom_right_y="1426">
+       <type>Objet Scénario</type>
+       <text>Vous vous plaignez de nuisances sonores\n</text>
+  </box>
+  <box top_left_x="294" top_left_y="1424" bottom_right_x="2200" bottom_right_y="1613">
+       <type>Complément Scénario</type>
+       <text>le trafic dans votre rue a fortement\naugmenté</text>
+  </box>
+  <box top_left_x="920" top_left_y="1633" bottom_right_x="1559" bottom_right_y="1784">
+       <type>Référence client</type>
+       <text></text>
+  </box>
+  <box top_left_x="594" top_left_y="1782" bottom_right_x="2206" bottom_right_y="1879">
+       <type>Interlocuteur</type>
+       <text>Police Nationale</text>
+  </box>
+  <box top_left_x="505" top_left_y="1874" bottom_right_x="2204" bottom_right_y="1980">
+       <type>Adresse Interlocuteur</type>
+       <text>LIEU-DIT LE BOURG</text>
+  </box>
+  <box top_left_x="584" top_left_y="1973" bottom_right_x="1014" bottom_right_y="2093">
+       <type>Code Postal Interlocuteur</type>
+       <text>24440</text>
+  </box>
+  <box top_left_x="1148" top_left_y="1974" bottom_right_x="2205" bottom_right_y="2075">
+       <type>Ville Interlocuteur</type>
+       <text>MONTFERRAND du PERIGORD</text>
+  </box>
+  <box top_left_x="1066" top_left_y="2313" bottom_right_x="1281" bottom_right_y="2424">
+       <type>Temps passé</type>
+       <text>30</text>
+  </box>
+  <box top_left_x="911" top_left_y="2246" bottom_right_x="962" bottom_right_y="2301">
+       <type>Stylo bille</type>
+       <text></text>
+  </box>
+  <box top_left_x="1083" top_left_y="2250" bottom_right_x="1161" bottom_right_y="2312">
+       <type>Stylo plume</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1302" top_left_y="2247" bottom_right_x="1354" bottom_right_y="2300">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="302" top_left_y="2727" bottom_right_x="352" bottom_right_y="2782">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1609" top_left_y="2675" bottom_right_x="2211" bottom_right_y="2788">
+       <type>Date d'envoi postal</type>
+       <text>22-01-07</text>
+  </box>
+  <box top_left_x="312" top_left_y="2820" bottom_right_x="362" bottom_right_y="2869">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="312" top_left_y="2918" bottom_right_x="360" bottom_right_y="2964">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1752" top_left_y="2851" bottom_right_x="2203" bottom_right_y="2969">
+       <type>Date d'envoi par fax</type>
+       <text>21-01-07</text>
+  </box>
+  <box top_left_x="316" top_left_y="2989" bottom_right_x="383" bottom_right_y="3053">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1607" top_left_y="2972" bottom_right_x="2205" bottom_right_y="3076">
+       <type>Date d'envoi par courriel</type>
+       <text>21-01-07</text>
+  </box>
+  <box top_left_x="1748" top_left_y="3172" bottom_right_x="2015" bottom_right_y="3269">
+       <type>Résolution</type>
+       <text>400</text>
+  </box>
+  <box top_left_x="560" top_left_y="3201" bottom_right_x="628" bottom_right_y="3246">
+       <type>Format PNG</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="790" top_left_y="3199" bottom_right_x="842" bottom_right_y="3251">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="972" top_left_y="3199" bottom_right_x="1022" bottom_right_y="3251">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1084" top_left_y="3072" bottom_right_x="2206" bottom_right_y="3173">
+       <type>Marque et modèle scanner</type>
+       <text>EPSON Perfection 1260</text>
+  </box>
+</annotation>
