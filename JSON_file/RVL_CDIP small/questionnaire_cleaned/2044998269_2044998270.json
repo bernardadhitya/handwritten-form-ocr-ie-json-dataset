@@ -1,0 +1,52 @@
+{
+    "survey": {
+        "title": "FOR SMOKERS ONLY",
+        "questions": [
+            {
+                "question": "About how long have you been smoking this brand?",
+                "options": [
+                    "01. Months or Less",
+                    "03. Bon Ways",
+                    "03.2Y",
+                    "1 Year",
+                    "an 20er"
+                ]
+            },
+            {
+                "question": "Filter type",
+                "options": [
+                    "01. Filter",
+                    "02. Non Filter",
+                    "03. Bon Ways"
+                ]
+            },
+            {
+                "question": "Is it",
+                "options": [
+                    "01. Menthol",
+                    "02. Non Menthol",
+                    "03. Extra Long/120's"
+                ]
+            }
+        ],
+        "additional_info": {
+            "packaging": "Does it have something in the pack?",
+            "contact": "YOUR TELEPHONE"
+        },
+        "address": {
+            "line1": "Promotional Services Center",
+            "line2": "P.O. Box 17530",
+            "city": "Denver",
+            "state": "CO",
+            "zip": "80217-0530"
+        },
+        "message": {
+            "greeting": "Dear Shopper:",
+            "body": "Some of America's leading brands need your help! By sponsoring this survey they hope to learn more about your family's lifestyle and the products you use. Please return this survey within the next 10 days. It's IMPORTANT TO US AND TO YOU... In return for your help these brands will be better able to develop new products and promotional offers which appeal to you most. Send you announcements about these new offers and products as they become available. 'Thanks' for your help!"
+        },
+        "codes": {
+            "code1": "116942",
+            "code2": "2044998269"
+        }
+    }
+}

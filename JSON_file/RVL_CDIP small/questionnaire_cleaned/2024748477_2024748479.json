@@ -1,0 +1,129 @@
+{
+    "survey": {
+        "respondent": {
+            "name": "Ms. Helen Blanchard",
+            "address": {
+                "street": "430 San Antonio Avenue",
+                "apartment": "Apartment 2",
+                "city": "San Diego",
+                "state": "CA",
+                "zip": "92106-3536"
+            },
+            "certification": "I am a cigarette smoker 21 years of age or older.",
+            "signature": "",
+            "birthdate": ""
+        },
+        "questions": [
+            {
+                "question": "What is your regular brand of cigarettes-that is, the brand you smoke most often?",
+                "answer": ""
+            },
+            {
+                "question": "Is your regular brand...?",
+                "options": [
+                    "Regular/King Size",
+                    "100's",
+                    "120's"
+                ],
+                "answer": ""
+            },
+            {
+                "question": "Is your regular brand...?",
+                "options": [
+                    "Menthol",
+                    "Non-Menthol"
+                ],
+                "answer": ""
+            },
+            {
+                "question": "Is your regular brand...?",
+                "options": [
+                    "Filter",
+                    "Non-Filter"
+                ],
+                "answer": ""
+            },
+            {
+                "question": "Is your regular brand...?",
+                "options": [
+                    "Lowest/1 mg Tar",
+                    "Ultra/Extra Low Tar",
+                    "Light/Mild",
+                    "Full Flavor"
+                ],
+                "answer": ""
+            },
+            {
+                "question": "Do you usually buy by the Pack or Carton?",
+                "answer": ""
+            },
+            {
+                "question": "Please list the brands you smoked in the last two weeks. How many packs did you smoke of each brand?",
+                "brands": []
+            },
+            {
+                "question": "The next time you go to the store, if your regular brand were not available, what would you do?",
+                "options": [
+                    "Go to another store to buy my regular brand.",
+                    "Buy another type or length of my regular brand",
+                    "Wait until the store has my regular brand.",
+                    "Buy a different brand entirely"
+                ],
+                "answer": ""
+            },
+            {
+                "question": "Which of the following best describes you?",
+                "options": [
+                    "White",
+                    "African-American",
+                    "Hispanic",
+                    "Asian",
+                    "American Indian",
+                    "Other"
+                ],
+                "answer": ""
+            },
+            {
+                "question": "Which of the following statements best describes the way you use cigarette coupons?",
+                "options": [
+                    "I use almost any cigarette coupon I get.",
+                    "I occasionally use coupons for cigarettes even if they are not for my regular brand.",
+                    "I never use coupons to buy cigarettes."
+                ],
+                "answer": ""
+            },
+            {
+                "question": "How often do you use special in-store cigarette offers, such as a free gift with purchase, a 2-for-1, or special prices?",
+                "options": [
+                    "Frequently",
+                    "Occasionally",
+                    "Never"
+                ],
+                "answer": ""
+            },
+            {
+                "question": "Would you be interested in receiving information about issues that affect smokers?",
+                "options": [
+                    "Yes",
+                    "No"
+                ],
+                "answer": ""
+            },
+            {
+                "question": "Would you be interested in joining a smokers group to help protect your right to smoke?",
+                "options": [
+                    "Yes",
+                    "No"
+                ],
+                "answer": ""
+            }
+        ],
+        "household": {
+            "other_smoker": {
+                "name": "",
+                "birthdate": "",
+                "regular_brand": ""
+            }
+        }
+    }
+}

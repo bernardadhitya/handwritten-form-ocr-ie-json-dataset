@@ -1,0 +1,47 @@
+{
+    "product": "Virginia Slims Menthol Cigarette",
+    "location": {
+        "city": "Port Washington",
+        "state": "NY",
+        "zip": "11050",
+        "po_box": "9200"
+    },
+    "screener": {
+        "time_started": null,
+        "time_ended": null,
+        "interviewers_name": null,
+        "date": null
+    },
+    "questions": {
+        "TQ1": {
+            "did_not_receive_product": false,
+            "disconnected": false,
+            "stopped_smoking": false,
+            "other_tester": false,
+            "respondent_not_available": false,
+            "could_not_participate": false,
+            "no_answer": false,
+            "refused_to_be_interviewed": false,
+            "completed_interview": false,
+            "not_stopped_smoking": false,
+            "no_such_person": false,
+            "non_usable": false
+        },
+        "interviewer_id": null,
+        "intro": "Hello, I'm calling for Janet Hall of Home Testing Institute. May I speak to (NAME OF PERSON ON LABEL? IF RESPONDENT NOT AVAILABLE, MAKE CALLBACK ARRANGEMENT. IF RESPONDENT AVAILABLE, REINTRODUCE YOURSELF)",
+        "la": {
+            "received_cigarettes": null,
+            "verify_address": null
+        },
+        "1c": {
+            "packs_superslims": null,
+            "packs_capri": null
+        },
+        "1d": {
+            "has_report_form": null
+        },
+        "1e": {
+            "can_find_form": null
+        }
+    }
+}

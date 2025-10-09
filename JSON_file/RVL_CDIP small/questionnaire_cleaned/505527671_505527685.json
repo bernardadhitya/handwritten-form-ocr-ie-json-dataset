@@ -1,0 +1,66 @@
+{
+    "company": "Bellomy-Carrigg, Inc",
+    "job_number": "0906",
+    "address": {
+        "street": "5 University Parkway",
+        "suite": "1302",
+        "city": "Winston-Salem",
+        "state": "NC",
+        "zip": "27106"
+    },
+    "date": "October, 1984",
+    "survey": {
+        "title": "AA Extended Use Concept/Product Test Screener",
+        "respondent": {
+            "name": "Buth LoTona",
+            "address": {
+                "city": "Tenawanda",
+                "state": "New York",
+                "zip": "l4so"
+            },
+            "phone": {
+                "area_code": "35",
+                "number": "5995"
+            },
+            "date": "0//84",
+            "interviewed_by": "Interview women only"
+        },
+        "questions": [
+            {
+                "question": "Into which of the following age groups does your age belong?",
+                "options": [
+                    "Under 18",
+                    "18-24",
+                    "25-34",
+                    "50+",
+                    "Refused"
+                ],
+                "response": "50+"
+            },
+            {
+                "question": "Which of the following products do you use daily?",
+                "options": [
+                    "Breathmints",
+                    "Mouthwash",
+                    "Cigarettes",
+                    "Gel toothpaste",
+                    "Cream toothpaste"
+                ],
+                "response": "Cigarettes"
+            },
+            {
+                "question": "Which of the following brands have you used in the past week?",
+                "options": [
+                    "Certs breathmints",
+                    "Clorets breathmints",
+                    "Topal toothpaste",
+                    "Aqua Fresh toothpaste",
+                    "Clinomint",
+                    "Scope",
+                    "Listerine"
+                ],
+                "response": "Listerine"
+            }
+        ]
+    }
+}

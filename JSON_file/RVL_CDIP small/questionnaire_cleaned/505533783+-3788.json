@@ -1,0 +1,45 @@
+{
+    "company": "Bellomy-Carrigg Inc.",
+    "job_number": "1579",
+    "job_code": "Job0906",
+    "security_code": "SECNATSYPKAY",
+    "date": "October, 1984",
+    "location": "WINSRONSUIMNG 2HG",
+    "range": "1-4",
+    "project": "AA EXTENDED USE CONCEPT/PRODUCT TEST (3 CELLS)",
+    "questionnaire": "TELEPHONE CALLBACK QUESTIONNAIRE",
+    "respondent": {
+        "name": "cuds noritox",
+        "telephone_number": "51",
+        "code": "ES15-95E",
+        "callback_appointment": {
+            "day": "Tue",
+            "date": "102369",
+            "time": "AMM"
+        }
+    },
+    "instructions": "BEFORE DIALING, READ THE INSTRUCTIONS FOR THE CHIP GAME O.41",
+    "call_record": {
+        "callback_attempt": 1,
+        "appointment_completed": "X",
+        "date": "1023",
+        "time": "130"
+    },
+    "questions": [
+        {
+            "number": 39,
+            "text": "Of the ten (10) packs of cigarettes you were given, how many did you, yourself, smoke?",
+            "response": "1 pack."
+        },
+        {
+            "number": 40,
+            "text": "Do you intend to smoke any more of the cigarettes we gave you in the next few days?",
+            "response": "NO"
+        },
+        {
+            "number": 40.1,
+            "text": "Why do you say you will not be smoking any more of the cigarettes we gave you?",
+            "response": ""
+        }
+    ]
+}

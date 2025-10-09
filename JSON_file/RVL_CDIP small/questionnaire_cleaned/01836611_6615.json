@@ -1,0 +1,85 @@
+{
+    "survey": {
+        "title": "NATIONAL CONSENSUS SURVEYS",
+        "id": "#42318W",
+        "address": {
+            "street": "801 Sacond Avenue",
+            "city": "New York",
+            "state": "New York",
+            "zip": "10017"
+        },
+        "phone": null,
+        "instructions": "Please take a few minutes to go through the advertisements in this book. Please take as much time with each ad as you care to. If you ordinarily wear reading glasses you'll need them. Now I'd like to ask you a few questions about the ads in the book.",
+        "questions": [
+            {
+                "question": "What brands or products do you remember seeing ads for in the book?",
+                "note": "DO NOT READ BRAND NAMES OR PRODUCT CATEGORIES",
+                "categories": [
+                    "GENERAL ADS",
+                    "CIGARETTE ADS"
+                ],
+                "brands": [
+                    "AmacaRecge",
+                    "Dole Pineapple",
+                    "BankAmericard/VISA",
+                    "Caners-Electric Washer",
+                    "Golden Unsy",
+                    "Golden Lights",
+                    "Bayer Aspirin",
+                    "Hilton Hotels",
+                    "Bolans Lawn Mower",
+                    "Kevaeeki",
+                    "Kent",
+                    "Colder",
+                    "Budweiser",
+                    "Old Spice PocketCologne",
+                    "Canadian Club",
+                    "Polaroid Camera",
+                    "Coca Cola",
+                    "Singer Sewing Machines",
+                    "Concord Watches",
+                    "Taster's Choice",
+                    "Crest toothpaste",
+                    "Weight Watchers",
+                    "Other (SPECIFY)"
+                ]
+            },
+            {
+                "condition": "IF NO CIGARETTE BRANDS MENTIONED ABOVE, ASK Q.3.",
+                "question": "Do you remember any ads for cigarettes?",
+                "options": [
+                    "Golden Unsp",
+                    "Kent",
+                    "Light",
+                    "Kent (Vap)",
+                    "Other (SPECIFY)"
+                ]
+            },
+            {
+                "condition": "IF ONLY ONE OR TWO CIGARETTE BRANDS MENTIONED, ASK TO Q.3b.",
+                "question": "Do you remember any ads for any other brands of cigarettes?",
+                "options": [
+                    "Golden Lights",
+                    "Golden (Unsp)",
+                    "Kent Golden Light",
+                    "Kent Golden",
+                    "Kent Unsp",
+                    "Kent Light",
+                    "Other (SPECIFY)"
+                ]
+            },
+            {
+                "condition": "IF ALL THREE CIGARETTE BRANDS MENTIONED, SKIP TO Q.4.",
+                "question": null
+            },
+            {
+                "condition": "IF TRUE MENTIONED IN Q.2, 3a OR 3b, CONTINUE TO Q.10.",
+                "question": null
+            },
+            {
+                "condition": "IF TRUE NOT MENTIONED IN Q.2, 3c OR 3b, SKIP",
+                "question": null
+            }
+        ]
+    }
+}

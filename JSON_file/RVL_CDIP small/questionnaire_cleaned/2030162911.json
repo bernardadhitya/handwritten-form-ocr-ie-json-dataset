@@ -1,0 +1,58 @@
+{
+    "Parameter": "Total Residual Chlorine",
+    "Method": "Amoerometric Titration (Direct)",
+    "Date": "12/17/90",
+    "Questions": [
+        {
+            "Question": "Is sample analyzed immediately after collection within 15 minutes?",
+            "Answer": "Yes"
+        },
+        {
+            "Question": "Is PA0 normality 0.00564N?",
+            "Answer": "No"
+        },
+        {
+            "Question": "Are reagents free of contamination or growths?",
+            "Answer": "Yes"
+        },
+        {
+            "Question": "Is KI solution discarded when it turns yellow?",
+            "Answer": "Yes"
+        },
+        {
+            "Question": "Is pH 4 buffer solution acetate buffer?",
+            "Answer": "Yes"
+        },
+        {
+            "Question": "Are reagents within their indicated shelf lives?",
+            "Answer": "Yes"
+        },
+        {
+            "Question": "Is sample volume 200 ml for chlorine residual up to 2 mg/l or 100 ml or proportionately less for chlorine residuals in excess of 2 mg/l?",
+            "Answer": "Yes"
+        },
+        {
+            "Question": "Is at least 1 ml KI solution added?",
+            "Answer": "Yes"
+        },
+        {
+            "Question": "Is at least 1 ml acetate buffer added after KI solution?",
+            "Answer": "Yes"
+        },
+        {
+            "Question": "Is titrant added in progressively smaller increments until all needle movement ceases?",
+            "Answer": "Yes"
+        },
+        {
+            "Question": "Is last increment of titrant that causes no needle response subtracted from final volume?",
+            "Answer": "Yes"
+        },
+        {
+            "Question": "Is the sample value calculated correctly? [TRC mg/l = A x 200 / ml of sample where A = ml PA0 used]",
+            "Answer": "Yes"
+        }
+    ],
+    "Comments": "pre-set delivery calibrated pumps each day ensure that 1 ml is used.",
+    "Rating": "Satisfactory",
+    "Problems": "2030162911"
+}

@@ -1,0 +1,90 @@
+{
+    "company": "DENNIS AND COMPANY, INC.",
+    "study": "Study1504",
+    "address": "1700 BEDFORD STREET",
+    "date": "November, 1984",
+    "city": "STAMFORD",
+    "state": "CONNECTICUT",
+    "zip": "06905",
+    "phone": "203327-6596",
+    "product": "MENTHOL",
+    "record_val": "FROM SCREENER",
+    "study_code": "56-SP90",
+    "study_type": "CC CONCEPT/PRODUCT STUDY",
+    "questionnaire": "CLT MAIN QUESTIONNAIRE",
+    "respondent_id": "2513579n1091",
+    "additional_info": "and160jan82s1in",
+    "code": "25624.680109",
+    "instructions": "BEFORE BEGINNING INTERVIEW, YOU MUST RE-ADMINISTER THE SCREENING QUESTIONNAIRE TO VERIFY THAT RESPONDENT IS QUALIFIED TO PARTICIPATE. ALL QUESTIONS SHOULD BE ASKED AS WRITTEN. ALL RESPONSES ARE TO BE THE RESPONDENT.",
+    "agreement_scale_card": "HAND RESPONDENT AGREEMENT SCALE CARD",
+    "questions": [
+        {
+            "id": 16,
+            "text": "Now, I would like to ask you a few questions to get your impressions of what your ideal brand of cigarettes would be like on some specific characteristics. As I read each statement, please tell me which phrase on this card best describes your impression of what your ideal brand of cigarettes would be like.",
+            "attributes": [
+                {
+                    "statement": "Has a strong taste.",
+                    "response": "AAAAA4"
+                },
+                {
+                    "statement": "Has a harsh taste",
+                    "response": "1"
+                },
+                {
+                    "statement": "Is extremely smooth",
+                    "response": ""
+                },
+                {
+                    "statement": "Is extremely mild",
+                    "response": ""
+                },
+                {
+                    "statement": "Has a lot of tobacco",
+                    "response": "1"
+                },
+                {
+                    "statement": "Has a lot of menthol taste.",
+                    "response": "1"
+                },
+                {
+                    "statement": "Has more menthol than tobacco taste",
+                    "response": "1"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "text": "I'd like you to read this description of a new cigarette. Please take as much time as you need to read it thoroughly, as you will not see it again.",
+            "instructions": "HAND RESPONDENT CONCEPT COLOR CODED RED ALLOW TIME TO REVIEW; TAKE BACK CONCEPT BEFORE ASKING Q.18."
+        },
+        {
+            "id": 18,
+            "text": "cigarette would be like, which phrase on this card best describes",
+            "purchase_interest": [
+                {
+                    "option": "Definitely would buy it",
+                    "code": "64P"
+                },
+                {
+                    "option": "Probably would buy it.",
+                    "code": "50606"
+                },
+                {
+                    "option": "Might or might not buy",
+                    "code": ""
+                },
+                {
+                    "option": "Probably would not buy it",
+                    "code": ""
+                },
+                {
+                    "option": "Definitely would not buy it",
+                    "code": "6784"
+                }
+            ],
+            "instructions": "TAKE BACK PURCHASE INTEREST CARD"
+        }
+    ],
+    "alt": "Alt.1",
+    "code_alt": "192"
+}

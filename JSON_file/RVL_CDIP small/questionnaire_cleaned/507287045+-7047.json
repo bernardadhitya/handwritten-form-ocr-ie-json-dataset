@@ -1,0 +1,71 @@
+{
+    "month": "May",
+    "day": 68,
+    "day_of_week": "Friday",
+    "store_number": 115,
+    "draft": "BR#89147",
+    "address": "108 Cambridge Plaza Dr, Winston-Salem, NC 27104",
+    "mro_number": "MRO #89-33904",
+    "date": "May, 1989",
+    "rsvp": {
+        "1apls": 5.1,
+        "milw": 6.1,
+        "skrev": 7.1
+    },
+    "shopper_intercept": {
+        "interview_start": {
+            "am_pm": null,
+            "day_of_week": null,
+            "time": null
+        },
+        "respondent_name": null,
+        "telephone": null,
+        "interviewer_initials": null,
+        "validator_initials": null
+    },
+    "survey": {
+        "introduction": "Hello, I am from a research company. We're conducting a brief survey among shoppers in this store.",
+        "record_lane": {
+            "express_check_out": null,
+            "regular": null
+        },
+        "check_quotas": {
+            "record_sex": {
+                "male": null,
+                "female": null
+            },
+            "record_race": {
+                "non_white": null
+            }
+        },
+        "questions": {
+            "1": {
+                "question": "What is your age?",
+                "response": null,
+                "note": "If under 18, terminate."
+            },
+            "2a": {
+                "question": "Thinking about the last 10 visits you made to this or any other supermarket, on how many of the 10 visits did you use the express lane and how many times did you use the regular lane?",
+                "express_lane": null,
+                "regular_lane": null,
+                "total_visits": 10
+            },
+            "2b": {
+                "question": "In an average week, how many times do you shop in a supermarket, that is this or any other supermarket?",
+                "response": null
+            },
+            "3": {
+                "question": "How many people, including yourself, live in your household?",
+                "options": {
+                    "one": null,
+                    "two": null,
+                    "three": null,
+                    "four": null,
+                    "five": null,
+                    "six_or_more": null,
+                    "refused": null
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "company": "AHP MARKETING RESEARCH",
+    "address": {
+        "street": "801 Second Avenue",
+        "suite": "#42318W",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10017"
+    },
+    "date": "January 1978",
+    "survey": {
+        "title": "CIGARETTE PORTPOLIC SCREENING QUESTIONNAIRE",
+        "time_interview_started": "855",
+        "respondent_name": "nele",
+        "telephone": "759",
+        "address": "/",
+        "city": "",
+        "state": "",
+        "interviewer": "",
+        "metro_area": "",
+        "date_validated_by": "",
+        "date": "",
+        "indicate_city": [
+            "Boston",
+            "Cleveland",
+            "Jacksonville",
+            "Los Angeles",
+            "New York"
+        ],
+        "introduction": "from National Consensus Surveys conducting study in this area and I'd like to ask you a few questions",
+        "questions": [
+            {
+                "question": "Have you yourself, participated in a market research survey in the past three months or so?",
+                "action": "TERMINATE AND CIRCLE NEXT HIGHEST NUMBER"
+            },
+            {
+                "question": "Please tell me which letter on this card includes your age",
+                "action": "TERMINATE AND CIRCLE NEXT HIGHEST NUMBER BELOW NEXT TO UNDER OR OVER AGE"
+            }
+        ],
+        "age_card": {
+            "under": "23",
+            "over": "4"
+        }
+    }
+}

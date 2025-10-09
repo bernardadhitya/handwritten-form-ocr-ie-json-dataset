@@ -1,0 +1,54 @@
+{
+    "location": "Executive Plaza",
+    "month": "March",
+    "study": "Study 460",
+    "name": "Atkins",
+    "concert": "Cncrt",
+    "year": 1951,
+    "address": {
+        "city": "Park",
+        "state": "PA",
+        "zip": 19117
+    },
+    "barcl": "BARcl",
+    "study_type": "TRUE AAU STUDY",
+    "wave": "POST-WAVE",
+    "greeting": "Good morning/afternoon/evening",
+    "caller": {
+        "name": "Mrs./Mr.",
+        "group": "Group in Philadelphia",
+        "company": "The Dat",
+        "location": "Syracuse/Tampa area"
+    },
+    "questions": [
+        {
+            "question": "Do you smoke ten or more cigarettes a day?",
+            "ask": "ASKO"
+        },
+        {
+            "question": "Can I speak with the youngest male smoker 21 years or over?",
+            "if_available": "Male smoker available",
+            "if_not_available": "No male smoker"
+        },
+        {
+            "question": "Can I speak with the youngest female smoker 21 years or over who is at home now?",
+            "if_available": "Female smoker available",
+            "if_not_available": "No female smoker"
+        }
+    ],
+    "callback_priority": [
+        "Youngest male smoker",
+        "Next youngest male smoker",
+        "Youngest female smoker"
+    ],
+    "instructions": "Re-introduce yourself if necessary",
+    "record": {
+        "sex": "Male",
+        "cigarettes_per_day": "About how many cigarettes do you smoke in an average day?"
+    },
+    "categories": [
+        "Less than 5 but less than 1 pack",
+        "30 to 39 but less than 1 pack",
+        "Less than 1 pack"
+    ]
+}

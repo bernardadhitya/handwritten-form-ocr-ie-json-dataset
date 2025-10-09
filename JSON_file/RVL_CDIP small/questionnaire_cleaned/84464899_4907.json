@@ -1,0 +1,66 @@
+{
+    "company": "AHF MAKKETIN RESEARCH",
+    "address": {
+        "street": "2170 NATIONAL CONSENSUS SURVEYS",
+        "suite": "#25077W",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10017"
+    },
+    "date": "August, 1977",
+    "survey": {
+        "title": "CIGARETTE PORTFOLIO SCKEENINC QUESTIONNAERE",
+        "time_interview": {
+            "started": "",
+            "ended": ""
+        },
+        "respondent": {
+            "name": "Sche0",
+            "tel": "42=1014",
+            "address": "ADDRESS6S",
+            "city": "",
+            "state": "1668505"
+        },
+        "interviewer": {
+            "name": "",
+            "metro_area": "4",
+            "date": "",
+            "validated_by": "DAAEr"
+        },
+        "questions": [
+            {
+                "id": 1,
+                "text": "INDICATE CITY.",
+                "options": [
+                    "Boston",
+                    "Des Moines",
+                    "Detroit",
+                    "Lincoln",
+                    "New Orlear",
+                    "Ousha"
+                ]
+            },
+            {
+                "id": 2,
+                "text": "Have you, yourself, participated in a market research survey in the past three months or so?",
+                "options": [
+                    "Yes (TERMINATE AND CIRCLE NEXT HIGHEST NUMBER BELOW)",
+                    "No (CONTINUE)"
+                ]
+            },
+            {
+                "id": 3,
+                "text": "SHOW AGE CARD. Please tell card includes your age",
+                "options": [
+                    "Under 21",
+                    "25 to 30",
+                    "34 to 35",
+                    "39 to 40",
+                    "49 to 45",
+                    "55 to 60"
+                ],
+                "terminate": "TERMINATE AND CIRCLE NEXT HIGHEST NUMBER BELOW NEXT TO UNDER OR OVER AGE"
+            }
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "session": {
+        "date": "",
+        "time": ""
+    },
+    "market": "",
+    "pcs_pilot_test": "",
+    "telephone_screener": "",
+    "full_flavor": "",
+    "marc_code": "85-1466",
+    "gender": {
+        "male": "",
+        "female": ""
+    },
+    "field_use": {
+        "low_tar": "",
+        "muatoreu": "",
+        "5mm": "",
+        "100mm": ""
+    },
+    "age_groups": {
+        "8-20": "",
+        "21-24": "",
+        "35-49": "",
+        "50-64": "",
+        "65_or_over": "",
+        "refused": ""
+    },
+    "education": {
+        "none_grammar_school": "",
+        "grammar_school_graduate": "",
+        "some_high_school": "",
+        "high_school_graduate": "",
+        "some_college": "",
+        "college_graduate_or_beyond": "",
+        "refused": ""
+    },
+    "respondent": {
+        "name": "",
+        "telephone_number": "",
+        "interviewer": "",
+        "suffix": "",
+        "number": "",
+        "rea_code": "",
+        "prefix": "",
+        "time_started": "",
+        "time_ended": ""
+    },
+    "notes": "with M/A/R/C Consumer Research, an independent research company.",
+    "survey": {
+        "introduction": "Hello, I'm conducting a survey in this area and would like to include you among the people we are talking to.",
+        "age_question": "Under 18 ASK FOR OTHER HOUSEHOLD MEMBERS AGE 18-24. IF NONE, TALLY & TERMINATE.",
+        "age_options": [
+            "18-20",
+            "21-24",
+            "35-49",
+            "50-64",
+            "65 or over",
+            "Refused"
+        ],
+        "sex_question": "CIRCLE SEX",
+        "sex_options": [
+            "Male",
+            "Female"
+        ],
+        "education_question": "What was the last grade of school you completed? DO NOT READ LIST",
+        "education_options": [
+            "Some grammar school (1-7 grades)",
+            "Grammar school graduate (8th)",
+            "Some high school (9-11)",
+            "High school graduate (12th)",
+            "Some college",
+            "College graduate or beyond",
+            "Refused"
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "title": "Arctic Lights",
+    "gender": "NO/S",
+    "study": {
+        "name": "Ws.WESs SUDY",
+        "monitoredBy": "Monitorod Dy",
+        "id": "78-0124",
+        "editedBy": "Editod By",
+        "editor": "FRE",
+        "camp": "Canp.",
+        "studyNumber": "STUDYND.",
+        "card": "CARD",
+        "bondId": "BND ID",
+        "mhId": "MHID",
+        "yearId": "YEAR1D",
+        "values": {
+            "12": "13",
+            "50018": "8012"
+        }
+    },
+    "blank": "RLANK",
+    "telephoneNumber": "TELFPHONEMMER",
+    "interviewer": "INTERVIEWER",
+    "stateCode": "SATE COD",
+    "countyCode": "CUNIY CO",
+    "size": ".SIZE",
+    "prx": "PRX",
+    "number": "NUMEER",
+    "values2": {
+        "15": "16",
+        "20": "222324",
+        "252627": "28293031",
+        "32333435": "DATE"
+    },
+    "timeEnded": "TIME ENDED",
+    "nJocn": "N JOCN",
+    "introduction": "Hello, I'm with M//R/c Consurer Research, an independent research company, calling long distance. We're conducting a survey on people's use of consumer products and would like to include someone in your home 18 years of age or older among the people we are interviewing nation-wide.",
+    "waves": {
+        "waveI": "8/30-9/5",
+        "waveII": "9/23-9/19",
+        "waveIII": "9/27-20/3",
+        "waveIV": "10/21-10/17",
+        "waveV": "10/25-10/31",
+        "waveVI": "11/8-21/14"
+    },
+    "blank2": "BLANK",
+    "specialScreening": "Spocial Screcnin",
+    "menOldSmokers": "MENOLSDKERS",
+    "smokingQuestion": {
+        "question": "Have you smoked any cigarettes in the past seven days, or not?",
+        "response": "1",
+        "instruction": "NOASK FOR ANOTHER SOKER. IF NONE, TALLY TERMINATE."
+    },
+    "cigarettesPerDay": {
+        "question": "How many cigarettes do you usually smoke per day?",
+        "lessThanOne": "ASK FOR ANOTHER SMDKER.",
+        "options": {
+            "N": "N",
+            "16-25": "16-25",
+            "over25": "Over25",
+            "dontKnow": "Don't kn"
+        }
+    }
+}

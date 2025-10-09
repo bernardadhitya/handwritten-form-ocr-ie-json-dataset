@@ -1,0 +1,76 @@
+{
+    "survey": {
+        "title": "NeWeL CallI",
+        "contact_method": "By Phone",
+        "questions": [
+            {
+                "question": "How satisfied were you in each of the following areas?",
+                "areas": [
+                    {
+                        "name": "EASE OF CONTACT",
+                        "aspects": [
+                            "Ability to get through on first call",
+                            "Satisfaction with telephone routing",
+                            "If put on hold, length of time on hold"
+                        ]
+                    },
+                    {
+                        "name": "PERSONNEL",
+                        "aspects": [
+                            "Courtesy",
+                            "Professionalism",
+                            "Knowledge",
+                            "Authority to resolve problem"
+                        ]
+                    },
+                    {
+                        "name": "RESPONSE",
+                        "aspects": [
+                            "Timeliness",
+                            "Clarity",
+                            "Helpfulness",
+                            "Follow through on promised action"
+                        ]
+                    }
+                ],
+                "satisfaction_levels": [
+                    "Very Satisfied",
+                    "Somewhat Satisfied",
+                    "Nor Satisfied",
+                    "Somewhat Dissatisfied",
+                    "Very Dissatisfied"
+                ]
+            },
+            {
+                "question": "Which ONE of the following statements BEST describes the way you feel about the action taken by the R.J.Reynolds Consumer Relations Department to respond to your request for assistance?",
+                "options": [
+                    "I was completely satisfied.",
+                    "I was NOT completely satisfied but the action taken was acceptable.",
+                    "I was NOT completely satisfied but some action was taken.",
+                    "I was NOT AT ALL satisfied with the action taken.",
+                    "I was NOT AT ALL satisfied; no action was taken."
+                ]
+            },
+            {
+                "question": "Based on how well you were treated by our representative, will you continue to purchase the brand of cigarettes you contacted us about?",
+                "options": [
+                    "Definitely Would",
+                    "Probably Would",
+                    "Might or Might Not",
+                    "Probably Would Not",
+                    "Definitely Would Not"
+                ]
+            },
+            {
+                "question": "Would you recommend this brand of cigarettes to an adult smoker (21 years of age or older)?",
+                "options": [
+                    "Definitely Would",
+                    "Probably Would",
+                    "Might or Might Not",
+                    "Probably Would Not",
+                    "Definitely Would Not"
+                ]
+            }
+        ]
+    }
+}

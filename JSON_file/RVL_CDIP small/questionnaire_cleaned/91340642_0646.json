@@ -1,0 +1,152 @@
+{
+    "company": "ERC RESEARCH CORPORATION",
+    "address": "4C4 Park Avenue South, New York, NY 10016",
+    "study": "STYLE RECONTACT STUDY",
+    "date": "AUGUST, 1992",
+    "id": "#51782",
+    "version": "2",
+    "category": "NON-USERS",
+    "questionnaire": "MAIN QUESTIONNAIRE",
+    "respondent": {
+        "name": "RESPONDENT'S NAME",
+        "city": "CITY"
+    },
+    "questions": [
+        {
+            "id": "1a",
+            "text": "Are the BRAND MENTIONED IN Q.C cigarettes you are currently smoking most often",
+            "options": [
+                {
+                    "text": "Menthol",
+                    "value": 1
+                },
+                {
+                    "text": "Non-menthol",
+                    "value": 2
+                }
+            ]
+        },
+        {
+            "id": "1b",
+            "text": "And do you usually buy this brand in a soft pack or in a box?",
+            "options": [
+                {
+                    "text": "Soft pack",
+                    "value": 1
+                },
+                {
+                    "text": "Box",
+                    "value": 2
+                }
+            ]
+        },
+        {
+            "id": "1c",
+            "text": "NOT READ LIST. DO",
+            "options": [
+                {
+                    "text": "Less than 1 month",
+                    "value": 1
+                },
+                {
+                    "text": "1 month but less than 2 months",
+                    "value": 2
+                },
+                {
+                    "text": "2 months but less than 3 months",
+                    "value": 3
+                },
+                {
+                    "text": "3 months but less than 4 months",
+                    "value": 4
+                },
+                {
+                    "text": "4 months but less than 5 months",
+                    "value": 5
+                },
+                {
+                    "text": "5 months but less than 6 months",
+                    "value": 6
+                },
+                {
+                    "text": "6 months but less than 9 months",
+                    "value": 7
+                },
+                {
+                    "text": "9 months but less than 1 year",
+                    "value": 8
+                },
+                {
+                    "text": "1 year but less than 2 years",
+                    "value": 9
+                },
+                {
+                    "text": "2 years but less than 4 years",
+                    "value": 0
+                },
+                {
+                    "text": "4 years but less than 6 years",
+                    "value": "x"
+                },
+                {
+                    "text": "6 years or more",
+                    "value": "y"
+                }
+            ]
+        },
+        {
+            "id": "BRAND MENTIONED IN Q.C",
+            "text": "Please specify the cigarette's full brand name.",
+            "note": "USE CIGARETTE LIST ATTACHED TO DETERMINE FULL BRAND NAME"
+        },
+        {
+            "id": "3a",
+            "text": "Which of the following brands of cigarettes have you ever heard of? READ LIST. RECORD FOR EACH.",
+            "options": [
+                {
+                    "text": "Heard Of",
+                    "value": "So"
+                },
+                {
+                    "text": "Not Heard Of",
+                    "value": "Ha"
+                }
+            ]
+        },
+        {
+            "id": "3b",
+            "text": "You mentioned that you have heard of Style cigarettes how did you first become aware of Style cigarettes?",
+            "note": "DO NOT READ LIST. RECORD ALL THAT APPLY.",
+            "options": [
+                {
+                    "text": "In store promotion",
+                    "value": 1
+                },
+                {
+                    "text": "Billboard",
+                    "value": 2
+                },
+                {
+                    "text": "Newspaper ad/coupon",
+                    "value": 3
+                },
+                {
+                    "text": "Magazine ad/coupon",
+                    "value": 5
+                },
+                {
+                    "text": "Someone gave me a coupon",
+                    "value": 9
+                },
+                {
+                    "text": "Someone gave me a free sample",
+                    "value": "A"
+                },
+                {
+                    "text": "All other mentions (PLEASE SPECIFY BELOW)",
+                    "value": "91340642"
+                }
+            ]
+        }
+    ]
+}

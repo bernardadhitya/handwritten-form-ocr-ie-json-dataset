@@ -1,0 +1,48 @@
+{
+    "company": "Shifrin Research, Inc.",
+    "address": {
+        "street": "10 East 21st Street",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10010"
+    },
+    "job_number": "1801",
+    "date": "July, 1989",
+    "survey": {
+        "title": "CIGARETTE STUDY",
+        "type": "Telephone Screener",
+        "sample": "Random Sample",
+        "questions": [
+            {
+                "question": "Which one of the following age groups best describes your age?",
+                "options": [
+                    "Under 18",
+                    "18-22",
+                    "23 and over"
+                ],
+                "instructions": [
+                    "ASK IF THERE ARE ANY OTHER MEN IN THE HOUSEHOLD FROM 18 TO 22.",
+                    "IF PERSON NOT AVAILABLE ASK WHEN YOU CAN CALL BACK TO SPEAK TO THAT PERSON.",
+                    "IF NO ONE TERMINATE RECORD ON TALLY SHEET ERASE AND RE-USE."
+                ]
+            }
+        ]
+    },
+    "respondent": {
+        "name": "",
+        "area_code": "",
+        "telephone": "",
+        "address": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "interviewer": {
+        "name": "",
+        "id": "",
+        "time_began": "",
+        "time_ended": "",
+        "date": ""
+    },
+    "notes": "SPEAK TO MEN ONLY"
+}

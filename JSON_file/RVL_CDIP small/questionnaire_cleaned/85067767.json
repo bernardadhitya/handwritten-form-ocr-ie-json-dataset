@@ -1,0 +1,103 @@
+{
+    "survey": {
+        "instructions": "Based on what your impression might be, I'd like your opinion of the following statements. As I read each statement, please tell me whether you agree or disagree with the statement. Somewhat, or disagree strongly?",
+        "responses": [
+            {
+                "statement": "Kent is a brand that advertises a great deal.",
+                "responses": {
+                    "strongly_agree": 1,
+                    "agree": 2,
+                    "somewhat_agree": null,
+                    "somewhat_disagree": null,
+                    "disagree": null,
+                    "strongly_disagree": null
+                }
+            },
+            {
+                "statement": "Kent is a brand that has interesting advertising.",
+                "responses": {
+                    "strongly_agree": null,
+                    "agree": null,
+                    "somewhat_agree": null,
+                    "somewhat_disagree": null,
+                    "disagree": null,
+                    "strongly_disagree": null
+                }
+            },
+            {
+                "statement": "Kent is a cigarette for people like me.",
+                "responses": {
+                    "strongly_agree": null,
+                    "agree": 2,
+                    "somewhat_agree": null,
+                    "somewhat_disagree": null,
+                    "disagree": null,
+                    "strongly_disagree": null
+                }
+            },
+            {
+                "statement": "Kent is a cigarette with a lot of good taste.",
+                "responses": {
+                    "strongly_agree": null,
+                    "agree": 3,
+                    "somewhat_agree": 2,
+                    "somewhat_disagree": null,
+                    "disagree": null,
+                    "strongly_disagree": null
+                }
+            },
+            {
+                "statement": "Kent is a cigarette that is easy to draw on.",
+                "responses": {
+                    "strongly_agree": null,
+                    "agree": 3,
+                    "somewhat_agree": 2,
+                    "somewhat_disagree": null,
+                    "disagree": null,
+                    "strongly_disagree": null
+                }
+            },
+            {
+                "statement": "Kent is a cigarette with an effective filter.",
+                "responses": {
+                    "strongly_agree": 4,
+                    "agree": 3,
+                    "somewhat_agree": 2,
+                    "somewhat_disagree": null,
+                    "disagree": null,
+                    "strongly_disagree": null
+                }
+            },
+            {
+                "statement": "Kent is a very high quality cigarette.",
+                "responses": {
+                    "strongly_agree": null,
+                    "agree": null,
+                    "somewhat_agree": null,
+                    "somewhat_disagree": null,
+                    "disagree": null,
+                    "strongly_disagree": null
+                }
+            },
+            {
+                "statement": "Kent is smooth.",
+                "responses": {
+                    "strongly_agree": null,
+                    "agree": 3,
+                    "somewhat_agree": null,
+                    "somewhat_disagree": null,
+                    "disagree": null,
+                    "strongly_disagree": null
+                }
+            },
+            {
+                "statement": "Would you say Kent is very low in tar and nicotine, moderately low in tar and nicotine, or not low in tar and nicotine?",
+                "responses": {
+                    "very_low": null,
+                    "moderately_low": null,
+                    "not_low": null
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "company": "Brown & Williamson",
+    "interviewType": "Intercept Interviews",
+    "questionnaire": "Capri",
+    "location": "See Instruction",
+    "time": {
+        "am": true,
+        "date": 9,
+        "timeOfDay": 2
+    },
+    "demography": {
+        "gender": {
+            "male": true,
+            "female": false
+        },
+        "age": {
+            "21-30": false,
+            "31-40": false,
+            "41-50": false,
+            "51-60": false,
+            "over61": false
+        }
+    },
+    "interviewInstructions": "In accordance with your instructions out of view of sampling crew, introduce yourself as representing Brown & Williamson. Thank him/her for accepting the pack of Capri and state something like 'May I ask you a few questions?' Then go immediately into the interview.",
+    "questions": [
+        {
+            "question": "Did you take the sample pack of Capri for yourself?",
+            "options": {
+                "yourself": true,
+                "someoneElse": false
+            }
+        },
+        {
+            "question": "Is Capri the brand you regularly smoke?",
+            "options": {
+                "yes": false,
+                "no": true
+            }
+        },
+        {
+            "question": "If 'no' what brand do you regularly smoke?",
+            "answer": "brand"
+        },
+        {
+            "question": "How long have you smoked Capri or brand smoked?",
+            "options": {
+                "6 months": false,
+                "1 year": false,
+                "2 years": false,
+                "3 years": false,
+                "4 years": false,
+                "5 years": false,
+                "over 5 years": false,
+                "over 10 years": false
+            }
+        },
+        {
+            "question": "Brand smoked prior to current brand?",
+            "options": {
+                "none": false,
+                "dontRecall": false
+            }
+        },
+        {
+            "question": "If not a Capri smoker, had you heard of Capri before?",
+            "options": {
+                "yes": false,
+                "no": true
+            }
+        },
+        {
+            "question": "If yes, ask, had you ever tried Capri before?",
+            "options": {
+                "yes": false,
+                "no": true
+            }
+        },
+        {
+            "question": "Is Capri regular brand of person for whom sample taken?",
+            "options": {
+                "yes": false,
+                "no": false,
+                "dontKnow": true
+            }
+        },
+        {
+            "question": "If Capri not regular brand smoked by that other person, ask what brand does she/he smoke?",
+            "answer": "brand"
+        },
+        {
+            "question": "Do you plan to use those coupons?",
+            "options": {
+                "yes": false,
+                "no": true
+            }
+        }
+    ],
+    "code": 670311975
+}

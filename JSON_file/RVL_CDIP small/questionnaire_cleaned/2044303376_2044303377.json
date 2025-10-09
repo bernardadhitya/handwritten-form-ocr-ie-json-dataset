@@ -1,0 +1,65 @@
+{
+    "title": "MERIT BLIND.CHALLENGE 9Q",
+    "script": {
+        "introduction": "Hello, this is Thank you for participating in Taste Challengego. To receive your two trial packs of our leading",
+        "questions": [
+            {
+                "question": "Are you a cigarette smoker 21 years of age or older?",
+                "responses": {
+                    "yes": "continue at 1A",
+                    "no": "continue at 1C"
+                }
+            },
+            {
+                "question": "1A. May I have your date of birth, please?",
+                "responses": {
+                    "gives_dob_after_1969": "skip to 1C",
+                    "gives_dob_prior_1969": "skip to 2",
+                    "refuses_dob": "continue at 1B"
+                }
+            },
+            {
+                "question": "1B. Then may I have your age?",
+                "responses": {
+                    "gives_age_21_or_over": "record and skip to 2",
+                    "less_than_21": "go to 1C",
+                    "refuses": "ask 'are you 21 or older?'",
+                    "if_21_or_over": "record and skip to 2",
+                    "if_less_than_21": "go to 1C"
+                }
+            },
+            {
+                "question": "1C. I'm sorry this offer is only for smokers 21 years of age or older. Thank you for calling."
+            },
+            {
+                "question": "2. May I have your name, please?",
+                "instructions": "Verify full name include title last name, first name & middle initial, continue at 3"
+            },
+            {
+                "question": "3. May I have your home phone number, with the area code first?",
+                "responses": {
+                    "gives_number": "record and continue at 4",
+                    "refuses": "record refused and continue at 4"
+                }
+            },
+            {
+                "question": "4. May I have your home address?",
+                "instructions": "Verify complete address: street, apartment # if any, city, state and zip.",
+                "note": "If the state consumer lives in is Iowa, Minnesota, New Hampshire, or Utah, please read: 'We're very sorry, but due to government restrictions in your state, we're not able to allow your participation in this program.' All other states, continue at 5"
+            },
+            {
+                "question": "5. What is your regular brand of cigarettes, that is, the brand you smoke most often?",
+                "instructions": "Select brand from brand table and record. If caller insists they smoke two brands, ask them to select one they smoke most often and record that brand. Do not offer brand suggestions or repeat brand name in any way."
+            },
+            {
+                "question": "5A. Are your cigarettes Full Flavor, Lights, or Ultra Lights?",
+                "responses": {
+                    "full_flavor": "record and continue at 6",
+                    "lights": "record and continue at 6",
+                    "ultra_lights": "record and continue at 6",
+                    "don't_know": "record and go to 5B"
+                }
+            }
+        ]
+    }
+}

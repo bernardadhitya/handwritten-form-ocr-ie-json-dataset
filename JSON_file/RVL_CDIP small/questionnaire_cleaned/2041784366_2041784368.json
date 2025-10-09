@@ -1,0 +1,55 @@
+{
+    "title": "Small Retail Trade Screener",
+    "introduction": {
+        "greeting": "Hello, this is calling from",
+        "purpose": "We're conducting a survey with employees at these establishments who are responsible for ordering merchandise.",
+        "question": "Does any of those three phrases describe you?",
+        "responses": {
+            "yes": "Proceed to Question 1.",
+            "no": {
+                "action": "May I speak to the owner, manager, or person responsible for ordering merchandise?",
+                "responses": {
+                    "yes": "Proceed to Question 1.",
+                    "not_present": "Arrange to call back later.",
+                    "no_refused": "Thank and terminate."
+                }
+            }
+        }
+    },
+    "survey": {
+        "introduction": "Hello, this is calling from. I'd like to ask you a few questions - this will only take a few minutes of your time, ok?",
+        "questions": [
+            {
+                "question": "First, how old are you?",
+                "response": "years (If fewer than 21, terminate)."
+            },
+            {
+                "question": "What type of establishment have I called?",
+                "instruction": "Do not read list -- probe to clarify if necessary.",
+                "options": [
+                    "Specialty",
+                    "Traditional/Food",
+                    "Gift shop",
+                    "Convenience store",
+                    "Tobacco shop",
+                    "Small grocery store",
+                    "Newsstand",
+                    "Drug store/pharmacy",
+                    "Gas station",
+                    "Truck stop/diner",
+                    "Liquor/package store",
+                    "Delicatessen/restaurant"
+                ],
+                "termination_condition": "If none of the above, terminate."
+            },
+            {
+                "question": "Is this store/gas station/delicatessen/restaurant part of a chain, or is it independently owned and operated?",
+                "responses": {
+                    "part_of_chain": "Terminate.",
+                    "independently_owned": "Proceed."
+                }
+            }
+        ]
+    },
+    "contact_number": "2041784366"
+}

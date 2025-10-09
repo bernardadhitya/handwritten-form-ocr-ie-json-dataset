@@ -1,0 +1,60 @@
+{
+    "company": "MERCADOTECNIA CONSULTING",
+    "project_code": "ProjctCnd82-186",
+    "contact_number": "313569-7289",
+    "date": "April/June, 1982",
+    "screener": "Cuslification Screener",
+    "interview_details": {
+        "date": "",
+        "time_start": "",
+        "time_finish": "",
+        "interviewer's_name": "CAEMEN",
+        "code": "a5"
+    },
+    "respondent_details": {
+        "name": "aiN Mneriec",
+        "address": {
+            "street": "1925 MARD",
+            "apt_no": "",
+            "city": "S",
+            "state": "",
+            "zip": ""
+        },
+        "telephone": {
+            "area_code": "432",
+            "exchange": "333"
+        }
+    },
+    "introduction": "Hello, my name is [Name]. I work for a public opinion firm and am conducting a survey with people in this area. I have nothing to sell you. I'm only interested in your opinions and the opinions of people in your household. By the way, do you wish to speak with me in Spanish or English?",
+    "questions": {
+        "smoking": {
+            "question": "Does anyone in this household smoke cigarettes?",
+            "options": {
+                "1": "Yes",
+                "2": "No"
+            }
+        },
+        "ethnic_background": {
+            "question": "We are interested in talking to Hispanic people from various ethnic backgrounds.",
+            "options": {
+                "1": "Puerto Rico",
+                "2": "Cuba",
+                "3": "Mexico",
+                "4": "Other Hispanic",
+                "5": "Other"
+            }
+        },
+        "employment": {
+            "question": "Do you or any of your relatives or close friends work for a tobacco company, an advertising agency, or a marketing research company or field service firm?",
+            "options": {
+                "1": "Yes",
+                "2": "No"
+            }
+        }
+    },
+    "respondent_name": {
+        "first": "ncA",
+        "last": ""
+    },
+    "id": "670057510"
+}

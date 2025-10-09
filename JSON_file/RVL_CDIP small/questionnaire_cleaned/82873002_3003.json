@@ -1,0 +1,91 @@
+{
+    "offer": {
+        "description": "We'd like to send you money-saving coupons and other promotional offers in the future.",
+        "signature_required": true,
+        "certification": "By accepting this offer, I certify that I am a smoker 21 years of age or older, and that I am willing to receive this offer.",
+        "age_restriction": "This offer is restricted to smokers 21 years of age or older.",
+        "mail_deadline": "Mail no later than September 27, 1991.",
+        "postage": "The postage is free."
+    },
+    "survey": {
+        "questions": [
+            {
+                "question": "Are you currently a smoker?",
+                "options": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            {
+                "question": "Which packaging do you prefer?",
+                "options": [
+                    "Soft pack",
+                    "Hard pack"
+                ]
+            },
+            {
+                "question": "Where do you usually buy your cigarettes?",
+                "options": [
+                    "Supermarket/grocery store",
+                    "Drug store",
+                    "Convenience/gas station"
+                ]
+            },
+            {
+                "question": "You are",
+                "options": [
+                    "Male",
+                    "Female"
+                ]
+            },
+            {
+                "question": "Age",
+                "options": [
+                    "21-24",
+                    "35-49",
+                    "50-65"
+                ]
+            },
+            {
+                "question": "How do you usually buy your cigarettes?",
+                "options": [
+                    "Regular brand",
+                    "None",
+                    "Menthol",
+                    "Regular",
+                    "Menthol",
+                    "Size",
+                    "Light",
+                    "Long/100's",
+                    "Lights",
+                    "Extra",
+                    "True",
+                    "Max",
+                    "Long/120's",
+                    "King",
+                    "Regular",
+                    "Menthol"
+                ]
+            },
+            {
+                "question": "Which brand do you smoke most often?",
+                "options": []
+            },
+            {
+                "question": "Which brand would you buy with the enclosed coupon?",
+                "options": [
+                    "Newport",
+                    "Heritage"
+                ]
+            },
+            {
+                "question": "If the store you went to were out of your favorite brand, which brand would you buy instead?",
+                "options": []
+            },
+            {
+                "question": "Check this box only if you'd like to receive future offers",
+                "options": []
+            }
+        ]
+    }
+}

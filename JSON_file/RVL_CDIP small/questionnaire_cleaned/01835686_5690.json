@@ -1,0 +1,70 @@
+{
+    "title": "NATIONAL: CONSENSUS SURVEYS",
+    "address": {
+        "street": "801 Second Avenue",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10017"
+    },
+    "instructions": [
+        "Please take a few minutes to go through the advertisements in this book.",
+        "Please take as much time with each ad as you need to. If you ordinarily wear reading glasses, you'll need them.",
+        "HAND RESPONDENT PORTFOLIO AND TAKE IT BACK BEFORE CONTINUING."
+    ],
+    "questions": [
+        {
+            "text": "Now I'd like to ask you a few questions about the ads in the book. What brands or products do you remember seeing ads for in the book? Please specify any other brands.",
+            "note": "DO NOT READ EITHER BRAND NAMES OR PRODUCT CATEGORIES",
+            "categories": {
+                "general_ads": [
+                    "Anana Bange",
+                    "Dole Pineapple",
+                    "BankAmericard/VISA",
+                    "General Electric Washer",
+                    "Hilton Hotels",
+                    "Bayer Aspirin",
+                    "Bolens Lawn Mower",
+                    "Old Spice Pocket Cologne",
+                    "Kawasaki",
+                    "Budweiser",
+                    "Canadian Club",
+                    "Polaroid Camera",
+                    "Coca Cola",
+                    "Singer Sewing Machine",
+                    "Concord Watch",
+                    "Taster's Choice",
+                    "Crest toothpaste",
+                    "Weight Watchers"
+                ],
+                "cigarette_ads": [
+                    "Golden Lights",
+                    "Kent",
+                    "Kent Lights",
+                    "True"
+                ]
+            }
+        },
+        {
+            "text": "Do you remember any ads for cigarettes?",
+            "follow_up": [
+                {
+                    "condition": "IF NO CIGARETTE BRANDS MENTIONED ABOVE ASK",
+                    "text": "What brands do you remember seeing ads for? Any others?",
+                    "brands": [
+                        "Golden Lights",
+                        "Kent",
+                        "True"
+                    ]
+                },
+                {
+                    "condition": "IF ONE OR TWO CIGARETTE BRANDS MENTIONED ASK",
+                    "text": "Do you remember any ads for any other brands of cigarettes?",
+                    "brands": [
+                        "Golden Lights",
+                        "Kent"
+                    ]
+                }
+            ]
+        }
+    ]
+}

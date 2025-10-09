@@ -1,0 +1,134 @@
+{
+    "survey": "SMOKERS SURVEY",
+    "recipient": "FOR YOU",
+    "instructions": "Please take a moment to complete, sign and mail this survey. Your answers will help us better understand the needs.",
+    "name": "MARIE",
+    "eligibility": "best-known cigarette brands. Limited to smokers 21 or older. Good only to US residents.",
+    "address": {
+        "name": "OM SPILLAN",
+        "title": "DMrs",
+        "company": "3Ms",
+        "street": "13952EMARNA",
+        "address_line": "Addres",
+        "city": "AURORA",
+        "state": "CO",
+        "zip": "60014"
+    },
+    "free_samples": "ree samples of cigare",
+    "signature_required": "Signature (required)",
+    "birth_date_required": "Birth Date (required)",
+    "birth_date": "9/9",
+    "questions": [
+        {
+            "question": "1. What is your regular brand of cigarettes, the brand you smoke most often?",
+            "answer": ""
+        },
+        {
+            "question": "2. Is your regular brand... (Check one.)",
+            "options": [
+                "Regular/King Size",
+                "100s",
+                "120's"
+            ],
+            "answer": ""
+        },
+        {
+            "question": "3. Is your regular brand... (Check one.)",
+            "options": [
+                "Menthol",
+                "Non-Menthol",
+                "Non-Filter"
+            ],
+            "answer": ""
+        },
+        {
+            "question": "5. Is your regular brand... (Check one.)",
+            "options": [
+                "Low/1 mg Tar",
+                "Ultra/Extra Low Tar",
+                "Medium"
+            ],
+            "answer": ""
+        },
+        {
+            "question": "6. Do you usually buy it by the... ? (Check one.)",
+            "options": [
+                "Pack",
+                "Carton",
+                "Both Ways"
+            ],
+            "answer": ""
+        },
+        {
+            "question": "7. How long have you smoked this brand?",
+            "options": [
+                "Less than 1 year",
+                "1 to 2 years",
+                "2 to 3 years",
+                "3 to 5 years",
+                "Over 5 years"
+            ],
+            "answer": ""
+        },
+        {
+            "question": "8. What, if any, was your previous brand?",
+            "answer": ""
+        },
+        {
+            "question": "9. If your regular brand were not available, which of the following would you smoke?",
+            "options": [
+                "Emae",
+                "Oucnicnd",
+                "Nem",
+                "CAlpine",
+                "C Raleigh Extra",
+                "Salem",
+                "Magna",
+                "Mafboro",
+                "Sterig",
+                "Cambridge",
+                "Generic",
+                "Monarch",
+                "True",
+                "Camel",
+                "Moetclair",
+                "Vantage",
+                "Veeroy",
+                "Doral",
+                "GPC",
+                "Winston",
+                "Other"
+            ],
+            "answer": ""
+        },
+        {
+            "question": "10. Which of the following statements best describes the way you use coupons?",
+            "options": [
+                "I only use coupons if they are for my regular brand, not for my regular brand.",
+                "I never use coupons to buy cigarettes."
+            ],
+            "answer": ""
+        },
+        {
+            "question": "11. Please list all the brands of cigarettes you smoked at least one pack of in the past two weeks. How many packs did you smoke of each brand? (Use as many lines as you need. Note: 1 carton = 10 packs.)",
+            "answer": ""
+        },
+        {
+            "question": "12. How often do you use special in-store cigarette offers, such as a free gift with purchase, a 2-for-1, or special prices?",
+            "options": [
+                "I look for special offers for my regular brand.",
+                "I take advantage of special offers like brands other than my regular brand."
+            ],
+            "answer": ""
+        },
+        {
+            "question": "13. Is there another smoker in your household 21 years of age or older? Please print full name, birth date and regular brand.",
+            "answer": {
+                "first_name": "",
+                "last_name": "",
+                "birth_date": "",
+                "regular_brand": ""
+            }
+        }
+    ]
+}

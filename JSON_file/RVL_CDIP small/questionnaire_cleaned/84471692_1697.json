@@ -1,0 +1,84 @@
+{
+    "company": "CMMUNICUS, INC.",
+    "gender": [
+        {
+            "type": "Male",
+            "code": -1,
+            "location": "Chicago",
+            "project": "Project LLD-7"
+        },
+        {
+            "type": "Female",
+            "code": -2,
+            "location": "New York"
+        }
+    ],
+    "date": "April, 1978",
+    "location": "San Francisco",
+    "group": 3,
+    "survey": {
+        "name": "AM",
+        "address": "AM",
+        "city_town": "CITY/TOWN_",
+        "telephone": "TELEPHONE #",
+        "interviewed_by": "INTERVIEWED B",
+        "validated_by": "VALIDATED BY",
+        "date": "DATE:"
+    },
+    "introduction": "Hello, I'm from Communicus, a consumer opinion firm. We are conducting a survey and would like to include you.",
+    "questions": {
+        "1a": {
+            "question": "Do you smoke filter, non-menthol cigarettes?",
+            "answers": {
+                "Yes": "CONTINUE",
+                "No": "TERMINATE"
+            }
+        },
+        "1b": {
+            "question": "How many cigarettes do you usually smoke per day?",
+            "answers": {
+                "0-9": "TERMINATE",
+                "Between 10 and 15": 7,
+                "16 to 25": -2,
+                "More than 25": 3
+            }
+        },
+        "1c": {
+            "question": "What is your regular brand of cigarettes, that is, the one brand you smoke most often?",
+            "note": "PROBE FOR SPECIFIC STYLE.",
+            "example": "Marlboro",
+            "instruction": "REFER TO LIST OF BRANDS.",
+            "quota": {
+                "1": -2,
+                "2": -2
+            }
+        },
+        "statements": [
+            {
+                "statement": "I eat dinner in a restaurant at least once a month.",
+                "code": "E"
+            },
+            {
+                "statement": "I read a daily newspaper.",
+                "code": "E"
+            },
+            {
+                "statement": "I do most of the food shopping for myself and/or my family.",
+                "code": "E"
+            },
+            {
+                "statement": "I have taken an airline trip on a scheduled commercial airline in the past 12 months.",
+                "code": -4
+            }
+        ],
+        "3": {
+            "question": "Into which of the following age groups do you fall?",
+            "answers": {
+                "Under 21": 84471692,
+                "21-34": 9,
+                "35-65": -2,
+                "65+": "TERMINATE"
+            }
+        }
+    }
+}

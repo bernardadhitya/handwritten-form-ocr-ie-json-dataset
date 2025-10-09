@@ -1,0 +1,58 @@
+{
+    "company": "Marketing Information Systems, Inc.",
+    "address": {
+        "street": "100 Sylvan Avenue",
+        "city": "Englewood Cliffs",
+        "state": "New Jersey",
+        "zip": "07632"
+    },
+    "contact": {
+        "toll_free": "1-800-631-1623",
+        "phone": "201-947-6900"
+    },
+    "interview": {
+        "interviewer_signature": "",
+        "questions": [
+            {
+                "question": "First of all, are you between the ages of 21 and 50?",
+                "answers": {
+                    "yes": true,
+                    "no": false
+                }
+            },
+            {
+                "question": "What is your exact age?",
+                "age_categories": [
+                    "21-24",
+                    "25-29",
+                    "30-34",
+                    "35-39",
+                    "40-44",
+                    "45-50"
+                ]
+            },
+            {
+                "question": "To ensure that we've included all segments of the population, could you please tell me whether you are White, Black, Hispanic, or Asian?",
+                "options": [
+                    "White",
+                    "Black",
+                    "Hispanic",
+                    "Asian",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Next, I'm going to read you a list of products. For each one I read please tell me if you yourself use the product.",
+                "products": [
+                    "Antacids",
+                    "Aspirin",
+                    "Beer",
+                    "Breakfast cereals",
+                    "Cigarettes",
+                    "Diet soda",
+                    "Frozen vegetables"
+                ]
+            }
+        ]
+    }
+}

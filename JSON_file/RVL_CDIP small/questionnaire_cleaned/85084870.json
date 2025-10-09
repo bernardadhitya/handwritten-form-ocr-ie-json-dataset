@@ -1,0 +1,23 @@
+{
+    "study_id": "#7593",
+    "objective": "To ascertain brand descriptions that differentiate between similar brands and to learn what makes brands both similar and different.",
+    "procedure": "Match five pairs of brands that are alike within each pair and describe the similarities and differences according to specified questions.",
+    "instructions": "Provide complete and useful reasons that explain exactly how or what is alike or different. Include brand name, type, and length for each mentioned.",
+    "brand_comparison": {
+        "first_pair": {
+            "brand": {
+                "regular_brand": {
+                    "name": "Casrrel",
+                    "type": "Filtr"
+                },
+                "similar_brands": [
+                    "marllr"
+                ],
+                "most_similar_brand": "Qlyour regular brand",
+                "similarities": "Think of qualities, performance, image, general impressions, what they do for you or anything else. Provide a clear complete answer on all the things that are alike."
+            }
+        }
+    },
+    "note": "Brands come in regular, King, and 100mm lengths, and are menthol, filter, and non-filter.",
+    "reference_number": "85084870"
+}

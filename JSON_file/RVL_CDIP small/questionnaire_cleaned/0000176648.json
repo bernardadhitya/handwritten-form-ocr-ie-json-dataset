@@ -1,0 +1,48 @@
+{
+    "company": "MERCADOTECNA CONSULTING",
+    "project_code": "02-186nC",
+    "contact_number": "313569-7289",
+    "date_range": "April/June 1982",
+    "qualification_screener": "5723",
+    "finish": "135",
+    "cone": "27",
+    "respondent": "3",
+    "address": {
+        "street": "32.Fh",
+        "apartment_number": "AP1.NU",
+        "city": "P782"
+    },
+    "telephone": {
+        "number": "5",
+        "area_code": "4346",
+        "exchange": "5"
+    },
+    "introduction": "Hello, my name is [Name]. I work for a public opinion firm, and we are conducting a survey with people in this area. I have nothing to sell you. I'm only interested in your opinions and the opinions of others.",
+    "language": "English",
+    "smoking_question": {
+        "question": "Does anyone in this household smoke cigarettes?",
+        "response": "No",
+        "next_steps": "ASK Q.B THEN GO TO PAGES-2 NON-SMOKING HOUSEHOLDS"
+    },
+    "ethnic_interest": {
+        "question": "We are interested in talking to Hispanic people from various ethnicities.",
+        "options": [
+            "Puerto Rico",
+            "Cuba",
+            "Mexico",
+            "Other Hispanic",
+            "Other"
+        ],
+        "note": "CONTINUE. MAY OR MAY NOT HAVE TO TERMINATE LATER DUE TO ETHNIC QUOTAS."
+    },
+    "employment_question": {
+        "question": "Do you or any of your relatives or close friends work for (1) a tobacco company, (2) an advertising agency, or (3) a marketing research company or field service?",
+        "response": "Yes",
+        "next_steps": "THANK, TERMINATE, TALLY, REUSE SCREENER"
+    },
+    "contact_person": {
+        "question": "May I ask who I am speaking with?",
+        "name": "Last",
+        "id": "670055326"
+    }
+}

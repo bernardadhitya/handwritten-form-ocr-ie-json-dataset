@@ -1,0 +1,150 @@
+{
+    "header": {
+        "code": "AHFMAKKETIMKESEAKCHI",
+        "number": 1204,
+        "title": "NATIONAL CONSENSUS SURVEYS",
+        "reference": "#25077W",
+        "location": {
+            "city": "New York",
+            "state": "New York",
+            "zip": 10017
+        },
+        "date": "August, 1977"
+    },
+    "portfolio": "CICAKETTE PORTFOLIO",
+    "questionnaire": "SCKEENING QUESTIONNAIRE",
+    "interview": {
+        "start": "LS.0",
+        "end": 305,
+        "telephone": "TEL.839543",
+        "address": "ADDRESSO5",
+        "city": "mo",
+        "interviewer": "",
+        "metro_area": "",
+        "date_validated_by": "DAAEr"
+    },
+    "questions": [
+        {
+            "number": 1,
+            "text": "INDICATE CITY.",
+            "options": [
+                "Boston",
+                "Detroit",
+                "Des Moines",
+                "Lincoln",
+                "New Orleans",
+                "Onaha",
+                "San"
+            ]
+        },
+        {
+            "number": 2,
+            "text": "Hello. I'm from National Consensus Surveys. We are conducting a study in this area and I'd like to ask you a few questions.",
+            "initial_refusal": [
+                2,
+                4,
+                5,
+                6,
+                9,
+                10,
+                11,
+                12,
+                15,
+                16,
+                17,
+                18,
+                19,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                38,
+                40,
+                42,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                73,
+                78,
+                80,
+                84,
+                86,
+                87,
+                88,
+                90,
+                99,
+                100
+            ]
+        },
+        {
+            "number": 3,
+            "text": "Have you, yourself, participated in a market research survey in the past three months or so?",
+            "terminate": "TERMINATE AND CIRCLE NEXT HIGHEST NUMBER BELOW",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "participated_in_study": [
+                2,
+                3,
+                4,
+                7,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "number": 4,
+            "text": "SHOW AGE CARD. Please tell me which letter on this card includes your age",
+            "terminate": "TERMINATE AND CIRCLE NEXT HIGHEST NUMBER",
+            "age_groups": {
+                "E": "36 to 44",
+                "D": "30 to 34",
+                "G": "45 to 55"
+            },
+            "under_or_over_age": [
+                2,
+                3,
+                5,
+                7,
+                8,
+                10,
+                11,
+                12
+            ]
+        }
+    ],
+    "notes": "TAKE BACK AGE CARD. (OVER)"
+}

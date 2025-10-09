@@ -1,0 +1,76 @@
+{
+    "document": {
+        "header": {
+            "date": "JUN-11-97",
+            "time": "16.01",
+            "from": "NEWMAN-STEIN INC."
+        },
+        "company": {
+            "name": "Newman-Stein, Inc.",
+            "address": "902 Broadway",
+            "job_number": "4907",
+            "city": "New York",
+            "state": "New York",
+            "zip_code": "10010"
+        },
+        "date": "June, 1997",
+        "quota_box": {
+            "user_type": "Q.1q/h",
+            "questionnaire_color": [
+                "Pink",
+                "Yellow"
+            ],
+            "non_menthol": {
+                "Misty_Lights": 1,
+                "Virginia_Slims": 2,
+                "All_Others": 3
+            },
+            "menthol": {
+                "Misty_Lights": 5,
+                "Virginia_Slims": null,
+                "All_Others": 6
+            }
+        },
+        "sample_page": {
+            "cigarette_product_test": "Screener",
+            "respondent": {
+                "name": null,
+                "area_code": null,
+                "phone_number": null,
+                "address": null,
+                "apartment_number": null,
+                "city": null,
+                "state": null,
+                "zip_code": null
+            },
+            "interviewer": {
+                "name": null,
+                "id_number": null,
+                "time_began": {
+                    "time": null,
+                    "am_pm": null
+                },
+                "date": null,
+                "time_ended": {
+                    "time": null,
+                    "am_pm": null
+                }
+            }
+        },
+        "survey": {
+            "introduction": "Hello, I'm from Newman-Stein, Inc., a national market research firm. We're conducting a survey in this area and I would like to ask you a few questions.",
+            "questions": [
+                {
+                    "question": "Do you currently use any of the following products on a regular basis?",
+                    "options": [
+                        "Hair conditioner",
+                        "Non-prescription pain relievers",
+                        "Cigarettes",
+                        "Mouthwash"
+                    ],
+                    "response": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "survey": {
+        "title": "NATIONAL CONSENSUS SURVEYS",
+        "id": "#42316w",
+        "location": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10017"
+        },
+        "questions": [
+            {
+                "id": 1,
+                "text": "What brands or products do you remember seeing ads for in the book?",
+                "note": "DO NOT READ EITHER BRAND NAMES OR PRODUCT CATEGORIES.",
+                "categories": [
+                    "GENERAL ADS",
+                    "CIGARETTE ADS"
+                ],
+                "brands": [
+                    "Agana Renge",
+                    "Dole Pineapple",
+                    "Golden Lights",
+                    "Luke",
+                    "BankAmericard/VISA",
+                    "General Electric Washer",
+                    "Bayer Aspirin",
+                    "Hilton Hotels",
+                    "Golden (Unsp.)",
+                    "Kawasaki",
+                    "Kent",
+                    "Budweiser",
+                    "Old Spice Pocket Cologne",
+                    "Polaroid Camera",
+                    "Canadian Club",
+                    "Coca Cola",
+                    "Singer Sewing Machine",
+                    "Concord Watches",
+                    "Weight Watchers",
+                    "Taster's Choice"
+                ]
+            },
+            {
+                "id": 2,
+                "text": "Do you remember any ads for cigarettes?",
+                "brands": [
+                    "Golden (Unsp.)",
+                    "Kent Golden",
+                    "Kent",
+                    "Golden",
+                    "Kent Lights",
+                    "Tru"
+                ]
+            },
+            {
+                "id": 3,
+                "text": "What brands do you remember?",
+                "brands": [
+                    "Golden Lights",
+                    "Golden (Unsp.)",
+                    "Kent",
+                    "Golden",
+                    "Kent Golden Lights",
+                    "Kent Lights",
+                    "True"
+                ]
+            }
+        ]
+    }
+}

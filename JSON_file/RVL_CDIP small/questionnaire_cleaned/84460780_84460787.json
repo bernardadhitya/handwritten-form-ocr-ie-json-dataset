@@ -1,0 +1,59 @@
+{
+    "company": "COMMUNICUS, INC.",
+    "gender": "Male",
+    "number": 5,
+    "location": "Milwaukee",
+    "project": "Project LLD-6",
+    "code": "003",
+    "group": "6-1",
+    "additionalGender": "Female",
+    "additionalNumber": -2,
+    "additionalLocation": "Syracuse",
+    "additionalCode": -2,
+    "date": "April, 1978",
+    "letter": "A",
+    "additionalCity": "Omaha",
+    "groupCode": "GROUP",
+    "groupNumber": "4-1",
+    "additionalNumber2": 3,
+    "name": "NAME",
+    "address": "ADDRESS",
+    "initial": "M",
+    "cityOrTo": "CITY/TO",
+    "interview": "INTERVII",
+    "validation": "VALIDATI",
+    "greeting": "Hello,",
+    "conduct": "conduct.",
+    "survey": "survey and would like to include you.",
+    "question1": {
+        "text": "Do you smoke filter, non-menthol cigarettes?",
+        "yes": "CONTINUE",
+        "no": "TERMINATE"
+    },
+    "question1b": {
+        "text": "How many cigarettes do you usually smoke per day?",
+        "options": {
+            "0-9": "TERMINATE",
+            "10-15": "Between 10 and 15",
+            "16-25": "16 to 25",
+            "moreThan25": "More than 25"
+        }
+    },
+    "question2": {
+        "text": "Which of the following statements apply to you?",
+        "options": {
+            "A": "I eat dinner in a restaurant at least once a month.",
+            "B": "I read a daily newspaper.",
+            "C": "I do most of the food shopping for myself and/or my family.",
+            "D": "I have taken an airline trip on a scheduled commercial airline in the past 12 months."
+        }
+    },
+    "ageGroupQuestion": {
+        "text": "Into which of the following age groups do you fall?",
+        "options": {
+            "under21": "TERMINATE",
+            "35+": "TERMINATE"
+        }
+    },
+    "codeNumber": 84460780
+}

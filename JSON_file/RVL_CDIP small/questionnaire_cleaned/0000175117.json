@@ -1,0 +1,83 @@
+{
+    "company": "MAKET TRENOSINC.",
+    "address": {
+        "street": "44 EAST 23rd STREET",
+        "city": "NEW YORK",
+        "state": "NEW YORK",
+        "zip": "10010"
+    },
+    "date": "November 1982",
+    "project_number": "219-3",
+    "document": "SCREENING QUESTIONNAIRE",
+    "questions": [
+        {
+            "question": "What is your age? Are you between the ages of 21 and 35, younger or older?",
+            "options": [
+                {
+                    "answer": "Younger than 21",
+                    "action": "TERMINATE"
+                },
+                {
+                    "answer": "Between 21-35",
+                    "action": "CONTINUE"
+                },
+                {
+                    "answer": "Older than 35",
+                    "action": "TERMINATE"
+                }
+            ]
+        },
+        {
+            "question": "Do you or does any member of your immediate family work for:",
+            "options": [
+                {
+                    "answer": "An advertising agency",
+                    "action": "TERMINATE"
+                },
+                {
+                    "answer": "A market research company",
+                    "action": "TERMINATE"
+                },
+                {
+                    "answer": "A company manufacturing, selling, or distributing beer, wine, or other alcoholic beverages",
+                    "action": "TERMINATE"
+                },
+                {
+                    "answer": "None of the above",
+                    "action": "CONTINUE"
+                }
+            ]
+        },
+        {
+            "question": "Which of the following did you do in the past days?",
+            "options": [
+                {
+                    "answer": "Drink a glass of wine?",
+                    "response": "Yes"
+                },
+                {
+                    "answer": "Have a glass of beer?",
+                    "response": "No"
+                },
+                {
+                    "answer": "Smoke a cigarette?",
+                    "response": "No",
+                    "action": "TERMINATE"
+                }
+            ]
+        },
+        {
+            "question": "About how many cigarettes did you smoke?",
+            "options": [
+                {
+                    "answer": "Less than half a pack",
+                    "action": "TERMINATE"
+                },
+                {
+                    "answer": "Half a pack or more",
+                    "action": "CONTINUE"
+                }
+            ]
+        }
+    ]
+}

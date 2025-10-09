@@ -1,0 +1,78 @@
+{
+    "title": "OSEMAME APYEARS",
+    "code": "N-3122REO CODES",
+    "instructions": "Please print name/address corrections on Label. Does the change apply to all family members or just to you?",
+    "address_change": {
+        "question": "If Address Changed, what is your new phone number? Please include area code."
+    },
+    "letter": {
+        "greeting": "Dear Panelist:",
+        "content": "With this ballot I am enclosing ten packs of cigarettes coded as follows: H6 - 5 packs and - 5 packs. Please read the directions for each part and fill out the ballot completely. When the ballot is completely filled out, please return it to me in the enclosed postage-paid envelope. Thank you very much - your cooperation in this test is most helpful.",
+        "closing": "Study Leader"
+    },
+    "instructions_for_smoking": "FIRST SMOKE THREE OR FOUR PACKS OF THE CIGARETTES CODED H6",
+    "cigarette_evaluation": {
+        "cigarette_code": "H6",
+        "questions": [
+            {
+                "question": "Does not have a mild taste",
+                "options": [
+                    "0",
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5"
+                ]
+            },
+            {
+                "question": "Is not harsh",
+                "options": [
+                    "0",
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5"
+                ]
+            },
+            {
+                "question": "Has a good taste",
+                "options": [
+                    "0",
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5"
+                ]
+            },
+            {
+                "question": "Satisfying",
+                "options": [
+                    "0",
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5"
+                ]
+            },
+            {
+                "question": "Leaves a good aftertaste",
+                "options": [
+                    "0",
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5"
+                ]
+            }
+        ]
+    },
+    "additional_info": {
+        "note": "I like extremely",
+        "code": "2031127837"
+    }
+}

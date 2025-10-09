@@ -1,0 +1,123 @@
+{
+    "company": {
+        "name": "Marketing Information Systems Inc.",
+        "address": {
+            "street": "100 Sylvan Avenue",
+            "city": "Englewood Cliffs",
+            "state": "New Jersey",
+            "zip": "07632"
+        },
+        "contact": {
+            "phone": "1-800-631-1623/201-947-6900"
+        },
+        "id": "#830289-A",
+        "location": "LITTLE ROCK II",
+        "date": "March 1989"
+    },
+    "survey": {
+        "introduction": "Hello, my name is [Name] from Marketing Information Systems. We are collecting opinions on certain products and I'd like to ask you a few questions.",
+        "questions": [
+            {
+                "id": 1,
+                "text": "First of all, are you 25 years of age or older?",
+                "options": [
+                    "Yes",
+                    "No"
+                ],
+                "action": "THANK AND TERMINATE"
+            },
+            {
+                "id": 2,
+                "text": "What is your exact age?",
+                "instruction": "RECORD EXACT AGE AT LEFT BELOW THEN X CORRESPONDING AGE CATEGORY",
+                "categories": [
+                    {
+                        "range": "25-34",
+                        "code": "X-1"
+                    },
+                    {
+                        "range": "35 or older",
+                        "code": "X-2"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "RECORD BY VOICE",
+                "options": [
+                    {
+                        "gender": "Male",
+                        "code": "X-1"
+                    },
+                    {
+                        "gender": "Female",
+                        "code": "X-2"
+                    }
+                ],
+                "instruction": "CHECK QUOTAS"
+            },
+            {
+                "id": 4,
+                "text": "Next, I'm going to read you a list of products. For each one I read, please tell me if you yourself use the product.",
+                "instruction": "READ ENTIRE LIST ONE AT A TIME AND RECORD",
+                "products": [
+                    {
+                        "name": "Antacids",
+                        "code": "X-1"
+                    },
+                    {
+                        "name": "Aspirin",
+                        "code": "X-2"
+                    },
+                    {
+                        "name": "Beer",
+                        "code": "X-3"
+                    },
+                    {
+                        "name": "Breakfast cereals",
+                        "code": "X-4"
+                    },
+                    {
+                        "name": "Cigarettes",
+                        "code": "X-5",
+                        "action": "THANK AND TERMINATE"
+                    },
+                    {
+                        "name": "Diet soda",
+                        "code": "X-6"
+                    },
+                    {
+                        "name": "Frozen vegetables",
+                        "code": "X-7"
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "text": "What is your occupation?",
+                "instruction": "WRITE IN FULL TITLE",
+                "note": "IF RESPONDENT GIVES A GENERAL OCCUPATION SUCH AS SALES OR MANUFACTURING ASK: What products are involved in your occupation?",
+                "action": "TERMINATE IF RESPONDENT ANSWERS 'CIGARETTES'"
+            },
+            {
+                "id": 6,
+                "text": "Are you married?",
+                "options": [
+                    "Yes",
+                    "No"
+                ],
+                "action": "SKIP TO Q.8"
+            },
+            {
+                "id": 7,
+                "text": "What is the occupation of your spouse?",
+                "instruction": "WRITE IN FULL TITLE",
+                "note": "IF RESPONDENT GIVES A GENERAL OCCUPATION SUCH AS SALES OR MANUFACTURING ASK: What products are involved in your occupation?",
+                "action": "TERMINATE IF RESPONDENT ANSWERS 'CIGARETTES'"
+            }
+        ]
+    },
+    "contact": {
+        "phone": "202-298-4452"
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "survey": "1996 Political Activity Survey",
+    "respondent": {
+        "name": "Mr. Jac Kader",
+        "company": "RTCdirect",
+        "date": "31346"
+    },
+    "questions": [
+        {
+            "question": "Are you a registered voter?",
+            "answer": "Yes"
+        },
+        {
+            "question": "Do you plan to vote in the 1996 elections?",
+            "answer": "No"
+        },
+        {
+            "question": "Concerning issues of importance, how would you prefer to contact your elected officials?",
+            "options": [
+                "Writing a letter",
+                "Sending an E-mail",
+                "Sending a fax",
+                "Making a telephone call",
+                "Making an office visit"
+            ]
+        },
+        {
+            "question": "Have you written a letter to the editor of your local newspaper about issues of importance to you?",
+            "answer": "Yes"
+        },
+        {
+            "question": "If no, would you be willing to write a letter to the editor of your local newspaper?",
+            "answer": "No"
+        },
+        {
+            "question": "Do you have access to on-line or Internet services?",
+            "answer": "Yes",
+            "service": "AOL"
+        },
+        {
+            "question": "On which of the topics below would you most likely voice your opinion to elected officials?",
+            "topics": [
+                "Government regulations of tobacco sales and use",
+                "Excise taxes on tobacco products",
+                "Smoking restrictions/bans in public places, restaurants or workplaces",
+                "Youth access to tobacco products"
+            ]
+        },
+        {
+            "question": "Do you receive the Smokers Advocate newsletter about issues concerning smokers' rights?",
+            "answer": "Yes"
+        },
+        {
+            "question": "If no, would you like to receive this free newsletter?",
+            "answer": "No"
+        }
+    ]
+}

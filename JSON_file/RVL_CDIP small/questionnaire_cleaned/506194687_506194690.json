@@ -1,0 +1,65 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "options": [
+                "Yes",
+                "No (TERMINATE)"
+            ]
+        },
+        {
+            "id": 2,
+            "options": [
+                "Yes",
+                "No (TERMINATE)"
+            ]
+        },
+        {
+            "id": 3,
+            "options": [
+                "1-15",
+                "16-25",
+                "Over 25",
+                "DK/NA"
+            ]
+        },
+        {
+            "id": 4,
+            "question": "In your opinion, would you say that you are smoking more cigarettes per day now than you did a year ago, less now than you did a year ago, or about the same amount per day now as you did a year ago.",
+            "options": [
+                "More",
+                "Less",
+                "The Same",
+                "D/NA"
+            ]
+        },
+        {
+            "id": 5,
+            "question": "What one brand do you smoke most often and consider to be your usual brand. Please tell me the full brand name as it appears on the pack."
+        },
+        {
+            "id": "5a",
+            "question": "Is that a Filter or Non-Filter?",
+            "options": [
+                "Filter",
+                "Non-Filter"
+            ]
+        },
+        {
+            "id": "5b",
+            "question": "Is that a Menthol or Non-Menthol?",
+            "options": [
+                "Menthol",
+                "Non-Menthol"
+            ]
+        },
+        {
+            "id": "5c",
+            "question": "Is that the Regular Ksg Size or the longer 100's?",
+            "options": [
+                "Regular g Size",
+                "The Longer 100's"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "company": "Product Opinion Laboratory",
+    "address": {
+        "po_box": "26563",
+        "city": "Richmond",
+        "state": "Virginia",
+        "zip": "23286"
+    },
+    "contact": {
+        "telephone": "1-800-334-7931",
+        "hours": "Monday through Friday 8:30-4:30 E.T."
+    },
+    "instructions": {
+        "note": "If name or address changed, please fill in the circle and note the change in the space below.",
+        "participant": "Only the person whose name is above is to answer this question.",
+        "general": "Please smoke enough of the cigarettes to be able to rate them fairly. You may or may not like the cigarettes and can stop smoking them whenever you choose. That is OKAY. It will not affect your participation in future studies. Then fill out all three sections of the ballot. When you have completed the ballot, please return it in the enclosed postage-paid envelope. Thank you for agreeing to participate in this study."
+    },
+    "section1": {
+        "ratings": {
+            "liking": {
+                "scale": [
+                    "Dislike Extremely",
+                    "Like Extremely"
+                ],
+                "options": 7
+            },
+            "strength": {
+                "scale": [
+                    "Very Low",
+                    "Very High"
+                ],
+                "options": 7
+            },
+            "harsh": {
+                "scale": [
+                    "Very Low",
+                    "Very High"
+                ],
+                "options": 7
+            },
+            "aftertaste": {
+                "scale": [
+                    "Very Low",
+                    "Very High"
+                ],
+                "options": 5
+            },
+            "similarity_to_own_brand": {
+                "scale": [
+                    "Very Different",
+                    "Identical"
+                ],
+                "options": 6
+            }
+        }
+    },
+    "ballot_id": "2081971057"
+}

@@ -1,0 +1,65 @@
+{
+    "company": "Bellomy-Carrigg, Inc.",
+    "job": "0503",
+    "month": "May",
+    "year": 1982,
+    "study": "PSYCHOPHYSIOLOGY STUDY-D.G.82",
+    "questionnaire": "TELEPHONE SCREENING QUESTIONNAIRE",
+    "fields": {
+        "name": null,
+        "address": null,
+        "city": null,
+        "telephoneAreaCode": "99-",
+        "interviewer": "NF",
+        "askToSpeakTo": "MALES/FEMALES 25-35"
+    },
+    "introduction": "Hello, I'm from Bellomy-Carrigg, Inc., a local marketing research company. I'd like to ask you a few questions.",
+    "questions": [
+        {
+            "question": "First of all, do you or does any member of your family work for an advertising agency or marketing research company?",
+            "response": "NO",
+            "action": "TERMINATE, ERASE"
+        },
+        {
+            "question": "A tobacco company?",
+            "response": null,
+            "action": "RE-USE"
+        },
+        {
+            "question": "A food company?",
+            "response": null,
+            "action": null
+        },
+        {
+            "question": "A beverage company?",
+            "response": null,
+            "action": null
+        },
+        {
+            "question": "What is your age?",
+            "response": "RECORD BELOW",
+            "condition": "CONTINUE ONLY IF AGE 25-35; TERMINATE ALL OTHER."
+        },
+        {
+            "question": "Which of the following products do you presently use?",
+            "options": [
+                {
+                    "product": "Fruit Juices",
+                    "response": "No"
+                },
+                {
+                    "product": "Carbonated Soft Drinks",
+                    "response": null
+                },
+                {
+                    "product": "Coffee",
+                    "response": "SKIP TO Q.8a"
+                },
+                {
+                    "product": "Alcoholic",
+                    "response": "50550"
+                }
+            ]
+        }
+    ]
+}

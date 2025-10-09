@@ -1,0 +1,43 @@
+{
+    "survey": {
+        "recipient": {
+            "name": "Mr. Donald Merow",
+            "address": "1413 Kane Street, La Crosse, WI 54603-2470"
+        },
+        "questions": [
+            {
+                "question": "Is there another smoker in your household 21 years of age or older?",
+                "response": null
+            },
+            {
+                "question": "Do you take advantage of special offers or brands other than your regular brand?",
+                "response": null
+            }
+        ],
+        "preferences": {
+            "regular_brand": null,
+            "other_brands": [
+                "Non-Menthol",
+                "Menthol",
+                "True",
+                "Vantage",
+                "Non-Filter",
+                "Light/Mild"
+            ],
+            "usage": {
+                "years_smoking": null,
+                "packs_smoked": null
+            }
+        },
+        "consent": {
+            "birthdate": null,
+            "signature": null,
+            "agreement": "By responding to this survey and signing, I certify that I am a cigarette smoker 21 years of age or older and am also willing to receive free samples of cigarettes and incentive items in the mail, subject to applicable state and federal law."
+        },
+        "survey_id": "5070600114506901",
+        "additional_info": {
+            "coupon_usage": null,
+            "special_offers_interest": null
+        }
+    }
+}

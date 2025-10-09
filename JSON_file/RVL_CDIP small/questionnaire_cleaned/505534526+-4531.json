@@ -1,0 +1,82 @@
+{
+    "company": "Bellomy-Carrigg, Inc.",
+    "job": "10906",
+    "code": "0015",
+    "date": "October, 1984",
+    "project": "WISTONSMIMNCPAG",
+    "cells": "1-4",
+    "test": "AA EXTENDED USE CONCEPT/PRODUCT TEST (3 CELLS)",
+    "questionnaire": "TELEPHONE CALLSACK QUESTIONNAIRE",
+    "respondent": {
+        "name": "RESPONDENTSNAME2",
+        "telephone_number": "TELEPHONENUMBER-",
+        "callback_appointment": {
+            "day": "Ai",
+            "date": "DATE:",
+            "time": "0 AM/PM"
+        }
+    },
+    "instructions": "BEFORE DIALING, READ THE INSTRUCTIONS FOR THE CHIP GAME Q.41 ON THE NEXT PAGE.",
+    "call_record": {
+        "callback_attempt": [
+            {
+                "number": 1,
+                "date": "10/as",
+                "time": "6",
+                "completed": false,
+                "not_at_home": false,
+                "refused": false,
+                "no_such_person": false,
+                "other": false
+            },
+            {
+                "number": 2,
+                "date": "",
+                "time": "",
+                "completed": false,
+                "not_at_home": false,
+                "refused": false,
+                "no_such_person": false,
+                "other": false
+            },
+            {
+                "number": 3,
+                "date": "",
+                "time": "",
+                "completed": false,
+                "not_at_home": false,
+                "refused": false,
+                "no_such_person": false,
+                "other": false
+            }
+        ]
+    },
+    "questions": {
+        "39": {
+            "question": "Of the ten (10) packs of cigarettes you were given, how many did you, yourself, smoke?",
+            "options": {
+                "1pack": "6-1",
+                "2": "-4",
+                "5": "-3",
+                "6": "-1",
+                "all_10_packs": "-0"
+            },
+            "skip_to": "Q.4 CHIP GAME ON NEXT PAGE"
+        },
+        "40a": {
+            "question": "Do you intend to smoke any more of the cigarettes we gave you in the next few days?",
+            "reschedule_callback": "WHEN RESPONDENT EXPECTS TO HAVE SMOKED 5+ PACKS.",
+            "answer": "No."
+        },
+        "40b": {
+            "question": "Why do you say you will not be smoking any more of the cigarettes we gave you?",
+            "options": {
+                "7": "",
+                "8": "",
+                "9": "",
+                "10": "",
+                "15": ""
+            }
+        }
+    }
+}
