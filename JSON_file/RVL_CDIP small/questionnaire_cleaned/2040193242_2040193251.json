@@ -1,0 +1,57 @@
+{
+    "company": "WINONA MRB, INC.",
+    "project": "PREMIER TMT - WAVE I",
+    "address": {
+        "street": "8200 Humboldt Avenue South",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip": "55431"
+    },
+    "date": "NOVEMBER, 1988",
+    "interview": {
+        "type": "NONSMOKER",
+        "interviewer": "Lou Carsule",
+        "questions": [
+            {
+                "question": "You mentioned that you do not smoke cigarettes. Have you ever smoked cigarettes on a regular basis?",
+                "options": {
+                    "yes": true,
+                    "no": false,
+                    "skip_to": "Q.4a",
+                    "dont_know_refused": null
+                }
+            },
+            {
+                "question": "For how long did you smoke cigarettes before quitting?",
+                "options": {
+                    "for_6_months_or_less": 1,
+                    "for_7_to_11_months": 2,
+                    "for_12_months_about_a_year": 3,
+                    "over_1_year_to_2_years": 4,
+                    "over_2_years_to_3_years": 5,
+                    "over_3_years_to_5_years": 6,
+                    "over_5_years_to_10_years": 7,
+                    "over_10_years": 8,
+                    "dont_know_refused": "X"
+                }
+            },
+            {
+                "question": "And, how long ago did you quit smoking cigarettes?",
+                "options": {
+                    "within_the_past_week": 1,
+                    "1_to_4_weeks_ago_1_month": 2,
+                    "2_to_6_months_ago": 3,
+                    "7_to_12_months_ago": 4,
+                    "over_1_year_to_2_years_ago": 5,
+                    "over_2_years_to_3_years_ago": 6,
+                    "over_3_years_to_5_years_ago": 7,
+                    "over_5_years_to_10_years_ago": 8,
+                    "over_10_years_ago": 9,
+                    "dont_know_refused": "X"
+                }
+            }
+        ]
+    },
+    "document_id": "2040193242",
+    "date_code": "10/20/88"
+}

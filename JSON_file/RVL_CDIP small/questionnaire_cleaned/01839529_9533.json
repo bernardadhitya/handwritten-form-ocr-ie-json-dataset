@@ -1,0 +1,63 @@
+{
+    "title": "NATIONAL CONSENSUS SURVEYS",
+    "address": "4231 801 Second Avenue, New York, New York, 10017",
+    "instructions": "Please take a few minutes to go through the advertisements in this book. Please take as much time with each ad as you care to. If you ordinarily wear reading glasses, you'll need them. HAND-RESPONDENT PORTFOLIO AND TAKE IT BACK BEFORE CONTINUING.",
+    "questions": [
+        "Now I'd like to ask you a few questions about the ads in the book. What brands or products do you remember seeing ads for in the book?",
+        "Any other brands? (DO NOT READ EITHER BRAND NAMES OR PRODUCT CATEGORIES.)"
+    ],
+    "categories": {
+        "general": [
+            "CIGARETTE ADS",
+            "BankAmericard/VISA",
+            "American Range",
+            "Dole Pineapple",
+            "General Electric Washer",
+            "Golden Lights",
+            "Bayer Aspirin",
+            "Hilton Hotels",
+            "Gillette",
+            "Bolens Lawn Mower",
+            "Kawasaki",
+            "Old Spice Pocket Cologne",
+            "Kent Golden",
+            "Budweiser",
+            "Crest toothpaste",
+            "Canadian Club",
+            "Polaroid Camera",
+            "Coca Cola",
+            "Concord Watches",
+            "Taster's Choice",
+            "Weight Watchers"
+        ],
+        "cigarette_ads": [
+            "Golden Lights",
+            "Kent Golden",
+            "Kent",
+            "Other"
+        ]
+    },
+    "instructions_2": [
+        "IF NO CIGARETTE BRANDS MENTIONED ABOVE, ASK Q.3a.",
+        "IF ONLY ONE OR TWO CIGARETTE BRANDS MENTIONED, SKIP TO Q.3.",
+        "IF ALL THREE CIGARETTE BRANDS MENTIONED, SKIP TO Q.4.",
+        "IF NO CIGARETTE BRANDS MENTIONED ABOVE, ASK: Do you remember any ads for cigarettes?"
+    ],
+    "cigarette_brands": [
+        "Golden Lights",
+        "Kent Golden",
+        "Kent",
+        "Other"
+    ],
+    "follow_up": [
+        "IF ONE OR TWO CIGARETTE BRANDS MENTIONED, ASK: Do you remember any ads for any other brands of cigarettes?",
+        "What brands were they?",
+        "Any others?"
+    ],
+    "additional_brands": [
+        "Golden Lights",
+        "Kent Golden",
+        "Kent",
+        "Other"
+    ]
+}

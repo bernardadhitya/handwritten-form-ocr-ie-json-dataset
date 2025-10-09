@@ -1,0 +1,47 @@
+{
+    "survey": {
+        "contact_method": {
+            "phone": "Please answer all questions",
+            "letter": "Skip to Question #2"
+        },
+        "satisfaction_areas": {
+            "ease_of_contact": {
+                "ability_to_get_through": "Very Satisfied",
+                "telephone_recording": "Somewhat Satisfied",
+                "time_on_hold": "Neither Satisfied Nor Dissatisfied"
+            },
+            "personnel": {
+                "courtesy": "Very Satisfied",
+                "professionalism": "Very Satisfied",
+                "knowledge": "Somewhat Satisfied",
+                "authority_to_resolve": "Somewhat Satisfied"
+            },
+            "response": {
+                "timeliness": "Very Satisfied",
+                "clarity": "Somewhat Satisfied",
+                "helpfulness": "Very Satisfied"
+            }
+        },
+        "action_taken": {
+            "satisfied": "Satisfied but the action taken was",
+            "not_completely_satisfied": "NOT completely satisfied but some action was taken",
+            "not_satisfied_action_taken": "I was NOT AT ALL satisfied with the action taken",
+            "not_satisfied_no_action": "I was NOT AT ALL satisfied no action was taken"
+        },
+        "future_purchase": {
+            "definitely_would": 1,
+            "probably_would": 1,
+            "might_or_might_not": 1,
+            "probably_would_not": 1,
+            "definitely_would_not": 0
+        },
+        "recommendation": {
+            "definitely_would": 1,
+            "probably_would": 1,
+            "might_or_might_not": 1,
+            "probably_would_not": 1,
+            "definitely_would_not": 0
+        },
+        "additional_comments": "I enjoy them and also the Coupons"
+    }
+}

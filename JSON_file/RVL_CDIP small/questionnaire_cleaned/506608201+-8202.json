@@ -1,0 +1,33 @@
+{
+    "telephoneScript": {
+        "title": "TELEPHONE SCRIPT FOR CALLS MADE TO HOWARD COUNTY MARYLAND PARTISANS",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "instruction": "May I please speak with NAME OF PARTISAN",
+                "ifAvailable": "proceed with questionnaire",
+                "ifNotAvailable": "schedule callback"
+            },
+            {
+                "stepNumber": 2,
+                "instruction": "Mr./Ms. LAST NAME OF PARTISAN, this is Caller's Name calling for R.J. Reynolds Tobacco Company. Mr./Ms. LAST NAME OF PARTISAN, R.J. Reynolds recently mailed you a letter to let you know the Howard County Council is considering a measure that would ban or severely restrict smoking in indoor areas throughout the County. Did you receive your letter?",
+                "ifYes": "skip to question 4",
+                "ifNo": "proceed to question 3"
+            },
+            {
+                "stepNumber": 3,
+                "instruction": "Mr./Ms. LAST NAME OF PARTISAN, the Howard County Council is considering a measure that would ban or severely restrict smoking in most indoor areas throughout the County. I'd like to briefly tell you what it would mean if the proposal becomes law. In Howard County workplaces, smoking would be banned in reception areas, employee dressing rooms and even employee lounges or cafeterias. Smoking would be banned in banks, public restrooms, meeting halls, theater lobbies and in enclosed bus or train shelters. And in bowling alleys, hotel lobbies, barber shops, hair salons and common areas of shopping malls, smokers would be herded into designated smoking areas. Designated smoking areas would also be mandatory in restaurants that seat 75 or more customers. Restaurant owners would have no choice. And if you violate the law you could be fined or even arrested!"
+            },
+            {
+                "stepNumber": 4,
+                "instruction": "Would you say that you are in favor of a tougher law on smoking in indoor areas of the County or opposed to it?",
+                "ifInFavor": "politely terminate call",
+                "ifOpposed": "proceed to question 5"
+            }
+        ],
+        "codes": [
+            50660,
+            8201
+        ]
+    }
+}

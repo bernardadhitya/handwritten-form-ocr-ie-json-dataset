@@ -1,0 +1,41 @@
+{
+    "id": 3509,
+    "code": "3SD",
+    "number": 350,
+    "record_id": 813047,
+    "call_record": {
+        "attempts": [
+            "1st attempt",
+            "2nd attempt",
+            "3rd attempt",
+            "4th attempt"
+        ],
+        "greeting": "Hello Mr./Mrs",
+        "survey": {
+            "introduction": "Last December we called you on a Gallup & Robinson survey about cigarette smoking. I'd like to ask you again:",
+            "questions": [
+                {
+                    "question": "About how many cigarettes do you now smoke in an average day?",
+                    "brand_question": "What brand of cigarette do you now smoke most regularly?"
+                },
+                {
+                    "condition": "ASK ONLY IF RESPONDENT HAS STOPPED SMOKING.",
+                    "question": "Exactly when did you stop smoking?"
+                }
+            ],
+            "follow_up": {
+                "condition": "ASK ONLY IF ANSWER TO 1a IS 0, OR IF ANSWER TO 1b IS NOT 'TRUE'.",
+                "question": "According to our records, you were smoking 'True' when we called you last December. Is that correct?",
+                "options": [
+                    "Yes",
+                    "No"
+                ],
+                "note": "IF 'NO', PROBE TO DETERMINE WHETHER RESPONDENT IS THE SAME PERSON INTERVIEWED IN DECEMBER, AND WHETHER INFORMATION IS CORRECT. EXPLAIN."
+            }
+        }
+    },
+    "additional_ids": [
+        8983,
+        30
+    ]
+}

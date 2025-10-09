@@ -1,0 +1,73 @@
+{
+    "title": "NATIONAL CONSENSUS SURVEYS",
+    "reference": "#42318W",
+    "address": {
+        "street": "801 Second Avenue",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10017"
+    },
+    "phone": "S66-2209",
+    "instructions": "Please take a few minutes to go through the advertisements in this book.",
+    "questions": [
+        {
+            "question": "What brands or products do you remember seeing ads for in the book?",
+            "prompt": "PRone",
+            "categories": [
+                "GENERAL ADS",
+                "CIGARETTE ADS"
+            ],
+            "brands": [
+                "BenkAmwricard/VISA",
+                "Amans Range",
+                "Ceneral Electric Washer",
+                "Dole Pineapple",
+                "Luke",
+                "Hilton Hotels",
+                "Golden Lights",
+                "Bayer Aspirin",
+                "Golden (Unsp.)",
+                "Solens Lawn Mower",
+                "Kawasaki",
+                "Kent",
+                "Golden",
+                "Budweiser",
+                "Old Spice Pocket Cologne",
+                "Canadian Club",
+                "Polaroid Camera",
+                "Coca Cola",
+                "Singer Sewing Machines",
+                "Concord Watches",
+                "Master's Choice",
+                "Crest toothpaste",
+                "Weight Watchers"
+            ],
+            "other": "SPECIFY"
+        },
+        {
+            "question": "Do you remember any ads for cigarettes?",
+            "brands": [
+                "Golden Lights",
+                "Luke",
+                "Golden (Unsp.)",
+                "Kent Golden",
+                "Kent Golden Lights",
+                "Kent Lights",
+                "Kent (Unsp.)"
+            ],
+            "other": "SPECIFY"
+        },
+        {
+            "question": "Do you remember any ads for any other brands of cigarettes?",
+            "brands": [
+                "Golden Lights",
+                "Luke",
+                "Golden (Unsp.)",
+                "Kent Golden",
+                "Kent Golden Lights",
+                "Kent Lights"
+            ],
+            "other": "SPECIFY"
+        }
+    ]
+}

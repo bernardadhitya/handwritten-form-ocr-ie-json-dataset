@@ -1,0 +1,32 @@
+{
+    "company": {
+        "name": "R.J. Reynolds",
+        "type": "Tobacco Company",
+        "contact": {
+            "department": "Consumer Relations",
+            "manager": "Wallace Sheehan",
+            "address": {
+                "city": "Winston-Salem",
+                "state": "NC",
+                "zip": "27102",
+                "po_box": "1313"
+            }
+        }
+    },
+    "customer": {
+        "address": {
+            "city": "Monroeville",
+            "state": "AL",
+            "zip": "36461"
+        }
+    },
+    "letter": {
+        "date": "May 1, 2000",
+        "greeting": "Dear Valued Customer:",
+        "body": "Recently you contacted R.J. Reynolds Consumer Relations Department and gave us the opportunity to respond to your request for assistance with either a promotion or product related issue. In an effort to better serve our customers, we are asking you to please take a few minutes to complete a questionnaire about how well you were treated by our company representative. After completing the survey on the reverse side of this letter, please return it in the enclosed postage-paid envelope. Please return within ten days of receipt. Thank you for taking the time to let us know how our staff met your expectations. We value your opinion and appreciate your business.",
+        "closing": "Mark Conrad",
+        "title": "Consumer Satisfaction Research Manager",
+        "employee_id": "52282"
+    },
+    "slogan": "We work for smokers."
+}

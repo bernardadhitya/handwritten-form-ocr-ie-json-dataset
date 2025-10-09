@@ -1,0 +1,114 @@
+{
+    "product": {
+        "name": "0PIsrox LAB0RAroRy",
+        "address": "P.O. Box 26563, Richmond, Virginia 23261",
+        "telephone": "804-271-6002"
+    },
+    "instructions": {
+        "return_ballot_by": "ONLY THE PERSON WHOSE NAME APPEARS ON THIS LABEL SHOULD TAKE THE TEST",
+        "label_correction": "Please print name/address corrections on label. Does the change apply to all family members or just to you?",
+        "address_change": "If Address Changed: What is your new phone number? (Please include area code.)"
+    },
+    "letter": {
+        "greeting": "Dear Panelist",
+        "content": "With this ballot I am enclosing ten packs of cigarettes coded as follows: -2 packs. Please read the directions for each part and fill out the ballot completely. -2 packs -2 packs -2 packs -2 packs, and When the ballot is completely filled out please return it to me in the enclosed postage-paid envelope. Thank you very much--your cooperation in this test is most helpful.",
+        "closing": "Study Leader"
+    },
+    "part_i": {
+        "instructions": "First smoke some of the cigarettes coded. We are interested in knowing which of the other two cigarettes coded and coded is most like cigarette coded. Now, smoke some of the cigarettes coded. Next, smoke some of the cigarettes coded. Please indicate your decision below. Circle one even if you are not sure.",
+        "options": [
+            "is more like",
+            "or"
+        ]
+    },
+    "part_ii": {
+        "instructions": "FIRST SMOKE THE TWO PACKS OF CIGARETTES CODED. Read the phrases at each end of each line of boxes. Which phrase do you think describes the cigarette coded. If the phrase on the right side of the boxes is a better description mark one of the boxes on the right side--again the truer it is, the closer to the right side.",
+        "attributes": [
+            {
+                "attribute": "mild taste",
+                "options": [
+                    "Does not have a mild taste",
+                    "Has a mild taste"
+                ]
+            },
+            {
+                "attribute": "harshness",
+                "options": [
+                    "Is not harsh",
+                    "Is harsh"
+                ]
+            },
+            {
+                "attribute": "good taste",
+                "options": [
+                    "Does not have a good taste",
+                    "Has a good taste"
+                ]
+            },
+            {
+                "attribute": "menthol",
+                "options": [
+                    "Does not have enough menthol",
+                    "Has too much menthol"
+                ]
+            },
+            {
+                "attribute": "satisfaction",
+                "options": [
+                    "Is not satisfying",
+                    "Is satisfying"
+                ]
+            },
+            {
+                "attribute": "cool smoking",
+                "options": [
+                    "Is not cool smoking",
+                    "Is cool smoking"
+                ]
+            },
+            {
+                "attribute": "burn rate",
+                "options": [
+                    "Burns too fast"
+                ]
+            },
+            {
+                "attribute": "draw",
+                "options": [
+                    "Does not have an easy draw",
+                    "Has an easy draw"
+                ]
+            },
+            {
+                "attribute": "menthol flavor",
+                "options": [
+                    "Does not have a good menthol flavor",
+                    "Has a good menthol flavor"
+                ]
+            },
+            {
+                "attribute": "dry taste",
+                "options": [
+                    "Does not have a dry taste in the mouth",
+                    "Has a dry taste in the mouth"
+                ]
+            },
+            {
+                "attribute": "aftertaste",
+                "options": [
+                    "Does not leave a good aftertaste",
+                    "Leaves a good aftertaste"
+                ]
+            },
+            {
+                "attribute": "liking",
+                "options": [
+                    "I dislike extremely",
+                    "I like extremely"
+                ]
+            }
+        ]
+    },
+    "note": "CONTINUE ON REVERSE SIDE",
+    "code": "BV-16"
+}

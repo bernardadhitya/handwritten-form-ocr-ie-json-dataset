@@ -1,0 +1,81 @@
+{
+    "survey": {
+        "contact_method": {
+            "question": "How did you contact Consumer Relations?",
+            "options": [
+                "By Telephone",
+                "By Letter"
+            ]
+        },
+        "satisfaction_areas": {
+            "question": "How satisfied were you in each of the following areas?",
+            "options": [
+                "Very Satisfied",
+                "Somewhat Satisfied",
+                "Neither Satisfied Nor Dissatisfied",
+                "Somewhat Dissatisfied",
+                "Very Dissatisfied"
+            ],
+            "areas": {
+                "ease_of_contact": {
+                    "ability_to_get_through_on_first_call": null,
+                    "length_of_time_on_hold": null
+                },
+                "personnel": {
+                    "courtesy": null,
+                    "professionalism": null,
+                    "knowledge": null,
+                    "authority_to_resolve_problem": null
+                },
+                "response": {
+                    "timeliness": null,
+                    "clarity": null,
+                    "helpfulness": null,
+                    "follow_through_on_promised_action": null
+                }
+            }
+        },
+        "contact_frequency": {
+            "question": "How many times did you have to contact the R.J. Reynolds Consumer Relations Department before your question/problem was answered?",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "4+",
+                "Final Action Still Not Taken"
+            ]
+        },
+        "referral_satisfaction": {
+            "question": "If you were referred to a different 800 number after reaching an R. J. Reynolds Company representative, were you satisfied with the response?",
+            "options": [
+                "Very Satisfied",
+                "Somewhat Satisfied",
+                "Neither Satisfied Nor Dissatisfied",
+                "Somewhat Dissatisfied",
+                "Very Dissatisfied",
+                "Not Referred"
+            ]
+        },
+        "action_satisfaction": {
+            "question": "Which ONE of the following statements BEST describes the way you feel about the action taken by the R.J. Reynolds Consumer Relations Department to respond to your request for assistance?",
+            "options": [
+                "I was completely satisfied",
+                "I was NOT completely satisfied but the action taken was acceptable.",
+                "I was NOT completely satisfied but some action was taken.",
+                "I was NOT AT ALL satisfied with the action taken.",
+                "I was NOT AT ALL satisfied no action was taken"
+            ]
+        },
+        "purchase_intention": {
+            "question": "Based on how well you were treated by our representative, will you continue to purchase the brand of cigarettes you contacted about?",
+            "options": [
+                "Definitely Would",
+                "Probably Would",
+                "Might or Might Not",
+                "Probably Would Not",
+                "Definitely Would Not"
+            ]
+        }
+    }
+}

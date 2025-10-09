@@ -1,0 +1,99 @@
+{
+    "questionnaire": {
+        "id": "A2",
+        "instructions": "Please answer all questions and return this questionnaire in the enclosed stamped addressed envelope.",
+        "code": "41124",
+        "respondent": {
+            "title": "Mr.",
+            "name": "Bill Duarte",
+            "address": {
+                "street": "5463 Dauphine Street",
+                "city": "New Orleans",
+                "state": "LA",
+                "zip": "70117"
+            }
+        },
+        "signature": "Please sign here",
+        "questions": [
+            {
+                "id": 1,
+                "text": "Do you smoke cigarettes?",
+                "options": {
+                    "yes": "Go on to Question 4",
+                    "no": "Please continue"
+                }
+            },
+            {
+                "id": 2,
+                "text": "Did you ever smoke cigarettes?",
+                "options": {
+                    "yes": "Please continue",
+                    "no": "Please sign and mail this questionnaire back to us. Thank you."
+                }
+            },
+            {
+                "id": 3,
+                "text": "How long ago did you stop smoking?",
+                "options": [
+                    "Less than 6 months ago",
+                    "6 months to 1 year ago",
+                    "1 to 2 years ago",
+                    "More than 2 years ago"
+                ]
+            },
+            {
+                "id": 4,
+                "text": "My regular brand, the one brand I smoke most often is..",
+                "fields": {
+                    "brand_name": "Full Name"
+                }
+            },
+            {
+                "id": 5,
+                "text": "My regular brand is ...",
+                "options": [
+                    "Filter",
+                    "Non-Filter"
+                ]
+            },
+            {
+                "id": 6,
+                "text": "My regular brand is ...",
+                "options": [
+                    "Menthol",
+                    "Non-Menthol"
+                ]
+            },
+            {
+                "id": 7,
+                "text": "My regular brand is ...",
+                "options": [
+                    "Regular/King Size",
+                    "Long/100s",
+                    "Extra Long/120's"
+                ]
+            },
+            {
+                "id": 8,
+                "text": "Does your regular brand have any of the following words on the pack? Check all that apply.",
+                "options": [
+                    "Lights",
+                    "Low Tar",
+                    "Ultra",
+                    "Milds",
+                    "None of These"
+                ]
+            },
+            {
+                "id": 9,
+                "text": "Do you usually buy your regular brand in a ...?",
+                "options": [
+                    "Soft Pack",
+                    "Box"
+                ]
+            }
+        ],
+        "note": "Now, please sign this and mail back as soon as possible. Thank you.",
+        "additional_note": "If you smoke, please continue with this questionnaire."
+    }
+}

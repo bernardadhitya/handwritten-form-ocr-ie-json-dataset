@@ -1,0 +1,46 @@
+{
+    "address": {
+        "POBox": "26563",
+        "city": "Richmond",
+        "state": "Virginia",
+        "zip": "23261"
+    },
+    "company": "Product Opinion Laboratory",
+    "telephone": "8042713368",
+    "returnInstructions": "PLEASE RETURN BALLOT BY: ONLY THE PERSON WHOSE NAME APPEARS ON THIS LABEL SHOULD TAKE THE TEST",
+    "code": "N-4118",
+    "redCodes": true,
+    "addressChangeInstructions": {
+        "printInstructions": "Please print name/address corrections on label.",
+        "applyToFamily": "Does the change apply to all family members or just to you?",
+        "newPhoneNumber": "If Address Changed: What is your area code? new phone number? (Please include)"
+    },
+    "greeting": "Dear Panelist",
+    "enclosure": "With this ballot I am enclosing ten packs of cigarettes coded as follows: T5 - 5 packs, M7 - 5 packs.",
+    "instructions": "Please read the directions for each part and fill out the ballot completely. When the ballot is completely filled out, please return it to me in the enclosed postage-paid envelope.",
+    "studyLeader": "Study Leader",
+    "part": "FIRST SMOKE THREE OR FOUR PACKS OF THE CIGARETTES CODED T5",
+    "evaluationInstructions": "Read the phrases at each end of each line of boxes. Which phrase do you think describes the cigarette coded T5? If the one on the left describes it better, mark an X in one of the boxes on the left side - the more you think the description is true the closer to the left side. If you think the description on the right side is true, mark an X in one of the boxes on the right side - again the truer it is the closer to the right side.",
+    "cigaretteEvaluation": {
+        "code": "T5",
+        "attributes": [
+            {
+                "description": "mild taste",
+                "opposite": "strong taste"
+            },
+            {
+                "description": "satisfying",
+                "opposite": "not satisfying"
+            },
+            {
+                "description": "does not leave a good taste in the mouth",
+                "opposite": "leaves a good taste in the mouth"
+            },
+            {
+                "description": "I dislike extremely",
+                "opposite": "I like"
+            }
+        ]
+    },
+    "note": "CONTINUE ON REVERSE SIDE"
+}

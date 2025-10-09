@@ -1,0 +1,73 @@
+{
+    "company": "Bellomy-Carrigg, Inc.",
+    "job_number": "0906",
+    "address": {
+        "street": "025 University Parkway",
+        "suite": "1136",
+        "city": "Winston-Salem",
+        "state": "NC",
+        "zip": "27106"
+    },
+    "date": "October, 1984",
+    "project": {
+        "name": "AA Extended Use Concept/Product Test",
+        "type": "Screener"
+    },
+    "respondent": {
+        "name": "",
+        "address": "",
+        "state": "",
+        "area_code": "",
+        "phone": "",
+        "date": "",
+        "interviewed_by": ""
+    },
+    "instructions": {
+        "interview_women_only": true,
+        "greeting": "Hello, I'm from (Your Company), an independent marketing research company.",
+        "ask_to_speak": "To female 18+ years or older."
+    },
+    "questions": [
+        {
+            "question_number": 1,
+            "text": "Into which of the following age groups does your age belong?",
+            "options": [
+                "Under 18",
+                "18-24",
+                "25-34",
+                "35-49",
+                "50+"
+            ],
+            "instructions": {
+                "under_18": "Terminate, erase and re-use",
+                "check_quota": "Check quota to determine if needed. If over quota, ask for another female in age group needed.",
+                "50_plus": "Terminate, erase and re-use"
+            }
+        },
+        {
+            "question_number": 2,
+            "text": "Which of the following products do you use daily?",
+            "options": [
+                "Breathmints",
+                "Mouthwash",
+                "Cigarettes",
+                "Gel toothpaste",
+                "Cream toothpaste"
+            ],
+            "instructions": "Continue only if cigarettes checked above in Q.2. Otherwise, if none, terminate, erase and re-use."
+        },
+        {
+            "question_number": 3,
+            "text": "Which of the following brands have you used in the past week?",
+            "options": [
+                "Certs breathmints",
+                "Clorets breathmints",
+                "Topal toothpaste",
+                "Aqua Fresh toothpaste",
+                "Clinomint",
+                "Scope",
+                "Listerine"
+            ]
+        }
+    ]
+}

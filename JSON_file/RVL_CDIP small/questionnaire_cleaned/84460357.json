@@ -1,0 +1,59 @@
+{
+    "id": 193,
+    "company": "COMMUNICUS, INC.",
+    "gender": "Male",
+    "location": "Boston",
+    "project": "LLD-2",
+    "participant": {
+        "gender": "Female",
+        "location": "Chicago",
+        "date": "August, 1977",
+        "pretest_location": "Philadelphia",
+        "group": "A",
+        "session": "AM",
+        "name": "-AM",
+        "address": "ADDRESSA",
+        "city_town": "CITY/TOWN",
+        "telephone": "TELEPHONE #:",
+        "interviewed_by": "INTERVIEWED BY",
+        "validated_by": "VALIDATED BY"
+    },
+    "introduction": "Hello, I'm from Communicus, a consumer opinion firm. We are conducting a survey and would like to include you.",
+    "questions": [
+        {
+            "question": "Do you smoke cigarettes?",
+            "answers": {
+                "Yes": "CONTINUE",
+                "No": "TERMINATE"
+            }
+        },
+        {
+            "question": "Is your regular brand a menthol cigarette or a non-menthol cigarette?",
+            "answers": {
+                "Menthol": "CONTINUE",
+                "Non-menthol": "TERMINATE"
+            }
+        },
+        {
+            "question": "How many cigarettes do you usually smoke per day?",
+            "answers": {
+                "0-9": "TERMINATE",
+                "10-15": "7-1",
+                "16-25": "....-",
+                "More than 25": ""
+            }
+        },
+        {
+            "question": "Into which of the following age groups do you fall?",
+            "answers": {
+                "Under 18": "TERMINATE",
+                "18-24": "S-1",
+                "25-34": "",
+                "35-44": "",
+                "45-49": "-4QUOTA2",
+                "50 or over": "TERMINATE"
+            }
+        }
+    ],
+    "contact_number": 84460357
+}

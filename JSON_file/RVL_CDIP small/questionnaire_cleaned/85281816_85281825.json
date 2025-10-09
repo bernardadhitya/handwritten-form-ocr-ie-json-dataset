@@ -1,0 +1,86 @@
+{
+    "company": "CONTEMPORARY MARKETING RESEARCH INC.",
+    "address": {
+        "suite": "#6-10-149",
+        "street": "1270 Broadway",
+        "city": "New York",
+        "state": "N.Y.",
+        "zip": "10001"
+    },
+    "portfolio_test": {
+        "card": "1",
+        "code": "13z"
+    },
+    "main_questionnaire": {
+        "respondent_name": "",
+        "telephone": "",
+        "instructions": [
+            "Please take a few minutes to go through the advertisements in this book. Please take as much time with each ad as you care to.",
+            "If you ordinarily wear reading glasses, you'll need them.",
+            "HAND RESPONDENT IF THIS QUESTIONNAIRE IS: PORTFOLIO WITH AND CIRCLE THIS COLORED DOT",
+            "WHEN RESPONDENT IS FINISHED TAKE BACK THE PORTFOLIO BOOK BEFORE CONTINUING"
+        ],
+        "colored_dots": {
+            "blue": "YBLUE",
+            "pink": "PINK",
+            "yellow": "METTOA"
+        },
+        "questions": [
+            {
+                "question": "I'd like to ask you a few questions about the ads in the book. What brands or products do you remember seeing ads for in the book?",
+                "probe": "What other brands? What other products?",
+                "note": "DO NOT READ EITHER BRAND NAMES OR PRODUCT CATEGORIES."
+            }
+        ],
+        "brands": {
+            "non_cigarette_brands": [
+                "Analgesic Tablets",
+                "Ad Council",
+                "Boy Scouts/Scouting",
+                "Cereal (Raisin Bran)",
+                "Charles of the Ritz",
+                "Coffee",
+                "Credit Card",
+                "Disinfectant Spray",
+                "Clairol (Clairesse)",
+                "Gin (Liquor/Alcohol)",
+                "Haircoloring",
+                "Close-up",
+                "High Fidelity System/Stereo Equipment",
+                "International Harvester",
+                "Lawn Mower (Garden Tractor)",
+                "Lysol",
+                "Perfume (Cologne)",
+                "Public Service Ad",
+                "Michelob",
+                "Pioneer",
+                "Post Raisin Bran",
+                "Prell",
+                "Travel A Foreign Country (Country/Tourist Ad)",
+                "Sanka",
+                "Seagram's",
+                "Spain",
+                "VISA"
+            ],
+            "cigarette_brands": [
+                "Merit",
+                "Newport",
+                "Newport Stripes",
+                "Newport Menthol",
+                "Newport Stripes Menthol",
+                "Newport Non-Menthol (Regular)",
+                "Newport Stripes Non-Menthol (Regular)"
+            ],
+            "incorrect_categories": "SPECIFY",
+            "incorrect_cigarette_brands": "SPECIFY",
+            "incorrect_brands": "SPECIFY"
+        },
+        "important_instructions": [
+            "IF NO CIGARETTE BRANDS MENTIONED ABOVE, ASK Q.3.",
+            "IF ONLY ONE, OR TWO CORRECT CIGARETTE BRANDS MENTIONED, SKIP TO Q.3c.",
+            "IF ALL THREE CORRECT CIGARETTE BRANDS MENTIONED SKIP TO Q.4",
+            "IF ONLY INCORRECT CIGARETTE BRANDS MENTIONED, SKIP TO Q.3c."
+        ]
+    },
+    "document_id": "#019/QX7/15"
+}

@@ -1,0 +1,61 @@
+{
+    "study_number": "79-14009",
+    "gender": "female",
+    "hod": true,
+    "codes": [
+        "CODE4",
+        "PROD.CODE5",
+        "ROD.CODE6",
+        "PROD.CODE7"
+    ],
+    "call_pack_care": true,
+    "comments": [
+        "olloIm",
+        "calliy long distce from",
+        "FOR WS/FIEID ONGY",
+        "//R/c Corrar Rescarchan incperrknt rescarch",
+        "Monitorod By",
+        "xngny.My I plcase speak to ASK FOR REsrODENT",
+        "Edited By",
+        "Camp",
+        "erm",
+        "IP NT AVAIIABLE,ARRNNGE FOR CALCK TIME."
+    ],
+    "callback_information": {
+        "mte": 6,
+        "time_started": null,
+        "time_ended": null
+    },
+    "survey_questions": {
+        "finished_smoking": {
+            "question": "Did you finish smoking all of the cigarettes that we sent you, or not?",
+            "yes": 23456,
+            "no": 78910
+        },
+        "cigarettes_smoked": {
+            "question": "About how many cigarettes have you smoked?",
+            "write_in_number": null
+        },
+        "usual_brand_rating": {
+            "question": "I'd like to have you rate your usual brand on a 1 to 10 rating scale.",
+            "rating": null
+        },
+        "test_brand_rating": {
+            "question": "As a cigarette for your own use, what number from 1 to 10 best describes your overall feelings toward the cigarettes that we sent you?",
+            "rating": null
+        },
+        "filter_cigarettes_rating": {
+            "question": "And what number from 1 to 10 best describes your overall feeling toward filter cigarettes in general?",
+            "write_in_number": null
+        },
+        "likes": {
+            "question": "What did you like about the cigarettes we sent you?",
+            "responses": []
+        },
+        "dislikes": {
+            "question": "What did you not like about the cigarettes we sent you?",
+            "responses": []
+        }
+    },
+    "additional_info": "506049768"
+}

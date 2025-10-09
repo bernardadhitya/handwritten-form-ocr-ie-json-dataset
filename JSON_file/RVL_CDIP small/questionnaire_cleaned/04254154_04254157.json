@@ -1,0 +1,77 @@
+{
+    "survey": {
+        "title": "CIGARETTE PRODUCT TEST CALLBACK QUESTIONNAIRE",
+        "instructions": "ASK TO SPEAK TO PERSON ON QUESTIONNAIRE. HE/SHE WILL BE IN. IF NOT AVAILABLE, RECORD TIME AND DATE WHEN NO ONE ELSE QUALIFIES.",
+        "questions": [
+            {
+                "id": "1",
+                "text": "Did you try both types of cigarettes we sent you?",
+                "options": [
+                    {
+                        "answer": "Yes",
+                        "action": "CONTINUE"
+                    },
+                    {
+                        "answer": "No",
+                        "action": "TERMINATE AND RETURN"
+                    }
+                ]
+            },
+            {
+                "id": "1c",
+                "text": "Why didn't you try both types of cigarettes?",
+                "action": "TERMINATE AND RETURN"
+            },
+            {
+                "id": "1d",
+                "text": "Did you get the note sheet you used for recording your opinions of the cigarette?",
+                "options": [
+                    {
+                        "answer": "Got note sheet",
+                        "action": "CONTINUE"
+                    },
+                    {
+                        "answer": "Did not get note sheet",
+                        "action": "TERMINATE AND RETURN"
+                    }
+                ]
+            },
+            {
+                "id": "1e",
+                "text": "The cigarettes you smoked first were the ones marked 'Use First'. Is that correct?",
+                "options": [
+                    {
+                        "answer": "Yes",
+                        "action": "TERMINATE"
+                    },
+                    {
+                        "answer": "No",
+                        "action": "REPEAT Q.1e. IF ANSWER TO Q.1e IS STILL NO, TERMINATE AND RETURN"
+                    }
+                ]
+            },
+            {
+                "id": "2a",
+                "text": "Now let's talk about the cigarettes you smoked first. How many of them did you smoke?",
+                "options": [
+                    "Less than one pack",
+                    "About one pack [1 to 1-1/2]",
+                    "About 2 packs [1-3/4 to 2-1/2]",
+                    "About 3 packs [2-3/4 to 3-1/2]",
+                    "All of them"
+                ]
+            },
+            {
+                "id": "2b",
+                "text": "Now think about the cigarettes you smoked second. How many of them did you smoke?",
+                "options": [
+                    "Less than one pack",
+                    "About one pack [1 to 1-1/2]",
+                    "About 2 packs [1-3/4 to 2-1/2]",
+                    "About 3 packs [2-3/4 to 3-1/2]",
+                    "All of them"
+                ]
+            }
+        ]
+    }
+}

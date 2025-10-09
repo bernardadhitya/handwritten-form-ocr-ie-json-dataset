@@ -1,0 +1,76 @@
+{
+    "company": "Bellomy-Carrigg, Inc.",
+    "job_number": "0906",
+    "address": {
+        "street": "2025 University Parkway",
+        "suite": "0362",
+        "city": "Winston-Salem",
+        "state": "NC",
+        "zip": "27106"
+    },
+    "date": "October, 1984",
+    "survey": {
+        "title": "AA Extended Use Concept/Product Test",
+        "type": "Screener",
+        "respondent_name": "Enne",
+        "state": "",
+        "area_code_phone": "",
+        "interview_date": "10/14",
+        "interviewed_by": "",
+        "instructions": [
+            "Interview women only",
+            "Hello, I'm from your company, an independent marketing research company.",
+            "We're conducting a survey with women about various consumer products."
+        ],
+        "questions": [
+            {
+                "question": "Ask to speak to a female 18+ years or older.",
+                "options": [
+                    {
+                        "age_range": "Under 18",
+                        "action": "Terminate, erase and re-use"
+                    },
+                    {
+                        "age_range": "18-24",
+                        "quota_check": "6-1"
+                    },
+                    {
+                        "age_range": "25-34",
+                        "quota_check": "-2"
+                    },
+                    {
+                        "age_range": "35-49",
+                        "action": "Check quota to determine if needed. If over quota, ask for another female in age group needed."
+                    },
+                    {
+                        "age_range": "50+",
+                        "action": "Refuse, terminate, erase and re-use"
+                    }
+                ]
+            },
+            {
+                "question": "Which of the following products do you use daily?",
+                "options": [
+                    "Breathmints",
+                    "Mouthwash",
+                    "Cigarettes",
+                    "Gel toothpaste",
+                    "Cream toothpaste"
+                ],
+                "continue_condition": "Continue only if cigarettes checked above in Q.2. Ask for another female household member 18+ and go back to Q.1 otherwise, if none, terminate, erase and re-use."
+            },
+            {
+                "question": "Which of the following brands have you used in the past week?",
+                "options": [
+                    "Certs breathmints",
+                    "Clorets breathmints",
+                    "Topal toothpaste",
+                    "Aqua Fresh toothpaste",
+                    "Clinomint",
+                    "Scope",
+                    "Listerine"
+                ]
+            }
+        ]
+    }
+}

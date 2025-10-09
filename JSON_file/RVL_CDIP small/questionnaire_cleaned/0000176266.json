@@ -1,0 +1,50 @@
+{
+    "company": "MERCAJOTECNIA CONSULTIN3",
+    "project_code": "82-186MC",
+    "date_range": "Apr1/June1982",
+    "qualification_screener": "TC2020",
+    "interview_details": {
+        "date": "1",
+        "time": {
+            "start": "430",
+            "finish": "720"
+        },
+        "interviewer_name": "u/e",
+        "code": "03"
+    },
+    "respondent_details": {
+        "name": "35",
+        "apt_no": "2",
+        "telephone": "STATE",
+        "zip": "Z1P72",
+        "area_code": "1",
+        "exchange": "public opinion firm"
+    },
+    "survey_details": {
+        "language": "English",
+        "smoking_status": {
+            "question": "Does anyone in this household smoke cigarettes?",
+            "yes": "ASK Q.B-Q.D. THEN GO TO PAGES-3.5 SMOKING HOUSEHOLDS",
+            "no": "ASK Q.B. THEN GO TO PAGE S-2. NON-SMOKING HOUSEHOLDS"
+        },
+        "ethnic_background": {
+            "question": "We are interested in talking to Hispanic people from various ethnic backgrounds.",
+            "options": {
+                "1": "Puerto Rico",
+                "2": "Cuba",
+                "3": "Mexico",
+                "4": "Other Hispanic"
+            },
+            "note": "MAY OR MAY NOT HAVE TO TERMINATE LATER DUE TO ETHNIC QUOTAS."
+        },
+        "advertising_agency": {
+            "question": "an advertising agency, or a marketing research category or field service",
+            "yes": "THANK TERMINATE, TALLY, REFUSE SCREENER",
+            "no": "CONTINUE"
+        }
+    },
+    "contact": {
+        "first_name": "TOPE",
+        "id": "670048475"
+    }
+}

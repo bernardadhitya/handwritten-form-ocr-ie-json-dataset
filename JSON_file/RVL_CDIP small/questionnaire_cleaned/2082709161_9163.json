@@ -1,0 +1,55 @@
+{
+    "title": "Clearing the Air: The Texas Hospitality on Indoor Air Quality",
+    "surveyQuestions": [
+        {
+            "question": "Hello, is this the owner/manager of?",
+            "options": [
+                {
+                    "response": "No",
+                    "action": "Could I please speak with?",
+                    "followUp": {
+                        "response": "Not available",
+                        "action": "I'm calling from Direct Impact, a national research firm. Is there a better time to reach?",
+                        "note": "Thank and terminate call"
+                    }
+                },
+                {
+                    "response": "Yes",
+                    "action": "Go to question 2"
+                }
+            ]
+        },
+        {
+            "question": "I am calling from Direct Impact, a national research firm. This is not a sales call. I'd like to ask you some questions about indoor air quality in your establishment. This survey will only take a few moments of your time.",
+            "options": [
+                {
+                    "response": "No",
+                    "action": "Thank and terminate call"
+                },
+                {
+                    "response": "Yes, allowed to proceed",
+                    "action": "Thank you so much"
+                }
+            ]
+        },
+        {
+            "question": "In the last 5 years, have you invested or are you currently planning to invest in indoor air quality improvements such as installing or replacing ventilation equipment, ductwork, or installing/upgrading air-cleaning filtration?",
+            "options": [
+                "Yes, I've already invested",
+                "Yes, I'm planning to invest",
+                "No, I have not invested and I'm not planning to invest",
+                "Don't know/Refused"
+            ]
+        },
+        {
+            "question": "How much impact can good ventilation have on addressing smoking issues?",
+            "options": [
+                "A lot",
+                "Some",
+                "Not much",
+                "None",
+                "Don't know/Refused"
+            ]
+        }
+    ]
+}

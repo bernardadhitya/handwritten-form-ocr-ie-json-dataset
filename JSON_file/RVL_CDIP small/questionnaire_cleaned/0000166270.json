@@ -1,0 +1,62 @@
+{
+    "company": "MARKET FACTS INC.",
+    "address": "676 N. ST. CLAIR STREET, CHICAGO, IL 60611",
+    "job_no": "E895",
+    "interviewer": null,
+    "date_received": "MAT 031985",
+    "mrd": null,
+    "sex": null,
+    "age": null,
+    "attempts": [
+        {
+            "attempt_number": 1,
+            "record_date": null,
+            "status": "Disconnect/Not working"
+        },
+        {
+            "attempt_number": 2,
+            "record_date": null,
+            "status": "Busy"
+        },
+        {
+            "attempt_number": 3,
+            "record_date": null,
+            "status": "No Answer"
+        },
+        {
+            "attempt_number": 4,
+            "record_date": null,
+            "status": "Someone Answers But Refuses Interview During Introduction"
+        },
+        {
+            "attempt_number": 5,
+            "record_date": null,
+            "status": "Someone Answers and Listens To Introduction"
+        }
+    ],
+    "response_after_qu1": {
+        "refused_to_continue_at_qu": null,
+        "other": null
+    },
+    "introduction": "Hello, May I please speak to NAME ON LABEL? I'm [interviewer name] and I'm calling for Marie Brighton from Consumer Mail out a questionnaire about cigarette smoking, and I'd like to ask just a few more questions.",
+    "specific_request": {
+        "sex": null,
+        "age": null,
+        "availability": null
+    },
+    "callback_dates": [
+        "CB#1",
+        "CB#2",
+        "CB#3",
+        "CB#4",
+        "CB#5"
+    ],
+    "end_conditions": [
+        "Lives there but will not be available during study",
+        "Lives there but refuses",
+        "Person deceased",
+        "Used to live there but doesn't live there anymore",
+        "No one by that name age/sex",
+        "Other"
+    ]
+}

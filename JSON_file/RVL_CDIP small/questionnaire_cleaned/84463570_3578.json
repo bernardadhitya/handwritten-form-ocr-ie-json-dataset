@@ -1,0 +1,162 @@
+{
+    "title": "AHF MAKKETIN KESEAKCH",
+    "address": {
+        "company": "NATIONAL CONSENSUS SURVEYS",
+        "street": "801 Second Avenue",
+        "suite": "#25077W",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10001"
+    },
+    "date": "August, 1977",
+    "document": "CIGARETTE PORTFOLIO SCREENING QUESTIONNAIRE",
+    "sections": [
+        {
+            "title": "STARTED",
+            "fields": {
+                "respondents_name": "",
+                "tel": "",
+                "city": "",
+                "state": "",
+                "interviewer": "",
+                "metro_area": "",
+                "date": ""
+            }
+        },
+        {
+            "title": "INDICATE CITY",
+            "options": [
+                "Boston",
+                "Des Moines",
+                "Lincoln",
+                "Detroit",
+                "New Orleans",
+                "Omaha",
+                "San Francisco"
+            ]
+        },
+        {
+            "title": "INITIAL REFUSAL",
+            "instructions": "CIRCLE NEXT HIGHEST NUMBER BELOW",
+            "numbers": [
+                1,
+                10,
+                12,
+                14,
+                15,
+                17,
+                18,
+                19,
+                20,
+                23,
+                22,
+                26,
+                27,
+                28,
+                29,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                52,
+                53,
+                3,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                68,
+                69,
+                70,
+                71,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                80,
+                87,
+                68,
+                6,
+                92,
+                93,
+                95,
+                96,
+                97,
+                98,
+                66,
+                102,
+                103,
+                104,
+                105,
+                306,
+                107,
+                108,
+                109,
+                210,
+                111,
+                112,
+                113,
+                134,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120
+            ]
+        },
+        {
+            "question": "Have you, yourself, participated in a market research survey in the past three months or so?",
+            "instructions": "TERMINATE AND CIRCLE NEXT HIGHEST NUMBER BELOW",
+            "answers": {
+                "yes": "TERMINATE",
+                "no": "CONTINUE"
+            }
+        },
+        {
+            "title": "STUDY",
+            "numbers": [
+                3,
+                5,
+                10,
+                6
+            ]
+        },
+        {
+            "instructions": "SHOW AGE CARD",
+            "question": "Please tell me which letter on this",
+            "instructions_2": "TERMINATE AND CIRCLE NEXT HIGHEST NUMBER BELOW NEXT TO UNDER OR OVER AGE",
+            "age_groups": {
+                "under": [
+                    7,
+                    25
+                ],
+                "to": [
+                    29
+                ],
+                "continue": "CONTINUE",
+                "terminate": "TERMINATE AND CIRCLE NEXT HIGHEST NUMBER UNDER BELOW NEXT TO UNDER OR OVER AGE"
+            },
+            "age_numbers": [
+                4,
+                5,
+                6,
+                8,
+                10,
+                11,
+                12,
+                84463570
+            ]
+        }
+    ],
+    "note": "TAKE BACK AGE CARD"
+}

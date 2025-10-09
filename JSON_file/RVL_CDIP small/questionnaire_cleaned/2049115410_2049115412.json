@@ -1,0 +1,76 @@
+{
+    "CigaretteTestReportForm": {
+        "PartI": {
+            "Questions": [
+                {
+                    "question": "What, if anything, did you dislike about the N5 cigarettes?"
+                },
+                {
+                    "question": "What, if anything, did you like about the N5 cigarettes?"
+                }
+            ],
+            "PhrasePairs": [
+                {
+                    "A": {
+                        "Does not have a mild taste": 1,
+                        "Has a mild taste": 7
+                    }
+                },
+                {
+                    "B": {
+                        "Is not harsh": 1,
+                        "Is harsh": 7
+                    }
+                },
+                {
+                    "C": {
+                        "Does not have a good taste": 1,
+                        "Has a good taste": 7
+                    }
+                },
+                {
+                    "D": {
+                        "Is not satisfying": 1,
+                        "Is satisfying": 7
+                    }
+                },
+                {
+                    "E": {
+                        "Is not cool smoking": 1,
+                        "Is cool smoking": 7
+                    }
+                },
+                {
+                    "F": {
+                        "Does not burn too fast": 1,
+                        "Burns too fast": 7
+                    }
+                },
+                {
+                    "G": {
+                        "Does not have an easy draw": 1,
+                        "Has an easy draw": 7
+                    }
+                },
+                {
+                    "H": {
+                        "Does not have a dry taste in my mouth": 1,
+                        "Has a dry taste in my mouth": 7
+                    }
+                },
+                {
+                    "I": {
+                        "Does not leave a good aftertaste in my mouth": 4,
+                        "Leaves a good aftertaste in my mouth": 6
+                    }
+                },
+                {
+                    "J": {
+                        "I dislike extremely": 1,
+                        "I like extremely": 7
+                    }
+                }
+            ]
+        }
+    }
+}

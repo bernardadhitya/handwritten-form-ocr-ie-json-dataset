@@ -1,0 +1,145 @@
+{
+    "questionnaire": {
+        "title": "Standard ATCo Questionnaire",
+        "date": "2/1/94",
+        "version": "Long Version-For Point-Of-Sale and Bounceback Offers",
+        "personal_info": {
+            "title": [
+                "Mr.",
+                "Ms.",
+                "Mrs."
+            ],
+            "street_address": "",
+            "full_name": "",
+            "apartment_number": "",
+            "city": "",
+            "state": "",
+            "zip": "",
+            "phone": ""
+        },
+        "questions": [
+            {
+                "question": "SEX",
+                "options": [
+                    "Male",
+                    "Female"
+                ]
+            },
+            {
+                "question": "Date of Birth",
+                "fields": [
+                    "Month",
+                    "Day",
+                    "Year"
+                ]
+            },
+            {
+                "question": "MY REGULAR BRAND IS",
+                "options": [
+                    "Under 1 year",
+                    "1-3 years",
+                    "3 years +"
+                ]
+            },
+            {
+                "question": "FLAVOR",
+                "options": [
+                    "Menthol",
+                    "Non-Menthol"
+                ]
+            },
+            {
+                "question": "LENGTH",
+                "options": [
+                    "Regular or King",
+                    "100's/Long",
+                    "120s/Extra Long"
+                ]
+            },
+            {
+                "question": "TYPE",
+                "options": [
+                    "Ultra Light",
+                    "Light/Low Tar",
+                    "Full Flavor",
+                    "Non-Filter"
+                ]
+            },
+            {
+                "question": "PACKAGE",
+                "options": [
+                    "Soft Pack",
+                    "Box"
+                ]
+            },
+            {
+                "question": "USUALLY PURCHASE",
+                "options": [
+                    "Pack",
+                    "Carton"
+                ]
+            },
+            {
+                "question": "IF MY REGULAR BRAND IS NOT AVAILABLE, I SMOKE",
+                "response": ""
+            },
+            {
+                "question": "MY PREVIOUS BRAND WAS",
+                "options": [
+                    "Under 1 year",
+                    "1-3 years",
+                    "3 years +"
+                ]
+            }
+        ],
+        "signature": {
+            "required": true,
+            "text": "By signing this I certify that I am at least 21 years of age, a smoker, and that I wish to receive free cigarette samples, offers and/or other incentives in the mail subject to applicable laws and regulations."
+        },
+        "promotion_code": "000000"
+    },
+    "short_version": {
+        "title": "Short Version -For FSIs, Coupons",
+        "details": {
+            "boxtop": "",
+            "check": "",
+            "manufacturer_coupon": {
+                "expires": "00/00/00",
+                "discount": "$1.00 OFF 2 PACKS OR 1 CARTON",
+                "note": "CAN BE USED IN ADDITION TO ANY ON-PACK OR ON-CARTON COUPON"
+            }
+        },
+        "mailing_list": {
+            "instructions": "To be placed on our mailing list complete the following (Please Print)",
+            "fields": {
+                "brand": "",
+                "ad": "",
+                "sell": "",
+                "city": "",
+                "phone": "",
+                "sex": [
+                    "M",
+                    "F"
+                ],
+                "flavor": [
+                    "Menthol",
+                    "Non-Menthol"
+                ],
+                "type": [
+                    "Ultra Light",
+                    "Light/Low Tar",
+                    "Full Flavor",
+                    "Non-Filter"
+                ],
+                "length": [
+                    "Regular or King",
+                    "100's/Long",
+                    "120s/Extra Long"
+                ]
+            }
+        },
+        "optional_code": "43300 000000",
+        "cap": "638064059",
+        "source": "PRODUCED FROM B&W WEB SITE"
+    }
+}

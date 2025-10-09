@@ -1,0 +1,54 @@
+{
+    "FACTORYQUESTIONNAIRE": {
+        "ON": "PEST CONTROL",
+        "Location": "POLAND",
+        "Questions": [
+            {
+                "Question": "Type of Factory",
+                "Options": [
+                    "Make Pack",
+                    "Factory with Primary"
+                ],
+                "Answer": "Factory with Primary"
+            },
+            {
+                "Question": "Type of Tobacco Supply (lamina and stems/CRES)",
+                "Options": [
+                    "Core Grades from outside supplies",
+                    "Core Grades from inter-company",
+                    "CBS or BS from inter-company",
+                    "Cut-filler packed in Plastic Polyliners",
+                    "Cut-filler packed without Plastic Polyliners"
+                ],
+                "Answer": "Core Grades from inter-company"
+            },
+            {
+                "Question": "Tobacco Inventory Storage",
+                "Options": [
+                    "Stored within factory building",
+                    "Stored in separate building on factory site",
+                    "Stored in off site warehouses"
+                ],
+                "Answer": "Stored in separate building on factory site"
+            },
+            {
+                "Question": "NTM's Storage",
+                "Options": [
+                    "Separated room from tobacco",
+                    "Separated building from tobacco",
+                    "Stored within same room and building"
+                ],
+                "Answer": "Separated room from tobacco"
+            },
+            {
+                "Question": "Finished Good Storage",
+                "Options": [
+                    "Separated room from tobacco",
+                    "Separated building from tobacco",
+                    "Stored within same room and building"
+                ],
+                "Answer": "Separated building from tobacco"
+            }
+        ]
+    }
+}

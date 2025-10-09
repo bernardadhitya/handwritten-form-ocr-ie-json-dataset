@@ -1,0 +1,51 @@
+{
+    "Sess": "Master Checklist",
+    "Study": "1994 Stimulus Evaluation and Response Selection",
+    "Blood Study": {
+        "Name": "RodneyLAzevby",
+        "Date": "",
+        "Code": "_S-06",
+        "Weight": 348,
+        "Checklist": {
+            "Consent form": false,
+            "Breath CO level (upon arrival)": {
+                "PPM": 5.5
+            },
+            "EEG cap hook-up": false,
+            "Insert catheter": false,
+            "Practice the task": false,
+            "Breath CO": {
+                "CO Level": "",
+                "PPM": true
+            },
+            "Blood sample-5 min Pre-smoking": {
+                "%COHb Level": ""
+            },
+            "Pre-smoking task": false,
+            "Blood sample-O min.Pre-smoking": {
+                "%COHb Level": 2
+            },
+            "Smoke Cigarette utilizing QSDS Machine": false,
+            "Blood sample (1 min. Post-smoking)": {
+                "%COHb Level": 2.3
+            },
+            "First Post-smoking task": false,
+            "Blood sample 8 min.Post-smoking": {
+                "%COHb Level": ""
+            },
+            "Second Post-smoking task": false,
+            "Blood sample (15 min. Post-smoking)": {
+                "%COHb Level": 24
+            },
+            "Third Post-smoking task": false,
+            "Blood sample 22 min.Post-smoking": {
+                "%COHb Level": 27
+            },
+            "Fourth Post-smoking task": false,
+            "Blood sample 29 min.Post-smoking": {
+                "%COHb Level": 2.6
+            },
+            "Fifth Post-smoking task": false
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "R&DCustomerSelectionTeam": {
+        "Name": "",
+        "SmokerGroups": "",
+        "SurveyDetails": {
+            "Purpose": "Conducting a survey for a client. Surveys from this city and others will be combined and reported back to the client.",
+            "InterviewProcess": "Colleagues may sit in, clarify, or observe behind a one-way mirror.",
+            "InformationRequested": "Information about personal preferences, shopping habits, brand loyalty, and smoking habits.",
+            "Questions": "General and specific to smoking and cigarettes.",
+            "FeedbackRequest": "Try a couple of cigarettes and provide honest feedback.",
+            "NoteTaking": "Answers will be written down during the interview."
+        },
+        "Questions": {
+            "Age": "",
+            "Gender": {
+                "Male": false,
+                "Female": false
+            },
+            "MaritalStatus": "",
+            "Occupation": "",
+            "CompanyType": "",
+            "CurrentCigaretteUsualBrand": "",
+            "UsualBrandPurchaseFrequency": {
+                "Last10Purchases": "",
+                "PurchaseMethod": {
+                    "ByPack": false,
+                    "ByCarton": false,
+                    "Both50/50": false
+                }
+            },
+            "OtherBrandsPurchasedLastMonth": "",
+            "SecondChoiceBrand": "",
+            "SmokingFrequency": {
+                "Daily": false,
+                "PartTimeNotDaily": false
+            },
+            "CigarettesPerDay": "",
+            "UsualBrandTarNicotineLevels": {
+                "Tar": "",
+                "Nicotine": ""
+            },
+            "SmokingHistory": [
+                {
+                    "Age": 18,
+                    "Brand": "",
+                    "LifeEvents": ""
+                },
+                {
+                    "Age": 35,
+                    "Brand": "",
+                    "LifeEvents": ""
+                },
+                {
+                    "Age": 45,
+                    "Brand": "",
+                    "LifeEvents": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "title": "NATIONAL CONSENSUS SURVEYS",
+    "address": "8d1 Second Avenue",
+    "postal_code": "81EZ7",
+    "code": "1C017",
+    "note": "SANE: PHONE2",
+    "instructions": "teks an auch cioe.with esch ad s you ssre.to. If you ordinarily veer reading alessas yoa'l ceed them HASD RESPONDENT POKTFOIOANDTAXE IT BACK BEPORE COSTINUINC. NouI'd 3iketo eek you a few quescfons.ebout the ada in the book.",
+    "questions": [
+        {
+            "question": "What brands or products do you remember seeing ads for in the book?",
+            "prompt": "Prose: AnyCthbrnd7DO NQT READ ITHER BRAN NAS O8 PRODUCTCATEGORIES",
+            "categories": [
+                "GENERAL ADS",
+                "CIGARETTE ADS"
+            ],
+            "responses": [
+                "Dole Pineapple",
+                "Luke",
+                "BankAzecicard/VISA",
+                "General Electric Washer",
+                "Golden Lights",
+                "Bayer Aspirin",
+                "Hilton Hotels",
+                "Golden (Unp.)",
+                "Bolens Lawn Mower",
+                "Kawasaki",
+                "Kent Coda",
+                "Budweiser",
+                "Old Spice Pocket Cologne",
+                "Kent",
+                "Colgate Lights",
+                "Canadian Club",
+                "Polaroid Camera",
+                "Coca-Cola",
+                "Singer Sewing Machines",
+                "Concord Watches",
+                "Taster's Choice",
+                "Crest Toothpaste",
+                "Weight Watchers",
+                "Other"
+            ]
+        },
+        {
+            "question": "Do you remember any ads for cigarettes?",
+            "responses": [
+                "Yes",
+                "No",
+                "Any others",
+                "Golden Lights",
+                "Golden (Unp.)",
+                "Kent Golden",
+                "Kent Golden Lights",
+                "Kent Lights",
+                "Kent (Unp.)",
+                "Other"
+            ],
+            "skip_to": "Q.10"
+        },
+        {
+            "question": "If one or two cigarette brands mentioned, ask:",
+            "responses": [
+                "Others",
+                "Golden Lights",
+                "Golden (Unsp.)",
+                "Kent Golden",
+                "Kent Golden Lights",
+                "Kent Lights",
+                "True",
+                "Other"
+            ],
+            "specify": "SPECIFY"
+        }
+    ]
+}

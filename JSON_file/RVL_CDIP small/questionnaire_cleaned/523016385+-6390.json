@@ -1,0 +1,90 @@
+{
+    "date": "08/28/99",
+    "time": "17:08",
+    "id": "0107236103",
+    "company": "DENNIS AND CO/WS CONSUMER CTR-SH",
+    "page": "014/014",
+    "research_company": "DENNIS AND COMPANY RESEARCH",
+    "study_number": "3080",
+    "study_month": "September",
+    "study_year": "1999",
+    "r_and_d": "IDI's#2Safety Harbor",
+    "screening_time": "6:00",
+    "questionnaire_type": "SCREENING QUESTIONNAIRE",
+    "target_group": "CONCERNED SMOKERS",
+    "participant": {
+        "name": "Rick SmitH",
+        "nickname": null,
+        "address": {
+            "street": "7900 55+h Ay",
+            "city": "PinellAs PARK",
+            "state": "E/",
+            "zip": "3378/"
+        },
+        "phone": {
+            "home": null,
+            "work": "723/=1"
+        }
+    },
+    "recruiter": {
+        "name": "Bennie",
+        "extra": "Exta"
+    },
+    "quota_box": {
+        "age": {
+            "21-29": true,
+            "30-34": false,
+            "35-49": false,
+            "50-55": false
+        },
+        "gender": {
+            "male": true,
+            "female": false
+        }
+    },
+    "introduction": "Hello. I'm B from a local marketing research organization. We're conducting a survey in this area about various types of products and I'd like to ask you a few questions.",
+    "instructions": "ASK TO SPEAK TO A MALE/FEMALE WHO IS 21-55 YEARS OF AGE. IF RESPONDENT HAS TROUBLE SPEAKING CLEARLY DUE TO A DISABILITY OR MEDICAL CONDITION, TERMINATE BELOW.",
+    "termination_conditions": {
+        "accompanied_english_or_speech_disability": "01",
+        "age_under_21_or_over_55_or_refused_or_over_quota": "0203, 05, 06, 80, 15, 16",
+        "over_quota_gender": "05, 07, 08, 60, 10, 11, 12, 14, 15, 16, 17"
+    },
+    "questions": [
+        {
+            "number": "1b",
+            "text": "First of all, what is your age, please?",
+            "instruction": "RECORD EXACT AGE AND CIRCLE AGE GROUP.",
+            "age_groups": {
+                "under_21": "TERMINATE",
+                "21-29": "CONTINUE",
+                "30-34": null,
+                "35-49": null,
+                "50-55": null,
+                "56_and_over": "DO NOT READ",
+                "refused": "TERM"
+            }
+        },
+        {
+            "number": "1c",
+            "text": "RECORD SEX",
+            "options": {
+                "male": "CONTINUE",
+                "female": "CONTINUE"
+            }
+        },
+        {
+            "number": "2",
+            "text": "Which of the following products do you use daily?",
+            "instruction": "READ ENTIRE LIST. CIRCLE ALL ANSWERS.",
+            "products": {
+                "decaffeinated_coffee": "YES",
+                "sugarless_gum": "YES",
+                "lite_beer": "YES",
+                "diet_soft_drinks": "YES",
+                "non_menthol_cigarettes": "YES"
+            },
+            "termination_condition": "IF NO TO NON-MENTHOL CIGARETTES, TERMINATE IN BOX BELOW. ASK FOR ANOTHER HOUSEHOLD MEMBER WHO IS 21-55 AND BEGIN AGAIN.",
+            "termination_code": "ERM: CIGARETTES NOT USED DAILY 0708, 09, 10123, 145, 161"
+        }
+    ]
+}

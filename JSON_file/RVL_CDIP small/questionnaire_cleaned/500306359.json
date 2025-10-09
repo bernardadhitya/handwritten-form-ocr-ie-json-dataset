@@ -1,0 +1,40 @@
+{
+    "date": 2345,
+    "interviewer": null,
+    "callback": null,
+    "rotation": 78210,
+    "introduction": "I'm calling long distance for Carol Adams of National Family Opinion in Toledo, Ohio.",
+    "question_1": {
+        "question": "Did you finish smoking all the cigarettes?",
+        "response": "IFNO",
+        "follow_up": "About how many cigarettes have you smoked:",
+        "response_number": 11
+    },
+    "question_2": {
+        "question": "I'd like to have you rate your usual brand on a 1 to 10 rating scale.",
+        "scale": "If you like the brand very much rate it a 10. If you do not like the brand at all, rate it a 1. If you're somewhere in between, use any number from 1 to 10.",
+        "response": 13,
+        "note": "IF RESPONDENT GIVES RATING OF LESS THAN 6 REPEAT Q.2."
+    },
+    "question_2b": {
+        "question": "As a cigarette for your own use, what number from 1 to 10 best describes your overall feelings toward the cigarettes we sent you?",
+        "response": 6359
+    },
+    "question_2c": {
+        "question": "And what number from 1 to 10 best describes your overall feelings toward menthol filter cigarettes in general?",
+        "response": null,
+        "note": "IF RATING OF 6 OR OVER ASK Q.3 FIRST. IF RATING OF 5 OR LESS ASK Q.4 FIRST."
+    },
+    "question_3": {
+        "question": "What did you like about the cigarettes we sent you?",
+        "response": null,
+        "follow_up": "What else?",
+        "response_follow_up": null
+    },
+    "question_4": {
+        "question": "What did you not like about the cigarettes we sent you?",
+        "response": null,
+        "follow_up": "What else?",
+        "response_follow_up": null
+    }
+}

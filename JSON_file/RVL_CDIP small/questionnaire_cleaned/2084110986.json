@@ -1,0 +1,97 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "What's your wedding date?"
+        },
+        {
+            "id": 2,
+            "question": "What will the total duration of your engagement be?"
+        },
+        {
+            "id": 3,
+            "question": "What will your combined income range be?",
+            "options": [
+                "Under $20,000",
+                "$20,000-$30,000",
+                "$30,000-$50,000",
+                "$50,000-$75,000",
+                "$75,000+"
+            ]
+        },
+        {
+            "id": 4,
+            "question": "Will you rent or buy a home?",
+            "options": [
+                "Rent",
+                "Buy"
+            ]
+        },
+        {
+            "id": 5,
+            "question": "What is your total wedding budget?"
+        },
+        {
+            "id": 6,
+            "question": "Where did you purchase/receive your copy of Signature Bride?"
+        },
+        {
+            "id": 7,
+            "question": "Will you be conducting an ethnic ceremony?",
+            "options": [
+                "Yes",
+                "No"
+            ]
+        },
+        {
+            "id": 7.1,
+            "question": "If yes, will your incorporation of culture be:",
+            "options": [
+                "Minimal",
+                "Moderate",
+                "Heavy"
+            ]
+        },
+        {
+            "id": 8,
+            "question": "Please check the preferred design for your wedding gown. Check as many that best describe your ideal dress.",
+            "options": [
+                "Low cut back",
+                "Low cut front",
+                "Split in back",
+                "Split in front",
+                "Lace",
+                "Satin",
+                "Taffeta",
+                "Silk",
+                "Mermaid Cut",
+                "Sleeveless",
+                "Fitted Top/Full Skirt",
+                "Halter Top",
+                "Strapless",
+                "Long Sleeve"
+            ]
+        },
+        {
+            "id": 9,
+            "question": "Which headpiece design will you wear?",
+            "options": [
+                "Hat",
+                "Crown",
+                "None"
+            ]
+        },
+        {
+            "id": 10,
+            "question": "Name 3 top bridal designers:"
+        },
+        {
+            "id": 10.1,
+            "question": "Name 3 top bridesmaids designers:"
+        }
+    ],
+    "contact": {
+        "fax": "312/527-6596",
+        "mail": "Signature Bride, 101 W. Grand Ave. Suite 200, Chicago, IL 60610"
+    }
+}

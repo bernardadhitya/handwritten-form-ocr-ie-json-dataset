@@ -1,0 +1,54 @@
+{
+    "job_number": "0906",
+    "company": "Bellomy-Carrigg, Inc.",
+    "address": "25 University Parkway, Winston-Salem, NC 27106",
+    "respondent": {
+        "name": "Elaine Moore",
+        "address": "Rs+, M",
+        "state": "TM3",
+        "area_codes_phone": "X",
+        "date": "10-8-4",
+        "interviewed_by": "L"
+    },
+    "survey": {
+        "target": "Female 18+ years or older",
+        "questions": [
+            {
+                "question": "Into which of the following age groups does your age belong?",
+                "options": [
+                    "Under 18",
+                    "18-24",
+                    "25-34",
+                    "35-49",
+                    "50+",
+                    "Refused"
+                ],
+                "response": "35-49"
+            },
+            {
+                "question": "Which of the following products do you use daily?",
+                "options": [
+                    "Breathmints",
+                    "Mouthwash",
+                    "Cigarettes",
+                    "Gel toothpaste",
+                    "Cream toothpaste"
+                ],
+                "response": "Cigarettes"
+            },
+            {
+                "question": "Which of the following brands have you used in the past week?",
+                "options": [
+                    "Certs breathmints",
+                    "Clorets breathmints",
+                    "Topal toothpaste",
+                    "Aqua Fresh toothpaste",
+                    "Clinomint",
+                    "Scope",
+                    "Listerine"
+                ],
+                "response": []
+            }
+        ]
+    }
+}

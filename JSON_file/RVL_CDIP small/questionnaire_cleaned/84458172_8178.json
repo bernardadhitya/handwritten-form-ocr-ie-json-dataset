@@ -1,0 +1,128 @@
+{
+    "company": "AHP Marketing Research",
+    "survey": "National Consensus Surveys",
+    "address": {
+        "street": "801 Second Avenue",
+        "suite": "391",
+        "zip": "12947W",
+        "city": "New York",
+        "state": "New York",
+        "postal_code": "10017"
+    },
+    "date": "May 1977",
+    "questionnaire": {
+        "title": "Cigarette Portfolio Screening Questionnaire",
+        "sections": [
+            {
+                "title": "Time Interview",
+                "fields": [
+                    "Started",
+                    "Ended",
+                    "Respondent's Address",
+                    "State",
+                    "Interviewer",
+                    "Validated By",
+                    "Date"
+                ]
+            },
+            {
+                "title": "Indicate City",
+                "options": [
+                    "Albany",
+                    "Boston",
+                    "Denver",
+                    "Buffalo",
+                    "Des Moines",
+                    "Milwaukee",
+                    "Minneapolis",
+                    "Syracuse"
+                ]
+            },
+            {
+                "title": "Initial Refusal",
+                "instructions": "Circle next highest number below",
+                "numbers": [
+                    10,
+                    18,
+                    19,
+                    21,
+                    22,
+                    23,
+                    26,
+                    30,
+                    38,
+                    41,
+                    53,
+                    57,
+                    60,
+                    76,
+                    101,
+                    102,
+                    103,
+                    104,
+                    105,
+                    106,
+                    107,
+                    108,
+                    109,
+                    110,
+                    111,
+                    112,
+                    113,
+                    114,
+                    116,
+                    117,
+                    118,
+                    119,
+                    120
+                ]
+            },
+            {
+                "title": "Market Research Participation",
+                "question": "Have you, yourself, participated in a market research survey in the past 6 months or so?",
+                "responses": {
+                    "yes": "Terminate and circle next highest number below",
+                    "no": "Continue"
+                }
+            },
+            {
+                "title": "Age Group",
+                "instructions": "Show age card. Please tell me which letter on this card includes your age",
+                "age_groups": [
+                    {
+                        "range": "Under 21",
+                        "action": "Terminate and circle next highest number below"
+                    },
+                    {
+                        "range": "21-24",
+                        "action": "Continue"
+                    },
+                    {
+                        "range": "25-29",
+                        "action": "Continue"
+                    },
+                    {
+                        "range": "30-34",
+                        "action": "Continue"
+                    },
+                    {
+                        "range": "35-39",
+                        "action": "Continue"
+                    },
+                    {
+                        "range": "40-44",
+                        "action": "Continue"
+                    },
+                    {
+                        "range": "45-54",
+                        "action": "Continue"
+                    },
+                    {
+                        "range": "Over 55",
+                        "action": "Terminate and circle next highest number below"
+                    }
+                ]
+            }
+        ]
+    }
+}
