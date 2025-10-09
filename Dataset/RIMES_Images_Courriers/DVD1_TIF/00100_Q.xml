@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2472" height="3503">00100_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Réclamation</scenario>
+  <writer>BIANCO Jocelyne</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="177" top_left_y="357" bottom_right_x="736" bottom_right_y="498">
+       <type>Code d'envoi</type>
+       <text>KQFTIJ</text>
+  </box>
+  <box top_left_x="409" top_left_y="519" bottom_right_x="1220" bottom_right_y="625">
+       <type>Nom</type>
+       <text>BIANCO</text>
+  </box>
+  <box top_left_x="1413" top_left_y="518" bottom_right_x="2189" bottom_right_y="621">
+       <type>Prénom</type>
+       <text>Jocelyne</text>
+  </box>
+  <box top_left_x="493" top_left_y="621" bottom_right_x="2195" bottom_right_y="715">
+       <type>Adresse</type>
+       <text>10 rue Marcel Pagnol</text>
+  </box>
+  <box top_left_x="570" top_left_y="723" bottom_right_x="989" bottom_right_y="828">
+       <type>Code Postal</type>
+       <text>57700</text>
+  </box>
+  <box top_left_x="1112" top_left_y="716" bottom_right_x="2197" bottom_right_y="823">
+       <type>Ville</type>
+       <text>MARSPICH</text>
+  </box>
+  <box top_left_x="377" top_left_y="835" bottom_right_x="1252" bottom_right_y="982">
+       <type>Téléphone</type>
+       <text>0349882666</text>
+  </box>
+  <box top_left_x="518" top_left_y="1099" bottom_right_x="2195" bottom_right_y="1219">
+       <type>Catégorie Scénario</type>
+       <text>Réclamation</text>
+  </box>
+  <box top_left_x="302" top_left_y="1210" bottom_right_x="2197" bottom_right_y="1396">
+       <type>Objet Scénario</type>
+       <text>Vous souhaitez vous faire rembourser\n</text>
+  </box>
+  <box top_left_x="295" top_left_y="1389" bottom_right_x="2200" bottom_right_y="1581">
+       <type>Complément Scénario</type>
+       <text>Le produit livré est ¤{defectueux/défectueux}¤\n</text>
+  </box>
+  <box top_left_x="921" top_left_y="1598" bottom_right_x="1561" bottom_right_y="1749">
+       <type>Référence client</type>
+       <text>TGXMZ54</text>
+  </box>
+  <box top_left_x="597" top_left_y="1745" bottom_right_x="2209" bottom_right_y="1843">
+       <type>Interlocuteur</type>
+       <text>La Reboute</text>
+  </box>
+  <box top_left_x="508" top_left_y="1836" bottom_right_x="2209" bottom_right_y="1942">
+       <type>Adresse Interlocuteur</type>
+       <text>7 Avenue de la Poste</text>
+  </box>
+  <box top_left_x="587" top_left_y="1937" bottom_right_x="1017" bottom_right_y="2056">
+       <type>Code Postal Interlocuteur</type>
+       <text>06220</text>
+  </box>
+  <box top_left_x="1151" top_left_y="1934" bottom_right_x="2209" bottom_right_y="2036">
+       <type>Ville Interlocuteur</type>
+       <text>Vallauris</text>
+  </box>
+  <box top_left_x="1068" top_left_y="2274" bottom_right_x="1284" bottom_right_y="2385">
+       <type>Temps passé</type>
+       <text>40</text>
+  </box>
+  <box top_left_x="914" top_left_y="2212" bottom_right_x="978" bottom_right_y="2290">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1090" top_left_y="2209" bottom_right_x="1139" bottom_right_y="2261">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1304" top_left_y="2208" bottom_right_x="1357" bottom_right_y="2261">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="307" top_left_y="2682" bottom_right_x="365" bottom_right_y="2743">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1613" top_left_y="2629" bottom_right_x="2213" bottom_right_y="2742">
+       <type>Date d'envoi postal</type>
+       <text>4 Août 2006</text>
+  </box>
+  <box top_left_x="302" top_left_y="2768" bottom_right_x="366" bottom_right_y="2849">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="318" top_left_y="2871" bottom_right_x="369" bottom_right_y="2917">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1755" top_left_y="2802" bottom_right_x="2206" bottom_right_y="2920">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="314" top_left_y="2964" bottom_right_x="369" bottom_right_y="3034">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1611" top_left_y="2922" bottom_right_x="2209" bottom_right_y="3026">
+       <type>Date d'envoi par courriel</type>
+       <text>4 Août 2006</text>
+  </box>
+  <box top_left_x="1753" top_left_y="3119" bottom_right_x="2019" bottom_right_y="3214">
+       <type>Résolution</type>
+       <text>200</text>
+  </box>
+  <box top_left_x="585" top_left_y="3151" bottom_right_x="641" bottom_right_y="3220">
+       <type>Format PNG</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="797" top_left_y="3150" bottom_right_x="849" bottom_right_y="3200">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="979" top_left_y="3149" bottom_right_x="1029" bottom_right_y="3200">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1090" top_left_y="3020" bottom_right_x="2210" bottom_right_y="3123">
+       <type>Marque et modèle scanner</type>
+       <text>HP PSC 1215 all-in-one</text>
+  </box>
+</annotation>

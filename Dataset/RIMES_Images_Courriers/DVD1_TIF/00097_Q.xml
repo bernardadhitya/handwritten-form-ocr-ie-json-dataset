@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2470" height="3503">00097_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Relance de courrier sans réponse</scenario>
+  <writer>HENRIQUES Joan</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="162" top_left_y="358" bottom_right_x="722" bottom_right_y="503">
+       <type>Code d'envoi</type>
+       <text>LPCBSX</text>
+  </box>
+  <box top_left_x="395" top_left_y="519" bottom_right_x="1206" bottom_right_y="629">
+       <type>Nom</type>
+       <text>HENRIQUES</text>
+  </box>
+  <box top_left_x="1399" top_left_y="514" bottom_right_x="2173" bottom_right_y="621">
+       <type>Prénom</type>
+       <text>Joan</text>
+  </box>
+  <box top_left_x="479" top_left_y="617" bottom_right_x="2180" bottom_right_y="717">
+       <type>Adresse</type>
+       <text>29 rue des Moutons</text>
+  </box>
+  <box top_left_x="556" top_left_y="724" bottom_right_x="976" bottom_right_y="830">
+       <type>Code Postal</type>
+       <text>67270</text>
+  </box>
+  <box top_left_x="1098" top_left_y="715" bottom_right_x="2185" bottom_right_y="825">
+       <type>Ville</type>
+       <text>MELSHEIM</text>
+  </box>
+  <box top_left_x="364" top_left_y="837" bottom_right_x="1239" bottom_right_y="984">
+       <type>Téléphone</type>
+       <text>0377283097</text>
+  </box>
+  <box top_left_x="504" top_left_y="1100" bottom_right_x="2182" bottom_right_y="1219">
+       <type>Catégorie Scénario</type>
+       <text>Relance de courrier sans réponse</text>
+  </box>
+  <box top_left_x="288" top_left_y="1212" bottom_right_x="2182" bottom_right_y="1396">
+       <type>Objet Scénario</type>
+       <text>Votre réclamation du mois dernier est restée sans suite.\n</text>
+  </box>
+  <box top_left_x="281" top_left_y="1393" bottom_right_x="2182" bottom_right_y="1584">
+       <type>Complément Scénario</type>
+       <text>\n</text>
+  </box>
+  <box top_left_x="906" top_left_y="1601" bottom_right_x="1545" bottom_right_y="1751">
+       <type>Référence client</type>
+       <text>AKVIV96</text>
+  </box>
+  <box top_left_x="581" top_left_y="1748" bottom_right_x="2191" bottom_right_y="1847">
+       <type>Interlocuteur</type>
+       <text>ASSEDIC - Assurance ¤{Chomage/Chômage}¤</text>
+  </box>
+  <box top_left_x="492" top_left_y="1837" bottom_right_x="2190" bottom_right_y="1947">
+       <type>Adresse Interlocuteur</type>
+       <text>4 rue Waldeck Rochet</text>
+  </box>
+  <box top_left_x="571" top_left_y="1936" bottom_right_x="1000" bottom_right_y="2056">
+       <type>Code Postal Interlocuteur</type>
+       <text>97419</text>
+  </box>
+  <box top_left_x="1135" top_left_y="1938" bottom_right_x="2190" bottom_right_y="2041">
+       <type>Ville Interlocuteur</type>
+       <text>LA POSSESSION</text>
+  </box>
+  <box top_left_x="1051" top_left_y="2275" bottom_right_x="1265" bottom_right_y="2386">
+       <type>Temps passé</type>
+       <text>10</text>
+  </box>
+  <box top_left_x="899" top_left_y="2213" bottom_right_x="948" bottom_right_y="2263">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1071" top_left_y="2210" bottom_right_x="1120" bottom_right_y="2262">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1287" top_left_y="2211" bottom_right_x="1339" bottom_right_y="2263">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="293" top_left_y="2673" bottom_right_x="333" bottom_right_y="2732">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1592" top_left_y="2635" bottom_right_x="2191" bottom_right_y="2751">
+       <type>Date d'envoi postal</type>
+       <text>28/07/2006</text>
+  </box>
+  <box top_left_x="293" top_left_y="2767" bottom_right_x="332" bottom_right_y="2822">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="292" top_left_y="2862" bottom_right_x="376" bottom_right_y="2928">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1734" top_left_y="2810" bottom_right_x="2184" bottom_right_y="2930">
+       <type>Date d'envoi par fax</type>
+       <text>28/07/2006</text>
+  </box>
+  <box top_left_x="292" top_left_y="2955" bottom_right_x="376" bottom_right_y="3007">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1589" top_left_y="2929" bottom_right_x="2186" bottom_right_y="3035">
+       <type>Date d'envoi par courriel</type>
+       <text>28/07/2006</text>
+  </box>
+  <box top_left_x="1730" top_left_y="3125" bottom_right_x="1996" bottom_right_y="3221">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="569" top_left_y="3144" bottom_right_x="620" bottom_right_y="3194">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="774" top_left_y="3145" bottom_right_x="826" bottom_right_y="3195">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="958" top_left_y="3148" bottom_right_x="1006" bottom_right_y="3196">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1068" top_left_y="3023" bottom_right_x="2187" bottom_right_y="3130">
+       <type>Marque et modèle scanner</type>
+       <text>HP 9100 C</text>
+  </box>
+</annotation>
