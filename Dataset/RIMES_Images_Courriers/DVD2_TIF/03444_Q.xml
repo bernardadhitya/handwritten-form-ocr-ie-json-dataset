@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2471" height="3507">03444_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Gestion de sinistre</scenario>
+  <writer>RIBEIRO Beatrice</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="101" top_left_y="256" bottom_right_x="703" bottom_right_y="409">
+       <type>Code d'envoi</type>
+       <text>OTCDTI</text>
+  </box>
+  <box top_left_x="350" top_left_y="432" bottom_right_x="1223" bottom_right_y="549">
+       <type>Nom</type>
+       <text>BEATRICE</text>
+  </box>
+  <box top_left_x="1431" top_left_y="435" bottom_right_x="2266" bottom_right_y="550">
+       <type>Prénom</type>
+       <text>RIBEIRO</text>
+  </box>
+  <box top_left_x="440" top_left_y="543" bottom_right_x="2273" bottom_right_y="651">
+       <type>Adresse</type>
+       <text>53, Rue du Général Leclerc</text>
+  </box>
+  <box top_left_x="523" top_left_y="653" bottom_right_x="974" bottom_right_y="770">
+       <type>Code Postal</type>
+       <text>57670</text>
+  </box>
+  <box top_left_x="1107" top_left_y="649" bottom_right_x="2275" bottom_right_y="771">
+       <type>Ville</type>
+       <text>NEBING</text>
+  </box>
+  <box top_left_x="315" top_left_y="774" bottom_right_x="1257" bottom_right_y="935">
+       <type>Téléphone</type>
+       <text>0330472371</text>
+  </box>
+  <box top_left_x="465" top_left_y="1064" bottom_right_x="2273" bottom_right_y="1190">
+       <type>Catégorie Scénario</type>
+       <text>Gestion de Sinistre</text>
+  </box>
+  <box top_left_x="232" top_left_y="1182" bottom_right_x="2273" bottom_right_y="1379">
+       <type>Objet Scénario</type>
+       <text>Vous êtes sans nouvelles concernant l'expertise de\nvotre véhicule Accidenté le mois dernier</text>
+  </box>
+  <box top_left_x="224" top_left_y="1373" bottom_right_x="2275" bottom_right_y="1580">
+       <type>Complément Scénario</type>
+       <text>\n</text>
+  </box>
+  <box top_left_x="899" top_left_y="1597" bottom_right_x="1587" bottom_right_y="1761">
+       <type>Référence client</type>
+       <text>XLKMP95</text>
+  </box>
+  <box top_left_x="548" top_left_y="1756" bottom_right_x="2283" bottom_right_y="1865">
+       <type>Interlocuteur</type>
+       <text>MNA Assurances</text>
+  </box>
+  <box top_left_x="452" top_left_y="1853" bottom_right_x="2280" bottom_right_y="1970">
+       <type>Adresse Interlocuteur</type>
+       <text>348, rue ABBE BORDES</text>
+  </box>
+  <box top_left_x="536" top_left_y="1959" bottom_right_x="998" bottom_right_y="2088">
+       <type>Code Postal Interlocuteur</type>
+       <text>40380</text>
+  </box>
+  <box top_left_x="1143" top_left_y="1962" bottom_right_x="2279" bottom_right_y="2070">
+       <type>Ville Interlocuteur</type>
+       <text>GAMARDE LES BAINS</text>
+  </box>
+  <box top_left_x="1054" top_left_y="2323" bottom_right_x="1285" bottom_right_y="2442">
+       <type>Temps passé</type>
+       <text>30</text>
+  </box>
+  <box top_left_x="862" top_left_y="2222" bottom_right_x="971" bottom_right_y="2326">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1074" top_left_y="2278" bottom_right_x="1157" bottom_right_y="2318">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1280" top_left_y="2267" bottom_right_x="1392" bottom_right_y="2315">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="239" top_left_y="2756" bottom_right_x="328" bottom_right_y="2833">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1637" top_left_y="2708" bottom_right_x="2283" bottom_right_y="2829">
+       <type>Date d'envoi postal</type>
+       <text>12/03/07</text>
+  </box>
+  <box top_left_x="239" top_left_y="2837" bottom_right_x="328" bottom_right_y="2928">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="225" top_left_y="2937" bottom_right_x="329" bottom_right_y="3037">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1790" top_left_y="2895" bottom_right_x="2275" bottom_right_y="3021">
+       <type>Date d'envoi par fax</type>
+       <text>12/03/07</text>
+  </box>
+  <box top_left_x="226" top_left_y="3034" bottom_right_x="329" bottom_right_y="3123">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1635" top_left_y="3025" bottom_right_x="2277" bottom_right_y="3135">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1787" top_left_y="3236" bottom_right_x="2074" bottom_right_y="3337">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="540" top_left_y="3266" bottom_right_x="594" bottom_right_y="3319">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="758" top_left_y="3265" bottom_right_x="814" bottom_right_y="3320">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="955" top_left_y="3265" bottom_right_x="1009" bottom_right_y="3320">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1074" top_left_y="3130" bottom_right_x="2279" bottom_right_y="3238">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>

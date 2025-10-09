@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2471" height="3501">02401_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Gestion de sinistre</scenario>
+  <writer>COTE Joelle</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="154" top_left_y="121" bottom_right_x="742" bottom_right_y="272">
+       <type>Code d'envoi</type>
+       <text>PMDRLY</text>
+  </box>
+  <box top_left_x="398" top_left_y="293" bottom_right_x="1250" bottom_right_y="408">
+       <type>Nom</type>
+       <text>COTE</text>
+  </box>
+  <box top_left_x="1454" top_left_y="298" bottom_right_x="2269" bottom_right_y="410">
+       <type>Prénom</type>
+       <text>Joelle</text>
+  </box>
+  <box top_left_x="485" top_left_y="401" bottom_right_x="2274" bottom_right_y="509">
+       <type>Adresse</type>
+       <text>6, rue principale</text>
+  </box>
+  <box top_left_x="566" top_left_y="507" bottom_right_x="1006" bottom_right_y="621">
+       <type>Code Postal</type>
+       <text>67420</text>
+  </box>
+  <box top_left_x="1136" top_left_y="504" bottom_right_x="2275" bottom_right_y="625">
+       <type>Ville</type>
+       <text>SAULXURES</text>
+  </box>
+  <box top_left_x="362" top_left_y="624" bottom_right_x="1282" bottom_right_y="784">
+       <type>Téléphone</type>
+       <text>0368574356</text>
+  </box>
+  <box top_left_x="509" top_left_y="908" bottom_right_x="2274" bottom_right_y="1033">
+       <type>Catégorie Scénario</type>
+       <text>gestion de sinistre</text>
+  </box>
+  <box top_left_x="282" top_left_y="1023" bottom_right_x="2274" bottom_right_y="1217">
+       <type>Objet Scénario</type>
+       <text>vous faites appel à votre assurance automobile\n</text>
+  </box>
+  <box top_left_x="274" top_left_y="1210" bottom_right_x="2274" bottom_right_y="1412">
+       <type>Complément Scénario</type>
+       <text>vous avez provoqué un accident de la route\n(vous déclarerez joindre le constat)</text>
+  </box>
+  <box top_left_x="931" top_left_y="1429" bottom_right_x="1601" bottom_right_y="1589">
+       <type>Référence client</type>
+       <text>OPPLD11</text>
+  </box>
+  <box top_left_x="589" top_left_y="1584" bottom_right_x="2280" bottom_right_y="1690">
+       <type>Interlocuteur</type>
+       <text>BAAF Assurances</text>
+  </box>
+  <box top_left_x="496" top_left_y="1679" bottom_right_x="2279" bottom_right_y="1794">
+       <type>Adresse Interlocuteur</type>
+       <text>4, rue Belle Croix</text>
+  </box>
+  <box top_left_x="577" top_left_y="1783" bottom_right_x="1029" bottom_right_y="1909">
+       <type>Code Postal Interlocuteur</type>
+       <text>59890</text>
+  </box>
+  <box top_left_x="1170" top_left_y="1785" bottom_right_x="2279" bottom_right_y="1892">
+       <type>Ville Interlocuteur</type>
+       <text>QUESNOY SUR DEULE</text>
+  </box>
+  <box top_left_x="1083" top_left_y="2138" bottom_right_x="1309" bottom_right_y="2254">
+       <type>Temps passé</type>
+       <text></text>
+  </box>
+  <box top_left_x="894" top_left_y="2072" bottom_right_x="1001" bottom_right_y="2131">
+       <type>Stylo bille</type>
+       <text></text>
+  </box>
+  <box top_left_x="1102" top_left_y="2095" bottom_right_x="1183" bottom_right_y="2134">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1304" top_left_y="2072" bottom_right_x="1412" bottom_right_y="2138">
+       <type>Stylo feutre</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="291" top_left_y="2567" bottom_right_x="374" bottom_right_y="2632">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1653" top_left_y="2514" bottom_right_x="2284" bottom_right_y="2632">
+       <type>Date d'envoi postal</type>
+       <text></text>
+  </box>
+  <box top_left_x="293" top_left_y="2664" bottom_right_x="345" bottom_right_y="2714">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="288" top_left_y="2762" bottom_right_x="373" bottom_right_y="2818">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1803" top_left_y="2696" bottom_right_x="2276" bottom_right_y="2819">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="288" top_left_y="2861" bottom_right_x="375" bottom_right_y="2917">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1651" top_left_y="2822" bottom_right_x="2278" bottom_right_y="2930">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1799" top_left_y="3029" bottom_right_x="2078" bottom_right_y="3128">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="578" top_left_y="3059" bottom_right_x="632" bottom_right_y="3111">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="795" top_left_y="3058" bottom_right_x="849" bottom_right_y="3112">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="986" top_left_y="3058" bottom_right_x="1038" bottom_right_y="3112">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1102" top_left_y="2926" bottom_right_x="2279" bottom_right_y="3030">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
