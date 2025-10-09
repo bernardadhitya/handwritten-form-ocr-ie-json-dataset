@@ -1,0 +1,76 @@
+{
+    "company": {
+        "name": "Brand Precision Services",
+        "address": {
+            "street": "7545 Harvest Road",
+            "city": "Brand",
+            "poBox": "P.O. Box 1207",
+            "location": "Hopewell, Virginia 23860"
+        },
+        "contact": "(804)796-6994"
+    },
+    "invoice": {
+        "customRK": "CustomRK 50",
+        "da": "Da6-93",
+        "poNumber": null,
+        "releaseNumber": null,
+        "totalManHours": 39.0,
+        "jobDescription": null,
+        "totalEquipHours": null
+    },
+    "equipment": [
+        {
+            "type": "Water Blaster",
+            "timeIn": "AM/PM",
+            "timeOut": "AM/PM"
+        },
+        {
+            "type": "Water Blaster",
+            "timeIn": "AM/PM",
+            "timeOut": "AM/PM"
+        },
+        {
+            "type": "Power Vacuum",
+            "timeIn": "AM/PM",
+            "timeOut": "AM/PM"
+        },
+        {
+            "type": "Power Vacuum",
+            "timeIn": "AM/PM",
+            "timeOut": "AM/PM"
+        },
+        {
+            "type": "Ultra High",
+            "timeIn": "AM/PM",
+            "timeOut": "AM/PM"
+        }
+    ],
+    "manpower": [
+        {
+            "name": "O-JE Russo",
+            "timeIn": "AM/RM",
+            "timeOut": "BAMPM",
+            "hours": 13.0
+        },
+        {
+            "name": "SEAGNER",
+            "timeIn": "C0AMM",
+            "timeOut": "Q8OAMYPM",
+            "hours": 13.0
+        },
+        {
+            "name": "CRBRA KARNES",
+            "timeIn": "1902AM/PM",
+            "timeOut": "8AMPM",
+            "hours": 13.0
+        }
+    ],
+    "additionalEquipmentUsed": null,
+    "equipmentDelays": null,
+    "plantDelays": null,
+    "perDiemPerMan": "Yes",
+    "print": null,
+    "signedBy": null,
+    "accepted": null,
+    "referenceNumber": "9030015905"
+}

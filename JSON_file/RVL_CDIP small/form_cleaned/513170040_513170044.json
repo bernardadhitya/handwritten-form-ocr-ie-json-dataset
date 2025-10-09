@@ -1,0 +1,77 @@
+{
+    "form": {
+        "title": "CRITICAL EXPORT SUBMITTAL & REPORT FORM",
+        "form_number": "12129133",
+        "to": [
+            "Mr. M. Navarro",
+            "Mr. J. L. McKenzie",
+            "Ms. J. P. Vest"
+        ],
+        "brand_name": "SO CO SSA",
+        "date_samples_shipped": "FROM YABUCOA",
+        "factory": "YABUCOA, PUERTO RICO",
+        "manufacturing_date": [
+            "2/5/93",
+            "2/6/93"
+        ],
+        "country_produced_for": "SAO",
+        "order_number": "93004849",
+        "shipping_date": "N/A",
+        "sample_number": "3CarTas",
+        "invoice_number": "34658502",
+        "tar_test_methods": "CASE NUMBERS: HuNK",
+        "butt_length_mm": "8 JS",
+        "product_test_results": {
+            "tar_mg_cigt": {
+                "target": 142,
+                "samples": [
+                    143,
+                    849,
+                    19.3
+                ],
+                "limits": {
+                    "upper": 162,
+                    "lower": 122
+                }
+            },
+            "nic_mg_cigt": {
+                "target": 1.0,
+                "samples": [
+                    1.01,
+                    981.06,
+                    102
+                ],
+                "limits": {
+                    "upper": 1.1,
+                    "lower": 9
+                }
+            },
+            "menthol": {
+                "target": 30,
+                "samples": [
+                    270,
+                    29,
+                    29
+                ],
+                "limits": {
+                    "upper": 27,
+                    "lower": "ISLINIT"
+                }
+            }
+        },
+        "management_of_yabucoa_factory": "Miguel O. Navarro",
+        "cc": [
+            "Mr. W. C. Schulz",
+            "R&D TI D. Herko",
+            "JoAnn Sprink"
+        ],
+        "additional_info": [
+            "/jar",
+            "40-",
+            "51317",
+            "1130/32",
+            "593",
+            "0040"
+        ]
+    }
+}

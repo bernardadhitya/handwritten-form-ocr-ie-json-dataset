@@ -1,0 +1,33 @@
+{
+    "re_shipment": {
+        "checklist": {
+            "compound_file": "B154",
+            "product_development": {
+                "actual_name": "alpha",
+                "where_shipped": "CBI",
+                "date_shipped": null,
+                "amount": "I5 rl",
+                "purpose": "FLP",
+                "ames": null,
+                "shipper": "M.Bennstt",
+                "date": "10r20",
+                "initial": "MB",
+                "source_manufacturer": null,
+                "lot_or_batch": "9-15-03",
+                "date_received_or_produced": "Decision Tree",
+                "litexature_search": null,
+                "compound_physical_parameters": {
+                    "ph": "10-Q0",
+                    "solubility": null,
+                    "stability": null,
+                    "storage_recommendations": "M8"
+                },
+                "ok_to_ship": {
+                    "above_data_complete": true,
+                    "compound_is_well_known_and_documented": true
+                },
+                "exceptions_action_to_follow_up": "00275659"
+            }
+        }
+    }
+}

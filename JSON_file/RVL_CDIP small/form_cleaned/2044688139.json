@@ -1,0 +1,62 @@
+{
+    "purchaseRequisition": {
+        "poNumber": "4446AA142",
+        "requester": "Robert Kreisner - Cary-Owens",
+        "date": "July 31, 1985",
+        "orderFrom": {
+            "address": "4-8 B Grand Blvd North",
+            "city": "Brentwood",
+            "state": "NY",
+            "zip": "11717"
+        },
+        "shipTo": "Carlstadt",
+        "terms": "F.O.B.",
+        "items": [
+            {
+                "description": "Rerun PON-57743 VS 120's Clerk Gift",
+                "quantity": 170000,
+                "unitPrice": 0.6,
+                "total": 102000
+            },
+            {
+                "description": "Red sleeves",
+                "unitPrice": 0.05,
+                "total": 8500
+            },
+            {
+                "description": "Packing: 100 pens and sleeves per inner carton",
+                "unitPrice": 0.02,
+                "total": 3400
+            }
+        ],
+        "cartonCopy": "Philip Morris USA #27947 (Quantity) - vSp",
+        "freight": "Prepaid",
+        "dueDate": "September 2, 1985",
+        "notes": [
+            "Pre-production proofs are required for approval.",
+            "Supplier is responsible for defective goods and is to replace with quality product.",
+            "Inner cartons must be suitable for reshipment and stapled or sealed with 3\" filament tape."
+        ],
+        "rushOrder": true,
+        "notCompetitivelyBid": true,
+        "cc": [
+            "J. Cunningham",
+            "M. Mancuso",
+            "B. Cutler",
+            "J. Sully",
+            "F. Goehl",
+            "T. Walsh",
+            "M. Hulit",
+            "J. Woods",
+            "C. Leiber"
+        ],
+        "purpose": "Fe 8/7",
+        "dateRequired": null,
+        "departmentalApproval": null,
+        "deliverTo": null,
+        "dept": null,
+        "accountingDeptApproval": null,
+        "executiveApproval": null,
+        "accountingCode": null
+    }
+}
