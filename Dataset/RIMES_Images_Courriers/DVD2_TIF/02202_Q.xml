@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2471" height="3506">02202_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Relance de courrier sans réponse</scenario>
+  <writer>MARY Fernand</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="172" top_left_y="351" bottom_right_x="731" bottom_right_y="493">
+       <type>Code d'envoi</type>
+       <text>VWSDBS</text>
+  </box>
+  <box top_left_x="404" top_left_y="513" bottom_right_x="1215" bottom_right_y="619">
+       <type>Nom</type>
+       <text>Mary</text>
+  </box>
+  <box top_left_x="1409" top_left_y="511" bottom_right_x="2184" bottom_right_y="615">
+       <type>Prénom</type>
+       <text>Fernand</text>
+  </box>
+  <box top_left_x="488" top_left_y="614" bottom_right_x="2190" bottom_right_y="708">
+       <type>Adresse</type>
+       <text>5 coin de ¤{l'eglise/l'église¤{</text>
+  </box>
+  <box top_left_x="565" top_left_y="716" bottom_right_x="985" bottom_right_y="822">
+       <type>Code Postal</type>
+       <text>67190</text>
+  </box>
+  <box top_left_x="1107" top_left_y="708" bottom_right_x="2193" bottom_right_y="816">
+       <type>Ville</type>
+       <text></text>
+  </box>
+  <box top_left_x="373" top_left_y="828" bottom_right_x="1247" bottom_right_y="974">
+       <type>Téléphone</type>
+       <text>0335176964</text>
+  </box>
+  <box top_left_x="513" top_left_y="1093" bottom_right_x="2193" bottom_right_y="1211">
+       <type>Catégorie Scénario</type>
+       <text>relance de courrier sans réponse</text>
+  </box>
+  <box top_left_x="298" top_left_y="1203" bottom_right_x="2194" bottom_right_y="1387">
+       <type>Objet Scénario</type>
+       <text>votre demande d'information du mois dernier\nest restée sans effet</text>
+  </box>
+  <box top_left_x="291" top_left_y="1380" bottom_right_x="2196" bottom_right_y="1571">
+       <type>Complément Scénario</type>
+       <text>\n</text>
+  </box>
+  <box top_left_x="917" top_left_y="1588" bottom_right_x="1556" bottom_right_y="1739">
+       <type>Référence client</type>
+       <text>GWGGF65</text>
+  </box>
+  <box top_left_x="592" top_left_y="1735" bottom_right_x="2203" bottom_right_y="1834">
+       <type>Interlocuteur</type>
+       <text>CPAM</text>
+  </box>
+  <box top_left_x="504" top_left_y="1827" bottom_right_x="2201" bottom_right_y="1933">
+       <type>Adresse Interlocuteur</type>
+       <text>5 la grande rue</text>
+  </box>
+  <box top_left_x="582" top_left_y="1928" bottom_right_x="1012" bottom_right_y="2047">
+       <type>Code Postal Interlocuteur</type>
+       <text>53210</text>
+  </box>
+  <box top_left_x="1147" top_left_y="1926" bottom_right_x="2201" bottom_right_y="2027">
+       <type>Ville Interlocuteur</type>
+       <text>Soulge sur Ouette</text>
+  </box>
+  <box top_left_x="1065" top_left_y="2264" bottom_right_x="1280" bottom_right_y="2374">
+       <type>Temps passé</type>
+       <text>15</text>
+  </box>
+  <box top_left_x="923" top_left_y="2204" bottom_right_x="987" bottom_right_y="2250">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1085" top_left_y="2200" bottom_right_x="1134" bottom_right_y="2251">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1301" top_left_y="2199" bottom_right_x="1353" bottom_right_y="2251">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="318" top_left_y="2671" bottom_right_x="393" bottom_right_y="2717">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1608" top_left_y="2617" bottom_right_x="2210" bottom_right_y="2730">
+       <type>Date d'envoi postal</type>
+       <text>25/01/07</text>
+  </box>
+  <box top_left_x="307" top_left_y="2765" bottom_right_x="363" bottom_right_y="2817">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="317" top_left_y="2860" bottom_right_x="394" bottom_right_y="2909">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1753" top_left_y="2790" bottom_right_x="2204" bottom_right_y="2908">
+       <type>Date d'envoi par fax</type>
+       <text>25/01/07</text>
+  </box>
+  <box top_left_x="310" top_left_y="2943" bottom_right_x="394" bottom_right_y="3004">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1609" top_left_y="2909" bottom_right_x="2206" bottom_right_y="3013">
+       <type>Date d'envoi par courriel</type>
+       <text>24/01/07</text>
+  </box>
+  <box top_left_x="1750" top_left_y="3105" bottom_right_x="2016" bottom_right_y="3200">
+       <type>Résolution</type>
+       <text>96</text>
+  </box>
+  <box top_left_x="589" top_left_y="3139" bottom_right_x="640" bottom_right_y="3189">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="798" top_left_y="3139" bottom_right_x="872" bottom_right_y="3209">
+       <type>Format GIF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="977" top_left_y="3137" bottom_right_x="1027" bottom_right_y="3187">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1088" top_left_y="3007" bottom_right_x="2208" bottom_right_y="3111">
+       <type>Marque et modèle scanner</type>
+       <text>Canon pixma MP 110</text>
+  </box>
+</annotation>
