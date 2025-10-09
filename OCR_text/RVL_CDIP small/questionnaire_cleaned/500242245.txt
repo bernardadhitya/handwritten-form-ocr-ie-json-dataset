@@ -1,0 +1,79 @@
+WINSTON 85 - MARLBORO 85 PRODUCT ATTITUDE STUDY
+USE THIS
+MRD71-0546
+COLUMN
+23456
+DATE
+RESPONDENT NAME
+710546
+INT. INITIALS
+TELEPHONE NUMBER
+89101
+1.
+INTRODUCTION AND ELIGIBILITY
+"Hello,I'm calling for Lane Services, a marketing research
+company, and we're doing a survey on products used in the
+home.
+"Have you, yourself, smoked any cigarettes in the past 7
+days,
+or not?
+CONTINUE
+NO.
+ANOTHER PERSON
+THOME
+18 OR OVER
+WHO SMOKES
+CIGARETTES AND REPEAT QUESTION la.
+"Approximately
+cigarettes do you usually smoke
+LESS THAN 1
+TERMINATE AND DO NOT COUNT
+rOWARD QUOTA
+1-15
+16-25
+2
+OVER 25
+3
+50024
+USUAL BRAND
+"what is your usual brand of cigarette7
+2245
+WINSTON
+MARLBORO
+2
+IF OTHER BRANDS -
+TERMINATE
+"Is that the regular king size,or the extra-long 100
+millimeter size?
+REGULAR KING SIZE-
+IF WINSTON KINGGO TO 2d
+IF MARLBORO KINGGO TO 2c
+EXTRA LONG SIZE --TERMINATE AND DO NOT COUNT TOWARD QUOTA
+"Is that the regular Marlboro in the red package, Marlboro
+Menthol in the green package, or the new low tar Marlboro
+Lights that comes in a gold package?"
+REGULAR MARLBORO-
+GOTO0.2
+MARLBORO MENTHOL
+TERMINATE AND DO NOT COUNT
+TOWARD QUOTA
+MARLBORO LIGHTS
+Do you usually buy Winstons) (Marlboros in the soft paper
+SOFT PAPER PACK
+HARD BOX PACK
+2]
+About how long has Winston) (Marlboro) been your usual
+brand of cigarette?"
+1-4 WEEKS
+1
+1-2YEARS
+4
+1-6MONTHS
+2
+2-5 YEARS
+5
+6-12MONTHS
+3
+OVER 5 YEARS
+6]
+IF USUAL BRAND IS MARLBORO GO TO YELLOW QUESTIONNAIRE
