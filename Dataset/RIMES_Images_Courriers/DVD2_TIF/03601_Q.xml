@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2473" height="3500">03601_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Demande d'information</scenario>
+  <writer>SIEGLER Catherine</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="169" top_left_y="350" bottom_right_x="727" bottom_right_y="491">
+       <type>Code d'envoi</type>
+       <text>CSIZWW</text>
+  </box>
+  <box top_left_x="400" top_left_y="513" bottom_right_x="1209" bottom_right_y="619">
+       <type>Nom</type>
+       <text>SIEGLER</text>
+  </box>
+  <box top_left_x="1403" top_left_y="514" bottom_right_x="2175" bottom_right_y="617">
+       <type>Prénom</type>
+       <text>Catherine</text>
+  </box>
+  <box top_left_x="484" top_left_y="616" bottom_right_x="2180" bottom_right_y="712">
+       <type>Adresse</type>
+       <text>10, Rue des Etangs</text>
+  </box>
+  <box top_left_x="560" top_left_y="716" bottom_right_x="978" bottom_right_y="823">
+       <type>Code Postal</type>
+       <text>57410</text>
+  </box>
+  <box top_left_x="1101" top_left_y="711" bottom_right_x="2181" bottom_right_y="819">
+       <type>Ville</type>
+       <text>LAMBACH</text>
+  </box>
+  <box top_left_x="369" top_left_y="829" bottom_right_x="1240" bottom_right_y="976">
+       <type>Téléphone</type>
+       <text>0370816882</text>
+  </box>
+  <box top_left_x="508" top_left_y="1096" bottom_right_x="2183" bottom_right_y="1212">
+       <type>Catégorie Scénario</type>
+       <text>Demande d'information</text>
+  </box>
+  <box top_left_x="293" top_left_y="1207" bottom_right_x="2184" bottom_right_y="1388">
+       <type>Objet Scénario</type>
+       <text>Demande de précision sur votre dernière facture\n</text>
+  </box>
+  <box top_left_x="284" top_left_y="1386" bottom_right_x="2184" bottom_right_y="1574">
+       <type>Complément Scénario</type>
+       <text>Vous êtes insatisfaite du service\n</text>
+  </box>
+  <box top_left_x="908" top_left_y="1593" bottom_right_x="1545" bottom_right_y="1743">
+       <type>Référence client</type>
+       <text>HBSUV02</text>
+  </box>
+  <box top_left_x="584" top_left_y="1741" bottom_right_x="2190" bottom_right_y="1839">
+       <type>Interlocuteur</type>
+       <text>Univers Sale Mobile</text>
+  </box>
+  <box top_left_x="496" top_left_y="1831" bottom_right_x="2189" bottom_right_y="1939">
+       <type>Adresse Interlocuteur</type>
+       <text>PLAN D'AVOZ</text>
+  </box>
+  <box top_left_x="573" top_left_y="1930" bottom_right_x="1002" bottom_right_y="2049">
+       <type>Code Postal Interlocuteur</type>
+       <text>74430</text>
+  </box>
+  <box top_left_x="1136" top_left_y="1932" bottom_right_x="2188" bottom_right_y="2032">
+       <type>Ville Interlocuteur</type>
+       <text>ST JEAN d'AULPS</text>
+  </box>
+  <box top_left_x="1054" top_left_y="2267" bottom_right_x="1268" bottom_right_y="2377">
+       <type>Temps passé</type>
+       <text>10</text>
+  </box>
+  <box top_left_x="875" top_left_y="2206" bottom_right_x="977" bottom_right_y="2253">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1074" top_left_y="2202" bottom_right_x="1123" bottom_right_y="2254">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1290" top_left_y="2202" bottom_right_x="1342" bottom_right_y="2255">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="302" top_left_y="2651" bottom_right_x="336" bottom_right_y="2700">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1595" top_left_y="2624" bottom_right_x="2195" bottom_right_y="2736">
+       <type>Date d'envoi postal</type>
+       <text>13.03.2007</text>
+  </box>
+  <box top_left_x="303" top_left_y="2767" bottom_right_x="353" bottom_right_y="2815">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="303" top_left_y="2861" bottom_right_x="380" bottom_right_y="2909">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1738" top_left_y="2798" bottom_right_x="2188" bottom_right_y="2915">
+       <type>Date d'envoi par fax</type>
+       <text>13.03.2007</text>
+  </box>
+  <box top_left_x="303" top_left_y="2954" bottom_right_x="380" bottom_right_y="3006">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1593" top_left_y="2918" bottom_right_x="2190" bottom_right_y="3020">
+       <type>Date d'envoi par courriel</type>
+       <text>13.03.2007</text>
+  </box>
+  <box top_left_x="1734" top_left_y="3115" bottom_right_x="2000" bottom_right_y="3209">
+       <type>Résolution</type>
+       <text>200</text>
+  </box>
+  <box top_left_x="574" top_left_y="3143" bottom_right_x="625" bottom_right_y="3193">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="782" top_left_y="3145" bottom_right_x="857" bottom_right_y="3185">
+       <type>Format GIF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="962" top_left_y="3142" bottom_right_x="1011" bottom_right_y="3193">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1072" top_left_y="3016" bottom_right_x="2191" bottom_right_y="3116">
+       <type>Marque et modèle scanner</type>
+       <text>PIXMA</text>
+  </box>
+</annotation>
