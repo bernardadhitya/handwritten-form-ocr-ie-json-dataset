@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2476" height="3500">01902_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Relance de courrier sans réponse</scenario>
+  <writer>CHRETIEN Jean-louis</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="193" top_left_y="361" bottom_right_x="752" bottom_right_y="502">
+       <type>Code d'envoi</type>
+       <text>TRSNEN</text>
+  </box>
+  <box top_left_x="424" top_left_y="524" bottom_right_x="1235" bottom_right_y="629">
+       <type>Nom</type>
+       <text>CHRETIEN</text>
+  </box>
+  <box top_left_x="1428" top_left_y="524" bottom_right_x="2203" bottom_right_y="627">
+       <type>Prénom</type>
+       <text>Jean-Louis</text>
+  </box>
+  <box top_left_x="507" top_left_y="626" bottom_right_x="2209" bottom_right_y="720">
+       <type>Adresse</type>
+       <text>Route du Peyron - 595, chemin de la Gardette</text>
+  </box>
+  <box top_left_x="584" top_left_y="726" bottom_right_x="1004" bottom_right_y="832">
+       <type>Code Postal</type>
+       <text>83780</text>
+  </box>
+  <box top_left_x="1126" top_left_y="721" bottom_right_x="2211" bottom_right_y="830">
+       <type>Ville</type>
+       <text>Flayosc</text>
+  </box>
+  <box top_left_x="391" top_left_y="838" bottom_right_x="1266" bottom_right_y="984">
+       <type>Téléphone</type>
+       <text>0403513539</text>
+  </box>
+  <box top_left_x="531" top_left_y="1105" bottom_right_x="2209" bottom_right_y="1219">
+       <type>Catégorie Scénario</type>
+       <text>relance de courrier sans réponse</text>
+  </box>
+  <box top_left_x="314" top_left_y="1215" bottom_right_x="2209" bottom_right_y="1396">
+       <type>Objet Scénario</type>
+       <text>votre réclamation du mois dernier est restée sans suite\n</text>
+  </box>
+  <box top_left_x="307" top_left_y="1393" bottom_right_x="2208" bottom_right_y="1581">
+       <type>Complément Scénario</type>
+       <text>aucun\n</text>
+  </box>
+  <box top_left_x="932" top_left_y="1599" bottom_right_x="1570" bottom_right_y="1749">
+       <type>Référence client</type>
+       <text>SRVGR70</text>
+  </box>
+  <box top_left_x="607" top_left_y="1746" bottom_right_x="2216" bottom_right_y="1843">
+       <type>Interlocuteur</type>
+       <text>CPAM - caisse primaire d'assurance maladie</text>
+  </box>
+  <box top_left_x="518" top_left_y="1837" bottom_right_x="2215" bottom_right_y="1942">
+       <type>Adresse Interlocuteur</type>
+       <text>16 rue de la libération</text>
+  </box>
+  <box top_left_x="596" top_left_y="1935" bottom_right_x="1025" bottom_right_y="2054">
+       <type>Code Postal Interlocuteur</type>
+       <text>35720</text>
+  </box>
+  <box top_left_x="1160" top_left_y="1936" bottom_right_x="2215" bottom_right_y="2037">
+       <type>Ville Interlocuteur</type>
+       <text>Pleugueneuc</text>
+  </box>
+  <box top_left_x="1076" top_left_y="2271" bottom_right_x="1291" bottom_right_y="2381">
+       <type>Temps passé</type>
+       <text>15</text>
+  </box>
+  <box top_left_x="896" top_left_y="2211" bottom_right_x="999" bottom_right_y="2260">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1097" top_left_y="2207" bottom_right_x="1146" bottom_right_y="2259">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1312" top_left_y="2208" bottom_right_x="1364" bottom_right_y="2259">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="328" top_left_y="2683" bottom_right_x="372" bottom_right_y="2725">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1617" top_left_y="2629" bottom_right_x="2217" bottom_right_y="2741">
+       <type>Date d'envoi postal</type>
+       <text>13/01/07</text>
+  </box>
+  <box top_left_x="325" top_left_y="2769" bottom_right_x="374" bottom_right_y="2816">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="323" top_left_y="2864" bottom_right_x="375" bottom_right_y="2910">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1760" top_left_y="2802" bottom_right_x="2209" bottom_right_y="2919">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="329" top_left_y="2958" bottom_right_x="372" bottom_right_y="3007">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1615" top_left_y="2921" bottom_right_x="2212" bottom_right_y="3024">
+       <type>Date d'envoi par courriel</type>
+       <text>12/01/07</text>
+  </box>
+  <box top_left_x="1756" top_left_y="3118" bottom_right_x="2022" bottom_right_y="3213">
+       <type>Résolution</type>
+       <text>200</text>
+  </box>
+  <box top_left_x="596" top_left_y="3145" bottom_right_x="647" bottom_right_y="3195">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="814" top_left_y="3147" bottom_right_x="879" bottom_right_y="3196">
+       <type>Format GIF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="983" top_left_y="3145" bottom_right_x="1033" bottom_right_y="3195">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1094" top_left_y="3020" bottom_right_x="2213" bottom_right_y="3120">
+       <type>Marque et modèle scanner</type>
+       <text>HP PSC 1510</text>
+  </box>
+</annotation>
