@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2477" height="3506">04019_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Modification de contrat / Commande</scenario>
+  <writer>MALHERBE Samy</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="123" top_left_y="244" bottom_right_x="716" bottom_right_y="396">
+       <type>Code d'envoi</type>
+       <text>DIFIES</text>
+  </box>
+  <box top_left_x="369" top_left_y="418" bottom_right_x="1229" bottom_right_y="534">
+       <type>Nom</type>
+       <text>MALHERBE</text>
+  </box>
+  <box top_left_x="1435" top_left_y="422" bottom_right_x="2257" bottom_right_y="534">
+       <type>Prénom</type>
+       <text>SAMY</text>
+  </box>
+  <box top_left_x="457" top_left_y="528" bottom_right_x="2263" bottom_right_y="633">
+       <type>Adresse</type>
+       <text>110 Rue principale</text>
+  </box>
+  <box top_left_x="538" top_left_y="635" bottom_right_x="984" bottom_right_y="750">
+       <type>Code Postal</type>
+       <text>67430</text>
+  </box>
+  <box top_left_x="1113" top_left_y="631" bottom_right_x="2267" bottom_right_y="751">
+       <type>Ville</type>
+       <text>MACKWILLER</text>
+  </box>
+  <box top_left_x="334" top_left_y="754" bottom_right_x="1262" bottom_right_y="914">
+       <type>Téléphone</type>
+       <text>0332576098</text>
+  </box>
+  <box top_left_x="481" top_left_y="1041" bottom_right_x="2264" bottom_right_y="1167">
+       <type>Catégorie Scénario</type>
+       <text>Modification de contrat / commande</text>
+  </box>
+  <box top_left_x="250" top_left_y="1158" bottom_right_x="2262" bottom_right_y="1355">
+       <type>Objet Scénario</type>
+       <text>Augmentation (x2) des quantités d'actions\nboursières commandées</text>
+  </box>
+  <box top_left_x="242" top_left_y="1348" bottom_right_x="2260" bottom_right_y="1553">
+       <type>Complément Scénario</type>
+       <text>aucun\n</text>
+  </box>
+  <box top_left_x="904" top_left_y="1570" bottom_right_x="1581" bottom_right_y="1731">
+       <type>Référence client</type>
+       <text>TLUWP49</text>
+  </box>
+  <box top_left_x="560" top_left_y="1727" bottom_right_x="2269" bottom_right_y="1830">
+       <type>Interlocuteur</type>
+       <text>Banque Débit ¤{Lyonnait/Lyonnais}¤</text>
+  </box>
+  <box top_left_x="465" top_left_y="1823" bottom_right_x="2269" bottom_right_y="1934">
+       <type>Adresse Interlocuteur</type>
+       <text>72, Rue Maurice Flandin</text>
+  </box>
+  <box top_left_x="549" top_left_y="1928" bottom_right_x="1005" bottom_right_y="2055">
+       <type>Code Postal Interlocuteur</type>
+       <text>69003</text>
+  </box>
+  <box top_left_x="1148" top_left_y="1929" bottom_right_x="2269" bottom_right_y="2036">
+       <type>Ville Interlocuteur</type>
+       <text>Lyon</text>
+  </box>
+  <box top_left_x="1059" top_left_y="2289" bottom_right_x="1287" bottom_right_y="2406">
+       <type>Temps passé</type>
+       <text></text>
+  </box>
+  <box top_left_x="892" top_left_y="2222" bottom_right_x="948" bottom_right_y="2280">
+       <type>Stylo bille</type>
+       <text></text>
+  </box>
+  <box top_left_x="1081" top_left_y="2219" bottom_right_x="1133" bottom_right_y="2273">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1282" top_left_y="2223" bottom_right_x="1393" bottom_right_y="2294">
+       <type>Stylo feutre</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="255" top_left_y="2712" bottom_right_x="321" bottom_right_y="2783">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1636" top_left_y="2671" bottom_right_x="2275" bottom_right_y="2789">
+       <type>Date d'envoi postal</type>
+       <text>20 Mars 2007</text>
+  </box>
+  <box top_left_x="259" top_left_y="2823" bottom_right_x="312" bottom_right_y="2874">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="258" top_left_y="2924" bottom_right_x="312" bottom_right_y="2973">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1787" top_left_y="2854" bottom_right_x="2267" bottom_right_y="2979">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="256" top_left_y="3025" bottom_right_x="342" bottom_right_y="3079">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1634" top_left_y="2981" bottom_right_x="2269" bottom_right_y="3092">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1783" top_left_y="3191" bottom_right_x="2066" bottom_right_y="3293">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="547" top_left_y="3223" bottom_right_x="601" bottom_right_y="3276">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="766" top_left_y="3222" bottom_right_x="821" bottom_right_y="3277">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="960" top_left_y="3222" bottom_right_x="1013" bottom_right_y="3276">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1079" top_left_y="3086" bottom_right_x="2270" bottom_right_y="3194">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>

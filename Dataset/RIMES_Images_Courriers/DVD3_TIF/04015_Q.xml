@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2473" height="3504">04015_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Réclamation</scenario>
+  <writer>THIBAUT Martine</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="175" top_left_y="383" bottom_right_x="735" bottom_right_y="526">
+       <type>Code d'envoi</type>
+       <text>QETFOU</text>
+  </box>
+  <box top_left_x="407" top_left_y="547" bottom_right_x="1219" bottom_right_y="654">
+       <type>Nom</type>
+       <text>THIBAUT</text>
+  </box>
+  <box top_left_x="1414" top_left_y="549" bottom_right_x="2190" bottom_right_y="655">
+       <type>Prénom</type>
+       <text>Martine</text>
+  </box>
+  <box top_left_x="490" top_left_y="649" bottom_right_x="2195" bottom_right_y="749">
+       <type>Adresse</type>
+       <text>1316 Bd de BACON</text>
+  </box>
+  <box top_left_x="567" top_left_y="750" bottom_right_x="987" bottom_right_y="857">
+       <type>Code Postal</type>
+       <text>06160</text>
+  </box>
+  <box top_left_x="1110" top_left_y="746" bottom_right_x="2197" bottom_right_y="857">
+       <type>Ville</type>
+       <text>CAP D'ANTIBES</text>
+  </box>
+  <box top_left_x="374" top_left_y="861" bottom_right_x="1250" bottom_right_y="1011">
+       <type>Téléphone</type>
+       <text>0400664459</text>
+  </box>
+  <box top_left_x="513" top_left_y="1131" bottom_right_x="2194" bottom_right_y="1251">
+       <type>Catégorie Scénario</type>
+       <text>Réclamation</text>
+  </box>
+  <box top_left_x="295" top_left_y="1241" bottom_right_x="2193" bottom_right_y="1429">
+       <type>Objet Scénario</type>
+       <text>vous vous plaignez de nuisances sonores\n</text>
+  </box>
+  <box top_left_x="288" top_left_y="1420" bottom_right_x="2194" bottom_right_y="1614">
+       <type>Complément Scénario</type>
+       <text>Le chien de vos ¤{vosins/voisins}¤ est trop bruyant\n</text>
+  </box>
+  <box top_left_x="914" top_left_y="1628" bottom_right_x="1553" bottom_right_y="1780">
+       <type>Référence client</type>
+       <text></text>
+  </box>
+  <box top_left_x="588" top_left_y="1775" bottom_right_x="2200" bottom_right_y="1877">
+       <type>Interlocuteur</type>
+       <text>Police Nationale</text>
+  </box>
+  <box top_left_x="499" top_left_y="1865" bottom_right_x="2199" bottom_right_y="1975">
+       <type>Adresse Interlocuteur</type>
+       <text>AU BOURG</text>
+  </box>
+  <box top_left_x="577" top_left_y="1964" bottom_right_x="1007" bottom_right_y="2085">
+       <type>Code Postal Interlocuteur</type>
+       <text>12540</text>
+  </box>
+  <box top_left_x="1142" top_left_y="1966" bottom_right_x="2199" bottom_right_y="2071">
+       <type>Ville Interlocuteur</type>
+       <text>MARNHAGUES ET LATOUR</text>
+  </box>
+  <box top_left_x="1058" top_left_y="2304" bottom_right_x="1273" bottom_right_y="2415">
+       <type>Temps passé</type>
+       <text>20</text>
+  </box>
+  <box top_left_x="878" top_left_y="2246" bottom_right_x="980" bottom_right_y="2292">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1078" top_left_y="2239" bottom_right_x="1127" bottom_right_y="2291">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1294" top_left_y="2240" bottom_right_x="1346" bottom_right_y="2292">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="303" top_left_y="2707" bottom_right_x="380" bottom_right_y="2757">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1600" top_left_y="2664" bottom_right_x="2202" bottom_right_y="2778">
+       <type>Date d'envoi postal</type>
+       <text>21 Mars 2007</text>
+  </box>
+  <box top_left_x="304" top_left_y="2804" bottom_right_x="350" bottom_right_y="2852">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="301" top_left_y="2896" bottom_right_x="353" bottom_right_y="2943">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1742" top_left_y="2838" bottom_right_x="2194" bottom_right_y="2957">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="303" top_left_y="2995" bottom_right_x="380" bottom_right_y="3042">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1597" top_left_y="2958" bottom_right_x="2196" bottom_right_y="3062">
+       <type>Date d'envoi par courriel</type>
+       <text>21 Mars 2007</text>
+  </box>
+  <box top_left_x="1739" top_left_y="3155" bottom_right_x="2005" bottom_right_y="3251">
+       <type>Résolution</type>
+       <text>200</text>
+  </box>
+  <box top_left_x="575" top_left_y="3179" bottom_right_x="625" bottom_right_y="3229">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="780" top_left_y="3179" bottom_right_x="832" bottom_right_y="3230">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="962" top_left_y="3180" bottom_right_x="1012" bottom_right_y="3231">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1075" top_left_y="3054" bottom_right_x="2197" bottom_right_y="3158">
+       <type>Marque et modèle scanner</type>
+       <text>HP</text>
+  </box>
+</annotation>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2475" height="3506">04031_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Fermeture de compte</scenario>
+  <writer>CROMBEZ Gaelle</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="95" top_left_y="264" bottom_right_x="696" bottom_right_y="416">
+       <type>Code d'envoi</type>
+       <text>YCJGLX</text>
+  </box>
+  <box top_left_x="344" top_left_y="438" bottom_right_x="1215" bottom_right_y="552">
+       <type>Nom</type>
+       <text>CROMBEZ</text>
+  </box>
+  <box top_left_x="1422" top_left_y="436" bottom_right_x="2254" bottom_right_y="547">
+       <type>Prénom</type>
+       <text>Gaëlle</text>
+  </box>
+  <box top_left_x="434" top_left_y="546" bottom_right_x="2262" bottom_right_y="648">
+       <type>Adresse</type>
+       <text>20 rue Victor Vasarely</text>
+  </box>
+  <box top_left_x="517" top_left_y="656" bottom_right_x="967" bottom_right_y="770">
+       <type>Code Postal</type>
+       <text>45250</text>
+  </box>
+  <box top_left_x="1099" top_left_y="648" bottom_right_x="2264" bottom_right_y="764">
+       <type>Ville</type>
+       <text>BRIARE</text>
+  </box>
+  <box top_left_x="310" top_left_y="777" bottom_right_x="1249" bottom_right_y="934">
+       <type>Téléphone</type>
+       <text>0221360589</text>
+  </box>
+  <box top_left_x="460" top_left_y="1061" bottom_right_x="2261" bottom_right_y="1187">
+       <type>Catégorie Scénario</type>
+       <text>Fermeture de compte</text>
+  </box>
+  <box top_left_x="229" top_left_y="1178" bottom_right_x="2262" bottom_right_y="1375">
+       <type>Objet Scénario</type>
+       <text>Résiliation d'assurance auto\n</text>
+  </box>
+  <box top_left_x="222" top_left_y="1370" bottom_right_x="2264" bottom_right_y="1573">
+       <type>Complément Scénario</type>
+       <text>Vous vendez votre véhicule\n</text>
+  </box>
+  <box top_left_x="893" top_left_y="1594" bottom_right_x="1578" bottom_right_y="1754">
+       <type>Référence client</type>
+       <text>PKVIR67</text>
+  </box>
+  <box top_left_x="544" top_left_y="1752" bottom_right_x="2273" bottom_right_y="1855">
+       <type>Interlocuteur</type>
+       <text>MANIF Assurances</text>
+  </box>
+  <box top_left_x="449" top_left_y="1848" bottom_right_x="2272" bottom_right_y="1961">
+       <type>Adresse Interlocuteur</type>
+       <text>2 rue Salengro</text>
+  </box>
+  <box top_left_x="533" top_left_y="1955" bottom_right_x="994" bottom_right_y="2083">
+       <type>Code Postal Interlocuteur</type>
+       <text>59177</text>
+  </box>
+  <box top_left_x="1139" top_left_y="1953" bottom_right_x="2272" bottom_right_y="2062">
+       <type>Ville Interlocuteur</type>
+       <text>SAINS DU NORD</text>
+  </box>
+  <box top_left_x="1050" top_left_y="2315" bottom_right_x="1281" bottom_right_y="2434">
+       <type>Temps passé</type>
+       <text>20</text>
+  </box>
+  <box top_left_x="857" top_left_y="2253" bottom_right_x="967" bottom_right_y="2318">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1046" top_left_y="2272" bottom_right_x="1153" bottom_right_y="2311">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1275" top_left_y="2261" bottom_right_x="1387" bottom_right_y="2307">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="238" top_left_y="2749" bottom_right_x="327" bottom_right_y="2809">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1633" top_left_y="2696" bottom_right_x="2278" bottom_right_y="2817">
+       <type>Date d'envoi postal</type>
+       <text>21/03/07</text>
+  </box>
+  <box top_left_x="238" top_left_y="2852" bottom_right_x="327" bottom_right_y="2908">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="238" top_left_y="2954" bottom_right_x="328" bottom_right_y="3015">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1787" top_left_y="2882" bottom_right_x="2270" bottom_right_y="3009">
+       <type>Date d'envoi par fax</type>
+       <text>21/03/07</text>
+  </box>
+  <box top_left_x="239" top_left_y="3055" bottom_right_x="329" bottom_right_y="3112">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1632" top_left_y="3011" bottom_right_x="2273" bottom_right_y="3122">
+       <type>Date d'envoi par courriel</type>
+       <text>20/03/07</text>
+  </box>
+  <box top_left_x="1784" top_left_y="3221" bottom_right_x="2070" bottom_right_y="3323">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="536" top_left_y="3255" bottom_right_x="591" bottom_right_y="3308">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="762" top_left_y="3257" bottom_right_x="841" bottom_right_y="3307">
+       <type>Format GIF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="952" top_left_y="3253" bottom_right_x="1005" bottom_right_y="3308">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1072" top_left_y="3116" bottom_right_x="2274" bottom_right_y="3226">
+       <type>Marque et modèle scanner</type>
+       <text>Canon - Canoscan Lide 60</text>
+  </box>
+</annotation>

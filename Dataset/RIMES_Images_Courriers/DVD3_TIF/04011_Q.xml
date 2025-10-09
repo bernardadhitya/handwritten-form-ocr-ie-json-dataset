@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2472" height="3506">04011_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Demande d'information</scenario>
+  <writer>AUBE Roger</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="158" top_left_y="295" bottom_right_x="716" bottom_right_y="437">
+       <type>Code d'envoi</type>
+       <text>JLMJSZ</text>
+  </box>
+  <box top_left_x="389" top_left_y="457" bottom_right_x="1200" bottom_right_y="564">
+       <type>Nom</type>
+       <text>AUBE</text>
+  </box>
+  <box top_left_x="1393" top_left_y="455" bottom_right_x="2167" bottom_right_y="559">
+       <type>Prénom</type>
+       <text>Roger</text>
+  </box>
+  <box top_left_x="473" top_left_y="557" bottom_right_x="2173" bottom_right_y="653">
+       <type>Adresse</type>
+       <text>87 A Route de Wolxheim</text>
+  </box>
+  <box top_left_x="550" top_left_y="661" bottom_right_x="969" bottom_right_y="767">
+       <type>Code Postal</type>
+       <text>67120</text>
+  </box>
+  <box top_left_x="1091" top_left_y="653" bottom_right_x="2174" bottom_right_y="762">
+       <type>Ville</type>
+       <text>Ergersheim</text>
+  </box>
+  <box top_left_x="358" top_left_y="774" bottom_right_x="1231" bottom_right_y="920">
+       <type>Téléphone</type>
+       <text>0363607006</text>
+  </box>
+  <box top_left_x="498" top_left_y="1039" bottom_right_x="2174" bottom_right_y="1157">
+       <type>Catégorie Scénario</type>
+       <text>Demande d'information</text>
+  </box>
+  <box top_left_x="282" top_left_y="1151" bottom_right_x="2174" bottom_right_y="1333">
+       <type>Objet Scénario</type>
+       <text>Demande de précisions sur votre dernière facture\n</text>
+  </box>
+  <box top_left_x="274" top_left_y="1330" bottom_right_x="2175" bottom_right_y="1519">
+       <type>Complément Scénario</type>
+       <text>Vous êtes ¤{insastisfait/insatisfait}¤ du service\n</text>
+  </box>
+  <box top_left_x="899" top_left_y="1538" bottom_right_x="1535" bottom_right_y="1688">
+       <type>Référence client</type>
+       <text>RUDXM80</text>
+  </box>
+  <box top_left_x="574" top_left_y="1686" bottom_right_x="2179" bottom_right_y="1783">
+       <type>Interlocuteur</type>
+       <text>Bimestriel "charité Bushido"</text>
+  </box>
+  <box top_left_x="485" top_left_y="1776" bottom_right_x="2178" bottom_right_y="1882">
+       <type>Adresse Interlocuteur</type>
+       <text>1 Rue de la Station</text>
+  </box>
+  <box top_left_x="563" top_left_y="1875" bottom_right_x="992" bottom_right_y="1994">
+       <type>Code Postal Interlocuteur</type>
+       <text>68700</text>
+  </box>
+  <box top_left_x="1126" top_left_y="1876" bottom_right_x="2179" bottom_right_y="1977">
+       <type>Ville Interlocuteur</type>
+       <text>Aspach Le Bas</text>
+  </box>
+  <box top_left_x="1044" top_left_y="2213" bottom_right_x="1258" bottom_right_y="2324">
+       <type>Temps passé</type>
+       <text>20</text>
+  </box>
+  <box top_left_x="889" top_left_y="2147" bottom_right_x="940" bottom_right_y="2202">
+       <type>Stylo bille</type>
+       <text></text>
+  </box>
+  <box top_left_x="1064" top_left_y="2147" bottom_right_x="1113" bottom_right_y="2200">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1253" top_left_y="2150" bottom_right_x="1357" bottom_right_y="2206">
+       <type>Stylo feutre</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="291" top_left_y="2620" bottom_right_x="368" bottom_right_y="2667">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1585" top_left_y="2571" bottom_right_x="2185" bottom_right_y="2684">
+       <type>Date d'envoi postal</type>
+       <text>20/03/07</text>
+  </box>
+  <box top_left_x="292" top_left_y="2713" bottom_right_x="341" bottom_right_y="2761">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="290" top_left_y="2808" bottom_right_x="342" bottom_right_y="2854">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1727" top_left_y="2745" bottom_right_x="2177" bottom_right_y="2863">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="287" top_left_y="2901" bottom_right_x="369" bottom_right_y="2962">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1582" top_left_y="2866" bottom_right_x="2179" bottom_right_y="2969">
+       <type>Date d'envoi par courriel</type>
+       <text>20/03/07</text>
+  </box>
+  <box top_left_x="1723" top_left_y="3063" bottom_right_x="1989" bottom_right_y="3158">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="563" top_left_y="3091" bottom_right_x="626" bottom_right_y="3149">
+       <type>Format PNG</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="768" top_left_y="3089" bottom_right_x="820" bottom_right_y="3140">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="950" top_left_y="3089" bottom_right_x="1000" bottom_right_y="3140">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1061" top_left_y="2964" bottom_right_x="2180" bottom_right_y="3064">
+       <type>Marque et modèle scanner</type>
+       <text>hp psc 1350</text>
+  </box>
+</annotation>
