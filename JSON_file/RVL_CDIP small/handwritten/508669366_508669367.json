@@ -1,0 +1,29 @@
+{
+    "preparation_of_assay_solutions_for_cotinine_RIA_cross_reactivity": {
+        "stock_solution_concentrations": {
+            "A": "hydroxy cotinine, ng/nl",
+            "B": "cotinine glucuronide 0.2 mg/ml (H2O 102 ng/ml)",
+            "C": "hydroxy cotinine glucuronide 0.3 mg/ml (H2O 103 ng/ml)"
+        },
+        "working_solution_preparation": {
+            "part_1": {
+                "experiment_dose_response_curves": "387",
+                "t_ph_cotinine_use_stocks": "SAE",
+                "core_glucuronide_dilute_to_2.0_ul_to_yield": "5.1 ng/"
+            },
+            "exposure": {
+                "t_on_core_glucuronide_dilute_to_ml_to_2.0_m_to_yield": "zg/"
+            },
+            "label": "SAVE",
+            "instructions": {
+                "to_determine_volume_necessary": "divide...Conc..desired by...conc.or.",
+                "working_stock_solution_for": "500 ng t-OH COT GLU DISPSTHS",
+                "volume": "5.2 ng/"
+            }
+        },
+        "additional_data": {
+            "50866": null,
+            "9366": null
+        }
+    }
+}
