@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2473" height="3504">05477_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Réclamation</scenario>
+  <writer>LAUGIER Eliane</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="171" top_left_y="351" bottom_right_x="731" bottom_right_y="493">
+       <type>Code d'envoi</type>
+       <text>URZWON</text>
+  </box>
+  <box top_left_x="404" top_left_y="514" bottom_right_x="1215" bottom_right_y="620">
+       <type>Nom</type>
+       <text>Laugier</text>
+  </box>
+  <box top_left_x="1408" top_left_y="513" bottom_right_x="2182" bottom_right_y="616">
+       <type>Prénom</type>
+       <text>Eliane</text>
+  </box>
+  <box top_left_x="488" top_left_y="616" bottom_right_x="2188" bottom_right_y="710">
+       <type>Adresse</type>
+       <text>20 le bois de la combe</text>
+  </box>
+  <box top_left_x="565" top_left_y="718" bottom_right_x="984" bottom_right_y="824">
+       <type>Code Postal</type>
+       <text>83720</text>
+  </box>
+  <box top_left_x="1106" top_left_y="712" bottom_right_x="2190" bottom_right_y="820">
+       <type>Ville</type>
+       <text>Trons en Provence</text>
+  </box>
+  <box top_left_x="372" top_left_y="830" bottom_right_x="1246" bottom_right_y="977">
+       <type>Téléphone</type>
+       <text>0452242333</text>
+  </box>
+  <box top_left_x="512" top_left_y="1098" bottom_right_x="2188" bottom_right_y="1213">
+       <type>Catégorie Scénario</type>
+       <text>Réclamation</text>
+  </box>
+  <box top_left_x="296" top_left_y="1208" bottom_right_x="2189" bottom_right_y="1389">
+       <type>Objet Scénario</type>
+       <text>Vous souhaitez vous faire rembourser\n</text>
+  </box>
+  <box top_left_x="288" top_left_y="1385" bottom_right_x="2190" bottom_right_y="1574">
+       <type>Complément Scénario</type>
+       <text>le produit livré est ¤{defectueux/défectueux}¤\n</text>
+  </box>
+  <box top_left_x="913" top_left_y="1593" bottom_right_x="1550" bottom_right_y="1743">
+       <type>Référence client</type>
+       <text>ICEAO77</text>
+  </box>
+  <box top_left_x="588" top_left_y="1742" bottom_right_x="2195" bottom_right_y="1837">
+       <type>Interlocuteur</type>
+       <text>la Reboute</text>
+  </box>
+  <box top_left_x="500" top_left_y="1833" bottom_right_x="2194" bottom_right_y="1937">
+       <type>Adresse Interlocuteur</type>
+       <text>le bourg</text>
+  </box>
+  <box top_left_x="578" top_left_y="1932" bottom_right_x="1007" bottom_right_y="2052">
+       <type>Code Postal Interlocuteur</type>
+       <text>13700</text>
+  </box>
+  <box top_left_x="1141" top_left_y="1932" bottom_right_x="2195" bottom_right_y="2034">
+       <type>Ville Interlocuteur</type>
+       <text>Pleaux</text>
+  </box>
+  <box top_left_x="1058" top_left_y="2270" bottom_right_x="1273" bottom_right_y="2380">
+       <type>Temps passé</type>
+       <text>10</text>
+  </box>
+  <box top_left_x="879" top_left_y="2209" bottom_right_x="981" bottom_right_y="2256">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1079" top_left_y="2206" bottom_right_x="1128" bottom_right_y="2257">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1294" top_left_y="2206" bottom_right_x="1346" bottom_right_y="2258">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="314" top_left_y="2674" bottom_right_x="384" bottom_right_y="2722">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1600" top_left_y="2627" bottom_right_x="2200" bottom_right_y="2738">
+       <type>Date d'envoi postal</type>
+       <text>4 mai 2007</text>
+  </box>
+  <box top_left_x="307" top_left_y="2769" bottom_right_x="357" bottom_right_y="2817">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="305" top_left_y="2864" bottom_right_x="357" bottom_right_y="2910">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1742" top_left_y="2800" bottom_right_x="2192" bottom_right_y="2917">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="305" top_left_y="2956" bottom_right_x="357" bottom_right_y="3006">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1597" top_left_y="2920" bottom_right_x="2194" bottom_right_y="3023">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1739" top_left_y="3117" bottom_right_x="2005" bottom_right_y="3212">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="579" top_left_y="3146" bottom_right_x="630" bottom_right_y="3195">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="784" top_left_y="3145" bottom_right_x="836" bottom_right_y="3195">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="966" top_left_y="3144" bottom_right_x="1016" bottom_right_y="3195">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1077" top_left_y="3018" bottom_right_x="2196" bottom_right_y="3119">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
