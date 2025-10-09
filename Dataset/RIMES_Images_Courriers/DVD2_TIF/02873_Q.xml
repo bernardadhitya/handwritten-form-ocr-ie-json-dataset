@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2474" height="3510">02873_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Changement de données personnelles</scenario>
+  <writer>CERVEAUX Elodie</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="161" top_left_y="367" bottom_right_x="719" bottom_right_y="509">
+       <type>Code d'envoi</type>
+       <text>STINUA</text>
+  </box>
+  <box top_left_x="392" top_left_y="530" bottom_right_x="1201" bottom_right_y="639">
+       <type>Nom</type>
+       <text>CERVAUX</text>
+  </box>
+  <box top_left_x="1394" top_left_y="533" bottom_right_x="2167" bottom_right_y="639">
+       <type>Prénom</type>
+       <text>Elodie</text>
+  </box>
+  <box top_left_x="476" top_left_y="633" bottom_right_x="2172" bottom_right_y="732">
+       <type>Adresse</type>
+       <text>5 Rue de BEAUCOURT</text>
+  </box>
+  <box top_left_x="552" top_left_y="734" bottom_right_x="970" bottom_right_y="841">
+       <type>Code Postal</type>
+       <text>25230</text>
+  </box>
+  <box top_left_x="1092" top_left_y="730" bottom_right_x="2173" bottom_right_y="841">
+       <type>Ville</type>
+       <text>DASLE</text>
+  </box>
+  <box top_left_x="361" top_left_y="846" bottom_right_x="1230" bottom_right_y="995">
+       <type>Téléphone</type>
+       <text>0322384815</text>
+  </box>
+  <box top_left_x="500" top_left_y="1115" bottom_right_x="2172" bottom_right_y="1234">
+       <type>Catégorie Scénario</type>
+       <text>Changement de données personnelles</text>
+  </box>
+  <box top_left_x="284" top_left_y="1225" bottom_right_x="2174" bottom_right_y="1410">
+       <type>Objet Scénario</type>
+       <text>Nouvelles coordonées postales (Vous considérez votre adresse\nfictive comme votre nouvelle adresse)</text>
+  </box>
+  <box top_left_x="275" top_left_y="1404" bottom_right_x="2176" bottom_right_y="1595">
+       <type>Complément Scénario</type>
+       <text>Vous déménagez\n</text>
+  </box>
+  <box top_left_x="899" top_left_y="1612" bottom_right_x="1536" bottom_right_y="1762">
+       <type>Référence client</type>
+       <text>NEBSB29</text>
+  </box>
+  <box top_left_x="574" top_left_y="1759" bottom_right_x="2179" bottom_right_y="1858">
+       <type>Interlocuteur</type>
+       <text>Banque Crédit Populaire</text>
+  </box>
+  <box top_left_x="486" top_left_y="1849" bottom_right_x="2177" bottom_right_y="1956">
+       <type>Adresse Interlocuteur</type>
+       <text>Rue ¤{Honore/Honoré}¤ Chapuis</text>
+  </box>
+  <box top_left_x="563" top_left_y="1948" bottom_right_x="992" bottom_right_y="2068">
+       <type>Code Postal Interlocuteur</type>
+       <text>39140</text>
+  </box>
+  <box top_left_x="1126" top_left_y="1949" bottom_right_x="2178" bottom_right_y="2053">
+       <type>Ville Interlocuteur</type>
+       <text>ARLAY</text>
+  </box>
+  <box top_left_x="1044" top_left_y="2287" bottom_right_x="1259" bottom_right_y="2398">
+       <type>Temps passé</type>
+       <text></text>
+  </box>
+  <box top_left_x="894" top_left_y="2225" bottom_right_x="967" bottom_right_y="2290">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1064" top_left_y="2222" bottom_right_x="1113" bottom_right_y="2274">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1280" top_left_y="2223" bottom_right_x="1332" bottom_right_y="2275">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="290" top_left_y="2697" bottom_right_x="341" bottom_right_y="2754">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1585" top_left_y="2647" bottom_right_x="2185" bottom_right_y="2760">
+       <type>Date d'envoi postal</type>
+       <text></text>
+  </box>
+  <box top_left_x="293" top_left_y="2787" bottom_right_x="342" bottom_right_y="2835">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="291" top_left_y="2880" bottom_right_x="343" bottom_right_y="2926">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1727" top_left_y="2820" bottom_right_x="2177" bottom_right_y="2939">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="291" top_left_y="2972" bottom_right_x="343" bottom_right_y="3022">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1583" top_left_y="2940" bottom_right_x="2179" bottom_right_y="3045">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1724" top_left_y="3138" bottom_right_x="1989" bottom_right_y="3233">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="564" top_left_y="3163" bottom_right_x="614" bottom_right_y="3213">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="769" top_left_y="3163" bottom_right_x="820" bottom_right_y="3213">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="950" top_left_y="3163" bottom_right_x="1000" bottom_right_y="3214">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1062" top_left_y="3038" bottom_right_x="2180" bottom_right_y="3140">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>

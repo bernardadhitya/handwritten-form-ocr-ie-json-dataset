@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2468" height="3503">02075_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Gestion de sinistre</scenario>
+  <writer>TURQUET Jimmy</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="149" top_left_y="386" bottom_right_x="706" bottom_right_y="525">
+       <type>Code d'envoi</type>
+       <text>VWAJME</text>
+  </box>
+  <box top_left_x="379" top_left_y="546" bottom_right_x="1187" bottom_right_y="651">
+       <type>Nom</type>
+       <text>Turquet</text>
+  </box>
+  <box top_left_x="1381" top_left_y="546" bottom_right_x="2152" bottom_right_y="648">
+       <type>Prénom</type>
+       <text>Jimmy</text>
+  </box>
+  <box top_left_x="463" top_left_y="648" bottom_right_x="2157" bottom_right_y="740">
+       <type>Adresse</type>
+       <text>2 Rue de la Cité</text>
+  </box>
+  <box top_left_x="539" top_left_y="748" bottom_right_x="956" bottom_right_y="852">
+       <type>Code Postal</type>
+       <text>90500</text>
+  </box>
+  <box top_left_x="1078" top_left_y="741" bottom_right_x="2158" bottom_right_y="848">
+       <type>Ville</type>
+       <text>Montbouton</text>
+  </box>
+  <box top_left_x="346" top_left_y="859" bottom_right_x="1217" bottom_right_y="1003">
+       <type>Téléphone</type>
+       <text>0392429756</text>
+  </box>
+  <box top_left_x="485" top_left_y="1122" bottom_right_x="2160" bottom_right_y="1238">
+       <type>Catégorie Scénario</type>
+       <text>Gestion de sinistre</text>
+  </box>
+  <box top_left_x="268" top_left_y="1231" bottom_right_x="2161" bottom_right_y="1414">
+       <type>Objet Scénario</type>
+       <text>Vous faites appel à votre assurance automobile\n</text>
+  </box>
+  <box top_left_x="259" top_left_y="1409" bottom_right_x="2161" bottom_right_y="1598">
+       <type>Complément Scénario</type>
+       <text>Vous avez provoqué un accident de la route\n(vous déclarez joindre le constat)</text>
+  </box>
+  <box top_left_x="884" top_left_y="1616" bottom_right_x="1521" bottom_right_y="1766">
+       <type>Référence client</type>
+       <text>CNNSV43</text>
+  </box>
+  <box top_left_x="559" top_left_y="1763" bottom_right_x="2167" bottom_right_y="1859">
+       <type>Interlocuteur</type>
+       <text>BAAF Assurances</text>
+  </box>
+  <box top_left_x="470" top_left_y="1853" bottom_right_x="2166" bottom_right_y="1958">
+       <type>Adresse Interlocuteur</type>
+       <text>Rue de la Braye</text>
+  </box>
+  <box top_left_x="548" top_left_y="1953" bottom_right_x="977" bottom_right_y="2072">
+       <type>Code Postal Interlocuteur</type>
+       <text>41360</text>
+  </box>
+  <box top_left_x="1112" top_left_y="1951" bottom_right_x="2166" bottom_right_y="2052">
+       <type>Ville Interlocuteur</type>
+       <text>Savigny sur Braye</text>
+  </box>
+  <box top_left_x="1029" top_left_y="2288" bottom_right_x="1244" bottom_right_y="2398">
+       <type>Temps passé</type>
+       <text>15</text>
+  </box>
+  <box top_left_x="874" top_left_y="2228" bottom_right_x="951" bottom_right_y="2277">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1048" top_left_y="2224" bottom_right_x="1098" bottom_right_y="2276">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1265" top_left_y="2224" bottom_right_x="1317" bottom_right_y="2276">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="277" top_left_y="2684" bottom_right_x="338" bottom_right_y="2745">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1572" top_left_y="2641" bottom_right_x="2173" bottom_right_y="2755">
+       <type>Date d'envoi postal</type>
+       <text>22/01/07</text>
+  </box>
+  <box top_left_x="277" top_left_y="2790" bottom_right_x="327" bottom_right_y="2838">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="275" top_left_y="2883" bottom_right_x="327" bottom_right_y="2929">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1714" top_left_y="2814" bottom_right_x="2165" bottom_right_y="2932">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="277" top_left_y="2975" bottom_right_x="320" bottom_right_y="3025">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1569" top_left_y="2934" bottom_right_x="2167" bottom_right_y="3037">
+       <type>Date d'envoi par courriel</type>
+       <text>21/01/07</text>
+  </box>
+  <box top_left_x="1711" top_left_y="3129" bottom_right_x="1978" bottom_right_y="3223">
+       <type>Résolution</type>
+       <text>200</text>
+  </box>
+  <box top_left_x="549" top_left_y="3162" bottom_right_x="600" bottom_right_y="3211">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="754" top_left_y="3160" bottom_right_x="806" bottom_right_y="3210">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="938" top_left_y="3162" bottom_right_x="984" bottom_right_y="3212">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1048" top_left_y="3031" bottom_right_x="2169" bottom_right_y="3134">
+       <type>Marque et modèle scanner</type>
+       <text>CANON - 4200 F</text>
+  </box>
+</annotation>
