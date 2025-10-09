@@ -1,0 +1,33 @@
+{
+    "company": "PHILIPMORRIS U.S.A.",
+    "lockout_no": "NO",
+    "page": "OCKOUT.200",
+    "issue_date": "02/22/90",
+    "supersedes": null,
+    "applicable_to": "LOCKOUT PROCEDURE",
+    "update_responsibility": "Area Supervisor",
+    "subject": "Lockout/Tagout Procedure for Setting Basin Sludge Collectors #1,#2,#3",
+    "approval": "yyf lcel",
+    "prevention": "A",
+    "basic_job_procedure": [
+        {
+            "job_step": 1,
+            "description": "Notify all affected employees that the lockout, tagout will be performed."
+        },
+        {
+            "job_step": 2,
+            "description": "Shut down equipment by normal stopping procedure and ensure equipment has come to a complete stop."
+        },
+        {
+            "job_step": 3,
+            "description": "Lock out/tag out the following potentially hazardous energy sources per Park 500 Lockout Policy. See attachment for energy isolation locations.",
+            "key_points": [
+                "Electrical - Disconnects shall be in the 'OFF' position, locked and tagged with a Philip Morris-supplied locking device.",
+                "Death or serious injury could result from disconnect arcing or exploding while equipment is under load/running.",
+                "Electrical shock or death could result from frayed, exposed or improperly grounded wiring or unauthorized tampering with energized electrical circuits.",
+                "Always stand to the side and look away from a disconnect box when activating on/off switch. This will minimize potential exposure should an electrical arc occur."
+            ]
+        }
+    ],
+    "document_id": "2030114405"
+}

@@ -1,0 +1,67 @@
+{
+    "date": "MAY-22-1997",
+    "time": "08:03",
+    "from": "PHILIP MORRIS ACCT",
+    "to": "DEPARTMENT OF THE TREASURY-BUREAU OF ALCOHOL TOBACCO AND FIREARMS",
+    "gl": "556.040.300",
+    "recipient": "K.EVAN",
+    "page": "P.02",
+    "form": "EXCISE TAX RETURN",
+    "federal_number": "ERALNER",
+    "form_of_payment": {
+        "check": true,
+        "money_order": false,
+        "eft": false
+    },
+    "amount_of_payment": "35,668,238.00",
+    "period": {
+        "beginning": "My11007",
+        "ending": "May16.1007"
+    },
+    "note": "PLEASE MAKE CHECKS OR MONEY ORDERS PAYABLE TO THE BUREAU OF ALCOHOL TOBACCO AND FIREARMS",
+    "identification_number": "13-160765",
+    "plant_registry_number": "TPKYZ4",
+    "taxpayer": {
+        "name": "PHILIP MORRIS INCORPORATED",
+        "address": "P.O. BOX 1930M, KY 4201"
+    },
+    "penalty": "0.00",
+    "interest": "0.00",
+    "total": "35,668,238.69",
+    "examined_by": "EXAMINED BY",
+    "date_examined": "DATE EXAMINED",
+    "product": {
+        "spirits": {
+            "tax_class": "10.W",
+            "unit_of_tax": "21235.280"
+        },
+        "cigars_and_snuff": {
+            "tax_class": "1633"
+        }
+    },
+    "gross_amount_due": "35,088,363.30",
+    "adjustments": {
+        "decreasing_amount_due": {
+            "amount": "16.04",
+            "total": "6,688,238.69"
+        },
+        "increasing_amount_due": {
+            "signature": "Philip Morris Incorp",
+            "attorney_in_fact": "D.G. Smith",
+            "tax": "$72.00",
+            "interest": "$0.77",
+            "penalty": "$0.08",
+            "total_adjustments_incr": "$0.80"
+        }
+    },
+    "schedule_b_adjustments_decreasing": {
+        "amount_due": "37227",
+        "amount_of_adjustments": {
+            "tax": "$72.00",
+            "interest": "30.41",
+            "penalty": "$144.00",
+            "total_adjustments_decr": "50.47"
+        }
+    },
+    "total_p02": "2085598501"
+}

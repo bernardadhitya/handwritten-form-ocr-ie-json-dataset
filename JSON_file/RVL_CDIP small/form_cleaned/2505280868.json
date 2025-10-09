@@ -1,0 +1,52 @@
+{
+    "form_no": "68",
+    "code": "20 CW98MPB/MCM",
+    "form_approved": true,
+    "title": "Preparation and Use of Chemical Solutions",
+    "project_no": "-32S",
+    "solution": {
+        "name": "",
+        "target_concentration": "",
+        "ref_no_of_solution": "3",
+        "cons_no": [
+            {
+                "ingredient": "EN",
+                "crc_ref_no": "C3C4SN.",
+                "weight_or_volume": "50"
+            },
+            {
+                "ingredient": "DMSC",
+                "crc_ref_no": "2ScSS8D65",
+                "weight_or_volume": ""
+            },
+            {
+                "ingredient": "PBS",
+                "crc_ref_no": "",
+                "weight_or_volume": "24"
+            }
+        ],
+        "storage_place": "RAG",
+        "target_temperature_range_c": "",
+        "other_conditions": "",
+        "expire_date": "",
+        "date": "Jags",
+        "initials": ""
+    },
+    "usage": {
+        "date_of_use": "",
+        "volume_used": "",
+        "reason": "",
+        "initials": ""
+    },
+    "error_codes": {
+        "A": "writing",
+        "B": "calculation",
+        "C": "mixing up",
+        "D": "reading",
+        "E": "copy",
+        "F": "other with explanation"
+    },
+    "date": "12JUN1998",
+    "initials_sd": "2505280868",
+    "code_03_98": "yellow"
+}

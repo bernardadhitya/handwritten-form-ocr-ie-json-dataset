@@ -1,0 +1,84 @@
+{
+    "contractResearchCenter": "CRC CONTRACT RESEARCH CENTER",
+    "formNumber": "11",
+    "projectNumber": "32F6",
+    "groupCode": "O56",
+    "dayOfStudy": 3,
+    "date": "86romto",
+    "group": {
+        "males": {
+            "time": "14330",
+            "totalNumberOfAnimals": "No",
+            "decreasedSpontaneousActivity": 0,
+            "trembling": 0,
+            "partiallyOrFullyClosedEyelids": 0,
+            "harderianGlandSecretion": 6,
+            "partiallyOrFullyWetOrMoistFur": "NO",
+            "abnormalBreathing": 0
+        },
+        "females": {
+            "time": "Ay16",
+            "totalNumberOfAnimals": "tO",
+            "decreasedSpontaneousActivity": 0,
+            "trembling": 0,
+            "partiallyOrFullyClosedEyelids": 0,
+            "harderianGlandSecretion": 6,
+            "partiallyOrFullyWetOrMoistFur": "NO",
+            "abnormalBreathing": 0
+        }
+    },
+    "individual": [
+        {
+            "animalNumber": "05201",
+            "sex": "S0"
+        },
+        {
+            "animalNumber": "05200",
+            "sex": "S0"
+        }
+    ],
+    "codes": {
+        "spontaneousActivity": 5,
+        "irritability": 10,
+        "turningReflex": 20,
+        "grippingAbility": 35,
+        "closedEyelids": 40,
+        "trembling": 45,
+        "highLeggedGait": 50,
+        "abnormalBreathing": 55,
+        "harderianGlandSecretion": "V+",
+        "hairChanges": "ybnou",
+        "moistWetPercentage": 60,
+        "discoloration": "Yhead",
+        "hairLossPercentage": 95,
+        "skinChanges": 100,
+        "incisors": 105,
+        "injuries": "REMARKS"
+    },
+    "remarks": "2505154480",
+    "oracle": "Oracle",
+    "dates": [
+        "16a98",
+        "09MAR1"
+    ],
+    "initials": {
+        "initials": "SD",
+        "grades": {
+            "0": "normal",
+            "-1": "slight decrease",
+            "-2": "marked decrease",
+            "+1": "slight increase",
+            "+2": "marked increase"
+        },
+        "x": "finding, describe if necessary."
+    },
+    "errorCodes": {
+        "A": "writing",
+        "B": "calculation",
+        "C": "mixing up",
+        "D": "reading",
+        "E": "copy",
+        "F": "other with explanation"
+    },
+    "errorCodeNumber": "0296"
+}

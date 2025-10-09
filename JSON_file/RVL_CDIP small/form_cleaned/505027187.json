@@ -1,0 +1,83 @@
+{
+    "company": "R.J.Reynolds Tobacco Company",
+    "authorizationRequest": {
+        "type": "Special Project",
+        "subject": "Smoking Machine Modification/Validation",
+        "datePrepared": "May 28, 1986",
+        "arNo": "86-780-0/9",
+        "originator": "Dr. Randy Deskin",
+        "department": "",
+        "approvalRequestSummary": {
+            "amountRequested": 144762,
+            "contractWith": "Battelle Northwest",
+            "purpose": "Modify and validate RJR owned Battelle-Geneva smoking machines"
+        },
+        "expenditureAuthorityRequested": {
+            "authorizationType": {
+                "capital": 0,
+                "expense": 144762,
+                "total": 144762
+            },
+            "capitalType": 50502,
+            "expenditureTiming": {
+                "relatedProposals": {
+                    "expenseChange": 144762,
+                    "capital": 0,
+                    "expense": 144762,
+                    "commitment": 86,
+                    "system": 7187,
+                    "listRelatedNos": 19
+                },
+                "amountsPreviouslyApproved": {
+                    "policyChange": 19,
+                    "productIntroductionChange": 0,
+                    "annualAverage": {
+                        "capital": 0,
+                        "expense": 0
+                    },
+                    "thereafter": {
+                        "other": 0,
+                        "cumulative": 0
+                    }
+                }
+            },
+            "leaseOrOtherCommitment": {
+                "timingROI": {
+                    "proposalStartDate": "",
+                    "commitment": 0,
+                    "per": "",
+                    "forYears": "",
+                    "completionDate": "",
+                    "totalMinimumCommitment": 0,
+                    "commitmentTime": 0,
+                    "returnOnInvestment": 0
+                }
+            },
+            "efoImpact": {
+                "year": 1986,
+                "annualAverage": 144762,
+                "thereafter": 0,
+                "profitLoss": 0,
+                "budgetPlanChange": false
+            }
+        },
+        "reviewedBy": "",
+        "approvals": {
+            "originatorInitials": {
+                "dept": "AWH",
+                "date": "18-4-9",
+                "review": "SLJ",
+                "initials": "RAL",
+                "signature": "B-3-9",
+                "dateCompleted": "GRD",
+                "cfo": "-12-46",
+                "operations": "",
+                "finAdmin": "",
+                "presCEO": ""
+            }
+        },
+        "personResponsibleForImplementing": "",
+        "projectIdNo": "",
+        "budgetIdNo": ""
+    }
+}
