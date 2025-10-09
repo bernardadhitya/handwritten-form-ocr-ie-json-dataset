@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2470" height="3503">05307_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Demande d'information</scenario>
+  <writer>LAMI Francois</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="155" top_left_y="353" bottom_right_x="712" bottom_right_y="494">
+       <type>Code d'envoi</type>
+       <text>UBCPEG</text>
+  </box>
+  <box top_left_x="385" top_left_y="515" bottom_right_x="1192" bottom_right_y="621">
+       <type>Nom</type>
+       <text>LAMI</text>
+  </box>
+  <box top_left_x="1386" top_left_y="516" bottom_right_x="2157" bottom_right_y="619">
+       <type>Prénom</type>
+       <text>François</text>
+  </box>
+  <box top_left_x="468" top_left_y="617" bottom_right_x="2162" bottom_right_y="710">
+       <type>Adresse</type>
+       <text>10 Rue du Chateau de Grosbois</text>
+  </box>
+  <box top_left_x="544" top_left_y="717" bottom_right_x="961" bottom_right_y="822">
+       <type>Code Postal</type>
+       <text>91330</text>
+  </box>
+  <box top_left_x="1084" top_left_y="712" bottom_right_x="2163" bottom_right_y="818">
+       <type>Ville</type>
+       <text>Yerres</text>
+  </box>
+  <box top_left_x="352" top_left_y="829" bottom_right_x="1222" bottom_right_y="975">
+       <type>Téléphone</type>
+       <text>0131865673</text>
+  </box>
+  <box top_left_x="489" top_left_y="1097" bottom_right_x="2161" bottom_right_y="1213">
+       <type>Catégorie Scénario</type>
+       <text>demande d'information</text>
+  </box>
+  <box top_left_x="273" top_left_y="1207" bottom_right_x="2161" bottom_right_y="1389">
+       <type>Objet Scénario</type>
+       <text>demande de précisions sur votre dernière facture\n</text>
+  </box>
+  <box top_left_x="265" top_left_y="1384" bottom_right_x="2161" bottom_right_y="1573">
+       <type>Complément Scénario</type>
+       <text>le montant de votre facture est trop élevé\n</text>
+  </box>
+  <box top_left_x="888" top_left_y="1590" bottom_right_x="1523" bottom_right_y="1739">
+       <type>Référence client</type>
+       <text>FNPNR81</text>
+  </box>
+  <box top_left_x="564" top_left_y="1736" bottom_right_x="2166" bottom_right_y="1833">
+       <type>Interlocuteur</type>
+       <text>GDF</text>
+  </box>
+  <box top_left_x="475" top_left_y="1825" bottom_right_x="2164" bottom_right_y="1931">
+       <type>Adresse Interlocuteur</type>
+       <text>Place Lonfon Raynaud</text>
+  </box>
+  <box top_left_x="552" top_left_y="1923" bottom_right_x="980" bottom_right_y="2042">
+       <type>Code Postal Interlocuteur</type>
+       <text>12400</text>
+  </box>
+  <box top_left_x="1114" top_left_y="1925" bottom_right_x="2164" bottom_right_y="2026">
+       <type>Ville Interlocuteur</type>
+       <text>ST AFRIQUE</text>
+  </box>
+  <box top_left_x="1030" top_left_y="2260" bottom_right_x="1244" bottom_right_y="2370">
+       <type>Temps passé</type>
+       <text>20</text>
+  </box>
+  <box top_left_x="850" top_left_y="2183" bottom_right_x="953" bottom_right_y="2259">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1050" top_left_y="2195" bottom_right_x="1099" bottom_right_y="2247">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1266" top_left_y="2196" bottom_right_x="1317" bottom_right_y="2248">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="278" top_left_y="2662" bottom_right_x="327" bottom_right_y="2712">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1570" top_left_y="2616" bottom_right_x="2169" bottom_right_y="2728">
+       <type>Date d'envoi postal</type>
+       <text>24 Avril 2007</text>
+  </box>
+  <box top_left_x="279" top_left_y="2758" bottom_right_x="328" bottom_right_y="2806">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="277" top_left_y="2851" bottom_right_x="328" bottom_right_y="2897">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1712" top_left_y="2789" bottom_right_x="2161" bottom_right_y="2906">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="273" top_left_y="2943" bottom_right_x="328" bottom_right_y="3001">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1568" top_left_y="2908" bottom_right_x="2164" bottom_right_y="3010">
+       <type>Date d'envoi par courriel</type>
+       <text>24 Avril 2007</text>
+  </box>
+  <box top_left_x="1709" top_left_y="3104" bottom_right_x="1975" bottom_right_y="3197">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="549" top_left_y="3131" bottom_right_x="600" bottom_right_y="3180">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="754" top_left_y="3130" bottom_right_x="806" bottom_right_y="3180">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="936" top_left_y="3130" bottom_right_x="986" bottom_right_y="3181">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1047" top_left_y="3006" bottom_right_x="2165" bottom_right_y="3105">
+       <type>Marque et modèle scanner</type>
+       <text>Epson Perfection 1250</text>
+  </box>
+</annotation>
