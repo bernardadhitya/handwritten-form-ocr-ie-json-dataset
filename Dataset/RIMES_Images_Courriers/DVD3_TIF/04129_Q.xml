@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2476" height="3503">04129_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Gestion de sinistre</scenario>
+  <writer>BOUTET Zakaria</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="169" top_left_y="350" bottom_right_x="728" bottom_right_y="491">
+       <type>Code d'envoi</type>
+       <text>YSMMGR</text>
+  </box>
+  <box top_left_x="401" top_left_y="513" bottom_right_x="1210" bottom_right_y="619">
+       <type>Nom</type>
+       <text>BOUTET</text>
+  </box>
+  <box top_left_x="1404" top_left_y="513" bottom_right_x="2178" bottom_right_y="616">
+       <type>Prénom</type>
+       <text>Zakaria</text>
+  </box>
+  <box top_left_x="484" top_left_y="615" bottom_right_x="2184" bottom_right_y="709">
+       <type>Adresse</type>
+       <text>20 rue de la Fontaine</text>
+  </box>
+  <box top_left_x="561" top_left_y="716" bottom_right_x="980" bottom_right_y="822">
+       <type>Code Postal</type>
+       <text>57460</text>
+  </box>
+  <box top_left_x="1102" top_left_y="711" bottom_right_x="2186" bottom_right_y="820">
+       <type>Ville</type>
+       <text>BOUSBACH</text>
+  </box>
+  <box top_left_x="369" top_left_y="828" bottom_right_x="1242" bottom_right_y="975">
+       <type>Téléphone</type>
+       <text>0388410829</text>
+  </box>
+  <box top_left_x="509" top_left_y="1094" bottom_right_x="2185" bottom_right_y="1210">
+       <type>Catégorie Scénario</type>
+       <text>Gestion de sinistre</text>
+  </box>
+  <box top_left_x="293" top_left_y="1205" bottom_right_x="2185" bottom_right_y="1387">
+       <type>Objet Scénario</type>
+       <text>Vous faites appel à votre assurance\nautomobile</text>
+  </box>
+  <box top_left_x="286" top_left_y="1384" bottom_right_x="2185" bottom_right_y="1572">
+       <type>Complément Scénario</type>
+       <text>Vous avez provoqué un accident\nà la route</text>
+  </box>
+  <box top_left_x="910" top_left_y="1592" bottom_right_x="1547" bottom_right_y="1741">
+       <type>Référence client</type>
+       <text>YEXON43</text>
+  </box>
+  <box top_left_x="586" top_left_y="1740" bottom_right_x="2193" bottom_right_y="1834">
+       <type>Interlocuteur</type>
+       <text>MANIF assurances</text>
+  </box>
+  <box top_left_x="498" top_left_y="1830" bottom_right_x="2193" bottom_right_y="1933">
+       <type>Adresse Interlocuteur</type>
+       <text>358 rue de Lille</text>
+  </box>
+  <box top_left_x="576" top_left_y="1929" bottom_right_x="1005" bottom_right_y="2048">
+       <type>Code Postal Interlocuteur</type>
+       <text>59223</text>
+  </box>
+  <box top_left_x="1139" top_left_y="1929" bottom_right_x="2193" bottom_right_y="2028">
+       <type>Ville Interlocuteur</type>
+       <text>RONCQ</text>
+  </box>
+  <box top_left_x="1057" top_left_y="2266" bottom_right_x="1272" bottom_right_y="2376">
+       <type>Temps passé</type>
+       <text>15</text>
+  </box>
+  <box top_left_x="903" top_left_y="2205" bottom_right_x="980" bottom_right_y="2255">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1077" top_left_y="2201" bottom_right_x="1127" bottom_right_y="2253">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1293" top_left_y="2201" bottom_right_x="1346" bottom_right_y="2253">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="307" top_left_y="2671" bottom_right_x="366" bottom_right_y="2721">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1599" top_left_y="2621" bottom_right_x="2199" bottom_right_y="2734">
+       <type>Date d'envoi postal</type>
+       <text>23 03 07</text>
+  </box>
+  <box top_left_x="309" top_left_y="2767" bottom_right_x="368" bottom_right_y="2817">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="306" top_left_y="2862" bottom_right_x="358" bottom_right_y="2908">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1742" top_left_y="2795" bottom_right_x="2192" bottom_right_y="2913">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="315" top_left_y="2955" bottom_right_x="357" bottom_right_y="3004">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1598" top_left_y="2915" bottom_right_x="2194" bottom_right_y="3018">
+       <type>Date d'envoi par courriel</type>
+       <text>23 03 07</text>
+  </box>
+  <box top_left_x="1739" top_left_y="3112" bottom_right_x="2005" bottom_right_y="3207">
+       <type>Résolution</type>
+       <text>200</text>
+  </box>
+  <box top_left_x="580" top_left_y="3142" bottom_right_x="631" bottom_right_y="3192">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="785" top_left_y="3141" bottom_right_x="837" bottom_right_y="3192">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="967" top_left_y="3146" bottom_right_x="1016" bottom_right_y="3192">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1077" top_left_y="3013" bottom_right_x="2196" bottom_right_y="3115">
+       <type>Marque et modèle scanner</type>
+       <text>CANON PIXMA MP 500</text>
+  </box>
+</annotation>

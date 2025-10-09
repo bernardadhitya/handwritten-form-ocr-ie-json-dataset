@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2480" height="3508">04122_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Changement de données personnelles</scenario>
+  <writer>MARSAC Richard</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="160" top_left_y="296" bottom_right_x="719" bottom_right_y="439">
+       <type>Code d'envoi</type>
+       <text>EHINHP</text>
+  </box>
+  <box top_left_x="393" top_left_y="455" bottom_right_x="1202" bottom_right_y="564">
+       <type>Nom</type>
+       <text>MARSAL</text>
+  </box>
+  <box top_left_x="1395" top_left_y="449" bottom_right_x="2168" bottom_right_y="556">
+       <type>Prénom</type>
+       <text>Richard</text>
+  </box>
+  <box top_left_x="476" top_left_y="552" bottom_right_x="2177" bottom_right_y="653">
+       <type>Adresse</type>
+       <text>Les Ferrières</text>
+  </box>
+  <box top_left_x="553" top_left_y="658" bottom_right_x="973" bottom_right_y="765">
+       <type>Code Postal</type>
+       <text>83390</text>
+  </box>
+  <box top_left_x="1095" top_left_y="646" bottom_right_x="2180" bottom_right_y="758">
+       <type>Ville</type>
+       <text>Puget Ville</text>
+  </box>
+  <box top_left_x="361" top_left_y="770" bottom_right_x="1235" bottom_right_y="918">
+       <type>Téléphone</type>
+       <text>0471836458</text>
+  </box>
+  <box top_left_x="501" top_left_y="1031" bottom_right_x="2178" bottom_right_y="1153">
+       <type>Catégorie Scénario</type>
+       <text>Changement de données personnelles</text>
+  </box>
+  <box top_left_x="286" top_left_y="1142" bottom_right_x="2179" bottom_right_y="1328">
+       <type>Objet Scénario</type>
+       <text>Nouvelles coordonnées téléphoniques (vous considérerez votre\ntéléphone fictif comme votre nouveau téléphone)</text>
+  </box>
+  <box top_left_x="279" top_left_y="1320" bottom_right_x="2181" bottom_right_y="1511">
+       <type>Complément Scénario</type>
+       <text>vous vous installez avec votre conjoint.\n</text>
+  </box>
+  <box top_left_x="904" top_left_y="1528" bottom_right_x="1542" bottom_right_y="1677">
+       <type>Référence client</type>
+       <text>VPBAY12</text>
+  </box>
+  <box top_left_x="580" top_left_y="1675" bottom_right_x="2187" bottom_right_y="1771">
+       <type>Interlocuteur</type>
+       <text>NNA Assurances</text>
+  </box>
+  <box top_left_x="491" top_left_y="1766" bottom_right_x="2185" bottom_right_y="1868">
+       <type>Adresse Interlocuteur</type>
+       <text>Place du Tilleul</text>
+  </box>
+  <box top_left_x="569" top_left_y="1864" bottom_right_x="998" bottom_right_y="1982">
+       <type>Code Postal Interlocuteur</type>
+       <text>58500</text>
+  </box>
+  <box top_left_x="1132" top_left_y="1864" bottom_right_x="2185" bottom_right_y="1963">
+       <type>Ville Interlocuteur</type>
+       <text>Surgy</text>
+  </box>
+  <box top_left_x="1050" top_left_y="2199" bottom_right_x="1264" bottom_right_y="2308">
+       <type>Temps passé</type>
+       <text>25</text>
+  </box>
+  <box top_left_x="897" top_left_y="2138" bottom_right_x="945" bottom_right_y="2188">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1072" top_left_y="2134" bottom_right_x="1121" bottom_right_y="2186">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1286" top_left_y="2134" bottom_right_x="1338" bottom_right_y="2186">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="298" top_left_y="2601" bottom_right_x="347" bottom_right_y="2650">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1591" top_left_y="2553" bottom_right_x="2191" bottom_right_y="2663">
+       <type>Date d'envoi postal</type>
+       <text>24/03/07</text>
+  </box>
+  <box top_left_x="298" top_left_y="2696" bottom_right_x="348" bottom_right_y="2744">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="296" top_left_y="2790" bottom_right_x="348" bottom_right_y="2836">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1733" top_left_y="2724" bottom_right_x="2184" bottom_right_y="2839">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="298" top_left_y="2884" bottom_right_x="375" bottom_right_y="2933">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1589" top_left_y="2841" bottom_right_x="2187" bottom_right_y="2944">
+       <type>Date d'envoi par courriel</type>
+       <text>24/03/07</text>
+  </box>
+  <box top_left_x="1732" top_left_y="3037" bottom_right_x="1999" bottom_right_y="3132">
+       <type>Résolution</type>
+       <text>2400</text>
+  </box>
+  <box top_left_x="571" top_left_y="3073" bottom_right_x="620" bottom_right_y="3120">
+       <type>Format PNG</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="776" top_left_y="3068" bottom_right_x="828" bottom_right_y="3119">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="957" top_left_y="3067" bottom_right_x="1007" bottom_right_y="3118">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1068" top_left_y="2938" bottom_right_x="2189" bottom_right_y="3042">
+       <type>Marque et modèle scanner</type>
+       <text>HP PSC</text>
+  </box>
+</annotation>
