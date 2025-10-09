@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2478" height="3507">03374_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Fermeture de compte</scenario>
+  <writer>TREGUER Cassandra</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="94" top_left_y="199" bottom_right_x="693" bottom_right_y="349">
+       <type>Code d'envoi</type>
+       <text></text>
+  </box>
+  <box top_left_x="343" top_left_y="372" bottom_right_x="1211" bottom_right_y="485">
+       <type>Nom</type>
+       <text></text>
+  </box>
+  <box top_left_x="1418" top_left_y="373" bottom_right_x="2248" bottom_right_y="484">
+       <type>Prénom</type>
+       <text>CASSANDRA</text>
+  </box>
+  <box top_left_x="432" top_left_y="481" bottom_right_x="2255" bottom_right_y="583">
+       <type>Adresse</type>
+       <text>2 RUE DE LA GARE</text>
+  </box>
+  <box top_left_x="515" top_left_y="588" bottom_right_x="964" bottom_right_y="701">
+       <type>Code Postal</type>
+       <text>67630</text>
+  </box>
+  <box top_left_x="1095" top_left_y="583" bottom_right_x="2257" bottom_right_y="699">
+       <type>Ville</type>
+       <text>NIEDERLAUTERBACH</text>
+  </box>
+  <box top_left_x="309" top_left_y="708" bottom_right_x="1244" bottom_right_y="865">
+       <type>Téléphone</type>
+       <text>0375103286</text>
+  </box>
+  <box top_left_x="458" top_left_y="994" bottom_right_x="2255" bottom_right_y="1117">
+       <type>Catégorie Scénario</type>
+       <text>Fermeture de compte</text>
+  </box>
+  <box top_left_x="226" top_left_y="1112" bottom_right_x="2255" bottom_right_y="1306">
+       <type>Objet Scénario</type>
+       <text>Fermeture de compte bancaire\n</text>
+  </box>
+  <box top_left_x="218" top_left_y="1301" bottom_right_x="2255" bottom_right_y="1505">
+       <type>Complément Scénario</type>
+       <text>Vous venez de perdre votre emploi\n</text>
+  </box>
+  <box top_left_x="888" top_left_y="1523" bottom_right_x="1571" bottom_right_y="1683">
+       <type>Référence client</type>
+       <text>FBDKH37</text>
+  </box>
+  <box top_left_x="540" top_left_y="1680" bottom_right_x="2263" bottom_right_y="1785">
+       <type>Interlocuteur</type>
+       <text>Banque Société Géniale</text>
+  </box>
+  <box top_left_x="445" top_left_y="1777" bottom_right_x="2262" bottom_right_y="1891">
+       <type>Adresse Interlocuteur</type>
+       <text>2 rue de la poste</text>
+  </box>
+  <box top_left_x="528" top_left_y="1883" bottom_right_x="988" bottom_right_y="2011">
+       <type>Code Postal Interlocuteur</type>
+       <text>27220</text>
+  </box>
+  <box top_left_x="1132" top_left_y="1884" bottom_right_x="2262" bottom_right_y="1993">
+       <type>Ville Interlocuteur</type>
+       <text>PREY</text>
+  </box>
+  <box top_left_x="1043" top_left_y="2244" bottom_right_x="1273" bottom_right_y="2363">
+       <type>Temps passé</type>
+       <text></text>
+  </box>
+  <box top_left_x="875" top_left_y="2177" bottom_right_x="959" bottom_right_y="2235">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1063" top_left_y="2201" bottom_right_x="1144" bottom_right_y="2239">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1295" top_left_y="2176" bottom_right_x="1351" bottom_right_y="2231">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="233" top_left_y="2673" bottom_right_x="321" bottom_right_y="2729">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1624" top_left_y="2627" bottom_right_x="2267" bottom_right_y="2748">
+       <type>Date d'envoi postal</type>
+       <text>8/03/07</text>
+  </box>
+  <box top_left_x="232" top_left_y="2774" bottom_right_x="320" bottom_right_y="2831">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="232" top_left_y="2878" bottom_right_x="321" bottom_right_y="2932">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1776" top_left_y="2813" bottom_right_x="2258" bottom_right_y="2939">
+       <type>Date d'envoi par fax</type>
+       <text>7/03/07</text>
+  </box>
+  <box top_left_x="232" top_left_y="2978" bottom_right_x="321" bottom_right_y="3035">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1621" top_left_y="2941" bottom_right_x="2261" bottom_right_y="3052">
+       <type>Date d'envoi par courriel</type>
+       <text>7/03/07</text>
+  </box>
+  <box top_left_x="1773" top_left_y="3152" bottom_right_x="2058" bottom_right_y="3253">
+       <type>Résolution</type>
+       <text>360</text>
+  </box>
+  <box top_left_x="528" top_left_y="3180" bottom_right_x="582" bottom_right_y="3233">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="748" top_left_y="3180" bottom_right_x="803" bottom_right_y="3234">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="949" top_left_y="3183" bottom_right_x="1023" bottom_right_y="3232">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1063" top_left_y="3046" bottom_right_x="2262" bottom_right_y="3154">
+       <type>Marque et modèle scanner</type>
+       <text>Epson Perfection 1240</text>
+  </box>
+</annotation>
