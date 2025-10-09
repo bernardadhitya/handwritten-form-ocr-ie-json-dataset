@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2471" height="3502">02906_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Changement de données personnelles</scenario>
+  <writer>LAFONTAINE Jean-philippe</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="189" top_left_y="356" bottom_right_x="747" bottom_right_y="498">
+       <type>Code d'envoi</type>
+       <text>SHRMCH</text>
+  </box>
+  <box top_left_x="421" top_left_y="519" bottom_right_x="1230" bottom_right_y="626">
+       <type>Nom</type>
+       <text>LAFONTAINE</text>
+  </box>
+  <box top_left_x="1424" top_left_y="521" bottom_right_x="2197" bottom_right_y="625">
+       <type>Prénom</type>
+       <text>Philippe</text>
+  </box>
+  <box top_left_x="504" top_left_y="621" bottom_right_x="2202" bottom_right_y="717">
+       <type>Adresse</type>
+       <text>19, rue du Bois</text>
+  </box>
+  <box top_left_x="580" top_left_y="722" bottom_right_x="999" bottom_right_y="828">
+       <type>Code Postal</type>
+       <text>88350</text>
+  </box>
+  <box top_left_x="1121" top_left_y="717" bottom_right_x="2203" bottom_right_y="826">
+       <type>Ville</type>
+       <text>GRAND</text>
+  </box>
+  <box top_left_x="387" top_left_y="833" bottom_right_x="1260" bottom_right_y="981">
+       <type>Téléphone</type>
+       <text>0325394684</text>
+  </box>
+  <box top_left_x="527" top_left_y="1101" bottom_right_x="2203" bottom_right_y="1220">
+       <type>Catégorie Scénario</type>
+       <text>Changement de ¤{donnée/données}¤ personnelles</text>
+  </box>
+  <box top_left_x="311" top_left_y="1211" bottom_right_x="2203" bottom_right_y="1396">
+       <type>Objet Scénario</type>
+       <text>Nouvelle situation familiale\n</text>
+  </box>
+  <box top_left_x="303" top_left_y="1390" bottom_right_x="2202" bottom_right_y="1581">
+       <type>Complément Scénario</type>
+       <text>Vous venez d'avoir un enfant\n</text>
+  </box>
+  <box top_left_x="927" top_left_y="1597" bottom_right_x="1563" bottom_right_y="1748">
+       <type>Référence client</type>
+       <text>USQIK15</text>
+  </box>
+  <box top_left_x="602" top_left_y="1744" bottom_right_x="2209" bottom_right_y="1843">
+       <type>Interlocuteur</type>
+       <text>NNA ASSURANCES</text>
+  </box>
+  <box top_left_x="514" top_left_y="1835" bottom_right_x="2209" bottom_right_y="1942">
+       <type>Adresse Interlocuteur</type>
+       <text>1, rue Eugene FRAIGNEAU</text>
+  </box>
+  <box top_left_x="591" top_left_y="1933" bottom_right_x="1020" bottom_right_y="2052">
+       <type>Code Postal Interlocuteur</type>
+       <text>78114</text>
+  </box>
+  <box top_left_x="1154" top_left_y="1935" bottom_right_x="2209" bottom_right_y="2038">
+       <type>Ville Interlocuteur</type>
+       <text>MAGNY LES HAMEAUX</text>
+  </box>
+  <box top_left_x="1070" top_left_y="2271" bottom_right_x="1284" bottom_right_y="2382">
+       <type>Temps passé</type>
+       <text>8</text>
+  </box>
+  <box top_left_x="890" top_left_y="2210" bottom_right_x="993" bottom_right_y="2260">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1091" top_left_y="2207" bottom_right_x="1140" bottom_right_y="2259">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1306" top_left_y="2208" bottom_right_x="1358" bottom_right_y="2259">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="317" top_left_y="2674" bottom_right_x="394" bottom_right_y="2722">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1610" top_left_y="2630" bottom_right_x="2210" bottom_right_y="2743">
+       <type>Date d'envoi postal</type>
+       <text>10 ¤{fevrier/février}¤ 2007</text>
+  </box>
+  <box top_left_x="318" top_left_y="2768" bottom_right_x="367" bottom_right_y="2816">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="316" top_left_y="2864" bottom_right_x="367" bottom_right_y="2910">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1752" top_left_y="2804" bottom_right_x="2202" bottom_right_y="2922">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="316" top_left_y="2955" bottom_right_x="367" bottom_right_y="3005">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1607" top_left_y="2924" bottom_right_x="2204" bottom_right_y="3028">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1748" top_left_y="3121" bottom_right_x="2014" bottom_right_y="3216">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="588" top_left_y="3146" bottom_right_x="639" bottom_right_y="3196">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="793" top_left_y="3146" bottom_right_x="845" bottom_right_y="3196">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="974" top_left_y="3146" bottom_right_x="1024" bottom_right_y="3197">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1086" top_left_y="3021" bottom_right_x="2205" bottom_right_y="3124">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
