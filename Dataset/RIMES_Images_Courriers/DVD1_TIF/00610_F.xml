@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="21/12/2007" author="Jouve ">
+  <source width="2467" height="3500">00610_F.png</source>
+  <document>Fax</document>
+  <scenario>Demande d'information</scenario>
+  <writer>GALLIER Gilbert</writer>
+  <sender_person>Gallier Gilbert</sender_person>
+  <sender_company>eDF</sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company>Banque populaire</receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="1055" top_left_y="171" bottom_right_x="1403" bottom_right_y="557">
+  <type>Logo</type>
+  <text>eDF</text>
+  </box>
+  <box top_left_x="264" top_left_y="707" bottom_right_x="486" bottom_right_y="790">
+  <type>Expéditeur_autre / Dactylographié</type>
+  <text>Nos ref:</text>
+  </box>
+  <box top_left_x="265" top_left_y="825" bottom_right_x="476" bottom_right_y="910">
+  <type>Destinataire_autre / Dactylographié</type>
+  <text>Vos ref:</text>
+  </box>
+  <box top_left_x="496" top_left_y="686" bottom_right_x="1090" bottom_right_y="821">
+  <type>Expéditeur_personne / Manuscrit</type>
+  <text>Gallier Gilbert</text>
+  </box>
+  <box top_left_x="487" top_left_y="830" bottom_right_x="1174" bottom_right_y="955">
+  <type>Destinataire_organisme / Manuscrit</type>
+  <text>Banque populaire</text>
+  </box>
+  <box top_left_x="427" top_left_y="1113" bottom_right_x="2417" bottom_right_y="2002">
+  <type>Corps de texte / Manuscrit</type>
+  <text>Monsieur,\nPouvez-vous me fournir les hoaires\nd'accueil du public.</text>
+  </box>
+  <box top_left_x="1552" top_left_y="2040" bottom_right_x="1983" bottom_right_y="2337">
+  <type>Autre / Manuscrit</type>
+  <text></text>
+  </box>
+</annotation>

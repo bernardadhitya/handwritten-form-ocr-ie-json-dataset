@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="18/12/2007" author="Jouve">
+  <source width="2470" height="3501">00636_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Demande d'information</scenario>
+  <writer>BAUER Pauline</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="177" top_left_y="366" bottom_right_x="735" bottom_right_y="508">
+       <type>Code d'envoi</type>
+       <text>NRRMFD</text>
+  </box>
+  <box top_left_x="408" top_left_y="529" bottom_right_x="1217" bottom_right_y="637">
+       <type>Nom</type>
+       <text>BAUER</text>
+  </box>
+  <box top_left_x="1410" top_left_y="531" bottom_right_x="2183" bottom_right_y="636">
+       <type>Prénom</type>
+       <text>PAULINE</text>
+  </box>
+  <box top_left_x="491" top_left_y="632" bottom_right_x="2188" bottom_right_y="730">
+       <type>Adresse</type>
+       <text>14 RUE DE L'ECLUSE</text>
+  </box>
+  <box top_left_x="568" top_left_y="733" bottom_right_x="986" bottom_right_y="841">
+       <type>Code Postal</type>
+       <text>25490</text>
+  </box>
+  <box top_left_x="1108" top_left_y="729" bottom_right_x="2189" bottom_right_y="840">
+       <type>Ville</type>
+       <text>ALLENJOIE</text>
+  </box>
+  <box top_left_x="375" top_left_y="845" bottom_right_x="1247" bottom_right_y="995">
+       <type>Téléphone</type>
+       <text>0383445936</text>
+  </box>
+  <box top_left_x="515" top_left_y="1115" bottom_right_x="2193" bottom_right_y="1233">
+       <type>Catégorie Scénario</type>
+       <text>Demande d'information</text>
+  </box>
+  <box top_left_x="299" top_left_y="1224" bottom_right_x="2194" bottom_right_y="1409">
+       <type>Objet Scénario</type>
+       <text>Demande de précision sur votre dernière facture\n</text>
+  </box>
+  <box top_left_x="291" top_left_y="1403" bottom_right_x="2193" bottom_right_y="1593">
+       <type>Complément Scénario</type>
+       <text>Le montant de votre facture est trop\nélevé</text>
+  </box>
+  <box top_left_x="915" top_left_y="1610" bottom_right_x="1552" bottom_right_y="1762">
+       <type>Référence client</type>
+       <text>CTBJL36</text>
+  </box>
+  <box top_left_x="591" top_left_y="1758" bottom_right_x="2198" bottom_right_y="1858">
+       <type>Interlocuteur</type>
+       <text>LES 3 SUIFS</text>
+  </box>
+  <box top_left_x="502" top_left_y="1849" bottom_right_x="2197" bottom_right_y="1957">
+       <type>Adresse Interlocuteur</type>
+       <text>7 RUE DE CHARTRES</text>
+  </box>
+  <box top_left_x="580" top_left_y="1948" bottom_right_x="1009" bottom_right_y="2067">
+       <type>Code Postal Interlocuteur</type>
+       <text>91410</text>
+  </box>
+  <box top_left_x="1144" top_left_y="1950" bottom_right_x="2197" bottom_right_y="2051">
+       <type>Ville Interlocuteur</type>
+       <text>DOURDAN</text>
+  </box>
+  <box top_left_x="1060" top_left_y="2285" bottom_right_x="1275" bottom_right_y="2396">
+       <type>Temps passé</type>
+       <text>5</text>
+  </box>
+  <box top_left_x="906" top_left_y="2227" bottom_right_x="983" bottom_right_y="2274">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1080" top_left_y="2221" bottom_right_x="1129" bottom_right_y="2272">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1296" top_left_y="2221" bottom_right_x="1348" bottom_right_y="2273">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="310" top_left_y="2690" bottom_right_x="355" bottom_right_y="2740">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1602" top_left_y="2643" bottom_right_x="2202" bottom_right_y="2756">
+       <type>Date d'envoi postal</type>
+       <text>13/10/06</text>
+  </box>
+  <box top_left_x="310" top_left_y="2785" bottom_right_x="360" bottom_right_y="2833">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="308" top_left_y="2879" bottom_right_x="360" bottom_right_y="2925">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1744" top_left_y="2817" bottom_right_x="2194" bottom_right_y="2934">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="310" top_left_y="2974" bottom_right_x="358" bottom_right_y="3022">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1600" top_left_y="2937" bottom_right_x="2196" bottom_right_y="3039">
+       <type>Date d'envoi par courriel</type>
+       <text>13/10/06</text>
+  </box>
+  <box top_left_x="1741" top_left_y="3134" bottom_right_x="2006" bottom_right_y="3228">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="582" top_left_y="3161" bottom_right_x="633" bottom_right_y="3211">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="787" top_left_y="3160" bottom_right_x="839" bottom_right_y="3211">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="970" top_left_y="3163" bottom_right_x="1043" bottom_right_y="3209">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1079" top_left_y="3035" bottom_right_x="2197" bottom_right_y="3135">
+       <type>Marque et modèle scanner</type>
+       <text>EPSON STYLUS DX 3850</text>
+  </box>
+</annotation>
