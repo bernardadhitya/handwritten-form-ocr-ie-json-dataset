@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2470" height="3508">03480_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Difficulté de paiement</scenario>
+  <writer>BOURSIER Annick</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="175" top_left_y="379" bottom_right_x="733" bottom_right_y="520">
+       <type>Code d'envoi</type>
+       <text>UATMHK</text>
+  </box>
+  <box top_left_x="406" top_left_y="542" bottom_right_x="1216" bottom_right_y="648">
+       <type>Nom</type>
+       <text>Boursier</text>
+  </box>
+  <box top_left_x="1409" top_left_y="542" bottom_right_x="2182" bottom_right_y="645">
+       <type>Prénom</type>
+       <text>Annick</text>
+  </box>
+  <box top_left_x="489" top_left_y="644" bottom_right_x="2188" bottom_right_y="739">
+       <type>Adresse</type>
+       <text>6 rue des Biches</text>
+  </box>
+  <box top_left_x="567" top_left_y="745" bottom_right_x="985" bottom_right_y="851">
+       <type>Code Postal</type>
+       <text>67340</text>
+  </box>
+  <box top_left_x="1108" top_left_y="740" bottom_right_x="2191" bottom_right_y="850">
+       <type>Ville</type>
+       <text>¤{Reitpertswiller/Reipertswiller}¤</text>
+  </box>
+  <box top_left_x="374" top_left_y="856" bottom_right_x="1247" bottom_right_y="1003">
+       <type>Téléphone</type>
+       <text>0351423313</text>
+  </box>
+  <box top_left_x="514" top_left_y="1124" bottom_right_x="2188" bottom_right_y="1239">
+       <type>Catégorie Scénario</type>
+       <text>Difficulté de ¤{paiment/paiement}¤</text>
+  </box>
+  <box top_left_x="297" top_left_y="1234" bottom_right_x="2188" bottom_right_y="1416">
+       <type>Objet Scénario</type>
+       <text>Demande d'échelonnement\n</text>
+  </box>
+  <box top_left_x="289" top_left_y="1412" bottom_right_x="2188" bottom_right_y="1601">
+       <type>Complément Scénario</type>
+       <text>Le montant de votre facture est\ntrop ¤{elevé/élevé}¤</text>
+  </box>
+  <box top_left_x="913" top_left_y="1619" bottom_right_x="1550" bottom_right_y="1769">
+       <type>Référence client</type>
+       <text>FMIIU02</text>
+  </box>
+  <box top_left_x="589" top_left_y="1766" bottom_right_x="2196" bottom_right_y="1863">
+       <type>Interlocuteur</type>
+       <text>La Redoute</text>
+  </box>
+  <box top_left_x="500" top_left_y="1856" bottom_right_x="2195" bottom_right_y="1962">
+       <type>Adresse Interlocuteur</type>
+       <text>Angle RN 670¤.¤ RD 137</text>
+  </box>
+  <box top_left_x="578" top_left_y="1955" bottom_right_x="1007" bottom_right_y="2074">
+       <type>Code Postal Interlocuteur</type>
+       <text>33240</text>
+  </box>
+  <box top_left_x="1141" top_left_y="1956" bottom_right_x="2195" bottom_right_y="2057">
+       <type>Ville Interlocuteur</type>
+       <text>Cadillac en FRONSADAIS</text>
+  </box>
+  <box top_left_x="1058" top_left_y="2292" bottom_right_x="1271" bottom_right_y="2403">
+       <type>Temps passé</type>
+       <text>40</text>
+  </box>
+  <box top_left_x="878" top_left_y="2234" bottom_right_x="981" bottom_right_y="2281">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1078" top_left_y="2227" bottom_right_x="1127" bottom_right_y="2279">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1293" top_left_y="2228" bottom_right_x="1345" bottom_right_y="2280">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="324" top_left_y="2700" bottom_right_x="384" bottom_right_y="2744">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1598" top_left_y="2649" bottom_right_x="2198" bottom_right_y="2761">
+       <type>Date d'envoi postal</type>
+       <text>12.03.07</text>
+  </box>
+  <box top_left_x="311" top_left_y="2798" bottom_right_x="345" bottom_right_y="2840">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="319" top_left_y="2888" bottom_right_x="384" bottom_right_y="2934">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1741" top_left_y="2822" bottom_right_x="2190" bottom_right_y="2939">
+       <type>Date d'envoi par fax</type>
+       <text>12.03.07</text>
+  </box>
+  <box top_left_x="309" top_left_y="2979" bottom_right_x="384" bottom_right_y="3031">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1596" top_left_y="2942" bottom_right_x="2192" bottom_right_y="3045">
+       <type>Date d'envoi par courriel</type>
+       <text>11.03.07</text>
+  </box>
+  <box top_left_x="1737" top_left_y="3139" bottom_right_x="2002" bottom_right_y="3233">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="578" top_left_y="3166" bottom_right_x="629" bottom_right_y="3216">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="783" top_left_y="3165" bottom_right_x="835" bottom_right_y="3216">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="977" top_left_y="3164" bottom_right_x="1025" bottom_right_y="3216">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1076" top_left_y="3040" bottom_right_x="2193" bottom_right_y="3140">
+       <type>Marque et modèle scanner</type>
+       <text>HP C 4100</text>
+  </box>
+</annotation>
