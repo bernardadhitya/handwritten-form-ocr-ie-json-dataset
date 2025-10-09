@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2469" height="3502">02363_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Changement de données personnelles</scenario>
+  <writer>GREGOIRE Philippe</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="121" top_left_y="359" bottom_right_x="681" bottom_right_y="502">
+       <type>Code d'envoi</type>
+       <text>GMTADO</text>
+  </box>
+  <box top_left_x="354" top_left_y="523" bottom_right_x="1166" bottom_right_y="630">
+       <type>Nom</type>
+       <text>GREGOIRE</text>
+  </box>
+  <box top_left_x="1360" top_left_y="525" bottom_right_x="2136" bottom_right_y="629">
+       <type>Prénom</type>
+       <text>Philippe</text>
+  </box>
+  <box top_left_x="437" top_left_y="626" bottom_right_x="2140" bottom_right_y="722">
+       <type>Adresse</type>
+       <text>5 rue des Remparts</text>
+  </box>
+  <box top_left_x="514" top_left_y="726" bottom_right_x="933" bottom_right_y="833">
+       <type>Code Postal</type>
+       <text>54530</text>
+  </box>
+  <box top_left_x="1056" top_left_y="722" bottom_right_x="2141" bottom_right_y="831">
+       <type>Ville</type>
+       <text>PRENY</text>
+  </box>
+  <box top_left_x="322" top_left_y="838" bottom_right_x="1196" bottom_right_y="986">
+       <type>Téléphone</type>
+       <text>0372454129</text>
+  </box>
+  <box top_left_x="462" top_left_y="1107" bottom_right_x="2144" bottom_right_y="1223">
+       <type>Catégorie Scénario</type>
+       <text>Changement de données personnelles</text>
+  </box>
+  <box top_left_x="246" top_left_y="1217" bottom_right_x="2145" bottom_right_y="1401">
+       <type>Objet Scénario</type>
+       <text>Nouvelles ¤{coordonées/coordonnées}¤ postales\n</text>
+  </box>
+  <box top_left_x="239" top_left_y="1395" bottom_right_x="2146" bottom_right_y="1588">
+       <type>Complément Scénario</type>
+       <text>Vous vous ¤{instalez/installez}¤ avec votre conjoint\n</text>
+  </box>
+  <box top_left_x="866" top_left_y="1604" bottom_right_x="1505" bottom_right_y="1755">
+       <type>Référence client</type>
+       <text>ABSJU18</text>
+  </box>
+  <box top_left_x="540" top_left_y="1751" bottom_right_x="2152" bottom_right_y="1849">
+       <type>Interlocuteur</type>
+       <text>Banque Débit Lyonnais</text>
+  </box>
+  <box top_left_x="451" top_left_y="1841" bottom_right_x="2150" bottom_right_y="1947">
+       <type>Adresse Interlocuteur</type>
+       <text>rue de la mairie</text>
+  </box>
+  <box top_left_x="529" top_left_y="1939" bottom_right_x="960" bottom_right_y="2059">
+       <type>Code Postal Interlocuteur</type>
+       <text>29370</text>
+  </box>
+  <box top_left_x="1094" top_left_y="1941" bottom_right_x="2152" bottom_right_y="2041">
+       <type>Ville Interlocuteur</type>
+       <text>ELLIANT</text>
+  </box>
+  <box top_left_x="1012" top_left_y="2279" bottom_right_x="1228" bottom_right_y="2389">
+       <type>Temps passé</type>
+       <text>20</text>
+  </box>
+  <box top_left_x="832" top_left_y="2217" bottom_right_x="935" bottom_right_y="2267">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1033" top_left_y="2213" bottom_right_x="1082" bottom_right_y="2266">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1249" top_left_y="2214" bottom_right_x="1301" bottom_right_y="2266">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="260" top_left_y="2682" bottom_right_x="307" bottom_right_y="2731">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1557" top_left_y="2634" bottom_right_x="2159" bottom_right_y="2748">
+       <type>Date d'envoi postal</type>
+       <text>29/01/2007</text>
+  </box>
+  <box top_left_x="261" top_left_y="2776" bottom_right_x="311" bottom_right_y="2824">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="259" top_left_y="2871" bottom_right_x="311" bottom_right_y="2916">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1700" top_left_y="2809" bottom_right_x="2152" bottom_right_y="2927">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="262" top_left_y="2963" bottom_right_x="339" bottom_right_y="3016">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1556" top_left_y="2929" bottom_right_x="2155" bottom_right_y="3032">
+       <type>Date d'envoi par courriel</type>
+       <text>29/01/2007</text>
+  </box>
+  <box top_left_x="1698" top_left_y="3125" bottom_right_x="1965" bottom_right_y="3219">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="533" top_left_y="3150" bottom_right_x="584" bottom_right_y="3200">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="740" top_left_y="3151" bottom_right_x="792" bottom_right_y="3201">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="924" top_left_y="3155" bottom_right_x="973" bottom_right_y="3202">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1033" top_left_y="3027" bottom_right_x="2156" bottom_right_y="3127">
+       <type>Marque et modèle scanner</type>
+       <text>TRUST EASY CONECT 19200 PLUS</text>
+  </box>
+</annotation>
