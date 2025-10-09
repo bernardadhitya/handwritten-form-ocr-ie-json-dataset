@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2469" height="3503">03237_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Gestion de sinistre</scenario>
+  <writer>DENIZOT Aurore</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="165" top_left_y="413" bottom_right_x="726" bottom_right_y="556">
+       <type>Code d'envoi</type>
+       <text>WXMTSY</text>
+  </box>
+  <box top_left_x="397" top_left_y="577" bottom_right_x="1210" bottom_right_y="686">
+       <type>Nom</type>
+       <text>Denzot</text>
+  </box>
+  <box top_left_x="1405" top_left_y="581" bottom_right_x="2183" bottom_right_y="687">
+       <type>Prénom</type>
+       <text>Aurore</text>
+  </box>
+  <box top_left_x="479" top_left_y="679" bottom_right_x="2187" bottom_right_y="780">
+       <type>Adresse</type>
+       <text>69 rue d'Or</text>
+  </box>
+  <box top_left_x="554" top_left_y="780" bottom_right_x="976" bottom_right_y="888">
+       <type>Code Postal</type>
+       <text>68500</text>
+  </box>
+  <box top_left_x="1099" top_left_y="777" bottom_right_x="2189" bottom_right_y="889">
+       <type>Ville</type>
+       <text>BERRWILLER</text>
+  </box>
+  <box top_left_x="359" top_left_y="891" bottom_right_x="1239" bottom_right_y="1040">
+       <type>Téléphone</type>
+       <text>0349783088</text>
+  </box>
+  <box top_left_x="498" top_left_y="1159" bottom_right_x="2186" bottom_right_y="1278">
+       <type>Catégorie Scénario</type>
+       <text>Gestion sinistre</text>
+  </box>
+  <box top_left_x="278" top_left_y="1269" bottom_right_x="2186" bottom_right_y="1455">
+       <type>Objet Scénario</type>
+       <text>vous faites appel assurance automobile\n</text>
+  </box>
+  <box top_left_x="268" top_left_y="1447" bottom_right_x="2186" bottom_right_y="1639">
+       <type>Complément Scénario</type>
+       <text>vous avez provoqué un accident de la\nroute (vous déclarez joindre le constat)</text>
+  </box>
+  <box top_left_x="897" top_left_y="1654" bottom_right_x="1539" bottom_right_y="1805">
+       <type>Référence client</type>
+       <text>RXMXTOZ</text>
+  </box>
+  <box top_left_x="569" top_left_y="1800" bottom_right_x="2187" bottom_right_y="1902">
+       <type>Interlocuteur</type>
+       <text>BAFF Assurances</text>
+  </box>
+  <box top_left_x="479" top_left_y="1890" bottom_right_x="2185" bottom_right_y="2002">
+       <type>Adresse Interlocuteur</type>
+       <text>56 rue du Docteur Schweitzer</text>
+  </box>
+  <box top_left_x="557" top_left_y="1988" bottom_right_x="988" bottom_right_y="2108">
+       <type>Code Postal Interlocuteur</type>
+       <text>55107</text>
+  </box>
+  <box top_left_x="1124" top_left_y="1991" bottom_right_x="2184" bottom_right_y="2096">
+       <type>Ville Interlocuteur</type>
+       <text>VERDUN</text>
+  </box>
+  <box top_left_x="1038" top_left_y="2326" bottom_right_x="1254" bottom_right_y="2437">
+       <type>Temps passé</type>
+       <text>20</text>
+  </box>
+  <box top_left_x="858" top_left_y="2265" bottom_right_x="961" bottom_right_y="2324">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1060" top_left_y="2262" bottom_right_x="1109" bottom_right_y="2314">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1277" top_left_y="2263" bottom_right_x="1329" bottom_right_y="2315">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="264" top_left_y="2724" bottom_right_x="327" bottom_right_y="2791">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1581" top_left_y="2685" bottom_right_x="2186" bottom_right_y="2798">
+       <type>Date d'envoi postal</type>
+       <text>5/03/07</text>
+  </box>
+  <box top_left_x="266" top_left_y="2818" bottom_right_x="354" bottom_right_y="2881">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="275" top_left_y="2914" bottom_right_x="327" bottom_right_y="2960">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1723" top_left_y="2857" bottom_right_x="2177" bottom_right_y="2976">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="268" top_left_y="3007" bottom_right_x="353" bottom_right_y="3066">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1576" top_left_y="2976" bottom_right_x="2178" bottom_right_y="3081">
+       <type>Date d'envoi par courriel</type>
+       <text>5/03/07</text>
+  </box>
+  <box top_left_x="1717" top_left_y="3173" bottom_right_x="1985" bottom_right_y="3268">
+       <type>Résolution</type>
+       <text>200</text>
+  </box>
+  <box top_left_x="547" top_left_y="3195" bottom_right_x="598" bottom_right_y="3245">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="753" top_left_y="3195" bottom_right_x="805" bottom_right_y="3245">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="936" top_left_y="3198" bottom_right_x="1012" bottom_right_y="3259">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1050" top_left_y="3072" bottom_right_x="2178" bottom_right_y="3176">
+       <type>Marque et modèle scanner</type>
+       <text>Canon Canoscan D660U</text>
+  </box>
+</annotation>
