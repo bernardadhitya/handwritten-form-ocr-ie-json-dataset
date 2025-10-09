@@ -1,0 +1,93 @@
+VARIABLES TESTING
+2/15/00 1:53PMNowar.xt
+Step 1:TEST SET-UP
+DATE:2/15/00
+a. Is Control actual Data or a Goal ?
+Data
+Y
+Goal
+b.Is this a Two Sided or One Sided Test 
+2 Sided
+Y
+1 Side -Min
+1 Side -Max
+C.Compare Mean, Std Dev, or Both ?
+Mean & Std Dev
+V
+Mean Cnly
+Std Dev Only
+Step2:INPUT
+CONTROL DATA
+TEST
+DATA
+Confidence Level
+N
+Mean
+Std Dev
+N
+Mean
+Std Dev
+95%
+39
+2.6890.187
+4
+2.498
+0.19
+TEST RESULTS
+Ata
+95% confidence level for a 2 sided test
+in Means
+FFERENCE
+in Std Dev
+Step 3:NOTES AND COMMENTS
+Analysis Represents Uncorrected Firmness for Next (CG2570)
+Control=97/12/07through99/08/29
+Test = After 9/1/99 DlET 2 Introduction
+MEANS TEST OUTPUT
+Poofod Var Significanco
+Z Calcufated
+95% Confidence Interval
+0.025
+1.92
+Mean
+Min
+Max
+df
+Z Table
+CONTROL
+2.689
+2.630
+2.748
+41
+96
+TEST
+2.498
+2.283
+2.713
+2071561756
+STANDARD DEVIATION TEST OUTPUT
+Significanco
+F Calculated
+95% Confidence Interval
+0.025
+0.97
+S.D.
+Min
+Max
+Cooneoi
+FTable
+CONTROL
+0.187
+0.153
+0.241
+38
+8.60
+TEST
+0.190
+0.108
+0.708
+Test df
+1/F Table
+3
+0.35
+QSETOOLKIT $50927
