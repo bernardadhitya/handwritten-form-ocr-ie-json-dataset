@@ -1,0 +1,18 @@
+{
+    "title": "Chinese Hamster Ovary (CHO) Assay",
+    "description": "Spontaneous Mutations in Control Cells",
+    "basicDesign": [
+        "Grow control cells following the same procedures as treated cells with the exception that they select for mutants.",
+        "Count the number of mutants per plate, i.e., there are replicate plates (X) per experiment and across experiments in standard growth medium for control which survive; this is also replicated (P) for each experiment."
+    ],
+    "standardCalculations": {
+        "meanNumberOfMutantsPerPlate": "R",
+        "formula": "Ej = PE",
+        "example": {
+            "experimentNumber": 50965,
+            "experimentValue": 3914,
+            "calculation": "(2 x 10^5)(PE)",
+            "note": "i.e., if PE = 1.0, then mutants per 10^5 survivors equals 5.1 x mutants per 3 x 10^5 survivors (= a plate)."
+        }
+    }
+}
