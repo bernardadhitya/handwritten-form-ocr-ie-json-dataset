@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2474" height="3500">03213_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Gestion de sinistre</scenario>
+  <writer>MARIA Henri</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="176" top_left_y="358" bottom_right_x="733" bottom_right_y="500">
+       <type>Code d'envoi</type>
+       <text>KARIRJ</text>
+  </box>
+  <box top_left_x="407" top_left_y="521" bottom_right_x="1214" bottom_right_y="629">
+       <type>Nom</type>
+       <text>MARIA</text>
+  </box>
+  <box top_left_x="1406" top_left_y="524" bottom_right_x="2177" bottom_right_y="630">
+       <type>Prénom</type>
+       <text>Henri</text>
+  </box>
+  <box top_left_x="490" top_left_y="624" bottom_right_x="2183" bottom_right_y="723">
+       <type>Adresse</type>
+       <text>29 rue des Ardennes</text>
+  </box>
+  <box top_left_x="567" top_left_y="725" bottom_right_x="984" bottom_right_y="832">
+       <type>Code Postal</type>
+       <text>68390</text>
+  </box>
+  <box top_left_x="1106" top_left_y="721" bottom_right_x="2185" bottom_right_y="832">
+       <type>Ville</type>
+       <text>BALDERSHEIM</text>
+  </box>
+  <box top_left_x="377" top_left_y="836" bottom_right_x="1246" bottom_right_y="986">
+       <type>Téléphone</type>
+       <text>0338367829</text>
+  </box>
+  <box top_left_x="516" top_left_y="1105" bottom_right_x="2185" bottom_right_y="1228">
+       <type>Catégorie Scénario</type>
+       <text>GESTION de SINISTRE</text>
+  </box>
+  <box top_left_x="301" top_left_y="1214" bottom_right_x="2185" bottom_right_y="1401">
+       <type>Objet Scénario</type>
+       <text>Vous faites appel à votre assurance Automobile\n</text>
+  </box>
+  <box top_left_x="294" top_left_y="1392" bottom_right_x="2185" bottom_right_y="1584">
+       <type>Complément Scénario</type>
+       <text>Vous avez provoqué un accident de la route\n(vous déclarez joindre le constat)</text>
+  </box>
+  <box top_left_x="916" top_left_y="1600" bottom_right_x="1550" bottom_right_y="1751">
+       <type>Référence client</type>
+       <text>TDZGG84</text>
+  </box>
+  <box top_left_x="594" top_left_y="1748" bottom_right_x="2192" bottom_right_y="1844">
+       <type>Interlocuteur</type>
+       <text>BAAF Assurances</text>
+  </box>
+  <box top_left_x="506" top_left_y="1839" bottom_right_x="2192" bottom_right_y="1942">
+       <type>Adresse Interlocuteur</type>
+       <text>1 rue de l'abbé LUCAS</text>
+  </box>
+  <box top_left_x="584" top_left_y="1938" bottom_right_x="1012" bottom_right_y="2057">
+       <type>Code Postal Interlocuteur</type>
+       <text>14204</text>
+  </box>
+  <box top_left_x="1144" top_left_y="1938" bottom_right_x="2193" bottom_right_y="2037">
+       <type>Ville Interlocuteur</type>
+       <text>HEROUVILLE ST CLAIR</text>
+  </box>
+  <box top_left_x="1064" top_left_y="2274" bottom_right_x="1279" bottom_right_y="2384">
+       <type>Temps passé</type>
+       <text>25</text>
+  </box>
+  <box top_left_x="903" top_left_y="2217" bottom_right_x="987" bottom_right_y="2272">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1085" top_left_y="2209" bottom_right_x="1134" bottom_right_y="2261">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1299" top_left_y="2209" bottom_right_x="1351" bottom_right_y="2261">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="319" top_left_y="2681" bottom_right_x="396" bottom_right_y="2731">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1606" top_left_y="2628" bottom_right_x="2203" bottom_right_y="2741">
+       <type>Date d'envoi postal</type>
+       <text>26/02/2007</text>
+  </box>
+  <box top_left_x="312" top_left_y="2774" bottom_right_x="323" bottom_right_y="2827">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="312" top_left_y="2870" bottom_right_x="397" bottom_right_y="2922">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1748" top_left_y="2801" bottom_right_x="2197" bottom_right_y="2919">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="313" top_left_y="2964" bottom_right_x="398" bottom_right_y="3019">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1605" top_left_y="2921" bottom_right_x="2200" bottom_right_y="3025">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1747" top_left_y="3119" bottom_right_x="2012" bottom_right_y="3214">
+       <type>Résolution</type>
+       <text>¤¤</text>
+  </box>
+  <box top_left_x="591" top_left_y="3151" bottom_right_x="641" bottom_right_y="3201">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="796" top_left_y="3149" bottom_right_x="847" bottom_right_y="3200">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="977" top_left_y="3150" bottom_right_x="1027" bottom_right_y="3201">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1087" top_left_y="3019" bottom_right_x="2201" bottom_right_y="3123">
+       <type>Marque et modèle scanner</type>
+       <text>¤¤</text>
+  </box>
+</annotation>

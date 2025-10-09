@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2469" height="3506">03503_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Changement de données personnelles</scenario>
+  <writer>LARA Emma</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="153" top_left_y="294" bottom_right_x="712" bottom_right_y="436">
+       <type>Code d'envoi</type>
+       <text>SAMEWE</text>
+  </box>
+  <box top_left_x="384" top_left_y="457" bottom_right_x="1194" bottom_right_y="563">
+       <type>Nom</type>
+       <text>LARA</text>
+  </box>
+  <box top_left_x="1388" top_left_y="457" bottom_right_x="2162" bottom_right_y="560">
+       <type>Prénom</type>
+       <text>Emma</text>
+  </box>
+  <box top_left_x="467" top_left_y="560" bottom_right_x="2168" bottom_right_y="653">
+       <type>Adresse</type>
+       <text>6, rue des Ecoles</text>
+  </box>
+  <box top_left_x="545" top_left_y="661" bottom_right_x="963" bottom_right_y="767">
+       <type>Code Postal</type>
+       <text>68560</text>
+  </box>
+  <box top_left_x="1086" top_left_y="655" bottom_right_x="2170" bottom_right_y="763">
+       <type>Ville</type>
+       <text>Hirsingue</text>
+  </box>
+  <box top_left_x="352" top_left_y="773" bottom_right_x="1225" bottom_right_y="919">
+       <type>Téléphone</type>
+       <text>0350016163</text>
+  </box>
+  <box top_left_x="491" top_left_y="1041" bottom_right_x="2172" bottom_right_y="1155">
+       <type>Catégorie Scénario</type>
+       <text>Changement de données personnelles</text>
+  </box>
+  <box top_left_x="274" top_left_y="1151" bottom_right_x="2172" bottom_right_y="1332">
+       <type>Objet Scénario</type>
+       <text>Nouvelles coordonnées bancaires\n(vous déclarerez joindre un RIB)</text>
+  </box>
+  <box top_left_x="267" top_left_y="1329" bottom_right_x="2170" bottom_right_y="1518">
+       <type>Complément Scénario</type>
+       <text>Vous changez de banque\n</text>
+  </box>
+  <box top_left_x="892" top_left_y="1537" bottom_right_x="1530" bottom_right_y="1687">
+       <type>Référence client</type>
+       <text>VERNT56</text>
+  </box>
+  <box top_left_x="567" top_left_y="1684" bottom_right_x="2175" bottom_right_y="1782">
+       <type>Interlocuteur</type>
+       <text>BAAF Assurances</text>
+  </box>
+  <box top_left_x="478" top_left_y="1775" bottom_right_x="2174" bottom_right_y="1881">
+       <type>Adresse Interlocuteur</type>
+       <text>1 RUE DU BON PASTEUR</text>
+  </box>
+  <box top_left_x="556" top_left_y="1874" bottom_right_x="985" bottom_right_y="1993">
+       <type>Code Postal Interlocuteur</type>
+       <text>69001</text>
+  </box>
+  <box top_left_x="1120" top_left_y="1875" bottom_right_x="2174" bottom_right_y="1976">
+       <type>Ville Interlocuteur</type>
+       <text>LYON</text>
+  </box>
+  <box top_left_x="1036" top_left_y="2211" bottom_right_x="1251" bottom_right_y="2322">
+       <type>Temps passé</type>
+       <text>20</text>
+  </box>
+  <box top_left_x="884" top_left_y="2143" bottom_right_x="959" bottom_right_y="2209">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1057" top_left_y="2146" bottom_right_x="1106" bottom_right_y="2198">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1272" top_left_y="2146" bottom_right_x="1324" bottom_right_y="2198">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="285" top_left_y="2616" bottom_right_x="362" bottom_right_y="2666">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1577" top_left_y="2570" bottom_right_x="2177" bottom_right_y="2683">
+       <type>Date d'envoi postal</type>
+       <text>10/03/07</text>
+  </box>
+  <box top_left_x="278" top_left_y="2696" bottom_right_x="361" bottom_right_y="2769">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="283" top_left_y="2806" bottom_right_x="335" bottom_right_y="2852">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1719" top_left_y="2744" bottom_right_x="2169" bottom_right_y="2861">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="275" top_left_y="2900" bottom_right_x="362" bottom_right_y="2954">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1575" top_left_y="2864" bottom_right_x="2171" bottom_right_y="2967">
+       <type>Date d'envoi par courriel</type>
+       <text>10/03/07</text>
+  </box>
+  <box top_left_x="1715" top_left_y="3062" bottom_right_x="1981" bottom_right_y="3157">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="556" top_left_y="3089" bottom_right_x="620" bottom_right_y="3140">
+       <type>Format PNG</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="762" top_left_y="3088" bottom_right_x="813" bottom_right_y="3138">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="942" top_left_y="3088" bottom_right_x="992" bottom_right_y="3139">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1054" top_left_y="2962" bottom_right_x="2172" bottom_right_y="3063">
+       <type>Marque et modèle scanner</type>
+       <text>HP psc 1350</text>
+  </box>
+</annotation>
