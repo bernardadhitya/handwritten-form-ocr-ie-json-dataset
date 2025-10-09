@@ -1,0 +1,80 @@
+{
+    "test_type": [
+        "48h Acute",
+        "96h Acute",
+        "7d Chronic",
+        "Other"
+    ],
+    "test_organisms": {
+        "species": "C..db",
+        "source": "Cgt Stockc",
+        "acquisition_no": "Hatch/HarvestDate-20-93143o6-938"
+    },
+    "acclimation": {
+        "water": [
+            "HwM Asw",
+            "DMw",
+            "Other"
+        ],
+        "temperature_range": "/8.-2/.D",
+        "salinity": null
+    },
+    "feeding_prior_to_test": [
+        "Artemia /d",
+        "YCT/Selenastrums /d",
+        "Other"
+    ],
+    "feeding_during_test": [
+        "Artemia /d",
+        "Yct/Selenastrumi /d",
+        "Not Fed",
+        "Other"
+    ],
+    "test_volume": [
+        "15m1",
+        "25m1",
+        "80m1",
+        "200m1",
+        "500m1",
+        "Other"
+    ],
+    "replicates_per_replicate": [
+        "2/1O",
+        "4/5",
+        "3/1O",
+        "8/5",
+        "Other"
+    ],
+    "photoperiod": [
+        "16L8D",
+        "Other"
+    ],
+    "randomization_template_no": null,
+    "start_up": {
+        "date": "2/93",
+        "time_water_added": "Q9s0",
+        "time_animals_added": "/O3d"
+    },
+    "equipment": {
+        "ysi_sct_33_meter": "H8016792",
+        "cp_conductivity_meter": "D0149170",
+        "spartan_atc_refractometer": "A366",
+        "s100_refractometer": "8s01",
+        "ysi_do_meter": [
+            "#1SNE8014475",
+            "#2SN91A026329"
+        ],
+        "corning_240_ph_meter": "5268",
+        "cp_digisense_ph_meter": "K90002937",
+        "sp_portaph2_meter": "852360",
+        "sartorius_r160p_balance": "40020093",
+        "other": null
+    },
+    "comments": "<Confidential Philip Morris v.ABC Prepared ByR Date-2-93",
+    "quality_assurance": {
+        "statement": "As Quality Assurance Officer for this study I certify that no significant deviations from accepted protocol occurred during routine reflect the study as it was performed by CBI.",
+        "comments": "R.wellcim",
+        "date": "4-24-93",
+        "qa_qc_officer_signature": "2030162322"
+    }
+}

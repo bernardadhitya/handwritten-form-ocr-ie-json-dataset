@@ -1,0 +1,51 @@
+{
+    "contractResearchCenter": "CRC CONTRACT RESEARCH CENTER",
+    "form": "FORM2B CW80RAW/MCM",
+    "documentApproval": {
+        "projectNo": "CRC3",
+        "inbifo": "INBIFO",
+        "typeOfDocument": ".3",
+        "pageNo": "APPROVAL BY",
+        "staffCode": "STAFF CODE",
+        "date": "DATE",
+        "initials": "INITIALS",
+        "remarks": "REMARKS",
+        "numberOfWorkingDaysSincePreviousSignature": "NUMBER OF WORKING DAYS SINCE PREVIOUS SIGNATURE",
+        "approvals": [
+            {
+                "role": "peer reviewer",
+                "staffCode": "MC IC",
+                "initials": "AW",
+                "date": "dec 3"
+            },
+            {
+                "role": "coordinator",
+                "staffCode": "CRCGEMA",
+                "initials": "A",
+                "date": "12"
+            },
+            {
+                "role": "language",
+                "staffCode": "W",
+                "initials": "sodons",
+                "date": "document"
+            },
+            {
+                "role": "meeting presentation",
+                "staffCode": "r1",
+                "initials": "18y",
+                "date": "study director"
+            },
+            {
+                "role": "QA senior reviewer",
+                "staffCode": "J",
+                "initials": "INBIFOGM",
+                "date": "delivery"
+            }
+        ]
+    },
+    "delivery": {
+        "code": "2029001996",
+        "responsible": "ERO, RAw, wRE, or UMA; responsible for delivery after approval by SD"
+    }
+}

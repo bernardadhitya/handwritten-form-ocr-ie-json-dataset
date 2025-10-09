@@ -1,0 +1,78 @@
+{
+    "appropriationRequest": {
+        "companyOrDivision": "Philip Morris USA",
+        "plantOrLocation": "Park 500",
+        "appropNo": "C-321",
+        "supplNo": null,
+        "projectTitle": "Replace Stem Feed Line",
+        "amount": 571000,
+        "projectDescription": "Provide funds to purchase and install necessary equipment for Line I/II Blending at Park 500.",
+        "capitalizedInterest": 0,
+        "workingCapital": 0,
+        "expense": 95000,
+        "totalRequest": 666000,
+        "categoryOfCapitalExpenditure": {
+            "increasedCapacity": false,
+            "costReduction": false,
+            "complianceWithOutsideRequirements": false,
+            "administrativeRequirements": false,
+            "newVenture": false,
+            "researchDevelopment": false,
+            "straightReplacement": true,
+            "productLeadershipCompetitivePressures": false,
+            "strategicRequirement": false,
+            "engineeringDesign": false
+        },
+        "projectStatus": {
+            "thisRequest": 571000,
+            "previousAuthorization": "N/A",
+            "totalCost": 571000,
+            "includedIn2ndRVCapitalExpendituresForecast": false,
+            "includedIn1990_94FiveYearPlan": false
+        },
+        "summaryOfFacilitiesToBeRetired": {
+            "originalCost": 127479.29,
+            "lossOrGainOnDisposition": null
+        },
+        "forecastOfCashOutlay": {
+            "4thQ1990": 92000,
+            "1stQ1991": 229000,
+            "2ndQ1991": 250000,
+            "3rdQ1991": 0,
+            "year0Total": 571000,
+            "year1Total": 0,
+            "year2Total": 0,
+            "year3Total": 0,
+            "subsequentTotal": 0,
+            "totalCashOutlay": 571000
+        },
+        "estimatedCompletionDate": "June 1991",
+        "requiredApprovals": null,
+        "incrementalProfitAnalysis": {
+            "paybackPeriod": 4.83,
+            "returnOnInvestment": 16.82,
+            "projectLife": 15
+        },
+        "approvalPhilipMorrisCompaniesInc": {
+            "amount": 1000000,
+            "ratingCompanyController": {
+                "date": "10/4/1990"
+            },
+            "vicePresidentController": {
+                "date": null
+            },
+            "vicePresidentPlanning": {
+                "date": null
+            },
+            "vicePresidentFinance": {
+                "date": null
+            },
+            "vicePresidentOperations": {
+                "date": null
+            },
+            "executiveVicePresident": {
+                "date": null
+            }
+        }
+    }
+}

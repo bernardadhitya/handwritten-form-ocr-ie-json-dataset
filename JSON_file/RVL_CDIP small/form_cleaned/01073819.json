@@ -1,0 +1,103 @@
+{
+    "title": "AMES ASSAY FOR MUTAGENICITY",
+    "compound": {
+        "name": "3,3,5,5-Tetramethylcyclohexanecarboxylic Acid",
+        "source": "Lorillard - Organic Chemistry",
+        "lot_no": "OR56-79",
+        "date_received": "12/4/80",
+        "tested": "2/3/81-2/11/81",
+        "reported": "2/17/81",
+        "investigators": [
+            "H.S. Tong",
+            "A.A. Poole"
+        ],
+        "signatures": ".0.t"
+    },
+    "toxicity": {
+        "percent_survival": [
+            50,
+            80,
+            100
+        ]
+    },
+    "solvent": "DMSO WATER",
+    "concentration_mg_per_ml": 0.5,
+    "other": "S. TYPHIMURIUM",
+    "strains": {
+        "TA1535": {
+            "control_revertants_per_plate": {
+                "negative_S9": 20.33,
+                "positive_S9": 43.33
+            }
+        },
+        "TA100": {
+            "control_revertants_per_plate": {
+                "negative_S9": 159.33,
+                "positive_S9": 157.33
+            }
+        },
+        "TA98": {
+            "control_revertants_per_plate": {
+                "negative_S9": 13.5,
+                "positive_S9": 23.67
+            }
+        }
+    },
+    "compound_ug_per_plate": {
+        "500": {
+            "reversion_rate": {
+                "TA1535": 0.94,
+                "TA100": 0.85,
+                "TA98": 0.61
+            }
+        },
+        "250": {
+            "reversion_rate": {
+                "TA1535": 1.13,
+                "TA100": 1.04,
+                "TA98": 0.87
+            }
+        },
+        "125": {
+            "reversion_rate": {
+                "TA1535": 1.12,
+                "TA100": 0.81,
+                "TA98": 1.01
+            }
+        }
+    },
+    "positive_control_ug_per_plate": {
+        "2-AMINOANTHRACENE": {
+            "4": {
+                "reversion_rate": {
+                    "TA1535": 1.08,
+                    "TA100": 2.24,
+                    "TA98": 98
+                }
+            },
+            "1.26": {
+                "reversion_rate": {
+                    "TA1535": 19.65,
+                    "TA100": 2,
+                    "TA98": 1.28
+                }
+            },
+            "1.68": {
+                "reversion_rate": {
+                    "TA1535": 1.03,
+                    "TA100": 3.41,
+                    "TA98": 74
+                }
+            },
+            "18.04": {}
+        }
+    },
+    "conclusion": "This compound is judged non-mutagenic in this test system",
+    "copies_to": [
+        "01073819",
+        "H.J Minnemeyer",
+        "L.B. Gray",
+        "LORILLARD RESEARCH CENTER"
+    ],
+    "form": "FORM6 (580)"
+}

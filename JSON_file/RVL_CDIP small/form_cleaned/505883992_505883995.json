@@ -1,0 +1,261 @@
+{
+    "analytical_request_sheet": {
+        "submitter_code": "DATEJ1186",
+        "submitter": "C",
+        "location": "PHONEXS3",
+        "sample_description_identification": [
+            {
+                "id": "7525",
+                "aerosol_type": "TOSACCOTYPE 2",
+                "method_units": [
+                    {
+                        "method": "WTPM",
+                        "units": "mg/cig"
+                    },
+                    {
+                        "method": "Nicotine",
+                        "units": "mg/cig"
+                    },
+                    {
+                        "method": "Total Nitrogen",
+                        "units": "%"
+                    },
+                    {
+                        "method": "Glycerin",
+                        "units": "mg/cig"
+                    },
+                    {
+                        "method": "Nitrate",
+                        "units": "%"
+                    },
+                    {
+                        "method": "Reducing Sugar",
+                        "units": "%"
+                    },
+                    {
+                        "method": "Water",
+                        "units": "g/cig"
+                    },
+                    {
+                        "method": "Total Sugar",
+                        "units": "%"
+                    },
+                    {
+                        "method": "Menthol",
+                        "units": "mg/cig"
+                    },
+                    {
+                        "method": "Ammonia",
+                        "units": "%"
+                    },
+                    {
+                        "method": "Acetic Acid",
+                        "units": "ug/cig"
+                    },
+                    {
+                        "method": "pH",
+                        "units": ""
+                    },
+                    {
+                        "method": "Form/Acetaldehyde",
+                        "units": "ug/cig"
+                    },
+                    {
+                        "method": "Moisture (oven)",
+                        "units": "%"
+                    },
+                    {
+                        "method": "Acetone/Acrolein",
+                        "units": "ug/cig"
+                    },
+                    {
+                        "method": "Chloride",
+                        "units": "%"
+                    },
+                    {
+                        "method": "Propional/Crotonal",
+                        "units": "ug/cig"
+                    },
+                    {
+                        "method": "Ash",
+                        "units": "%"
+                    },
+                    {
+                        "method": "M'acroln/Isovaleral",
+                        "units": "ug/cig"
+                    },
+                    {
+                        "method": "Malic/Oxalic/Citric",
+                        "units": "%"
+                    },
+                    {
+                        "method": "WTPM",
+                        "units": "mg/puff"
+                    },
+                    {
+                        "method": "Nicotine",
+                        "units": "mg/puff"
+                    },
+                    {
+                        "method": "Glycerin",
+                        "units": "mg/puff"
+                    },
+                    {
+                        "method": "Propylene Glycol",
+                        "units": "g/puff"
+                    },
+                    {
+                        "method": "Water",
+                        "units": "mg/puff"
+                    },
+                    {
+                        "method": "Menthol",
+                        "units": "ng/puff"
+                    },
+                    {
+                        "method": "TEG",
+                        "units": "mg/cig"
+                    },
+                    {
+                        "method": "TEG",
+                        "units": "mg/puff"
+                    },
+                    {
+                        "method": "CO",
+                        "units": "mg/cig"
+                    },
+                    {
+                        "method": "CO2",
+                        "units": "mg/cig"
+                    }
+                ]
+            }
+        ],
+        "components": {
+            "chemical_type_3": [
+                {
+                    "component": "Moisture (oven)",
+                    "units": "%"
+                },
+                {
+                    "component": "Ash",
+                    "units": "%"
+                },
+                {
+                    "component": "pH",
+                    "units": ""
+                },
+                {
+                    "component": "Nicotine",
+                    "units": "mg/unit"
+                },
+                {
+                    "component": "Water",
+                    "units": "mg/unit"
+                },
+                {
+                    "component": "Glycerin",
+                    "units": "mg/unit"
+                },
+                {
+                    "component": "Propylene Glycol",
+                    "units": "mg/unit"
+                },
+                {
+                    "component": "C.HN",
+                    "units": "%"
+                },
+                {
+                    "component": "Oxygen",
+                    "units": "%"
+                },
+                {
+                    "component": "Menthol",
+                    "units": "mg/unit"
+                },
+                {
+                    "component": "TEG",
+                    "units": "mg/unit"
+                },
+                {
+                    "component": "Nicotine",
+                    "units": "%"
+                },
+                {
+                    "component": "Water",
+                    "units": "%"
+                },
+                {
+                    "component": "Glycerin",
+                    "units": "%"
+                },
+                {
+                    "component": "Propylene Glycol",
+                    "units": "%"
+                },
+                {
+                    "component": "TEG",
+                    "units": "%"
+                },
+                {
+                    "component": "Menthol",
+                    "units": "%"
+                }
+            ],
+            "physical_type_4": [
+                {
+                    "component": "Real Density",
+                    "units": "M/cm3"
+                },
+                {
+                    "component": "Bulk Density",
+                    "units": "g/cm3"
+                },
+                {
+                    "component": "Free Flow Density",
+                    "units": "g/cm3"
+                },
+                {
+                    "component": "Tap Density",
+                    "units": "g/cm3"
+                },
+                {
+                    "component": "Surface Area-Disc.File",
+                    "units": "M2/gm"
+                },
+                {
+                    "component": "N2 Porosity-Disc.File",
+                    "units": ""
+                },
+                {
+                    "component": "Tot.Intrusion Vol.Hg",
+                    "units": "cm3/gm"
+                },
+                {
+                    "component": "Total Pore Area.Hg",
+                    "units": "M2/gm"
+                },
+                {
+                    "component": "Med. Pore Dic Vol",
+                    "units": "uM"
+                },
+                {
+                    "component": "Med. Pore Dia Area",
+                    "units": "um"
+                },
+                {
+                    "component": "Av.PoreDia 4V/A",
+                    "units": "um"
+                },
+                {
+                    "component": "Particle Size",
+                    "units": "um"
+                },
+                {
+                    "component": "Pulp Fiber Size screen",
+                    "units": "%"
+                }
+            ]
+        }
+    }
+}

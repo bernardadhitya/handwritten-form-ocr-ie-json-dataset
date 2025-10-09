@@ -1,0 +1,63 @@
+{
+    "Company": "Philip Moris USA",
+    "Department": "Industrial Hygiene",
+    "Section": "STRESS CHARACTERIZATION",
+    "Identification": {
+        "City": "RIC",
+        "Plant": "mc",
+        "Exposure Zone": 1,
+        "Location": 4,
+        "Year": 8,
+        "Month": 83,
+        "Day": 97,
+        "Identification Number": 6,
+        "Omit Sample": "FT",
+        "Number": [
+            16,
+            18,
+            20,
+            22,
+            80
+        ]
+    },
+    "Job Class Representation": {
+        "Card": 26,
+        "Employee Name": {
+            "Last": "",
+            "First": "",
+            "MI": ""
+        },
+        "SS#": "",
+        "Job Code": 28,
+        "Representation": "RepresentativeUnusual-U",
+        "R": 42,
+        "Other Representative Job Codes": [
+            43,
+            47,
+            51,
+            55,
+            59
+        ],
+        "Shifts": {
+            "Day": "A",
+            "Evenings": "B",
+            "Graveyard": "C",
+            "Novel": "N",
+            "Assigned": "A"
+        }
+    },
+    "Job Characterization": {
+        "Card": 26,
+        "Job Type": "Routine/Normal",
+        "Start-Up": "S",
+        "Upset/Abnormal": "A",
+        "Batch": "B",
+        "Job Frequency": {
+            "Times/Month": "Philip Morris v.ABe"
+        },
+        "Job Description": "Toacco Processiny A Proess Fxnace Bnd",
+        "Code": "2031535549",
+        "Reference": "40-050-1",
+        "Date": "9/81"
+    }
+}

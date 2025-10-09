@@ -1,0 +1,30 @@
+{
+    "program": "2000 Marlboro Bar Program",
+    "contractTopSheet": {
+        "gmmssm": "Todd Shoemaker",
+        "market": "Los Angeles",
+        "venue": {
+            "name": "Guy's",
+            "id": "LAX-0253-03"
+        },
+        "clubType": {
+            "event": true,
+            "visibility": true,
+            "music": "RNB"
+        },
+        "admissionPolicy": [
+            "AO18-P",
+            "A021-P",
+            "PAO-P",
+            "A018-V",
+            "AO21-V"
+        ],
+        "gmmSsmSignature": {
+            "date": "4-24-00",
+            "signatureId": "2083836865"
+        },
+        "sellInApproval": {
+            "date": null
+        }
+    }
+}

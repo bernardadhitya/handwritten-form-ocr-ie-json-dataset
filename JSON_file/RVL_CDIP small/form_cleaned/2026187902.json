@@ -1,0 +1,51 @@
+{
+    "research_center": "PHILIP MORRIS RESEARCH CENTER",
+    "cr": "CR",
+    "known": 2452,
+    "emp_formla": "C",
+    "mol_weight": 190.28,
+    "lit_ref": {
+        "name": "S---4-Ethylnicotine",
+        "structure": "COH AgNO CH CH3 CR-2452 NH2SO8 HSO 3079 Pg#98"
+    },
+    "solubility": {
+        "sample_number": "8079-984",
+        "mp_bp": "90oven/0.0lmm"
+    },
+    "to_be_tested_for_amounts_supplied": {
+        "number": 13631,
+        "date": "12/5/84",
+        "solvent": "CDC1",
+        "ir": "UV",
+        "hnmr": "Derivatives"
+    },
+    "ms": "HS7991-431011/30/84",
+    "anal": {
+        "g_number": "#G-9896",
+        "from": "Galbraith",
+        "date": "12/17/84"
+    },
+    "recrystallization_gc_tlc_data": {
+        "calcd": 2026187902,
+        "found": {
+            "c": {
+                "calcd": 75.74,
+                "found": 75.88
+            },
+            "h": {
+                "calcd": 9.54,
+                "found": 9.62
+            },
+            "n": {
+                "calcd": 14.72,
+                "found": 14.78
+            }
+        }
+    },
+    "comments": {
+        "date": "12/17/84",
+        "submitter": "/",
+        "keco": "Project #2505",
+        "approved": true
+    }
+}

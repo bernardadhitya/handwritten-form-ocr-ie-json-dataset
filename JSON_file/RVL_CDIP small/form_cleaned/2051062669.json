@@ -1,0 +1,48 @@
+{
+    "LeyalCounselApproval": "AUTHORIZED",
+    "NameOfDepartment": "Records Management Department",
+    "From": "Sandra Griffin",
+    "To": "CRC/CRP",
+    "CategoryCode": [
+        {
+            "Code": "S0743",
+            "Description": "O1MFP786 - MANUFACTURING - BLENDED LEAF MAINTENANCE & ENGINEERING",
+            "RetentionPeriod": {
+                "InDept": "C+5",
+                "InStorage": "SUP+5",
+                "Total": "ACT"
+            }
+        },
+        {
+            "Code": "J0120",
+            "Description": "Safety Issues",
+            "RetentionPeriod": {
+                "InDept": "C+5",
+                "InStorage": "SUP+5",
+                "Total": "ACT"
+            }
+        },
+        {
+            "Code": "C1118",
+            "Description": "Job Safety Procedures",
+            "RetentionPeriod": {
+                "InDept": "C+5",
+                "InStorage": "SUP+5",
+                "Total": "ACT"
+            }
+        }
+    ],
+    "GroupApproval": "Contracts & Agreements",
+    "RetentionScheduleMaintenanceForm": {
+        "RecordCategory": "9OR",
+        "RequestedRevisionCodes": {
+            "ADD": "Add to the records retention schedule",
+            "CRP": "Change the retention period for a category",
+            "CRC": "Change the record category description",
+            "DEL": "Delete from the records retention schedule"
+        },
+        "RecordsManagementUse": "Responsible Records Management Group",
+        "RecordsCoordinator": "07/493",
+        "DepartmentHead": "2051062669"
+    }
+}

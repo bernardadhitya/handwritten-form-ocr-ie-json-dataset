@@ -1,0 +1,74 @@
+{
+    "PackagingOperations": {
+        "Number": "2--1546",
+        "Company": "PM U.S.A.",
+        "DesignRequest": {
+            "RequestedBy": "PM International",
+            "DateRequested": "7/1/92",
+            "AssignedDesignFirm": "Gargullo",
+            "Brand": {
+                "Name": "Seville/Encore",
+                "Number": "6510"
+            },
+            "Comments": [
+                "Develop Menthol Package",
+                "Promotional & Copy Changes",
+                "Line Extensions & Size Changes"
+            ],
+            "LineExtensions": [
+                "043-970",
+                "043-971",
+                "043-972"
+            ]
+        },
+        "PackagingInformation": {
+            "DesignDevelopment": "Reproduction Artwork",
+            "Dimensions": [
+                {
+                    "Size": "85mm",
+                    "Type": "20s",
+                    "Packaging": "Soft Pack",
+                    "Components": [
+                        "Face Panel Comp",
+                        "All Panels/CPC"
+                    ]
+                },
+                {
+                    "Size": "100mm",
+                    "Type": "Flip-Top-Box",
+                    "Components": [
+                        "Face Sides & Ends",
+                        "For Photography",
+                        "Inner Frame"
+                    ]
+                }
+            ],
+            "Canon": "Working Pack",
+            "NonWorkingPack": "Inner Fofl",
+            "Embossed": "Special Stock",
+            "Tipping": "Computer Prints"
+        },
+        "MarketingBrief": {
+            "Required": "Yes",
+            "Description": "Prepare a design study for a Menthol product using the brand name 'Encore'",
+            "TargetAudience": "Black and white, male and female, age 25-45",
+            "Positioning": "Not a Price Value product, but not a Premium Cigarette like B&H",
+            "DesignElements": [
+                "Work with greens, golds, and white",
+                "The look should be contemporary",
+                "Consider using musical instruments, without getting tacky or overwhelming by keeping tones",
+                "Look at toning down recently designed Encore pack, perhaps by deleting the man and toning down the piano"
+            ],
+            "Competition": "KOOL"
+        },
+        "Estimate": {
+            "Amount": "$35,000 - $40,000",
+            "Code": "2061806015"
+        },
+        "DueDate": "w/o 7/20/92",
+        "Revised": "AN",
+        "MarketingApproval": {
+            "VPDirectorApproval": "DATE4"
+        }
+    }
+}

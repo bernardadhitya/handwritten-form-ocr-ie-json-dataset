@@ -1,0 +1,109 @@
+{
+    "company": "R.J.Reynolds Tobacco USA",
+    "authorizationRequest": {
+        "subject": "AUTHORIZATION REQUEST",
+        "dateRouted": "10/6/88",
+        "arNo": null,
+        "originator": "M.F.Dube",
+        "deptRefNo": "ES.#8056",
+        "iffPolymerStrand": {
+            "startDate": "10/88",
+            "operationalDate": null
+        },
+        "approvalRequestSummary": {
+            "description": "Product & Applied Technology requests $100000 to fund a contract with International Flavors and Fragrance IFF. The contract provides IFF with the means to ensure production of polymer strand sufficient to cover planned volume for the 1989 TF Test which have direct application to the TF product.",
+            "authorityRequested": {
+                "previouslyApproved": null,
+                "thisRequest": 100000,
+                "totalRequest": 100000,
+                "authorizationType": {
+                    "capital": null,
+                    "expense": 100000,
+                    "productionCapability": null,
+                    "contractAndExclusivity": true,
+                    "other": null
+                },
+                "totalRequestAmount": 100000,
+                "productModificationIntroduction": null,
+                "subsequentProposalsRequired": false,
+                "previousProposals": null,
+                "leaseOrOtherContinuingCommitment": {
+                    "minimum": 100000,
+                    "forYears": 2
+                },
+                "costJustifiedAt": null,
+                "roi": null
+            }
+        },
+        "financeData": {
+            "authorityRequestedCoveredBy": {
+                "capital": null,
+                "expense": 100000,
+                "capitalId": null,
+                "budgetedDepartmentNumber": 581,
+                "projectId": null,
+                "fundsRequiredFrom": {
+                    "departmentNumber": null,
+                    "expenseCode": "04-90-0112-9010-581",
+                    "corporate": null
+                }
+            }
+        },
+        "financialImpact": {
+            "1988": 100000,
+            "1989": null,
+            "1990": null,
+            "1991": null,
+            "averageThereafter": null,
+            "operatingEarningsLoss": 100000,
+            "corporateFundsRequested": null
+        },
+        "reviewsApprovals": [
+            {
+                "dept": "P&AT",
+                "initials": "WMD",
+                "date": "10/7/98"
+            },
+            {
+                "dept": "R&D",
+                "initials": "MES",
+                "signature": "RLW",
+                "date": null
+            },
+            {
+                "dept": "COMP",
+                "initials": "EPL",
+                "signature": null,
+                "date": "10/88"
+            },
+            {
+                "dept": "R&D",
+                "initials": "WMH",
+                "signature": "RLW",
+                "date": null
+            },
+            {
+                "dept": "ROB",
+                "initials": null,
+                "signature": null,
+                "date": null
+            },
+            {
+                "dept": "R&D",
+                "initials": "GRD",
+                "signature": null,
+                "date": null
+            }
+        ],
+        "implementorProjectManager": {
+            "accountableIndividual": "M.F. Dube",
+            "name": "W.M.Dufour"
+        }
+    },
+    "form": {
+        "name": "RJRT Form 8711",
+        "revision": "Rev. 6/88",
+        "number": 50823,
+        "code": 1230
+    }
+}
