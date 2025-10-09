@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2477" height="3508">02337_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Ouverture de compte</scenario>
+  <writer>FLOCH Lola</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="184" top_left_y="377" bottom_right_x="744" bottom_right_y="522">
+       <type>Code d'envoi</type>
+       <text>GHFWIF</text>
+  </box>
+  <box top_left_x="416" top_left_y="543" bottom_right_x="1228" bottom_right_y="652">
+       <type>Nom</type>
+       <text>FLOCH</text>
+  </box>
+  <box top_left_x="1423" top_left_y="546" bottom_right_x="2200" bottom_right_y="652">
+       <type>Prénom</type>
+       <text>LOLA</text>
+  </box>
+  <box top_left_x="499" top_left_y="647" bottom_right_x="2204" bottom_right_y="745">
+       <type>Adresse</type>
+       <text>14 rue de la république</text>
+  </box>
+  <box top_left_x="575" top_left_y="748" bottom_right_x="995" bottom_right_y="856">
+       <type>Code Postal</type>
+       <text>57330</text>
+  </box>
+  <box top_left_x="1118" top_left_y="743" bottom_right_x="2205" bottom_right_y="855">
+       <type>Ville</type>
+       <text>HETTANGE GRANDE</text>
+  </box>
+  <box top_left_x="381" top_left_y="861" bottom_right_x="1257" bottom_right_y="1012">
+       <type>Téléphone</type>
+       <text>0356037113</text>
+  </box>
+  <box top_left_x="520" top_left_y="1132" bottom_right_x="2203" bottom_right_y="1254">
+       <type>Catégorie Scénario</type>
+       <text>ouverture de compte</text>
+  </box>
+  <box top_left_x="302" top_left_y="1242" bottom_right_x="2203" bottom_right_y="1430">
+       <type>Objet Scénario</type>
+       <text>vous souhaitez connaître la marche à\nsuivre pour devenir client</text>
+  </box>
+  <box top_left_x="294" top_left_y="1422" bottom_right_x="2202" bottom_right_y="1617">
+       <type>Complément Scénario</type>
+       <text>aucun\n</text>
+  </box>
+  <box top_left_x="921" top_left_y="1633" bottom_right_x="1560" bottom_right_y="1785">
+       <type>Référence client</type>
+       <text></text>
+  </box>
+  <box top_left_x="594" top_left_y="1781" bottom_right_x="2207" bottom_right_y="1881">
+       <type>Interlocuteur</type>
+       <text>NAIF Assurances</text>
+  </box>
+  <box top_left_x="505" top_left_y="1872" bottom_right_x="2205" bottom_right_y="1981">
+       <type>Adresse Interlocuteur</type>
+       <text>Base aérienne 901 BRACHENBRONN</text>
+  </box>
+  <box top_left_x="582" top_left_y="1971" bottom_right_x="1012" bottom_right_y="2092">
+       <type>Code Postal Interlocuteur</type>
+       <text>67160</text>
+  </box>
+  <box top_left_x="1148" top_left_y="1973" bottom_right_x="2204" bottom_right_y="2078">
+       <type>Ville Interlocuteur</type>
+       <text>WISSEMBOURG</text>
+  </box>
+  <box top_left_x="1063" top_left_y="2313" bottom_right_x="1279" bottom_right_y="2426">
+       <type>Temps passé</type>
+       <text>10</text>
+  </box>
+  <box top_left_x="910" top_left_y="2247" bottom_right_x="961" bottom_right_y="2303">
+       <type>Stylo bille</type>
+       <text></text>
+  </box>
+  <box top_left_x="1083" top_left_y="2250" bottom_right_x="1159" bottom_right_y="2310">
+       <type>Stylo plume</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1300" top_left_y="2249" bottom_right_x="1352" bottom_right_y="2302">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="308" top_left_y="2721" bottom_right_x="349" bottom_right_y="2767">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1606" top_left_y="2678" bottom_right_x="2208" bottom_right_y="2792">
+       <type>Date d'envoi postal</type>
+       <text>29.01.07</text>
+  </box>
+  <box top_left_x="308" top_left_y="2818" bottom_right_x="357" bottom_right_y="2867">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="309" top_left_y="2913" bottom_right_x="351" bottom_right_y="2961">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1747" top_left_y="2853" bottom_right_x="2199" bottom_right_y="2973">
+       <type>Date d'envoi par fax</type>
+       <text>28.01.07</text>
+  </box>
+  <box top_left_x="308" top_left_y="3007" bottom_right_x="385" bottom_right_y="3059">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1602" top_left_y="2974" bottom_right_x="2201" bottom_right_y="3080">
+       <type>Date d'envoi par courriel</type>
+       <text>28.01.07</text>
+  </box>
+  <box top_left_x="1744" top_left_y="3174" bottom_right_x="2010" bottom_right_y="3271">
+       <type>Résolution</type>
+       <text>400</text>
+  </box>
+  <box top_left_x="580" top_left_y="3200" bottom_right_x="624" bottom_right_y="3244">
+       <type>Format PNG</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="785" top_left_y="3199" bottom_right_x="837" bottom_right_y="3250">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="967" top_left_y="3199" bottom_right_x="1017" bottom_right_y="3251">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1079" top_left_y="3073" bottom_right_x="2202" bottom_right_y="3177">
+       <type>Marque et modèle scanner</type>
+       <text>EPSON Perfection 1260</text>
+  </box>
+</annotation>
