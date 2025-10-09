@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2473" height="3505">02380_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Demande d'information</scenario>
+  <writer>RENOU Delphine</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="166" top_left_y="343" bottom_right_x="728" bottom_right_y="486">
+       <type>Code d'envoi</type>
+       <text>JESQCJ</text>
+  </box>
+  <box top_left_x="399" top_left_y="507" bottom_right_x="1214" bottom_right_y="616">
+       <type>Nom</type>
+       <text>RENOU</text>
+  </box>
+  <box top_left_x="1409" top_left_y="510" bottom_right_x="2189" bottom_right_y="617">
+       <type>Prénom</type>
+       <text>Delphine</text>
+  </box>
+  <box top_left_x="482" top_left_y="610" bottom_right_x="2194" bottom_right_y="710">
+       <type>Adresse</type>
+       <text>28, rue de Toul</text>
+  </box>
+  <box top_left_x="559" top_left_y="711" bottom_right_x="981" bottom_right_y="819">
+       <type>Code Postal</type>
+       <text>54840</text>
+  </box>
+  <box top_left_x="1104" top_left_y="708" bottom_right_x="2196" bottom_right_y="822">
+       <type>Ville</type>
+       <text>VILLEY LE SEC</text>
+  </box>
+  <box top_left_x="365" top_left_y="823" bottom_right_x="1245" bottom_right_y="973">
+       <type>Téléphone</type>
+       <text>0345382788</text>
+  </box>
+  <box top_left_x="505" top_left_y="1093" bottom_right_x="2194" bottom_right_y="1213">
+       <type>Catégorie Scénario</type>
+       <text>Demande d'information</text>
+  </box>
+  <box top_left_x="287" top_left_y="1203" bottom_right_x="2193" bottom_right_y="1390">
+       <type>Objet Scénario</type>
+       <text>Demande de précisions sur votre dernière facture\n</text>
+  </box>
+  <box top_left_x="279" top_left_y="1383" bottom_right_x="2191" bottom_right_y="1577">
+       <type>Complément Scénario</type>
+       <text>Le montant de votre facture est trop élevé\n</text>
+  </box>
+  <box top_left_x="908" top_left_y="1593" bottom_right_x="1549" bottom_right_y="1745">
+       <type>Référence client</type>
+       <text>MXXNJ17</text>
+  </box>
+  <box top_left_x="580" top_left_y="1741" bottom_right_x="2199" bottom_right_y="1841">
+       <type>Interlocuteur</type>
+       <text>Banque Débit Lyonnais</text>
+  </box>
+  <box top_left_x="490" top_left_y="1831" bottom_right_x="2199" bottom_right_y="1941">
+       <type>Adresse Interlocuteur</type>
+       <text>3, rue de La Poste</text>
+  </box>
+  <box top_left_x="568" top_left_y="1930" bottom_right_x="1000" bottom_right_y="2050">
+       <type>Code Postal Interlocuteur</type>
+       <text>62182</text>
+  </box>
+  <box top_left_x="1135" top_left_y="1933" bottom_right_x="2199" bottom_right_y="2034">
+       <type>Ville Interlocuteur</type>
+       <text>CAGNICOURT</text>
+  </box>
+  <box top_left_x="1051" top_left_y="2271" bottom_right_x="1267" bottom_right_y="2382">
+       <type>Temps passé</type>
+       <text>15</text>
+  </box>
+  <box top_left_x="894" top_left_y="2212" bottom_right_x="973" bottom_right_y="2273">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1072" top_left_y="2206" bottom_right_x="1121" bottom_right_y="2258">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1289" top_left_y="2206" bottom_right_x="1341" bottom_right_y="2258">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="294" top_left_y="2675" bottom_right_x="371" bottom_right_y="2728">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1596" top_left_y="2632" bottom_right_x="2199" bottom_right_y="2744">
+       <type>Date d'envoi postal</type>
+       <text>23/01/07</text>
+  </box>
+  <box top_left_x="295" top_left_y="2777" bottom_right_x="344" bottom_right_y="2824">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="294" top_left_y="2859" bottom_right_x="371" bottom_right_y="2916">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1738" top_left_y="2805" bottom_right_x="2192" bottom_right_y="2922">
+       <type>Date d'envoi par fax</type>
+       <text>23/01/07</text>
+  </box>
+  <box top_left_x="288" top_left_y="2961" bottom_right_x="371" bottom_right_y="3014">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1593" top_left_y="2925" bottom_right_x="2194" bottom_right_y="3027">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1735" top_left_y="3122" bottom_right_x="2003" bottom_right_y="3216">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="567" top_left_y="3150" bottom_right_x="618" bottom_right_y="3200">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="773" top_left_y="3149" bottom_right_x="826" bottom_right_y="3200">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="956" top_left_y="3149" bottom_right_x="1006" bottom_right_y="3200">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1068" top_left_y="3023" bottom_right_x="2195" bottom_right_y="3123">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
