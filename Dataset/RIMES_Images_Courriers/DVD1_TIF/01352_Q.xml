@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="18/12/2007" author="Jouve">
+  <source width="2472" height="3507">01352_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Réclamation</scenario>
+  <writer>HEQUET Elodie</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="178" top_left_y="354" bottom_right_x="735" bottom_right_y="498">
+       <type>Code d'envoi</type>
+       <text>YVNGRK</text>
+  </box>
+  <box top_left_x="409" top_left_y="518" bottom_right_x="1218" bottom_right_y="627">
+       <type>Nom</type>
+       <text>HEGUET</text>
+  </box>
+  <box top_left_x="1411" top_left_y="522" bottom_right_x="2185" bottom_right_y="629">
+       <type>Prénom</type>
+       <text>Elodie</text>
+  </box>
+  <box top_left_x="492" top_left_y="620" bottom_right_x="2191" bottom_right_y="723">
+       <type>Adresse</type>
+       <text>396 Rue MAC HUGH</text>
+  </box>
+  <box top_left_x="568" top_left_y="721" bottom_right_x="986" bottom_right_y="829">
+       <type>Code Postal</type>
+       <text>60700</text>
+  </box>
+  <box top_left_x="1109" top_left_y="719" bottom_right_x="2193" bottom_right_y="832">
+       <type>Ville</type>
+       <text>PONTPOINT</text>
+  </box>
+  <box top_left_x="374" top_left_y="832" bottom_right_x="1248" bottom_right_y="982">
+       <type>Téléphone</type>
+       <text>0343687818</text>
+  </box>
+  <box top_left_x="514" top_left_y="1101" bottom_right_x="2192" bottom_right_y="1221">
+       <type>Catégorie Scénario</type>
+       <text>Réclamation</text>
+  </box>
+  <box top_left_x="297" top_left_y="1212" bottom_right_x="2192" bottom_right_y="1398">
+       <type>Objet Scénario</type>
+       <text>Vous souhaitez vous faire ¤{Remboursez/Rembourser}¤\n</text>
+  </box>
+  <box top_left_x="289" top_left_y="1390" bottom_right_x="2192" bottom_right_y="1583">
+       <type>Complément Scénario</type>
+       <text>il y a erreur dans le produit livré\n</text>
+  </box>
+  <box top_left_x="914" top_left_y="1598" bottom_right_x="1551" bottom_right_y="1749">
+       <type>Référence client</type>
+       <text>SHFYX38</text>
+  </box>
+  <box top_left_x="589" top_left_y="1745" bottom_right_x="2197" bottom_right_y="1846">
+       <type>Interlocuteur</type>
+       <text>Univers Sale Mobile</text>
+  </box>
+  <box top_left_x="500" top_left_y="1835" bottom_right_x="2195" bottom_right_y="1946">
+       <type>Adresse Interlocuteur</type>
+       <text>25 quaiRomain Rolland</text>
+  </box>
+  <box top_left_x="578" top_left_y="1934" bottom_right_x="1007" bottom_right_y="2054">
+       <type>Code Postal Interlocuteur</type>
+       <text>69005</text>
+  </box>
+  <box top_left_x="1142" top_left_y="1937" bottom_right_x="2195" bottom_right_y="2040">
+       <type>Ville Interlocuteur</type>
+       <text>LYON 05</text>
+  </box>
+  <box top_left_x="1057" top_left_y="2272" bottom_right_x="1272" bottom_right_y="2383">
+       <type>Temps passé</type>
+       <text>25</text>
+  </box>
+  <box top_left_x="901" top_left_y="2211" bottom_right_x="980" bottom_right_y="2275">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1078" top_left_y="2208" bottom_right_x="1127" bottom_right_y="2260">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1293" top_left_y="2209" bottom_right_x="1345" bottom_right_y="2261">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="306" top_left_y="2676" bottom_right_x="383" bottom_right_y="2726">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1599" top_left_y="2630" bottom_right_x="2198" bottom_right_y="2742">
+       <type>Date d'envoi postal</type>
+       <text>09-12-2006</text>
+  </box>
+  <box top_left_x="306" top_left_y="2771" bottom_right_x="356" bottom_right_y="2819">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="304" top_left_y="2865" bottom_right_x="356" bottom_right_y="2911">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1740" top_left_y="2804" bottom_right_x="2190" bottom_right_y="2922">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="306" top_left_y="2949" bottom_right_x="383" bottom_right_y="3013">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1595" top_left_y="2924" bottom_right_x="2192" bottom_right_y="3027">
+       <type>Date d'envoi par courriel</type>
+       <text>09-12-2006</text>
+  </box>
+  <box top_left_x="1736" top_left_y="3121" bottom_right_x="2001" bottom_right_y="3216">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="577" top_left_y="3147" bottom_right_x="627" bottom_right_y="3197">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="783" top_left_y="3149" bottom_right_x="859" bottom_right_y="3204">
+       <type>Format GIF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="964" top_left_y="3147" bottom_right_x="1013" bottom_right_y="3197">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1074" top_left_y="3021" bottom_right_x="2192" bottom_right_y="3123">
+       <type>Marque et modèle scanner</type>
+       <text>HP Scanjet 4400C</text>
+  </box>
+</annotation>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="18/12/2007" author="Jouve">
+  <source width="2475" height="3502">01323_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Demande d'information</scenario>
+  <writer>METAYER Isabelle</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="169" top_left_y="345" bottom_right_x="729" bottom_right_y="486">
+       <type>Code d'envoi</type>
+       <text>PGLNSW</text>
+  </box>
+  <box top_left_x="402" top_left_y="507" bottom_right_x="1213" bottom_right_y="612">
+       <type>Nom</type>
+       <text>Mme Metayer</text>
+  </box>
+  <box top_left_x="1407" top_left_y="506" bottom_right_x="2181" bottom_right_y="609">
+       <type>Prénom</type>
+       <text>Isabelle</text>
+  </box>
+  <box top_left_x="486" top_left_y="608" bottom_right_x="2186" bottom_right_y="702">
+       <type>Adresse</type>
+       <text>11 Rue claude Monet</text>
+  </box>
+  <box top_left_x="563" top_left_y="709" bottom_right_x="982" bottom_right_y="814">
+       <type>Code Postal</type>
+       <text>57685</text>
+  </box>
+  <box top_left_x="1104" top_left_y="704" bottom_right_x="2188" bottom_right_y="812">
+       <type>Ville</type>
+       <text>Augny</text>
+  </box>
+  <box top_left_x="370" top_left_y="820" bottom_right_x="1243" bottom_right_y="966">
+       <type>Téléphone</type>
+       <text>0322178436</text>
+  </box>
+  <box top_left_x="510" top_left_y="1086" bottom_right_x="2189" bottom_right_y="1202">
+       <type>Catégorie Scénario</type>
+       <text>Demande d'information</text>
+  </box>
+  <box top_left_x="295" top_left_y="1198" bottom_right_x="2190" bottom_right_y="1380">
+       <type>Objet Scénario</type>
+       <text>Demande de ¤{precisions/précisions}¤ sur votre\ndernière facture</text>
+  </box>
+  <box top_left_x="288" top_left_y="1377" bottom_right_x="2190" bottom_right_y="1566">
+       <type>Complément Scénario</type>
+       <text>le montant de votre facture est\ntrop élevé</text>
+  </box>
+  <box top_left_x="914" top_left_y="1584" bottom_right_x="1553" bottom_right_y="1735">
+       <type>Référence client</type>
+       <text>KPRAF67</text>
+  </box>
+  <box top_left_x="590" top_left_y="1732" bottom_right_x="2201" bottom_right_y="1829">
+       <type>Interlocuteur</type>
+       <text>Quotidien "le Pain"</text>
+  </box>
+  <box top_left_x="501" top_left_y="1822" bottom_right_x="2201" bottom_right_y="1928">
+       <type>Adresse Interlocuteur</type>
+       <text>37 Rue du gal de gaulle</text>
+  </box>
+  <box top_left_x="580" top_left_y="1921" bottom_right_x="1010" bottom_right_y="2040">
+       <type>Code Postal Interlocuteur</type>
+       <text>59251</text>
+  </box>
+  <box top_left_x="1145" top_left_y="1922" bottom_right_x="2201" bottom_right_y="2021">
+       <type>Ville Interlocuteur</type>
+       <text>Allennes les Marais</text>
+  </box>
+  <box top_left_x="1063" top_left_y="2259" bottom_right_x="1278" bottom_right_y="2370">
+       <type>Temps passé</type>
+       <text>20</text>
+  </box>
+  <box top_left_x="907" top_left_y="2193" bottom_right_x="958" bottom_right_y="2249">
+       <type>Stylo bille</type>
+       <text></text>
+  </box>
+  <box top_left_x="1068" top_left_y="2183" bottom_right_x="1158" bottom_right_y="2272">
+       <type>Stylo plume</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1299" top_left_y="2193" bottom_right_x="1351" bottom_right_y="2246">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="296" top_left_y="2664" bottom_right_x="368" bottom_right_y="2739">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1606" top_left_y="2617" bottom_right_x="2207" bottom_right_y="2729">
+       <type>Date d'envoi postal</type>
+       <text>9/12/06</text>
+  </box>
+  <box top_left_x="311" top_left_y="2759" bottom_right_x="360" bottom_right_y="2806">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="309" top_left_y="2854" bottom_right_x="361" bottom_right_y="2900">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1749" top_left_y="2791" bottom_right_x="2200" bottom_right_y="2908">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="300" top_left_y="2930" bottom_right_x="388" bottom_right_y="3019">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1604" top_left_y="2911" bottom_right_x="2202" bottom_right_y="3013">
+       <type>Date d'envoi par courriel</type>
+       <text>8/12/06</text>
+  </box>
+  <box top_left_x="1746" top_left_y="3107" bottom_right_x="2012" bottom_right_y="3202">
+       <type>Résolution</type>
+       <text>400</text>
+  </box>
+  <box top_left_x="583" top_left_y="3136" bottom_right_x="634" bottom_right_y="3185">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="776" top_left_y="3127" bottom_right_x="867" bottom_right_y="3210">
+       <type>Format GIF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="972" top_left_y="3134" bottom_right_x="1022" bottom_right_y="3185">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1082" top_left_y="3009" bottom_right_x="2204" bottom_right_y="3109">
+       <type>Marque et modèle scanner</type>
+       <text>Epson perfection 1200S</text>
+  </box>
+</annotation>

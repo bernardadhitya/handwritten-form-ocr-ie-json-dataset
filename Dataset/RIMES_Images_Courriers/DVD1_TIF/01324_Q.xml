@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="18/12/2007" author="Jouve">
+  <source width="2466" height="3503">01324_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Réclamation</scenario>
+  <writer>LE SAUX Yves</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="105" top_left_y="276" bottom_right_x="700" bottom_right_y="428">
+       <type>Code d'envoi</type>
+       <text>XOGDTD</text>
+  </box>
+  <box top_left_x="351" top_left_y="451" bottom_right_x="1214" bottom_right_y="566">
+       <type>Nom</type>
+       <text>LE SAUX</text>
+  </box>
+  <box top_left_x="1420" top_left_y="454" bottom_right_x="2244" bottom_right_y="566">
+       <type>Prénom</type>
+       <text>Yves</text>
+  </box>
+  <box top_left_x="440" top_left_y="561" bottom_right_x="2251" bottom_right_y="667">
+       <type>Adresse</type>
+       <text>34, rue Principale</text>
+  </box>
+  <box top_left_x="522" top_left_y="669" bottom_right_x="968" bottom_right_y="784">
+       <type>Code Postal</type>
+       <text>57540</text>
+  </box>
+  <box top_left_x="1098" top_left_y="665" bottom_right_x="2252" bottom_right_y="785">
+       <type>Ville</type>
+       <text>PETITE ROSELLE</text>
+  </box>
+  <box top_left_x="317" top_left_y="788" bottom_right_x="1247" bottom_right_y="948">
+       <type>Téléphone</type>
+       <text>0398232191</text>
+  </box>
+  <box top_left_x="465" top_left_y="1075" bottom_right_x="2251" bottom_right_y="1201">
+       <type>Catégorie Scénario</type>
+       <text>Réclamation</text>
+  </box>
+  <box top_left_x="235" top_left_y="1193" bottom_right_x="2251" bottom_right_y="1390">
+       <type>Objet Scénario</type>
+       <text>Vous souhaitez vous faire rembourser\n</text>
+  </box>
+  <box top_left_x="228" top_left_y="1384" bottom_right_x="2250" bottom_right_y="1589">
+       <type>Complément Scénario</type>
+       <text>Il y a une erreur dans le produit\nlivré</text>
+  </box>
+  <box top_left_x="892" top_left_y="1607" bottom_right_x="1571" bottom_right_y="1769">
+       <type>Référence client</type>
+       <text>EBAJE60</text>
+  </box>
+  <box top_left_x="547" top_left_y="1766" bottom_right_x="2259" bottom_right_y="1871">
+       <type>Interlocuteur</type>
+       <text>Univers Sale Mobile</text>
+  </box>
+  <box top_left_x="452" top_left_y="1862" bottom_right_x="2257" bottom_right_y="1975">
+       <type>Adresse Interlocuteur</type>
+       <text>Rue Jeanne d'arc</text>
+  </box>
+  <box top_left_x="535" top_left_y="1967" bottom_right_x="991" bottom_right_y="2095">
+       <type>Code Postal Interlocuteur</type>
+       <text>97112</text>
+  </box>
+  <box top_left_x="1135" top_left_y="1969" bottom_right_x="2257" bottom_right_y="2077">
+       <type>Ville Interlocuteur</type>
+       <text>GRAND BOURG</text>
+  </box>
+  <box top_left_x="1046" top_left_y="2329" bottom_right_x="1275" bottom_right_y="2447">
+       <type>Temps passé</type>
+       <text>20</text>
+  </box>
+  <box top_left_x="880" top_left_y="2260" bottom_right_x="964" bottom_right_y="2320">
+       <type>Stylo bille</type>
+       <text></text>
+  </box>
+  <box top_left_x="1066" top_left_y="2286" bottom_right_x="1147" bottom_right_y="2324">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1269" top_left_y="2269" bottom_right_x="1380" bottom_right_y="2314">
+       <type>Stylo feutre</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="259" top_left_y="2769" bottom_right_x="329" bottom_right_y="2812">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1623" top_left_y="2712" bottom_right_x="2262" bottom_right_y="2832">
+       <type>Date d'envoi postal</type>
+       <text>08.12.06</text>
+  </box>
+  <box top_left_x="240" top_left_y="2861" bottom_right_x="328" bottom_right_y="2917">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="240" top_left_y="2964" bottom_right_x="329" bottom_right_y="3020">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1774" top_left_y="2897" bottom_right_x="2253" bottom_right_y="3023">
+       <type>Date d'envoi par fax</type>
+       <text>08.12.06</text>
+  </box>
+  <box top_left_x="239" top_left_y="3065" bottom_right_x="328" bottom_right_y="3121">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1620" top_left_y="3026" bottom_right_x="2255" bottom_right_y="3136">
+       <type>Date d'envoi par courriel</type>
+       <text>08.12.06</text>
+  </box>
+  <box top_left_x="1770" top_left_y="3237" bottom_right_x="2053" bottom_right_y="3339">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="533" top_left_y="3267" bottom_right_x="587" bottom_right_y="3320">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="753" top_left_y="3267" bottom_right_x="808" bottom_right_y="3321">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="961" top_left_y="3271" bottom_right_x="1026" bottom_right_y="3306">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1065" top_left_y="3132" bottom_right_x="2256" bottom_right_y="3239">
+       <type>Marque et modèle scanner</type>
+       <text>CANON iR3300 PC6</text>
+  </box>
+</annotation>

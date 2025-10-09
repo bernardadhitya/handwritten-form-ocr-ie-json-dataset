@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="18/12/2007" author="Jouve">
+  <source width="2471" height="3507">01318_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Gestion de sinistre</scenario>
+  <writer>BARDON Pascale</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="152" top_left_y="283" bottom_right_x="708" bottom_right_y="426">
+       <type>Code d'envoi</type>
+       <text>TPHBDY</text>
+  </box>
+  <box top_left_x="382" top_left_y="446" bottom_right_x="1189" bottom_right_y="553">
+       <type>Nom</type>
+       <text>BARDON</text>
+  </box>
+  <box top_left_x="1383" top_left_y="449" bottom_right_x="2154" bottom_right_y="553">
+       <type>Prénom</type>
+       <text>Pascale</text>
+  </box>
+  <box top_left_x="465" top_left_y="548" bottom_right_x="2159" bottom_right_y="645">
+       <type>Adresse</type>
+       <text>45 A Chemin des Prés</text>
+  </box>
+  <box top_left_x="541" top_left_y="648" bottom_right_x="958" bottom_right_y="755">
+       <type>Code Postal</type>
+       <text>68480</text>
+  </box>
+  <box top_left_x="1081" top_left_y="644" bottom_right_x="2160" bottom_right_y="754">
+       <type>Ville</type>
+       <text>LUTTER</text>
+  </box>
+  <box top_left_x="349" top_left_y="760" bottom_right_x="1219" bottom_right_y="908">
+       <type>Téléphone</type>
+       <text>0367496659</text>
+  </box>
+  <box top_left_x="487" top_left_y="1027" bottom_right_x="2158" bottom_right_y="1143">
+       <type>Catégorie Scénario</type>
+       <text>Gestion de sinistre</text>
+  </box>
+  <box top_left_x="270" top_left_y="1136" bottom_right_x="2159" bottom_right_y="1319">
+       <type>Objet Scénario</type>
+       <text>Vous faites appel à votre assurance automobile\n</text>
+  </box>
+  <box top_left_x="262" top_left_y="1314" bottom_right_x="2161" bottom_right_y="1504">
+       <type>Complément Scénario</type>
+       <text>Vous avez provoqué un accident de la\nroute (vous déclarez joindre le constat)</text>
+  </box>
+  <box top_left_x="885" top_left_y="1521" bottom_right_x="1521" bottom_right_y="1671">
+       <type>Référence client</type>
+       <text>KICIA22</text>
+  </box>
+  <box top_left_x="561" top_left_y="1668" bottom_right_x="2164" bottom_right_y="1766">
+       <type>Interlocuteur</type>
+       <text>BAAF Assurances</text>
+  </box>
+  <box top_left_x="473" top_left_y="1758" bottom_right_x="2163" bottom_right_y="1864">
+       <type>Adresse Interlocuteur</type>
+       <text>33 rue de Paris</text>
+  </box>
+  <box top_left_x="551" top_left_y="1856" bottom_right_x="979" bottom_right_y="1975">
+       <type>Code Postal Interlocuteur</type>
+       <text>77580</text>
+  </box>
+  <box top_left_x="1113" top_left_y="1858" bottom_right_x="2163" bottom_right_y="1958">
+       <type>Ville Interlocuteur</type>
+       <text>VILLIERS SUR MORIN</text>
+  </box>
+  <box top_left_x="1030" top_left_y="2192" bottom_right_x="1244" bottom_right_y="2302">
+       <type>Temps passé</type>
+       <text>25</text>
+  </box>
+  <box top_left_x="891" top_left_y="2140" bottom_right_x="953" bottom_right_y="2181">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1049" top_left_y="2128" bottom_right_x="1099" bottom_right_y="2179">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1265" top_left_y="2128" bottom_right_x="1318" bottom_right_y="2180">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="290" top_left_y="2601" bottom_right_x="358" bottom_right_y="2645">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1569" top_left_y="2548" bottom_right_x="2168" bottom_right_y="2659">
+       <type>Date d'envoi postal</type>
+       <text>7/12/06</text>
+  </box>
+  <box top_left_x="281" top_left_y="2690" bottom_right_x="330" bottom_right_y="2738">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="276" top_left_y="2794" bottom_right_x="358" bottom_right_y="2836">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1712" top_left_y="2720" bottom_right_x="2161" bottom_right_y="2837">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="279" top_left_y="2875" bottom_right_x="331" bottom_right_y="2924">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1568" top_left_y="2840" bottom_right_x="2163" bottom_right_y="2941">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1708" top_left_y="3035" bottom_right_x="1973" bottom_right_y="3130">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="551" top_left_y="3063" bottom_right_x="602" bottom_right_y="3113">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="757" top_left_y="3062" bottom_right_x="808" bottom_right_y="3113">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="938" top_left_y="3063" bottom_right_x="987" bottom_right_y="3114">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1048" top_left_y="2937" bottom_right_x="2163" bottom_right_y="3037">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
