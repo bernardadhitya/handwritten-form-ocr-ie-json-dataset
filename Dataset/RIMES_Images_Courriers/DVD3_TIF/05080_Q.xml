@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2468" height="3501">05080_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Modification de contrat / Commande</scenario>
+  <writer>LEGOUT Patrick</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="176" top_left_y="402" bottom_right_x="736" bottom_right_y="545">
+       <type>Code d'envoi</type>
+       <text>TVACAW</text>
+  </box>
+  <box top_left_x="409" top_left_y="567" bottom_right_x="1221" bottom_right_y="673">
+       <type>Nom</type>
+       <text>Legout</text>
+  </box>
+  <box top_left_x="1413" top_left_y="567" bottom_right_x="2189" bottom_right_y="671">
+       <type>Prénom</type>
+       <text>Patrick</text>
+  </box>
+  <box top_left_x="493" top_left_y="669" bottom_right_x="2196" bottom_right_y="764">
+       <type>Adresse</type>
+       <text>13 rue Bossièrre</text>
+  </box>
+  <box top_left_x="571" top_left_y="770" bottom_right_x="991" bottom_right_y="876">
+       <type>Code Postal</type>
+       <text>25420</text>
+  </box>
+  <box top_left_x="1113" top_left_y="765" bottom_right_x="2199" bottom_right_y="874">
+       <type>Ville</type>
+       <text>Dampièrre sur le Doubs</text>
+  </box>
+  <box top_left_x="378" top_left_y="882" bottom_right_x="1253" bottom_right_y="1029">
+       <type>Téléphone</type>
+       <text>0359576278</text>
+  </box>
+  <box top_left_x="519" top_left_y="1149" bottom_right_x="2196" bottom_right_y="1266">
+       <type>Catégorie Scénario</type>
+       <text>Modification de contrat/commande</text>
+  </box>
+  <box top_left_x="304" top_left_y="1261" bottom_right_x="2197" bottom_right_y="1443">
+       <type>Objet Scénario</type>
+       <text>Commande d'un lot de 50 CD ¤{vierge/vierges}¤\n(référence du produit : 010-25-CDV)</text>
+  </box>
+  <box top_left_x="298" top_left_y="1440" bottom_right_x="2198" bottom_right_y="1629">
+       <type>Complément Scénario</type>
+       <text>Aucun\n</text>
+  </box>
+  <box top_left_x="924" top_left_y="1649" bottom_right_x="1562" bottom_right_y="1800">
+       <type>Référence client</type>
+       <text>EWVAK64</text>
+  </box>
+  <box top_left_x="600" top_left_y="1798" bottom_right_x="2208" bottom_right_y="1896">
+       <type>Interlocuteur</type>
+       <text>Les 3 Suifs</text>
+  </box>
+  <box top_left_x="511" top_left_y="1889" bottom_right_x="2208" bottom_right_y="1997">
+       <type>Adresse Interlocuteur</type>
+       <text></text>
+  </box>
+  <box top_left_x="590" top_left_y="1989" bottom_right_x="1019" bottom_right_y="2108">
+       <type>Code Postal Interlocuteur</type>
+       <text>47140</text>
+  </box>
+  <box top_left_x="1153" top_left_y="1990" bottom_right_x="2208" bottom_right_y="2090">
+       <type>Ville Interlocuteur</type>
+       <text>Frespech</text>
+  </box>
+  <box top_left_x="1072" top_left_y="2328" bottom_right_x="1287" bottom_right_y="2439">
+       <type>Temps passé</type>
+       <text>15</text>
+  </box>
+  <box top_left_x="925" top_left_y="2266" bottom_right_x="994" bottom_right_y="2324">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1091" top_left_y="2262" bottom_right_x="1141" bottom_right_y="2315">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1308" top_left_y="2262" bottom_right_x="1360" bottom_right_y="2315">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="321" top_left_y="2737" bottom_right_x="368" bottom_right_y="2787">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1616" top_left_y="2688" bottom_right_x="2218" bottom_right_y="2801">
+       <type>Date d'envoi postal</type>
+       <text>18/04/2007</text>
+  </box>
+  <box top_left_x="322" top_left_y="2832" bottom_right_x="371" bottom_right_y="2881">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="320" top_left_y="2929" bottom_right_x="371" bottom_right_y="2975">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1759" top_left_y="2863" bottom_right_x="2211" bottom_right_y="2982">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="320" top_left_y="3020" bottom_right_x="372" bottom_right_y="3070">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1615" top_left_y="2984" bottom_right_x="2213" bottom_right_y="3087">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1755" top_left_y="3182" bottom_right_x="2021" bottom_right_y="3277">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="593" top_left_y="3210" bottom_right_x="644" bottom_right_y="3260">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="798" top_left_y="3209" bottom_right_x="850" bottom_right_y="3260">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="980" top_left_y="3209" bottom_right_x="1030" bottom_right_y="3260">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1092" top_left_y="3083" bottom_right_x="2213" bottom_right_y="3183">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
