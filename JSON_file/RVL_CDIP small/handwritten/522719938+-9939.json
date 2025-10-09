@@ -1,0 +1,103 @@
+{
+    "survey": {
+        "contact_method": {
+            "phone": {
+                "questions": [
+                    {
+                        "question": "Ease of Contact",
+                        "areas": [
+                            {
+                                "area": "Ability to get through on first call",
+                                "rating": 7
+                            },
+                            {
+                                "area": "Satisfaction with telephone recording",
+                                "rating": 0
+                            },
+                            {
+                                "area": "Put on hold length of time on hold",
+                                "rating": 2
+                            }
+                        ]
+                    },
+                    {
+                        "question": "Personnel",
+                        "areas": [
+                            {
+                                "area": "Courtesy",
+                                "rating": null
+                            },
+                            {
+                                "area": "Professionalism",
+                                "rating": null
+                            },
+                            {
+                                "area": "Knowledge",
+                                "rating": null
+                            },
+                            {
+                                "area": "Authority to resolve problem",
+                                "rating": null
+                            },
+                            {
+                                "area": "Answer question",
+                                "rating": null
+                            }
+                        ]
+                    },
+                    {
+                        "question": "Response",
+                        "areas": [
+                            {
+                                "area": "Clarity",
+                                "rating": null
+                            },
+                            {
+                                "area": "Helpfulness",
+                                "rating": null
+                            },
+                            {
+                                "area": "Follow through on promised action",
+                                "rating": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            "letter": {
+                "skip_to_question": 2
+            }
+        },
+        "action_taken": {
+            "statements": [
+                "I was completely satisfied.",
+                "I was NOT completely satisfied but the action taken was acceptable.",
+                "I was NOT completely satisfied but some action was taken.",
+                "I was NOT AT ALL satisfied with the action taken."
+            ],
+            "additional_info": "NEVER RECEIVED THE Promises Coupons!"
+        },
+        "brand_purchase_intent": {
+            "question": "Based on how you were treated by our representative, will you continue to purchase the brand of cigarettes you contacted us about?",
+            "options": [
+                "Definitely Would",
+                "Probably Would",
+                "Might or Might Not",
+                "Probably Would Not",
+                "Definitely Would Not"
+            ],
+            "rating": 4
+        },
+        "recommendation": {
+            "question": "Would you recommend this brand of cigarettes to an adult smoker (21 years of age or older)?",
+            "options": [
+                "Definitely Would",
+                "Probably Would",
+                "Might or Might Not",
+                "Probably Would Not",
+                "Definitely Would Not"
+            ],
+            "rating": 6
+        }
+    }
+}

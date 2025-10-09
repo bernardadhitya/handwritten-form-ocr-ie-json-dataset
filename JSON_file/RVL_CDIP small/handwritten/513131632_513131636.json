@@ -1,0 +1,47 @@
+{
+    "author": "Tony N. Long",
+    "title": "Equations Generated for the Following G7AE Constituents",
+    "constituents": [
+        {
+            "name": "Constituent",
+            "product_no": "51+52",
+            "value": 2
+        },
+        {
+            "name": "Reducing Sugar",
+            "product_no": "51",
+            "value": 4
+        },
+        {
+            "name": "Total Sugar",
+            "product_no": "51",
+            "value": "?"
+        },
+        {
+            "name": "Potash",
+            "product_no": "is",
+            "value": 8
+        },
+        {
+            "name": "Nitrele",
+            "product_no": "52",
+            "value": 5
+        },
+        {
+            "name": "Water Soluble",
+            "product_no": "52",
+            "value": 4
+        },
+        {
+            "name": "Ammonia",
+            "product_no": "52",
+            "value": 6
+        },
+        {
+            "name": "Glycol",
+            "product_no": "52",
+            "value": 8
+        }
+    ],
+    "notes": "These equations are generated from the April 1959 test data collected. All have been installed in IAS49 at No. 90. Samples are currently being analyzed in the labs to adjust the equations to IAS9. Most constituent targets are too narrow to generate robust calibrations and therefore will not hold up over time. Additionally, the samples represent..."
+}
