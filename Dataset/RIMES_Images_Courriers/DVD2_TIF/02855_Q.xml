@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2469" height="3503">02855_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Difficulté de paiement</scenario>
+  <writer>GALIBERT Jeannine</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="164" top_left_y="307" bottom_right_x="724" bottom_right_y="448">
+       <type>Code d'envoi</type>
+       <text>JJLXYA</text>
+  </box>
+  <box top_left_x="396" top_left_y="470" bottom_right_x="1208" bottom_right_y="576">
+       <type>Nom</type>
+       <text>GALIBERT</text>
+  </box>
+  <box top_left_x="1402" top_left_y="471" bottom_right_x="2177" bottom_right_y="573">
+       <type>Prénom</type>
+       <text>JEANINE</text>
+  </box>
+  <box top_left_x="480" top_left_y="572" bottom_right_x="2183" bottom_right_y="667">
+       <type>Adresse</type>
+       <text>8 RUE DE LA MER</text>
+  </box>
+  <box top_left_x="557" top_left_y="672" bottom_right_x="976" bottom_right_y="778">
+       <type>Code Postal</type>
+       <text>70310</text>
+  </box>
+  <box top_left_x="1099" top_left_y="667" bottom_right_x="2184" bottom_right_y="775">
+       <type>Ville</type>
+       <text>FAUCOGNEY ET LA MER</text>
+  </box>
+  <box top_left_x="365" top_left_y="784" bottom_right_x="1238" bottom_right_y="931">
+       <type>Téléphone</type>
+       <text>0351725941</text>
+  </box>
+  <box top_left_x="504" top_left_y="1052" bottom_right_x="2184" bottom_right_y="1167">
+       <type>Catégorie Scénario</type>
+       <text>DIFFICULTE DE ¤{PAIMENT/PAIEMENT}¤</text>
+  </box>
+  <box top_left_x="288" top_left_y="1162" bottom_right_x="2185" bottom_right_y="1343">
+       <type>Objet Scénario</type>
+       <text>DEMANDE D'ECHELONNEMENT\n</text>
+  </box>
+  <box top_left_x="279" top_left_y="1340" bottom_right_x="2185" bottom_right_y="1529">
+       <type>Complément Scénario</type>
+       <text>VOUS VENEZ DE PERDRE VOTRE\nEMPLOI</text>
+  </box>
+  <box top_left_x="905" top_left_y="1548" bottom_right_x="1543" bottom_right_y="1698">
+       <type>Référence client</type>
+       <text>OFNKI22</text>
+  </box>
+  <box top_left_x="580" top_left_y="1697" bottom_right_x="2189" bottom_right_y="1793">
+       <type>Interlocuteur</type>
+       <text>TRESORERIE DES IMPOTS</text>
+  </box>
+  <box top_left_x="491" top_left_y="1788" bottom_right_x="2188" bottom_right_y="1893">
+       <type>Adresse Interlocuteur</type>
+       <text>RUE DE LA POSTE</text>
+  </box>
+  <box top_left_x="569" top_left_y="1887" bottom_right_x="998" bottom_right_y="2006">
+       <type>Code Postal Interlocuteur</type>
+       <text>52500</text>
+  </box>
+  <box top_left_x="1133" top_left_y="1888" bottom_right_x="2188" bottom_right_y="1988">
+       <type>Ville Interlocuteur</type>
+       <text>CHAMPSEVRAINE</text>
+  </box>
+  <box top_left_x="1050" top_left_y="2225" bottom_right_x="1265" bottom_right_y="2336">
+       <type>Temps passé</type>
+       <text>25</text>
+  </box>
+  <box top_left_x="912" top_left_y="2164" bottom_right_x="973" bottom_right_y="2210">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1070" top_left_y="2160" bottom_right_x="1119" bottom_right_y="2212">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1287" top_left_y="2160" bottom_right_x="1339" bottom_right_y="2212">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="301" top_left_y="2645" bottom_right_x="345" bottom_right_y="2695">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1593" top_left_y="2583" bottom_right_x="2194" bottom_right_y="2696">
+       <type>Date d'envoi postal</type>
+       <text>16/02/07</text>
+  </box>
+  <box top_left_x="300" top_left_y="2726" bottom_right_x="345" bottom_right_y="2776">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="288" top_left_y="2821" bottom_right_x="334" bottom_right_y="2870">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1736" top_left_y="2757" bottom_right_x="2187" bottom_right_y="2875">
+       <type>Date d'envoi par fax</type>
+       <text>16/02/07</text>
+  </box>
+  <box top_left_x="298" top_left_y="2916" bottom_right_x="345" bottom_right_y="2964">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1591" top_left_y="2878" bottom_right_x="2189" bottom_right_y="2980">
+       <type>Date d'envoi par courriel</type>
+       <text>15/02/07</text>
+  </box>
+  <box top_left_x="1732" top_left_y="3075" bottom_right_x="1998" bottom_right_y="3169">
+       <type>Résolution</type>
+       <text>96</text>
+  </box>
+  <box top_left_x="570" top_left_y="3103" bottom_right_x="621" bottom_right_y="3153">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="792" top_left_y="3110" bottom_right_x="853" bottom_right_y="3148">
+       <type>Format GIF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="957" top_left_y="3102" bottom_right_x="1007" bottom_right_y="3153">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1069" top_left_y="2976" bottom_right_x="2190" bottom_right_y="3076">
+       <type>Marque et modèle scanner</type>
+       <text>CANON PIXMA MP 110</text>
+  </box>
+</annotation>
