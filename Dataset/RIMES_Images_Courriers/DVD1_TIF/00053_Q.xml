@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2465" height="3500">00053_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Modification de contrat / Commande</scenario>
+  <writer>DELMAS Gilles</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="172" top_left_y="341" bottom_right_x="733" bottom_right_y="484">
+       <type>Code d'envoi</type>
+       <text>KHDKZU</text>
+  </box>
+  <box top_left_x="405" top_left_y="505" bottom_right_x="1218" bottom_right_y="613">
+       <type>Nom</type>
+       <text>DELMAS</text>
+  </box>
+  <box top_left_x="1413" top_left_y="508" bottom_right_x="2190" bottom_right_y="613">
+       <type>Prénom</type>
+       <text>Gilles</text>
+  </box>
+  <box top_left_x="488" top_left_y="608" bottom_right_x="2195" bottom_right_y="706">
+       <type>Adresse</type>
+       <text>11 rue de la colline</text>
+  </box>
+  <box top_left_x="565" top_left_y="710" bottom_right_x="986" bottom_right_y="817">
+       <type>Code Postal</type>
+       <text>54300</text>
+  </box>
+  <box top_left_x="1109" top_left_y="705" bottom_right_x="2196" bottom_right_y="815">
+       <type>Ville</type>
+       <text>JOLIVET</text>
+  </box>
+  <box top_left_x="372" top_left_y="822" bottom_right_x="1249" bottom_right_y="972">
+       <type>Téléphone</type>
+       <text>0361080704</text>
+  </box>
+  <box top_left_x="512" top_left_y="1093" bottom_right_x="2197" bottom_right_y="1211">
+       <type>Catégorie Scénario</type>
+       <text>Modification de commande</text>
+  </box>
+  <box top_left_x="293" top_left_y="1203" bottom_right_x="2197" bottom_right_y="1386">
+       <type>Objet Scénario</type>
+       <text>Augmentation (x2) des quantités de chaussettes\ncommandées</text>
+  </box>
+  <box top_left_x="285" top_left_y="1381" bottom_right_x="2197" bottom_right_y="1571">
+       <type>Complément Scénario</type>
+       <text>Aucun\n</text>
+  </box>
+  <box top_left_x="913" top_left_y="1589" bottom_right_x="1553" bottom_right_y="1740">
+       <type>Référence client</type>
+       <text>HEPCMOZ</text>
+  </box>
+  <box top_left_x="586" top_left_y="1737" bottom_right_x="2201" bottom_right_y="1836">
+       <type>Interlocuteur</type>
+       <text>Les 3 Suifs</text>
+  </box>
+  <box top_left_x="497" top_left_y="1828" bottom_right_x="2199" bottom_right_y="1935">
+       <type>Adresse Interlocuteur</type>
+       <text>61 Boulevard Maréchal Foch</text>
+  </box>
+  <box top_left_x="575" top_left_y="1928" bottom_right_x="1006" bottom_right_y="2048">
+       <type>Code Postal Interlocuteur</type>
+       <text>38100</text>
+  </box>
+  <box top_left_x="1141" top_left_y="1929" bottom_right_x="2200" bottom_right_y="2031">
+       <type>Ville Interlocuteur</type>
+       <text>GRENOBLE</text>
+  </box>
+  <box top_left_x="1058" top_left_y="2268" bottom_right_x="1274" bottom_right_y="2379">
+       <type>Temps passé</type>
+       <text>10</text>
+  </box>
+  <box top_left_x="903" top_left_y="2201" bottom_right_x="954" bottom_right_y="2257">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1080" top_left_y="2202" bottom_right_x="1129" bottom_right_y="2254">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1295" top_left_y="2202" bottom_right_x="1347" bottom_right_y="2254">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="302" top_left_y="2670" bottom_right_x="354" bottom_right_y="2721">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1603" top_left_y="2627" bottom_right_x="2206" bottom_right_y="2740">
+       <type>Date d'envoi postal</type>
+       <text>20/06/2006</text>
+  </box>
+  <box top_left_x="304" top_left_y="2768" bottom_right_x="354" bottom_right_y="2816">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="302" top_left_y="2862" bottom_right_x="354" bottom_right_y="2908">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1746" top_left_y="2801" bottom_right_x="2199" bottom_right_y="2919">
+       <type>Date d'envoi par fax</type>
+       <text>20/06/2006</text>
+  </box>
+  <box top_left_x="302" top_left_y="2954" bottom_right_x="354" bottom_right_y="3004">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1601" top_left_y="2921" bottom_right_x="2201" bottom_right_y="3025">
+       <type>Date d'envoi par courriel</type>
+       <text>20/06/2006</text>
+  </box>
+  <box top_left_x="1743" top_left_y="3119" bottom_right_x="2010" bottom_right_y="3214">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="576" top_left_y="3145" bottom_right_x="627" bottom_right_y="3195">
+       <type>Format PNG</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="782" top_left_y="3145" bottom_right_x="834" bottom_right_y="3195">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="965" top_left_y="3145" bottom_right_x="1015" bottom_right_y="3196">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1077" top_left_y="3019" bottom_right_x="2202" bottom_right_y="3120">
+       <type>Marque et modèle scanner</type>
+       <text>HP Scanjet 5550c</text>
+  </box>
+</annotation>
