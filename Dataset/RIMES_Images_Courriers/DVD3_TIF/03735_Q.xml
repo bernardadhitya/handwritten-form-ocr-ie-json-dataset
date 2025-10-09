@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2478" height="3589">03735_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Gestion de sinistre</scenario>
+  <writer>MELIN Simone</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="162" top_left_y="360" bottom_right_x="722" bottom_right_y="501">
+       <type>Code d'envoi</type>
+       <text>BLYNRG</text>
+  </box>
+  <box top_left_x="394" top_left_y="523" bottom_right_x="1206" bottom_right_y="628">
+       <type>Nom</type>
+       <text>MELIN</text>
+  </box>
+  <box top_left_x="1400" top_left_y="524" bottom_right_x="2177" bottom_right_y="626">
+       <type>Prénom</type>
+       <text>SIMONE</text>
+  </box>
+  <box top_left_x="477" top_left_y="625" bottom_right_x="2183" bottom_right_y="718">
+       <type>Adresse</type>
+       <text>12 bis Rue CATINAT</text>
+  </box>
+  <box top_left_x="555" top_left_y="725" bottom_right_x="975" bottom_right_y="831">
+       <type>Code Postal</type>
+       <text>70160</text>
+  </box>
+  <box top_left_x="1098" top_left_y="719" bottom_right_x="2185" bottom_right_y="825">
+       <type>Ville</type>
+       <text>FAVERNEY</text>
+  </box>
+  <box top_left_x="361" top_left_y="837" bottom_right_x="1237" bottom_right_y="985">
+       <type>Téléphone</type>
+       <text>0309402051</text>
+  </box>
+  <box top_left_x="501" top_left_y="1107" bottom_right_x="2183" bottom_right_y="1222">
+       <type>Catégorie Scénario</type>
+       <text>Gestion de sinistre</text>
+  </box>
+  <box top_left_x="283" top_left_y="1217" bottom_right_x="2182" bottom_right_y="1397">
+       <type>Objet Scénario</type>
+       <text>vous êtes sans nouvelles concernant l'expertise\nde votre véhicule accidenté le mois dernier</text>
+  </box>
+  <box top_left_x="276" top_left_y="1395" bottom_right_x="2181" bottom_right_y="1583">
+       <type>Complément Scénario</type>
+       <text>aucun\n</text>
+  </box>
+  <box top_left_x="902" top_left_y="1603" bottom_right_x="1541" bottom_right_y="1753">
+       <type>Référence client</type>
+       <text>ULOMS82</text>
+  </box>
+  <box top_left_x="576" top_left_y="1751" bottom_right_x="2189" bottom_right_y="1847">
+       <type>Interlocuteur</type>
+       <text>BAAF Assurances</text>
+  </box>
+  <box top_left_x="487" top_left_y="1842" bottom_right_x="2188" bottom_right_y="1947">
+       <type>Adresse Interlocuteur</type>
+       <text>Place Frédéric Mistral</text>
+  </box>
+  <box top_left_x="565" top_left_y="1941" bottom_right_x="995" bottom_right_y="2060">
+       <type>Code Postal Interlocuteur</type>
+       <text>83440</text>
+  </box>
+  <box top_left_x="1130" top_left_y="1941" bottom_right_x="2188" bottom_right_y="2044">
+       <type>Ville Interlocuteur</type>
+       <text>Mons</text>
+  </box>
+  <box top_left_x="1046" top_left_y="2279" bottom_right_x="1261" bottom_right_y="2390">
+       <type>Temps passé</type>
+       <text>15</text>
+  </box>
+  <box top_left_x="865" top_left_y="2218" bottom_right_x="968" bottom_right_y="2268">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1066" top_left_y="2214" bottom_right_x="1115" bottom_right_y="2266">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1283" top_left_y="2215" bottom_right_x="1335" bottom_right_y="2267">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="292" top_left_y="2687" bottom_right_x="369" bottom_right_y="2751">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1590" top_left_y="2636" bottom_right_x="2192" bottom_right_y="2747">
+       <type>Date d'envoi postal</type>
+       <text>16/03/2007</text>
+  </box>
+  <box top_left_x="292" top_left_y="2780" bottom_right_x="342" bottom_right_y="2827">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="290" top_left_y="2874" bottom_right_x="342" bottom_right_y="2920">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1732" top_left_y="2809" bottom_right_x="2184" bottom_right_y="2927">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="291" top_left_y="2966" bottom_right_x="342" bottom_right_y="3016">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1587" top_left_y="2929" bottom_right_x="2186" bottom_right_y="3032">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1729" top_left_y="3127" bottom_right_x="1995" bottom_right_y="3222">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="565" top_left_y="3156" bottom_right_x="615" bottom_right_y="3206">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="770" top_left_y="3155" bottom_right_x="822" bottom_right_y="3206">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="953" top_left_y="3155" bottom_right_x="1003" bottom_right_y="3205">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1064" top_left_y="3028" bottom_right_x="2187" bottom_right_y="3129">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>

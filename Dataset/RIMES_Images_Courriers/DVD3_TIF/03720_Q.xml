@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2472" height="3506">03720_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Gestion de sinistre</scenario>
+  <writer>GREAU Mireille</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="113" top_left_y="201" bottom_right_x="712" bottom_right_y="353">
+       <type>Code d'envoi</type>
+       <text>RPGYRI</text>
+  </box>
+  <box top_left_x="361" top_left_y="374" bottom_right_x="1230" bottom_right_y="489">
+       <type>Nom</type>
+       <text>GREAU</text>
+  </box>
+  <box top_left_x="1438" top_left_y="371" bottom_right_x="2269" bottom_right_y="483">
+       <type>Prénom</type>
+       <text>Mireille</text>
+  </box>
+  <box top_left_x="450" top_left_y="481" bottom_right_x="2275" bottom_right_y="585">
+       <type>Adresse</type>
+       <text>831 route de l'aire St-Michel</text>
+  </box>
+  <box top_left_x="533" top_left_y="592" bottom_right_x="983" bottom_right_y="706">
+       <type>Code Postal</type>
+       <text>06950</text>
+  </box>
+  <box top_left_x="1114" top_left_y="583" bottom_right_x="2276" bottom_right_y="700">
+       <type>Ville</type>
+       <text>FALICON</text>
+  </box>
+  <box top_left_x="328" top_left_y="713" bottom_right_x="1264" bottom_right_y="871">
+       <type>Téléphone</type>
+       <text>0415292054</text>
+  </box>
+  <box top_left_x="477" top_left_y="997" bottom_right_x="2277" bottom_right_y="1124">
+       <type>Catégorie Scénario</type>
+       <text>Gestion de sinistre</text>
+  </box>
+  <box top_left_x="245" top_left_y="1114" bottom_right_x="2277" bottom_right_y="1312">
+       <type>Objet Scénario</type>
+       <text>Vous faites appel à votre assurance habitation\n</text>
+  </box>
+  <box top_left_x="238" top_left_y="1307" bottom_right_x="2275" bottom_right_y="1510">
+       <type>Complément Scénario</type>
+       <text>votre toit a été endommagé par la chute d'un\narbre</text>
+  </box>
+  <box top_left_x="906" top_left_y="1531" bottom_right_x="1590" bottom_right_y="1691">
+       <type>Référence client</type>
+       <text>DJFES50</text>
+  </box>
+  <box top_left_x="559" top_left_y="1689" bottom_right_x="2283" bottom_right_y="1792">
+       <type>Interlocuteur</type>
+       <text>NNA Assurance</text>
+  </box>
+  <box top_left_x="464" top_left_y="1786" bottom_right_x="2283" bottom_right_y="1898">
+       <type>Adresse Interlocuteur</type>
+       <text>place de Verdue</text>
+  </box>
+  <box top_left_x="548" top_left_y="1892" bottom_right_x="1008" bottom_right_y="2019">
+       <type>Code Postal Interlocuteur</type>
+       <text>14130</text>
+  </box>
+  <box top_left_x="1152" top_left_y="1893" bottom_right_x="2283" bottom_right_y="2000">
+       <type>Ville Interlocuteur</type>
+       <text>Le Breuil En Auge</text>
+  </box>
+  <box top_left_x="1063" top_left_y="2253" bottom_right_x="1293" bottom_right_y="2371">
+       <type>Temps passé</type>
+       <text>25</text>
+  </box>
+  <box top_left_x="870" top_left_y="2185" bottom_right_x="980" bottom_right_y="2246">
+       <type>Stylo bille</type>
+       <text></text>
+  </box>
+  <box top_left_x="1081" top_left_y="2184" bottom_right_x="1164" bottom_right_y="2249">
+       <type>Stylo plume</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1288" top_left_y="2186" bottom_right_x="1399" bottom_right_y="2246">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="250" top_left_y="2685" bottom_right_x="338" bottom_right_y="2741">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1644" top_left_y="2636" bottom_right_x="2288" bottom_right_y="2756">
+       <type>Date d'envoi postal</type>
+       <text>15/03/07</text>
+  </box>
+  <box top_left_x="250" top_left_y="2785" bottom_right_x="337" bottom_right_y="2843">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="255" top_left_y="2889" bottom_right_x="310" bottom_right_y="2938">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1796" top_left_y="2822" bottom_right_x="2280" bottom_right_y="2949">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="250" top_left_y="2989" bottom_right_x="339" bottom_right_y="3054">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1641" top_left_y="2951" bottom_right_x="2282" bottom_right_y="3062">
+       <type>Date d'envoi par courriel</type>
+       <text>14/03/07</text>
+  </box>
+  <box top_left_x="1792" top_left_y="3163" bottom_right_x="2077" bottom_right_y="3264">
+       <type>Résolution</type>
+       <text>300x300</text>
+  </box>
+  <box top_left_x="546" top_left_y="3191" bottom_right_x="600" bottom_right_y="3245">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="768" top_left_y="3191" bottom_right_x="823" bottom_right_y="3245">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="964" top_left_y="3195" bottom_right_x="1042" bottom_right_y="3245">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1082" top_left_y="3056" bottom_right_x="2283" bottom_right_y="3164">
+       <type>Marque et modèle scanner</type>
+       <text>hp psc 1210 tout-en-un</text>
+  </box>
+</annotation>
