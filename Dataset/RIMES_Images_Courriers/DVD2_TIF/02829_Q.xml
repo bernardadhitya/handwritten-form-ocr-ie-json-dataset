@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2469" height="3503">02829_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Réclamation</scenario>
+  <writer>ROUSSY Mathieu</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="184" top_left_y="365" bottom_right_x="743" bottom_right_y="507">
+       <type>Code d'envoi</type>
+       <text>AITDTO</text>
+  </box>
+  <box top_left_x="416" top_left_y="529" bottom_right_x="1226" bottom_right_y="636">
+       <type>Nom</type>
+       <text>ROUSSY</text>
+  </box>
+  <box top_left_x="1419" top_left_y="530" bottom_right_x="2193" bottom_right_y="635">
+       <type>Prénom</type>
+       <text>Mathieu</text>
+  </box>
+  <box top_left_x="499" top_left_y="631" bottom_right_x="2199" bottom_right_y="729">
+       <type>Adresse</type>
+       <text>3 Place des ¤{Aubepines/Aubépines}¤</text>
+  </box>
+  <box top_left_x="576" top_left_y="732" bottom_right_x="995" bottom_right_y="839">
+       <type>Code Postal</type>
+       <text>77420</text>
+  </box>
+  <box top_left_x="1117" top_left_y="728" bottom_right_x="2202" bottom_right_y="838">
+       <type>Ville</type>
+       <text>CHAMPS sur MARNE</text>
+  </box>
+  <box top_left_x="383" top_left_y="844" bottom_right_x="1257" bottom_right_y="992">
+       <type>Téléphone</type>
+       <text>0184991118</text>
+  </box>
+  <box top_left_x="522" top_left_y="1114" bottom_right_x="2199" bottom_right_y="1230">
+       <type>Catégorie Scénario</type>
+       <text>Réclamation</text>
+  </box>
+  <box top_left_x="306" top_left_y="1225" bottom_right_x="2200" bottom_right_y="1409">
+       <type>Objet Scénario</type>
+       <text>Vous souhaitez vous faire rembourser\n</text>
+  </box>
+  <box top_left_x="299" top_left_y="1404" bottom_right_x="2202" bottom_right_y="1595">
+       <type>Complément Scénario</type>
+       <text>Le produit livré est défectueux\n</text>
+  </box>
+  <box top_left_x="925" top_left_y="1612" bottom_right_x="1563" bottom_right_y="1763">
+       <type>Référence client</type>
+       <text>PIFWU67</text>
+  </box>
+  <box top_left_x="600" top_left_y="1760" bottom_right_x="2209" bottom_right_y="1857">
+       <type>Interlocuteur</type>
+       <text>Brouille Télécom</text>
+  </box>
+  <box top_left_x="512" top_left_y="1850" bottom_right_x="2208" bottom_right_y="1955">
+       <type>Adresse Interlocuteur</type>
+       <text>4 rue des Glières</text>
+  </box>
+  <box top_left_x="590" top_left_y="1949" bottom_right_x="1019" bottom_right_y="2068">
+       <type>Code Postal Interlocuteur</type>
+       <text>74000</text>
+  </box>
+  <box top_left_x="1154" top_left_y="1950" bottom_right_x="2208" bottom_right_y="2049">
+       <type>Ville Interlocuteur</type>
+       <text>ANNECY</text>
+  </box>
+  <box top_left_x="1071" top_left_y="2287" bottom_right_x="1287" bottom_right_y="2398">
+       <type>Temps passé</type>
+       <text>15</text>
+  </box>
+  <box top_left_x="919" top_left_y="2227" bottom_right_x="968" bottom_right_y="2272">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1091" top_left_y="2222" bottom_right_x="1141" bottom_right_y="2274">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1307" top_left_y="2222" bottom_right_x="1360" bottom_right_y="2274">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="322" top_left_y="2695" bottom_right_x="399" bottom_right_y="2745">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1615" top_left_y="2644" bottom_right_x="2215" bottom_right_y="2756">
+       <type>Date d'envoi postal</type>
+       <text>14/02/07</text>
+  </box>
+  <box top_left_x="322" top_left_y="2790" bottom_right_x="372" bottom_right_y="2838">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="321" top_left_y="2885" bottom_right_x="373" bottom_right_y="2931">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1758" top_left_y="2816" bottom_right_x="2209" bottom_right_y="2935">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="321" top_left_y="2977" bottom_right_x="373" bottom_right_y="3027">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1614" top_left_y="2937" bottom_right_x="2212" bottom_right_y="3041">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1756" top_left_y="3134" bottom_right_x="2023" bottom_right_y="3229">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="595" top_left_y="3166" bottom_right_x="646" bottom_right_y="3216">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="800" top_left_y="3165" bottom_right_x="853" bottom_right_y="3216">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="983" top_left_y="3164" bottom_right_x="1033" bottom_right_y="3215">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1093" top_left_y="3035" bottom_right_x="2214" bottom_right_y="3138">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
