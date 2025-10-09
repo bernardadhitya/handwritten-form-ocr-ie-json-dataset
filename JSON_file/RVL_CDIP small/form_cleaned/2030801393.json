@@ -1,0 +1,71 @@
+{
+    "jobOrderRequestForm": {
+        "jobTitle": "AS LINE I BLENDING PRODUCT TRANSFER CAPACITY INCREASE",
+        "jobNumber": "7853-R1",
+        "approvalNumber": "9",
+        "jobDescription": {
+            "originalRequest": "Install additional hammermill in the location presently occupied by the #2 Dust Pickup to increase product transfer capacity.",
+            "supplementalRequest": "Install a new hammermill which exactly duplicates the above in the #1 Hammermill position which is presently occupied by a modified thrasher."
+        },
+        "generalInformation": {},
+        "estimates": {},
+        "accountingInformation": {
+            "location": "Park 500",
+            "totalCost": 71275.0,
+            "startDate": "February 1991",
+            "dateIssued": null,
+            "costCenter": "U70",
+            "capital": 0,
+            "environmentalControlNumber": "0-500",
+            "expense": null,
+            "requestor": "P. L. Dudley",
+            "costOfDisposal": null,
+            "coordinator": "B.C. Reynolds"
+        },
+        "questions": {
+            "retirementOfEquipmentInvolved": "NO",
+            "laborInvolved": "NO",
+            "disposalRequestAttached": "S3A",
+            "partsOrMaterialsInvolved": "NO",
+            "modificationOfEquipmentInvolved": "YES",
+            "modificationCost": 33100.0,
+            "equipmentRelocationInvolved": "NO",
+            "salesTaxOrFreightIncluded": "NO",
+            "assetTransferFormAttached": "YES"
+        },
+        "analysisOfEstimatedTotalCost": {
+            "equipmentToBePurchasedOrWorkToBePerformed": [
+                {
+                    "description": "Fab and deliver an assembled Hammermill body, base, guard and discharge chute",
+                    "quantity": 1,
+                    "cost": 7800.0
+                },
+                {
+                    "description": "PM Labor (Mech. & Elec.)",
+                    "cost": 4050.0
+                },
+                {
+                    "description": "PM Materials",
+                    "cost": 13800.0
+                }
+            ],
+            "supplementalRequestCost": 25650.0,
+            "originalRequestCost": 45625.0
+        },
+        "approvals": {
+            "totalRequest": 71275.0,
+            "requestor": "P. Dudley"
+        },
+        "noticeOfCompletion": {
+            "requestor": null,
+            "other": "166158",
+            "completionDate": "MAR 1991",
+            "coordinator": null,
+            "otherCoordinator": "Pm marn",
+            "requestorSignature": null,
+            "manager": null,
+            "otherManager": "2030801303",
+            "otherManager2": "20-257"
+        }
+    }
+}

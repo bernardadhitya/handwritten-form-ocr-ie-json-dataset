@@ -1,0 +1,58 @@
+{
+    "location": "Los Angeles",
+    "data": {
+        "Ventura": true,
+        "San Bernardino": true,
+        "Riverside": true
+    },
+    "homeAddress": {
+        "name": "MATENMARK",
+        "address": "3YO PENMAR, LAfABeA CA, 90631"
+    },
+    "survey": {
+        "observations": "2X52o7",
+        "routeNumber": 37,
+        "cateringHouse": true,
+        "mainTownArea": "Los Angeles",
+        "staffTime": null,
+        "endTime": null,
+        "averageStopsPerDay": null,
+        "averageNumberOfCustomersPerDay": "500-1000 or more",
+        "typeOfStops": [
+            "INDUSTRIAL/FACTORY",
+            "OFFICE",
+            "LIGHT INDUSTRY"
+        ],
+        "customers": {
+            "officeWorkers": true,
+            "blueCollar": true,
+            "student": true,
+            "ethnicOrigin": {
+                "white": true,
+                "hispanic": true,
+                "black": true,
+                "oriental": true,
+                "hispanicOnlyAge": "18-34"
+            }
+        },
+        "advertisers": {
+            "specificRoutes": true,
+            "beer": true,
+            "largeStopsWithMaleWorkers": true,
+            "specificIncomeBrackets": true,
+            "specificKindsOfCustomers": [
+                "Lockheed",
+                "USC",
+                "UCLA"
+            ]
+        },
+        "industrialStops": true,
+        "collegeHighSchool": true,
+        "lightIndustry": true,
+        "highTechnology": true,
+        "majorOffice": 50719,
+        "truckInUseOnWeekends": "YES",
+        "averageCustomerSpendPerDay": 4365,
+        "majorityOfCustomers": "MALE"
+    }
+}

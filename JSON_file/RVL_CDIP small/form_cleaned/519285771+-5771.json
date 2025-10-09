@@ -1,0 +1,40 @@
+{
+    "company": "Savannah Foods Industrial, Inc.",
+    "address": {
+        "po_box": "P.O. Box 339",
+        "city": "Savannah",
+        "state": "GA",
+        "zip": "31402"
+    },
+    "facility": "Savannah Refinery",
+    "document": {
+        "title": "Finished Product Specification",
+        "product": "Light Brown Sugar",
+        "description": "This product is a soft sugar containing natural cane minerals and flavors.",
+        "analysis": {
+            "physical": {
+                "polarization_sucrose": {
+                    "minimum": "91.5%"
+                },
+                "invert": {
+                    "maximum": "1.0%"
+                },
+                "moisture": {
+                    "maximum": "3.0%"
+                }
+            }
+        },
+        "storage": "Soft brown sugar should be stored in cool areas with 60% to 80% relative humidity.",
+        "packaging": "50 lbs. and 100 lbs. polycoated or polylined kraft multi-wall paper bags"
+    },
+    "contact": {
+        "phone": "912-651-5703",
+        "fax": "51928 5771"
+    },
+    "effective_date": "April 8, 1996",
+    "reference_number": "170-QC-3101",
+    "prepared_by": "Nick Rimedio",
+    "supersedes_date": "March 1, 1992",
+    "page_number": 1,
+    "approved_by": "Kim McGaughey"
+}

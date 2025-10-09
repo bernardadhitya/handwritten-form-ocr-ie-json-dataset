@@ -1,0 +1,53 @@
+{
+    "date": "AUG-04-97",
+    "time": "11:53",
+    "from": {
+        "name": "Henry Dinger",
+        "company": "GOODWIN, PROCTER & HOAR LLP",
+        "address": "EXCHANGE PLACE, BOSTON, MA 02109",
+        "tel": "(617)570-1000",
+        "fax_numbers": [
+            "617523-1231",
+            "617227-8591",
+            "617387-7179"
+        ]
+    },
+    "to": {
+        "name": "Dominic Asante",
+        "company": "Philip Morris",
+        "location": "New York, NY",
+        "fax": "(617570-8150)"
+    },
+    "domestic": {
+        "fax": "212807-5805",
+        "tel": "212878-2250"
+    },
+    "international": {
+        "fax": {
+            "country_code": "011",
+            "city_code": "1",
+            "number": ""
+        },
+        "tel": {
+            "country_code": "011",
+            "city_code": "1",
+            "number": ""
+        }
+    },
+    "special_transmittal_instructions": {
+        "operator": "",
+        "time": "",
+        "am_pm": "",
+        "date": "",
+        "total_number_of_pages": ""
+    },
+    "additional_fax_numbers": [
+        "617570-1498",
+        "617570-1816",
+        "617570-1742",
+        "617570-1749"
+    ],
+    "job": "220",
+    "t_number": "421",
+    "p_number": "01/C4"
+}

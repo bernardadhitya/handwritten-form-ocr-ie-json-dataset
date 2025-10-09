@@ -1,0 +1,98 @@
+{
+    "request": "REQUEST FOR SPECIAL MAILING/MESSENGER",
+    "instructions": "Complete all information requested below, retain the pink copy for your records. Attach form and labels (2 labels required for overnight packages) to item being sent. For pick-up of large items call shipping and receiving on extension 2395; if you prefer, small items may be hand delivered to the Service Desk at 120 Park, Level C or placed in your out box for pick-up by the mail clerks. For messenger service please bring the items to the Lobby Messenger Room. When filling out this form, please indicate in the column marked 'CODE SELECTION' your numeric choice for each field on the form. For example, if you work for USA Sales, under code selection column you would indicate your division number as 2 and department number as 201. If your package requires next day delivery by 10:30 A.M., you would indicate the service requested as 22. If you have any questions, please contact the supervisor of Shipping and Receiving on extension 2398.",
+    "fields": {
+        "name": "",
+        "date": "",
+        "extension": "",
+        "division": "",
+        "code_selection": {
+            "division": {
+                "1": "PM Management Corp.",
+                "2": "USA"
+            },
+            "department": {
+                "101": "Controller",
+                "102": "HQ ICS",
+                "103": "General Counsel",
+                "104": "Public Affairs",
+                "105": "Planning",
+                "106": "Personnel",
+                "107": "Executive",
+                "108": "Tax",
+                "109": "Audit",
+                "110": "Treasurer",
+                "111": "Pension",
+                "112": "HQ Services",
+                "113": "Travel",
+                "114": "PMCC",
+                "201": "Sales",
+                "202": "Marketing",
+                "203": "Operations",
+                "204": "Corp. Affairs",
+                "205": "Finance",
+                "206": "Personnel",
+                "207": "Executive"
+            }
+        },
+        "type_of_service": {
+            "note": "ON FRIDAY, UNLESS SPECIFIED, OVERNIGHT DELIVERIES WILL BE MADE ON MONDAY",
+            "service": {
+                "courier": {
+                    "29": "Regular 3 hours $5.25",
+                    "30": "Rush 2 hours $9.00",
+                    "31": "Trucking Base $15.50"
+                },
+                "messenger": {
+                    "22": "Overnight by 10:30 $6.50",
+                    "23": "Overnight by 12:00 noon $5.00",
+                    "24": "Saturday delivery by 5:00 pm $10.00",
+                    "25": "Second Day $3.50"
+                },
+                "ups_rps": {
+                    "26": "Regular Residential $2.35",
+                    "Business": "$2.95"
+                },
+                "us_postal_service": {
+                    "32": "Priority Mail $3.00 up to 2 lbs.",
+                    "33": "Certified Mail $1.42",
+                    "34": "Intl. Registered Mail $5.45",
+                    "35": "Express Mail $10.75",
+                    "36": "Certified Return Receipt $2.52",
+                    "37": "Intl. Registered Return Receipt $6.55",
+                    "38": "Express Return Receipt $11.85",
+                    "39": "Intl. Express Mail Starting at $11.50",
+                    "40": "Int'l. Mail (Small Package under 4 lbs.)"
+                }
+            }
+        },
+        "insured_value": "",
+        "international_shipments": {
+            "27": "International Courier (Non Pouch $11.00)"
+        },
+        "weight": "",
+        "ship_to": {
+            "name": "",
+            "c_o": "",
+            "address": "",
+            "city": "",
+            "state": "",
+            "zip_code": "",
+            "telephone": ""
+        },
+        "pick_up_from": {
+            "name": "",
+            "c_o": "",
+            "address": "",
+            "city": "",
+            "state": "",
+            "zip_code": "",
+            "telephone": ""
+        }
+    },
+    "distribution": {
+        "white": "Shipping",
+        "yellow": "Shipping",
+        "pink": "Requestor"
+    }
+}

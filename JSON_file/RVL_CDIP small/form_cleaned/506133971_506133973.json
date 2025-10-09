@@ -1,0 +1,105 @@
+{
+    "company": "R.J.ReynoldsTobaccoUsA,Inc.",
+    "authorizationRequest": {
+        "subject": "Tragon Corp.-Product Tests",
+        "dateRouted": "9/3/87",
+        "arno": "A-87",
+        "originator": "B.C.MoOdy",
+        "deptRefNo": "780",
+        "startDate": "9/87",
+        "operationalDate": "12/87",
+        "approvalRequestSummary": {
+            "description": "Authorization is sought to enter into a contract with Tragon Corporation for product testing of the ALPhA product.",
+            "sumToBePaid": 105400,
+            "cancellationClause": "30-day cancellation clause without minimum commitment"
+        },
+        "authorizationType": {
+            "previous": {
+                "capital": 0,
+                "expense": 0
+            },
+            "thisRequest": {
+                "capital": 0,
+                "expense": 105400
+            },
+            "total": {
+                "capital": 0,
+                "expense": 105400
+            },
+            "contractProductTesting": 105400,
+            "productModificationIntroduction": 105400,
+            "subsequentProposalsRequired": "No",
+            "previousProposals": "Other",
+            "leaseOrOtherContinuingCommitment": {
+                "minimum": 0,
+                "total": 0
+            },
+            "costJustifiedAt": "0% ROI"
+        },
+        "financeData": {
+            "authorityRequestedCoveredBy": {
+                "capital": 0,
+                "expense": 105400
+            },
+            "capitalID": "",
+            "budgetedDepartmentNo": "780",
+            "projectID": "87-780-XXx",
+            "fundsRequiredFrom": {
+                "departmentNo": "",
+                "expenseCode": "04-90-0218-9010-780",
+                "corporate": 0
+            }
+        },
+        "financialImpact": {
+            "1987": 105400,
+            "thereafter": 0,
+            "averageOperatingEarningsLoss": 105400,
+            "corporateFundsRequested": 0
+        },
+        "reviewsApprovals": {
+            "dept": "NPT-R&D",
+            "initials": "ninye",
+            "date": "9/18",
+            "deptInitialsSignatureDate": [
+                {
+                    "dept": "SVP-R&D/GRD",
+                    "initials": "sLJSSJ",
+                    "date": "9/8"
+                },
+                {
+                    "dept": "Law",
+                    "initials": "MRSM4",
+                    "date": "9/3/27"
+                },
+                {
+                    "dept": "CFO",
+                    "initials": "TESV-R&D",
+                    "date": ""
+                },
+                {
+                    "dept": "Operations",
+                    "initials": "RJRR",
+                    "date": "50613"
+                },
+                {
+                    "dept": "Mkt.Plan",
+                    "initials": "Fin.&Admin.",
+                    "date": ""
+                },
+                {
+                    "dept": "VP-MP",
+                    "initials": "GWMC",
+                    "date": "ife"
+                },
+                {
+                    "dept": "Pres.&CEO",
+                    "initials": "3971",
+                    "date": ""
+                }
+            ]
+        },
+        "implementorProjectManager": "M.R._Savoca",
+        "projectClientRepresentative": "M.J.Dryden",
+        "departmentManagement": "R.A. Lloyd"
+    }
+}

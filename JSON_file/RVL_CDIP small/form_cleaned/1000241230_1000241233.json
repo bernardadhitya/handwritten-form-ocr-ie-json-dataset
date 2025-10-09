@@ -1,0 +1,64 @@
+{
+    "historyOfTobaccoUsage": {
+        "nameOfInterviewer": "",
+        "dateOfInterview": "",
+        "nameOfHospital": "",
+        "patientNumber": "",
+        "statusOfPatient": {
+            "private": false,
+            "semiPrivate": false,
+            "ward": false
+        }
+    },
+    "backgroundData": {
+        "name": {
+            "last": "",
+            "first": "",
+            "middleInitial": ""
+        },
+        "address": "",
+        "placeOfBirth": "",
+        "ageAtDiagnosis": "",
+        "sex": {
+            "male": false,
+            "female": false
+        },
+        "religion": {
+            "protestant": false,
+            "jewish": false,
+            "catholic": false,
+            "other": false
+        },
+        "race": {
+            "caucasian": false,
+            "oriental": false,
+            "negroid": false,
+            "other": false
+        },
+        "education": {
+            "postGraduate": false,
+            "highSchool": false,
+            "college": false,
+            "grammarSchool": false,
+            "tradeVocational": false,
+            "noSchool": false
+        },
+        "workHistory": [
+            {
+                "typeOfWork": "",
+                "numberOfYears": ""
+            }
+        ]
+    },
+    "tobaccoUsage": {
+        "everUsedTobacco": false,
+        "typeOfTobacco": {
+            "cigarettes": false,
+            "chewingTobacco": false,
+            "cigars": false,
+            "snuffByMouth": false,
+            "pipes": false,
+            "snuffByNose": false
+        }
+    }
+}

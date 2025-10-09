@@ -1,0 +1,35 @@
+{
+    "company": "Brown & Williamson Tobacco Corporation",
+    "location": "Louisville, Kentucky 40201",
+    "shipment_type": "Special Sample Manufacture",
+    "copies_to": [
+        "Transfer",
+        "Tax Department",
+        "Writer",
+        "Development Center",
+        "Finance - RD&E"
+    ],
+    "cigt_masking_operation": "Fillout Special Instruction",
+    "date_of_request": "P.Bwe",
+    "project_number": "N.Wicsl",
+    "sample_disposition": {
+        "quantity_cartons": 30,
+        "tax_status": "Paid or Free",
+        "to_sample_stock": "R&D",
+        "project_code": 3383,
+        "m_r": "CIGARETTE DESCRIPTION"
+    },
+    "cigarette_description": {
+        "joc_ncloser": "Manufactured at D.C.-Not Masked",
+        "competitive_cigts_received": "At D.C.-Not Masked",
+        "b_w_brands_purchased": "Not Masked",
+        "branch_production_sent": "To D.C.-Not Masked",
+        "products_masked_at_dc": 0
+    },
+    "special_instructions_comments": {
+        "quantity_masked": "Product Manufactured at D.C.",
+        "brands": "B&W Brands, Competitors, & Branch Productions",
+        "code": 620014915
+    },
+    "signed": ""
+}

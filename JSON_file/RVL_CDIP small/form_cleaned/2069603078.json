@@ -1,0 +1,43 @@
+{
+    "report": {
+        "title": "COMDCATIONRESUTREPORT",
+        "date": "June 30, 2019",
+        "time": "7:55 AM",
+        "TTI": "FILE MODE",
+        "option": "ADDRESS GROUP",
+        "result": "OK",
+        "page": "P.1/1",
+        "memory_tx": "912027785534",
+        "reason_for_error": [
+            "HANG UP_OR LINE FAIL",
+            "E-3 RUSYACSIMILE CONNECTION"
+        ]
+    },
+    "sender": {
+        "name": "Corinne Goldstein",
+        "fax_no": "202-778-5534"
+    },
+    "recipient": {
+        "name": "Mesny Yhurp"
+    },
+    "availability": {
+        "Tuesday": [
+            "June 30, 11:00 a.m.",
+            "June 30, 4:00 p.m."
+        ],
+        "Wednesday": [
+            "July 1, 8:30 a.m."
+        ],
+        "Thursday": [
+            "July 2, 10:00 a.m.",
+            "July 2, 3:00 p.m."
+        ],
+        "Friday": [
+            "July 3, 10:00 a.m.",
+            "July 3, 2:00 p.m."
+        ]
+    },
+    "contact": {
+        "phone": "2069603078"
+    }
+}

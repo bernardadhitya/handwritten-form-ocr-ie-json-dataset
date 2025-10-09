@@ -1,0 +1,80 @@
+{
+    "contractResearchCenter": "CRC CONTRACT RESEARCH CENTER",
+    "formNumber": "11",
+    "projectNumber": "3276",
+    "groupCode": "08 6",
+    "dayOfStudy": "A",
+    "date": "A 98",
+    "group": {
+        "males": {
+            "totalNumberOfAnimals": "19+1",
+            "decreasedSpontaneousActivity": "O",
+            "trembling": "3",
+            "partiallyOrFullyClosedEyelids": null,
+            "harderianGlandSecretion": "3",
+            "partiallyOrFullyWetOrMoistFur": "16+",
+            "abnormalBreathing": "C"
+        },
+        "females": {
+            "totalNumberOfAnimals": "19+1",
+            "decreasedSpontaneousActivity": "O",
+            "trembling": "3",
+            "partiallyOrFullyClosedEyelids": null,
+            "harderianGlandSecretion": "3",
+            "partiallyOrFullyWetOrMoistFur": "14+",
+            "abnormalBreathing": "C"
+        }
+    },
+    "individual": {
+        "animalNumber": "100310808110812",
+        "sex": "2",
+        "time": "14.53",
+        "codes": {
+            "spontaneousActivity": "C9",
+            "irritability": "10",
+            "turningReflex": "20",
+            "grippingAbility": "35",
+            "closedEyelids": "40",
+            "trembling": "45",
+            "highLeggedGait": "50",
+            "abnormalBreathing": "55",
+            "harderianGlandSecretion": "60",
+            "hairChanges": {
+                "rough": "70",
+                "moistWet": "6c",
+                "discoloration": "X",
+                "hairLoss": "Q"
+            },
+            "skinChanges": "100",
+            "incisors": "105",
+            "injuries": "C"
+        }
+    },
+    "remarks": "2505154202",
+    "oracle": "Oracle",
+    "dates": {
+        "date1": "2APR1998",
+        "date2": "22APR19"
+    },
+    "initials": {
+        "initials1": "K",
+        "initials2": "SD"
+    },
+    "grades": {
+        "normal": "0",
+        "slightDecrease": "-1",
+        "markedDecrease": "-2",
+        "slightIncrease": "+1",
+        "markedIncrease": "+2",
+        "finding": "x"
+    },
+    "errorCodes": {
+        "A": "writing",
+        "B": "calculation",
+        "C": "mixing up",
+        "D": "reading",
+        "E": "copy",
+        "F": "other with explanation"
+    },
+    "errorCodeNumber": "0992"
+}

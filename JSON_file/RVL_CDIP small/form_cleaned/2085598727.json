@@ -1,0 +1,64 @@
+{
+    "serial_number": "99-11",
+    "form_of_payment": "CHECK",
+    "amount_of_payment": 16308373.43,
+    "return_covers": {
+        "prepayment_period": {
+            "beginning": "Jun 1, 1999",
+            "ending": "Jun 15, 1999"
+        }
+    },
+    "employer_identification_number": "13-1607658",
+    "plant_registry_or_permit_no": "TPKY24",
+    "taxpayer": {
+        "name": "PHILIP MORRIS INCORPORATED",
+        "address": {
+            "po_box": "P.O. Box 1498",
+            "street": "1930 Maple St.",
+            "city": "Louisville",
+            "state": "KY",
+            "zip": "40201"
+        }
+    },
+    "calculation_of_tax_due": {
+        "cigarette_papers_and_or_cigarette_tubes": 1358941080,
+        "total_tax_liability": 16307292.96,
+        "adjustments_increasing_amount_due": 1080.47,
+        "gross_amount_due": 16308373.43,
+        "adjustments_decreasing_amount_due": 0.0,
+        "amount_to_be_paid_with_this_return": 16308373.43
+    },
+    "declaration": {
+        "date": "6/24/99",
+        "signature": "Phillip Morris Incorporated",
+        "attorney_in_fact": "C.K. Leason"
+    },
+    "adjustments_increasing_amount_due": [
+        {
+            "explanation": "Shipment reported as bonded but taxable 12,000 units 99-10",
+            "amount_of_adjustments": 144.0,
+            "tax": 0.47,
+            "interest": 0.0,
+            "penalty": 0.0
+        },
+        {
+            "explanation": "Phys. Shortage 6/3/99 78,000 units",
+            "amount_of_adjustments": 936.0,
+            "tax": 0.0,
+            "interest": 0.0,
+            "penalty": 0.0
+        }
+    ],
+    "total_adjustments_increasing_amount_due": {
+        "amount_of_adjustments": 1080.0,
+        "tax": 0.47,
+        "interest": 0.0,
+        "penalty": 0.0
+    },
+    "adjustments_decreasing_amount_due": [],
+    "total_adjustments_decreasing_amount_due": {
+        "amount_of_adjustments": 0.0,
+        "tax": 0.0,
+        "interest": 0.0
+    }
+}
