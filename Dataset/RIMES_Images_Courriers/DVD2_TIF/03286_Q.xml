@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2470" height="3506">03286_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Réclamation</scenario>
+  <writer>LEGENDRE Pauline</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="188" top_left_y="467" bottom_right_x="746" bottom_right_y="611">
+       <type>Code d'envoi</type>
+       <text>OLAPUO</text>
+  </box>
+  <box top_left_x="419" top_left_y="632" bottom_right_x="1229" bottom_right_y="740">
+       <type>Nom</type>
+       <text>LEGENDRE</text>
+  </box>
+  <box top_left_x="1422" top_left_y="634" bottom_right_x="2196" bottom_right_y="739">
+       <type>Prénom</type>
+       <text>Pauline</text>
+  </box>
+  <box top_left_x="503" top_left_y="736" bottom_right_x="2202" bottom_right_y="834">
+       <type>Adresse</type>
+       <text>11 Rue de la Colline</text>
+  </box>
+  <box top_left_x="580" top_left_y="837" bottom_right_x="998" bottom_right_y="945">
+       <type>Code Postal</type>
+       <text>54300</text>
+  </box>
+  <box top_left_x="1121" top_left_y="833" bottom_right_x="2204" bottom_right_y="944">
+       <type>Ville</type>
+       <text>JOLIVET</text>
+  </box>
+  <box top_left_x="386" top_left_y="949" bottom_right_x="1260" bottom_right_y="1098">
+       <type>Téléphone</type>
+       <text>0371231163</text>
+  </box>
+  <box top_left_x="525" top_left_y="1218" bottom_right_x="2201" bottom_right_y="1334">
+       <type>Catégorie Scénario</type>
+       <text>Réclamation</text>
+  </box>
+  <box top_left_x="309" top_left_y="1328" bottom_right_x="2201" bottom_right_y="1511">
+       <type>Objet Scénario</type>
+       <text>Vous souhaitez vous faire rembourser\n</text>
+  </box>
+  <box top_left_x="301" top_left_y="1507" bottom_right_x="2201" bottom_right_y="1697">
+       <type>Complément Scénario</type>
+       <text>Vous êtes insatisfaite du service\n</text>
+  </box>
+  <box top_left_x="926" top_left_y="1716" bottom_right_x="1562" bottom_right_y="1865">
+       <type>Référence client</type>
+       <text>PSXDA30</text>
+  </box>
+  <box top_left_x="601" top_left_y="1864" bottom_right_x="2206" bottom_right_y="1958">
+       <type>Interlocuteur</type>
+       <text>BROUILLE TELECOM</text>
+  </box>
+  <box top_left_x="512" top_left_y="1954" bottom_right_x="2204" bottom_right_y="2057">
+       <type>Adresse Interlocuteur</type>
+       <text>RUE DE LA FILATURE</text>
+  </box>
+  <box top_left_x="589" top_left_y="2053" bottom_right_x="1018" bottom_right_y="2172">
+       <type>Code Postal Interlocuteur</type>
+       <text>32190</text>
+  </box>
+  <box top_left_x="1152" top_left_y="2052" bottom_right_x="2204" bottom_right_y="2154">
+       <type>Ville Interlocuteur</type>
+       <text>VIC FEZENSAC</text>
+  </box>
+  <box top_left_x="1069" top_left_y="2391" bottom_right_x="1283" bottom_right_y="2502">
+       <type>Temps passé</type>
+       <text>15</text>
+  </box>
+  <box top_left_x="915" top_left_y="2330" bottom_right_x="992" bottom_right_y="2380">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1089" top_left_y="2326" bottom_right_x="1138" bottom_right_y="2378">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1305" top_left_y="2327" bottom_right_x="1357" bottom_right_y="2379">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="303" top_left_y="2797" bottom_right_x="365" bottom_right_y="2848">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1609" top_left_y="2751" bottom_right_x="2208" bottom_right_y="2864">
+       <type>Date d'envoi postal</type>
+       <text>06.03.2007</text>
+  </box>
+  <box top_left_x="317" top_left_y="2879" bottom_right_x="366" bottom_right_y="2942">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="304" top_left_y="2984" bottom_right_x="361" bottom_right_y="3039">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1750" top_left_y="2925" bottom_right_x="2201" bottom_right_y="3043">
+       <type>Date d'envoi par fax</type>
+       <text>05.03.2007</text>
+  </box>
+  <box top_left_x="314" top_left_y="3079" bottom_right_x="366" bottom_right_y="3129">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1606" top_left_y="3046" bottom_right_x="2203" bottom_right_y="3148">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1747" top_left_y="3242" bottom_right_x="2013" bottom_right_y="3337">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="587" top_left_y="3269" bottom_right_x="638" bottom_right_y="3319">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="792" top_left_y="3269" bottom_right_x="844" bottom_right_y="3319">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="974" top_left_y="3269" bottom_right_x="1023" bottom_right_y="3319">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1085" top_left_y="3143" bottom_right_x="2204" bottom_right_y="3244">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
