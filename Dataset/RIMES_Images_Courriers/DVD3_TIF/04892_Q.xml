@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2471" height="3508">04892_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Modification de contrat / Commande</scenario>
+  <writer>REEB Jacques</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="197" top_left_y="361" bottom_right_x="757" bottom_right_y="501">
+       <type>Code d'envoi</type>
+       <text>BZFTOI</text>
+  </box>
+  <box top_left_x="430" top_left_y="523" bottom_right_x="1241" bottom_right_y="628">
+       <type>Nom</type>
+       <text>REEB</text>
+  </box>
+  <box top_left_x="1435" top_left_y="523" bottom_right_x="2211" bottom_right_y="626">
+       <type>Prénom</type>
+       <text>Jacques</text>
+  </box>
+  <box top_left_x="513" top_left_y="624" bottom_right_x="2216" bottom_right_y="721">
+       <type>Adresse</type>
+       <text>28, rue Raymond Queneau</text>
+  </box>
+  <box top_left_x="590" top_left_y="725" bottom_right_x="1010" bottom_right_y="833">
+       <type>Code Postal</type>
+       <text>51370</text>
+  </box>
+  <box top_left_x="1132" top_left_y="720" bottom_right_x="2218" bottom_right_y="832">
+       <type>Ville</type>
+       <text>St Brice Courcelles</text>
+  </box>
+  <box top_left_x="398" top_left_y="837" bottom_right_x="1272" bottom_right_y="985">
+       <type>Téléphone</type>
+       <text>0324229108</text>
+  </box>
+  <box top_left_x="538" top_left_y="1105" bottom_right_x="2218" bottom_right_y="1222">
+       <type>Catégorie Scénario</type>
+       <text>Modification de contrat / Commande</text>
+  </box>
+  <box top_left_x="322" top_left_y="1217" bottom_right_x="2219" bottom_right_y="1399">
+       <type>Objet Scénario</type>
+       <text>Demande de ¤{mensualition/mensualisation}¤ de l'impôt ou le revenu\n</text>
+  </box>
+  <box top_left_x="314" top_left_y="1396" bottom_right_x="2219" bottom_right_y="1585">
+       <type>Complément Scénario</type>
+       <text>aucun\n</text>
+  </box>
+  <box top_left_x="940" top_left_y="1603" bottom_right_x="1579" bottom_right_y="1752">
+       <type>Référence client</type>
+       <text>XYHCV73</text>
+  </box>
+  <box top_left_x="615" top_left_y="1750" bottom_right_x="2227" bottom_right_y="1847">
+       <type>Interlocuteur</type>
+       <text>Trésorerie des Impôts</text>
+  </box>
+  <box top_left_x="527" top_left_y="1841" bottom_right_x="2227" bottom_right_y="1945">
+       <type>Adresse Interlocuteur</type>
+       <text>Place de la Mairie</text>
+  </box>
+  <box top_left_x="605" top_left_y="1939" bottom_right_x="1035" bottom_right_y="2059">
+       <type>Code Postal Interlocuteur</type>
+       <text>32810</text>
+  </box>
+  <box top_left_x="1170" top_left_y="1940" bottom_right_x="2227" bottom_right_y="2040">
+       <type>Ville Interlocuteur</type>
+       <text>Montant les Creneaux</text>
+  </box>
+  <box top_left_x="1087" top_left_y="2279" bottom_right_x="1302" bottom_right_y="2390">
+       <type>Temps passé</type>
+       <text>10</text>
+  </box>
+  <box top_left_x="934" top_left_y="2214" bottom_right_x="985" bottom_right_y="2269">
+       <type>Stylo bille</type>
+       <text></text>
+  </box>
+  <box top_left_x="1108" top_left_y="2214" bottom_right_x="1156" bottom_right_y="2266">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1297" top_left_y="2216" bottom_right_x="1401" bottom_right_y="2266">
+       <type>Stylo feutre</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="336" top_left_y="2686" bottom_right_x="382" bottom_right_y="2736">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1630" top_left_y="2637" bottom_right_x="2231" bottom_right_y="2750">
+       <type>Date d'envoi postal</type>
+       <text>12/04/2007</text>
+  </box>
+  <box top_left_x="336" top_left_y="2781" bottom_right_x="386" bottom_right_y="2828">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="335" top_left_y="2876" bottom_right_x="386" bottom_right_y="2922">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1773" top_left_y="2811" bottom_right_x="2224" bottom_right_y="2929">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="335" top_left_y="2967" bottom_right_x="387" bottom_right_y="3017">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1629" top_left_y="2932" bottom_right_x="2227" bottom_right_y="3034">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1771" top_left_y="3128" bottom_right_x="2038" bottom_right_y="3223">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="609" top_left_y="3157" bottom_right_x="660" bottom_right_y="3207">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="814" top_left_y="3156" bottom_right_x="866" bottom_right_y="3207">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="996" top_left_y="3156" bottom_right_x="1046" bottom_right_y="3207">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1107" top_left_y="3030" bottom_right_x="2229" bottom_right_y="3130">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>

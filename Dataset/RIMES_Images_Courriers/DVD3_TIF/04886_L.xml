@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve ">
+  <source width="2477" height="3504">04886_L.png</source>
+  <document>Lettre manuscrite</document>
+  <scenario>Modification de contrat / Commande</scenario>
+  <writer>WALCZAK Sophie</writer>
+  <sender_person>Melle WALCZAK Sophie</sender_person>
+  <sender_company></sender_company>
+  <sender_tel>+33(0)3.40.48.12.74</sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company>Banque societe geniale</receiver_company>
+  <date>13/04/2007</date>
+  <place>PETTONCOURT</place>
+  <box top_left_x="15" top_left_y="53" bottom_right_x="1058" bottom_right_y="845">
+  <type>Coordonnées Expéditeur</type>
+  <text>Melle WALCZAK Sophie\n32 grand rue\n57 170 PETTONCOURT\n¤{tel/tél}¤ : 03 40 48 12 74\n¤{ref/réf}¤ client TTWTE 12</text>
+  </box>
+  <box top_left_x="1320" top_left_y="807" bottom_right_x="2436" bottom_right_y="1191">
+  <type>Coordonnées Destinataire</type>
+  <text>Banque ¤{societe/société}¤ geniale\n13 rue du ¤{general/général}¤ de Gaulle\n76 680 St Saems</text>
+  </box>
+  <box top_left_x="1191" top_left_y="1202" bottom_right_x="2428" bottom_right_y="1378">
+  <type>Date, Lieu</type>
+  <text>le 13/04/07 à PETTONCOURT</text>
+  </box>
+  <box top_left_x="727" top_left_y="1423" bottom_right_x="1199" bottom_right_y="1575">
+  <type>Ouverture</type>
+  <text>Monsieur,</text>
+  </box>
+  <box top_left_x="26" top_left_y="1606" bottom_right_x="2348" bottom_right_y="2344">
+  <type>Corps de texte</type>
+  <text>Je souhaite commander des actions boursières\npour un montant de 1500 euros. Je vous charge\nde choisir le placement.\nVeuillez, agréer, monsieur, mes ¤{sinceres/sincères}¤ salutations.</text>
+  </box>
+  <box top_left_x="1016" top_left_y="2500" bottom_right_x="2291" bottom_right_y="3258">
+  <type>Signature</type>
+  <text></text>
+  </box>
+</annotation>
