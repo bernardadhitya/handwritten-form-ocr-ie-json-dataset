@@ -1,0 +1,71 @@
+{
+    "flammable": true,
+    "density": [
+        1.36,
+        1.2,
+        1.26,
+        1.12,
+        0.94,
+        1.38,
+        1.2,
+        1.1,
+        1.38,
+        1.23,
+        0.91,
+        1.21
+    ],
+    "properties_of_alternative_fluorocarbons": {
+        "pressure": {
+            "0_70F_PSIG": [
+                71.0,
+                29.1,
+                8.4,
+                121.4,
+                31.0,
+                207.3,
+                34.1,
+                164.1,
+                11.5,
+                165,
+                63.0
+            ],
+            "10_PSIA": [
+                11.4
+            ]
+        },
+        "boiling_point_F": [
+            48.1,
+            15.6,
+            82.3,
+            12.2,
+            -55.3,
+            43.0,
+            -15.7,
+            9.68,
+            14.4,
+            -53.7,
+            -11.0
+        ],
+        "formula": [
+            "CHCi2CF3",
+            "CHCLFCF3",
+            "CHF2CF3",
+            "CH2CLCF3",
+            "CH2FCF3",
+            "CH3CCL2F",
+            "CH3CCLF2",
+            "CH3CF3",
+            "CH3CHF2",
+            "CHCL2F",
+            "CHCLF2",
+            "CH?CLF"
+        ],
+        "fluorocarbon_number": [
+            52326,
+            7491,
+            15,
+            22122,
+            11.2
+        ]
+    }
+}
