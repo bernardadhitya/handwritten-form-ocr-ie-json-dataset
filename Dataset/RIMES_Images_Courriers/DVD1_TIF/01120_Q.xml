@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="18/12/2007" author="Jouve">
+  <source width="2473" height="3503">01120_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Changement de données personnelles</scenario>
+  <writer>JARDIN Mireille</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="173" top_left_y="365" bottom_right_x="729" bottom_right_y="507">
+       <type>Code d'envoi</type>
+       <text>URXCLG</text>
+  </box>
+  <box top_left_x="403" top_left_y="527" bottom_right_x="1209" bottom_right_y="634">
+       <type>Nom</type>
+       <text>JARDIN</text>
+  </box>
+  <box top_left_x="1402" top_left_y="526" bottom_right_x="2172" bottom_right_y="630">
+       <type>Prénom</type>
+       <text>Mireille</text>
+  </box>
+  <box top_left_x="486" top_left_y="629" bottom_right_x="2178" bottom_right_y="723">
+       <type>Adresse</type>
+       <text>1 rue Napoléon</text>
+  </box>
+  <box top_left_x="563" top_left_y="731" bottom_right_x="980" bottom_right_y="836">
+       <type>Code Postal</type>
+       <text>20200</text>
+  </box>
+  <box top_left_x="1102" top_left_y="724" bottom_right_x="2179" bottom_right_y="832">
+       <type>Ville</type>
+       <text>BASTIA</text>
+  </box>
+  <box top_left_x="372" top_left_y="843" bottom_right_x="1240" bottom_right_y="989">
+       <type>Téléphone</type>
+       <text>0425071545</text>
+  </box>
+  <box top_left_x="511" top_left_y="1109" bottom_right_x="2181" bottom_right_y="1226">
+       <type>Catégorie Scénario</type>
+       <text>Changement de données personnelles</text>
+  </box>
+  <box top_left_x="296" top_left_y="1221" bottom_right_x="2181" bottom_right_y="1403">
+       <type>Objet Scénario</type>
+       <text>Nouvelles coordonnées bancaires\n(Vous déclarez joindre un RIB)</text>
+  </box>
+  <box top_left_x="288" top_left_y="1400" bottom_right_x="2182" bottom_right_y="1587">
+       <type>Complément Scénario</type>
+       <text>Vous changez de banque\nHGWRL30</text>
+  </box>
+  <box top_left_x="910" top_left_y="1607" bottom_right_x="1546" bottom_right_y="1757">
+       <type>Référence client</type>
+       <text>HGWRL30</text>
+  </box>
+  <box top_left_x="587" top_left_y="1755" bottom_right_x="2191" bottom_right_y="1852">
+       <type>Interlocuteur</type>
+       <text>BOF Telecom</text>
+  </box>
+  <box top_left_x="500" top_left_y="1846" bottom_right_x="2192" bottom_right_y="1951">
+       <type>Adresse Interlocuteur</type>
+       <text>2 rue de la Lande</text>
+  </box>
+  <box top_left_x="578" top_left_y="1944" bottom_right_x="1006" bottom_right_y="2063">
+       <type>Code Postal Interlocuteur</type>
+       <text>72170</text>
+  </box>
+  <box top_left_x="1140" top_left_y="1945" bottom_right_x="2192" bottom_right_y="2045">
+       <type>Ville Interlocuteur</type>
+       <text>VIVOIN</text>
+  </box>
+  <box top_left_x="1056" top_left_y="2280" bottom_right_x="1270" bottom_right_y="2391">
+       <type>Temps passé</type>
+       <text>10</text>
+  </box>
+  <box top_left_x="902" top_left_y="2216" bottom_right_x="952" bottom_right_y="2270">
+       <type>Stylo bille</type>
+       <text></text>
+  </box>
+  <box top_left_x="1077" top_left_y="2216" bottom_right_x="1125" bottom_right_y="2267">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1265" top_left_y="2219" bottom_right_x="1369" bottom_right_y="2281">
+       <type>Stylo feutre</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="296" top_left_y="2685" bottom_right_x="369" bottom_right_y="2761">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1597" top_left_y="2637" bottom_right_x="2195" bottom_right_y="2749">
+       <type>Date d'envoi postal</type>
+       <text>28/11/2006</text>
+  </box>
+  <box top_left_x="309" top_left_y="2783" bottom_right_x="359" bottom_right_y="2831">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="308" top_left_y="2876" bottom_right_x="359" bottom_right_y="2922">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1739" top_left_y="2810" bottom_right_x="2188" bottom_right_y="2928">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="307" top_left_y="2971" bottom_right_x="358" bottom_right_y="3029">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1596" top_left_y="2930" bottom_right_x="2190" bottom_right_y="3034">
+       <type>Date d'envoi par courriel</type>
+       <text>28/11/2006</text>
+  </box>
+  <box top_left_x="1736" top_left_y="3128" bottom_right_x="2001" bottom_right_y="3223">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="580" top_left_y="3158" bottom_right_x="631" bottom_right_y="3208">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="785" top_left_y="3157" bottom_right_x="836" bottom_right_y="3208">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="970" top_left_y="3157" bottom_right_x="1040" bottom_right_y="3223">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1076" top_left_y="3029" bottom_right_x="2191" bottom_right_y="3130">
+       <type>Marque et modèle scanner</type>
+       <text>Epson Stylus DX 3850</text>
+  </box>
+</annotation>
