@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2470" height="3508">03499_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Relance de courrier sans réponse</scenario>
+  <writer>GILLON Fernand</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="185" top_left_y="380" bottom_right_x="710" bottom_right_y="514">
+       <type>Code d'envoi</type>
+       <text>RFHMOB</text>
+  </box>
+  <box top_left_x="403" top_left_y="534" bottom_right_x="1164" bottom_right_y="635">
+       <type>Nom</type>
+       <text>GILLON</text>
+  </box>
+  <box top_left_x="1346" top_left_y="536" bottom_right_x="2073" bottom_right_y="634">
+       <type>Prénom</type>
+       <text>Fernand</text>
+  </box>
+  <box top_left_x="480" top_left_y="632" bottom_right_x="2078" bottom_right_y="721">
+       <type>Adresse</type>
+       <text>11 rue des vergers</text>
+  </box>
+  <box top_left_x="552" top_left_y="727" bottom_right_x="946" bottom_right_y="826">
+       <type>Code Postal</type>
+       <text>67580</text>
+  </box>
+  <box top_left_x="1061" top_left_y="722" bottom_right_x="2080" bottom_right_y="823">
+       <type>Ville</type>
+       <text>FORSTHEIM</text>
+  </box>
+  <box top_left_x="370" top_left_y="832" bottom_right_x="1192" bottom_right_y="971">
+       <type>Téléphone</type>
+       <text>0339459701</text>
+  </box>
+  <box top_left_x="500" top_left_y="1085" bottom_right_x="2078" bottom_right_y="1195">
+       <type>Catégorie Scénario</type>
+       <text>Relance de ¤{courier/courrier}¤ sans réponse</text>
+  </box>
+  <box top_left_x="296" top_left_y="1189" bottom_right_x="2079" bottom_right_y="1361">
+       <type>Objet Scénario</type>
+       <text>¤{Reclamation/Réclamation}¤ sans suite du mois dernier\n</text>
+  </box>
+  <box top_left_x="289" top_left_y="1357" bottom_right_x="2080" bottom_right_y="1536">
+       <type>Complément Scénario</type>
+       <text>\n</text>
+  </box>
+  <box top_left_x="878" top_left_y="1553" bottom_right_x="1479" bottom_right_y="1695">
+       <type>Référence client</type>
+       <text>EXYAF90</text>
+  </box>
+  <box top_left_x="573" top_left_y="1693" bottom_right_x="2086" bottom_right_y="1785">
+       <type>Interlocuteur</type>
+       <text>Bimestriel "Charité Bushido"</text>
+  </box>
+  <box top_left_x="490" top_left_y="1778" bottom_right_x="2084" bottom_right_y="1878">
+       <type>Adresse Interlocuteur</type>
+       <text>10 rue de la république</text>
+  </box>
+  <box top_left_x="563" top_left_y="1872" bottom_right_x="966" bottom_right_y="1984">
+       <type>Code Postal Interlocuteur</type>
+       <text>42170</text>
+  </box>
+  <box top_left_x="1093" top_left_y="1872" bottom_right_x="2084" bottom_right_y="1968">
+       <type>Ville Interlocuteur</type>
+       <text>ST JUST ST RAMBERT</text>
+  </box>
+  <box top_left_x="1015" top_left_y="2190" bottom_right_x="1216" bottom_right_y="2293">
+       <type>Temps passé</type>
+       <text>10</text>
+  </box>
+  <box top_left_x="856" top_left_y="2118" bottom_right_x="928" bottom_right_y="2205">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1034" top_left_y="2130" bottom_right_x="1080" bottom_right_y="2178">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1211" top_left_y="2131" bottom_right_x="1310" bottom_right_y="2179">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="293" top_left_y="2548" bottom_right_x="380" bottom_right_y="2637">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1525" top_left_y="2527" bottom_right_x="2090" bottom_right_y="2632">
+       <type>Date d'envoi postal</type>
+       <text></text>
+  </box>
+  <box top_left_x="308" top_left_y="2662" bottom_right_x="354" bottom_right_y="2707">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="306" top_left_y="2751" bottom_right_x="353" bottom_right_y="2798">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1659" top_left_y="2690" bottom_right_x="2083" bottom_right_y="2801">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="306" top_left_y="2837" bottom_right_x="381" bottom_right_y="2889">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1523" top_left_y="2804" bottom_right_x="2085" bottom_right_y="2901">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1655" top_left_y="2990" bottom_right_x="1906" bottom_right_y="3079">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="563" top_left_y="3016" bottom_right_x="611" bottom_right_y="3063">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="756" top_left_y="3016" bottom_right_x="805" bottom_right_y="3064">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="927" top_left_y="3016" bottom_right_x="970" bottom_right_y="3061">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1032" top_left_y="2897" bottom_right_x="2086" bottom_right_y="2991">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
