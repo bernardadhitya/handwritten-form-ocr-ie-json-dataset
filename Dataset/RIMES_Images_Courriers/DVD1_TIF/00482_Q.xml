@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="18/12/2007" author="Jouve">
+  <source width="2473" height="3505">00482_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Gestion de sinistre</scenario>
+  <writer>CHEVALLIER Frederic</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="167" top_left_y="289" bottom_right_x="723" bottom_right_y="430">
+       <type>Code d'envoi</type>
+       <text>HDCJBE</text>
+  </box>
+  <box top_left_x="397" top_left_y="452" bottom_right_x="1204" bottom_right_y="557">
+       <type>Nom</type>
+       <text>CHEVALLIER</text>
+  </box>
+  <box top_left_x="1396" top_left_y="452" bottom_right_x="2169" bottom_right_y="555">
+       <type>Prénom</type>
+       <text>Frederic</text>
+  </box>
+  <box top_left_x="480" top_left_y="554" bottom_right_x="2176" bottom_right_y="647">
+       <type>Adresse</type>
+       <text>93 rue Principale</text>
+  </box>
+  <box top_left_x="557" top_left_y="654" bottom_right_x="976" bottom_right_y="760">
+       <type>Code Postal</type>
+       <text>67260</text>
+  </box>
+  <box top_left_x="1097" top_left_y="648" bottom_right_x="2180" bottom_right_y="757">
+       <type>Ville</type>
+       <text>BURBACH</text>
+  </box>
+  <box top_left_x="366" top_left_y="766" bottom_right_x="1237" bottom_right_y="913">
+       <type>Téléphone</type>
+       <text>0335329600</text>
+  </box>
+  <box top_left_x="505" top_left_y="1034" bottom_right_x="2176" bottom_right_y="1149">
+       <type>Catégorie Scénario</type>
+       <text>Gestion de Sinistre</text>
+  </box>
+  <box top_left_x="290" top_left_y="1145" bottom_right_x="2177" bottom_right_y="1327">
+       <type>Objet Scénario</type>
+       <text>Vous faites appel à votre assurance\nhabitation</text>
+  </box>
+  <box top_left_x="283" top_left_y="1322" bottom_right_x="2178" bottom_right_y="1513">
+       <type>Complément Scénario</type>
+       <text>Votre toit a été endommagé par la\nchute d'un arbre</text>
+  </box>
+  <box top_left_x="906" top_left_y="1529" bottom_right_x="1542" bottom_right_y="1680">
+       <type>Référence client</type>
+       <text>XUSGU28</text>
+  </box>
+  <box top_left_x="582" top_left_y="1676" bottom_right_x="2186" bottom_right_y="1774">
+       <type>Interlocuteur</type>
+       <text>MANIF Assurances</text>
+  </box>
+  <box top_left_x="494" top_left_y="1766" bottom_right_x="2186" bottom_right_y="1872">
+       <type>Adresse Interlocuteur</type>
+       <text>Le BOURG</text>
+  </box>
+  <box top_left_x="572" top_left_y="1865" bottom_right_x="1000" bottom_right_y="1984">
+       <type>Code Postal Interlocuteur</type>
+       <text>22320</text>
+  </box>
+  <box top_left_x="1134" top_left_y="1866" bottom_right_x="2186" bottom_right_y="1967">
+       <type>Ville Interlocuteur</type>
+       <text>LA HARMOYE</text>
+  </box>
+  <box top_left_x="1051" top_left_y="2202" bottom_right_x="1265" bottom_right_y="2312">
+       <type>Temps passé</type>
+       <text>10</text>
+  </box>
+  <box top_left_x="895" top_left_y="2141" bottom_right_x="974" bottom_right_y="2212">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1072" top_left_y="2138" bottom_right_x="1121" bottom_right_y="2189">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1286" top_left_y="2138" bottom_right_x="1338" bottom_right_y="2190">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="290" top_left_y="2605" bottom_right_x="380" bottom_right_y="2680">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1590" top_left_y="2560" bottom_right_x="2188" bottom_right_y="2671">
+       <type>Date d'envoi postal</type>
+       <text>06/10/2006</text>
+  </box>
+  <box top_left_x="298" top_left_y="2677" bottom_right_x="311" bottom_right_y="2752">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="302" top_left_y="2796" bottom_right_x="354" bottom_right_y="2842">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1733" top_left_y="2733" bottom_right_x="2181" bottom_right_y="2850">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="303" top_left_y="2887" bottom_right_x="354" bottom_right_y="2937">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1589" top_left_y="2853" bottom_right_x="2184" bottom_right_y="2955">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1730" top_left_y="3050" bottom_right_x="1995" bottom_right_y="3144">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="575" top_left_y="3078" bottom_right_x="625" bottom_right_y="3127">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="779" top_left_y="3077" bottom_right_x="831" bottom_right_y="3127">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="961" top_left_y="3077" bottom_right_x="1010" bottom_right_y="3127">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1071" top_left_y="2951" bottom_right_x="2185" bottom_right_y="3051">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>

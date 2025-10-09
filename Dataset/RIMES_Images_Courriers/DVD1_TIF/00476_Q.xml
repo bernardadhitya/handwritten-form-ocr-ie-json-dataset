@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="18/12/2007" author="Jouve">
+  <source width="2466" height="3506">00476_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Gestion de sinistre</scenario>
+  <writer>BLOCH Genevieve</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="150" top_left_y="371" bottom_right_x="707" bottom_right_y="512">
+       <type>Code d'envoi</type>
+       <text></text>
+  </box>
+  <box top_left_x="381" top_left_y="534" bottom_right_x="1189" bottom_right_y="640">
+       <type>Nom</type>
+       <text>BL0CH</text>
+  </box>
+  <box top_left_x="1382" top_left_y="534" bottom_right_x="2154" bottom_right_y="638">
+       <type>Prénom</type>
+       <text>Geneviève</text>
+  </box>
+  <box top_left_x="464" top_left_y="636" bottom_right_x="2161" bottom_right_y="731">
+       <type>Adresse</type>
+       <text>58 rue de la République</text>
+  </box>
+  <box top_left_x="541" top_left_y="737" bottom_right_x="959" bottom_right_y="843">
+       <type>Code Postal</type>
+       <text>22210</text>
+  </box>
+  <box top_left_x="1081" top_left_y="732" bottom_right_x="2165" bottom_right_y="841">
+       <type>Ville</type>
+       <text>SOLLIES PONT</text>
+  </box>
+  <box top_left_x="348" top_left_y="849" bottom_right_x="1221" bottom_right_y="996">
+       <type>Téléphone</type>
+       <text>0471140693</text>
+  </box>
+  <box top_left_x="489" top_left_y="1116" bottom_right_x="2161" bottom_right_y="1232">
+       <type>Catégorie Scénario</type>
+       <text>Gestion de sinistre</text>
+  </box>
+  <box top_left_x="274" top_left_y="1226" bottom_right_x="2162" bottom_right_y="1408">
+       <type>Objet Scénario</type>
+       <text>Vous êtes sans nouvelles concernant l'expertise\nde votre véhicule accidenté le mois dernier</text>
+  </box>
+  <box top_left_x="267" top_left_y="1405" bottom_right_x="2163" bottom_right_y="1593">
+       <type>Complément Scénario</type>
+       <text>aucun\n</text>
+  </box>
+  <box top_left_x="890" top_left_y="1612" bottom_right_x="1526" bottom_right_y="1762">
+       <type>Référence client</type>
+       <text>HKEIR39</text>
+  </box>
+  <box top_left_x="566" top_left_y="1761" bottom_right_x="2172" bottom_right_y="1856">
+       <type>Interlocuteur</type>
+       <text>NAIF Assurances</text>
+  </box>
+  <box top_left_x="478" top_left_y="1851" bottom_right_x="2173" bottom_right_y="1955">
+       <type>Adresse Interlocuteur</type>
+       <text>rue JACQUES MAAST</text>
+  </box>
+  <box top_left_x="556" top_left_y="1951" bottom_right_x="984" bottom_right_y="2070">
+       <type>Code Postal Interlocuteur</type>
+       <text>81200</text>
+  </box>
+  <box top_left_x="1119" top_left_y="1949" bottom_right_x="2173" bottom_right_y="2051">
+       <type>Ville Interlocuteur</type>
+       <text>AUSSILLON</text>
+  </box>
+  <box top_left_x="1036" top_left_y="2287" bottom_right_x="1250" bottom_right_y="2398">
+       <type>Temps passé</type>
+       <text>10</text>
+  </box>
+  <box top_left_x="882" top_left_y="2222" bottom_right_x="934" bottom_right_y="2277">
+       <type>Stylo bille</type>
+       <text></text>
+  </box>
+  <box top_left_x="1057" top_left_y="2222" bottom_right_x="1106" bottom_right_y="2274">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1244" top_left_y="2225" bottom_right_x="1348" bottom_right_y="2283">
+       <type>Stylo feutre</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="290" top_left_y="2693" bottom_right_x="364" bottom_right_y="2743">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1577" top_left_y="2644" bottom_right_x="2176" bottom_right_y="2756">
+       <type>Date d'envoi postal</type>
+       <text>4/10/06</text>
+  </box>
+  <box top_left_x="281" top_left_y="2787" bottom_right_x="363" bottom_right_y="2839">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="289" top_left_y="2892" bottom_right_x="364" bottom_right_y="2932">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1719" top_left_y="2817" bottom_right_x="2169" bottom_right_y="2934">
+       <type>Date d'envoi par fax</type>
+       <text>4/10/06</text>
+  </box>
+  <box top_left_x="294" top_left_y="2976" bottom_right_x="364" bottom_right_y="3028">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1575" top_left_y="2936" bottom_right_x="2171" bottom_right_y="3039">
+       <type>Date d'envoi par courriel</type>
+       <text>4/10/06</text>
+  </box>
+  <box top_left_x="1716" top_left_y="3133" bottom_right_x="1981" bottom_right_y="3227">
+       <type>Résolution</type>
+       <text>200</text>
+  </box>
+  <box top_left_x="557" top_left_y="3162" bottom_right_x="608" bottom_right_y="3212">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="762" top_left_y="3161" bottom_right_x="814" bottom_right_y="3212">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="953" top_left_y="3169" bottom_right_x="988" bottom_right_y="3213">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1055" top_left_y="3034" bottom_right_x="2172" bottom_right_y="3135">
+       <type>Marque et modèle scanner</type>
+       <text>AFICIO 3224C</text>
+  </box>
+</annotation>
