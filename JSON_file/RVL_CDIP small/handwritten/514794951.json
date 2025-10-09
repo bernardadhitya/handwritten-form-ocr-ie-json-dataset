@@ -1,0 +1,51 @@
+{
+    "date": "March 6, 1989",
+    "subject": "Consumer Complaint Information (Premier 4 Premier Menthol)",
+    "information": {
+        "month": "February 1989",
+        "product": "Premier Menthol",
+        "categories": [
+            {
+                "name": "Miscellaneous",
+                "count": 5
+            },
+            {
+                "name": "Toose",
+                "count": 1
+            },
+            {
+                "name": "JOPO",
+                "count": 1
+            },
+            {
+                "name": "Miscellaneous-Premier",
+                "issues": [
+                    {
+                        "description": "Dissatisfied with product",
+                        "details": [
+                            "Made the smokers sick",
+                            "Won't stay lit",
+                            "The smoke passed out after"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Miscellaneous-Premier Menthol",
+                "issues": [
+                    {
+                        "description": "Dissatisfied with product",
+                        "details": [
+                            "Made the smokers sick",
+                            "Won't stay lit"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "codes": [
+            51479,
+            4951
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "RITZ_BLACK_SMOKER_ANALYSIS": {
+        "I": {
+            "Brand_Awareness_Trial_and_Purchase": {
+                "week_e_vs_weeks_10-12": {
+                    "A": {
+                        "Among_Total_Black_Smokers": {
+                            "1": "Total_U.S",
+                            "2": "Primary_Emphasis",
+                            "3": "AB_Counties",
+                            "4": "Parity_Test_Market",
+                            "Note": "WILL_ALSO_HAVE_COMPARISONS_VS_WHITE_SMOKERS"
+                        }
+                    },
+                    "B": {
+                        "Among_Black_Demographic_Groups": {
+                            "1": "Age",
+                            "b": "35+",
+                            "2": "Sex"
+                        }
+                    }
+                }
+            }
+        },
+        "II": {
+            "Sources_of_Initial_Awareness_Among_Total_Black_Smokers_and_Black_RITZ_Triers": {
+                "A": {
+                    "Among_Total_Black_Smokers": {
+                        "weeks_10-12": {
+                            "1": "Total_U.S.",
+                            "2": "Primary_Emphasis",
+                            "3": "A/B_Counties"
+                        }
+                    }
+                },
+                "B": {
+                    "Among_Total_Black_RITZ_Triers": {
+                        "week_10": {
+                            "1": "Total_U.S.",
+                            "2": "Primary_Emphasis",
+                            "3": "AB_Counties"
+                        }
+                    }
+                }
+            }
+        },
+        "III": {
+            "Sources_of_Initial_Trial_Among_Black_RITZ_Triers": {
+                "week_10": {
+                    "A": {
+                        "Among_Black_RITZ_Triers": {
+                            "ID": "505328976",
+                            "1": "Total_U.S.",
+                            "2": "Primary_Emphasis",
+                            "3": "A/B_Counties"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
