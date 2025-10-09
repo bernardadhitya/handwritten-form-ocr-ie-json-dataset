@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2475" height="3509">03313_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Difficulté de paiement</scenario>
+  <writer>CROMBEZ Gaelle</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="101" top_left_y="263" bottom_right_x="700" bottom_right_y="414">
+       <type>Code d'envoi</type>
+       <text>HMNECX</text>
+  </box>
+  <box top_left_x="350" top_left_y="438" bottom_right_x="1217" bottom_right_y="551">
+       <type>Nom</type>
+       <text>CROMBEZ</text>
+  </box>
+  <box top_left_x="1425" top_left_y="438" bottom_right_x="2255" bottom_right_y="548">
+       <type>Prénom</type>
+       <text>Gaëlle</text>
+  </box>
+  <box top_left_x="438" top_left_y="547" bottom_right_x="2262" bottom_right_y="648">
+       <type>Adresse</type>
+       <text>20 rue Victor Vasarely</text>
+  </box>
+  <box top_left_x="520" top_left_y="655" bottom_right_x="969" bottom_right_y="768">
+       <type>Code Postal</type>
+       <text>45250</text>
+  </box>
+  <box top_left_x="1101" top_left_y="649" bottom_right_x="2263" bottom_right_y="765">
+       <type>Ville</type>
+       <text>BRIARE</text>
+  </box>
+  <box top_left_x="314" top_left_y="775" bottom_right_x="1250" bottom_right_y="933">
+       <type>Téléphone</type>
+       <text>0221360589</text>
+  </box>
+  <box top_left_x="463" top_left_y="1063" bottom_right_x="2262" bottom_right_y="1185">
+       <type>Catégorie Scénario</type>
+       <text>Difficulté de paiement</text>
+  </box>
+  <box top_left_x="230" top_left_y="1180" bottom_right_x="2262" bottom_right_y="1373">
+       <type>Objet Scénario</type>
+       <text>Demande de remise gracieuse\n</text>
+  </box>
+  <box top_left_x="222" top_left_y="1371" bottom_right_x="2263" bottom_right_y="1572">
+       <type>Complément Scénario</type>
+       <text>Vous venez de perdre votre emploi\n</text>
+  </box>
+  <box top_left_x="893" top_left_y="1593" bottom_right_x="1577" bottom_right_y="1754">
+       <type>Référence client</type>
+       <text>BJJAV61</text>
+  </box>
+  <box top_left_x="544" top_left_y="1751" bottom_right_x="2267" bottom_right_y="1855">
+       <type>Interlocuteur</type>
+       <text>EDF</text>
+  </box>
+  <box top_left_x="449" top_left_y="1849" bottom_right_x="2264" bottom_right_y="1961">
+       <type>Adresse Interlocuteur</type>
+       <text>Rue du Moulin de l'Arche</text>
+  </box>
+  <box top_left_x="532" top_left_y="1955" bottom_right_x="993" bottom_right_y="2082">
+       <type>Code Postal Interlocuteur</type>
+       <text>89170</text>
+  </box>
+  <box top_left_x="1136" top_left_y="1955" bottom_right_x="2266" bottom_right_y="2063">
+       <type>Ville Interlocuteur</type>
+       <text>SAINT FARGEAU</text>
+  </box>
+  <box top_left_x="1049" top_left_y="2315" bottom_right_x="1279" bottom_right_y="2433">
+       <type>Temps passé</type>
+       <text>20</text>
+  </box>
+  <box top_left_x="857" top_left_y="2249" bottom_right_x="966" bottom_right_y="2307">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1068" top_left_y="2272" bottom_right_x="1151" bottom_right_y="2310">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1301" top_left_y="2245" bottom_right_x="1357" bottom_right_y="2300">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="237" top_left_y="2747" bottom_right_x="325" bottom_right_y="2808">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1630" top_left_y="2698" bottom_right_x="2274" bottom_right_y="2818">
+       <type>Date d'envoi postal</type>
+       <text>7.03.07</text>
+  </box>
+  <box top_left_x="236" top_left_y="2849" bottom_right_x="324" bottom_right_y="2904">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="236" top_left_y="2951" bottom_right_x="325" bottom_right_y="3007">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1782" top_left_y="2884" bottom_right_x="2266" bottom_right_y="3009">
+       <type>Date d'envoi par fax</type>
+       <text>6.03.07</text>
+  </box>
+  <box top_left_x="236" top_left_y="3051" bottom_right_x="325" bottom_right_y="3107">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1627" top_left_y="3012" bottom_right_x="2268" bottom_right_y="3122">
+       <type>Date d'envoi par courriel</type>
+       <text>5.03.07</text>
+  </box>
+  <box top_left_x="1779" top_left_y="3223" bottom_right_x="2064" bottom_right_y="3324">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="534" top_left_y="3253" bottom_right_x="588" bottom_right_y="3307">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="758" top_left_y="3255" bottom_right_x="837" bottom_right_y="3305">
+       <type>Format GIF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="949" top_left_y="3252" bottom_right_x="1003" bottom_right_y="3306">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1068" top_left_y="3117" bottom_right_x="2269" bottom_right_y="3224">
+       <type>Marque et modèle scanner</type>
+       <text>Canon - Canoscan Lide 60</text>
+  </box>
+</annotation>
