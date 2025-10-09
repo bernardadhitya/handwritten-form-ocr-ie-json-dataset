@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2469" height="3506">03200_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Fermeture de compte</scenario>
+  <writer>DEVOS Lucien</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="147" top_left_y="287" bottom_right_x="704" bottom_right_y="430">
+       <type>Code d'envoi</type>
+       <text>UFBULS</text>
+  </box>
+  <box top_left_x="378" top_left_y="451" bottom_right_x="1186" bottom_right_y="559">
+       <type>Nom</type>
+       <text>DEVOS</text>
+  </box>
+  <box top_left_x="1380" top_left_y="455" bottom_right_x="2152" bottom_right_y="559">
+       <type>Prénom</type>
+       <text>Lucien</text>
+  </box>
+  <box top_left_x="461" top_left_y="554" bottom_right_x="2156" bottom_right_y="651">
+       <type>Adresse</type>
+       <text>15, rue de Dieffanbach</text>
+  </box>
+  <box top_left_x="537" top_left_y="654" bottom_right_x="954" bottom_right_y="761">
+       <type>Code Postal</type>
+       <text>67220</text>
+  </box>
+  <box top_left_x="1076" top_left_y="650" bottom_right_x="2157" bottom_right_y="761">
+       <type>Ville</type>
+       <text>NEUVE EGLISE</text>
+  </box>
+  <box top_left_x="344" top_left_y="765" bottom_right_x="1215" bottom_right_y="914">
+       <type>Téléphone</type>
+       <text>0316637842</text>
+  </box>
+  <box top_left_x="482" top_left_y="1034" bottom_right_x="2155" bottom_right_y="1152">
+       <type>Catégorie Scénario</type>
+       <text>Fermeture de Compte</text>
+  </box>
+  <box top_left_x="266" top_left_y="1144" bottom_right_x="2155" bottom_right_y="1327">
+       <type>Objet Scénario</type>
+       <text>Résiliation d'Assurance Habitation\n</text>
+  </box>
+  <box top_left_x="257" top_left_y="1322" bottom_right_x="2155" bottom_right_y="1510">
+       <type>Complément Scénario</type>
+       <text>Vous vendez votre habitation\n</text>
+  </box>
+  <box top_left_x="881" top_left_y="1529" bottom_right_x="1517" bottom_right_y="1677">
+       <type>Référence client</type>
+       <text>ZNGY011</text>
+  </box>
+  <box top_left_x="556" top_left_y="1675" bottom_right_x="2161" bottom_right_y="1770">
+       <type>Interlocuteur</type>
+       <text>NAIF Assurances</text>
+  </box>
+  <box top_left_x="467" top_left_y="1763" bottom_right_x="2160" bottom_right_y="1867">
+       <type>Adresse Interlocuteur</type>
+       <text>Place du ¤{Genéral/Général}¤ De Gaulle</text>
+  </box>
+  <box top_left_x="545" top_left_y="1862" bottom_right_x="973" bottom_right_y="1981">
+       <type>Code Postal Interlocuteur</type>
+       <text>09270</text>
+  </box>
+  <box top_left_x="1108" top_left_y="1858" bottom_right_x="2160" bottom_right_y="1962">
+       <type>Ville Interlocuteur</type>
+       <text>MAZERES</text>
+  </box>
+  <box top_left_x="1024" top_left_y="2201" bottom_right_x="1238" bottom_right_y="2311">
+       <type>Temps passé</type>
+       <text>2</text>
+  </box>
+  <box top_left_x="844" top_left_y="2146" bottom_right_x="947" bottom_right_y="2190">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1045" top_left_y="2136" bottom_right_x="1094" bottom_right_y="2188">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1259" top_left_y="2136" bottom_right_x="1311" bottom_right_y="2188">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="273" top_left_y="2613" bottom_right_x="350" bottom_right_y="2656">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1564" top_left_y="2556" bottom_right_x="2163" bottom_right_y="2668">
+       <type>Date d'envoi postal</type>
+       <text>2 Mars 2007</text>
+  </box>
+  <box top_left_x="273" top_left_y="2701" bottom_right_x="323" bottom_right_y="2749">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="272" top_left_y="2795" bottom_right_x="323" bottom_right_y="2841">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1706" top_left_y="2729" bottom_right_x="2156" bottom_right_y="2847">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="272" top_left_y="2887" bottom_right_x="323" bottom_right_y="2937">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1562" top_left_y="2849" bottom_right_x="2158" bottom_right_y="2952">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1703" top_left_y="3046" bottom_right_x="1968" bottom_right_y="3140">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="544" top_left_y="3076" bottom_right_x="595" bottom_right_y="3126">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="749" top_left_y="3075" bottom_right_x="801" bottom_right_y="3125">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="931" top_left_y="3074" bottom_right_x="981" bottom_right_y="3125">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1042" top_left_y="2947" bottom_right_x="2159" bottom_right_y="3048">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
