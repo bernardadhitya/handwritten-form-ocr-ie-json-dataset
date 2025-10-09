@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2476" height="3503">02412_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Relance de courrier sans réponse</scenario>
+  <writer>FASQUEL Pierre</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="199" top_left_y="358" bottom_right_x="759" bottom_right_y="500">
+       <type>Code d'envoi</type>
+       <text>XDYRFG</text>
+  </box>
+  <box top_left_x="431" top_left_y="522" bottom_right_x="1244" bottom_right_y="628">
+       <type>Nom</type>
+       <text>FASQUEL</text>
+  </box>
+  <box top_left_x="1438" top_left_y="523" bottom_right_x="2215" bottom_right_y="627">
+       <type>Prénom</type>
+       <text>PIERRE</text>
+  </box>
+  <box top_left_x="514" top_left_y="624" bottom_right_x="2220" bottom_right_y="721">
+       <type>Adresse</type>
+       <text>8, rue des Tilleuls</text>
+  </box>
+  <box top_left_x="591" top_left_y="725" bottom_right_x="1012" bottom_right_y="832">
+       <type>Code Postal</type>
+       <text>25120</text>
+  </box>
+  <box top_left_x="1135" top_left_y="720" bottom_right_x="2222" bottom_right_y="831">
+       <type>Ville</type>
+       <text>LES BRESEUX</text>
+  </box>
+  <box top_left_x="398" top_left_y="837" bottom_right_x="1274" bottom_right_y="985">
+       <type>Téléphone</type>
+       <text>0335983873</text>
+  </box>
+  <box top_left_x="537" top_left_y="1106" bottom_right_x="2219" bottom_right_y="1225">
+       <type>Catégorie Scénario</type>
+       <text>Relance de courrier sans réponse</text>
+  </box>
+  <box top_left_x="320" top_left_y="1217" bottom_right_x="2219" bottom_right_y="1404">
+       <type>Objet Scénario</type>
+       <text>Votre demande d'information du mois\ndernier est resté sans effet</text>
+  </box>
+  <box top_left_x="311" top_left_y="1396" bottom_right_x="2219" bottom_right_y="1590">
+       <type>Complément Scénario</type>
+       <text>\n</text>
+  </box>
+  <box top_left_x="938" top_left_y="1605" bottom_right_x="1577" bottom_right_y="1757">
+       <type>Référence client</type>
+       <text>GIDCA26</text>
+  </box>
+  <box top_left_x="612" top_left_y="1753" bottom_right_x="2224" bottom_right_y="1853">
+       <type>Interlocuteur</type>
+       <text>Banque SOCIETE GENIALE</text>
+  </box>
+  <box top_left_x="522" top_left_y="1843" bottom_right_x="2223" bottom_right_y="1951">
+       <type>Adresse Interlocuteur</type>
+       <text>55, place du clos</text>
+  </box>
+  <box top_left_x="601" top_left_y="1941" bottom_right_x="1031" bottom_right_y="2062">
+       <type>Code Postal Interlocuteur</type>
+       <text>84300</text>
+  </box>
+  <box top_left_x="1166" top_left_y="1943" bottom_right_x="2223" bottom_right_y="2046">
+       <type>Ville Interlocuteur</type>
+       <text>CAVAILLON</text>
+  </box>
+  <box top_left_x="1082" top_left_y="2282" bottom_right_x="1297" bottom_right_y="2393">
+       <type>Temps passé</type>
+       <text>15</text>
+  </box>
+  <box top_left_x="929" top_left_y="2226" bottom_right_x="976" bottom_right_y="2270">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1102" top_left_y="2217" bottom_right_x="1151" bottom_right_y="2269">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1318" top_left_y="2217" bottom_right_x="1370" bottom_right_y="2270">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="327" top_left_y="2687" bottom_right_x="374" bottom_right_y="2736">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1624" top_left_y="2642" bottom_right_x="2225" bottom_right_y="2756">
+       <type>Date d'envoi postal</type>
+       <text>31/01</text>
+  </box>
+  <box top_left_x="329" top_left_y="2781" bottom_right_x="377" bottom_right_y="2831">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="329" top_left_y="2881" bottom_right_x="375" bottom_right_y="2924">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1766" top_left_y="2816" bottom_right_x="2217" bottom_right_y="2934">
+       <type>Date d'envoi par fax</type>
+       <text>31/01</text>
+  </box>
+  <box top_left_x="325" top_left_y="2967" bottom_right_x="376" bottom_right_y="3017">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1621" top_left_y="2935" bottom_right_x="2219" bottom_right_y="3039">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1762" top_left_y="3132" bottom_right_x="2028" bottom_right_y="3226">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="598" top_left_y="3157" bottom_right_x="649" bottom_right_y="3207">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="804" top_left_y="3156" bottom_right_x="855" bottom_right_y="3207">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="987" top_left_y="3158" bottom_right_x="1036" bottom_right_y="3208">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1098" top_left_y="3032" bottom_right_x="2220" bottom_right_y="3134">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
