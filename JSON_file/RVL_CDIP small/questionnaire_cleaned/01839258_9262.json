@@ -1,0 +1,79 @@
+{
+    "survey": {
+        "title": "NATIONAL CONSENSUS SURVEYS",
+        "address": {
+            "street": "801 Second Avenue",
+            "postal_code": "423184",
+            "zip_code": "10017"
+        },
+        "reference": "R.837808",
+        "instructions": "Please take a few minutes to go through the advertisements in this book.",
+        "questions": [
+            {
+                "question": "What brands or products do you remember seeing ads for in the book?",
+                "note": "DO NOT READ EITHER BRAND-NAMES OR PRODUCT CATEGORIES.",
+                "categories": [
+                    "GENERAL ADS",
+                    "CIGARETTE ADS"
+                ],
+                "brands": [
+                    "Amana Range",
+                    "Dole Pineapple",
+                    "BankAmericard/VISA",
+                    "General Electric Washer",
+                    "Hilton Hotels",
+                    "Golden",
+                    "Lipton",
+                    "Bayer Aspirin",
+                    "Bolens Lawn Mower",
+                    "Budweiser",
+                    "Old Spice Pocket Cologne",
+                    "Kawasaki",
+                    "Golden Light",
+                    "Canadian Club",
+                    "Polaroid Camera",
+                    "Coca-Cola",
+                    "Master's Choice",
+                    "Singer Sewing",
+                    "Concord Watches",
+                    "Hatchire",
+                    "Crest toothpaste",
+                    "Weight Watchers"
+                ]
+            },
+            {
+                "question": "Do you remember any ads for cigarettes?",
+                "if_no_brands_mentioned": "Ask",
+                "if_one_or_two_brands_mentioned": "Skip to Q.3b",
+                "if_all_three_brands_mentioned": "Skip to Q.4",
+                "brands": [
+                    "Golden (Unspecified)",
+                    "Golden Light",
+                    "Kent Golden",
+                    "Kent Light",
+                    "Lent",
+                    "Onep",
+                    "Other (SPECIFY)"
+                ]
+            },
+            {
+                "question": "If one or two cigarette brands mentioned, ask:",
+                "brands": [
+                    "Golden Light",
+                    "Golden",
+                    "Kent Golden",
+                    "Kent Light",
+                    "Lent"
+                ]
+            },
+            {
+                "question": "If True mentioned in Q.2, 3a, or 3b, continue.",
+                "brands": [
+                    "Kent (Unspecified)",
+                    "True",
+                    "Other (SPECIFY)"
+                ]
+            }
+        ]
+    }
+}

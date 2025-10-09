@@ -1,0 +1,35 @@
+{
+    "survey": {
+        "title": "CIGARETTE SURVEY",
+        "instructions": "Please have EACH member of your household years or older who smokes cigarettes answer this survey. Please begin with the OLDEST member.",
+        "survey_number": 2,
+        "questions": [
+            {
+                "question": "How many members of your household who are years of age or older smoke cigarettes?",
+                "options": [
+                    "None",
+                    "One",
+                    "Two",
+                    "Three",
+                    "Four",
+                    "Five",
+                    "Six",
+                    "Seven",
+                    "Eight",
+                    "Nine or more"
+                ],
+                "note": "Please continue with Question 2"
+            },
+            {
+                "question": "Are you the.",
+                "options": [
+                    "Male Head of Household",
+                    "Female Head of Household",
+                    "Male Member",
+                    "Other Female Member"
+                ]
+            }
+        ],
+        "transmit_by": "September 26th"
+    }
+}

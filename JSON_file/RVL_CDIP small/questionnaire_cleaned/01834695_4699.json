@@ -1,0 +1,71 @@
+{
+    "survey": {
+        "title": "NATIONAL CONSENSUS SURVEYS",
+        "id": "#42318W",
+        "address": {
+            "street": "aol Second Avenue",
+            "city": "New York",
+            "state": "New York",
+            "zip": "10017"
+        },
+        "phone": "951-7852",
+        "instructions": "Please take a few minutes to go through the advertisements in this book. Please take as much time with each ad as you care to. If you ordinarily wear reading glasses, you'll need them.",
+        "questions": [
+            {
+                "id": 2,
+                "text": "Now, I'd like to ask you a few questions about the ads in the book. What brands or products do you remember seeing ads for in the book?",
+                "note": "DO NOT READ EITHER BRAND NAMES OR PRODUCT CATEGORIES.",
+                "categories": {
+                    "general_ads": [
+                        "Dole Pineapple",
+                        "Amana Range",
+                        "BankAmericard/VISA",
+                        "General Electric Washer",
+                        "Golden Unop.",
+                        "Bayer Aspirin",
+                        "Hilton Hotels",
+                        "Bolens Lawn Mower",
+                        "Old Spice Pocket Cologne",
+                        "Kawasaki",
+                        "Budweiser",
+                        "Canadian Club",
+                        "Polaroid Camera",
+                        "Coca Cola",
+                        "Singer Sewing Machines",
+                        "Concord Watches",
+                        "Taster's Choice",
+                        "Crest toothpaste"
+                    ],
+                    "cigarette_ads": [
+                        "Kent",
+                        "Golden Light",
+                        "Golden",
+                        "Kent Golden Light",
+                        "Kent Golden",
+                        "Kent Lights",
+                        "Kent (Unsp.)"
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "text": "Do you remember any ads for cigarettes?",
+                "follow_up": {
+                    "if_no_brands": "Do you remember any ads for cigarettes?",
+                    "if_one_or_two_brands": "What brands were they? Any others?",
+                    "if_all_three_brands": "Skip to Q.4.",
+                    "brands": [
+                        "Luke",
+                        "Golden Light",
+                        "Golden (Unsp.)",
+                        "Kent Golden Light",
+                        "Kent Golden",
+                        "Kent Lights",
+                        "Kent (Unsp.)"
+                    ],
+                    "other": "Other (SPECIFY)"
+                }
+            }
+        ]
+    }
+}

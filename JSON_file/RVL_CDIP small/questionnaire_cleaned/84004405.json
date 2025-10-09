@@ -1,0 +1,50 @@
+{
+    "company": "AHYMARKETINC RESEARCH",
+    "survey": "NATIONAL CONSENSUS SURVEYS",
+    "survey_id": "#25077W",
+    "location": {
+        "city": "New York",
+        "state": "New York",
+        "zip": "10017"
+    },
+    "date": "August, 1977",
+    "questionnaire": {
+        "title": "CIGARETTE PORTFOLIO SCREENING QUESTIONNAIRE",
+        "time_interview": {
+            "started": "4:08",
+            "ended": "4:20"
+        },
+        "respondent": {
+            "name": "Mecy",
+            "telephone": "733-3518",
+            "address": "00.3",
+            "state": "Nete"
+        },
+        "interviewer": "Su",
+        "metro_area": null,
+        "date": "9.30.22",
+        "validated_by": null,
+        "city_options": [
+            "Boston",
+            "Des Moines",
+            "Detroit",
+            "Lincoln",
+            "New Orleans",
+            "Omaha",
+            "San Francisco"
+        ],
+        "participation": {
+            "question": "Have you yourself, participated in a research survey in the past three months or so?",
+            "terminate_if_yes": true,
+            "continue_if_no": true
+        },
+        "age_question": {
+            "prompt": "Please tell me which letter on the card includes your age.",
+            "terminate_if_under_21": true,
+            "continue_if_21_to_29": true,
+            "continue_if_30_to_44": true,
+            "terminate_if_45_to_49": true,
+            "terminate_if_over_55": true
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "company": "WATIONAL CONSENSUS SURVEYS",
+    "address": {
+        "street": "801 Second Avenue",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10017"
+    },
+    "contact": {
+        "phone": "OV1-1863"
+    },
+    "instructions": "Please take a few minutes to go through the advertisements in this book. Please take as much time with each ad as you care to. If you ordinarily wear reading glasses, you'll need them.",
+    "brands": {
+        "general_ads": [
+            "Azana Renge",
+            "Dole Pineapple",
+            "BankAmericard/VISA",
+            "General Electric",
+            "Weber",
+            "Colgate",
+            "Bayer Aspirin",
+            "Hilton Hotels",
+            "Golden",
+            "Up",
+            "Old Spice Pocket Cologne",
+            "Kawasaki",
+            "Lent",
+            "Golden",
+            "Budweiser",
+            "Polaroid Camera",
+            "Yeast",
+            "Lot",
+            "Coca Cola",
+            "Concord Watches",
+            "Taster's Choice",
+            "Lights Lamp",
+            "Great",
+            "toothpaste",
+            "Weight Watchers"
+        ],
+        "cigarette_ads": [
+            "Kent Unsp",
+            "Golden Lights",
+            "Luck",
+            "Golden Unsp",
+            "Kent Golden",
+            "Kent Golden Light",
+            "Kent Lights"
+        ]
+    },
+    "questions": {
+        "q1": "Any other brands?",
+        "q2": "Do you remember any ads for cigarettes?",
+        "q3a": "IF NO CIGARETTE BRANDS MENTIONED ABOVE ASK Q.3a.",
+        "q3b": "IF ONLY ONE OR TWO CIGARETTE BRANDS MENTIONED SKIP TO Q.3b.",
+        "q4": "IF ALL THREE CIGARETTE BRANDS MENTIONED SKIP TO Q.4.",
+        "q10": "IF TRUE MENTIONED IN Q.2, 3 OR 3b CONTINUE. IF TRUE NOT MENTIONED IN Q.2, 3a OR 3b. SKIP TO Q.10."
+    }
+}

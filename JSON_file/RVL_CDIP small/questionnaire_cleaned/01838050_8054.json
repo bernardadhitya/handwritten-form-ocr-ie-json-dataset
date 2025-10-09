@@ -1,0 +1,62 @@
+{
+    "survey": "NAPLOALCONSENSUS SURVEYS",
+    "address": {
+        "street": "801 Second Avenue",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10017"
+    },
+    "instructions": "Please take a few minutes to go through the advertisement in this book. Take as much time with each ad as you want to. If you ordinarily wear reading glasses you'll need them.",
+    "questions": [
+        {
+            "question": "I would like to ask you a few questions about the ads in this book. What brands or products do you remember seeing ads for in the book?",
+            "options": [
+                "General Ads",
+                "Cigarette Ads"
+            ],
+            "brands": [
+                "Asana Rang",
+                "Cols Pineapple",
+                "Luka",
+                "BankAmerica/VISA",
+                "General Electric Washer",
+                "Gol",
+                "Golden",
+                "Bayer Aspirin",
+                "Hilton Hotels",
+                "Bolens Lawn Mower",
+                "Old Spice Pocket Cologne",
+                "Esuseak",
+                "Kent",
+                "Budweiser Light",
+                "Canadian Club",
+                "Polaroid Camera",
+                "Singer Sewing Machines",
+                "Kent Lights",
+                "Coca Cola",
+                "Concord Watches",
+                "Taster's Choice",
+                "Crest toothpaste",
+                "Weight Watchers",
+                "Other"
+            ]
+        },
+        {
+            "question": "If no cigarette brands mentioned above, ask: What brands?",
+            "brands": [
+                "Golden",
+                "Kent",
+                "Other"
+            ]
+        },
+        {
+            "question": "If one or two cigarette brands mentioned, ask: Any others?",
+            "brands": [
+                "Golden Light",
+                "Luke",
+                "Kent Gold",
+                "Other"
+            ]
+        }
+    ]
+}

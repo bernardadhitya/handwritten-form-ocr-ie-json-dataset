@@ -1,0 +1,81 @@
+{
+    "company": {
+        "name": "ARKETING INFORMATION SYSTEMS INC.",
+        "address": {
+            "street": "100 Sylvan Avenue",
+            "suite": "#838585-A",
+            "city": "Englewood Cliffs",
+            "state": "New Jersey",
+            "zip": "07632"
+        },
+        "state": "NEW JERSEY",
+        "phone": [
+            "800-631-1623",
+            "201-947-6900"
+        ],
+        "date": "October, 1985"
+    },
+    "project": {
+        "name": "PROJECT DATA IN-DEPTHS IV",
+        "screener": {
+            "introduction": "Hello, my name is [Name] from [Company]. Today we're talking to people between the ages of 18 and 54 about various products used in the household and I'd like to ask you a few questions.",
+            "questions": [
+                {
+                    "question": "First of all, are you between the ages of 18 and 54?",
+                    "answers": {
+                        "yes": "X",
+                        "no": "(THANK AND TERMINATE)"
+                    }
+                },
+                {
+                    "question": "And are you between 18 and 34, or 35 and 54 years of age?",
+                    "answers": {
+                        "18-34": "3",
+                        "35-54": "(CHECK QUOTAS)"
+                    }
+                },
+                {
+                    "question": "Observe and record sex.",
+                    "answers": {
+                        "male": "",
+                        "female": "(CHECK QUOTAS)"
+                    }
+                },
+                {
+                    "question": "I'm going to read you a list of products. For each one I read, please tell me if you yourself use the product.",
+                    "products": [
+                        "Antacid",
+                        "Aspirin",
+                        "Beer",
+                        "Breakfast cereal",
+                        "Cigarettes",
+                        "Diet soda",
+                        "Frozen vegetables"
+                    ],
+                    "answers": {
+                        "yes": "",
+                        "no": ""
+                    }
+                },
+                {
+                    "question": "Since we're talking to people all across the country, we're interested in talking to a cross-section of people in different occupations. What is your occupation?",
+                    "note": "WRITE IN FULL TITLE. IF RESPONDENT GIVES A GENERAL OCCUPATION SUCH AS SALES OR MANUFACTURING, ASK: What products are involved in your occupation? TERMINATE IF RESPONDENT ANSWERS 'CIGARETTES'.",
+                    "write_in": "occupation"
+                },
+                {
+                    "question": "Are you married?",
+                    "answers": {
+                        "yes": "",
+                        "no": "SKIP TO Q.8"
+                    }
+                },
+                {
+                    "question": "What is the occupation of your spouse?",
+                    "note": "WRITE IN FULL TITLE. ASK: What products are involved in your spouse's occupation? TERMINATE IF RESPONDENT ANSWERS 'CIGARETTES'.",
+                    "write_in": "spouse_occupation"
+                }
+            ]
+        }
+    },
+    "reference_number": "2041090346"
+}

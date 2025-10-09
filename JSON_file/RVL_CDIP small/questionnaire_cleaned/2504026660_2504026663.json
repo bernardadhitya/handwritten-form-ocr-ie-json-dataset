@@ -1,0 +1,53 @@
+{
+    "HLOC": "VSL",
+    "o08": "e4 088",
+    "MH#": "900",
+    "DiscussionGuideline": {
+        "Title": "Focus Group Discussions on Virginia Slims Lights",
+        "Sections": [
+            {
+                "Title": "Introduction and Ice-breaking session",
+                "Points": [
+                    "What Hankook Research and marketing research is",
+                    "Introduction of the subject to be discussed",
+                    "Introduction of the moderator",
+                    "Introduction of each participant",
+                    "Warming up",
+                    "We want to learn about your actual and real behaviour and attitude, no sophisticated philosophy.",
+                    "Please don't hesitate to express yourselves even though you don't agree with one another. No one is right or wrong here.",
+                    "Now, please take turn and start to talk about yourself."
+                ]
+            },
+            {
+                "Title": "Overall smoking habit",
+                "Instructions": [
+                    "Before entering this part, hand a piece of questionnaire to each participant for fill-up his overall smoking pattern including smoking period, average smoking volume a day, regular smoking brand, and occasional brands. After fill-up, get back and read."
+                ],
+                "Questions": [
+                    {
+                        "ToEachParticipant": [
+                            "You wrote that your regular brand is ___. Can you tell us the reasons of smoking this brand? Please be more specific.",
+                            "Your previous regular brand was ___. How come did you switch to ___?"
+                        ]
+                    },
+                    {
+                        "ToThoseWithMultipleOccasionalBrands": [
+                            "Which brand among them is the most frequently smoking occasional brand?",
+                            "Why do you smoke that brand more frequently?",
+                            "How frequently do you smoke that brand nowadays?",
+                            "Do you have any other brands which had been smoking regularly, but now don't smoke? If yes, which brand is it? How come did you quit that brand?"
+                        ]
+                    },
+                    {
+                        "BroadQuestion": "I know this is too broad a question, but please tell me why you smoke imported cigarettes instead of domestic cigarettes specifically.",
+                        "ProbeFurther": [
+                            "Most of imported brands are more expensive, but you smoke it. Why? Price? Why?",
+                            "Quality? How do you know it?",
+                            "Taste? Which taste? Isn't there any domestic brands?"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

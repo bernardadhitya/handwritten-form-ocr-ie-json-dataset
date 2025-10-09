@@ -1,0 +1,70 @@
+{
+    "company": "Thurm Associates Inc.",
+    "job_number": 646,
+    "address": "352 East 50th Street, New York, NY 10022",
+    "date": "October, 198",
+    "name": "Nasy",
+    "address_line": "Byt",
+    "city_state": "vtfew/",
+    "zip_code": 460,
+    "date_of_interview": "6/83",
+    "interviewer": "War",
+    "validation_by": "HelloI'm",
+    "introduction": "from Thurm Associates. We are conducting a market research study and would like to ask you a few questions.",
+    "screening_questions": {
+        "industry_involvement": {
+            "question": "Do you or does any member of your family or close friends work in any of the following industries?",
+            "options": [
+                "Market Research"
+            ],
+            "action_if_yes": "Terminate and record on call record sheet"
+        },
+        "previous_interview": {
+            "question": "Have you been interviewed by a market research company in the past 6 months?",
+            "options": [
+                "Yes"
+            ],
+            "action_if_yes": "Terminate and record on call record sheet"
+        },
+        "record_sex": {
+            "options": [
+                "Male",
+                "Female"
+            ],
+            "action": "Check quota"
+        },
+        "age_group": {
+            "question": "Please look at this card and tell me into which age group you fall?",
+            "options": [
+                "Under 21 years old",
+                "21-24 years old",
+                "25-30 years old",
+                "31-34 years old",
+                "35-39 years old",
+                "40-44 years old",
+                "45-49 years old",
+                "50-54 years old",
+                "55-59 years old",
+                "60 years & older",
+                "Refused"
+            ],
+            "action_if_under_21_or_refused": "Terminate and record on call record sheet"
+        },
+        "smoking_habit": {
+            "question": "During the past week have you smoked a total of 3 packs of cigarettes or more?",
+            "action_if_yes": "Terminate and record on call record sheet"
+        },
+        "cigarette_brand": {
+            "question": "What brand of cigarettes do you smoke most often?",
+            "action_if_not_qualified": "Terminate and record on call record sheet"
+        },
+        "menthol_preference": {
+            "question": "Is this brand a menthol or non-menthol cigarette?",
+            "options": [
+                "Non-Menthol",
+                "Menthol"
+            ],
+            "action_if_menthol": "Terminate and record on call record sheet"
+        }
+    }
+}

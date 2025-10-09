@@ -1,0 +1,65 @@
+{
+    "company": "WINONA MRB, INC.",
+    "project": "DE-NIC CONTINUOUS TMT",
+    "address": "8200 HUMBOLDT AVENUE",
+    "project_numbers": [
+        "1602-00473",
+        "1602-00474"
+    ],
+    "location": "Minneapolis, MN 55431",
+    "role": "SCREENER",
+    "time_period": "JUNE-DECEMBER, 1990",
+    "markets": [
+        "Arizona",
+        "Tampa"
+    ],
+    "introduction": "Hello, I'm calling long distance from WINONA RESEARCH. We are a national opinion research company and we would like to interview SOMEONE (A MAN OR WOMAN) in your household.",
+    "questions": [
+        {
+            "question": "First of all, can you please tell me what county you live in?",
+            "options": {
+                "acceptable_county": 1,
+                "other": 2,
+                "don't_know_refused": 3
+            },
+            "action": "THANK & TERMINATE. SELECT T.1A ON CRT SCREEN"
+        },
+        {
+            "question": "What is your age, please?",
+            "action": "RECORD EXACT AGE- CHECK QUOTAS",
+            "if_refuse": "Can you please tell me into which of these ranges your age falls? Are you ...",
+            "age_ranges": {
+                "under_18": "THANK AND TERMINATE. SELECT T.2 ON CRT SCREEN",
+                "18-24": 1,
+                "25-29": 2,
+                "30-34": 3,
+                "35-39": 4,
+                "40-44": 5,
+                "45-49": 6,
+                "50-54": 7,
+                "55-59": 8,
+                "60-64": 9,
+                "65_and_over": 0,
+                "refused": "Y"
+            },
+            "action_if_refused": "THANK AND TERMINATE. SELECT R.2 ON CRT SCREEN"
+        },
+        {
+            "question": "Do you smoke cigarettes?",
+            "options": {
+                "yes": "SKIP TO Q.3c",
+                "no": 2,
+                "refused": "Y"
+            },
+            "action_if_refused": "THANK & TERMINATE. SELECT R.3a ON CRT SCREEN"
+        }
+    ],
+    "codes": [
+        "2042",
+        "1213",
+        "35567"
+    ],
+    "date": "9/27/90",
+    "initials": "cz",
+    "version": 6
+}

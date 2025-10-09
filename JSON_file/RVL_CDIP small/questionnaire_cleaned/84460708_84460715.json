@@ -1,0 +1,61 @@
+{
+    "company": "COMMUNICUS, INC.",
+    "gender_distribution": {
+        "male": 5,
+        "female": -2
+    },
+    "locations": {
+        "Milwaukee": "6-1",
+        "Syracuse": -2,
+        "Omaha": "April, 1978"
+    },
+    "project": "LLD-6",
+    "group": "B4-2",
+    "survey": {
+        "introduction": "Hello, I'm from Communicus, a consumer opinion firm. We are conducting a survey and would like to include you.",
+        "questions": [
+            {
+                "question": "Do you smoke filter, non-menthol cigarettes?",
+                "answers": {
+                    "yes": "CONTINUE",
+                    "no": "TERMINATE"
+                }
+            },
+            {
+                "question": "How many cigarettes do you usually smoke per day?",
+                "answers": {
+                    "0-9": "TERMINATE",
+                    "10-15": "7-1",
+                    "16-25": -2,
+                    "more_than_25": 2
+                }
+            },
+            {
+                "question": "Which of the following statements apply to you?",
+                "options": [
+                    "I eat dinner in a restaurant at least once a month.",
+                    "I read a daily newspaper.",
+                    "I do most of the food shopping for myself and/or my family.",
+                    "I have taken an airline trip on a scheduled commercial airline in the past 12 months."
+                ]
+            },
+            {
+                "question": "Into which of the following age groups do you fall?",
+                "answers": {
+                    "under_21": "TERMINATE",
+                    "21-34": "CONTINUE",
+                    "35+": "TERMINATE"
+                }
+            }
+        ]
+    },
+    "validation": {
+        "validated_by": "NEEPPOON INTERVII"
+    },
+    "contact": {
+        "name": "NAME",
+        "address": "ADDRESS",
+        "city": "CITY/TO"
+    },
+    "reference_number": 84460708
+}

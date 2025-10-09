@@ -1,0 +1,84 @@
+{
+    "version": "-2.3.4,5",
+    "company": "Newman-Stein, Inc.",
+    "address": {
+        "street": "902 Broadway",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10010"
+    },
+    "demographics": {
+        "gender": "FEMALE",
+        "age_range": "18-34"
+    },
+    "date": "February 1990",
+    "portfolio_test": "Main Questionnaire",
+    "questionnaire": {
+        "id": "133-4",
+        "questions": [
+            {
+                "id": "3a",
+                "text": "Please take as much time with each ad as you care to. If you ordinarily wear reading glasses you will need them. Allow sufficient time. When respondent is finished take back the portfolio book before continuing. Now I'd like to ask you a few questions about the ads in the book."
+            },
+            {
+                "id": "3b",
+                "text": "What brands or products do you remember seeing ads for in the book? Probe: What other brands? What other products?",
+                "categories": {
+                    "non_cigarette_brands": [
+                        "Anagasic Tablets (Pain Reliever/Aspirin)",
+                        "Ad Council",
+                        "Advil (Aspirin Substitute)",
+                        "Sahanas",
+                        "Audio/Video Equipment (Stereo/TV)",
+                        "Candy",
+                        "Luke",
+                        "Colgate",
+                        "Deere (John Deere)",
+                        "Beer",
+                        "Merit",
+                        "Cereal",
+                        "Fisher",
+                        "Grape-Nuts",
+                        "Cologne (Men's Cologne)",
+                        "True",
+                        "Head & Shoulders",
+                        "Credit Card",
+                        "Dishwasher Detergent",
+                        "Lagerfeld",
+                        "Gin/Liquor/Alcohol",
+                        "Michelob",
+                        "Lawn Mower (Garden Tractor)",
+                        "Rave",
+                        "Public Service Ad",
+                        "Permanent (Hair Permanent)",
+                        "Seagram's",
+                        "Sunlight",
+                        "Shampoo (Dandruff Shampoo)",
+                        "VISA",
+                        "Soap Bar Soap",
+                        "Toothpaste",
+                        "Travel A Foreign Country/Tourist Ad"
+                    ],
+                    "incorrect_brands": [],
+                    "incorrect_categories": []
+                }
+            }
+        ]
+    },
+    "instructions": {
+        "important": "Refer to Q.3b",
+        "conditions": [
+            "If no cigarette brands mentioned in Q.3b, ask Q.3c.",
+            "If only one or two correct cigarette brands mentioned, skip to Q.3e.",
+            "If all three correct cigarette brands mentioned, skip to Q.4.",
+            "If only incorrect cigarette brands mentioned, skip to Q.3e."
+        ]
+    },
+    "misc": {
+        "numbers": [
+            6,
+            2,
+            5
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "company": "COMMUNICUS, INC.",
+    "gender": "Male",
+    "age": 51,
+    "location": "Milwaukee",
+    "project": "Project LLD-6",
+    "additional_info": [
+        {
+            "gender": "Female",
+            "age": -2,
+            "location": "Syracuse"
+        },
+        {
+            "age": -2,
+            "group": "GROUPB-",
+            "location": "Omaha"
+        },
+        {
+            "age": -3,
+            "date": "April, 1978",
+            "time": "AM"
+        }
+    ],
+    "name": "NAME",
+    "address": "ADDRES",
+    "city_town": "CITY/TOW",
+    "telephone": "TELEPHONE",
+    "interviewed": "INTERVIEWED",
+    "validated_by": "VALIDATED BY",
+    "survey_intro": "Hello, I'm conducting a survey and would like to include you.",
+    "questions": [
+        {
+            "question": "Do you smoke filter, non-menthol cigarettes?",
+            "answers": {
+                "yes": "CONTINUE",
+                "no": "TERMINATE"
+            }
+        },
+        {
+            "question": "How many cigarettes do you usually smoke per day?",
+            "answers": {
+                "6-0": "TERMINATE",
+                "10-15": "CONTINUE",
+                "16-25": "CONTINUE",
+                "more_than_25": "CONTINUE"
+            }
+        },
+        {
+            "question": "Which of the following statements apply to you?",
+            "statements": [
+                "I eat dinner in a restaurant at least once a month.",
+                "I read a daily newspaper.",
+                "I do most of the food shopping for myself and/or my family.",
+                "I have taken an airline trip on a scheduled commercial airline in the past 12 months."
+            ]
+        },
+        {
+            "question": "Into which of the following age groups do you fall?",
+            "answers": {
+                "under_21": "TERMINATE",
+                "21-34": "CONTINUE",
+                "35+": "TERMINATE"
+            }
+        }
+    ],
+    "reference_number": 84460684
+}

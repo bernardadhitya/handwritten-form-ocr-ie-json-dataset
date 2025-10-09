@@ -1,0 +1,45 @@
+{
+    "study": "FENWAY PARK ADVERTISING PACKAGE STUDY",
+    "mrd_number": "76-0011",
+    "id": "760011",
+    "name": "",
+    "sex": "MALE",
+    "phone": "",
+    "town": "",
+    "age": "UNDER 35",
+    "investigator": "3968",
+    "post_wave": true,
+    "questions": [
+        {
+            "question": "Have you smoked any cigarettes in the past seven days, or not?",
+            "answers": {
+                "yes": 1,
+                "no": 2
+            }
+        },
+        {
+            "question": "How many cigarettes do you usually smoke per day?",
+            "answers": {
+                "less_than_one": "terminate",
+                "1-15": 1,
+                "over_25": null,
+                "dk_ref": null
+            }
+        },
+        {
+            "question": "Now, thinking about all the various brands of cigarettes that are on the market, what three cigarette brands first come to mind?",
+            "answers": {
+                "first_mention": "",
+                "second_mention": "",
+                "third_mention": ""
+            }
+        },
+        {
+            "question": "What are the next three brands that come to mind?",
+            "answers": {
+                "fourth_mention": "",
+                "fifth_mention": ""
+            }
+        }
+    ]
+}

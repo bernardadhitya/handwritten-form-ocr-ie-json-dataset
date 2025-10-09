@@ -1,0 +1,62 @@
+{
+    "survey": {
+        "contact_method": {
+            "phone": {
+                "questions": [
+                    {
+                        "question": "How satisfied were you in each of the following areas?",
+                        "areas": {
+                            "ease_of_contact": {
+                                "ability_to_get_through_on_first_call": 4,
+                                "satisfaction_with_telephone_recording": null,
+                                "length_of_time_on_hold": 2
+                            },
+                            "personnel": {
+                                "courtesy": null,
+                                "professionalism": null,
+                                "knowledge": null,
+                                "authority_to_resolve_problem": null
+                            },
+                            "response": {
+                                "timeliness": null,
+                                "clarity": null,
+                                "helpfulness": null,
+                                "follow_through_on_promised_action": null
+                            }
+                        }
+                    },
+                    {
+                        "question": "Which ONE of the following statements BEST describes the way you feel about the action taken by the R.J. Reynolds Consumer Relations Department to respond to your request for assistance?",
+                        "options": [
+                            "I was completely satisfied.",
+                            "I was NOT completely satisfied but the action taken was acceptable.",
+                            "I was NOT completely satisfied but some action was taken.",
+                            "I was NOT AT ALL satisfied with the action taken.",
+                            "I was NOT AT ALL satisfied; no action was taken."
+                        ],
+                        "selected_option": "I was completely satisfied."
+                    },
+                    {
+                        "question": "Would you recommend this brand of cigarettes to an adult smoker (21 years of age or older)?",
+                        "options": [
+                            "Definitely Would",
+                            "Probably Would",
+                            "Might or Might Not",
+                            "Probably Would Not",
+                            "Definitely Would Not"
+                        ],
+                        "selected_option": null
+                    }
+                ]
+            },
+            "letter": {
+                "skip_to_question": 2
+            }
+        },
+        "additional_comments": "olon",
+        "codes": {
+            "code1": 52267,
+            "code2": 7492
+        }
+    }
+}

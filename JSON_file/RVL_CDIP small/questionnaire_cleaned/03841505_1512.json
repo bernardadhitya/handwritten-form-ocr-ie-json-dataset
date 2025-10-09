@@ -1,0 +1,66 @@
+{
+    "company": "COMMUNICUS, INC.",
+    "gender": "Male",
+    "location": [
+        {
+            "city": "Minneapolis",
+            "project": "Project LtD-14",
+            "gender": "Female",
+            "city_2": "Phoenix",
+            "date": "April 1979"
+        },
+        {
+            "city": "Indianapolis",
+            "group": "GROUP"
+        }
+    ],
+    "survey": {
+        "introduction": "Hello, I'm from Communicus, a consumer opinion firm. We are conducting a survey and would like to include you.",
+        "questions": [
+            {
+                "question": "CIRCLE CODES FOR YES ANSWERS",
+                "options": {
+                    "A": "A food company",
+                    "G": "An airline",
+                    "H": "A stock exchange",
+                    "C": "A market research company",
+                    "J": "An advertising agency",
+                    "D": "A construction company",
+                    "K": "An insurance company",
+                    "E": "A pharmaceutical company",
+                    "L": "A newspaper/magazine publisher",
+                    "F": "A tobacco company",
+                    "NONE": "TERMINATE IF ONE OF STARRED EMPLOYERS NAMED"
+                }
+            },
+            {
+                "question": "Which of the following statements apply to you: Read list.",
+                "options": {
+                    "A": "I eat dinner in a restaurant at least once a month.",
+                    "B": "I read a daily newspaper.",
+                    "C": "I smoke ten or more cigarettes per day.",
+                    "D": "I do most of the food shopping for myself and/or my family.",
+                    "E": "I have taken an airline trip on a scheduled commercial airline in the past 12 months."
+                }
+            },
+            {
+                "question": "Do you smoke regular or menthol cigarettes?",
+                "options": {
+                    "Regular": "CONTINUE",
+                    "Menthol": "TERMINATE"
+                }
+            },
+            {
+                "question": "Into which of the following age groups do you fall?",
+                "options": {
+                    "Under 21": "TERMINATE",
+                    "21 to 29": "QUOTA 1",
+                    "30 to 34": "QUOTA 2",
+                    "35 to 44": "QUOTA 1",
+                    "45 to 49": "QUOTA 2",
+                    "50 to 55": "TERMINATE"
+                }
+            }
+        ]
+    }
+}

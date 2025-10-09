@@ -1,0 +1,70 @@
+{
+    "questionnaire": {
+        "title": "Questionnaire on Environmental Tobacco Smoke Annoyance",
+        "code": "1776.05-8",
+        "questions": [
+            {
+                "id": 1,
+                "text": "Are you annoyed by vehicle exhaust?",
+                "contexts": [
+                    "at home",
+                    "at work",
+                    "in other environments"
+                ]
+            },
+            {
+                "id": 2,
+                "text": "Should stricter legislation for emission of vehicle exhaust be introduced?"
+            },
+            {
+                "id": 3,
+                "text": "Are you annoyed by odor or dust from any industry?",
+                "contexts": [
+                    "at home",
+                    "at work",
+                    "in other environments"
+                ]
+            },
+            {
+                "id": 4,
+                "text": "Should stricter regulation on industrial emissions be introduced?"
+            },
+            {
+                "id": 5,
+                "text": "Are you irritated by tobacco smoke when other people smoke?",
+                "contexts": [
+                    "at home",
+                    "at work",
+                    "when having lunch",
+                    "in public places"
+                ]
+            },
+            {
+                "id": 6,
+                "text": "How do you experience the irritation?"
+            },
+            {
+                "id": 7,
+                "text": "Should one prohibit smoking at work?"
+            },
+            {
+                "id": 8,
+                "text": "Should one allow smoking in cinemas and theatres?"
+            },
+            {
+                "id": 9,
+                "text": "Do you smoke?",
+                "code": "2015061742"
+            },
+            {
+                "id": 10,
+                "text": "Are you annoyed by traffic noise?",
+                "contexts": [
+                    "at home",
+                    "at work",
+                    "in other environments"
+                ]
+            }
+        ]
+    }
+}

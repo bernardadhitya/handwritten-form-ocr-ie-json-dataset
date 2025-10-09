@@ -1,0 +1,83 @@
+{
+    "Research": {
+        "Counselors": "WAVE",
+        "BRIGHT_CAS": "WaveI 12=1/2",
+        "FOR_FIELD_USE": "NAPIONAL",
+        "Wave_II": "1/10-1/6",
+        "Monitored_Study_No": "Wave I1/21/30",
+        "Validated_By": "MDD8",
+        "Wave_IV": "2/7-2/43",
+        "Wave_V": "2/21-2/27",
+        "Edited_By": "Complete",
+        "300_Menbho": "MONO0m",
+        "Menbate": "JDW/512/10/82",
+        "STATE": null,
+        "COUNTY": null,
+        "GEO_REG": null,
+        "TELEPHONE_NUMBER": {
+            "INTERVIEWER_CODE": null,
+            "CO_SIZE": null,
+            "AREA_CODE": null,
+            "PREFIX": null,
+            "SUFFIX": null,
+            "NUMBER": null
+        },
+        "am": null,
+        "ata": null,
+        "DATH": 2,
+        "TIME_ENDED": null,
+        "TIME_STARTED": null,
+        "NO_OF_MIN": null,
+        "Introduction": "Hello I'm with M/A/R/C Consumer Research, an independent research company, located in Dallas, Texas. We are conducting a survey nationwide and would like",
+        "Questions": [
+            {
+                "Question_1": "adults 18 years old or older there are living in your home?",
+                "NUMBER_OF_ADULTS": null
+            },
+            {
+                "Question_2": "IF ONE SKIP TO Q.2a. OTHERWISE CONTINUE Now I'm going to ask a few questions about the adults in your home starting with the oldest first and going down to the youngest. RECORD ON GRID BELOW. IF NECESSARY: This is just to clarify which adult we will be referring to.",
+                "FOR_EACH_MEMBER_ASK": {
+                    "Question_2a": "RECORD SEX",
+                    "Question_2b": "What is HIS/HER age? RECORD BELOW If respondent refuses SAY: Well could you tell me if HIS/HER age is 18-24 25-34 35-49 or 50 or over",
+                    "Question_2c": "Does (HE/SHE) smoke cigarettes?"
+                }
+            }
+        ],
+        "Responses": [
+            {
+                "Sex": "M",
+                "Age": "35-49",
+                "Smoke": "Yes"
+            },
+            {
+                "Sex": "M",
+                "Age": "18-24",
+                "Smoke": "No"
+            },
+            {
+                "Sex": "M",
+                "Age": "25-34",
+                "Smoke": "No"
+            },
+            {
+                "Sex": "M",
+                "Age": "50+",
+                "Smoke": "Yes"
+            }
+        ],
+        "TOTAL_NUMBER_OF_SMOKERS": null,
+        "CALLBACK_INFORMATION": null,
+        "Question_3": "Approximately how many packs of cigarettes do you usually smoke per day?",
+        "Options": {
+            "Less_than_half_pack_a_day": null,
+            "Half_pack_a_day": null,
+            "1_pack_a_day": null,
+            "1_and_half_packs_a_day": null,
+            "2_packs_a_day": null,
+            "2_and_half_packs_a_day": null,
+            "3_packs_a_day": null,
+            "More_than_3_packs_a_day": null,
+            "DO_NOT_READ": "Don't know"
+        }
+    }
+}

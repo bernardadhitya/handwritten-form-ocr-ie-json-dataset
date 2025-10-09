@@ -1,0 +1,84 @@
+{
+    "survey": {
+        "id": "12519",
+        "company": "COREYCANAPARY & GALANISRESEARCH",
+        "date": "April/May 1979",
+        "location": "San Francisco, California",
+        "title": "SCREENING QUESTIONNAIRE - CIGARETTE GROUPS",
+        "month": "June",
+        "questions": [
+            {
+                "question": "Is there anyone living in your household employed in the sale, manufacture, or distribution of tobacco products?",
+                "response": "YES",
+                "action": "TERMINATE"
+            },
+            {
+                "question": "Is there anyone living in your home who smokes?",
+                "response": "YES",
+                "action": "TERMINATE"
+            },
+            {
+                "question": "May I speak to that person?",
+                "response": "YES",
+                "action": "MERMTNATH"
+            },
+            {
+                "question": "If less than 10 cigarettes per day or less than half a pack",
+                "action": "TERMINATE"
+            },
+            {
+                "question": "What is your regular brand of cigarettes, that is, the brand you smoke most often?",
+                "brands": [
+                    "WINSTON LIGHTS 100'S",
+                    "MARLBORO LIGHTS 100'S",
+                    "PARLIAMENT LIGHTS 100'S",
+                    "MERIT 100'S",
+                    "VANTAGE 100'S",
+                    "KENT GOLDEN LIGHTS 100'S",
+                    "BENSON & HEDGES LIGHTS 100'S",
+                    "CAMEL LIGHTS 100'S"
+                ],
+                "note": "Viceroy 100's, Lark Lights 100's, and Tarryton Lights 100's may be taken if necessary but we would prefer not to include them."
+            },
+            {
+                "question": "Is that the filter or non-filter?",
+                "action": "TERMINATE"
+            },
+            {
+                "question": "Is that a non-menthol or a menthol?",
+                "action": "TERMINATE"
+            },
+            {
+                "question": "Is that the regular king size or the longer 100's?",
+                "action": "TERMINATE"
+            },
+            {
+                "question": "Now I'm going to read the names of a few cigarette brands and would like to know if you've ever heard of them. Have you ever heard of...",
+                "brands": [
+                    "CARLTON",
+                    "TRUE",
+                    "KENT III",
+                    "LARK LIGHTS"
+                ],
+                "responses": {
+                    "CARLTON": {
+                        "heard_of": "YES",
+                        "purchase_intent": "WOULD OR MIGHT PURCHASE"
+                    },
+                    "TRUE": {
+                        "heard_of": "YES",
+                        "purchase_intent": "WOULD OR MIGHT PURCHASE"
+                    },
+                    "KENT III": {
+                        "heard_of": "YES",
+                        "purchase_intent": "WOULD OR MIGHT PURCHASE"
+                    },
+                    "LARK LIGHTS": {
+                        "heard_of": "YES",
+                        "purchase_intent": "WOULD OR MIGHT PURCHASE"
+                    }
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "master": {
+        "areaCodeAndPhoneNumber": "Kapuler Narkoting Research",
+        "projectNumber": "88-2963",
+        "date": "March 211938",
+        "forOfficeUse": {
+            "repNumber": null,
+            "interviewNumber": null,
+            "femaleName": null,
+            "results": 1234,
+            "state": null,
+            "duration": null
+        },
+        "wave": null,
+        "q21": {
+            "brandsRated": [
+                {
+                    "brand": "Virginia Slirs",
+                    "code": -1,
+                    "week": "5weck"
+                },
+                {
+                    "brand": "Pasale",
+                    "code": -2,
+                    "week": "10eek"
+                },
+                {
+                    "brand": "Yore",
+                    "code": 6,
+                    "week": "15 week"
+                },
+                {
+                    "brand": "Capri",
+                    "code": -3,
+                    "week": "20 week"
+                },
+                {
+                    "brand": "Salen",
+                    "code": null,
+                    "week": null
+                },
+                {
+                    "brand": "Benson and Hedges",
+                    "code": null,
+                    "week": null
+                }
+            ],
+            "noneRated": "NW/SW CAPRI A&U"
+        },
+        "reloIm": "fron Kapuler Marketing Research a public opinion fir",
+        "products": "products you may use.Your phone number was selected at randon frm all telephone households in the area, and we would really appreciate your opinions for answers will be hed in conplete confidence.",
+        "questions": {
+            "A": {
+                "question": "Xay I please speak to someone 21 years of age or older?",
+                "responses": {
+                    "noOne21OrOlder": "TERMINATE",
+                    "onCalledToPhone": "GO TO Q.B",
+                    "unavailable": "SET UP CALLBACK"
+                }
+            },
+            "B": {
+                "question": "How many people, 21 years of age or older, in your household...",
+                "subQuestions": [
+                    "Drink diet beverages?",
+                    "Smoke cigarettes?",
+                    "Eat Mexican food"
+                ],
+                "instructions": {
+                    "mustSayYes": "IP NON TO SMOKE CIGARETTES, TERMINATE",
+                    "askQCAndGoToQE": "ON THE NEXT PAGE",
+                    "ifMoreThanOne": "CONTINUE WITH Q.C",
+                    "ifOneAskForThatPersonThen": "AND Q.D"
+                }
+            },
+            "C": {
+                "question": "Do you or does anyone in your immediate family work for...",
+                "responses": {
+                    "advertisingAgency": "IF YES TO ANY TERMINATE Q.C.",
+                    "cigaretteManufacturer": null,
+                    "magazineNewspaperRadioTelevision": null
+                }
+            }
+        },
+        "code": 465729196
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "survey": {
+        "title": "NATIONAL CONSENSUS SURVEYS",
+        "id": "#42318W",
+        "address": {
+            "street": "801 Second Avenue",
+            "city": "New York",
+            "state": "New York",
+            "zip": "10017"
+        },
+        "phone": "76734",
+        "instructions": "Please take a few minutes to go through the advertisement in this book. Please take as much time with each ad as you care to. If you ordinarily wear reading glasses, you'll need them. HAND RESPONDENT PORTFOLIO AND TAKE IT BACK BEFORE CONTINUING. Now I'd like to ask you a few questions about the ads in the book.",
+        "questions": [
+            {
+                "question": "What brands or products do you remember seeing ads for in the book?",
+                "probe": "Any other brands?",
+                "categories": {
+                    "general_ads": [
+                        "Amana Range",
+                        "Dole Pineapple",
+                        "Luke",
+                        "BankAmericard/VISA",
+                        "General Electric Washer",
+                        "Golden Lights",
+                        "Bayer Aspirin",
+                        "Hilton Hotels",
+                        "Golden Unsp.",
+                        "Bolens Lawn Mower",
+                        "Old Spice Pocket Cologne",
+                        "Kawasaki",
+                        "Kent Golden",
+                        "Budweiser",
+                        "Kent",
+                        "Golden Light",
+                        "Canadian Club",
+                        "Polaroid Camera",
+                        "Kent Lights",
+                        "Coca Cola",
+                        "Singer Sewing Machines",
+                        "Kent Unsp.",
+                        "Concord Watches",
+                        "Taster's Choice",
+                        "Lights Unsp.",
+                        "Weight Watcher",
+                        "Crest toothpaste",
+                        "Other (SPECIFY)"
+                    ]
+                },
+                "cigarette_ads": {
+                    "if_no_cigarette_brands_mentioned": "ASK Q.3a",
+                    "if_only_one_or_two_cigarette_brands_mentioned": "SKIP TO Q.3b",
+                    "if_all_three_cigarette_brands_mentioned": "SKIP TO Q.4",
+                    "question": "Do you remember any ads for cigarettes?",
+                    "if_no_cigarette_brands_mentioned_above": "ASK",
+                    "answers": [
+                        {
+                            "answer": "Yes",
+                            "follow_up": "What brands do you remember seeing ads for? Any others?",
+                            "brands": [
+                                "Golden Lights",
+                                "Golden Unsp",
+                                "Kent Golden",
+                                "Kent Golden Lights",
+                                "Kent Unsp.",
+                                "Kent Lights",
+                                "Other (SPECIFY)"
+                            ]
+                        }
+                    ]
+                },
+                "other_brands": {
+                    "question": "Do you remember any ads for any other brands of cigarettes?",
+                    "answers": [
+                        {
+                            "answer": "Yes",
+                            "follow_up": "What brands were they? Any others?",
+                            "brands": [
+                                "Luke",
+                                "Golden (Unsp.)",
+                                "Kent Golden",
+                                "Kent",
+                                "Golden Lights",
+                                "Kent Lights",
+                                "Kent Unsp.",
+                                "Lights Unsp.",
+                                "True",
+                                "Other (SPECIFY)"
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "survey": {
+        "respondent": {
+            "name": "Mr. Arnold Moore",
+            "address": {
+                "city": "Killingworth",
+                "state": "CT",
+                "zip": "06419-1209RT"
+            },
+            "preferences": {
+                "prefer_not_to_smoke": false,
+                "cigarette_smoker": true,
+                "age": "21+",
+                "receive_samples": true
+            },
+            "signature": "X",
+            "birthdate": "required"
+        },
+        "questions": [
+            {
+                "question": "What is your regular brand of cigarettes?",
+                "answer": "brand",
+                "options": [
+                    "Alpine",
+                    "Bask",
+                    "Doral",
+                    "Benson & Hedges",
+                    "GPC",
+                    "Kent",
+                    "Parliament",
+                    "Best Buy",
+                    "Magna",
+                    "Raleigh Extra",
+                    "Marlboro",
+                    "Store Brand/Generic",
+                    "Salem",
+                    "Merit",
+                    "Superslims",
+                    "Cambridge",
+                    "Bucks",
+                    "Montclair",
+                    "Monarch",
+                    "Vantage",
+                    "Capri",
+                    "More",
+                    "Virginia Slims",
+                    "Carlton",
+                    "Newport",
+                    "Winston"
+                ]
+            },
+            {
+                "question": "Is your regular brand?",
+                "answer": "Regular/King Size, 100's or 120's"
+            },
+            {
+                "question": "Is your regular brand?",
+                "answer": "Menthol or Non-Menthol"
+            },
+            {
+                "question": "Is your regular brand?",
+                "answer": "Filter or Non-Filter"
+            },
+            {
+                "question": "Is your regular brand?",
+                "answer": "Low/1 mg Tar, Medium, Ultra/Extra Low Tar, Full Flavor, Light/Mild"
+            },
+            {
+                "question": "Do you usually buy it by the?",
+                "answer": "Carton, Both Ways"
+            },
+            {
+                "question": "How long have you smoked this brand?",
+                "answer": "Less than 1 year, 1 to 2 years, 2 to 3 years, 3 to 5 years, Over 5 years"
+            },
+            {
+                "question": "What, if any, was your previous brand?",
+                "answer": "brand"
+            },
+            {
+                "question": "The next time you go to the store if your regular brand were not available, what would you do?",
+                "answer": "Go to another store to buy my regular brand, Buy another type or length of my regular brand, Wait until the store has my regular brand, Buy a different brand entirely"
+            },
+            {
+                "question": "Which of the following statements best describes the way you use cigarette coupons?",
+                "answer": "I use almost any cigarette coupon I get, I occasionally use coupons for cigarettes even if not my regular brand, I never use coupons to buy cigarettes, I only use coupons if they are for my regular brand"
+            },
+            {
+                "question": "How often do you use special in-store cigarette offers?",
+                "answer": "Frequently, Occasionally, Never"
+            },
+            {
+                "question": "Which of the following best describes you?",
+                "answer": "White, African-American, Hispanic, Asian, American Indian, Other"
+            },
+            {
+                "question": "Is there another smoker in your household 21 years of age or older?",
+                "answer": {
+                    "name": "Full Name",
+                    "birthdate": "Birthdate",
+                    "regular_brand": "Regular Brand"
+                }
+            },
+            {
+                "question": "Would you be interested in receiving information about issues that affect smokers?",
+                "answer": "Yes, No"
+            },
+            {
+                "question": "Would you be interested in joining a smokers group to help protect your right to smoke?",
+                "answer": "Yes, No"
+            }
+        ]
+    }
+}

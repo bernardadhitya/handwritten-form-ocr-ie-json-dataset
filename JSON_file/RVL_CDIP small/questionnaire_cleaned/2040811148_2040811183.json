@@ -1,0 +1,46 @@
+{
+    "company": "WINONA MRB, INC.",
+    "project": "NEXT/MERIT DE-NIC CONTINUOUS TMT",
+    "address": "8200 HUMBOLDT AVENUE, Minneapolis, MN 55431",
+    "week": "4-9",
+    "screener_number": "1602-90666",
+    "date": "AUGUST-OCTOBER, 1989",
+    "markets": [
+        "Omaha",
+        "Toledo",
+        "Hartford",
+        "Spokane"
+    ],
+    "introduction": "Hello, I'm calling long distance from WINONA RESEARCH. We are a national opinion research company and we would like to interview SOMEONE (A MAN OR WOMAN) in your household.",
+    "questions": [
+        {
+            "question": "First of all, can you please tell me what county you live in?",
+            "options": {
+                "1": "Acceptable county",
+                "2": "Other",
+                "3": "Don't know/refused"
+            },
+            "action": "THANK & TERMINATE. SELECT T.1A ON CRT SCREEN."
+        },
+        {
+            "question": "What is your age, please?",
+            "instruction": "RECORD EXACT AGE - CHECK QUOTAS",
+            "if_refused": "Can you please tell me into which of these ranges your age falls?",
+            "age_ranges": {
+                "1": "18-24",
+                "2": "25-29",
+                "3": "30-34",
+                "4": "35-39",
+                "5": "40-44",
+                "6": "45-49",
+                "7": "50-54",
+                "8": "55-59",
+                "9": "60-64",
+                "0": "65 and over",
+                "A": "Refused"
+            },
+            "action": "CHECK QUOTAS. IF FILLED, SKIP TO Q.3b. THANK AND TERMINATE. SELECT R.2 ON CRT SCREEN."
+        }
+    ],
+    "revision_date": "08/22/89/cm/6"
+}

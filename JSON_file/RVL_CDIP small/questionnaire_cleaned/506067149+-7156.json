@@ -1,0 +1,62 @@
+{
+    "company": "FOSS-COOPER ASSOCIATES, INC.",
+    "address": "275 Madison Avenue, New York, New York 10016",
+    "project": {
+        "name": "SCREENER",
+        "code": "350-35-83",
+        "phone": "212686-6020",
+        "date": "MAY 1983",
+        "test": "SMOKER IMAGERY TEST",
+        "version": "5-1"
+    },
+    "interview": {
+        "name": "",
+        "address": "",
+        "interviewer": "",
+        "date": "",
+        "validated_by": "",
+        "time_began": "",
+        "introduction": "Hello, I'm an interviewer from FOSS-COOPER ASSOCIATES, a national opinion research company. We are conducting a survey and would like to ask you a few questions.",
+        "questions": [
+            {
+                "id": "1a",
+                "text": "Excluding politics, have you been interviewed on any subject in the past six months?",
+                "options": {
+                    "yes": "TERMINATE AND RECORD BELOW",
+                    "no": "CONTINUE"
+                }
+            },
+            {
+                "id": "1b",
+                "text": "Do you or do any of your friends or relatives work for any of the following kinds of companies?",
+                "options": {
+                    "drug_company": "CONTINUE",
+                    "marketing_research_firm": "TERMINATE BELOW",
+                    "automobile_manufacturer": "CONTINUE",
+                    "tobacco_company_or_wholesaler": "TERMINATE BELOW",
+                    "newspaper_or_magazine_company": "TERMINATE BELOW",
+                    "television_manufacturer": "CONTINUE",
+                    "advertising_company": "TERMINATE BELOW",
+                    "food_processing_company": "CONTINUE",
+                    "none_of_the_above": "CONTINUE WITH INTERVIEW"
+                }
+            },
+            {
+                "id": "1c",
+                "text": "RECORD SEX",
+                "options": {
+                    "male": "1",
+                    "female": "2"
+                }
+            }
+        ],
+        "brand_quota": {
+            "other": "",
+            "camel_lights": "",
+            "marlboro_regular": "",
+            "marlboro_lights": "",
+            "all_other_full_flavor": "",
+            "all_other_lights": ""
+        }
+    }
+}

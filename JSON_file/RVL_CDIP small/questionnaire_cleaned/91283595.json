@@ -1,0 +1,57 @@
+{
+    "screening_questionnaire": {
+        "introduction": "Hello, I'm conducting a product usage study in your area, and I'd like to ask you a few questions.",
+        "questions": [
+            {
+                "question": "Is there anyone living in your household employed in the sale, manufacture?",
+                "response": "YES",
+                "action": "ON"
+            },
+            {
+                "question": "Is there anyone living in your home between the ages of 25-49 who is a smoker?",
+                "response": "YES",
+                "action": "TERMINATE"
+            },
+            {
+                "question": "May I speak to that person?",
+                "response": "YES",
+                "action": "NO TERMINATE"
+            },
+            {
+                "question": "About how many cigarettes do you smoke in a day?",
+                "note": "IF LESS THAN HALF A PACK OR LESS THAN 10 CIGARETTES PER DAY TERMINATE"
+            },
+            {
+                "question": "What is your regular brand of cigarettes -- that is, the brand you smoke most often?"
+            },
+            {
+                "question": "Is that a filter?",
+                "response": "Write_in",
+                "action": "of non-filter TERMINATE"
+            },
+            {
+                "question": "Is that a non-menthol or a menthol?",
+                "action": "TERMINATE"
+            },
+            {
+                "question": "Is that the regular size, the longer 100's, or the extra long 120's?",
+                "note": "Quota no more than two in each group",
+                "action": "TERMINATE"
+            },
+            {
+                "question": "Have you purchased at least one pack of any brand of cigarettes advertised as low tar in the last 6 months?",
+                "response": "What Brand?",
+                "action": "NO TERMINATE"
+            },
+            {
+                "question": "Are you employed?",
+                "note": "FEMALE GROUPS SHOULD BE COMPOSED ABOUT EQUALLY OF WOMEN WHO WORK OUTSIDE THE HOME AND FULL TIME HOMEMAKERS. MALE GROUPS ARE TO BE EMPLOYED MEN."
+            },
+            {
+                "question": "Have you participated in a Marketing Research group discussion in the past 6 months?",
+                "response": "YES",
+                "action": "TERMINATE NO"
+            }
+        ]
+    }
+}

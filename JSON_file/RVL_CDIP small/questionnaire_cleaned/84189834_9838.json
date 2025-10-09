@@ -1,0 +1,122 @@
+{
+    "address": {
+        "street": "1-6-140 Lexington Ave.",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10021"
+    },
+    "company": "Contemporary Marketing Research",
+    "date": "June 1981",
+    "phone": "T334-7066",
+    "test": "Commercial Test",
+    "questionnaire": {
+        "screening": "Screening Questionnaire",
+        "city_state": "City/State",
+        "length": "0",
+        "date": "6-19-81",
+        "validated_by": "Ae",
+        "introduction": "Hello. From Contemporary Marketing Research. We are asking men and women in your area a few questions and would like to include your opinions in our study.",
+        "questions": [
+            {
+                "question": "Do you or does anyone in your family work for the following types of companies?",
+                "options": [
+                    "A Market Research firm",
+                    "An advertising agency",
+                    "A Manufacturer or distributor of cigarettes or tobacco products"
+                ],
+                "terminate_if_yes": true
+            },
+            {
+                "question": "Which of the following groups includes your age?",
+                "options": [
+                    "Under 21",
+                    "21-29",
+                    "30-39",
+                    "40-49",
+                    "50-59",
+                    "60-65",
+                    "Over 65"
+                ],
+                "terminate_if_under_21": true,
+                "terminate_if_over_65": true
+            },
+            {
+                "question": "Do you smoke cigarettes?",
+                "options": [
+                    "Yes",
+                    "No"
+                ],
+                "terminate_if_no": true
+            },
+            {
+                "question": "About how many cigarettes do you smoke in an average day?",
+                "options": [
+                    "Less than 10 (Less than 1/2 pack)",
+                    "10-19 (1/2 to less than 1 pack)",
+                    "20-29 (1 pack to less than 1 1/2 packs)",
+                    "30-39 (1 1/2 packs to less than 2 packs)",
+                    "40 or More (2 or more packs)"
+                ],
+                "terminate_if_less_than_10": true
+            }
+        ],
+        "quotas": {
+            "sex": [
+                "Male",
+                "Female"
+            ],
+            "age": [
+                "21-34",
+                "35+"
+            ]
+        },
+        "questionnaire_color": {
+            "white": {
+                "ad_letter": "fu",
+                "codes": [
+                    1,
+                    3,
+                    5,
+                    7,
+                    9
+                ]
+            },
+            "blue": {
+                "ad_letter": "g",
+                "codes": [
+                    2,
+                    4,
+                    6,
+                    8,
+                    10
+                ]
+            },
+            "pink": {
+                "ad_letter": "y",
+                "codes": [
+                    11,
+                    13,
+                    15,
+                    17,
+                    19
+                ]
+            },
+            "yellow": {
+                "ad_letter": "y",
+                "codes": [
+                    12,
+                    14,
+                    16,
+                    18,
+                    20
+                ]
+            },
+            "green": {
+                "ad_letter": "y",
+                "codes": [
+                    0
+                ]
+            }
+        }
+    }
+}

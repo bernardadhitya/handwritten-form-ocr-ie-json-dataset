@@ -1,0 +1,82 @@
+{
+    "company": "ATIONAL CONSENSUS SURVEYS",
+    "address": {
+        "street": "801 Second Avenue",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10017"
+    },
+    "phone": "294-5025",
+    "instructions": "Please take a few minutes to go through the advertisements in this book. Please take as much time with each ad as you care to. If you ordinarily wear reading glasses, you'll need them.",
+    "questions": [
+        {
+            "question": "What brands or products do you remember seeing ads for in the book?",
+            "prompt": "Any other brands?",
+            "note": "DO NOT READ EITHER BRAND NAMES OR PRODUCT CATEGORIES."
+        },
+        {
+            "category": "CIGARETTE ADS",
+            "brands": [
+                "Amana Range",
+                "Dole Pineapple",
+                "Luke",
+                "Bayer Aspirin",
+                "BankAmericard/VISA",
+                "General Electric Washer",
+                "Bilcoa Bottle",
+                "Coldaa Lighes",
+                "Colden",
+                "Budweiser",
+                "Old Spice Pocket Cologne",
+                "Kawasaki",
+                "Kent",
+                "Cold",
+                "Canadian Club",
+                "Polaroid Camera",
+                "Kent Light",
+                "Kent Golden Light",
+                "Coca Cola",
+                "Singer Sewing Machines",
+                "Concord Watches",
+                "Teeter's Choice",
+                "Lighte Uaep",
+                "Kant",
+                "Dase",
+                "Crest toothpaste",
+                "Other"
+            ]
+        },
+        {
+            "conditional": "IF NO CIGARETTE BRANDS MENTIONED ABOVE ASK Q.3a.",
+            "question": "Do you remember any ads for cigarettes?",
+            "options": [
+                "Yes"
+            ],
+            "prompt": "What brands do you remember?",
+            "additional_prompt": "Any others?"
+        },
+        {
+            "conditional": "IF ONE OR TWO CIGARETTE BRANDS MENTIONED ASK",
+            "question": "What brands were they?",
+            "prompt": "Any others?",
+            "brands": [
+                "Luk",
+                "Golden Light",
+                "Golden Unsp.",
+                "Kent",
+                "Golden",
+                "Kent Light",
+                "Light"
+            ]
+        },
+        {
+            "conditional": "IF TRUE MENTIONED IN Q.2 OR 3 CONTINUE.",
+            "note": "IF TRUE NOT MENTIONED IN Q.2, 3a OR 3b SKIP TO Q.10.",
+            "brands": [
+                "Kent Unsp.",
+                "True",
+                "Other"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "survey": {
+        "title": "ATTITUDE AND LIFESTYLE SURVEY",
+        "description": "Questions of importance to them. We think you will find the questions interesting and fun to answer. Your answers will be TOTALLY CONFIDENTIAL and ANONYMOUS. Your answers will be combined with those of other respondents and only summary information will be reported.",
+        "sections": [
+            {
+                "title": "BRA USAGE",
+                "questions": [
+                    {
+                        "question": "Please write in below the complete brand name as it appears on the pack of your usual brand of cigarettes such as: Salem Slim Lights, Marlboro Lights 100 etc.",
+                        "response": "Marlboro"
+                    },
+                    {
+                        "question": "Which of these words appear on the pack?",
+                        "options": [
+                            "Lights",
+                            "Ultra Lights",
+                            "Long Lights",
+                            "Slim Lights",
+                            "Milds",
+                            "None of these"
+                        ],
+                        "response": null
+                    },
+                    {
+                        "question": "Is your usual brand a filter or non-filter?",
+                        "options": [
+                            "Filter",
+                            "Non-filter"
+                        ],
+                        "response": null
+                    },
+                    {
+                        "question": "Is your usual brand menthol or non-menthol?",
+                        "options": [
+                            "Menthol",
+                            "Non-menthol"
+                        ],
+                        "response": null
+                    },
+                    {
+                        "question": "Is your usual brand in a soft pack or box?",
+                        "options": [
+                            "Soft Pack",
+                            "Box"
+                        ],
+                        "response": null
+                    },
+                    {
+                        "question": "How many cigarettes do you smoke each day?",
+                        "options": [
+                            "Less than 10 cig.",
+                            "Half of pack",
+                            "One pack",
+                            "Two packs or more",
+                            "Other (Specify)"
+                        ],
+                        "response": null
+                    },
+                    {
+                        "question": "Do you use a cigarette case?",
+                        "options": [
+                            "Yes",
+                            "No"
+                        ],
+                        "response": null
+                    }
+                ]
+            }
+        ]
+    },
+    "codes": [
+        "51034",
+        "3663"
+    ]
+}

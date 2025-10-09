@@ -1,0 +1,75 @@
+{
+    "ALPHA_RECOGNITION_THRESHOLD_ATTRIBUTE_PROFILE_ARTAP": {
+        "NAME": "Mgate",
+        "DATE9": null,
+        "FEMA_NO": null,
+        "CODE_NO": null,
+        "AROMA_RAW_MATERIAL": "Meuthgne",
+        "THRESHOLD": {
+            "Min": "2",
+            "Max": "7",
+            "Unit": "ppm"
+        },
+        "ATTRIBUTE_PROFILE": {
+            "Cigarette_like_taste": "Yes",
+            "Artificial_taste": "No",
+            "Fresh_tobacco_like_taste": "NO",
+            "Smoke_like_taste": "e",
+            "Background_mask": "No.effect",
+            "Dry_puff_character": "100",
+            "Aftertaste": {
+                "Yes_No": null,
+                "Agreeable": null,
+                "Disagreeable": null,
+                "clean": null,
+                "Tingering": null,
+                "sweet": null,
+                "coating": null,
+                "sour": null,
+                "oily": null
+            },
+            "Trigeminal_sensation": [
+                "nasal sting",
+                "tongue bite",
+                "coo7ing",
+                "throat scratch",
+                "astringent",
+                "heating",
+                "peppery (tingly)",
+                "soothing",
+                "salivating"
+            ],
+            "Categorization_of_flavor": [
+                "artificial",
+                "chocolate/cocoa",
+                "flue-cured",
+                "metallic",
+                "nutty/pyrazine",
+                "burley",
+                "wyy",
+                "nice mutk fe",
+                "phenolic",
+                "roasted",
+                "flora7",
+                "green",
+                "honey",
+                "fruity/wine",
+                "sour/acidic",
+                "woody",
+                "spicy 4",
+                "sweet",
+                "carame7",
+                "bitter"
+            ],
+            "Major_character_description": null,
+            "Recommendations": [
+                "50638",
+                "NM",
+                "9234"
+            ]
+        },
+        "ADDITIONAL_COMMENTS": {
+            "ranf+8d #rns": null
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "survey": {
+        "title": "SUPPORT THE LAW--POLICE SURVEY",
+        "introduction": "Dear Sir or Madam: program from R.J. Reynolds Tobacco. This program is aimed at helping retailers keep cigarettes out of the hands of kids. Your thoughts and Would you please take a moment and complete this questionnaire about the materials you received. Your assistance is greatly appreciated.",
+        "questions": [
+            {
+                "question": "Did you receive the 'Support The Law' information kit and material samples which you requested?",
+                "options": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            {
+                "question": "Once you received the kit and materials, did you review them in detail?",
+                "options": [
+                    "Yes",
+                    "No"
+                ],
+                "response": "Yes"
+            },
+            {
+                "question": "According to our records, you did not request any additional information. If you did, please let us know and we'll follow-up with your order. Otherwise, would you mind telling us why you didn't feel the need to order additional information?",
+                "response": ""
+            },
+            {
+                "question": "Did you share the program with anyone else in: Your department?",
+                "options": [
+                    "Yes",
+                    "No"
+                ],
+                "response": "",
+                "follow_up": {
+                    "question": "If yes, who?",
+                    "response": ""
+                }
+            },
+            {
+                "question": "Did you share the program with anyone else in: The community?",
+                "options": [
+                    "Yes",
+                    "No"
+                ],
+                "response": "",
+                "follow_up": {
+                    "question": "If yes, who?",
+                    "response": ""
+                }
+            }
+        ],
+        "personal_information": {
+            "name": "",
+            "position": "",
+            "organization": "",
+            "mailing_address": "",
+            "city": "",
+            "state": "",
+            "zip": "",
+            "telephone_area_code": "",
+            "telephone_number": ""
+        },
+        "closing": "Thank you very much for your time."
+    }
+}

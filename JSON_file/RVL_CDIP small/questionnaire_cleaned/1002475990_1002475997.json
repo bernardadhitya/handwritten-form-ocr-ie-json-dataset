@@ -1,0 +1,114 @@
+{
+    "company": "Commercial Analysts Co.",
+    "address": "211 E. 43rd",
+    "job": "278",
+    "date": "April 1976",
+    "study": "SHOKIR STUDY",
+    "questions": [
+        {
+            "question": "Are you 18 or over?",
+            "responses": {
+                "yes": "ASK Q.1",
+                "no": "ASK May I speak with anyone who is 18 or over? IF NO ONE 18 OR OVER AT HOME THANK AND TERMINATE."
+            }
+        },
+        {
+            "question": "Do you have a T.V. set at home?",
+            "responses": {
+                "yes": null,
+                "no": null
+            }
+        },
+        {
+            "question": "Do you have a car in your family?",
+            "responses": {
+                "yes": null,
+                "no": null
+            }
+        },
+        {
+            "question": "Do you smoke cigarettes, that is, at least a pack a week?",
+            "responses": {
+                "yes": null,
+                "no": "IF NO TO BOTH Q.1C & Q.2 - TERMINATE AND RECORD UNDER NO SHOKER ON CALL RECORD SHEET"
+            }
+        },
+        {
+            "question": "Does anyone else 18 or older who is currently living at home smoke cigarettes, that is, at least a pack a week?",
+            "responses": {
+                "yes": null,
+                "no": "IF NO TO BOTH Q.1C & Q.2 - TERMINATE AND RECORD UNDER NO SHOKER ON CALL RECORD SHEET"
+            }
+        },
+        {
+            "question": "Could you please tell me the ages of all the men 18 or over from the youngest to the oldest living in this household who smoke cigarettes?",
+            "note": "IF RESPONDENT IS MALE & SMOKES ADD Be sure to include yourself",
+            "responses": {
+                "record": "RECORD AT SHOKER 234 BELOW IN ORDER UP TO 4 ONLY AND SKIP TO Q.4 IF MORE THAN FOUR RECORD FIRST FOUR ONLY AND SKIP TO Q.4 IF NONE CHECK HERE AND ASK Q.3b"
+            }
+        },
+        {
+            "question": "Now could you tell me the ages of all the women 18 or over from the youngest to the oldest living in this household who smoke cigarettes?",
+            "note": "IF RESPONDENT IS FEMALE & SMOKES ADD Be sure to include yourself",
+            "responses": {
+                "record": "RECORD FROM LEFT TO RIGHT BELOW UP TO 4 ONLY"
+            }
+        },
+        {
+            "question": "For each person mentioned in Q.3a or Q.3b, is [MENTION PERSON BY AGE & SEX OR AS YOUR HUSBAND, YOUR SON, ETC.] at home now?",
+            "responses": {
+                "yes": null,
+                "no": null
+            }
+        }
+    ],
+    "smokers": [
+        {
+            "smoker": 1,
+            "sex": "Male",
+            "age": "18-24"
+        },
+        {
+            "smoker": 2,
+            "sex": "Female",
+            "age": "25-34"
+        },
+        {
+            "smoker": 3,
+            "sex": "Male",
+            "age": "35-44"
+        },
+        {
+            "smoker": 4,
+            "sex": "Female",
+            "age": "45-49"
+        }
+    ],
+    "contact": {
+        "at_home_now": {
+            "yes": null,
+            "no": null
+        },
+        "select_id": {
+            "1": null,
+            "2": null,
+            "3": null,
+            "4": null
+        },
+        "speak_to": {
+            "question": "May I speak to him/her or your husband, etc. please?",
+            "note": "REPEAT INTRODUCTION IF NECESSARY AND THEN SKIP TO Q.6 IF DESIRED SMOKER CANNOT BE INTERVIEWED EVEN THOUGH AT HOME ASK Q.5b"
+        },
+        "call_back": {
+            "question": "I'd like to call back later. What would be a good time to reach him/her or your husband, etc. at this number?",
+            "record": "RECORD SMOKER'S NAME, CALLBACK DATE & TIME",
+            "fields": {
+                "name": null,
+                "date": null,
+                "time": null,
+                "telephone_area_code": null
+            }
+        }
+    },
+    "note": "NO INTERVIEW POSSIBLE EVEN THOUGH ONE OR MORE SMOKERS IN HOUSEHOLD"
+}

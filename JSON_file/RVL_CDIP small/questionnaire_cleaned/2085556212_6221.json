@@ -1,0 +1,56 @@
+{
+    "title": "PM-YSP Brochure Study",
+    "document": {
+        "send_po": "Oame",
+        "cudite": "Questionnaire",
+        "behevadle": "-DRAFT3-",
+        "date": "November 16, 2001",
+        "company": "StrategyOne",
+        "introduction": "Hello, My name is [NAME] at home. I'm calling from StrategyOne, a national market research and public opinion polling firm. Today we are conducting an opinion poll and I would like to ask a few questions. We are not selling anything, and I won't ask for a contribution or a donation. The entire poll should take approximately 15 minutes. May we continue?",
+        "instructions": "I would like to read to you a series of statements. For each please tell me whether you strongly agree, somewhat agree, somewhat disagree or strongly disagree with the statement. The first statement is [INSERT STATEMENT]."
+    },
+    "sections": [
+        {
+            "title": "General Attitudes",
+            "questions": [
+                {
+                    "question": "I wish there was more information available about the dangers of smoking cigarettes.",
+                    "responses": {
+                        "4": "Strongly agree",
+                        "3": "Somewhat agree",
+                        "2": "Somewhat disagree",
+                        "1": "Strongly disagree",
+                        "5": "Don't know (DO NOT READ)"
+                    }
+                },
+                {
+                    "question": "I am concerned about my children smoking and will do everything in my power to prevent them from starting.",
+                    "responses": {
+                        "4": "Strongly agree",
+                        "3": "Somewhat agree",
+                        "2": "Somewhat disagree",
+                        "1": "Strongly disagree",
+                        "5": "Don't know (DO NOT READ)"
+                    }
+                },
+                {
+                    "question": "I wish I had more time to sit and talk to my kids about tough issues like under-age drinking, drugs and smoking.",
+                    "responses": {
+                        "4": "Strongly agree",
+                        "3": "Somewhat agree",
+                        "2": "Somewhat disagree",
+                        "1": "Strongly disagree",
+                        "5": "Don't know (DO NOT READ)"
+                    }
+                },
+                {
+                    "question": "I find it difficult to talk to my children about tough issues like under-age drinking, drugs and smoking.",
+                    "responses": {
+                        "4": "Strongly agree",
+                        "3": "Somewhat agree"
+                    }
+                }
+            ]
+        }
+    ]
+}
