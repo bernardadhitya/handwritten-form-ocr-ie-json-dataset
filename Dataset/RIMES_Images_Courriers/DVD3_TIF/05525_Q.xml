@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2476" height="3504">05525_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Gestion de sinistre</scenario>
+  <writer>CHARRIERE Sonia</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="175" top_left_y="291" bottom_right_x="734" bottom_right_y="431">
+       <type>Code d'envoi</type>
+       <text>GIOMXE</text>
+  </box>
+  <box top_left_x="407" top_left_y="453" bottom_right_x="1217" bottom_right_y="558">
+       <type>Nom</type>
+       <text>Charrière</text>
+  </box>
+  <box top_left_x="1410" top_left_y="453" bottom_right_x="2186" bottom_right_y="556">
+       <type>Prénom</type>
+       <text>Sonia</text>
+  </box>
+  <box top_left_x="490" top_left_y="555" bottom_right_x="2193" bottom_right_y="649">
+       <type>Adresse</type>
+       <text>26 rue du vignoble</text>
+  </box>
+  <box top_left_x="567" top_left_y="655" bottom_right_x="987" bottom_right_y="760">
+       <type>Code Postal</type>
+       <text>67450</text>
+  </box>
+  <box top_left_x="1109" top_left_y="650" bottom_right_x="2196" bottom_right_y="756">
+       <type>Ville</type>
+       <text>Lampertheim</text>
+  </box>
+  <box top_left_x="373" top_left_y="767" bottom_right_x="1249" bottom_right_y="913">
+       <type>Téléphone</type>
+       <text>0393495460</text>
+  </box>
+  <box top_left_x="513" top_left_y="1035" bottom_right_x="2194" bottom_right_y="1149">
+       <type>Catégorie Scénario</type>
+       <text>Gestion de sinistre</text>
+  </box>
+  <box top_left_x="296" top_left_y="1144" bottom_right_x="2194" bottom_right_y="1324">
+       <type>Objet Scénario</type>
+       <text>Vous êtes sans nouvelles concernant l'expertise de\nvotre ¤{vehicule/véhicule}¤ accidenté le mois dernier</text>
+  </box>
+  <box top_left_x="288" top_left_y="1322" bottom_right_x="2193" bottom_right_y="1508">
+       <type>Complément Scénario</type>
+       <text>\n</text>
+  </box>
+  <box top_left_x="913" top_left_y="1528" bottom_right_x="1551" bottom_right_y="1676">
+       <type>Référence client</type>
+       <text>XRPAI96</text>
+  </box>
+  <box top_left_x="588" top_left_y="1674" bottom_right_x="2199" bottom_right_y="1769">
+       <type>Interlocuteur</type>
+       <text>NNA assurance</text>
+  </box>
+  <box top_left_x="499" top_left_y="1763" bottom_right_x="2200" bottom_right_y="1867">
+       <type>Adresse Interlocuteur</type>
+       <text>Le Bourg</text>
+  </box>
+  <box top_left_x="576" top_left_y="1862" bottom_right_x="1007" bottom_right_y="1981">
+       <type>Code Postal Interlocuteur</type>
+       <text>26420</text>
+  </box>
+  <box top_left_x="1140" top_left_y="1859" bottom_right_x="2200" bottom_right_y="1961">
+       <type>Ville Interlocuteur</type>
+       <text>Vassieux en Vercors</text>
+  </box>
+  <box top_left_x="1056" top_left_y="2200" bottom_right_x="1270" bottom_right_y="2310">
+       <type>Temps passé</type>
+       <text>10</text>
+  </box>
+  <box top_left_x="901" top_left_y="2135" bottom_right_x="952" bottom_right_y="2190">
+       <type>Stylo bille</type>
+       <text></text>
+  </box>
+  <box top_left_x="1077" top_left_y="2135" bottom_right_x="1126" bottom_right_y="2187">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1266" top_left_y="2137" bottom_right_x="1369" bottom_right_y="2193">
+       <type>Stylo feutre</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="294" top_left_y="2602" bottom_right_x="358" bottom_right_y="2665">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1596" top_left_y="2557" bottom_right_x="2197" bottom_right_y="2669">
+       <type>Date d'envoi postal</type>
+       <text>6 mai 2007</text>
+  </box>
+  <box top_left_x="303" top_left_y="2698" bottom_right_x="353" bottom_right_y="2746">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="301" top_left_y="2793" bottom_right_x="353" bottom_right_y="2838">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1739" top_left_y="2730" bottom_right_x="2190" bottom_right_y="2847">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="301" top_left_y="2884" bottom_right_x="353" bottom_right_y="2933">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1595" top_left_y="2850" bottom_right_x="2192" bottom_right_y="2952">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1735" top_left_y="3046" bottom_right_x="2001" bottom_right_y="3140">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="574" top_left_y="3073" bottom_right_x="624" bottom_right_y="3123">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="779" top_left_y="3072" bottom_right_x="830" bottom_right_y="3123">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="961" top_left_y="3072" bottom_right_x="1011" bottom_right_y="3123">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1073" top_left_y="2947" bottom_right_x="2193" bottom_right_y="3047">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>

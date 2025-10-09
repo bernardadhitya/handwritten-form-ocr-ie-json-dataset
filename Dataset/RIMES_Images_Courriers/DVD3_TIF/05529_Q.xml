@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2475" height="3505">05529_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Gestion de sinistre</scenario>
+  <writer>LE GALL Laurent</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="163" top_left_y="360" bottom_right_x="722" bottom_right_y="502">
+       <type>Code d'envoi</type>
+       <text>ZYNQTS</text>
+  </box>
+  <box top_left_x="394" top_left_y="523" bottom_right_x="1205" bottom_right_y="630">
+       <type>Nom</type>
+       <text>LE GALL</text>
+  </box>
+  <box top_left_x="1399" top_left_y="525" bottom_right_x="2173" bottom_right_y="629">
+       <type>Prénom</type>
+       <text>Laurent</text>
+  </box>
+  <box top_left_x="478" top_left_y="626" bottom_right_x="2178" bottom_right_y="722">
+       <type>Adresse</type>
+       <text>9 rue principale</text>
+  </box>
+  <box top_left_x="555" top_left_y="726" bottom_right_x="973" bottom_right_y="833">
+       <type>Code Postal</type>
+       <text>57620</text>
+  </box>
+  <box top_left_x="1096" top_left_y="721" bottom_right_x="2180" bottom_right_y="832">
+       <type>Ville</type>
+       <text>MOUTERHOUSE</text>
+  </box>
+  <box top_left_x="362" top_left_y="838" bottom_right_x="1236" bottom_right_y="987">
+       <type>Téléphone</type>
+       <text>0396478408</text>
+  </box>
+  <box top_left_x="501" top_left_y="1106" bottom_right_x="2179" bottom_right_y="1225">
+       <type>Catégorie Scénario</type>
+       <text>Gestion de sinistre</text>
+  </box>
+  <box top_left_x="284" top_left_y="1216" bottom_right_x="2178" bottom_right_y="1403">
+       <type>Objet Scénario</type>
+       <text>Vous faites appel à votre assurance automobile\n</text>
+  </box>
+  <box top_left_x="276" top_left_y="1394" bottom_right_x="2177" bottom_right_y="1588">
+       <type>Complément Scénario</type>
+       <text>Vous avez provoqué un accident de la route\n(Vous déclarez joindre le constat)</text>
+  </box>
+  <box top_left_x="900" top_left_y="1602" bottom_right_x="1538" bottom_right_y="1754">
+       <type>Référence client</type>
+       <text>YXWBY99</text>
+  </box>
+  <box top_left_x="575" top_left_y="1749" bottom_right_x="2183" bottom_right_y="1849">
+       <type>Interlocuteur</type>
+       <text>MANIF Assurances</text>
+  </box>
+  <box top_left_x="486" top_left_y="1839" bottom_right_x="2182" bottom_right_y="1946">
+       <type>Adresse Interlocuteur</type>
+       <text>Le Bourg</text>
+  </box>
+  <box top_left_x="564" top_left_y="1938" bottom_right_x="993" bottom_right_y="2058">
+       <type>Code Postal Interlocuteur</type>
+       <text>31310</text>
+  </box>
+  <box top_left_x="1128" top_left_y="1940" bottom_right_x="2182" bottom_right_y="2041">
+       <type>Ville Interlocuteur</type>
+       <text>MONTBRUN BOCAGE</text>
+  </box>
+  <box top_left_x="1044" top_left_y="2276" bottom_right_x="1259" bottom_right_y="2387">
+       <type>Temps passé</type>
+       <text>30</text>
+  </box>
+  <box top_left_x="864" top_left_y="2215" bottom_right_x="967" bottom_right_y="2274">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1064" top_left_y="2212" bottom_right_x="1113" bottom_right_y="2264">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1281" top_left_y="2212" bottom_right_x="1333" bottom_right_y="2264">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="291" top_left_y="2681" bottom_right_x="368" bottom_right_y="2731">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1585" top_left_y="2634" bottom_right_x="2186" bottom_right_y="2746">
+       <type>Date d'envoi postal</type>
+       <text>6/05/07</text>
+  </box>
+  <box top_left_x="291" top_left_y="2776" bottom_right_x="341" bottom_right_y="2824">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="289" top_left_y="2870" bottom_right_x="341" bottom_right_y="2916">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1728" top_left_y="2808" bottom_right_x="2178" bottom_right_y="2925">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="289" top_left_y="2962" bottom_right_x="341" bottom_right_y="3012">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1582" top_left_y="2928" bottom_right_x="2180" bottom_right_y="3031">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1723" top_left_y="3125" bottom_right_x="1989" bottom_right_y="3220">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="562" top_left_y="3152" bottom_right_x="613" bottom_right_y="3202">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="767" top_left_y="3151" bottom_right_x="819" bottom_right_y="3202">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="950" top_left_y="3151" bottom_right_x="999" bottom_right_y="3202">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1061" top_left_y="3026" bottom_right_x="2180" bottom_right_y="3126">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>

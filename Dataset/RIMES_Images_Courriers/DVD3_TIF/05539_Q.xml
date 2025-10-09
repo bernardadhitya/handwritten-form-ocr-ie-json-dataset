@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2475" height="3500">05539_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Difficulté de paiement</scenario>
+  <writer>BERTEAUX Logan</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="194" top_left_y="346" bottom_right_x="752" bottom_right_y="490">
+       <type>Code d'envoi</type>
+       <text>DNPEJD</text>
+  </box>
+  <box top_left_x="425" top_left_y="510" bottom_right_x="1235" bottom_right_y="621">
+       <type>Nom</type>
+       <text>BERTEAUX</text>
+  </box>
+  <box top_left_x="1429" top_left_y="516" bottom_right_x="2203" bottom_right_y="623">
+       <type>Prénom</type>
+       <text>LOGAN</text>
+  </box>
+  <box top_left_x="509" top_left_y="613" bottom_right_x="2208" bottom_right_y="715">
+       <type>Adresse</type>
+       <text>13 CHEMIN DU ROUAN</text>
+  </box>
+  <box top_left_x="585" top_left_y="714" bottom_right_x="1004" bottom_right_y="822">
+       <type>Code Postal</type>
+       <text>54160</text>
+  </box>
+  <box top_left_x="1126" top_left_y="711" bottom_right_x="2210" bottom_right_y="825">
+       <type>Ville</type>
+       <text>PIERREVILLE</text>
+  </box>
+  <box top_left_x="391" top_left_y="826" bottom_right_x="1266" bottom_right_y="976">
+       <type>Téléphone</type>
+       <text>0316745863</text>
+  </box>
+  <box top_left_x="530" top_left_y="1094" bottom_right_x="2206" bottom_right_y="1217">
+       <type>Catégorie Scénario</type>
+       <text>DIFFICULTE DE PAIEMENT</text>
+  </box>
+  <box top_left_x="313" top_left_y="1204" bottom_right_x="2204" bottom_right_y="1392">
+       <type>Objet Scénario</type>
+       <text>Demande d'échelonnement\n</text>
+  </box>
+  <box top_left_x="305" top_left_y="1383" bottom_right_x="2202" bottom_right_y="1577">
+       <type>Complément Scénario</type>
+       <text>Vous venez de perdre votre emploi\n</text>
+  </box>
+  <box top_left_x="929" top_left_y="1593" bottom_right_x="1565" bottom_right_y="1744">
+       <type>Référence client</type>
+       <text>EIMDV34</text>
+  </box>
+  <box top_left_x="604" top_left_y="1740" bottom_right_x="2210" bottom_right_y="1838">
+       <type>Interlocuteur</type>
+       <text>LES 3 SUIFS</text>
+  </box>
+  <box top_left_x="515" top_left_y="1829" bottom_right_x="2210" bottom_right_y="1935">
+       <type>Adresse Interlocuteur</type>
+       <text></text>
+  </box>
+  <box top_left_x="592" top_left_y="1928" bottom_right_x="1021" bottom_right_y="2048">
+       <type>Code Postal Interlocuteur</type>
+       <text>33230</text>
+  </box>
+  <box top_left_x="1156" top_left_y="1929" bottom_right_x="2210" bottom_right_y="2033">
+       <type>Ville Interlocuteur</type>
+       <text>LAGORCE</text>
+  </box>
+  <box top_left_x="1071" top_left_y="2267" bottom_right_x="1286" bottom_right_y="2378">
+       <type>Temps passé</type>
+       <text>6</text>
+  </box>
+  <box top_left_x="891" top_left_y="2205" bottom_right_x="967" bottom_right_y="2255">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1092" top_left_y="2202" bottom_right_x="1141" bottom_right_y="2254">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1307" top_left_y="2203" bottom_right_x="1359" bottom_right_y="2255">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="318" top_left_y="2671" bottom_right_x="359" bottom_right_y="2721">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1612" top_left_y="2628" bottom_right_x="2212" bottom_right_y="2741">
+       <type>Date d'envoi postal</type>
+       <text>9/5/2007</text>
+  </box>
+  <box top_left_x="319" top_left_y="2754" bottom_right_x="359" bottom_right_y="2814">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="317" top_left_y="2860" bottom_right_x="365" bottom_right_y="2910">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1754" top_left_y="2801" bottom_right_x="2204" bottom_right_y="2920">
+       <type>Date d'envoi par fax</type>
+       <text>9/5/2007</text>
+  </box>
+  <box top_left_x="317" top_left_y="2953" bottom_right_x="364" bottom_right_y="3003">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1609" top_left_y="2921" bottom_right_x="2206" bottom_right_y="3024">
+       <type>Date d'envoi par courriel</type>
+       <text>9/5/2007</text>
+  </box>
+  <box top_left_x="1750" top_left_y="3116" bottom_right_x="2016" bottom_right_y="3210">
+       <type>Résolution</type>
+       <text>200</text>
+  </box>
+  <box top_left_x="588" top_left_y="3140" bottom_right_x="638" bottom_right_y="3189">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="794" top_left_y="3141" bottom_right_x="846" bottom_right_y="3191">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="978" top_left_y="3136" bottom_right_x="1031" bottom_right_y="3193">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1087" top_left_y="3017" bottom_right_x="2207" bottom_right_y="3119">
+       <type>Marque et modèle scanner</type>
+       <text>CANON CANOSCAN LIDE 70</text>
+  </box>
+</annotation>
