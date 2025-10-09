@@ -1,0 +1,51 @@
+{
+    "faxHeader": {
+        "date": "10/25/99",
+        "time": "19:39",
+        "faxNumber": "2029425209",
+        "company": "ARNOLD & PORTER",
+        "pageNumber": "001"
+    },
+    "facsimileTransmissionSheet": {
+        "company": "ARNOLD & PORTER",
+        "address": {
+            "building": "Thurman Arnold Building",
+            "street": "555 Twelfth Street, N.W.",
+            "city": "Washington",
+            "state": "D.C.",
+            "zip": "20004-1206"
+        },
+        "telephoneNumber": "2029425000",
+        "telexNumber": "89273 ARFOPO WSH",
+        "facsimileNumber": "2029425999",
+        "operatorContact": "2029425837"
+    },
+    "date": "October 25, 1999",
+    "recipient": {
+        "name": "Jacquie Gilbert",
+        "fax": "9176635978",
+        "telephone": "9176632805",
+        "company": "Philip Morris"
+    },
+    "sender": {
+        "name": "Carol Lally",
+        "telephone": "2029426207",
+        "room": "1228"
+    },
+    "timekeepers": {
+        "clientMatter": "4656",
+        "senderNumberOfPages": "11250.166"
+    },
+    "transmission": {
+        "numberOfPages": 26,
+        "includesCoverSheet": true,
+        "deadlineDateTime": null,
+        "alternateTelephone": null
+    },
+    "confidentialityNotice": "PRIVILEGED AND CONFIDENTIAL Information intended only for the use of the addressee named above. If the reader of this message is not the intended recipient or the employee or agent responsible for delivering the message to the intended recipient, please note that any dissemination, distribution, or copying of this communication is strictly prohibited. Anyone who receives this communication in error should notify us immediately by telephone and return the message.",
+    "message": "Here is the latest version of CR blacklined to show the differences between CR and PK",
+    "additionalInfo": {
+        "contactNumber": "2073978372",
+        "unknownCode": "tt8s -Zft-0Q"
+    }
+}

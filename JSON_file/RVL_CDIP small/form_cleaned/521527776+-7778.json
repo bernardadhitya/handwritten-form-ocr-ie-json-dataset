@@ -1,0 +1,57 @@
+{
+    "company": {
+        "name": "HOUGETOK INTERNATIONAL INC.",
+        "address": "P.O. BOX 30 VALLEY FORGE PA. 29482",
+        "phone": "620-666-4105",
+        "emergency_phone": "(800) 424-9300"
+    },
+    "document": {
+        "type": "Material Safety Data Sheet",
+        "revision_date": "082098",
+        "page": 1
+    },
+    "product": {
+        "name": "HOUGHTO-SAFE 620",
+        "proper_shipping_name": "HYDRAULIC SYSTEMS FLUID, OTHER THAN PETROLEUM",
+        "hazard_class": "NOT REGULATED",
+        "hazard_id_no": "N/A",
+        "completed_by": "Gary Carl"
+    },
+    "chemical_composition": [
+        {
+            "name": "2-DIETHYLAMINOETHANOL",
+            "cas_no": "100-37-8",
+            "tlv": "2 PPM SKIN",
+            "pel": "10 PPM SKIN"
+        }
+    ],
+    "physical_data": {
+        "specific_gravity": "1.08",
+        "vapor_pressure": "LIKE WATER",
+        "evaporation_rate": "LIKE WATER",
+        "vapor_density": "LIKE WATER",
+        "percent_volatile": "45",
+        "solubility_in_water": "COMPLETE",
+        "ph_neat": "9.5",
+        "appearance_and_odor": "RED FLUID, SLIGHT ODOR OF AMINE"
+    },
+    "fire_and_explosion_hazard_data": {
+        "flash_point": "NONE",
+        "lel": "N/A",
+        "uel": "N/A",
+        "hm_is_and_nfpa": {
+            "health": 1,
+            "fire": 0,
+            "reactivity": 0
+        },
+        "extinguishing_media": "N/A",
+        "special_fire_fighting_instructions": "PRODUCT IS A FIRE RESISTANT FLUID NOT FLAMMABLE AS USED",
+        "unusual_fire_and_explosion_hazards": "WATER, CARBON DIOXIDE, FOAM"
+    },
+    "health_hazard_information": {
+        "threshold_limit_value": "SEE SECTION II",
+        "routes_of_exposure": "UNKNOWN",
+        "chronic_effects": "UNKNOWN FOR THIS PRODUCT",
+        "acute_effects": "UNKNOWN"
+    }
+}

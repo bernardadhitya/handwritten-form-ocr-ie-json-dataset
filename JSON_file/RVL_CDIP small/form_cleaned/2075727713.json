@@ -1,0 +1,42 @@
+{
+    "date": "02/11/98",
+    "day": "Wednesday",
+    "time": "08:08",
+    "fax_number": "18042744780",
+    "recipient": {
+        "name": "Arthur N. Levine, Esq",
+        "company": "Arnold & Porter",
+        "telephone": "202/942-5242"
+    },
+    "sender": {
+        "name": "John E. Holleran",
+        "company": "Philip Morris Management Corp. - Legal",
+        "address": "P.O. Box 26583, Richmond, VA 23261-6583",
+        "telephone": "804274-5201",
+        "fax_number": "804274-4780"
+    },
+    "transmission": {
+        "tx_report": "888",
+        "status": "TRANSMISSION OK",
+        "tx_rx_no": "0020",
+        "connection_tel": "8p1p2029425999",
+        "connection_id": "ARNOLD&PORTER",
+        "start_time": "02/11 08:07",
+        "usage_time": "01'46",
+        "pages": 6,
+        "result": "OK"
+    },
+    "facsimile_transmission": {
+        "date": "02/11/98",
+        "to": "Arthur N. Levine, Esq",
+        "company": "Arnold & Porter",
+        "telephone": "202/942-5242",
+        "sender": "John E. Holleran",
+        "sender_company": "Philip Morris Management Corp. - Legal",
+        "sender_address": "P.O. Box 26583, Richmond, VA 23261-6583",
+        "sender_telephone": "804274-5201",
+        "sender_fax": "804274-4780",
+        "pages": 6,
+        "comments": "RUSH - PLEASE HAND. Privileged and Confidential. Attorney Work Product. LEVINE IN RM. 1229. 2075727713. Arthur, Here are my comments on the first 5 pages of the second draft of the CWLA document. I look forward to discussing these with you this morning. Jack"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "tobacco_product_test_information": {
+        "product_code": "L-14993",
+        "product_type": "Cigarettes - Lights",
+        "test_number": null,
+        "date_registered": "7-2-80",
+        "classification": "epe",
+        "charge_number": "8938",
+        "charge_date": "7-1 F-80",
+        "purpose_of_test": "To evaluate competitive brand cigarettes (generic)",
+        "test_design": {
+            "casing": null,
+            "processing": null,
+            "tob_rod": {
+                "circumference_mm": null,
+                "length_mm": null
+            },
+            "cigarette": {
+                "length_mm": null,
+                "paper": null
+            },
+            "filter": {
+                "circumference_mm": null,
+                "length_mm": null,
+                "percentage_type_plasticizer": null,
+                "tow_item_description": null
+            },
+            "tipping": {
+                "width_mm": null,
+                "color": null,
+                "id_number": null,
+                "porosity": null
+            },
+            "perforations": {
+                "lines": null,
+                "cto_c_mm": null,
+                "band_width_mm": null,
+                "type": null
+            }
+        },
+        "quantity": {
+            "number_of_cartons_per_purt": [
+                15,
+                30,
+                60
+            ],
+            "other": null
+        },
+        "other_instructions": [
+            "50478",
+            "6446"
+        ],
+        "form": "JRT Form 1198Rv.11/79"
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "company": "R.J.Reynolds Tobacco USA, Inc.",
+    "authorization_request": {
+        "subject": "Trans-Matic Aluminum Capsule",
+        "date_routed": "4/29/87",
+        "arno": "B-54",
+        "originator": "M.E.Skoggard",
+        "dept_ref_no": "785",
+        "development_contract": {
+            "start_date": "4/1/86",
+            "operational_date": "1/1/88"
+        },
+        "approval_request_summary": {
+            "description": "Authorization is requested to contract with Trans-Matic Manufacturing Company (T-M) for the development of a commercial process to produce aluminum capsules for Project SPA.",
+            "maximum_financial_exposure": "$1.2 million",
+            "development_section": "attached Summary Discussion"
+        },
+        "authority_requested": {
+            "previously": {
+                "capital": "300M",
+                "expense_development": "300M"
+            },
+            "this_request": {
+                "capital": "W006",
+                "contract_development": "W006"
+            },
+            "total": {
+                "other_capital": "$1200M",
+                "product_modification_introduction": "$1200M"
+            },
+            "subsequent_proposals_required": "No",
+            "previous_proposals": "Other",
+            "lease_or_other_continuing_commitment": {
+                "minimum": "$",
+                "total": "$",
+                "cost_justified_at": "%ROI"
+            }
+        },
+        "finance_data": {
+            "capital": "Expense",
+            "capital_id": "Authority Requested Covered By",
+            "budgeted_department": "785",
+            "amount": "$300M",
+            "project_id": "50585",
+            "funds_required_from": {
+                "department": "5",
+                "amount": "$"
+            },
+            "expense_code": "Corporate",
+            "corporate_amount": "$2136"
+        },
+        "financial_impact": {
+            "1986": {
+                "operating_earnings_loss": "$130M"
+            },
+            "1987": {
+                "operating_earnings_loss": "$170M"
+            },
+            "thereafter": {
+                "average": "$"
+            },
+            "corporate_funds_requested": "$"
+        },
+        "reviews_approvals": {
+            "dept": "RZ S JUPp",
+            "date": "",
+            "dept_initials": "",
+            "signature": "",
+            "date_2": "",
+            "dept_initials_2": "",
+            "date_3": "OD LLB",
+            "pres_rjrtdc": "RAK",
+            "r&d": "RAL",
+            "cfo": "MP",
+            "rjr": "13",
+            "operations_m&e": "FHC",
+            "yo": "MP",
+            "gwm": "Fin.&Admin.",
+            "grg": "Chmn",
+            "prs_ceo": "EAH"
+        },
+        "implementor_project_manager": "K.L. Rush",
+        "project_client_representative": "R.J.Reagan",
+        "department_management": "R.A.Lloyd"
+    }
+}

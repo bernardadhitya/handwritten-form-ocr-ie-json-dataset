@@ -1,0 +1,49 @@
+{
+    "formTitle": "NYO Inventory Items Disposition Form",
+    "to": "Records Management - 120 Park - 17th Floor",
+    "date": "12/9/93",
+    "from": {
+        "name": "James G. Ramsay",
+        "title": "Director, Editorial Services"
+    },
+    "department": "PM UsA Corporate Affairs",
+    "partA": {
+        "approvalToDestroy": "To approve destruction, please enter the authorized signature in the space provided.",
+        "items": [
+            {
+                "nyoCode": "01584",
+                "nyoDescription": "Best of America Cassette",
+                "date": "12/9/93"
+            },
+            {
+                "nyoCode": "01850",
+                "nyoDescription": "Albums Best of America Radio Series",
+                "date": "12/9/93"
+            },
+            {
+                "nyoCode": "01862",
+                "nyoDescription": "ETS Brochures",
+                "date": "12/9/93"
+            },
+            {
+                "nyoCode": "02110",
+                "nyoDescription": "Facilities Brochures",
+                "date": "12/9/93"
+            },
+            {
+                "nyoCode": "02179",
+                "nyoDescription": "Envelopes",
+                "date": "12/9/93"
+            },
+            {
+                "nyoCode": "02180",
+                "nyoDescription": "Photos of Turkey (Country)",
+                "date": "12/9/93"
+            }
+        ],
+        "authorization": {
+            "departmentHeadAuthorization": "2061669010",
+            "date": "L1"
+        }
+    }
+}

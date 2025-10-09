@@ -1,0 +1,39 @@
+{
+    "company": {
+        "name": "INBlFO Institut fur biologische Forschung GmbH",
+        "type": "Contract Research",
+        "address": {
+            "street": "Fuggerstr. 3",
+            "postal_code": "51149",
+            "city": "Cologne",
+            "country": "Germany"
+        },
+        "contact": {
+            "telephone": "+49-2203-303-1",
+            "telefax": "+49-2203-303-362"
+        },
+        "general_manager": "Dr. Wolf Reininghaus",
+        "trade_register": "Cologne HR8 367"
+    },
+    "telefax_message": {
+        "number": "#347",
+        "date": "April 6, 1999",
+        "from": "Dr. F. Tewes",
+        "to": {
+            "name": "Ms. Diane Gray",
+            "address": {
+                "company": "Toxicology Testing Services",
+                "division": "BioReliance",
+                "street": "14920 Broschart Drive",
+                "city": "Rockville",
+                "state": "MD",
+                "postal_code": "20850",
+                "country": "USA"
+            },
+            "fax_no": "001-301-7381036"
+        },
+        "subject": "Mammalian S9 microsome preparation",
+        "message": "We would like to order a new batch of Aroclor 1254-induced S9 catalog no.16-190. Therefore, we need to know which batches are available and in which amounts. We would also like to receive the corresponding S9 quality control certificates.",
+        "reference": "2505412131"
+    }
+}

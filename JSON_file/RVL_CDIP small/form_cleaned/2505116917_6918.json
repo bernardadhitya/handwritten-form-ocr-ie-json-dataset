@@ -1,0 +1,80 @@
+{
+    "CRCCONTRACT": "RESEARCH CENTER",
+    "DETERMINATION": "OF TEMPERATURE, TEST ATMOSPHERE",
+    "Form_no": "approvat208",
+    "Date": "14-12-1994",
+    "PROJECT_NO": "B037",
+    "CHECK_GROUP": [
+        {
+            "TIME": "12-54",
+            "TEMPERATURE_SPOTCHECK": {
+                "IN": "232",
+                "REMARKS": "V",
+                "NO": "7.0",
+                "CHAMBER": "8.32",
+                "INLET": "7",
+                "OUTLET": "27.6",
+                "C": "23.7"
+            }
+        },
+        {
+            "TIME": "1257",
+            "TEMPERATURE_SPOTCHECK": {
+                "IN": "28.9",
+                "REMARKS": "V",
+                "NO": "2",
+                "CHAMBER": "8.40",
+                "INLET": "22.0",
+                "OUTLET": "23.2",
+                "C": "A"
+            }
+        },
+        {
+            "TIME": "13.35",
+            "TEMPERATURE_SPOTCHECK": {
+                "IN": "25.3",
+                "REMARKS": "V",
+                "NO": "x",
+                "CHAMBER": "7",
+                "INLET": "3.0",
+                "OUTLET": "9.oz",
+                "C": "227"
+            }
+        },
+        {
+            "TIME": "2u.2",
+            "TEMPERATURE_SPOTCHECK": {
+                "IN": "KA",
+                "REMARKS": "2",
+                "NO": "73.1",
+                "CHAMBER": "26240",
+                "INLET": "V",
+                "OUTLET": "297",
+                "C": "X"
+            }
+        },
+        {
+            "TIME": "4.0",
+            "TEMPERATURE_SPOTCHECK": {
+                "IN": "4.00",
+                "REMARKS": "22.5",
+                "NO": "V",
+                "CHAMBER": "23.6",
+                "INLET": "U",
+                "OUTLET": "2",
+                "C": "24.1"
+            }
+        }
+    ],
+    "Ar_no": "2505116917",
+    "ls": "Oracle",
+    "SNE": "Date: 010c.9",
+    "Initials": "SD",
+    "Notes": [
+        "1 one determination in the first 90 min. of exposure and neh the last 90 min. of exposure",
+        "2) check if the parameter is within range OK out of range",
+        "REMARK: temperature range: 19-25C",
+        "Error codes: A: writing, B: calculation, C: mixing up, D: reading, E: copy, F: other with explanation"
+    ],
+    "Code": "002713"
+}

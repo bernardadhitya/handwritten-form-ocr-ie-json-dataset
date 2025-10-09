@@ -1,0 +1,45 @@
+{
+    "company": "PHILIP MORRIS U.S.A.",
+    "purchase_requisition": {
+        "requisition_number": "63",
+        "department_number": "990-63-693",
+        "account_number": null,
+        "po_number": null,
+        "date_prepared": "7-16-93",
+        "requisitioner": "1870",
+        "requisitioner_phone_no": null,
+        "suggested_supplier": "Ss",
+        "supplier_address": "105 Furm 3435",
+        "ship_to": null,
+        "deliver_to": null,
+        "date_required": "1",
+        "payment_terms": null,
+        "fob": {
+            "shipping_point": null,
+            "destination": null,
+            "other": null
+        },
+        "freight_terms": {
+            "prepay_and_add": null,
+            "collect": null,
+            "included": null
+        },
+        "route_via": null,
+        "reason_order_placed_with_vendor": "Hrcbasid",
+        "purpose": "Posph ocous Removl",
+        "quotes_attached": null,
+        "items_attached_to_be_sent_to_vendor": null,
+        "items": [
+            {
+                "quantity": "350",
+                "uofm": "GalloN",
+                "description": "One tANKe (Approy 3too GA) Of Ferric Chloride 38 +s 4%. mos+mic+pwwA s+ta&s",
+                "not_to_exceed_price": null,
+                "price": null
+            }
+        ],
+        "union_notification_required": null,
+        "approval_signatures_date": "7-16-93",
+        "approval_signature_id": "2030109375"
+    }
+}
