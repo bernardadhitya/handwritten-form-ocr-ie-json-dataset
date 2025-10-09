@@ -1,0 +1,41 @@
+{
+    "offer": "Restricted to smokers 21 years of age or older",
+    "form": {
+        "firstName": "",
+        "streetAddress": "",
+        "apartment": "",
+        "city": "",
+        "state": "",
+        "zipCode": "",
+        "homePhone": "",
+        "daytimePhone": "",
+        "gender": {
+            "male": false,
+            "female": false
+        },
+        "smokingPreference": {
+            "100s": false,
+            "long120": false,
+            "extraLong": false
+        },
+        "usualBrand": "",
+        "brandPreference": {
+            "checkOne": false,
+            "waitUntilStoreHasUsualBrand": false,
+            "buyDifferentBrand": false
+        }
+    },
+    "requestProcessing": {
+        "withoutSignature": false,
+        "todaysDate": "",
+        "signature": ""
+    },
+    "additionalInfo": {
+        "motorCosts": "Paid by manufacturer",
+        "houseAssumes": "Responsibility"
+    },
+    "codes": [
+        "51704",
+        "3921"
+    ]
+}
