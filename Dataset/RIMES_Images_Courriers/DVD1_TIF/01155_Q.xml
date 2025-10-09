@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2470" height="3508">01155_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Ouverture de compte</scenario>
+  <writer>GUICHARD Maeva</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="119" top_left_y="355" bottom_right_x="676" bottom_right_y="496">
+       <type>Code d'envoi</type>
+       <text>QRPTRL</text>
+  </box>
+  <box top_left_x="350" top_left_y="518" bottom_right_x="1158" bottom_right_y="624">
+       <type>Nom</type>
+       <text>GUICHARD</text>
+  </box>
+  <box top_left_x="1351" top_left_y="518" bottom_right_x="2122" bottom_right_y="621">
+       <type>Prénom</type>
+       <text>Maeva</text>
+  </box>
+  <box top_left_x="433" top_left_y="620" bottom_right_x="2128" bottom_right_y="712">
+       <type>Adresse</type>
+       <text>5 Rue de Feriet</text>
+  </box>
+  <box top_left_x="510" top_left_y="720" bottom_right_x="927" bottom_right_y="826">
+       <type>Code Postal</type>
+       <text>57420</text>
+  </box>
+  <box top_left_x="1049" top_left_y="714" bottom_right_x="2130" bottom_right_y="821">
+       <type>Ville</type>
+       <text>VERNY</text>
+  </box>
+  <box top_left_x="318" top_left_y="832" bottom_right_x="1188" bottom_right_y="980">
+       <type>Téléphone</type>
+       <text>0332653509</text>
+  </box>
+  <box top_left_x="457" top_left_y="1101" bottom_right_x="2128" bottom_right_y="1216">
+       <type>Catégorie Scénario</type>
+       <text>Ouverture de compte</text>
+  </box>
+  <box top_left_x="241" top_left_y="1211" bottom_right_x="2128" bottom_right_y="1392">
+       <type>Objet Scénario</type>
+       <text>Vous souhaitez vous abonner\n</text>
+  </box>
+  <box top_left_x="233" top_left_y="1388" bottom_right_x="2128" bottom_right_y="1577">
+       <type>Complément Scénario</type>
+       <text>Vous avez davantage de temps\npour vos loisirs</text>
+  </box>
+  <box top_left_x="856" top_left_y="1596" bottom_right_x="1492" bottom_right_y="1745">
+       <type>Référence client</type>
+       <text></text>
+  </box>
+  <box top_left_x="533" top_left_y="1743" bottom_right_x="2136" bottom_right_y="1839">
+       <type>Interlocuteur</type>
+       <text>Hebdomadaire "Top Coule"</text>
+  </box>
+  <box top_left_x="444" top_left_y="1833" bottom_right_x="2136" bottom_right_y="1937">
+       <type>Adresse Interlocuteur</type>
+       <text>13 Rue des Anciens Combattants</text>
+  </box>
+  <box top_left_x="522" top_left_y="1932" bottom_right_x="950" bottom_right_y="2052">
+       <type>Code Postal Interlocuteur</type>
+       <text>33230</text>
+  </box>
+  <box top_left_x="1085" top_left_y="1931" bottom_right_x="2136" bottom_right_y="2033">
+       <type>Ville Interlocuteur</type>
+       <text>Maransin</text>
+  </box>
+  <box top_left_x="1002" top_left_y="2271" bottom_right_x="1216" bottom_right_y="2381">
+       <type>Temps passé</type>
+       <text>20</text>
+  </box>
+  <box top_left_x="822" top_left_y="2210" bottom_right_x="925" bottom_right_y="2260">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1022" top_left_y="2206" bottom_right_x="1071" bottom_right_y="2258">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1238" top_left_y="2206" bottom_right_x="1290" bottom_right_y="2258">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="253" top_left_y="2677" bottom_right_x="330" bottom_right_y="2726">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1543" top_left_y="2627" bottom_right_x="2141" bottom_right_y="2739">
+       <type>Date d'envoi postal</type>
+       <text>29/11/06</text>
+  </box>
+  <box top_left_x="249" top_left_y="2765" bottom_right_x="330" bottom_right_y="2822">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="254" top_left_y="2865" bottom_right_x="331" bottom_right_y="2915">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1685" top_left_y="2800" bottom_right_x="2134" bottom_right_y="2918">
+       <type>Date d'envoi par fax</type>
+       <text>29/11/06</text>
+  </box>
+  <box top_left_x="260" top_left_y="2973" bottom_right_x="331" bottom_right_y="3011">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1541" top_left_y="2921" bottom_right_x="2136" bottom_right_y="3024">
+       <type>Date d'envoi par courriel</type>
+       <text>26/11/06</text>
+  </box>
+  <box top_left_x="1682" top_left_y="3117" bottom_right_x="1947" bottom_right_y="3212">
+       <type>Résolution</type>
+       <text>96</text>
+  </box>
+  <box top_left_x="525" top_left_y="3147" bottom_right_x="576" bottom_right_y="3197">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="734" top_left_y="3146" bottom_right_x="807" bottom_right_y="3196">
+       <type>Format GIF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="910" top_left_y="3146" bottom_right_x="960" bottom_right_y="3196">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1022" top_left_y="3019" bottom_right_x="2137" bottom_right_y="3120">
+       <type>Marque et modèle scanner</type>
+       <text>Canon Smart Base MPC 190</text>
+  </box>
+</annotation>

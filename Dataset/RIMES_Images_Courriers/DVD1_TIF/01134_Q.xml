@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2470" height="3502">01134_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Modification de contrat / Commande</scenario>
+  <writer>SORIN Cecile</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="163" top_left_y="351" bottom_right_x="720" bottom_right_y="494">
+       <type>Code d'envoi</type>
+       <text>CDJGGO</text>
+  </box>
+  <box top_left_x="393" top_left_y="515" bottom_right_x="1202" bottom_right_y="622">
+       <type>Nom</type>
+       <text>Sorin</text>
+  </box>
+  <box top_left_x="1396" top_left_y="517" bottom_right_x="2169" bottom_right_y="621">
+       <type>Prénom</type>
+       <text>Cécile</text>
+  </box>
+  <box top_left_x="476" top_left_y="617" bottom_right_x="2175" bottom_right_y="714">
+       <type>Adresse</type>
+       <text>2 rue de la Fontaine</text>
+  </box>
+  <box top_left_x="553" top_left_y="718" bottom_right_x="972" bottom_right_y="824">
+       <type>Code Postal</type>
+       <text>57310</text>
+  </box>
+  <box top_left_x="1094" top_left_y="713" bottom_right_x="2176" bottom_right_y="823">
+       <type>Ville</type>
+       <text>BOUSSE</text>
+  </box>
+  <box top_left_x="361" top_left_y="829" bottom_right_x="1233" bottom_right_y="977">
+       <type>Téléphone</type>
+       <text>0329747262</text>
+  </box>
+  <box top_left_x="500" top_left_y="1098" bottom_right_x="2174" bottom_right_y="1215">
+       <type>Catégorie Scénario</type>
+       <text>Modification de Contrat / Commande</text>
+  </box>
+  <box top_left_x="284" top_left_y="1208" bottom_right_x="2174" bottom_right_y="1392">
+       <type>Objet Scénario</type>
+       <text>Augmentation (x2) des quantités d'actions\nboursières commandées</text>
+  </box>
+  <box top_left_x="277" top_left_y="1387" bottom_right_x="2174" bottom_right_y="1578">
+       <type>Complément Scénario</type>
+       <text>Aucun\n</text>
+  </box>
+  <box top_left_x="901" top_left_y="1595" bottom_right_x="1537" bottom_right_y="1746">
+       <type>Référence client</type>
+       <text>IPAGL70</text>
+  </box>
+  <box top_left_x="577" top_left_y="1743" bottom_right_x="2182" bottom_right_y="1841">
+       <type>Interlocuteur</type>
+       <text>Banque Société Géniale</text>
+  </box>
+  <box top_left_x="489" top_left_y="1833" bottom_right_x="2181" bottom_right_y="1939">
+       <type>Adresse Interlocuteur</type>
+       <text>30 Boulevard de Courcelles les P</text>
+  </box>
+  <box top_left_x="567" top_left_y="1932" bottom_right_x="995" bottom_right_y="2052">
+       <type>Code Postal Interlocuteur</type>
+       <text>44290</text>
+  </box>
+  <box top_left_x="1129" top_left_y="1933" bottom_right_x="2181" bottom_right_y="2034">
+       <type>Ville Interlocuteur</type>
+       <text>Guemene Penfa</text>
+  </box>
+  <box top_left_x="1047" top_left_y="2270" bottom_right_x="1262" bottom_right_y="2380">
+       <type>Temps passé</type>
+       <text>15</text>
+  </box>
+  <box top_left_x="893" top_left_y="2205" bottom_right_x="944" bottom_right_y="2260">
+       <type>Stylo bille</type>
+       <text></text>
+  </box>
+  <box top_left_x="1068" top_left_y="2205" bottom_right_x="1117" bottom_right_y="2257">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1256" top_left_y="2207" bottom_right_x="1360" bottom_right_y="2257">
+       <type>Stylo feutre</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="298" top_left_y="2676" bottom_right_x="374" bottom_right_y="2725">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1588" top_left_y="2628" bottom_right_x="2187" bottom_right_y="2739">
+       <type>Date d'envoi postal</type>
+       <text>1/12/06</text>
+  </box>
+  <box top_left_x="299" top_left_y="2770" bottom_right_x="374" bottom_right_y="2820">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="298" top_left_y="2864" bottom_right_x="375" bottom_right_y="2914">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1730" top_left_y="2801" bottom_right_x="2180" bottom_right_y="2917">
+       <type>Date d'envoi par fax</type>
+       <text>1/12/06</text>
+  </box>
+  <box top_left_x="297" top_left_y="2956" bottom_right_x="348" bottom_right_y="3005">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1586" top_left_y="2920" bottom_right_x="2182" bottom_right_y="3022">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1727" top_left_y="3116" bottom_right_x="1993" bottom_right_y="3210">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="569" top_left_y="3144" bottom_right_x="620" bottom_right_y="3194">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="774" top_left_y="3143" bottom_right_x="826" bottom_right_y="3194">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="955" top_left_y="3143" bottom_right_x="1005" bottom_right_y="3194">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1066" top_left_y="3018" bottom_right_x="2183" bottom_right_y="3117">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>

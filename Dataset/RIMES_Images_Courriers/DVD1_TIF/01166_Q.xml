@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="18/12/2007" author="Jouve">
+  <source width="2472" height="3502">01166_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Gestion de sinistre</scenario>
+  <writer>BURG Amandine</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="181" top_left_y="373" bottom_right_x="739" bottom_right_y="517">
+       <type>Code d'envoi</type>
+       <text>GZQVIB</text>
+  </box>
+  <box top_left_x="412" top_left_y="538" bottom_right_x="1222" bottom_right_y="646">
+       <type>Nom</type>
+       <text>Burg</text>
+  </box>
+  <box top_left_x="1414" top_left_y="540" bottom_right_x="2188" bottom_right_y="645">
+       <type>Prénom</type>
+       <text>Amandine</text>
+  </box>
+  <box top_left_x="495" top_left_y="642" bottom_right_x="2195" bottom_right_y="739">
+       <type>Adresse</type>
+       <text>39 rue de Lausanne</text>
+  </box>
+  <box top_left_x="573" top_left_y="742" bottom_right_x="992" bottom_right_y="849">
+       <type>Code Postal</type>
+       <text>67200</text>
+  </box>
+  <box top_left_x="1114" top_left_y="738" bottom_right_x="2200" bottom_right_y="848">
+       <type>Ville</type>
+       <text>Inzolsheim</text>
+  </box>
+  <box top_left_x="379" top_left_y="855" bottom_right_x="1254" bottom_right_y="1003">
+       <type>Téléphone</type>
+       <text>0392003121</text>
+  </box>
+  <box top_left_x="518" top_left_y="1124" bottom_right_x="2194" bottom_right_y="1241">
+       <type>Catégorie Scénario</type>
+       <text>Gestion de sinistre</text>
+  </box>
+  <box top_left_x="302" top_left_y="1235" bottom_right_x="2193" bottom_right_y="1418">
+       <type>Objet Scénario</type>
+       <text>Vous faites appel à votre assurance\nhabitation</text>
+  </box>
+  <box top_left_x="295" top_left_y="1414" bottom_right_x="2193" bottom_right_y="1605">
+       <type>Complément Scénario</type>
+       <text>Vous avez subi un dégât des eaux\n</text>
+  </box>
+  <box top_left_x="919" top_left_y="1622" bottom_right_x="1557" bottom_right_y="1772">
+       <type>Référence client</type>
+       <text>IDKCU38</text>
+  </box>
+  <box top_left_x="595" top_left_y="1770" bottom_right_x="2203" bottom_right_y="1867">
+       <type>Interlocuteur</type>
+       <text>NAIF Assurances</text>
+  </box>
+  <box top_left_x="505" top_left_y="1860" bottom_right_x="2204" bottom_right_y="1965">
+       <type>Adresse Interlocuteur</type>
+       <text>Rue Letzer Zamenhof</text>
+  </box>
+  <box top_left_x="583" top_left_y="1959" bottom_right_x="1013" bottom_right_y="2078">
+       <type>Code Postal Interlocuteur</type>
+       <text>34080</text>
+  </box>
+  <box top_left_x="1147" top_left_y="1959" bottom_right_x="2204" bottom_right_y="2060">
+       <type>Ville Interlocuteur</type>
+       <text>Montpellier</text>
+  </box>
+  <box top_left_x="1063" top_left_y="2297" bottom_right_x="1278" bottom_right_y="2408">
+       <type>Temps passé</type>
+       <text>10</text>
+  </box>
+  <box top_left_x="886" top_left_y="2243" bottom_right_x="960" bottom_right_y="2286">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1083" top_left_y="2232" bottom_right_x="1133" bottom_right_y="2284">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1298" top_left_y="2233" bottom_right_x="1350" bottom_right_y="2285">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="313" top_left_y="2705" bottom_right_x="390" bottom_right_y="2755">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1604" top_left_y="2654" bottom_right_x="2203" bottom_right_y="2767">
+       <type>Date d'envoi postal</type>
+       <text>01/12/2006</text>
+  </box>
+  <box top_left_x="307" top_left_y="2798" bottom_right_x="390" bottom_right_y="2852">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="307" top_left_y="2894" bottom_right_x="392" bottom_right_y="2946">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1747" top_left_y="2827" bottom_right_x="2197" bottom_right_y="2945">
+       <type>Date d'envoi par fax</type>
+       <text>01/12/2006</text>
+  </box>
+  <box top_left_x="307" top_left_y="2977" bottom_right_x="392" bottom_right_y="3041">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1603" top_left_y="2947" bottom_right_x="2199" bottom_right_y="3051">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1745" top_left_y="3145" bottom_right_x="2010" bottom_right_y="3241">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="561" top_left_y="3177" bottom_right_x="664" bottom_right_y="3227">
+       <type>Format PNG</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="793" top_left_y="3175" bottom_right_x="844" bottom_right_y="3226">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="974" top_left_y="3174" bottom_right_x="1023" bottom_right_y="3225">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1084" top_left_y="3046" bottom_right_x="2201" bottom_right_y="3148">
+       <type>Marque et modèle scanner</type>
+       <text>Agfa Snapscan</text>
+  </box>
+</annotation>
