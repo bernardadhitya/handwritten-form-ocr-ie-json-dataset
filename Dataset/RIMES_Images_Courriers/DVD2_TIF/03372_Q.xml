@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2469" height="3503">03372_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Gestion de sinistre</scenario>
+  <writer>DURY Alain</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="95" top_left_y="354" bottom_right_x="652" bottom_right_y="496">
+       <type>Code d'envoi</type>
+       <text>XQJKXY</text>
+  </box>
+  <box top_left_x="325" top_left_y="518" bottom_right_x="1133" bottom_right_y="624">
+       <type>Nom</type>
+       <text>Dury</text>
+  </box>
+  <box top_left_x="1327" top_left_y="519" bottom_right_x="2099" bottom_right_y="622">
+       <type>Prénom</type>
+       <text>Alain</text>
+  </box>
+  <box top_left_x="408" top_left_y="620" bottom_right_x="2105" bottom_right_y="716">
+       <type>Adresse</type>
+       <text>33 Grande Rue Le Voy d'Escles</text>
+  </box>
+  <box top_left_x="484" top_left_y="720" bottom_right_x="902" bottom_right_y="826">
+       <type>Code Postal</type>
+       <text>88260</text>
+  </box>
+  <box top_left_x="1025" top_left_y="715" bottom_right_x="2107" bottom_right_y="825">
+       <type>Ville</type>
+       <text>Escles</text>
+  </box>
+  <box top_left_x="292" top_left_y="831" bottom_right_x="1164" bottom_right_y="979">
+       <type>Téléphone</type>
+       <text>0368488269</text>
+  </box>
+  <box top_left_x="431" top_left_y="1100" bottom_right_x="2105" bottom_right_y="1217">
+       <type>Catégorie Scénario</type>
+       <text>Gestion de sinistre</text>
+  </box>
+  <box top_left_x="215" top_left_y="1210" bottom_right_x="2106" bottom_right_y="1394">
+       <type>Objet Scénario</type>
+       <text>déclaration de sinistre\n</text>
+  </box>
+  <box top_left_x="208" top_left_y="1388" bottom_right_x="2107" bottom_right_y="1580">
+       <type>Complément Scénario</type>
+       <text>vous avez provoqué un accident de\nla route (vous déclarerez joindre le constat)</text>
+  </box>
+  <box top_left_x="832" top_left_y="1596" bottom_right_x="1468" bottom_right_y="1747">
+       <type>Référence client</type>
+       <text>IDATQ51</text>
+  </box>
+  <box top_left_x="507" top_left_y="1743" bottom_right_x="2112" bottom_right_y="1843">
+       <type>Interlocuteur</type>
+       <text>NAIF Assurances</text>
+  </box>
+  <box top_left_x="418" top_left_y="1832" bottom_right_x="2109" bottom_right_y="1941">
+       <type>Adresse Interlocuteur</type>
+       <text>Place de l'église</text>
+  </box>
+  <box top_left_x="495" top_left_y="1930" bottom_right_x="924" bottom_right_y="2050">
+       <type>Code Postal Interlocuteur</type>
+       <text>44620</text>
+  </box>
+  <box top_left_x="1058" top_left_y="1933" bottom_right_x="2109" bottom_right_y="2035">
+       <type>Ville Interlocuteur</type>
+       <text>La Montagne</text>
+  </box>
+  <box top_left_x="976" top_left_y="2268" bottom_right_x="1190" bottom_right_y="2379">
+       <type>Temps passé</type>
+       <text>15</text>
+  </box>
+  <box top_left_x="797" top_left_y="2210" bottom_right_x="899" bottom_right_y="2256">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="996" top_left_y="2203" bottom_right_x="1045" bottom_right_y="2255">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1211" top_left_y="2204" bottom_right_x="1263" bottom_right_y="2256">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="224" top_left_y="2673" bottom_right_x="270" bottom_right_y="2721">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1516" top_left_y="2626" bottom_right_x="2115" bottom_right_y="2738">
+       <type>Date d'envoi postal</type>
+       <text>07/03/07</text>
+  </box>
+  <box top_left_x="225" top_left_y="2766" bottom_right_x="275" bottom_right_y="2814">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="223" top_left_y="2861" bottom_right_x="275" bottom_right_y="2907">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1658" top_left_y="2799" bottom_right_x="2107" bottom_right_y="2916">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="229" top_left_y="2954" bottom_right_x="302" bottom_right_y="3005">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1514" top_left_y="2919" bottom_right_x="2109" bottom_right_y="3021">
+       <type>Date d'envoi par courriel</type>
+       <text>07/03/07</text>
+  </box>
+  <box top_left_x="1655" top_left_y="3115" bottom_right_x="1920" bottom_right_y="3210">
+       <type>Résolution</type>
+       <text>200</text>
+  </box>
+  <box top_left_x="497" top_left_y="3142" bottom_right_x="547" bottom_right_y="3192">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="704" top_left_y="3143" bottom_right_x="779" bottom_right_y="3193">
+       <type>Format GIF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="882" top_left_y="3142" bottom_right_x="932" bottom_right_y="3192">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="994" top_left_y="3017" bottom_right_x="2110" bottom_right_y="3117">
+       <type>Marque et modèle scanner</type>
+       <text>hp Scanjet 5300C</text>
+  </box>
+</annotation>
