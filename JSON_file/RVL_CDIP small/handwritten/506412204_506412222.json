@@ -1,0 +1,36 @@
+{
+    "id": 1,
+    "code": 61,
+    "range": "28-87",
+    "title": "Slere ad Bad",
+    "author": "R.J Reynolds",
+    "project": "Deor",
+    "instructions": "Please study carefully",
+    "keywords": [
+        "Carbon",
+        "Burnout",
+        "Model",
+        "intent",
+        "internet",
+        "wish",
+        "write",
+        "Harry",
+        "Carbon Monoxide",
+        "Carbon Dioxide"
+    ],
+    "model": {
+        "name": "Carbon Combustion Model",
+        "authors": [
+            "Welsh",
+            "Chung"
+        ],
+        "description": "To calculate the proportion of CO and CO2 as it reacts",
+        "appendix": "Appendix 1",
+        "summary": "Summary as follows"
+    },
+    "rate": {
+        "term": "rate",
+        "description": "Carbon combustion",
+        "value": 506412204
+    }
+}

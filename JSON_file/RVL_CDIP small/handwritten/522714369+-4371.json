@@ -1,0 +1,51 @@
+{
+    "address": {
+        "po_box": "834039",
+        "city": "Richardson",
+        "state": "TX",
+        "zip": "75083-4039"
+    },
+    "status": "PAID",
+    "service_request": "CHANGE SERVICE REQUESTED",
+    "sender": "R.J. REYNOLDS",
+    "recipient": {
+        "name": "SCOTT AKERS",
+        "address": "1608 BEACON RIDGE RD APT 701",
+        "city": "CHARLOTTE",
+        "state": "NC",
+        "zip": "28210-3477"
+    },
+    "mailing_restriction": "MAILING RESTRICTED TO SMOKERS 21 YEARS OF AGE OR OLDER",
+    "product_info": [
+        {
+            "brand": "VANTAGE",
+            "filter": "FILTER",
+            "tar": "9mg",
+            "nicotine": "0.7mg"
+        },
+        {
+            "brand": "CAMEL LIGHTS HARD PACK",
+            "tar": "10mg",
+            "nicotine": "0.8mg"
+        },
+        {
+            "brand": "WINSTON BOX",
+            "tar": "15mg",
+            "nicotine": "1.1mg"
+        },
+        {
+            "brand": "SALEM SLIDE BOX",
+            "tar": "17mg",
+            "nicotine": "1.1mg"
+        }
+    ],
+    "contact": {
+        "phone": "1-800-685-6301",
+        "address": {
+            "po_box": "4369",
+            "city": "Charlotte",
+            "state": "NC",
+            "zip": "27102-0345"
+        }
+    }
+}

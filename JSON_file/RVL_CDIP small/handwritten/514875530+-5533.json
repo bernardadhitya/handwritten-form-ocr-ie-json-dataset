@@ -1,0 +1,38 @@
+{
+    "businesses": [
+        {
+            "name": "Pacfic",
+            "address": "203 South Florence, Sandpoint, ID 83864",
+            "phone": "208-263-2584",
+            "services": [
+                "Buying and selling",
+                "Steel/Hides/Recycling"
+            ]
+        },
+        {
+            "name": "DRReEL",
+            "address": "P.O. Box 61, Noxon, MT 59853",
+            "services": [
+                "Mice & Fur"
+            ]
+        }
+    ],
+    "customer_experience": {
+        "store": "Empree Foods",
+        "location": "Libby, MT",
+        "issue": "Product not reordered"
+    },
+    "alternative_store": {
+        "name": "StEns T.G.A",
+        "location": "Troy, MT",
+        "issue": "Coupons removed from cartons"
+    },
+    "travel": {
+        "description": "Towns in Montana are far apart",
+        "round_trip_miles": 51487,
+        "codes": [
+            204457,
+            5530
+        ]
+    }
+}
