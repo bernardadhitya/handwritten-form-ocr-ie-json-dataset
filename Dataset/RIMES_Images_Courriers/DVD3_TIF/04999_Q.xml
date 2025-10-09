@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="18/12/2007" author="Jouve">
+  <source width="2472" height="3508">04999_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Demande d'information</scenario>
+  <writer>BLOCH Frederic</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="172" top_left_y="345" bottom_right_x="731" bottom_right_y="487">
+       <type>Code d'envoi</type>
+       <text>WSGSYN</text>
+  </box>
+  <box top_left_x="404" top_left_y="507" bottom_right_x="1213" bottom_right_y="613">
+       <type>Nom</type>
+       <text>Bloch</text>
+  </box>
+  <box top_left_x="1407" top_left_y="506" bottom_right_x="2179" bottom_right_y="609">
+       <type>Prénom</type>
+       <text>¤{Frederic/Frédéric}¤</text>
+  </box>
+  <box top_left_x="488" top_left_y="609" bottom_right_x="2184" bottom_right_y="703">
+       <type>Adresse</type>
+       <text>2 rue J Jacques Henner</text>
+  </box>
+  <box top_left_x="564" top_left_y="710" bottom_right_x="982" bottom_right_y="816">
+       <type>Code Postal</type>
+       <text>68210</text>
+  </box>
+  <box top_left_x="1105" top_left_y="704" bottom_right_x="2186" bottom_right_y="813">
+       <type>Ville</type>
+       <text>Bernwiller</text>
+  </box>
+  <box top_left_x="373" top_left_y="822" bottom_right_x="1244" bottom_right_y="968">
+       <type>Téléphone</type>
+       <text>0381180250</text>
+  </box>
+  <box top_left_x="512" top_left_y="1088" bottom_right_x="2188" bottom_right_y="1204">
+       <type>Catégorie Scénario</type>
+       <text>demande d'information</text>
+  </box>
+  <box top_left_x="296" top_left_y="1199" bottom_right_x="2189" bottom_right_y="1381">
+       <type>Objet Scénario</type>
+       <text>demande de précisions sur votre\ndernière facture</text>
+  </box>
+  <box top_left_x="288" top_left_y="1378" bottom_right_x="2191" bottom_right_y="1566">
+       <type>Complément Scénario</type>
+       <text>le montant de votre facture\nest trop élevé</text>
+  </box>
+  <box top_left_x="913" top_left_y="1585" bottom_right_x="1551" bottom_right_y="1735">
+       <type>Référence client</type>
+       <text>UMTVN94</text>
+  </box>
+  <box top_left_x="589" top_left_y="1732" bottom_right_x="2196" bottom_right_y="1828">
+       <type>Interlocuteur</type>
+       <text>Les 3 suifs</text>
+  </box>
+  <box top_left_x="500" top_left_y="1823" bottom_right_x="2194" bottom_right_y="1926">
+       <type>Adresse Interlocuteur</type>
+       <text>Le Bourg</text>
+  </box>
+  <box top_left_x="578" top_left_y="1921" bottom_right_x="1006" bottom_right_y="2040">
+       <type>Code Postal Interlocuteur</type>
+       <text>64490</text>
+  </box>
+  <box top_left_x="1141" top_left_y="1921" bottom_right_x="2194" bottom_right_y="2021">
+       <type>Ville Interlocuteur</type>
+       <text>LESCUN</text>
+  </box>
+  <box top_left_x="1058" top_left_y="2257" bottom_right_x="1273" bottom_right_y="2368">
+       <type>Temps passé</type>
+       <text>20</text>
+  </box>
+  <box top_left_x="905" top_left_y="2193" bottom_right_x="956" bottom_right_y="2248">
+       <type>Stylo bille</type>
+       <text></text>
+  </box>
+  <box top_left_x="1079" top_left_y="2193" bottom_right_x="1129" bottom_right_y="2245">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1268" top_left_y="2195" bottom_right_x="1372" bottom_right_y="2245">
+       <type>Stylo feutre</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="303" top_left_y="2662" bottom_right_x="355" bottom_right_y="2723">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1600" top_left_y="2615" bottom_right_x="2201" bottom_right_y="2726">
+       <type>Date d'envoi postal</type>
+       <text>18/04/2007</text>
+  </box>
+  <box top_left_x="308" top_left_y="2758" bottom_right_x="353" bottom_right_y="2808">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="305" top_left_y="2852" bottom_right_x="357" bottom_right_y="2898">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1743" top_left_y="2787" bottom_right_x="2193" bottom_right_y="2904">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="307" top_left_y="2946" bottom_right_x="354" bottom_right_y="2994">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1598" top_left_y="2906" bottom_right_x="2195" bottom_right_y="3009">
+       <type>Date d'envoi par courriel</type>
+       <text>18/04/2007</text>
+  </box>
+  <box top_left_x="1739" top_left_y="3104" bottom_right_x="2005" bottom_right_y="3199">
+       <type>Résolution</type>
+       <text>200</text>
+  </box>
+  <box top_left_x="579" top_left_y="3133" bottom_right_x="630" bottom_right_y="3183">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="784" top_left_y="3132" bottom_right_x="836" bottom_right_y="3182">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="968" top_left_y="3134" bottom_right_x="1012" bottom_right_y="3184">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1077" top_left_y="3005" bottom_right_x="2196" bottom_right_y="3106">
+       <type>Marque et modèle scanner</type>
+       <text>CANON D6604 CANOSCAN</text>
+  </box>
+</annotation>
