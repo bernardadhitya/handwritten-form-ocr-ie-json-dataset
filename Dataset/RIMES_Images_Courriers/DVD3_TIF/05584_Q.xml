@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2470" height="3506">05584_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Ouverture de compte</scenario>
+  <writer>HARDOUIN Cedric</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="166" top_left_y="374" bottom_right_x="726" bottom_right_y="514">
+       <type>Code d'envoi</type>
+       <text>JJBJXB</text>
+  </box>
+  <box top_left_x="398" top_left_y="536" bottom_right_x="1209" bottom_right_y="640">
+       <type>Nom</type>
+       <text>HARDOUIN</text>
+  </box>
+  <box top_left_x="1403" top_left_y="536" bottom_right_x="2179" bottom_right_y="638">
+       <type>Prénom</type>
+       <text>Cédric</text>
+  </box>
+  <box top_left_x="481" top_left_y="637" bottom_right_x="2185" bottom_right_y="731">
+       <type>Adresse</type>
+       <text>36 rue principale</text>
+  </box>
+  <box top_left_x="558" top_left_y="737" bottom_right_x="979" bottom_right_y="841">
+       <type>Code Postal</type>
+       <text>57870</text>
+  </box>
+  <box top_left_x="1101" top_left_y="731" bottom_right_x="2191" bottom_right_y="839">
+       <type>Ville</type>
+       <text>HOMMERT</text>
+  </box>
+  <box top_left_x="366" top_left_y="847" bottom_right_x="1243" bottom_right_y="992">
+       <type>Téléphone</type>
+       <text>0327927677</text>
+  </box>
+  <box top_left_x="505" top_left_y="1112" bottom_right_x="2186" bottom_right_y="1226">
+       <type>Catégorie Scénario</type>
+       <text>Ouverture de compte</text>
+  </box>
+  <box top_left_x="288" top_left_y="1222" bottom_right_x="2187" bottom_right_y="1400">
+       <type>Objet Scénario</type>
+       <text>Vous souhaitez vous abonnez\n</text>
+  </box>
+  <box top_left_x="281" top_left_y="1398" bottom_right_x="2189" bottom_right_y="1584">
+       <type>Complément Scénario</type>
+       <text>Vous avez davantage de temps pour vos loisirs\n</text>
+  </box>
+  <box top_left_x="908" top_left_y="1603" bottom_right_x="1549" bottom_right_y="1751">
+       <type>Référence client</type>
+       <text></text>
+  </box>
+  <box top_left_x="583" top_left_y="1750" bottom_right_x="2198" bottom_right_y="1844">
+       <type>Interlocuteur</type>
+       <text>Bimestriel "Charité Bushido"</text>
+  </box>
+  <box top_left_x="494" top_left_y="1839" bottom_right_x="2199" bottom_right_y="1942">
+       <type>Adresse Interlocuteur</type>
+       <text>11 Grand rue</text>
+  </box>
+  <box top_left_x="572" top_left_y="1937" bottom_right_x="1003" bottom_right_y="2054">
+       <type>Code Postal Interlocuteur</type>
+       <text>57925</text>
+  </box>
+  <box top_left_x="1138" top_left_y="1937" bottom_right_x="2199" bottom_right_y="2037">
+       <type>Ville Interlocuteur</type>
+       <text>DISTROFF</text>
+  </box>
+  <box top_left_x="1054" top_left_y="2269" bottom_right_x="1270" bottom_right_y="2378">
+       <type>Temps passé</type>
+       <text>10</text>
+  </box>
+  <box top_left_x="901" top_left_y="2214" bottom_right_x="950" bottom_right_y="2258">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1075" top_left_y="2205" bottom_right_x="1125" bottom_right_y="2256">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1290" top_left_y="2205" bottom_right_x="1342" bottom_right_y="2257">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="301" top_left_y="2672" bottom_right_x="378" bottom_right_y="2719">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1598" top_left_y="2623" bottom_right_x="2200" bottom_right_y="2735">
+       <type>Date d'envoi postal</type>
+       <text>12 mai 2007</text>
+  </box>
+  <box top_left_x="301" top_left_y="2763" bottom_right_x="351" bottom_right_y="2811">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="281" top_left_y="2858" bottom_right_x="378" bottom_right_y="2925">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1741" top_left_y="2796" bottom_right_x="2193" bottom_right_y="2913">
+       <type>Date d'envoi par fax</type>
+       <text>12 mai 2007</text>
+  </box>
+  <box top_left_x="299" top_left_y="2949" bottom_right_x="351" bottom_right_y="2998">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1596" top_left_y="2916" bottom_right_x="2195" bottom_right_y="3018">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1737" top_left_y="3111" bottom_right_x="2004" bottom_right_y="3204">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="572" top_left_y="3136" bottom_right_x="623" bottom_right_y="3185">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="779" top_left_y="3136" bottom_right_x="831" bottom_right_y="3186">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="962" top_left_y="3136" bottom_right_x="1012" bottom_right_y="3186">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1073" top_left_y="3013" bottom_right_x="2196" bottom_right_y="3112">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
