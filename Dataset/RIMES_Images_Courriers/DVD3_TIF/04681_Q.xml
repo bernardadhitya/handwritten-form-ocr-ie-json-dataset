@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2471" height="3506">04681_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Demande d'information</scenario>
+  <writer>PREVOT Floriane</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="98" top_left_y="268" bottom_right_x="698" bottom_right_y="421">
+       <type>Code d'envoi</type>
+       <text>WVDMKS</text>
+  </box>
+  <box top_left_x="347" top_left_y="444" bottom_right_x="1216" bottom_right_y="559">
+       <type>Nom</type>
+       <text>Prévot</text>
+  </box>
+  <box top_left_x="1424" top_left_y="445" bottom_right_x="2254" bottom_right_y="558">
+       <type>Prénom</type>
+       <text>Floriane</text>
+  </box>
+  <box top_left_x="436" top_left_y="554" bottom_right_x="2259" bottom_right_y="659">
+       <type>Adresse</type>
+       <text>1, rue des Prés</text>
+  </box>
+  <box top_left_x="518" top_left_y="663" bottom_right_x="967" bottom_right_y="778">
+       <type>Code Postal</type>
+       <text>67270</text>
+  </box>
+  <box top_left_x="1099" top_left_y="658" bottom_right_x="2260" bottom_right_y="777">
+       <type>Ville</type>
+       <text>INGENHEIM</text>
+  </box>
+  <box top_left_x="311" top_left_y="783" bottom_right_x="1248" bottom_right_y="943">
+       <type>Téléphone</type>
+       <text>0375578005</text>
+  </box>
+  <box top_left_x="461" top_left_y="1072" bottom_right_x="2262" bottom_right_y="1196">
+       <type>Catégorie Scénario</type>
+       <text>demande d'information</text>
+  </box>
+  <box top_left_x="229" top_left_y="1190" bottom_right_x="2262" bottom_right_y="1386">
+       <type>Objet Scénario</type>
+       <text>demande des catalogues des produits\n¤{proposes/proposés}¤</text>
+  </box>
+  <box top_left_x="221" top_left_y="1381" bottom_right_x="2261" bottom_right_y="1587">
+       <type>Complément Scénario</type>
+       <text>Aucun\n</text>
+  </box>
+  <box top_left_x="891" top_left_y="1604" bottom_right_x="1575" bottom_right_y="1768">
+       <type>Référence client</type>
+       <text>BVCHU10</text>
+  </box>
+  <box top_left_x="543" top_left_y="1763" bottom_right_x="2268" bottom_right_y="1871">
+       <type>Interlocuteur</type>
+       <text>BMP - Banque Mutuelle de Paris</text>
+  </box>
+  <box top_left_x="448" top_left_y="1860" bottom_right_x="2267" bottom_right_y="1976">
+       <type>Adresse Interlocuteur</type>
+       <text>29 rue de Paris</text>
+  </box>
+  <box top_left_x="532" top_left_y="1966" bottom_right_x="992" bottom_right_y="2095">
+       <type>Code Postal Interlocuteur</type>
+       <text>77127</text>
+  </box>
+  <box top_left_x="1136" top_left_y="1968" bottom_right_x="2268" bottom_right_y="2077">
+       <type>Ville Interlocuteur</type>
+       <text>LIEU SAINT</text>
+  </box>
+  <box top_left_x="1048" top_left_y="2329" bottom_right_x="1278" bottom_right_y="2448">
+       <type>Temps passé</type>
+       <text>5</text>
+  </box>
+  <box top_left_x="856" top_left_y="2260" bottom_right_x="965" bottom_right_y="2320">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1068" top_left_y="2286" bottom_right_x="1149" bottom_right_y="2324">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1273" top_left_y="2262" bottom_right_x="1384" bottom_right_y="2321">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="234" top_left_y="2761" bottom_right_x="287" bottom_right_y="2821">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1630" top_left_y="2714" bottom_right_x="2275" bottom_right_y="2835">
+       <type>Date d'envoi postal</type>
+       <text>6/04/2007</text>
+  </box>
+  <box top_left_x="241" top_left_y="2865" bottom_right_x="294" bottom_right_y="2917">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="245" top_left_y="2968" bottom_right_x="324" bottom_right_y="3019">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1783" top_left_y="2901" bottom_right_x="2266" bottom_right_y="3027">
+       <type>Date d'envoi par fax</type>
+       <text>6/04/2007</text>
+  </box>
+  <box top_left_x="236" top_left_y="3067" bottom_right_x="324" bottom_right_y="3123">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1628" top_left_y="3030" bottom_right_x="2269" bottom_right_y="3141">
+       <type>Date d'envoi par courriel</type>
+       <text>6/04/07</text>
+  </box>
+  <box top_left_x="1779" top_left_y="3242" bottom_right_x="2065" bottom_right_y="3344">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="534" top_left_y="3269" bottom_right_x="589" bottom_right_y="3323">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="754" top_left_y="3270" bottom_right_x="810" bottom_right_y="3324">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="951" top_left_y="3278" bottom_right_x="1029" bottom_right_y="3322">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1068" top_left_y="3135" bottom_right_x="2270" bottom_right_y="3243">
+       <type>Marque et modèle scanner</type>
+       <text>HP PHOTOSMART C6180 tout en un</text>
+  </box>
+</annotation>
