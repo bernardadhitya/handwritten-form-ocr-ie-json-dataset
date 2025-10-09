@@ -1,0 +1,33 @@
+{
+    "CapsuleSurface": {
+        "Objective": "To present data pertaining to the capsule so it can be determined whether a problem exists and steps which need to be taken can be outlined.",
+        "Materials": {
+            "Provided": "Eyelematic",
+            "BroughtProblemToSurface": "Trans Mafic"
+        },
+        "SafetyOnCapsuleResidues": {
+            "Unwashed": {
+                "TransMahie": [
+                    "TGA",
+                    "XRF"
+                ]
+            },
+            "Eyelematic": {
+                "Washed": "The base had been cleaned from TransPloti",
+                "Tests": [
+                    "TGA",
+                    "XRF"
+                ]
+            },
+            "VisualInspections": {
+                "FilterPads": 51230
+            },
+            "DataOnMaterialBalls": {
+                "WashRinse": {
+                    "VisualInspectionPads": 2898,
+                    "HeightsOfResiduesFound": null
+                }
+            }
+        }
+    }
+}
