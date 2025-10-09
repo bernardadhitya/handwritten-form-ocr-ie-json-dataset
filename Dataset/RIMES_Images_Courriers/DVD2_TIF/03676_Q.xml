@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2472" height="3505">03676_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Gestion de sinistre</scenario>
+  <writer>CONSTANT Sylvie</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="144" top_left_y="294" bottom_right_x="701" bottom_right_y="435">
+       <type>Code d'envoi</type>
+       <text>BKQDOS</text>
+  </box>
+  <box top_left_x="375" top_left_y="456" bottom_right_x="1184" bottom_right_y="563">
+       <type>Nom</type>
+       <text>CONSTANT</text>
+  </box>
+  <box top_left_x="1377" top_left_y="458" bottom_right_x="2151" bottom_right_y="562">
+       <type>Prénom</type>
+       <text>Sylvie</text>
+  </box>
+  <box top_left_x="457" top_left_y="558" bottom_right_x="2158" bottom_right_y="655">
+       <type>Adresse</type>
+       <text>14 rue de la Forêt</text>
+  </box>
+  <box top_left_x="534" top_left_y="658" bottom_right_x="954" bottom_right_y="764">
+       <type>Code Postal</type>
+       <text>57990</text>
+  </box>
+  <box top_left_x="1076" top_left_y="654" bottom_right_x="2161" bottom_right_y="763">
+       <type>Ville</type>
+       <text>IPPLING</text>
+  </box>
+  <box top_left_x="341" top_left_y="769" bottom_right_x="1216" bottom_right_y="917">
+       <type>Téléphone</type>
+       <text>0347824416</text>
+  </box>
+  <box top_left_x="480" top_left_y="1036" bottom_right_x="2155" bottom_right_y="1153">
+       <type>Catégorie Scénario</type>
+       <text>Gestion de sinistre</text>
+  </box>
+  <box top_left_x="264" top_left_y="1146" bottom_right_x="2155" bottom_right_y="1327">
+       <type>Objet Scénario</type>
+       <text>Vous ¤{faîtes/faites}¤ appel à votre assurance habitation\n</text>
+  </box>
+  <box top_left_x="258" top_left_y="1323" bottom_right_x="2155" bottom_right_y="1512">
+       <type>Complément Scénario</type>
+       <text>Vous avez subi un dégât des eaux\n</text>
+  </box>
+  <box top_left_x="882" top_left_y="1530" bottom_right_x="1519" bottom_right_y="1679">
+       <type>Référence client</type>
+       <text>LUJRX63</text>
+  </box>
+  <box top_left_x="558" top_left_y="1677" bottom_right_x="2165" bottom_right_y="1773">
+       <type>Interlocuteur</type>
+       <text>NNA ASSURANCES</text>
+  </box>
+  <box top_left_x="469" top_left_y="1767" bottom_right_x="2165" bottom_right_y="1871">
+       <type>Adresse Interlocuteur</type>
+       <text>Le bas du bourg</text>
+  </box>
+  <box top_left_x="547" top_left_y="1865" bottom_right_x="976" bottom_right_y="1984">
+       <type>Code Postal Interlocuteur</type>
+       <text>87270</text>
+  </box>
+  <box top_left_x="1110" top_left_y="1866" bottom_right_x="2165" bottom_right_y="1965">
+       <type>Ville Interlocuteur</type>
+       <text>BONNAC LA COTE</text>
+  </box>
+  <box top_left_x="1027" top_left_y="2201" bottom_right_x="1241" bottom_right_y="2311">
+       <type>Temps passé</type>
+       <text>30</text>
+  </box>
+  <box top_left_x="848" top_left_y="2140" bottom_right_x="950" bottom_right_y="2189">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1048" top_left_y="2137" bottom_right_x="1097" bottom_right_y="2188">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1263" top_left_y="2137" bottom_right_x="1315" bottom_right_y="2188">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="277" top_left_y="2608" bottom_right_x="354" bottom_right_y="2654">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1568" top_left_y="2556" bottom_right_x="2168" bottom_right_y="2667">
+       <type>Date d'envoi postal</type>
+       <text>15 mars 2007</text>
+  </box>
+  <box top_left_x="277" top_left_y="2699" bottom_right_x="327" bottom_right_y="2747">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="276" top_left_y="2793" bottom_right_x="327" bottom_right_y="2839">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1711" top_left_y="2729" bottom_right_x="2161" bottom_right_y="2846">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="276" top_left_y="2885" bottom_right_x="328" bottom_right_y="2934">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1567" top_left_y="2848" bottom_right_x="2164" bottom_right_y="2951">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1708" top_left_y="3044" bottom_right_x="1974" bottom_right_y="3139">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="549" top_left_y="3073" bottom_right_x="600" bottom_right_y="3123">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="754" top_left_y="3072" bottom_right_x="806" bottom_right_y="3123">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="936" top_left_y="3072" bottom_right_x="986" bottom_right_y="3123">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1047" top_left_y="2946" bottom_right_x="2165" bottom_right_y="3046">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
