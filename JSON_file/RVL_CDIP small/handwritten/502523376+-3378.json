@@ -1,0 +1,81 @@
+{
+    "document": {
+        "title": "ANALYTICAL REPORT",
+        "company": "R.J.Reynolds Tobacco Company",
+        "department": "Research Department",
+        "analysis_no": "372 994",
+        "submitted_by": null,
+        "date_received": null,
+        "date_reported": null,
+        "location": null,
+        "sender_sample_no": null,
+        "charge_no": null,
+        "sample_of": "Silestean TaNie CO CO",
+        "analysis_desired": {
+            "cigarette_length": null,
+            "smoke_to": null,
+            "butt_length": null,
+            "estimated_composition_and_physical_constants": null,
+            "possible_hazards": null,
+            "remarks": "Sidestream"
+        },
+        "results": [
+            {
+                "tar": {
+                    "mg/ciy": 30.2,
+                    "mg/uig": 3.67
+                }
+            },
+            {
+                "nic": {
+                    "mg/ciy": 61.2,
+                    "mg/uig": 568.0
+                }
+            },
+            {
+                "co": {
+                    "mg/ciy": 9.96,
+                    "mg/uig": 4.0
+                }
+            },
+            {
+                "cos": {
+                    "mg/ciy": 0.38,
+                    "mg/uig": 889
+                }
+            },
+            {
+                "wiastn_control": {
+                    "mg/ciy": 644.9,
+                    "mg/uig": 996
+                }
+            },
+            {
+                "a": {
+                    "mg/ciy": 4.0,
+                    "mg/uig": 0.32
+                }
+            },
+            {
+                "b": {
+                    "mg/ciy": 59.9,
+                    "mg/uig": 569.9
+                }
+            },
+            {
+                "b": {
+                    "mg/ciy": 2.8,
+                    "mg/uig": 0.24
+                }
+            },
+            {
+                "b": {
+                    "mg/ciy": 58.2,
+                    "mg/uig": 673.2
+                }
+            }
+        ],
+        "distribution": "Mastw 3376",
+        "approved_by": null
+    }
+}

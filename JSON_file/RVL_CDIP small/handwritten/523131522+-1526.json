@@ -1,0 +1,24 @@
+{
+    "title": "Spectrophotometric Analysis",
+    "sections": [
+        {
+            "title": "Sidestream Samples",
+            "content": [
+                {
+                    "title": "Samples are analyzed on the Beckman DU-70 Spectrophotometer",
+                    "steps": [
+                        {
+                            "description": "A flow cell with a slanted bottom, drain, and bubble trap is used in reading the samples. This must be cleaned with a potassium dichromate solution using a syringe to carefully fill the cell. Coat for several hours, rinse well with distilled water, and store in distilled water."
+                        },
+                        {
+                            "description": "Push power button on and idle button. When SELF TEST stops flashing, cut UV and VIS lamps on. Attach a clean cell. Set on multi 'X'. Enter wavelengths: 314 and 310. Set FILL TIME for 45 seconds. Set AUTO ZERO on None using the (Select) button. Enter 50 for number of samples."
+                        },
+                        {
+                            "description": "Fill half the batch sampler with test tubes of isopropyl alcohol, or finish filling samples from the previous run with alcohol. Fill the first 5 test tubes with distilled water in order to flush the cell."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
