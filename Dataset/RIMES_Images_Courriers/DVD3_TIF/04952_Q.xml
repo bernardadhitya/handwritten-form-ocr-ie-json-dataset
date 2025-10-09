@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2471" height="3505">04952_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Réclamation</scenario>
+  <writer>PLAYE Marylise</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="183" top_left_y="354" bottom_right_x="741" bottom_right_y="497">
+       <type>Code d'envoi</type>
+       <text>VIIIVE</text>
+  </box>
+  <box top_left_x="414" top_left_y="518" bottom_right_x="1224" bottom_right_y="626">
+       <type>Nom</type>
+       <text>¤P¤LAYE</text>
+  </box>
+  <box top_left_x="1417" top_left_y="521" bottom_right_x="2192" bottom_right_y="626">
+       <type>Prénom</type>
+       <text>Marylise</text>
+  </box>
+  <box top_left_x="497" top_left_y="621" bottom_right_x="2200" bottom_right_y="720">
+       <type>Adresse</type>
+       <text>13 rue des Vosges</text>
+  </box>
+  <box top_left_x="574" top_left_y="722" bottom_right_x="993" bottom_right_y="830">
+       <type>Code Postal</type>
+       <text>67870</text>
+  </box>
+  <box top_left_x="1116" top_left_y="718" bottom_right_x="2203" bottom_right_y="829">
+       <type>Ville</type>
+       <text>GRIESHEIM PRES MOLSHEIM</text>
+  </box>
+  <box top_left_x="380" top_left_y="834" bottom_right_x="1256" bottom_right_y="983">
+       <type>Téléphone</type>
+       <text>0300153850</text>
+  </box>
+  <box top_left_x="519" top_left_y="1104" bottom_right_x="2195" bottom_right_y="1220">
+       <type>Catégorie Scénario</type>
+       <text>Réclamation</text>
+  </box>
+  <box top_left_x="302" top_left_y="1214" bottom_right_x="2195" bottom_right_y="1395">
+       <type>Objet Scénario</type>
+       <text>vous souhaitez vous faire rembourser\n</text>
+  </box>
+  <box top_left_x="294" top_left_y="1392" bottom_right_x="2195" bottom_right_y="1581">
+       <type>Complément Scénario</type>
+       <text>Le produit livré est ¤{defectueux/défectueux}¤\n</text>
+  </box>
+  <box top_left_x="919" top_left_y="1600" bottom_right_x="1556" bottom_right_y="1750">
+       <type>Référence client</type>
+       <text>TXLEU18</text>
+  </box>
+  <box top_left_x="594" top_left_y="1748" bottom_right_x="2201" bottom_right_y="1846">
+       <type>Interlocuteur</type>
+       <text>Sepa FR ¤Telepho¤</text>
+  </box>
+  <box top_left_x="505" top_left_y="1838" bottom_right_x="2201" bottom_right_y="1947">
+       <type>Adresse Interlocuteur</type>
+       <text></text>
+  </box>
+  <box top_left_x="582" top_left_y="1937" bottom_right_x="1011" bottom_right_y="2057">
+       <type>Code Postal Interlocuteur</type>
+       <text>02170</text>
+  </box>
+  <box top_left_x="1146" top_left_y="1939" bottom_right_x="2201" bottom_right_y="2041">
+       <type>Ville Interlocuteur</type>
+       <text>ESQUELLERIES</text>
+  </box>
+  <box top_left_x="1062" top_left_y="2276" bottom_right_x="1276" bottom_right_y="2387">
+       <type>Temps passé</type>
+       <text>15</text>
+  </box>
+  <box top_left_x="908" top_left_y="2219" bottom_right_x="985" bottom_right_y="2272">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1082" top_left_y="2210" bottom_right_x="1131" bottom_right_y="2263">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1298" top_left_y="2211" bottom_right_x="1350" bottom_right_y="2263">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="300" top_left_y="2680" bottom_right_x="387" bottom_right_y="2748">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1601" top_left_y="2634" bottom_right_x="2200" bottom_right_y="2747">
+       <type>Date d'envoi postal</type>
+       <text>18 avril 2007</text>
+  </box>
+  <box top_left_x="298" top_left_y="2775" bottom_right_x="386" bottom_right_y="2826">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="297" top_left_y="2871" bottom_right_x="386" bottom_right_y="2939">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1743" top_left_y="2809" bottom_right_x="2193" bottom_right_y="2927">
+       <type>Date d'envoi par fax</type>
+       <text>17 avril 2007</text>
+  </box>
+  <box top_left_x="298" top_left_y="2965" bottom_right_x="386" bottom_right_y="3022">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1599" top_left_y="2930" bottom_right_x="2195" bottom_right_y="3033">
+       <type>Date d'envoi par courriel</type>
+       <text>17 avril 2007</text>
+  </box>
+  <box top_left_x="1739" top_left_y="3128" bottom_right_x="2004" bottom_right_y="3223">
+       <type>Résolution</type>
+       <text>200</text>
+  </box>
+  <box top_left_x="580" top_left_y="3154" bottom_right_x="630" bottom_right_y="3204">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="759" top_left_y="3142" bottom_right_x="862" bottom_right_y="3231">
+       <type>Format GIF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="967" top_left_y="3154" bottom_right_x="1016" bottom_right_y="3205">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1078" top_left_y="3028" bottom_right_x="2195" bottom_right_y="3129">
+       <type>Marque et modèle scanner</type>
+       <text>HP Scanjet 4500 C</text>
+  </box>
+</annotation>
