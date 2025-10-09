@@ -1,0 +1,53 @@
+{
+    "company": "Tobacco Company",
+    "address": "Winston-Salem, NC 27102",
+    "date": "September 26, 1997",
+    "recipient": {
+        "name": "Mr. Bing Serpe",
+        "address": "517 4th Ave, Pelham, NY 10803"
+    },
+    "message": {
+        "greeting": "Dear Mr. Serpe:",
+        "body": "Thank you for contacting us. We appreciate your interest in our quality premiums and value your loyalty. Because our promotions are temporary, we do not have a permanent catalog of premium items. Brochures/order forms are sometimes printed for special mail-in offers and can be found at retail stores, at special events and as carton or pack inserts. Additionally, if your name is on the mailing list, you will be eligible to receive periodic mailings during the year relating to our product that you use. Should you again have any questions about our products or promotions, please call our Product Quality Line using the toll-free number on your cigarette pack. A representative will be happy to assist you. Again, thank you for your interest in our products and we send best wishes from all of us at Reynolds!",
+        "closing": "Sincerely,",
+        "signature": "Pat Riggs",
+        "title": "Consumer Relations Representative",
+        "pid": "PID#R-18452"
+    },
+    "promotion": {
+        "note": "We work for smokers.",
+        "warning": "SURGEON GENERAL'S WARNING: Smoking By Pregnant Women May Result in Fetal Injury, Premature Birth, And Low Birth Weight.",
+        "products": [
+            {
+                "name": "NOW SOFT PACK 100's FILTER",
+                "tar": "2mg",
+                "nicotine": "0.2mg"
+            },
+            {
+                "name": "VANTAGE FILTER",
+                "tar": "9mg",
+                "nicotine": "0.7mg"
+            },
+            {
+                "name": "MOR ALTER",
+                "tar": "13mg",
+                "nicotine": "1.1mg"
+            },
+            {
+                "name": "DORAL FULL FLAVOR",
+                "tar": "14mg",
+                "nicotine": "0.8mg"
+            },
+            {
+                "name": "WINSTON 100s",
+                "tar": "15mg",
+                "nicotine": "1.1mg"
+            },
+            {
+                "name": "SALEM 100s",
+                "tar": "16mg"
+            }
+        ],
+        "method": "FTC method"
+    }
+}

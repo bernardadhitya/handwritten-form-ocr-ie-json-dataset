@@ -1,0 +1,32 @@
+{
+    "organization": "Austria Faban Forschung, Entwicklung",
+    "report": {
+        "title": "Intermediate Report on De VdC (Verband Cizarlenindustrie)",
+        "id": 51136,
+        "confidentiality": "Confidential",
+        "date": "5.28.1984",
+        "project": {
+            "scope": "Within the scope of the VdC Research project on passive smoking",
+            "objective": "Austria Tabox has been analyzing to eliminate the burden on environmental air caused by tobacco smoke components.",
+            "design": "The study has been designed to determine the data under accurate control of the test parameters and under conditions corresponding closely to the real conditions.",
+            "parameters": {
+                "temperature": "controlled",
+                "humidity": "controlled",
+                "number_of_smoked_items": "cigarettes, cigars, or pipe tobacco",
+                "study_time": "1 year"
+            },
+            "measurements": [
+                "carbon monoxide",
+                "nitrogen oxides",
+                "nicotine",
+                "formaldehyde",
+                "acetaldehyde",
+                "hydrocyanic acid"
+            ],
+            "conducted_by": "BAT",
+            "additional_insight": "To gain a better insight of the CO function on the test persons, the amount of CO will be determined in the exhaled air before and after the smoking tests. The measured values will then be used for the calculation of COHB in the blood."
+        },
+        "description": "A detailed description of the analytical method and a discussion of the results will be done in the final report. This intermediate report presents the results obtained so far.",
+        "status": "So far, several measurements have been conducted and obtained."
+    }
+}
