@@ -1,0 +1,53 @@
+{
+    "formType": "Commenting on a Public Review Draft",
+    "standardType": "ASHRAE Standard, Guideline or Addendum",
+    "returnDeadline": "October 10, 2000",
+    "commenter": {
+        "name": "Hoy Bohanon",
+        "affiliation": "R.J. Reynolds",
+        "address": {
+            "POBox": "1487",
+            "city": "Winston-Salem",
+            "state": "NC",
+            "zip": "27102"
+        },
+        "telephone": "336-741-1710",
+        "fax": "336-741-5020",
+        "email": "bohanoh@rjrt.com"
+    },
+    "reviewDetails": {
+        "designationAndTitle": "BSR/ASHRAE Addendum o to ANSI/ASHRAE Standard 62-1999-Ventilation For Acceptable Indoor Air Quality"
+    },
+    "copyrightRelease": {
+        "grantedTo": "American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE)",
+        "rights": "non-exclusive royalty rights, including non-exclusive royalty rights in copyright",
+        "authorSignatureDate": "October 10, 2000"
+    },
+    "commentDetails": {
+        "clauseOrSubclause": "6.4",
+        "comment": "MMF",
+        "proposedAction": "delete",
+        "substantiatingStatements": "conflicts with addendum g"
+    },
+    "additionalPages": {
+        "attached": false,
+        "numberOfPages": 0
+    },
+    "submissionInstructions": {
+        "preferredFormat": "MS Word 7",
+        "submissionMethods": [
+            "email",
+            "diskettes",
+            "ftp",
+            "paper form by mail or fax"
+        ],
+        "contact": {
+            "manager": "ASHRAE, Manager of Standards",
+            "address": "1791 Tullie Circle, NE, Atlanta GA 30329-2305",
+            "email": "public.review.comment@ashrae.org",
+            "ftpServer": "ftp.ashrae.org.directorypublic.review.comment",
+            "fax": "404-321-5478"
+        }
+    },
+    "revisionDate": "Rev.98-12-04"
+}

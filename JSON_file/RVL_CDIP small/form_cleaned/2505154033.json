@@ -1,0 +1,80 @@
+{
+    "contractResearchCenter": "CRCCONTRACT RESEARCH CENTER",
+    "formNumber": "11",
+    "code": "05 CW 98",
+    "reference": "KMH/MCM",
+    "formApproval": "Form approved",
+    "observations": {
+        "type": "GROUP AND INDIVIDUAL IN-LIFE OBSERVATIONS",
+        "projectNumber": "3276",
+        "groupCode": "9ro",
+        "dayOfStudy": 5,
+        "date": "3Ap98",
+        "group": {
+            "males": {},
+            "females": {},
+            "time": "4.08",
+            "totalNumberOfAnimals": "do",
+            "decreasedSpontaneousActivity": null,
+            "trembling": "e",
+            "partiallyOrFullyClosedEyelids": null,
+            "harderianGlandSecretion": 2,
+            "initials": "OY",
+            "partiallyOrFullyWetOrMoistFur": null,
+            "abnormalBreathing": "O"
+        },
+        "individual": {
+            "animalNumber": "6o rYO",
+            "sex": null,
+            "time": "44.52",
+            "codes": {
+                "spontaneousActivity": "0f0",
+                "irritability": 10,
+                "turningReflex": "A",
+                "grippingAbility": 35,
+                "closedEyelids": "Q",
+                "trembling": 40,
+                "highLeggedGait": 45,
+                "abnormalBreathing": 50,
+                "harderianGlandSecretion": 55,
+                "hairChanges": {
+                    "rough": 60,
+                    "moistWetPercentage": "603",
+                    "discoloration": "+",
+                    "hairlossPercentage": "2505154033"
+                },
+                "skinChanges": 95,
+                "incisors": 100,
+                "injuries": 105
+            }
+        }
+    },
+    "remarks": "Oracle",
+    "dates": [
+        {
+            "date": "TAPA8",
+            "initials": null
+        },
+        {
+            "date": "09APR1999",
+            "initials": "SD"
+        }
+    ],
+    "grades": {
+        "0": "normal",
+        "-1": "slight decrease",
+        "-2": "marked decrease",
+        "+1": "slight increase",
+        "+2": "marked increase",
+        "x": "finding, describe if necessary"
+    },
+    "errorCodes": {
+        "A": "writing",
+        "B": "calculation",
+        "C": "mixing up",
+        "D": "reading",
+        "E": "copy",
+        "F": "other with explanation"
+    },
+    "errorCodeNumber": "0992"
+}

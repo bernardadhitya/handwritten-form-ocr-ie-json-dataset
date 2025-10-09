@@ -1,0 +1,67 @@
+{
+    "certificateOfInsurance": {
+        "issueDate": "9/28/92",
+        "producer": {
+            "name": "Johnson & Higgins",
+            "address": "125 Broad Street, New York, New York 10004"
+        },
+        "companiesAffordingCoverage": {
+            "A": "Hartford Fire Ins. Co.",
+            "B": "Hartford Accident & Indemnity",
+            "C": "Twin City Fire Ins. Co.",
+            "D": "Hartford Underwriters Ins. Co."
+        },
+        "coverages": [
+            {
+                "type": "General Liability",
+                "policyNumber": "LTA",
+                "policyEffectiveDate": "5/1/92",
+                "policyExpirationDate": "5/1/93",
+                "limits": {
+                    "generalAggregate": 1000000,
+                    "productsCompOpAgg": 1000000,
+                    "personalAdvInjury": 1000000,
+                    "eachOccurrence": 1000000,
+                    "fireDamage": 1000000,
+                    "medExpense": 10000
+                }
+            },
+            {
+                "type": "Automobile Liability",
+                "policyNumber": "10CSEC35119E",
+                "policyEffectiveDate": "5/1/92",
+                "policyExpirationDate": "5/1/93",
+                "limits": {
+                    "combinedSingleLimit": 1000000
+                },
+                "additionalPolicyNumbers": [
+                    "10CSEC35116E(MA)",
+                    "10CSEC35117E(NJ)"
+                ]
+            },
+            {
+                "type": "Worker's Compensation",
+                "policyNumber": "1OWBRP28119E",
+                "policyEffectiveDate": "5/1/92",
+                "policyExpirationDate": "5/1/93",
+                "limits": {
+                    "statutoryLimits": true,
+                    "eachAccident": 500000,
+                    "diseasePolicyLimit": 500000,
+                    "diseaseEachEmployee": 500000
+                },
+                "additionalPolicyNumbers": [
+                    "1OWLC35132E(LA)",
+                    "1OWLC35131E"
+                ]
+            }
+        ],
+        "descriptionOfOperations": "Certificate holder named Additional Insured, ATIMA, regarding October 13-14, 1992 expo held in Moultrie, GA.",
+        "certificateHolder": {
+            "name": "Sunbelt Agricultural Exposition, Inc.",
+            "address": "P.O. Box 28, Tifton, GA 31793"
+        },
+        "cancellation": "Should any of the above described policies be cancelled before the expiration date thereof, the issuing company will endeavor to mail, but failure to mail such notice shall impose no obligation or liability of any kind upon the company, its agents or representatives.",
+        "authorizedRepresentative": "Xosden"
+    }
+}

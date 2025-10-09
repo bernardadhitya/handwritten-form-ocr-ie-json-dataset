@@ -1,0 +1,75 @@
+{
+    "header": {
+        "form": "ABNOV.9",
+        "center": "CRC",
+        "name": "CONTRACT RESEARCH CENTER",
+        "room": "RMNO1",
+        "code": "47-CW-97KMRW",
+        "form_approval": "Form approved"
+    },
+    "project": {
+        "number": "B",
+        "group_code": "24",
+        "day_of_study": "3",
+        "date": "97"
+    },
+    "group": {
+        "males": {
+            "time": "+2",
+            "total_number_of_animals": null,
+            "decreased_spontaneous_activity": null,
+            "trembling": "O",
+            "partially_or_fully_closed_eyelids": null,
+            "harderian_gland_secretion": null,
+            "initials": null,
+            "partially_or_fully_wet_or_moist_fur": null,
+            "abnormal_breathing": "6"
+        },
+        "females": {}
+    },
+    "individual": {
+        "animal_number": "2110",
+        "sex": "5",
+        "time": "42.0",
+        "codes": {
+            "spontaneous_activity": "O",
+            "irritability": "-",
+            "turning_reflex": "35",
+            "gripping_ability": "40",
+            "closed_eyelids": "45",
+            "trembling": "50",
+            "high_legged_gait": "55",
+            "abnormal_breathing": "60",
+            "harderian_gland_secretion": "65",
+            "hair_changes": "ybnos",
+            "moist_wet_percent": "6",
+            "discoloration": "X",
+            "hair_toss_percent": "D",
+            "skin_changes": "95",
+            "incisors": "Q",
+            "injuries": "O"
+        }
+    },
+    "remarks": {
+        "animal": "oS",
+        "bcker_aln": "909",
+        "error_codes": {
+            "A": "writing",
+            "B": "calculation",
+            "C": "mixing",
+            "D": "reading",
+            "E": "copy",
+            "F": "other with explanation"
+        },
+        "date": "799",
+        "initials": "SD",
+        "grades": {
+            "0": "normal",
+            "-1": "slight decrease",
+            "-2": "marked decrease",
+            "+1": "slight increase",
+            "+2": "marked increase",
+            "x": "finding, describe if necessary"
+        }
+    }
+}

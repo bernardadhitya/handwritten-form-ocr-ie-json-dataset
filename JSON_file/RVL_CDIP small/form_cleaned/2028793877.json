@@ -1,0 +1,61 @@
+{
+    "report": "A 0500/3050.06",
+    "no": "26RA15",
+    "page": 44,
+    "research_center": "PHILIP MORRIS RESEARCH CENTER",
+    "cr": "New",
+    "known": 2068,
+    "empirical_formula": "CH2N",
+    "molecular_weight": 136.19,
+    "literature_reference": "C.A.Reg.#43071-19-8",
+    "name": "2-Dimethylaminomethylpyrdine",
+    "structure": null,
+    "method_of_preparation": "HCHO CR-2068 HCO, 7228 Pg147",
+    "solubility": null,
+    "sample": "7228-147a",
+    "mp": null,
+    "bp": "118/15mm",
+    "number": null,
+    "date": null,
+    "solvent": null,
+    "ir": {
+        "number": 30913,
+        "date": "12/2/81",
+        "solvent": "TF"
+    },
+    "uv": null,
+    "nmr": [
+        {
+            "number": 10876,
+            "date": "12/2/81",
+            "solvent": "CDC13"
+        },
+        {
+            "number": 10893,
+            "date": "12/9/81",
+            "solvent": "COCI"
+        }
+    ],
+    "derivatives": "picrate,mp 162-30",
+    "analysis": {
+        "source": "From Galbraith",
+        "date": "12/10/81",
+        "sample": "p1crate,7228-147B",
+        "calculated": {
+            "c": 40.41,
+            "h": 3.05,
+            "n": 18.85
+        },
+        "found": {
+            "c": 40.62,
+            "h": 3.12,
+            "n": 18.93
+        }
+    },
+    "comments": "File 's 125217",
+    "comment_date": "11/30/81",
+    "submitter": null,
+    "project": null,
+    "approved": "Owroos",
+    "project_number": 2500
+}
