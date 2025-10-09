@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2474" height="3499">01819_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Modification de contrat / Commande</scenario>
+  <writer>LATAPIE Jeremy</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="162" top_left_y="282" bottom_right_x="719" bottom_right_y="424">
+       <type>Code d'envoi</type>
+       <text>VQGPET</text>
+  </box>
+  <box top_left_x="393" top_left_y="446" bottom_right_x="1200" bottom_right_y="553">
+       <type>Nom</type>
+       <text>LATAPIE</text>
+  </box>
+  <box top_left_x="1393" top_left_y="448" bottom_right_x="2163" bottom_right_y="552">
+       <type>Prénom</type>
+       <text>Jeremy</text>
+  </box>
+  <box top_left_x="476" top_left_y="548" bottom_right_x="2168" bottom_right_y="646">
+       <type>Adresse</type>
+       <text>5 Grande rue</text>
+  </box>
+  <box top_left_x="553" top_left_y="649" bottom_right_x="969" bottom_right_y="755">
+       <type>Code Postal</type>
+       <text>55600</text>
+  </box>
+  <box top_left_x="1091" top_left_y="644" bottom_right_x="2169" bottom_right_y="755">
+       <type>Ville</type>
+       <text>Thonne les Pres</text>
+  </box>
+  <box top_left_x="361" top_left_y="759" bottom_right_x="1230" bottom_right_y="907">
+       <type>Téléphone</type>
+       <text>0387075701</text>
+  </box>
+  <box top_left_x="500" top_left_y="1027" bottom_right_x="2171" bottom_right_y="1144">
+       <type>Catégorie Scénario</type>
+       <text>Modification de commande</text>
+  </box>
+  <box top_left_x="285" top_left_y="1137" bottom_right_x="2171" bottom_right_y="1319">
+       <type>Objet Scénario</type>
+       <text>Augmentation (X2) des quantités de\nchaussettes commandées</text>
+  </box>
+  <box top_left_x="278" top_left_y="1315" bottom_right_x="2170" bottom_right_y="1505">
+       <type>Complément Scénario</type>
+       <text>Aucun\n</text>
+  </box>
+  <box top_left_x="900" top_left_y="1522" bottom_right_x="1535" bottom_right_y="1673">
+       <type>Référence client</type>
+       <text>QZLTW14</text>
+  </box>
+  <box top_left_x="578" top_left_y="1669" bottom_right_x="2178" bottom_right_y="1769">
+       <type>Interlocuteur</type>
+       <text>La Reboute</text>
+  </box>
+  <box top_left_x="489" top_left_y="1758" bottom_right_x="2178" bottom_right_y="1868">
+       <type>Adresse Interlocuteur</type>
+       <text>Grande ¤{allee/allée}¤ de tenay</text>
+  </box>
+  <box top_left_x="567" top_left_y="1857" bottom_right_x="995" bottom_right_y="1976">
+       <type>Code Postal Interlocuteur</type>
+       <text>71800</text>
+  </box>
+  <box top_left_x="1128" top_left_y="1859" bottom_right_x="2179" bottom_right_y="1961">
+       <type>Ville Interlocuteur</type>
+       <text>St Christophe en Brionnais</text>
+  </box>
+  <box top_left_x="1047" top_left_y="2195" bottom_right_x="1261" bottom_right_y="2305">
+       <type>Temps passé</type>
+       <text>25</text>
+  </box>
+  <box top_left_x="869" top_left_y="2137" bottom_right_x="970" bottom_right_y="2184">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1067" top_left_y="2130" bottom_right_x="1116" bottom_right_y="2182">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1283" top_left_y="2131" bottom_right_x="1334" bottom_right_y="2182">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="300" top_left_y="2599" bottom_right_x="377" bottom_right_y="2647">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1587" top_left_y="2552" bottom_right_x="2185" bottom_right_y="2664">
+       <type>Date d'envoi postal</type>
+       <text>08/01/07</text>
+  </box>
+  <box top_left_x="301" top_left_y="2692" bottom_right_x="351" bottom_right_y="2740">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="300" top_left_y="2786" bottom_right_x="351" bottom_right_y="2832">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1729" top_left_y="2725" bottom_right_x="2177" bottom_right_y="2842">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="300" top_left_y="2878" bottom_right_x="351" bottom_right_y="2927">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1586" top_left_y="2844" bottom_right_x="2180" bottom_right_y="2947">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1727" top_left_y="3041" bottom_right_x="1991" bottom_right_y="3136">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="572" top_left_y="3068" bottom_right_x="622" bottom_right_y="3117">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="777" top_left_y="3067" bottom_right_x="828" bottom_right_y="3118">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="957" top_left_y="3067" bottom_right_x="1007" bottom_right_y="3118">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1067" top_left_y="2942" bottom_right_x="2181" bottom_right_y="3043">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
