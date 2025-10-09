@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="18/12/2007" author="Jouve">
+  <source width="2472" height="3500">00883_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Gestion de sinistre</scenario>
+  <writer>LEGROUX Alisson</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="230" top_left_y="432" bottom_right_x="786" bottom_right_y="573">
+       <type>Code d'envoi</type>
+       <text>VPKSHI</text>
+  </box>
+  <box top_left_x="460" top_left_y="594" bottom_right_x="1267" bottom_right_y="700">
+       <type>Nom</type>
+       <text>LEGROUX</text>
+  </box>
+  <box top_left_x="1460" top_left_y="594" bottom_right_x="2230" bottom_right_y="696">
+       <type>Prénom</type>
+       <text>Alisson</text>
+  </box>
+  <box top_left_x="544" top_left_y="696" bottom_right_x="2235" bottom_right_y="789">
+       <type>Adresse</type>
+       <text>41 FG de Belfort</text>
+  </box>
+  <box top_left_x="619" top_left_y="797" bottom_right_x="1036" bottom_right_y="902">
+       <type>Code Postal</type>
+       <text>70400</text>
+  </box>
+  <box top_left_x="1158" top_left_y="791" bottom_right_x="2236" bottom_right_y="898">
+       <type>Ville</type>
+       <text>HERICOURT</text>
+  </box>
+  <box top_left_x="427" top_left_y="909" bottom_right_x="1296" bottom_right_y="1055">
+       <type>Téléphone</type>
+       <text>0353640790</text>
+  </box>
+  <box top_left_x="567" top_left_y="1174" bottom_right_x="2236" bottom_right_y="1291">
+       <type>Catégorie Scénario</type>
+       <text>Gestion de sinistre</text>
+  </box>
+  <box top_left_x="352" top_left_y="1285" bottom_right_x="2236" bottom_right_y="1467">
+       <type>Objet Scénario</type>
+       <text>Je fais appel à mon assurance habitation\n</text>
+  </box>
+  <box top_left_x="344" top_left_y="1464" bottom_right_x="2236" bottom_right_y="1651">
+       <type>Complément Scénario</type>
+       <text>Mon toit a été endommagé par la\nchute d'un arbre</text>
+  </box>
+  <box top_left_x="965" top_left_y="1670" bottom_right_x="1600" bottom_right_y="1819">
+       <type>Référence client</type>
+       <text>AGMTS20</text>
+  </box>
+  <box top_left_x="642" top_left_y="1817" bottom_right_x="2242" bottom_right_y="1912">
+       <type>Interlocuteur</type>
+       <text>MANIF Assurance</text>
+  </box>
+  <box top_left_x="554" top_left_y="1907" bottom_right_x="2240" bottom_right_y="2010">
+       <type>Adresse Interlocuteur</type>
+       <text>Rue des Fosses</text>
+  </box>
+  <box top_left_x="632" top_left_y="2006" bottom_right_x="1059" bottom_right_y="2125">
+       <type>Code Postal Interlocuteur</type>
+       <text>38970</text>
+  </box>
+  <box top_left_x="1192" top_left_y="2005" bottom_right_x="2241" bottom_right_y="2105">
+       <type>Ville Interlocuteur</type>
+       <text>CORPS</text>
+  </box>
+  <box top_left_x="1110" top_left_y="2343" bottom_right_x="1324" bottom_right_y="2453">
+       <type>Temps passé</type>
+       <text>20</text>
+  </box>
+  <box top_left_x="932" top_left_y="2282" bottom_right_x="1034" bottom_right_y="2332">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1131" top_left_y="2278" bottom_right_x="1179" bottom_right_y="2330">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1346" top_left_y="2278" bottom_right_x="1398" bottom_right_y="2330">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="362" top_left_y="2748" bottom_right_x="411" bottom_right_y="2808">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1650" top_left_y="2698" bottom_right_x="2246" bottom_right_y="2810">
+       <type>Date d'envoi postal</type>
+       <text>12 nov. 2006</text>
+  </box>
+  <box top_left_x="363" top_left_y="2843" bottom_right_x="412" bottom_right_y="2890">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="361" top_left_y="2937" bottom_right_x="413" bottom_right_y="2983">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1791" top_left_y="2871" bottom_right_x="2239" bottom_right_y="2989">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="361" top_left_y="3028" bottom_right_x="413" bottom_right_y="3078">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1647" top_left_y="2991" bottom_right_x="2241" bottom_right_y="3094">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1788" top_left_y="3187" bottom_right_x="2053" bottom_right_y="3282">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="634" top_left_y="3217" bottom_right_x="684" bottom_right_y="3267">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="838" top_left_y="3216" bottom_right_x="889" bottom_right_y="3267">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1018" top_left_y="3216" bottom_right_x="1068" bottom_right_y="3266">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1129" top_left_y="3089" bottom_right_x="2243" bottom_right_y="3190">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
