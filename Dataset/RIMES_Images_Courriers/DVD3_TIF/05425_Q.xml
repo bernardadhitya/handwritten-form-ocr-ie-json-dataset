@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2473" height="3505">05425_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Difficulté de paiement</scenario>
+  <writer>CASANOVA Anne</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="166" top_left_y="307" bottom_right_x="725" bottom_right_y="448">
+       <type>Code d'envoi</type>
+       <text>KNATAT</text>
+  </box>
+  <box top_left_x="398" top_left_y="469" bottom_right_x="1209" bottom_right_y="575">
+       <type>Nom</type>
+       <text>CASANOVA</text>
+  </box>
+  <box top_left_x="1402" top_left_y="470" bottom_right_x="2176" bottom_right_y="573">
+       <type>Prénom</type>
+       <text>ANNE</text>
+  </box>
+  <box top_left_x="482" top_left_y="571" bottom_right_x="2181" bottom_right_y="668">
+       <type>Adresse</type>
+       <text>7 rue de l'Ile</text>
+  </box>
+  <box top_left_x="559" top_left_y="671" bottom_right_x="978" bottom_right_y="778">
+       <type>Code Postal</type>
+       <text>60100</text>
+  </box>
+  <box top_left_x="1100" top_left_y="667" bottom_right_x="2184" bottom_right_y="777">
+       <type>Ville</type>
+       <text>CREIL</text>
+  </box>
+  <box top_left_x="366" top_left_y="783" bottom_right_x="1240" bottom_right_y="929">
+       <type>Téléphone</type>
+       <text>0300639968</text>
+  </box>
+  <box top_left_x="506" top_left_y="1050" bottom_right_x="2182" bottom_right_y="1165">
+       <type>Catégorie Scénario</type>
+       <text>Difficulté de paiement</text>
+  </box>
+  <box top_left_x="291" top_left_y="1160" bottom_right_x="2182" bottom_right_y="1340">
+       <type>Objet Scénario</type>
+       <text>Demande d'échelonnement\n</text>
+  </box>
+  <box top_left_x="282" top_left_y="1338" bottom_right_x="2182" bottom_right_y="1525">
+       <type>Complément Scénario</type>
+       <text>Votre endettement est devenu trop\nimportant</text>
+  </box>
+  <box top_left_x="906" top_left_y="1545" bottom_right_x="1543" bottom_right_y="1694">
+       <type>Référence client</type>
+       <text>PWGJA83</text>
+  </box>
+  <box top_left_x="582" top_left_y="1693" bottom_right_x="2188" bottom_right_y="1788">
+       <type>Interlocuteur</type>
+       <text>Trésorerie des ¤{impots/impôts}¤</text>
+  </box>
+  <box top_left_x="494" top_left_y="1783" bottom_right_x="2187" bottom_right_y="1887">
+       <type>Adresse Interlocuteur</type>
+       <text>BOURG</text>
+  </box>
+  <box top_left_x="572" top_left_y="1881" bottom_right_x="1001" bottom_right_y="2000">
+       <type>Code Postal Interlocuteur</type>
+       <text>35480</text>
+  </box>
+  <box top_left_x="1135" top_left_y="1882" bottom_right_x="2188" bottom_right_y="1982">
+       <type>Ville Interlocuteur</type>
+       <text>GUIPRY</text>
+  </box>
+  <box top_left_x="1052" top_left_y="2218" bottom_right_x="1267" bottom_right_y="2328">
+       <type>Temps passé</type>
+       <text>6</text>
+  </box>
+  <box top_left_x="904" top_left_y="2157" bottom_right_x="948" bottom_right_y="2207">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1073" top_left_y="2153" bottom_right_x="1122" bottom_right_y="2205">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1287" top_left_y="2153" bottom_right_x="1339" bottom_right_y="2205">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="306" top_left_y="2622" bottom_right_x="364" bottom_right_y="2672">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1595" top_left_y="2575" bottom_right_x="2195" bottom_right_y="2686">
+       <type>Date d'envoi postal</type>
+       <text>28.04.07</text>
+  </box>
+  <box top_left_x="302" top_left_y="2717" bottom_right_x="352" bottom_right_y="2764">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="300" top_left_y="2811" bottom_right_x="352" bottom_right_y="2857">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1737" top_left_y="2747" bottom_right_x="2187" bottom_right_y="2864">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="301" top_left_y="2905" bottom_right_x="351" bottom_right_y="2973">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1593" top_left_y="2867" bottom_right_x="2190" bottom_right_y="2969">
+       <type>Date d'envoi par courriel</type>
+       <text>28.04.07</text>
+  </box>
+  <box top_left_x="1734" top_left_y="3064" bottom_right_x="2000" bottom_right_y="3158">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="574" top_left_y="3092" bottom_right_x="625" bottom_right_y="3141">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="779" top_left_y="3090" bottom_right_x="831" bottom_right_y="3141">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="979" top_left_y="3092" bottom_right_x="1023" bottom_right_y="3143">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1072" top_left_y="2965" bottom_right_x="2191" bottom_right_y="3065">
+       <type>Marque et modèle scanner</type>
+       <text>EPSON CX 3200</text>
+  </box>
+</annotation>

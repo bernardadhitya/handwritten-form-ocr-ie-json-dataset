@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2468" height="3502">05437_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Modification de contrat / Commande</scenario>
+  <writer>OTMANI Jeremy</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="124" top_left_y="307" bottom_right_x="707" bottom_right_y="456">
+       <type>Code d'envoi</type>
+       <text>PIJKSO</text>
+  </box>
+  <box top_left_x="365" top_left_y="477" bottom_right_x="1210" bottom_right_y="591">
+       <type>Nom</type>
+       <text>OTMANI</text>
+  </box>
+  <box top_left_x="1412" top_left_y="481" bottom_right_x="2220" bottom_right_y="591">
+       <type>Prénom</type>
+       <text>JEREMY</text>
+  </box>
+  <box top_left_x="452" top_left_y="585" bottom_right_x="2226" bottom_right_y="690">
+       <type>Adresse</type>
+       <text>17 RUE DES AULNES</text>
+  </box>
+  <box top_left_x="532" top_left_y="689" bottom_right_x="970" bottom_right_y="803">
+       <type>Code Postal</type>
+       <text>67500</text>
+  </box>
+  <box top_left_x="1097" top_left_y="686" bottom_right_x="2228" bottom_right_y="808">
+       <type>Ville</type>
+       <text>BATZENDORF</text>
+  </box>
+  <box top_left_x="332" top_left_y="806" bottom_right_x="1243" bottom_right_y="967">
+       <type>Téléphone</type>
+       <text>0394847543</text>
+  </box>
+  <box top_left_x="477" top_left_y="1088" bottom_right_x="2226" bottom_right_y="1220">
+       <type>Catégorie Scénario</type>
+       <text>Modification de contrat de commande</text>
+  </box>
+  <box top_left_x="251" top_left_y="1202" bottom_right_x="2226" bottom_right_y="1401">
+       <type>Objet Scénario</type>
+       <text>Augmentation (x2) des quantités de CD vierges commandés\n</text>
+  </box>
+  <box top_left_x="243" top_left_y="1387" bottom_right_x="2227" bottom_right_y="1594">
+       <type>Complément Scénario</type>
+       <text>aucun\n</text>
+  </box>
+  <box top_left_x="895" top_left_y="1605" bottom_right_x="1560" bottom_right_y="1767">
+       <type>Référence client</type>
+       <text>KMCUR56</text>
+  </box>
+  <box top_left_x="556" top_left_y="1758" bottom_right_x="2232" bottom_right_y="1870">
+       <type>Interlocuteur</type>
+       <text>Les 3 SUIFS</text>
+  </box>
+  <box top_left_x="463" top_left_y="1853" bottom_right_x="2230" bottom_right_y="1974">
+       <type>Adresse Interlocuteur</type>
+       <text>Le BOURG</text>
+  </box>
+  <box top_left_x="545" top_left_y="1957" bottom_right_x="993" bottom_right_y="2083">
+       <type>Code Postal Interlocuteur</type>
+       <text>30650</text>
+  </box>
+  <box top_left_x="1132" top_left_y="1961" bottom_right_x="2233" bottom_right_y="2071">
+       <type>Ville Interlocuteur</type>
+       <text>SAZE</text>
+  </box>
+  <box top_left_x="1046" top_left_y="2310" bottom_right_x="1271" bottom_right_y="2425">
+       <type>Temps passé</type>
+       <text>10</text>
+  </box>
+  <box top_left_x="886" top_left_y="2247" bottom_right_x="965" bottom_right_y="2297">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1065" top_left_y="2269" bottom_right_x="1146" bottom_right_y="2307">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1264" top_left_y="2259" bottom_right_x="1375" bottom_right_y="2304">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="263" top_left_y="2732" bottom_right_x="342" bottom_right_y="2780">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1612" top_left_y="2687" bottom_right_x="2239" bottom_right_y="2806">
+       <type>Date d'envoi postal</type>
+       <text>27-04-07</text>
+  </box>
+  <box top_left_x="264" top_left_y="2831" bottom_right_x="310" bottom_right_y="2879">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="263" top_left_y="2930" bottom_right_x="342" bottom_right_y="2979">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1760" top_left_y="2869" bottom_right_x="2231" bottom_right_y="2993">
+       <type>Date d'envoi par fax</type>
+       <text>27-04-07</text>
+  </box>
+  <box top_left_x="260" top_left_y="3024" bottom_right_x="314" bottom_right_y="3076">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1610" top_left_y="2993" bottom_right_x="2233" bottom_right_y="3102">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1757" top_left_y="3198" bottom_right_x="2035" bottom_right_y="3297">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="545" top_left_y="3223" bottom_right_x="598" bottom_right_y="3275">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="760" top_left_y="3222" bottom_right_x="814" bottom_right_y="3275">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="949" top_left_y="3223" bottom_right_x="1001" bottom_right_y="3276">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1065" top_left_y="3093" bottom_right_x="2234" bottom_right_y="3201">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
