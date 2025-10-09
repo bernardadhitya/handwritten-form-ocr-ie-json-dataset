@@ -1,0 +1,57 @@
+{
+    "id": 1054,
+    "code": "1-7-144",
+    "company": "CONTERARY MARKETINC RESEARCH",
+    "address": {
+        "street": "1270 Broadway",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10001"
+    },
+    "date": "July 1981",
+    "test": "COMMERCIAL TEST",
+    "version": "5-1",
+    "questionnaire": "SCREENING QUESTIONNAIRE",
+    "contact": {
+        "name": "Smchad Sme",
+        "phone": "423-9667",
+        "address": "9x47 CastKrectinrdg, werlard"
+    },
+    "interview": {
+        "began": "7-10",
+        "ended": "7-17-81",
+        "validatedBy": "study",
+        "interviewer": "CHECK SEX QUOTAS"
+    },
+    "respondent": {
+        "sex": "Male",
+        "familyEmployment": {
+            "marketResearchFirm": false,
+            "advertisingAgency": false,
+            "manufacturerOrDistributor": false
+        },
+        "participatedInSurveyLast3Months": false,
+        "ageGroup": "21-34",
+        "smokesCigarettes": true,
+        "cigarettesPerDay": "10-19"
+    },
+    "ads": [
+        {
+            "letter": "AD",
+            "questionnaireColor": "WHITE",
+            "quotas": {
+                "male": 11,
+                "female": 12,
+                "age21-34": 13
+            }
+        },
+        {
+            "letter": "ADK",
+            "questionnaireColor": "PINK",
+            "quotas": {
+                "male": 2,
+                "female": 4
+            }
+        }
+    ]
+}

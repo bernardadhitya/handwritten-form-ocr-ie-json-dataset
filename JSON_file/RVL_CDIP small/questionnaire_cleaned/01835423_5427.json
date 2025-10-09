@@ -1,0 +1,69 @@
+{
+    "survey": {
+        "title": "SATIONAL CONSENSUS SURVEYS",
+        "id": "#42318W",
+        "address": {
+            "street": "801 Second Avenue",
+            "city": "New York",
+            "state": "New York",
+            "zip": "10017"
+        },
+        "phone": "wDexllen",
+        "instructions": "Please take a few minutes to go through the advertisements in this book. Please take as much time with each ad as you care to. If you ordinarily wear reading glasses, you'll need them.",
+        "questions": [
+            {
+                "text": "What brands or products do you remember seeing ads for in the book?",
+                "note": "DO NOT READ EITHER BRAND NAMES OR PRODUCT CATEGORIES.",
+                "categories": {
+                    "general_ads": [
+                        "Amana Range",
+                        "Dole Pineapple",
+                        "General Electric Washer",
+                        "Bayer Aspirin",
+                        "Hilton Hotels",
+                        "Bolens Lawn Mower",
+                        "Budweiser",
+                        "Old Spice Pocket Cologne",
+                        "Canadian Club",
+                        "Polaroid Camera",
+                        "Coca Cola",
+                        "Singer Sewing Machines",
+                        "Concord Watches",
+                        "Taster's Choice",
+                        "Crest",
+                        "Weight Watchers"
+                    ],
+                    "cigarette_ads": [
+                        "Golden Lights",
+                        "Golden Unsp.",
+                        "Kent Golden",
+                        "Kent Lights",
+                        "True"
+                    ]
+                }
+            },
+            {
+                "text": "Do you remember any ads for cigarettes?",
+                "brands": [
+                    "Golden Light",
+                    "Golden Unsp",
+                    "Kent Golden",
+                    "Kent Lights",
+                    "True"
+                ]
+            },
+            {
+                "text": "Do you remember any ads for any other brands of cigarettes?",
+                "brands": [
+                    "Luke",
+                    "Golden Lights",
+                    "Golden Unsp.",
+                    "Kent Golden Lights",
+                    "Kent Golden",
+                    "Kent Lights",
+                    "True"
+                ]
+            }
+        ]
+    }
+}

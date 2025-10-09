@@ -1,0 +1,65 @@
+{
+    "company": "Tan K Corp",
+    "topic": "CIGARETTES AND HEALTH",
+    "public_opinion": {
+        "growing_debate": "about proof of risk among public",
+        "statements": [
+            {
+                "statement": "Scientists disagree so much these days, you can't trust them anymore.",
+                "agree": {
+                    "1980": 46,
+                    "1979": 38,
+                    "1978": 38
+                },
+                "disagree": {
+                    "1980": 38,
+                    "1979": 53,
+                    "1978": 60
+                }
+            },
+            {
+                "statement": "Using the tests that they do, you could show that anything causes cancer.",
+                "agree": {
+                    "1980": 68,
+                    "1979": 60,
+                    "1978": 58
+                },
+                "disagree": {
+                    "1980": 24,
+                    "1979": 29,
+                    "1978": 33
+                }
+            },
+            {
+                "statement": "Anything that causes cancer in rats, no matter what the quantity, almost certainly causes cancer in humans.",
+                "agree": {
+                    "1980": 41,
+                    "1979": 36,
+                    "1978": 40
+                },
+                "disagree": {
+                    "1980": 50,
+                    "1979": 54,
+                    "1978": 50
+                }
+            },
+            {
+                "statement": "Rat tests are ridiculous because they feed them such huge quantities.",
+                "agree": {
+                    "1980": 67,
+                    "1979": 65
+                },
+                "disagree": {
+                    "1980": 64,
+                    "1979": 24,
+                    "1978": 26
+                }
+            }
+        ],
+        "congressional_opinion": {
+            "statement": "6 in 10 among Congressional sample say tests are a perfectly valid way of detecting carcinogenic substances.",
+            "agree": 50184,
+            "disagree": 8656
+        }
+    }
+}

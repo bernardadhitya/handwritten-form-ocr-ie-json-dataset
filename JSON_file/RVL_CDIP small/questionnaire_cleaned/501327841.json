@@ -1,0 +1,39 @@
+{
+    "instructions": "DO NOT USE CAMPAIGN COMMUNICATION STUDY PRE (NO.1)",
+    "event": "EVE",
+    "code": "74-1533",
+    "column": "12",
+    "introduction": "Hello, I'm calling for marketing research.",
+    "survey_id": "741533",
+    "question_1": {
+        "text": "Have you smoked any cigarettes in the past seven days?",
+        "response": "NO",
+        "follow_up": "ASK IF THERE IS ANYONE IN THE HOME 18 OR OVER WHO SMOKES AND REPEAT. IF NO SMOKER, TERMINATE."
+    },
+    "question_1b": {
+        "text": "About how many cigarettes do you usually smoke per day?",
+        "options": {
+            "1-15": "-1",
+            "DK": "16-25",
+            "REF": "Over 25"
+        },
+        "note": "DAY TERMINATE AND DO NOT RECORD OR INCLUDE IN QUOTA."
+    },
+    "question_2": {
+        "text": "What brands have you seen advertised in the past two weeks?",
+        "response": "IN WHICH RESPONDENT GIVES THEM."
+    },
+    "codes": [
+        "11",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18"
+    ],
+    "additional_codes": [
+        "50132",
+        "7841"
+    ]
+}

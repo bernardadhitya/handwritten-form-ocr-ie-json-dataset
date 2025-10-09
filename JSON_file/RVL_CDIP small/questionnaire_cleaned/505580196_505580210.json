@@ -1,0 +1,68 @@
+{
+    "company": "Bellomy-Carrigg, Inc",
+    "job_number": "0906",
+    "location": "UNIVERSITY PARKWAY",
+    "date": "October, 1984",
+    "city_state_zip": "WINSTONSALEM, N.C. 27014",
+    "survey": {
+        "title": "AA EXTENDED USE CONCEPT/PRODUCT TEST",
+        "type": "SCREENER",
+        "respondent": {
+            "name": "Derper",
+            "address": "1053y PlaiswiePtrTuunaa",
+            "state": "9104",
+            "phone": "352-56/3",
+            "date": "18/70",
+            "interviewed_by": "Lowdis"
+        },
+        "instructions": "INTERVIEW WOMEN ONLY",
+        "introduction": "Hello, I'm from (YOUR COMPANY), an independent marketing research",
+        "questions": [
+            {
+                "question": "Into which of the following age groups does your age belong?",
+                "options": [
+                    "Under 18",
+                    "18-24",
+                    "25-34",
+                    "35-49",
+                    "50+",
+                    "Refused"
+                ],
+                "notes": [
+                    "TERMINATE, ERASE AND RE-USE if under 18 or refused",
+                    "CHECK QUOTA TO DETERMINE IF NEEDED",
+                    "IF OVER QUOTA, ASK FOR ANOTHER FEMALE IN AGE GROUP NEEDED"
+                ],
+                "selected_option": "25-34"
+            },
+            {
+                "question": "Which of the following products do you use daily?",
+                "options": [
+                    "Breathmints",
+                    "Mouthwash",
+                    "Cigarettes",
+                    "Gel toothpaste",
+                    "Cream toothpaste"
+                ],
+                "notes": [
+                    "CONTINUE ONLY IF CIGARETTES CHECKED ABOVE IN Q.2",
+                    "IF NONE, TERMINATE, ERASE AND RE-USE"
+                ]
+            },
+            {
+                "question": "Which of the following brands have you used in the past week?",
+                "options": [
+                    "Certs breathmints",
+                    "Clorets breathmints",
+                    "Topal toothpaste",
+                    "Aqua Fresh toothpaste",
+                    "Clinomint",
+                    "Scope"
+                ],
+                "selected_options": [
+                    "Certs breathmints"
+                ]
+            }
+        ]
+    }
+}

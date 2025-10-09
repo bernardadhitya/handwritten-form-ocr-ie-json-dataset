@@ -1,0 +1,51 @@
+{
+    "survey": {
+        "code": "Ass1gncdUSF 71~",
+        "family": {
+            "question": "Did you or any members of your family as listed below ever have cancer?",
+            "response": "Yes",
+            "details": [
+                {
+                    "relation": "Grandparents",
+                    "number_with_cancer": "0",
+                    "types": "",
+                    "smoke": "",
+                    "drink_alcohol": "",
+                    "occupations": ""
+                },
+                {
+                    "relation": "Parents",
+                    "number_with_cancer": "1",
+                    "types": "Bone",
+                    "smoke": "Yes",
+                    "drink_alcohol": "Yes",
+                    "occupations": "Painter"
+                },
+                {
+                    "relation": "Brothers & Sisters",
+                    "number_with_cancer": "1",
+                    "types": "Tumor",
+                    "smoke": "No",
+                    "drink_alcohol": "No",
+                    "occupations": "Garment Factory"
+                },
+                {
+                    "relation": "Children",
+                    "number_with_cancer": "0",
+                    "types": "",
+                    "smoke": "",
+                    "drink_alcohol": "",
+                    "occupations": ""
+                },
+                {
+                    "relation": "Aunts & Uncles",
+                    "number_with_cancer": "0",
+                    "types": "",
+                    "smoke": "",
+                    "drink_alcohol": "",
+                    "occupations": ""
+                }
+            ]
+        }
+    }
+}

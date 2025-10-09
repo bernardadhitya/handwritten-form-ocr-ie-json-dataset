@@ -1,0 +1,77 @@
+{
+    "address": "801 Second Avenue",
+    "id": 1423184,
+    "city": "New York",
+    "state": "New York",
+    "zip": "10017",
+    "phone": "PHONE",
+    "advertisement_note": "Please take few minutes to go through the advertisements in this book. Please take as much time with each ad as you care to. If you ordinarily wear reading glasses, you'll need them.",
+    "respondent_portfolio_note": "AND RESPONDENT PORTFOLIO AND TAKE IT BACK BEFORE CONTINUING.",
+    "questions": [
+        {
+            "question": "Now I'd like to ask you a few questions about the ads in the book. What brands or products do you remember seeing ads for in the book?",
+            "note": "DO NOT READ OTHER BRAND NAMES OR PRODUCT CATEGORIES.",
+            "categories": {
+                "general_ads": [
+                    "Dolc Pineapple",
+                    "Anana Eenga",
+                    "Luke-i",
+                    "BankAmericard/VISA",
+                    "General Electric Washer",
+                    "kiton Botele",
+                    "ycsp",
+                    "Bayer Aspirin",
+                    "Golden (Unsp.)",
+                    "Bolens Lawn Mower",
+                    "Old Spice Pocket Cologne",
+                    "Kawasaki",
+                    "Budweiser",
+                    "Kent Golden Light",
+                    "Canadian Club",
+                    "Polaroid Camera",
+                    "Kent Lights",
+                    "Coca Cola",
+                    "Singer Sewing Machine",
+                    "Kent (Unsp.)",
+                    "Concord Watches",
+                    "Taster's Choice",
+                    "Lights Unsp",
+                    "Crest Toothpaste",
+                    "Weight Watchers"
+                ],
+                "cigarette_ads": [
+                    "Golden Unsp",
+                    "Kent Golden",
+                    "Kent Golden Light",
+                    "Kent Lights",
+                    "Lightelme",
+                    "True"
+                ]
+            }
+        },
+        {
+            "question": "Do you remember any ads for cigarettes?",
+            "response": "15",
+            "any_others": "y",
+            "cigarette_brands": [
+                "Golden Unsp",
+                "Kent Golden",
+                "Kent Golden Light",
+                "Kent Lights",
+                "Lightelme",
+                "True"
+            ]
+        },
+        {
+            "question": "Do you remember any ads for any other brands of cigarettes?",
+            "response": "16",
+            "cigarette_brands": [
+                "Golden Lights",
+                "Kent Golden",
+                "Kent Golden Light",
+                "Kent Lights",
+                "True"
+            ]
+        }
+    ]
+}

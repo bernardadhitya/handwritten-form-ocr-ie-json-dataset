@@ -1,0 +1,61 @@
+{
+    "company": "Bellomy-Carrigg, Inc.",
+    "jobNumber": "0906",
+    "location": {
+        "address": "UNIVERSITY PARKWAY",
+        "city": "WINSTON-SALEM",
+        "state": "NC",
+        "zip": "27106"
+    },
+    "date": "October, 1984",
+    "respondent": {
+        "name": "JULIC Gillece",
+        "address": "Caemen St",
+        "city": "PENNSAUKEN",
+        "state": "NJ",
+        "date": "1084"
+    },
+    "interview": {
+        "conductedBy": "INTERVIEW WOMEN ONLY",
+        "introduction": "Hello, I'm from (your company), an independent marketing research company. We're conducting a survey with women about various consumer products.",
+        "questions": [
+            {
+                "question": "Are you... (READ LIST)",
+                "options": [
+                    "Under 18",
+                    "18-24",
+                    "25-34",
+                    "50",
+                    "Refuse"
+                ],
+                "response": "18-24",
+                "action": "CHECK QUOTA TO DETERMINE IF NEEDED. IF OVER QUOTA, ASK FOR ANOTHER FEMALE IN AGE GROUP NEEDED."
+            },
+            {
+                "question": "Which of the following products do you use daily?",
+                "options": [
+                    "Breathmints",
+                    "Mouthwash",
+                    "Cigarettes",
+                    "Gel toothpaste",
+                    "Cream toothpaste"
+                ],
+                "response": "Cigarettes",
+                "action": "CONTINUE ONLY IF CIGARETTES CHECKED ABOVE IN Q.2. IF NONE, TERMINATE, ERASE AND RE-USE."
+            },
+            {
+                "question": "Which of the following brands have you used in the past week?",
+                "options": [
+                    "Certs breathmints",
+                    "Clorets breathmints",
+                    "Topal toothpaste",
+                    "Aqua Fresh toothpaste",
+                    "Clinomint",
+                    "Scope",
+                    "Listerine"
+                ],
+                "response": "Aqua Fresh toothpaste"
+            }
+        ]
+    }
+}

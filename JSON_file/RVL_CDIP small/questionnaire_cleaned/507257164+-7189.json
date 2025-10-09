@@ -1,0 +1,57 @@
+{
+    "title": "Jock",
+    "draft": 1,
+    "company": "D/R Inc.",
+    "study_number": "372-07",
+    "locations": [
+        "Pensacola",
+        "Los Angeles",
+        "San Francisco",
+        "St. Louis",
+        "Corpus Christie",
+        "Syracuse",
+        "Pittsburgh",
+        "Houston",
+        "Baltimore",
+        "Chicago",
+        "Columbus"
+    ],
+    "date": "February, 1989",
+    "test": "Advertising Communication Test",
+    "screener": {
+        "introduction": "Hello my name is [Name] from Diagnostic Research, a consumer research firm. We are conducting a survey in this area on consumer products, and we would like very much to get your viewpoint.",
+        "tally_refusals": true,
+        "questions": [
+            {
+                "question": "Indicate sex",
+                "options": {
+                    "male": 1,
+                    "female": 2
+                },
+                "check_quotas": true
+            },
+            {
+                "question": "Which of the following products do you use daily?",
+                "options": [
+                    "Toothpaste",
+                    "Mouthwash",
+                    "Cigarettes",
+                    "Chewing gum"
+                ],
+                "terminate_if_no_cigarettes": true
+            },
+            {
+                "question": "Which of the following best describes the highest level of education that you have completed?",
+                "options": [
+                    "Grade school",
+                    "High school",
+                    "Trade or technical school",
+                    "Some college",
+                    "College graduate or more"
+                ],
+                "check_quotas": true
+            }
+        ]
+    },
+    "code": 507257164
+}

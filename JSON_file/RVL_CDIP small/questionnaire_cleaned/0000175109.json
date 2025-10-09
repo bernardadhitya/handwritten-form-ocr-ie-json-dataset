@@ -1,0 +1,38 @@
+{
+    "company": "MARKET TRENDS INC",
+    "address": "44 EAST 23rd STREET, NEW YORK, NEW YORK 10010",
+    "year": 2029,
+    "date": "November 1982",
+    "project_number": "Z19-3",
+    "document": "SCREENING QUESTIONNAIRE",
+    "greeting": "Good morning/afternoon/evening",
+    "introduction": "My name is [Name], conducting a public opinion research for Market Trends Inc.",
+    "age_groups": {
+        "younger_than_21": "TERMINATE",
+        "between_21_and_35": "CONTINUE",
+        "older_than_35": "TERMINATE"
+    },
+    "question_1": {
+        "question": "Do you or does any member of your immediate family work for:",
+        "choices": [
+            "An advertising agency",
+            "A market research company",
+            "A company manufacturing, selling, or distributing beer, wine, or other alcoholic beverages",
+            "A company manufacturing, selling, or distributing tobacco products"
+        ],
+        "terminate": "TERMINATE"
+    },
+    "question_2": {
+        "question": "Which of the following did you do in the past 2 days?",
+        "choices": [
+            "Drink a glass of wine",
+            "Have a glass of beer",
+            "Smoke a cigarette"
+        ],
+        "terminate": "TERMINATE"
+    },
+    "smoking_habits": {
+        "less_than_half_pack": "TERMINATE",
+        "half_pack_or_more": "CONTINUE"
+    }
+}

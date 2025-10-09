@@ -1,0 +1,86 @@
+{
+    "ARTAP": {
+        "NAME": "Flavor Division",
+        "DATE": "March 31, 1983",
+        "FEMA_NO": "CODE NO-243",
+        "THRESHOLD": {
+            "R": "Min",
+            "D": "O:lppm",
+            "wdd": "ppm"
+        },
+        "ATTRIBUTE_PROFILE": {
+            "ADDITIONAL_COMMENTS": [
+                {
+                    "Cigarette-like taste?": "NC"
+                },
+                {
+                    "Artificial taste?": "Swseet, powdery, Vanilla-like"
+                },
+                {
+                    "Fresh tobacco-like taste?": "Yes"
+                },
+                {
+                    "Smoke-like taste?": "es"
+                },
+                {
+                    "Background mask?": "Ancrease Decrease No effect + al detection level; Swest"
+                },
+                {
+                    "Dry puff character": "No"
+                },
+                {
+                    "Aftertaste?": [
+                        "Agreeable",
+                        "Disagreeable",
+                        "clean",
+                        "lingering Sweet",
+                        "dirty",
+                        "coating",
+                        "sour",
+                        "oily"
+                    ]
+                },
+                {
+                    "Trigeminal sensation?": [
+                        "ON",
+                        "nasal sting",
+                        "tongue bite",
+                        "cooling",
+                        "throat scratch",
+                        "astringent",
+                        "heating",
+                        "peppery (tingly)",
+                        "soothing",
+                        "salivating",
+                        "drying"
+                    ]
+                },
+                {
+                    "Categorization of flavor": [
+                        "artificial",
+                        "chocolate/cocoa",
+                        "flue-cured",
+                        "Vanilla-like",
+                        "creamy",
+                        "metallic",
+                        "nutty/pyrazine",
+                        "burley",
+                        "phenolic",
+                        "coasted",
+                        "ForaD",
+                        "green",
+                        "honey",
+                        "Fruitywine",
+                        "sour/acidic",
+                        "spicy",
+                        "Sweet",
+                        "Caramel",
+                        "bitter",
+                        "Artificial"
+                    ]
+                }
+            ]
+        },
+        "Recommendations": "Do have"
+    }
+}

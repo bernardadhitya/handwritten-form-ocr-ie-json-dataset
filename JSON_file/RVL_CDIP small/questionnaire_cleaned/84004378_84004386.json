@@ -1,0 +1,88 @@
+{
+    "company": "AHF MAKKETINC KESEAKCH",
+    "division": "NATIONAL CONSENSUS SURVEYS",
+    "address": {
+        "street": "801 Second Avenue",
+        "suite": "4508",
+        "box": "#25077W",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10017"
+    },
+    "date": "August, 1977",
+    "survey": {
+        "title": "CIGARETTE PORTFOLIO SCREENING QUESTIONNAIRE",
+        "time_interview": {
+            "started": "4.35",
+            "ended": "4"
+        },
+        "respondent": {
+            "name": "m",
+            "tel": ".",
+            "address": "1.3/6",
+            "city": "D",
+            "state": ""
+        },
+        "interviewer": "K",
+        "metro_area": "",
+        "date": "2",
+        "validated_by": "",
+        "validation_date": "1"
+    },
+    "questions": [
+        {
+            "question": "INDICATE CITY.",
+            "options": [
+                "Boston",
+                "Des Moines",
+                "Detroit",
+                "New Orleans",
+                "Omaha",
+                "San Francisco"
+            ]
+        },
+        {
+            "question": "Have you, yourself, participated in a market research study in the past 12 months or so?",
+            "terminate": "TERMINATE AND CIRCLE NEXT HIGHEST NUMBER BELOW",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "participated_in": [
+                "2",
+                "3",
+                "5",
+                "L",
+                "8",
+                "10",
+                "12",
+                "6-"
+            ]
+        },
+        {
+            "question": "Please tell me which letter on this card includes your age",
+            "terminate": "TERMINATE AND CIRCLE NEXT HIGHEST NUMBER BELOW NEXT TO UNDER OR OVER AGE",
+            "age_ranges": [
+                "Under 21",
+                "21 to 29",
+                "30 to 34",
+                "35 to 39",
+                "40 to 44",
+                "45 to 49",
+                "50 to 54",
+                "55 and over"
+            ],
+            "under_or_over_age": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "10",
+                "11",
+                "12"
+            ]
+        }
+    ],
+    "note": "TAKE BACKAGE CARD."
+}

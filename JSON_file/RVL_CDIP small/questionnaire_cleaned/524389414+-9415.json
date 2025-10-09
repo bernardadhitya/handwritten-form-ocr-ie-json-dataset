@@ -1,0 +1,64 @@
+{
+    "survey": {
+        "title": "CPMSL",
+        "questions": [
+            {
+                "question": "PLEASE TELL US WHAT YOU THINK",
+                "instructions": "If you contacted us by phone, please answer all questions. If you contacted us by letter, please skip Question #2."
+            },
+            {
+                "question": "How satisfied were you in each of the following areas?",
+                "options": [
+                    "Very Satisfied",
+                    "Somewhat Satisfied",
+                    "Nor Satisfied",
+                    "Somewhat Dissatisfied",
+                    "Very Dissatisfied"
+                ],
+                "areas": [
+                    {
+                        "area": "EASE OF CONTACT",
+                        "criteria": [
+                            "Ability to get through on first call",
+                            "Satisfaction with telephone recording",
+                            "If put on hold, length of time on hold"
+                        ]
+                    },
+                    {
+                        "area": "PERSONNEL",
+                        "criteria": [
+                            "Courtesy",
+                            "Professionalism",
+                            "Knowledge",
+                            "Authority to resolve problem/answer question"
+                        ]
+                    },
+                    {
+                        "area": "RESPONSE",
+                        "criteria": [
+                            "Timeliness",
+                            "Follow through on promised action",
+                            "Relations Department response to your request for assistance"
+                        ],
+                        "satisfaction_levels": [
+                            "I was NOT completely satisfied but some action was taken",
+                            "I was NOT AT ALL satisfied with the action taken",
+                            "I was NOT AT ALL satisfied and no action was taken"
+                        ]
+                    }
+                ]
+            },
+            {
+                "question": "Based on how you feel, would you recommend this brand of cigarettes to an adult smoker 21 years of age or older?",
+                "options": [
+                    "Definitely Would",
+                    "Probably Would",
+                    "Might or Might Not",
+                    "Probably Would Not",
+                    "Definitely Would Not"
+                ]
+            }
+        ],
+        "respondent_id": "524389414"
+    }
+}

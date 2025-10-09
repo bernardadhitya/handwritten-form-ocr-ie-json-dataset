@@ -1,0 +1,101 @@
+{
+    "alphaRecognitionThresholdAttributeProfile": "ARTAP",
+    "fAveDisN": null,
+    "name": null,
+    "date": "3/1/87",
+    "femaNo": 3137,
+    "codeNo": -3,
+    "aromaRawMaterial": "Rcu",
+    "threshold": {
+        "F": null,
+        "C": null,
+        "DR": null,
+        "Min": 50,
+        "ppm": null,
+        "hex": null,
+        "udd": null
+    },
+    "attributeProfile": {
+        "additionalComments": [
+            {
+                "cigaretteLikeTaste": "Yes"
+            },
+            {
+                "artificialTaste": "No"
+            },
+            {
+                "freshTobaccoLikeTaste": "Yes",
+                "comments": null
+            },
+            {
+                "smokeLikeTaste": "Yes",
+                "comments": null
+            },
+            {
+                "backgroundMask": "Increase Decrease No effect"
+            },
+            {
+                "dryPuffCharacter": "Yes",
+                "comments": "ot pmchrry -k"
+            },
+            {
+                "aftertaste": {
+                    "yes": true,
+                    "no": false,
+                    "agreeable": null,
+                    "disagreeable": null,
+                    "clean": null,
+                    "lingering": null,
+                    "sweet": null,
+                    "dirty": null,
+                    "coating": null,
+                    "sour": null,
+                    "017y": null
+                }
+            },
+            {
+                "trigeminalSensation": [
+                    "verS",
+                    "nasal sting",
+                    "tongue bite",
+                    "cooling",
+                    "throat scratch",
+                    "astringent",
+                    "heating",
+                    "peppery (tingly)",
+                    "soothing",
+                    "salivating",
+                    "drying"
+                ]
+            },
+            {
+                "categorizationOfFlavor": [
+                    "artificial",
+                    "chocolate/cocoa",
+                    "flue-cured",
+                    "metallic",
+                    "nutty/pyrazine",
+                    "burley",
+                    "phenolic",
+                    "roasted",
+                    "floral",
+                    "green",
+                    "honey",
+                    "fruity/wine",
+                    "sour/acidic",
+                    "woody",
+                    "spicy",
+                    "sweet",
+                    "caramel",
+                    "bitter"
+                ]
+            },
+            {
+                "majorCharacterDescription": 9555
+            },
+            {
+                "recommendations": "HOC. Abeu 2022 t.butien hti sirabe"
+            }
+        ]
+    }
+}

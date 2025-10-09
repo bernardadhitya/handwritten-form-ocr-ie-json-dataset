@@ -1,0 +1,77 @@
+{
+    "organization": "NATIONAL CONSENSUS SURVEYS",
+    "address": {
+        "street": "801 Second Avenue",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10017"
+    },
+    "phone": "42318",
+    "instructions": "Please take a few minutes to go through the advertisements in this book. Please take as much time with each ad as you care to. If you ordinarily wear reading glasses, you'll need them. HAND RESPONDENT PORTFOLIO AND TAKE IT BACK BEFORE CONTINUING.",
+    "questions": [
+        {
+            "question": "Now, I'd like to ask you a few questions about the ads in the book. What brands or products do you remember seeing ads for in the book?",
+            "note": "DO NOT READ EITHER BRAND NAMES OR PRODUCT CATEGORIES",
+            "categories": {
+                "general_ads": [
+                    "Anana Range",
+                    "Dole Pineapple",
+                    "Luke",
+                    "BankAnticard/VISA",
+                    "General Electric Washer",
+                    "Golden Lights",
+                    "Bayer Aspirin",
+                    "Hilton Hotels",
+                    "Golden Unsp",
+                    "Bolens Lawn Mower",
+                    "Kawasaki",
+                    "Kent Golden",
+                    "Budweiser",
+                    "Old Spice Pocket Cologne",
+                    "Kent Golden Light",
+                    "Canadian Club",
+                    "Polaroid Camera",
+                    "Kent Lights",
+                    "Coca Cola",
+                    "Singer Sewing Machine",
+                    "Kent (Unsp)",
+                    "Concord Watches",
+                    "Taster's Choice",
+                    "Lights (Unsp)",
+                    "Crest toothpaste",
+                    "Weight Watchers",
+                    "Other (SPECIFY)"
+                ]
+            }
+        },
+        {
+            "question": "Do you remember any ads for cigarettes?",
+            "note": "IF NO CIGARETTE BRANDS MENTIONED ABOVE ASK Q.3a. IF ONLY ONE OR TWO CIGARETTE BRANDS MENTIONED SKIP TO Q.3. IF ALL THREE CIGARETTE BRANDS MENTIONED SKIP TO Q.4.",
+            "brands": [
+                "Luke",
+                "Golden Lights",
+                "Golden (Unsp.)",
+                "Kent Golden",
+                "Kent Golden Light",
+                "Kent Lights",
+                "Kent (Unsp.)",
+                "Lights Unsp",
+                "Other (SPECIFY)"
+            ]
+        },
+        {
+            "question": "Do you remember any ads for any other brands of cigarettes?",
+            "brands": [
+                "Luke",
+                "Golden Lights",
+                "Golden (Unsp.)",
+                "Kent Golden",
+                "Kent Golden Light",
+                "Kent Lights",
+                "Kent (Unsp.)",
+                "Lights Unsp",
+                "Other (SPECIFY)"
+            ]
+        }
+    ]
+}

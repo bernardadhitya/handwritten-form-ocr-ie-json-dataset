@@ -1,0 +1,63 @@
+{
+    "company": "Belomy-Carrigg.Inc",
+    "job": "Job0503",
+    "month": "May",
+    "year": 1982,
+    "study": "PSYCHOPHYSIOLOGY STUDY-D.G.82",
+    "questionnaire": "TELEPHONE SCREENING QUESTIONNAIRE",
+    "name": "",
+    "address": "ADDRESS_3350C",
+    "city": "W.S.C",
+    "zip": 2106,
+    "interviewer": "",
+    "instructions": "ASK TO SPEAK TO MALES/FEMALES 25-35",
+    "introduction": "Hello, I'm from Bellomy-Carrigg, Inc., a local marketing research company. I'd like to ask you a few questions.",
+    "questions": [
+        {
+            "question": "First of all, do you or does any member of your family work for an advertising agency or marketing research company?",
+            "options": {
+                "no": "CONTINUE",
+                "yes": "TERMINATE, ERASE"
+            }
+        },
+        {
+            "question": "A tobacco company?",
+            "options": {
+                "no": "CONTINUE",
+                "yes": "6RE-USE"
+            }
+        },
+        {
+            "question": "A food company?",
+            "options": {
+                "no": "CONTINUE",
+                "yes": "-2"
+            }
+        },
+        {
+            "question": "A beverage company?",
+            "options": {
+                "no": "CONTINUE",
+                "yes": ""
+            }
+        },
+        {
+            "question": "What is your age?",
+            "response": 28,
+            "condition": "CONTINUE ONLY IF AGE 25-35, TERMINATE ALL OTHER."
+        },
+        {
+            "question": "Which of the following products do you presently use? (READ LIST - CHECK AS MANY AS APPLY)",
+            "products": {
+                "Fruit Juices": "Yes",
+                "Carbonated Soft Drinks": "No",
+                "Coffee": "Yes",
+                "Cigarettes": "SKIP TO Q.8a"
+            }
+        }
+    ],
+    "codes": {
+        "50550": "",
+        "8395": ""
+    }
+}

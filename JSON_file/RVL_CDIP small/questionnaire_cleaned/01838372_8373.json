@@ -1,0 +1,67 @@
+{
+    "company": "AHP MARKETING RESEARCH",
+    "address": {
+        "street": "801 Second Avenue",
+        "city": "New York",
+        "state": "New York",
+        "zip": "20017"
+    },
+    "survey": {
+        "title": "CIGARETTE PORTFOLIO SCREENING QUESTIONNAIRE",
+        "date": "January 1978",
+        "interview": {
+            "time_started": null,
+            "time_ended": null,
+            "respondent_name": null,
+            "address": null,
+            "interviewer": null,
+            "validated_by": null,
+            "validation_date": null
+        },
+        "cities": [
+            "Boston",
+            "Cleveland",
+            "Jacksonville",
+            "Los Angeles",
+            "New York"
+        ],
+        "codes": [
+            81,
+            12,
+            50,
+            50,
+            51,
+            52,
+            3,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108
+        ],
+        "terminate_and_circle": {
+            "next_highest": null,
+            "participation": [
+                2,
+                3,
+                5,
+                6,
+                7,
+                10,
+                11,
+                12
+            ]
+        },
+        "age_card": {
+            "terminate_and_circle_next_highest_number": null,
+            "continue": 50
+        },
+        "misc": {
+            "cz": null,
+            "mdzr": "01838372"
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "title": "Small Retail Trade Screener",
+    "introduction": "Hello, this is calling from. We're conducting a survey among the owners and managers of retail establishments, and the employees at these establishments who are responsible for ordering merchandise. Does any of those three phrases describe you? (REPEAT IF NECESSARY)",
+    "responses": [
+        {
+            "response": "Yes"
+        },
+        {
+            "response": "No",
+            "follow_up": "May I speak to the owner, manager, or person responsible for ordering merchandise?",
+            "options": [
+                {
+                    "response": "Yes",
+                    "action": "PROCEED TO QUESTION 1"
+                },
+                {
+                    "response": "Not present",
+                    "action": "ARRANGE TO CALLBACK LATER"
+                },
+                {
+                    "response": "No, refused",
+                    "action": "THANK AND TERMINATE"
+                }
+            ]
+        }
+    ],
+    "questions": [
+        {
+            "question": "Hello, this is calling from. I'd like to ask you a few questions - this will only take a few minutes of your time, ok?",
+            "questions": [
+                {
+                    "question": "First, how old are you?",
+                    "response": "31 years",
+                    "note": "if fewer than 21, terminate"
+                },
+                {
+                    "question": "What type of establishment have I called? DO NOT READ LIST--PROBE TO CLARIFY IF NECESSARY",
+                    "options": [
+                        "Specialty",
+                        "Traditional/Food",
+                        "Gift shop",
+                        "Convenience store",
+                        "Tobacco shop",
+                        "Small grocery store",
+                        "Newsstand",
+                        "Drug store/pharmacy",
+                        "Gas station",
+                        "Truck stop/diner",
+                        "Liquor/package store",
+                        "Delicatessen/restaurant"
+                    ],
+                    "note": "IF NONE OF THE ABOVE, TERMINATE"
+                },
+                {
+                    "question": "Is this store/gas station/delicatessen/restaurant part of a chain, or is it independently owned and operated?",
+                    "options": [
+                        {
+                            "response": "Part of a chain",
+                            "action": "TERMINATE"
+                        },
+                        {
+                            "response": "Independently owned and operated"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "contact_number": "2041784354"
+}

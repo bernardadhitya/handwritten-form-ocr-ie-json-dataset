@@ -1,0 +1,64 @@
+{
+    "survey": "NATIONAL CONSENSUS SURVEYS",
+    "id": "#42318W",
+    "zip_code": "10017",
+    "phone": "-99",
+    "instructions": "HAND RESPONDENT PORTFOLIO AND TAKE IT BACK BEFORE CONTINUING.",
+    "questions": [
+        {
+            "question": "Now I'd like to ask you a few questions about the ads in the book. What brands or products do you remember seeing ads for in the book?",
+            "prompt": "Prose:",
+            "brands": [
+                "Assna Renge",
+                "Dole Pineapple",
+                "Luke",
+                "BankAmericard/VISA",
+                "General Electric Washer",
+                "Golden Lights",
+                "Bayer Aspirin",
+                "Kawasaki",
+                "Hilton Hotels",
+                "Bolens Lawn Mower",
+                "Kent Golden Lights",
+                "Budweiser",
+                "Old Spice Pocket Cologne",
+                "Canadian Club",
+                "Polaroid Camera",
+                "Coca Cola",
+                "Singer Sewing Machines",
+                "Taster's Choice",
+                "Crest toothpaste",
+                "Weight Watchers"
+            ],
+            "other": "SPECIFY"
+        },
+        {
+            "question": "Do you remember any ads for cigarettes?",
+            "brands": [
+                "Golden Lights",
+                "Golden (Unsp.)",
+                "Kent Golden",
+                "Kent Golden Lights",
+                "Kent Lights",
+                "Kent (Unsp.)",
+                "Tru"
+            ],
+            "other": "SPECIFY"
+        },
+        {
+            "question": "Do you remember any ads for any other brands of cigarettes?",
+            "brands": [
+                "Luke",
+                "Golden Lights",
+                "Golden (Unsp.)",
+                "Kent Golden",
+                "Kent Golden Lights",
+                "Kent Lights",
+                "Kent (Unsp.)",
+                "Lights Unsp",
+                "True"
+            ],
+            "other": "SPECIFY"
+        }
+    ]
+}

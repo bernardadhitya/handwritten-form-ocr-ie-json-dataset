@@ -1,0 +1,99 @@
+{
+    "received": "LEGGETT C LUSTIG RESEARCH",
+    "address": {
+        "street": "101 Park Avenue",
+        "suite": "LLR-930",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10017"
+    },
+    "contact": {
+        "telephone": "(212) 725-1146/7/8/9"
+    },
+    "date": "January 15, 1979",
+    "master": "MRn",
+    "month_year": "January, 1979",
+    "code": "F9.24",
+    "survey": {
+        "title": "CIGARETTE PRINT AD TEST",
+        "type": "SCREENING QUESTIONNAIRE",
+        "introduction": "Good morning/afternoon/evening from Leggett & Lustig, a national opinion and research company. We are doing some research on people's reactions to various consumer products. Could you spare a few minutes to answer some questions? Your opinions will be greatly appreciated.",
+        "questions": [
+            {
+                "question": "Do you, or anyone in your household, work for an advertising agency, marketing research company or a firm engaged in the manufacturing, sale, or distribution of cigarettes?",
+                "action": "TERMINATE, RECORD ON TALLY SHEET"
+            },
+            {
+                "question": "Into which of the following age categories do you fall?",
+                "choices": [
+                    "Under 21",
+                    "21-24",
+                    "25-34",
+                    "35 and older"
+                ],
+                "action": "TERMINATE, RECORD ON TALLY SHEET"
+            },
+            {
+                "question": "Do you currently smoke at least four (4) packs of cigarettes?",
+                "action": "TERMINATE, RECORD ON TALLY SHEET",
+                "answer": "Yes"
+            },
+            {
+                "question": "Is your regular brand of cigarettes filtered?",
+                "action": "TERMINATE, RECORD ON TALLY SHEET",
+                "answer": "Yes"
+            },
+            {
+                "question": "What size do you usually smoke?",
+                "choices": [
+                    "Regular Size Less than 85mm",
+                    "King Size 85mm-95mm",
+                    "Long 100mm",
+                    "Extra Long 110mm-120mm"
+                ]
+            },
+            {
+                "question": "Which of these brands is your regular brand of cigarette, that is, the brand of cigarettes you smoke most often?",
+                "choices": [
+                    "Benson & Hedges Lights",
+                    "Multifilter",
+                    "Camel Lights",
+                    "Old Gold Lights",
+                    "Camel Filters",
+                    "Carlton",
+                    "Decade",
+                    "Chesterfield",
+                    "Doral",
+                    "Pall Mall Lights",
+                    "Parliament",
+                    "Fact",
+                    "Kent",
+                    "Raleigh Lights",
+                    "Lark",
+                    "Real",
+                    "Marlboro",
+                    "Tareyton Lights",
+                    "Old Gold",
+                    "Lucky Ten",
+                    "L & M Lights",
+                    "Vantage",
+                    "Pall Mall",
+                    "Marlboro Lights",
+                    "Raleigh Filter",
+                    "Merit",
+                    "Viceroy Rich Lights",
+                    "Winston Lights",
+                    "Viceroy"
+                ],
+                "note": "RESPONDENT MUST SMOKE ONE OF THE PRE-LISTED BRANDS TO QUALIFY. IF NOT, TERMINATE AND RECORD ON TALLY SHEET"
+            }
+        ],
+        "quota_group": {
+            "male_hi_fi": "1bh-yh-s",
+            "female_hi_fi": "a34MB10-35-4",
+            "male_full_flavor": "NO",
+            "female_full_flavor": "NTICE"
+        }
+    },
+    "notice": "IF THE FILM IMAGE IS LESS CLEAR THAN THIS NOTICE, IT IS DUE TO THE QUALITY OF THE DOCUMENT BEING FILMED"
+}

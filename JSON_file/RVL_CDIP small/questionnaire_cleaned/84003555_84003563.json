@@ -1,0 +1,53 @@
+{
+    "company": "AHF Marketing Research",
+    "division": "National Consensus Surveys",
+    "address": {
+        "street": "801 Second Avenue",
+        "suite": "25077W",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10017"
+    },
+    "date": "August, 1977",
+    "survey": {
+        "title": "Cigarette Portfolio Screening Questionnaire",
+        "time_interview": {
+            "started": "040",
+            "ended": null
+        },
+        "respondent": {
+            "name": "bRan",
+            "telephone": "33",
+            "address": {
+                "city": "cITLwole",
+                "state": "sTarehigiga"
+            }
+        },
+        "interviewer": null,
+        "metro_area": null,
+        "validation": {
+            "validated_by": null,
+            "date": "637"
+        },
+        "city": "Boston",
+        "initial_refusal": "5",
+        "participation": {
+            "question": "Have you, yourself, participated in a market research survey in the past three months or so?",
+            "terminate_and_circle": "Yes",
+            "continue": "No"
+        },
+        "age": {
+            "question": "Please tell me which letter on this card includes your age.",
+            "terminate_and_circle": {
+                "under_21": "A",
+                "21_to_29": "C",
+                "30_to_34": "D",
+                "35_to_39": "E",
+                "40_to_44": "F",
+                "45_to_49": "G",
+                "50_to_55": "H",
+                "over_55": "I"
+            }
+        }
+    }
+}

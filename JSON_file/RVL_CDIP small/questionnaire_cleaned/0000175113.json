@@ -1,0 +1,61 @@
+{
+    "company": "Market Trends",
+    "address": {
+        "street": "44 East 23rd Street",
+        "city": "New York",
+        "state": "New York",
+        "zip": "13010"
+    },
+    "projectNumber": 2193,
+    "survey": {
+        "title": "Screevln Questionnaire",
+        "date": "November 1982",
+        "introduction": "Good morning/afternoon/evening. My name is [Name] from a public opinion research company. I would like to ask you a few short questions.",
+        "questions": [
+            {
+                "question": "What is your age? Are you between the ages of 21 and 35, younger or older?",
+                "options": [
+                    "Younger than 21",
+                    "Between 21 and 35",
+                    "Older than 35"
+                ],
+                "terminate": [
+                    "Younger than 21",
+                    "Older than 35"
+                ]
+            },
+            {
+                "question": "Do you or does any member of your immediate family work for:",
+                "options": [
+                    "An advertising agency",
+                    "A market research company",
+                    "A company manufacturing, selling, or distributing tobacco products"
+                ],
+                "terminate": [
+                    "An advertising agency",
+                    "A market research company",
+                    "A company manufacturing, selling, or distributing tobacco products"
+                ]
+            },
+            {
+                "question": "Which of the following did you do in the past 2 days? (Read each choice)",
+                "options": [
+                    "Drink a glass of wine?",
+                    "Have a glass of beer?"
+                ],
+                "terminate": [
+                    "No to both"
+                ]
+            },
+            {
+                "question": "About how many cigarettes do you smoke?",
+                "options": [
+                    "Less than half a pack"
+                ],
+                "terminate": [
+                    "Less than half a pack"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "company": "AHP KARKETING RESARCH",
+    "survey": "NATIONAL CONSENSUS SURVEYS",
+    "address": {
+        "zip": "10017",
+        "year": "2017",
+        "code": "#12947W",
+        "city": "New York",
+        "state": "New York",
+        "date": "May, 1977"
+    },
+    "research": {
+        "title": "CICARETTE PORTFOLIO",
+        "type": "SCREENING QUESTIONNAIRE",
+        "time_interview": {
+            "started": "1005",
+            "ended": "9"
+        },
+        "telephone": "G88408",
+        "interviewer": "SETRO AREAO",
+        "validated_by": "SY",
+        "date": "(5)"
+    },
+    "locations": [
+        "Albany",
+        "Boston",
+        "Buffalo",
+        "Denver",
+        "Des Moines",
+        "Milwaukee",
+        "Minneapolis",
+        "Syracuse"
+    ],
+    "introduction": "Hello. I'm from National Consensus Surveys. We are conducting a study in this area and I'd like to ask you a few questions.",
+    "initial_refusal": {
+        "circle_next_highest_number": [
+            20,
+            23,
+            25,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    "participated_in_study": [
+        2,
+        3,
+        4,
+        6,
+        10,
+        11,
+        12
+    ],
+    "age_card": {
+        "instruction": "Please tell me which letter on this card includes your age.",
+        "terminate_and_circle_next_highest_number": {
+            "under_21": 7,
+            "to_29": "continue",
+            "to_39": "continue",
+            "to_49": "terminate"
+        },
+        "under_or_over_age": [
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            10,
+            11
+        ],
+        "take_back_age_card": "OVER"
+    }
+}

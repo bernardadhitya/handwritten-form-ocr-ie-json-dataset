@@ -1,0 +1,42 @@
+{
+    "company": "Beilomy-Carrigg Inc.",
+    "job": "Job0503",
+    "date": "May, 1982",
+    "study": "PSYCHOPHYSIOLOGY STUDY-D.G.82",
+    "questionnaire": "TELEPHONE SCREENING QUESTIONNAIRE",
+    "name": "",
+    "address": "83",
+    "city": "Ruina",
+    "postal_code": "3n0t5",
+    "telephone_area_code": "5",
+    "interviewer": "Pc",
+    "target_demographic": "Males/Females 25-35",
+    "introduction": "Hello, I'm from Bellomy-Carrigg, Inc., a local marketing research company. I'd like to ask you a few questions.",
+    "questions": [
+        {
+            "question": "Do you or does any member of your family work for an advertising agency or marketing research company?",
+            "answer": "NO",
+            "terminate": "TERMINATE, ERASE RE-USE"
+        },
+        {
+            "question": "What is your age?",
+            "condition": "CONTINUE ONLY IF AGE 25-35 TERMINATE ALL OTHER."
+        },
+        {
+            "question": "Which of the following products do you presently use?",
+            "options": [
+                "Fruit Juice",
+                "Carbonated Soft Drinks",
+                "Coffee",
+                "Cigarettes",
+                "Tea",
+                "Alcoholic Beverages"
+            ],
+            "skip": "SKIP TO Q.8a"
+        }
+    ],
+    "codes": [
+        "50550",
+        "8369"
+    ]
+}

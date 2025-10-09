@@ -1,0 +1,49 @@
+{
+    "survey": "CIGARETTE VERIFICATION SURVEY",
+    "introduction": {
+        "name": "Hello my name is",
+        "organization": "Southern Research Corporation",
+        "location": "Louisville, Kentucky",
+        "purpose": "We have been asked to verify some information which was collected a few months ago concerning different products used in your household, one of which was cigarettes."
+    },
+    "questions": [
+        {
+            "question": "First of all, do you remember someone calling you a few months ago to ask if you or anyone in your household smoke cigarettes?",
+            "answers": {
+                "Yes": 1,
+                "No": 2
+            }
+        },
+        {
+            "question": "Do you or anyone in your household smoke cigarettes?",
+            "answers": {
+                "Yes": 1,
+                "No": 2
+            },
+            "follow_up": "ASK Q.2a"
+        },
+        {
+            "question": "Did you or anyone in your household smoke cigarettes several months ago?",
+            "answers": {
+                "Yes": "TERMINATE",
+                "No": 2
+            }
+        },
+        {
+            "question": "What brand or brands do (did) the smokers in your household regularly smoke?",
+            "instruction": "LIST ALL BRANDS MENTIONED",
+            "condition": {
+                "if": "\"SURVEY BRAND\" IS MENTIONED",
+                "action": "GO TO QUESTION 4",
+                "else": "ASK QUESTIONS IN BOX ON THE FOLLOWING PAGE UNLESS CODE=7734 OR 8834"
+            }
+        },
+        {
+            "code": "670562901",
+            "condition": {
+                "if": "CODE=7734 OR 8834",
+                "action": "GO TO END"
+            }
+        }
+    ]
+}

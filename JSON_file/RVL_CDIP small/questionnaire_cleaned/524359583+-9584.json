@@ -1,0 +1,40 @@
+{
+    "survey": {
+        "questions": [
+            {
+                "question": "How satisfied were you in each of the following areas?",
+                "areas": [
+                    {
+                        "area": "PHONE CALL",
+                        "aspects": [
+                            {
+                                "aspect": "Was our representative courteous and polite?",
+                                "response": "Very Satisfied"
+                            },
+                            {
+                                "aspect": "Was our representative knowledgeable?",
+                                "response": "Very Satisfied"
+                            },
+                            {
+                                "aspect": "Was your question/request handled?",
+                                "response": null
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "question": "Which ONE of the following statements BEST describes the way you feel about R.J. Reynolds' response to your request for assistance?",
+                "response": null
+            },
+            {
+                "question": "Based on the service you received, will you continue to purchase the brand of cigarettes you contacted us about?",
+                "response": null
+            },
+            {
+                "question": "Based on the service you received, would you recommend this brand of cigarettes to an adult smoker (21 years of age or older) who currently smokes a competitive brand?",
+                "response": null
+            }
+        ]
+    }
+}

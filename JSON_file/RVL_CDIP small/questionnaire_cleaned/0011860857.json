@@ -1,0 +1,63 @@
+{
+    "areaCodeAndPhoneNumber": "817584.1",
+    "company": "Kapuler Marketing Research",
+    "projectNumber": "88-2932",
+    "date": "March 21, 1988",
+    "page": 507,
+    "name": "CoNOIcK",
+    "interviewResults": 1234,
+    "state": "Texas",
+    "duration": "ZOMIRuS",
+    "wave": "XES",
+    "q21": {
+        "brandsRated": [
+            {
+                "week": 5,
+                "gender": "Male",
+                "brand": "Virginia Slims"
+            },
+            {
+                "week": 10,
+                "gender": "Female",
+                "brand": "More"
+            },
+            {
+                "week": 15,
+                "brand": "Capri"
+            },
+            {
+                "week": 20,
+                "brand": "Benson and Hedges"
+            }
+        ]
+    },
+    "surveyIntroduction": "Hello, I'm from Kapuler Marketing Research, a public opinion firm. Your phone number was selected at random from all telephone households in the Texas area and we would really appreciate your opinions for this study. I'd like to assure you that we are not selling any products, and your answers will be held in complete confidence.",
+    "questions": {
+        "A": {
+            "question": "May I please speak to someone 21 years of age or older?",
+            "responses": {
+                "-1": "No one in household 21 or older ...> TERMINATE",
+                "onCalledToPhone": "GO TO Q.B",
+                "unavailable": "SET UP CALLBACK"
+            }
+        },
+        "B": {
+            "question": "How many people, 21 years of age or older, in your household...",
+            "subQuestions": [
+                "Drink diet beverages?",
+                "Smoke cigarettes?",
+                "Eat Mexican food?"
+            ],
+            "note": "IF NONE TO SMOKE CIGARETTES TERMINATE. IF ONE ASK FOR THAT PERSON THEN ASK Q.C AND GO TO Q.E ON THE NEXT PAGE. IF MORE THAN ONE CONTINUE WITH Q.C AND Q.D"
+        },
+        "C": {
+            "question": "Do you or does anyone in your immediate family work for...",
+            "responses": {
+                "1": "An advertising agency or advertising department of a company",
+                "2": "A magazine, newspaper, radio or television station of a company"
+            },
+            "note": "IF yes TO ANY, TERMINATE Q.C."
+        }
+    },
+    "uniqueIdentifier": 466108037
+}

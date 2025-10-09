@@ -1,0 +1,64 @@
+{
+    "company": "ZODUCT CPINION LABORATOR",
+    "address": "P.O. Box 26563, Richmond, Virginia 23261",
+    "contact": {
+        "telephone": "804-271-3368"
+    },
+    "instructions": {
+        "return_ballot_by": "ONLY THE PERSON WHOSE NAME APPEARS ON THIS LABEL SHOULD TAKE",
+        "ballot_code": "N-9022",
+        "rz_codes": "Please print name/address correction label",
+        "change_applies_to": "code",
+        "ballot_instructions": "Please read the directions for each part completely. Ensure your cigarette pack codes are enclosed.",
+        "cigarette_pack_details": {
+            "enclosing": "ten packs of cigarettes coded as follows",
+            "packs": "N4-5 packs"
+        },
+        "phrases": {
+            "description": "Read the phrases at each end of each line of boxes. Which phrase do you think describes cigarette coded J2? If the one on the left describes it better, mark on the left side\u2014the more you think the description is true, the closer to the left side.",
+            "cigarette_code": "J2",
+            "attributes": [
+                {
+                    "attribute": "taste",
+                    "options": [
+                        "Does not have a mild taste",
+                        "Has a mild taste"
+                    ]
+                },
+                {
+                    "attribute": "harshness",
+                    "options": [
+                        "Is not harsh",
+                        "Is harsh"
+                    ]
+                },
+                {
+                    "attribute": "satisfaction",
+                    "options": [
+                        "Does not satisfy",
+                        "Is satisfying"
+                    ]
+                },
+                {
+                    "attribute": "menthol_flavor",
+                    "options": [
+                        "Does not have menthol flavor",
+                        "Has menthol flavor"
+                    ]
+                },
+                {
+                    "attribute": "aftertaste",
+                    "options": [
+                        "Has a dry taste in the mouth",
+                        "Leaves a good aftertaste"
+                    ]
+                }
+            ]
+        },
+        "price": "6.95"
+    },
+    "additional_info": {
+        "code": "1000388337",
+        "preference": "I like extremely"
+    }
+}

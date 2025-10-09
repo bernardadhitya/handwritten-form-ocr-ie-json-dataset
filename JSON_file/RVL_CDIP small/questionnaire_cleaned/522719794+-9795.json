@@ -1,0 +1,66 @@
+{
+    "survey": {
+        "questions": [
+            {
+                "id": 1,
+                "title": "EASE OF CONTACT",
+                "items": [
+                    "Ability to get through on first call",
+                    "Satisfaction with telephone recording",
+                    "If put on hold, length of time on hold"
+                ]
+            },
+            {
+                "id": 2,
+                "title": "PERSONNEL",
+                "items": [
+                    "Courtesy",
+                    "Professionalism",
+                    "Knowledge",
+                    "Authority to resolve problem/answer question"
+                ]
+            },
+            {
+                "id": 3,
+                "title": "RESPONSE",
+                "items": [
+                    "Timeliness",
+                    "Clarity",
+                    "Helpfulness",
+                    "Follow through on promised action"
+                ]
+            }
+        ],
+        "satisfactionStatements": [
+            "I was completely satisfied.",
+            "I was NOT completely satisfied but the action taken was acceptable.",
+            "I was NOT completely satisfied but some action was taken.",
+            "I was NOT AT ALL satisfied with the action taken.",
+            "I was NOT AT ALL satisfied no action was taken."
+        ],
+        "additionalQuestions": [
+            {
+                "id": 5,
+                "question": "Which ONE of the following statements BEST describes the way you feel about the action taken by the R.J. Reynolds Consumer Relations Department to respond to your request for assistance?",
+                "options": [
+                    "Definitely Would",
+                    "Probably Would",
+                    "I Might or Might Not",
+                    "Probably Would Not",
+                    "Definitely Would Not"
+                ]
+            },
+            {
+                "id": 6,
+                "question": "Haven't Received Camel Total",
+                "options": [
+                    "Definitely Would",
+                    "Probably Would",
+                    "I Might or Might Not",
+                    "Probably Would Not",
+                    "Definitely Would Not"
+                ]
+            }
+        ]
+    }
+}
