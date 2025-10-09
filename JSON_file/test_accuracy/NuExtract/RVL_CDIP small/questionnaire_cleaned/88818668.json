@@ -1,3 +1,59 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "Blend": null,
+  "Brand": "York",
+  "Callback": "CALL BACK IN ASRVIEW ON YORK FILTER CIGARETTE PRODUCT TEST",
+  "RespondentName": "JNorton",
+  "ID": "t.3955",
+  "Questions": [
+    "1. About how msny cf tho YORK FILTeR cigarettes did you yoursolf snoke",
+    "2. Whst, if anything, did you yarticularly like about YOrk FIreR cigarettee7",
+    "3. What, if enything, did you partcularly delixe about Ycak Frursn cigarettes?",
+    "4. Do you feel that YOrk Filrans cffer: Nuch more satisfying taste than your regulor brand?",
+    "A little more satisfying taste thsn your regular brani?",
+    "About the same taste setiarection ac your regular brand?",
+    "A little less satisfyirg taste than your regular brand?",
+    "Mueh less satisfying teste than your regular brand?",
+    "5. Do you feel that york yluas are: Much milder then your reguler brend?",
+    "A little mildor thsn your regular brani?",
+    "About the soze ss your regular brond on mildness?",
+    "A little stronger thsn your regular brand?",
+    "6. Do you feel that tho filter on YORK FILaRs is Much easier drawing than the filter on ycur regular cigarette?",
+    "A little eesier to draw then the filter on your reguler cigarette?",
+    "Which do you prefer, yOrk FIlreRs cr your reguler brand, for: Prefer York Taste",
+    "Prefer Regular Brand",
+    "No Preference",
+    "Mildness",
+    "Filter Draw"
+  ],
+  "RatingComparison": {
+    "Taste": {
+      "MuchMoreSatisfying": null,
+      "LittleMoreSatisfying": null,
+      "AboutTheSame": null,
+      "LittleLessSatisfying": null,
+      "MuchLessSatisfying": null
+    },
+    "Mildness": {
+      "MuchMilder": null,
+      "LittleMilder": null,
+      "AboutTheSame": null,
+      "LittleStronger": null
+    },
+    "FilterDraw": {
+      "MuchEasier": null,
+      "LittleEasier": null
+    }
+  },
+  "Preference": {
+    "Taste": null,
+    "Mildness": null,
+    "FilterDraw": null
+  },
+  "OverallPreference": {
+    "York": null,
+    "RegularBrand": null,
+    "YorkLittleMore": null,
+    "RegularBrandLittleMore": null,
+    "NoPreference": null
+  }
 }

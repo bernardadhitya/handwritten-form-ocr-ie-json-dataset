@@ -1,3 +1,36 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "ClubName": "Cb",
+  "ScheduleA": {
+    "PermanentVisibilityItems": {
+      "Goods": [
+        "Marlboro Neons",
+        "Napkins",
+        "Marlboro Backlit Pack",
+        "Ashtrays",
+        "Marlboro Wall Graphics",
+        "Bar Organizers",
+        "Garnish Trays",
+        "Match Caddies"
+      ],
+      "Style": {
+        "GutterMats": "Style 3",
+        "BarMats": "Style 3",
+        "ChalkBoards": "Style E"
+      }
+    },
+    "Media": {
+      "PrintMediaAdvertisements": "The placement publication, style and frequency of the media advertisements to be determined by Producer."
+    },
+    "OtherConsideration": {
+      "PerformancePayment": "Provided the Club is in compliance with the terms and conditions of this Agreement and this Agreement has not sooner terminated pursuant to Section 2, Producer shall pay the Club the Performance Payment in the following amounts and at the following times:",
+      "PaymentSchedule": [
+        "$8 of the Performance Payment within 45 days of the Club's execution and the Producer's receipt and acceptance of this Agreement.",
+        "$8 of the Performance Payment on July 1, 2000",
+        "$8 of the Performance Payment on September 15, 2000",
+        "$5008 of the Performance Payment on December 1, 2000."
+      ]
+    }
+  },
+  "ClubInitialHere": "AO-21-P",
+  "DocumentCode": "2083866340"
 }

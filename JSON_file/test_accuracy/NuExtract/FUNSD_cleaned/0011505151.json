@@ -1,3 +1,33 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "project_no": "1987-115-CA",
+  "project_name": "CAPRI EXPANSION A&U - CALIFORNIA",
+  "project_code": "0595-622-1510-0",
+  "project_title": "CAPRI",
+  "wave": "4",
+  "description": "DESCRIPTION:",
+  "supplier": "Kapuler Marketing Research",
+  "mr_personnel": "B.R. Pellett",
+  "authorized_cost": "7082510%(TOTAL1987) +7.075 (2-23-88) 77.900",
+  "additional_cost": null,
+  "dates": {
+    "int_init_date": "8--3-87",
+    "ext_autho_date": "11-16-87",
+    "field_complete": "12--7-87",
+    "final_rpt_due": "1-11-88"
+  },
+  "financials": {
+    "paid_1987": 47218,
+    "dec_1987_accrual": 9442,
+    "carryover_to_1988": 14165,
+    "released": "PAID OUT OF",
+    "paid_out_of": "TO ACCTG",
+    "to_acctg": "1988 BUDGET",
+    "1988_budget": "CUMULATIVE",
+    "cumulative": {
+      "dec": 9.442,
+      "feb": 30682,
+      "total": 77900,
+      "other": 466009457
+    }
+  }
 }

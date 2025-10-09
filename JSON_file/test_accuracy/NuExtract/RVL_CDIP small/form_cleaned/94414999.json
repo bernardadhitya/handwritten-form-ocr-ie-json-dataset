@@ -1,3 +1,38 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "company": "LORILLARD MEDIA SERVICES (LMS",
+  "address": "One Park Avenue",
+  "bulletin_contract": {
+    "to": "Regency Outdoor Advertising",
+    "date": "8-1-88",
+    "contract_no": "OH-921",
+    "location": "Los Angeles, California",
+    "zip_code": "69006"
+  },
+  "client": [
+    "Lorillard",
+    "Bulova",
+    "CnA",
+    "Loews Corp.",
+    "Loews Hotels"
+  ],
+  "product": "PAODUCT.CIGARETTES-MULTI-BRANDS",
+  "service_period": {
+    "commencement": "October",
+    "charges_less_commission": "16%%"
+  },
+  "advertising_details": {
+    "location": "Hollywood, California",
+    "size": "20'X60'",
+    "yearly_units": 1,
+    "paints_postings": 6,
+    "cost": {
+      "1st_year": "$4,950.00",
+      "2nd_year": "$5,148.00",
+      "3rd_year": "$5,354.00"
+    }
+  },
+  "shipping_address": {
+    "care_of": "c/0 Viking Crane",
+    "address": "137N. Hacienda"
+  }
 }

@@ -1,3 +1,39 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "materialEvaluationRequest": {
+    "date": "7-26-92",
+    "catalogueNoModel": null,
+    "supplier": {
+      "name": "YAmAdA",
+      "address": "567 ni5t Gee Xerd",
+      "phoneNo": "8ooZ35188",
+      "contactPerson": "ARuNGToN, ItSGHI3, LL. bo005"
+    },
+    "requester": {
+      "name": "Ntu Burc t uz",
+      "phoneNo": "741-2904",
+      "mailingAddress": "Pls"
+    },
+    "useOfMaterial": {
+      "location": "RJRT example Make-Pack areaShlppingReceivingetc.",
+      "proposedUse": "cleanerlubricant conveyor belt etc.",
+      "quantity": null,
+      "usageDetails": "Does it come into contact with tobacco products? Where? Is product contamination possible? How likely?"
+    },
+    "additionalInformation": {
+      "literatureRequest": "Name(s) of RJRT employee(s) that can be contacted if we have questions regarding the proposed use of this product."
+    },
+    "rjrtContacts": [
+      "Ms.Carolyn A.Rahn",
+      "741-2809",
+      "BGTC/Scientific Affairs",
+      "1128",
+      "611-12/204H"
+    ],
+    "sendMaterialRequestsTo": {
+      "name": "Ms.Carolyn A.Rahn",
+      "telephoneNo": "741-2809",
+      "department": "BGTC/Scientific Affairs",
+      "address": "1128"
+    }
+  }
 }

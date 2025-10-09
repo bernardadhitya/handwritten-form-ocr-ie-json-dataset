@@ -1,3 +1,38 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "documentClearanceSheet": {
+    "documentNumber": "90-Q63",
+    "mkNumber": null,
+    "dateRouted": "4/2/90",
+    "contractNumber": "S-0b-",
+    "contractSubject": "Charreada",
+    "company": "Fiestas de AmericaInc.",
+    "brands": "CAMEL",
+    "totalCost": 1000.0,
+    "currentYearEF0": 1000.0,
+    "briefDescription": "CAMEL will sponsor the subject event",
+    "implementor": "G.G.Strauss",
+    "glCode": "04-73-4603-8390-869",
+    "reviewRouting": [
+      "Fin.Services",
+      "Promotion"
+    ],
+    "approvedBy": {
+      "name": "WSL",
+      "signature": "WM"
+    },
+    "returnTo": {
+      "name": "Jayne Appleyard",
+      "department": "Promotion",
+      "location": "5th FloorRey.Bldg."
+    },
+    "note": "The Document Originator must maintain on file a copy of the signed document clearance sheet in accordance with established Company records retention schedules.",
+    "received": "APR61990",
+    "additionalInfo": {
+      "code": 8339,
+      "date": "4/90",
+      "receivedStamp": "J.K.APPLEYARD",
+      "additionalCode": 51326,
+      "jKAppleyard": "J.K.APPLEYARD"
+    }
+  }
 }

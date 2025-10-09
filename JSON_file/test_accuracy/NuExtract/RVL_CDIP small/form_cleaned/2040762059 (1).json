@@ -1,3 +1,51 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "contract": {
+    "contract_number": "9APH30-01",
+    "title": "TDI ADVERTISING CONTRACT",
+    "year": 1981,
+    "advertiser": "Philip Morris U.S.A",
+    "medium": [
+      "Car Cords",
+      "Posters",
+      "Timetables"
+    ],
+    "display_size": "3/84",
+    "showing_size": "20x45",
+    "locations": 20,
+    "term": {
+      "start_date": "1982-01-01",
+      "duration": "Three Years",
+      "rate": {
+        "first_year": 1701.0,
+        "second_year": 1786.0,
+        "third_year": 1875.0
+      },
+      "rate_increase_limit": 5
+    },
+    "payment": {
+      "amount": 1701.0,
+      "frequency": "Monthly or less frequently",
+      "advance": null
+    },
+    "copy_changes": "Monthly or less frequently at the advertiser's discretion",
+    "service_charges": "When applicable, will be billed separately",
+    "agency_commission": 15,
+    "remarks": "All costs of copy and production at the advertiser's expense",
+    "conditions": "CONDITIONS PRINTED ON THE REVERSE SIDE."
+  },
+  "agency": {
+    "name": "TRANSPORTATION DISPLAYS,INC.",
+    "accepted_by": "Leo Burnett Company U.S.A",
+    "address": {
+      "street": "Prudential Plaa Street",
+      "city": "Chicago",
+      "state": "Illinois",
+      "zip": "69601"
+    },
+    "sales_representative": "Pamela J. Richards",
+    "telephone_number": "312565-5959",
+    "sales_office": "Kew York",
+    "contract_no": "275cdison Avenue",
+    "advertiser_agency_copy": null
+  }
 }

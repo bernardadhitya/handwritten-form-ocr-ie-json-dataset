@@ -1,3 +1,42 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "document": {
+    "id": "MAR199702:53FRWINSTON&STRAN",
+    "firm": "Philip Morris Management Corp.",
+    "contact": {
+      "phone": "312 558 5700",
+      "fax": "212-907-5796",
+      "direct_dial": "312558-5700"
+    },
+    "addresses": [
+      "175 WATER STREET",
+      "35 WEST WACKER DRIVE",
+      "6,RUE DU CIRQUE",
+      "7S008 PARIS, FRANCE",
+      "1400 L STREET,N.W.",
+      "SULAYMANIYAR CENTER",
+      "RIYADH 11495, SAUDI ARABIA",
+      "43,RUE DU RHONE",
+      "1204 GENEVA, SWITZERLAND"
+    ],
+    "sender": {
+      "name": "John J. Mulderig, Esq.",
+      "firm": "Philip Morris Management Corp.",
+      "date": "March 19, 1997",
+      "address": "120 Park Avenue",
+      "city": "New York",
+      "state": "New York",
+      "zip": "10017",
+      "fax_machine_number": "212-907-5796",
+      "verification_number": "212-880-3227"
+    },
+    "recipient": {
+      "name": null
+    },
+    "pages": 12,
+    "notes": "information intended only for the use of the individual or entity named above.",
+    "operator_initials": "2075334235",
+    "confirmation": "Yes",
+    "direct_dial_fax_number": "312558-5700",
+    "operator_contact": "312 558-5948"
+  }
 }

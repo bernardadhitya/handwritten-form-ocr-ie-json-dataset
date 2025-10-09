@@ -1,3 +1,61 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "outdoor_bulletin": {
+    "display_contract": {
+      "agency": {
+        "name": "Leo Burnett Company, Inc.",
+        "address": "PRUDENTIAL PLAZA CHICAGO.ILLINOIS 60601",
+        "phone": "312-565-5959"
+      },
+      "to": {
+        "name": "DECEE FOSTER & KLEISER",
+        "address": "120INTERSTATE NO.PKWY.-EAST ATLANTA,GA 30339"
+      },
+      "contract_no": "15-3",
+      "advertiser": {
+        "name": "Philip Morris, Inc.",
+        "referred_as": "Company"
+      },
+      "product": "Totacco -ith Feo",
+      "initial_renewal": "R",
+      "trading_area": "3G0",
+      "market": "ATLANTA,GA",
+      "location": "1184 CAPITAL",
+      "size": "14'4",
+      "illumination": "NO",
+      "contract_period": {
+        "start": "1/1/82",
+        "end": "12/31/82",
+        "rate_information": [
+          "$1800.00"
+        ],
+        "gross_monthly_cost": "$_SE",
+        "annual_anniversary_date": "1/1/82"
+      },
+      "cancellation_privileges": {
+        "notice_period": "60 DAYS",
+        "penalty": "Discounted Mo.Cost S_FERICD"
+      },
+      "copy_changes": {
+        "complete_painting": "3 complete paintings, including the initial, annually",
+        "partial_posting": "6 posting of posted portion and 3 paintings of painted portion, including the initial annually",
+        "complete_posting": "6 posting, including the initial, annually"
+      },
+      "extensions": {
+        "above": "51Ft.",
+        "below": "Ft.below",
+        "each_side": "Ft.each side"
+      },
+      "special_instructions": "TE ASOVE UNIT IS SUEJECT TO THE APPROVAL OF AGENCY REPRESENTATIVE UPO ITS COMPLETION.ALSOTREES OBSTRUCTING UNIT MUST BE REMCVED."
+    },
+    "accepted": {
+      "agency": "Leo Burnett Company, Inc.",
+      "representative": "Arhs.Mariea",
+      "company": "BY"
+    },
+    "shipping_address": "SA AS AROVE",
+    "billing_information": {
+      "send_invoices_to": "ACCOUNTING DEPT. SECT. B"
+    },
+    "client_copy": "OHM-1 REV. 10/80"
+  }
 }

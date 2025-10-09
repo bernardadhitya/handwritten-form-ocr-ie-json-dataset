@@ -1,3 +1,29 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "company": "Fabriquos do Tabac Reunies",
+  "request": {
+    "type": "PROPERTYDISPOSAL/TRANSFER REQUEST",
+    "requested_by": "Fabriquos do Tabac Reunies",
+    "location": "Neuchatel, Switzertard",
+    "date": "May.95",
+    "number": null
+  },
+  "disposal": {
+    "value": "409,063",
+    "selling_price": null,
+    "original_cost": null,
+    "depreciation": null,
+    "loss": null,
+    "items": [],
+    "total_local_currency": "16,459,448",
+    "total_usd": "20,224,580"
+  },
+  "reason_for_disposal_transfer": "Sell transfer to",
+  "approval": {
+    "philip_morris_companies_inc": "All equipment except MANG Pa Meridkeand stem export packing line to be.scrapped.",
+    "regional_approval": "23.595",
+    "internal_approval": "2073920856"
+  },
+  "contact": {
+    "phone": "2073920856"
+  }
 }

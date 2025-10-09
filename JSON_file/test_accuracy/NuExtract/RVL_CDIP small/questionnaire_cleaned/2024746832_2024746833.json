@@ -1,3 +1,38 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "survey": {
+    "respondent": {
+      "name": null,
+      "address": {
+        "street": "801 Pine Avenue",
+        "apartment": "210",
+        "city": "Long Beach",
+        "state": "CA",
+        "zip": "90813-5815"
+      },
+      "signature": null,
+      "birthdate": null
+    },
+    "questions": [
+      "What is your regular-brand of cigarettes?",
+      "What other brands would you consider buying?",
+      "Is your regular brand available?",
+      "Is your regular brand available?",
+      "Is your regular brand Menthol?",
+      "Is your regular brand Superslims?",
+      "Is your regular brand OTrue?",
+      "Is your regular brand PusHees?",
+      "Is your regular brand Viceroy?",
+      "Is your regular brand Vantage?",
+      "Is your regular brand Filter or nidair?",
+      "Do you usually buy it by the pack?",
+      "How long have you smoked this brand?",
+      "What was your previous brand?",
+      "Which of the following best describes you?",
+      "Which of the following statements best describes the smoker?",
+      "How often do you use special in-store cigarette offers?",
+      "Would you be interested in receiving information about issues that affect smokers?",
+      "Would you be interested in joining a smokers offers group to help protect your right to smoke?"
+    ],
+    "contact_number": "5070400224050357"
+  }
 }

@@ -1,3 +1,193 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+    "header": {
+        "requester": "HFHer",
+        "code": "C-pse",
+        "analyst": "E.Sebseale",
+        "request_id": "3t043y- 300/37",
+        "title": "ANALYTICAL REQUEST SHEET"
+    },
+    "test_code": "SUBHITTER D.C.Koy",
+    "contact": {
+        "phone": "S43",
+        "location": "3d FOUs+"
+    },
+    "sample": {
+        "description": "7593",
+        "type": "AEROSOLTYPE1"
+    },
+    "method": "TO8ACCOTYPE 2",
+    "units": "ag/ci0",
+    "components": [
+        {
+            "name": "Nicotine",
+            "unit": "ag/cg",
+            "method": "METHOO",
+            "value": "3"
+        },
+        {
+            "name": "Total Nitrogen",
+            "unit": "2"
+        },
+        {
+            "name": "Glycerin",
+            "unit": "g/cig",
+            "value": "4"
+        },
+        {
+            "name": "Propylene Glycol",
+            "unit": "ag/ci",
+            "value": "S"
+        },
+        {
+            "name": "Nitrate",
+            "value": "3"
+        },
+        {
+            "name": "Water",
+            "unit": "ag/ci0",
+            "value": "6"
+        },
+        {
+            "name": "Reducing Sugar",
+            "unit": "%",
+            "value": "S"
+        },
+        {
+            "name": "Menthol",
+            "value": "6"
+        },
+        {
+            "name": "Total Sugar",
+            "unit": "ag/cig",
+            "value": "9"
+        },
+        {
+            "name": "Ammonia",
+            "value": "7"
+        },
+        {
+            "name": "Acetic Acid",
+            "unit": "ug/ci0",
+            "value": "10"
+        },
+        {
+            "name": "Formaldehyde/Acetaldehyde",
+            "unit": "ug/ci0",
+            "value": "8"
+        },
+        {
+            "name": "pH",
+            "value": "11"
+        },
+        {
+            "name": "Acetone/Acrolein",
+            "unit": "ug/cig",
+            "value": "12"
+        },
+        {
+            "name": "Moisture (oven)",
+            "value": "10"
+        },
+        {
+            "name": "Chloride",
+            "unit": "%",
+            "value": "13"
+        },
+        {
+            "name": "Propional/Crotonel",
+            "unit": "ug/cig",
+            "value": "14"
+        },
+        {
+            "name": "Acrolein/Isovaleral",
+            "unit": "ug/cio",
+            "value": "6"
+        },
+        {
+            "name": "Ash",
+            "unit": "%",
+            "value": "15"
+        },
+        {
+            "name": "Malic/Oxalic/Citric",
+            "unit": "%",
+            "value": "16"
+        },
+        {
+            "name": "UTPH",
+            "unit": "g/puff",
+            "value": "17"
+        },
+        {
+            "name": "Nicotine",
+            "unit": "ag/puff",
+            "value": "18"
+        },
+        {
+            "name": "Glycerin",
+            "unit": "%",
+            "value": "19"
+        },
+        {
+            "name": "Propylene Glycol",
+            "unit": "ag/puff",
+            "value": "20"
+        },
+        {
+            "name": "Water",
+            "unit": "g/puff",
+            "value": "21"
+        },
+        {
+            "name": "Menthol",
+            "unit": "ag/puff",
+            "value": "22"
+        },
+        {
+            "name": "TEG",
+            "unit": "ng/puff",
+            "value": "23"
+        },
+        {
+            "name": "TEG",
+            "unit": "ag/ci0",
+            "value": "24"
+        },
+        {
+            "name": "mg/puff",
+            "value": "25"
+        }
+    ],
+    "components_chemical": {
+        "type": "3",
+        "moisture_oven": "COMPONENTS.CHEMICAL TYPE3)"
+    },
+    "components_physical": {
+        "type": "4",
+        "ash": "%",
+        "real_density": "/C3",
+        "bulk_density": "/C3",
+        "pH": "4",
+        "nicotine": "ag/unit",
+        "water": "12",
+        "free_flow_density": "/C3",
+        "tap_density": "/C3",
+        "AC": "6",
+        "glycerin": "13",
+        "surface_area": "/C3",
+        "propylane_glycol": "ag/unit",
+        "N2_porosity": "ng/unit",
+        "C.HN": ".",
+        "tot_intrusion_vol": "6",
+        "oxygen": "8",
+        "total_pore_area": "10",
+        "menthol": "%",
+        "med_pore_dia_vol": "11",
+        "TEG": "16",
+        "hed_pore_dia_area": "E",
+        "av_pore_dia": "u",
+        "particle_size": "4945",
+        "pulp_fiber_size": "14",
+        "propylene_glycol": "15"
+    }
 }

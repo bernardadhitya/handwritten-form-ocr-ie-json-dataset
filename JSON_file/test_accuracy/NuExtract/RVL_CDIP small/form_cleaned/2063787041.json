@@ -1,3 +1,47 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "fax": {
+    "date": "SEP-23-9813:51",
+    "totalPages": 1799,
+    "to": {
+      "name": "THOMAS WARRINER",
+      "company": "HEALTH AND WELFARE AGENCY"
+    },
+    "from": {
+      "name": "JULIA EPLEY"
+    },
+    "contact": {
+      "phone": "415983~KXAS",
+      "fax": "91.6-323-6849"
+    },
+    "message": "IF YOU DO NOT RECEIVE THE CORRECT NUMBER OF PAGES, PLEASE CALL BEA",
+    "client": {
+      "clientNo": "3-38",
+      "subject": null,
+      "subjectNo": null
+    }
+  },
+  "sender": {
+    "name": "JULIA EPLEY",
+    "address": {
+      "street": "226 OUSHSTREET",
+      "postOfficeBox": "POST OFFICE SOX 7",
+      "city": "SAN FRANCISCO",
+      "state": "CALIFORNIA",
+      "zip": "S4120"
+    },
+    "telephone": "415983~KXAS",
+    "telex": "TEC2703",
+    "facsimile": "FKI"
+  },
+  "receiver": {
+    "address": {
+      "city": "SAN FRANCISCO",
+      "state": "CALIFORNIA",
+      "zip": "S4120"
+    },
+    "telephone": "3365",
+    "cableAddress": "TEC2703",
+    "range": "TCH ALMADEN BCULEVARD",
+    "boulevard": "EECCRICR4533-2006"
+  }
 }

@@ -1,3 +1,20 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "bank": "CREDITAGRICOLE",
+  "branch": "SUDOUEST",
+  "accountHolder": "Oyercomreceavcereost",
+  "accountNumber": "445822",
+  "transactionDetails": {
+    "transactionId": "1aca1",
+    "transactionDate": "2022-06-05",
+    "transactionAmount": ".1000",
+    "transactionLocation": "HAEVA"
+  },
+  "contact": {
+    "phone": "0658085474125",
+    "alternatePhone": "369852369852"
+  },
+  "misc": {
+    "code": "EL2327",
+    "reference": "OCTOL.CLSE"
+  }
 }

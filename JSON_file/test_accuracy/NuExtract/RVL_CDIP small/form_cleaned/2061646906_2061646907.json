@@ -1,3 +1,61 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+    "state": "NY",
+    "company": "NY TELEPHONE",
+    "orders": "PERIODICALS",
+    "category": "TELECOMMUNICATION",
+    "records": "RECORDS OF PHONES",
+    "vendor": "TELEPHONE SERVICE FILES",
+    "recordTitle": "PHILIP MORRIS INCORPORATED",
+    "operatingCompany": "Philip Morris Incorporated",
+    "recordsManagement": "Records Management",
+    "qrsa": "Quick Retrieval Storage Area (effective 1982)",
+    "retentionCodes": {
+        "TER": "Until Terminated",
+        "SUP": "Until Superceded",
+        "PER": "Permanently",
+        "CUR": "Current Year"
+    },
+    "keyToCodes": {
+        "TELEPHONE": "--",
+        "F": "Microfiche",
+        "SPM": "Hard Copy",
+        "g": "BILLS",
+        "equipmentList": "FILES BY EXTENSION"
+    },
+    "functionSubfunction": {
+        "untilCompletion": "Until Completion",
+        "3MOS": "3 MOS.",
+        "CUR+1": "CUR+1",
+        "CUR+2": "CUR+2",
+        "CURMO": "CUR MO.",
+        "CUR": "CUR",
+        "PER": "PER"
+    },
+    "office": "COMMUNICATION SERVICES--ADMINISTRATOR",
+    "onSite": "ON-SITE",
+    "recordsRetentionSchedule": "Records Retention Schedule",
+    "departmentHeadAuthorization": "Department Head Authorization",
+    "qrsaRetentionPeriod": "QRSA",
+    "location": {
+        "carlstadt": "CARLSTADT",
+        "offSite": "OFF-SITE"
+    },
+    "retentionPeriod": {
+        "2": "2",
+        "Ac": "Ac",
+        "untilCompletion": "Until Completion",
+        "3MOS": "3MOS.",
+        "CUR+1": "CUR+1",
+        "CUR+2": "CUR+2",
+        "CURMO": "CUR MO.",
+        "+3": "+3",
+        "CUR": "CUR",
+        "CUR+5": "CUR+5",
+        "PER": "PER"
+    },
+    "total": "2061646906",
+    "completionOfBill": "Until completion of bill",
+    "newYorkLocation": "NEW YORK",
+    "officeRemarks": "OFFICE REMARKS",
+    "pageDate": "Page Date"
 }

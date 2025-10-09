@@ -1,3 +1,53 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "company": "R.J.REYNOLDS TOBACCO COMPANY",
+  "form": "LM",
+  "authorizationRequest": {
+    "date": "1/13/83",
+    "approvedCopyRefNo": "83-015",
+    "subject": "Related Previous Proposals",
+    "relatedPreviousProposals": [
+      "SALEM Lights 100 FT 3713-A)",
+      "Ref. Nos.",
+      "Authorization Requested"
+    ],
+    "authorizationRequested": {
+      "expenseChange": null,
+      "productIntroduction": null,
+      "rawMaterials": null,
+      "newProduct": null,
+      "salaryWageScales": null,
+      "brandMarketing": null,
+      "brandExtension": null,
+      "fringeBenefits": null,
+      "productModification": null,
+      "headcount": null,
+      "commitment": null,
+      "capitalExpenditure": null,
+      "policyChange": null,
+      "operatingPlan": null,
+      "revisedOperatingPlan": null
+    },
+    "amount": {
+      "totalRequested": null,
+      "details": []
+    },
+    "proposal": "Begin national manufacturing on March 71983,Phase IlI)of an improved SALEM Lights l00 Prototype #FT 3713-A) with 9.2mg.tar and 0.76mg.nicotine. Prototype #FT 3713-A represents a superior product to competition and to the current product. Current product is at parity to competition.",
+    "objectives": "Product Performance - Improve SALEM Lights l00's performance in the marketplace."
+  },
+  "reviewedBy": [
+    "R&D",
+    "Brand Mktg.",
+    "Mfg",
+    "Brand Mktg.",
+    "Operations",
+    "Brand Mktg.",
+    "Marketing",
+    "Purchasing",
+    "Materials Mgmt.",
+    "Fin.&Admin.",
+    "Rasmkn",
+    "QA",
+    "President &COO",
+    "Chairman &CEO"
+  ]
 }

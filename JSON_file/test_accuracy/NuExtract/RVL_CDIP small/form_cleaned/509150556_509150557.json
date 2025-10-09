@@ -1,3 +1,54 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "specificationChangeNotice": {
+    "id": "M251955",
+    "date": "3/22/85",
+    "brand": "VANTAGE ULTRA LT.85 Laser",
+    "arReferenceNumber": null,
+    "effectiveDateStartUpWithChange": "W/0 3/25/85",
+    "changePreparedBy": "James W.Davis",
+    "phase": "PHASE III",
+    "costChange": "YES",
+    "finalSpec": null,
+    "subBrandNumber": {
+      "from": [
+        "1980AM",
+        "2228AJ"
+      ],
+      "to": [
+        "1980AM",
+        "2228AJ"
+      ]
+    },
+    "typeOfChange": "Raise Dilution Target from 49% to 51%",
+    "oldCommCode": {
+      "filterTow": "NA",
+      "plugWrapRefNo": "NA",
+      "cigtPaperRefNo": "NA",
+      "tippingRefNo": "NA"
+    },
+    "basisForRecommendation": "Since Apr1,1984vANTAGE UL.LT. 85 has averaged 5.5mg with a target of 5.3mg.",
+    "purposeOfChange": "To Lower Tar to Target",
+    "verbalConcurrence": [
+      "W.E.Alderman",
+      "S.H.Lane",
+      "S.E.Carter",
+      "C.L.Manning",
+      "D.R.Pugh"
+    ],
+    "approval": {
+      "rAndD": "Brand R&D Managery",
+      "bvhOrDesignateFromMarketing": "R&D"
+    },
+    "departments": {
+      "manufacturing": [],
+      "brandMgr2": [],
+      "comptrollers": [],
+      "qaPlantManager": [
+        "S.H. Lane",
+        "S.L.Reavis"
+      ]
+    },
+    "code": "50915",
+    "additionalCode": "Specification File G. L. Aldridge"
+  }
 }

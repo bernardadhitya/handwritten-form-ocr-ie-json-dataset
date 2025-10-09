@@ -1,19 +1,53 @@
 {
-    "location": "New York, New York",
-    "address": "PARK AVENUE, NEW YORK, NEW YORK 10167",
-    "agency": "Corporate Media Department",
-    "date": "1/9/81",
-    "brand": "CARLTON",
-    "medium": "Posters",
-    "description": "King Size Outdoor 30 Sheet Posters Box-100%",
-    "period": "February 1981",
-    "maximum_expenditures_authorized": "$40.341.00",
-    "maximum_expenditures_actual": "3,659 posters plus 5% overrun",
-    "space_each": "183$10.50",
-    "art_work": "General",
-    "mechanical_production": "Display",
-    "display_material": "ACCOUNTI",
-    "total": "46.441.00",
-    "approvals": "DEBC.",
-    "remarks": "Product Above poster to be a new design and features copy only, no package. Posters captioned for Media identification \"cARLTON is lowest. Box - Less than 0.0l mg.tar,0.002 mg.nic."
+    "advertising_and_selling_authorization": {
+        "address": "245 Park Avenue, New York, New York 10167",
+        "division": "ANOS,IN",
+        "agency": "Corporate Media Department",
+        "no": "",
+        "date": "1/9/81",
+        "brand": "CARLTON Filter King Size",
+        "medium": "Outdoor",
+        "description": "30 Sheet Posters Box-100%",
+        "period": "February 1981",
+        "maximum_expenditures_authorized": {
+            "amount": 3842,
+            "total": "$40,341.00",
+            "posters": 3659,
+            "overrun": "plus 5%",
+            "space": {
+                "each": "183$10.50"
+            }
+        },
+        "art_work": {
+            "general_department": "JAN2iAM7:48",
+            "mechanical_production": "",
+            "display_material": "",
+            "accounting": "",
+            "contingency": {
+                "estimated_sales_tax": 300.0,
+                "estimated_freight_charges": 5800.0
+            }
+        },
+        "account": {
+            "sus": "755-150",
+            "code": "0-033",
+            "total": 46441.0
+        },
+        "approvals": {
+            "debc": "",
+            "provundry_ad": "Agency"
+        },
+        "remarks": {
+            "product": "Above poster to be a new design and features copy only, no package. Posters captioned for identification 'CARLTON is lowest. Box - Less than 0.01 mg.tar, 0.002 mg.nic.'",
+            "sales": "Marketing",
+            "additional_info": "Above cost includes 946 sets of Blanking Paper, silk-screened in Rocket Red Dayglo.",
+            "president": 73,
+            "posters": "Posters to be printed in a combination of offset and silk-screen in three colors on 70 outdoor poster paper.",
+            "executive": "",
+            "accounting": 41888,
+            "budget_allocation": "A~3a",
+            "authorization_no": "M-14",
+            "peeel": ""
+        }
+    }
 }

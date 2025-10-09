@@ -1,3 +1,25 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "date": "September25,1997",
+  "time": "2:06PM",
+  "fax_number": "804-752-5600",
+  "page_number": "P.1/2",
+  "document_number": "No.2629",
+  "status": "Eingegangen",
+  "transmission_type": "FACSIMILE TRANSMISSION",
+  "received_date": null,
+  "pages": 3,
+  "recipient": {
+    "name": "Dr.Helmut Schaffemicht",
+    "extension": null,
+    "fax_number": "011-4922033031",
+    "alternate_fax_number": "011-492203303362"
+  },
+  "sender": {
+    "name": "Neal Nunnally",
+    "fax_number": "804-752-5631"
+  },
+  "notes": "These pages are from:",
+  "total_pages": 60,
+  "contact_if_incomplete": "please call:",
+  "tracking_number": "400 8036 2494"
 }

@@ -1,3 +1,23 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "ballot_number": 114,
+  "date": null,
+  "evaluation": {
+    "odor_strength": {
+      "intensity": []
+    },
+    "nasal_irritation": {
+      "intensity": []
+    },
+    "eye_irritation": {
+      "intensity": []
+    },
+    "overall_acceptability_of_room_air": {
+      "scale": []
+    }
+  },
+  "codes": [
+    50670,
+    2048
+  ],
+  "file_path": "G:\\ballot"
 }

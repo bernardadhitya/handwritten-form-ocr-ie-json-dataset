@@ -1,3 +1,56 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "product_name": "3-Methylvaleric Acid",
+  "rjrt_lot_no": null,
+  "supplier": null,
+  "order_number": null,
+  "date_received": null,
+  "supplier_lot_number": "M-456",
+  "amount_received": "2 ounces",
+  "date_sampled": null,
+  "specifications": {
+    "usp": null,
+    "fcc": null,
+    "eoa": null,
+    "rjrt_specifications": null,
+    "re_qualification": null,
+    "qualification_of_new_supplier": null
+  },
+  "primary_analysis": {
+    "aroma": "APPROVED",
+    "i_r": "APPROVED",
+    "g_c": {
+      "status": "REJECTED",
+      "analyst": 148
+    },
+    "physical_appearance": {
+      "status": "APPROVED",
+      "analyst": null
+    }
+  },
+  "physical_chemical_properties": {
+    "specific_gravity_25_25_c": 0.9419,
+    "color": null,
+    "refractive_index_20c": 485,
+    "melting_range": null,
+    "flash_point": null,
+    "non_volatile_residue": null,
+    "optical_rotation": null,
+    "halogen_ppm": null,
+    "gc_ms": null,
+    "heavy_metals": null,
+    "ftir": null,
+    "as_pb_ppm": null,
+    "arsenic_ppm": null,
+    "soluble_in": null,
+    "volumes": null,
+    "ethyl_alcohol": null
+  },
+  "miscellaneous_properties": {
+    "flavor_quality_control_use_only": 52331,
+    "approved": "APPROVED",
+    "rejected": "REJECT",
+    "signature_date": "1-8",
+    "comments": 9893
+  },
+  "rjrt_form": "61182/79"
 }

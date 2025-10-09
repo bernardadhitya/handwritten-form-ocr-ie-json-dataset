@@ -1,3 +1,80 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "instructions": "Complete ainformatlon requested below,retain the pinkcopy foryour records.Attach form.and labels2 labels.reqired for overnight packages to tem being sent. For pick-up of arge tems call shpping and receiving on extersion 2395it you pretersmall ltemsmay please bring the items to the Lobby Messenger Room. Whan fing out this form,please lndcate in the columnmarked CoDE SELECTiON your numeric choice for each field on the form.For examplefyou.work for.USA Sales under code selection column you.would indicate your division number as 2 and department number as 201.If your package requires next day devery by 1030A.M.you would indlcate the service requested as 22.f you have any questions, please contact the supervisorofShipping angRecejving on.extension 2398",
+  "name": "MAON",
+  "date_extension": null,
+  "division": {
+    "code_selection": {
+      "1": "1-PM Management Corp.",
+      "2": "USA"
+    },
+    "division_number": null,
+    "department": {
+      "101": "Controller",
+      "108": "Tax",
+      "201": "Sales",
+      "102": "HQICS",
+      "109": "Audit",
+      "202": "Marketing",
+      "103": "General Counsel",
+      "110": "Treasurer",
+      "203": "Operations",
+      "104": "Public Affairs",
+      "105": "Planning",
+      "111": "Pension",
+      "204": "Corp.Affairs",
+      "112": "HQServices",
+      "205": "Finance",
+      "106": "Personnel",
+      "113": "Travel",
+      "206": "Personnel",
+      "107": "Executive",
+      "114": "PMCC"
+    },
+    "department_number": null
+  },
+  "type_of_service": {
+    "note": "ON FRIDAY.UNLESS SPECIFIED, OVERNIGHT DELIVERIES WILL BE MADE ON MONDAY",
+    "service_number": null,
+    "courier": {
+      "air_messenger_local": {
+        "29": "Regular3hours$5.25",
+        "22": "Overnight by 10:30$6.50",
+        "30": "Rush2hours$9.00",
+        "23": "Overnight by 12:00 noon $5.00",
+        "31": "TruckingBase$15.50"
+      }
+    },
+    "ups_rps_ground": {
+      "26": "Regular",
+      "business": null
+    },
+    "us_postal_service": {
+      "32": "Priority Mail $3.00 up to 2bs.",
+      "33": "Certfied Mail$1.42",
+      "34": "Int.Registered Mail$5.45",
+      "35": "Express Mail$10.75",
+      "36": "Certied Return Receipt $2.52"
+    },
+    "international_shipments": {
+      "27": "Intl.Registered Retum Receipt$6.55",
+      "39": "Intt.Express Mail-Starting at $11.50",
+      "40": "1nt.MaiSmalPackage under 4lbs."
+    }
+  },
+  "weight": null,
+  "ship_to": {
+    "name": "PETER W. SPKINS FSO",
+    "c_o": "DORSEV.WINEy",
+    "address": "SXH",
+    "city": "MiANC5",
+    "pcode": "40",
+    "telephone": null
+  },
+  "pick_up_from": null,
+  "form_number": "3251APM INC.REV. 1/S5 #ed Forms",
+  "distribution": {
+    "white": "Shipping",
+    "yellow": "Shipping",
+    "pink": "Requestor"
+  }
 }

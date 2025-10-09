@@ -1,3 +1,32 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "bank": "CREDIT AGRICOLE",
+  "branch": "SUDOUEST",
+  "accountHolder": "QuTasanfSixLlundaclaud",
+  "transactionDetails": {
+    "transactionId": "1:2:5",
+    "amount": 1200.0,
+    "description": "Ariena"
+  },
+  "accountNumber": 44.4,
+  "address": {
+    "street": "Chapin Auger",
+    "city": "FaatieFe",
+    "postalCode": "5828",
+    "region": "OCTOL.CLSE"
+  },
+  "transactionCode": "HAEVA",
+  "balance": null,
+  "date": "06/05/22",
+  "signature": "Sgrature EL.37",
+  "reference": "Re du CraPercre",
+  "additionalInfo": {
+    "location": "OCTOL.CLSE",
+    "code": "2581230",
+    "checkNumber": 2581230,
+    "checkId": 369852369852
+  },
+  "contact": {
+    "phone": "0658985474125",
+    "alternatePhone": "0658985474125"
+  }
 }

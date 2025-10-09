@@ -1,3 +1,47 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "product": "80/8-",
+  "location": {
+    "city": "Port Washington",
+    "state": "NY",
+    "zip": "11050",
+    "po_box": "P.O.Box9200"
+  },
+  "screener": {
+    "time_started": null,
+    "time_ended": null,
+    "interviewers_name": null,
+    "date": null
+  },
+  "questions": {
+    "TQ1": {
+      "did_not_receive_product": null,
+      "disconnected": null,
+      "stopped_smoking": null,
+      "other_tester": null,
+      "respondent_not_available": null,
+      "could_not_participate": null,
+      "no_answer": null,
+      "refused_to_be_interviewed": null,
+      "completed_interview": null,
+      "not_stopped_smoking": null,
+      "no_such_person": null,
+      "non_usable": null
+    },
+    "interviewer_id": null,
+    "intro": "Hello, I'm calling for Janet Hall of Home Testing Institute. May I speak to (NAME OF PERSON ON LABEL? IF RESPONDENT NOT AVAILABLE, MAKE CALLBACK ARRANGEMENT. IF RESPONDENT AVAILABLE, REINTRODUCE YOURSELF)",
+    "la": {
+      "received_cigarettes": null,
+      "verify_address": null
+    },
+    "1c": {
+      "packs_superslims": null,
+      "packs_capri": null
+    },
+    "1d": {
+      "has_report_form": null
+    },
+    "1e": {
+      "can_find_form": null
+    }
+  }
 }

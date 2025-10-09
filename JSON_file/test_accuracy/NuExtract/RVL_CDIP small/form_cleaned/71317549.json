@@ -1,3 +1,53 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "marketingResearchAuthorization": {
+    "recommendedProposal": null,
+    "proposalNumber": null,
+    "date": null,
+    "description": null,
+    "researchRequestAttached": null,
+    "requestedBy": "K.J. Brotzge",
+    "budgeted": null,
+    "originalBudgetedAmount": null,
+    "competitiveProposals": [],
+    "marketFactsInc": {
+      "summaryOfMRDBudget": {
+        "projected": {
+          "internalInitDate": "12/17/91",
+          "totalAreaBudget": 120000000,
+          "extAuthDate": "1/6/92",
+          "currentBalAvailable": 4526448,
+          "waves": null,
+          "thisChange": {
+            "fromCurrentBudget": -45250.0,
+            "fieldComplete": "2/17/92",
+            "fromNextYearsBudget": null,
+            "newBalance": 4526448
+          },
+          "finalReportDue": "4/10/92",
+          "supplierRpt": null,
+          "committedToDate": 203814.48,
+          "wavesCurrentYear": null,
+          "projectType": "CPT",
+          "productTestA&Uetc": 400,
+          "sampleSize": 400,
+          "recommendedSupplier": "Market FactsInc",
+          "reasonsForRecommendation": "Bidding exemption granted by R.A.Fitzmaurice",
+          "submittedBy": "D.S.Bohn",
+          "submittedDate": "/92",
+          "approvedBy": [
+            "EGraygly",
+            "H.H.Huber"
+          ],
+          "budgetCheck": "S.H.Purdy",
+          "originalProjectFile": "S.Willinger 3",
+          "projectNo": "1991-168NP",
+          "cc": "S.A.Purdy",
+          "accountName": "New Products-Unspecified",
+          "HRD00006": "revised 4/91",
+          "DBs10106": 461302940,
+          "JS": 461302940
+        }
+      }
+    }
+  }
 }

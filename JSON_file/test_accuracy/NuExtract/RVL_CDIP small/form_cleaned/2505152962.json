@@ -1,3 +1,28 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "fax": {
+    "date": "21 May 97",
+    "time": "15:28",
+    "fax_number": "32-2-725 1209",
+    "pages": 2
+  },
+  "sender": {
+    "name": "K.Heylen",
+    "organization": "INBIFO",
+    "address": "Postfach 900547 D-51115Koln",
+    "fax": "0049-2203-303362"
+  },
+  "recipient": {
+    "name": "Dr.P.Voncken",
+    "organization": "CRC Contract Research Center",
+    "address": "Tollaan 101c A Normal processing B-1932 Zaventem",
+    "tel": "32-2-7215047",
+    "fax": "32-2-725 1209"
+  },
+  "message": {
+    "date": "21 May 97",
+    "subject": "Re:",
+    "body": "Dear Doctor Voncken\nEnclosed you will find the above mentioned table for study B3271/P 0500 3271. Would you be so\nkind to check this table and make the necessary corrections.\nPlease return a.s.a.p.\nThank you in advance.",
+    "closing": "Yours sincerely,",
+    "enclosure": "Enclosure1 table"
+  }
 }

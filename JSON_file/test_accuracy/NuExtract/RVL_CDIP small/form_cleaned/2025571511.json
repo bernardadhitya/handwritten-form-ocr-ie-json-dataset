@@ -1,21 +1,22 @@
 {
-    "Kabat Application Record": {
-        "DATE": "8-25-94",
-        "retention": "3 yrs.from date",
-        "KABATAPPLICATION SYSTEM": "HendersOn",
-        "Line Designation": "#1 ryer",
-        "GRADE": "E7K8",
-        "HOGSHEADS": "0r CASES/RUN",
-        "RUN": "733/862",
-        "LENGTH OF RUN": "hrs)",
-        "REDRIED": "(lbs./k",
-        "KABAT LOT NUMBER": "31001",
-        "S USED": "31001 Kabat was applied to this strip tobacco product",
-        "Formulation": "5% w/w formulation ofmethoprene (active ingredient and 95 % ethanol)",
-        "Calculated Average Rate": "ppm=Kabat used mls.X 103.1(lbs.or 46.8kgs)",
-        "Total lbs.kgs. run": "12.35 OV",
-        "Number of cans emptied on this run": "0",
-        "Cans triple rinsed punctured/crushed": "Jams R.wilhon",
-        "Authorized Signature": "R.wilhon"
-    }
+  "KabatApplicationRecord": {
+    "date": "8-25-94",
+    "retention": "3 yrs.from date",
+    "kabatApplicationSystem": "HendersOn _#1",
+    "ryerLineDesignation": null,
+    "grade": "E7K8",
+    "hogsheadsOrCasesRun": "733/862 130",
+    "lengthOfRunHrs": 8,
+    "redriedLbsKgsRun": 123.685,
+    "kabatUsedMls": 7425,
+    "kabatLotNumbersUsed": "31001",
+    "calculatedAverageRatePpm": 6.2,
+    "description": "Kabat was applied to this strip tobacco product at a calculated average rate of 6.2 ppm for the effective controlof the Cigarette Beetle (Lasioderma serricorne).",
+    "calculatedAverageRatePpmFormula": "Kabat used mls.X 103.1(lbs.or 46.8kgs assuming 12.35 OV",
+    "totalLbsKgsRun": null,
+    "numberOfCansEmptiedOnThisRun": 0,
+    "cansTripleRinsedPuncturedCrushed": 2025571511,
+    "initialed": "Jams R.wilhon",
+    "authorizedSignature": null
+  }
 }

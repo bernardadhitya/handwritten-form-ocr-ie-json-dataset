@@ -1,12 +1,31 @@
 {
-    "sender": "HMP KOELN",
-    "date": "19.02.90",
-    "time": "14:11",
-    "document_number": "NR.01",
-    "copy_number": "7",
-    "sender_company": "HEIER. MONSE UND PARTNER GMBH HM ARCHITEKTEN",
-    "address": "5000 KOLN 91 BRUCK)AM HIRSCHSPRUNG 24-28 D s9 oV#",
-    "telephone": "0221843067",
-    "telefax": "02218432",
-    "project_number": "Unsere Projekt-Nr..."
+  "sender": "SENDER",
+  "date": "19.02.90",
+  "time": "14:11",
+  "number": "01",
+  "teletaxCopy": 7,
+  "company": {
+    "name": "HEIER. MONSE UND PARTNER GMBH",
+    "abbreviation": "HM",
+    "type": "ARCHITEKTEN",
+    "address": "5000 KOLN 91 BRUCK)AM HIRSCHSPRUNG 24-28",
+    "country": "D",
+    "phone": "0221843067",
+    "fax": "02218432 96"
+  },
+  "projectNumber": "39",
+  "request": {
+    "acknowledgment": null,
+    "comment": "Mit der Bitte um Kenntnisnahme",
+    "review": "Stellungnahme",
+    "attention": "Hdnden tT",
+    "approval": "GBERARBETETE",
+    "revision": "Bearbeitung",
+    "processing": "BEQE",
+    "language": "Rocksprache",
+    "returnBy": "Rucksprache bis",
+    "totalPages": "Insgesamt R Seiten",
+    "forwardTo": "Kn den19.0.8 2024474063"
+  },
+  "referenceNumber": "2024474063"
 }

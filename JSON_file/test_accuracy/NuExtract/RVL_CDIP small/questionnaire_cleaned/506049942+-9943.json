@@ -1,3 +1,44 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "name": "Malea35",
+  "males": "3",
+  "females": "50",
+  "phone_no": "50604",
+  "interviewer_number": "ATS/FIELD ONLY",
+  "full_flavor": null,
+  "ordered_by": "Lov Tar.",
+  "edited_by": "Lov Tar.",
+  "study_no": "78-14361",
+  "date_ended": null,
+  "time_started": null,
+  "introduction": "Hello,1'm Mth M/A/R/c Opinion Research an independent conducting a study jh this area and would like toinclude you among the people talking to.",
+  "employment_question": {
+    "automobile_manufacturer": null,
+    "food_processing_company": null,
+    "advertising_agency": null,
+    "newspaper_or_magazine": null,
+    "tobacco_manufacturer": null,
+    "insurance_company": null,
+    "marketing_research_firm": null,
+    "other": null
+  },
+  "smoking_question": {
+    "smoked_in_past_seven_days": "No",
+    "tally_and_terminate": 16
+  },
+  "cigarettes_per_day": {
+    "less_than_one": "16"
+  },
+  "age_group": {
+    "check_age_quota": "IF QUOTA FILLED OR UNDER 18"
+  },
+  "record_sex": {
+    "male": "Male",
+    "female": "Female"
+  },
+  "usual_brand": {
+    "regular_or_lights": null,
+    "filter_or_non_filter": null,
+    "menthol_or_non_menthol": null,
+    "size": null
+  }
 }

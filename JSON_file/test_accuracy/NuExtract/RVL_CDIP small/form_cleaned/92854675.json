@@ -1,3 +1,29 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "caseNumber": "3Q30396",
+  "liquorControlBoard": "Washington State Liquor Contro Board",
+  "date": "2003-04-01",
+  "time": "10:50",
+  "noticeType": "Notice of Board Action on Enforcement",
+  "paymentMethod": "Check or Money Order",
+  "address": {
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98504-3076",
+    "POBox": "POB0x43076",
+    "street": "3.5500 Encbawtd PkyS"
+  },
+  "violation": {
+    "RCW": "RCW24.38.080",
+    "penalty": "Proposed Penalty"
+  },
+  "licensee": {
+    "UBINumber": "601595263001000L",
+    "name": "Name of Business",
+    "tradeName": null,
+    "liquorLicenseNumber": null,
+    "cityStateZip": null
+  },
+  "issuedBy": "Liquor Contro! Agent",
+  "penaltyDueDate": null,
+  "sendPaymentTo": null
 }

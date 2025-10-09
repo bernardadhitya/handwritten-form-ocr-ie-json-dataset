@@ -1,3 +1,33 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "SMOKER_RESCREENER": {
+    "Name": null,
+    "Age": null,
+    "Market_Research_Participation": {
+      "Question": "Have you ever participated in a market research group or discussion in the past 6 months?",
+      "Answer": "Yes"
+    },
+    "Cigarettes_Per_Day": {
+      "Question": "How many cigarettes do you smoke in an average day?",
+      "Options": [
+        "Fewer than ten cigarettes/less than one-half pack per day",
+        "Ten or more cigarettes/one-half pack per day or more"
+      ],
+      "Answer": "Ten or more cigarettes/one-half pack per day or more"
+    },
+    "Cigarette_Type": {
+      "Question": "What type of cigarettes do you smoke on a regular basis, by type meaning full flavored, light or menthol?",
+      "Options": [
+        "Light non-menthol",
+        "Full flavor non-menthol",
+        "Light menthol",
+        "Full flavor menthol"
+      ],
+      "Answer": "Light non-menthol"
+    },
+    "Brands": {
+      "Most_Often": null,
+      "Heard_Of": [],
+      "Other": null
+    }
+  }
 }

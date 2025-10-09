@@ -1,3 +1,57 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "productOpinion": {
+    "laboratory": null,
+    "telephone": "804) 271-6002"
+  },
+  "instructions": {
+    "label": "ONLY THE PERSON WHOSE NAME APPEARS PLEASE ON TEIS LABEL SHOULD TAKE THE TEST",
+    "returnBallotBy": "3Y",
+    "addressChange": {
+      "applyTo": "If Address Changed",
+      "newPhoneNumber": "Please include area code."
+    }
+  },
+  "letter": {
+    "greeting": "Dear Panelist:",
+    "content": "With this ballot I as enelosing ten packs of cigarettes with nine different pack coces es woll as a corplinentary peck for your ssoking enJoysent. The packs coded and are for Part I. The packs coded and are for Pert II. Ihe packs coded and are for Part III e yo e oa e yc c no  pon en a  o  yoe e",
+    "closing": "Thank you very much.. Your cooperation in thie test is aost helpful."
+  },
+  "parts": {
+    "partI": {
+      "instruction": "Smoke cigarettes fros the packs coded and Compare these cigarettes and indicate belou which pack is different."
+    },
+    "partII": {
+      "instruction": "Ssoke cigarettes fros the packs coded and Coapare these cigarettes and indicate belou which pack is different."
+    },
+    "partIII": {
+      "instruction": "Snoke cigarettes fron the packs eoded and Conpare these cigarettes and indicate belou uhieh pack is different."
+    }
+  },
+  "questions": {
+    "currentCigarette": {
+      "exactName": null,
+      "contains": {
+        "milds": null,
+        "superLights": null,
+        "other": null
+      },
+      "filtered": null,
+      "package": {
+        "softPack": null,
+        "hardPack": null
+      },
+      "menthol": null,
+      "length": null,
+      "dailyConsumption": null
+    },
+    "cigaretteLengthScale": {
+      "placeEnd": null,
+      "lengths": {
+        "80": null,
+        "85": null,
+        "100": null,
+        "120": null
+      }
+    }
+  }
 }

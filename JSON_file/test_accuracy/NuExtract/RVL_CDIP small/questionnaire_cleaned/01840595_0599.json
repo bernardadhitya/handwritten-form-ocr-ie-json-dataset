@@ -1,3 +1,17 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "survey": {
+    "title": null,
+    "address": {
+      "street": "801 Second Avenue",
+      "city": "New York",
+      "state": "New York",
+      "zip": "10017"
+    },
+    "code": "42318",
+    "questions": [
+      "What brands or products do you remember seeing ads for in the book?",
+      "Do you remember any ads for any other brands of cigarettes?",
+      "Any other brands of cigarettes mentioned?"
+    ]
+  }
 }

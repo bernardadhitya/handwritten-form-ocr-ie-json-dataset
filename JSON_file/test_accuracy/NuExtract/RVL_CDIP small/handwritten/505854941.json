@@ -1,3 +1,63 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "details": {
+    "author": "Dc.Rawrence",
+    "report": "CONDENSATE",
+    "report_number": "P19/85",
+    "type": "Report"
+  },
+  "stored": {
+    "type_total": "TYPE TOTAL",
+    "recovered": {
+      "t-30": 320.99,
+      "CuC1": null,
+      "volatiles": {
+        "pentane": {
+          "volume": null,
+          "soluble_material": null,
+          "insoluble_material": null
+        }
+      },
+      "aqueous_layer": {
+        "type_pentane": "INSOL PENTANG"
+      }
+    }
+  },
+  "extraction": {
+    "continuous": "Continuou cxtraction",
+    "ether_extract": "Chemical separatioy",
+    "sol_ether": 15.05,
+    "concentrated_to": "Chemical scparation",
+    "washed_successively_with": {
+      "sol_water": 54.1,
+      "chemical_separation": {
+        "a-1": {
+          "weak_bases": 0.581,
+          "washed_successively_with": "0.5405 NaC321. NOH"
+        }
+      },
+      "a-2": {
+        "stronger_bases": 0.5405,
+        "NaC": 0.5405,
+        "NOH": "0.5405 NaC321. NOH"
+      }
+    },
+    "chromatography": {
+      "subfr": {
+        "e-1": {
+          "eluted_with": "hexanc",
+          "value": 5.227
+        },
+        "e-2": {
+          "eluted_with": "CyC",
+          "value": 5.473
+        },
+        "50585": "su8fr.",
+        "pure_MeOH": 4941
+      }
+    }
+  },
+  "components": {
+    "bases": null,
+    "phenols": null
+  }
 }

@@ -1,3 +1,28 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "fax": {
+    "header": {
+      "date": "1999-02-10",
+      "time": "PM",
+      "sender": "Semm",
+      "page": "3"
+    },
+    "to": {
+      "name": "Name",
+      "company": "INBIFO",
+      "faxNo": null,
+      "received": null
+    },
+    "from": {
+      "name": "Philip Mors",
+      "company": "USA.R&D",
+      "phone": "804/274",
+      "fax": "804/274",
+      "reference": null,
+      "code": "2/1099"
+    },
+    "date": "1999-02-10",
+    "pagesToFollow": "1",
+    "confidentialityNotice": "This facsimile transmission (and/or the documents accompanying it) may contain confidential information belonging to the sender. The information is intended only for the use of the addressee or entity named above. If you are not the intended recipient, you are hereby notified that any disclosure, copying, distribution or the taking of any action in reliance of the contents of this information is strictly prohibited by law. If you have received this transmission in error,please immediately notify us by telephone to arrange for the returo of the documents.",
+    "message": "T4e DVe tig. tt.usc 2505364154"
+  }
 }

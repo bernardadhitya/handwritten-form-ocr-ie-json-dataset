@@ -1,3 +1,56 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "company": "F..Reynolds Tobacco USAInc.",
+  "authorizationRequest": {
+    "subject": "In-vitro Genetic Toxicology Testing",
+    "dateRouted": "5/21/87",
+    "deptRefNo": "556",
+    "startDate": "5/87",
+    "operationalDate": "3/88",
+    "approvalRequestSummary": "A summary discussion is attached.",
+    "authorityRequested": {
+      "authorizationType": "Total",
+      "previouslyRequested": null,
+      "totalRequest": 250000,
+      "expense": {
+        "contractProductSupport": null,
+        "productModificationIntroduction": null,
+        "previousProposals": null,
+        "leaseOrOtherContinuingCommitment": {
+          "minimum": null,
+          "total": null
+        },
+        "costJustifiedAt": null
+      }
+    },
+    "financeData": {
+      "capital": {
+        "expense": 150000,
+        "capitalID": null,
+        "authorityRequestedCoveredBy": {
+          "budgetedDepartment": 150.0,
+          "amount": 150.0
+        },
+        "projectID": null,
+        "fundsRequiredFrom": null,
+        "expenseCode": "04-90-0218-9010-780",
+        "department": "Corporate"
+      },
+      "financialImpact": {
+        "1987": {
+          "operatingEarningsLoss": "$150M",
+          "corporateFundsRequested": "$150.000"
+        },
+        "thereafter": {
+          "average": "19"
+        }
+      }
+    },
+    "reviews": {
+      "approvals": []
+    },
+    "implementorProjectManager": null,
+    "projectClientRepresentative": null,
+    "departmentManagement": null
+  },
+  "form": "8711-Rv.01/87"
 }

@@ -1,3 +1,42 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+    "compoundPhysicalParameters": {
+        "rcfiNumber": "B164",
+        "description": "Brownish-gray powder",
+        "ph": {
+            "concentration": "50t",
+            "value": 4.82,
+            "temperature": "25c",
+            "method": "extrapolation procedures by Dr. P. D. Schickedantz",
+            "researchCenter": "Lorillard Research Center",
+            "accessionNumber": 1662
+        },
+        "solubility": {
+            "biologicalSolutions": "See sop for Biological Solutions",
+            "oral": {
+                "reference": "BC20-48",
+                "description": "B164 forms a suspension in corn oil at 0.5 g/l.5 ml",
+                "dosing": "Triple dosing is required"
+            },
+            "acuteCardiovascular": {
+                "reference": "BC20-48",
+                "description": "B164 is insoluble according to this procedure",
+                "note": "See Sop for Determination of Solubility of Materials for Acute Cardiovascular and Respiratory Effects Study in Beagle Dogs"
+            }
+        },
+        "storageRecommendations": {
+            "temperature": "no more than 8c",
+            "container": "amber glass bottle",
+            "method": "Refrigerate"
+        },
+        "sensitivity": {
+            "heat": true,
+            "moisture": true
+        },
+        "safetyComments": {
+            "suggestedHandlingProcedure": "SNATUR",
+            "signature": 8283,
+            "code": 182
+        }
+    },
+    "identifier": 865872
 }

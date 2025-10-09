@@ -1,4 +1,71 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nConfidential STOCK SCREEN DATA SHEET DATE _1/-14-89 SHIFT 11-7-4 5 10013 210 yr 4o7 TIME FLOW TO 180 hs Iny h81 MACHINE CHEST FREENESS (AFTER 344 33 39 r REFINER) FEED M/C ROOM)FREENESS 315 271 276 34...\nINLET PRESSURE 49 32 92 TO STOCK SCREEN OUTLET PRESSURE s7 35 '32 TO STOCK SCREEN ACCEPT VALVE 93 b4 70 NOLLISON REJECT VALVE 35 3y POSITION STOCK SCREEN 133 132 133 MOTOR LOAD d 8 THREADS ON 8 CERAMI...\n/file a2.001.rkg 10/89 203002815300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  "confidential": null,
+  "stockScreenDataSheet": {
+    "date": "1/-14-89",
+    "shift": "11-7-4",
+    "time": "5",
+    "flowTo": "180",
+    "hs": "210",
+    "iny": "yr",
+    "h81": "4o7",
+    "machine": "CHEST",
+    "freenessAfterRefinerFeed": [
+      344,
+      33,
+      39
+    ],
+    "mcRoomFreeness": [
+      315,
+      271,
+      276
+    ],
+    "accept": null,
+    "inletPressureToStockScreen": [
+      49
+    ],
+    "outletPressureToStockScreen": [
+      37
+    ],
+    "acceptValve": [
+      93
+    ],
+    "nollisonRejectValvePosition": [
+      35
+    ],
+    "stockScreen": [
+      133,
+      132,
+      133,
+      133
+    ],
+    "motorLoad": "d",
+    "threadsOn": 8,
+    "ceramicValveInletPressureTo1stRefiner": [
+      54,
+      51,
+      51,
+      54
+    ],
+    "outletPressureToLastRefiner": [
+      78,
+      7,
+      7
+    ],
+    "kwOnRefiner": 193,
+    "refinerData": {
+      "#1": [
+        147,
+        51,
+        50
+      ],
+      "#2": "M4",
+      "#3": [
+        161,
+        140,
+        140
+      ],
+      "#4": "REMARKS:"
+    },
+    "remarks": "file a2.001.rkg 10/89 2030028153"
+  }
 }

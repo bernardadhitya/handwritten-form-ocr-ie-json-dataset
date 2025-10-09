@@ -1,3 +1,65 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "contractResearchCenter": "CRC CONTRACT RESEARCH CENTER",
+  "formNumber": "11",
+  "code": "27CW96",
+  "silMcm": "SIL/MCM",
+  "formApproved": "05.96",
+  "groupAndIndividualInLifeObservations": {
+    "projectNumber": "3271",
+    "groupCode": "S3",
+    "dayOfStudy": "S3",
+    "date": "6eel7",
+    "group": {
+      "males": "eo",
+      "females": "eo",
+      "time": "22h",
+      "totalNumberOfRats": "eo",
+      "decreasedSpontaneousActivity": 0,
+      "trembling": 0,
+      "partiallyOrFullyClosedEyelids": "O.",
+      "harderianGlandSecretion": null,
+      "initials": "3271",
+      "partiallyOrFullyWetOrMoistFur": null,
+      "abnormalBreathing": null
+    },
+    "individual": {
+      "ratNumber": "10118041",
+      "sex": "10118041",
+      "time": "3.31",
+      "score": {
+        "spontaneousActivity": "Q",
+        "reactionToSoundTouch": "Decreased turning reflex",
+        "decreasedTurningReflex": "Decreased turning reflex",
+        "decreasedGrippingAbility": "Decreased gripping ability",
+        "closedEyelids": "Closed eyelids",
+        "harderianGlandSecretion": "Harderian gland secretion",
+        "trembling": "Trembling"
+      },
+      "check": {
+        "0": "Abnormal breathing",
+        "x": "Hair changes:"
+      },
+      "remarks": "Yelourclicaleuot i excyr i, 1!",
+      "errorCodes": {
+        "A": "writing",
+        "B": "calculation",
+        "C": "mixing",
+        "D": "reading",
+        "E": "copy",
+        "F": "other with explanation"
+      },
+      "initials": "2505146300",
+      "date": "28JUL1997",
+      "initialsSD": "29JUL 1997",
+      "grades": {
+        "0": "normal",
+        "-1": "slight decrease",
+        "-2": "marked decrease",
+        "-3": "strong decrease",
+        "+1": "slight increase",
+        "+2": "marked increase",
+        "+3": "strong increase"
+      }
+    }
+  }
 }

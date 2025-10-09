@@ -1,3 +1,74 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "company": "Bellomy-Carrigg,Inc.",
+  "job_number": "0906",
+  "address": "5UNIVERSITYPARKWAY",
+  "date": "October, 1984",
+  "project": "AA EXTENDED USE CONCEPT/PRODUCT TEST",
+  "document_type": "RESPONDENT'S NAME:",
+  "respondent": {
+    "name": "BE172",
+    "state": "N.C.",
+    "area_code": "3/3",
+    "phone": "3/",
+    "date": "10i",
+    "interviewed_by": "N"
+  },
+  "instructions": {
+    "interview_women_only": null,
+    "age_question": {
+      "question": "Into which of the following age groups does your age belong?",
+      "options": [
+        "Under 18",
+        "18-24",
+        "25-3-2",
+        "35-49",
+        "50+"
+      ],
+      "terminate_if": [
+        "Under 18",
+        "18-24",
+        "25-3-2",
+        "35-49",
+        "50+"
+      ]
+    },
+    "product_usage_question": {
+      "question": "Which of the following products do you use daily?",
+      "options": [
+        "Breathmints",
+        "Mouthwash",
+        "Cigarettes",
+        "Gel toothpaste",
+        "Cream toothpaste"
+      ],
+      "continue_if": [
+        "Breathmints",
+        "Mouthwash",
+        "Cigarettes"
+      ]
+    },
+    "brand_usage_question": {
+      "question": "Which of the following brands have you used in the past week?",
+      "options": [
+        "Certs breathmints",
+        "50552",
+        "Clorets breathmints",
+        "Topal toothpaste",
+        "Aqua Fresh toothpaste",
+        "Clinomint",
+        "Scope",
+        "Listerine"
+      ],
+      "continue_if": [
+        "Certs breathmints",
+        "50552",
+        "Clorets breathmints",
+        "Topal toothpaste",
+        "Aqua Fresh toothpaste",
+        "Clinomint",
+        "Scope",
+        "Listerine"
+      ]
+    }
+  }
 }

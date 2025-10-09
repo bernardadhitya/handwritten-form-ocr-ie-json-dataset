@@ -1,3 +1,36 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "document": {
+    "header": {
+      "firm": "SHOAeCXCoN",
+      "address": "3200 Miami Center",
+      "phone": "305)373-5200",
+      "telecopier": "305-374-7296",
+      "operator": "305-373-5200",
+      "date": "5-1-92"
+    },
+    "recipient": {
+      "name": "MARTA S.WA",
+      "firm": "SHOAeCXCoN",
+      "telecopier_no": "816-91-2709",
+      "confirmation_no": "2075852341"
+    },
+    "details": {
+      "total_pages_including_cover_sheet": null,
+      "letter_size": null,
+      "legal_size": null,
+      "notes": "This facsimile contains PRIVILEGED AND CONFIDENTIAL information intended only for the use of the addressee(s) named above."
+    },
+    "transmission": {
+      "time_sent": {
+        "am": null,
+        "pm": null
+      },
+      "confirmed": "2075852341",
+      "telecopier_operator": "Cllent Code 630"
+    },
+    "codes": {
+      "client_code": "630",
+      "matter_code": "0570"
+    }
+  }
 }

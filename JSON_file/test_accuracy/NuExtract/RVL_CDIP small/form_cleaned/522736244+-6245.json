@@ -1,3 +1,29 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "company": "Tobacco Company",
+  "contact": {
+    "name": "Joseph Thornton",
+    "position": "Consumer Relations",
+    "address": {
+      "street": "233 Sutton Lake Rd",
+      "city": "Winston-Salem",
+      "state": "NC",
+      "zip": "27102"
+    },
+    "alternate_address": {
+      "city": "Wilmington",
+      "state": "NC",
+      "zip": "28401-9000"
+    }
+  },
+  "message": "Thank you for contacting us. As part of our continued efforts to stop underage smoking we verify that every smoker on our mailing list is 21 years of age or older.",
+  "steps": [
+    "Check to make sure the mailing address is correct.",
+    "Print any corrections in the box below on the right.",
+    "Include a copy of an official identification that contains your name, current address, and date of birth.",
+    "Attach a copy of your identification.",
+    "Send the form and copy of ID in the enclosed self-addressed envelope, or mail to Attn: Consumer Relations, P.O. Box 2959, Winston-Salem, NC 27102.",
+    "Verify eligibility by providing the required information.",
+    "Include your usual brand of cigarettes."
+  ],
+  "offer_restriction": "Offer Restricted to Smokers 21 Years of Age or Older."
 }

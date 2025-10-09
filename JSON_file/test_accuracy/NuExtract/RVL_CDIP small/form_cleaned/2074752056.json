@@ -1,3 +1,24 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "date": "12/11/97",
+  "day": "THU",
+  "time": "15:00",
+  "fax_number": "804274714",
+  "company": "Philip Morris R&D",
+  "document_number": "001",
+  "facsimile": {
+    "to": {
+      "name": "MS-",
+      "company": null,
+      "fax_number": null
+    },
+    "from": {
+      "company": "Philip Moris USA.R&D.Richmond,VA",
+      "phone": "8042748",
+      "fax": "804/274-"
+    },
+    "date": "12/97",
+    "pages_to_follow": null,
+    "confidentiality_notice": "This facsimile transmission and/or the documents accompanying it) may contain confidential information belonging to the sender. The information is intended only for the use of the addressee or entity named above If you are not the iutended reciplent you are hereby notified that any disclosure copyng, distribution or the taking of any action in reliance of tbe contents of this information is strictly prohibited by law.If you have received this transmission in error, please immediately notify us by telephone to arrange for thc return of thc documents.",
+    "message": "2074752056"
+  }
 }

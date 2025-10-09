@@ -1,11 +1,37 @@
 {
-    "TYPE": "CHEMICALI",
-    "NAME": "Jimmy Bell",
-    "DATE": "May271982",
-    "COMPOUNONAME": "Valerian Fluid Extract",
-    "COMPOUND CODE": "B73",
-    "REGISTRY NUMBER": "N/A",
-    "LITERATURESURVEYED": "Toxline",
-    "DATES": "II.contd",
-    "SUPPLEMENTAL LITERATURE SEARCH": "Chemical Abstracts Vol.23-Vol.65 1929-1966 Arctander's Perfume and Flavor Materials of Natural Origin (1960) Guenther's Monographs on Fragrance Raw Materials (1979) Tobacco Abstracts 1957-Dec.1981 U.S. Dispensatory 23rd edition1943"
+  "informationSearchSummary": {
+    "type": [
+      "CHEMICAL",
+      "BIOLOGICAL"
+    ],
+    "name": "Jimmy Bell",
+    "date": "May271982",
+    "compoundName": "Valerian Fluid Extract",
+    "compoundCode": "B73",
+    "registryNumber": "N/A",
+    "literatureSurveyed": [
+      "Toxline",
+      "Registry of the Toxic Effects of Chemicals to Dec. 1981",
+      "Ann C.Stringfiel/M.L.S. Literature Chemis",
+      "Chemical Abstracts Vol.23-Vol.65 1929-1966",
+      "Arctander's Perfume and Flavor Materials of Natural Origin (1960)",
+      "Guenther's Monographs on Fragrance Raw Materials (1979)",
+      "Tobacco Abstracts 1957- Dec.1981",
+      "U.S. Dispensatory 23rd edition1943"
+    ],
+    "supplementalLiteratureSearch": [
+      "Chemical Abstracts Vol.23-Vol.65 1929-1966",
+      "Arctander's Perfume and Flavor Materials of Natural Origin (1960)",
+      "Guenther's Monographs on Fragrance Raw Materials (1979)",
+      "Tobacco Abstracts 1957- Dec.1981",
+      "U.S. Dispensatory 23rd edition1943"
+    ],
+    "scientist": {
+      "name": "Jimm H.Bell",
+      "degree": "BSc.",
+      "id": "00851772",
+      "affiliation": "LORILLARDRESEARCH CENTER"
+    },
+    "form": "8 [1080]"
+  }
 }

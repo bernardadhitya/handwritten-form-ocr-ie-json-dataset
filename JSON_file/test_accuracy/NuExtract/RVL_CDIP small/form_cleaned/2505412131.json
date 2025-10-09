@@ -1,3 +1,39 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "company": {
+    "name": "INBlFO Institut fur biologische Forschung GmbH",
+    "type": "Contract Research",
+    "address": {
+      "street": "Fuggerstr. 3",
+      "postal_code": "51149",
+      "city": "Cologne",
+      "country": "Germany"
+    },
+    "contact": {
+      "telephone": "+49-2203-303-1",
+      "telefax": "+49-2203-303-362"
+    },
+    "general_manager": "Dr. Wolf Reininghaus",
+    "trade_register": "Cologne HR8 367"
+  },
+  "telefax_message": {
+    "number": "347",
+    "date": "1999-04-06",
+    "from": "Dr.F.Tewes",
+    "to": {
+      "name": "Ms.Diane Gray",
+      "address": {
+        "company": "BioReliance",
+        "division": null,
+        "street": "14920Broschart Drive",
+        "city": "Rockville",
+        "state": "MD",
+        "postal_code": "20850",
+        "country": "USA"
+      },
+      "fax_no": "001-301-7381036"
+    },
+    "subject": null,
+    "message": "We would like to order a new batch of Aroclor 1254-induced S9 catalog no.16-190",
+    "reference": "Mammalian S9 microsome preparation"
+  }
 }

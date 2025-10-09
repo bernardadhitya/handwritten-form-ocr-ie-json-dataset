@@ -1,3 +1,32 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "company": "INBIFO institut fur biologische Forschung GmbH",
+  "department": "Contract Research",
+  "telefax_message_no": 330,
+  "telephone": "022 03303-1",
+  "fax": "02203303-362",
+  "address": {
+    "street": "Fuggerstr.3",
+    "postal_code": "51149",
+    "city": "Cologne"
+  },
+  "document": "GNI_FAX.DOC",
+  "date": null,
+  "from": "Dr.W.Reininghaus",
+  "to": {
+    "name": "Dr.Gerry Nixon",
+    "title": "Manager, External Studies",
+    "company": "Philip Morris USA",
+    "address": {
+      "street": "Philip Morris USA Research Center",
+      "po_box": "26583",
+      "city": "Richmond",
+      "state": "Va",
+      "postal_code": "23261",
+      "country": "U.S.A."
+    },
+    "telefax_no": "001-804-27438 90"
+  },
+  "number_of_following_pages": "2505406114",
+  "note": "For your information!",
+  "reference_number": null
 }

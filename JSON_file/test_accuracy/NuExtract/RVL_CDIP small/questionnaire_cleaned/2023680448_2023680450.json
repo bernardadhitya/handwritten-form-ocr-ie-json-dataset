@@ -1,3 +1,33 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "questionnaire": {
+    "job_number": "JOB",
+    "instructions": "PLEASE FILL OUT ALL INFORMATION BELOW AND RETURN TO RECEPTIONIST",
+    "questions": [
+      "What is your age?",
+      "How many packs of cigarettes do you smoke in an average day?",
+      "What is your regular brand of cigarettes - that is, the brand you smoke most often?",
+      "Is your regular brand of cigarettes filter",
+      "menthol",
+      "non-filter",
+      "non-mentho",
+      "king",
+      "full-flavor",
+      "100's",
+      "medium",
+      "120's",
+      "light mild",
+      "ultra light",
+      "Do you purchase your regular brand of cigarettes in soft pack",
+      "Vbox",
+      "pack",
+      "carton",
+      "Are you currently employed?",
+      "YES...Is that.full time",
+      "NO",
+      "part time",
+      "What is your occupation?",
+      "What type of company do you work for",
+      "Do you, or does anyone in your household, or any of you friends work for a supermarket, a convenience store, a bar, a restaurant or other places that sell cigarettes?"
+    ]
+  }
 }

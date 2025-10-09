@@ -1,3 +1,58 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "company": "Newman-Ste!n.Inc",
+  "address": "902 Broadway",
+  "suite": "03C0",
+  "date": "November,1986",
+  "job_number": "Job#2946B",
+  "circle_quota": {
+    "colors": [
+      "Blue",
+      "Green"
+    ],
+    "cities": [
+      "CIRCLE CITY",
+      "Minneapolis",
+      "Phoenix"
+    ]
+  },
+  "study": "CIGARETTE ATTITUDE STUDY",
+  "screener": {
+    "respondent_name": null,
+    "area_code": null,
+    "telephone": null,
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "interviewer_name": "me",
+    "interviewer_id": null,
+    "time_began": null,
+    "date": null,
+    "time_ended": null,
+    "am_pm": null,
+    "instructions": "SK TO SPEAK TO PERSON ON LIST",
+    "time_range": "12-15"
+  },
+  "introduction": "Hello,Im from Newman-Stein,Inc.,a national market research firm.",
+  "questions": [
+    "First, are you currently a cigarette smoker? Yes CONTINUE No TERMINATE RECORD ON TALLY SHEETERASE ANO RE-USE 1b. Have you, yourself, participated in a market research survey in the past year? Yes TERMINATE RECORD ON TALLY SHEETERASE ANO RE-USE No 2 CONTNUE 1c. And which of the following age groups best describes your age? (READ LIST) (16) Under18 TERMINATE.RECORD ON TALLY SHEETERASE AND RE-USE 85370749 18-20 21-24 2 25-29 QUALIFIES FOR 18-34 YEAR OLD QUOTA 35-39 40-49 50-54 QUALIFIES FOR 35-59 YEAR OLD QUOTA 55-59 60 and over TERMINATE.RECORD ON TALLY SHEET.ERASE AND RE-USE IFANSWER FALLS BETWEEN2 CATEGORIESRECORD AS HIGHER AMCUNT-EXAMPLE 1OR #Cigarettes Packs Q70 1-9 Less than 1/2 pack (17) TERMINATE.RECORD 10-19 1/2 pack,but less than 1 pack (18) 20-29 1 pack,but less than 1-1/2 packs (19) 30-39 1-1/2 packs,but less than 2 packs (20) 40-49 2 packs,but less than 2-1/2 packs (21) 5 50-54 2 packs,but less than 2-1/2 packs (22) 60 and over 2-1/2 packs or more (23) 7"
+  ],
+  "cigarette_consumption": {
+    "instruction": "CONTINUE",
+    "categories": [
+      "Less than 1/2 pack",
+      "1-9",
+      "1/2 pack,but less than 1 pack",
+      "10-19",
+      "1-1/2 packs,but less than 2 packs",
+      "20-29",
+      "2 packs,but less than 2-1/2 packs",
+      "30-39",
+      "30-39",
+      "40-49",
+      "50-54",
+      "50-54",
+      "60 and over",
+      "60 and over"
+    ]
+  }
 }

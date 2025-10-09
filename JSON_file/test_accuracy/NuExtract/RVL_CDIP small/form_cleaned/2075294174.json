@@ -1,3 +1,58 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "communicationResultReport": {
+    "date": "1999-05-05",
+    "time": "16:04",
+    "tti": "E-3",
+    "fileMode": "FILE MODE",
+    "option": "OPTION",
+    "addressGroup": "ADDRESS(GROUP)",
+    "result": "OK",
+    "page": "P.31/31",
+    "memoryTx": "10:04",
+    "tln": "2020426088",
+    "reasonForError": "REASON FOR ERROR",
+    "details": {
+      "date": "1999-05-21",
+      "time": null,
+      "sender": "Vay-25-89",
+      "faxNumber": "+2020426088",
+      "transmissionId": "10:04",
+      "pages": "P.03/33",
+      "faxCode": "F-562",
+      "recipientFaxNumber": "2075294174",
+      "recipient": "JONES.DAY.REAVIS &POGUE",
+      "locations": [
+        "ATLANTA",
+        "LONOON",
+        "Sute a)o0",
+        "LEE:42-391-3",
+        "CHICaSO",
+        "MAUSSELY",
+        "LOS ANGELES",
+        "CLEVELAND",
+        "SOO GRANT STREET",
+        "COLUMRUS",
+        "NEWYORK",
+        "DALLAS",
+        "PARtS",
+        "PITTSEURGN.PENNSYLVANIA12I",
+        "RITADA",
+        "WAITERE DIRECT UKSER.",
+        "FRANKFURT",
+        "GRHEVA",
+        "TaIPR!",
+        "MONG KONG",
+        "TOKYO"
+      ],
+      "address": "121",
+      "facsimile": "1209-7333",
+      "contact": {
+        "name": "P.LindblomEsq",
+        "phone": null
+      }
+    },
+    "dateOfLetter": "1999-05-05",
+    "subject": "A.D.Bedell Wholcsale Co.Inc.vs.Philip Morris Inc.ct.al",
+    "recipients": []
+  }
 }

@@ -1,3 +1,29 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "survey": {
+    "questions": [
+      "How often do you use special in-store?",
+      "Which of the following statements best describes you?",
+      "Is your regular brand... (Check one.)"
+    ],
+    "demographics": {
+      "ethnicity": [
+        "African-American",
+        "Hispanic"
+      ],
+      "age": "21 or over"
+    },
+    "brands": [
+      "HERtCL",
+      "Eldorado",
+      "Parliament Winston",
+      "LpAcK",
+      "Carchontclair Moore Choneech Fidicsco",
+      "PynmbElo BBuy Bunq son & Aiinne m Basic"
+    ],
+    "locations": [
+      "ANKAKEE, IL 60902"
+    ],
+    "consumer_survey_associates": "CONSUMER SURVEY ASSOCIATES",
+    "signature": "Q.BO"
+  }
 }

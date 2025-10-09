@@ -1,3 +1,45 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "conference": {
+    "name": "INTERNATIONAL CONGRESS OFTOXICOLOGY-ICT VII",
+    "dates": "JULY5-9198",
+    "abstract_submission_deadline": "JANUARY31,1998",
+    "location": "14, rue Mandar 75002 Paris - France",
+    "contact": {
+      "address": "2501986997",
+      "phone": "+49-2203-3031",
+      "fax": "49-2203-303.362",
+      "email": "e.mailsocfi@socfi.fr"
+    }
+  },
+  "abstract": {
+    "title": null,
+    "authors": [],
+    "affiliations": [],
+    "contact": {
+      "name": "Pr.C.Bismuth",
+      "organization": "Hopital Fernand-Widal",
+      "address": "2501986997",
+      "zip": "75475Paris cedex 10",
+      "country": "France",
+      "phone": "+49-2203-3031",
+      "fax": "49-2203-303.362"
+    },
+    "study_details": {
+      "subjects": "Female Wistar rats",
+      "exposure": "whole-body exposure to RASS, an environmental tobacco smoke surrogate, at 6 and 12 g total particulate matter/l for 12 h/d, 6 d/week,12 months",
+      "comparison": "another group of rats was head-only exposed at 12 g/l for 7 h/d"
+    },
+    "findings": {
+      "nicotine_concentration": "6 g/l",
+      "urinary_analysis": "No sign of pulmonary inflammation was seen",
+      "inflammation": "slight increase in oxidative DNA damage (8-hydroxy-deoxyguanosine) in the nasal respiratory epithelium",
+      "dna_damage": "slight increase in oxidative DNA damage (8-hydroxy-deoxyguanosine) in the nasal respiratory epithelium",
+      "histopathological_changes": "minimal to moderate reserve cell hyperplasia and squamous metaplasia and hyperplasia in the larynx at the base of epiglottis; and slight reserve cell hyperplasia in the bronchi"
+    },
+    "support": "Philip Morris USA",
+    "keywords": [],
+    "author_status": null,
+    "presentation_preference": null,
+    "topic_numbers": []
+  }
 }

@@ -1,3 +1,48 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "report": {
+    "title": "ANALYTICAL REPORT",
+    "department": "Research Department",
+    "company": "R.J. Reynolds Tobacco Company",
+    "submitted_by": "OH..wage",
+    "date_submitted": "6-7-79",
+    "location": null,
+    "date_reported": "QCI6 1979",
+    "sender_sample_no": "3SA-",
+    "charge_no": "863",
+    "sample_of": "Cigarette Length",
+    "smoke_to_butt_length": null,
+    "estimated_composition_and_physical_constants": null,
+    "possible_hazards": null,
+    "remarks": null,
+    "analysis_desired": {
+      "FTC_Tar": "20",
+      "TPM": null,
+      "Benzo[a]pyrene": null,
+      "Isoprene": null,
+      "Nicotine": {
+        "NHug_per_cig": null,
+        "mg_per_m": null,
+        "mg_per_g": null
+      },
+      "HO": null,
+      "totalAaes": null,
+      "pH_Multiple_Port": null,
+      "Menthol": null,
+      "Formaldehyde": null,
+      "Isovaleric_Acid": null,
+      "Acetaldehyde": null,
+      "Cigs_per_Weight_FTC_Tar": null,
+      "CO": null,
+      "Acrolein": null,
+      "pH": null,
+      "Phenol": null,
+      "K": null,
+      "HCN": null,
+      "Total_Basestasufey": "504785083",
+      "NOX": null,
+      "NH_mg_per_cig": null
+    },
+    "distribution": null,
+    "approved_by": "ently.Sulltae"
+  }
 }

@@ -1,3 +1,43 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "contest": {
+    "prize": "$25,000 U.S. Savings Bond",
+    "deadline": "January 31, 1991",
+    "eligibility": "All replies are eligible for our drawing, if received on or before January 31, 1991."
+  },
+  "participant": {
+    "name": "Mr. John Extralongname",
+    "address": {
+      "street": "1234 Main Street",
+      "city": "Hometown",
+      "state": "New York",
+      "zip": "99999"
+    }
+  },
+  "survey": {
+    "questions": [
+      "What is your regular brand of cigarettes?",
+      "About how long have you smoked this brand?",
+      "Is your regular brand Menthol?",
+      "Regular/King Size?",
+      "Not-Fiber?",
+      "Non-Menthol?",
+      "Are any of these words on your pack?",
+      "Which other brands would you consider buying?",
+      "Please tell us about yourself. Male/Female",
+      "Age",
+      "Date of Birth",
+      "In which of the following hobbies/interests do you frequently participate?"
+    ],
+    "signature": "Signature (required)",
+    "return_instructions": "Please relurn your completed survey by 1/31/91 in order to be eligible to win. Thank you."
+  },
+  "contact": {
+    "phone": "2071378062",
+    "address": "P.5"
+  },
+  "company": {
+    "name": "PhalpMorns lnc.",
+    "year": 1990
+  },
+  "notes": "Please relurn your completed survey by 1/31/91 in order to be eligible to win. Thank you."
 }

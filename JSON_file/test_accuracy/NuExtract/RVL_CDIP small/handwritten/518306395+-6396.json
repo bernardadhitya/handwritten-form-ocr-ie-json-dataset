@@ -1,3 +1,28 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "company": "R.J. Reynolds",
+  "contact_person": "Mr. Richard Mussman",
+  "department": "Consumer Relations",
+  "address": {
+    "street": "105 Walker Avenue",
+    "city": "Winston-Salem",
+    "state": "N.C.",
+    "zip": "27102"
+  },
+  "care_of": "Phillip Knight",
+  "care_of_address": {
+    "city": "Harrison",
+    "state": "AR",
+    "zip": "72601"
+  },
+  "greeting": "Dear Valued Customer:",
+  "message": "Recently you contacted R.J. Reynolds'Consumer Relations Department and gave us the opportunity to respond to your request for assistance with either a promotion or product related issue.",
+  "signature": "Mark Conrad",
+  "title": "Consumer Satisfaction Research Manager",
+  "codes": [
+    "518306395",
+    "2051614",
+    "4-95",
+    "299"
+  ],
+  "slogan": "We work for smokers"
 }

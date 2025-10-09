@@ -1,3 +1,61 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "document": {
+    "id": "PK6-Dt-Nt",
+    "draft": "Draft1/2/80",
+    "title": "RALEIGHLIGHTS PORTFOLIO TEST",
+    "section": "Main Questionnaire",
+    "code": null,
+    "location": null,
+    "instructions": [
+      "HAND PORTFOLIO TO RESPONDENT",
+      "Here is a portfolio containing ads. Please look at them as you would normally when reading a magazine, spending as much or as little time on each of them as you would like.",
+      "WHEN RESPONDENT IS FINISHEDTAKE BACK PORTFOLIO AND ASK",
+      "Now tell me all the ads you remember seeing or reading. Please give me the complete name of each as you remember it from the ad.",
+      "PROse: What other ads do you remember? Any others?",
+      "RECORDVERBATIM RESPONSES UNDER QU.Ta EELOW",
+      "What if anyother) cigarette acs do you remember?",
+      "PROBE:Any others",
+      "RECORDVERBATIM RESPONSES UNDER QU.1b BELOW",
+      "1c.FOR EACH CIGARETTE BRAND NOT MENTIONED IN QUS.1a_OR IbASK",
+      "Do you remember seeing an advertisement for --BRAND)",
+      "RECORD UNDER QU.1c BELOW",
+      "Qu.la.",
+      "Qu.lb.",
+      "Unaided",
+      "Qu.Ic.",
+      "Cigarette Brand Aided",
+      "Reca11 Aided",
+      "Yes",
+      "No/DK",
+      "Raleigh",
+      "1",
+      "2",
+      "Raleigh L1ghts",
+      "1",
+      "-",
+      "3",
+      "4",
+      "Other ads in portfolic",
+      "670287336",
+      "OtherSPECIFY",
+      "Nothing,no other recalled"
+    ],
+    "questions": {
+      "Qu.1a": null,
+      "Qu.1b": null,
+      "Qu.1c": null
+    },
+    "responses": {
+      "Raleigh": {
+        "aided": null,
+        "unaided": null
+      },
+      "Raleigh Lights": {
+        "aided": null,
+        "unaided": null
+      },
+      "other_ads_in_portfolio": "Nothing,no other recalled",
+      "other_specify": "Nothing,no other recalled"
+    }
+  }
 }

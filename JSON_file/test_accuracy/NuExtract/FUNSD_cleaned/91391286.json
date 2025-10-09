@@ -1,3 +1,31 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "couponCodeRegistrationForm": {
+    "from": "THOMSMITH",
+    "to": "VINCELOSITO",
+    "brandsApplicable": "HARLEY-DAVIDSON",
+    "media": "MAGAZINE -HOT ROD",
+    "issueFrequencyPerYear": 1,
+    "spaceColor": "FULL PAGE",
+    "couponIssueDate": "1993-05-19",
+    "couponExpirationDate": "1993-11-30",
+    "circulation": 25461,
+    "geographicalAreas": [
+      "TOTAL HOUSTON",
+      "GALVESTON",
+      "MINNEAPOLIS",
+      "ST. PAUL",
+      "DULUTH"
+    ],
+    "couponValue": ".75 OFF1 RACK PACK AND OR/CARTON PACK",
+    "advertisingCreativeTheme": "BLUE SKY",
+    "signatureOfInitiator": null,
+    "dateInitiated": null,
+    "analyticalRequirements": "FOR CONTROL USE ONLY: 93-056 CODE ASSIGNED: 8482 JOB NUMBER: 9076 91391286 EST.REDEMPTION: 1.54",
+    "forControlUseOnly": {
+      "codeAssigned": 91391286,
+      "jobNumber": 9076,
+      "91391286": "1993-05-19",
+      "estRedemption": 1.54
+    }
+  }
 }

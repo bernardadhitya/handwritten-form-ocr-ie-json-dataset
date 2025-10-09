@@ -1,3 +1,33 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "sender": {
+    "name": "Patricia A. Barald",
+    "address": {
+      "line1": "12",
+      "line2": "PAGES",
+      "line3": "including cover page",
+      "tel": "336-335-7707",
+      "fax": "336-335-7719",
+      "fax_numbers": [
+        "617-523-1231",
+        "617-570-1276"
+      ],
+      "fax_operator": "202-662-6280",
+      "brussels_office": {
+        "address": "44 Avenue dcs Arts",
+        "tel": "202-662-6280",
+        "fax": "202-662-6291 or202-737-0528"
+      },
+      "direct_dial": "202-778-5358"
+    },
+    "date": "December 2,1998",
+    "pages": 12
+  },
+  "recipients": [
+    "Haney H. Bell",
+    "Henry Dinger",
+    "Virginia M. Murphy",
+    "Mitch Neuhauser",
+    "Mary E. Ward"
+  ],
+  "note": "PLEASE CALL202-662-6280 if there are transmission problems"
 }

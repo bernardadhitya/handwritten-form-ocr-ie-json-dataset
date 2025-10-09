@@ -1,3 +1,46 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "run_no": 441,
+  "date": "8-11-87",
+  "purpose": "FIER CITECNOUT -1TRUN",
+  "reference": "P87-415",
+  "filler": "ME",
+  "ov": 25,
+  "ab_loading": "Z",
+  "$DWB": "335",
+  "vessel_1": {
+    "capacity": 4000,
+    "total_weight_dwb": 335,
+    "total_weight_as_is": 456,
+    "wt_top_basket_as_is": 456,
+    "wt_bottom_basket_as_is": "0"
+  },
+  "stem": {
+    "type": "BGHT NE SHEODED",
+    "ov": 35,
+    "citrate_loading_dwb": 2000,
+    "total_weight_dwb": 148,
+    "vessel": "L",
+    "total_weight_as_is": 278,
+    "wt_top_basket_as_is": null,
+    "wt_bottom_basket_as_is": null
+  },
+  "vessel_2": {
+    "capacity": 1000,
+    "total_weight_dwb": 148,
+    "total_weight_as_is": "148",
+    "wt_top_basket_as_is": null,
+    "wt_bottom_basket_as_is": "Z10"
+  },
+  "process_targets": {
+    "pressure": 3800,
+    "temperature": "13//M//3",
+    "flow_rate": "1000 lbs/min",
+    "co2_flow": {
+      "direction": "W",
+      "time_mins": "127",
+      "fill": "1bs FILL_",
+      "step_1": "05991bs STEP1",
+      "step_2": "2050282887"
+    }
+  }
 }

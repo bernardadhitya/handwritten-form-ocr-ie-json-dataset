@@ -1,3 +1,64 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "documentType": "DOCUMENTCLEARANCE SHEE",
+  "dateRouted": "8/1/90",
+  "documentNumber": "03500000",
+  "contract": {
+    "company": "Elkhart Lake's Road America, Inc.",
+    "brands": "CAMEL",
+    "totalContractCost": 18804.0,
+    "currentYearCost": null,
+    "briefDescription": "This is the new CAMeL Winner Circle. It is 8 with 3 x 6 event slot in the middle. the winner circle at all events."
+  },
+  "originator": {
+    "name": "J. A. Holder",
+    "signature": null,
+    "date": null
+  },
+  "manager": {
+    "name": "R. N. Hauser",
+    "signature": null,
+    "date": null
+  },
+  "reviewRouting": {
+    "insurance": {
+      "toBeReviewedBy": null,
+      "signature": null,
+      "date": null
+    },
+    "law": {
+      "toBeReviewedBy": null,
+      "signature": null,
+      "date": null
+    },
+    "fsMarketing": {
+      "toBeReviewedBy": null,
+      "signature": null,
+      "date": null
+    }
+  },
+  "approvalRouting": {
+    "vpDirector": {
+      "signature": null,
+      "date": null
+    },
+    "srVp": {
+      "signature": null,
+      "date": null
+    }
+  },
+  "returnTo": {
+    "name": "Chris Drew",
+    "department": "Sports Marketing Enterprises",
+    "location": "PLB-5A"
+  },
+  "contractLimits": {
+    "upToAndIncluding": 25000.0,
+    "over": 25000.0
+  },
+  "contactNumbers": {
+    "number1": 507457482,
+    "number2": null
+  },
+  "revisionDate": "11/1/89",
+  "documentClassification": "SPORTS MARKETING ENTERPRI"
 }

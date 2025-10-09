@@ -1,3 +1,35 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "company": null,
+  "interview": {
+    "interviewer": null,
+    "interviewee": null,
+    "date": null,
+    "questions": [],
+    "qualifications": {
+      "frozen_food_producer": null,
+      "marketing_research_company": null,
+      "construction_company": null,
+      "pharmaceutical_or_drug_company": null,
+      "tobacco_company": null,
+      "airline": null,
+      "beer_or_wine_distributor": null,
+      "advertising_agency": null,
+      "insurance_company": null,
+      "newspaper_or_magazine_publisher": null,
+      "self_employed": null
+    },
+    "magazine_readership": {
+      "read_current_issue": null,
+      "read_last_four_issues": null
+    },
+    "follow_up": {
+      "leave_copy": null,
+      "contact_method": "telephore",
+      "purpose": "to eake sagazsnes wore estfel and interesting."
+    },
+    "demographics": {
+      "gender": null,
+      "age": null
+    }
+  }
 }

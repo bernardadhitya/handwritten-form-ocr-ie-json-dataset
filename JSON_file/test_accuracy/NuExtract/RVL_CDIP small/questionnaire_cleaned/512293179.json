@@ -1,3 +1,100 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "division": "F",
+  "prepared_by": "tewAet",
+  "activities": {
+    "processed_tobacco": {
+      "formulation_evaluation": [
+        "G-4",
+        "G-7",
+        "G-7A",
+        "G-13"
+      ],
+      "process_evaluation": [
+        "G-4",
+        "G-7",
+        "G-7A",
+        "G-13"
+      ],
+      "use_evaluation": [
+        "G-7",
+        "G=7A",
+        "KDN"
+      ],
+      "formulation_development": [
+        "G-4",
+        "G-7",
+        "G-7A",
+        "G-13",
+        "KDN"
+      ],
+      "process_development": [
+        "G-4",
+        "G-7",
+        "G-7A",
+        "G-13",
+        "KDN"
+      ],
+      "use_development": [
+        "G-4",
+        "G-",
+        "G-7A",
+        "-13",
+        "KDN"
+      ],
+      "formulation_implementation": [
+        "G-4",
+        "G-7A",
+        "G-13",
+        "KDN"
+      ],
+      "process_implementation": [
+        "G-4",
+        "G-7",
+        "G-7A",
+        "G-13",
+        "KDN"
+      ],
+      "use_implementation": [
+        "G-",
+        "G-7A",
+        "-13",
+        "KDN"
+      ],
+      "formulation_specifications": [
+        "G-4",
+        "G-7A",
+        "G-13",
+        "KDN"
+      ],
+      "process_specifications": [
+        "G-4",
+        "G-",
+        "G-7A",
+        "G-13",
+        "KDN"
+      ],
+      "material_specifications": [
+        "-",
+        "G-7A",
+        "-13",
+        "KDN"
+      ],
+      "use_specifications": [
+        "G-4",
+        "G-Z",
+        "G-7A",
+        "G-13",
+        "KDN"
+      ],
+      "other_specify": [
+        "G-4",
+        "G-7",
+        "G-7A",
+        "G-13",
+        "KDN"
+      ]
+    }
+  },
+  "directions": "For each of the activity areas, please circle the processed tobacco(s) for activity strictly one of support, underline the processed tobacco(s) and indicate which project you are supporting. For each circled item please write a brief description of activities in your area. The description should include a name of the project or responsibility, a statement of objective, the responsible individual and any major time constraints. If you already have some document which another.",
+  "codes": []
 }

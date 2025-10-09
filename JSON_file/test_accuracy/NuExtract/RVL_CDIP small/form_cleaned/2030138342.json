@@ -1,3 +1,30 @@
 {
-    "error": "Expecting ',' delimiter: line 33 column 6 (char 1080)"
+  "case": "Philip Morris v.ABC",
+  "date": "1989-01-25",
+  "facility": "Par-S",
+  "manufacturer_distributor_name": null,
+  "address": {
+    "state": null,
+    "zip": null
+  },
+  "storage_area": {
+    "ground": "Belou Ground",
+    "building": "Inside Building"
+  },
+  "containers_storage_type": "A",
+  "storage_conditions": {
+    "pressure": "Other",
+    "temperature": "Anbient Pressure"
+  },
+  "maximum_containers_stored": "7",
+  "container_capacity_pounds": null,
+  "maximum_amount_stored_pounds": "22",
+  "average_daily_amount_stored_pounds": null,
+  "annual_usage_pounds": null,
+  "days_on_site": "365",
+  "use_confidential": "Yes",
+  "usage_code": "U01",
+  "comments": null,
+  "submitted_by": "Phooe",
+  "phone": "751-185"
 }

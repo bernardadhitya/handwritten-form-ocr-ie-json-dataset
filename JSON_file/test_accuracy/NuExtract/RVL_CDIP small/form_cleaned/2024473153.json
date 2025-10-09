@@ -1,22 +1,28 @@
 {
-    "date": "1988-07-29",
-    "time": "11:41",
-    "event": "BRIT.CONS.GEN.Dusse 1dor",
-    "contact": {
-        "name": "Annette Sattlex",
-        "address": "NY/OL",
-        "phone": "0211-4542319"
-    },
-    "company": {
-        "name": "Trico-Folberth Ltd",
-        "address": "Great West Road",
-        "city": "Brentford",
-        "postcode": "Middelsex Tws 9HP",
-        "telephone": "01-5602111"
-    },
-    "document": {
-        "type": "LEAD SHEET FOR PAX /FUHRUNGSBLATT FUR FAX",
-        "date": "29.J1988",
-        "pages": "Sehr geehrter Herr Stepina, zuruckkommend auf unser gestriges Telefongesprach sende ich Ihnen die gewunschte Anschift:"
+  "date": "1988-07-29",
+  "time": "11:41",
+  "sender": {
+    "name": "Annette Sattlex",
+    "fax": "0211-4542319",
+    "telephone": "0211-43740",
+    "address": {
+      "street": "Great West Road",
+      "city": "Brentford",
+      "postal_code": "Tws 9HP"
     }
+  },
+  "lead_sheet": {
+    "date": "29.J1988",
+    "noa_ro": "Annette Sattlex",
+    "ny_ol": "Mern ClepiDro ploloulh I",
+    "biologische_forschung": "KolnFAx 02203-33362",
+    "fax": "0211-4542319"
+  },
+  "message": {
+    "recipient": "Herr Stepina",
+    "content": "zuruckkommend auf unser gestriges Telefongesprach sende ich Ihnen die gewunschte Anschift: Trico-Folberth Ltd Great West Road Brentford Middelsex Tws 9HP Tel 01-5602111 Tlx21998 hoffe, da Ihnen diese Information weiterhilft.",
+    "closing": "Mit freundlichen Gruen",
+    "signature": "A.sQttW"
+  },
+  "contact": "0211-4542319"
 }

@@ -1,12 +1,20 @@
 {
-    "institution": "INBIFO Institut fur biologische Forschung Koln",
-    "date": "9 Oct.92",
-    "event": "appointment",
-    "person": "Dr.rer.nat. T. Muller",
-    "position": "study director",
-    "project_code": "0500/5250",
-    "remarks": "Short title for ORACLE database",
-    "task": "LR TASK:",
-    "cDNA_source": "Hemeoxygenase 1",
-    "file_type": "Distribution Project file QA"
+  "institution": "INBIFO Institut fur biologische Forschung Koln",
+  "date": "9Oct.92",
+  "reference": "APP5250.WM",
+  "document": "On 9 Oct.92",
+  "event_date": "9 Oct.92",
+  "study_director": "Dr.rer.nat. T. Muller",
+  "project": {
+    "number": "5250",
+    "title": "Isolation of Hemeoxygenase cDNAs from Murine and Rat Cells",
+    "short_title": "PT",
+    "oracle_task": "2028954501"
+  },
+  "codirector": null,
+  "appointment": {
+    "accepted": null,
+    "date": "12.0ck.92"
+  },
+  "distribution": []
 }

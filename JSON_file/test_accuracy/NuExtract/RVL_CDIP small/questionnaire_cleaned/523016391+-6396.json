@@ -1,3 +1,45 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "R&DCustomerSelectionTeam": {
+    "Name": null,
+    "SmokerGroups": null,
+    "SurveyDetails": {
+      "Purpose": "to help us understand more about you.",
+      "InterviewProcess": "I will be writing down your answers as we go, so please bear with me if I'm a little slow.",
+      "InformationRequested": "who you are, things you like to do how you shop, what brands you're loyal to, and a lot of other qucstions, just to help us",
+      "Questions": "Many of these questions will be general in nature and some will be specific to smoking and cigarettes.",
+      "FeedbackRequest": "ask you to give us your honest feedback",
+      "NoteTaking": "I will be writing down your answers as we go, so please bear with me if I'm a little slow."
+    },
+    "Questions": {
+      "Age": null,
+      "Gender": {
+        "Male": null,
+        "Female": null
+      },
+      "MaritalStatus": null,
+      "Occupation": null,
+      "CompanyType": null,
+      "CurrentCigaretteUsualBrand": null,
+      "UsualBrandPurchaseFrequency": {
+        "Last10Purchases": null,
+        "PurchaseMethod": {
+          "ByPack": null,
+          "ByCarton": null,
+          "Both50/50": null
+        }
+      },
+      "OtherBrandsPurchasedLastMonth": null,
+      "SecondChoiceBrand": null,
+      "SmokingFrequency": {
+        "Daily": null,
+        "PartTimeNotDaily": null
+      },
+      "CigarettesPerDay": null,
+      "UsualBrandTarNicotineLevels": {
+        "Tar": null,
+        "Nicotine": null
+      },
+      "SmokingHistory": []
+    }
+  }
 }

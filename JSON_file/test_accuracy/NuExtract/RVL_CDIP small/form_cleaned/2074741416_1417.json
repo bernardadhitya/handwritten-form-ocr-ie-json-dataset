@@ -1,3 +1,57 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "document": {
+    "type": null,
+    "location": null,
+    "date": null,
+    "file": {
+      "FIN": "FIN",
+      "SI": "SI",
+      "code": "8-4-95",
+      "1OF": {
+        "date": null,
+        "total": "2"
+      }
+    },
+    "retention_period": {
+      "issued": null,
+      "in_storage": null,
+      "department_code": null,
+      "responsible_records_management_group": "OIIO",
+      "department_head": null,
+      "legal_counsel": "PhIlIp",
+      "production_planning_control": "PRODUCTION PLANNING & CONTROL",
+      "authorization": {
+        "record_category": null,
+        "records": {
+          "computer_information": null,
+          "cost_information": null,
+          "cigarette_orders": null,
+          "correspondence": null,
+          "equipment": null,
+          "packaging": null,
+          "budgets": null
+        }
+      },
+      "key_to_retentions": {
+        "until_terminated": "Until Superseded",
+        "current_month": "Current Month",
+        "permanently": "Permanently"
+      }
+    },
+    "manufacturing_record": {
+      "category": {
+        "B0133": null,
+        "C2233": null,
+        "DO114": null,
+        "PO011": null,
+        "C0400": null,
+        "C0177": null
+      },
+      "code": {
+        "ACT": "SUP",
+        "Q": "W",
+        "TER": "TER"
+      }
+    }
+  }
 }

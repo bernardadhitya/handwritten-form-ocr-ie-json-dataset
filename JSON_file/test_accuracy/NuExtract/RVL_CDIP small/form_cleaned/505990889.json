@@ -1,3 +1,31 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+    "report_number": 184,
+    "date": "8-20-86",
+    "material_tested": "D7D Fuel Sources",
+    "supplier": "SSI",
+    "lot_or_sample_number": "01043 7-31-86-3",
+    "quantity_received": 63.077,
+    "date_received": "8-15-86",
+    "status": "REJECTED",
+    "reason_for_rejection": "Diameter out of specs. Rejected Avg. .1779 in. Specs .175-.1770 in.",
+    "comments": "QA recommends these fuel sources not to be used for machine product testing.",
+    "technologist": {
+        "name": "Kenneth W. Smith",
+        "title": "Technologist - QA",
+        "telephone": 6926
+    },
+    "distribution": [
+        "Mr. Lucien L. Bass, III",
+        "Dr. L. H. OConnor",
+        "Mr. L. W. Peterson",
+        "Mr. W. B. Scantland",
+        "Ms. R. deLacy",
+        "Mr. M. D. Shannon",
+        "Mr. R. L. McGee"
+    ],
+    "additional_info": {
+        "rjr": 50599,
+        "secret": "ADDRESSEE ONLY",
+        "no": "436 Byss"
+    }
 }

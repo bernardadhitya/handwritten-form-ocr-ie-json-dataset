@@ -1,3 +1,52 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+    "company": {
+        "name": "WINONA MRB, INC.",
+        "address": "8200 Humboldt Ave. So., Minneapolls, MN 55431",
+        "study": "SCREENER DATABASE REVIVAL STUDY",
+        "date": "AUGUST 1994"
+    },
+    "call": {
+        "introduction": "Hello, I'm calling long distance from WINONA RESEARCH. We are a national opinion",
+        "person_on_phone": {
+            "available": {
+                "action": "REINTRODUCE YOURSELF & CONTINUE"
+            },
+            "not_available": {
+                "action": "ARRANGE CALLBACK"
+            }
+        }
+    },
+    "questions": [
+        {
+            "question": "Are you under 21, between 21 and 34, or 35 years of age or older?",
+            "responses": {
+                "under_21": "THANK & TERMINATE",
+                "21_34": "SCREEN",
+                "35_or_over": "THANK & TERMINATE",
+                "refused": "SELECT R.1 ON CRT SCREEN"
+            }
+        },
+        {
+            "question": "Do you smoke cigarettes?",
+            "responses": {
+                "yes": "SKIP TO Q.3",
+                "no": "THANK & TERMINATE",
+                "refused": "SELECT R.2a ON CRT SCREEN"
+            }
+        },
+        {
+            "question": "Did you ever smoke cigarettes?",
+            "responses": {
+                "yes": null,
+                "no": null,
+                "don't_know": "TERMINATE & TALLY",
+                "refused": null
+            }
+        }
+    ],
+    "note": "KEEP ALL DATA BEYOND THIS POINT",
+    "metadata": {
+        "file": "WADATA\\PMORRIS.FIL\\QUESTION.94DATABASE.49408/15/04CRM/ep",
+        "page": 1
+    }
 }

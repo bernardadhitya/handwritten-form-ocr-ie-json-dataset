@@ -1,3 +1,40 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "title": null,
+  "id": "42318W",
+  "address": {
+    "street": "801 Second Avenue",
+    "city": "New York",
+    "state": "New York",
+    "zip": "10017",
+    "additional_code": "26855"
+  },
+  "instructions": "Please take a few minutes to go through the advertisement in the book. Please take as much time as you need. If you normally read ads, you'll need thes.",
+  "questions": [
+    "What brands or products do you remember for the ads in the book?",
+    "Which brand or product do you remember for the ads in the book?",
+    "If only one or two cigarette brands mentioned, skip to Q.3.",
+    "If all three cigarette brands mentioned, skip to Q.4.",
+    "Do you remember any ads for any brands of cigarettes?",
+    "If true mentioned in Q.23a, continue.",
+    "If true not mentioned in Q.2.3 or 3b, skip to Q.10."
+  ],
+  "categories": {
+    "general_ads": [
+      "General Ads"
+    ],
+    "cigarette_ads": [
+      "Cigarette Ads"
+    ]
+  },
+  "cigarette_questions": [
+    "Which brand or product do you remember for the ads in the book?",
+    "If only one or two cigarette brands mentioned, skip to Q.3.",
+    "If all three cigarette brands mentioned, skip to Q.4.",
+    "Do you remember any ads for any brands of cigarettes?"
+  ],
+  "skip_instructions": [
+    "If only one or two cigarette brands mentioned, skip to Q.3.",
+    "If all three cigarette brands mentioned, skip to Q.4.",
+    "Do you remember any ads for any brands of cigarettes?"
+  ]
 }

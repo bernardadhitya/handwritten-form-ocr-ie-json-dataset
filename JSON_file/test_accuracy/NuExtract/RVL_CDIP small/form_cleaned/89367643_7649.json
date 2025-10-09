@@ -1,3 +1,61 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "RSOI": {
+    "DailyGroupDataSheet": {
+      "TestArticle": "Refcene Cig",
+      "ProtocolNo": null,
+      "StudyNo": null,
+      "TechInttias": "0.DR",
+      "AnimalNo": null,
+      "Date": "9-22-82",
+      "RH": "7",
+      "Temp": "70F",
+      "SmokeFlowmeterSetting": "11.2",
+      "InGroup": null,
+      "MachineNo": null,
+      "PurgeFlowmeterSetting": null,
+      "Species": "RAT",
+      "NoOfCigsPerHolder": "0652",
+      "GroupNo": null,
+      "SmokeAirCyclePerMinute": "30/30",
+      "SmokeConcentration": "10",
+      "NoOfPuffsPerExposure": null,
+      "NoOfCigsBeforeRest": null,
+      "ContinuousOrIntermittent": null,
+      "ProposedNoOfExposures": "0655",
+      "LengthOfRest": null,
+      "CalibratedSmokeFlow": null,
+      "TimeOfDeath": "2seconds puffm12",
+      "O557": "1",
+      "ExposureNo": null,
+      "Deaths": null,
+      "ConeOrSlotNo": null,
+      "Time": null,
+      "PuffNo": "105treahcc",
+      "Observations": [],
+      "CompletionTimeOfLastExposure": "1258",
+      "DeadAnimalIdentificationNos": "042",
+      "ObservationsOfSurvivorsImmediatelyAfterExposure": {
+        "Degree": {
+          "A": "Severe",
+          "B": "Moderate",
+          "C": "Slght"
+        },
+        "Lethargic": null,
+        "Convulsions": null,
+        "Trembling": null,
+        "Uncoordinated": null,
+        "EyeTearing": null,
+        "Cold": null,
+        "YellowishBrownSnout": null,
+        "Hyperactive": null,
+        "BloodyNoses": null,
+        "ShallowBreathing": null,
+        "SwollenNoses": null,
+        "LyingProne": null,
+        "Other": null,
+        "UnableToWalk": null,
+        "SmoothCoat": "smoothcoat"
+      }
+    }
+  }
 }

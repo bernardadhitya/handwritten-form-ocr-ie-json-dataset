@@ -1,17 +1,32 @@
 {
-    "INBIFO": {
-        "name": "INBIFO Koeln",
-        "contact": {
-            "telephone": "02203303-1",
-            "telex": "8874675inbid"
-        }
-    },
-    "agenda": {
-        "date": "2 Apr.93",
-        "from": "Dr.Hans-Jirgen Haumann",
-        "to": "Dr. Ruth Dempsey",
-        "address": "Philip Morris Europe",
-        "location": "Science and Technology",
-        "following_pages": 2
-    }
+  "fax_number": "02203303-362",
+  "company": "INBIFO Koeln",
+  "message_code": "FTRRUD",
+  "document_number": "492203303362",
+  "reference_number": "001",
+  "time": "14:48",
+  "sender": "Dr. Ruth Dempsey",
+  "department": null,
+  "fax_message_number": "418O",
+  "phone": "02203303-1",
+  "fax": null,
+  "telex": "8874675inbid",
+  "address": "Philip Morris Europe Science and Technology Fabriques de Tabac Reunies S.A. CH-2003 Neuchatel",
+  "reference_code": "RDE_F2",
+  "sender_code": "HHM/BVI",
+  "date": "2 Apr.93",
+  "from": "Dr. Ruth Dempsey",
+  "to": "Dr. Ruth Dempsey",
+  "recipient_address": {
+    "company": "Philip Morris Europe",
+    "department": "Science and Technology",
+    "address": "Fabriques de Tabac Reunies S.A.",
+    "postal_code": "CH-2003",
+    "fax_number": "0041-38312 476"
+  },
+  "number_of_following_pages": 2,
+  "message": "Dear Ruth: Attached please find our tentative agenda.",
+  "contact_number": null,
+  "closing": "Kind regards,",
+  "registration": null
 }

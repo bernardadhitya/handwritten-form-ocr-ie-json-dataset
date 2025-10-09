@@ -1,3 +1,30 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "office_use_only": {
+    "cec": null,
+    "ht": null,
+    "oecx_cc": null,
+    "recol": null
+  },
+  "company_info": {
+    "name": "MARKETING INFORMATION SYSTEMS INTL.,INC.",
+    "address": "100 Sy1van Avenue #832294",
+    "contact": "1-800-631-1623/201-947-6900",
+    "phone": null,
+    "location": "Englewood C11ffs, New Jersey",
+    "zip": "07632",
+    "date": "July,1994"
+  },
+  "survey_info": {
+    "card": "CARD1COL.61",
+    "test": "MEGA OUTLET IN-STORE TEST",
+    "questionnaire": "It wi1i only take a few minutes of your time."
+  },
+  "questions": [
+    "What is your age?",
+    "Did you buy them for yourself or someone else?",
+    "Self only",
+    "Someone else on1y",
+    "Both self and someone else"
+  ],
+  "instructions": "Please have the respondent read sign and answer the questions on the next page."
 }

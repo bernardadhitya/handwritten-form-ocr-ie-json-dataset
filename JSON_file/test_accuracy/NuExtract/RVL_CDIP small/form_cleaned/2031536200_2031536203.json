@@ -1,3 +1,63 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "PhilipMorisUSA": {
+    "IndustrialHygiene": {
+      "STRESS_CHARACTERIZATION": {
+        "I_IDENTIFICATION": {
+          "City": null,
+          "Plant": null,
+          "ExposureZone": null,
+          "Location": null,
+          "Year": null,
+          "Month": null,
+          "Day": null,
+          "IdentificationNumber": null,
+          "OmitSample": null,
+          "Number": null,
+          "Sample": null
+        },
+        "II_JOBCLASS_REPRESENTATION": {
+          "CARD": null,
+          "EmployeeName": {
+            "Last": null,
+            "First": null,
+            "MI": null
+          },
+          "SS#": null,
+          "Representation": "RepresentativeRUnusual-U",
+          "R": null,
+          "IfR": {
+            "OtherRepresentativeJobCodes": [
+              "43",
+              "47",
+              "51",
+              "55",
+              "59"
+            ]
+          },
+          "Shifts": {
+            "Day": null,
+            "Evenings": null,
+            "Graveyard": null,
+            "Novel": null
+          },
+          "Confidential": null,
+          "ExposureZoneSpecified": "Unusual monitoring results will only be assigned to individuals specified."
+        },
+        "III_JOB_CHARACTERIZATION": {
+          "CARD": null,
+          "JobType": {
+            "RoutineNormal": null,
+            "StartUp": null,
+            "UpsetAbnormal": null,
+            "Batch": null
+          },
+          "JobFrequency": {
+            "TimesMonth": null,
+            "MinutesTime": null
+          },
+          "JobDescription": null
+        }
+      }
+    }
+  }
 }

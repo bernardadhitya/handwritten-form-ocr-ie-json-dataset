@@ -1,3 +1,22 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "bulletinDataSurvey": {
+    "estimateNumber": null,
+    "plantOperatorMarket": "letTie Rp.J + I @ Interolox",
+    "location": null,
+    "questions": [
+      "What is the current Daily Effective Circulation of this unit?",
+      "How many lamps are used on this unit?",
+      "What type and wattage are they?",
+      "# lamps type/wattage400 wt",
+      "How often is the face of this unit scraped?",
+      "# times per year",
+      "Is there any elementary school, junior high school, or high school or childrens playground within 500 ft. of the above location?",
+      "YES",
+      "NO",
+      "playground between 500 ft. and 1000 ft. of the above locatign?",
+      "YES",
+      "NO"
+    ],
+    "plantManagerSignatureDate": "gnature/Date"
+  }
 }

@@ -1,3 +1,32 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "accountName": null,
+  "date": null,
+  "callNumber": null,
+  "time": null,
+  "controlNumber": null,
+  "tsmName": null,
+  "storeNumber": null,
+  "territoryNumber": null,
+  "paymentDeduction": {
+    "amount": null,
+    "month": null,
+    "deducted": null
+  },
+  "merchandisingPlatform": {
+    "weCardSignageVisible": null,
+    "fixturesDisplaysSignageInPlace": null,
+    "shareOfMerchandisingSpaceAllocated": null,
+    "shareOfSignageAllocated": null,
+    "performanceIssueResolved": null
+  },
+  "comments": null,
+  "retailersSignature": null,
+  "posNumber": 21274,
+  "copies": {
+    "original": null,
+    "duplicate": null,
+    "triplicate": null,
+    "quadruplicate": null
+  },
+  "revision": "REV.7/99"
 }

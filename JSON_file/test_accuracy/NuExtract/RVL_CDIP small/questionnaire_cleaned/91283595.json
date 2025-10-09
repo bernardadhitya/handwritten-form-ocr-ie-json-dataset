@@ -1,3 +1,20 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "screening_questionnaire": {
+    "introduction": "InterviewerHello,1'm of We're conducting a product usage study in your area, and I'd like to ask you a few questions:",
+    "questions": [
+      "Is there anyone living in your household employed in the sale, manufacture YES ON",
+      "is there anyone living in your home between the ages of 25-49 who is a smoker? YES",
+      "May I speak to that person? YES NO",
+      "About how many cigarettes do you smoke in a day? IF LESS THAN HALF A PACK OR LESS THAN 10 CIGARETTES PER DAY",
+      "What is your regular brand of cigarettes -- that is, the brand you smoke most often?",
+      "Is that a filter Write_in of non-filter",
+      "a non-mentholor a mentho",
+      "a that is the regular size the longer 100's Quota no more than two in each group) or the extra long 120's",
+      "Have you purchased at least one pack of any brand of cigarettes advertised as low tar in the last 6'months? What Brand?",
+      "Are you employed? FEMALE GROUPS SHOULD BE COMPOSED ABOUT EQUALLY OF WOMEN WHO WORK OUTSIDE THE HOME AND FULL TIME HOMEMAKERS.MALE GROUPS ARE TO BE EMPLOYED MEN",
+      "Have you participated in a Marketing Research group discussion in the past 6 months? YES",
+      "NO",
+      "1283595"
+    ]
+  }
 }

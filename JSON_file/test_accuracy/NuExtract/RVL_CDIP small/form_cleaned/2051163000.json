@@ -1,3 +1,82 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "company": null,
+  "department": null,
+  "form_type": "RECORDS RETRIEVAL REQUEST",
+  "to": "Records Administration",
+  "form_number": "4099",
+  "requestor": {
+    "name": "Pat Hobso",
+    "department": "EIS",
+    "cost_center_number": null,
+    "extension": null
+  },
+  "case_reference": {
+    "description": "Personnel Rile 2170",
+    "case_number": "2170",
+    "order_of_preparation": {
+      "chronological": null,
+      "alphabetical": null,
+      "numerical": null,
+      "subject_matter": null,
+      "other": null
+    },
+    "record_location": {
+      "title_of_folder": null,
+      "in_file_folder": null,
+      "loose": null
+    },
+    "send": {
+      "entire_folder": null,
+      "entire_case": null,
+      "document_from_folder": null,
+      "document_from_case": null,
+      "describe": null
+    }
+  },
+  "department_access": {
+    "reader_printer": null,
+    "fiche_jacket_reader_equipment": null,
+    "other": null
+  },
+  "delivery": {
+    "method": null,
+    "time_and_date_required": null,
+    "courier": null,
+    "mail": null,
+    "telephone": null,
+    "reviewed_in_records_administration": null,
+    "pick_up": null
+  },
+  "authorization": {
+    "authorized_by": null,
+    "date_submitted": null
+  },
+  "records_administration_use": {
+    "record_status": {
+      "microfilmed": null,
+      "stored_as_hard_copy": null,
+      "pending_microfilmed": null
+    },
+    "roll_number": "36-5",
+    "roll_location": null,
+    "case_location": null,
+    "method_of_supplying_request": {
+      "hard_copy_duplicate": null,
+      "roll_film_duplicate": null,
+      "hard_copy_original": null,
+      "film_portion_duplicate": null
+    },
+    "action": {
+      "duplicate_destroy": null,
+      "original_return_to_records_administration": null,
+      "original_returned_to_department": null
+    },
+    "approved_by": null,
+    "date_delivered": null,
+    "contact_number": null
+  },
+  "return_instructions": {
+    "return_to": "RECORDS ADMINISTRATION",
+    "location": "Manufacturing Center, East Wing Basement"
+  }
 }

@@ -1,3 +1,40 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "company": "OFRIEN-SHERWOOD ASSOCIATES INC",
+  "address": {
+    "street": "230 PARK AVENUE",
+    "city": "NEWYCRK",
+    "state": "7.NEW YCRK"
+  },
+  "survey": {
+    "title": "FILTPR CIGARETTE COPY TEST -N.Y.",
+    "questions": [
+      "Do you smoke cigarettes?",
+      "What brand do you smoke most often?",
+      "Is this brand a filter, a non-filter, or a menthol cigarette?",
+      "Very likely",
+      "Somewhat likely",
+      "Not very likely",
+      "Not at all likely",
+      "What was said in the ad that makes you say this?",
+      "How do you interpret the word 'satisfies' as it relates to cigarette smoking?",
+      "SEX: Nale",
+      "Fenale"
+    ]
+  },
+  "classification_data": {
+    "sex": [
+      "Nale",
+      "Fenale"
+    ],
+    "age_groups": [
+      "25-34",
+      "35-44",
+      "45-54",
+      "55& 0ver"
+    ]
+  },
+  "metadata": {
+    "id": "VAL.NO.",
+    "date": "11K-12-64"
+  }
 }

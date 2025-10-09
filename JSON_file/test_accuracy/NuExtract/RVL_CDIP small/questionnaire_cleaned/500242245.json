@@ -1,3 +1,56 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "study": "WINSTON 85 - MARLBORO 85 PRODUCT ATTITUDE STUDY",
+  "use_this": "USE THIS",
+  "column": 23456,
+  "date": null,
+  "respondent_name": "710546",
+  "int_initials": "MRD71-0546",
+  "telephone_number": 89101,
+  "introduction_and_eligibility": {
+    "introduction": "Hello,I'm calling for Lane Services, a marketing research company, and we're doing a survey on products used in the home.",
+    "question_1": "Have you, yourself, smoked any cigarettes in the past 7 days, or not?",
+    "continue": 1,
+    "no": "CONTINUE",
+    "cigarettes_smoked": {
+      "less_than_1": "Terminates and does not count towards quota",
+      "1-15": 1,
+      "16-25": 2,
+      "over_25": 3
+    }
+  },
+  "usual_brand": {
+    "question": "what is your usual brand of cigarette?",
+    "winston": 2,
+    "marlboro": 2,
+    "if_other_brands": "Is that the regular king size, or the extra-long 100 millimeter size?"
+  },
+  "size": {
+    "question": "Is that the regular Marlboro in the red package, Marlboro Menthol in the green package, or the new low tar Marlboro Lights that comes in a gold package?",
+    "regular_king_size": {
+      "winston": "Terminates and does not count towards quota",
+      "marlboro": "Terminates and does not count towards quota"
+    },
+    "extra_long_size": "Terminates and does not count towards quota"
+  },
+  "marlboro_type": {
+    "question": "Is that the regular Marlboro in the red package, Marlboro Menthol in the green package, or the new low tar Marlboro Lights that comes in a gold package?",
+    "regular_marlboro": "Terminates and does not count towards quota",
+    "marlboro_menthol": "Terminates and does not count towards quota",
+    "marlboro_lights": "Terminates and does not count towards quota"
+  },
+  "pack_type": {
+    "question": "Do you usually buy Winstons) (Marlboros in the soft paper",
+    "soft_paper_pack": "Terminates and does not count towards quota",
+    "hard_box_pack": null
+  },
+  "duration": {
+    "question": "About how long has Winston) (Marlboro) been your usual brand of cigarette?",
+    "1-4_weeks": 1,
+    "1-6_months": 2,
+    "6-12_months": 3,
+    "1-2_years": 4,
+    "2-5_years": 5,
+    "over_5_years": 6
+  },
+  "if_usual_brand_is_marlboro": "GO TO YELLOW QUESTIONNAIRE"
 }

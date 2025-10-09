@@ -1,3 +1,77 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "survey": {
+    "title": null,
+    "id": "42318W",
+    "location": {
+      "city": "New York",
+      "state": "New York",
+      "address": "801 Second Avenue",
+      "zip": "10017"
+    },
+    "respondent": {
+      "name": null,
+      "phone": "216354-826"
+    },
+    "instructions": [
+      "Please take a few minutes to go through the advertisements in this book. Please take as much time with each ad as you are able. If you normally wear reading glasses, you'll need them.",
+      "Hand the respondent's portfolio and take it back before continuing."
+    ],
+    "questions": [
+      "What brands or products do you remember seeing in the book?",
+      "Any other brands?",
+      "General Ads",
+      "Cigarette Ads",
+      "Luke-14",
+      "Amana Range-1",
+      "Dole Pineapple-BankAmericard/VISA",
+      "Ganerel Electric Washer",
+      "Golden Lights",
+      "Bayer Aspirin-Hilton Hotel",
+      "Keot",
+      "Golden Unsp.",
+      "Kawasaki",
+      "Colden",
+      "Bolene Lawn Kower",
+      "Sudweiser",
+      "Old Spice Pocket Cologne",
+      "Kent Golden Lighte",
+      "Canadian Club",
+      "Polaroid Camers",
+      "Kent Lighte",
+      "Coca Cola",
+      "Singer Sewing Machines",
+      "Kent Unsp.",
+      "Concord Watches",
+      "Taster's Choice",
+      "Lights Unsp.",
+      "Crest",
+      "Weight Watchers",
+      "Othar",
+      "If no cigarette brands mentioned above, ask Q.3a.",
+      "If only one or two cigarette brands mentioned, skip to Q.3b.",
+      "If all three cigarette brands mentioned, skip to Q.4.",
+      "If no cigarette brands mentioned above, ask: Do you remember any ads for cigarettes?",
+      "What brands do you remember seeing in the book?",
+      "Any other brands?",
+      "Golden Lights",
+      "Golden",
+      "Kent Colden",
+      "Kent",
+      "Golden",
+      "Kent Lighte",
+      "Kent",
+      "Unep.",
+      "Other (specific): Skipto Q.10.",
+      "If one or two cigarette brands mentioned, ask Q.3b.",
+      "If true, continue to Q.2, 3a, or 3b, skip to Q.10.",
+      "If one or two cigarette brands mentioned, ask Q.3b.",
+      "If true, continue to Q.2, 3a, or 3b, skip to Q.10."
+    ],
+    "skip_logic": {
+      "if_no_cigarette_brands_mentioned": "ASK Q.3a.",
+      "if_one_or_two_cigarette_brands_mentioned": "ASK Q.3b.",
+      "if_all_three_cigarette_brands_mentioned": "ASK Q.4.",
+      "if_true_mentioned_in_q2_3a_or_3b": "ASK Q.10."
+    }
+  }
 }

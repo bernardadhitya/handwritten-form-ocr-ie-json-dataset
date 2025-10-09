@@ -1,3 +1,50 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "company": "A Division of SuperSports Promotions",
+  "address": "1101-9th Avenue North/St.Petersburg,FL33705",
+  "phone": "813822-8929",
+  "division": "Advertising",
+  "services": [
+    "Event Marketing",
+    "Advertising"
+  ],
+  "event": {
+    "name": "SUPERBOWL OF SUPERCROSS",
+    "date": "SATURDAYMARCH 25",
+    "location": "TAMPA STADIUM"
+  },
+  "radio_station": {
+    "name": "IAJLFE",
+    "address": "9(yg Koglr Blud. (No p.o. Box Please)",
+    "city_zip": "33705",
+    "contact": "Tes Woll",
+    "phone": "576 6868"
+  },
+  "trade_details": {
+    "spots": {
+      "number_of_60_second_spots": 0,
+      "rate": 3,
+      "total_value": 300
+    },
+    "tickets": {
+      "number_of_tickets_requested": 50,
+      "price_per_ticket": 18,
+      "total_value": 1800
+    },
+    "note": "Tickets are limited to 50 tickets per station."
+  },
+  "agreement": {
+    "ads_run_dates": {
+      "start": "March 11th",
+      "end": "March 25th"
+    },
+    "affidavit_and_invoice": {
+      "due_date": "April 30",
+      "recipient": "Bill Carlson",
+      "address": "9(yg Koglr Blud. (No p.o. Box Please"
+    },
+    "billing_note": "We will send an affidayit and invoice stamped \"paid\" within three (3) working days upon completion of the schedule to the attention of Bill Carlson at the above address."
+  },
+  "agreement_id": "50748",
+  "accepted_date": "4259",
+  "thank_you_note": "Thank you for your participation.."
 }

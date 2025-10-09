@@ -1,3 +1,76 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "company": "Commercial Analysts Co.",
+  "address": {
+    "street": "211 East 43rd Street",
+    "job": "Job3069",
+    "city": "New York",
+    "state": "New York",
+    "zip": "10017"
+  },
+  "document": {
+    "type": "MERIT QUOTE",
+    "date": "March,1978"
+  },
+  "time_started": "1'25",
+  "introduction": "Hello. I'm from Commercial Analysts Co. a national public opinion firm (calling long distance from New York). We're doing an opinion survey and I'd like to ask you a few brief questions.",
+  "questions": {
+    "A": {
+      "question": "Do you or does anyone in your household Yes.",
+      "answers": {
+        "yes": null,
+        "no": null
+      }
+    },
+    "B": {
+      "question": "Please tell me the first name and sex of everyone in your home who smokes cigarettes",
+      "instruction": "RECORD BELOW ON GRID FOR EACH PERSON MENTIONED IN B. ASK:"
+    },
+    "C": {
+      "question": "Can you tel1 me the regular brand of cigarettes PERsoN NAMED) smokes most often?",
+      "instruction": "RECORD BELOW ON GRID."
+    }
+  },
+  "grid": {
+    "smokers": [],
+    "brands_smoked": [],
+    "selected": null
+  },
+  "instructions_to_interviewer": "IF NO MERIT SMOKERS TERMINATE.IF RESPONDENT SMOKES MERIT CONTINUE WITH Q. 2a.",
+  "questions_continued": {
+    "2": {
+      "question": "NAME OF SMOKER",
+      "instruction": "NAME:CHALO"
+    },
+    "callback": {
+      "instruction": "BE AT HOME; RECORD BELOW AND CALL CACK AT THAT TIME.",
+      "date": null,
+      "time": null
+    },
+    "3": {
+      "question": "How long have you smoked Merit?",
+      "options": {
+        "3_months_or_less": "3 months or less",
+        "4_6_months": "4-6 months",
+        "7_11_months": "7-11 months",
+        "12_months_1_year": "12 months 1 year",
+        "over_1_year_to_2_years": "Over 1 year to 2 years",
+        "more_than_2_years": "More than 2 years"
+      }
+    },
+    "2a": {
+      "question": "Which Merit cigarette do you smoke.",
+      "options": {
+        "king_size": "King Size",
+        "100s": "100's"
+      }
+    },
+    "2b": {
+      "question": "Is it a menthol?",
+      "answers": {
+        "yes": null,
+        "no": null
+      }
+    }
+  },
+  "contact_number": "2043770627"
 }

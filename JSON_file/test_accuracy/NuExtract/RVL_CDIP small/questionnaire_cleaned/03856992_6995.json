@@ -1,3 +1,38 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "company": "SE Surveys, Inc.",
+  "location": {
+    "city": "New York",
+    "state": "New York"
+  },
+  "codes": {
+    "5301": "861A"
+  },
+  "survey": {
+    "title": "Cigarette Product Screening",
+    "respondent": {
+      "name": null,
+      "telephone_area_code": null
+    },
+    "interviewer": null,
+    "address": {
+      "street": null,
+      "city": null,
+      "state": null,
+      "zip_code": null
+    },
+    "interview_time": {
+      "started": null,
+      "ended": null
+    }
+  },
+  "questions": [
+    "Is there anyone in your household who smokes cigarettes?",
+    "Do you or does any member of your household own any company that manufactures, distributes, or promotes consumer products?",
+    "What product(s) do you own or use?"
+  ],
+  "notes": {
+    "if_tobacco_mentioned": null,
+    "related_industry": null
+  },
+  "reference_number": "03856992"
 }

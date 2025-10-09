@@ -1,3 +1,16 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "title": "Identified Merit with PaperSelectTMInterview",
+  "location": null,
+  "code": 500,
+  "format": "Employces re solicited to give their feedback at a table set up across from the cafeteria.",
+  "intent": "THE INTENT IS TO INTERVIEW ANY ADULT SMOKER WHO HAS TRIED OR CURRENTLY SMOKES THE MERIT WITH PAPERSELECT TM",
+  "introduction": "Hi,My name is",
+  "questions": [
+    "Are you a cigarette smoker?",
+    "What is the brand you currently smoke?",
+    "Have you ever tried the Merit with PaperSelect TM?"
+  ],
+  "eligibility": "Only smokers 21 years of age or older are eligible to participate in this research",
+  "contact": null,
+  "requirements": "Accordingly, we are requiring that you provide us a valid, non-expired government-issued ID as proof of age for our examination. If you do not have such a government issued ID or if you do not sign this registration form, you will NOT be eligible to participate in this research."
 }

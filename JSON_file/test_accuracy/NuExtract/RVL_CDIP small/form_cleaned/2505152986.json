@@ -1,3 +1,34 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "fax": {
+    "number": "41-32-888-7776",
+    "date": null,
+    "time": null
+  },
+  "sender": {
+    "name": "A.Tricker",
+    "company": null,
+    "location": "Neuchatel",
+    "department": null,
+    "fax_number": null,
+    "contact_number": null
+  },
+  "receiver": {
+    "name": "D.G.Schepers",
+    "company": null
+  },
+  "document": {
+    "type": "abstract",
+    "reference_number": null,
+    "pages": 3,
+    "subject": "Hecht's poster at the last AACR Meeting in San Diego"
+  },
+  "message": {
+    "greeting": "Dear Dr.Schepers",
+    "body": "Please find the attached abstract and what little additional information was on Hecht's poster at the last AACR Meeting in San Diego I have several problems accepting Hecht's proposed results and metabolic scheme - can we get together sometime at INBlFO before the end of the month to discuss the issue?",
+    "closing": "Best regards",
+    "signature": "2505152986"
+  },
+  "additional_info": {
+    "call_number": "41 32 888 7631"
+  }
 }

@@ -1,3 +1,15 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "survey": {
+    "introduction": "Hello I'm of We're conducting an opinion survey today among peopTe between the ages of 18 and 60 about various products used in the household and I'd like to ask you a few questions.",
+    "questions": [
+      "Are you between the ages of 18 and 60?",
+      "Are you between 18 and 34 years of age, or between 35 and 60 years of age? 18-34. 35-60.",
+      "Do you smoke filter cigarettes? Filter. Non-Filter. THANK ANDTERMINATE",
+      "Do you currently smoke at least 3 packs of cigarettes a week? Yes.",
+      "Do you usually smoke the regular/king size cigarettes or the cigarettes that are longer than king size -- that is, the 100 or 120 millimeter size? Regular/king size. 100's. CONTINUE WITH Q.6",
+      "Is your regular brand of cigarettes menthol or non-menthol? (Check Quota) Non-menthol... Menthol...",
+      "What is your regular brand of cigarettes -- that is, the brand you smoke most Often? HAND RESPONDENT BRAND LIST AND POINT OUT THE SECTION IN WHICH THEIR BRAND IS LISTED. THEN SAY: Which one of these is the specific type of BRAND cigarettes that you smoke most often? RECORD THE FULL BRAND NAME AND THE LETTERS WHICH FOLLOW THE BRAND EXACTLY AS PRINTED ON THE BRAND LIST. IF QUOTA IS FILLEDOR IF NO LETTERS APPEAR FULL BRAND NAME LETTERS: CHECK QUOTA 1OC Saratoga Smokers /0o's Other Brand 120s C)",
+      "During the past 6 months, have you been interviewed on the subject of cigarettes? Yes. No. THANK ANDTERMINATE CONTINUE WITH Q.9"
+    ]
+  }
 }

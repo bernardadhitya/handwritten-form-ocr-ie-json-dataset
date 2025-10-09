@@ -1,33 +1,82 @@
 {
-    "company": "INBIFO Institut fur biologische Forschung GmbH",
-    "contact": {
-        "name": "Ms. Leslie Marston",
-        "address": "251, Ballardvale Street",
-        "city": "Wilmington",
-        "state": "Mass.",
-        "zip": "1887",
-        "country": "USA"
+  "company": "INBIFO Institut fur biologische Forschung GmbH",
+  "contact": {
+    "telefax": "02203 303-1",
+    "department": "DEPT.ASM",
+    "telephone": "02203 303-1",
+    "teletax": "02203 303-362",
+    "telex": "8874675inbid",
+    "address": "Fuggerstra6e 3- 5000 Koin 90",
+    "telefax2": "22"
+  },
+  "recipient": {
+    "company": "Charles River Laboratories",
+    "attn": "Ms. Leslie Marston",
+    "address": "251, Ballardvale Street",
+    "faxNo": "001-508-657 501"
+  },
+  "reference": {
+    "yourReference": "Dear Ms. Marston:",
+    "ourReference": "Please deliver 47 male and 47 female Sprague Dawley outbred rats,",
+    "retNo": "BF178.WM"
+  },
+  "date": "26.08.91",
+  "location": "Koln",
+  "order": {
+    "item": "CD rats",
+    "quantity": {
+      "male": 47,
+      "female": 47
     },
-    "order": {
-        "initial_quantity": {
-            "male": 47,
-            "female": 47
-        },
-        "additional_quantity": {
-            "male": 15,
-            "female": 15
-        },
-        "delivery_date": "10 Sep.91",
-        "age_of_rats": {
-            "male": "3l days",
-            "female": "90  5 grams"
-        },
-        "health_certificate": true,
-        "transport_details": {
-            "agency": "",
-            "air_carrier": "",
-            "flight_route": "",
-            "numbers": ""
-        }
+    "type": "Sprague Dawley outbred rats",
+    "specifications": {
+      "cesarianDerived": null,
+      "pathogenFree": null,
+      "pathogensFreeFrom": [
+        "Corona virus SDav",
+        "Hl virus",
+        "latent rat virus KRv",
+        "para-influenza virus type l murine (sendai)",
+        "pneumonia virus of mice PVM",
+        "reovirus type 3 reo 3",
+        "Mycoplasma pulmonis"
+      ]
+    },
+    "delivery": {
+      "date": "10 Sep.91",
+      "ageAtArrival": "3l days",
+      "bodyWeight": {
+        "male": "110",
+        "female": "90"
+      },
+      "filterBoxes": null,
+      "foodAvailable": null,
+      "birthdatesRequired": null,
+      "healthCertificateRequired": null
+    },
+    "additionalOrderOption": {
+      "quantity": {
+        "male": 15,
+        "female": 15
+      },
+      "decisionDeadline": "5 Sep.91"
     }
+  },
+  "confirmation": {
+    "method": "fax",
+    "detailsRequired": [
+      "exact birthdates",
+      "relevant health certificate"
+    ]
+  },
+  "contactForIssues": null,
+  "contactNumber": "001-508-657 501",
+  "closing": {
+    "thanks": "Thank in advance for your cooperation.",
+    "kindRegards": "Kind regards,"
+  },
+  "companyDetails": {
+    "registration": "Koin HR B 367",
+    "director": "Dr.Wolf Reininghaus"
+  }
 }

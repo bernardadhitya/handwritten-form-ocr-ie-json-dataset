@@ -1,3 +1,61 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+    "company": "O'BRIEN-SHERWOOD ASSOCIATES INC.",
+    "location": "57-16 WOODSIDE AVENUE, WOODSIDE, NEW YORK",
+    "study": "LIGHTS AD STUDY",
+    "introduction": "Good morning/afternoon/evening. I am of O'Brien-Sherwood Research Company. We are doing a survey on smoking.",
+    "questions": [
+        {
+            "question": "Do you smoke cigarettes, that is, at least a pack a week?",
+            "options": [
+                "Yes",
+                "No (DISCONTINUE)"
+            ],
+            "note": "ASK ONLY IF NECESSARY: ARE YOU AT LEAST 18 YEARS OF AGE? IF RESPONDENT IS NOT AT LEAST 18 YEARS OLD, DISCONTINUE INTERVIEW."
+        },
+        {
+            "question": "What is your regular brand of cigarettes, that is, the brand you smoke most often?",
+            "probe": "BRAND: TYPE SIZE Filter Regular Non-Filter Menthol King 100's"
+        },
+        {
+            "question": "Do you smoke any other brand of cigarettes?",
+            "options": [
+                "Yes (ASK Q.4)",
+                "No (SKIP TO Q.5)"
+            ]
+        },
+        {
+            "question": "What new brand or brands do you remember seeing advertised?",
+            "probe": "DO NOT SUGGEST - RECORD IN ORDER EXACTLY AS RESPONDENT STATES THEM.",
+            "follow_up": "Any others?",
+            "note": "IF 'MARLBORO LIGHTS' EXACTLY THAT NAME MENTIONED IN Q.4, SKIP TO Q.7. OTHERWISE ASK Q.5."
+        },
+        {
+            "question": "Have you ever heard of a cigarette called Marlboro Lights?",
+            "options": [
+                "Yes (ASK Q.6)",
+                "No (SKIP TO Q.11)"
+            ]
+        },
+        {
+            "question": "Do you remember seeing any advertising for Marlboro Lights?",
+            "options": [
+                "Yes (ASK Q.7)",
+                "No (SKIP TO Q.9)"
+            ]
+        },
+        {
+            "question": "Do you remember what the advertising said about Marlboro Lights?",
+            "sub_questions": [
+                "What were they trying to tell you about the brand?",
+                "What, specifically, was said in the advertising?",
+                "What was shown in the advertising?",
+                "What ideas were they trying to get across?",
+                "Who do you think Marlboro Lights would appeal to?",
+                "What kind of people? What kind of smokers?"
+            ],
+            "probe": "Anything else?"
+        }
+    ],
+    "contact": "2042005475",
+    "interviewer": "Lakia aia a."
 }

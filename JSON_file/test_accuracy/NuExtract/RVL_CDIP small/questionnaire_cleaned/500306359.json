@@ -1,3 +1,40 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "date": null,
+  "interviewer": "Carol Adams",
+  "callback": null,
+  "rotation": 78210,
+  "introduction": "old (male/female) family member who is helping with the cigarette product",
+  "question_1": {
+    "question": "Did you finish smoking all the cigarettes?",
+    "response": null,
+    "follow_up": null,
+    "response_number": null
+  },
+  "question_2": {
+    "question": "About how many cigarettes have you smoked:",
+    "scale": "1 to 10",
+    "response": 11,
+    "note": null
+  },
+  "question_2b": {
+    "question": "As a cigarette for your own use, what number from 1 to 10 best describes your overall feelings toward the cigarettes we sent you?",
+    "response": 6359
+  },
+  "question_2c": {
+    "question": "And what number from 1 to 10 best describes your overall feelings toward menthol filter cigarettes in general?",
+    "response": 6359,
+    "note": null
+  },
+  "question_3": {
+    "question": "What did you like about the cigargttes we sent you?",
+    "response": null,
+    "follow_up": null,
+    "response_follow_up": null
+  },
+  "question_4": {
+    "question": "What did you not like about the cigarettes we sent you?",
+    "response": null,
+    "follow_up": null,
+    "response_follow_up": null
+  }
 }

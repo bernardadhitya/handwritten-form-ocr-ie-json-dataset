@@ -1,3 +1,47 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "application": {
+    "name": "BRMAS APPLICATION",
+    "number": "P:3O.OOO",
+    "description": "Application is made to distribute Business Reply postcards, and self-mailers prepared and mailed for retum without prepayment of postage in accordance with S922 of the USPs Domestic Mail Manual.",
+    "code": "E- 4h5C",
+    "details": "Applicant is responsible for paying First-Class postage (determined by rate category.in addition to a per piece charge on all retuned mailpleces under this program.Applicant agrees to prepare mallpieces In accordance with S922then submit 50 actual samples to the Post Office where the permit is lssuedfor testing on the automated equipment. Applicant understands that fallure to meet these requirements will result in Ineligibility to recelve BRMAS rates."
+  },
+  "applicant": {
+    "instructions": "Applicant is responsible for paying First-Class postage (determined by rate category.in addition to a per piece charge on all retuned mailpleces under this program.Applicant agrees to prepare mallpieces In accordance with S922then submit 50 actual samples to the Post Office where the permit is lssuedfor testing on the automated equipment. Applicant understands that fallure to meet these requirements will result in Ineligibility to recelve BRMAS rates.",
+    "brmPermitHolderName": "Natona!Smoker Services",
+    "streetAddress": "P.O.B0x.834001",
+    "cityStateZip": "Pichardsinr,Tx75083",
+    "permitNumberAndCityOfIssue": "Permit3sd.khaidsnelx",
+    "signature": "Ceinicdenel"
+  },
+  "internalUseOnly": {
+    "brmRateCategoryRequested": "PC",
+    "weight": "over 1 oz.but, not more than2 ozs.",
+    "verifyingEmployee": "MAsg Regule@ 312235835foate 097",
+    "employeeId": "312235835",
+    "date": null
+  },
+  "mailpieceDesignAnalyst": {
+    "analysisAndRecommendations": {
+      "brmFormatVerified": "In Compliance",
+      "zip4BarcodeVerified": "In Compliance",
+      "isMailpieceCompatibleWithAutomatedEquipment": "M]Yes[]No"
+    },
+    "completedBy": "hnray",
+    "completionDate": "19"
+  },
+  "authorization": {
+    "by": "USINESS MAIL ENTRY OR POSTMASTER",
+    "status": "Approved",
+    "authorizedBy": "Business Mail Entry",
+    "signature": "Dato9",
+    "date": "52263"
+  },
+  "dallasApplicantsOnly": {
+    "instructions": "SUBMIT 50 SAMPLES TO: BUSINESS MAIL ENTRY/BRMAS, DE US POSTALSERVICE,401DFWTPKE,DALLAS TX75260-9651",
+    "code": "BCFORM-REVSED1/95"
+  },
+  "form": {
+    "revision": "1/95"
+  }
 }

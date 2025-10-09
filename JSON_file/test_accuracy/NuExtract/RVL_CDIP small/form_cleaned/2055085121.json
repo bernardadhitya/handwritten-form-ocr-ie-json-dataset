@@ -1,3 +1,22 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "company": "Philip Morris",
+  "type": "Facsimile Transmission",
+  "address": "P.O.Box26583",
+  "date": "6-5/-9",
+  "recipient": {
+    "name": "Bob Gault",
+    "extension": "Pob Yiyley"
+  },
+  "sender": {
+    "notes": "These pages are from: N 0 T E S Corc! Drowiiy U1 s4"
+  },
+  "total_pages": null,
+  "contact": {
+    "if_not_received": "please call:",
+    "fax_number": "804-752-5600"
+  },
+  "additional_info": {
+    "slogan": "You make the difference!",
+    "reference": "BuildingOurBusiness"
+  }
 }

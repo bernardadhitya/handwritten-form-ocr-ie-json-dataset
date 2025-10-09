@@ -1,3 +1,30 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "stockSolutions": {
+    "BiDR": {
+      "concentration": "1mM",
+      "volume": "50ul",
+      "totalVolume": "5ml",
+      "stockConcentration": "100x",
+      "calculation": "0.01mMx100=1mM",
+      "stock": "5T0CK"
+    },
+    "Cytophr": {
+      "concentration": "2.5/n",
+      "stock": "100X",
+      "dilution": "150=10"
+    },
+    "PC": {
+      "concentration": "1.96j",
+      "value": "38.39 q/"
+    },
+    "miscellaneous": {
+      "values": [
+        "154.03",
+        "138.011",
+        "7.6",
+        "154.03",
+        "154.03"
+      ]
+    }
+  }
 }

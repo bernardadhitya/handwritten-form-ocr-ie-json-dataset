@@ -1,3 +1,74 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+    "title": "Cigarette Survey Main Questionnaire Draft",
+    "date": "12/16/78",
+    "author": "Jrey",
+    "questions": [
+        {
+            "question_number": 1,
+            "question_text": "What brand of cigarettes do you consider your regular brand?",
+            "response": "RECORD BELOW"
+        },
+        {
+            "question_number": 2,
+            "question_text": "In the past 3 months, what other brands of cigarettes have you tried, even counting those cigarettes you 'borrowed' from someone else?",
+            "response": "RECORD BELOW"
+        },
+        {
+            "question_number": 3,
+            "question_text": "Aside from those you've already mentioned, what other brands of cigarettes have you seen, heard about, or are aware of?",
+            "response": "RECORD BELOW"
+        },
+        {
+            "question_number": 4,
+            "question_text": "What brands of cigarettes have you recently seen advertising for?",
+            "response": "RECORD BELOW"
+        },
+        {
+            "question_number": 5,
+            "question_text": "For each brand mentioned in Q.4, what do you remember about the advertising ... that is, what was shown or said about in the advertising?",
+            "response": "RECORD BELOW"
+        },
+        {
+            "question_number": 6,
+            "question_text": "Finally, I'd like to read several statements made by various cigarette brands. After I read each one, will you please tell me the brand you know or think uses this statement. What brand uses:",
+            "statements": [
+                {
+                    "statement": "You've come a long way, baby",
+                    "brand": "Virginia Slims"
+                },
+                {
+                    "statement": "A lot of taste without a lot of tar",
+                    "brand": "Vantage"
+                },
+                {
+                    "statement": "The enriched flavor cigarette",
+                    "brand": "Mexit"
+                },
+                {
+                    "statement": "I'd rather light than fight",
+                    "brand": "Tareyton Light"
+                },
+                {
+                    "statement": "I'm realistic. I only smoke ...",
+                    "brand": "Fact"
+                },
+                {
+                    "statement": "Slashed tar in half. Only 5 milligrams tar",
+                    "brand": "True"
+                }
+            ]
+        }
+    ],
+    "classification": {
+        "question_number": 7,
+        "question_text": "Into which age group do you belong? Are you ...",
+        "age_groups": [
+            "21-24",
+            "25-34",
+            "35-44",
+            "45-54",
+            "55-64",
+            "65 & older"
+        ]
+    }
 }

@@ -1,4 +1,28 @@
 {
-    "Telefax-No": "001-804-274 3282",
-    "ANZAHL DER FOLGENDEN SEITEN": "2023053878"
+  "date": "10 Aug.92",
+  "time": "13:02",
+  "fax_number": "02203303-1",
+  "sender": {
+    "name": "Dr.W. Reininghaus",
+    "organization": "INBIFO Institut fur biologische Forschung GmbH",
+    "address": "Vertragsforschung",
+    "telephone": null,
+    "telex": "8874675inbid"
+  },
+  "receiver": {
+    "name": "Dr.R.A.Carchman",
+    "position": "Manager, Biochemical Research",
+    "organization": "RCA29.FAX WRE/BVI",
+    "department": null,
+    "address": "Philip Morris USA Research and Development Richmond, Va.",
+    "telefax_number": "001-804-274 3282"
+  },
+  "message": {
+    "number": "2023053878",
+    "subject": null,
+    "reference": null,
+    "pages_following": null
+  },
+  "greeting": "Dear Richard:",
+  "closing": "Best regards"
 }

@@ -1,3 +1,42 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "date": "02/11/98",
+  "day": "WED",
+  "time": "08:08",
+  "fax_number": "804274-4780",
+  "recipient": {
+    "name": "Arthur N.Levine",
+    "company": "Esg",
+    "telephone": "202/942-5242"
+  },
+  "sender": {
+    "name": "John E.Holleran",
+    "company": "Philip Morris Management Corp. - Lega",
+    "address": "P.O.Box26583, Richmond, VA 23261-6583",
+    "telephone": "804274-5201",
+    "fax_number": "804274-4780"
+  },
+  "transmission": {
+    "tx_report": "TX/RXNO",
+    "status": "TRANSMISSION OK",
+    "tx_rx_no": "0020",
+    "connection_tel": "8p1p2029425999",
+    "connection_id": "ARNOLD&PORTER",
+    "start_time": "02/1108:07",
+    "usage_time": "01'46",
+    "pages": 6,
+    "result": "RESULT OK"
+  },
+  "facsimile_transmission": {
+    "date": "02/11/98",
+    "to": "Arthur N.Levine",
+    "company": "Arnold & Porter",
+    "telephone": "202/942-5242",
+    "sender": "John E.Holleran",
+    "sender_company": "Philip Morris Management Corp. - Lega",
+    "sender_address": "P.O.Box26583, Richmond, VA 23261-6583",
+    "sender_telephone": "804274-5201",
+    "sender_fax": "804274-4780",
+    "pages": 6,
+    "comments": "RUsH- PLeAsE HAND Privileged and Contidential 2W a aa Attomey Work Product LEVINE 1N RM. 1229 2075727713 Arthur."
+  }
 }

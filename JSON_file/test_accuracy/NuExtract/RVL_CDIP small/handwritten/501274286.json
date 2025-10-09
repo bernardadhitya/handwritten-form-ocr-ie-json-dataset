@@ -1,3 +1,79 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "Incidence": {
+    "Full Flavon Malo": {
+      "18-34": {
+        "Males": {
+          "Count": 24,
+          "Rate": 0.12
+        },
+        "Females": {
+          "Count": 12,
+          "Rate": null
+        }
+      },
+      "35+": {
+        "Males": {
+          "Count": 23,
+          "Rate": 0.02
+        },
+        "Females": {
+          "Count": 12,
+          "Rate": null
+        }
+      }
+    },
+    "Full Flawon LT": {
+      "18-34": {
+        "Males": {
+          "Count": 13,
+          "Rate": 0.04
+        }
+      },
+      "35+": {
+        "Males": {
+          "Count": 15,
+          "Rate": 0.04
+        },
+        "Females": {
+          "Count": 12,
+          "Rate": null
+        }
+      }
+    },
+    "fE-81 myowny": {
+      "18-34": {
+        "Males": {
+          "Count": 11,
+          "Rate": null
+        }
+      },
+      "35+": {
+        "Females": {
+          "Count": 12,
+          "Rate": null
+        }
+      }
+    }
+  },
+  "Full Flavor": {
+    "Total": 125,
+    "Percentage": 59
+  },
+  "Full Flawon LowTor": {
+    "Total": 89,
+    "Males": {
+      "Count": 75,
+      "Percentage": 60
+    },
+    "Females": {
+      "Count": 50
+    }
+  },
+  "tE-81": {
+    "Total": 89,
+    "Percentage": "89%"
+  },
+  "35+": {
+    "Total": 62
+  }
 }

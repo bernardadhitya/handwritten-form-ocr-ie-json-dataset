@@ -1,3 +1,55 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "ACNEN": "SGS.C.",
+  "Caty": "176LSRE",
+  "RNE": "6222",
+  "FILLER": "C1)",
+  "Job": "NEWSWEEK7/18/88",
+  "YF_PACN": "14151NTRS1",
+  "FPACENT": "ESAT FCALLEACX",
+  "IStarted": "PMI",
+  "RRYOCA": "361SAT",
+  "Survey": {
+    "Introduction": "Here is a list of magazines",
+    "AgeCategory": "age category who is at home",
+    "Questions": [
+      "Have you bought or used a headache remedy in the past?",
+      "Do you occasionally have a glass of wine or beer with dinner?",
+      "Have you ever read this particular issue of Newsweek?",
+      "Have you or anyone in your household participated in a survey within the past six months?"
+    ],
+    "Qualification": "Have you or anyone in your household participated in a survey within the past six months?",
+    "NewsweekIssue": {
+      "Question": "Have you or anyone in your household participated in a survey within the past six months?",
+      "Response": "Yes"
+    },
+    "Employment": {
+      "Question": "Have you or anyone in your household participated in a survey within the past six months?",
+      "Options": [
+        "Yes",
+        "No"
+      ],
+      "Response": "No"
+    },
+    "SelfEmployed": "PMI",
+    "SurveyParticipation": {
+      "Question": "Have you or anyone in your household participated in a survey within the past six months?",
+      "Response": "No"
+    },
+    "MagazineReadingHabits": {
+      "Introduction": "Here is a list of magazines",
+      "Purpose": "The purpose of this is to make magazines more useful and interesting.",
+      "FollowUp": "Please read this issue as you normally would."
+    }
+  },
+  "Contact": {
+    "AreaCode": "507",
+    "TelNo": "21 310-14",
+    "CityState": "RODRESS:",
+    "ZipCode": "51 145-59",
+    "DateOfReinterview": "ITIME",
+    "Time": "1",
+    "Interviewer": "PM 1",
+    "CodeLetter": "1",
+    "InterviewerID": "438-441"
+  }
 }

@@ -1,3 +1,51 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "Date": "7/16/68",
+  "SampleNo": "5031",
+  "OriginalRequestMadeBy": "Mr. C. L. Tucker, Jr",
+  "RequestDate": "7/10/68",
+  "SampleSpecificationsWrittenBy": "John H. M. Bohlken",
+  "Blend": "OLD GOLD STRAIGHT",
+  "Casing": null,
+  "Recasing": null,
+  "FinalFlavor": null,
+  "MentholFlavor": null,
+  "Cigarettes": {
+    "Brand": "OLD GOLD STRAIGHT",
+    "Length": "85mm.",
+    "Circumference": "25.3mm.",
+    "Paper": "Ecusta 556",
+    "Firmness": "OLD GOLD STRAIGHT",
+    "Draw": "OLD GOLD STRAIGHT",
+    "Weight": "OLD GOLD STRAIGHT"
+  },
+  "Wrappings": {
+    "TippingPaper": "Print",
+    "Labels": "OLD GOLD STRAIGHT",
+    "FilterLength": null,
+    "Closures": "Standard Blue",
+    "TearTape": "Gold"
+  },
+  "Requirements": {
+    "Cartons": "OLD GOLD STRAIGHT",
+    "Markings": "Sample number on each Laboratory pack and carton",
+    "OneTray": null,
+    "Others": "Laboratory Analysis"
+  },
+  "LaboratoryAnalysis": [
+    "Tars and Nicotine",
+    "Taste Panel",
+    "Burning Time",
+    "Gas Phase Analysis",
+    "Benzo.A) Pyrene Analyses"
+  ],
+  "Responsibility": {
+    "TobaccoBlend": "A. Kraus",
+    "FilterProduction": null,
+    "Shipping": null
+  },
+  "Reports": {
+    "WrittenBy": "John H. M. Bohlken",
+    "OriginalTo": "Mr. C. L. Tucker, Jr",
+    "CopiesTo": "Dr.A. W. Spears"
+  }
 }

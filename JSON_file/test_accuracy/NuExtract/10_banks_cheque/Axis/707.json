@@ -1,3 +1,18 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "bank": "AXIS BANK",
+  "transaction": {
+    "value": "166",
+    "reference": null,
+    "payee": "Stephan Schwab",
+    "location": "CA SEAER",
+    "details": "OnHuraretandSitdix bhe",
+    "currency": "RUPE",
+    "amount": 166
+  },
+  "account": {
+    "number": "06545409840159404564",
+    "code": "SAM426160",
+    "branch": "000707",
+    "transaction_id": "50020242616031"
+  }
 }

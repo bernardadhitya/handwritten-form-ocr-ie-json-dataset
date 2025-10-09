@@ -1,15 +1,37 @@
 {
-    "institution": "IN8FO Institut fur biologische Forschung GmbH",
-    "form": "FORM1.KW93OKU/SST",
-    "drug": "NEMBUTAL",
-    "dosage": "30 mg/ml",
-    "solid_dose": "0e/ APPL.",
-    "route": "i.p",
-    "tier_art": "R IST-DOSIS V GRUPPE TIERNR.",
-    "corporal_injection_weight": "399",
-    "corporal_injection_volume": "7.97",
-    "corporal_injection_weight_ml": "14.32",
-    "corporal_injection_volume_ml": "2023188471",
-    "computer_engineering_date": "04.FC.9",
-    "computer_engineering_remark": "RUy ZN le (aIst-Dosis crechnet sich aus Injektionsvolumea dividient du:ch Korpergewicht in kg bei Vewc.dung von Nembuas.TABELLEN INJEKTIONSVOLUMENFURNEMBUTAL bzw. NEMBUTALDOSIS FUR RATTE(SOPAT 182) (c)"
+  "company": "IN8FO Institut fur biologische Forschung GmbH",
+  "form": "FORM1.KW93OKU/SST AT50",
+  "procedure": "NARKOSEUND TOTUNG DURCHENTBLUTEN",
+  "code": "P1461056",
+  "description": "AUS DER.BAUCHAORTA IN NARKOSE",
+  "date": "02.Feb.1993",
+  "anesthesia_time": "50",
+  "slutentn_time": null,
+  "anesthetic": {
+    "name": "NEMBUTAL",
+    "concentration": "30 mg/ml"
+  },
+  "target_dose": "0e/",
+  "application_method": "i.p",
+  "animal_type": "R",
+  "actual_dose": null,
+  "group": null,
+  "animal_number": null,
+  "body_weight": null,
+  "injection_weight": null,
+  "blood_weight_g": null,
+  "blood_volume_ml": null,
+  "nz": null,
+  "scale": {
+    "weight_g": null,
+    "volume_ml": null
+  },
+  "additional_info": {
+    "remark": "COMPUTEREINGABE",
+    "date": "04.FC.9",
+    "pkz": "RUy",
+    "zn": "le",
+    "note": "Vewc.dung von Nembuas.TABELLEN INJEKTIONSVOLUMENFURNEMBUTAL bzw. NEMBUTALDOSIS FUR RATTE(SOPAT 182)"
+  },
+  "id": 2023188471
 }

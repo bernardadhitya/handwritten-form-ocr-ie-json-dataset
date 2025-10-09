@@ -1,3 +1,45 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "company": null,
+  "address": {
+    "street": "801 Second Avenue",
+    "suite": null,
+    "city": "New York",
+    "state": "New York",
+    "zip": "10017"
+  },
+  "phone": "o2/6-96-846",
+  "instructions": "Please take a few minutes to go through the advertisements in this book.",
+  "questions": [
+    "What brands or products do you remember seeing ads for?",
+    "Any other brands?",
+    "Do you remember any ads for any other brands of cigarettes?"
+  ],
+  "categories": {
+    "general_ads": [],
+    "cigarette_ads": [
+      "Asana Range",
+      "Dole Pineappie",
+      "Lukewe",
+      "BaskAswricard/VISA",
+      "Generel Electric Wagher",
+      "Sayer Aspirin",
+      "Hiltoa Sotele",
+      "Coldes Lights",
+      "Colden Unsp.",
+      "Koat Goldea",
+      "Kent Colde",
+      "Kent Lighte",
+      "Len Unep.",
+      "Ocher SPECIFY"
+    ]
+  },
+  "additional_questions": [
+    "If no cigarette brands mentioned above, ask question 3.",
+    "If only one or two cigarette brands mentioned, skip to question 3.",
+    "If all three cigarette brands mentioned, skip to question 4.",
+    "If no cigarette brands mentioned above, ask question 15.",
+    "If only one or two cigarette brands mentioned, skip to question 15.",
+    "If all three cigarette brands mentioned, skip to question 16."
+  ],
+  "brands": []
 }

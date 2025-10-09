@@ -1,3 +1,35 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "conference_center": "NEW YORK CONFERENCE CENTER",
+  "group_date_time": null,
+  "address": {
+    "street": "240 MADISON AVENUE",
+    "city": "NEW YORK",
+    "state": "NY",
+    "zip": "10Q16"
+  },
+  "survey": {
+    "title": "Social Networks Screener",
+    "job_number": "JOB#04/359",
+    "respondent": {
+      "name": "GVES/M/N",
+      "phone": "2/8779-S8S",
+      "address": "33-773S7",
+      "city": "KO",
+      "zip": "32"
+    },
+    "questions": [
+      "1. How old are you? years (if fewer than 18 or greater than 24, terminate)",
+      "2. I'm going to read a list of different types of products. For each product I mention please tell me whether you, yourself, use that type of product. First read first item. Ask about each item. Yes, No",
+      "a. Packaged cookies",
+      "b. Diet or low-calorie soft drinks",
+      "c. Regular soft drinks",
+      "d. Decaffeinated coffee",
+      "e. Regular coffee",
+      "f. Cigarettes",
+      "g. Paper towels",
+      "h. Frozen vegetables",
+      "i. Canned vegetables"
+    ],
+    "contact_number": "2049165909"
+  }
 }

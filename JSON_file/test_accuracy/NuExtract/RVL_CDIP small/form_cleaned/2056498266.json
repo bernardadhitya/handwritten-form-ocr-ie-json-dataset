@@ -1,3 +1,74 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "Other": "Please check sample type and itemize samples below.",
+  "Export": {
+    "Spec": [
+      "AMiNs",
+      "AMiNA",
+      "LAMiNA",
+      "LAMiNA",
+      "hANA",
+      "CAMINA"
+    ]
+  },
+  "Products": [
+    "BTim",
+    "BTZ-L",
+    "7X",
+    "770",
+    "B1",
+    "PN",
+    "Pre-Market Bule",
+    "Run 2",
+    "Run 3",
+    "Run 4",
+    "Run 5",
+    "Run 6",
+    "Run 8",
+    "Run 9",
+    "Run 1",
+    "22",
+    "3",
+    "4",
+    "15",
+    "6",
+    "8",
+    "9",
+    "3",
+    "15",
+    "TLA LABORATORY - .ROUTINE CHEMICAL ANALYSIS REQUEST"
+  ],
+  "Numbers": [
+    2056498266
+  ],
+  "Laboratory": {
+    "Name": "TLA LABORATORY",
+    "Request": "ROUTINE CHEMICAL ANALYSIS REQUEST",
+    "Note": "Please allow a minimum of 1 week for 1 analysis and 2 weeks for more than 1",
+    "Samples": {
+      "Label": "Please label all samples with Mark,Crop Year,Description",
+      "Recommended Size": "/2 pound or 200 grams"
+    },
+    "Elements": [
+      "Phosphorus",
+      "Magnesium",
+      "Potassium",
+      "Chlorides"
+    ],
+    "Analysis": {
+      "Check Analysis # Required": "Check Analysis # Required:",
+      "Send Results to": "Copy J",
+      "Number of Samples": "Number of Samples:",
+      "Submitter": "Subnitter",
+      "Date Required": "Date Required:",
+      "Total Alkaloids": "Total Alkaloids",
+      "Reducing Sugars": "Reducing Sugars",
+      "Date Logged": "Date Logged:",
+      "Date Completed": "Date:",
+      "Date": null,
+      "Request Code": "Request Code:",
+      "Ammonia": "Ammonia",
+      "Nitrates": "Nitrates",
+      "Purpose": "88/11 815#"
+    }
+  }
 }

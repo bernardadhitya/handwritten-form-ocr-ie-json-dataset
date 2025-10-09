@@ -1,3 +1,149 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+    "survey": {
+        "respondent": {
+            "name": "Ms. Jean Bouse",
+            "address": "206 Mason Street, Mason, MI 48854-1128",
+            "certification": "I am a cigarette smoker 21 years of age or older",
+            "signature": "",
+            "birthdate": ""
+        },
+        "questions": [
+            {
+                "question": "What is your regular brand of cigarettes?",
+                "answer": ""
+            },
+            {
+                "question": "If your regular brand were not available, what other brands would you consider buying?",
+                "options": [
+                    "Alpine",
+                    "Basic",
+                    "Benson & Hedges",
+                    "GPC",
+                    "Parliament",
+                    "Pyramid",
+                    "Raleigh Extra",
+                    "Marlboro",
+                    "Magna",
+                    "Salem",
+                    "Store Brand/Generic",
+                    "Bucks",
+                    "Misty",
+                    "Montclair",
+                    "Virginia Slims",
+                    "Vantage",
+                    "More",
+                    "Now",
+                    "Old Gold",
+                    "Slims"
+                ],
+                "answer": []
+            },
+            {
+                "question": "Is your regular brand...",
+                "options": [
+                    "Regular/King Size",
+                    "100's or 120's"
+                ],
+                "answer": ""
+            },
+            {
+                "question": "Is your regular brand...",
+                "options": [
+                    "Menthol",
+                    "Non-Menthol"
+                ],
+                "answer": ""
+            },
+            {
+                "question": "Is your regular brand...",
+                "options": [
+                    "Lowest/1 mg Tar",
+                    "Ultra/Extra Low",
+                    "Light/Mild",
+                    "Full Flavor"
+                ],
+                "answer": ""
+            },
+            {
+                "question": "Do you usually buy the...",
+                "options": [
+                    "Pack",
+                    "Carton",
+                    "Both Ways"
+                ],
+                "answer": ""
+            },
+            {
+                "question": "How long have you smoked this brand?",
+                "options": [
+                    "Less than 1 year",
+                    "1 to 2 years",
+                    "2 to 3 years",
+                    "3 to 5 years",
+                    "Over 5 years"
+                ],
+                "answer": ""
+            },
+            {
+                "question": "The next time you go to the store and your regular brand were not available, what would you do?",
+                "options": [
+                    "Go to another store to buy my regular brand",
+                    "Buy another type or length of my regular brand",
+                    "Wait until the store has my regular brand",
+                    "Buy a different brand entirely"
+                ],
+                "answer": ""
+            },
+            {
+                "question": "Which of the following best describes you?",
+                "options": [
+                    "White",
+                    "Black",
+                    "Hispanic",
+                    "Asian",
+                    "American Indian",
+                    "Other"
+                ],
+                "answer": ""
+            },
+            {
+                "question": "Which of the following statements best describes the way you use cigarette coupons?",
+                "options": [
+                    "I use almost any cigarette coupon I get",
+                    "I occasionally use coupons for cigarettes even if they are not for my regular brand",
+                    "I only use coupons if they are for my regular brand"
+                ],
+                "answer": ""
+            },
+            {
+                "question": "How often do you use special in-store offers such as a free gift with purchase or special prices?",
+                "options": [
+                    "I look for special offers for my regular brand",
+                    "I take advantage of special offers for brands other than my regular brand"
+                ],
+                "answer": ""
+            },
+            {
+                "question": "Would you be interested in receiving information about issues that affect smokers?",
+                "options": [
+                    "Yes",
+                    "No"
+                ],
+                "answer": ""
+            },
+            {
+                "question": "Would you be interested in joining a smokers group to help protect your right to smoke?",
+                "options": [
+                    "Yes",
+                    "No"
+                ],
+                "answer": ""
+            }
+        ],
+        "additional_smoker": {
+            "name": "",
+            "birthdate": "",
+            "regular_brand": ""
+        }
+    }
 }

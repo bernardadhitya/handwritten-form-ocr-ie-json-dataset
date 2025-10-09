@@ -1,3 +1,48 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "company": "AHE MARKETINC RESEARCH",
+  "division": "NATIONAL CONSENSUS SURVEYS",
+  "address": {
+    "street": "801 Second Avenue",
+    "suite": null,
+    "postal_code": "12947",
+    "city": "New York",
+    "state": "New York",
+    "zip": "10017"
+  },
+  "date": "May,1977",
+  "survey": {
+    "title": "CIGARETTE PORTFOLIO SCREENINC QUESTIONNAIRE",
+    "interview": {
+      "time": {
+        "started": null,
+        "ended": null
+      },
+      "respondent": {
+        "name": null,
+        "address": null,
+        "city": null,
+        "state": null
+      },
+      "interviewer": null,
+      "metro_area": null,
+      "date": null,
+      "validated_by": null,
+      "validation_date": null
+    },
+    "questions": [
+      "IMDICATE CITY. Boston, Albany, Buffalo, Denver, Milwaukee, Minneapolis, Syracuse",
+      "INITIAL REFUSAL: CIRCLE NEXT BICHEST NUMBER BELOW. 10, 11, 17, 15, 16, 17, 18, 19, 20, 26, 30, 31, 32, 33, 34, 35, 36, 38, 40, 42, 46, 48, 4",
+      "PARTICIPATED IN 12 SHOW AGE CARD. Please tell which letter on this card includes your age",
+      "UNDER OR OVER AGE: 2, 3, 5, 6, 8, 10, 11, 12, 8- TAKE BACK AGE CARD. 84458536 (OVFR)"
+    ],
+    "age_card": {
+      "under_or_over_age": [
+        2,
+        3,
+        5,
+        6,
+        8
+      ]
+    }
+  }
 }

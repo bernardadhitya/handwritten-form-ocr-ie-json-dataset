@@ -1,3 +1,52 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "company": "LEO BURNETT COMPANY INC",
+  "industry": "ADVERTISING",
+  "address": "PRUDENTIAL PLAZA CH1CAGO.ILLINO1S 60601",
+  "phone": "312-565-5959",
+  "contract": {
+    "type": "Outdoor Advertising Poster Panels",
+    "contractor": "MIDPORT OUTDOOR ADVERTISING INC",
+    "date": "1982-12-08",
+    "contract_no": null,
+    "advertiser": "Philip Morris, Inc.",
+    "product": "Tobacco",
+    "trading_area": "Leo Burnett Company,Inc.",
+    "agency": "MIDPORT OUTDOOR ADVERTISING INC",
+    "market": "MIDDLETOWN,NY",
+    "size": null,
+    "number_of_panels": 12,
+    "posting": 41,
+    "showing": 9,
+    "illumination": null,
+    "posting_date": "12/25",
+    "year": 1983,
+    "dates": {
+      "ordered": {
+        "jan": "1/25",
+        "feb": "2/25",
+        "mar": "3/25",
+        "apr": "4/25",
+        "may": "5/25",
+        "jun": "6/25",
+        "jul": "7/25",
+        "aug": "8/25",
+        "sep": "9/25",
+        "oct": "10/25",
+        "nov": "11/25",
+        "dec": "12/25"
+      }
+    },
+    "rate_information": {
+      "gross_monthly_cost": 1950.0,
+      "discount": 97.5,
+      "discounted_monthly_cost": 1852.5
+    },
+    "special_instructions": null,
+    "accepted": {
+      "agency": "LEO BURNETT COMPANY INC",
+      "company": "BY:",
+      "shipping_address": "SAME",
+      "billing_information": "SEND INVOICES ONLY TO ACCOUNTING DEPT.SECT.B"
+    }
+  }
 }

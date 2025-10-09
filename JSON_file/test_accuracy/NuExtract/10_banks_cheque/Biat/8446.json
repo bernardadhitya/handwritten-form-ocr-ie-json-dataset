@@ -1,3 +1,28 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "transaction": {
+    "type": null,
+    "bank": null,
+    "account_number": null,
+    "transaction_id": null,
+    "recipient": {
+      "name": "Renata Lukic",
+      "additional_info": "Net t rew lar Cwar Ethel M.Bryson R.1.B. CeuenThousand.SxHunared Total du verscment and SeventuShree 7673 Nate deloptrotion Signature du clicnt Caisse Cochér ct visa de la AT"
+    },
+    "issuer": {
+      "name": null,
+      "code": null
+    },
+    "amount": {
+      "written": null,
+      "numeric": null
+    },
+    "note": null,
+    "client_signature": null,
+    "cashier": {
+      "name": null,
+      "approval": null
+    },
+    "date": null,
+    "reference": null
+  }
 }

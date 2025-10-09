@@ -1,25 +1,41 @@
 {
-    "Objective": "Confidential",
-    "Procedure": [
-        "Have the driver collect 600 ml or more of sample from the top of the tank truck and from the bottom of the tank truck.",
-        "Check the two samples for odor, color, trash, temperature, and rejected as soon as possible.",
-        "Discard the sample.",
-        "File Acceptance Form in Lab drawer file.",
-        "Attach to this form, any certificate of analysis that may be supplied by the vendor."
+  "form": {
+    "title": "QUALITY ACCEPTANCE FORM",
+    "product": "ALLIED CLARIFLOC C-331 POLYMER",
+    "objective": "Confidential",
+    "procedure": [
+      "Have the driver collect 600 ml or more of sample from the top of the tank truck and from the bottom of the tank truck.",
+      "Check the two samples for odor, color, trash, temperature.",
+      "Rejected as soon as possible.",
+      "Discard the sample.",
+      "File Acceptance Form in Lab drawer file.",
+      "Attach to this form, any certificate of analysis that may be supplied by the vendor."
     ],
-    "Specifications": {
-        "Odor": "Slight amine - like color",
-        "Trash": "None",
-        "Temperature": "34.534.5",
-        "Color": "colorless, viscous liquid",
-        "Viscosity": "25c 35-60 x10 cps"
+    "specifications": {
+      "analytical_results": {
+        "top": {
+          "odor": "Slight amine - like color",
+          "color": "colorless, viscous liquid",
+          "trash": "None",
+          "viscosity": "35-60 x10 cps",
+          "temperature": "34.5"
+        },
+        "bottom": {
+          "odor": "Slight amine - like color",
+          "color": "colorless, viscous liquid",
+          "trash": "None",
+          "viscosity": "3050",
+          "temperature": "34.5"
+        }
+      },
+      "comments": "Viscosity-as is @ 25c 35-60 x10 cps",
+      "color": "colorless, viscous liquid"
     },
-    "Analytical Results": {
-        "top": "",
-        "bottom": ""
-    },
-    "Circle One": "Accepted by",
-    "Rejected by": "Waste Treatment",
-    "Lab Technician": "t6-78-6",
-    "Date": "203014109000"
+    "acceptance": {
+      "circle_one": "Accepted by",
+      "waste_treatment": "t6-78-6",
+      "lab_technician": "Lab Technician",
+      "date": "2030141090"
+    }
+  }
 }

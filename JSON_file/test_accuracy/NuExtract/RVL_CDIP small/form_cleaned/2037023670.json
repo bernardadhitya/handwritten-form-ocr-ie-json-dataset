@@ -1,3 +1,43 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "permit": {
+    "type": "WELDING AND CUTTING",
+    "area_supervisor": "Floors and overhead swept clean of combustibles.",
+    "permit_number": 8808,
+    "safety_measures": {
+      "clean_area": "Floors and overhead swept clean of combustibles.",
+      "combustible_movement": "Combustibles and vulnerable equipment moved to a distance of at least 50 feet protected by fire resistant covers. Covers containing asbestos not permitted.",
+      "asbestos_prohibition": "Containers of flammable liquids removed.",
+      "flammable_removal": "Floor and wall openings covered or plugged by fire resistant covers.",
+      "openings_covered": "Floor and wall openings covered or plugged by fire resistant covers.",
+      "supply_lines_purged": "Supply lines purged of all combustibles and flammable liquids and/or gases.",
+      "ducts_shutdown": "When working on ducts all fans shut down and dampers closed.",
+      "fire_watch": "Fire watch provided for at least 2 hours after welding is completed including patrol of floors above and below.",
+      "fire_watch_equipment": "Fire watch supplied with extinguishing equipment",
+      "dust_collectors_shutdown": "All dust collectors shutdown and dampers"
+    },
+    "maintenance_supervisor": {
+      "note": "Maintenance Supervisor assumes supervisor is not",
+      "signed": "Signed"
+    },
+    "sprinkler_system": "Sprinkler system is fully operational",
+    "confined_space_tests": "In confined spaces combustible gas and oxygen deficiency tests conducted.",
+    "ventilation": "Forced ventilation device used if natural ventilation is not sufficient",
+    "ppe": "Welder and helper provided with necessary personal protective equipment.",
+    "welding_curtains": "Suitable welding curtains inplace to contain hot sparks and flash",
+    "security_notification": "Security notified before welding/cutting work starts in isolated areas and during weekends and holidays.",
+    "operator": {
+      "signed": "Signed",
+      "equipment_condition": "Welding and cutting equipment in good repair",
+      "ppe_usage": "Personal protective equipment used. i.e. welding hood, fire resistant apparel, gloves and respiratory protection as required.",
+      "permit_posting": "Welding permit conspicuously posted during and after welding."
+    },
+    "additional_info": {
+      "initial": "Welder and helper provided with necessary personal protective equipment.",
+      "complete_tag": "DISPLAY THIS TAG WHEN WELDING",
+      "detach": "Complete opposite side'of.tag",
+      "vo": 8808,
+      "delivery": "Deiverto Security if needed for firewatch",
+      "contact": "2037023669"
+    }
+  }
 }

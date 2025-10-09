@@ -1,3 +1,63 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+    "productContaminationComplaint": {
+        "instructions": {
+            "howToHandleCustomer": [
+                "Complete CVs Refund Slip",
+                "If damages are claimed, complete Report of Accident Form Item #372474"
+            ],
+            "whoToNotify": {
+                "VD": [
+                    "Call Debbie, Quality Assurance Department Ext. 6681",
+                    "Notify DSM"
+                ]
+            },
+            "howToHandleProduct": [
+                "Hold Product at store in secure location",
+                "Wait for product pick-up instructions from Woonsocket Office",
+                "Take a full markdown for seized or returned products"
+            ],
+            "howToHandleOutsideAgencies": [
+                "Cooperate with all agencies (ex: FDA, Dept. of Health): verify positive identification",
+                "No documents are to be signed: contact Insurance Claims Department",
+                "Obtain a receipt for any samples seized: you may sign this receipt"
+            ],
+            "howToCompleteForm": [
+                "Print",
+                "Complete in duplicate",
+                "Forward ORIGINAL to Quality Assurance Dept. (Attach Report of Accident Form when necessary)",
+                "Copy: Store File"
+            ]
+        },
+        "storeInformation": {
+            "storeManager": "dae nayte",
+            "storeNumber": "7",
+            "employeeWhoReceivedComplaint": "TeaN",
+            "jobTitle": "assistant manager",
+            "dateTime": "10:30am",
+            "dateTimeDSMNotified": "DMVATO",
+            "qualityAssuranceDeptNotified": "72192"
+        },
+        "customerInformation": {
+            "customerName": "Pateicri FRaleR",
+            "telephoneNumber": "(9r)348-39s",
+            "address": "milfora lane suffeen 1090",
+            "details": "the customer purchased 3 packs of Bensons hedges menthol 100's which were contaminated. The product caused stomach pains. This has happened before. The cigarettes were bought elsewhere."
+        },
+        "productInformation": {
+            "lotNumber": "# W3J",
+            "productNameSize": "Cigarettes BESO hedges 100s",
+            "manufacturer": "2065448734",
+            "dateOfPurchase": "902",
+            "sentTo": "Debbie Desrochers, Quality Assurance Dept.",
+            "date": ""
+        },
+        "outsideAgencyInformation": {
+            "nameOfPerson": "",
+            "telephoneNumber": "",
+            "title": "",
+            "idConfirmed": "",
+            "agency": "",
+            "pickedUpDate": ""
+        }
+    }
 }

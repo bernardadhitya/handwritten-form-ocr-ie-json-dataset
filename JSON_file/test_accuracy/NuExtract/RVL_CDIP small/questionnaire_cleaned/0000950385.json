@@ -1,3 +1,46 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "UG": 89.0,
+  "ROM_CONSUMER_RESEARCH": "TOPDTHFL",
+  "PAGE": 4.0,
+  "NAME": "DAUO R",
+  "TRIAL": {
+    "TIME_PRIOR_TO_SMOKING": {
+      "AROMA": {
+        "TOO_MUCH": 9.0,
+        "UNPLEASANT": 1.0
+      },
+      "MOISTURE_LEVEL": {
+        "TOO_DRY": 2.0,
+        "TOO_MOIST": "MCIS"
+      },
+      "PACKING": "ERSY"
+    },
+    "DURING_SMOKING": {
+      "LIGHT": "LITTLE",
+      "TASTE_FLAVOR": {
+        "TOO_MUCH": "PIGHT",
+        "UNPLEASANT": "TQO"
+      },
+      "MOUTHFEEL": {
+        "TOO_DRY": "STAYING LIT",
+        "ERSY": "AFTER SMOKING"
+      }
+    },
+    "AFTER_SMOKING": {
+      "AFTERTASTE": {
+        "LITTLE": "JUST",
+        "JUST_RIGHT": "PISHT",
+        "TOO_MUCH": "AFTERTRSTE",
+        "UNPLEASANT": "AFTERTRSTE"
+      },
+      "LIKABILITY": {
+        "DISLIKE": "DISLIKE",
+        "LIKE": "LIKE",
+        "SAME": "SAME",
+        "OWN_BRAND": "OWN SRANO",
+        "MORE": 570232781.0
+      }
+    }
+  },
+  "ID": 570232781.0
 }

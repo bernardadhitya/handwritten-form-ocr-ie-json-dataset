@@ -1,3 +1,38 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "symposium": "7th International Symposium",
+  "conference_agency": "Conference Agency Limburg",
+  "address": "P.O.Box 1402",
+  "telephone": "+31-(0)43-3619192",
+  "telefax": [
+    "+310)43-3619020",
+    "+31-(0)43-3560152"
+  ],
+  "email": "cal.conferenceagency@wxs.al",
+  "location": "Maastricht, the Netherlands",
+  "dates": "October 12-15, 1999",
+  "abstract_deadline": "April 1st, 1999",
+  "institution": "INBIFo Institut fur biologische Forschung",
+  "postal_code_and_city": "51149K8ln",
+  "country": "Germany",
+  "institution_telephone": "0049-2203-3031",
+  "institution_telefax": "009-2203-303362",
+  "abstract_topics": [
+    "Physical&Chemical properties in relation to particle toxicity",
+    "Genotoxicity & Carcinogenicity of particles and fibres",
+    "Non-neoplastic health effects of particles",
+    "Signalling pathways & Gene expression",
+    "Inflammatory and immune responses"
+  ],
+  "presentation_preference": "Poster",
+  "abstract_submission": {
+    "original_abstract": "Please use this abstract form. Abstracts will be published in the book of abstracts as submitted.",
+    "photocopies": 2,
+    "format": "WordPerfect minimal 5.1 printed in CG Times (12 pts) or Word 6.0",
+    "font": "CG Times",
+    "submission_method": [
+      "mail",
+      "floppy disk"
+    ],
+    "disk_format": "3,5"
+  }
 }

@@ -1,3 +1,59 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+    "Date": "12/15/95",
+    "To": "Leo",
+    "From": "RJ.Di",
+    "Subject": "COMPETITIVE ACTIVITY - Riviera",
+    "Geography": {
+        "PrimaryDistributionFocus": [
+            "Entire Division",
+            "Suburban",
+            "Inner City",
+            "Rural"
+        ],
+        "RSMReporting": {
+            "EntireRegion": true,
+            "DivisionsInvolved": []
+        }
+    },
+    "DistributionByClassOfTrade": {
+        "BOX": {
+            "Supermarket": 0,
+            "Drug": 2,
+            "Convenience": 2.8,
+            "Discount": 9,
+            "Grocery": 3.5,
+            "CigaretteStore": 15.4,
+            "Gas": 1.7,
+            "Liquor": 0,
+            "Membership": 0,
+            "Military": 0,
+            "Other": 0
+        },
+        "SOFT": {
+            "Supermarket": 0,
+            "Drug": 2,
+            "Convenience": 3.7,
+            "Discount": 3,
+            "Grocery": 2.1,
+            "CigaretteStore": 18,
+            "Gas": 1.7,
+            "Liquor": 0,
+            "Membership": 0,
+            "Military": 0,
+            "Other": 0
+        },
+        "KS": {
+            "Supermarket": 100,
+            "Drug": 0,
+            "Convenience": 0,
+            "Discount": 0,
+            "Grocery": 0.6,
+            "CigaretteStore": 12.8,
+            "Gas": 1.7,
+            "Liquor": 0,
+            "Membership": 0,
+            "Military": 0,
+            "Other": 1.9
+        }
+    }
 }

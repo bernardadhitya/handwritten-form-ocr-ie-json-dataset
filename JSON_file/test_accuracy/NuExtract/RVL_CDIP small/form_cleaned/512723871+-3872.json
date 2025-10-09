@@ -1,3 +1,29 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "shipment_id": "001294",
+  "shipment_type": "printed materials",
+  "sender": {
+    "name": "Ira Tienowitz",
+    "company_name": null,
+    "address": "740 N. Rush Street",
+    "city": "Chicago",
+    "state": "IL",
+    "zip_code": "60611",
+    "phone": "312649-5435"
+  },
+  "receiver": {
+    "name": null,
+    "company_name": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null
+  },
+  "shipment_details": {
+    "origin": "804952844",
+    "shipment_valuation": "Check No.Amoun",
+    "airtone_account_no": "46251699",
+    "drop_box": "SCACAFB_FEO",
+    "tracking_no": "No.01037",
+    "ces": "51272"
+  }
 }

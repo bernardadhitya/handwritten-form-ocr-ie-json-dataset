@@ -1,3 +1,19 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "survey": {
+    "id": null,
+    "date": null,
+    "user_id": "U-126",
+    "reference_number": "031486/1",
+    "gender": "FEMALE",
+    "role": "SCREENER",
+    "product": "Menthol Cigarettes",
+    "introduction": "Hello,I'm",
+    "questions": [
+      "Is there a female living in your home between the ages of 18 and 34 who smokes at least 10 cigarettes per day?",
+      "May I speak to that person?",
+      "Is your regular brand of cigarettes a filter or non-filter cigarette?",
+      "Is your regular brand of cigarettes menthol or non-menthol?"
+    ],
+    "contact_number": "85369824"
+  }
 }

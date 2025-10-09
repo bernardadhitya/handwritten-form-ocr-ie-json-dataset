@@ -1,3 +1,20 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "title": null,
+  "address": {
+    "street": "Second Avenue",
+    "city": "New York",
+    "state": "New York",
+    "zip": "10017"
+  },
+  "instructions": [
+    "Please take a few minutes to go through the advertisement for this book.",
+    "Please take a few minutes with each ad you see.",
+    "If you order it, you'll need to read the terms.",
+    "CHAND RESPONDENT PORTFOLIO AND TAKE IT BACK SEFORE CONTINUING."
+  ],
+  "questions": [
+    "What brand or products do you remember seeing ads for related to the book?",
+    "Do you remember any ads for cigarattes?",
+    "Do you remember any ads for any other brand of cigarattes?"
+  ]
 }

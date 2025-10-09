@@ -1,3 +1,20 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "department": "Department of Transportation",
+  "address": "400 7th StreetS.W.,Room PL-401",
+  "subject": "Smoking in Airports",
+  "docket_no": "N5AC28",
+  "comments": {
+    "smoking_in_airports": {
+      "section_1": {
+        "question": "PATH ONLY: DOT has suggested that guaranteeing passengers sensitive to tobacco smoke *a path of access from the terminal the airport without exposure to smoke, would provide sufficient protection.",
+        "response": "Do you agree or disagree? Why?"
+      },
+      "section_2": {
+        "question": "OTHER AREAS:Are there other areas of the airport terminal that passengers - including those sensitive to tobacco smoke frequently must use while traveling, and where they therefore need protection from exposure to tobacco smoke (e.g.,restrooms, telephones, eating areas, baggage claim, news stands and other stores, ticket counters, etc.)? If yes, explain why these areas are important to travelers, and what smoking restrictions (if any) should be adopted.",
+        "response": null
+      }
+    }
+  },
+  "contact": "2063857441",
+  "note": "This comment form is provided as a public service, and may be freely duplicated."
 }

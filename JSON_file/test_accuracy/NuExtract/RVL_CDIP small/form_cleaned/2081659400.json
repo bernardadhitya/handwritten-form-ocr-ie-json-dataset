@@ -1,3 +1,31 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "communicationResultReport": {
+    "date": "NOV.16.1996",
+    "time": "631AM",
+    "fileMode": "FILE MODE",
+    "option": "PTION",
+    "addressGroup": "ADDRESSGROUP",
+    "result": "OK",
+    "page": "P.3/3",
+    "memoryTx": "35978",
+    "errorReason": [
+      "E-3 NE SNSNERR LINE FAIL",
+      "E-4 NUSFACSIMILE CONNECTION"
+    ]
+  },
+  "sender": {
+    "company": "PM-vSA",
+    "department": "Marketing,Information & Planning",
+    "address": "100 Park Avenue -Fourteenth Floor New York,New York10017",
+    "fax": "917)663-5327"
+  },
+  "faxTransmittalSheet": {
+    "date": null,
+    "amount": null,
+    "name": null,
+    "title": "2081659400",
+    "company": null,
+    "faxNumber": "3597",
+    "fromName": null
+  }
 }

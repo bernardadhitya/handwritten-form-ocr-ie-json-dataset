@@ -1,3 +1,19 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "company": "Dr.Rudolf Sommer GmbH",
+  "address": {
+    "street": "Grunerstr.33",
+    "city": "Dasseldorf"
+  },
+  "contact": {
+    "phone": "0211/908 92-0"
+  },
+  "project": {
+    "name": "YAS-Studie'94/Version A (NL/B/G)",
+    "project_nr": "7/",
+    "interviewer_nr": null,
+    "address_list_nr": "10-",
+    "contact_interview": "10-2B",
+    "country_code": "NL"
+  },
+  "questions": []
 }

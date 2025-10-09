@@ -1,3 +1,42 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "Date": "November 8, 1991",
+  "ProjectApproval": {
+    "Department": "Marketing Research Department",
+    "Approval": true
+  },
+  "Project": "2mg.100's",
+  "Product": "Micro Liqhts",
+  "Title": "Product Test II",
+  "Job": "5542/691",
+  "Objectives": "Determine the acceptance levels of 2 revised True 2 mg. 100's non-menthol product candidates versus Now. Proceed to market this product if it achieves the action standard: at parity or better versus Now among female Now smokers, aged 35-55.",
+  "ResearchDesign": {
+    "Description": "This is a two cell test with a sample size of 300 (l50 per cell). Only 100mm Now smokers who are female and between 35 and 55 years of age will qualify.",
+    "TestDetails": "Each smoker will test 4 packs of one of the prototype True 2 mg. products and 4 packs of Now."
+  },
+  "CostEstimate": 61000,
+  "ResearchFirm": "Newman-Stein,Inc.",
+  "Contingency": {
+    "List": 20,
+    "Percentage": "-10%",
+    "Included": 10
+  },
+  "Incidence": "4$ cold screening",
+  "FinalReport": {
+    "Included": 5,
+    "ScreenTime": "5 minute screen",
+    "InterviewLength": "15 minute callback"
+  },
+  "PreparedBy": "S R. Benson",
+  "OpenEnds": "ln",
+  "ApprovedBy": {
+    "MarketingResearchDirector": {
+      "Topline": "12/23/91"
+    },
+    "Final": "12/30/91",
+    "ProductManager": {
+      "Assumption": "assumes product available by"
+    },
+    "GroupProductManager": "4/"
+  },
+  "Banners": 4
 }

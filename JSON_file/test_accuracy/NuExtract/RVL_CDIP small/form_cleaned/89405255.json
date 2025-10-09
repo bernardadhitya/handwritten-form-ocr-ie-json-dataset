@@ -1,3 +1,49 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "compound_physical_parameters": {
+    "lac_compound_code": "A8",
+    "date": "10/21/80",
+    "molecular_weight": "220",
+    "water_solubility": {
+      "measured": "220",
+      "estimated": "220",
+      "amount": null
+    },
+    "class": {
+      "acid": null,
+      "base": null,
+      "salt": null,
+      "other": "AINONNT"
+    },
+    "reactivity": {
+      "description_of_reactivity": {
+        "without_heating": "UNCHANGED",
+        "with_heating": {
+          "water_brine": "XUNCHNGED",
+          "25%HCL": "XUNCHNGED",
+          "HON%C": "UNCHANGED",
+          "SOOHCO": "XUNCHANGED",
+          "oxygen": "XUNCHANGED",
+          "light": "XUNCHANGED"
+        }
+      }
+    },
+    "safety_comments": "The material is relatively unstable to heat, light andoxygen (air) and will decompose within l month at room temperature. More rapid decomposition will occur at higher temperatures.",
+    "chemical_purity": "86",
+    "analytical_methods": [
+      "gas chromatography",
+      "chromatography"
+    ],
+    "storage_recommendations": {
+      "special_storage": "dark brown bottle; stored under inert atmosphere in refrigerator.",
+      "compound_sensitive_to": {
+        "air": 0.5,
+        "light": null,
+        "moisture": null,
+        "other": "ARUGHT MOISTURE OTHER"
+      }
+    }
+  },
+  "signature": "PeRS",
+  "signature_date": "10/21/80",
+  "form": "9 (1080)"
 }

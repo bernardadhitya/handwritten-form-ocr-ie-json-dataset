@@ -1,3 +1,63 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+    "SponsorContract": {
+        "MailingAddress": {
+            "Recipient": "Hispanic Chambers State Conference Committee",
+            "Organization": "Hispanic Chamber of Commerce of Orange County",
+            "Street": "2001 East 4th Street Suite 106",
+            "City": "Santa Ana",
+            "State": "CA",
+            "ZipCode": "92705"
+        },
+        "ContactInformation": {
+            "Phone": "1-888-864-2262",
+            "Fax": "(714)953-0273"
+        },
+        "GeneralInformation": {
+            "CompanyName": "LT.MEyNoLs TeGAcCo",
+            "ContactPerson": "",
+            "Title": "",
+            "Address": "b880UACLGyUEW AUE",
+            "City": "MAA",
+            "State": "CA",
+            "ZipCode": "90635",
+            "Fax": "Jyss"
+        },
+        "Sponsorships": {
+            "Level": [
+                "Platinum",
+                "Gold",
+                "Silver",
+                "Bronze",
+                "EDC Only"
+            ],
+            "Options": {
+                "EDCExhibitBooth": "10/10/96 setup 7 a.m.-9 a.m.",
+                "Advertisements": {
+                    "ConferenceExpoHours": "10:00 a.m.- 4:00 p.m.",
+                    "SubmitAdvertisements": "",
+                    "AdditionalBooths": "",
+                    "BoothDetails": "$300/booth-1table/booth-2chairs"
+                },
+                "Registrations": {
+                    "RequiredRegistrations": "",
+                    "ReservedTables": ""
+                }
+            }
+        },
+        "Payment": {
+            "TotalEnclosed": "7170",
+            "PayableTo": "Hispanic Chambers State Conference Committee",
+            "PaymentMethods": [
+                "Check",
+                "Purchase Order"
+            ],
+            "CreditCardReservations": "For Visa and Mastercard Reservations please call the above telephone number."
+        },
+        "Agreement": {
+            "Description": "This Agreement is a legal and binding contract. Neither party may assign any rights or delegate any duties hereunder without the expressed prior written consent of the other.",
+            "AuthorizedSignature": "",
+            "Title": "",
+            "Date": "5"
+        }
+    }
 }

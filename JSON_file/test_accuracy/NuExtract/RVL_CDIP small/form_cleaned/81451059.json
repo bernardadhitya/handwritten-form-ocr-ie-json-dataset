@@ -1,3 +1,46 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "compliance": {
+    "regulations": "GOOD LABORATORY PRACTICE REGULATIONS",
+    "requirements": "THE PROPERHANDLING AND ACCURATE EVALUATION OF YOUR TEST ARTICLE,PLEASE PROVIDE THE FOLLOVING ENFORMATION IN NGLISH"
+  },
+  "testArticle": {
+    "ident": "LOT 9",
+    "lotNumber": "9",
+    "quantitySubmitted": null,
+    "physicalDescription": "MustardColoredPowder",
+    "storage": "B+4",
+    "expirationDate": null,
+    "strength": "4009",
+    "species": "Rats",
+    "route": "SUSMITTED"
+  },
+  "precautions": {
+    "handlingOrDisposal": "N ORDER TO COMPLY WITH RCRA. DEPARTMENT OF TRANSPORTATION AND MARYLAND STATE REGULATIONS FORTHE PROPER MANAGEMENT OF HAZARDOUSWASTE. E MUST HAVE THE FOLLOWING INFORMATION BEFORE WE CAN ACCEPT MATERIAL FOR TESTING."
+  },
+  "regulatoryAffairs": {
+    "department": "QUALITY ASSURANCE DEPARTMENT",
+    "responsibility": "ASSUME THE RESPONSIBILITYFOR MANAGING THE MATERIAL ANO WILL NOT DISCLOSE THE IDENTITY TOLABCRATORY ERSONNEL."
+  },
+  "chemicalInfo": {
+    "chemicalClass": null,
+    "properDOTShipping": null,
+    "unOrNaNumber": null,
+    "epaWasteNumber": null,
+    "mdarelNor": "- 1"
+  },
+  "sponsor": {
+    "name": "Lorillard Research Center",
+    "signature": "SIGNATUREOF",
+    "address": {
+      "street": "420 English Street",
+      "city": "P.0.Box 21688",
+      "state": "Grcenslioro.lorth Carolina",
+      "zipCode": "27420"
+    }
+  },
+  "form": {
+    "number": "MA-261",
+    "date": "11/84",
+    "associates": "ASSOCLATES INC"
+  }
 }

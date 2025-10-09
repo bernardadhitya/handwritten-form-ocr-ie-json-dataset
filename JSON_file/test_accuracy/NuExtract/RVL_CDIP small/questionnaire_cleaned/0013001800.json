@@ -1,3 +1,22 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "Card": 2,
+  "DHCO": "O",
+  "Rotation": "Dap-3",
+  "CALL_BACK_QUESTIONNAIRE": {
+    "Numbr_Cr": null,
+    "Terminate_If_0": "TERMINATE IF O",
+    "Record": "TERMINATE IF",
+    "Terminate_If": "TERMINATE IF O",
+    "Record_2": "TERMINATE IF",
+    "Do_Not_Read": "DONOT READ",
+    "Skip_To_Qu_3a": "SKIP TO QU.3a",
+    "Record_Verbatim": "And how many cigarettcs of did you smoke?",
+    "Compare_Cigarette": "Which cigarette do you prefer?",
+    "Read_Choices_Record_Answer_Below": [],
+    "How_Does_Cigarette_Compare": "Which cigarette do you prefer?",
+    "Read_Choices_Record_Answer_Above": null,
+    "Read_Choices_Record_Below": [],
+    "Compared_To_Brand_From_Screener": "Which cigarette do you prefer?",
+    "Read_Choices_Record_Answer": null
+  }
 }

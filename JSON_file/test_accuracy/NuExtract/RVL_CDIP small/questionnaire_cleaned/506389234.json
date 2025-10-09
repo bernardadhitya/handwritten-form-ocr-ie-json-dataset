@@ -1,3 +1,71 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "ALPHA_RECOGNITION_THRESHOLD_ATTRIBUTE_PROFILE_ARTAP": {
+    "NAME": "Mgate",
+    "DATE9": null,
+    "FEMA_NO": null,
+    "CODE_NO": null,
+    "AROMA_RAW_MATERIAL": "Meuthgne",
+    "THRESHOLD": {
+      "Min": "2",
+      "Max": "7",
+      "Unit": "ppm"
+    },
+    "ATTRIBUTE_PROFILE": {
+      "Cigarette_like_taste": "Yes",
+      "Artificial_taste": "No",
+      "Fresh_tobacco_like_taste": "NO",
+      "Smoke_like_taste": "e",
+      "Background_mask": "Increase",
+      "Dry_puff_character": "100",
+      "Aftertaste": {
+        "Yes_No": "Yes No",
+        "Agreeable": "Agreeable",
+        "Disagreeable": "Disagreeable",
+        "clean": "clean",
+        "Tingering": "tingering",
+        "sweet": "sweet",
+        "coating": "coating",
+        "sour": "sour",
+        "oily": "oily"
+      },
+      "Trigeminal_sensation": [
+        "nasal sting",
+        "tongue bite",
+        "coo7ing",
+        "throat scratch",
+        "astringent",
+        "heating",
+        "peppery (tingly)",
+        "soothing",
+        "salivating"
+      ],
+      "Categorization_of_flavor": [
+        "artificial chocolate/cocoa",
+        "flue-cured",
+        "metallic",
+        "nutty/pyrazine",
+        "burley",
+        "nice mutk fe",
+        "phenolic",
+        "roasted",
+        "flora7",
+        "green",
+        "honey",
+        "fruity/wine",
+        "sour/acidic",
+        "woody",
+        "spicy 4",
+        "sweet",
+        "carame7",
+        "bitter"
+      ],
+      "Major_character_description": "artificial chocolate/cocoa flue-cured",
+      "Recommendations": [
+        "50638 NM 9234"
+      ]
+    },
+    "ADDITIONAL_COMMENTS": {
+      "ranf+8d #rns": null
+    }
+  }
 }

@@ -1,3 +1,42 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "study": "CIGARETTE STUDY",
+  "participant": {
+    "name": null,
+    "telephone": null,
+    "address": null,
+    "city_state": null,
+    "zip": null
+  },
+  "interviewer": {
+    "name": null,
+    "date": null
+  },
+  "gender": {
+    "male": null,
+    "female": null
+  },
+  "age_group": {
+    "under_18": null,
+    "18_24": null,
+    "25_34": null,
+    "35_49": null
+  },
+  "company_type": {
+    "drug_company": null,
+    "food_manufacturer": null,
+    "mobile_manufacturer": null,
+    "advertising_agency": null,
+    "television_manufacturer": null
+  },
+  "cigarettes_per_day": {
+    "less_than_1": null,
+    "none": null,
+    "1_4": null,
+    "5_9": null,
+    "10_15": null,
+    "16_19": null,
+    "20": null,
+    "25": null,
+    "26_30": null
+  }
 }

@@ -1,3 +1,21 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "id": "B1cK",
+  "state": "CA",
+  "age": null,
+  "code": "031486/1",
+  "reference": null,
+  "gender": "FEMALE",
+  "role": "SCREENER",
+  "product": "Menthol Cigarettes",
+  "survey": {
+    "introduction": "Hello,I'm of",
+    "questions": [
+      "Is there anyone living in your household who is employed in the sale, manufacture or distribution of tobacco products, or market research, or advertising?",
+      "Is there a female living in your home between the ages of 18 and 34 who smokes at least 10 cigarettes per day?",
+      "May I speak to that person? IF NOT AVAILABLE,MAKE APPOINTMENT TO CALL LATER.SAVE SCREENER. GET NAME AND TELEPHONE NUMBER.",
+      "Is your regular brand of cigarettes a filter or non-filter cigarette?",
+      "Is your regular brand of cigarettes menthol or non-menthol?"
+    ]
+  },
+  "code_number": "8"
 }

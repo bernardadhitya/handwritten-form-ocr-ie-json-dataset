@@ -1,4 +1,25 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nDC 838 18-78) BROWN & WILLIAMSON TOBACCO CORPORATION LOUISVILLEKENTUCKY40201 SPECIAL SAMPLE MANUFACTURE SHIPMENT TRANSFER Copies to:\nREDUCED TO MATERIAL Factory Date of Request Cost Dept.\nWriter Account Number 2899700 Development Center Sue Livesay Sample Disposition Quantity, Cartons of 200 each Tax Status To Sample Stock Paid or Free R&D 30 Free M.R.\nMethod of Shipment Cigarette Description Flavor evaluation Cigarette Code 997015 Special Instructions & Comments 620745311 Completion Date 5/21/81 Signed J..E.SMIHAN\n\nJSON:\n{\n  \"DC\": \"838\",\n  \"18-78\": \"\",\n  \"BROWN & WILLIAMSON\": \"TOBACCO CORPORATION\",\n  \"LOUISVILLEKENTUCKY\": \"40201\",\n  \"SPECIAL SAMPLE MANUFACTURE SHIPMENT TRANSFER\": \"\",\n  \"Copies to\": \"\",\n  \"REDUCED TO MATERIAL\": \"\",\n  \"Factory Date of Request\": \"\",\n  \"Cost\": \"\",\n  \"Dept.\": \"\",\n  \"Writer\": \"Sue Livesay\",\n  \"Account Number\": \"2899700\",\n  \"Development Center\": \"\",\n  \"Sample Disposition\": \"Quantity, Cartons of 200 each\",\n  \"Tax Status\": \"To Sample\",\n  \"R&D\": \"30 Free\",\n  \"M.R.\": \"\",\n  \"Method of Shipment\": \"Cigarette\",\n  \"Flavor evaluation\": \"\",\n  \"Cigaret"
+  "company": "BROWN & WILLIAMSON TOBACCO CORPORATION",
+  "address": "LOUISVILLEKENTUCKY40201",
+  "shipment_type": "SPECIAL SAMPLE MANUFACTURE",
+  "transfer": "REDUCED TO MATERIAL",
+  "copies_to": [
+    "REDUCED TO MATERIAL"
+  ],
+  "account_number": "2899700",
+  "development_center": "Sue Livesay",
+  "sample_disposition": {
+    "quantity_cartons": 200,
+    "carton_size": "each",
+    "tax_status": "To Sample Stock",
+    "paid_or_free": "Free"
+  },
+  "method_of_shipment": null,
+  "cigarette_description": {
+    "purpose": "Flavor evaluation",
+    "cigarette_code": "997015"
+  },
+  "special_instructions_comments": "620745311",
+  "completion_date": "5/21/81",
+  "signed": "J..E.SMIH"
 }

@@ -1,16 +1,34 @@
 {
-    "Pressure Drop of Cigarettes cm water": "14.6",
-    "Pressure Drop of Filtercm water": "6.4",
-    "Circumferencemm": "22.21",
-    "Avg.Wt.Cigt.": "1104",
-    "cigts/4oz": "102,5",
-    "Length Smoked/cigt.": "67/100",
-    "Particulate MatterWet": "15",
-    "Dry Particulate Matter": "13",
-    "Nicotine": "0.8",
-    "mgs/puff": "0.08",
-    "Tar": "12",
-    "Puffs/Cigt.": "9.6",
-    "S-68-586": "FWS:dpm",
-    "BCF.W.Shepard": "J.3"
+  "date": "August161968",
+  "title": "SMOKE ANALYSIS AND PHYSICAL PROPERTIES OF SILVA THINS FILTER CIGARETIES",
+  "description": "CIGARETTES FROM FACTORY LOT MFD.7/16/68.",
+  "physical_properties": {
+    "pressure_drop_of_cigarettes_cm_water": 14.6,
+    "pressure_drop_of_filter_cm_water": 6.4,
+    "circumference_mm": 22.21
+  },
+  "ogg_smoke_analysis": {
+    "average_weight_cigarette_mgs_per_cigarette": 1104,
+    "cigarettes_per_4oz": 102.5,
+    "length_smoked_per_cigarette_mm": "67/100",
+    "particulate_matter_wet": {
+      "mgs_per_cigarette": 15,
+      "mgs_per_puff": 0.5
+    },
+    "dry_particulate_matter": {
+      "mgs_per_cigarette": 13,
+      "mgs_per_puff": 1.4
+    },
+    "nicotine": {
+      "mgs_per_cigarette": 0.8,
+      "mgs_per_puff": 0.08
+    },
+    "tar": {
+      "mgs_per_cigarette": 12,
+      "mgs_per_puff": 0.3
+    },
+    "puffs_per_cigarette": 9.6
+  },
+  "reference": "S-68-586",
+  "author": "BCF.W.Shepard"
 }

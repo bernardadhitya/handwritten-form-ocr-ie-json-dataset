@@ -1,3 +1,16 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "offer": {
+    "title": "FREE Pack",
+    "details": "When you trade in 5 emptypacks Get 1 FREE pack of any style Winston when you bring In 5empty New Winston packs of the same style",
+    "conditions": {
+      "location": "Good at any 51692 USA Gasollne or USA Min Mart store In Californla.",
+      "limit": "Limit one free pack per customer",
+      "exclusions": "Not good with any other offer per day",
+      "note": "Thls ls not a coupon"
+    }
+  },
+  "warning": {
+    "source": "SURGEON GENERAL'S WARNING",
+    "message": "Smoking 85 Causes Lung Cancer, Heart Disease, Emphysema, And May Complicate Pregnancy"
+  }
 }

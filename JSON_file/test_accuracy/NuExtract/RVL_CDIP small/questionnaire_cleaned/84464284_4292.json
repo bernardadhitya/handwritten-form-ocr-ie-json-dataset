@@ -1,3 +1,105 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "company": "NATIOSAL CONSENSUS SURVEYS",
+  "survey": "CHCARETTE_PORTFOL10",
+  "address": {
+    "street": null,
+    "city": "New York",
+    "state": "New York",
+    "zip": "10017"
+  },
+  "date": "August,1977",
+  "project": "New Orleans",
+  "questionnaire": "SCKEENING QUESTIONNAIRE",
+  "interview": {
+    "time_started": "130",
+    "time_ended": null
+  },
+  "respondent": {
+    "name": null,
+    "telephone": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "metro_area": null,
+    "date": null,
+    "validated_by": null,
+    "validation_date": null
+  },
+  "cities": [
+    "Boston",
+    "Detroit",
+    "Des Moines",
+    "New Orleans"
+  ],
+  "initial_refusal": [
+    5,
+    6,
+    10,
+    20,
+    21,
+    22,
+    21,
+    24,
+    25,
+    26,
+    27,
+    29,
+    30,
+    47,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120
+  ],
+  "participated_in_study": {
+    "question": "Have you, yourself, participated in a market research Burvey the past three months or so?",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "age_card": {
+    "question": "Please tell ae which letter on this cerd includes your age.",
+    "under_21": "Under 21",
+    "21_to_29": "C to 29",
+    "30_to_34": "D to 34",
+    "40_to_44": "C to 44",
+    "45_to_49": "C to 49",
+    "terminate": "Terminate and circle next highest number"
+  },
+  "age": {
+    "under_or_over": "Under or Over",
+    "numbers": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      84,
+      44,
+      64,
+      28,
+      4,
+      42,
+      84
+    ]
+  }
 }

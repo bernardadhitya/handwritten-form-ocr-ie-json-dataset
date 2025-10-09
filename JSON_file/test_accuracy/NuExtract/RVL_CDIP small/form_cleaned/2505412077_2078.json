@@ -1,3 +1,29 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "company": {
+    "name": "INBiFO institut fur biologische Forschung GmbH",
+    "address": "Fuggerstr. 3  51149 Cologne  Germany",
+    "telephone": "+49-2203-303-1",
+    "telefax": "+49-2203-303-362",
+    "general_manager": "Or. Wolf Reininghaus",
+    "trade_register": "Cologne HRB 367"
+  },
+  "message": {
+    "telefax_message_no": "HHM/BRA GPA FAX.DOC",
+    "date": "April 15,1999",
+    "from": "Hans-Jurgen Haussmann",
+    "to": "Dr.George Patskan",
+    "to_address": {
+      "name": "Dr.George Patskan",
+      "research_center": "Philip Morris U.S.A",
+      "pobox": "P.O.Box26583",
+      "city": "Richmond",
+      "state": "Va",
+      "zip": "23261",
+      "country": "U.S.A.",
+      "fax_no": "001-804-274 3055"
+    },
+    "number_of_following_pages": 1,
+    "content": "Dear George\nCal EPA published a paper on their approach to determine the relative cancer potencies of polycyclic aromatic hydrocarbons, which 1 have used for the calculation of the smoke chemistry index.\nPlease find the first page of this paper attached for your information\nBest regards,\n2505412077",
+    "additional_info": "General Manager: Or. Wolf Reininghaus"
+  }
 }

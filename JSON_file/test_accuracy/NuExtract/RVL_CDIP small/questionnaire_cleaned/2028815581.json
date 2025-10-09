@@ -1,3 +1,48 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "study": "PREP STUDY",
+  "session": "NAES",
+  "brand": "REGULARBRAND",
+  "date": "O",
+  "code": "G1",
+  "group": null,
+  "product": "CIGARETTE",
+  "time": {
+    "deprivation": "2 HOURS",
+    "nicotine": "1 HOUR",
+    "caffeine": null,
+    "last_caffeine": "/C5"
+  },
+  "attributes": {
+    "mouth_throat_impact": {
+      "low": null,
+      "high": null
+    },
+    "flavor": {
+      "unusual": null
+    },
+    "off_taste": {
+      "strong": null
+    },
+    "mouth_coating": {
+      "very": null
+    },
+    "satisfaction": {
+      "very": null
+    },
+    "preference": {
+      "extremely": null
+    }
+  },
+  "mentholated": {
+    "is_mentholated": null,
+    "menthol": {
+      "very_little": null,
+      "a_lot": null
+    },
+    "cooling": {
+      "very_little": null,
+      "a_lot": null
+    }
+  },
+  "id": "2028815581"
 }

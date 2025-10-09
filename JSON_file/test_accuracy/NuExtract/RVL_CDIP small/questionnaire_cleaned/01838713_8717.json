@@ -1,3 +1,22 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "title": null,
+  "address": {
+    "street": "801 Secoud Avenue",
+    "city": "New York",
+    "state": "New York",
+    "zip": "10017"
+  },
+  "instructions": "Please take as such time with each ad as you eree to.-If you ordinarily vear reeding glessee, you'll ceed thes.",
+  "questions": [
+    "What brand or products do you remember seeing in the book?",
+    "Do you remember any ads for cigarettes?",
+    "Any other ads for cigarettes?"
+  ],
+  "skip_logic": {
+    "if_no_cigarette_brands_mentioned": "ASK.Q.3.",
+    "if_only_one_or_two_cigarette_brands_mentioned": "ASK.Q.3b.",
+    "if_all_three_cigarette_brands_mentioned": "SKIP TO Q.4.",
+    "if_true_mentioned_in_Q2_or_3": "CONTINUE.",
+    "if_true_not_mentioned_in_Q2_or_3b": "SKIP."
+  }
 }

@@ -1,3 +1,119 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+    "company": "AHY Marketing Research",
+    "division": "National Consensus Surveys",
+    "address": {
+        "street": "801 Second Avenue",
+        "suite": "1155",
+        "box": "#25077W",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10017"
+    },
+    "date": "August, 1977",
+    "document": {
+        "title": "Cigarette Portfolio",
+        "section": "B",
+        "type": "Screening Questionnaire"
+    },
+    "interview": {
+        "time": {
+            "started": "12.20",
+            "ended": "33"
+        },
+        "respondent": {
+            "name": "",
+            "tel": "",
+            "address": "53 52",
+            "city": "",
+            "state": ""
+        },
+        "interviewer": "",
+        "metro_area": "",
+        "date": "297",
+        "validated_by": "",
+        "validation_date": ""
+    },
+    "cities": [
+        "Boston",
+        "Des Moines",
+        "Detroit",
+        "Lincoln",
+        "New Orleans",
+        "San Francisco"
+    ],
+    "initial_refusal_numbers": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        7,
+        58,
+        59,
+        62,
+        54,
+        65,
+        66,
+        67,
+        68,
+        69,
+        80,
+        82,
+        83,
+        84,
+        86,
+        88
+    ],
+    "questions": [
+        {
+            "text": "Have you, yourself, participated in a market research survey in the past 6 months or so?",
+            "terminate_if": "Yes",
+            "continue_if": "No"
+        },
+        {
+            "text": "Please tell me which letter on this card includes your age",
+            "terminate_if": "Under 21",
+            "continue_if": "21 to 34, 35 to 39, 40 to 44, 45 to 49",
+            "terminate_if_next": "50 or over"
+        }
+    ],
+    "age_card_numbers": [
+        3,
+        5,
+        8,
+        10,
+        11
+    ],
+    "age_card_code": "84463885"
 }

@@ -1,3 +1,35 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "faxHeader": {
+    "date": "0/13/99",
+    "day": "WED",
+    "time": "11:43",
+    "faxNumber": "401 2743050"
+  },
+  "sender": {
+    "organization": "Rhode Island Department of Attorney General",
+    "department": "Civil Division",
+    "address": "150 South Main Street",
+    "telephone": "401274-4400",
+    "fax": "401274-3050"
+  },
+  "confidentialityNote": "THE DOCUMENTS ACCOMPANYING THIS FACSIMILE CONTAIN LEGALLY PRIVILEGED/CONFIDENTIAL INFORMATION. THE INFORMATION IS INTENDED ONLY FOR THE INSPECTION AND USE OF THE RECIPIENT(S NAMED BELOW. IF YOU ARE NOT AN INTENDED RECIPIENT, YOU ARE HEREBY NOTIFIED THAT ANY INSPECTION, USE DISCLOSURE, COPYING, DISTRIBUTION OR EXPLOITATION OF, OR PROHIBITED. IF YOU HAVE RECEIVED THIS FACSIMILE IN ERROR, PLEASE NOTIFY US IMMEDIATELY BY TELEPHONE TO ARRANGE FOR RETURN OF THE ORIGINAL DOCUMENTS TO US AT OUR EXPENSE",
+  "recipient": {
+    "name": "Murirl",
+    "to": "FIRM",
+    "firm": null,
+    "city": null,
+    "facsimilePhoneNo": "9-663-556"
+  },
+  "from": {
+    "organization": "Rhode Island Department of Attorney General",
+    "division": "Civil Division",
+    "address": "150 South Main Street",
+    "facsimilePhoneNo": "401274-3050"
+  },
+  "transmissionDetails": {
+    "date": "3/99",
+    "time": "10:40",
+    "totalNumberOfPages": 2,
+    "note": "THE DOCUMENTS ACCOMPANYING THIS FACSIMILE CONTAIN LEGALLY PRIVILEGED/CONFIDENTIAL INFORMATION. THE INFORMATION IS INTENDED ONLY FOR THE INSPECTION AND USE OF THE RECIPIENT(S NAMED BELOW. IF YOU ARE NOT AN INTENDED RECIPIENT, YOU ARE HEREBY NOTIFIED THAT ANY INSPECTION, USE DISCLOSURE, COPYING, DISTRIBUTION OR EXPLOITATION OF, OR PROHIBITED. IF YOU HAVE RECEIVED THIS FACSIMILE IN ERROR, PLEASE NOTIFY US IMMEDIATELY BY TELEPHONE TO ARRANGE FOR RETURN OF THE ORIGINAL DOCUMENTS TO US AT OUR EXPENSE"
+  }
 }

@@ -1,3 +1,108 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "survey": {
+    "contact_method": {
+      "phone": null,
+      "letter": null
+    },
+    "satisfaction_areas": {
+      "ease_of_contact": {
+        "ability_to_get_through_on_first_call": {
+          "very_satisfied": 0.0,
+          "somewhat_satisfied": 0.0,
+          "neither_satisfied_nor_dissatisfied": 0.0,
+          "somewhat_dissatisfied": 0.0,
+          "very_dissatisfied": 0.0
+        },
+        "satisfaction_with_telephone_recording": {
+          "very_satisfied": 0.0,
+          "somewhat_satisfied": 0.0,
+          "neither_satisfied_nor_dissatisfied": 0.0,
+          "somewhat_dissatisfied": 0.0,
+          "very_dissatisfied": 0.0
+        }
+      },
+      "personnel": {
+        "courtesy": {
+          "very_satisfied": 0.0,
+          "somewhat_satisfied": 0.0,
+          "neither_satisfied_nor_dissatisfied": 0.0,
+          "somewhat_dissatisfied": 0.0,
+          "very_dissatisfied": 0.0
+        },
+        "professionalism": {
+          "very_satisfied": 0.0,
+          "somewhat_satisfied": 0.0,
+          "neither_satisfied_nor_dissatisfied": 0.0,
+          "somewhat_dissatisfied": 0.0,
+          "very_dissatisfied": 0.0
+        },
+        "knowledge": {
+          "very_satisfied": 0.0,
+          "somewhat_satisfied": 0.0,
+          "neither_satisfied_nor_dissatisfied": 0.0,
+          "somewhat_dissatisfied": 0.0,
+          "very_dissatisfied": 0.0
+        },
+        "authority_to_resolve_problem": {
+          "very_satisfied": 0.0,
+          "somewhat_satisfied": 0.0,
+          "neither_satisfied_nor_dissatisfied": 0.0,
+          "somewhat_dissatisfied": 0.0,
+          "very_dissatisfied": 0.0
+        }
+      },
+      "response": {
+        "timeliness": {
+          "very_satisfied": 0.0,
+          "somewhat_satisfied": 0.0,
+          "neither_satisfied_nor_dissatisfied": 0.0,
+          "somewhat_dissatisfied": 0.0,
+          "very_dissatisfied": 0.0
+        },
+        "clarity": {
+          "very_satisfied": 0.0,
+          "somewhat_satisfied": 0.0,
+          "neither_satisfied_nor_dissatisfied": 0.0,
+          "somewhat_dissatisfied": 0.0,
+          "very_dissatisfied": 0.0
+        },
+        "helpfulness": {
+          "very_satisfied": 0.0,
+          "somewhat_satisfied": 0.0,
+          "neither_satisfied_nor_dissatisfied": 0.0,
+          "somewhat_dissatisfied": 0.0,
+          "very_dissatisfied": 0.0
+        },
+        "follow_through_on_promised_action": {
+          "very_satisfied": 0.0,
+          "somewhat_satisfied": 0.0,
+          "neither_satisfied_nor_dissatisfied": 0.0,
+          "somewhat_dissatisfied": 0.0,
+          "very_dissatisfied": 0.0
+        }
+      }
+    },
+    "action_taken": {
+      "completely_satisfied": 0.0,
+      "not_completely_satisfied_but_acceptable": 0.0,
+      "not_completely_satisfied_but_some_action": 0.0,
+      "not_at_all_satisfied_with_action": 0.0,
+      "not_at_all_satisfied_no_action": 0.0
+    },
+    "future_purchase_intent": {
+      "definitely_would": 0.0,
+      "probably_would": 0.0,
+      "might_or_might_not": 0.0,
+      "probably_would_not": 0.0,
+      "definitely_would_not": 0.0
+    },
+    "recommendation_intent": {
+      "definitely_would": 0.0,
+      "probably_would": 0.0,
+      "might_or_might_not": 0.0,
+      "probably_would_not": 0.0,
+      "definitely_would_not": 0.0
+    },
+    "additional_comments": null
+  }
 }

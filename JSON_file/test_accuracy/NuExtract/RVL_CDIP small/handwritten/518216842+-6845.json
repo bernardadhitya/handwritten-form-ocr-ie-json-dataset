@@ -1,3 +1,30 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "store": "ALBERTSONS",
+  "address": {
+    "street": "bOPierAve#5",
+    "city": "Oceao",
+    "state": "CA",
+    "zip": "93H45"
+  },
+  "transaction": {
+    "number": "3075",
+    "terminal": "Termina1",
+    "cashier": "000401",
+    "store_number": "10",
+    "date": "ThuJun 291995",
+    "time": null
+  },
+  "items": [
+    "Stere 1646",
+    "TRIDENT"
+  ],
+  "totals": {
+    "subtotal": 15.47,
+    "tax_paid": 1.01,
+    "total": 17.0,
+    "cash": 17.0,
+    "total_tender": 17.0,
+    "change": 0.52
+  },
+  "message": "THANK YOU"
 }

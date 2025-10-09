@@ -1,3 +1,85 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+    "PhilipMotisUSA": {
+        "IndustrialHygiene": {
+            "STRESS_CHARACTERIZATION": {
+                "IDENTIFICATION": {
+                    "City": "3w",
+                    "Plant": "PRAREA3",
+                    "ExposureZone": "1",
+                    "Location": "4",
+                    "Year": "8",
+                    "Month": "Year",
+                    "Day": "Month",
+                    "Identification#": "a3",
+                    "OmitSample": "L65",
+                    "Number": [
+                        "16",
+                        "18",
+                        "20",
+                        "22",
+                        "80"
+                    ]
+                },
+                "JOB_CLASS_REPRESENTATION": {
+                    "CARD": "26",
+                    "EmployeeName": {
+                        "Last": "Last",
+                        "First": "First",
+                        "SS#": "SS#",
+                        "MI": "MI"
+                    },
+                    "JobCode": "28",
+                    "Representation": "37",
+                    "Representative": "R",
+                    "Unusual-U": "R",
+                    "IfR": {
+                        "OtherRepresentativeJobCodes": [
+                            "43",
+                            "47",
+                            "51",
+                            "55",
+                            "59"
+                        ]
+                    },
+                    "Shifts": {
+                        "Day": "A",
+                        "Evenings": "B",
+                        "Graveyard": "C",
+                        "Novel": "N",
+                        "ShiftCodes": [
+                            "A",
+                            "B",
+                            "C",
+                            "N",
+                            "A"
+                        ]
+                    },
+                    "Note": "Representative monitoring will be assigned to all individuals with the job code listed and the exposure zone specified. Unusual monitoring results will only be assigned to individuals specified. For representative monitoring all appropriate shifts will be specified."
+                },
+                "JOB_CHARACTERIZATION": {
+                    "CARD": "2",
+                    "JobType": {
+                        "Routine/Normal": "R",
+                        "Start-Up": "S",
+                        "Infrequent/Variable": "V",
+                        "Upset/Abnormal": "A",
+                        "Batch": "B"
+                    },
+                    "JobFrequency": {
+                        "Times/Month": "28",
+                        "Minutes/Time": "29"
+                    },
+                    "JobDescription": {
+                        "IncludeMachines": "orrisy",
+                        "Details": [
+                            "ABC",
+                            "2031535605",
+                            "40-050-1",
+                            "9/81"
+                        ]
+                    }
+                }
+            }
+        }
+    }
 }

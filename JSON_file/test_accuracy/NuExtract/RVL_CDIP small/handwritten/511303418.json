@@ -1,3 +1,59 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "company": "RJR Industries,Inc.",
+  "proposalType": "PROPOSAL FOR PROFIT,EXPENDITURE,OR POLICY CHANGE",
+  "subject": "Dept./Division",
+  "departmentDivision": null,
+  "precedingPEPs": {
+    "relativeToSubject": null,
+    "number": null
+  },
+  "checkAsAppropriate": {
+    "estimatedStudyDevelopmentProposal": null,
+    "longRangeImpact": null,
+    "capitalExpenditures": null,
+    "annualPreTaxProfitEffect": {
+      "afterImplementation": null,
+      "year": null,
+      "nextYear": null,
+      "futureYears": null
+    }
+  },
+  "profitProposal": {
+    "preTaxProfitLossEffect": null,
+    "isPLBudgetChange": null,
+    "howMuch": null
+  },
+  "capitalExpenditureProposal": {
+    "disbursementOfFunds": {
+      "totalRequest": null,
+      "timing": null
+    },
+    "isBudgetChange": null,
+    "howMuchInTotal": null,
+    "timing": null
+  },
+  "estimatedBy": {
+    "rjReyTobEng": "Yes",
+    "engCoord": "No"
+  },
+  "projectNo": null,
+  "policyChangeProposal": {
+    "literatureToBeChanged": null,
+    "descriptionOfOpportunityOrProblem": null,
+    "background": null,
+    "proposedActionAndAlternatives": null,
+    "resultsOfProposedAction": null
+  },
+  "routing": {
+    "comments": null,
+    "date": null
+  },
+  "originator": null,
+  "approvedCopyTo": null,
+  "datePlannedToStart": null,
+  "dateStarted": null,
+  "datePlannedToComplete": null,
+  "dateCompleted": null,
+  "personResponsibleForImplementing": null,
+  "disapprovedExplanation": "Explanstion on ReverSide"
 }

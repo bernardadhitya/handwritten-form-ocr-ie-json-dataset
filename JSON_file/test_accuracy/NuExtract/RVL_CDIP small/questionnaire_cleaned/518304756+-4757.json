@@ -1,3 +1,32 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "company": "Keynok",
+  "contact_person": "Mr.Charles Conti",
+  "address": {
+    "street": "232 Yankee Rd.",
+    "city": "Winston-Salem",
+    "state": "N.C.",
+    "zip": "27102"
+  },
+  "consumer_relations": {
+    "address": {
+      "street": "Quakertown",
+      "city": "PA",
+      "state": "Quakertown",
+      "zip": "18951"
+    }
+  },
+  "letter": {
+    "greeting": "Dear Valued Customer:",
+    "body": "Recently you contacted R: J. Reynolds'Consumer Relations Department and gave us the opportunity to respond to your request for assistance with either a promotion or product related issue.\n\nIn an effort to better serve our customers, we are asking you to please take a few minutes to complete a questionnaire about how well you were treated by our company representative. After completing the survey on the reverse side of this letter, please return it in the enclosed postage-paid envelope\n\nThank you for taking the time to let us know how our staff met your expectations\n\nWe value your opinion and appreciate your business.",
+    "closing": "Mark Conrad",
+    "title": "Consumer Satisfaction Research Manager"
+  },
+  "codes": {
+    "code1": "22018757-95",
+    "code2": "282",
+    "code3": null,
+    "code4": null,
+    "code5": null
+  },
+  "slogan": "We work for smokers"
 }

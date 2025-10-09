@@ -1,3 +1,61 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "study_number": "0o0o0o",
+  "study_type": null,
+  "respondent_range": "1-90",
+  "new_cpt_screening_questionnaire": {
+    "date": null,
+    "name": "NEW CPT SCREENING_OUESTIONNAIRE",
+    "address": null,
+    "city_state": null,
+    "telephone": null,
+    "date_interview": null,
+    "time_begun": null,
+    "interviewer": null,
+    "validated_by": null
+  },
+  "introduction": "JHIERVIEWER:F YOU REJECT A RESPONDENT BECAUSE OF LANGUAGE OR HEARING PROBLEMSIN A HURRYEIC.RECORD BELOW.",
+  "interviewer_note": null,
+  "terminate_problem": null,
+  "questions": {
+    "A": {
+      "question": "First, into shich of the following groups does your ege fell7 (READ L151.)",
+      "options": {
+        "under_18": "Under18",
+        "18_24": "18-24",
+        "25_34": "25.34",
+        "35_56": "35-56",
+        "50_and_over": "50 and over",
+        "refused": "DO NOT READ Refused...."
+      },
+      "terminate_reason": "TERMINATE AND RECORD BELOW."
+    },
+    "B": {
+      "question": "INTERVIEVERECORD SEX.",
+      "options": {
+        "male": "Mole..",
+        "female": "Fenele.."
+      },
+      "terminate_reason": "TERMINATE AND RECORD BELOW."
+    },
+    "C": {
+      "question": "1o ensure cquol representetion of people in this study, whot is your rece?",
+      "options": {
+        "white": "1o ensure cquol representetion of people in this study, whot is your rece?"
+      }
+    },
+    "D": {
+      "question": "Our records indicote thot you use cigorettes datly.",
+      "options": {
+        "less_than_5": "Less thon 5.",
+        "5_10": "5.10...",
+        "11_20": "11-20.",
+        "21_30": "21-30.",
+        "31_40": "31-40.",
+        "41_or_more": "41 or n",
+        "dont_know_no_answer": "Dont know/No answer"
+      },
+      "terminate_reason": "TERMINATE AND RECORD BELOW."
+    }
+  },
+  "code": null
 }

@@ -1,3 +1,20 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "date": null,
+  "recipient": {
+    "name": "Henry",
+    "title": "PM-UsA (Schmon",
+    "company": null,
+    "fax_number": "8-2ZO-7336"
+  },
+  "sender": {
+    "name": "PHILIP MORRIS USA",
+    "business_planning": "CINA",
+    "address": "120Park Avenue-Nlnth Floor",
+    "fax_number": "212907-5390",
+    "voice_phone": null
+  },
+  "facsimile_transmittal_sheet": {
+    "number_of_pages": "14",
+    "message_additional_information": "Please call sender if there are any problems with this transmission."
+  }
 }

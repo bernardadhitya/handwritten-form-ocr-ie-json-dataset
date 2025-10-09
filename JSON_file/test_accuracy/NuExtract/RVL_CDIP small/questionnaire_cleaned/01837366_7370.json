@@ -1,3 +1,106 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "address": {
+    "street": "801 Sacond Avenue",
+    "city": "Nev York",
+    "state": "New York",
+    "zip": "10017"
+  },
+  "instructions": "Pleese taEes fev sinutea to go through che advertisenente in this bopk.",
+  "note": "ASD RESPCSDENT PORTYOLIO ANO TAKE ITBACK BEFORE CONTINUING.",
+  "brands": {
+    "cigarette_ads": [
+      "Anana Benge",
+      "Dole Pigeappla",
+      "BeakAmwrcard/VISA",
+      "General Electric.Washer",
+      "Goldep Ligbte",
+      "Bayer Aapirin",
+      "Kilcon Eotele",
+      "Goiden(Uasp.)",
+      "Bolans Lewn Mowet",
+      "OldSpce Pocke Coome",
+      "Kawasaks",
+      "Kent Golden",
+      "Sudueleer",
+      "CeldesLight",
+      "Cenadien Club",
+      "Polsroid.Camera-",
+      "Kent Lighte-",
+      "Core Cola",
+      "Singer Seviog Machines",
+      "Kest",
+      "Unsp.",
+      "Concord Waiches",
+      "Toter'c Choice",
+      "ghtelnp",
+      "Craet",
+      "ceothpaete",
+      "Weight Watchers",
+      "Othe"
+    ]
+  },
+  "questions": {
+    "Q3a": "Do you resanber any ade for cigarettee",
+    "Q3b": "IFONLY.CNEOR THO CICARETIE BRANDS NLONEDSKIPTO Q.3b.",
+    "Q4": "IFALLTHREECIGARETRANDSMEODSKIPTOQ.4.",
+    "Q15": {
+      "question": "What brande do you renenterassing ads for",
+      "response": "Any othier brands",
+      "follow_up": "Any othier brands7",
+      "options": [
+        "ASXQ3a",
+        "IFONLY.CNEOR THO CICARETIE BRANDS NLONEDSKIPTO Q.3b.",
+        "IFALLTHREECIGARETRANDSMEODSKIPTOQ.4.",
+        "INCIGARESRAKDSMEONDABOVEASK",
+        "Do you-reeeuber any eda for cigarettee",
+        "Any ctbere?",
+        "Suke",
+        "GoIdea.(Uasp.)",
+        "Leat",
+        "Colden",
+        "Ksat GoldenLights",
+        "Kent Unp",
+        "Xant Lighte",
+        "L1ghte~(nep.",
+        "Other(SPSCIFY",
+        "SKPTOG.10",
+        "1ONORWOCIGARTTBRANSONEDASK",
+        "Do you resanber any ade for any ether.braods of cigaratcea",
+        "16), What",
+        "Any.others (16).",
+        "Golden (Uoep.)",
+        "Golden Lights",
+        "01837366",
+        "Kent Golden Lighta",
+        "Keat Colden",
+        "Kent Lighte",
+        "IF IRUE KENTONEINQ23RCONU",
+        "Kent Unsp.",
+        "IF TRUE NOT MENTIONED IN Q.23OR 3bSK",
+        "L.ghts Unp",
+        "TOQ.10",
+        "TrHe OtherSPECI"
+      ]
+    },
+    "Q16": {
+      "question": "What",
+      "response": "Any.others",
+      "options": [
+        "16).",
+        "3",
+        "Golden (Uoep.)",
+        "Golden Lights",
+        "01837366",
+        "Kent Golden Lighta",
+        "Keat Colden",
+        "Kent Lighte",
+        "IF IRUE KENTONEINQ23RCONU",
+        "Kent Unsp.",
+        "IF TRUE NOT MENTIONED IN Q.23OR 3bSK",
+        "L.ghts Unp",
+        "TOQ.10",
+        "TrHe OtherSPECI"
+      ]
+    }
+  }
 }

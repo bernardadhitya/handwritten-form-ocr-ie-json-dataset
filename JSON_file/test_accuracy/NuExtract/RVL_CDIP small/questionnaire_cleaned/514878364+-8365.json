@@ -1,3 +1,28 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "survey": {
+    "contact_method": null,
+    "satisfaction_areas": {
+      "ease_of_contact": {
+        "ability_to_get_through_on_first_call": null,
+        "length_of_time_on_hold": null
+      },
+      "personnel": {
+        "courtesy": null,
+        "professionalism": null,
+        "knowledge": null,
+        "authority_to_resolve_problem": null
+      },
+      "response": {
+        "timeliness": null,
+        "clarity": null,
+        "helpfulness": null,
+        "follow_through_on_promised_action": null
+      }
+    },
+    "contact_attempts": null,
+    "final_action": null,
+    "overall_satisfaction": null,
+    "action_description": null,
+    "future_purchase_intent": null
+  }
 }

@@ -1,3 +1,71 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+    "company": "COMMUNICUS, INC.",
+    "gender": "Male",
+    "location": {
+        "Chicago": "5 -1",
+        "New York": "-2",
+        "San Francisco": "-3"
+    },
+    "project": "Projoct LLD-7",
+    "group": "GROUP",
+    "group_code": "4-6",
+    "time": "AM",
+    "name": "NAME",
+    "time_began": "TIME BEGAN",
+    "address": "ADDRESS",
+    "city_town": "CITY/TOWN",
+    "state": "STATE",
+    "telephone": "TELEPHONE#",
+    "zip_code": "ZIP CODE",
+    "interviewed_by": "INTERVIEWED BY",
+    "interview_date": "DATE",
+    "validated_by": "VALIDATED BY",
+    "validation_date": "DATE",
+    "introduction": "Hello, I'm from Communicus, a consumer opinion firm. We are conducting a survey and would like to include you.",
+    "questions": {
+        "1a": {
+            "question": "Do you smoke filter, non-menthol cigarettes?",
+            "answers": {
+                "Yes": "CONTINUE",
+                "No": "EEERRNE"
+            }
+        },
+        "1b": {
+            "question": "How many cigarettes do you usually smoke per day?",
+            "answers": {
+                "0-9": "FEEERINNE",
+                "10-15": "7 -1",
+                "16-25": "-2",
+                "More than 25": "-3"
+            }
+        },
+        "1c": {
+            "question": "What is your regular brand of cigarettes, that is, the one brand you smoke most often?",
+            "instruction": "PROBE FOR SPECIFIC STYLE. REFER TO LIST OF BRANDS. IF BRAND GIVEN IS FROM QUOTA 1 THEN CIRCLE 2 -1. IF FROM QUOTA 2 THEN CIRCLE -2."
+        },
+        "2": {
+            "question": "Which of the following statements apply to you?",
+            "statements": {
+                "A": "I eat dinner in a restaurant at least once a month.",
+                "B": "I read a daily newspaper.",
+                "C": "I do most of the food shopping for myself and/or my family.",
+                "D": "I have taken an airline trip on a scheduled commercial airline in the past 12 months."
+            },
+            "codes": {
+                "A": "-1",
+                "B": "-2",
+                "C": "-3",
+                "D": "-4"
+            }
+        },
+        "3": {
+            "question": "Into which of the following age groups do you fall?",
+            "age_groups": {
+                "Under 21": "TERMINATE",
+                "21-34": "9-1",
+                "35-65": "-2",
+                "65+": "TERMINATE"
+            }
+        }
+    }
 }

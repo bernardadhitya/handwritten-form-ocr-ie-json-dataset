@@ -1,3 +1,67 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+    "company": "Bellomy-Carrigg, Inc.",
+    "job_number": "0906",
+    "address": {
+        "street": "5 University Parkway",
+        "city": "Winston-Salem",
+        "state": "NC",
+        "zip": "27106"
+    },
+    "date": "October, 1984",
+    "survey": {
+        "title": "AA Extended Use Concept/Product Test",
+        "type": "Screener",
+        "respondent": {
+            "name": "A",
+            "address": "577",
+            "state": "53",
+            "interviewed_by": "h"
+        },
+        "instructions": "Interview women only",
+        "introduction": "Hello, I'm from (Your Company), an independent marketing research company. We're conducting a survey with women about various consumer products.",
+        "questions": [
+            {
+                "question_number": 1,
+                "text": "Into which of the following age groups does your age belong?",
+                "options": [
+                    "Under 18",
+                    "18-24",
+                    "25-34",
+                    "35-49",
+                    "50+",
+                    "Refused"
+                ],
+                "instructions": [
+                    "Terminate, erase and re-use if under 18 or refused.",
+                    "Check quota to determine if 18-24 is needed.",
+                    "If over quota, ask for another female in age group needed."
+                ]
+            },
+            {
+                "question_number": 2,
+                "text": "Which of the following products do you use daily?",
+                "options": [
+                    "Breathmints",
+                    "Mouthwash",
+                    "Cigarettes",
+                    "Gel toothpaste",
+                    "Cream toothpaste"
+                ],
+                "instructions": "Continue only if cigarettes checked above in Q.2. Otherwise, if none, terminate, erase and re-use."
+            },
+            {
+                "question_number": 3,
+                "text": "Which of the following brands have you used in the past week?",
+                "options": [
+                    "Certs breathmints",
+                    "Clorets breathmints",
+                    "Topal toothpaste",
+                    "Aqua Fresh toothpaste",
+                    "Clinomint",
+                    "Scope",
+                    "Listerine"
+                ]
+            }
+        ]
+    }
 }

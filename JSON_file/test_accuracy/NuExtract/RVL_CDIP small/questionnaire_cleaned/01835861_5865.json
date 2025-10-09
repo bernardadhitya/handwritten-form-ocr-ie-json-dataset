@@ -1,3 +1,26 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "title": "NATIONAL CONSENSUS SURVEYS",
+  "address": {
+    "street": "801- Secotd Aveoue",
+    "suite": null,
+    "city": "Nev York",
+    "state": "Neu York",
+    "zip": "10017"
+  },
+  "instructions": [
+    "Please take a few seconds to go through the advertisements in this book.",
+    "Hand Respondenl Portfolio and take it back before continuing.",
+    "No Cigarette Brands Mentioned Above Ask Q.3a.",
+    "No Cigarette Brands Mentioned Above Ask Q.3.",
+    "No Cigarette Brands Mentioned Above Ask Q.4.",
+    "No Cigarette Brands Mentioned Above Ask Q.10.",
+    "If True Mentioned In Q.23a Or 3b, Continue.",
+    "If True Not Mentioned In Q.23 Or 3b, Skip."
+  ],
+  "questions": [
+    "What brand or product do you remember seeing ads for in the book?",
+    "Any other brands do you remember seeing ads for in the book?",
+    "Do you remember any ads for cigarettes?",
+    "Do you remember any ads for any other brands of cigarettes?"
+  ]
 }

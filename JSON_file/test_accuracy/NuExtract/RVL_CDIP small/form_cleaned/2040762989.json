@@ -1,3 +1,50 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "outdoor_bulletin": {
+    "display_contract": {
+      "agency": {
+        "name": "Leo Burnett Company, Inc.",
+        "address": "3601 6TH AVE.",
+        "phone": "312-565-5959"
+      },
+      "to": {
+        "date": "DECEMEER14.1992",
+        "company": "ACKERLEY COMUNICATIONS",
+        "address": "3601 6TH AVE."
+      },
+      "contract_no": "WASEAT01-87",
+      "advertiser": {
+        "name": "Philip Morris, Inc.",
+        "product": "Tobacco",
+        "trading_area": "610 Elliott Ave and Galer NF"
+      },
+      "contract_details": {
+        "market": "SEATTLE, WA",
+        "location": "ELLIOTT AVE AND GALER NF",
+        "size": "14'X43'",
+        "illumination": "NO",
+        "contract_period": "FRC DATE OF COMPLETION APPROXIMATELY",
+        "rate_information": {
+          "gross_monthly_cost": 2938.2,
+          "discount": 0.0,
+          "discounted_monthly_cost": 2933.28
+        },
+        "cancellation_privileges": "ON ANY JANUARY 1 ANNIVERSARY DISCOUNT 0.00 DATE UPON 60 DAYS NOTICE FROM AGENCY HITHOUT PENALTY",
+        "copy_changes": "The following copy change options will prevail under execution terms of this agreement: If this bulletin/sis to be completely painted there will be 3 complete paintings, including the initial, annually, or If this bulletin is to be partially posted there will be 6 posting of posted portion and 3 paintings of painted portion, including the initial, annually, or; If this bulletin is to be completely posted, there will be 6 posting, including the initial, annually.",
+        "extensions": {
+          "above": 535,
+          "each_side": 2,
+          "below": 2
+        },
+        "special_instructions": "PLANT NILL INSTALL HOLOPHANE BY 2/1/83.ALSO 5X17 EXTENSION"
+      },
+      "accepted": {
+        "agency": "Leo Burnett Company, Inc.",
+        "agency_id": 2040762989,
+        "company": "SAME AS ABOVE"
+      },
+      "billing_information": {
+        "send_invoices_to": "ACCOUNTING DEPT.SECT.B"
+      }
+    }
+  }
 }

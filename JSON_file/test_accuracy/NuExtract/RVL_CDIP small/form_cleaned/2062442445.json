@@ -1,3 +1,85 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "program": "SUMMER SALES SPECTACULAR",
+  "retailerUnderstanding": {
+    "phaseI": {
+      "priceReduction": {
+        "Marlboro": {
+          "pack": "2Oe",
+          "carton": "$2"
+        },
+        "Basic": {
+          "pack": "2Oe",
+          "carton": "$2"
+        }
+      },
+      "duration": {
+        "start": "June 26",
+        "end": "July 9, 1995"
+      },
+      "posItems": [
+        "4 pieces of Marlboro and 1 Basic"
+      ]
+    },
+    "phaseII": {
+      "priceReduction": {
+        "Benson & Hedges": {
+          "pack": "2Oe",
+          "carton": "$2"
+        },
+        "Merit": {
+          "pack": "2Oe",
+          "carton": "$2"
+        },
+        "Parliament": {
+          "pack": "2Oe",
+          "carton": "$2"
+        },
+        "Virginia Slims": {
+          "pack": "2Oe",
+          "carton": "$2"
+        }
+      },
+      "duration": {
+        "start": "/95",
+        "end": "/95"
+      },
+      "posItems": [
+        "3 pieces of PM Premium Brand"
+      ]
+    }
+  },
+  "promotionAllowance": {
+    "phaseI": {
+      "potentialAllowance": "$"
+    },
+    "phaseII": {
+      "potentialAllowance": "$"
+    },
+    "flexFundAllowance": "Marlboro 1 week",
+    "totalPotentialAllowance": "$"
+  },
+  "auditRights": "Philip Morris reserves the right to audit compliance of any of these program requirements at any time.",
+  "storeDetails": {
+    "storeName": "Amtsican Diug",
+    "control": "75",
+    "storeAddress": "88 SwiFtDeCbrkias 60521",
+    "phone": "2062442445"
+  },
+  "representative": {
+    "name": "Barbava Lyncl",
+    "territoryNumber": null,
+    "signature": null,
+    "date": null
+  },
+  "retailer": {
+    "name": null,
+    "signature": null,
+    "date": null
+  },
+  "distribution": {
+    "original": "Section Office",
+    "copy1": "PM Manager",
+    "copy2": "Retailer",
+    "copy3": "PM Representative"
+  }
 }

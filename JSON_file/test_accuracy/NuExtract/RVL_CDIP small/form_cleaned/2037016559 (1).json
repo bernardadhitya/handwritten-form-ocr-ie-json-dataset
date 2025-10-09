@@ -1,3 +1,24 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+    "company": "PHILIP MORRIS USA",
+    "job_procedure": {
+        "jp_no": "2037016559",
+        "issue_date": null,
+        "supersedes": null,
+        "applicable_to": null,
+        "subject": "Tuki",
+        "required_tools_equipment": null,
+        "approval": 3,
+        "potential_hazards": [
+            "Lacerations, contusions, and/or concussion injuries due to striking surrounding structures, equipment, or supplies",
+            "Injury due to wet surfaces",
+            "Surfaces presenting/descending",
+            "Muscle strain resulting from improper lifting techniques"
+        ],
+        "basic_job_procedure": [
+            "Need to use platform",
+            "Dip down by bending at knees, keeping back straight",
+            "Use dip stance between full plates",
+            "Stand up at area site level in storage area"
+        ]
+    }
 }

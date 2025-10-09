@@ -1,3 +1,60 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "master": {
+    "areaCodeAndPhoneNumber": "6S",
+    "projectNumber": "88-2963",
+    "date": "March 211938",
+    "forOfficeUse": {
+      "repNumber": null,
+      "interviewNumber": null,
+      "femaleName": null,
+      "results": 1234,
+      "state": "D",
+      "duration": null
+    },
+    "wave": null,
+    "q21": {
+      "brandsRated": [
+        "5weck",
+        "Virginia Slirs",
+        "Pasale",
+        "Yore",
+        "ONLYVALD",
+        "Capri",
+        "C-OD",
+        "Salen",
+        "Benson and Hedges"
+      ],
+      "noneRated": "NONE RATED"
+    },
+    "reloIm": "Kapuler Marketing Research",
+    "products": "products you may use.",
+    "questions": {
+      "A": {
+        "question": "Xay I please speak to someone 2l years of age or older?",
+        "responses": {
+          "noOne21OrOlder": "No one ir nousehold 21 or older",
+          "onCalledToPhone": "On/called to phone",
+          "unavailable": "Unavalable"
+        }
+      },
+      "B": {
+        "question": "How many people, 2l years of age or older, in your household...",
+        "subQuestions": [
+          "Drink diet beverages?",
+          "Stoke cigarettes?",
+          "MUST SAy YES",
+          "Eat Mexican food",
+          "IP NON TO SNOKE CIGARETES,TERMINATE",
+          "ASK Q.C AND GO TO Q.E ON THE NEI PASE."
+        ],
+        "instructions": {
+          "mustSayYes": "MUST SAy YES",
+          "askQCAndGoToQE": "ASK Q.C AND GO TO Q.E ON THE NEI PASE.",
+          "ifMoreThanOne": "IPMORE THAN CNECONTINE WITH Q.C",
+          "ifOneAskForThatPersonThen": "I CNEASK POR THAT PERSON THEN"
+        }
+      }
+    },
+    "code": 465729196
+  }
 }

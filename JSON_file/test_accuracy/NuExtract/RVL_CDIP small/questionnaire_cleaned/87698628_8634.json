@@ -1,3 +1,20 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "questionnaire": {
+    "title": "QUESTIONNAIRE REGARDING THE COMPLETION OF THE LORILLARD TOBACCO COMPANY CALIFORNIA LOBBYIST EMPIOYER REPORT FOR THE FIRST QUARTER,1990",
+    "instructions": "Please read this questionnaire thoroughly and complete all sections fully. The lobbying laws in California place the burden of scrutiny, through the audit process, on lobby employers rather than the lobbyists themselves.",
+    "partI": {
+      "title": "Filers Specific Lobbying Interests",
+      "description": "We will indicate the lobbying activities which we have undertaken on your behalf. If there are additional lobbying activities which have been engaged in during the quarter, please add them here and identify them both by Bili number, if you lobbied the Legislature, or description and the state agency involved.",
+      "additionalActivities": "Nothing additional to report"
+    },
+    "partIII": {
+      "title": "Payments A. Payments to Lobbyists",
+      "sectionA": {
+        "title": "No lobbyist employed",
+        "description": null,
+        "lobbyistStatus": "If an officer or employee is employed and registered to lobby then contact us immediately."
+      }
+    },
+    "referenceNumber": "87698628"
+  }
 }

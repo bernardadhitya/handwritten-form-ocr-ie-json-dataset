@@ -1,3 +1,25 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "transaction": {
+    "type": null,
+    "bank": null,
+    "account_number": null,
+    "transaction_id": null,
+    "customer": {
+      "name": "Maria Kalb",
+      "additional_info": "Netu rersst lar cwar."
+    },
+    "agent": {
+      "name": "Chelsea watson",
+      "code": "R.1.B."
+    },
+    "amount": {
+      "written": "Six-HundredandThirtwMine",
+      "numeric": 639
+    },
+    "total": "639",
+    "date": null,
+    "signature": "Signature du clicnt",
+    "branch": "Caisse",
+    "verification": "Cocher ctvisa dela iAT"
+  }
 }

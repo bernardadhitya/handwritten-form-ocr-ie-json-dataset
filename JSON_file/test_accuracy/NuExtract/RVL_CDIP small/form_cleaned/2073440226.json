@@ -1,3 +1,34 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "company": "SIS INTERNATIONAL,INC",
+  "fax_transmission": {
+    "date": "DEC.15.1993",
+    "time": "149PM",
+    "to": {
+      "name": "Mr.AR",
+      "fax_no": "21907.-5396"
+    },
+    "from": {
+      "name": "Kensetha...Kass"
+    },
+    "re": "PAGES: ...excluding cover page",
+    "pages": "149",
+    "notes": "R.J.rs"
+  },
+  "contact": {
+    "tel": "(914) 639-1934",
+    "fax": null,
+    "error_contact": "please call us at the above number."
+  },
+  "locations": [
+    "New Yark",
+    "London",
+    "Brussels",
+    "Munich",
+    "Rio de Janeiro",
+    "Budapest",
+    "Warsaw",
+    "Tokyo",
+    "Seoul",
+    "Singapore"
+  ]
 }

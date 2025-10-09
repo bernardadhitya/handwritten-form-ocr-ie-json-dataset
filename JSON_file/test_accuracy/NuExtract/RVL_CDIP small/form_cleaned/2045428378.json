@@ -1,3 +1,56 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "premium_brands": {
+    "people_newspaper": {
+      "market_checklist": "MARKET CHECKLIST",
+      "date": null,
+      "market": null,
+      "store_customer_no": null,
+      "retail_masters": null,
+      "non_retail_masters": null,
+      "trade_class": {
+        "c_store": "C-store_",
+        "c_gas": "C-gas_",
+        "supermarket": "Supermarket_",
+        "drug": "Drug_",
+        "liquor": "Liquor_",
+        "mass": "Mass",
+        "grocery": "Grocery_",
+        "liquor_urban": "Liquor Urban",
+        "other": "Other"
+      },
+      "april_multi_brand_promotion": {
+        "date": null,
+        "nertoce": "Was The People (Canon Promotion Sold in?",
+        "people_canon_promotion_sold_in": null,
+        "newspaper_pack_promotion_sold_in": null,
+        "good_location": null,
+        "bad_location": null,
+        "visibility": null,
+        "people_canon_display": null,
+        "people_poster": null,
+        "people_danglers": null,
+        "people_tent_card": null,
+        "newspaper_pack_display": null,
+        "newspaper_poster": null,
+        "newspaper_danglers": null,
+        "newspaper_tent_card": null,
+        "canon_ircs_on": {
+          "s_h_100s": null,
+          "merit": null,
+          "vs": null,
+          "parliament": null,
+          "other": null
+        },
+        "pack_ircs_on": {
+          "b_h_100s": null,
+          "merit": null,
+          "vs": null,
+          "parliament": null,
+          "other": null
+        }
+      }
+    }
+  },
+  "page": "1",
+  "id": "2045428378"
 }

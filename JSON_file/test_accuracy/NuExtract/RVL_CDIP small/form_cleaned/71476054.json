@@ -1,3 +1,61 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "form": "INTERNATIONALPROJECTINFORMATIONFORM",
+  "form_number": "9-047",
+  "project_code": "P",
+  "project_reference": "FxPORT StR CeSE: SPE-S7",
+  "section": "SECTION I:PROJECTINFORMATION",
+  "project_information": {
+    "project_name": null,
+    "project_purpose_summary": null,
+    "project_type": {
+      "new_brand_launch": {
+        "brand_name": "BrandyKX",
+        "note": null
+      },
+      "change_to_existing_packaging": {
+        "brand_style": null,
+        "attachments": [],
+        "reason": {
+          "government_regulation_change": null,
+          "other": null
+        }
+      },
+      "change_manufacturing_source": {
+        "from": null,
+        "to": null,
+        "brand_style": null
+      }
+    },
+    "country_code": {
+      "duty_free": null,
+      "other": null
+    },
+    "classification": null,
+    "business_type": [],
+    "production": "PRODUCED FROM B&W WEB SITE",
+    "timing_requirement": {
+      "in_market_arrival_date": null,
+      "market_launch_date": null,
+      "note": null
+    },
+    "product_quantity_required": {
+      "new_brand_launch": {
+        "initial_order": "40 case order",
+        "minimum_order": null,
+        "ongoing_monthly": null
+      },
+      "package_change_or_sourcing_change": "attach list of quzozky requirements for cach brand style."
+    }
+  },
+  "form_completion": {
+    "new_brand_launch": null,
+    "change_to_existing_products_or_change_to_manufacturing_source": null
+  },
+  "contact": {
+    "phone": "1784448652",
+    "fax": null
+  },
+  "page": "001",
+  "date": "FEB22%12:08",
+  "source": "PRODUCED FROM B&W WEB SITE"
 }

@@ -1,3 +1,50 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "product": {
+    "name": "BN-L",
+    "weight": "92.92 g",
+    "components": [
+      "BN-L",
+      "Glycerin"
+    ],
+    "total_weight": "100.00g",
+    "total_percentage": "100.00%",
+    "notes": "BN#18-CFcrmula 1.77%",
+    "subshnte_mix": {
+      "name": "Sukshte Mix Br/W/BN7A",
+      "weight_per_capsule": "1.77g"
+    },
+    "additional_components": [
+      "BN-L",
+      "Glycerin"
+    ],
+    "model_configuration": {
+      "model": "BN-L",
+      "overall_length_mm": "78",
+      "fuel_source": "1492-7B (wss Mix) Baked",
+      "inserted_by": "3mm intc Capsule",
+      "capsule": {
+        "type": "DD6- 2 S1o+-CB (Concave Botfom)",
+        "volume_filled_to": "26mm (MEP)"
+      },
+      "mouth_end_piece": {
+        "type": "CoD 1Omm 2.7Dpf Cellu1ese Acetute",
+        "hole_diameter": "4mm",
+        "code": "P1483-90-4"
+      },
+      "tobacco_jacket": {
+        "composition": "100% Puffed 75/25 Blend",
+        "paper": "646 P1ugwrap Paper"
+      },
+      "fiberglass_jacket": {
+        "weight": "0.075g",
+        "code": "#6437",
+        "binder": "3% HMP",
+        "underwrap_paper": "KC 63-5"
+      },
+      "front_end_overwrap": {
+        "paper": "KC 208 uT (No Citnte) Paper",
+        "flavor_code": "#28"
+      }
+    }
+  }
 }

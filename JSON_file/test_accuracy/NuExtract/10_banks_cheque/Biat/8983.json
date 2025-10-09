@@ -1,3 +1,18 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "transaction": {
+    "type": null,
+    "bank": null,
+    "account_number": null,
+    "customer": {
+      "first_name": "Colette",
+      "last_name": "Monjeau"
+    },
+    "reference": null,
+    "agent": null,
+    "branch": null,
+    "amount": 6721.0,
+    "amount_in_words": "Six Thousand Seven Hundred Twenty-One",
+    "date": "06/05/2022",
+    "transaction_id": "114"
+  }
 }

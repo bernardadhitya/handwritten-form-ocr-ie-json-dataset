@@ -1,3 +1,57 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "header": {
+    "document_id": "MAR209816:05FRARNOLD8PORTERLA",
+    "to": "12129075798",
+    "page": "P.01/03",
+    "code": "4M",
+    "initials": "VJK"
+  },
+  "company": {
+    "name": "Arnold & Porter",
+    "address": {
+      "floor": "Forty-Fourth",
+      "street": "777 South Figueroa Street",
+      "city": "Los Angeles",
+      "state": "California",
+      "zip": "90017-2513"
+    },
+    "telephone": "(213)243-4000",
+    "telecopier": "(213)243-4199"
+  },
+  "fax": {
+    "type": "MULTI-ADDRESS TELEFAX TRANSMISSION SHEET",
+    "date": "March 20,1998",
+    "time": null,
+    "number_of_pages": 3,
+    "file": "05633.285"
+  },
+  "recipients": [
+    "John Mulderig/David Florendo",
+    "Jean Mahon",
+    "William Allinder (SHB)",
+    "Stacey Rainey SHB",
+    "Scout E.Delacroix",
+    "Thomas J.Frederick",
+    "Mark Helm (MTO)",
+    "Lonnie Nunley, III",
+    "Arthur Rainey/Joseph Archie",
+    "Peter W.Sipkins",
+    "Susanne AddyA&P DC",
+    "Kim Futterman",
+    "Jim Scarboro/Tom Stoever",
+    "William Maledon/Dawn Dauphine",
+    "David Oswalt"
+  ],
+  "from": {
+    "name": "David Oswalt",
+    "phone": "(213)243-4180"
+  },
+  "message": {
+    "content": "TRANSMISSION PROBLEMS:Please contact (213243-4064 Kate Jensen",
+    "disclaimer": "THIS MESSAGE AND ANY MATERIAL TRANSMITTED IS INTENDED ONLY FOR THE USE OF THE ADDRESSEE AND MAY CONTAIN INFORMATION THAT IS PRIVILEGED,CONFIDENTIAL AND EXEMPT FROM DISCLOSURE ANYUSE OR DISSEMINATION OF THIS COMMUNICATIONS IS STRICTLY PROHIBITED. IF YOU EAVE"
+  },
+  "footer": {
+    "code": "JDOPM-AZA",
+    "revision_date": "3/20/97"
+  }
 }

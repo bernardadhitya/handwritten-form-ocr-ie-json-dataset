@@ -1,3 +1,21 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "gender": "Male",
+  "age": 5,
+  "locations": [
+    "Milwaukee",
+    "Syracuse",
+    "Omaha"
+  ],
+  "company": "Communicus",
+  "project": "Project LLD-6",
+  "date": "April,1978",
+  "group": "AM",
+  "survey": {
+    "introduction": "I'm from Communicus, a consumer opinion firm. We are cting a survey and would like to include you.",
+    "questions": [
+      "Do you smoke filter, non-menthol cigarettes?",
+      "How many cigarettes do you usually smoke per day?",
+      "Which of the following statements apply to you? A. I eat dinner in a restaurant at least once a month. B. I read a daily newspaper. C. I do most of the food shopping for myself and/or my family. D. I have taken an airline trip on a scheduled commercial airline in the past 12 months."
+    ]
+  }
 }

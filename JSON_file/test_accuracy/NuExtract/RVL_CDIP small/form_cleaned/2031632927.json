@@ -1,3 +1,36 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "caseNumber": "GRAND AVS",
+  "courtLocation": {
+    "city": "LOS ANGELES",
+    "state": "CALIFORNIA",
+    "zip": "90023"
+  },
+  "plaintiff": {
+    "name": "GEORGE ANDREW KOENIGSHOFER",
+    "address": "43080 PARKWAY AVE",
+    "city": "LORILLARD",
+    "state": "CALIFORNIA",
+    "zip": "92544"
+  },
+  "defendant": {
+    "name": "HENETCA",
+    "agent": "ALDMANDELBAUM",
+    "address": "275 SO.MUIRFIELD ROAD",
+    "city": "LOS ANGELESCA",
+    "state": "CALIFORNIA",
+    "zip": "90004"
+  },
+  "claim": {
+    "amount": 5000.0,
+    "description": "PRODUCT LIABILITY/WRONGFUL DEATH OF DELLA L. KOENIGSHOFER",
+    "date": "1993-08-14"
+  },
+  "trial": {
+    "date": null,
+    "filedDate": "1994-08-12"
+  },
+  "declaration": {
+    "date": "1994-08-12",
+    "name": "GEORGE.ANDREW.KOENIGSHOFER"
+  }
 }

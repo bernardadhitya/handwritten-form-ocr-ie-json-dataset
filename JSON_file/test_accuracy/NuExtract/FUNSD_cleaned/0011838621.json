@@ -1,3 +1,55 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "title": "INTERNATIONAL MARKETING RESEARCH",
+  "change_of_authorized_cost": {
+    "date": "6/21/90",
+    "number": 27,
+    "description": "Hong Kong: Cigarette Market Monitor",
+    "supplier": "MDR, HK",
+    "total_cost": {
+      "1990_cost": 43.33,
+      "previous_commitments": 0.0,
+      "this_project": 4.37647,
+      "amt_of_change": {
+        "increase": "10%",
+        "decrease": null,
+        "percentage_change": null
+      },
+      "adjusted_total_cost_of_project": 47.71147
+    },
+    "reasons": "Original MRA did not include cost for the first month of the study (see L. Lee memo of September 11, 1989)"
+  },
+  "projected": {
+    "summary_of_imrd_budget": {
+      "internal_init_date": null,
+      "total_area_budget": 2.96,
+      "ext_auth_date": null,
+      "current_balance_available": 1.48812623,
+      "waves": {
+        "this_change": 0.08,
+        "from_current_budget": null,
+        "this_amount": 0.0,
+        "field_complete": null,
+        "from_next_years_budget": null,
+        "new_balance": 1.48812615
+      },
+      "final_report_due": null,
+      "supplier_report": null,
+      "committed_to_date": 1.47187385,
+      "waves_current_year": null
+    }
+  },
+  "submitted_by": {
+    "name": "M.D.Davis",
+    "date": null
+  },
+  "approved_by": {
+    "name": "N.W.Kremer",
+    "date": null
+  },
+  "original_project_file": "MRA File",
+  "mra_file": null,
+  "project_number": "1989-29",
+  "cc": "N.H.Kremer",
+  "account_name": "International",
+  "account_number": 464537440
 }

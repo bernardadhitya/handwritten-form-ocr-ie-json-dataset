@@ -1,3 +1,79 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "company": "R.J.Reynolds Tobacco USA, Inc.",
+  "authorizationRequest": {
+    "subject": "Machinery Requirements for Polypropylene",
+    "dateRouted": "4/24/87",
+    "arNo": "B-52",
+    "originator": "W.B.Scantland",
+    "deptRefNo": "785",
+    "project": "Filter Production for Project CAL",
+    "startDate": "5/1/87",
+    "operationalDate": "12/31/87",
+    "approvalRequestSummary": "Authorization is requested for $1,922M to fund the machinery necessary to produce poly-propylene filters for the development and pilot phases of Project CAL.",
+    "authorityRequested": {
+      "previouslyApproved": null,
+      "thisRequest": null,
+      "totalRequest": "$1,922M",
+      "authorizationType": "Approved",
+      "capital": "$1.922M",
+      "expense": "$1.922M",
+      "other": null,
+      "contract": null,
+      "productModificationIntroduction": null,
+      "subsequentProposalsRequired": "No",
+      "previousProposals": null,
+      "leaseOrOtherCommitment": {
+        "minimum": null,
+        "total": null
+      },
+      "costJustifiedAt": null
+    },
+    "financeData": {
+      "capital": "$1.922M",
+      "expense": "$1.922M",
+      "capitalId": null,
+      "authorityRequestedCoveredBy": {
+        "budgetedDepartment": "#785",
+        "amount": "$1.922M"
+      },
+      "projectId": null,
+      "fundsRequiredFrom": {
+        "department": null,
+        "amount": null
+      },
+      "expenseCode": null,
+      "corporate": {
+        "amount": null
+      }
+    },
+    "financialImpact": {
+      "1987": "$48M",
+      "1988": null,
+      "1989": null,
+      "1990": null,
+      "thereafter": null,
+      "averageOperatingEarningsLoss": null
+    },
+    "corporateFundsRequested": null,
+    "reviewsApprovals": {
+      "dept": null,
+      "date": null,
+      "deptInitials": null,
+      "signature": null,
+      "date2": null,
+      "deptInitials2": null,
+      "signature2": null,
+      "deptInitials3": null,
+      "signature3": null,
+      "deptInitials4": null,
+      "signature4": null,
+      "deptInitials5": null,
+      "signature5": null,
+      "deptInitials6": null
+    },
+    "implementorProjectManager": null,
+    "projectClientRepresentative": null,
+    "departmentManagement": null
+  },
+  "form": "RJR Form 8711-Rev.01/87"
 }

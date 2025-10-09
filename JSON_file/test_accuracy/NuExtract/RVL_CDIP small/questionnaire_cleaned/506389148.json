@@ -1,3 +1,52 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "name": null,
+  "date": null,
+  "rfm": null,
+  "fema_no": null,
+  "code_no": null,
+  "aroma_raw_material": "Caryaphyllene",
+  "threshold": {
+    "min": "D",
+    "max": "ppm",
+    "unit": "ppm"
+  },
+  "attribute_profile": {
+    "1": {
+      "cigarette_like_taste": "Yes"
+    },
+    "2": {
+      "artificial_taste": "NO"
+    },
+    "3": {
+      "fresh_tobacco_like_taste": "es",
+      "comments": "Comments:"
+    },
+    "4": {
+      "smoke_like_taste": "Ye",
+      "comments": "Comments:"
+    },
+    "5": {
+      "background_mask": "Increase) Decrease No effect"
+    },
+    "6": {
+      "dry_puff_character": "Comments:",
+      "comments": "Comments:"
+    },
+    "7": {
+      "aftertaste": "Agreeable Disagreeabl",
+      "comments": "1clean Itngeringsweet J dirty coating sour Zoily"
+    },
+    "8": {
+      "trigeminal_sensation": "nasal sting tongue bite cooling NO throat scratch astringent heating peppery (tingly) soothing salivating drying"
+    },
+    "9": {
+      "categorization_of_flavor": "Z artificia7 chocolate/cocoa flue-cured metallic I nutty/pyrazine burley phenolic 3 roasted 4flora7 Piney igreen honey Frutty/wine J sour/acidic woody spicy 50638 4 sweet carame7 bitter"
+    },
+    "10": {
+      "major_character_description": "Mdey 9148"
+    },
+    "11": {
+      "recommendations": "7"
+    }
+  }
 }

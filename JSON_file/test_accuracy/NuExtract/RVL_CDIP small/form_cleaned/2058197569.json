@@ -1,3 +1,83 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "company_or_division": null,
+  "plant_or_location": null,
+  "approp_no": "COM03741",
+  "suppl_no": "B-211",
+  "project_title": "1000 Liter Pilot Plant - Advanced Tobacco Processing",
+  "amount": {
+    "fixed_assets": 4983000,
+    "capitalized_interest": 0,
+    "working_capital": 0,
+    "expense": 270000,
+    "total_request": 5253000
+  },
+  "project_description": "Relocate and upgrade existing pilot plant equipment",
+  "category_of_capital_expenditure": {
+    "increased_capacity": null,
+    "compliance_with_outside_requirements": null,
+    "cost_reduction": null,
+    "research_development": null,
+    "administrative_requirements": null,
+    "new_venture": null,
+    "straight_replacement": null,
+    "strategic_requirement": null,
+    "product_leadership_competitive_pressures": null,
+    "engineering_engineering_design": null
+  },
+  "project_status": {
+    "this_requests": 4983000,
+    "previous_authorizations": "N/A",
+    "total_cost": 4983000,
+    "project_was_included_in_five_year_plan": "N/A"
+  },
+  "summary_of_facilities_to_be_retired": {
+    "original_cost": "N/A",
+    "loss_or_gain_on_disposition": "N/A"
+  },
+  "forecast_of_cash_outlay": {
+    "3rd_qtr_1986": 1726000,
+    "4th_qtr_1986": 2526000,
+    "1st_qtr_1987": 377000,
+    "2nd_qtr_1987": 4983000,
+    "total_cash_outlay": 4983000
+  },
+  "estimated_completion_date": "April1987",
+  "incremental_profit_analysis": {
+    "payback_period_years": null,
+    "return_on_investment_percent": null,
+    "project_life_years": 15
+  },
+  "approvals": {
+    "philip_morris_companies_inc": {
+      "amount": "1.000.000 AND OVER",
+      "date": "8/15/8"
+    },
+    "vice_president_controller": {
+      "date": "8/86"
+    },
+    "operating_company_vice_president": {
+      "date": "9/11/06"
+    },
+    "vice_president_planning": {
+      "date": "9/38197569"
+    },
+    "vice_president_finance": {
+      "date": "9/11/06"
+    },
+    "vice_president_chief_financial_officer": {
+      "date": "9/11/06"
+    },
+    "vice_president_operations": {
+      "date": "9/11/06"
+    },
+    "executive_vice_president": {
+      "date": "6/186"
+    },
+    "operating_company_president": {
+      "date": "6/186"
+    },
+    "chairman_president_vice_chairman": {
+      "date": null
+    }
+  }
 }

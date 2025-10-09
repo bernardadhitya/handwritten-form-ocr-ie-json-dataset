@@ -1,3 +1,66 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "company": "R.3.REYNOLDS TOBACCO COMPANY",
+  "contract": {
+    "name": "RETAILPARTNERS MARKETING PLAN CONTRACTE",
+    "type": "SELF-SERVICE PACK OUTLET-LEVEL1/2"
+  },
+  "taxpayer_information": {
+    "corporation_name": null,
+    "corporation_exempt": null,
+    "sole_proprietor_name": null,
+    "sole_proprietor_business_name": null,
+    "ein": null,
+    "address": {
+      "street": null,
+      "city_state_zip": null
+    }
+  },
+  "certification": {
+    "penalty_of_perjury": null,
+    "backup_withholding": null
+  },
+  "store_information": {
+    "store_name": null,
+    "rjr_account_no": null,
+    "street_address": null,
+    "city_state": null,
+    "zip_code": null,
+    "rjr_territory_no": null,
+    "classification": null,
+    "brand_chain": null,
+    "current": null,
+    "rjr_vol": null,
+    "type": null,
+    "monthly_payment": null,
+    "total_quarterly": null,
+    "dollar_amount": null,
+    "si": null,
+    "total": null
+  },
+  "contract_details": {
+    "date_signed": null,
+    "signature": null,
+    "title": null,
+    "contract_effective_date": null,
+    "function": null,
+    "contract_type": null,
+    "units": null,
+    "rate": null,
+    "mo_yr": null,
+    "function_a": null,
+    "nw": null,
+    "pack": null,
+    "s": null,
+    "e3": null,
+    "a_add": null,
+    "p": null,
+    "e": null,
+    "end": null,
+    "prp": null,
+    "delete": null,
+    "049": null,
+    "c_change": null,
+    "item_no": null,
+    "form": null
+  }
 }

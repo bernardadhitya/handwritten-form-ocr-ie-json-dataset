@@ -1,3 +1,47 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "survey": {
+    "questions": [
+      "How satisfied were you in each of the following areas?",
+      "Which ONE of the following statements BEST describes the way you feel about the action taken by the R.J. Reynolds Consumer Relations Department to respond to your request for assistance?",
+      "Based on how well you were treated by our representative, will you continue to purchase the brand of cigarettes you contacted us about?"
+    ],
+    "satisfaction_statement": [
+      "I was completely satisfied.",
+      "I was NOT completely satisfied but the action taken was acceptable.",
+      "I was NOT completely satisfied but some action was taken.",
+      "I was NOT AT ALL satisfied with the action taken.",
+      "I was NOT AT ALL satisfied no action was taken."
+    ],
+    "purchase_intent": {
+      "question": "Based on how well you were treated by our representative, will you continue to purchase the brand of cigarettes you contacted us about?",
+      "options": [
+        "Definitely",
+        "Probably",
+        "I Might",
+        "Probably",
+        "Definitely",
+        "Would",
+        "Would Not",
+        "Would Not"
+      ]
+    },
+    "recommendation": {
+      "question": "Would you recommend this brand of cigarettes to an adult smoker (21 years of age or older?",
+      "options": [
+        "Definitely",
+        "Probably",
+        "I Might",
+        "Probably",
+        "Definitely",
+        "Might Not",
+        "Would Not"
+      ]
+    },
+    "additional_comments": "52273"
+  },
+  "metadata": {
+    "key": 8027,
+    "code": 4,
+    "status": "New"
+  }
 }

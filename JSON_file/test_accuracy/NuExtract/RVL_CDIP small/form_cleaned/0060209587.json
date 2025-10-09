@@ -1,18 +1,37 @@
 {
-    "location": "Stamford, Connecticut",
-    "postal_code": "06904-2380",
-    "company": "American P.O.Box10380",
-    "advertising_and_tobacco_company": "Selling Authorization",
-    "payment_method": "rapidfraft",
-    "expense_account": "expense accounts",
-    "approvals": {
-        "toots": "810,000.00",
-        "accounting_distribution": "APPROVALS",
-        "agency_marketing": "V.P.-Merketing",
-        "sales_budget_code": "866",
-        "sales_budget_year": "Yr.",
-        "cost_center": "315",
-        "sales_budget_code_2": "8127"
+  "forum": "THE SIX STAMFORD FORUM",
+  "address": {
+    "line1": "89-1",
+    "city": "STAMFORD",
+    "state": "CONNECTICUT",
+    "zip": "06904-2380"
+  },
+  "company": "ADVERTISING AND TOBACCO COMPANY",
+  "authorization": {
+    "note": "MAKE ANY COWMTMENT OR AUTHORIZE ANY EXPENOITURE OFAMY KINOFOR ACCOUNT OFTHS COMPAKY UNTL EXECUTIVE APPROYAL MAS BEEN OTANED HEREOK",
+    "originator": "BEEBYPPM COUPLETINGTHFOR",
+    "project_code": "MenuIl",
+    "date": "07/21/92",
+    "brands": "BULL DURHAM",
+    "project_description": "Franchise 1w11w22w3 FIELD UP COVERAGEPERIOD 10/92 THRU 11/92",
+    "coverage_period": {
+      "start": "10/92",
+      "end": "11/92"
     },
-    "president_auth_no": "92"
+    "memo": "To cover the cost of Free Packs to be incurred in connection with the BuL DURHAM 1W11w2 and 2w3 Field Banded Up Offer to be conducted by the Sales 19923rd Menu Program sales campaign. Payments will. be made via rapidfraft and expense accounts.",
+    "approvals_attached": null,
+    "tools": 810000.0,
+    "approvals": {
+      "accounting_distribution": {
+        "agency": 405000.0,
+        "marketing": 405000.0,
+        "sales": 405000.0
+      },
+      "cost_center": 315.0,
+      "budget_code": 866.0,
+      "year": 92.0,
+      "president_auth_no": null,
+      "chairman_ceo": null
+    }
+  }
 }

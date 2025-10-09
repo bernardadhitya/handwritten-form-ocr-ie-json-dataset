@@ -1,3 +1,44 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "company": "COVINGTON & BURLING",
+  "addresses": [
+    "1201 Pennsylvania Avenue, N.W.",
+    "Leconfield House, P.O.Box7566, Curzon Street",
+    "Washington, D.C. 20044-7566",
+    "London W1Y8AS England",
+    "44 Avenue des Arts, Brussels 1040 Belgium"
+  ],
+  "contact_numbers": {
+    "london_tel": "011-44-171-495-5655",
+    "london_fax": "011-44-171-495-3101",
+    "washington_fax_numbers": [
+      "202-662-6291",
+      "202-778-5576"
+    ],
+    "fax_operator": "202-662-6280",
+    "brussels_tel": "011-32-2-512-9890",
+    "brussels_fax": "011-32-2-502-1598",
+    "transmission_problems_contact": "202-662-6280"
+  },
+  "transmission_info": {
+    "date": "August11,1997",
+    "from": "Kipp.Coddington",
+    "pages": 5,
+    "confidentiality": "PRIVILEGED & CONFIDENTIAL",
+    "communication_type": "ATTORNEY-CLIENT COMMUNICATION"
+  },
+  "recipients": [
+    "Dr.Brian Roberts",
+    "Dr.Robert Suber",
+    "Dr.Thomas Chepiga",
+    "Dr.J.Daniel Heck",
+    "Mr.David Williams",
+    "Dr.Rick Solana",
+    "Dr. George Patskan"
+  ],
+  "remarks": "See attached memorandum.",
+  "additional_info": {
+    "fax_number": "011-32-2-502-1598",
+    "code": "2075175420",
+    "from": "Kipp.Coddington"
+  }
 }

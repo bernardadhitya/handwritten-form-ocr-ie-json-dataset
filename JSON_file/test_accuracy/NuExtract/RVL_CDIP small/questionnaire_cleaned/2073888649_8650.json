@@ -1,3 +1,19 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "survey": "1996 Political Activity Survey",
+  "respondent": {
+    "name": "Mr. Jac Kader",
+    "company": "RTCdirect",
+    "date": "31346"
+  },
+  "questions": [
+    "Are you a registered voter?",
+    "Do you plan to vote in the 1996 elections?",
+    "Concerning issues of importance, how would you prefer to contact you elected officials? (Please check all that apply.)",
+    "Have you written a letter to the editor of your local newspaper about issues of importance to you?",
+    "If no, would you be willing to write a letter to the editor of your local newspaper?",
+    "Do you have access to on-line or Internet services?",
+    "On which of the topics below would you most likely voice your opinion to elected officials?",
+    "Do you receive the Smokers Advocate newsletter about issues concerning smokers' rights?",
+    "If no, would you like to receive this free newsletter?"
+  ]
 }

@@ -1,3 +1,22 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "fax": {
+    "id": "192",
+    "time": "11:38",
+    "pages": 3,
+    "date": null
+  },
+  "sender": {
+    "name": "LEO BURNETT U.S.A",
+    "company": null,
+    "return_fax": "RETURNFAX#312/220-6559"
+  },
+  "recipient": {
+    "name": "Phikin Mowis",
+    "company": null,
+    "fax_number": null
+  },
+  "message": "PLEASE DELIVER THIS FAX IMMEDIATELY",
+  "address": "35 WEST WACKER DRIVE.CHICAG0.ILLINOIS 60601",
+  "phone": "(312)220-5959",
+  "telex": "254098"
 }

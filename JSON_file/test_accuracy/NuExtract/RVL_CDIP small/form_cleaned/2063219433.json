@@ -1,3 +1,52 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "certificate_of_insurance": {
+    "issue_date": "4/19/92",
+    "producer": {
+      "name": "Johnson & Higgins",
+      "address": "125 Broad Street"
+    },
+    "companies_affording_coverage": {
+      "A": "Hartford Fire Ins. Co.",
+      "B": "Hartford Accident & Indemnity",
+      "C": "Philip Morris Companies, Inc. and its Subsidiary Companies including NY Underwriters Ins.Co.",
+      "D": "Twin City Fire Ins. Co.",
+      "E": "New York, New York 10017"
+    },
+    "insured": {
+      "name": null,
+      "address": null
+    },
+    "coverages": [
+      "GENERAL LIABILITY",
+      "COMMERCIAL GENERAL LIABILITY",
+      "CLAIMS MADE X OCCUR",
+      "PERSONAL & ADV, INJURY",
+      "OWNER'S & CONTRACTOR'S PROT.",
+      "FIRE DAMAGE",
+      "MED. EXPENSE",
+      "AUTOMOBILE LIASILITY",
+      "LMT COMBINED SINGLE ANY AUTO",
+      "ALL OWNED AUTOS",
+      "BODILY INJURY",
+      "SCHEDULED AUTOS",
+      "NON-OWNED AUTOS",
+      "GARAGE LIABILITY",
+      "PROPERTY DAMAGE",
+      "EXCESS LIABILITY",
+      "WORKER'S COVPENSATION",
+      "EMPLOYERS' LIABILITY",
+      "DISEASE-POLICY LIMIT",
+      "OTHER"
+    ],
+    "description_of_operations": "Philip Morris sponsorship of the Kentucky Oaks Race Festival on May 1, 1992.",
+    "certificate_holder": {
+      "name": null,
+      "address": null,
+      "attn": null
+    },
+    "cancellation": "Churchill Downs Inc.",
+    "authorized_representative": "amw l- Jasn",
+    "form": "AGORD",
+    "copyright": "ACORD25-S 7/90"
+  }
 }

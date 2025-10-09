@@ -1,3 +1,56 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "survey": {
+    "contact_method": {
+      "phone": {
+        "questions": [
+          "Ability to get through on first call",
+          "Satisfaction with telephone recording",
+          "Time on hold",
+          "Ability to get through on second call",
+          "Time on hold after call",
+          "Authority to resolve problems"
+        ]
+      },
+      "letter": {
+        "questions": [
+          "Courtesy",
+          "Professionalism",
+          "Knowledge",
+          "Authority to resolve problems",
+          "Follow through on promises"
+        ]
+      }
+    },
+    "overall_satisfaction": {
+      "question": "How satisfied were you in each of the following areas:",
+      "responses": [
+        "Somewhat satisfied",
+        "Very satisfied",
+        "Satisfied",
+        "Dissatisfied",
+        "Dlssatisfied"
+      ]
+    },
+    "future_purchase": {
+      "question": "Will you continue to purchase the brand of cigarettes you contacted us about?",
+      "responses": [
+        "Definitely",
+        "Probably",
+        "Might or",
+        "Definitely",
+        "Would"
+      ]
+    },
+    "recommendation": {
+      "question": "Would you recommend this brand of cigarettes to an adult smoker?",
+      "responses": [
+        "Definitely",
+        "IMight or",
+        "Probably",
+        "Definltely",
+        "Would"
+      ]
+    },
+    "additional_comments": "OKNOW TA HARSPNOO"
+  }
 }

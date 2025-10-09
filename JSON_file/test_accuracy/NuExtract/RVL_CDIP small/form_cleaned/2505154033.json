@@ -1,3 +1,74 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "contractResearchCenter": "CRCCONTRACT RESEARCH CENTER",
+  "formNumber": "11",
+  "code": "5",
+  "reference": "KMH/MCM",
+  "formApproval": "Form approved:",
+  "observations": {
+    "type": "Group and Individual In-Life Observations",
+    "projectNumber": "3276",
+    "groupCode": "9ro",
+    "dayOfStudy": 5,
+    "date": "3Ap98",
+    "group": {
+      "males": null,
+      "females": null,
+      "time": "4.08",
+      "totalNumberOfAnimals": null,
+      "decreasedSpontaneousActivity": null,
+      "trembling": null,
+      "partiallyOrFullyClosedEyelids": null,
+      "harderianGlandSecretion": null,
+      "initials": null,
+      "partiallyOrFullyWetOrMoistFur": null,
+      "abnormalBreathing": null
+    },
+    "individual": {
+      "animalNumber": "6o rYO",
+      "sex": null,
+      "time": "44.52",
+      "codes": {
+        "spontaneousActivity": "0f0",
+        "irritability": 20,
+        "turningReflex": "A",
+        "grippingAbility": 35,
+        "closedEyelids": 45,
+        "trembling": 50,
+        "highLeggedGait": 55,
+        "abnormalBreathing": 60,
+        "harderianGlandSecretion": 65,
+        "hairChanges": {
+          "rough": 70,
+          "moistWetPercentage": "603",
+          "discoloration": "e.g..yellow/brown)",
+          "hairlossPercentage": "2505154033"
+        },
+        "skinChanges": 100,
+        "incisors": 105,
+        "injuries": null
+      }
+    }
+  },
+  "remarks": "Oracle",
+  "dates": [
+    "1998-03-05",
+    "1999-04-09"
+  ],
+  "grades": {
+    "0": "normal",
+    "-1": "slight decrease",
+    "-2": "marked decrease",
+    "+1": "slight increase",
+    "+2": "marked increase",
+    "x": "finding, describe if necessary."
+  },
+  "errorCodes": {
+    "A": "writing",
+    "B": "calculation",
+    "C": "mixing up",
+    "D": "reading",
+    "E": "copy",
+    "F": "other with expianation"
+  },
+  "errorCodeNumber": "0992"
 }

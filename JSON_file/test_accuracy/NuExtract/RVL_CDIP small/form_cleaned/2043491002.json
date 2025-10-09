@@ -1,3 +1,43 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "keyToCodes": {
+    "QRSA": "Quick Retrieval Storage Area",
+    "TER": "Until Terminated",
+    "SUP": "Until Superceded",
+    "PER": "Permanently",
+    "CUR": "Current Year"
+  },
+  "keyBanks": [],
+  "accountingFiles": {
+    "accounts": "ACCOUNTING FILES",
+    "qtlyGeneralLedger": "QTLY. GENERAL LEDGER",
+    "worksheets": "WORKSHEETS",
+    "journalEntries": "JOURNAL ENTRIES",
+    "directorsReportMonthly": "DIRECTORS REPORT (MONTHLY)"
+  },
+  "recordTitle": "PHILIP",
+  "bookingRuns": "Records Management",
+  "terminations": "TERMINATIONS",
+  "comfiche": "COMFICHE",
+  "office": "PM CREDIT CORPORATION",
+  "department": [
+    "Legal Counsel",
+    "Records Management",
+    "Department Management"
+  ],
+  "authorization": "ON-SITE",
+  "recordsRetentionSchedule": {
+    "QRSA": "QRSA",
+    "retentionPeriod": "5",
+    "duration": 5
+  },
+  "cowaA": "DENNIS FLotm",
+  "total": "120 PARK AVENUE",
+  "holdUntilCompletion": "HOLD UNTIL COMPLETION",
+  "location": "120 PARK AVENUE",
+  "date": [
+    "195",
+    "1985-06-28"
+  ],
+  "page": "1",
+  "remarks": "2043491002"
 }

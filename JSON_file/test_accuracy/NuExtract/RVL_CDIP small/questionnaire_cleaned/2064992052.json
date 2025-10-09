@@ -1,3 +1,118 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "company": "Roper Starch Worldwide",
+  "document_number": "643-194",
+  "date": "August 1996",
+  "draft": "Draft #2",
+  "study": "BRAND IMAGE STUDY",
+  "section": "SCREENER",
+  "introduction": "Hello.I'm from Roper Starch Worldwide. the national public opinion research firm. We are conducting a study about people's views and behavior on a number of different topics. and we wouid like to ask you a few questions. I can assure you that what you say will be kept strictly confidential. We are not selling anything, we would just like to ask you some questions.",
+  "questions": {
+    "A": {
+      "question": "Respondent Gender",
+      "options": [
+        "Male",
+        "Female"
+      ]
+    },
+    "B": {
+      "question": "First, what is your age?",
+      "options": [
+        "Under 18",
+        "18-24",
+        "25-34",
+        "35-49",
+        "50-59",
+        "60 or older"
+      ]
+    },
+    "C": {
+      "question": "I am going to read you some items. For each one, please tell me whether it is something you personally use. or not.",
+      "items": {
+        "Diet or lo-cal soft drinks": [
+          "Diet or lo-cal soft drinks",
+          "Regular soft drinks",
+          "Caffeinated coffee",
+          "Filtered cigarettes",
+          "Beer",
+          "Wine or wine coolers",
+          "Other alcoholic beverages"
+        ],
+        "Regular soft drinks": [
+          "Diet or lo-cal soft drinks",
+          "Regular soft drinks",
+          "Caffeinated coffee",
+          "Filtered cigarettes",
+          "Beer",
+          "Wine or wine coolers",
+          "Other alcoholic beverages"
+        ],
+        "Caffeinated coffee": [
+          "Diet or lo-cal soft drinks",
+          "Regular soft drinks",
+          "Caffeinated coffee",
+          "Filtered cigarettes",
+          "Beer",
+          "Wine or wine coolers",
+          "Other alcoholic beverages"
+        ],
+        "Filtered cigarettes": [
+          "Diet or lo-cal soft drinks",
+          "Regular soft drinks",
+          "Caffeinated coffee",
+          "Filtered cigarettes",
+          "Beer",
+          "Wine or wine coolers",
+          "Other alcoholic beverages"
+        ],
+        "Beer": [
+          "Diet or lo-cal soft drinks",
+          "Regular soft drinks",
+          "Caffeinated coffee",
+          "Filtered cigarettes",
+          "Beer",
+          "Wine or wine coolers",
+          "Other alcoholic beverages"
+        ],
+        "Wine or wine coolers": [
+          "Diet or lo-cal soft drinks",
+          "Regular soft drinks",
+          "Caffeinated coffee",
+          "Filtered cigarettes",
+          "Beer",
+          "Wine or wine coolers",
+          "Other alcoholic beverages"
+        ],
+        "Other alcoholic beverages": [
+          "Diet or lo-cal soft drinks",
+          "Regular soft drinks",
+          "Caffeinated coffee",
+          "Filtered cigarettes",
+          "Beer",
+          "Wine or wine coolers",
+          "Other alcoholic beverages"
+        ]
+      },
+      "instructions": {
+        "IF USE ITEM D. FILTERED CIGARETTES": "CONTINUE",
+        "IF DO NOT USE ITEM D. FILTERED CIGARETTES": "THANK AND TERMINATE"
+      }
+    },
+    "D": {
+      "question": "You mentioned yu smoke cigarettes. About how many do you smoke on average per day?",
+      "options": [
+        "Less than half a pack",
+        "Half a pack",
+        "About one pack",
+        "More than one pack",
+        "Don't know"
+      ]
+    },
+    "E": {
+      "question": "Is the brand you smoke most often memthol ar non-menthol?",
+      "options": [
+        "Menthol",
+        "Non-menthol"
+      ]
+    }
+  }
 }

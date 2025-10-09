@@ -1,21 +1,47 @@
 {
-    "location": "Stamford, Connecticut",
-    "zip_code": "06904-2380",
-    "company": "Tobacco Advertising and Company Selling",
-    "authorization": "BE GUIDED SYPPM60.020 IN COWPLETINGTHISFORM.",
-    "originator": "",
-    "payments": {
-        "expense_accounts": "",
-        "rapidrafts": ""
+  "forum": "THE SIX STAMFORD FORUM",
+  "address": {
+    "line1": "AT89-M1",
+    "city": "AMERICAN",
+    "state": "CONNECTICUT",
+    "zip": "06904-2380",
+    "po_box": "P.O.8OX10380"
+  },
+  "company": "Tobacco",
+  "form": "BE GUIDED SYPPM60.020 IN COWPLETINGTHISFORM.",
+  "guidance": "To cover a $.30 off one pack and $3.00 off one carton Voluntary Price Reduction (Vpr/Buy Down) in the state of Arizona in connection with the Lucky stRIKE Fiiter",
+  "originator": "SALES AZ-PIR",
+  "sales": "10/26/92",
+  "date": null,
+  "project_code": null,
+  "brand": "LUCKY STRIKE",
+  "project_description": "046700FILTERS",
+  "coverage_period": {
+    "start": "11/92",
+    "end": "12/92"
+  },
+  "memo": "To cover a $.30 off one pack and $3.00 off one carton Voluntary Price Reduction (Vpr/Buy Down) in the state of Arizona in connection with the Lucky stRIKE Fiiter",
+  "approvals_attached": null,
+  "total": 50000.0,
+  "approvals": {
+    "accounting_distribution": {
+      "agency": null,
+      "budgets": "JP",
+      "marketing": "Salos."
     },
-    "approvals": {
-        "total": "$50,000.00",
-        "accounting_distribution": "Agency +1 Budgets JP Marketing Salos",
-        "vp_marketing": "$25,000.00",
-        "vp_sales": "$25,000.00",
-        "cost_center": "$06",
-        "budget_code": "177 92",
-        "president_auth_no": "",
-        "year": ""
-    }
+    "v_p_marketing": {
+      "nov": 25000.0
+    },
+    "v_p_sales": {
+      "dec": 25000.0
+    },
+    "cost_center": "$06",
+    "v_p_marketing_sales": {
+      "budget_code": "$177",
+      "year": 92
+    },
+    "president": null,
+    "auth_no": null,
+    "chairman_ceo": null
+  }
 }

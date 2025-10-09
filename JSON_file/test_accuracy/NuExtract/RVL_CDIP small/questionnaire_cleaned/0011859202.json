@@ -1,3 +1,46 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+    "company": "ALFRED POLITZ RESEARCH, INC.",
+    "code": "JO32221",
+    "address": "5 ADIS AVENUE, JUE 1966, NW YORK, NEW YORK 10022",
+    "time_interview_started": "AM",
+    "location": "FILTER CIGARETTE PRODUCT TEST",
+    "introduction": "Hello. I represent Alfred Politz Research, Inc., a national marketing research firm. We are conducting a survey on cigarette smoking habits and preferences, and we would very much appreciate your cooperation.",
+    "question_1": {
+        "text": "Who are all the members of your family 18 years of age or older, who currently smoke one pack or more a week of some brand of filter cigarettes? List in order of age starting with the oldest. Circle position in household using one line for each individual.",
+        "positions": {
+            "M": "male head",
+            "H": "female head",
+            "S": "son",
+            "D": "daughter",
+            "C": "other male (uncle, brother-in-law, etc.)",
+            "OF": "other female (aunt, sister-in-law, etc.)"
+        },
+        "current_filter_cigarette_smokers": [
+            "FH",
+            "OM",
+            "MH",
+            "FH",
+            "OF",
+            "MH",
+            "FI",
+            "OF",
+            "OM",
+            "MH",
+            "OM"
+        ],
+        "probe": "I count (NUMBER) current filter cigarette smokers. Is that right?",
+        "instructions": "After you have completed the listing of current filter cigarette smokers in the household, interview the person in the list corresponding to the number written in black. If this number is higher than the number of smokers, consider the first smoker as a continuation and keep counting from the top again. If the person selected is not at home, ask to speak to the next eligible person. Interview only 1 person per household."
+    },
+    "question_2": {
+        "text": "Would you be willing to test some filter cigarettes during the next 10 days?",
+        "options": {
+            "yes": "Yes",
+            "no": "No"
+        },
+        "terminate_interview": "TERMINATE INTERVIEW & RE-USE QUESTIONNAIRE"
+    },
+    "question_3": {
+        "text": "About how many packs of cigarettes would you say you smoked in the past week?",
+        "write_packs": "WRITE NUMBER OF PACKS"
+    }
 }

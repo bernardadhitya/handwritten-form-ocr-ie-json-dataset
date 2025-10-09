@@ -1,3 +1,42 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "company": "MARKETING INFORMATION SYSTEMSINC.",
+  "contact": {
+    "name": "NANCY",
+    "address": "100.Sylvan Avenue",
+    "phone": [
+      "1-800-631-1623",
+      "201-947-6900"
+    ]
+  },
+  "document": {
+    "title": "ART AD/FIVE PACK E.U.TEST",
+    "version": "DRAFT#4",
+    "date": "February,1989",
+    "type": "MARKETING INFORMATION SYSTEMSINC."
+  },
+  "survey": {
+    "respondent": {
+      "name": null,
+      "address": null,
+      "city_state": null,
+      "zip_code": null,
+      "telephone_number": null,
+      "date": null,
+      "interviewer_signature": null,
+      "regular_brand": null
+    },
+    "questions": [
+      "How many packs of cigarettes did you smoke?",
+      "Would you be willing to continue smoking the cigarettes a few more days?",
+      "How long will it take you to finish smoking cigarettes we gave you?"
+    ],
+    "callback": {
+      "date": null,
+      "time": null,
+      "from_screener": null,
+      "from_first_callback": [],
+      "day": null,
+      "note": null
+    }
+  }
 }

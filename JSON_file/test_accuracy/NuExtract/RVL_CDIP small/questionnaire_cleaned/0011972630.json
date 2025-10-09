@@ -1,3 +1,75 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "store_number": 21,
+  "store_name": "JJ Market",
+  "store_type": null,
+  "address": "1912 Broadway",
+  "active_checklanes": null,
+  "package_sales": {
+    "self_service": "Sel Service",
+    "non_self_service": "Non Self Sorvice"
+  },
+  "regular_customers": {
+    "hallmark": null
+  },
+  "customer_description": {
+    "male": null,
+    "female": null,
+    "younger": null,
+    "older": null,
+    "white": null,
+    "black": null,
+    "native": null,
+    "other": null
+  },
+  "comments_on_product": null,
+  "product_sales_relative_to_national": {
+    "better": null,
+    "equal": null,
+    "half": null,
+    "quarter": null
+  },
+  "product_sales_relative_to_saratoga": {
+    "better": null,
+    "equal": null,
+    "half": null,
+    "quarter": null
+  },
+  "redeem_coupons": null,
+  "oos_problems": null,
+  "products": [],
+  "selling_price": "$94",
+  "inventory": {
+    "both_styles": null
+  },
+  "cartons_ordered_per_week": 150,
+  "order_frequency": null,
+  "order_from": null,
+  "anyone_else": null,
+  "point_of_purchase": [
+    "10 carton floor display",
+    "XCash register easel",
+    "Ceiling mobile",
+    "Floor easel",
+    "X20 pack wooden",
+    "3 pkg.rack cxtender",
+    "counter display",
+    "Counter easel",
+    "20.pack temp.",
+    "Universal sign",
+    "counter display"
+  ],
+  "neighborhood_description": null,
+  "additional_info": {
+    "maragy": "yruy clienlaf",
+    "clientele": "Ha",
+    "ha": "Stmepreall",
+    "store_presentation": "ttlsh/c",
+    "store_in_well_industrial": "ttlsh/c",
+    "store_in_well_industrial_2": null,
+    "conllittk": "ttlsh/c",
+    "neighborhood_again": "D"
+  },
+  "unknown_code": "464702491",
+  "unknown_code_2": null,
+  "unknown_code_3": null
 }

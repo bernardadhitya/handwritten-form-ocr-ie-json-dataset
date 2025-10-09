@@ -1,3 +1,71 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+    "survey": {
+        "contact_method": "phone",
+        "questions": [
+            {
+                "question": "Ease of Contact",
+                "aspects": [
+                    "Ability to get through on first call",
+                    "Satisfaction with telephone recording",
+                    "If put on hold, length of time on hold"
+                ],
+                "satisfaction_levels": [
+                    "Neither Satisfied Nor Dissatisfied",
+                    "Very Satisfied",
+                    "Somewhat Satisfied",
+                    "Somewhat Dissatisfied",
+                    "Very Dissatisfied"
+                ]
+            },
+            {
+                "question": "Personnel",
+                "aspects": [
+                    "Courtesy",
+                    "Professionalism",
+                    "Knowledge",
+                    "Authority to resolve problem or answer question"
+                ]
+            },
+            {
+                "question": "Response",
+                "aspects": [
+                    "Timeliness",
+                    "Clarity",
+                    "Helpfulness",
+                    "Follow through on promised action"
+                ]
+            }
+        ],
+        "satisfaction_statement": {
+            "question": "Which ONE of the following statements BEST describes the way you feel about the action taken by the R.J. Reynolds Consumer Relations Department to respond to your request for assistance?",
+            "options": [
+                "I was completely satisfied.",
+                "I was NOT completely satisfied but the action taken was acceptable.",
+                "I was NOT completely satisfied but some action was taken.",
+                "I was NOT AT ALL satisfied with the action taken.",
+                "I was NOT AT ALL satisfied, no action was taken."
+            ]
+        },
+        "purchase_intention": {
+            "question": "Based on how well you were treated by our representative, will you continue to purchase the brand of cigarettes you contacted us about?",
+            "options": [
+                "Definitely Would",
+                "Probably Would",
+                "Might or Might Not",
+                "Probably Would Not",
+                "Definitely Would Not"
+            ]
+        },
+        "recommendation": {
+            "question": "Would you recommend this brand of cigarettes to an adult smoker (21 years of age or older)?",
+            "options": [
+                "Definitely Would",
+                "Probably Would",
+                "Might or Might Not",
+                "Probably Would Not",
+                "Definitely Would Not"
+            ]
+        },
+        "additional_comments": "Please add any additional comments."
+    }
 }

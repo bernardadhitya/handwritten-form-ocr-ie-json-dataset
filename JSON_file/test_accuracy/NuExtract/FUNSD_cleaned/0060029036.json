@@ -1,3 +1,74 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "document": {
+    "title": "SPORTS MARKETING ENTERPRISES",
+    "dateRouted": "January 11, 1994",
+    "contract": {
+      "number": "40110000",
+      "subject": "Joe's Place Exhibits",
+      "company": "SPEVCO, INC.",
+      "brands": [
+        "Camel",
+        "Winston"
+      ],
+      "totalCost": "$1,340,000.00",
+      "currentYearCost": "1994-1995",
+      "description": "2Joe's Place Exhibits for use at Winston Cup, Winston Drag and Camel Super Bike Events."
+    },
+    "glCode": null,
+    "programBudgetCode": null,
+    "originator": {
+      "name": "Michael Wright",
+      "signature": null,
+      "date": null
+    },
+    "manager": {
+      "name": "John Powell",
+      "signature": null,
+      "date": null
+    },
+    "reviewRouting": {
+      "insurance": {
+        "signature": null,
+        "date": null
+      },
+      "law": {
+        "signature": null,
+        "date": null
+      },
+      "fsMarketing": {
+        "signature": null,
+        "date": null
+      }
+    },
+    "revisionsToShell": {
+      "pages": null,
+      "sections": null,
+      "other": null
+    },
+    "approvalRouting": {
+      "srManager": {
+        "name": "B.J.Powell",
+        "signature": null
+      },
+      "director": {
+        "name": "G.L.Littell",
+        "signature": null
+      },
+      "srVP": {
+        "name": "T.W.Robertson",
+        "signature": null
+      }
+    },
+    "returnTo": {
+      "name": "MARYSEAGRAVES",
+      "department": "SME",
+      "address": "13 Plaza Ext.1485",
+      "extension": "1485"
+    },
+    "approvalLimit": {
+      "upTo": "$25,000",
+      "over": "$25,000"
+    },
+    "revisionDate": "10/26/92"
+  }
 }

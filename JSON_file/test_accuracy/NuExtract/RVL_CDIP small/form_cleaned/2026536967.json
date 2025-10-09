@@ -1,30 +1,106 @@
 {
-    "Europaisches Patentamt": {
-        "Office": "Europoan Patent Office",
-        "Location": "Europe"
-    },
-    "GD2": {
-        "DG2": "Zutreffendes ankreuzen/Piace cross in box,as appropriate/Cocher la case voulue"
-    },
-    "Telefonische Rucksprache": {
-        "Personelle Ri": "Personal"
-    },
-    "Vollmacht uberpruft authorization": {
-        "checked": "checked"
-    },
-    "Vertreter/Representative/Mandataire": {
-        "P.SHTH Identitat uberpruft identity checked identite controlee": "P.SHTH Identitat uberpruft identity checked identite controlee"
-    },
-    "Mitglied(er) der Prufungsabteilung": {
-        "personlich bekannt": "personlich bekannt"
-    },
-    "Membre(s) de la division d'examen": {
-        "C.LOCCHCSI PACL personally known": "C.LOCCHCSI PACL personally known"
-    },
-    "Ergebnis der Rucksprache": {
-        "Result of consultation": "Result of consultation"
-    },
-    "Codierung von/Coding/Codage de B5": {
-        "nur bl personticher Rcksprache": "only in the case of pesonal consultation"
+  "organization": {
+    "de": "Europaisches Patentamt",
+    "en": "Europoan Patent Office",
+    "fr": "Office europeen des brevets"
+  },
+  "department": "DG2",
+  "consultation": {
+    "options": [
+      "Telefonische Rucksprache",
+      "Personliche Ricksprache"
+    ],
+    "with": "Anmelder/Vertreter",
+    "translations": {
+      "en": {
+        "options": [
+          "telephone consultation",
+          "personal consultation"
+        ],
+        "with": "Anmelder/Vertreter"
+      },
+      "fr": {
+        "options": [
+          "entretien de vive voix",
+          "entretien de conversation"
+        ],
+        "with": "Anmelder/Vertreter"
+      }
     }
+  },
+  "application": {
+    "number": "83308033.60",
+    "participant": {
+      "applicant": {
+        "de": "Anmelder/Applicant/Demandeur",
+        "en": "Applicant/Demandeur",
+        "fr": "Demandeur/le mandataire"
+      },
+      "authorization_checked": {
+        "de": "Vollmacht uberpruft",
+        "en": "authorization checked",
+        "fr": "autorisation controlee"
+      },
+      "representative": {
+        "de": "Vertreter/Representative/Mandataire",
+        "en": "Representative/Mandataire",
+        "fr": "Vertreter/Representative/Mandataire"
+      },
+      "identity_checked": {
+        "de": "Identitat uberpruft",
+        "en": "identity checked",
+        "fr": "identite controlee"
+      }
+    },
+    "application_number": "B51"
+  },
+  "examining_division": {
+    "members": "C.LOCCHCSI PACL",
+    "personally_known": {
+      "de": "personlich bekannt",
+      "en": "connu personnellement",
+      "fr": "connu personnellement"
+    }
+  },
+  "consultation_result": "CA-A-45piti",
+  "additional_text": "The,rcprahtve,aske!fol a tws morts luit 1i sn!e h ol'scu, Kc (weiterer Text gegebenenfalis suf Beilatt/(where necessory continue onattachedsheet)/se cas &chdent,suite sur une feuille suppl6mentaire)",
+  "form": {
+    "to_examiners_clerk": "An FormalsachbearbeiterTo the Formalities Officer/A I'agent des formalites",
+    "coding": {
+      "de": "Codierung von/Coding/Codage de B5 (nur bl personticher Ricksprache/only in the case of pesonal consultation/uniquement en cas d'entretien de vive voix)",
+      "en": "Codification of B5 (only personal consultation only in the case of verbal consultation)"
+    },
+    "dispatch": {
+      "de": "Obersendung zur Kenntnisnahme (Form 2049 Ziff.1.) nd-Rickgabe-en-1Profer",
+      "en": "Oversend to the Primary Examiner",
+      "fr": "Transmission pour information (formulaire 2049 Section 1 and return to Primary Examiner"
+    },
+    "to_formalities_officer": "An FormalsachbearbeiterTo the Formalities Officer/A I'agent des formalites",
+    "extension_of_time_limit": {
+      "de": "Verlangerung der Frist um Monate (Form 2017)",
+      "en": "Extension of time limit by months Form 2017",
+      "fr": "Prolongation du delai de moisForm2017"
+    },
+    "cancellation_of_time_limit": {
+      "de": "Loschung der Frist ExRE 3) und Vorlage der Akte an 1.Prufer",
+      "en": "Cancellation of time limit (ExRE 3 Coding and submit file to Primary Examiner",
+      "fr": "Suppression du delai (ExRE 3) et presentation du dossier a I'examinateur*"
+    },
+    "dispatch_with_time_limit": {
+      "de": "Obersendung mit Fristsetzung(Form 2049 Ziff..) von Monaten",
+      "en": "Transmission with time limit (Form 2049 Section of months",
+      "fr": "Oversend with time limit (formulaire 2049 point l de mois"
+    }
+  },
+  "not_applicable": {
+    "telephone_consultation": {
+      "de": "nicht anwendbarvoreinem Erstbescheid",
+      "en": "not applicable before a first communication",
+      "fr": "nicht anwendbarvoreinem Erstbescheid"
+    },
+    "before_first_communication": {
+      "de": "notapplicable beforea first communication",
+      "en": "not applicable before a first communication"
+    }
+  }
 }

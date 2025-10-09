@@ -1,3 +1,67 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "company": "R.J.Reynolds Tobacco USA, Inc.",
+  "authorization_request": {
+    "ar_no": "702-16",
+    "date_routed": "2/16/87",
+    "subject": "19872nd Quarter CAMEL So1o Intercept",
+    "originator": "D.C.Hirsch",
+    "dept_ref_no": "8",
+    "operational_date": null,
+    "approval_request_summary": "Promotional Marketing,Inc. has been selected to execute 9 of the 2nd quarter CAMEL Solo couponing markets to achieve high volume CAMEL Family carton purchases by adult smokers 21 years of age or older. During the period of March 30, 1987 through May 2, 1987Promotiona1 MarketingInc. wil1 distribute 218M coupons (100% in-store)."
+  },
+  "authority_requested": {
+    "authorization_type": {
+      "capital": {
+        "previously_approved": 146816,
+        "this_request": 146816,
+        "total_request": 146816
+      },
+      "expense": {
+        "contract": 0,
+        "promotion": 0,
+        "other": 0,
+        "total_request": 146816
+      }
+    },
+    "product_modification_introduction": "Yes",
+    "previous_proposals": "Other",
+    "lease_or_other_continuing_commitment": {
+      "minimum": null,
+      "for": null,
+      "cost_justified_at": null
+    }
+  },
+  "finance_data": {
+    "capital": {
+      "expense": 146816,
+      "capital_id": null
+    },
+    "project_id": null,
+    "expense_code": "04-73-3500-8610-855-87163",
+    "department": "Budgeted Department #853"
+  },
+  "financial_impact": {
+    "1987": {
+      "operating_earnings_loss": null
+    },
+    "average_thereafter": {
+      "operating_earnings_loss": null
+    },
+    "corporate_funds_requested": null
+  },
+  "reviews_approvals": {
+    "dept": {
+      "date": null,
+      "signature": null
+    },
+    "legal": null,
+    "cfo": null,
+    "operations": null,
+    "tob_ins": null,
+    "prom": null,
+    "fin_admin": null,
+    "pres_ceo": null
+  },
+  "implementor_project_manager": null,
+  "form": "8711-Rev.0Y/87"
 }

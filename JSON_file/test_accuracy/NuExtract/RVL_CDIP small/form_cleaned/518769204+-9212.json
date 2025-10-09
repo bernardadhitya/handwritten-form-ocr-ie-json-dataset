@@ -1,3 +1,37 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "Revised": "Revised6/18/96",
+  "ChainVoucherRequest": {
+    "To": "JOYCE DOUCETE-PC1110",
+    "PleaseAttachDocumentation": "Please Attach Documentation",
+    "AccountName": "CBBS OL",
+    "Voucher": {
+      "Payee": null,
+      "RequestedBy": "SUYDOWNS-VPR-DISPLAYPAYMENTS",
+      "Date": null,
+      "OnIts": {
+        "Rate": 2.4,
+        "Total": 20,
+        "HHTPSCode": "158",
+        "Units": 20,
+        "Camz": "20",
+        "C180": 20,
+        "236": 236,
+        "980": 70,
+        "196": "MONAh"
+      },
+      "TPSExplanation": "518769204",
+      "Units": {
+        "Rate": 1.0,
+        "HHTPSCode": "W96 RAC DISC",
+        "Total": "$1.00",
+        "Circle": "NON-DISC"
+      },
+      "AdditionalUnits": [],
+      "TPSExplanation2": "518769204",
+      "ROUToComplete": {
+        "VoucherNumber": "1534-3.518",
+        "DateRequested": null
+      }
+    }
+  }
 }

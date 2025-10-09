@@ -1,3 +1,50 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "id": 1015,
+  "company": "AHF MARKETING RESEARCH",
+  "project_number": "42318W",
+  "project_name": "NATIONAL CONSENSUS SURVEYS",
+  "address": {
+    "street": "801 Second Avenue",
+    "city": "New York",
+    "state": "New York",
+    "zip": "10017"
+  },
+  "date": "January, 1978",
+  "survey": {
+    "title": "CIGARETTE PORTFOLIO SCREENING QUESTIONNAIRE",
+    "time_interview": {
+      "started": null,
+      "ended": null
+    },
+    "respondent": {
+      "name": null,
+      "telephone": null,
+      "address": null,
+      "state": null
+    },
+    "interviewer": null,
+    "interview_date": null,
+    "validated_by": null,
+    "validation_date": null
+  },
+  "city_options": [
+    "Boston",
+    "Cleveland",
+    "Jacksonville",
+    "Los Angeles",
+    "New York"
+  ],
+  "initial_refusal": {
+    "circle_next_highest_number": []
+  },
+  "participation": {
+    "terminate_and_circle_next_highest_number": [],
+    "continue": null
+  },
+  "age_card": {
+    "terminate_and_circle_next_highest_number": [],
+    "continue": [],
+    "under_age": []
+  },
+  "reference_number": "101840728"
 }

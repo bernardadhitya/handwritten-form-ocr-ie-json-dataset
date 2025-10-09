@@ -1,3 +1,40 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "company": "A Paramount Communications Company",
+  "req_no": 7,
+  "requisition_type": "SEREQUISITION",
+  "company_affiliation": null,
+  "purchase_order": null,
+  "requestor_name": null,
+  "budget_and_price_information": {
+    "prior_years_actual_cost": null,
+    "included_in_this_years_budget": null,
+    "if_yes_how_much": null,
+    "capital_appropriation_number": null,
+    "project_number": null
+  },
+  "renovation_information": {
+    "project": null,
+    "work_authorization_number": null,
+    "trade_number": null
+  },
+  "shipping": {
+    "ship_via": null,
+    "terms": null
+  },
+  "reason_for_request_comments": null,
+  "work_order_number": null,
+  "requisition_information": {
+    "check_one": null,
+    "suggested_vendor": null,
+    "deliver_to": null,
+    "location": null,
+    "attention": null
+  },
+  "items": [],
+  "attachments": null,
+  "requestor_date": null,
+  "group_department_head_date": null,
+  "en_date": null,
+  "president_date": null,
+  "note": null
 }

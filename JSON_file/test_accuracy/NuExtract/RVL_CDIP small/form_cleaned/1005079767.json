@@ -1,22 +1,42 @@
 {
-    "NoticeOfResearchProject": {
-        "Title": "Cardiovascular Function and Electrocardiographic Changes in Smokers and Non-Smokers in Response to Maximal Treadmill Exercise",
-        "Institution": "Indiana University School of Medicine",
-        "Department": "Department of Medicine",
-        "PrincipalInvestigator": "Paul L.McHenryM.D.",
-        "CoInvestigator": "John W.JordanM.D",
-        "AssistantProfessor": "John W.JordanM.D",
-        "Instructor": "John W.JordanM.D",
-        "DepartmentOfNedicine": "Department of Medicine",
-        "KrannertInstituteOfCardiology": "Indiana University School of Medicine",
-        "GrantNumber": "1005079767",
-        "GrantAwardedBy": "American Heart Association",
-        "GrantPeriod": "three years",
-        "GrantStartDate": "February 1,1971",
-        "FirstYearBudget": "$9,550.00",
-        "SecondYearBudget": "$9,550.00",
-        "ThirdYearBudget": "$11,300.00",
-        "TotalBudget": "$30,400.00",
-        "Participants": "approximately 900 clinically normal males between 25.and 55 years of age"
-    }
+  "notice": "NOTICE OF RESEANCK PROJEC",
+  "organization": "SCIENCE INFORMATION EXCHANCE",
+  "publication_reference": "PPORTINGAGENCY",
+  "institution": "SMITMSOKIAN INSTTUTION",
+  "supporting_agency": "AMA Fducaticn and Rosereh Fourdation",
+  "project_title": "Cardiovascular Function and Electrocardiographic Changes in Smokers and Non-Saokers in Response to Maximal Treadmill Exercise",
+  "principal_investigator": {
+    "name": "Paul L. McHenry",
+    "position": "M.D.",
+    "department": "Department of Medicine",
+    "institution": "Indiana University School of Medicine",
+    "location": "Indianapolis, Indiana"
+  },
+  "co_investigator": {
+    "name": "John W. Jordan",
+    "position": "M.D.",
+    "department": "Department of Medicine",
+    "institution": "Indiana University School of Medicine",
+    "location": "Indianapolis, Indiana"
+  },
+  "associated_institution": {
+    "name": "Krannert Institute of Cardiology",
+    "institution": "Indiana University School of Medicine",
+    "location": "Indianapolis, Indiana"
+  },
+  "purpose": "The maxisal treadmill exercise responses of approximately 900 clinically normal males between 25.and 55 years of age will be studied to determine if there are any significant differences between cigarette smokers and non-smokers.",
+  "parameters_to_compare": [
+    "Maxieal heart rate",
+    "Duration of maximal exercise",
+    "Systolic blood pressure during maximal exercise testing",
+    "Incidence of arrhythmias during maximal exercise testing",
+    "Differences in the computer quantitated changes in the ST segment slope and depression in response to maximal exercise"
+  ],
+  "grant_details": {
+    "investigator": "Paul L. McHenry",
+    "duration": "three years",
+    "start_date": "February 1, 197l",
+    "total_budget": 30400.0,
+    "first_year_budget": 9550.0
+  }
 }

@@ -1,3 +1,56 @@
 {
-    "error": "'DynamicCache' object has no attribute 'get_max_length'"
+  "confidential": "CONFIDENTIAL",
+  "study_number": "0700",
+  "draft": "FIRST DRAFT",
+  "code": "599-0700",
+  "media_sources": {
+    "newspapers": 16.0,
+    "radio": 2.0,
+    "television": 3.0
+  },
+  "industries_interest": {
+    "automobile_industry": {
+      "very_interested": 1.0,
+      "moderately_interested": 2.0,
+      "not_very_interested": 3.0,
+      "not_at_all_interested": 4.0,
+      "don't_know": 5.0
+    },
+    "drug_industry": {
+      "very_interested": 1.0,
+      "moderately_interested": 2.0,
+      "not_very_interested": 3.0,
+      "not_at_all_interested": 4.0,
+      "don't_know": 5.0
+    },
+    "liquor_industry": {
+      "very_interested": 1.0,
+      "moderately_interested": 2.0,
+      "not_very_interested": 3.0,
+      "not_at_all_interested": 4.0,
+      "don't_know": 5.0
+    },
+    "chemical_industry": {
+      "very_interested": 1.0,
+      "moderately_interested": 2.0,
+      "not_very_interested": 3.0,
+      "not_at_all_interested": 4.0,
+      "don't_know": 5.0
+    },
+    "oil_industry": {
+      "very_interested": 1.0,
+      "moderately_interested": 2.0,
+      "not_very_interested": 3.0,
+      "not_at_all_interested": 4.0,
+      "don't_know": 5.0
+    },
+    "food_processing_and_manufacturing_industry": {
+      "very_interested": 1.0,
+      "moderately_interested": 2.0,
+      "not_very_interested": 3.0,
+      "not_at_all_interested": 4.0,
+      "don't_know": 5.0
+    }
+  },
+  "document_id": "TIMN 0074550"
 }
