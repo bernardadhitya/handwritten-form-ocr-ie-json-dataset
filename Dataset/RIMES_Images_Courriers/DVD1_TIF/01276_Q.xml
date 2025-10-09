@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="18/12/2007" author="Jouve">
+  <source width="2470" height="3502">01276_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Ouverture de compte</scenario>
+  <writer>BOURGES Dominique</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="167" top_left_y="290" bottom_right_x="727" bottom_right_y="435">
+       <type>Code d'envoi</type>
+       <text>YCHQVD</text>
+  </box>
+  <box top_left_x="399" top_left_y="451" bottom_right_x="1210" bottom_right_y="560">
+       <type>Nom</type>
+       <text>Bourges</text>
+  </box>
+  <box top_left_x="1404" top_left_y="445" bottom_right_x="2179" bottom_right_y="553">
+       <type>Prénom</type>
+       <text>Dominique</text>
+  </box>
+  <box top_left_x="483" top_left_y="551" bottom_right_x="2182" bottom_right_y="648">
+       <type>Adresse</type>
+       <text>8 B rue Salvador Allende</text>
+  </box>
+  <box top_left_x="560" top_left_y="654" bottom_right_x="979" bottom_right_y="759">
+       <type>Code Postal</type>
+       <text>54920</text>
+  </box>
+  <box top_left_x="1101" top_left_y="646" bottom_right_x="2185" bottom_right_y="753">
+       <type>Ville</type>
+       <text>Morfontaine</text>
+  </box>
+  <box top_left_x="368" top_left_y="764" bottom_right_x="1242" bottom_right_y="911">
+       <type>Téléphone</type>
+       <text>0323429333</text>
+  </box>
+  <box top_left_x="508" top_left_y="1024" bottom_right_x="2192" bottom_right_y="1145">
+       <type>Catégorie Scénario</type>
+       <text>Ouverture de compte</text>
+  </box>
+  <box top_left_x="292" top_left_y="1133" bottom_right_x="2192" bottom_right_y="1320">
+       <type>Objet Scénario</type>
+       <text>Vous souhaitez connaître la marche à suivre pour\n¤{devenire/devenir}¤ client</text>
+  </box>
+  <box top_left_x="285" top_left_y="1313" bottom_right_x="2188" bottom_right_y="1502">
+       <type>Complément Scénario</type>
+       <text>aucun\n</text>
+  </box>
+  <box top_left_x="909" top_left_y="1522" bottom_right_x="1545" bottom_right_y="1669">
+       <type>Référence client</type>
+       <text></text>
+  </box>
+  <box top_left_x="584" top_left_y="1668" bottom_right_x="2191" bottom_right_y="1761">
+       <type>Interlocuteur</type>
+       <text>Banque Crédit Populaire</text>
+  </box>
+  <box top_left_x="496" top_left_y="1757" bottom_right_x="2190" bottom_right_y="1859">
+       <type>Adresse Interlocuteur</type>
+       <text>1 rue Montaigne</text>
+  </box>
+  <box top_left_x="575" top_left_y="1855" bottom_right_x="1004" bottom_right_y="1973">
+       <type>Code Postal Interlocuteur</type>
+       <text>24110</text>
+  </box>
+  <box top_left_x="1138" top_left_y="1855" bottom_right_x="2190" bottom_right_y="1955">
+       <type>Ville Interlocuteur</type>
+       <text>St-Astier</text>
+  </box>
+  <box top_left_x="1054" top_left_y="2189" bottom_right_x="1268" bottom_right_y="2299">
+       <type>Temps passé</type>
+       <text>20</text>
+  </box>
+  <box top_left_x="900" top_left_y="2128" bottom_right_x="977" bottom_right_y="2178">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1075" top_left_y="2125" bottom_right_x="1124" bottom_right_y="2176">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1290" top_left_y="2125" bottom_right_x="1342" bottom_right_y="2177">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="304" top_left_y="2590" bottom_right_x="381" bottom_right_y="2639">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1595" top_left_y="2544" bottom_right_x="2194" bottom_right_y="2656">
+       <type>Date d'envoi postal</type>
+       <text>06/12/2006</text>
+  </box>
+  <box top_left_x="306" top_left_y="2685" bottom_right_x="381" bottom_right_y="2735">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="305" top_left_y="2780" bottom_right_x="382" bottom_right_y="2827">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1738" top_left_y="2716" bottom_right_x="2187" bottom_right_y="2833">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="300" top_left_y="2873" bottom_right_x="382" bottom_right_y="2926">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1594" top_left_y="2835" bottom_right_x="2190" bottom_right_y="2938">
+       <type>Date d'envoi par courriel</type>
+       <text>06/12/2006</text>
+  </box>
+  <box top_left_x="1735" top_left_y="3032" bottom_right_x="2000" bottom_right_y="3126">
+       <type>Résolution</type>
+       <text>200</text>
+  </box>
+  <box top_left_x="578" top_left_y="3060" bottom_right_x="622" bottom_right_y="3110">
+       <type>Format PNG</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="781" top_left_y="3058" bottom_right_x="833" bottom_right_y="3108">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="963" top_left_y="3058" bottom_right_x="1013" bottom_right_y="3108">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1074" top_left_y="2933" bottom_right_x="2191" bottom_right_y="3033">
+       <type>Marque et modèle scanner</type>
+       <text>HP PSC 1315</text>
+  </box>
+</annotation>

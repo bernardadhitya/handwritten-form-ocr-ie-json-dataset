@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="18/12/2007" author="Jouve">
+  <source width="2468" height="3503">01285_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Difficulté de paiement</scenario>
+  <writer>VIALE Arnaud</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="119" top_left_y="294" bottom_right_x="705" bottom_right_y="442">
+       <type>Code d'envoi</type>
+       <text>OGVEHY</text>
+  </box>
+  <box top_left_x="362" top_left_y="465" bottom_right_x="1211" bottom_right_y="576">
+       <type>Nom</type>
+       <text>VIALE</text>
+  </box>
+  <box top_left_x="1414" top_left_y="465" bottom_right_x="2225" bottom_right_y="573">
+       <type>Prénom</type>
+       <text>ARNAUD</text>
+  </box>
+  <box top_left_x="450" top_left_y="573" bottom_right_x="2230" bottom_right_y="671">
+       <type>Adresse</type>
+       <text>6 RUE DE EDLING</text>
+  </box>
+  <box top_left_x="531" top_left_y="678" bottom_right_x="970" bottom_right_y="789">
+       <type>Code Postal</type>
+       <text>57320</text>
+  </box>
+  <box top_left_x="1098" top_left_y="672" bottom_right_x="2234" bottom_right_y="786">
+       <type>Ville</type>
+       <text>ANZELING</text>
+  </box>
+  <box top_left_x="330" top_left_y="795" bottom_right_x="1244" bottom_right_y="949">
+       <type>Téléphone</type>
+       <text>0303347960</text>
+  </box>
+  <box top_left_x="476" top_left_y="1076" bottom_right_x="2232" bottom_right_y="1196">
+       <type>Catégorie Scénario</type>
+       <text>Difficulté de paiement</text>
+  </box>
+  <box top_left_x="250" top_left_y="1190" bottom_right_x="2233" bottom_right_y="1380">
+       <type>Objet Scénario</type>
+       <text>Demande d'échelonnement\n</text>
+  </box>
+  <box top_left_x="242" top_left_y="1378" bottom_right_x="2234" bottom_right_y="1575">
+       <type>Complément Scénario</type>
+       <text>Le montant de ma facture est trop ¤{elevé/élevé}¤\n</text>
+  </box>
+  <box top_left_x="897" top_left_y="1595" bottom_right_x="1565" bottom_right_y="1752">
+       <type>Référence client</type>
+       <text>JKERE33</text>
+  </box>
+  <box top_left_x="557" top_left_y="1751" bottom_right_x="2242" bottom_right_y="1852">
+       <type>Interlocuteur</type>
+       <text>Trésorerie des ¤{impots/impôts}¤</text>
+  </box>
+  <box top_left_x="464" top_left_y="1845" bottom_right_x="2241" bottom_right_y="1956">
+       <type>Adresse Interlocuteur</type>
+       <text>24 RUE HENRI DUROCHER</text>
+  </box>
+  <box top_left_x="546" top_left_y="1948" bottom_right_x="995" bottom_right_y="2072">
+       <type>Code Postal Interlocuteur</type>
+       <text>77940</text>
+  </box>
+  <box top_left_x="1137" top_left_y="1949" bottom_right_x="2241" bottom_right_y="2053">
+       <type>Ville Interlocuteur</type>
+       <text>VOULX</text>
+  </box>
+  <box top_left_x="1049" top_left_y="2301" bottom_right_x="1274" bottom_right_y="2416">
+       <type>Temps passé</type>
+       <text>15</text>
+  </box>
+  <box top_left_x="862" top_left_y="2243" bottom_right_x="939" bottom_right_y="2286">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1071" top_left_y="2233" bottom_right_x="1122" bottom_right_y="2287">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1295" top_left_y="2234" bottom_right_x="1349" bottom_right_y="2288">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="268" top_left_y="2728" bottom_right_x="344" bottom_right_y="2775">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1617" top_left_y="2674" bottom_right_x="2245" bottom_right_y="2792">
+       <type>Date d'envoi postal</type>
+       <text></text>
+  </box>
+  <box top_left_x="264" top_left_y="2826" bottom_right_x="316" bottom_right_y="2876">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="262" top_left_y="2924" bottom_right_x="317" bottom_right_y="2972">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1766" top_left_y="2854" bottom_right_x="2238" bottom_right_y="2977">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="260" top_left_y="3022" bottom_right_x="347" bottom_right_y="3077">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1616" top_left_y="2979" bottom_right_x="2241" bottom_right_y="3087">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1765" top_left_y="3184" bottom_right_x="2044" bottom_right_y="3284">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="550" top_left_y="3217" bottom_right_x="603" bottom_right_y="3269">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="765" top_left_y="3215" bottom_right_x="819" bottom_right_y="3268">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="955" top_left_y="3215" bottom_right_x="1007" bottom_right_y="3268">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1071" top_left_y="3081" bottom_right_x="2243" bottom_right_y="3188">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
