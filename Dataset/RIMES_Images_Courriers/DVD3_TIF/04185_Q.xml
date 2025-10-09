@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2468" height="3504">04185_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Modification de contrat / Commande</scenario>
+  <writer>SCHMIDT Mathieu</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="175" top_left_y="360" bottom_right_x="735" bottom_right_y="502">
+       <type>Code d'envoi</type>
+       <text>AIQNBW</text>
+  </box>
+  <box top_left_x="407" top_left_y="522" bottom_right_x="1218" bottom_right_y="627">
+       <type>Nom</type>
+       <text>SCHMIDT</text>
+  </box>
+  <box top_left_x="1413" top_left_y="520" bottom_right_x="2188" bottom_right_y="623">
+       <type>Prénom</type>
+       <text>Mathieu</text>
+  </box>
+  <box top_left_x="490" top_left_y="623" bottom_right_x="2193" bottom_right_y="716">
+       <type>Adresse</type>
+       <text>17 rue de la Prairie</text>
+  </box>
+  <box top_left_x="567" top_left_y="723" bottom_right_x="987" bottom_right_y="828">
+       <type>Code Postal</type>
+       <text>57330</text>
+  </box>
+  <box top_left_x="1109" top_left_y="717" bottom_right_x="2195" bottom_right_y="825">
+       <type>Ville</type>
+       <text>ENTRANGE</text>
+  </box>
+  <box top_left_x="376" top_left_y="835" bottom_right_x="1251" bottom_right_y="980">
+       <type>Téléphone</type>
+       <text>0334251856</text>
+  </box>
+  <box top_left_x="514" top_left_y="1102" bottom_right_x="2197" bottom_right_y="1215">
+       <type>Catégorie Scénario</type>
+       <text>Modification de contrat / Commande</text>
+  </box>
+  <box top_left_x="296" top_left_y="1211" bottom_right_x="2197" bottom_right_y="1392">
+       <type>Objet Scénario</type>
+       <text>changement concernant votre ¤{derière/dernière}¤ commande\n</text>
+  </box>
+  <box top_left_x="288" top_left_y="1388" bottom_right_x="2197" bottom_right_y="1578">
+       <type>Complément Scénario</type>
+       <text>Vous souhaitez annuler votre commande\n</text>
+  </box>
+  <box top_left_x="915" top_left_y="1595" bottom_right_x="1554" bottom_right_y="1745">
+       <type>Référence client</type>
+       <text>RXVCH73</text>
+  </box>
+  <box top_left_x="588" top_left_y="1742" bottom_right_x="2201" bottom_right_y="1839">
+       <type>Interlocuteur</type>
+       <text>La REBOUTE</text>
+  </box>
+  <box top_left_x="499" top_left_y="1831" bottom_right_x="2198" bottom_right_y="1937">
+       <type>Adresse Interlocuteur</type>
+       <text>14 rue Des 5 Frères Jardot</text>
+  </box>
+  <box top_left_x="577" top_left_y="1929" bottom_right_x="1007" bottom_right_y="2049">
+       <type>Code Postal Interlocuteur</type>
+       <text>90350</text>
+  </box>
+  <box top_left_x="1142" top_left_y="1930" bottom_right_x="2199" bottom_right_y="2032">
+       <type>Ville Interlocuteur</type>
+       <text>EVETTE SALBERT</text>
+  </box>
+  <box top_left_x="1058" top_left_y="2267" bottom_right_x="1273" bottom_right_y="2377">
+       <type>Temps passé</type>
+       <text>30</text>
+  </box>
+  <box top_left_x="914" top_left_y="2206" bottom_right_x="948" bottom_right_y="2256">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1079" top_left_y="2203" bottom_right_x="1128" bottom_right_y="2255">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1296" top_left_y="2204" bottom_right_x="1348" bottom_right_y="2255">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="308" top_left_y="2669" bottom_right_x="345" bottom_right_y="2718">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1601" top_left_y="2624" bottom_right_x="2203" bottom_right_y="2735">
+       <type>Date d'envoi postal</type>
+       <text>26/03</text>
+  </box>
+  <box top_left_x="314" top_left_y="2774" bottom_right_x="353" bottom_right_y="2814">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="303" top_left_y="2859" bottom_right_x="348" bottom_right_y="2906">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1743" top_left_y="2796" bottom_right_x="2194" bottom_right_y="2913">
+       <type>Date d'envoi par fax</type>
+       <text>26/03</text>
+  </box>
+  <box top_left_x="313" top_left_y="2968" bottom_right_x="338" bottom_right_y="2996">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1598" top_left_y="2916" bottom_right_x="2196" bottom_right_y="3018">
+       <type>Date d'envoi par courriel</type>
+       <text>26/03</text>
+  </box>
+  <box top_left_x="1739" top_left_y="3112" bottom_right_x="2006" bottom_right_y="3207">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="575" top_left_y="3139" bottom_right_x="626" bottom_right_y="3188">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="781" top_left_y="3138" bottom_right_x="833" bottom_right_y="3189">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="964" top_left_y="3150" bottom_right_x="1004" bottom_right_y="3191">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1075" top_left_y="3013" bottom_right_x="2197" bottom_right_y="3114">
+       <type>Marque et modèle scanner</type>
+       <text>Nashunatec DSC 338</text>
+  </box>
+</annotation>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2475" height="3504">04210_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Ouverture de compte</scenario>
+  <writer>COLOMBO Pierre</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="166" top_left_y="365" bottom_right_x="723" bottom_right_y="508">
+       <type>Code d'envoi</type>
+       <text>SAPVRD</text>
+  </box>
+  <box top_left_x="397" top_left_y="529" bottom_right_x="1204" bottom_right_y="635">
+       <type>Nom</type>
+       <text>COLOMBO</text>
+  </box>
+  <box top_left_x="1397" top_left_y="531" bottom_right_x="2167" bottom_right_y="634">
+       <type>Prénom</type>
+       <text>Pierre</text>
+  </box>
+  <box top_left_x="480" top_left_y="631" bottom_right_x="2173" bottom_right_y="727">
+       <type>Adresse</type>
+       <text>14 chemin du Breuil</text>
+  </box>
+  <box top_left_x="557" top_left_y="731" bottom_right_x="974" bottom_right_y="837">
+       <type>Code Postal</type>
+       <text>57070</text>
+  </box>
+  <box top_left_x="1096" top_left_y="726" bottom_right_x="2174" bottom_right_y="833">
+       <type>Ville</type>
+       <text>CHIEULLES</text>
+  </box>
+  <box top_left_x="366" top_left_y="843" bottom_right_x="1235" bottom_right_y="990">
+       <type>Téléphone</type>
+       <text>0340184492</text>
+  </box>
+  <box top_left_x="504" top_left_y="1112" bottom_right_x="2174" bottom_right_y="1228">
+       <type>Catégorie Scénario</type>
+       <text>Ouverture de compte</text>
+  </box>
+  <box top_left_x="289" top_left_y="1223" bottom_right_x="2175" bottom_right_y="1406">
+       <type>Objet Scénario</type>
+       <text>Vous souhaitez connaître la marche à suivre pour\ndevenir client</text>
+  </box>
+  <box top_left_x="281" top_left_y="1401" bottom_right_x="2176" bottom_right_y="1592">
+       <type>Complément Scénario</type>
+       <text>Aucun\n</text>
+  </box>
+  <box top_left_x="904" top_left_y="1608" bottom_right_x="1539" bottom_right_y="1758">
+       <type>Référence client</type>
+       <text></text>
+  </box>
+  <box top_left_x="580" top_left_y="1756" bottom_right_x="2182" bottom_right_y="1852">
+       <type>Interlocuteur</type>
+       <text>Brouille TELECOM</text>
+  </box>
+  <box top_left_x="492" top_left_y="1846" bottom_right_x="2180" bottom_right_y="1949">
+       <type>Adresse Interlocuteur</type>
+       <text>2 rue de la Poste</text>
+  </box>
+  <box top_left_x="570" top_left_y="1944" bottom_right_x="997" bottom_right_y="2064">
+       <type>Code Postal Interlocuteur</type>
+       <text>02380</text>
+  </box>
+  <box top_left_x="1131" top_left_y="1945" bottom_right_x="2180" bottom_right_y="2046">
+       <type>Ville Interlocuteur</type>
+       <text>COUCY LE CHATEAU AUFFRIQUE</text>
+  </box>
+  <box top_left_x="1048" top_left_y="2284" bottom_right_x="1262" bottom_right_y="2395">
+       <type>Temps passé</type>
+       <text>10</text>
+  </box>
+  <box top_left_x="872" top_left_y="2212" bottom_right_x="972" bottom_right_y="2282">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1069" top_left_y="2219" bottom_right_x="1118" bottom_right_y="2271">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1283" top_left_y="2220" bottom_right_x="1335" bottom_right_y="2272">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="283" top_left_y="2684" bottom_right_x="359" bottom_right_y="2749">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1589" top_left_y="2642" bottom_right_x="2187" bottom_right_y="2754">
+       <type>Date d'envoi postal</type>
+       <text>28/03/2007</text>
+  </box>
+  <box top_left_x="301" top_left_y="2783" bottom_right_x="350" bottom_right_y="2831">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="274" top_left_y="2879" bottom_right_x="378" bottom_right_y="2940">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1731" top_left_y="2816" bottom_right_x="2179" bottom_right_y="2933">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="275" top_left_y="2977" bottom_right_x="378" bottom_right_y="3040">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1587" top_left_y="2936" bottom_right_x="2181" bottom_right_y="3038">
+       <type>Date d'envoi par courriel</type>
+       <text>28/03/2007</text>
+  </box>
+  <box top_left_x="1728" top_left_y="3133" bottom_right_x="1992" bottom_right_y="3227">
+       <type>Résolution</type>
+       <text>200</text>
+  </box>
+  <box top_left_x="571" top_left_y="3160" bottom_right_x="622" bottom_right_y="3209">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="776" top_left_y="3159" bottom_right_x="827" bottom_right_y="3209">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="942" top_left_y="3159" bottom_right_x="1021" bottom_right_y="3226">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1068" top_left_y="3034" bottom_right_x="2183" bottom_right_y="3134">
+       <type>Marque et modèle scanner</type>
+       <text>DCP 7025 Brother</text>
+  </box>
+</annotation>
