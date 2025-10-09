@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="21/12/2007" author="Jouve ">
+  <source width="2468" height="3503">01053_F.png</source>
+  <document>Fax</document>
+  <scenario>Relance de courrier sans réponse</scenario>
+  <writer>SAINT-MARTIN Nathalie</writer>
+  <sender_person>Saint Martin Nathalie</sender_person>
+  <sender_company>eDF</sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company>GDF</receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="1054" top_left_y="169" bottom_right_x="1402" bottom_right_y="555">
+  <type>Logo</type>
+  <text>eDF</text>
+  </box>
+  <box top_left_x="267" top_left_y="686" bottom_right_x="470" bottom_right_y="769">
+  <type>Expéditeur_autre / Dactylographié</type>
+  <text>Nos ref:</text>
+  </box>
+  <box top_left_x="264" top_left_y="796" bottom_right_x="461" bottom_right_y="881">
+  <type>Destinataire_autre / Dactylographié</type>
+  <text>Vos ref:</text>
+  </box>
+  <box top_left_x="481" top_left_y="629" bottom_right_x="1267" bottom_right_y="768">
+  <type>Expéditeur_personne / Manuscrit</type>
+  <text>Saint Martin Nathalie</text>
+  </box>
+  <box top_left_x="486" top_left_y="780" bottom_right_x="749" bottom_right_y="895">
+  <type>Destinataire_organisme / Manuscrit</type>
+  <text>GDF</text>
+  </box>
+  <box top_left_x="219" top_left_y="986" bottom_right_x="2290" bottom_right_y="1634">
+  <type>Corps de texte / Manuscrit</type>
+  <text>Monsieur\nJe vous écris pour un courrier\nsans réponse de votre part</text>
+  </box>
+  <box top_left_x="1554" top_left_y="1643" bottom_right_x="2119" bottom_right_y="1993">
+  <type>Autre / Manuscrit</type>
+  <text></text>
+  </box>
+</annotation>

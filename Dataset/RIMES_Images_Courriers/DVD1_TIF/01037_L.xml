@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="18/12/2007" author="Jouve ">
+  <source width="2467" height="3500">01037_L.png</source>
+  <document>Lettre manuscrite</document>
+  <scenario>Relance de courrier sans réponse</scenario>
+  <writer>MASSART Patricia</writer>
+  <sender_person>Patricia Massart</sender_person>
+  <sender_company></sender_company>
+  <sender_tel>+33(0)3.70.74.08.69</sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company>les 3 suifs</receiver_company>
+  <date></date>
+  <place></place>
+  <box top_left_x="26" top_left_y="56" bottom_right_x="536" bottom_right_y="450">
+  <type>Coordonnées Expéditeur</type>
+  <text>Patricia Massart\n3 place de la République\n54620 Baslieux\ntel 03 70 74 08 69</text>
+  </box>
+  <box top_left_x="1665" top_left_y="330" bottom_right_x="2333" bottom_right_y="727">
+  <type>Coordonnées Destinataire</type>
+  <text>les 3 suifs\n14 rue du 8 mao 1945\n50570 Marigny</text>
+  </box>
+  <box top_left_x="780" top_left_y="1001" bottom_right_x="1095" bottom_right_y="1170">
+  <type>Ouverture</type>
+  <text>Monsieur,</text>
+  </box>
+  <box top_left_x="165" top_left_y="1260" bottom_right_x="2445" bottom_right_y="2126">
+  <type>Corps de texte</type>
+  <text>Je vous écris une seconde fois car je n'ai pas eu de réponse à mon ancien\ncourrier.\nEn effet mon changement de ¤{donnée/données}¤ personnelles n'a pas été pris en compte par\nvos services.\nDans l'attente d'une réponse de votre part, veuillez ¤{agreer/agréer}¤ mes salutations\nles plus distinguées.</text>
+  </box>
+  <box top_left_x="1740" top_left_y="2276" bottom_right_x="2032" bottom_right_y="2501">
+  <type>Signature</type>
+  <text></text>
+  </box>
+</annotation>

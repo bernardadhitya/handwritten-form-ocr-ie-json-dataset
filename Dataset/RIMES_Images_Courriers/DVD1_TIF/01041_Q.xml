@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="18/12/2007" author="Jouve">
+  <source width="2469" height="3501">01041_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Modification de contrat / Commande</scenario>
+  <writer>COGNET Daniel</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="188" top_left_y="355" bottom_right_x="743" bottom_right_y="496">
+       <type>Code d'envoi</type>
+       <text>IWSFJS</text>
+  </box>
+  <box top_left_x="418" top_left_y="518" bottom_right_x="1223" bottom_right_y="625">
+       <type>Nom</type>
+       <text>COGNET</text>
+  </box>
+  <box top_left_x="1415" top_left_y="519" bottom_right_x="2184" bottom_right_y="623">
+       <type>Prénom</type>
+       <text>DANIEL</text>
+  </box>
+  <box top_left_x="500" top_left_y="620" bottom_right_x="2191" bottom_right_y="717">
+       <type>Adresse</type>
+       <text>29 RUE DU GENERAL LECLERC</text>
+  </box>
+  <box top_left_x="577" top_left_y="722" bottom_right_x="993" bottom_right_y="828">
+       <type>Code Postal</type>
+       <text>67440</text>
+  </box>
+  <box top_left_x="1115" top_left_y="717" bottom_right_x="2194" bottom_right_y="826">
+       <type>Ville</type>
+       <text>BIRKENWALD</text>
+  </box>
+  <box top_left_x="384" top_left_y="834" bottom_right_x="1254" bottom_right_y="981">
+       <type>Téléphone</type>
+       <text>0384498559</text>
+  </box>
+  <box top_left_x="522" top_left_y="1102" bottom_right_x="2193" bottom_right_y="1216">
+       <type>Catégorie Scénario</type>
+       <text>Modification de commande</text>
+  </box>
+  <box top_left_x="307" top_left_y="1211" bottom_right_x="2193" bottom_right_y="1393">
+       <type>Objet Scénario</type>
+       <text>Changement concernant ma dernière commande\n</text>
+  </box>
+  <box top_left_x="299" top_left_y="1389" bottom_right_x="2191" bottom_right_y="1580">
+       <type>Complément Scénario</type>
+       <text>Je souhaite annuler ma commande\n</text>
+  </box>
+  <box top_left_x="920" top_left_y="1597" bottom_right_x="1552" bottom_right_y="1748">
+       <type>Référence client</type>
+       <text>TJSOQ00</text>
+  </box>
+  <box top_left_x="597" top_left_y="1745" bottom_right_x="2193" bottom_right_y="1844">
+       <type>Interlocuteur</type>
+       <text>LES 3 SUIFS</text>
+  </box>
+  <box top_left_x="508" top_left_y="1835" bottom_right_x="2192" bottom_right_y="1944">
+       <type>Adresse Interlocuteur</type>
+       <text>15 CHEMIN NEUF</text>
+  </box>
+  <box top_left_x="585" top_left_y="1934" bottom_right_x="1011" bottom_right_y="2053">
+       <type>Code Postal Interlocuteur</type>
+       <text>34290</text>
+  </box>
+  <box top_left_x="1145" top_left_y="1936" bottom_right_x="2192" bottom_right_y="2038">
+       <type>Ville Interlocuteur</type>
+       <text>BASSAN</text>
+  </box>
+  <box top_left_x="1061" top_left_y="2272" bottom_right_x="1274" bottom_right_y="2383">
+       <type>Temps passé</type>
+       <text>10</text>
+  </box>
+  <box top_left_x="885" top_left_y="2206" bottom_right_x="984" bottom_right_y="2260">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1082" top_left_y="2207" bottom_right_x="1130" bottom_right_y="2259">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1296" top_left_y="2207" bottom_right_x="1347" bottom_right_y="2260">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="314" top_left_y="2677" bottom_right_x="391" bottom_right_y="2726">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1599" top_left_y="2631" bottom_right_x="2194" bottom_right_y="2744">
+       <type>Date d'envoi postal</type>
+       <text>22 nov 2006</text>
+  </box>
+  <box top_left_x="317" top_left_y="2774" bottom_right_x="390" bottom_right_y="2821">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="314" top_left_y="2865" bottom_right_x="391" bottom_right_y="2914">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1739" top_left_y="2804" bottom_right_x="2186" bottom_right_y="2922">
+       <type>Date d'envoi par fax</type>
+       <text>22 nov 2006</text>
+  </box>
+  <box top_left_x="314" top_left_y="2957" bottom_right_x="391" bottom_right_y="3009">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1596" top_left_y="2924" bottom_right_x="2188" bottom_right_y="3026">
+       <type>Date d'envoi par courriel</type>
+       <text>22 nov 2006</text>
+  </box>
+  <box top_left_x="1735" top_left_y="3120" bottom_right_x="1999" bottom_right_y="3214">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="558" top_left_y="3152" bottom_right_x="633" bottom_right_y="3194">
+       <type>Format PNG</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="787" top_left_y="3145" bottom_right_x="838" bottom_right_y="3196">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="967" top_left_y="3145" bottom_right_x="1016" bottom_right_y="3196">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1078" top_left_y="3021" bottom_right_x="2189" bottom_right_y="3121">
+       <type>Marque et modèle scanner</type>
+       <text>BROTHER MFC 9760</text>
+  </box>
+</annotation>
