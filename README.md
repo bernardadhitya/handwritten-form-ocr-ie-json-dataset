@@ -13,49 +13,49 @@ FUNSD is a dataset for form understanding in noisy scanned documents, containing
 
 | 0000990274.png | 0001123541.png | 0001463282.png |
 |:---:|:---:|:---:|
-| ![FUNSD Sample 1](Dataset/FUNSD_cleaned/0000990274.png) | ![FUNSD Sample 2](Dataset/FUNSD_cleaned/0001123541.png) | ![FUNSD Sample 3](Dataset/FUNSD_cleaned/0001463282.png) |
+| ![FUNSD Sample 1](src/0000990274.png) | ![FUNSD Sample 2](src/0001123541.png) | ![FUNSD Sample 3](src/0001463282.png) |
 
 ### 2. IAM (IAM Handwriting Database)
 The IAM Handwriting Database is a large dataset containing handwritten English text from various writers. It includes forms of handwritten English text, which are useful for training and testing handwriting recognition systems. The database contains both isolated words and complete sentences, providing diverse handwriting styles and complexity levels.
 
 | a01-000u.png | a01-003u.png | a01-007u.png |
 |:---:|:---:|:---:|
-| ![IAM Sample 1](Dataset/IAM/000/a01-000u.png) | ![IAM Sample 2](Dataset/IAM/000/a01-003u.png) | ![IAM Sample 3](Dataset/IAM/000/a01-007u.png) |
+| ![IAM Sample 1](src/a01-000u.png) | ![IAM Sample 2](src/a01-003u.png) | ![IAM Sample 3](src/a01-007u.png) |
 
 ### 3. RVL-CDIP (Ryerson Vision Lab Complex Document Information Processing)
 RVL-CDIP is a dataset for document classification and information extraction, containing 400,000 grayscale images in 16 classes. The dataset includes various document types including forms, making it suitable for document understanding and classification tasks.
 
 | 500022678.tif | 500083831_500083835.tif | 500183719_500183721.tif |
 |:---:|:---:|:---:|
-| ![RVL-CDIP Sample 1](Dataset/RVL_CDIP%20small/handwritten/500022678.tif) | ![RVL-CDIP Sample 2](Dataset/RVL_CDIP%20small/handwritten/500083831_500083835.tif) | ![RVL-CDIP Sample 3](Dataset/RVL_CDIP%20small/handwritten/500183719_500183721.tif) |
+| ![RVL-CDIP Sample 1](src/500022678.png) | ![RVL-CDIP Sample 2](src/500083831_500083835.png) | ![RVL-CDIP Sample 3](src/500183719_500183721.png) |
 
 ### 4. RIMES (Reconnaissance et Indexation de données Manuscrites et de fac similÉS)
 RIMES is a French handwriting recognition dataset containing handwritten mail documents. It includes various types of handwritten correspondence and forms, providing a rich resource for French handwriting recognition and document analysis.
 
 | 00001_L.tif | 00002_L.tif | 00003_L.tif |
 |:---:|:---:|:---:|
-| ![RIMES Sample 1](Dataset/RIMES_Images_Courriers/DVD1_TIF/00001_L.tif) | ![RIMES Sample 2](Dataset/RIMES_Images_Courriers/DVD1_TIF/00002_L.tif) | ![RIMES Sample 3](Dataset/RIMES_Images_Courriers/DVD1_TIF/00003_L.tif) |
+| ![RIMES Sample 1](src/00001_L.png) | ![RIMES Sample 2](src/00002_L.png) | ![RIMES Sample 3](src/00003_L.png) |
 
 ### 5. CVL Database
 The CVL Database is a handwriting recognition dataset containing handwritten text from multiple writers. It provides a diverse collection of handwritten documents suitable for training and evaluating handwriting recognition systems.
 
 | 0001-1.tif | 0001-2.tif | 0001-3.tif |
 |:---:|:---:|:---:|
-| ![CVL Sample 1](Dataset/cvl-database-1-1/trainset/pages/0001-1.tif) | ![CVL Sample 2](Dataset/cvl-database-1-1/trainset/pages/0001-2.tif) | ![CVL Sample 3](Dataset/cvl-database-1-1/trainset/pages/0001-3.tif) |
+| ![CVL Sample 1](src/0001-1.png) | ![CVL Sample 2](src/0001-2.png) | ![CVL Sample 3](src/0001-3.png) |
 
 ### 6. IDRBT Cheque Image Dataset
 This dataset contains bank cheque images with various handwriting styles and formats. It's particularly useful for financial document processing and bank form analysis applications.
 
 | Cheque 083654.tif | Cheque 083655.tif | Cheque 083656.tif |
 |:---:|:---:|:---:|
-| ![IDRBT Sample 1](Dataset/IDRBT_Cheque_Image_Dataset/300/Cheque%20083654.tif) | ![IDRBT Sample 2](Dataset/IDRBT_Cheque_Image_Dataset/300/Cheque%20083655.tif) | ![IDRBT Sample 3](Dataset/IDRBT_Cheque_Image_Dataset/300/Cheque%20083656.tif) |
+| ![IDRBT Sample 1](src/Cheque%20083654.png) | ![IDRBT Sample 2](src/Cheque%20083655.png) | ![IDRBT Sample 3](src/Cheque%20083656.png) |
 
 ### 7. 10 Banks Cheque Dataset
 A collection of cheque images from 10 different banks (Axis, ICICI, HSBC, Canara, Credit, Biat, Banque, Attihari, Saudi, Universelle), providing diverse banking form formats and handwriting styles for financial document analysis.
 
 | 1.jpg | 2.jpg | 3.jpg |
 |:---:|:---:|:---:|
-| ![Axis Sample 1](Dataset/10_banks_cheque/Axis/1.jpg) | ![Axis Sample 2](Dataset/10_banks_cheque/Axis/2.jpg) | ![Axis Sample 3](Dataset/10_banks_cheque/Axis/3.jpg) |
+| ![Axis Sample 1](src/1.jpg) | ![Axis Sample 2](src/2.jpg) | ![Axis Sample 3](src/3.jpg) |
 
 
 ## Repository Structure
@@ -113,7 +113,7 @@ handwritten-form-ocr-ie-json-dataset/
 ## Usage Examples
 
 ### Bank Cheque Example
-**Image**: `Dataset/10_banks_cheque/Axis/axis_001.png`
+**Image**: `src/1.jpg`
 **OCR Text**: `OCR_text/10_banks_cheque/Axis/1.txt`
 **JSON**: `JSON_file/10_banks_cheque/Axis/1.json`
 ```json
@@ -133,7 +133,7 @@ handwritten-form-ocr-ie-json-dataset/
 ```
 
 ### Form Example (FUNSD)
-**Image**: `Dataset/FUNSD_cleaned/0000990274.png`
+**Image**: `src/0000990274.png`
 **OCR Text**: `OCR_text/FUNSD_cleaned/0000990274.txt`
 **JSON**: `JSON_file/FUNSD_cleaned/0000990274.json`
 ```json
