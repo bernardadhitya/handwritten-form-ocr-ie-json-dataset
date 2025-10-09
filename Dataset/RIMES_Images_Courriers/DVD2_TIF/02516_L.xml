@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve ">
+  <source width="2470" height="3506">02516_L.png</source>
+  <document>Lettre manuscrite</document>
+  <scenario>Modification de contrat / Commande</scenario>
+  <writer>FORGET Nathalie</writer>
+  <sender_person>FORGET Nathalie</sender_person>
+  <sender_company></sender_company>
+  <sender_tel>+33()....</sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company>Banque Débit Lyonnais</receiver_company>
+  <date>31/01/2007</date>
+  <place>ST BLAISE</place>
+  <box top_left_x="30" top_left_y="22" bottom_right_x="861" bottom_right_y="427">
+  <type>Coordonnées Expéditeur</type>
+  <text>FORGET Nathalie\n10 rue du COLLET\n06670 ST BLAISE\ntél : 0472080901</text>
+  </box>
+  <box top_left_x="1430" top_left_y="19" bottom_right_x="2440" bottom_right_y="152">
+  <type>Date, Lieu</type>
+  <text>ST BLAISE, le 31 janvier 2007</text>
+  </box>
+  <box top_left_x="1105" top_left_y="541" bottom_right_x="2276" bottom_right_y="1014">
+  <type>Coordonnées Destinataire</type>
+  <text>à Banque Débit Lyonnais\nImpasse du Mole\n74100 VILLE LA GRAND</text>
+  </box>
+  <box top_left_x="175" top_left_y="1033" bottom_right_x="1426" bottom_right_y="1224">
+  <type>Coordonnées Expéditeur</type>
+  <text>¤{Réference/Référence}¤ Client : LVZUE84</text>
+  </box>
+  <box top_left_x="236" top_left_y="1384" bottom_right_x="2231" bottom_right_y="2574">
+  <type>Corps de texte</type>
+  <text>Afin de réduire la montagne\nde liquidité présente sur mon compte courant,\nje souhaiterais par la présente doubler\ntoutes les actions précedemment commandées.\nMerci d'accuser ¤{reception/réception}¤ de cette ¤missive¤.\nBien cordialement,</text>
+  </box>
+  <box top_left_x="1266" top_left_y="2669" bottom_right_x="1803" bottom_right_y="2959">
+  <type>Signature</type>
+  <text></text>
+  </box>
+</annotation>
