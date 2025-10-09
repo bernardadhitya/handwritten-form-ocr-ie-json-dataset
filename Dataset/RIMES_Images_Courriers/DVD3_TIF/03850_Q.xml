@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2470" height="3509">03850_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Demande d'information</scenario>
+  <writer>BRUEL Michele</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="132" top_left_y="276" bottom_right_x="690" bottom_right_y="419">
+       <type>Code d'envoi</type>
+       <text>JIXRCP</text>
+  </box>
+  <box top_left_x="364" top_left_y="440" bottom_right_x="1172" bottom_right_y="548">
+       <type>Nom</type>
+       <text>Bruel</text>
+  </box>
+  <box top_left_x="1366" top_left_y="443" bottom_right_x="2138" bottom_right_y="549">
+       <type>Prénom</type>
+       <text>Michele</text>
+  </box>
+  <box top_left_x="446" top_left_y="542" bottom_right_x="2143" bottom_right_y="641">
+       <type>Adresse</type>
+       <text>13 Bis Rue Georges Cervier</text>
+  </box>
+  <box top_left_x="523" top_left_y="643" bottom_right_x="941" bottom_right_y="750">
+       <type>Code Postal</type>
+       <text>25310</text>
+  </box>
+  <box top_left_x="1063" top_left_y="639" bottom_right_x="2145" bottom_right_y="751">
+       <type>Ville</type>
+       <text>Roches les Blamont</text>
+  </box>
+  <box top_left_x="330" top_left_y="754" bottom_right_x="1202" bottom_right_y="904">
+       <type>Téléphone</type>
+       <text>0361722127</text>
+  </box>
+  <box top_left_x="469" top_left_y="1024" bottom_right_x="2143" bottom_right_y="1142">
+       <type>Catégorie Scénario</type>
+       <text>Demande d'information</text>
+  </box>
+  <box top_left_x="253" top_left_y="1134" bottom_right_x="2143" bottom_right_y="1317">
+       <type>Objet Scénario</type>
+       <text>Renseignement sur les horaires d'accueil du\npublic</text>
+  </box>
+  <box top_left_x="245" top_left_y="1312" bottom_right_x="2143" bottom_right_y="1501">
+       <type>Complément Scénario</type>
+       <text>\n</text>
+  </box>
+  <box top_left_x="869" top_left_y="1519" bottom_right_x="1504" bottom_right_y="1669">
+       <type>Référence client</type>
+       <text></text>
+  </box>
+  <box top_left_x="544" top_left_y="1667" bottom_right_x="2148" bottom_right_y="1762">
+       <type>Interlocuteur</type>
+       <text>¤{Tresorier/Trésorerie}¤ des Impôts</text>
+  </box>
+  <box top_left_x="456" top_left_y="1758" bottom_right_x="2147" bottom_right_y="1861">
+       <type>Adresse Interlocuteur</type>
+       <text>Rue Didier Dourat</text>
+  </box>
+  <box top_left_x="533" top_left_y="1856" bottom_right_x="962" bottom_right_y="1975">
+       <type>Code Postal Interlocuteur</type>
+       <text>24100</text>
+  </box>
+  <box top_left_x="1095" top_left_y="1856" bottom_right_x="2148" bottom_right_y="1956">
+       <type>Ville Interlocuteur</type>
+       <text>Bergerac</text>
+  </box>
+  <box top_left_x="1014" top_left_y="2193" bottom_right_x="1229" bottom_right_y="2303">
+       <type>Temps passé</type>
+       <text>10</text>
+  </box>
+  <box top_left_x="834" top_left_y="2132" bottom_right_x="937" bottom_right_y="2182">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1034" top_left_y="2128" bottom_right_x="1083" bottom_right_y="2180">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1250" top_left_y="2128" bottom_right_x="1302" bottom_right_y="2180">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="263" top_left_y="2606" bottom_right_x="340" bottom_right_y="2648">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1555" top_left_y="2548" bottom_right_x="2155" bottom_right_y="2661">
+       <type>Date d'envoi postal</type>
+       <text>17/03/07</text>
+  </box>
+  <box top_left_x="264" top_left_y="2700" bottom_right_x="311" bottom_right_y="2743">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="262" top_left_y="2788" bottom_right_x="314" bottom_right_y="2834">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1698" top_left_y="2721" bottom_right_x="2148" bottom_right_y="2839">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="271" top_left_y="2887" bottom_right_x="341" bottom_right_y="2933">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1554" top_left_y="2841" bottom_right_x="2150" bottom_right_y="2945">
+       <type>Date d'envoi par courriel</type>
+       <text>17/03/07</text>
+  </box>
+  <box top_left_x="1694" top_left_y="3038" bottom_right_x="1960" bottom_right_y="3133">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="535" top_left_y="3069" bottom_right_x="586" bottom_right_y="3119">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="750" top_left_y="3077" bottom_right_x="818" bottom_right_y="3120">
+       <type>Format GIF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="921" top_left_y="3067" bottom_right_x="971" bottom_right_y="3118">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1033" top_left_y="2940" bottom_right_x="2151" bottom_right_y="3041">
+       <type>Marque et modèle scanner</type>
+       <text>HP PSC 1350</text>
+  </box>
+</annotation>

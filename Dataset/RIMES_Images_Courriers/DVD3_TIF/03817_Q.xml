@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2471" height="3505">03817_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Changement de données personnelles</scenario>
+  <writer>LATOUR David</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="174" top_left_y="379" bottom_right_x="732" bottom_right_y="520">
+       <type>Code d'envoi</type>
+       <text>AYMBLL</text>
+  </box>
+  <box top_left_x="405" top_left_y="542" bottom_right_x="1216" bottom_right_y="648">
+       <type>Nom</type>
+       <text>Latour</text>
+  </box>
+  <box top_left_x="1410" top_left_y="543" bottom_right_x="2185" bottom_right_y="646">
+       <type>Prénom</type>
+       <text>David</text>
+  </box>
+  <box top_left_x="489" top_left_y="644" bottom_right_x="2191" bottom_right_y="737">
+       <type>Adresse</type>
+       <text>70 rue droite</text>
+  </box>
+  <box top_left_x="566" top_left_y="744" bottom_right_x="985" bottom_right_y="849">
+       <type>Code Postal</type>
+       <text>06660</text>
+  </box>
+  <box top_left_x="1108" top_left_y="738" bottom_right_x="2192" bottom_right_y="844">
+       <type>Ville</type>
+       <text>St Etienne de tinée</text>
+  </box>
+  <box top_left_x="373" top_left_y="856" bottom_right_x="1247" bottom_right_y="1003">
+       <type>Téléphone</type>
+       <text>0458215843</text>
+  </box>
+  <box top_left_x="513" top_left_y="1125" bottom_right_x="2190" bottom_right_y="1240">
+       <type>Catégorie Scénario</type>
+       <text>Changement de données personnelles</text>
+  </box>
+  <box top_left_x="296" top_left_y="1235" bottom_right_x="2190" bottom_right_y="1416">
+       <type>Objet Scénario</type>
+       <text>Nouvelles coordonnées téléphonique\n</text>
+  </box>
+  <box top_left_x="289" top_left_y="1413" bottom_right_x="2190" bottom_right_y="1601">
+       <type>Complément Scénario</type>
+       <text>Vous changez d'opérateur\ntéléphonique</text>
+  </box>
+  <box top_left_x="914" top_left_y="1620" bottom_right_x="1551" bottom_right_y="1769">
+       <type>Référence client</type>
+       <text>VDBVO04</text>
+  </box>
+  <box top_left_x="589" top_left_y="1768" bottom_right_x="2197" bottom_right_y="1863">
+       <type>Interlocuteur</type>
+       <text>Banque Société Géniale</text>
+  </box>
+  <box top_left_x="500" top_left_y="1858" bottom_right_x="2195" bottom_right_y="1961">
+       <type>Adresse Interlocuteur</type>
+       <text>Rue des essieux</text>
+  </box>
+  <box top_left_x="578" top_left_y="1956" bottom_right_x="1007" bottom_right_y="2075">
+       <type>Code Postal Interlocuteur</type>
+       <text>34660</text>
+  </box>
+  <box top_left_x="1141" top_left_y="1956" bottom_right_x="2195" bottom_right_y="2057">
+       <type>Ville Interlocuteur</type>
+       <text>COURNONTERRAL</text>
+  </box>
+  <box top_left_x="1059" top_left_y="2293" bottom_right_x="1273" bottom_right_y="2403">
+       <type>Temps passé</type>
+       <text>25</text>
+  </box>
+  <box top_left_x="880" top_left_y="2236" bottom_right_x="981" bottom_right_y="2282">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1079" top_left_y="2229" bottom_right_x="1128" bottom_right_y="2280">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1295" top_left_y="2229" bottom_right_x="1347" bottom_right_y="2281">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="307" top_left_y="2698" bottom_right_x="384" bottom_right_y="2746">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1600" top_left_y="2650" bottom_right_x="2201" bottom_right_y="2761">
+       <type>Date d'envoi postal</type>
+       <text>19/03/07</text>
+  </box>
+  <box top_left_x="318" top_left_y="2798" bottom_right_x="383" bottom_right_y="2839">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="306" top_left_y="2887" bottom_right_x="357" bottom_right_y="2933">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1743" top_left_y="2823" bottom_right_x="2193" bottom_right_y="2940">
+       <type>Date d'envoi par fax</type>
+       <text>19/03/07</text>
+  </box>
+  <box top_left_x="310" top_left_y="2980" bottom_right_x="385" bottom_right_y="3033">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1598" top_left_y="2943" bottom_right_x="2195" bottom_right_y="3045">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1740" top_left_y="3139" bottom_right_x="2005" bottom_right_y="3234">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="579" top_left_y="3168" bottom_right_x="630" bottom_right_y="3218">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="784" top_left_y="3167" bottom_right_x="836" bottom_right_y="3217">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="978" top_left_y="3178" bottom_right_x="1011" bottom_right_y="3218">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1077" top_left_y="3041" bottom_right_x="2196" bottom_right_y="3141">
+       <type>Marque et modèle scanner</type>
+       <text>HP 3800</text>
+  </box>
+</annotation>
