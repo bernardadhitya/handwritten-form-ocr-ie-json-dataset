@@ -1,0 +1,65 @@
+hn-c9 
+8123810000
+3290020
+8-17
+NAME/AD SURVEY
+SCREENER
+1819
+RESPONDENT'S NAME
+ALI
+STATE:
+ADDRESS:
+2
+AREA CODE:
+PHONE NUMBER:
+DATE:
+-
+INTERVIEWED BY:
+Hello,I'm
+from
+a local
+marketing.research company.
+We're conducting a survey today and I'd like to ask you a
+few questions.
+1.
+First, do you or does any member of your family work for
+An automobile manufacturer
+A food processing company
+An advertising agency.
+[1
+A newspaper or magazine.
+[]
+TERMINATE,ERASE & RE-USE
+A tobacco manufacture
+[]
+An insurance company
+[]
+A marketing research company
+Have you participated in a marketing research study in the past 6 months involving..
+Beer
+[]
+Soft drinks
+[]
+Cigarettes
+TERMINATEERASE & RE-USE
+3.
+Which of the following products do you, yourself, use? Just tell me yes or no as I
+read them.
+[IF YESCHECK]
+Soft drinks
+Wine
+Beer.
+[]
+Pipe tobacco
+Cigarettes
+CONTINUE ONLY IF CHECKED
+50608
+*+
+Less than 10
+TERMINATEERASE &RE-USE
+8863
+10 or more
+RECORD RESPONDENT SEX --ASK IF NOT SURE]
+Male
+20)
+Female
