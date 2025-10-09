@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2474" height="3503">02160_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Ouverture de compte</scenario>
+  <writer>BOUE Lucia</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="185" top_left_y="368" bottom_right_x="741" bottom_right_y="510">
+       <type>Code d'envoi</type>
+       <text>USCHDK</text>
+  </box>
+  <box top_left_x="415" top_left_y="531" bottom_right_x="1222" bottom_right_y="638">
+       <type>Nom</type>
+       <text>BOUE</text>
+  </box>
+  <box top_left_x="1415" top_left_y="533" bottom_right_x="2187" bottom_right_y="637">
+       <type>Prénom</type>
+       <text>Lucia</text>
+  </box>
+  <box top_left_x="498" top_left_y="633" bottom_right_x="2191" bottom_right_y="730">
+       <type>Adresse</type>
+       <text>9 rue rouget de Lisle</text>
+  </box>
+  <box top_left_x="573" top_left_y="734" bottom_right_x="991" bottom_right_y="840">
+       <type>Code Postal</type>
+       <text>39150</text>
+  </box>
+  <box top_left_x="1112" top_left_y="729" bottom_right_x="2192" bottom_right_y="838">
+       <type>Ville</type>
+       <text>St Laurent en grandvaux</text>
+  </box>
+  <box top_left_x="381" top_left_y="846" bottom_right_x="1250" bottom_right_y="994">
+       <type>Téléphone</type>
+       <text>0302330464</text>
+  </box>
+  <box top_left_x="520" top_left_y="1115" bottom_right_x="2193" bottom_right_y="1230">
+       <type>Catégorie Scénario</type>
+       <text>Ouverture de compte</text>
+  </box>
+  <box top_left_x="304" top_left_y="1225" bottom_right_x="2193" bottom_right_y="1407">
+       <type>Objet Scénario</type>
+       <text>Vous souhaitez ¤{connaitre/connaître}¤ la marche à suivre pour devenir client\n</text>
+  </box>
+  <box top_left_x="296" top_left_y="1403" bottom_right_x="2193" bottom_right_y="1592">
+       <type>Complément Scénario</type>
+       <text>aucun\n</text>
+  </box>
+  <box top_left_x="919" top_left_y="1612" bottom_right_x="1554" bottom_right_y="1761">
+       <type>Référence client</type>
+       <text></text>
+  </box>
+  <box top_left_x="595" top_left_y="1760" bottom_right_x="2198" bottom_right_y="1854">
+       <type>Interlocuteur</type>
+       <text>NNA Assurances</text>
+  </box>
+  <box top_left_x="507" top_left_y="1849" bottom_right_x="2196" bottom_right_y="1953">
+       <type>Adresse Interlocuteur</type>
+       <text>30 rue du Gal de Gaulle</text>
+  </box>
+  <box top_left_x="585" top_left_y="1948" bottom_right_x="1012" bottom_right_y="2067">
+       <type>Code Postal Interlocuteur</type>
+       <text>44290</text>
+  </box>
+  <box top_left_x="1146" top_left_y="1946" bottom_right_x="2197" bottom_right_y="2048">
+       <type>Ville Interlocuteur</type>
+       <text>Guemene Penfao</text>
+  </box>
+  <box top_left_x="1064" top_left_y="2286" bottom_right_x="1278" bottom_right_y="2397">
+       <type>Temps passé</type>
+       <text>5</text>
+  </box>
+  <box top_left_x="912" top_left_y="2226" bottom_right_x="987" bottom_right_y="2276">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1084" top_left_y="2222" bottom_right_x="1133" bottom_right_y="2274">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1300" top_left_y="2222" bottom_right_x="1352" bottom_right_y="2273">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="316" top_left_y="2694" bottom_right_x="364" bottom_right_y="2743">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1605" top_left_y="2640" bottom_right_x="2203" bottom_right_y="2753">
+       <type>Date d'envoi postal</type>
+       <text>22/01/07</text>
+  </box>
+  <box top_left_x="316" top_left_y="2789" bottom_right_x="365" bottom_right_y="2837">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="314" top_left_y="2883" bottom_right_x="365" bottom_right_y="2929">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1747" top_left_y="2813" bottom_right_x="2196" bottom_right_y="2931">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="314" top_left_y="2975" bottom_right_x="365" bottom_right_y="3025">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1603" top_left_y="2933" bottom_right_x="2198" bottom_right_y="3038">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1744" top_left_y="3131" bottom_right_x="2009" bottom_right_y="3227">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="586" top_left_y="3164" bottom_right_x="637" bottom_right_y="3214">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="792" top_left_y="3162" bottom_right_x="844" bottom_right_y="3213">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="973" top_left_y="3161" bottom_right_x="1023" bottom_right_y="3212">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1083" top_left_y="3031" bottom_right_x="2200" bottom_right_y="3135">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
