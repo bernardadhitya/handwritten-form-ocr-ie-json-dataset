@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2479" height="3503">04612_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Ouverture de compte</scenario>
+  <writer>MANZANO Jonathan</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="178" top_left_y="365" bottom_right_x="735" bottom_right_y="508">
+       <type>Code d'envoi</type>
+       <text>MONYDU</text>
+  </box>
+  <box top_left_x="408" top_left_y="529" bottom_right_x="1217" bottom_right_y="636">
+       <type>Nom</type>
+       <text>MANZANO</text>
+  </box>
+  <box top_left_x="1410" top_left_y="531" bottom_right_x="2182" bottom_right_y="635">
+       <type>Prénom</type>
+       <text>Jonathan</text>
+  </box>
+  <box top_left_x="492" top_left_y="632" bottom_right_x="2187" bottom_right_y="728">
+       <type>Adresse</type>
+       <text>6 RUE A SCHWEITZER</text>
+  </box>
+  <box top_left_x="568" top_left_y="732" bottom_right_x="986" bottom_right_y="838">
+       <type>Code Postal</type>
+       <text>68500</text>
+  </box>
+  <box top_left_x="1108" top_left_y="727" bottom_right_x="2190" bottom_right_y="837">
+       <type>Ville</type>
+       <text>BERGHOLTZ</text>
+  </box>
+  <box top_left_x="376" top_left_y="844" bottom_right_x="1247" bottom_right_y="992">
+       <type>Téléphone</type>
+       <text>0357838300</text>
+  </box>
+  <box top_left_x="515" top_left_y="1113" bottom_right_x="2187" bottom_right_y="1230">
+       <type>Catégorie Scénario</type>
+       <text>Ouverture de compte</text>
+  </box>
+  <box top_left_x="298" top_left_y="1223" bottom_right_x="2187" bottom_right_y="1406">
+       <type>Objet Scénario</type>
+       <text>Vous souhaitez connaître la marche à\nsuivre pour devenir client</text>
+  </box>
+  <box top_left_x="290" top_left_y="1402" bottom_right_x="2187" bottom_right_y="1592">
+       <type>Complément Scénario</type>
+       <text>aucun\n</text>
+  </box>
+  <box top_left_x="914" top_left_y="1610" bottom_right_x="1549" bottom_right_y="1760">
+       <type>Référence client</type>
+       <text></text>
+  </box>
+  <box top_left_x="589" top_left_y="1757" bottom_right_x="2193" bottom_right_y="1856">
+       <type>Interlocuteur</type>
+       <text>Brouille ¤{telecom/télécom}¤</text>
+  </box>
+  <box top_left_x="501" top_left_y="1847" bottom_right_x="2192" bottom_right_y="1955">
+       <type>Adresse Interlocuteur</type>
+       <text>1 GRAND RUE</text>
+  </box>
+  <box top_left_x="578" top_left_y="1945" bottom_right_x="1006" bottom_right_y="2064">
+       <type>Code Postal Interlocuteur</type>
+       <text>11220</text>
+  </box>
+  <box top_left_x="1140" top_left_y="1947" bottom_right_x="2192" bottom_right_y="2048">
+       <type>Ville Interlocuteur</type>
+       <text>MONTLAUR</text>
+  </box>
+  <box top_left_x="1056" top_left_y="2283" bottom_right_x="1270" bottom_right_y="2394">
+       <type>Temps passé</type>
+       <text>20</text>
+  </box>
+  <box top_left_x="914" top_left_y="2233" bottom_right_x="942" bottom_right_y="2263">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1077" top_left_y="2218" bottom_right_x="1125" bottom_right_y="2270">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1292" top_left_y="2218" bottom_right_x="1344" bottom_right_y="2270">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="310" top_left_y="2698" bottom_right_x="341" bottom_right_y="2730">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1596" top_left_y="2642" bottom_right_x="2195" bottom_right_y="2755">
+       <type>Date d'envoi postal</type>
+       <text>4.04.2007</text>
+  </box>
+  <box top_left_x="306" top_left_y="2784" bottom_right_x="355" bottom_right_y="2832">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="304" top_left_y="2878" bottom_right_x="355" bottom_right_y="2924">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1738" top_left_y="2816" bottom_right_x="2187" bottom_right_y="2934">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="309" top_left_y="2981" bottom_right_x="339" bottom_right_y="3021">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1594" top_left_y="2936" bottom_right_x="2189" bottom_right_y="3039">
+       <type>Date d'envoi par courriel</type>
+       <text>3.04.2007</text>
+  </box>
+  <box top_left_x="1734" top_left_y="3132" bottom_right_x="2000" bottom_right_y="3226">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="576" top_left_y="3159" bottom_right_x="627" bottom_right_y="3208">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="792" top_left_y="3166" bottom_right_x="858" bottom_right_y="3200">
+       <type>Format GIF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="963" top_left_y="3157" bottom_right_x="1012" bottom_right_y="3208">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1073" top_left_y="3034" bottom_right_x="2190" bottom_right_y="3134">
+       <type>Marque et modèle scanner</type>
+       <text>Canon Canoscan Lide 20</text>
+  </box>
+</annotation>
