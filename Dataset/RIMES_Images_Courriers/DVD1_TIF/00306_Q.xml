@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2466" height="3503">00306_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Réclamation</scenario>
+  <writer>JOSSE Michael</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="168" top_left_y="294" bottom_right_x="724" bottom_right_y="435">
+       <type>Code d'envoi</type>
+       <text>XKTJER</text>
+  </box>
+  <box top_left_x="399" top_left_y="457" bottom_right_x="1205" bottom_right_y="563">
+       <type>Nom</type>
+       <text>JOSSE</text>
+  </box>
+  <box top_left_x="1398" top_left_y="457" bottom_right_x="2168" bottom_right_y="561">
+       <type>Prénom</type>
+       <text>Mickael</text>
+  </box>
+  <box top_left_x="482" top_left_y="559" bottom_right_x="2173" bottom_right_y="653">
+       <type>Adresse</type>
+       <text>8 rue du MAL LECLERC</text>
+  </box>
+  <box top_left_x="559" top_left_y="660" bottom_right_x="976" bottom_right_y="766">
+       <type>Code Postal</type>
+       <text>67700</text>
+  </box>
+  <box top_left_x="1098" top_left_y="655" bottom_right_x="2176" bottom_right_y="764">
+       <type>Ville</type>
+       <text>ECKARTSWILLER</text>
+  </box>
+  <box top_left_x="368" top_left_y="772" bottom_right_x="1237" bottom_right_y="919">
+       <type>Téléphone</type>
+       <text>0387068097</text>
+  </box>
+  <box top_left_x="506" top_left_y="1041" bottom_right_x="2175" bottom_right_y="1155">
+       <type>Catégorie Scénario</type>
+       <text>Réclamation</text>
+  </box>
+  <box top_left_x="290" top_left_y="1151" bottom_right_x="2176" bottom_right_y="1331">
+       <type>Objet Scénario</type>
+       <text>vous souhaitez vous faire rembourser\n</text>
+  </box>
+  <box top_left_x="283" top_left_y="1329" bottom_right_x="2178" bottom_right_y="1517">
+       <type>Complément Scénario</type>
+       <text>Le produit livré est ¤{defectueux/défectueux}¤\n</text>
+  </box>
+  <box top_left_x="906" top_left_y="1536" bottom_right_x="1541" bottom_right_y="1686">
+       <type>Référence client</type>
+       <text>NZYDH68</text>
+  </box>
+  <box top_left_x="583" top_left_y="1684" bottom_right_x="2183" bottom_right_y="1780">
+       <type>Interlocuteur</type>
+       <text>La Redoute</text>
+  </box>
+  <box top_left_x="494" top_left_y="1774" bottom_right_x="2181" bottom_right_y="1879">
+       <type>Adresse Interlocuteur</type>
+       <text>ROUTE DE TROYES</text>
+  </box>
+  <box top_left_x="571" top_left_y="1872" bottom_right_x="999" bottom_right_y="1991">
+       <type>Code Postal Interlocuteur</type>
+       <text>52120</text>
+  </box>
+  <box top_left_x="1132" top_left_y="1873" bottom_right_x="2181" bottom_right_y="1974">
+       <type>Ville Interlocuteur</type>
+       <text>LAFERTE SUR AUBE</text>
+  </box>
+  <box top_left_x="1051" top_left_y="2210" bottom_right_x="1264" bottom_right_y="2320">
+       <type>Temps passé</type>
+       <text>20</text>
+  </box>
+  <box top_left_x="898" top_left_y="2150" bottom_right_x="974" bottom_right_y="2199">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1072" top_left_y="2145" bottom_right_x="1121" bottom_right_y="2197">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1286" top_left_y="2146" bottom_right_x="1338" bottom_right_y="2197">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="295" top_left_y="2613" bottom_right_x="380" bottom_right_y="2676">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1590" top_left_y="2567" bottom_right_x="2187" bottom_right_y="2679">
+       <type>Date d'envoi postal</type>
+       <text></text>
+  </box>
+  <box top_left_x="304" top_left_y="2711" bottom_right_x="353" bottom_right_y="2759">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="304" top_left_y="2804" bottom_right_x="381" bottom_right_y="2855">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1732" top_left_y="2740" bottom_right_x="2180" bottom_right_y="2858">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="304" top_left_y="2898" bottom_right_x="381" bottom_right_y="2951">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1588" top_left_y="2861" bottom_right_x="2182" bottom_right_y="2964">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1729" top_left_y="3059" bottom_right_x="1994" bottom_right_y="3153">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="574" top_left_y="3087" bottom_right_x="624" bottom_right_y="3136">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="779" top_left_y="3086" bottom_right_x="830" bottom_right_y="3136">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="959" top_left_y="3086" bottom_right_x="1009" bottom_right_y="3136">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1070" top_left_y="2960" bottom_right_x="2184" bottom_right_y="3060">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
