@@ -1,0 +1,82 @@
+{
+    "project_no": 3271,
+    "group_and_individual_in_life_observations": {
+        "group_code": "C",
+        "day_of_study": "C",
+        "date": "22",
+        "group": {
+            "males": {
+                "total_number_of_rats": 48,
+                "observations": [
+                    "Decreased spontaneous activity",
+                    "Trembling",
+                    "Partially or fully closed eyelids",
+                    "Harderian gland secretion",
+                    "Partially or fully wet or moist fur",
+                    "Abnormal breathing"
+                ]
+            },
+            "females": {}
+        },
+        "individual": {
+            "rat_number": 905,
+            "sex": "L",
+            "time": "14.26",
+            "score": {
+                "spontaneous_activity": null,
+                "reaction_to_sound_touch": null,
+                "decreased_turning_reflex": null,
+                "decreased_gripping_ability": "+",
+                "closed_eyelids": null,
+                "harderian_gland_secretion": null,
+                "trembling": null,
+                "abnormal_breathing": null
+            },
+            "hair_changes": {
+                "moist_wet_percent": 30,
+                "discoloration": "X",
+                "hairloss_percent": 3
+            },
+            "skin_changes": {
+                "wounds": null
+            },
+            "high_legged_gait": "2505146174",
+            "incisors": "O",
+            "remarks": {
+                "error_codes": {
+                    "A": "writing",
+                    "B": "calculation",
+                    "C": "mixing up",
+                    "D": "reading",
+                    "E": "copy",
+                    "F": "other with explanation"
+                },
+                "initials": "SD",
+                "date": "23JU1997"
+            }
+        }
+    },
+    "grades": {
+        "spontaneous_activity": {
+            "0": "normal",
+            "-1": "slight decrease",
+            "-2": "marked decrease",
+            "-3": "strong decrease",
+            "+1": "slight increase",
+            "+2": "marked increase",
+            "+3": "strong increase"
+        },
+        "reaction_to_sound_touch": {
+            "0": "normal",
+            "+1": "slight",
+            "+2": "marked",
+            "+3": "severe"
+        },
+        "decreased_turning_reflex": {
+            "0": "normal",
+            "x": "finding, describe if necessary"
+        }
+    },
+    "check": "00213",
+    "u79": null
+}

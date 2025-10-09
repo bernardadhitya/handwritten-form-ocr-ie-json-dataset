@@ -1,0 +1,47 @@
+{
+    "keyToCodes": {
+        "QRSA": "Quick Retrieval Storage Area - 100 Park Avenue",
+        "TER": "Until Terminated",
+        "SUP": "Until Superceded",
+        "PER": "Permanently",
+        "CUR": "Current Year"
+    },
+    "keyBanks": [
+        "BANK FILES",
+        "ADMINISTRATIVE PMCC FILES",
+        "ACCOUNTING FILES"
+    ],
+    "accountingFiles": {
+        "accounts": "CUR+2",
+        "qtlyGeneralLedger": "CUR+7",
+        "worksheets": "CUR+2",
+        "journalEntries": "CUR+2",
+        "directorsReportMonthly": "CUR+2"
+    },
+    "recordTitle": "Philip Morris Incorporated",
+    "bookingRuns": "Records Management Headquarters Services",
+    "terminations": "TER",
+    "comfiche": "DISC",
+    "office": "PM Credit Corporation",
+    "department": [
+        "Legal Counsel",
+        "Records Management",
+        "Department Management"
+    ],
+    "authorization": "ON-SITE",
+    "recordsRetentionSchedule": {
+        "QRSA": "CARLSTADT",
+        "retentionPeriod": "OFF-SITE",
+        "duration": 5
+    },
+    "cowaA": "DENNIS Flotm",
+    "total": "TER",
+    "holdUntilCompletion": "CUR+7*",
+    "location": "120 Park Avenue",
+    "date": [
+        "7/5/x5",
+        "6/28/85"
+    ],
+    "page": "1 of 3",
+    "remarks": "2043491002"
+}

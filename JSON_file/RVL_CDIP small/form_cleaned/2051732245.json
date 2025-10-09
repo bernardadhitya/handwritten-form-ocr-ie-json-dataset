@@ -1,0 +1,66 @@
+{
+    "productOrMaterialChangeRequest": {
+        "page": "1",
+        "authorizedForImplementation": true,
+        "changeRequestNumber": "MSC-6497",
+        "effectiveDate": "January 13, 1994",
+        "statusCode": null,
+        "noteCode": null,
+        "dispositionOfExpMtls": null,
+        "productCodesAffected": [
+            {
+                "code": "E 00710 00706",
+                "description": "MERIT KS REGULAR SP"
+            },
+            {
+                "code": "E 0072000706",
+                "description": "MERIT KS MENTHOL SP"
+            },
+            {
+                "code": "E 0076000706",
+                "description": "MERIT 1OO REGULAR SP"
+            },
+            {
+                "code": "E 01010 0 0706",
+                "description": "MERIT ULTRA LIGHTS KS REGULAR SP"
+            },
+            {
+                "code": "E0120000706",
+                "description": "MERIT 83MM REGULAR FTB ITALY US NAVY"
+            },
+            {
+                "code": "E 0120000016",
+                "description": "MERIT 83MM REGULAR FTB UNIVERSAL CAUTION NOTICE"
+            }
+        ],
+        "descriptionOfChange": "DELETE THE BOM'S AT THE LOCATIONS LISTED. REVIEW WITH EXPORT PRODUCTION PLANNING INDICATES THESE PRODUCTS WILL RUN AT OTHER MANUFACTURING LOCATIONS WITH NEW DOMESTIC GRAPHICS.",
+        "uniqueMaterials": [
+            "N-711-A",
+            "N-720-A",
+            "N-761-A",
+            "N-107-A",
+            "E-102-A",
+            "C-710-B",
+            "C-720-B",
+            "C-711-B",
+            "C-713-D",
+            "C-063-B"
+        ],
+        "dmPolicyCompliance": "N/A",
+        "formulaUsageChg": null,
+        "plantsAffected": null,
+        "equipmentCodes": "41-",
+        "preparedBy": "M/CS/SL/V",
+        "otherComments": null,
+        "datePrepared": "1/11/94",
+        "authorizedBy": "C. Wa",
+        "agentOrTSSignOff": null,
+        "checked": null,
+        "purchasingServicesOnly": null,
+        "dateDataEntry": null,
+        "approved": null,
+        "approvedForDistribution": "J.C ug1nO",
+        "dateApproved": null,
+        "supersedesPreviousChange": true
+    }
+}

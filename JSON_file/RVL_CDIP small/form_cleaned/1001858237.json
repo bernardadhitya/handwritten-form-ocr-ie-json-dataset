@@ -1,0 +1,50 @@
+{
+    "division": "CIGARETTE DEVELOPMENT DIVISION",
+    "form": "TEST RELEASE FORM",
+    "test_number": "tz1Sj//",
+    "date_requested": "c",
+    "requested_by": "A.ul",
+    "date_completed": "6-9",
+    "checked_by": {
+        "cigarette_inspection": {
+            "filters": 717,
+            "filler_rod": 277,
+            "finished_cigarettes": null,
+            "packaging": null
+        },
+        "analytical_specifications": {
+            "spec_1": "6-7",
+            "spec_2": "Qc7--69"
+        }
+    },
+    "samples_sent_to": [
+        {
+            "name": "R.N.Thomson",
+            "code": "ZC",
+            "date": "6-27-"
+        },
+        {
+            "name": "R.B.Seligman",
+            "code": "2n.lco",
+            "date": "-7"
+        },
+        {
+            "name": "Z/.C",
+            "code": "M",
+            "date": "9-"
+        }
+    ],
+    "approved_for_release": [
+        {
+            "group": "Tobacco Processing Group",
+            "name": "Eni6 hr"
+        },
+        {
+            "name": "R.N. Thomson",
+            "title": "Manager",
+            "id": 1001858237,
+            "division": "Cigt. Dev.Division",
+            "code": "RC207"
+        }
+    ]
+}

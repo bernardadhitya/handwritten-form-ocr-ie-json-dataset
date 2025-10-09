@@ -1,0 +1,53 @@
+{
+    "formTitle": "Philip Morris Hotline Special Request Form",
+    "fields": {
+        "ID": "",
+        "title": [
+            "Mr.",
+            "Mrs.",
+            "Ms."
+        ],
+        "name": {
+            "first": "",
+            "middleInitial": "",
+            "last": "Sapelli"
+        },
+        "address": "",
+        "phone": "",
+        "specialRequests": [
+            "Remove Name",
+            "Add Name",
+            "Information"
+        ],
+        "inquiryType": [
+            "Question",
+            "Comment",
+            "Miscellaneous",
+            "Address/Phone Change/Correction"
+        ],
+        "oldAddress": {
+            "city": "",
+            "state": "",
+            "zip": ""
+        },
+        "newAddress": {
+            "city": "",
+            "state": "",
+            "zip": ""
+        },
+        "newPhone": "",
+        "additionalComments": "",
+        "referralSource": "",
+        "callHandledBy": "",
+        "date": "",
+        "returnTo": {
+            "phone": "2070078723",
+            "contactName": "Susan Strausser",
+            "company": "Philip Morris U.S.A.",
+            "address": "120 Park Avenue",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10017"
+        }
+    }
+}

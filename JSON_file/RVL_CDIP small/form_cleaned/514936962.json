@@ -1,0 +1,144 @@
+{
+    "company": "RJR Nabisco",
+    "capitalAuthorizationRequest": {
+        "date": "3/20/87",
+        "operatingCompany": "R.JRT",
+        "caNo": "B-45",
+        "subjectLocation": "Additional Specialized Equipment for Project SPA",
+        "coRefNo": null,
+        "approvalRequestSummary": {
+            "authorizationRequested": 1403,
+            "currentEstimate": 11466,
+            "increaseReasons": {
+                "newEquipmentRequirements": 690,
+                "foreignExchangeRateDecline": 441,
+                "variancesFromOriginalQuantities": -194,
+                "prices": 66,
+                "contingency": 400
+            }
+        },
+        "contingency": "RJR",
+        "equipment": [
+            {
+                "name": "Dust Collector",
+                "code": "10m-0y-29300.000-00",
+                "type": "mPCF",
+                "status": "D"
+            },
+            {
+                "name": "Fire Alarm",
+                "code": "SECRET",
+                "location": "Control Room",
+                "size": "25m",
+                "type": "X.RBT388"
+            },
+            {
+                "name": "Inspection Drum",
+                "code": "CFsplie",
+                "size": "12m20.50m/8x",
+                "description": "ADDDESCFONLY",
+                "no": "421By",
+                "type": "XC.DCH2387",
+                "size2": "312m"
+            }
+        ],
+        "authorityRequested": {
+            "previouslyApproved": 10063,
+            "thisRequest": 1403,
+            "total": 11466
+        },
+        "capitalAddition": {
+            "capitalRelatedExpense": null,
+            "expansion": null,
+            "replacement": null,
+            "pvOfLeasePayments": null,
+            "costReduction": null,
+            "qualityImprovement": null,
+            "other": null,
+            "newDevelopmentOther": null,
+            "totalRequest": 11466
+        },
+        "capitalDisposal": null,
+        "subsequentCommitmentsRequired": "Yes",
+        "leaseOrOtherContinuingCommitment": {
+            "amountOfChange": null,
+            "noOfMonthsFromDateOfApproval": null,
+            "postAuditDate": null
+        },
+        "financialImpact": {
+            "1987": {
+                "ibtProfitLoss": 35,
+                "netIncomeLoss": 20
+            },
+            "1988": {
+                "ibtProfitLoss": 87,
+                "netIncomeLoss": 54
+            },
+            "1989": {
+                "ibtProfitLoss": 87,
+                "netIncomeLoss": 54
+            },
+            "thereafter": {
+                "ibtProfitLoss": 87,
+                "netIncomeLoss": 54
+            }
+        },
+        "economicImpact": {
+            "internalRateOfReturn": null,
+            "discRateForNPV": null,
+            "payback": {
+                "onShore": {
+                    "percent": null,
+                    "usDollars": null,
+                    "years": null
+                },
+                "offShore": {
+                    "percent": null,
+                    "years": null
+                }
+            }
+        },
+        "approval": {
+            "operatingCompany": {
+                "corporateTitle": "DIR OD",
+                "signature": null,
+                "date": "3-21.87"
+            },
+            "corporate": {
+                "title": "DIR MP",
+                "signature": "RJRRDR",
+                "date": "3/20/87"
+            },
+            "rjrtChairman": {
+                "title": "VP MP",
+                "signature": "GWM",
+                "date": "3/00s)"
+            },
+            "presCeo": {
+                "title": "CFO",
+                "signature": "ZBhelE",
+                "date": null
+            },
+            "evpFA": {
+                "title": "RAE",
+                "signature": "Muenkn",
+                "date": "3/3/"
+            },
+            "presRjrtDc": {
+                "title": "RAK",
+                "signature": "4680",
+                "date": "51493"
+            },
+            "rjrtc": {
+                "title": "FHC",
+                "signature": "80e",
+                "date": "330"
+            },
+            "rjrnForm": {
+                "title": "5524-Rev.12/86",
+                "signature": null,
+                "date": null
+            }
+        }
+    }
+}

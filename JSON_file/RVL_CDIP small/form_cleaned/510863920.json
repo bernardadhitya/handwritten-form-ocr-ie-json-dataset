@@ -1,0 +1,51 @@
+{
+    "procedure_note": {
+        "note_number": "91-49",
+        "date": "6/26/91",
+        "temporary": {
+            "effective_date": "6/26/91",
+            "termination_date": "9/26/91"
+        },
+        "permanent": {
+            "type": {
+                "product": false,
+                "process": true,
+                "packaging": false,
+                "flavor": false,
+                "tobacco": false,
+                "material": false,
+                "other": true
+            }
+        },
+        "specifications": {
+            "subject": "G13-24 Product/Process Specifications",
+            "brief_summary": "Tobacco Processing is requesting a revision to the filling capacity target for G13-24. Production data to-date has shown that the current specification of 90o is beyond the capability of the process when using stabilization tobaccos.",
+            "recommendation": "Consequently, a target of 880 is recommended in order to improve the capability of the process to control to target and provide a more consistent expanded product to Primary Operations. The range will remain unchanged at +/-45."
+        },
+        "authorization": {
+            "recommended_for_authorization": true,
+            "product_standards_authorization": "7-1-9/",
+            "authorized": [
+                "Inman",
+                "McKenzie",
+                "T.F.Bailey",
+                "L.A. Lyerly",
+                "C.E.Tinsley",
+                "F.M.Lockamy"
+            ]
+        },
+        "distribution": {
+            "product_standards_file": "Ann Niten",
+            "file_number": "51086 3920"
+        },
+        "cc": [
+            "D.B.Poindexter",
+            "C.D.Elmore",
+            "T.R.Young",
+            "D.H. Beeson",
+            "G.W.Wallace",
+            "D.J.Hal",
+            "H.A.Ebert"
+        ]
+    }
+}

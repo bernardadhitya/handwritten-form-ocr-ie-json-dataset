@@ -1,0 +1,47 @@
+{
+    "date": "2/13/81",
+    "company": "OFLOWSTHEATRES.INC",
+    "purchaseOrderNo": "O43A",
+    "vendor": {
+        "name": "Borriston Laboratories, Inc.",
+        "address": "5050 Beech Place, Temple Hills, Maryland 20031"
+    },
+    "destination": {
+        "name": "Lorillard Research Center",
+        "address": "420 English St., Greensboro, N.C. 27405"
+    },
+    "terms": {
+        "payment": "Net 15",
+        "fob": "N/A",
+        "ship": "N/A",
+        "via": "N/A"
+    },
+    "instructions": "Order No. and Code No. must appear on all papers and packages. Mail invoices in duplicate.",
+    "tests": [
+        {
+            "description": "Acute Oral LD50 in Rats on Material D3 and D4 supplied by Lorillard",
+            "price": 1850,
+            "total": 3700
+        },
+        {
+            "description": "13-Week Subchronic Oral Toxicity in Rats (20) on Material D3 and D4 supplied by Lorillard according to Protocol LRC-10A",
+            "total": 103700
+        },
+        {
+            "description": "Ophthalmologic evaluations before treatment and at 13 weeks",
+            "price": 600,
+            "total": 1200
+        }
+    ],
+    "invoicing": {
+        "item1": "Completion",
+        "item2": "Four equal installments",
+        "item3": "Completion"
+    },
+    "coordination": {
+        "contact": "Dr. Harry Minnemeyer",
+        "phone": "919-373-6603"
+    },
+    "authorizedSignature": "Lorillard, A DIV. OF LOEW'S THEATRES, INC",
+    "state": "88983256"
+}

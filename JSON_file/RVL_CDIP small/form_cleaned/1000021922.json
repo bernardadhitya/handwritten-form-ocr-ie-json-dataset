@@ -1,0 +1,33 @@
+{
+    "useaScale": "0-7",
+    "unacceptable": 0,
+    "excellent": 7,
+    "instructions": "Please attach a complete explanation for each of your ratings.",
+    "date": "",
+    "proposalBy": "",
+    "reviewGuidance": "Do not review a proposal if you are a member of, or consultant to, the bidding organization.",
+    "nonEvaluationReason": "If you have not evaluated this proposal, please give your reasons on the back of this sheet.",
+    "proposalEvaluation": {
+        "score": "5",
+        "weight": "25%",
+        "ratings": [
+            {
+                "criterion": "scientific value of proposed",
+                "rating": 5
+            },
+            {
+                "criterion": "practicality of approach",
+                "rating": 3
+            },
+            {
+                "criterion": "unsolicited",
+                "rating": 5
+            }
+        ],
+        "comments": "Enter your ratings and comments."
+    },
+    "signature": "",
+    "reviewerNo": "",
+    "effort": "fort (your opinion)",
+    "guidanceToReviewer": "Guidance to Reviewer"
+}
