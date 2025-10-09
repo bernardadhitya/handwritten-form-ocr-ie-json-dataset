@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2475" height="3506">02604_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Gestion de sinistre</scenario>
+  <writer>FAYOLLE Alain</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="166" top_left_y="400" bottom_right_x="728" bottom_right_y="543">
+       <type>Code d'envoi</type>
+       <text>BIJIMS</text>
+  </box>
+  <box top_left_x="400" top_left_y="563" bottom_right_x="1214" bottom_right_y="670">
+       <type>Nom</type>
+       <text>FAYOLLE</text>
+  </box>
+  <box top_left_x="1407" top_left_y="561" bottom_right_x="2186" bottom_right_y="665">
+       <type>Prénom</type>
+       <text>Alain</text>
+  </box>
+  <box top_left_x="483" top_left_y="663" bottom_right_x="2194" bottom_right_y="760">
+       <type>Adresse</type>
+       <text>12 rue de Dettwiller</text>
+  </box>
+  <box top_left_x="561" top_left_y="766" bottom_right_x="982" bottom_right_y="873">
+       <type>Code Postal</type>
+       <text>67490</text>
+  </box>
+  <box top_left_x="1106" top_left_y="757" bottom_right_x="2196" bottom_right_y="866">
+       <type>Ville</type>
+       <text>WALDOLWISHEIM</text>
+  </box>
+  <box top_left_x="368" top_left_y="877" bottom_right_x="1246" bottom_right_y="1029">
+       <type>Téléphone</type>
+       <text>0378219521</text>
+  </box>
+  <box top_left_x="508" top_left_y="1146" bottom_right_x="2194" bottom_right_y="1266">
+       <type>Catégorie Scénario</type>
+       <text>Gestion des sinistres</text>
+  </box>
+  <box top_left_x="290" top_left_y="1258" bottom_right_x="2194" bottom_right_y="1442">
+       <type>Objet Scénario</type>
+       <text>Vous faites appel à votre assurance automobile\n</text>
+  </box>
+  <box top_left_x="283" top_left_y="1438" bottom_right_x="2195" bottom_right_y="1628">
+       <type>Complément Scénario</type>
+       <text>Vous avez provoqué un accident de la\nroute (vous ¤{declarerez/déclarerez}¤ joindre le constat</text>
+  </box>
+  <box top_left_x="912" top_left_y="1647" bottom_right_x="1553" bottom_right_y="1797">
+       <type>Référence client</type>
+       <text>UBAMR46</text>
+  </box>
+  <box top_left_x="586" top_left_y="1795" bottom_right_x="2201" bottom_right_y="1890">
+       <type>Interlocuteur</type>
+       <text>NALF Assurances</text>
+  </box>
+  <box top_left_x="497" top_left_y="1886" bottom_right_x="2200" bottom_right_y="1989">
+       <type>Adresse Interlocuteur</type>
+       <text>5 place de chêne Vert</text>
+  </box>
+  <box top_left_x="575" top_left_y="1984" bottom_right_x="1007" bottom_right_y="2103">
+       <type>Code Postal Interlocuteur</type>
+       <text>35310</text>
+  </box>
+  <box top_left_x="1141" top_left_y="1984" bottom_right_x="2200" bottom_right_y="2084">
+       <type>Ville Interlocuteur</type>
+       <text>CINTRE</text>
+  </box>
+  <box top_left_x="1060" top_left_y="2322" bottom_right_x="1275" bottom_right_y="2433">
+       <type>Temps passé</type>
+       <text>45</text>
+  </box>
+  <box top_left_x="880" top_left_y="2255" bottom_right_x="982" bottom_right_y="2307">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1080" top_left_y="2257" bottom_right_x="1129" bottom_right_y="2309">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1297" top_left_y="2257" bottom_right_x="1349" bottom_right_y="2309">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="306" top_left_y="2726" bottom_right_x="383" bottom_right_y="2776">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1605" top_left_y="2680" bottom_right_x="2208" bottom_right_y="2791">
+       <type>Date d'envoi postal</type>
+       <text>08/02/2007</text>
+  </box>
+  <box top_left_x="307" top_left_y="2821" bottom_right_x="356" bottom_right_y="2869">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="307" top_left_y="2913" bottom_right_x="384" bottom_right_y="2964">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1748" top_left_y="2852" bottom_right_x="2200" bottom_right_y="2970">
+       <type>Date d'envoi par fax</type>
+       <text>08/02/2007</text>
+  </box>
+  <box top_left_x="307" top_left_y="3007" bottom_right_x="384" bottom_right_y="3061">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1603" top_left_y="2972" bottom_right_x="2202" bottom_right_y="3075">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1744" top_left_y="3169" bottom_right_x="2011" bottom_right_y="3263">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="578" top_left_y="3193" bottom_right_x="629" bottom_right_y="3242">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="784" top_left_y="3192" bottom_right_x="836" bottom_right_y="3243">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="967" top_left_y="3194" bottom_right_x="1017" bottom_right_y="3244">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1079" top_left_y="3069" bottom_right_x="2203" bottom_right_y="3170">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
