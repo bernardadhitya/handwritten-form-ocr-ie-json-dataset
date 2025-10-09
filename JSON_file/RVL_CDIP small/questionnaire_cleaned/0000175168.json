@@ -1,0 +1,25 @@
+{
+    "company": "Narket Trends Inc",
+    "address": "44 East 23rd Street, New York, New York 10010",
+    "project_number": "219-3",
+    "document": "Screening Questionnaire",
+    "introduction": "Narket Trends Inc. is a public opinion research company. Good morning/afternoon/evening. My name is [Name]. We are conducting a public opinion survey in this area and I would like to ask you a few short questions.",
+    "age_range": {
+        "between_21_35": "Continue",
+        "over_35": "Terminate"
+    },
+    "employment": {
+        "advertising": "Continue",
+        "market_research_company": "Continue",
+        "alcohol_company": "Terminate",
+        "tobacco_company": "Terminate"
+    },
+    "recent_activities": {
+        "drank_wine": "Yes",
+        "drank_beer": "Yes",
+        "smoked_cigarette": "No"
+    },
+    "smoking_habits": {
+        "cigarettes_per_day": "Less than half a pack"
+    }
+}

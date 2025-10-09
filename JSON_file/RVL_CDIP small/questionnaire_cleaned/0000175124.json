@@ -1,0 +1,39 @@
+{
+    "address": "44 EAST 23rd STREET, NEW YORK, NY 10001",
+    "project_number": "219-3",
+    "questionnaire": {
+        "introduction": "Good morning/afternoon/evening. My name is from Marcet Trends Inc., a public opinion research company.",
+        "age_question": {
+            "question": "What is your age? Are you between the ages of 21 and 35, younger, or older?",
+            "options": {
+                "younger_than_21": "TERMINATE",
+                "between_21_and_35": "CONTINUE",
+                "older_than_35": "TERMINATE"
+            }
+        },
+        "employment_question": {
+            "question": "READ CHOICES",
+            "options": {
+                "advertising_agency": "TERMINATE",
+                "market_research_company": "TERMINATE",
+                "company_manufacturing_selling_distributing_alcohol": "TERMINATE",
+                "company_manufacturing_selling_distributing_tobacco": "TERMINATE"
+            }
+        },
+        "recent_activities_question": {
+            "question": "Which of the following did you do in the past 2 days? Did you:",
+            "options": {
+                "drink_wine": "Yes",
+                "have_beer": "No",
+                "smoke_cigarette": "No"
+            }
+        },
+        "cigarette_question": {
+            "question": "About how many cigarettes do you smoke in an average day? Would you say:",
+            "options": {
+                "less_than_half_pack": "TERMINATE",
+                "half_pack_or_more": "CONTINUE"
+            }
+        }
+    }
+}

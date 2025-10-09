@@ -1,0 +1,45 @@
+{
+    "cigaretteTest": {
+        "for": "6/415",
+        "callbackQuestionnaire": "504A6",
+        "smokersOf": "Kpol piter",
+        "pr": "PR-66-3",
+        "dateOfPlacement": "",
+        "callbackToBeDone": {
+            "day": "",
+            "date": ""
+        },
+        "name": "",
+        "phone": "",
+        "address": "",
+        "cityState": "",
+        "numberOfCigarettesSmokedPerDay": "",
+        "sexOfRespondent": "",
+        "dateCallbackActuallyDone": "",
+        "interviewer": "",
+        "questions": [
+            {
+                "question": "Did you finish all the cigarettes in the two packs you were to smoke first?",
+                "response": {
+                    "yes": false,
+                    "no": false,
+                    "aboutHowMany": ""
+                }
+            },
+            {
+                "question": "Did you finish all the cigarettes in the other two packs they were numbered 693(en)?",
+                "response": {
+                    "yes": false,
+                    "no": false,
+                    "aboutHowMany": ""
+                }
+            }
+        ],
+        "satisfaction": {
+            "completelySatisfied": false,
+            "fairlyWellSatisfied": false,
+            "notTooWellSatisfied": false,
+            "notAtAllSatisfied": false
+        }
+    }
+}

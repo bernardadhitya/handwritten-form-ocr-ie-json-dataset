@@ -1,0 +1,63 @@
+{
+    "questions": [
+        {
+            "question": "How satisfied were you in each of the following areas?",
+            "areas": [
+                {
+                    "area": "EASE OF CONTACT",
+                    "aspects": [
+                        "Ability to get through on first call",
+                        "Satisfaction with telephone recording",
+                        "If put on hold, length of time on hold"
+                    ],
+                    "response": "Somewhat Satisfied"
+                },
+                {
+                    "area": "PERSONNEL",
+                    "aspects": [
+                        "Courtesy",
+                        "Professionalism",
+                        "Knowledge",
+                        "Authority to resolve problem"
+                    ]
+                },
+                {
+                    "area": "RESPONSE",
+                    "aspects": [
+                        "Timeliness",
+                        "Clarity",
+                        "Helpfulness",
+                        "Follow through on promised action"
+                    ]
+                }
+            ]
+        },
+        {
+            "question": "Relations Department to respond to your request for assistance?",
+            "response": "I was completely satisfied."
+        },
+        {
+            "question": "Based on how well you were treated by our representative, will you continue to purchase the brand of cigarettes you contacted us about?",
+            "options": [
+                "Definitely Would",
+                "Probably Would",
+                "Might or Might Not",
+                "Probably Would Not",
+                "Definitely Would Not"
+            ],
+            "response": "Definitely Would Not"
+        },
+        {
+            "question": "Would you recommend this brand of cigarettes to an adult smoker (21 years of age or older)?",
+            "options": [
+                "Definitely Would",
+                "Probably Would",
+                "Might or Might Not",
+                "Probably Would Not",
+                "Definitely Would Not"
+            ],
+            "response": "Definitely Would Not"
+        }
+    ],
+    "additional_comments": "anolspesn Fast gel"
+}

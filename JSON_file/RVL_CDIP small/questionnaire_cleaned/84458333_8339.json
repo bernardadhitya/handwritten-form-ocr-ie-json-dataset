@@ -1,0 +1,151 @@
+{
+    "company": "AHF MARKETING RESEARCH",
+    "survey": "NATIONAL CONSENSUS SURVEYS",
+    "address": {
+        "street": "801 Second Avenue",
+        "suite": "#12947W",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10017"
+    },
+    "date": "May, 1977",
+    "document": {
+        "title": "CIGARETTE PORTFOLIO SCREENING QUESTIONNAIRE",
+        "time_interview": {
+            "ended": ""
+        },
+        "respondent": {
+            "name": "",
+            "address": "",
+            "city": "",
+            "state": "",
+            "metro_area": ""
+        },
+        "validated_by": "",
+        "indicate_ci": [
+            "Albany",
+            "Buffalo",
+            "Boston",
+            "Denver",
+            "Des Moines",
+            "Milwaukee",
+            "Minneapolis",
+            "Syracuse"
+        ],
+        "initial_refusal": {
+            "circle_next_highest_number": [
+                6,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                46,
+                47,
+                48,
+                49,
+                50,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                63,
+                64,
+                99,
+                67,
+                68,
+                69,
+                70,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                80,
+                83,
+                86,
+                37,
+                80,
+                90,
+                92,
+                93,
+                94,
+                95,
+                99,
+                100
+            ]
+        },
+        "participation": {
+            "question": "Have you, yourself, participated in a market research survey in the past three months or so?",
+            "terminate_and_circle_next_highest_number": "",
+            "response": {
+                "yes": "CONTINUE",
+                "participated_in": [
+                    2,
+                    3,
+                    5,
+                    6,
+                    10,
+                    11,
+                    12
+                ]
+            }
+        },
+        "age_card": {
+            "show_age_card": "Please tell me which letter on this card includes your age",
+            "terminate_and_circle_next_highest_number": "",
+            "age_groups": {
+                "A": "Under 21",
+                "B": "21 to 29",
+                "C": "30 to 49",
+                "H": "50 to 55",
+                "I": "Over 55"
+            },
+            "under_or_over_age": [
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        "take_back_age_card": "84458333"
+    }
+}

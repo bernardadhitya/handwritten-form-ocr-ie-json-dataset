@@ -1,0 +1,50 @@
+{
+    "city_study": "CO-OP CITY",
+    "mrd": "4-2451",
+    "date": "78910",
+    "respondent": {
+        "telephone": null,
+        "sex": [
+            "MALE",
+            "FEMALE"
+        ],
+        "age": [
+            "-35",
+            "35"
+        ]
+    },
+    "survey": {
+        "introduction": "Hello, I'm calling for a marketing research company, and we're doing a study on products people use.",
+        "questions": [
+            {
+                "id": "1a",
+                "question": "Do you, or your household, subscribe to or purchase THE CO-OP CITY NEWS on a weekly basis?",
+                "options": {
+                    "yes": "ASK 1B",
+                    "no": "TERMINATE AND DO NOT COUNT TOWARD QUOTA"
+                }
+            },
+            {
+                "id": "1b",
+                "question": "Have you, yourself, smoked any cigarettes in the past seven days, or not?",
+                "options": {
+                    "yes": "CONTINUE",
+                    "no": "ASK TO SPEAK TO SOMEONE 18 OR OLDER WHO SMOKES AND REPEAT 1A. IF NO SMOKER TERMINATE"
+                }
+            },
+            {
+                "id": "1c",
+                "question": "About how many cigarettes do you usually smoke per day?",
+                "instruction": "WRITE IN NUMBER",
+                "note": "RECORD THE ACTUAL NUMBER OF CIGARETTES. LESS THAN ONE CIGARETTE PER DAY ASK 1B AGAIN AND IF NO PERSON SMOKES ONE AT HOME 18 YEARS OF AGE OR OLDER, WHO SMOKES ONE OR MORE CIGARETTES PER DAY TERMINATE AND DO NOT COUNT TOWARD QUOTA"
+            }
+        ]
+    },
+    "codes": [
+        "11-1",
+        "12-2",
+        "13",
+        "14",
+        "50047"
+    ]
+}

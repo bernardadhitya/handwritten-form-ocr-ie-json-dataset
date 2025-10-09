@@ -1,0 +1,37 @@
+{
+    "company": "Beilomy-Carrigg, Inc",
+    "job": "Job0503",
+    "code": "aa3",
+    "study": "PSYCHOPHYSIOLOGY STUDY-D.G.82",
+    "questionnaire": "TELEPHONE SCREENING QUESTIONNAIRE",
+    "questions": [
+        {
+            "question": "Do you or does any member of your family work for an advertising agency or marketing research company?",
+            "answer": "NO",
+            "action": "TERMINATE, ERASE"
+        },
+        {
+            "question": "Do you or does any member of your family work for a tobacco company?",
+            "answer": "RE-USE"
+        },
+        {
+            "question": "Do you or does any member of your family work for a food company?",
+            "answer": ""
+        },
+        {
+            "question": "Do you or does any member of your family work for a beverage company?",
+            "answer": ""
+        },
+        {
+            "question": "What is your age?",
+            "condition": "CONTINUE ONLY IF AGE 25-35, TERMINATE ALL OTHER"
+        }
+    ],
+    "beverages": {
+        "fruit_juices": "Yes",
+        "carbonated_soft_drinks": "No",
+        "coffee": "Yes",
+        "cigarettes": "SKIP TO O.Ba",
+        "alcoholic_beverages": "505"
+    }
+}

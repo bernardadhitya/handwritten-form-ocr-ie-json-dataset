@@ -1,0 +1,98 @@
+{
+    "contest": {
+        "prize": "$25,000 U.S. Savings Bond",
+        "deadline": "January 31, 1991",
+        "eligibility": "All replies are eligible if received on or before the deadline."
+    },
+    "participant": {
+        "name": "Mr. John Extralongname",
+        "address": {
+            "street": "1234 Main Street",
+            "city": "Hometown",
+            "state": "New York",
+            "zip": "99999"
+        }
+    },
+    "survey": {
+        "questions": [
+            {
+                "question": "What is your regular brand of cigarettes?",
+                "response": "Full Brand Name"
+            },
+            {
+                "question": "About how long have you smoked this brand?",
+                "options": [
+                    "Less than 1 year",
+                    "1-3 years",
+                    "2-5 years",
+                    "5+ years"
+                ],
+                "response": "Less than 1 year"
+            },
+            {
+                "question": "Is your regular brand?",
+                "options": [
+                    "Menthol",
+                    "Non-Menthol",
+                    "Regular/King Size",
+                    "Long-100's"
+                ],
+                "response": []
+            },
+            {
+                "question": "Are any of these words on your pack?",
+                "options": [
+                    "Lights",
+                    "Ultra Lights",
+                    "Low Tar"
+                ],
+                "response": []
+            },
+            {
+                "question": "If your regular brand was not available at the store, which other brands would you consider buying?",
+                "response": ""
+            },
+            {
+                "question": "Please tell us about yourself.",
+                "gender": "Male/Female",
+                "age": "",
+                "date_of_birth": ""
+            },
+            {
+                "question": "In which of the following hobbies/interests do you frequently participate?",
+                "options": [
+                    "Crocheting",
+                    "Sewing/Knitting",
+                    "Golf",
+                    "Bowling",
+                    "Cooking",
+                    "Shopping",
+                    "Hiking/Running",
+                    "Reading",
+                    "Home Improvement",
+                    "Team Sports",
+                    "Music",
+                    "Gardening/Landscaping",
+                    "Fishing/Boating",
+                    "Other",
+                    "Skiing",
+                    "Sailing",
+                    "Buying and selling antiques",
+                    "Poker"
+                ],
+                "response": []
+            }
+        ],
+        "signature": "Signature (required)",
+        "return_instructions": "Please return your completed survey by 1/31/91 in order to be eligible to win. Thank you."
+    },
+    "contact": {
+        "phone": "2071378062",
+        "address": "P.O. Box 240, Kante, 60902"
+    },
+    "company": {
+        "name": "Philip Morris Inc.",
+        "year": 1990
+    },
+    "notes": "No postage required."
+}

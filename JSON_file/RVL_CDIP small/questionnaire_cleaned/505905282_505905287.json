@@ -1,0 +1,79 @@
+{
+    "topic": "Cigarettes",
+    "project_number": null,
+    "date": null,
+    "focus_group_screening_questionnaire": {
+        "respondent": {
+            "telephone": null,
+            "address": null,
+            "city_state": null,
+            "date": null,
+            "time": null,
+            "group": null,
+            "recruiter": null
+        },
+        "speak_to_males_and_females": true,
+        "introduction": {
+            "name": null,
+            "company": "an independent research company",
+            "location": null,
+            "survey_topic": "cigarettes"
+        },
+        "questions": [
+            {
+                "question": "May I speak to him/her?",
+                "options": {
+                    "yes": true,
+                    "no": "terminate_and_tally",
+                    "refused": "terminate_and_tally"
+                }
+            },
+            {
+                "question": "Into which of the following categories does your age fall?",
+                "options": {
+                    "under_25": "terminate_tally",
+                    "25_34": null,
+                    "35_45": null,
+                    "45_54": null,
+                    "55_65": "terminate"
+                }
+            },
+            {
+                "question": "Have you ever participated in a market research interview?",
+                "options": {
+                    "no": "skip_to_q4",
+                    "yes": {
+                        "follow_up": "How long ago was that?",
+                        "options": {
+                            "more_than_6_months_ago": "ask_q3b",
+                            "less_than_6_months_ago": "terminate_tally"
+                        }
+                    }
+                }
+            },
+            {
+                "question": "Which, if any, of the following types of products have you been interviewed or tested about in the past 12 months?",
+                "options": {
+                    "food": null,
+                    "perfume": null,
+                    "cigarettes": null,
+                    "skin_care": "terminate_tally"
+                }
+            },
+            {
+                "question": "Approximately how many cigarettes do you usually smoke per day?",
+                "options": {
+                    "less_than_10": "terminate_and_tally",
+                    "10_or_more": null
+                }
+            },
+            {
+                "question": "Is your usual brand a filter or a non-filter cigarette?",
+                "options": {
+                    "filter": null,
+                    "non_filter": "terminate_and_tally"
+                }
+            }
+        ]
+    }
+}

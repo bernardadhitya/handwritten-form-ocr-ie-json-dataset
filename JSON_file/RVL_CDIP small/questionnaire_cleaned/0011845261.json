@@ -1,0 +1,69 @@
+{
+    "for_cefice_use_only": true,
+    "company": "Kapuler Marketing Research",
+    "project_number": "88-3041",
+    "kgi_assignment": "12345",
+    "code": "1989-151",
+    "date": "November 18, 1988",
+    "qualifying_brand": "LiGnT",
+    "placement_appointment": {
+        "brand": "Virginia Slims FULL TASTE 100s Non-Menthol",
+        "day": "MO",
+        "date": "12/5",
+        "time": "100",
+        "am_pm": "AM"
+    },
+    "sex_age": "6",
+    "card": "1",
+    "race": "9",
+    "demographics": {
+        "1": "Male 21-35",
+        "7-8": "OP",
+        "-1": "Black",
+        "-2": "Male 36",
+        "-2_other": "Other",
+        "-3": "Female 21-35",
+        "-4": "Female 36+"
+    },
+    "important_note": "THIS QUESTIONNAIRE SHALL NOT BE ADMINISTERED TO ANYONE UNDER THE AGE OF 21.",
+    "cpt_recruiting_screener": {
+        "identified": true,
+        "respondents_name": "SEAR PAIWERIE",
+        "address": "444 ALIO",
+        "zipcode": "10-14",
+        "phone_number": {
+            "days": "412",
+            "evenings": "373287"
+        },
+        "recruiters_name": "0689",
+        "interviewers_name": "Hice",
+        "interview_dates": "25-27"
+    },
+    "introduction": "Hello, my name is [Name] from [Company], a marketing research company located in [Location]. Today, we are interviewing about some products you may use. May I please speak to someone who is 21 years of age or older?",
+    "screening_questions": {
+        "1": {
+            "question": "Do you yourself or any of your relatives or close friends work for...",
+            "options": {
+                "a": "A market research firm or the market research department of a company?",
+                "b": "An advertising agency or the advertising department of a company?",
+                "c": "A magazine or newspaper publisher?",
+                "d": "A soft drink manufacturer, bottler or distributor?",
+                "e": "A manufacturer or distributor of alcoholic beverages?",
+                "f": "An importer of tobacco?",
+                "g": "A tobacco wholesaler or retailer?",
+                "h": "A cigarette manufacturer?"
+            },
+            "responses": {
+                "a": "No",
+                "b": "Yes",
+                "c": "Yes",
+                "d": "Yes",
+                "e": "Yes",
+                "f": "Yes",
+                "g": "Yes",
+                "h": "TERMINATE"
+            }
+        }
+    },
+    "termination_code": "466911507"
+}

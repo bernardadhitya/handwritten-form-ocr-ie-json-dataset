@@ -1,0 +1,44 @@
+{
+    "name": "Malea35",
+    "males": "3$",
+    "females": "Fenhles",
+    "phone_no": "50604",
+    "interviewer_number": "ATS/FIELD ONLY",
+    "full_flavor": "Fu11 F1av",
+    "ordered_by": "2666",
+    "edited_by": "Lov Tar.",
+    "study_no": "78-14361",
+    "date_ended": "",
+    "time_started": "",
+    "introduction": "Hello, I'm with M/A/R/C Opinion Research, an independent firm conducting a study in this area and would like to include you among the people we are talking to.",
+    "employment_question": {
+        "automobile_manufacturer": "CONTINUE",
+        "food_processing_company": "CONTINUE",
+        "advertising_agency": "TALLY AND TERMINATE",
+        "newspaper_or_magazine": "CONTINUE",
+        "tobacco_manufacturer": "TALLY AND TERMINATE",
+        "insurance_company": "CONTINUE",
+        "marketing_research_firm": "TALLY AND TERMINATE",
+        "other": "CONTINUE"
+    },
+    "smoking_question": {
+        "smoked_in_past_seven_days": "No",
+        "tally_and_terminate": true
+    },
+    "cigarettes_per_day": {
+        "less_than_one": "TALLY AND TERMINATE"
+    },
+    "age_group": {
+        "check_age_quota": "IF QUOTA FILLED OR UNDER 18 TALLY AND TERMINATE"
+    },
+    "record_sex": {
+        "male": "CHECK SEX QUOTA",
+        "female": "TALLY AND TERMINATE"
+    },
+    "usual_brand": {
+        "regular_or_lights": "Regular",
+        "filter_or_non_filter": "Non-Filter",
+        "menthol_or_non_menthol": "Menthol",
+        "size": "85"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "company": "Bellomy-Carrigg, Inc",
+    "job_number": "0906",
+    "address": "SESENAERSITY PARKWAY",
+    "date": "October, 1984",
+    "location": "WINSTONSMEMNC2RG",
+    "telephone_callback_questionnaire": {
+        "respondent_name": "",
+        "telephone_number": "018853-0856",
+        "callback_appointment": "10125",
+        "day": "",
+        "date": "184",
+        "interviewer_instructions": "BEFORE DIALING READ THE INSTRUCTIONS FOR THE CHIP GAME Q.41 ON THE NEXT PAGE. ASK TO SPEAK TO RESPONDENT. IF RESPONDENT IS NOT AVAILABLE, ATTEMPT TO RESCHEDULE THE CALLBACK.",
+        "interviewer": "KAX",
+        "call_record": {
+            "callback_attempts": [
+                {
+                    "number": 1,
+                    "date": "10155",
+                    "time": "1:50",
+                    "completed": true,
+                    "not_at_home": false,
+                    "refused": false,
+                    "no_such_person": false,
+                    "other": ""
+                },
+                {
+                    "number": 2,
+                    "date": "6.30",
+                    "time": "",
+                    "completed": false,
+                    "not_at_home": true,
+                    "refused": false,
+                    "no_such_person": false,
+                    "other": ""
+                },
+                {
+                    "number": 3,
+                    "date": "7:50",
+                    "time": "",
+                    "completed": true,
+                    "not_at_home": false,
+                    "refused": false,
+                    "no_such_person": false,
+                    "other": ""
+                }
+            ]
+        },
+        "questions": {
+            "39": {
+                "pack": "6-1-2-3-4-5",
+                "yod": "SKIP TO Q.41 CHIP GAME ON NEXT PAGE."
+            },
+            "40a": {
+                "question": "Do you intend to smoke any more of the cigarettes we gave you in the next few days?",
+                "response_code": "50558",
+                "reschedule_callback": "WHEN RESPONDENT EXPECTS TO HAVE SMOKED 5+ PACKS.",
+                "response": "NO"
+            },
+            "40b": {
+                "7": "",
+                "8": "",
+                "9": "",
+                "10": ""
+            }
+        }
+    }
+}

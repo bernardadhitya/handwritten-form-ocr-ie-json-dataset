@@ -1,0 +1,38 @@
+{
+    "company": "Newman-Stein Inc.",
+    "address": "500 Broadway, New York, N.Y. 10036",
+    "job_number": "2434",
+    "date": "August, 1983",
+    "project": "MENTHOL CONCEPT TEST (Screener)",
+    "questions": [
+        {
+            "question": "First, are you currently a cigarette smoker?",
+            "answers": [
+                {
+                    "answer": "Yes",
+                    "code": 1,
+                    "action": "CONTINUE"
+                },
+                {
+                    "answer": "No",
+                    "code": 2,
+                    "action": "TERMINATE RECORD ON TALLY SHEET ERASE AND RE-USE"
+                }
+            ]
+        },
+        {
+            "question": "Do you or does any member of your household work in advertising, market research, or for any company which manufactures, distributes, or promotes any tobacco products?",
+            "answers": [
+                {
+                    "answer": "Yes",
+                    "code": 1
+                },
+                {
+                    "answer": "No",
+                    "code": 2,
+                    "action": "ALL MUST BE CIRCLED NO IN Q.2. OTHERWISE TERMINATE RECORD ON TALLY SHEET ERASE AND RE-USE"
+                }
+            ]
+        }
+    ]
+}

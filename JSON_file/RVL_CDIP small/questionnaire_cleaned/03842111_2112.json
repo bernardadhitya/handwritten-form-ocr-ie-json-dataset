@@ -1,0 +1,103 @@
+{
+    "research_company": "COREYCANAPARY & GALANIS RESEARCH",
+    "interviewee_id": "SF12519",
+    "location": "San Francisco, California",
+    "date": "April/May 1979",
+    "introduction": "Hello, I'm of Corey -- We're conducting a product usage study in your area and I'd like to ask you a few questions.",
+    "questions": [
+        {
+            "question": "Is there anyone living in your household employed in the sale, manufacture or distribution of tobacco products, or marketing research or advertising?",
+            "answers": {
+                "NO": "Continue",
+                "YES": "TERMINATE"
+            }
+        },
+        {
+            "question": "Is there anyone living in your home between the ages of 21 - 55 who is a smoker?",
+            "answers": {
+                "YES": "Continue",
+                "NO": "TERMINATE"
+            }
+        },
+        {
+            "question": "May I speak to that person?",
+            "answers": {
+                "YES": "Continue",
+                "NO": "TERMINATE"
+            }
+        },
+        {
+            "question": "About how many cigarettes do you smoke in a day?",
+            "condition": "IF LESS THAN 10 CIGARETTES PER DAY OR LESS THAN HALF A PACK",
+            "action": "TERMINATE"
+        },
+        {
+            "question": "What is your regular brand of cigarettes that is the brand you smoke most often?",
+            "answers": [
+                "WINSTON LIGHTS",
+                "MARLBORO LIGHTS",
+                "PARLIAMENT any type",
+                "MERIT",
+                "VANTAGE",
+                "KENT",
+                "KENT GOLDEN LIGHTS",
+                "KENT III"
+            ],
+            "condition": "If listed brand not mentioned",
+            "action": "TERMINATE"
+        },
+        {
+            "question": "How long have you been smoking Kent III?",
+            "applies_to": "Groups E and F"
+        },
+        {
+            "question": "Is that the filter or non-filter?",
+            "action": "TERMINATE"
+        },
+        {
+            "question": "Is that a non-menthol or a menthol?",
+            "action": "TERMINATE"
+        },
+        {
+            "question": "Is that the regular king size or the longer 100s?",
+            "action": "TERMINATE"
+        },
+        {
+            "question": "Now I'm going to read the names of a few cigarette brands and would like to know if you've ever heard of them. Have you ever heard of...READ LIST",
+            "brands": [
+                "CARLTON",
+                "TRUE",
+                "KENT III",
+                "LARK LIGHTS"
+            ]
+        },
+        {
+            "question": "Of the brands that were just mentioned, are there any that you would NEVER consider purchasing? READ LIST",
+            "answers": {
+                "WOULD OR MIGHT PURCHASE": [
+                    "CARLTON",
+                    "TRUE",
+                    "KENT III",
+                    "LARK LIGHTS"
+                ],
+                "WOULD NEVER PURCHASE": "TERMINATE"
+            }
+        },
+        {
+            "question": "Are you employed?",
+            "note": "FEMALE GROUPS SHOULD BE COMPOSED ABOUT EQUALLY OF WOMEN WHO WORK OUTSIDE THE HOME AND FULL TIME HOMEMAKERS",
+            "answers": {
+                "EMPLOYED FULL TIME": "X",
+                "EMPLOYED PART TIME": "X",
+                "NOT AT ALL": "NO",
+                "YES": "TERMINATE"
+            }
+        },
+        {
+            "question": "And would you tell me what your age is?",
+            "answers": {
+                "OVER": "Continue"
+            }
+        }
+    ]
+}

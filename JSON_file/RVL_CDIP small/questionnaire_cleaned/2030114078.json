@@ -1,0 +1,46 @@
+{
+    "WeeklyLaboratorySafetyAudit": {
+        "DateOfAudit": "3-22-5",
+        "Technicians": "5NGR",
+        "Questions": {
+            "A": "Are fire extinguishers readily available?",
+            "B": "Is the fire blanket readily accessible?",
+            "C": "Are eyewashes operational and capped when not in use?",
+            "D": "Are tops of cabinets not cluttered?",
+            "E": "Are all personnel wearing safety glasses in designated areas?",
+            "F": "Is food contained in designated areas?",
+            "G": "Do all exit routes have clear access?",
+            "H": "Are chemicals in use labeled with the 'right to know' NFPA code?",
+            "I": "Are flammables (other than small dispensers) in flammables cabinet?",
+            "J": "Do the fume hoods operate properly (air draw, lights shield)?",
+            "K": "Is the hood on for acid digestions (P0, TKN, metals) & HCl cleaning?",
+            "L": "Are the floors and aisles clear of obstructions & spills?",
+            "M": "Are counter tops clear of spills, sharp objects, & clutter?",
+            "N": "Do both chemical showers operate properly?",
+            "O": "Is general housekeeping in good order?",
+            "P": "Is general storage not a fire hazard (for example: chemicals that may react when stored or mixed together such as acids and bases or oil + oxidizer such as bleach etc)?"
+        },
+        "Responses": {
+            "A": "ou",
+            "B": "ou",
+            "C": "ou",
+            "D": "ou",
+            "E": "ou",
+            "F": "ou",
+            "G": "yes",
+            "H": "yes",
+            "I": "y",
+            "J": "yes",
+            "K": "es",
+            "L": "ou",
+            "M": "ou",
+            "N": "ou",
+            "O": "ou",
+            "P": ""
+        },
+        "Discrepancies": {
+            "Item#": "2030114078",
+            "Description": "Corrective Ah lsahli T chil"
+        }
+    }
+}

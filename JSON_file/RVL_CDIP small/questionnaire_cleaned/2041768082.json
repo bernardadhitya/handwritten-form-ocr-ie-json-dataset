@@ -1,0 +1,73 @@
+{
+    "IUSERT": {
+        "MERIT": {
+            "8": "About how long have you been smoking your regular brand?",
+            "9": "The next time you go to the store, if your regular brand is not available, what would you do?",
+            "10a": "How many packs of cigarettes did you smoke in the regular brand, and how many were for other brands?",
+            "11": "Out of the last 10 times you bought cigarettes, how many times did you use money-off coupons?",
+            "12": "Would you prefer to receive a free premium (i.e., duffel bag, pocket calculator, sunglasses, other)?",
+            "13": "Which type of free premium would you like to receive? (Check as many that apply)",
+            "Options": {
+                "Smoking Duration": [
+                    "Over 20 yrs.",
+                    "10 to 20 yrs.",
+                    "7 mos. to 1 yr.",
+                    "2 to 10 yrs.",
+                    "1 to 2 yrs.",
+                    "6 mos. or less"
+                ],
+                "Store Action": [
+                    "Go to another store and buy my regular brand.",
+                    "Buy a different brand entirely."
+                ],
+                "Coupon Usage": [
+                    "1-2 times",
+                    "3-6 times",
+                    "7 or more times"
+                ],
+                "Premium Options": [
+                    "Duffel Bag",
+                    "Pocket calculator",
+                    "Sunglasses",
+                    "Other"
+                ]
+            },
+            "Cigarette Details": {
+                "Kings": "8 mg tar, 0.6 mg nicotine",
+                "100's": "10 mg tar, 0.8 mg nicotine"
+            },
+            "Personal Information": {
+                "Sex": [
+                    "Male",
+                    "Female"
+                ],
+                "Date of Birth": "",
+                "Name": "",
+                "Address": "",
+                "Phone": ""
+            },
+            "Brand Information": {
+                "Regular Brand": {
+                    "Name": "",
+                    "Is your regular brand": [
+                        "Non-Menthol",
+                        "Menthol",
+                        "Ultra/Ultra Lights",
+                        "Extra Lights Milds",
+                        "Non-Filter",
+                        "Extra Long/20s",
+                        "Soft Pack",
+                        "Box",
+                        "Carton",
+                        "Pack"
+                    ]
+                },
+                "Other Brands": {
+                    "Name": "",
+                    "None": "None"
+                }
+            },
+            "Warning": "SURGEON GENERAL'S WARNING: Cigarette Smoke Contains Carbon Monoxide."
+        }
+    }
+}

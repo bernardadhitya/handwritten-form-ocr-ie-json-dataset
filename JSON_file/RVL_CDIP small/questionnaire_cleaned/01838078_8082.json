@@ -1,0 +1,77 @@
+{
+    "survey": {
+        "title": "WATIONAL CONSENSUS SURVEYS",
+        "address": {
+            "street": "801 Secund Avenue",
+            "city": "Yaw York",
+            "state": "Mew York",
+            "zip": "10017"
+        },
+        "contact": "lieiellelbocia",
+        "code": "p433-048",
+        "instructions": "Please take as much time with each as you care to. If you ordinarily was reading, HAD RESPONDT PORTFOLIO AND TAKE IT BACK BEFORE CONTINUING.",
+        "questions": [
+            {
+                "id": "t5",
+                "text": "What brands or products do you remember?",
+                "options": [
+                    "Any other brands?",
+                    "GENERAL ADS",
+                    "CIGARETTE ADS",
+                    "Likes",
+                    "Dole Pineapple",
+                    "BankAmericard/VISA",
+                    "General Electric Washer",
+                    "Golden Lights",
+                    "Bayer Aspirin",
+                    "Eiltoo Suteie",
+                    "Coldan",
+                    "Unep.",
+                    "Bolens Lawn Mower",
+                    "Kawasaki",
+                    "Kent Golden Light",
+                    "Budweiser",
+                    "Old Spice Pocket Cologne",
+                    "Canadian Club",
+                    "Polaroid Camera",
+                    "Kent Lights",
+                    "Coca-Cola",
+                    "Singer Sewing Machine",
+                    "Concord Watches",
+                    "Crest toothpaste",
+                    "Weight Watchers",
+                    "Other"
+                ]
+            },
+            {
+                "id": "FNO",
+                "text": "CIGARETTE BRANDS MENTIONED ABOVE ASK Q.3.",
+                "conditions": [
+                    "IF ONLY ONE OR TWO CIGARETTE BRANDS MENTIONED SKIP TO Q.3.",
+                    "IF THREE CIGARETTE BRANDS MENTIONED SKIP Q.4.",
+                    "IF NO CIGARETTE BRANDS MENTIONED ABOVE ASK"
+                ],
+                "options": [
+                    "Golden Cap.",
+                    "Kent",
+                    "Cold",
+                    "Kent Lights",
+                    "Kent",
+                    "Other (specify)"
+                ]
+            },
+            {
+                "id": "q",
+                "text": "Yet they Any others",
+                "options": [
+                    "Lights Unsp.",
+                    "Other (specify)"
+                ],
+                "conditions": [
+                    "IF TRUE MENTIONED IN Q.2 OR 3b. CONTINUE.",
+                    "IF TRUE NOT MENTIONED Q.2 OR 3b SKIP TO Q.10."
+                ]
+            }
+        ]
+    }
+}

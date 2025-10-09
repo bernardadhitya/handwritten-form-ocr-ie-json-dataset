@@ -1,0 +1,45 @@
+{
+    "company": "Philip Morris U.S.A.",
+    "questions": [
+        {
+            "question": "What is Philip Morris' position and market share in the U.S. cigarette market?",
+            "answer": "In 1991, Philip Morris continued its leadership with 43.4% growth of the U.S. Market, up 1.1 market share points from 1990.",
+            "background": {
+                "marketShareByCompany1991": {
+                    "Philip Morris": "43.4%",
+                    "R.J. Reynolds": "27.8%",
+                    "Lorillard": "7.3%",
+                    "American Brands": "7.0%",
+                    "Liggett": "3.4%"
+                },
+                "unitVolume": {
+                    "1991": "220.7 billion units",
+                    "increase": "0.19 billion units"
+                },
+                "industryVolumeComparison": {
+                    "1991": "509.10 billion units",
+                    "1990": "521.60 billion units"
+                }
+            }
+        },
+        {
+            "question": "Will the U.S. tobacco industry continue to decline in the future?",
+            "answer": "We expect that the industry will continue to decline in the 2-3% range, as in the past few years.",
+            "background": {
+                "1991IndustryDecline": "2.4%"
+            }
+        },
+        {
+            "question": "How does Philip Morris propose to continue earnings growth in the U.S. cigarette business?",
+            "answer": [
+                "Introduction of superior new products.",
+                "Factory modernization, especially with our Cabbarus expansion with the goal of becoming the industry's most efficient and economical manufacturer.",
+                "Development and implementation of superior advertising, marketing, and promotional programs designed for the wholesale and retail trade and current and prospective customers."
+            ]
+        },
+        {
+            "question": "What effect will the increase in the federal excise tax have on Philip Morris' cigarette business?",
+            "answer": "As legislated by Congress in the 1990 Omnibus Budget Reconciliation Act, the federal consumer excise tax on a pack of cigarettes is..."
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "company": "OMNICUSINC.",
+    "project": "LLD-6",
+    "group": "D",
+    "time": "4-4 AM",
+    "survey": {
+        "introduction": "Hello, I'm from Communicus, a consumer organization conducting a survey and would like to include you.",
+        "questions": [
+            {
+                "question": "Do you smoke filter, non-menthol cigarettes?",
+                "answers": {
+                    "yes": "CONTINUE",
+                    "no": "TERMINATE"
+                }
+            },
+            {
+                "question": "How many cigarettes do you usually smoke per day?",
+                "answers": {
+                    "6-0": "TERMINATE",
+                    "10-15": "CONTINUE",
+                    "16-25": "CONTINUE",
+                    "more_than_25": "CONTINUE"
+                }
+            },
+            {
+                "question": "Which of the following statements apply to you?",
+                "options": [
+                    "I eat dinner in a restaurant at least once a month.",
+                    "I read a daily newspaper.",
+                    "I do most of the food shopping for myself and/or my family.",
+                    "I have taken an airline trip on a scheduled commercial airline in the past 12 months."
+                ]
+            },
+            {
+                "question": "Into which of the following age groups do you fall?",
+                "answers": {
+                    "under_21": "TERMINATE",
+                    "21-34": "CONTINUE",
+                    "35+": "TERMINATE"
+                }
+            }
+        ]
+    }
+}

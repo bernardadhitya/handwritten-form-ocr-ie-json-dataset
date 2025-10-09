@@ -1,0 +1,65 @@
+{
+    "respondent": {
+        "name": "Bellomy-Carrigg, I",
+        "job": "70906",
+        "address": "025 UNIVERSITY PARKWAY, WINSTON SALEM, N.C. 27037-90379",
+        "date": "October, 1984",
+        "interview_details": {
+            "interviewed_by": "C",
+            "interview_type": "AA EXTENDED USE CONCEPT/PRODUCT TEST SCREENER",
+            "respondent_name": "",
+            "address": "",
+            "state": "N.C.",
+            "area_code_phone": "105",
+            "date": "10/7/54"
+        },
+        "survey": {
+            "target": "Women 18+ years or older",
+            "questions": [
+                {
+                    "question": "Into which of the following age groups does your age belong?",
+                    "options": [
+                        "Under 18",
+                        "18-24",
+                        "25-34",
+                        "35-49",
+                        "50+",
+                        "Refused"
+                    ],
+                    "response": "18-24"
+                },
+                {
+                    "question": "Which of the following products do you use daily?",
+                    "options": [
+                        "Breathmints",
+                        "Mouthwash",
+                        "Cigarettes",
+                        "Gel toothpaste",
+                        "Cream toothpaste"
+                    ],
+                    "response": [
+                        "Breathmints",
+                        "Mouthwash",
+                        "Cigarettes",
+                        "Cream toothpaste"
+                    ]
+                },
+                {
+                    "question": "Which of the following brands have you used in the past week?",
+                    "options": [
+                        "Certs breathmints",
+                        "Clorets breathmints",
+                        "Topal toothpaste",
+                        "Aqua Fresh toothpaste",
+                        "Clinomint",
+                        "Scope",
+                        "Ciste"
+                    ],
+                    "response": [
+                        "Ciste"
+                    ]
+                }
+            ]
+        }
+    }
+}

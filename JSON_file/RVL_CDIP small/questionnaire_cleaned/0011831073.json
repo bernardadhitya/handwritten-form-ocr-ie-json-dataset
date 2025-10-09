@@ -1,0 +1,55 @@
+{
+    "conceptTest": "TODRKAPERE",
+    "office": "FOA OFEICE",
+    "intNae": "Cate",
+    "card": "01",
+    "respHans": {
+        "sex": {
+            "male": "-1",
+            "female": "-2"
+        },
+        "age": {
+            "21-34": "-1",
+            "35+": "-2"
+        }
+    },
+    "call": {
+        "menthol": "-1",
+        "nonMenthol": "-2"
+    },
+    "size": {
+        "kings": "-1",
+        "100s": "-2"
+    },
+    "emr": "#52-902",
+    "type": {
+        "full": "-1",
+        "light": "-2",
+        "ultra": "-3"
+    },
+    "screener": {
+        "introduction": "HELLO. MY NAME IS HIM. TODAY WE ARE CONDUCTING A STUDY WITH CONSUMERS.",
+        "ageQuestion": "YOUR AGE?",
+        "ageResponse": {
+            "under21": "Dsc./Rec.Co14",
+            "21-34": "Dsc./Rec.Co1.11",
+            "35+": "Dsc./Rec.Co1.121",
+            "65orOlder": "Dsc./Rec.Co1.4",
+            "refused": "D1se./Rc.Co1.4"
+        },
+        "productUseQuestion": "DO YOU CURRENTLY USE ANY OF THE FOLLOWING PRODUCTS?",
+        "products": {
+            "cannedSoups": "-1",
+            "softDrinks": "-2",
+            "cigarettes": "-2",
+            "beer": "-2"
+        },
+        "employmentQuestion": "TYPES OF FIRMS LISTED?",
+        "employmentResponse": {
+            "noToMarketResearchFirm": "No",
+            "yesToMarketResearchFirm": "Yes"
+        }
+    },
+    "record": "Dsc./Rec.Co1.6",
+    "id": "465706199"
+}

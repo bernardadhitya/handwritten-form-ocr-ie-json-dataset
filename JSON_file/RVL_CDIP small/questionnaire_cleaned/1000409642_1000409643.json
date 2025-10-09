@@ -1,0 +1,42 @@
+{
+    "company": "ABORATOR",
+    "address": {
+        "box": "26563",
+        "city": "Richmond",
+        "state": "Virginia",
+        "zip": "23261"
+    },
+    "telephone": "804-271-6002",
+    "instructions": {
+        "note": "ONLY THE PERSON WHOSE NAME APPEARS ON THIS LABEL SHOULD TAKE THE TEST",
+        "return_ballot_by": "3T.70",
+        "code": "V-4825",
+        "corrections": "Please print name/address corrections on label.",
+        "family_members": "Does the change apply to all family members or just to you?",
+        "address_changed": "Address Changed",
+        "new_phone_number": "What is your new phone number? Please include area code."
+    },
+    "ballot": {
+        "enclosure": "With this ballot enclosing ten packs of cigarettes coded as follows: E7 -5 packs and -5 packs.",
+        "directions": "Please read the directions for each part and fill out the ballot completely.",
+        "return_instructions": "Once completely filled out, please return it to me in the enclosed postage-paid envelope.",
+        "study_leader": "Study Leader",
+        "phrases": "Read the phrases at each end of each line of boxes. Which phrase do you think describes the cigarette coded?",
+        "marking_instructions": "If the one on the left describes it better, mark an x in one of the boxes on the left side--the more you think the description is true, the closer to the left side. If you think the phrase on the right side of the boxes is a better description, mark one of the boxes on the right side--again the truer it is, the closer to the right side."
+    },
+    "cigarette_coded": {
+        "code": "E7",
+        "attributes": [
+            "Does it have a mild taste?",
+            "Is it harsh?",
+            "Has a good taste?",
+            "Is satisfying?",
+            "Is cool smoking?",
+            "Does it burn too fast?",
+            "Has a dry taste?",
+            "Leaves an aftertaste in your mouth?",
+            "I like it extremely"
+        ]
+    },
+    "continue_note": "CONTINUE ON REVERSE SIDE"
+}

@@ -1,0 +1,100 @@
+{
+    "header": {
+        "code": "AHFMAKKETINCKESEAKCH",
+        "id": 2165,
+        "title": "NATIONAL CONSENSUS SURVEYS",
+        "address": {
+            "street": "801 Second Avenue",
+            "suite": "#25077W",
+            "city": "New York",
+            "state": "New York",
+            "zip": 10017
+        },
+        "date": "August, 1977"
+    },
+    "questionnaire": {
+        "title": "SCREENING QUESTIONNAIRE",
+        "sections": [
+            {
+                "title": "CIGARETTE PORTFOLIO",
+                "time_interview": {
+                    "started": "",
+                    "ended": ""
+                },
+                "respondent": {
+                    "address": "",
+                    "interviewer": "",
+                    "metro_area": "",
+                    "date": "",
+                    "validated_by": ""
+                },
+                "indicate_city": [
+                    "Des Moines",
+                    "Boston",
+                    "Detroit",
+                    "Lincoln",
+                    "New Orleans",
+                    "Omaha"
+                ],
+                "initial_refusal": {
+                    "circle_next_highest_number": [
+                        10,
+                        18,
+                        20,
+                        21,
+                        22,
+                        25,
+                        26,
+                        27,
+                        30,
+                        32,
+                        47,
+                        47,
+                        50,
+                        31,
+                        58,
+                        116,
+                        117,
+                        118,
+                        119,
+                        120
+                    ]
+                },
+                "market_research_survey": {
+                    "question": "Have you, yourself, participated in a market research survey in the last three months or so?",
+                    "terminate_and_circle_next_highest_number": "Yes",
+                    "continue": "No"
+                },
+                "participated_in": {
+                    "adults": [
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        10,
+                        11,
+                        12
+                    ]
+                },
+                "show_age_card": {
+                    "question": "Please tell me which letter on this card includes your age.",
+                    "terminate_and_circle_next_highest_number": [
+                        "Under 21",
+                        7,
+                        25,
+                        "29 to",
+                        "39 to",
+                        "44 to",
+                        "49 to",
+                        "55 to",
+                        "Over 55"
+                    ],
+                    "continue": "AGE: UNDER 1/2 3 5 7 8 10 1 12"
+                }
+            }
+        ]
+    }
+}

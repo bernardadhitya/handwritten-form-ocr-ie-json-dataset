@@ -1,0 +1,72 @@
+{
+    "document": {
+        "title": "NEWPORT C.C.S. CODE BOOK",
+        "sections": [
+            {
+                "section": "BRAND",
+                "details": {
+                    "INIV.ID": null,
+                    "SEX": "M",
+                    "AQ": [
+                        "18-24",
+                        "35-50",
+                        "AGE REFUSED",
+                        "25-34",
+                        "OVER 50"
+                    ],
+                    "vaexe": null,
+                    "Reep.": [
+                        8910,
+                        11,
+                        12,
+                        13,
+                        14,
+                        3,
+                        0
+                    ]
+                }
+            },
+            {
+                "section": "NEPORT CKAIGIL COMMUNICATION STUDY",
+                "details": {
+                    "Col.II - ard #": "MDNCCOR1976",
+                    "BRRMNX": "NEAPORT",
+                    "1a.ya1b": 1,
+                    "BRAND AWARENESS": {
+                        "14.ah": "If NEPORT already mentioned in MONITOR code yes at Cu.la without asking. Start with Qu.1b.",
+                        "If NEwPORr box style already mentioned in MONITOR": "code yes at Qu. la and Qu.1b without asking. Start with Qu.1c.",
+                        "If NEkpORr 100's already mentioned in MONITOR": "code yes at Qu. la and Qu.lc without asking. Ask Cu.1b."
+                    },
+                    "questions": [
+                        {
+                            "question": "Have you ever heard of a cigarette called Newport, or not?",
+                            "response": {
+                                "YES": 1,
+                                "NO/DK": null
+                            }
+                        },
+                        {
+                            "question": "Have you heard of the version of Newport that comes in a crush-proof box, or not?",
+                            "response": {
+                                "YES": null,
+                                "NO/DK": 38
+                            }
+                        },
+                        {
+                            "question": "Have you ever heard of the longer, 100mm version of Newport, or not?",
+                            "response": {
+                                "YES": 39,
+                                "NO/DK": null
+                            }
+                        }
+                    ],
+                    "notes": [
+                        "Record col. info. here",
+                        "Blauz (48-44 RLANK lb.)",
+                        "Staple pages 1 through 8 together where indicated"
+                    ]
+                }
+            }
+        ]
+    }
+}

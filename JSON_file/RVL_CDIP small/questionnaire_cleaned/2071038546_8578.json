@@ -1,0 +1,47 @@
+{
+    "documentTitle": "PM marked version",
+    "surveyTitle": "Retil Suwver",
+    "logo": "HRA logo",
+    "accessLevel": "RESTRICTED ACCESS FIELD STUDY",
+    "documentNumber": "8/39",
+    "identification": {
+        "interviewerID": "",
+        "storeID": "",
+        "territoryID": "",
+        "state": "",
+        "storeName": ""
+    },
+    "partA": {
+        "initialContactSheet": {
+            "instructions": "ASK THESE QUESTIONS WHEN YOU MAKE INITIAL TELEPHONE CONTACT WITH A MANAGERIAL STAFF MEMBER (OWNER, MANAGER, OR ASSISTANT MANAGER)",
+            "note": "this instrument, in order to maximize our response rate. Depending on the results of the test, Part A may be changed to take place on-site rather than prior to the actual site visit, as it is represented here."
+        },
+        "daysAndHoursOfOperation": {
+            "question": "Which hours of the day are you open? (Fill out exact hours outlet is open.)",
+            "note": "DO NOT FILL OUT SHADED AREA",
+            "hoursOpen": {
+                "Mondays": "",
+                "Tuesdays": "",
+                "Wednesdays": "",
+                "Thursdays": "",
+                "Fridays": "",
+                "Saturdays": "",
+                "Sundays": ""
+            }
+        },
+        "seasonal": {
+            "question": "Is this store closed during certain months of the year? Circle one",
+            "options": {
+                "no": "NO",
+                "yes": "YES"
+            },
+            "ifYes": {
+                "question": "If yes, How many months of the year is outlet closed.....",
+                "juneToAugust": "",
+                "septemberToMay": ""
+            }
+        }
+    },
+    "contactNumber": "2071038546",
+    "additionalInfo": "SAIHIn"
+}

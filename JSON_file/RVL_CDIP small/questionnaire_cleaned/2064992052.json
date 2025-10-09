@@ -1,0 +1,83 @@
+{
+    "company": "Roper Starch Worldwide",
+    "document_number": "#643-194",
+    "date": "August 1996",
+    "draft": "Draft #2",
+    "study": "BRAND IMAGE STUDY",
+    "section": "SCREENER",
+    "introduction": "Hello. I'm from Roper Starch Worldwide, the national public opinion research firm. We are conducting a study about people's views and behavior on a number of different topics, and we would like to ask you a few questions. I can assure you that what you say will be kept strictly confidential. We are not selling anything, we would just like to ask you some questions.",
+    "questions": {
+        "A": {
+            "question": "Respondent Gender",
+            "options": [
+                "Male",
+                "Female"
+            ]
+        },
+        "B": {
+            "question": "First, what is your age? Are you..(READ LIST)",
+            "options": {
+                "Under 18": "THANK AND TERMINATE",
+                "18-24": "CHECK QUOTAS",
+                "25-34": "CHECK QUOTAS",
+                "35-49": null,
+                "50-59": "THANK AND TERMINATE",
+                "60 or older": null
+            }
+        },
+        "C": {
+            "question": "I am going to read you some items. For each one, please tell me whether it is something you personally use, or not.",
+            "items": {
+                "Diet or lo-cal soft drinks": [
+                    "Use",
+                    "Do Not Use"
+                ],
+                "Regular soft drinks": [
+                    "Use",
+                    "Do Not Use"
+                ],
+                "Caffeinated coffee": [
+                    "Use",
+                    "Do Not Use"
+                ],
+                "Filtered cigarettes": [
+                    "Use",
+                    "Do Not Use"
+                ],
+                "Beer": [
+                    "Use",
+                    "Do Not Use"
+                ],
+                "Wine or wine coolers": [
+                    "Use",
+                    "Do Not Use"
+                ],
+                "Other alcoholic beverages": [
+                    "Use",
+                    "Do Not Use"
+                ]
+            },
+            "instructions": {
+                "IF USE ITEM D. FILTERED CIGARETTES": "CONTINUE",
+                "IF DO NOT USE ITEM D. FILTERED CIGARETTES": "THANK AND TERMINATE"
+            }
+        },
+        "D": {
+            "question": "You mentioned you smoke cigarettes. About how many do you smoke on average per day?",
+            "options": {
+                "Less than half a pack": "THANK AND TERMINATE",
+                "Half a pack": "CONTINUE",
+                "About one pack": "CONTINUE",
+                "More than one pack": "CONTINUE",
+                "Don't know": "THANK AND TERMINATE"
+            }
+        },
+        "E": {
+            "question": "Is the brand you smoke most often menthol or non-menthol?",
+            "options": {
+                "Menthol": "THANK AND TERMINATE",
+                "Non-menthol": "CONTINUE"
+            }
+        }
+    }
+}

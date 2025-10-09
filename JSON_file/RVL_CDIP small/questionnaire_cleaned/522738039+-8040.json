@@ -1,0 +1,49 @@
+{
+    "survey": {
+        "contact_method": {
+            "phone": "Please answer all questions.",
+            "letter": "Please skip to Question #2."
+        },
+        "satisfaction_areas": {
+            "ease_of_contact": {
+                "ability_to_get_through_on_first_call": "Very Satisfied",
+                "satisfaction_with_telephone_recording": "Neither Satisfied Nor Dissatisfied",
+                "if_put_on_hold_length_of_time_on_hold": "Somewhat Dissatisfied"
+            },
+            "personnel": {
+                "courtesy": "Very Satisfied",
+                "professionalism": "Very Satisfied",
+                "knowledge": "Very Satisfied",
+                "authority_to_resolve_problem": "Dissatisfied"
+            },
+            "response": {
+                "timeliness": "Very Satisfied",
+                "clarity": "Very Satisfied",
+                "helpfulness": "Very Satisfied",
+                "follow_through_on_promised_action": "Dissatisfied"
+            }
+        },
+        "action_taken": {
+            "completely_satisfied": false,
+            "not_completely_satisfied_but_acceptable": false,
+            "not_completely_satisfied_but_some_action_taken": false,
+            "not_at_all_satisfied_with_action_taken": true,
+            "not_at_all_satisfied_no_action_taken": false
+        },
+        "future_purchase_intent": {
+            "definitely_would": false,
+            "probably_would": false,
+            "might_or_might_not": true,
+            "probably_would_not": false,
+            "definitely_would_not": false
+        },
+        "recommendation_intent": {
+            "definitely_would": false,
+            "probably_would": false,
+            "might_or_might_not": true,
+            "probably_would_not": false,
+            "definitely_would_not": false
+        },
+        "additional_comments": "52273 tional OM Vinstsrlcses 8039"
+    }
+}

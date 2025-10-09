@@ -1,0 +1,48 @@
+{
+    "company": "MARKET TRENDS.INC",
+    "address": "44 EAST 23rd STREET, HEW TORKNEWYOFK 10010",
+    "project_no": "219-3",
+    "document": "SCREENING QUESTIONNAIRE",
+    "date": "November 1982",
+    "introduction": "Based on an earlier conversation, my name is [name] from [company] survey. I would like to ask you a few short questions.",
+    "questions": [
+        {
+            "question": "What is your age?",
+            "options": [
+                "Younger than 21",
+                "21-35",
+                "Older than 35"
+            ],
+            "actions": {
+                "Younger than 21": "TERMINATE",
+                "Older than 35": "TERMINATE"
+            }
+        },
+        {
+            "question": "Do you or does any member of your immediate family work for:",
+            "options": [
+                "An advertising agency",
+                "A market research company",
+                "A company manufacturing, selling, or distributing beer, wine, or other alcoholic beverages"
+            ],
+            "actions": {
+                "Yes to any above": "TERMINATE"
+            }
+        },
+        {
+            "question": "In which of the following did you engage in the past 2 days?",
+            "options": [
+                "Drink a glass of wine",
+                "Have a glass of beer",
+                "Smoke a cigarette"
+            ],
+            "actions": {
+                "Smoke a cigarette": "TERMINATE"
+            }
+        },
+        {
+            "question": "How many cigarettes do you smoke a day?",
+            "note": "Do not record answers"
+        }
+    ]
+}

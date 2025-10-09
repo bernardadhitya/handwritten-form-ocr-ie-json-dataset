@@ -1,0 +1,83 @@
+{
+    "final": "5R1 #89194",
+    "address": {
+        "street": "108 Cambridge Plaza Drive",
+        "code": "6961 asndny",
+        "city": "Bellomy",
+        "state": "Winston-Salem",
+        "zip": "NC27104"
+    },
+    "contact": {
+        "phone": "9-129",
+        "name": "ATHEKA/CATI"
+    },
+    "date": null,
+    "magazine": "SOUNDWAVES HAGAZINE",
+    "location": "PHILADELPKIA",
+    "quotes": [
+        "Quote 1 ...",
+        "AHARENESS/INPACT _STUOY",
+        "TOLECO",
+        "uota2"
+    ],
+    "interview": {
+        "address": null,
+        "city_state_zip": null,
+        "telephone": null,
+        "date": null,
+        "time_begun": null,
+        "time_ended": null,
+        "interviewer": null,
+        "validated": null,
+        "instructions": "ASK FOR NAME OF SMOKER ON SAMPLE. IF NOT AVAILABLE ARRANGE FOR CALLBACK. DO NOT INTERVIEW ANYONE ELSE IN HOUSEHOLD.",
+        "introduction": "Hello, from BelLo y Research, an independent marketing research company. We are conducting a survey on consumer products and would like to ask you a few questions.",
+        "interviewer_note": "IF YOU REJECT A RESPONDENT BECAUSE OF LANGUAGE OR HEARING PROBLEMS, IN A HURRY ETC. RECORD BELOW.",
+        "examine_o": null,
+        "problem": null,
+        "call_record_sheet": {
+            "status": {
+                "complete": null,
+                "not_reached": null,
+                "refused": null,
+                "such_person": null
+            },
+            "attempts": [
+                {
+                    "attempt": "1ST ATTEMPT",
+                    "time_date": null
+                },
+                {
+                    "attempt": "2ND ATTEMPT",
+                    "time_date": null
+                },
+                {
+                    "attempt": "3RD ATTEMPT",
+                    "time_date": null
+                }
+            ]
+        },
+        "questions": [
+            {
+                "question": "First of all, what is your age?",
+                "options": [
+                    "Under 21",
+                    "21-24 years",
+                    "Refused"
+                ],
+                "terminate_conditions": [
+                    "TERMINATE AND RECORD BELOW",
+                    "TERMINATE Q.1-UNDER AGE 21",
+                    "TERMINATE Q.125 AND OVER",
+                    "TERMINATE Q.1 REFUSED"
+                ]
+            },
+            {
+                "question": "Do you currently smoke cigarettes?",
+                "terminate": "TERMINATE Q."
+            }
+        ]
+    },
+    "code": "50725",
+    "sequence": "010203040505070809101112131415161718192021222324252627282930313233",
+    "unknown": "914"
+}

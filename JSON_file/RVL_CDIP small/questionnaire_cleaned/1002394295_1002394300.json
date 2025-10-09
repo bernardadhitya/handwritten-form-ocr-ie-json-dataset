@@ -1,0 +1,43 @@
+{
+    "title": "SLATE OF QUESTIONS",
+    "week": "4/21-4/27/80",
+    "participation": "Your participation in THE MERIT REPORT offers you the opportunity to express your opinion on today's news developments and events. Each week, the results of THE MERIT REPORT will be distributed to the media across the nation. This assures you of total confidentiality and anonymity.",
+    "topics": [
+        "your vacation plans",
+        "passage of the Equal Rights Amendment",
+        "Major League baseball",
+        "current consumer use of credit in the United States"
+    ],
+    "questions": [
+        {
+            "id": 1,
+            "text": "Have you ever participated in a public opinion poll about current events or current news issues? This does not include the 1980 Census.",
+            "options": [
+                "YES",
+                "NO",
+                "DONT KNOW"
+            ]
+        },
+        {
+            "id": 2,
+            "text": "Have you or are you planning to vacation away from home this year?",
+            "options": [
+                "YES",
+                "NO",
+                "UNDECIDED"
+            ],
+            "follow_up": {
+                "condition": "If response is 'yes' or 'undecided'",
+                "question": "How much money do you expect to spend for vacationing this year as compared to last year?",
+                "options": [
+                    "I EXPECT TO SPEND MORE THIS YEAR.",
+                    "I EXPECT TO SPEND LESS THIS YEAR.",
+                    "I EXPECT TO SPEND ABOUT THE SAME AS LAST YEAR.",
+                    "I DID NOT TAKE A VACATION LAST YEAR",
+                    "UNDECIDED"
+                ]
+            }
+        }
+    ],
+    "code": "1002394295"
+}

@@ -1,0 +1,59 @@
+{
+    "thankYou": "Thank you for participating in this study.",
+    "signature": "Signature",
+    "yourName": "Your Name",
+    "pleaseRecordYourAnswers": "Please record your answers to each question at the",
+    "address": "Address",
+    "city": "City",
+    "state": "State",
+    "zipCode": "Zip Code",
+    "phone": "Phone",
+    "questions": [
+        {
+            "question": "Have you ever bought cigarettes before?",
+            "answers": [
+                "Yes",
+                "No"
+            ],
+            "skipToQuestion": 3
+        },
+        {
+            "question": "Out of the last 10 times you bought cigarettes, how many times did you buy?",
+            "answer": "Times"
+        },
+        {
+            "question": "Out of the next 10 times you buy cigarettes, how many times do you expect to buy?",
+            "answer": "Times"
+        },
+        {
+            "question": "What brand of cigarettes do you smoke most often and consider to be your usual brand?",
+            "answer": "Cigarettes (Brand Name)"
+        },
+        {
+            "question": "Do you normally buy your cigarettes in the store where you found this check?",
+            "answers": [
+                "Yes",
+                "No"
+            ]
+        },
+        {
+            "question": "Do you normally buy your cigarettes by the pack or by the carton?",
+            "answers": [
+                "Pack",
+                "Carton"
+            ]
+        },
+        {
+            "question": "What is your age?",
+            "answer": "24"
+        },
+        {
+            "question": "Please indicate your sex.",
+            "answers": [
+                "Male",
+                "Female"
+            ]
+        }
+    ],
+    "totalPage": "Total Page 03"
+}
