@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve ">
+  <source width="2470" height="3505">02038_L.png</source>
+  <document>Lettre manuscrite</document>
+  <scenario>Difficulté de paiement</scenario>
+  <writer>FILALI Fabrice</writer>
+  <sender_person>Fifali Fabrice</sender_person>
+  <sender_company></sender_company>
+  <sender_tel>+33(0)3.25.20.09.66</sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <date></date>
+  <place></place>
+  <box top_left_x="15" top_left_y="72" bottom_right_x="640" bottom_right_y="568">
+  <type>Coordonnées Expéditeur</type>
+  <text>Fifali Fabrice\n6 rue des peupliers\n68600 Volgelsheim\n¤{tel/tél}¤ 03 25 20 09 66</text>
+  </box>
+  <box top_left_x="983" top_left_y="636" bottom_right_x="1472" bottom_right_y="888">
+  <type>Ouverture</type>
+  <text>¤{Chère/Cher}¤Monsieur</text>
+  </box>
+  <box top_left_x="160" top_left_y="949" bottom_right_x="2292" bottom_right_y="1925">
+  <type>Corps de texte</type>
+  <text>Je me permet de vous écrire car j'ai des\n¤{difficulté/difficultés}¤ à payer ma facture.\nMon endettement est devenu trop important.\nJe vous demande une remise gracieuse\nVeuillez agréer mes salutations distingués</text>
+  </box>
+  <box top_left_x="1453" top_left_y="1964" bottom_right_x="1891" bottom_right_y="2200">
+  <type>Signature</type>
+  <text></text>
+  </box>
+</annotation>
