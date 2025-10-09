@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2480" height="3505">02599_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Gestion de sinistre</scenario>
+  <writer>MORA Maurice</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="213" top_left_y="290" bottom_right_x="771" bottom_right_y="433">
+       <type>Code d'envoi</type>
+       <text>DYSVAN</text>
+  </box>
+  <box top_left_x="444" top_left_y="454" bottom_right_x="1254" bottom_right_y="562">
+       <type>Nom</type>
+       <text>MORA</text>
+  </box>
+  <box top_left_x="1447" top_left_y="457" bottom_right_x="2220" bottom_right_y="562">
+       <type>Prénom</type>
+       <text>Maurice</text>
+  </box>
+  <box top_left_x="528" top_left_y="556" bottom_right_x="2226" bottom_right_y="655">
+       <type>Adresse</type>
+       <text>13 rue des Tilleuls</text>
+  </box>
+  <box top_left_x="604" top_left_y="657" bottom_right_x="1022" bottom_right_y="764">
+       <type>Code Postal</type>
+       <text>68130</text>
+  </box>
+  <box top_left_x="1145" top_left_y="653" bottom_right_x="2229" bottom_right_y="765">
+       <type>Ville</type>
+       <text>CARSPACH</text>
+  </box>
+  <box top_left_x="411" top_left_y="768" bottom_right_x="1284" bottom_right_y="916">
+       <type>Téléphone</type>
+       <text>0386450308</text>
+  </box>
+  <box top_left_x="550" top_left_y="1036" bottom_right_x="2226" bottom_right_y="1152">
+       <type>Catégorie Scénario</type>
+       <text>Gestion de sinistre</text>
+  </box>
+  <box top_left_x="334" top_left_y="1146" bottom_right_x="2227" bottom_right_y="1328">
+       <type>Objet Scénario</type>
+       <text>sans nouvelle de l'expertise de votre ¤{vehicule/véhicule}¤\naccidenté il y a un mois</text>
+  </box>
+  <box top_left_x="326" top_left_y="1324" bottom_right_x="2227" bottom_right_y="1514">
+       <type>Complément Scénario</type>
+       <text>\n</text>
+  </box>
+  <box top_left_x="951" top_left_y="1532" bottom_right_x="1588" bottom_right_y="1682">
+       <type>Référence client</type>
+       <text>HYITL66</text>
+  </box>
+  <box top_left_x="626" top_left_y="1679" bottom_right_x="2233" bottom_right_y="1777">
+       <type>Interlocuteur</type>
+       <text>BAAF Assurances</text>
+  </box>
+  <box top_left_x="538" top_left_y="1770" bottom_right_x="2231" bottom_right_y="1875">
+       <type>Adresse Interlocuteur</type>
+       <text>Place de la Mairie</text>
+  </box>
+  <box top_left_x="616" top_left_y="1868" bottom_right_x="1044" bottom_right_y="1987">
+       <type>Code Postal Interlocuteur</type>
+       <text>30300</text>
+  </box>
+  <box top_left_x="1179" top_left_y="1869" bottom_right_x="2231" bottom_right_y="1970">
+       <type>Ville Interlocuteur</type>
+       <text>JONCQUIERES St VINCENT</text>
+  </box>
+  <box top_left_x="1095" top_left_y="2205" bottom_right_x="1310" bottom_right_y="2315">
+       <type>Temps passé</type>
+       <text>35</text>
+  </box>
+  <box top_left_x="916" top_left_y="2136" bottom_right_x="1018" bottom_right_y="2204">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1116" top_left_y="2141" bottom_right_x="1165" bottom_right_y="2193">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1332" top_left_y="2141" bottom_right_x="1384" bottom_right_y="2193">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="345" top_left_y="2608" bottom_right_x="394" bottom_right_y="2658">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1636" top_left_y="2562" bottom_right_x="2235" bottom_right_y="2674">
+       <type>Date d'envoi postal</type>
+       <text>02/02/07</text>
+  </box>
+  <box top_left_x="335" top_left_y="2686" bottom_right_x="401" bottom_right_y="2765">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="336" top_left_y="2797" bottom_right_x="394" bottom_right_y="2856">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1778" top_left_y="2735" bottom_right_x="2228" bottom_right_y="2853">
+       <type>Date d'envoi par fax</type>
+       <text>02/02/07</text>
+  </box>
+  <box top_left_x="345" top_left_y="2890" bottom_right_x="394" bottom_right_y="2953">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1634" top_left_y="2855" bottom_right_x="2231" bottom_right_y="2958">
+       <type>Date d'envoi par courriel</type>
+       <text>02/02/07</text>
+  </box>
+  <box top_left_x="1776" top_left_y="3051" bottom_right_x="2042" bottom_right_y="3145">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="616" top_left_y="3078" bottom_right_x="667" bottom_right_y="3128">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="824" top_left_y="3080" bottom_right_x="899" bottom_right_y="3142">
+       <type>Format GIF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="981" top_left_y="3056" bottom_right_x="1069" bottom_right_y="3151">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1114" top_left_y="2953" bottom_right_x="2232" bottom_right_y="3053">
+       <type>Marque et modèle scanner</type>
+       <text>EPSON Stylus CX 6600</text>
+  </box>
+</annotation>
