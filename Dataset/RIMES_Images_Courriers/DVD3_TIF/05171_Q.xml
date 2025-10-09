@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2477" height="3504">05171_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Demande d'information</scenario>
+  <writer>MESNARD Eliane</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="163" top_left_y="354" bottom_right_x="722" bottom_right_y="496">
+       <type>Code d'envoi</type>
+       <text>THJAGA</text>
+  </box>
+  <box top_left_x="395" top_left_y="517" bottom_right_x="1205" bottom_right_y="623">
+       <type>Nom</type>
+       <text>MESNARD</text>
+  </box>
+  <box top_left_x="1399" top_left_y="517" bottom_right_x="2172" bottom_right_y="620">
+       <type>Prénom</type>
+       <text>Eliane</text>
+  </box>
+  <box top_left_x="480" top_left_y="620" bottom_right_x="2178" bottom_right_y="715">
+       <type>Adresse</type>
+       <text>41 rue Principale</text>
+  </box>
+  <box top_left_x="556" top_left_y="721" bottom_right_x="974" bottom_right_y="828">
+       <type>Code Postal</type>
+       <text>57330</text>
+  </box>
+  <box top_left_x="1097" top_left_y="716" bottom_right_x="2179" bottom_right_y="825">
+       <type>Ville</type>
+       <text>ESCHERANGE</text>
+  </box>
+  <box top_left_x="364" top_left_y="834" bottom_right_x="1236" bottom_right_y="981">
+       <type>Téléphone</type>
+       <text>0357678343</text>
+  </box>
+  <box top_left_x="504" top_left_y="1102" bottom_right_x="2179" bottom_right_y="1218">
+       <type>Catégorie Scénario</type>
+       <text>demande d'information</text>
+  </box>
+  <box top_left_x="288" top_left_y="1213" bottom_right_x="2179" bottom_right_y="1395">
+       <type>Objet Scénario</type>
+       <text>demande de pocessions sur dernière facture\n</text>
+  </box>
+  <box top_left_x="281" top_left_y="1391" bottom_right_x="2179" bottom_right_y="1581">
+       <type>Complément Scénario</type>
+       <text>le montant de la facture est trop\nelevé</text>
+  </box>
+  <box top_left_x="904" top_left_y="1600" bottom_right_x="1541" bottom_right_y="1750">
+       <type>Référence client</type>
+       <text>OVFVG62</text>
+  </box>
+  <box top_left_x="581" top_left_y="1748" bottom_right_x="2185" bottom_right_y="1844">
+       <type>Interlocuteur</type>
+       <text>Banque ¤{societe/société}¤ géniale</text>
+  </box>
+  <box top_left_x="492" top_left_y="1840" bottom_right_x="2184" bottom_right_y="1943">
+       <type>Adresse Interlocuteur</type>
+       <text>2 rue ¤tourette¤</text>
+  </box>
+  <box top_left_x="570" top_left_y="1939" bottom_right_x="999" bottom_right_y="2058">
+       <type>Code Postal Interlocuteur</type>
+       <text>37420</text>
+  </box>
+  <box top_left_x="1132" top_left_y="1939" bottom_right_x="2186" bottom_right_y="2039">
+       <type>Ville Interlocuteur</type>
+       <text>Huismes</text>
+  </box>
+  <box top_left_x="1051" top_left_y="2278" bottom_right_x="1266" bottom_right_y="2389">
+       <type>Temps passé</type>
+       <text>30</text>
+  </box>
+  <box top_left_x="898" top_left_y="2217" bottom_right_x="974" bottom_right_y="2266">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1071" top_left_y="2213" bottom_right_x="1121" bottom_right_y="2265">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1287" top_left_y="2213" bottom_right_x="1340" bottom_right_y="2265">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="300" top_left_y="2685" bottom_right_x="341" bottom_right_y="2735">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1593" top_left_y="2637" bottom_right_x="2194" bottom_right_y="2749">
+       <type>Date d'envoi postal</type>
+       <text>23 avril 2007</text>
+  </box>
+  <box top_left_x="300" top_left_y="2781" bottom_right_x="350" bottom_right_y="2829">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="299" top_left_y="2875" bottom_right_x="351" bottom_right_y="2921">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1736" top_left_y="2811" bottom_right_x="2187" bottom_right_y="2929">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="299" top_left_y="2967" bottom_right_x="351" bottom_right_y="3017">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1592" top_left_y="2932" bottom_right_x="2189" bottom_right_y="3035">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1733" top_left_y="3130" bottom_right_x="1999" bottom_right_y="3225">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="573" top_left_y="3158" bottom_right_x="623" bottom_right_y="3208">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="778" top_left_y="3157" bottom_right_x="829" bottom_right_y="3208">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="959" top_left_y="3157" bottom_right_x="1009" bottom_right_y="3208">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1071" top_left_y="3031" bottom_right_x="2190" bottom_right_y="3131">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
