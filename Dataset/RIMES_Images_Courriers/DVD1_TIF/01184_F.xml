@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="21/12/2007" author="Jouve ">
+  <source width="2468" height="3500">01184_F.png</source>
+  <document>Fax</document>
+  <scenario>Réclamation</scenario>
+  <writer>SAINT-MARTIN Nathalie</writer>
+  <sender_person>Saint Martin Nathalie</sender_person>
+  <sender_company>EDF</sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company>Mairie</receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="1055" top_left_y="171" bottom_right_x="1437" bottom_right_y="557">
+  <type>Logo</type>
+  <text>EDF</text>
+  </box>
+  <box top_left_x="287" top_left_y="717" bottom_right_x="492" bottom_right_y="797">
+  <type>Expéditeur_autre / Dactylographié</type>
+  <text>Nos ref:</text>
+  </box>
+  <box top_left_x="280" top_left_y="828" bottom_right_x="491" bottom_right_y="913">
+  <type>Destinataire_autre / Dactylographié</type>
+  <text>Vos ref:</text>
+  </box>
+  <box top_left_x="512" top_left_y="687" bottom_right_x="1206" bottom_right_y="812">
+  <type>Expéditeur_personne / Manuscrit</type>
+  <text>Saint Martin Nathalie</text>
+  </box>
+  <box top_left_x="499" top_left_y="823" bottom_right_x="782" bottom_right_y="929">
+  <type>Destinataire_organisme / Manuscrit</type>
+  <text>Mairie</text>
+  </box>
+  <box top_left_x="220" top_left_y="1062" bottom_right_x="2076" bottom_right_y="1666">
+  <type>Corps de texte / Manuscrit</type>
+  <text>Monsieur le maire.\nJe vous écris cette lettre suite à des\nnuisances sonores dans ma rue.</text>
+  </box>
+</annotation>

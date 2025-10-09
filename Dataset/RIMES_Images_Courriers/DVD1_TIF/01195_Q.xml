@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="18/12/2007" author="Jouve">
+  <source width="2468" height="3502">01195_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Relance de courrier sans réponse</scenario>
+  <writer>MATHIEU Claude</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="150" top_left_y="373" bottom_right_x="707" bottom_right_y="515">
+       <type>Code d'envoi</type>
+       <text>RDNIDJ</text>
+  </box>
+  <box top_left_x="382" top_left_y="537" bottom_right_x="1188" bottom_right_y="643">
+       <type>Nom</type>
+       <text>MATHIEU</text>
+  </box>
+  <box top_left_x="1381" top_left_y="538" bottom_right_x="2151" bottom_right_y="642">
+       <type>Prénom</type>
+       <text>CLAUDE</text>
+  </box>
+  <box top_left_x="466" top_left_y="639" bottom_right_x="2155" bottom_right_y="734">
+       <type>Adresse</type>
+       <text>16 RUE JEAN JAURES</text>
+  </box>
+  <box top_left_x="542" top_left_y="739" bottom_right_x="957" bottom_right_y="846">
+       <type>Code Postal</type>
+       <text>57185</text>
+  </box>
+  <box top_left_x="1079" top_left_y="734" bottom_right_x="2154" bottom_right_y="842">
+       <type>Ville</type>
+       <text>VITRY SUR ORNE</text>
+  </box>
+  <box top_left_x="350" top_left_y="852" bottom_right_x="1217" bottom_right_y="999">
+       <type>Téléphone</type>
+       <text>0320462502</text>
+  </box>
+  <box top_left_x="490" top_left_y="1121" bottom_right_x="2158" bottom_right_y="1236">
+       <type>Catégorie Scénario</type>
+       <text>Relance de courrier sans réponse</text>
+  </box>
+  <box top_left_x="276" top_left_y="1231" bottom_right_x="2157" bottom_right_y="1413">
+       <type>Objet Scénario</type>
+       <text>Mon changement de données personnelles n'a pas\nété pris en compte</text>
+  </box>
+  <box top_left_x="269" top_left_y="1409" bottom_right_x="2156" bottom_right_y="1599">
+       <type>Complément Scénario</type>
+       <text>Aucun\n</text>
+  </box>
+  <box top_left_x="890" top_left_y="1618" bottom_right_x="1523" bottom_right_y="1768">
+       <type>Référence client</type>
+       <text>HGZTG88</text>
+  </box>
+  <box top_left_x="568" top_left_y="1766" bottom_right_x="2164" bottom_right_y="1863">
+       <type>Interlocuteur</type>
+       <text>GDF</text>
+  </box>
+  <box top_left_x="481" top_left_y="1857" bottom_right_x="2163" bottom_right_y="1963">
+       <type>Adresse Interlocuteur</type>
+       <text>17 Rue Jean Pierre Jean</text>
+  </box>
+  <box top_left_x="558" top_left_y="1956" bottom_right_x="985" bottom_right_y="2076">
+       <type>Code Postal Interlocuteur</type>
+       <text>57070</text>
+  </box>
+  <box top_left_x="1118" top_left_y="1957" bottom_right_x="2165" bottom_right_y="2058">
+       <type>Ville Interlocuteur</type>
+       <text>Metz</text>
+  </box>
+  <box top_left_x="1037" top_left_y="2295" bottom_right_x="1251" bottom_right_y="2405">
+       <type>Temps passé</type>
+       <text>15</text>
+  </box>
+  <box top_left_x="883" top_left_y="2234" bottom_right_x="960" bottom_right_y="2284">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1057" top_left_y="2230" bottom_right_x="1106" bottom_right_y="2282">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1271" top_left_y="2230" bottom_right_x="1323" bottom_right_y="2282">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="291" top_left_y="2700" bottom_right_x="333" bottom_right_y="2750">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1578" top_left_y="2652" bottom_right_x="2176" bottom_right_y="2765">
+       <type>Date d'envoi postal</type>
+       <text>01/12/06</text>
+  </box>
+  <box top_left_x="292" top_left_y="2795" bottom_right_x="342" bottom_right_y="2843">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="293" top_left_y="2890" bottom_right_x="341" bottom_right_y="2940">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1721" top_left_y="2827" bottom_right_x="2169" bottom_right_y="2945">
+       <type>Date d'envoi par fax</type>
+       <text>30/11/06</text>
+  </box>
+  <box top_left_x="292" top_left_y="2983" bottom_right_x="343" bottom_right_y="3033">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1577" top_left_y="2948" bottom_right_x="2172" bottom_right_y="3051">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1719" top_left_y="3146" bottom_right_x="1985" bottom_right_y="3241">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="564" top_left_y="3174" bottom_right_x="615" bottom_right_y="3224">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="768" top_left_y="3173" bottom_right_x="820" bottom_right_y="3224">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="949" top_left_y="3173" bottom_right_x="999" bottom_right_y="3224">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1059" top_left_y="3047" bottom_right_x="2174" bottom_right_y="3147">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>

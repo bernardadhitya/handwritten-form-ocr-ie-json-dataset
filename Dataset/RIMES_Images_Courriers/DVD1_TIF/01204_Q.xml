@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="18/12/2007" author="Jouve">
+  <source width="2475" height="3503">01204_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Relance de courrier sans réponse</scenario>
+  <writer>DRIDI Moussa</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="155" top_left_y="359" bottom_right_x="713" bottom_right_y="502">
+       <type>Code d'envoi</type>
+       <text>VVPWUY</text>
+  </box>
+  <box top_left_x="387" top_left_y="524" bottom_right_x="1196" bottom_right_y="630">
+       <type>Nom</type>
+       <text>Dridi</text>
+  </box>
+  <box top_left_x="1389" top_left_y="525" bottom_right_x="2161" bottom_right_y="628">
+       <type>Prénom</type>
+       <text>Moussa</text>
+  </box>
+  <box top_left_x="470" top_left_y="626" bottom_right_x="2166" bottom_right_y="721">
+       <type>Adresse</type>
+       <text>1A rue d'Offholtz</text>
+  </box>
+  <box top_left_x="547" top_left_y="727" bottom_right_x="964" bottom_right_y="833">
+       <type>Code Postal</type>
+       <text>68700</text>
+  </box>
+  <box top_left_x="1087" top_left_y="722" bottom_right_x="2166" bottom_right_y="830">
+       <type>Ville</type>
+       <text>Wettwiller</text>
+  </box>
+  <box top_left_x="355" top_left_y="839" bottom_right_x="1225" bottom_right_y="987">
+       <type>Téléphone</type>
+       <text>0341031512</text>
+  </box>
+  <box top_left_x="495" top_left_y="1109" bottom_right_x="2168" bottom_right_y="1226">
+       <type>Catégorie Scénario</type>
+       <text>Relance de courrier sans réponse</text>
+  </box>
+  <box top_left_x="279" top_left_y="1219" bottom_right_x="2169" bottom_right_y="1402">
+       <type>Objet Scénario</type>
+       <text>Votre demande d'information du mois\ndernier est restée sans effet</text>
+  </box>
+  <box top_left_x="271" top_left_y="1398" bottom_right_x="2170" bottom_right_y="1588">
+       <type>Complément Scénario</type>
+       <text>aucun\n</text>
+  </box>
+  <box top_left_x="895" top_left_y="1606" bottom_right_x="1531" bottom_right_y="1757">
+       <type>Référence client</type>
+       <text>MLDMY27</text>
+  </box>
+  <box top_left_x="571" top_left_y="1753" bottom_right_x="2175" bottom_right_y="1852">
+       <type>Interlocuteur</type>
+       <text>Banque Société Générale</text>
+  </box>
+  <box top_left_x="483" top_left_y="1844" bottom_right_x="2174" bottom_right_y="1952">
+       <type>Adresse Interlocuteur</type>
+       <text>310 B Chaussée de Rouvroy</text>
+  </box>
+  <box top_left_x="561" top_left_y="1942" bottom_right_x="989" bottom_right_y="2063">
+       <type>Code Postal Interlocuteur</type>
+       <text>80101</text>
+  </box>
+  <box top_left_x="1123" top_left_y="1944" bottom_right_x="2175" bottom_right_y="2048">
+       <type>Ville Interlocuteur</type>
+       <text>Abbeville</text>
+  </box>
+  <box top_left_x="1041" top_left_y="2281" bottom_right_x="1255" bottom_right_y="2392">
+       <type>Temps passé</type>
+       <text>20</text>
+  </box>
+  <box top_left_x="888" top_left_y="2216" bottom_right_x="939" bottom_right_y="2271">
+       <type>Stylo bille</type>
+       <text></text>
+  </box>
+  <box top_left_x="1061" top_left_y="2217" bottom_right_x="1110" bottom_right_y="2268">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1250" top_left_y="2223" bottom_right_x="1354" bottom_right_y="2268">
+       <type>Stylo feutre</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="301" top_left_y="2686" bottom_right_x="337" bottom_right_y="2725">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1583" top_left_y="2642" bottom_right_x="2182" bottom_right_y="2756">
+       <type>Date d'envoi postal</type>
+       <text>30/11/2006</text>
+  </box>
+  <box top_left_x="291" top_left_y="2780" bottom_right_x="341" bottom_right_y="2828">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="302" top_left_y="2870" bottom_right_x="349" bottom_right_y="2918">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1725" top_left_y="2816" bottom_right_x="2175" bottom_right_y="2935">
+       <type>Date d'envoi par fax</type>
+       <text>30/11/2006</text>
+  </box>
+  <box top_left_x="298" top_left_y="2968" bottom_right_x="336" bottom_right_y="3006">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1581" top_left_y="2936" bottom_right_x="2177" bottom_right_y="3042">
+       <type>Date d'envoi par courriel</type>
+       <text>30/11/2006</text>
+  </box>
+  <box top_left_x="1722" top_left_y="3135" bottom_right_x="1988" bottom_right_y="3232">
+       <type>Résolution</type>
+       <text>200</text>
+  </box>
+  <box top_left_x="562" top_left_y="3158" bottom_right_x="613" bottom_right_y="3209">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="767" top_left_y="3158" bottom_right_x="819" bottom_right_y="3210">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="960" top_left_y="3161" bottom_right_x="999" bottom_right_y="3199">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1060" top_left_y="3033" bottom_right_x="2178" bottom_right_y="3138">
+       <type>Marque et modèle scanner</type>
+       <text>HP ScanJet 5300 C</text>
+  </box>
+</annotation>
