@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2476" height="3505">05218_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Réclamation</scenario>
+  <writer>FELLAH Emeline</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="172" top_left_y="355" bottom_right_x="730" bottom_right_y="498">
+       <type>Code d'envoi</type>
+       <text>HCUVNM</text>
+  </box>
+  <box top_left_x="404" top_left_y="516" bottom_right_x="1213" bottom_right_y="623">
+       <type>Nom</type>
+       <text>FELLAM</text>
+  </box>
+  <box top_left_x="1406" top_left_y="513" bottom_right_x="2179" bottom_right_y="617">
+       <type>Prénom</type>
+       <text>Emeline</text>
+  </box>
+  <box top_left_x="487" top_left_y="615" bottom_right_x="2185" bottom_right_y="712">
+       <type>Adresse</type>
+       <text>25 rue de la chapelle</text>
+  </box>
+  <box top_left_x="564" top_left_y="719" bottom_right_x="982" bottom_right_y="825">
+       <type>Code Postal</type>
+       <text>67700</text>
+  </box>
+  <box top_left_x="1104" top_left_y="710" bottom_right_x="2187" bottom_right_y="818">
+       <type>Ville</type>
+       <text>ST JEAN SAVERNE</text>
+  </box>
+  <box top_left_x="372" top_left_y="829" bottom_right_x="1244" bottom_right_y="979">
+       <type>Téléphone</type>
+       <text>0372900077</text>
+  </box>
+  <box top_left_x="512" top_left_y="1094" bottom_right_x="2186" bottom_right_y="1214">
+       <type>Catégorie Scénario</type>
+       <text>Réclamation</text>
+  </box>
+  <box top_left_x="297" top_left_y="1204" bottom_right_x="2186" bottom_right_y="1390">
+       <type>Objet Scénario</type>
+       <text>Vous souhaitez vous faire rembourser\n</text>
+  </box>
+  <box top_left_x="290" top_left_y="1380" bottom_right_x="2187" bottom_right_y="1575">
+       <type>Complément Scénario</type>
+       <text>Le produit est ¤{defectueux/défectueux}¤\n</text>
+  </box>
+  <box top_left_x="913" top_left_y="1590" bottom_right_x="1549" bottom_right_y="1741">
+       <type>Référence client</type>
+       <text>CSLQQ89</text>
+  </box>
+  <box top_left_x="590" top_left_y="1737" bottom_right_x="2193" bottom_right_y="1835">
+       <type>Interlocuteur</type>
+       <text>La Reboute</text>
+  </box>
+  <box top_left_x="501" top_left_y="1827" bottom_right_x="2192" bottom_right_y="1933">
+       <type>Adresse Interlocuteur</type>
+       <text>Chef lieu</text>
+  </box>
+  <box top_left_x="579" top_left_y="1928" bottom_right_x="1008" bottom_right_y="2047">
+       <type>Code Postal Interlocuteur</type>
+       <text>74200</text>
+  </box>
+  <box top_left_x="1141" top_left_y="1927" bottom_right_x="2193" bottom_right_y="2027">
+       <type>Ville Interlocuteur</type>
+       <text>REYVROZ</text>
+  </box>
+  <box top_left_x="1060" top_left_y="2263" bottom_right_x="1274" bottom_right_y="2373">
+       <type>Temps passé</type>
+       <text>5</text>
+  </box>
+  <box top_left_x="905" top_left_y="2199" bottom_right_x="956" bottom_right_y="2254">
+       <type>Stylo bille</type>
+       <text></text>
+  </box>
+  <box top_left_x="1080" top_left_y="2199" bottom_right_x="1129" bottom_right_y="2251">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1269" top_left_y="2201" bottom_right_x="1373" bottom_right_y="2260">
+       <type>Stylo feutre</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="301" top_left_y="2669" bottom_right_x="358" bottom_right_y="2742">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1601" top_left_y="2618" bottom_right_x="2201" bottom_right_y="2731">
+       <type>Date d'envoi postal</type>
+       <text>23 avril 2007</text>
+  </box>
+  <box top_left_x="311" top_left_y="2764" bottom_right_x="360" bottom_right_y="2812">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="309" top_left_y="2858" bottom_right_x="361" bottom_right_y="2904">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1744" top_left_y="2791" bottom_right_x="2194" bottom_right_y="2908">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="304" top_left_y="2952" bottom_right_x="388" bottom_right_y="3004">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1600" top_left_y="2910" bottom_right_x="2196" bottom_right_y="3014">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1741" top_left_y="3107" bottom_right_x="2007" bottom_right_y="3201">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="582" top_left_y="3137" bottom_right_x="632" bottom_right_y="3186">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="786" top_left_y="3135" bottom_right_x="838" bottom_right_y="3186">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="970" top_left_y="3136" bottom_right_x="1019" bottom_right_y="3186">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1080" top_left_y="3008" bottom_right_x="2197" bottom_right_y="3110">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
