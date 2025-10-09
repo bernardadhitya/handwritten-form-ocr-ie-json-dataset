@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2472" height="3509">03660_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Gestion de sinistre</scenario>
+  <writer>DUBOC Dominique</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="174" top_left_y="301" bottom_right_x="731" bottom_right_y="444">
+       <type>Code d'envoi</type>
+       <text>YPNLOT</text>
+  </box>
+  <box top_left_x="405" top_left_y="465" bottom_right_x="1212" bottom_right_y="572">
+       <type>Nom</type>
+       <text>DUBOC</text>
+  </box>
+  <box top_left_x="1406" top_left_y="467" bottom_right_x="2177" bottom_right_y="572">
+       <type>Prénom</type>
+       <text>Dominique</text>
+  </box>
+  <box top_left_x="487" top_left_y="567" bottom_right_x="2183" bottom_right_y="667">
+       <type>Adresse</type>
+       <text>21 Rue Principale</text>
+  </box>
+  <box top_left_x="563" top_left_y="668" bottom_right_x="981" bottom_right_y="775">
+       <type>Code Postal</type>
+       <text>67290</text>
+  </box>
+  <box top_left_x="1104" top_left_y="664" bottom_right_x="2185" bottom_right_y="777">
+       <type>Ville</type>
+       <text>WEISLINGEN</text>
+  </box>
+  <box top_left_x="370" top_left_y="778" bottom_right_x="1242" bottom_right_y="927">
+       <type>Téléphone</type>
+       <text>0342956172</text>
+  </box>
+  <box top_left_x="509" top_left_y="1047" bottom_right_x="2182" bottom_right_y="1165">
+       <type>Catégorie Scénario</type>
+       <text>Gestion de sinistre</text>
+  </box>
+  <box top_left_x="292" top_left_y="1157" bottom_right_x="2182" bottom_right_y="1340">
+       <type>Objet Scénario</type>
+       <text>Vous faites Appel à votre Assurance habitation\n</text>
+  </box>
+  <box top_left_x="284" top_left_y="1335" bottom_right_x="2181" bottom_right_y="1524">
+       <type>Complément Scénario</type>
+       <text>vous avez subi un ¤{dégat/dégât}¤ des eaux\n</text>
+  </box>
+  <box top_left_x="907" top_left_y="1542" bottom_right_x="1543" bottom_right_y="1691">
+       <type>Référence client</type>
+       <text>GIBCA79</text>
+  </box>
+  <box top_left_x="583" top_left_y="1689" bottom_right_x="2188" bottom_right_y="1783">
+       <type>Interlocuteur</type>
+       <text>MANIF Assurances</text>
+  </box>
+  <box top_left_x="494" top_left_y="1778" bottom_right_x="2188" bottom_right_y="1880">
+       <type>Adresse Interlocuteur</type>
+       <text>1 rue Verdouble</text>
+  </box>
+  <box top_left_x="572" top_left_y="1876" bottom_right_x="1000" bottom_right_y="1994">
+       <type>Code Postal Interlocuteur</type>
+       <text>11100</text>
+  </box>
+  <box top_left_x="1135" top_left_y="1876" bottom_right_x="2187" bottom_right_y="1976">
+       <type>Ville Interlocuteur</type>
+       <text>NARBONNE</text>
+  </box>
+  <box top_left_x="1050" top_left_y="2213" bottom_right_x="1264" bottom_right_y="2324">
+       <type>Temps passé</type>
+       <text>7</text>
+  </box>
+  <box top_left_x="896" top_left_y="2148" bottom_right_x="946" bottom_right_y="2203">
+       <type>Stylo bille</type>
+       <text></text>
+  </box>
+  <box top_left_x="1071" top_left_y="2149" bottom_right_x="1119" bottom_right_y="2201">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1260" top_left_y="2132" bottom_right_x="1363" bottom_right_y="2201">
+       <type>Stylo feutre</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="297" top_left_y="2590" bottom_right_x="376" bottom_right_y="2649">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1591" top_left_y="2570" bottom_right_x="2190" bottom_right_y="2682">
+       <type>Date d'envoi postal</type>
+       <text>14/03/07</text>
+  </box>
+  <box top_left_x="300" top_left_y="2712" bottom_right_x="350" bottom_right_y="2760">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="298" top_left_y="2806" bottom_right_x="350" bottom_right_y="2852">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1733" top_left_y="2743" bottom_right_x="2182" bottom_right_y="2860">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="298" top_left_y="2876" bottom_right_x="377" bottom_right_y="2951">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1588" top_left_y="2863" bottom_right_x="2184" bottom_right_y="2965">
+       <type>Date d'envoi par courriel</type>
+       <text>14/03/07</text>
+  </box>
+  <box top_left_x="1729" top_left_y="3059" bottom_right_x="1994" bottom_right_y="3153">
+       <type>Résolution</type>
+       <text>250</text>
+  </box>
+  <box top_left_x="569" top_left_y="3086" bottom_right_x="620" bottom_right_y="3135">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="775" top_left_y="3086" bottom_right_x="827" bottom_right_y="3136">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="970" top_left_y="3082" bottom_right_x="1031" bottom_right_y="3128">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1068" top_left_y="2961" bottom_right_x="2185" bottom_right_y="3060">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
