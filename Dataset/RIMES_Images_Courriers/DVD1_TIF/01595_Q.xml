@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2468" height="3506">01595_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Modification de contrat / Commande</scenario>
+  <writer>PICAVET Denise</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="186" top_left_y="286" bottom_right_x="742" bottom_right_y="428">
+       <type>Code d'envoi</type>
+       <text>TWIMIE</text>
+  </box>
+  <box top_left_x="416" top_left_y="449" bottom_right_x="1223" bottom_right_y="556">
+       <type>Nom</type>
+       <text>Picavet</text>
+  </box>
+  <box top_left_x="1416" top_left_y="451" bottom_right_x="2188" bottom_right_y="555">
+       <type>Prénom</type>
+       <text>Denise</text>
+  </box>
+  <box top_left_x="499" top_left_y="551" bottom_right_x="2193" bottom_right_y="649">
+       <type>Adresse</type>
+       <text>6 route de villiers</text>
+  </box>
+  <box top_left_x="576" top_left_y="652" bottom_right_x="993" bottom_right_y="758">
+       <type>Code Postal</type>
+       <text>54720</text>
+  </box>
+  <box top_left_x="1115" top_left_y="648" bottom_right_x="2196" bottom_right_y="758">
+       <type>Ville</type>
+       <text>Chenieres</text>
+  </box>
+  <box top_left_x="383" top_left_y="763" bottom_right_x="1254" bottom_right_y="911">
+       <type>Téléphone</type>
+       <text>0335754252</text>
+  </box>
+  <box top_left_x="523" top_left_y="1032" bottom_right_x="2196" bottom_right_y="1147">
+       <type>Catégorie Scénario</type>
+       <text>Modification de commande</text>
+  </box>
+  <box top_left_x="307" top_left_y="1142" bottom_right_x="2197" bottom_right_y="1324">
+       <type>Objet Scénario</type>
+       <text>Changement concernant votre ¤{derniere/dernière}¤ commande\n</text>
+  </box>
+  <box top_left_x="299" top_left_y="1319" bottom_right_x="2198" bottom_right_y="1509">
+       <type>Complément Scénario</type>
+       <text>Vous souhaitez changer la couleur du ¤{modele/modèle}¤.\ncommandé (CH 45-16)</text>
+  </box>
+  <box top_left_x="922" top_left_y="1526" bottom_right_x="1558" bottom_right_y="1676">
+       <type>Référence client</type>
+       <text>SKXDF48</text>
+  </box>
+  <box top_left_x="599" top_left_y="1674" bottom_right_x="2201" bottom_right_y="1771">
+       <type>Interlocuteur</type>
+       <text>Les 3 suifs</text>
+  </box>
+  <box top_left_x="511" top_left_y="1764" bottom_right_x="2200" bottom_right_y="1870">
+       <type>Adresse Interlocuteur</type>
+       <text>Route de Parthenay</text>
+  </box>
+  <box top_left_x="589" top_left_y="1862" bottom_right_x="1016" bottom_right_y="1981">
+       <type>Code Postal Interlocuteur</type>
+       <text>79310</text>
+  </box>
+  <box top_left_x="1150" top_left_y="1863" bottom_right_x="2200" bottom_right_y="1963">
+       <type>Ville Interlocuteur</type>
+       <text>MAZIERES EN GATINE</text>
+  </box>
+  <box top_left_x="1068" top_left_y="2199" bottom_right_x="1282" bottom_right_y="2308">
+       <type>Temps passé</type>
+       <text>20</text>
+  </box>
+  <box top_left_x="921" top_left_y="2138" bottom_right_x="992" bottom_right_y="2187">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1089" top_left_y="2134" bottom_right_x="1137" bottom_right_y="2186">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1277" top_left_y="2142" bottom_right_x="1380" bottom_right_y="2193">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="321" top_left_y="2603" bottom_right_x="398" bottom_right_y="2652">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1609" top_left_y="2554" bottom_right_x="2207" bottom_right_y="2666">
+       <type>Date d'envoi postal</type>
+       <text>21/dec/2006</text>
+  </box>
+  <box top_left_x="327" top_left_y="2699" bottom_right_x="397" bottom_right_y="2748">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="322" top_left_y="2791" bottom_right_x="399" bottom_right_y="2842">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1751" top_left_y="2727" bottom_right_x="2200" bottom_right_y="2844">
+       <type>Date d'envoi par fax</type>
+       <text>21/dec/2006</text>
+  </box>
+  <box top_left_x="323" top_left_y="2885" bottom_right_x="400" bottom_right_y="2940">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1608" top_left_y="2847" bottom_right_x="2202" bottom_right_y="2950">
+       <type>Date d'envoi par courriel</type>
+       <text>20/dec/2006</text>
+  </box>
+  <box top_left_x="1749" top_left_y="3044" bottom_right_x="2013" bottom_right_y="3139">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="593" top_left_y="3073" bottom_right_x="643" bottom_right_y="3123">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="798" top_left_y="3072" bottom_right_x="849" bottom_right_y="3123">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="989" top_left_y="3075" bottom_right_x="1053" bottom_right_y="3125">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1089" top_left_y="2945" bottom_right_x="2204" bottom_right_y="3046">
+       <type>Marque et modèle scanner</type>
+       <text>Canon MP 80</text>
+  </box>
+</annotation>

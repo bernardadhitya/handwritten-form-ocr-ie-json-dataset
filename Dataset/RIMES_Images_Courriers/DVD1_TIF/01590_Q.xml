@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="18/12/2007" author="Jouve">
+  <source width="2469" height="3504">01590_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Modification de contrat / Commande</scenario>
+  <writer>BOSC Lilian</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="174" top_left_y="392" bottom_right_x="733" bottom_right_y="537">
+       <type>Code d'envoi</type>
+       <text>CZSJNB</text>
+  </box>
+  <box top_left_x="406" top_left_y="558" bottom_right_x="1215" bottom_right_y="667">
+       <type>Nom</type>
+       <text>Bosc</text>
+  </box>
+  <box top_left_x="1409" top_left_y="560" bottom_right_x="2183" bottom_right_y="666">
+       <type>Prénom</type>
+       <text>Lilian</text>
+  </box>
+  <box top_left_x="488" top_left_y="662" bottom_right_x="2188" bottom_right_y="761">
+       <type>Adresse</type>
+       <text>48 rue Principale</text>
+  </box>
+  <box top_left_x="565" top_left_y="765" bottom_right_x="984" bottom_right_y="874">
+       <type>Code Postal</type>
+       <text>57320</text>
+  </box>
+  <box top_left_x="1106" top_left_y="760" bottom_right_x="2190" bottom_right_y="871">
+       <type>Ville</type>
+       <text>Clemery</text>
+  </box>
+  <box top_left_x="372" top_left_y="880" bottom_right_x="1246" bottom_right_y="1030">
+       <type>Téléphone</type>
+       <text>0383849570</text>
+  </box>
+  <box top_left_x="511" top_left_y="1154" bottom_right_x="2189" bottom_right_y="1270">
+       <type>Catégorie Scénario</type>
+       <text>modification contrat / Commande</text>
+  </box>
+  <box top_left_x="295" top_left_y="1266" bottom_right_x="2189" bottom_right_y="1449">
+       <type>Objet Scénario</type>
+       <text>Augmentation (X2) des quantités d'actions boursières\ncommandés</text>
+  </box>
+  <box top_left_x="287" top_left_y="1446" bottom_right_x="2189" bottom_right_y="1637">
+       <type>Complément Scénario</type>
+       <text>aucun\n</text>
+  </box>
+  <box top_left_x="912" top_left_y="1656" bottom_right_x="1549" bottom_right_y="1808">
+       <type>Référence client</type>
+       <text>ULAPE89</text>
+  </box>
+  <box top_left_x="587" top_left_y="1806" bottom_right_x="2195" bottom_right_y="1904">
+       <type>Interlocuteur</type>
+       <text>Banque ¤{Sociéte/Société}¤ Géniale</text>
+  </box>
+  <box top_left_x="499" top_left_y="1899" bottom_right_x="2195" bottom_right_y="2004">
+       <type>Adresse Interlocuteur</type>
+       <text>Centre Commercial Roche Berenger</text>
+  </box>
+  <box top_left_x="577" top_left_y="2000" bottom_right_x="1006" bottom_right_y="2120">
+       <type>Code Postal Interlocuteur</type>
+       <text>38410</text>
+  </box>
+  <box top_left_x="1140" top_left_y="1999" bottom_right_x="2195" bottom_right_y="2100">
+       <type>Ville Interlocuteur</type>
+       <text>Chamrousse</text>
+  </box>
+  <box top_left_x="1056" top_left_y="2342" bottom_right_x="1271" bottom_right_y="2453">
+       <type>Temps passé</type>
+       <text>10</text>
+  </box>
+  <box top_left_x="901" top_left_y="2280" bottom_right_x="949" bottom_right_y="2340">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1077" top_left_y="2276" bottom_right_x="1126" bottom_right_y="2329">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1292" top_left_y="2276" bottom_right_x="1344" bottom_right_y="2329">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="304" top_left_y="2751" bottom_right_x="383" bottom_right_y="2812">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1597" top_left_y="2700" bottom_right_x="2196" bottom_right_y="2814">
+       <type>Date d'envoi postal</type>
+       <text>21/12/06</text>
+  </box>
+  <box top_left_x="300" top_left_y="2846" bottom_right_x="352" bottom_right_y="2898">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="304" top_left_y="2942" bottom_right_x="355" bottom_right_y="2989">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1739" top_left_y="2875" bottom_right_x="2191" bottom_right_y="2993">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="300" top_left_y="3038" bottom_right_x="383" bottom_right_y="3089">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1596" top_left_y="2995" bottom_right_x="2194" bottom_right_y="3099">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1739" top_left_y="3193" bottom_right_x="2005" bottom_right_y="3288">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="577" top_left_y="3225" bottom_right_x="628" bottom_right_y="3275">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="783" top_left_y="3224" bottom_right_x="834" bottom_right_y="3275">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="964" top_left_y="3223" bottom_right_x="1014" bottom_right_y="3274">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1076" top_left_y="3094" bottom_right_x="2196" bottom_right_y="3197">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
