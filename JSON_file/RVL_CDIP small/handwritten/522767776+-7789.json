@@ -1,0 +1,36 @@
+{
+    "company": "TOBACCO COMPANY",
+    "sender": "R.J. REYNOLDS",
+    "address": {
+        "POBox": "834039",
+        "city": "Richardson",
+        "state": "TX",
+        "zip": "75083-4035"
+    },
+    "recipient": {
+        "name": "CHAD HEWATTE",
+        "address": {
+            "street": "819 DEEPAKE DR NW",
+            "city": "KENNESAW",
+            "state": "GA",
+            "zip": "3014-7776"
+        }
+    },
+    "mailing_info": {
+        "postage": "U.S. POSTAGE PRSRT STD PAID",
+        "change_service_requested": true,
+        "mailing_restriction": "MAILING RESTRICTED TO SMOKERS 21 YEARS OF AGE OR OLDER"
+    },
+    "remove_request": {
+        "address": {
+            "POBox": "345",
+            "city": "WINSTON-SALEM",
+            "state": "NC",
+            "zip": "27182-0345"
+        }
+    },
+    "tracking": {
+        "BYNCXX": "38371995880327688",
+        "ID": "38371995880327605284"
+    }
+}

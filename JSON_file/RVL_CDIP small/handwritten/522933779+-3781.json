@@ -1,0 +1,51 @@
+{
+    "location": "DORAL",
+    "message": "Getting More",
+    "company": "SUPERAMERICA",
+    "store": "Speedway",
+    "offer": "Special Savings Inside",
+    "address": {
+        "city": "Richardson",
+        "state": "TX",
+        "zip": "75083-4039",
+        "poBox": "P.O. Box 634039"
+    },
+    "service": "CHANGE SERVICE REQUESTED",
+    "status": "PAID",
+    "code": "#BYNCXX1*AUTO",
+    "digits": "3-DIGI7444",
+    "co": "CO-CO",
+    "id": "3120705778031354",
+    "additionalId": "52293",
+    "secondaryId": "312070577803135",
+    "rb": "RB3-99",
+    "recipient": {
+        "name": "MELBA ANDERSON",
+        "code": "COO0",
+        "address": "7269 ELMLAND AVE",
+        "additionalCode": "3779",
+        "city": "POLAND",
+        "state": "OH",
+        "zip": "44514-2618"
+    },
+    "restrictions": "MAILING RESTRICTED TO SMOKERS 21 YEARS OF AGE OR OLDER",
+    "statusDetails": {
+        "deceased": "DECEASED",
+        "cancer": "CANCER"
+    },
+    "product": {
+        "name": "DORAL",
+        "offer": {
+            "carton": {
+                "description": "One Carton of DORAL",
+                "discount": "$200 OFF",
+                "code": "87303"
+            },
+            "pack": {
+                "description": "One Pack of DORAL",
+                "discount": "40 OFF",
+                "code": "87304"
+            }
+        }
+    }
+}
