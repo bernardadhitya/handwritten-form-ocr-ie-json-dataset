@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2470" height="3505">02436_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Réclamation</scenario>
+  <writer>LHEUREUX Bruno</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="138" top_left_y="368" bottom_right_x="694" bottom_right_y="510">
+       <type>Code d'envoi</type>
+       <text>OWBRBE</text>
+  </box>
+  <box top_left_x="368" top_left_y="531" bottom_right_x="1175" bottom_right_y="638">
+       <type>Nom</type>
+       <text>LHEUREUX</text>
+  </box>
+  <box top_left_x="1368" top_left_y="533" bottom_right_x="2139" bottom_right_y="637">
+       <type>Prénom</type>
+       <text>Bruno</text>
+  </box>
+  <box top_left_x="451" top_left_y="633" bottom_right_x="2144" bottom_right_y="731">
+       <type>Adresse</type>
+       <text>13 rue des Peupliers</text>
+  </box>
+  <box top_left_x="528" top_left_y="734" bottom_right_x="944" bottom_right_y="840">
+       <type>Code Postal</type>
+       <text>57550</text>
+  </box>
+  <box top_left_x="1067" top_left_y="729" bottom_right_x="2145" bottom_right_y="840">
+       <type>Ville</type>
+       <text>HARGATEN AUX MINES</text>
+  </box>
+  <box top_left_x="335" top_left_y="845" bottom_right_x="1205" bottom_right_y="993">
+       <type>Téléphone</type>
+       <text>0353021941</text>
+  </box>
+  <box top_left_x="474" top_left_y="1113" bottom_right_x="2146" bottom_right_y="1230">
+       <type>Catégorie Scénario</type>
+       <text>Réclamation</text>
+  </box>
+  <box top_left_x="258" top_left_y="1223" bottom_right_x="2147" bottom_right_y="1407">
+       <type>Objet Scénario</type>
+       <text>Vous souhaitez vous faire rembourser\n</text>
+  </box>
+  <box top_left_x="250" top_left_y="1401" bottom_right_x="2148" bottom_right_y="1593">
+       <type>Complément Scénario</type>
+       <text>Il y a erreur sur le produit livré\n</text>
+  </box>
+  <box top_left_x="874" top_left_y="1609" bottom_right_x="1510" bottom_right_y="1760">
+       <type>Référence client</type>
+       <text>VIAOK09</text>
+  </box>
+  <box top_left_x="550" top_left_y="1756" bottom_right_x="2154" bottom_right_y="1856">
+       <type>Interlocuteur</type>
+       <text>Les 3 Suifs</text>
+  </box>
+  <box top_left_x="461" top_left_y="1846" bottom_right_x="2153" bottom_right_y="1955">
+       <type>Adresse Interlocuteur</type>
+       <text>Bourg Chantecoq</text>
+  </box>
+  <box top_left_x="539" top_left_y="1945" bottom_right_x="967" bottom_right_y="2065">
+       <type>Code Postal Interlocuteur</type>
+       <text>45320</text>
+  </box>
+  <box top_left_x="1102" top_left_y="1947" bottom_right_x="2153" bottom_right_y="2049">
+       <type>Ville Interlocuteur</type>
+       <text>CHANTECOQ</text>
+  </box>
+  <box top_left_x="1018" top_left_y="2283" bottom_right_x="1232" bottom_right_y="2394">
+       <type>Temps passé</type>
+       <text>15</text>
+  </box>
+  <box top_left_x="865" top_left_y="2218" bottom_right_x="916" bottom_right_y="2273">
+       <type>Stylo bille</type>
+       <text></text>
+  </box>
+  <box top_left_x="1038" top_left_y="2218" bottom_right_x="1087" bottom_right_y="2270">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1227" top_left_y="2213" bottom_right_x="1331" bottom_right_y="2271">
+       <type>Stylo feutre</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="267" top_left_y="2687" bottom_right_x="316" bottom_right_y="2737">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1559" top_left_y="2641" bottom_right_x="2158" bottom_right_y="2753">
+       <type>Date d'envoi postal</type>
+       <text>13/01/2007</text>
+  </box>
+  <box top_left_x="269" top_left_y="2781" bottom_right_x="307" bottom_right_y="2828">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="268" top_left_y="2875" bottom_right_x="313" bottom_right_y="2924">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1701" top_left_y="2814" bottom_right_x="2151" bottom_right_y="2932">
+       <type>Date d'envoi par fax</type>
+       <text>12/01/2007</text>
+  </box>
+  <box top_left_x="268" top_left_y="2969" bottom_right_x="316" bottom_right_y="3018">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1557" top_left_y="2934" bottom_right_x="2153" bottom_right_y="3037">
+       <type>Date d'envoi par courriel</type>
+       <text>12/01/2007</text>
+  </box>
+  <box top_left_x="1698" top_left_y="3131" bottom_right_x="1963" bottom_right_y="3225">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="541" top_left_y="3154" bottom_right_x="616" bottom_right_y="3206">
+       <type>Format PNG</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="744" top_left_y="3156" bottom_right_x="796" bottom_right_y="3207">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="925" top_left_y="3157" bottom_right_x="975" bottom_right_y="3207">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1037" top_left_y="3032" bottom_right_x="2154" bottom_right_y="3132">
+       <type>Marque et modèle scanner</type>
+       <text>Epson Stylus CX 3200</text>
+  </box>
+</annotation>
