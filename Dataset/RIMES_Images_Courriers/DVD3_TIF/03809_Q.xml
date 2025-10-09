@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2468" height="3507">03809_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Gestion de sinistre</scenario>
+  <writer>ROBBE Nicolas</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="135" top_left_y="345" bottom_right_x="693" bottom_right_y="486">
+       <type>Code d'envoi</type>
+       <text>RMOFPR</text>
+  </box>
+  <box top_left_x="367" top_left_y="507" bottom_right_x="1176" bottom_right_y="613">
+       <type>Nom</type>
+       <text>Mr ROBBE</text>
+  </box>
+  <box top_left_x="1369" top_left_y="506" bottom_right_x="2142" bottom_right_y="609">
+       <type>Prénom</type>
+       <text>Nicolas</text>
+  </box>
+  <box top_left_x="450" top_left_y="609" bottom_right_x="2147" bottom_right_y="702">
+       <type>Adresse</type>
+       <text>10 rue Belle vue</text>
+  </box>
+  <box top_left_x="526" top_left_y="710" bottom_right_x="944" bottom_right_y="815">
+       <type>Code Postal</type>
+       <text>67150</text>
+  </box>
+  <box top_left_x="1067" top_left_y="703" bottom_right_x="2147" bottom_right_y="810">
+       <type>Ville</type>
+       <text>Scttaefferstteim</text>
+  </box>
+  <box top_left_x="335" top_left_y="822" bottom_right_x="1206" bottom_right_y="969">
+       <type>Téléphone</type>
+       <text>0308107474</text>
+  </box>
+  <box top_left_x="474" top_left_y="1088" bottom_right_x="2150" bottom_right_y="1205">
+       <type>Catégorie Scénario</type>
+       <text>Gestion de sinistre</text>
+  </box>
+  <box top_left_x="259" top_left_y="1198" bottom_right_x="2150" bottom_right_y="1382">
+       <type>Objet Scénario</type>
+       <text>vous ¤{faite/faites}¤ appel a votre assurance\nHabitation</text>
+  </box>
+  <box top_left_x="250" top_left_y="1375" bottom_right_x="2150" bottom_right_y="1566">
+       <type>Complément Scénario</type>
+       <text>votre toit a ¤{ete/été}¤ endommagé par\nla ¤{chute/chutte}¤ d'un arbre</text>
+  </box>
+  <box top_left_x="875" top_left_y="1583" bottom_right_x="1511" bottom_right_y="1733">
+       <type>Référence client</type>
+       <text>RIMCK21</text>
+  </box>
+  <box top_left_x="550" top_left_y="1729" bottom_right_x="2157" bottom_right_y="1827">
+       <type>Interlocuteur</type>
+       <text>BAAF assurance</text>
+  </box>
+  <box top_left_x="462" top_left_y="1819" bottom_right_x="2156" bottom_right_y="1925">
+       <type>Adresse Interlocuteur</type>
+       <text>la vuelle</text>
+  </box>
+  <box top_left_x="540" top_left_y="1920" bottom_right_x="968" bottom_right_y="2039">
+       <type>Code Postal Interlocuteur</type>
+       <text>80430</text>
+  </box>
+  <box top_left_x="1103" top_left_y="1917" bottom_right_x="2156" bottom_right_y="2019">
+       <type>Ville Interlocuteur</type>
+       <text>Neuville coppeguelle</text>
+  </box>
+  <box top_left_x="1021" top_left_y="2257" bottom_right_x="1235" bottom_right_y="2368">
+       <type>Temps passé</type>
+       <text>30</text>
+  </box>
+  <box top_left_x="869" top_left_y="2197" bottom_right_x="942" bottom_right_y="2247">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1041" top_left_y="2193" bottom_right_x="1090" bottom_right_y="2245">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1256" top_left_y="2192" bottom_right_x="1308" bottom_right_y="2244">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="270" top_left_y="2670" bottom_right_x="319" bottom_right_y="2714">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1563" top_left_y="2613" bottom_right_x="2164" bottom_right_y="2726">
+       <type>Date d'envoi postal</type>
+       <text>19/3/07</text>
+  </box>
+  <box top_left_x="275" top_left_y="2766" bottom_right_x="319" bottom_right_y="2810">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="271" top_left_y="2853" bottom_right_x="348" bottom_right_y="2902">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1706" top_left_y="2786" bottom_right_x="2156" bottom_right_y="2904">
+       <type>Date d'envoi par fax</type>
+       <text>19/3/07</text>
+  </box>
+  <box top_left_x="263" top_left_y="2948" bottom_right_x="348" bottom_right_y="3014">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1562" top_left_y="2905" bottom_right_x="2158" bottom_right_y="3009">
+       <type>Date d'envoi par courriel</type>
+       <text>19/3/07</text>
+  </box>
+  <box top_left_x="1703" top_left_y="3103" bottom_right_x="1969" bottom_right_y="3198">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="543" top_left_y="3134" bottom_right_x="594" bottom_right_y="3184">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="748" top_left_y="3132" bottom_right_x="800" bottom_right_y="3183">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="932" top_left_y="3145" bottom_right_x="981" bottom_right_y="3180">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1041" top_left_y="3004" bottom_right_x="2160" bottom_right_y="3106">
+       <type>Marque et modèle scanner</type>
+       <text>Nashunatec</text>
+  </box>
+</annotation>
