@@ -1,0 +1,90 @@
+{
+    "Sheet": "Sheet2",
+    "Title": "Correlations (merged.sta",
+    "Note": "Marked correlations are significant at p<.05000",
+    "N": 73,
+    "Method": "Casewise deletion of missing data",
+    "Data": [
+        {
+            "Variable": "DSTE Stgf",
+            "Correlations": [
+                {
+                    "Variable": "toD",
+                    "Value": 0.0296,
+                    "p": 0.803
+                },
+                {
+                    "Variable": "GH",
+                    "Value": 0.23,
+                    "p": 0.05
+                },
+                {
+                    "Variable": "DA",
+                    "Value": 0.4817,
+                    "p": 0.0
+                },
+                {
+                    "Variable": "ACCEPTAN",
+                    "Value": 0.1736,
+                    "p": 0.142
+                },
+                {
+                    "Variable": "KaL COnSMNATN SS",
+                    "Value": 0.5413,
+                    "p": 0.0
+                },
+                {
+                    "Variable": "OAPPRSQG",
+                    "Value": 0.1378,
+                    "p": 0.245
+                },
+                {
+                    "Variable": "R",
+                    "Value": 0.2224,
+                    "p": 0.059
+                }
+            ]
+        },
+        {
+            "Variable": "ACCEPTAN",
+            "Correlations": [
+                {
+                    "Variable": "DSTE Stgf",
+                    "Value": 0.6471,
+                    "p": 0.0
+                },
+                {
+                    "Variable": "toD",
+                    "Value": 0.0505,
+                    "p": 0.671
+                },
+                {
+                    "Variable": "GH",
+                    "Value": 0.7215,
+                    "p": 0.0
+                },
+                {
+                    "Variable": "DA",
+                    "Value": 0.5291,
+                    "p": 0.0
+                },
+                {
+                    "Variable": "KaL COnSMNATN SS",
+                    "Value": 0.0554,
+                    "p": 0.0
+                },
+                {
+                    "Variable": "OAPPRSQG",
+                    "Value": 0.1981,
+                    "p": 0.642
+                },
+                {
+                    "Variable": "R",
+                    "Value": 0.1337,
+                    "p": 0.093
+                }
+            ]
+        }
+    ],
+    "Page": 1
+}

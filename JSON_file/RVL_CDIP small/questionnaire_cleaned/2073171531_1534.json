@@ -1,0 +1,88 @@
+{
+    "office_use_only": {
+        "codes": [
+            "CEC",
+            "CECX",
+            "CECC",
+            "OEC",
+            "OECX",
+            "OECC",
+            "OCC",
+            "RECOL",
+            "DRAFT#1"
+        ]
+    },
+    "company_info": {
+        "name": "Marketing Information Systems Intl., Inc.",
+        "address": {
+            "street": "100 Sylvan Avenue",
+            "city": "Englewood Cliffs",
+            "state": "New Jersey",
+            "zip": "07632"
+        },
+        "date": "August, 1995",
+        "contact_numbers": [
+            "1-800-631-1623",
+            "201-947-6900"
+        ]
+    },
+    "job": {
+        "title": "JOB 2 FOCUS GROUPS",
+        "location": "San Diego",
+        "screener": "Ra Scree"
+    },
+    "survey": {
+        "introduction": "Hello, I'm of Marketing Information Systems. We're conducting an opinion survey today among men and women between the ages of 21 and 45 about various products used in the household and I'd like to ask you a few questions.",
+        "questions": [
+            {
+                "question": "First of all, are you between the ages of 21 and 45?",
+                "answers": {
+                    "yes": 1,
+                    "no": "THANK AND TERMINATE"
+                }
+            },
+            {
+                "question": "What is your exact age?",
+                "instruction": "RECORD EXACT AGE AT LEFT BELOW THEN CIRCLE CORRESPONDING AGE CATEGORY",
+                "age_categories": {
+                    "21-29": 1,
+                    "30-45": 2
+                },
+                "check_quotas": true
+            },
+            {
+                "question": "RECORD DO NOT ASK",
+                "gender": {
+                    "male": 1,
+                    "female": 2
+                },
+                "check_quotas": true
+            },
+            {
+                "question": "Next, I'm going to read you a list of products. For each one I read, please tell me if you yourself use the product.",
+                "instruction": "READ ENTIRE LIST ONE AT A TIME AND RECORD",
+                "products": [
+                    "Antacids",
+                    "Aspirin",
+                    "Beer",
+                    "Breakfast cereals",
+                    "Cigarettes",
+                    "Diet soda",
+                    "Frozen vegetables"
+                ],
+                "note": "NOT CIRCLED. THANK AND TERMINATE"
+            }
+        ],
+        "occupation_question": {
+            "instruction": "WHEN ASKING Q.4 AND/OR Q.6 PROBE FOR EXACT OCCUPATION. IF JOURNALISM, PUBLIC RELATIONS, ADVERTISING, MARKETING OR MARKETING RESEARCH ANSWERED IN EITHER QUESTION, THANK RESPONDENT AND TERMINATE.",
+            "question": "Since we're talking to people all across the country, we're interested in talking to a cross-section of people in different occupations. What is your occupation?",
+            "write_in": "WRITE IN FULL TITLE",
+            "follow_up": {
+                "question": "IF RESPONDENT GIVES A GENERAL OCCUPATION SUCH AS SALES OR MANUFACTURING ASK: What products are involved in your occupation?",
+                "terminate_condition": "TERMINATE IF RESPONDENT ANSWERS 'CIGARETTES'"
+            },
+            "product_code": "2073171531",
+            "write_in_products": "WRITE IN PRODUCTS"
+        }
+    }
+}

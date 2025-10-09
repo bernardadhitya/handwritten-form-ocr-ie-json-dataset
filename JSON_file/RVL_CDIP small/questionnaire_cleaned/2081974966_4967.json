@@ -1,0 +1,38 @@
+{
+    "title": "Identified Merit with PaperSelectTM Interview",
+    "location": "Sereener",
+    "code": 500,
+    "format": "Employees are solicited to give their feedback at a table set up across from the cafeteria.",
+    "intent": "To interview any adult smoker who has tried or currently smokes the Merit with PaperSelect TM.",
+    "introduction": "Hi, my name is [Name]. May I have a few minutes?",
+    "questions": [
+        {
+            "question": "Have you been interviewed the last few days concerning Merit with PaperSelect TM?",
+            "responses": {
+                "yes": "Thank and terminate.",
+                "no": "Proceed to next question."
+            }
+        },
+        {
+            "question": "Are you a cigarette smoker?",
+            "responses": {
+                "yes": "Proceed to next question.",
+                "no": "Thank and terminate."
+            }
+        },
+        {
+            "question": "What is the brand you currently smoke?",
+            "note": "If the adult smoker smokes Merit, use the Merit smoker questionnaire."
+        },
+        {
+            "question": "Have you ever tried the Merit with PaperSelect TM?",
+            "responses": {
+                "yes": "Use the Tried Merit with PaperSelect TM questionnaire.",
+                "no": "Thank and terminate."
+            }
+        }
+    ],
+    "eligibility": "Only smokers 21 years of age or older are eligible to participate in this research.",
+    "contact": "2081974966",
+    "requirements": "Provide a valid, non-expired government-issued ID as proof of age. If you do not have such an ID or do not sign the registration form, you will NOT be eligible to participate."
+}

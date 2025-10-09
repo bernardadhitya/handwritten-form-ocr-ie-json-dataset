@@ -1,0 +1,164 @@
+{
+    "survey": {
+        "contact_method": {
+            "phone": {
+                "questions": [
+                    {
+                        "id": 1,
+                        "category": "EASE OF CONTACT",
+                        "questions": [
+                            {
+                                "question": "Ability to get through on first call",
+                                "responses": [
+                                    "Very Satisfied",
+                                    "Somewhat Satisfied",
+                                    "Neither Satisfied Nor Dissatisfied",
+                                    "Somewhat Dissatisfied",
+                                    "Very Dissatisfied"
+                                ]
+                            },
+                            {
+                                "question": "Satisfaction with telephone recording",
+                                "responses": [
+                                    "Very Satisfied",
+                                    "Somewhat Satisfied",
+                                    "Neither Satisfied Nor Dissatisfied",
+                                    "Somewhat Dissatisfied",
+                                    "Very Dissatisfied"
+                                ]
+                            },
+                            {
+                                "question": "If put on hold, length of time on hold",
+                                "responses": [
+                                    "Very Satisfied",
+                                    "Somewhat Satisfied",
+                                    "Neither Satisfied Nor Dissatisfied",
+                                    "Somewhat Dissatisfied",
+                                    "Very Dissatisfied"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "category": "PERSONNEL",
+                        "questions": [
+                            {
+                                "question": "Courtesy",
+                                "responses": [
+                                    "Very Satisfied",
+                                    "Somewhat Satisfied",
+                                    "Neither Satisfied Nor Dissatisfied",
+                                    "Somewhat Dissatisfied",
+                                    "Very Dissatisfied"
+                                ]
+                            },
+                            {
+                                "question": "Professionalism",
+                                "responses": [
+                                    "Very Satisfied",
+                                    "Somewhat Satisfied",
+                                    "Neither Satisfied Nor Dissatisfied",
+                                    "Somewhat Dissatisfied",
+                                    "Very Dissatisfied"
+                                ]
+                            },
+                            {
+                                "question": "Knowledge",
+                                "responses": [
+                                    "Very Satisfied",
+                                    "Somewhat Satisfied",
+                                    "Neither Satisfied Nor Dissatisfied",
+                                    "Somewhat Dissatisfied",
+                                    "Very Dissatisfied"
+                                ]
+                            },
+                            {
+                                "question": "Authority to resolve problem",
+                                "responses": [
+                                    "Very Satisfied",
+                                    "Somewhat Satisfied",
+                                    "Neither Satisfied Nor Dissatisfied",
+                                    "Somewhat Dissatisfied",
+                                    "Very Dissatisfied"
+                                ]
+                            },
+                            {
+                                "question": "Answer question",
+                                "responses": [
+                                    "Very Satisfied",
+                                    "Somewhat Satisfied",
+                                    "Neither Satisfied Nor Dissatisfied",
+                                    "Somewhat Dissatisfied",
+                                    "Very Dissatisfied"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "category": "RESPONSE",
+                        "questions": [
+                            {
+                                "question": "Timeliness",
+                                "responses": [
+                                    "Very Satisfied",
+                                    "Somewhat Satisfied",
+                                    "Neither Satisfied Nor Dissatisfied",
+                                    "Somewhat Dissatisfied",
+                                    "Very Dissatisfied"
+                                ]
+                            },
+                            {
+                                "question": "Helpfulness",
+                                "responses": [
+                                    "Very Satisfied",
+                                    "Somewhat Satisfied",
+                                    "Neither Satisfied Nor Dissatisfied",
+                                    "Somewhat Dissatisfied",
+                                    "Very Dissatisfied"
+                                ]
+                            },
+                            {
+                                "question": "Follow through on promised action",
+                                "responses": [
+                                    "Very Satisfied",
+                                    "Somewhat Satisfied",
+                                    "Neither Satisfied Nor Dissatisfied",
+                                    "Somewhat Dissatisfied",
+                                    "Very Dissatisfied"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "letter": {
+                "questions": [
+                    {
+                        "id": 4,
+                        "question": "Which ONE of the following statements BEST describes the way you feel about the action taken by the R.J.Reynolds Consumer Relations Department to respond to your request for assistance?",
+                        "responses": [
+                            "I was completely satisfied.",
+                            "I was NOT completely satisfied but the action taken was acceptable.",
+                            "I was NOT completely satisfied but some action was taken.",
+                            "I was NOT AT ALL satisfied with the action taken.",
+                            "I was NOT AT ALL satisfied no action was taken."
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "question": "Would you recommend this brand of cigarettes to an adult smoker (21 years of age or older)?",
+                        "responses": [
+                            "Definitely Would",
+                            "Probably Would",
+                            "Might or Might Not",
+                            "Probably Would Not",
+                            "Definitely Would Not"
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

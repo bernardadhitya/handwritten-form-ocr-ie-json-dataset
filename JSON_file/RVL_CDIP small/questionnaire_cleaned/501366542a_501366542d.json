@@ -1,0 +1,112 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "text": "Do you or anyone in your household work for any of the following types of companies?",
+            "options": [
+                {
+                    "text": "An automobile manufacturer",
+                    "action": "CONTINUE"
+                },
+                {
+                    "text": "A food processing company",
+                    "action": "CONTINUE"
+                },
+                {
+                    "text": "An advertising agency",
+                    "action": "TALLY & TERMINATE"
+                },
+                {
+                    "text": "A newspaper or magazine company",
+                    "action": "CONTINUE"
+                },
+                {
+                    "text": "A tobacco manufacturer",
+                    "action": "TALLY & TERMINATE"
+                },
+                {
+                    "text": "An insurance company",
+                    "action": "CONTINUE"
+                },
+                {
+                    "text": "A marketing research firm",
+                    "action": "TALLY & TERMINATE"
+                },
+                {
+                    "text": "All Other",
+                    "action": "CONTINUE"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "text": "Into which of the following age groups do you fall?",
+            "options": [
+                "18-24",
+                "25-34",
+                "35-49",
+                "Over 50"
+            ]
+        },
+        {
+            "id": 3,
+            "text": "What was the last grade of school you attended?",
+            "options": [
+                {
+                    "text": "Grade School 1-8",
+                    "action": "TALLY & TERMINATE"
+                },
+                {
+                    "text": "High School 9-12",
+                    "action": "CONTINUE"
+                },
+                {
+                    "text": "Some College or Beyond",
+                    "action": "WRITE IN"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "text": "What is your occupation?",
+            "options": [
+                "White Collar",
+                "Blue Collar"
+            ]
+        },
+        {
+            "id": 4.1,
+            "text": "If woman, are you married?",
+            "options": [
+                "Yes",
+                "No"
+            ]
+        },
+        {
+            "id": 4.2,
+            "text": "What is your husband's occupation?",
+            "options": [
+                "White Collar",
+                "Blue Collar"
+            ]
+        },
+        {
+            "id": 5,
+            "text": "Is your total yearly family income...",
+            "options": [
+                "Less than $15,000",
+                "$15,000-$24,999",
+                "$25,000+"
+            ]
+        },
+        {
+            "id": 6,
+            "text": "Do you have a car?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "skip_to": "Q.7 if No"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "address": "301 Second Avenue",
+    "organization": "National Consensus Surveys",
+    "suite": "#42318W",
+    "city": "New York",
+    "state": "New York",
+    "zip": "10017",
+    "instructions": "Please take a few minutes to go through the advertisements in this book. Please take as much time with each ad as you care to. If you ordinarily wear reading glasses, you'll need them. Hand respondent portfolio and take it back before continuing.",
+    "questions": [
+        {
+            "question": "What brands or products do you remember seeing ads for in the book?",
+            "categories": [
+                "Cigarette Ads",
+                "Mana Range",
+                "Dole Pineapple",
+                "BankAmericard/VISA",
+                "General Electric Washer",
+                "Golden",
+                "Luke",
+                "Bayer Aspirin",
+                "Hilton Hotel",
+                "Light",
+                "Bolens Lawn Mower",
+                "Kawasaki",
+                "Nissan",
+                "Budweiser",
+                "Old Spice Pocket Cologne",
+                "Kent",
+                "Canadian Club",
+                "Polaroid Camera",
+                "Kent",
+                "Golden Light",
+                "Coca Cola",
+                "Singer Sewing Machines",
+                "Concord Watches",
+                "Taster's Choice",
+                "Kent",
+                "Unspecified",
+                "UPS",
+                "Crest toothpaste",
+                "Weight Watchers",
+                "Other (SPECIFY)"
+            ]
+        },
+        {
+            "question": "If no cigarette brands mentioned above, ask: Do you remember any ads for cigarettes?",
+            "options": [
+                "Golden",
+                "Golder",
+                "Kent Golden",
+                "Light",
+                "Unspecified",
+                "Other (SPECIFY)"
+            ]
+        },
+        {
+            "question": "If one or two cigarette brands mentioned, ask: Do you remember any ads for any other brands of cigarettes?",
+            "options": [
+                "Golden Light",
+                "Golden",
+                "Unspecified",
+                "Kent Golden",
+                "Kent Golden Light",
+                "Kent Light",
+                "Other (SPECIFY)"
+            ]
+        },
+        {
+            "question": "If true mentioned in Q.2 or 3b, continue. If true not mentioned in Q.2 or 3b, skip to Q.10.",
+            "options": [
+                "Kent Unspecified",
+                "Light Unspecified",
+                "True",
+                "Other (SPECIFY)"
+            ]
+        }
+    ]
+}

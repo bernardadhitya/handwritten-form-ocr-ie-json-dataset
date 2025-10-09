@@ -1,0 +1,70 @@
+{
+    "company": "MARKETTRENDS1NC",
+    "address": {
+        "street": "44 EAST 3d STREET",
+        "city": "NEW YORK",
+        "state": "NEW YORK",
+        "zip": "10128"
+    },
+    "project_number": 2193,
+    "document": "SCREENING QUESTIONNAIRE",
+    "date": "November 1982",
+    "introduction": "Good morning/afternoon/evening, my name is [Name]. We are conducting a public opinion survey in this area and I would like to ask you a few short questions.",
+    "questions": [
+        {
+            "question": "What is your age?",
+            "options": [
+                {
+                    "option": "Younger than 21",
+                    "action": "TERMINATE"
+                },
+                {
+                    "option": "Between 21 and 35",
+                    "action": "CONTINUE"
+                },
+                {
+                    "option": "Older than 35",
+                    "action": "TERMINATE"
+                }
+            ]
+        },
+        {
+            "question": "Do you or does any immediate family work for:",
+            "options": [
+                {
+                    "option": "An advertising agency",
+                    "action": "TERMINATE"
+                },
+                {
+                    "option": "A market research company",
+                    "action": "TERMINATE"
+                },
+                {
+                    "option": "A company manufacturing, selling, or distributing beer, wine, or other alcoholic beverages",
+                    "action": "TERMINATE"
+                }
+            ]
+        },
+        {
+            "question": "Which of the following did you do in the past 2 days?",
+            "options": [
+                {
+                    "option": "Drink a glass of wine",
+                    "action": "Yes"
+                },
+                {
+                    "option": "Have a glass of beer",
+                    "action": "Yes"
+                },
+                {
+                    "option": "Smoke a cigarette",
+                    "action": "Yes"
+                }
+            ]
+        },
+        {
+            "question": "About how many cigarettes do you smoke in an average day?",
+            "action": "CONTINUE"
+        }
+    ]
+}

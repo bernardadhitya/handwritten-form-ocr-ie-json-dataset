@@ -1,0 +1,63 @@
+{
+    "company": "MARKET TRENDS INC.",
+    "address": {
+        "street": "44 EAST 23rd STREET",
+        "city": "NEW YORK",
+        "state": "NY",
+        "zip": "10010"
+    },
+    "project_number": "219-3",
+    "document": {
+        "title": "SCREENING QUESTIONNAIRE",
+        "date": "November 1982"
+    },
+    "introduction": "Good (morning/afternoon/evening), my name is [Name] from an opinion research company. We are conducting a public opinion survey in this mall and I would like to ask you a few short questions.",
+    "questions": [
+        {
+            "question": "What is your age?",
+            "options": [
+                "Younger than 21",
+                "Between 21 and 35",
+                "Older than 35"
+            ],
+            "actions": {
+                "Younger than 21": "TERMINATE",
+                "Between 21 and 35": "CONTINUE",
+                "Older than 35": "TERMINATE"
+            }
+        },
+        {
+            "question": "Does any member of your immediate family work for:",
+            "options": [
+                "An advertising agency",
+                "A market research company",
+                "A company manufacturing, selling, or distributing beer, wine, or other alcoholic beverages"
+            ],
+            "actions": {
+                "Yes to any of the above": "TERMINATE"
+            }
+        },
+        {
+            "question": "Which of the following did you do in the past 2 days?",
+            "options": [
+                "Drink a glass of wine",
+                "Have a glass of beer",
+                "Smoke a cigarette"
+            ],
+            "actions": {
+                "Smoke a cigarette": "TERMINATE"
+            }
+        },
+        {
+            "question": "About how many cigarettes do you smoke in an average day?",
+            "options": [
+                "Less than half a pack",
+                "A pack or more"
+            ],
+            "actions": {
+                "Less than half a pack": "TERMINATE",
+                "A pack or more": "CONTINUE"
+            }
+        }
+    ]
+}

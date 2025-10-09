@@ -1,0 +1,55 @@
+{
+    "address": "arx Avenue South",
+    "zip_code": "YcrkNY10016",
+    "date": "MARCH, 1993",
+    "version": "PINK VERSION 1",
+    "most_often_users": "MAIN QUESTIONNAIRE",
+    "respondent": {
+        "name": "",
+        "city": ""
+    },
+    "questions": [
+        {
+            "question": "Do you usually buy Harley Davidson Regular/Lights in a soft pack or box?",
+            "options": [
+                "Soft pack",
+                "Box"
+            ]
+        },
+        {
+            "question": "How long have you been smoking this brand?",
+            "options": [
+                "Less than 1 month",
+                "1 month but less than 2 months",
+                "3 months but less than 4 months",
+                "4 months but less than 5 months",
+                "5 months but less than 6 months",
+                "6 months but less than 9 months",
+                "9 months but less than 1 year"
+            ]
+        },
+        {
+            "question": "What one cigarette did you smoke as your regular brand before you started smoking Harley Davidson Regular/Lights?",
+            "instruction": "Please specify the cigarette's full brand name."
+        },
+        {
+            "question": "The first time you bought Harley Davidson (Regular/Lights) cigarettes, did you purchase a carton or a few packs or only one pack?",
+            "options": [
+                "Carton",
+                "Few packs",
+                "One pack",
+                "Don't know/remember"
+            ]
+        },
+        {
+            "question": "The first time you tried Harley Davidson (Regular/Lights) cigarettes, did you purchase it yourself, was it bought by someone else for you, or did you ask to try it because someone else was smoking it?",
+            "options": [
+                "Did you purchase it yourself",
+                "Was it bought by someone else for you",
+                "Did you ask to try it because someone else was smoking it"
+            ]
+        }
+    ],
+    "confidential": "CONFIDENTIAL L",
+    "code": "600636"
+}

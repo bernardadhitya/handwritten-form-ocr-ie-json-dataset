@@ -1,0 +1,84 @@
+{
+    "survey": {
+        "title": "MOKER'S SURVEY",
+        "recipient": {
+            "name": "Sample Stylish Smoker",
+            "address": "123 Main Street",
+            "city": "AnyTown",
+            "state": "USA",
+            "zip": "12345"
+        },
+        "questions": [
+            {
+                "question": "1. Sex",
+                "options": [
+                    "Male",
+                    "Female"
+                ]
+            },
+            {
+                "question": "2. Age",
+                "options": [
+                    "21-24",
+                    "25-34",
+                    "35-49",
+                    "50-64",
+                    "65+"
+                ]
+            },
+            {
+                "question": "3. My regular brand is",
+                "type": [
+                    "Non-Filter",
+                    "Regular",
+                    "Lights",
+                    "Medium/Milds",
+                    "Ultra-Lights"
+                ],
+                "flavor": [
+                    "Menthol",
+                    "Non-Menthol"
+                ],
+                "length": [
+                    "Regular/King",
+                    "Long/100's",
+                    "Extra Long 120s"
+                ]
+            },
+            {
+                "question": "4. How long have you been smoking your current brand of cigarettes?",
+                "options": [
+                    "Less than 1 yr.",
+                    "1-2 yrs.",
+                    "2-5 yrs.",
+                    "Over 5 yrs."
+                ]
+            },
+            {
+                "question": "5. Brand previously smoked was",
+                "instruction": "Fill in brand name"
+            },
+            {
+                "question": "6. Do you usually purchase cigarettes by the",
+                "options": [
+                    "Carton",
+                    "Pack",
+                    "Both ways"
+                ]
+            },
+            {
+                "question": "7. How many cigarettes do you smoke per day?",
+                "options": [
+                    "1-10",
+                    "11-19",
+                    "20-29",
+                    "30+"
+                ]
+            }
+        ],
+        "certification": "I certify that I am a smoker 21 years of age or older and that I am willing to receive this offer as well as future coupons, premiums, and sample cigarettes.",
+        "signature": "Signature X",
+        "id": "92640678",
+        "opt_out": "Please remove my name from your mailing list"
+    }
+}

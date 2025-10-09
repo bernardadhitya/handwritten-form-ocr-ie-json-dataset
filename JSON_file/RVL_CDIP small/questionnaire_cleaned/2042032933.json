@@ -1,0 +1,83 @@
+{
+    "household": {
+        "program_number": 94521,
+        "special_prices": "Frogucptly",
+        "look_for_special_offers": "I look for special offers",
+        "oxc": "oeally",
+        "never_for_regular_brand": "Neve formy cegular brand..",
+        "when_it_rains": "cake sdvantage of special offers for brands other than my regular brand...",
+        "when_it_shines": "It SHINES."
+    },
+    "question_14": {
+        "description": "Which of the following best describes you? (Check one.)",
+        "options": [
+            "White",
+            "African-American",
+            "Hispanic",
+            "Asian",
+            "American Indian",
+            "Other"
+        ]
+    },
+    "free_umbrella_offer": {
+        "description": "FREE UMBRELLA WITH 40 PACK PROOFS OF PURCHASE",
+        "details": "WHEN YOU COMPLETE THE SURVEY INSIDE FROM PARLIAMENT"
+    },
+    "question_15": {
+        "description": "Would you be interested in receiving information about issues that affect smokers?",
+        "options": [
+            "Yes",
+            "No"
+        ]
+    },
+    "question_16": {
+        "description": "Would you be interested in joining a smokers' group?",
+        "options": [
+            "Yes",
+            "No"
+        ]
+    },
+    "question_17": {
+        "description": "Do you have any family members or friends who are smokers and 21 years of age or older? Please print their full names, addresses, birth dates, telephone numbers, and regular brands below:",
+        "fields": [
+            {
+                "name": "Name",
+                "address": "Address",
+                "apt_number": "Apt.#",
+                "city": "City",
+                "state": "State",
+                "zip": "ZIP",
+                "phone": "Phone",
+                "birth_date": "Birth Date",
+                "regular_brand": "Regular Brand"
+            },
+            {
+                "name": "Name",
+                "address": "Address",
+                "apt_number": "Apt.#",
+                "city": "City",
+                "state": "State",
+                "zip": "ZIP",
+                "phone": "Phone",
+                "birth_date": "Birth Date",
+                "regular_brand": "Regular Brand"
+            }
+        ]
+    },
+    "survey_submission": {
+        "instructions": "Please send survey along with 40 pack proofs of purchase, LPCi symbols, and $3.95 postage and handling to:",
+        "address": {
+            "line_1": "PARLIAMENT UMBRELLA OFFER",
+            "line_2": "PO.Box 8010",
+            "city": "Dover",
+            "state": "DE",
+            "zip": "19903-8010"
+        },
+        "additional_info": "All umbrella offers and surveys must be received by 10/6Aq. Offer limited to smokers 21 years of age or older. Please allow 10 to 12 weeks for delivery. Not responsible for lost, misplaced, directed, mutilated, or postage-due submissions. Limit one umbrella per person regardless of the number of surveys completed. Void where otherwise prohibited, taxed, or licensed. \u00a9 Philip Morris Inc. 1994"
+    },
+    "codes": {
+        "code_1": "71573-D1",
+        "code_2": "2042032933",
+        "file": "Fl:20476A.EPSF"
+    }
+}

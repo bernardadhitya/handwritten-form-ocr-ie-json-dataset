@@ -1,0 +1,75 @@
+{
+    "survey": {
+        "title": "PHILIP MORRIS CUSTOMER SURVEY",
+        "instructions": "PLEASE ANSWER EACH OF THE FOLLOWING QUESTIONS IN TERMS OF YOUR MOST RECENT CONTACT WITH PHILIP MORRIS.",
+        "questions": [
+            {
+                "question": "Did you, in fact, recently write or telephone Philip Morris with a question or a problem?",
+                "options": [
+                    {
+                        "option": "1",
+                        "text": "Yes",
+                        "instruction": "Please continue"
+                    },
+                    {
+                        "option": "2",
+                        "text": "No",
+                        "instruction": "We apologize for the error. Do not complete the questionnaire, but please return it so we can correct our records."
+                    }
+                ]
+            },
+            {
+                "question": "Please read the list below and circle the reason(s) which prompted you to contact Philip Morris.",
+                "instruction": "PLEASE CIRCLE ALL THAT APPLY",
+                "categories": {
+                    "PACKAGING": [
+                        "Damaged carton (torn, etc.)",
+                        "Wrong brand in carton",
+                        "Pack missing from carton",
+                        "Pack not properly sealed/came open at top or sides",
+                        "Cellophane wrapping loose/not properly fitted",
+                        "Cigarettes missing from pack",
+                        "Label was torn, twisted, skewed, or misapplied"
+                    ],
+                    "CIGARETTES": [
+                        "Taste was harsh/strong",
+                        "Taste was weak",
+                        "Taste was stale/old",
+                        "Too much/too little menthol",
+                        "Cigarette won't stay lit",
+                        "Cigarette popping/sparking",
+                        "Cigarette not completely filled with tobacco",
+                        "Broken cigarette",
+                        "Damaged cigarette (hole, tear, etc.)",
+                        "Cigarettes stuck together",
+                        "Cigarette not properly sealed/came open at sides",
+                        "Extra paper extending beyond filter",
+                        "Filter fell off/missing",
+                        "Foreign matter in/on cigarette"
+                    ],
+                    "PROMOTIONS": [
+                        "Received a letter indicating shipment would be delayed",
+                        "Length of time to receive item",
+                        "Did not receive item",
+                        "Item received was not item ordered/expected",
+                        "Item arrived damaged/broken",
+                        "Item was wrong color/size"
+                    ],
+                    "MISCELLANEOUS": [
+                        "Request for general information on company",
+                        "Request for an Annual Report",
+                        "Question/comment on advertising",
+                        "Price-related issue"
+                    ],
+                    "OTHER": [
+                        "Please Specify"
+                    ]
+                }
+            },
+            {
+                "question": "Which ONE of the items you circled in Question 2 would you consider to be the MOST SERIOUS question or problem you contacted Philip Morris about?",
+                "instruction": "NUMBER CORRESPONDING TO MOST SERIOUS QUESTION/PROBLEM"
+            }
+        ]
+    }
+}

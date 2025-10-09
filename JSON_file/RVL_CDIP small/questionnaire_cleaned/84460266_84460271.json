@@ -1,0 +1,60 @@
+{
+    "id": 102,
+    "company": "UNICUS, INC.",
+    "gender": {
+        "male": "Boston",
+        "female": "Chicago"
+    },
+    "project": "Project.LLD-2",
+    "test": "PRETEST",
+    "location": "Philadelphia",
+    "group": "GROUP",
+    "time": {
+        "am": "AM",
+        "pm": "PM"
+    },
+    "address": "ADDRESS:",
+    "unit": "NMOL/LI",
+    "contact": "TELEPHONE#",
+    "interviewed_by": "INTERVIEWEDBY",
+    "validated_by": "VALIDATED BY:",
+    "date": "DATE",
+    "introduction": "Hello, I'm from Communicus, a consumer opinion firm. We are conducting a survey and would like to include you.",
+    "questions": [
+        {
+            "question": "Do you smoke cigarettes?",
+            "answers": {
+                "yes": "CONTINUE",
+                "no": "TERMINATE"
+            }
+        },
+        {
+            "question": "Is the brand of cigarettes you smoke most often and consider to be your regular brand Menthol?",
+            "answers": {
+                "menthol": "CONTINUE",
+                "non-menthol": "TERMINATE"
+            }
+        },
+        {
+            "question": "How many cigarettes do you usually smoke per day?",
+            "answers": {
+                "0-9": "TERMINATE",
+                "10-15": "-",
+                "16-25": "-2",
+                "more than 25": "-3"
+            }
+        },
+        {
+            "question": "Into which of the following age groups do you fall?",
+            "answers": {
+                "under 18": "TERMINATE",
+                "18-24": "3-1",
+                "25-34": "",
+                "35-44": "",
+                "45-49": "-4QUOTA2",
+                "50 or over": "TERMINATE"
+            }
+        }
+    ],
+    "code": 84460266
+}

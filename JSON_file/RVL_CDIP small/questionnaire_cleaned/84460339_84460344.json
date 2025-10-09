@@ -1,0 +1,52 @@
+{
+    "company": "COMMUNICUS, INC.",
+    "gender": [
+        "Male",
+        "Female"
+    ],
+    "locations": [
+        "Boston",
+        "Chicago",
+        "Philadelphia"
+    ],
+    "project": "Project LLD-2",
+    "survey_type": "PRETEST",
+    "date": "August, 1977",
+    "group": "GROUP 4-1",
+    "questions": [
+        {
+            "question": "Do you smoke cigarettes?",
+            "answers": {
+                "Yes": "CONTINUE",
+                "No": "TERMINATE"
+            }
+        },
+        {
+            "question": "Is the brand of cigarettes you smoke most often and consider to be your regular brand a menthol cigarette or a non-menthol cigarette?",
+            "answers": {
+                "Menthol": "CONTINUE",
+                "Non-menthol": "TERMINATE"
+            }
+        },
+        {
+            "question": "How many cigarettes do you usually smoke per day?",
+            "answers": {
+                "6-0": "TERMINATE",
+                "Between 10 and 15": "7",
+                "16 to 25": "2",
+                "More than 25": "-3"
+            }
+        },
+        {
+            "question": "Into which of the following age groups do you fall?",
+            "answers": {
+                "Under 18": "TERMINATE",
+                "18 to 24": "8",
+                "25 to 34": "S OUTTA",
+                "35 to 44": "-3",
+                "45 to 49": "-4 QUOTA 2",
+                "50 or over": "TERMINATE"
+            }
+        }
+    ]
+}

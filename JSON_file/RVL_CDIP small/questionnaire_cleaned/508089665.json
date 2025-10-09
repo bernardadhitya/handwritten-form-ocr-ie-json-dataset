@@ -1,0 +1,57 @@
+{
+    "survey": {
+        "id": "#2481",
+        "date": "12/89",
+        "title": "TAX ISSUES SURVEY",
+        "introduction": "Hello, my name is [Name] of KRC Research. We're conducting an important survey on taxes, and would like to include your opinions.",
+        "questions": [
+            {
+                "question": "Are you registered to vote at this address?",
+                "options": {
+                    "yes": 1,
+                    "no": 2,
+                    "dk_na": null
+                }
+            },
+            {
+                "question": "Which of the following types of taxes have you heard of?",
+                "options": [
+                    {
+                        "type": "Income tax",
+                        "aware": 1,
+                        "not_aware": 2
+                    },
+                    {
+                        "type": "State/local sales tax",
+                        "aware": 1,
+                        "not_aware": 2
+                    },
+                    {
+                        "type": "Consumer excise tax",
+                        "aware": 1,
+                        "not_aware": 2
+                    },
+                    {
+                        "type": "Corporate taxes",
+                        "aware": 1,
+                        "not_aware": 2
+                    },
+                    {
+                        "type": "Property tax",
+                        "aware": 1,
+                        "not_aware": 2
+                    },
+                    {
+                        "type": "Capital gains tax",
+                        "aware": 1,
+                        "not_aware": 2
+                    }
+                ]
+            },
+            {
+                "question": "What is a Consumer excise tax?",
+                "instruction": "PROBE THOROUGHLY, ACCEPT UP TO THREE RESPONSES"
+            }
+        ]
+    }
+}

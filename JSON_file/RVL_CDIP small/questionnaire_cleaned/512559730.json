@@ -1,0 +1,56 @@
+{
+    "survey": {
+        "title": "SUPPORT THE LAW-- POLICE SURVEY",
+        "introduction": "Dear Sir or Madam: Recently your department requested information about the 'Support The Law' program from R.J. Reynolds Tobacco. Would you please take a moment and complete this questionnaire about the materials you received. Your assistance is greatly appreciated.",
+        "questions": [
+            {
+                "question": "Did you receive the 'Support The Law' information kit and material samples which you requested?",
+                "response": "Yes"
+            },
+            {
+                "question": "Once you received the kit and materials, did you review them in detail?",
+                "response": "Yes",
+                "follow_up": "If yes, what was your impression?"
+            },
+            {
+                "question": "Did you share the program with anyone else in your department?",
+                "response": "No"
+            },
+            {
+                "question": "Did you share the program with anyone else in the community?",
+                "response": "No"
+            },
+            {
+                "question": "Do you have any other suggestions on how this program might be improved?",
+                "response": ""
+            },
+            {
+                "question": "Please check your type of organization:",
+                "options": [
+                    "Retailer",
+                    "Federal Department",
+                    "Police Department",
+                    "Sheriff's Department",
+                    "Private Security Company",
+                    "Department of Public Safety",
+                    "Department of Corrections",
+                    "State or County Board",
+                    "Other"
+                ],
+                "response": "Sheriff's Department"
+            }
+        ],
+        "contact_information": {
+            "name": "MEMBER",
+            "organization": "MARICOPA COUNTY SHERIFF",
+            "mailing_address": "6451 BEL RD #1050",
+            "city": "GLENDALE",
+            "state": "AZ",
+            "telephone": {
+                "area_code": "607",
+                "number": ""
+            }
+        },
+        "closing": "Please include your name and address below, and return this questionnaire in the enclosed postage-paid envelope. Thank you very much for your time."
+    }
+}

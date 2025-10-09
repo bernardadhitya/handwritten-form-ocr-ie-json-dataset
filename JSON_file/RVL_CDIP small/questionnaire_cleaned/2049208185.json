@@ -1,0 +1,60 @@
+{
+    "company": "Marketing Information Systems Inc.",
+    "contact": {
+        "name": "Nancy",
+        "address": "100 Sylvan Avenue, Englewood Cliffs 07632",
+        "phone": [
+            "1-800-631-1623",
+            "201-947-6900"
+        ]
+    },
+    "document": {
+        "title": "Draft #4",
+        "version": "#830289",
+        "date": "February, 1989",
+        "type": "Art Ad/Five Pack E.U. Test"
+    },
+    "survey": {
+        "respondent": {
+            "name": "Respondent's Name",
+            "address": "Address",
+            "city_state": "City/State",
+            "zip_code": "Zip Code",
+            "telephone_number": "Telephone Number",
+            "date": "Date",
+            "interviewer_signature": "Interviewer's Signature",
+            "regular_brand": "Regular Brand"
+        },
+        "questions": [
+            {
+                "question": "How many packs of cigarettes did you smoke?",
+                "response": "Approximately OF PACKS",
+                "condition": "If less than 4 packs, continue with Q.3. Otherwise, skip to Q.5."
+            },
+            {
+                "question": "Would you be willing to continue smoking the cigarettes a few more days?",
+                "options": [
+                    "Yes",
+                    "No"
+                ],
+                "next_step": "Continue with Q.5 if No"
+            },
+            {
+                "question": "How long will it take you to finish smoking cigarettes we gave you?",
+                "response": "OF DAYS",
+                "callback": "Calculate callback day and record below"
+            }
+        ],
+        "callback": {
+            "date": "CALLBACK DATE",
+            "time": "CALLBACK TIME",
+            "from_screener": "TRANSFER FROM SCREENER Q.73",
+            "from_first_callback": [
+                "TRANSFER FROM 1ST CALLBACK Q.27",
+                "TRANSFER FROM 1ST CALLBACK Q.26"
+            ],
+            "day": "CALLBACK DAY",
+            "note": "Today is DAY OF WEEK so I will be calling you back on READ CALLBACK DAY"
+        }
+    }
+}

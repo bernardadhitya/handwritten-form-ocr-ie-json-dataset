@@ -1,0 +1,53 @@
+{
+    "company": "Bellomy-Carrigg, Inc.",
+    "location": "WINSTON SNFM, NC 27",
+    "job": "0107",
+    "date": "January, 1982",
+    "position": "Cigarette Panel Screener",
+    "name": "",
+    "interview_time": "",
+    "address": "1920 morxe",
+    "cigarette": "Full Flavor",
+    "city_state": "",
+    "low_tar": "",
+    "ultra_low_tar": "",
+    "gender": "Female",
+    "interviewer": "",
+    "age_range": "18-64",
+    "introduction": "Hello, I'm with P.S. Research. We are conducting a survey on cigarette smoking and would like to ask you a few questions.",
+    "questions": [
+        {
+            "question": "Do you or does any member of your family work for..",
+            "options": [
+                "An Advertising or Market Research Company",
+                "A Food Manufacturer",
+                "A Tobacco Company"
+            ],
+            "terminate": true
+        },
+        {
+            "question": "Into which of the following groups does your age fall?",
+            "options": [
+                "Under 18",
+                "18-24",
+                "25-35",
+                "36-50",
+                "51-64",
+                "65 and over"
+            ],
+            "terminate": true
+        },
+        {
+            "question": "Do you smoke cigarettes?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "terminate": true
+        }
+    ],
+    "codes": [
+        "51133",
+        "1668"
+    ]
+}

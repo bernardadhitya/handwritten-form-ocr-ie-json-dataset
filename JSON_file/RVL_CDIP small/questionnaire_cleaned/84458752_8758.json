@@ -1,0 +1,80 @@
+{
+    "company": "AF Marketing Research",
+    "division": "National Consensus Surveys",
+    "address": {
+        "street": "801 Second Avenue",
+        "suite": "3i",
+        "postal_code": "12947W",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10017"
+    },
+    "year": "1977",
+    "project": "Cigarette Portfolio",
+    "document": "Screening Questionnaire",
+    "interview": {
+        "time": {
+            "started": "",
+            "ended": ""
+        },
+        "respondent": {
+            "name": "",
+            "city": "",
+            "state": "",
+            "interviewer": "",
+            "metro_area": "",
+            "date": "",
+            "validated_by": "",
+            "validation_date": ""
+        },
+        "location": "Albany",
+        "cities": [
+            "Buffalo",
+            "Boston",
+            "Denver",
+            "Milwaukee",
+            "Des Moines",
+            "Minneapolis",
+            "Syracuse"
+        ],
+        "initial_refusal": [
+            18,
+            19,
+            20,
+            21,
+            24,
+            28,
+            36,
+            38,
+            39,
+            40,
+            48,
+            59,
+            60,
+            80
+        ],
+        "participation": {
+            "terminate": "Yes",
+            "continue": "Participated in Study"
+        },
+        "age": {
+            "under_21": "Terminate",
+            "21_to_29": "Continue",
+            "30_to_50": "Continue",
+            "51_to_55": "Terminate",
+            "over_55": "Terminate"
+        },
+        "age_card": {
+            "under_or_over_age": [
+                2,
+                3,
+                4,
+                5,
+                6,
+                10,
+                11,
+                12
+            ]
+        }
+    }
+}

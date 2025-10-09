@@ -1,0 +1,28 @@
+{
+    "phone": "123459",
+    "respondent_name": "122563",
+    "city": "",
+    "date": "9",
+    "callback_date": "5",
+    "interviewer": "Hello, Mr./Mrs. I'm calling long would like to talk to the family member who is helping with the cigarette product study.",
+    "questions": [
+        {
+            "question": "Did you finish smoking all the cigarettes, or not?",
+            "response": "SaA NO",
+            "follow_up": "IF NO, about how many packs of the cigarettes did you smoke? WRITE IN NUMBER"
+        },
+        {
+            "question": "First of all, what number from 1 to 10 best describes your overall feelings toward your usual brand of cigarettes?",
+            "response": "WRITE IN NUMBER 11"
+        },
+        {
+            "question": "And now, as a cigarette for your own use, what number from 1 to 10 best describes your overall feelings toward the cigarettes we sent you?",
+            "response": "WRITE IN NUMBER 12"
+        },
+        {
+            "question": "Finally, what number from 1 to 10 best describes your overall feelings?",
+            "response": "WRITE IN NUMBER 13"
+        }
+    ],
+    "notes": "IF RESPONDENT HAS SMOKED LESS THAN 7 PACKAGES OF CIGARETTES BEGIN SMOKING THEM IMMEDIATELY AND ARRANGE FOR CALLBACK. ASK HIM TO FINISH SMOKING THEM AND ARRANGE FOR CALLBACK. IF RESPONDENT INDICATES THAT HE DOES NOT INTEND TO FINISH SMOKING THE CIGARETTES, AND HAS SMOKED AT LEAST ONE PACK PROCEED WITH THE INTERVIEW. EXPLANATION OF THE RATING SYSTEM AGAIN. BE SURE HE UNDERSTANDS RATING SYSTEM BEFORE CONTINUING."
+}

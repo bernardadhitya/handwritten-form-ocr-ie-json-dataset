@@ -1,0 +1,180 @@
+{
+    "date": "06/29/95",
+    "time": "13:46",
+    "transaction_id": "2013934820",
+    "company": "LORILLARD",
+    "department": "SALES GEN.18TH",
+    "page": "005/006",
+    "survey": {
+        "instructions": "Please fill out the following information, and mail it in to receive a FREE Beach Towel from Marlboro. (Survey must be mailed in by December 31, 1995.) By responding to this survey and signing below, I certify that I am a retailer 21 years of age or older.",
+        "signature": "X",
+        "questions": [
+            {
+                "question": "1. Store Name",
+                "answer": ""
+            },
+            {
+                "question": "2. Owner or Manager's Name",
+                "answer": {
+                    "first": "",
+                    "last": ""
+                }
+            },
+            {
+                "question": "3. What type of store?",
+                "options": [
+                    "Supermarket",
+                    "Grocery",
+                    "Convenience Store",
+                    "Gas Station Store",
+                    "Discount Store"
+                ],
+                "answer": ""
+            },
+            {
+                "question": "4. Store Address",
+                "answer": ""
+            },
+            {
+                "question": "5. Phone Number",
+                "answer": {
+                    "city": "",
+                    "state": "",
+                    "zip_code": ""
+                }
+            },
+            {
+                "question": "6. Where do you buy your cigarettes?",
+                "answer": {
+                    "wholesaler_name": "",
+                    "address": {
+                        "city": "",
+                        "state": "",
+                        "zip_code": ""
+                    },
+                    "other": {
+                        "address": {
+                            "city": "",
+                            "state": "",
+                            "zip_code": ""
+                        },
+                        "phone": ""
+                    }
+                }
+            },
+            {
+                "question": "7. What Marlboro packings do you stock?",
+                "options": [
+                    "Reds",
+                    "Lights",
+                    "Medium",
+                    "Menthol"
+                ],
+                "answer": []
+            },
+            {
+                "question": "8. Please circle the 3 top-selling brands of cigarettes in your store",
+                "options": [
+                    "Benson & Hedges",
+                    "Camel",
+                    "Doral",
+                    "Kool",
+                    "Marlboro",
+                    "Basic",
+                    "GPC",
+                    "Newport",
+                    "Salem",
+                    "Virginia Slims",
+                    "Winston",
+                    "Private Label",
+                    "Other"
+                ],
+                "answer": []
+            },
+            {
+                "question": "9. How many total cartons of cigarettes do you purchase a WEEK?",
+                "answer": ""
+            },
+            {
+                "question": "10. Do you have any cigarettes displayed on your counter",
+                "options": [
+                    "YES",
+                    "NO"
+                ],
+                "answer": "",
+                "brands": [
+                    "Benson & Hedges",
+                    "Camel",
+                    "Doral",
+                    "Kool",
+                    "Marlboro",
+                    "Basic",
+                    "GPC",
+                    "Newport",
+                    "Salem",
+                    "Virginia Slims",
+                    "Winston",
+                    "Viceroy",
+                    "Kent",
+                    "Raleigh",
+                    "Monarch",
+                    "Misty",
+                    "Private Label",
+                    "Other"
+                ],
+                "displayed_brands": []
+            },
+            {
+                "question": "11. Of the materials you have just received from Marlboro, which will be most useful in your store?",
+                "options": [
+                    "Display",
+                    "Take One Box",
+                    "Poster",
+                    "Hanging Sign",
+                    "Metal Sign",
+                    "Mini Catalog",
+                    "Decal"
+                ],
+                "answer": []
+            },
+            {
+                "question": "12. Do you have any further interest in offers from Marlboro?",
+                "options": [
+                    "YES",
+                    "NO"
+                ],
+                "answer": "",
+                "language": [
+                    "English",
+                    "Spanish",
+                    "Chinese",
+                    "Korean",
+                    "Other"
+                ],
+                "preferred_language": ""
+            },
+            {
+                "question": "13. How would you like to receive additional promotions in the future?",
+                "options": [
+                    "Price Clubs",
+                    "Wholesaler",
+                    "Direct Mail"
+                ],
+                "answer": []
+            },
+            {
+                "question": "14. Would you like to receive other Point-of-Sale materials from Marlboro?",
+                "options": [
+                    "YES",
+                    "NO"
+                ],
+                "answer": ""
+            }
+        ]
+    },
+    "additional_info": {
+        "given_to": "ERiccendi",
+        "code": "58NO",
+        "by": "Robg/LAKeAND FORWARDE"
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "document": {
+        "id": "03337849",
+        "title": "A Marketing Research",
+        "subtitle": "National Consensus Surveys",
+        "code": "#52238W",
+        "location": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10017"
+        },
+        "date": "April, 1978",
+        "section": "Main Questionnaire",
+        "questions": [
+            {
+                "id": "1",
+                "text": "How long have you smoked (Regular Brand)?",
+                "options": [
+                    "4 to 6 months",
+                    "months or less",
+                    "7 to 10 months"
+                ]
+            },
+            {
+                "id": "2",
+                "text": "What is the regular brand of cigarettes you smoked most often before you began smoking?",
+                "note": "Record under Q.2 on grid. If Kent Golden Lights or variation of Kent Golden Lights, also record exact wording on fly sheet."
+            },
+            {
+                "id": "3",
+                "text": "What other brands, if any, have been bought for your use either by you or by someone else in the past three months? What others?",
+                "note": "Record under Q.3 on grid. Exact wording on fly sheet."
+            },
+            {
+                "id": "4",
+                "text": "What other brands of cigarettes have you heard of?",
+                "note": "Record under Q.4 on grid."
+            },
+            {
+                "id": "5",
+                "text": "What brands of cigarettes have you seen advertised in the past three months?",
+                "note": "Record under Q.5 on grid. If Kent Golden Lights or variations of Kent Golden Lights, also record exact wording on fly sheet."
+            },
+            {
+                "id": "6",
+                "text": "Ask for Kent Golden Lights, Merit, and Vantage if each not mentioned as regular brand or in Q2, Q3, Q4, Q5.",
+                "note": "Record under Q.6 on grid."
+            },
+            {
+                "id": "7",
+                "text": "Have you seen advertising for BRAND in the past three months?",
+                "note": "Record under Q.7 on grid."
+            }
+        ]
+    }
+}

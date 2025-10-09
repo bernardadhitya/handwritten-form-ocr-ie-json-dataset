@@ -1,0 +1,62 @@
+{
+    "company": "McDONALD, WELLER AND KLEIN, INC.",
+    "job_number": "702",
+    "address": {
+        "street": "9 Rockefeller Plaza",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10020"
+    },
+    "date": "January, 1965",
+    "survey": {
+        "title": "HalfHa FILTER CIGARETTE PRODUCT TEST",
+        "questions": [
+            {
+                "question": "Does anyone in this household smoke filter cigarettes?",
+                "response_options": [
+                    "Yes",
+                    "No (DISCONTINUE INTERVIEW AND RE-USE THIS QUESTIONNAIRE)"
+                ]
+            },
+            {
+                "question": "May I speak to that person?",
+                "response": "RECORD PERSON'S FULL NAME"
+            },
+            {
+                "question": "Interview Completed",
+                "response_options": [
+                    "Refusal (RE-USE THIS QUESTIONNAIRE)",
+                    "Incomplete after Question #"
+                ]
+            },
+            {
+                "question": "What is your regular brand or brands of filter cigarettes?",
+                "response_options": [
+                    "Pall Mall",
+                    "Winston",
+                    "Kent",
+                    "Camel",
+                    "Lucky Strike",
+                    "Marlboro",
+                    "Viceroy",
+                    "Chesterfield",
+                    "L&M",
+                    "Tareyton",
+                    "Other (DISCONTINUE INTERVIEW AND RE-USE THIS QUESTIONNAIRE)"
+                ]
+            },
+            {
+                "question": "Age of Respondent",
+                "response_options": [
+                    "Up to 24",
+                    "25-29",
+                    "30-34",
+                    "35-39",
+                    "40-44",
+                    "45-49",
+                    "50 or more"
+                ]
+            }
+        ]
+    }
+}

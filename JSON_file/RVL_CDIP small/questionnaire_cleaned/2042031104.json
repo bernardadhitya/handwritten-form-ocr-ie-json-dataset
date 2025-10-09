@@ -1,0 +1,70 @@
+{
+    "card_number": "5800204525113774",
+    "name": "Ms. Bonnie Bohannon",
+    "address": {
+        "line1": "Rural Route 1 Box 332",
+        "city": "West Topsham",
+        "state": "VT",
+        "zip": "05086-9405"
+    },
+    "questions": [
+        {
+            "question": "What is your regular brand of cigarettes?",
+            "answer": "Marlboro"
+        },
+        {
+            "question": "Which of the following statements best describes why you use cigarette coupons?",
+            "answer": "I occasionally use coupons for cigarettes."
+        },
+        {
+            "question": "Where do you usually buy your cigarettes?",
+            "answer": "Supermarket Chain"
+        },
+        {
+            "question": "How often do you use special in-store cigarette offers?",
+            "answer": "I look for special offers for my regular brand."
+        },
+        {
+            "question": "If your regular brand were not available, which of the following brands would you consider buying?",
+            "answer": [
+                "Alpine",
+                "GPC",
+                "Pyramid",
+                "Basic",
+                "Kent",
+                "Salem",
+                "Marlboro",
+                "Newport",
+                "Winston"
+            ]
+        },
+        {
+            "question": "Which of the following best describes you?",
+            "answer": "White"
+        },
+        {
+            "question": "How long have you smoked this brand?",
+            "answer": "Over 5 years"
+        },
+        {
+            "question": "Are there other smokers in your household 21 years of age or older?",
+            "answer": "Yes"
+        },
+        {
+            "question": "What is your previous brand?",
+            "answer": "None"
+        },
+        {
+            "question": "If your regular brand were not available, what would you do?",
+            "answer": "Go to another store to buy my regular brand."
+        }
+    ],
+    "smokers_in_household": [
+        {
+            "first_name": "John",
+            "last_name": "Doe",
+            "birth_date": "1980-01-01",
+            "regular_brand": "Camel"
+        }
+    ]
+}

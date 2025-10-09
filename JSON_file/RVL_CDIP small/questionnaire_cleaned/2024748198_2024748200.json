@@ -1,0 +1,147 @@
+{
+    "survey": {
+        "certification": "I am a cigarette smoker 21 years of age or older",
+        "birthdate": "required",
+        "questions": [
+            {
+                "question": "What is your regular brand of cigarettes?",
+                "options": [
+                    "Alpine",
+                    "Benson & Hedges",
+                    "Basic",
+                    "Doral",
+                    "GPC",
+                    "Kent",
+                    "Kool",
+                    "Marlboro",
+                    "Merit",
+                    "Misty",
+                    "Monarch",
+                    "Newport",
+                    "Parliament",
+                    "Pyramid",
+                    "Raleigh Extra",
+                    "Salem",
+                    "Store Brand",
+                    "True",
+                    "Vantage",
+                    "Viceroy",
+                    "Winston"
+                ]
+            },
+            {
+                "question": "If your regular brand were not available, what other brands would you consider buying?",
+                "options": [
+                    "Alpine",
+                    "Benson & Hedges",
+                    "Basic",
+                    "Doral",
+                    "GPC",
+                    "Kent",
+                    "Kool",
+                    "Marlboro",
+                    "Merit",
+                    "Misty",
+                    "Monarch",
+                    "Newport",
+                    "Parliament",
+                    "Pyramid",
+                    "Raleigh Extra",
+                    "Salem",
+                    "Store Brand",
+                    "True",
+                    "Vantage",
+                    "Viceroy",
+                    "Winston"
+                ]
+            },
+            {
+                "question": "Is your regular brand Regular/King Size or Superslims?",
+                "options": [
+                    "Regular/King Size",
+                    "Superslims"
+                ]
+            },
+            {
+                "question": "Is your regular brand Menthol or Non-Menthol?",
+                "options": [
+                    "Menthol",
+                    "Non-Menthol"
+                ]
+            },
+            {
+                "question": "Is your regular brand Filter or Non-Filter?",
+                "options": [
+                    "Filter",
+                    "Non-Filter"
+                ]
+            },
+            {
+                "question": "Is your regular brand Lowest/1 mg Tar, Ultra/Extra Low Tar, Light/Mild, Medium, or Full Flavor?",
+                "options": [
+                    "Lowest/1 mg Tar",
+                    "Ultra/Extra Low Tar",
+                    "Light/Mild",
+                    "Medium",
+                    "Full Flavor"
+                ]
+            },
+            {
+                "question": "Do you usually buy by the carton or by the pack?",
+                "options": [
+                    "Carton",
+                    "Pack"
+                ]
+            },
+            {
+                "question": "How long have you been using this brand?",
+                "options": [
+                    "Less than 1 year",
+                    "1 to 2 years",
+                    "2 to 3 years",
+                    "3 to 5 years",
+                    "Over 5 years"
+                ]
+            },
+            {
+                "question": "The next time you go to the store and your regular brand were not available, what would you do?",
+                "options": [
+                    "Go to another store to buy my regular brand",
+                    "Buy another type or length of my regular brand",
+                    "Wait until the store has my regular brand",
+                    "Buy a different brand entirely"
+                ]
+            },
+            {
+                "question": "How often do you use special in-store cigarette offers, such as a gift with purchase or 2-for-1?",
+                "options": [
+                    "Always",
+                    "Sometimes",
+                    "Rarely",
+                    "Never"
+                ]
+            },
+            {
+                "question": "Would you be interested in receiving information about special offers that affect smokers?",
+                "options": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            {
+                "question": "Would you be interested in joining a smokers' panel?",
+                "options": [
+                    "Yes",
+                    "No"
+                ]
+            }
+        ],
+        "personal_info": {
+            "first_name": "First Name",
+            "middle_initial": "M.I.",
+            "last_name": "Last Name",
+            "birthdate": "Birthdate",
+            "regular_brand": "Regular Brand"
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "company": "R.H.BRUSKIN ASSOCIATES",
+    "code": "33-3-CAT-1081",
+    "location": "New Brunswick, New Jersey",
+    "card": "CARD5-1",
+    "study": "CIGARETTE AD.TRACKING STUDY",
+    "wave": "WAVE II",
+    "screening_question": {
+        "time_started": null,
+        "time_ended": null,
+        "name": null,
+        "best_time_to_call": null,
+        "phone": {
+            "area_code": null,
+            "number": "754983"
+        }
+    },
+    "sample_page": {
+        "bing": 4,
+        "time": null,
+        "no_response": null,
+        "not_available": null,
+        "busy": null,
+        "incomplete": null,
+        "attempt": null,
+        "date": null,
+        "answer": null,
+        "refused": null,
+        "other": null,
+        "complete": null
+    },
+    "introduction": "Hello. I'm from R. H. Bruskin Associates, a national market research firm located in New Jersey. We're conducting a survey among people 21 years of age and older who smoke cigarettes. Is there anyone in your household who meets this description? IF NO, TERMINATE AND RECORD ON CALL RECORD SHEET.",
+    "household_question": "Would you please tell me the sex and age of each member of your household who is 21 years of age or older and smokes cigarettes? RECORD BELOW.",
+    "age_groups": {
+        "smokers_only": {
+            "household_member": {
+                "respondent": {
+                    "21-24": null,
+                    "25-34": null,
+                    "35-44": null,
+                    "45-54": null,
+                    "older": null
+                },
+                "other_males": {
+                    "21-24": null,
+                    "25-34": null,
+                    "35-44": null,
+                    "45-54": null,
+                    "older": null
+                },
+                "other_females": {
+                    "21-24": null,
+                    "25-34": null,
+                    "35-44": null,
+                    "45-54": null,
+                    "older": null
+                }
+            }
+        }
+    },
+    "check_quotas": "IF RESPONDENT IS A CIGARETTE SMOKER AND 21 YEARS OR OLDER, CONTINUE WITH MAIN QUESTIONNAIRE.",
+    "instructions": "IF RESPONDENT IS NOT A CIGARETTE SMOKER OR IS UNDER 21 YEARS OLD, ASK TO SPEAK WITH A HOUSEHOLD MEMBER WHO IS A CIGARETTE SMOKER AND 21 YEARS OR OLDER. IF QUALIFIED HOUSEHOLD MEMBER NOT AVAILABLE, ARRANGE A CALLBACK: OBTAIN FULL NAME OF QUALIFIED HOUSEHOLD MEMBER AND BEST TIME TO CALL BACK. RECORD ABOVE WITH TELEPHONE NUMBER."
+}

@@ -1,0 +1,83 @@
+{
+    "Ce": "3",
+    "Company": "Bellomy-Carrigg, Inc.",
+    "Code": "0242",
+    "Job": "0906",
+    "Location": "MENATSITYPARKVAY",
+    "Date": "October, 1984",
+    "Address": "WIASTONSUEMNC2HS",
+    "Pages": "1-4",
+    "Title": "AA EXTENDED USE CONCEPT/PRODUCT TEST (3 CELLS)",
+    "Document": "TELEPHONE CALLBACK QUESTIONNAIRE",
+    "Respondent": {
+        "Name": "Geraldine Miller",
+        "TelephoneNumber": "027853"
+    },
+    "CallbackAppointment": {
+        "Day": "Friday",
+        "Date": "10-28",
+        "Time": "5 PM"
+    },
+    "Instructions": "BEFORE DIALING READ THE INSTRUCTIONS FOR THE CHIP GAME O.41) ON THE NEXT PAGE. ASK TO SPEAK TO RESPONDENT. IF RESPONDENT IS NOT AVAILABLE, ATTEMPT TO RESCHEDULE THE CALLBACK.",
+    "Interviewer": "Hello, I'm from: I'd like to ask",
+    "CallRecord": {
+        "CallbackAttempt": [
+            {
+                "Number": "1",
+                "Date": "12",
+                "Time": "10.10",
+                "Completed": "X",
+                "NotAtHome": "",
+                "Refused": "",
+                "NoSuchPerson": "",
+                "Other": ""
+            },
+            {
+                "Number": "2",
+                "Date": "",
+                "Time": "",
+                "Completed": "",
+                "NotAtHome": "",
+                "Refused": "",
+                "NoSuchPerson": "",
+                "Other": ""
+            },
+            {
+                "Number": "3",
+                "Date": "",
+                "Time": "",
+                "Completed": "",
+                "NotAtHome": "",
+                "Refused": "",
+                "NoSuchPerson": "",
+                "Other": ""
+            }
+        ]
+    },
+    "SkipTo": "Q.41 CHIP GAME) ON NEXT PAGE.",
+    "Packs": {
+        "1": "1 pack",
+        "6-1": "-2",
+        "0891": "-3",
+        "4": "-5",
+        "5": "-6",
+        "7": "-8",
+        "9": "-9",
+        "A11": "10 packs",
+        "0": "50558"
+    },
+    "Question40a": {
+        "Question": "Do you intend to smoke any more of the cigarettes we gave you in the next few days?",
+        "Instruction": "RESCHEDULE CALLBACK WHEN RESPONDENT EXPECTS TO HAVE SMOKED 5+ PACKS.",
+        "Response": "NO."
+    },
+    "Question40b": {
+        "Question": "Why do you say you will not be smoking any more of the cigarettes we gave you?",
+        "Response": {
+            "8": "",
+            "9": "",
+            "10": "",
+            "1.5": ""
+        }
+    }
+}

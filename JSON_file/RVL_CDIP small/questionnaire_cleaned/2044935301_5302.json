@@ -1,0 +1,47 @@
+{
+    "friend_info": {
+        "name": "MS. THERESHEALY",
+        "address": {
+            "street": "350",
+            "city": "NEWPORT",
+            "state": "MA",
+            "zip": "02045"
+        },
+        "date_received": "DEC191994"
+    },
+    "survey": {
+        "certification": {
+            "is_smoker": true,
+            "age": 21,
+            "signature": "",
+            "birth_date": ""
+        },
+        "cigarette_coupons_usage": "Frequently",
+        "regular_brand": {
+            "is_regular": true,
+            "special_offers": "Frequently"
+        },
+        "brands_smoked": [
+            {
+                "brand_name": "",
+                "packs_smoked": "",
+                "duration": "Less than 1 year"
+            }
+        ],
+        "store_availability": {
+            "action_if_unavailable": "Go to another store to buy my regular brand",
+            "alternative_brands": [
+                "Mentelair",
+                "Bexson",
+                "GPC",
+                "Vantage",
+                "Hedges",
+                "Parliament"
+            ]
+        },
+        "previous_brand": "None"
+    },
+    "contact_info": {
+        "phone": "2044935301"
+    }
+}

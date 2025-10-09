@@ -1,0 +1,53 @@
+{
+    "survey": "SALESREPRESENTATIVE SURVEY-SURVEYA",
+    "name": "Jahn. Scherkenbach.",
+    "questions": [
+        {
+            "question": "Does the current system of using (1) assigned special promotion number for 3) separate items package coupons, stickers, inserts) make it difficult for you to account for individual usage?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "response": null,
+            "explanation": null
+        },
+        {
+            "question": "If separate special promotion cRs numbers were assigned to each individual special promotion item, would having (3) cRs promotion numbers be:",
+            "options": [
+                "A Major Burden",
+                "Somewhat of a Burden",
+                "No Burden"
+            ],
+            "response": null,
+            "additional_comment": null
+        }
+    ],
+    "distribution": {
+        "brands": [
+            {
+                "name": "Harley",
+                "code": "96111029"
+            },
+            {
+                "name": "Style"
+            },
+            {
+                "name": "Old Gold (Support Market)",
+                "regions": [
+                    "Regions 1 -12",
+                    "Regions 13 -25"
+                ]
+            }
+        ]
+    },
+    "fax": [
+        {
+            "to": "R.P. Bonomo",
+            "number": "415348-0723"
+        },
+        {
+            "to": "S.P. Zolot",
+            "number": "818812-0614"
+        }
+    ]
+}

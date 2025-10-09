@@ -1,0 +1,50 @@
+{
+    "ad_number": 3,
+    "instructions": "Would you please read this ad as you normally would and then I'll ask you to close the magazine.",
+    "fill_in_brand_and_product": true,
+    "question_7c": {
+        "text": "What ideas or impressions about the product did you get from this ad?",
+        "probe": true
+    },
+    "code": "SFP151916",
+    "mrd": true,
+    "hand_card_f_to_respondent": true,
+    "question_8c": {
+        "text": "Please read to me all the words or phrases that came to mind when you saw this ad.",
+        "responses": [
+            "Amusing/funny",
+            "Appealing",
+            "Nostalgic",
+            "Not related to product",
+            "Believable",
+            "Original",
+            "Clever",
+            "Outdated",
+            "Confusing",
+            "Overdone",
+            "Convincing",
+            "Overly sentimental",
+            "Eye-catching",
+            "Silly/ridiculous",
+            "Good memories",
+            "Simple",
+            "Human",
+            "Uninteresting",
+            "Imaginative",
+            "In poor taste"
+        ]
+    },
+    "question_9c": {
+        "text": "Which length or lengths of cigarettes was being advertised?",
+        "options": [
+            "King size only",
+            "King size and Super Long size",
+            "Super Long size only",
+            "Don't know/can't tell from ad"
+        ],
+        "select_one": true
+    },
+    "take_back_card_f": true,
+    "notice": "If the film image is less clear than this notice, it is due to the quality of the document filmed.",
+    "document_code": "77602 8 4 4 6"
+}

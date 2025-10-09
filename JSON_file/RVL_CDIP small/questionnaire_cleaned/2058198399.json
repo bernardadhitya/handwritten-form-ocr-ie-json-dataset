@@ -1,0 +1,59 @@
+{
+    "Objectives": {
+        "Instructions": "Health promotion or 'wellness' initiatives offered by employers range in scope from one or two activities (e.g., smoking cessation classes, cholesterol screening, etc.) to comprehensive, multi-component strategies. We would like your responses regardless of the extent of your initiatives. If you do not offer any health promotion activities to your employees, please go to Question 32 on page 10.",
+        "Questions": [
+            {
+                "Question": "Please rank your company's three most important objectives in providing health promotion activities in the space on the left. (Use a scale of 1 to 3, with 1 being the most important. Please use each ranking only once.)",
+                "Options": [
+                    "Improved employee health",
+                    "Medical cost containment",
+                    "Improved employee morale",
+                    "Increased productivity",
+                    "Reduced absenteeism",
+                    "Increased organizational effectiveness as part of total quality program",
+                    "Response to competitive pressures",
+                    "Employee recruiting/retention",
+                    "Other (specify)"
+                ],
+                "Rank": {
+                    "Improved employee health": null,
+                    "Medical cost containment": 3,
+                    "Improved employee morale": null,
+                    "Increased productivity": null,
+                    "Reduced absenteeism": null,
+                    "Increased organizational effectiveness as part of total quality program": null,
+                    "Response to competitive pressures": null,
+                    "Employee recruiting/retention": null,
+                    "Other (specify)": null
+                }
+            },
+            {
+                "Question": "Please rate how effective your program has been in meeting each of your three most important objectives.",
+                "Effectiveness": [
+                    {
+                        "Objective": "First",
+                        "Very Effective": null,
+                        "Slightly or Effective": null,
+                        "Not Effective": null,
+                        "Not Sure": null
+                    },
+                    {
+                        "Objective": "Second",
+                        "Very Effective": null,
+                        "Slightly or Effective": null,
+                        "Not Effective": null,
+                        "Not Sure": null
+                    },
+                    {
+                        "Objective": "Third",
+                        "Very Effective": null,
+                        "Slightly or Effective": null,
+                        "Not Effective": null,
+                        "Not Sure": null
+                    }
+                ]
+            }
+        ]
+    },
+    "Company": "Hewitt Associates"
+}

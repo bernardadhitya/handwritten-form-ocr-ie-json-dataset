@@ -1,0 +1,73 @@
+{
+    "survey": {
+        "introduction": "We're conducting an opinion survey today among people between the ages of 18 and 60 about various products used in the household and I'd like to ask you a few questions.",
+        "questions": [
+            {
+                "question": "First of all, are you between the ages of 18 and 60?",
+                "options": [
+                    "Yes",
+                    "THANK AND TERMINATE"
+                ]
+            },
+            {
+                "question": "And are you between 18 and 34 years of age, or between 35 and 60 years of age?",
+                "options": [
+                    "18-34",
+                    "CHECK QUOTA",
+                    "35-60"
+                ]
+            },
+            {
+                "question": "Do you smoke filter cigarettes?",
+                "options": [
+                    "Filter",
+                    "Non-Filter",
+                    "THANK AND TERMINATE"
+                ]
+            },
+            {
+                "question": "Do you currently smoke at least 3 packs of cigarettes a week?",
+                "options": [
+                    "Yes"
+                ]
+            },
+            {
+                "question": "Do you usually smoke the regular/king size cigarettes or the cigarettes that are longer than king size -- that is, the 100 or 120 millimeter size?",
+                "options": [
+                    "Regular/king size",
+                    "THANK AND TERMINATE",
+                    "100's",
+                    "CONTINUE WITH Q.6",
+                    "120's"
+                ]
+            },
+            {
+                "question": "Is your regular brand of cigarettes menthol or non-menthol? (Check Quota)",
+                "options": [
+                    "Non-menthol",
+                    "Menthol"
+                ]
+            },
+            {
+                "question": "What is your regular brand of cigarettes -- that is, the brand you smoke most often?",
+                "instructions": "HAND RESPONDENT BRAND LIST AND POINT OUT THE SECTION IN WHICH THEIR BRAND IS LISTED. THEN SAY: Which one of these is the specific type of BRAND cigarettes that you smoke most often?",
+                "record": "RECORD THE FULL BRAND NAME AND THE LETTERS WHICH FOLLOW THE BRAND EXACTLY AS PRINTED ON THE BRAND LIST.",
+                "note": "IF QUOTA IS FILLED OR IF NO LETTERS APPEAR",
+                "fields": [
+                    "FULL BRAND NAME",
+                    "LETTERS"
+                ],
+                "check": "CHECK QUOTA"
+            },
+            {
+                "question": "During the past 6 months, have you been interviewed on the subject of cigarettes?",
+                "options": [
+                    "Yes",
+                    "No",
+                    "THANK AND TERMINATE",
+                    "CONTINUE WITH Q.9"
+                ]
+            }
+        ]
+    }
+}

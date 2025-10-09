@@ -1,0 +1,62 @@
+{
+    "mercadotecniaConsulting": {
+        "projectCode": "8-1BC",
+        "sprint": "1/3ne1932",
+        "contactNumber": "313-7289",
+        "validated": "es}5-2",
+        "date": "",
+        "time": {
+            "start": "",
+            "finish": ""
+        },
+        "interviewerName": "",
+        "respondentName": "",
+        "address": {
+            "street": "",
+            "apartmentNumber": "",
+            "city": "",
+            "state": "",
+            "zip": ""
+        },
+        "telephone": {
+            "areaCode": "",
+            "number": ""
+        },
+        "introduction": {
+            "greeting": "Hello my name is",
+            "company": "I work for",
+            "interest": "only interested in your opinions and the opinions of",
+            "languagePreference": "By the way do you wish to speak with me in Spanish or"
+        },
+        "householdSmoking": {
+            "question": "Does anyone in this household smoke cigarettes",
+            "answers": {
+                "yes": "ASK Q.B-Q.D. THEN GO TO PAGE S-3 SMOKING HOUSEHOLDS",
+                "no": "ASK C.8. THEN GO TO PAGE S-2 NON-SMOKING HOUSEHOLD"
+            }
+        },
+        "ethnicBackground": {
+            "interest": "we are interested in talking to Hispanic people from various ethnic backgrounds",
+            "options": {
+                "puertoRico": "1",
+                "cuba": "2",
+                "mexico": "3",
+                "otherHispanic": "4",
+                "other": "5"
+            },
+            "note": "MAY OR MAY NOT HAVE TO TERMINATE DUE TO ETHNIC QUOTAS."
+        },
+        "advertisingOrMarketing": {
+            "question": "In an advertising agency or a marketing research company or field service",
+            "answers": {
+                "yes": "THANK TERMINATE TALLY REUSE SCREENER",
+                "no": "CONTINUE"
+            }
+        },
+        "respondent": {
+            "name": "WRITE IN NAME",
+            "firstName": "Ai",
+            "id": "670057100"
+        }
+    }
+}

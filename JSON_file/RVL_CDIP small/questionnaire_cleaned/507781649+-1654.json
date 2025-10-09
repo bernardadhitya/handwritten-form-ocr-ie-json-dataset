@@ -1,0 +1,52 @@
+{
+    "company": "R.J. Reynolds Tobacco Company",
+    "discussion": "Guido",
+    "contact": "C/enta",
+    "phone": "-54",
+    "city": "P.0.lAyyl",
+    "state": "11052-0961",
+    "introduction": "Hello, my name is [Name]. I am calling from the Public Policy Research Group which is a national research organization that conducts studies on issues of national and local importance. We are currently researching how the nation's largest companies are approaching the issue of smoking in the workplace. Would you be available to participate in the short study?",
+    "questions": [
+        {
+            "question": "Are you the person within who is responsible for developing or reviewing your company's approach to smoking in the workplace?",
+            "options": [
+                "YES",
+                "NO"
+            ],
+            "if_no": "Ask which department or person is responsible for developing or reviewing the company's approach to smoking."
+        },
+        {
+            "question": "Does your company have a formal policy regarding smoking by employees in the workplace?",
+            "options": [
+                "YES",
+                "NO"
+            ],
+            "if_no": "Go to Question #12."
+        },
+        {
+            "question": "Is your company's smoking policy distributed to employees in writing?",
+            "options": [
+                "YES",
+                "NO"
+            ]
+        },
+        {
+            "question": "What is your company's policy toward smoking?",
+            "options": [
+                "Smoking is allowed throughout the company",
+                "Smoking is allowed in designated areas",
+                "Smoking is not allowed in company buildings at all",
+                "Smoking by employees is not allowed at any time",
+                "Employees can be fired for smoking either on or off the job",
+                "People who smoke are not hired",
+                "Smokers pay more for health insurance",
+                "Other"
+            ]
+        }
+    ],
+    "note": "please turn",
+    "codes": [
+        "50778",
+        "1649"
+    ]
+}

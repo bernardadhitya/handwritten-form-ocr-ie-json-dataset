@@ -1,0 +1,93 @@
+{
+    "survey": {
+        "title": "READER'S SURVEY",
+        "description": "Please fill out the following survey and you will be entered in a drawing to win a dinner for two at a Manhattan restaurant. To be eligible, include your name and phone number.",
+        "fields": {
+            "name": "",
+            "age": [
+                "7-20",
+                "21-23",
+                "24-30",
+                "31-39",
+                "40 and over"
+            ],
+            "marital_status": [
+                "single",
+                "married"
+            ],
+            "household_income": [
+                "under $50,000",
+                "$50,000-$74,000",
+                "$75,000-$99,000",
+                "$100,000 and over"
+            ],
+            "education": [
+                "attended college",
+                "graduated college",
+                "graduate school"
+            ],
+            "residence": [
+                "own",
+                "second home"
+            ],
+            "fashion_spending": "How much do you spend a year on clothes?",
+            "shopping_frequency": {
+                "hair_products": "times per month",
+                "fragrances": "times per year",
+                "designer_clothing": "per year",
+                "electronics": "per year",
+                "jewelry": "per year",
+                "cosmetics": "per month",
+                "computer_related_equipment": "per year",
+                "cell_phone_equipment": "per year",
+                "international_airline_tickets": "per year"
+            },
+            "beverages": {
+                "domestic_beer": {
+                    "drink": "Y/N",
+                    "brand": ""
+                },
+                "imported_beer": {
+                    "drink": "Y/N",
+                    "brand": ""
+                },
+                "bottled_water": {
+                    "drink": "Y/N",
+                    "brand": ""
+                },
+                "vodka": {
+                    "drink": "Y/N",
+                    "brand": ""
+                },
+                "scotch": {
+                    "drink": "Y/N",
+                    "brand": ""
+                },
+                "tequila": {
+                    "drink": "Y/N",
+                    "brand": ""
+                },
+                "wine": {
+                    "drink": "Y/N",
+                    "brand": ""
+                },
+                "gin": {
+                    "drink": "Y/N",
+                    "brand": ""
+                },
+                "rum": {
+                    "drink": "Y/N",
+                    "brand": ""
+                }
+            },
+            "smoking": {
+                "cigarettes": {
+                    "smoke": "Y/N",
+                    "brand": ""
+                },
+                "cigars": "Y/N"
+            },
+            "dining_out_frequency": "How often do you dine out per week? 1-3 times"
+        }
+    }
+}
