@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="18/12/2007" author="Jouve">
+  <source width="2468" height="3505">00986_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Difficulté de paiement</scenario>
+  <writer>BLOUIN Laure</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="165" top_left_y="359" bottom_right_x="721" bottom_right_y="500">
+       <type>Code d'envoi</type>
+       <text>ONOTGM</text>
+  </box>
+  <box top_left_x="395" top_left_y="522" bottom_right_x="1202" bottom_right_y="628">
+       <type>Nom</type>
+       <text>BLOUIN</text>
+  </box>
+  <box top_left_x="1395" top_left_y="523" bottom_right_x="2166" bottom_right_y="627">
+       <type>Prénom</type>
+       <text>LAURE</text>
+  </box>
+  <box top_left_x="478" top_left_y="624" bottom_right_x="2173" bottom_right_y="721">
+       <type>Adresse</type>
+       <text>4 B rue du Moulin</text>
+  </box>
+  <box top_left_x="555" top_left_y="725" bottom_right_x="972" bottom_right_y="832">
+       <type>Code Postal</type>
+       <text>68490</text>
+  </box>
+  <box top_left_x="1094" top_left_y="720" bottom_right_x="2174" bottom_right_y="832">
+       <type>Ville</type>
+       <text>PETIT LANDAU</text>
+  </box>
+  <box top_left_x="363" top_left_y="837" bottom_right_x="1233" bottom_right_y="984">
+       <type>Téléphone</type>
+       <text>0373552580</text>
+  </box>
+  <box top_left_x="502" top_left_y="1105" bottom_right_x="2173" bottom_right_y="1220">
+       <type>Catégorie Scénario</type>
+       <text>Difficulté de paiement</text>
+  </box>
+  <box top_left_x="286" top_left_y="1216" bottom_right_x="2174" bottom_right_y="1397">
+       <type>Objet Scénario</type>
+       <text>Demande d'échelonnement\n</text>
+  </box>
+  <box top_left_x="279" top_left_y="1394" bottom_right_x="2176" bottom_right_y="1582">
+       <type>Complément Scénario</type>
+       <text>Votre endettement est devenu trop\nimportant</text>
+  </box>
+  <box top_left_x="903" top_left_y="1602" bottom_right_x="1539" bottom_right_y="1751">
+       <type>Référence client</type>
+       <text>IMMIJ37</text>
+  </box>
+  <box top_left_x="579" top_left_y="1750" bottom_right_x="2183" bottom_right_y="1844">
+       <type>Interlocuteur</type>
+       <text>MANIF Assurances</text>
+  </box>
+  <box top_left_x="490" top_left_y="1840" bottom_right_x="2182" bottom_right_y="1942">
+       <type>Adresse Interlocuteur</type>
+       <text></text>
+  </box>
+  <box top_left_x="568" top_left_y="1938" bottom_right_x="996" bottom_right_y="2057">
+       <type>Code Postal Interlocuteur</type>
+       <text>69690</text>
+  </box>
+  <box top_left_x="1130" top_left_y="1938" bottom_right_x="2182" bottom_right_y="2038">
+       <type>Ville Interlocuteur</type>
+       <text>TERNAND</text>
+  </box>
+  <box top_left_x="1048" top_left_y="2276" bottom_right_x="1262" bottom_right_y="2386">
+       <type>Temps passé</type>
+       <text>15</text>
+  </box>
+  <box top_left_x="870" top_left_y="2199" bottom_right_x="971" bottom_right_y="2264">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1068" top_left_y="2211" bottom_right_x="1117" bottom_right_y="2263">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1283" top_left_y="2211" bottom_right_x="1335" bottom_right_y="2263">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="298" top_left_y="2682" bottom_right_x="341" bottom_right_y="2732">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1588" top_left_y="2632" bottom_right_x="2186" bottom_right_y="2745">
+       <type>Date d'envoi postal</type>
+       <text>17/11/06</text>
+  </box>
+  <box top_left_x="299" top_left_y="2777" bottom_right_x="349" bottom_right_y="2825">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="304" top_left_y="2876" bottom_right_x="376" bottom_right_y="2919">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1730" top_left_y="2806" bottom_right_x="2180" bottom_right_y="2923">
+       <type>Date d'envoi par fax</type>
+       <text>17/11/06</text>
+  </box>
+  <box top_left_x="300" top_left_y="2968" bottom_right_x="377" bottom_right_y="3016">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1587" top_left_y="2925" bottom_right_x="2182" bottom_right_y="3028">
+       <type>Date d'envoi par courriel</type>
+       <text>17/11/06</text>
+  </box>
+  <box top_left_x="1727" top_left_y="3121" bottom_right_x="1992" bottom_right_y="3216">
+       <type>Résolution</type>
+       <text>400</text>
+  </box>
+  <box top_left_x="571" top_left_y="3151" bottom_right_x="621" bottom_right_y="3201">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="776" top_left_y="3150" bottom_right_x="827" bottom_right_y="3200">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="966" top_left_y="3155" bottom_right_x="1006" bottom_right_y="3202">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1067" top_left_y="3023" bottom_right_x="2183" bottom_right_y="3124">
+       <type>Marque et modèle scanner</type>
+       <text>Sharp AR M350</text>
+  </box>
+</annotation>

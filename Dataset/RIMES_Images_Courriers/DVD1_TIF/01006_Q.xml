@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="18/12/2007" author="Jouve">
+  <source width="2469" height="3503">01006_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Difficulté de paiement</scenario>
+  <writer>DAMIEN Jenna</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="192" top_left_y="359" bottom_right_x="750" bottom_right_y="501">
+       <type>Code d'envoi</type>
+       <text>YIBWNO</text>
+  </box>
+  <box top_left_x="423" top_left_y="521" bottom_right_x="1232" bottom_right_y="629">
+       <type>Nom</type>
+       <text>DAMIEN</text>
+  </box>
+  <box top_left_x="1426" top_left_y="525" bottom_right_x="2200" bottom_right_y="630">
+       <type>Prénom</type>
+       <text>Jenna</text>
+  </box>
+  <box top_left_x="506" top_left_y="623" bottom_right_x="2205" bottom_right_y="722">
+       <type>Adresse</type>
+       <text>Rue Principale</text>
+  </box>
+  <box top_left_x="582" top_left_y="723" bottom_right_x="1000" bottom_right_y="830">
+       <type>Code Postal</type>
+       <text>08250</text>
+  </box>
+  <box top_left_x="1123" top_left_y="720" bottom_right_x="2205" bottom_right_y="831">
+       <type>Ville</type>
+       <text>Olizy Primat</text>
+  </box>
+  <box top_left_x="390" top_left_y="834" bottom_right_x="1262" bottom_right_y="983">
+       <type>Téléphone</type>
+       <text>0351172323</text>
+  </box>
+  <box top_left_x="529" top_left_y="1102" bottom_right_x="2204" bottom_right_y="1222">
+       <type>Catégorie Scénario</type>
+       <text>Difficulté de ¤{payement/paiement}¤</text>
+  </box>
+  <box top_left_x="311" top_left_y="1212" bottom_right_x="2204" bottom_right_y="1398">
+       <type>Objet Scénario</type>
+       <text>Demande de remise gracieuse\n</text>
+  </box>
+  <box top_left_x="303" top_left_y="1390" bottom_right_x="2205" bottom_right_y="1584">
+       <type>Complément Scénario</type>
+       <text>Votre endettement est devenu trop\nimportant</text>
+  </box>
+  <box top_left_x="928" top_left_y="1598" bottom_right_x="1565" bottom_right_y="1751">
+       <type>Référence client</type>
+       <text>SJVKP81</text>
+  </box>
+  <box top_left_x="603" top_left_y="1745" bottom_right_x="2209" bottom_right_y="1849">
+       <type>Interlocuteur</type>
+       <text>GDF</text>
+  </box>
+  <box top_left_x="514" top_left_y="1836" bottom_right_x="2208" bottom_right_y="1948">
+       <type>Adresse Interlocuteur</type>
+       <text>Route de Pont de Crau</text>
+  </box>
+  <box top_left_x="591" top_left_y="1936" bottom_right_x="1020" bottom_right_y="2056">
+       <type>Code Postal Interlocuteur</type>
+       <text>13200</text>
+  </box>
+  <box top_left_x="1155" top_left_y="1939" bottom_right_x="2208" bottom_right_y="2042">
+       <type>Ville Interlocuteur</type>
+       <text>Arles</text>
+  </box>
+  <box top_left_x="1071" top_left_y="2275" bottom_right_x="1285" bottom_right_y="2386">
+       <type>Temps passé</type>
+       <text>20</text>
+  </box>
+  <box top_left_x="931" top_left_y="2183" bottom_right_x="994" bottom_right_y="2260">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1091" top_left_y="2210" bottom_right_x="1140" bottom_right_y="2262">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1307" top_left_y="2210" bottom_right_x="1359" bottom_right_y="2262">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="329" top_left_y="2665" bottom_right_x="391" bottom_right_y="2720">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1612" top_left_y="2635" bottom_right_x="2211" bottom_right_y="2747">
+       <type>Date d'envoi postal</type>
+       <text>22/11/06</text>
+  </box>
+  <box top_left_x="330" top_left_y="2766" bottom_right_x="389" bottom_right_y="2816">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="318" top_left_y="2874" bottom_right_x="370" bottom_right_y="2920">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1753" top_left_y="2809" bottom_right_x="2203" bottom_right_y="2927">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="328" top_left_y="2952" bottom_right_x="397" bottom_right_y="3018">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1608" top_left_y="2929" bottom_right_x="2205" bottom_right_y="3032">
+       <type>Date d'envoi par courriel</type>
+       <text>21/11/06</text>
+  </box>
+  <box top_left_x="1749" top_left_y="3127" bottom_right_x="2014" bottom_right_y="3221">
+       <type>Résolution</type>
+       <text>200</text>
+  </box>
+  <box top_left_x="564" top_left_y="3130" bottom_right_x="667" bottom_right_y="3199">
+       <type>Format PNG</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="795" top_left_y="3154" bottom_right_x="847" bottom_right_y="3205">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="977" top_left_y="3154" bottom_right_x="1027" bottom_right_y="3205">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1088" top_left_y="3028" bottom_right_x="2205" bottom_right_y="3128">
+       <type>Marque et modèle scanner</type>
+       <text>HP PSC 1315</text>
+  </box>
+</annotation>
