@@ -1,0 +1,53 @@
+{
+    "company": "PARKER TOBACCO COMPANY, INC",
+    "location": "MAYSVILLE, KENTUCKY",
+    "document": "QUICKTESTSHEET & DAILYMOISTURE",
+    "shift": null,
+    "date": 37,
+    "machine_no": null,
+    "operator": "RRRROR",
+    "grade": null,
+    "package": null,
+    "tests": [
+        {
+            "time": "7C",
+            "cup_no": "S",
+            "quick_test_no": 126,
+            "16hr_number": 3,
+            "ini": 13.4,
+            "out": 0,
+            "test": "/3.0",
+            "remarks": 4
+        },
+        {
+            "time": "1.9",
+            "cup_no": 20,
+            "quick_test_no": 271,
+            "16hr_number": 30,
+            "ini": "/2.4",
+            "out": 35,
+            "test": "D.0",
+            "remarks": 9
+        },
+        {
+            "time": "11.4",
+            "cup_no": 4,
+            "quick_test_no": "E71",
+            "16hr_number": 8.5,
+            "ini": "So",
+            "out": 0,
+            "test": "/3.2",
+            "remarks": 10
+        },
+        {
+            "time": "1..",
+            "cup_no": "SS",
+            "quick_test_no": 17.0,
+            "16hr_number": "SEs",
+            "ini": 3,
+            "out": "-",
+            "test": 1.8,
+            "remarks": 89686747
+        }
+    ]
+}

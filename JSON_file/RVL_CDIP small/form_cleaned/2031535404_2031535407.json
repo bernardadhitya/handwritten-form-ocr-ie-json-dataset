@@ -1,0 +1,61 @@
+{
+    "PhilipMorisUSA": {
+        "IndustrialHygiene": {
+            "StressCharacterization": {
+                "Identification": {
+                    "City": "RLCJ",
+                    "Plant": "mc-pR",
+                    "ExposureZone": "LRImAR-REA",
+                    "Location": "Penfhomo",
+                    "Month": 21,
+                    "Day": "mcer=3",
+                    "IdentificationNumber": "C3",
+                    "OmitSample": 16,
+                    "Number": [
+                        18,
+                        20,
+                        22,
+                        "$",
+                        80
+                    ]
+                },
+                "JobClassRepresentation": {
+                    "EmployeeName": {
+                        "Last": "",
+                        "First": ""
+                    },
+                    "SS#": "",
+                    "JobCode": 28,
+                    "Representation": "Representative-R,Unusual-U",
+                    "IfR": {
+                        "OtherRepresentativeJobCodes": [
+                            43,
+                            47,
+                            51,
+                            55,
+                            59
+                        ]
+                    },
+                    "Shifts": "Day-A,Evenings-B,Graveyard-C,Novel-N",
+                    "ShiftCodes": "ABCN AC"
+                },
+                "JobCharacterization": {
+                    "Card": 2,
+                    "JobType": "Routine/Normak<R), Infrequent/Variable-V, Start-Up, Upset/Abnormal, Batch",
+                    "JobFrequency": "Times/Month (If Appropriate, EG:Batch.Variable)",
+                    "JobDescription": "(Include Machines) A+B Civen-",
+                    "Codes": [
+                        35,
+                        79,
+                        2031535404,
+                        40,
+                        50,
+                        1,
+                        9,
+                        81
+                    ]
+                }
+            }
+        }
+    }
+}

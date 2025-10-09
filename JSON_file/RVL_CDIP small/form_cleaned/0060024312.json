@@ -1,0 +1,124 @@
+{
+    "worksheet": {
+        "title": "WORKSHEET FOR CALCULATING AND REPORTING ANNUAL EMISSIONS ON A ROLLING MONTHLY BASIS",
+        "companyName": "American Tobacco Company",
+        "address": "PO Box 1917, Reidsville, NC 27323",
+        "county": "Rockingham",
+        "pollutant": "VOC",
+        "tables": {
+            "table1": {
+                "title": "Monthly Emissions for the 11 months Prior to Reporting Period",
+                "data": [
+                    {
+                        "month": "Nov",
+                        "year": "92",
+                        "tonsPerMonth": 1.29
+                    },
+                    {
+                        "month": "Dec",
+                        "year": "92",
+                        "tonsPerMonth": 15.26
+                    },
+                    {
+                        "month": "Jan",
+                        "year": "93",
+                        "tonsPerMonth": 11.41
+                    },
+                    {
+                        "month": "Feb",
+                        "year": "93",
+                        "tonsPerMonth": 15.73
+                    },
+                    {
+                        "month": "Mar",
+                        "year": "93",
+                        "tonsPerMonth": 8.32
+                    },
+                    {
+                        "month": "Apr",
+                        "year": "93",
+                        "tonsPerMonth": 0.0
+                    },
+                    {
+                        "month": "May",
+                        "year": "93",
+                        "tonsPerMonth": 0.0
+                    },
+                    {
+                        "month": "Jun",
+                        "year": "93",
+                        "tonsPerMonth": 0.0
+                    },
+                    {
+                        "month": "Jul",
+                        "year": "93",
+                        "tonsPerMonth": 0.0
+                    },
+                    {
+                        "month": "Aug",
+                        "year": "93",
+                        "tonsPerMonth": 0.0
+                    },
+                    {
+                        "month": "Sep",
+                        "year": "93",
+                        "tonsPerMonth": 0.0
+                    }
+                ]
+            },
+            "table2": {
+                "title": "Monthly Emissions for the 3 months of reporting period",
+                "data": [
+                    {
+                        "month": "Oct",
+                        "year": "93",
+                        "tonsPerMonth": 0.0
+                    },
+                    {
+                        "month": "Nov",
+                        "year": "93",
+                        "tonsPerMonth": 0.0
+                    },
+                    {
+                        "month": "Dec",
+                        "year": "93",
+                        "tonsPerMonth": 15.26
+                    }
+                ]
+            },
+            "table3": {
+                "title": "Cumulative Annual Emissions Ending Each Month of Reporting Period",
+                "data": [
+                    {
+                        "month": "Oct",
+                        "year": "93",
+                        "tonsPerYear": 52.01
+                    },
+                    {
+                        "month": "Nov",
+                        "year": "93",
+                        "tonsPerYear": 50.72
+                    },
+                    {
+                        "month": "Dec",
+                        "year": "93",
+                        "tonsPerYear": 57.1
+                    }
+                ]
+            }
+        },
+        "calculationMethods": "AP-42 Emission Factors for Boilers using fuel oil"
+    },
+    "report": {
+        "statement": "REPORT AND THAT TO THE BEST OF MY KNOWLEDGE AND BELIEF THE SUBMITTED INFORMATION IS TRUE, ACCURATE, AND COMPLETE G.S.5 143-215.3a2",
+        "submittedBy": "Richard A. Filbey, P.E.",
+        "position": "Facility Protection Manager",
+        "submitTo": {
+            "department": "Air Quality Section",
+            "organization": "NC Dept. of Environment, Health, and Natural Resources",
+            "address": "Suite 100, 8025 North Point Boulevard, Winston-Salem, NC 27106-3203"
+        }
+    },
+    "revision": "rev 10/93",
+    "documentId": "ATX02 0130507"
+}

@@ -1,0 +1,79 @@
+{
+    "document": {
+        "title": "TPWORKSHEET",
+        "confidential": true,
+        "page": 1,
+        "case": "PhilipMorr's v.ABC",
+        "analysis": {
+            "date": "",
+            "time": ""
+        },
+        "tech": "TP",
+        "samples": [
+            {
+                "type": "BLANK",
+                "date": "7-18-94",
+                "abs": "Auto Zero",
+                "concentration": "0.050 mg/L as P Std"
+            },
+            {
+                "type": "Standard",
+                "concentration": [
+                    "0.020 mg/L as P",
+                    "0.100 mg/L as P",
+                    "0.300 mg/L as P",
+                    "0.600 mg/L as P"
+                ]
+            },
+            {
+                "type": "Control",
+                "date": "7-12-94",
+                "concentration": "0.250 mg/L as P",
+                "abs": "0.105"
+            },
+            {
+                "type": "Final Effluent 24 hr.Comp.",
+                "dates": [
+                    "7-11-ty",
+                    "7.1294"
+                ],
+                "abs": [
+                    "0.0i2",
+                    "0.173"
+                ]
+            },
+            {
+                "type": "Spiked",
+                "date": "7-1344",
+                "concentration": "0.20 ppm"
+            },
+            {
+                "type": "Sec. Eff. 24 hr. Comp.",
+                "date": "7-11-94",
+                "abs": "0.a6y"
+            },
+            {
+                "type": "Pri.Eff.24 hr.Comp.",
+                "date": "7-11-94",
+                "abs": "0.173"
+            },
+            {
+                "type": "L-1 inf.24 hr.Comp"
+            },
+            {
+                "type": "L-2 Inf. 24 hr.Comp."
+            },
+            {
+                "type": "L-3 Inf. 24 hr. Comp."
+            }
+        ],
+        "calculation": {
+            "formula": "%R=100Xs-Xu/K",
+            "result": "=w4a7-0.a35"
+        },
+        "file": {
+            "name": "A:tTPSpW S.wk",
+            "id": "2030180116"
+        }
+    }
+}

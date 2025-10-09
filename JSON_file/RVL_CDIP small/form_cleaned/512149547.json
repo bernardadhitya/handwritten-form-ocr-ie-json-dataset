@@ -1,0 +1,89 @@
+{
+    "specificationChangeNotice": {
+        "brand": "CAMEL Filter CP.80",
+        "date": "September 23, 1986",
+        "adO": "ITEMID12021231",
+        "effectiveDate": "October 13, 1986",
+        "changePreparedBy": "L.E. McCOlum",
+        "costChange": "NO",
+        "phase": "III",
+        "final": true,
+        "subBrandNo": {
+            "from": "1639AI",
+            "to": "1639AJ"
+        },
+        "purchasedMaterials": {
+            "oldItemId": "Comm.Code",
+            "newItemId": "Conm.Code",
+            "items": [
+                {
+                    "id": "51214",
+                    "description": "Plug Wrap",
+                    "status": "N/C"
+                },
+                {
+                    "description": "Cigt. Paper",
+                    "status": "N/C"
+                },
+                {
+                    "description": "Tipping",
+                    "status": "N/C"
+                },
+                {
+                    "id": "9547",
+                    "description": "Other",
+                    "status": "N/C"
+                }
+            ]
+        },
+        "basisForRecommendation": "QA CATE data show this product has averaged 127 mm. draft since 1/1/86. Being a non-diluted product, both holes open and holes closed draft specifications are the same.",
+        "purposeOfChange": "To adjust draft target to reflect actual product performance.",
+        "productAcceptanceCommitteeApproval": {
+            "dateApproved": null,
+            "rAndDDirector": null,
+            "prodOperPlanDirector": "D-mLero",
+            "rAndDProdStdsDirector": null,
+            "qaDirector": "Lh oueld. ho",
+            "groupRAndDDirector": null,
+            "other": null,
+            "marketingDirector": null
+        },
+        "departments": {
+            "rAndD": [
+                "B.V. Hardin",
+                "D.M. Underwood",
+                "A.V. Dale",
+                "R.L. Morgan",
+                "D.B. Self",
+                "R.L. Willard",
+                "F.M. Lockamy",
+                "J.W. Everhardt",
+                "R.L. Cornwell",
+                "R.L. McGee",
+                "H.E. Guess",
+                "W.E. Alderman",
+                "O.K. Crouch"
+            ],
+            "manufacturing": [
+                "Brand Mgr-2",
+                "ST, McCollem",
+                "W.T. Morgan",
+                "Piant Manager -",
+                "J.H. Wilson"
+            ],
+            "comptrollers": [
+                "Specification File",
+                "E.D. Arledge",
+                "L.L. Gregory"
+            ],
+            "qa": [
+                "QA Plant Manager-",
+                "R.E. Foster",
+                "G.L. Aldridge",
+                "M.E. Stowe",
+                "S.L. Reavis"
+            ],
+            "purchasing": []
+        }
+    }
+}

@@ -1,0 +1,241 @@
+{
+    "SMDKE": {
+        "samples": {
+            "50/30": {
+                "replicates": 6,
+                "samples": 2
+            }
+        },
+        "3modeL": "# To+i deLiveviu"
+    },
+    "ANALYTICAL_REQUEST_SHEET": {
+        "TEST_CODE": "SUSMITTER CODE364132",
+        "DATE": "98-60-0",
+        "LOCATION-3EPHONE": 2069,
+        "SAMPLE_DESCRIPTION_IDENTIFICATION": [
+            "Finished",
+            "TAPWATER",
+            "VS",
+            "DISTILLED WATER",
+            "AEROSOL TYPE1",
+            "M$",
+            "TOBACCOTYPE 2"
+        ],
+        "METHODS": [
+            {
+                "name": "WTPM",
+                "method": "ag/c10",
+                "units": 3
+            },
+            {
+                "name": "Nicotine",
+                "method": "ng/ci0",
+                "units": 4
+            },
+            {
+                "name": "Glycerin",
+                "method": "ag/c10",
+                "units": 3
+            },
+            {
+                "name": "Totel Nitrogen",
+                "method": "*.4",
+                "units": 2
+            },
+            {
+                "name": "Propylene Glycol",
+                "method": "ag/c10",
+                "units": 3
+            },
+            {
+                "name": "Nitrate",
+                "method": "ng/ci0",
+                "units": "X"
+            },
+            {
+                "name": "Water",
+                "method": "Reducing Sugar",
+                "units": "ng/ci0"
+            },
+            {
+                "name": "Menthol",
+                "method": "Totel Sugar",
+                "units": "ag/c10"
+            },
+            {
+                "name": "Acotic Acid",
+                "method": "Ammonie",
+                "units": "ug/ci0"
+            },
+            {
+                "name": "Forn/Acetaldehyde",
+                "method": "pH",
+                "units": 10
+            },
+            {
+                "name": "Acetone/Acrolein",
+                "method": "ug/cs0",
+                "units": 8
+            },
+            {
+                "name": "Moisture (oven)",
+                "method": "ug/cig",
+                "units": "3X"
+            },
+            {
+                "name": "Propional/Crotonal",
+                "method": "Chloride",
+                "units": "ug/ci0"
+            },
+            {
+                "name": "Ash",
+                "method": "%",
+                "units": "A"
+            },
+            {
+                "name": "WTPM",
+                "method": "Malic/Oxalic/Citric%",
+                "units": 11
+            },
+            {
+                "name": "Nicotine",
+                "method": "no/puff",
+                "units": 12
+            },
+            {
+                "name": "Glycerin",
+                "method": "ng/puff",
+                "units": 13
+            },
+            {
+                "name": "Propylene Glycol",
+                "method": "%",
+                "units": 15
+            },
+            {
+                "name": "Glycerin",
+                "method": "Propylene Glycol",
+                "units": "ng/puff"
+            },
+            {
+                "name": "Water",
+                "method": "ng/puff",
+                "units": 17
+            },
+            {
+                "name": "Menthol",
+                "method": "ng/puff",
+                "units": 18
+            },
+            {
+                "name": "TEG",
+                "method": "ng/puff",
+                "units": 19
+            },
+            {
+                "name": "TEG",
+                "method": "ng/cig",
+                "units": "mg/puff"
+            }
+        ],
+        "COMPONENTS": {
+            "CHEMICAL_TYPE_3": [
+                {
+                    "name": "Moisture (oven)",
+                    "method": "COMPONENTS,PHYSICAL TYPE 4",
+                    "units": 2
+                },
+                {
+                    "name": "Ash",
+                    "method": "Real Oensity",
+                    "units": "%"
+                },
+                {
+                    "name": "Bulk Consity",
+                    "method": "OR/Cn3",
+                    "units": 3
+                },
+                {
+                    "name": "pH",
+                    "method": "Free Flou Donsity",
+                    "units": "OM/C3"
+                },
+                {
+                    "name": "Nicotine",
+                    "method": "ng/unit",
+                    "units": 3
+                },
+                {
+                    "name": "on/cn3",
+                    "method": "Water",
+                    "units": "Tep Density"
+                },
+                {
+                    "name": "ag/unit",
+                    "method": "Surface Area-Disc,Fsle,M2/gn",
+                    "units": "ON/CM3"
+                },
+                {
+                    "name": "Glycerin",
+                    "method": "Propyleno Glycol",
+                    "units": "mg/unit"
+                },
+                {
+                    "name": "N2 Porosity-Disc,File",
+                    "method": "C.H.N",
+                    "units": "nO/unit"
+                },
+                {
+                    "name": "Tot.Intrusion VoiHg ca3/an",
+                    "method": "Oxyaen",
+                    "units": "%"
+                },
+                {
+                    "name": "Totel Pore Area,Hg H2/n",
+                    "method": "Menthol",
+                    "units": "%"
+                },
+                {
+                    "name": "Med.Poro Dsa Vo1uM",
+                    "method": "mg/unit",
+                    "units": 10
+                },
+                {
+                    "name": "Hed.Pore Dia <Aree uM",
+                    "method": 505962914,
+                    "units": 11
+                },
+                {
+                    "name": "TEG",
+                    "method": "Nicotine",
+                    "units": "ag/unit"
+                },
+                {
+                    "name": "%",
+                    "method": "Water",
+                    "units": 12
+                },
+                {
+                    "name": "%",
+                    "method": "Glycerin",
+                    "units": 13
+                },
+                {
+                    "name": "Pulp Fiber Size screen,x)",
+                    "method": "Propylene Glycol",
+                    "units": "%"
+                },
+                {
+                    "name": "TEG",
+                    "method": "%",
+                    "units": 16
+                },
+                {
+                    "name": "Monthol",
+                    "method": "%",
+                    "units": 17
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "bacterial_toxicity_determination": "TA 100",
+    "test_compound": {
+        "name": "A25",
+        "lot_number": "R83-45",
+        "asu": "30 198"
+    },
+    "solvent": {
+        "name": "DMSO",
+        "lot_number": "33/38"
+    },
+    "strain_type_lot_number": "TAI00",
+    "per_plate": {
+        "solution_a": {
+            "concentration": "100 mg/ml",
+            "volume": "0.1 ml",
+            "doses": [
+                {
+                    "dose_g": 10000,
+                    "plate_1_colonies": 134,
+                    "plate_2_colonies": 0,
+                    "plate_3_colonies": 80.3,
+                    "average_colonies": 11.8,
+                    "percent_survival": 0.075
+                },
+                {
+                    "dose_g": 7500,
+                    "plate_1_colonies": 161,
+                    "plate_2_colonies": 72,
+                    "plate_3_colonies": 101,
+                    "average_colonies": 112.3,
+                    "percent_survival": 16.4
+                },
+                {
+                    "dose_g": 5000,
+                    "plate_1_colonies": 174,
+                    "plate_2_colonies": 107,
+                    "plate_3_colonies": 140,
+                    "average_colonies": 140.3,
+                    "percent_survival": 20.5
+                }
+            ]
+        },
+        "solution_b": {
+            "concentration": "10 mg/ml",
+            "volume": "0.10 ml",
+            "doses": [
+                {
+                    "dose_g": 1000,
+                    "plate_1_colonies": 148,
+                    "plate_2_colonies": 67,
+                    "plate_3_colonies": 8,
+                    "average_colonies": 99.0,
+                    "percent_survival": 14.5
+                },
+                {
+                    "dose_g": 750,
+                    "plate_1_colonies": 226,
+                    "plate_2_colonies": 89,
+                    "plate_3_colonies": 5,
+                    "average_colonies": 135.0,
+                    "percent_survival": 19.8
+                },
+                {
+                    "dose_g": 500,
+                    "plate_1_colonies": 248,
+                    "plate_2_colonies": 99,
+                    "plate_3_colonies": 197,
+                    "average_colonies": 178.0,
+                    "percent_survival": 24.1
+                },
+                {
+                    "dose_g": 250,
+                    "plate_1_colonies": 235,
+                    "plate_2_colonies": 105,
+                    "plate_3_colonies": 228,
+                    "average_colonies": 189.3,
+                    "percent_survival": 27.7
+                },
+                {
+                    "dose_g": 100,
+                    "plate_1_colonies": 300,
+                    "plate_2_colonies": 323,
+                    "plate_3_colonies": 299,
+                    "average_colonies": 307.3,
+                    "percent_survival": 45.0
+                }
+            ]
+        },
+        "solution_c": {
+            "concentration": "0.1 mg/ml",
+            "volume": "0.1 ml",
+            "doses": [
+                {
+                    "dose_g": 10,
+                    "plate_1_colonies": 969,
+                    "plate_2_colonies": 340,
+                    "plate_3_colonies": 501,
+                    "average_colonies": 480.3,
+                    "percent_survival": 70.3
+                },
+                {
+                    "dose_g": 1,
+                    "plate_1_colonies": 509,
+                    "plate_2_colonies": 646,
+                    "plate_3_colonies": 437,
+                    "average_colonies": 644.0,
+                    "percent_survival": 94.3
+                }
+            ]
+        },
+        "solvent_control": {
+            "volume": "0.05 ml",
+            "dose_g": 0,
+            "plate_1_colonies": 411,
+            "plate_2_colonies": 778,
+            "plate_3_colonies": 601,
+            "average_colonies": 683.0
+        }
+    },
+    "comments": "81300342 mmq mq QmmeliePolmayl,198s",
+    "counter": "STUDY DIRECTOR"
+}
