@@ -1,0 +1,103 @@
+{
+    "smoke_constituents": {
+        "do_not_increase_with_increasing_puff_volume": [
+            {
+                "name": "Benzaldehyde, 4-Hydroxy-3-Methoxy",
+                "decrease": 0.1,
+                "commercial": "WINSTON",
+                "malbore": 0.16
+            },
+            {
+                "name": "Benzaldehyde, 4-methoxy",
+                "decrease": 3.1,
+                "commercial": 1.36
+            },
+            {
+                "name": "Propionitrile, 3-Phenyl",
+                "decrease": 0.16,
+                "commercial": 0.05
+            },
+            {
+                "name": "7-Buten-1-one, 1-(4-Hydroxy-2,6-Trimethylcyclohexenyl)-",
+                "decrease": 0.8,
+                "commercial": 0.04
+            },
+            {
+                "name": "Cyclohexenone, 2-Butenylidene-3,5,5-Trimethyl",
+                "decrease": 0.55,
+                "commercial": 0.21
+            },
+            {
+                "name": "Benzyl alcohol, 2-methyl",
+                "decrease": 0.69,
+                "commercial": 0.22
+            },
+            {
+                "name": "Pyrazine, 2-methyl-6-vinyl",
+                "decrease": 0.05,
+                "commercial": 0.14
+            },
+            {
+                "name": "Pyrazine, 2-methyl-5-vinyl",
+                "decrease": 0.8,
+                "commercial": 0.06
+            },
+            {
+                "name": "Pyrazine, vinyl",
+                "decrease": 0.13,
+                "commercial": 0.19
+            },
+            {
+                "name": "Pyrazine, 2-acetyl-5-methyl",
+                "decrease": 0.21,
+                "commercial": 0.19
+            },
+            {
+                "name": "Winston only",
+                "decrease": 0.04,
+                "commercial": 0.04
+            }
+        ],
+        "additional_constituents": [
+            {
+                "name": "Glycolic Acid",
+                "winston_only": 5.11
+            },
+            {
+                "name": "Propionic Acid, 3-Hydroxy-, Acetate",
+                "winston_only": 0.99,
+                "np": 2.13
+            },
+            {
+                "name": "Succinimide",
+                "winston_only": 0.19,
+                "np": 0.84
+            },
+            {
+                "name": "Succinimide, 2-methyl",
+                "winston_only": 1.38,
+                "np": 0.43
+            },
+            {
+                "name": "Q-Pentenal, 2-Methyl",
+                "winston_only": 0.08,
+                "np": 0.88
+            },
+            {
+                "name": "Propionitrile, 2-Hydroxy",
+                "winston_only": 1.26,
+                "np": 0.3
+            },
+            {
+                "name": "Pyran-4-methyl, 3,5-Dihydroxy-2-methyl-(4H)",
+                "winston_only": 3.58,
+                "np": 3.44
+            },
+            {
+                "name": "3-Hexanol",
+                "winston_only": 0.3,
+                "np": 0.88
+            }
+        ]
+    }
+}
