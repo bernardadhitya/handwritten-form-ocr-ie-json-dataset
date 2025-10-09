@@ -1,0 +1,41 @@
+{
+    "form": {
+        "title": "PARK 500 QUALITY ACCEPTANCE FORM",
+        "product": "ALLIED CLARIFLOC C-331 POLYMER",
+        "objective": "Confidential",
+        "procedure": [
+            "Have the driver collect 600 ml or more of sample from the top of the tank truck and from the bottom of the tank truck.",
+            "Check the two samples for odor, color, trash, temperature.",
+            "Rejected as soon as possible.",
+            "Discard the sample.",
+            "File Acceptance Form in Lab drawer file.",
+            "Attach to this form, any certificate of analysis that may be supplied by the vendor."
+        ],
+        "specifications": {
+            "analytical_results": {
+                "top": {
+                    "odor": "Slight amine-like",
+                    "color": "EK",
+                    "trash": "None",
+                    "viscosity": "3425",
+                    "temperature": "34.5"
+                },
+                "bottom": {
+                    "odor": "Slight amine-like",
+                    "color": "6K",
+                    "trash": "None",
+                    "viscosity": "3050",
+                    "temperature": "34.5"
+                }
+            },
+            "comments": "Viscosity-as is @ 25c 35-60 x10 cps",
+            "color": "colorless, viscous liquid"
+        },
+        "acceptance": {
+            "circle_one": "Accepted by",
+            "waste_treatment": "t6-78-6",
+            "lab_technician": "Date",
+            "date": "2030141090"
+        }
+    }
+}

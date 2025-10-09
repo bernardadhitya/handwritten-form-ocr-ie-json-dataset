@@ -1,0 +1,276 @@
+{
+    "analytical_request_sheet": {
+        "submitter": "Ken Swite",
+        "location": "",
+        "phone": "",
+        "sample_description_identification": "Q4125QQDQTQDA29T",
+        "aerosol_type": 1,
+        "tobacco_type": 2,
+        "components": {
+            "chemical": {
+                "wtpm": {
+                    "method": "M#",
+                    "units": "mg/cig"
+                },
+                "nicotine": [
+                    {
+                        "method": "M$",
+                        "units": "%"
+                    },
+                    {
+                        "method": "2",
+                        "units": "mo/cig"
+                    }
+                ],
+                "total_nitrogen": {
+                    "method": "3",
+                    "units": "%"
+                },
+                "glycerin": [
+                    {
+                        "method": "V",
+                        "units": "%"
+                    },
+                    {
+                        "method": "15",
+                        "units": "mg/puff"
+                    }
+                ],
+                "nitrate": {
+                    "method": "5",
+                    "units": "%"
+                },
+                "propylene_glycol": [
+                    {
+                        "method": "5",
+                        "units": "g/cig"
+                    },
+                    {
+                        "method": "16",
+                        "units": "mg/puff"
+                    }
+                ],
+                "reducing_sugar": {
+                    "method": "4",
+                    "units": "%"
+                },
+                "water": [
+                    {
+                        "method": "6",
+                        "units": "mg/cig"
+                    },
+                    {
+                        "method": "17",
+                        "units": "mg/puff"
+                    }
+                ],
+                "total_sugar": {
+                    "method": "5",
+                    "units": "%"
+                },
+                "menthol": [
+                    {
+                        "method": "7",
+                        "units": "mg/cig"
+                    },
+                    {
+                        "method": "18",
+                        "units": "mg/puff"
+                    }
+                ],
+                "ammonia": {
+                    "method": "6",
+                    "units": "%"
+                },
+                "acetic_acid": {
+                    "method": "8",
+                    "units": "ug/cig"
+                },
+                "ph": {
+                    "method": "7",
+                    "units": ""
+                },
+                "form_acetaldehyde": {
+                    "method": "9",
+                    "units": "ug/cig"
+                },
+                "moisture_oven": {
+                    "method": "8",
+                    "units": "%"
+                },
+                "acetone_acrolein": {
+                    "method": "10",
+                    "units": "ug/cig"
+                },
+                "chloride": {
+                    "method": "9",
+                    "units": ""
+                },
+                "propional_crotonal": {
+                    "method": "11",
+                    "units": "ug/cig"
+                },
+                "ash": {
+                    "method": "10",
+                    "units": "%"
+                },
+                "macroln_isovaleral": {
+                    "method": "12",
+                    "units": "ug/cig"
+                },
+                "malic_oxalic_citric": {
+                    "method": "11",
+                    "units": ""
+                },
+                "wtpm_mg_puff": {
+                    "method": "13",
+                    "units": "mg/puff"
+                },
+                "nicotine_mg_puff": {
+                    "method": "14",
+                    "units": "mg/puff"
+                },
+                "teg": [
+                    {
+                        "method": "19",
+                        "units": "mg/cig"
+                    },
+                    {
+                        "method": "20",
+                        "units": "mg/puff"
+                    }
+                ],
+                "co": {
+                    "method": "21",
+                    "units": "mg/cig"
+                },
+                "co2": {
+                    "method": "22",
+                    "units": "mg/cig"
+                }
+            },
+            "physical": {
+                "moisture_oven": {
+                    "method": "1",
+                    "units": "%"
+                },
+                "real_density": {
+                    "method": "2",
+                    "units": "M/cm3"
+                },
+                "ash": {
+                    "method": "2",
+                    "units": "%"
+                },
+                "bulk_density": {
+                    "method": "3",
+                    "units": "Qm/cm3"
+                },
+                "ph": {
+                    "method": "4",
+                    "units": ""
+                },
+                "free_flow_density": {
+                    "method": "4",
+                    "units": "m/cm3"
+                },
+                "nicotine": {
+                    "method": "4",
+                    "units": "mg/unit"
+                },
+                "tap_density": {
+                    "method": "5",
+                    "units": "gm/cm3"
+                },
+                "water": {
+                    "method": "5",
+                    "units": "mo/unit"
+                },
+                "surface_area_disc_file": {
+                    "method": "6",
+                    "units": "M2/om"
+                },
+                "glycerin": {
+                    "method": "6",
+                    "units": "mg/unit"
+                },
+                "n2_porosity_disc_file": {
+                    "method": "6",
+                    "units": ""
+                },
+                "propylene_glycol": {
+                    "method": "7",
+                    "units": "mg/unit"
+                },
+                "tot_intrusion_vol_hg": {
+                    "method": "8",
+                    "units": "cm3/gm"
+                },
+                "chn": {
+                    "method": "8",
+                    "units": "%"
+                },
+                "total_pore_area_hg": {
+                    "method": "9",
+                    "units": "M2/gm"
+                },
+                "oxygen": {
+                    "method": "9",
+                    "units": "%"
+                },
+                "med_pore_die_vol": {
+                    "method": "9",
+                    "units": ""
+                },
+                "menthol": {
+                    "method": "10",
+                    "units": "mg/unit"
+                },
+                "med_pore_dia_area": {
+                    "method": "10",
+                    "units": ""
+                },
+                "teg": {
+                    "method": "11",
+                    "units": "mQ/unit"
+                },
+                "av_pore_dia_4u_a": {
+                    "method": "11",
+                    "units": "uM"
+                },
+                "nicotine_percent": {
+                    "method": "12",
+                    "units": "%"
+                },
+                "particle_size": {
+                    "method": "12",
+                    "units": ""
+                },
+                "water_5c588": {
+                    "method": "13",
+                    "units": ""
+                },
+                "pulp_fiber_size_screen": {
+                    "method": "13",
+                    "units": ""
+                },
+                "glycerin_percent": {
+                    "method": "14",
+                    "units": "%"
+                },
+                "propylene_glycol_percent": {
+                    "method": "15",
+                    "units": "%"
+                },
+                "teg_percent": {
+                    "method": "16",
+                    "units": "%"
+                },
+                "menthol_percent": {
+                    "method": "17",
+                    "units": "%"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "form": "FORM20",
+    "title": "QUALITY CONTROL REPORT",
+    "copies_to": [
+        "Mr. Wm. D. Hobbs",
+        "Mr. E. H. Irwood",
+        "Mr. B. K. Millaway Jr.",
+        "Dr. S. O. Jones",
+        "Mr. R. Cniff",
+        "Quality Control File 3"
+    ],
+    "date": "August 20, 1968",
+    "test_no": "1639 Supplement",
+    "from": "Factory No. 1-5, Mch. No. 10 on July 12, 1968",
+    "submitted_by": "",
+    "purpose": "To evaluate SALEM cigarettes made with a reduction in cigarette length from 85.0-mm. to 84.0-mm. on a placement 'D.T.F.' Marketing Research test.",
+    "results": {
+        "test_numbers": [
+            "1639 A_Control",
+            "1639B",
+            "1639C"
+        ],
+        "tobacco_nicotine_percent": 1.78,
+        "total_sugars_percent": 12.54,
+        "menthol_in_tobacco_percent": [
+            0.282,
+            0.278,
+            0.28
+        ],
+        "burning_rate": {
+            "milligrams_of_tobacco_per_minute": [
+                53.6,
+                51.3,
+                54.2
+            ],
+            "moisture_percent": [
+                12.19,
+                12.14,
+                12.23
+            ]
+        },
+        "smoke_analysis": {
+            "nicotine_mg_per_cig": [
+                1.48,
+                1.47,
+                1.48
+            ],
+            "tpm_mg_per_cig": {
+                "wet_basis": [
+                    28.2,
+                    27.6,
+                    26.9
+                ],
+                "corrected_basis": [
+                    22.6,
+                    22.9,
+                    22.2
+                ]
+            },
+            "puffs_per_cig": [
+                10.61,
+                10.42,
+                10.61
+            ],
+            "aldehydes_ug_per_cig": {
+                "acrolein": [
+                    112.0,
+                    98.9,
+                    121.2
+                ],
+                "acetone": [
+                    456,
+                    421,
+                    516
+                ],
+                "acetaldehyde": [
+                    868,
+                    768,
+                    927
+                ]
+            },
+            "menthol_in_smoke_mg_per_cig": [
+                0.4647,
+                0.4746,
+                0.4744
+            ]
+        }
+    },
+    "note": "Values in parentheses refer to mg./puff or ug./puff.",
+    "mq": "BMM",
+    "author": "W. W. Barnhardt",
+    "division": "Quality Control Division",
+    "department": "Research Department"
+}

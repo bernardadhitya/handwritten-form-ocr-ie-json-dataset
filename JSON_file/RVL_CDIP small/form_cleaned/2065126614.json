@@ -1,0 +1,58 @@
+{
+    "header": {
+        "date": "JUN-21-99",
+        "fax_number": "2029425999",
+        "priority": "RUSH",
+        "job_number": "T-495",
+        "page_number": "P.01/03",
+        "job_code": "Job-627"
+    },
+    "transmission_sheet": {
+        "company": "ARNOLD & PORTER",
+        "building": "Thurman Arnold Building",
+        "address": "555 Twelfth Street, N.W., Washington, D.C. 20004-1202",
+        "telephone_number": "(202)942-5000",
+        "telex_number": "89273 ARFOP0 WSH",
+        "facsimile_number": "(202)942-5999",
+        "date": "6/21/99"
+    },
+    "recipients": [
+        {
+            "name": "Mark Berlind",
+            "fax_numbers": [
+                "917-663-5707",
+                "917-663-3045"
+            ]
+        },
+        {
+            "name": "Robert S. Reese, Jr.",
+            "fax_numbers": [
+                "202-638-5115",
+                "202-637-1526"
+            ]
+        }
+    ],
+    "sender": {
+        "name": "Jeff Richman",
+        "telephone_number": "202-942-5098",
+        "room_number": "289"
+    },
+    "details": {
+        "timekeeper_number": "4378",
+        "client_matter_number": "11416.60",
+        "number_of_pages": 3,
+        "transmission_deadline": null,
+        "alternate_telephone_number": null
+    },
+    "confidentiality_notice": "Information intended only for the use of the addressee named above. If the reader of this message is not the intended recipient or the employee or agent responsible for delivering the message to the intended recipient, please note that any dissemination, distribution or copying of this communication is strictly prohibited. Anyone who receives this communication in error should notify us immediately by telephone and return the original message to us at the above address via the U.S. Mail.",
+    "message": {
+        "number": "2065126614",
+        "content": "Attached is a draft paper as we discussed. Mark: Bob needs legal clearance on this a.s.a.p., since it is for use at a hearing on Wednesday",
+        "cc": [
+            "R. Jones",
+            "S. Fois",
+            "CEV 232",
+            "R. Moore 6661"
+        ]
+    }
+}

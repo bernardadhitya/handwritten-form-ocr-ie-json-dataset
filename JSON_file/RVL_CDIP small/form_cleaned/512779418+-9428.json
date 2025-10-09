@@ -1,0 +1,45 @@
+{
+    "procedure_note": {
+        "note_number": "90-97",
+        "date": "11/27/90",
+        "temporary": true,
+        "effective_date": "12/19/90",
+        "termination_date": "Permanent",
+        "type": [
+            "Product",
+            "Process",
+            "Packaging",
+            "Flavor",
+            "Tobacco",
+            "Material",
+            "Other",
+            "Specification Change"
+        ],
+        "subject": "WINsT0N Lt. 85 2000249-Low Dilution/Low Holes Closed Draft",
+        "brief_summary": "Filter dilution and Holes Closed Draft have averaged below target for the past five months. FTC tar has remained on target. Based on the attached data, Product Standards recommends the following specification target adjustments.",
+        "adjustments": {
+            "filter_dilution": {
+                "from": "23%",
+                "to": "20%"
+            },
+            "holes_closed_draft": {
+                "from": "147mm",
+                "to": "139mm"
+            }
+        },
+        "recommended_for_authorization": [
+            "E.mo McCoum",
+            "pXS D.L.Pot",
+            "Anbw A.Smmons",
+            "DnSa G"
+        ],
+        "product_standards_concurrence": "Gues",
+        "distribution": {
+            "product_standards_file": "Ann Niten",
+            "codes": [
+                "51277",
+                "9428"
+            ]
+        }
+    }
+}

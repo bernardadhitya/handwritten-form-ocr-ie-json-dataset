@@ -1,0 +1,67 @@
+{
+    "certificate": {
+        "title": "AGOHD.-CERTIFICATE OF INSURANCE",
+        "producer": {
+            "name": "Johnson & Higgins",
+            "address": "125 Broad Street, New York, New York 10004-2424"
+        },
+        "companies_affording_coverage": {
+            "A": "Hartford Fire Ins. Co.",
+            "B": "Hartford Accident & Indemnity",
+            "C": "NY Underwriters Ins. Co.",
+            "D": "Twin City Fire Ins. Co."
+        },
+        "insured": {
+            "name": "Philip Morris Companies Inc. and its Subsidiary Companies including Kraft General Foods, Inc. Oscar Mayer Foods Corp. Miller Brewing Co. Entenmann's, Inc.",
+            "address": "120 Park Avenue, New York, NY 10017"
+        },
+        "policies": [
+            {
+                "type": "General Liability",
+                "policy_number": "10JSEC35104E",
+                "effective_date": "5/1/91",
+                "expiration_date": "5/1/92",
+                "limits": {
+                    "general_aggregate": 1000000,
+                    "products_comp_op_agg": 1000000,
+                    "personal_adv_injury": 1000000,
+                    "each_occurrence": 1000000,
+                    "fire_damage": 1000000,
+                    "med_expense": 5000
+                }
+            },
+            {
+                "type": "Automobile Liability",
+                "policy_number": "10CSEC35100E",
+                "effective_date": "5/1/91",
+                "expiration_date": "5/1/92",
+                "limits": {
+                    "combined_single_limit": 1000000
+                },
+                "coverage": [
+                    "any_auto",
+                    "all_owned_autos",
+                    "scheduled_autos",
+                    "hired_autos",
+                    "non_owned_autos"
+                ]
+            },
+            {
+                "type": "Workers Compensation",
+                "policy_number": "10WBRP28118E",
+                "effective_date": "5/1/91",
+                "expiration_date": "5/1/92",
+                "limits": {
+                    "statutory_limits": true,
+                    "each_accident": 1000000,
+                    "disease_each_employee": 1000000
+                }
+            }
+        ],
+        "certificate_holder": {
+            "name": "Byrne Dairy Inc.",
+            "address": "240 Oneida Street, Syracuse, NY 13202"
+        },
+        "cancellation": "Should any of the above described policies be cancelled before the expiration date thereof, the issuing company will endeavor to mail, but failure to mail such notice shall impose no obligation or liability of any kind upon the company, its agents or representatives."
+    }
+}

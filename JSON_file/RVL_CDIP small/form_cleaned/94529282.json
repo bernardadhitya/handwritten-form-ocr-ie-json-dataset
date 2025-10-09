@@ -1,0 +1,52 @@
+{
+    "merchandisingPlans": {
+        "to": "L.H.KERSH/T.L.ACHEY",
+        "date": "3/22/95",
+        "from": "i.e.BA",
+        "regionNumber": "01",
+        "subject": "MERCHANDISING PLANS - COMPETITIVE ACTIVITY",
+        "competitiveActivity": {
+            "nameOfCompetition": "Brown & Williamson",
+            "nameOfChain": "Purity Supermarkets",
+            "location": "No.BillericaMA",
+            "numberOfStores": 51,
+            "numberOfStoresOnPlan": 33,
+            "typeOfPlan": 1,
+            "industryVolume": 446,
+            "lorillardVolume": 62
+        },
+        "merchandisingPayment": {
+            "before": {
+                "PM": 0,
+                "RJR": "190.00Avg",
+                "BW": 65.0,
+                "Lorillard": "140.00Avg.",
+                "LM": 30.0,
+                "total": 425.0
+            },
+            "proposed": {
+                "PM": 0,
+                "RJR": "190.00Avg",
+                "BW": 120.0,
+                "Lorillard": "140.00Avg.",
+                "LM": 30.0,
+                "total": 480.0
+            },
+            "after": {
+                "PM": 0,
+                "RJR": "190.00Avg.",
+                "BW": 75.0,
+                "Lorillard": 140.0,
+                "LM": 30.0,
+                "total": 435.0
+            }
+        },
+        "comments": {
+            "lorillardPlan": "Avg.30 Full Price Rows and 8 Price Value Rows.",
+            "bWProposal": "Gold Level minimum rows must equal market share. Primary shelf must be in the second marketing position. B&w lane dividers are required",
+            "date": "3/30/95",
+            "shelfPositions": "Lorillard maintained 3rd shelf; B&w 4th."
+        },
+        "cc": "L.Weber"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "sender": "opis",
+    "services_requested": [
+        "ms 1 and/or 2 for additional services",
+        "items 3, 4a, and 4b for an extra fee"
+    ],
+    "services": [
+        "Addressee's Address",
+        "Restricted Delivery"
+    ],
+    "return_receipt": {
+        "description": "The Return Receipt will show to whom the article was delivered and the date",
+        "instructions": "Write 'Return Receipt Requested' on the mailpiece below the article number",
+        "consult_postmaster": "Consult postmaster for fee"
+    },
+    "receipt": {
+        "article_number": "2070708959",
+        "service_type": "Registered Certified"
+    },
+    "return_address": {
+        "name": "Dave Matheny, VP/Regional",
+        "address": "2434 Hamilton Avenue, Cleveland OH 44114"
+    },
+    "delivery": {
+        "date_of_delivery": "7.Date of Delivery",
+        "received_by": "5.Received By (Print Name)",
+        "addressee_address": "8.Addressee's Address Only if requested and fee is paid"
+    },
+    "form_info": {
+        "form_number": "PS Form 3811 December 1994",
+        "code": "102595-5e-8-0229",
+        "type": "Domestic Return Receipt"
+    }
+}

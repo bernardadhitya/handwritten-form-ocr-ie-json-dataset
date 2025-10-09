@@ -1,0 +1,45 @@
+{
+    "permit": "WELDING AND CUTTING",
+    "area_supervisor": "NO",
+    "permit_number": 8808,
+    "safety_measures": {
+        "clean_area": "Floors and overhead swept clean of combustibles.",
+        "combustible_movement": "Combustibles and vulnerable equipment moved to a distance of at least 50 feet or protected by fire resistant covers.",
+        "asbestos_covers": "Covers containing asbestos not permitted.",
+        "flammable_liquids": "Containers of flammable liquids removed.",
+        "openings_covered": "Floor and wall openings covered or plugged by fire resistant covers.",
+        "supply_lines": "Supply lines purged of all combustibles and flammable liquids and/or gases.",
+        "ducts": "When working on ducts all fans shut down and dampers closed.",
+        "fire_watch": "Fire watch provided for at least 1/2 hour after welding is completed including patrol of floor above and below.",
+        "fire_watch_equipment": "Fire watch supplied with extinguishing equipment.",
+        "dust_collectors": "All dust collectors shut down and dampers closed."
+    },
+    "maintenance_supervisor": {
+        "note": "Maintenance Supervisor assumes responsibility.",
+        "signed": "MAINTENANCE SUPERVISOR/PROJECT COORDINATOR"
+    },
+    "sprinkler_system": "Sprinkler system is fully operational.",
+    "confined_spaces": {
+        "gas_tests": "In confined spaces combustible gas and oxygen deficiency tests conducted.",
+        "ventilation": "Forced ventilation device used if natural ventilation is not sufficient."
+    },
+    "welder_equipment": {
+        "ppe": "Welder and helper provided with necessary personal protective equipment.",
+        "welding_curtains": "Suitable welding curtains in place to contain hot sparks and flash."
+    },
+    "security": "Security notified before welding/cutting work starts in isolated areas and during weekends and holidays.",
+    "operator": {
+        "signed": "OPERATOR",
+        "equipment_condition": "Welding and cutting equipment in good repair.",
+        "ppe_usage": "Personal protective equipment used, i.e., welding hood, fire resistant apparel, gloves, and respiratory protection as required.",
+        "permit_posting": "Welding permit conspicuously posted during and after welding."
+    },
+    "additional_info": {
+        "initial": "DISPLAY THIS TAG WHEN WELDING",
+        "complete_tag": "Complete opposite side of tag.",
+        "detach": "Detach",
+        "vo": 8808,
+        "deliver_to": "Security if needed for fire watch.",
+        "contact": "2037023669"
+    }
+}

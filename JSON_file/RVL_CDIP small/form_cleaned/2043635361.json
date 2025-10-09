@@ -1,0 +1,58 @@
+{
+    "form_number": "3436NY",
+    "company": "Philip Morris",
+    "comp_code": "D3735/A28",
+    "request_type": "In-house requisition/shipment request",
+    "instructions": {
+        "general_shipments": "Use reverse side",
+        "specific_shipments": "Use separate request for each shipment"
+    },
+    "territory_number": null,
+    "ship_to": {
+        "pos_address": null,
+        "special_address": "-00-00",
+        "address_line": "Gnry d bdavargl",
+        "address_line_2": "8249 Ndan Poae"
+    },
+    "pos_ops": {
+        "ship_via": null,
+        "attention": "Anne Schaeffer",
+        "preferred_delivery_date": "yid0$/4/83 0l foW"
+    },
+    "items": [
+        {
+            "pos_number": "I13t IUswcs BlankSeand dheeti",
+            "description": "NOE2NTME ABOE OROPED.NOTREVE",
+            "factor": 7500,
+            "quantity_requested": 3,
+            "shipping_units": null
+        },
+        {
+            "pos_number": "1N /s83 order,Iwas eernwhAocl!!",
+            "description": "1?777 G/NNy yx6 NoT=PRes",
+            "factor": 25,
+            "quantity_requested": 75,
+            "shipping_units": 3
+        },
+        {
+            "pos_number": "18779 |GNNy2%xo/z\"",
+            "description": null,
+            "factor": 20,
+            "quantity_requested": 3,
+            "shipping_units": null
+        }
+    ],
+    "additional_items": "For Additional/tems-Atfix a.Second Reguisiti",
+    "special_instructions": "Le H-CiNNo Pllae",
+    "requested_by": "2043635361",
+    "received_by": "3AANP",
+    "department": null,
+    "dates": {
+        "request_date": "1//7/83",
+        "forward_to_dc_date": null
+    },
+    "distribution": {
+        "original": "Supervisor Inventory Control",
+        "duplicate": "Manager P.O.S. Operations"
+    }
+}
