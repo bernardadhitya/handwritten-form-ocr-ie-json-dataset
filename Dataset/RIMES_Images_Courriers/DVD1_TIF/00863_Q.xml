@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="18/12/2007" author="Jouve">
+  <source width="2471" height="3504">00863_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Réclamation</scenario>
+  <writer>MILAN Jean-noel</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="178" top_left_y="488" bottom_right_x="686" bottom_right_y="618">
+       <type>Code d'envoi</type>
+       <text>AMMRVJ</text>
+  </box>
+  <box top_left_x="388" top_left_y="638" bottom_right_x="1126" bottom_right_y="736">
+       <type>Nom</type>
+       <text>MILAN</text>
+  </box>
+  <box top_left_x="1302" top_left_y="640" bottom_right_x="2008" bottom_right_y="736">
+       <type>Prénom</type>
+       <text>Jean-Noël</text>
+  </box>
+  <box top_left_x="464" top_left_y="731" bottom_right_x="2014" bottom_right_y="822">
+       <type>Adresse</type>
+       <text>14 RUE DES PECHEURS</text>
+  </box>
+  <box top_left_x="533" top_left_y="823" bottom_right_x="915" bottom_right_y="921">
+       <type>Code Postal</type>
+       <text>68600</text>
+  </box>
+  <box top_left_x="1027" top_left_y="820" bottom_right_x="2015" bottom_right_y="922">
+       <type>Ville</type>
+       <text>BIESHEIM</text>
+  </box>
+  <box top_left_x="356" top_left_y="925" bottom_right_x="1153" bottom_right_y="1062">
+       <type>Téléphone</type>
+       <text>0348323846</text>
+  </box>
+  <box top_left_x="483" top_left_y="1171" bottom_right_x="2011" bottom_right_y="1281">
+       <type>Catégorie Scénario</type>
+       <text>Réclamation</text>
+  </box>
+  <box top_left_x="286" top_left_y="1272" bottom_right_x="2012" bottom_right_y="1442">
+       <type>Objet Scénario</type>
+       <text>Vous vous plaignez de ¤{Nuissances/Nuisances}¤ sonores\n</text>
+  </box>
+  <box top_left_x="278" top_left_y="1435" bottom_right_x="2012" bottom_right_y="1613">
+       <type>Complément Scénario</type>
+       <text>Le chien de vos voisins est trop bruyant\n</text>
+  </box>
+  <box top_left_x="848" top_left_y="1626" bottom_right_x="1429" bottom_right_y="1766">
+       <type>Référence client</type>
+       <text></text>
+  </box>
+  <box top_left_x="551" top_left_y="1760" bottom_right_x="2017" bottom_right_y="1855">
+       <type>Interlocuteur</type>
+       <text>Mairie</text>
+  </box>
+  <box top_left_x="470" top_left_y="1843" bottom_right_x="2016" bottom_right_y="1944">
+       <type>Adresse Interlocuteur</type>
+       <text>2 ROUTE NATIONALE</text>
+  </box>
+  <box top_left_x="541" top_left_y="1933" bottom_right_x="931" bottom_right_y="2044">
+       <type>Code Postal Interlocuteur</type>
+       <text>41500</text>
+  </box>
+  <box top_left_x="1054" top_left_y="1936" bottom_right_x="2015" bottom_right_y="2031">
+       <type>Ville Interlocuteur</type>
+       <text>SUEURES</text>
+  </box>
+  <box top_left_x="978" top_left_y="2244" bottom_right_x="1173" bottom_right_y="2346">
+       <type>Temps passé</type>
+       <text>5</text>
+  </box>
+  <box top_left_x="828" top_left_y="2186" bottom_right_x="878" bottom_right_y="2246">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="997" top_left_y="2185" bottom_right_x="1041" bottom_right_y="2232">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1169" top_left_y="2188" bottom_right_x="1264" bottom_right_y="2232">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="287" top_left_y="2599" bottom_right_x="362" bottom_right_y="2670">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1471" top_left_y="2574" bottom_right_x="2019" bottom_right_y="2678">
+       <type>Date d'envoi postal</type>
+       <text>10/11/2006</text>
+  </box>
+  <box top_left_x="294" top_left_y="2701" bottom_right_x="335" bottom_right_y="2745">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="289" top_left_y="2783" bottom_right_x="362" bottom_right_y="2833">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1601" top_left_y="2733" bottom_right_x="2012" bottom_right_y="2841">
+       <type>Date d'envoi par fax</type>
+       <text>10/11/2006</text>
+  </box>
+  <box top_left_x="289" top_left_y="2871" bottom_right_x="362" bottom_right_y="2919">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1469" top_left_y="2842" bottom_right_x="2014" bottom_right_y="2937">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1597" top_left_y="3022" bottom_right_x="1839" bottom_right_y="3110">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="543" top_left_y="3059" bottom_right_x="587" bottom_right_y="3091">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="727" top_left_y="3044" bottom_right_x="797" bottom_right_y="3087">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="892" top_left_y="3045" bottom_right_x="935" bottom_right_y="3090">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="993" top_left_y="2930" bottom_right_x="2014" bottom_right_y="3025">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>

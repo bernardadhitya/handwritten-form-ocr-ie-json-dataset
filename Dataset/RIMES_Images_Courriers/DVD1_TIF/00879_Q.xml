@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="18/12/2007" author="Jouve">
+  <source width="2464" height="3498">00879_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Relance de courrier sans réponse</scenario>
+  <writer>BELLEC Christiane</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="170" top_left_y="379" bottom_right_x="727" bottom_right_y="520">
+       <type>Code d'envoi</type>
+       <text>PBMGCE</text>
+  </box>
+  <box top_left_x="401" top_left_y="541" bottom_right_x="1208" bottom_right_y="647">
+       <type>Nom</type>
+       <text>BELLEC</text>
+  </box>
+  <box top_left_x="1401" top_left_y="541" bottom_right_x="2172" bottom_right_y="645">
+       <type>Prénom</type>
+       <text>Christiane</text>
+  </box>
+  <box top_left_x="484" top_left_y="643" bottom_right_x="2178" bottom_right_y="741">
+       <type>Adresse</type>
+       <text>16 rue Principale</text>
+  </box>
+  <box top_left_x="561" top_left_y="744" bottom_right_x="979" bottom_right_y="852">
+       <type>Code Postal</type>
+       <text>57670</text>
+  </box>
+  <box top_left_x="1100" top_left_y="740" bottom_right_x="2180" bottom_right_y="852">
+       <type>Ville</type>
+       <text>Vittersbourg</text>
+  </box>
+  <box top_left_x="370" top_left_y="856" bottom_right_x="1240" bottom_right_y="1004">
+       <type>Téléphone</type>
+       <text>0369834043</text>
+  </box>
+  <box top_left_x="509" top_left_y="1125" bottom_right_x="2180" bottom_right_y="1241">
+       <type>Catégorie Scénario</type>
+       <text>Relance de Courrier sans réponse</text>
+  </box>
+  <box top_left_x="294" top_left_y="1236" bottom_right_x="2180" bottom_right_y="1420">
+       <type>Objet Scénario</type>
+       <text>Votre ¤{reclamation/réclamation}¤ du mois dernier est restée sans\nsuite</text>
+  </box>
+  <box top_left_x="287" top_left_y="1414" bottom_right_x="2181" bottom_right_y="1606">
+       <type>Complément Scénario</type>
+       <text>\n</text>
+  </box>
+  <box top_left_x="910" top_left_y="1622" bottom_right_x="1545" bottom_right_y="1773">
+       <type>Référence client</type>
+       <text>BNHXP87</text>
+  </box>
+  <box top_left_x="587" top_left_y="1769" bottom_right_x="2189" bottom_right_y="1869">
+       <type>Interlocuteur</type>
+       <text>GDF</text>
+  </box>
+  <box top_left_x="499" top_left_y="1860" bottom_right_x="2188" bottom_right_y="1968">
+       <type>Adresse Interlocuteur</type>
+       <text>3 R MAL De Lattre de Tassigny</text>
+  </box>
+  <box top_left_x="577" top_left_y="1958" bottom_right_x="1005" bottom_right_y="2078">
+       <type>Code Postal Interlocuteur</type>
+       <text>85190</text>
+  </box>
+  <box top_left_x="1138" top_left_y="1960" bottom_right_x="2188" bottom_right_y="2061">
+       <type>Ville Interlocuteur</type>
+       <text>Venansault</text>
+  </box>
+  <box top_left_x="1056" top_left_y="2297" bottom_right_x="1271" bottom_right_y="2407">
+       <type>Temps passé</type>
+       <text>10</text>
+  </box>
+  <box top_left_x="910" top_left_y="2241" bottom_right_x="980" bottom_right_y="2285">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1077" top_left_y="2232" bottom_right_x="1125" bottom_right_y="2284">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1292" top_left_y="2232" bottom_right_x="1344" bottom_right_y="2284">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="320" top_left_y="2702" bottom_right_x="353" bottom_right_y="2751">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1597" top_left_y="2654" bottom_right_x="2195" bottom_right_y="2767">
+       <type>Date d'envoi postal</type>
+       <text>14/11/06</text>
+  </box>
+  <box top_left_x="314" top_left_y="2795" bottom_right_x="356" bottom_right_y="2844">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="308" top_left_y="2891" bottom_right_x="359" bottom_right_y="2937">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1739" top_left_y="2828" bottom_right_x="2188" bottom_right_y="2946">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="315" top_left_y="2993" bottom_right_x="348" bottom_right_y="3034">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1596" top_left_y="2949" bottom_right_x="2191" bottom_right_y="3051">
+       <type>Date d'envoi par courriel</type>
+       <text>14/11/06</text>
+  </box>
+  <box top_left_x="1737" top_left_y="3145" bottom_right_x="2002" bottom_right_y="3240">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="581" top_left_y="3173" bottom_right_x="631" bottom_right_y="3223">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="788" top_left_y="3174" bottom_right_x="863" bottom_right_y="3224">
+       <type>Format GIF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="967" top_left_y="3172" bottom_right_x="1016" bottom_right_y="3223">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1077" top_left_y="3047" bottom_right_x="2193" bottom_right_y="3146">
+       <type>Marque et modèle scanner</type>
+       <text>Canon Canoscan Lide 35</text>
+  </box>
+</annotation>
