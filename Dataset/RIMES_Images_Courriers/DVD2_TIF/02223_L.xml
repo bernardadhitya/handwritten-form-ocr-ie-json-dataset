@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve ">
+  <source width="2475" height="3500">02223_L.png</source>
+  <document>Lettre manuscrite</document>
+  <scenario>Relance de courrier sans réponse</scenario>
+  <writer>GINESTE Gerard</writer>
+  <sender_person>Gerard Gineste</sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company>ANPE</receiver_company>
+  <subject>Objet : Coordonnées modifiées</subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="34" top_left_y="7" bottom_right_x="925" bottom_right_y="373">
+  <type>Coordonnées Expéditeur</type>
+  <text>¤{Gerard/Gérard}¤ Gineste\n1 impasse des Peupliers\n90800 BANVILLARS</text>
+  </box>
+  <box top_left_x="1625" top_left_y="7" bottom_right_x="2462" bottom_right_y="376">
+  <type>Coordonnées Destinataire</type>
+  <text>ANPE\nRue du Puit des 7 fontaines\n71700 Tournus</text>
+  </box>
+  <box top_left_x="38" top_left_y="639" bottom_right_x="1039" bottom_right_y="925">
+  <type>Objet</type>
+  <text>Objet : Coordonnées modifiées</text>
+  </box>
+  <box top_left_x="940" top_left_y="1202" bottom_right_x="1358" bottom_right_y="1370">
+  <type>Ouverture</type>
+  <text>Monsieur,</text>
+  </box>
+  <box top_left_x="72" top_left_y="1381" bottom_right_x="2466" bottom_right_y="2695">
+  <type>Corps de texte</type>
+  <text>Suite à mon changement de situation, je vous ai fait\nparvenir par courrier postal mes ¤{dernieres/dernières}¤ coordonnées.\nManifestement ce courrier envoyé il y a trois semaines n'a\npas été pris en compte.\nAussi je vous serez ¤{grés/gré}¤ de bien vouloir faire les modifications\n¤{des/dès}¤ la réception de cette dernière demande.\nEn attendant la régularisation de ma situation, veuillez\nrecevoir Monsieur, mes sincères salutations.</text>
+  </box>
+  <box top_left_x="913" top_left_y="2874" bottom_right_x="1347" bottom_right_y="3315">
+  <type>Signature</type>
+  <text></text>
+  </box>
+</annotation>
