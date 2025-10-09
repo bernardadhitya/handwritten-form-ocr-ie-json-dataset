@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2474" height="3504">03448_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Fermeture de compte</scenario>
+  <writer>MOUSSAOUI Didier</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="206" top_left_y="252" bottom_right_x="764" bottom_right_y="393">
+       <type>Code d'envoi</type>
+       <text>TSFIPM</text>
+  </box>
+  <box top_left_x="437" top_left_y="415" bottom_right_x="1246" bottom_right_y="521">
+       <type>Nom</type>
+       <text>MOUSSAOUI</text>
+  </box>
+  <box top_left_x="1440" top_left_y="416" bottom_right_x="2213" bottom_right_y="520">
+       <type>Prénom</type>
+       <text>Didier</text>
+  </box>
+  <box top_left_x="521" top_left_y="518" bottom_right_x="2219" bottom_right_y="613">
+       <type>Adresse</type>
+       <text>12 rue de Dettwiller</text>
+  </box>
+  <box top_left_x="597" top_left_y="618" bottom_right_x="1015" bottom_right_y="724">
+       <type>Code Postal</type>
+       <text>67490</text>
+  </box>
+  <box top_left_x="1138" top_left_y="613" bottom_right_x="2220" bottom_right_y="721">
+       <type>Ville</type>
+       <text>WALDOLWISHEIM</text>
+  </box>
+  <box top_left_x="405" top_left_y="730" bottom_right_x="1277" bottom_right_y="878">
+       <type>Téléphone</type>
+       <text>0323945218</text>
+  </box>
+  <box top_left_x="544" top_left_y="999" bottom_right_x="2218" bottom_right_y="1115">
+       <type>Catégorie Scénario</type>
+       <text>Fermeture de compte</text>
+  </box>
+  <box top_left_x="328" top_left_y="1110" bottom_right_x="2218" bottom_right_y="1293">
+       <type>Objet Scénario</type>
+       <text>Fermeture de compte bancaire\n</text>
+  </box>
+  <box top_left_x="321" top_left_y="1288" bottom_right_x="2218" bottom_right_y="1478">
+       <type>Complément Scénario</type>
+       <text>aucun\n</text>
+  </box>
+  <box top_left_x="945" top_left_y="1495" bottom_right_x="1581" bottom_right_y="1646">
+       <type>Référence client</type>
+       <text>MFQTW17</text>
+  </box>
+  <box top_left_x="620" top_left_y="1643" bottom_right_x="2227" bottom_right_y="1740">
+       <type>Interlocuteur</type>
+       <text>BMP - Banque Mutuelle de Paris</text>
+  </box>
+  <box top_left_x="532" top_left_y="1733" bottom_right_x="2227" bottom_right_y="1838">
+       <type>Adresse Interlocuteur</type>
+       <text>rue Coquerelle</text>
+  </box>
+  <box top_left_x="609" top_left_y="1832" bottom_right_x="1038" bottom_right_y="1952">
+       <type>Code Postal Interlocuteur</type>
+       <text>80220</text>
+  </box>
+  <box top_left_x="1172" top_left_y="1833" bottom_right_x="2227" bottom_right_y="1934">
+       <type>Ville Interlocuteur</type>
+       <text>GAMACHES</text>
+  </box>
+  <box top_left_x="1089" top_left_y="2171" bottom_right_x="1304" bottom_right_y="2281">
+       <type>Temps passé</type>
+       <text>20</text>
+  </box>
+  <box top_left_x="909" top_left_y="2110" bottom_right_x="1012" bottom_right_y="2159">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1110" top_left_y="2106" bottom_right_x="1158" bottom_right_y="2158">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1326" top_left_y="2106" bottom_right_x="1377" bottom_right_y="2158">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="340" top_left_y="2576" bottom_right_x="416" bottom_right_y="2624">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1630" top_left_y="2529" bottom_right_x="2229" bottom_right_y="2641">
+       <type>Date d'envoi postal</type>
+       <text>10/03/07</text>
+  </box>
+  <box top_left_x="340" top_left_y="2669" bottom_right_x="415" bottom_right_y="2719">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="340" top_left_y="2766" bottom_right_x="417" bottom_right_y="2814">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1772" top_left_y="2702" bottom_right_x="2222" bottom_right_y="2820">
+       <type>Date d'envoi par fax</type>
+       <text>09/03/07</text>
+  </box>
+  <box top_left_x="333" top_left_y="2856" bottom_right_x="417" bottom_right_y="2912">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1628" top_left_y="2823" bottom_right_x="2224" bottom_right_y="2926">
+       <type>Date d'envoi par courriel</type>
+       <text>09/03/07</text>
+  </box>
+  <box top_left_x="1769" top_left_y="3020" bottom_right_x="2034" bottom_right_y="3114">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="610" top_left_y="3046" bottom_right_x="660" bottom_right_y="3096">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="815" top_left_y="3046" bottom_right_x="867" bottom_right_y="3096">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="997" top_left_y="3047" bottom_right_x="1071" bottom_right_y="3092">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1108" top_left_y="2921" bottom_right_x="2225" bottom_right_y="3021">
+       <type>Marque et modèle scanner</type>
+       <text>Canon MP 360</text>
+  </box>
+</annotation>
