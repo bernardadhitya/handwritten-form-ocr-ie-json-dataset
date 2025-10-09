@@ -1,0 +1,40 @@
+{
+    "GP_Code_No": "#5",
+    "Material": {
+        "ChemicalName": "methyl isothiocyanate",
+        "AKA": "Isothiocyanatomethane",
+        "CAS_NO": "556-61-"
+    },
+    "Usage": "Agricultural insecticide",
+    "Pyrolysis_products": "Tox Summary",
+    "Toxicity": {
+        "Acute": {
+            "Oral": "72 mg/kg",
+            "Inhalation": "190 mg/m3/1h"
+        },
+        "Chronic": {
+            "Oral": "WOmANDLO/CLO",
+            "Inhalation": "9 mg"
+        },
+        "Mutagen": "Yes",
+        "Carcinogen": "Yes"
+    },
+    "Databases": [
+        "HSDB",
+        "CHRIS",
+        "IRIS",
+        "RTECS",
+        "TOXLINE",
+        "PATTY'S",
+        "OTHER"
+    ],
+    "Found_in": "NOTES",
+    "Notes": {
+        "Fd": "iN",
+        "Gen": "2024588133",
+        "ACC": "Not Rejected",
+        "fo_Ski": "ACC",
+        "for_membrane": "stated",
+        "mJCoS": "use"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "variables_testing": {
+        "date": "2/15/00",
+        "time": "1:53PM",
+        "file": "Nowar.xt",
+        "step_1": {
+            "test_set_up": {
+                "date": "2/15/00",
+                "control": "Data",
+                "goal": "Y",
+                "test_type": "2 Sided",
+                "compare": "Mean & Std Dev"
+            }
+        },
+        "step_2": {
+            "input": {
+                "control_data": {
+                    "confidence_level": "95%",
+                    "n": 39,
+                    "mean": 2.689,
+                    "std_dev": 0.187
+                },
+                "test_data": {
+                    "confidence_level": "95%",
+                    "n": 4,
+                    "mean": 2.498,
+                    "std_dev": 0.19
+                }
+            }
+        },
+        "test_results": {
+            "confidence_level": "95%",
+            "test_type": "2 sided",
+            "means": "FFERENCE",
+            "std_dev": "in Std Dev"
+        },
+        "step_3": {
+            "notes_and_comments": "Analysis Represents Uncorrected Firmness for Next (CG2570) Control=97/12/07 through 99/08/29 Test = After 9/1/99 DlET 2 Introduction"
+        },
+        "means_test_output": {
+            "proof_of_var_significance": 0.025,
+            "z_calculated": 1.92,
+            "confidence_interval": "95%",
+            "control": {
+                "mean": 2.689,
+                "min": 2.63,
+                "max": 2.748,
+                "df": 41,
+                "z_table": 96
+            },
+            "test": {
+                "mean": 2.498,
+                "min": 2.283,
+                "max": 2.713,
+                "df": 2071561756
+            }
+        },
+        "standard_deviation_test_output": {
+            "significance": 0.025,
+            "f_calculated": 0.97,
+            "confidence_interval": "95%",
+            "control": {
+                "std_dev": 0.187,
+                "min": 0.153,
+                "max": 0.241,
+                "df": 38,
+                "f_table": 8.6
+            },
+            "test": {
+                "std_dev": 0.19,
+                "min": 0.108,
+                "max": 0.708,
+                "test_df": 3,
+                "1/f_table": 0.35
+            }
+        },
+        "qsetoolkit": "$50927"
+    }
+}

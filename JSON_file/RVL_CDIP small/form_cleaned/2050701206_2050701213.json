@@ -1,0 +1,66 @@
+{
+    "report": {
+        "title": "LINE I REPORT (RL)-COOKED FLAVOR",
+        "date": "April 7, 1989",
+        "tasks": [
+            {
+                "task": "Complete Line I Accountability Logbook",
+                "shifts": {
+                    "11-7": true,
+                    "7-3": true,
+                    "3-11": true
+                }
+            },
+            {
+                "task": "Maintain Housekeeping for GC / HPLC",
+                "status": "YES",
+                "restockStation": true,
+                "supplies": true
+            },
+            {
+                "task": "Clean Line I F.S. Grinder",
+                "status": "YES",
+                "additional": "Creo",
+                "confirmation": true
+            },
+            {
+                "task": "Calculate Ov Std. Dev. on Rejects",
+                "value": 3,
+                "status": "YES",
+                "additional": "S",
+                "confirmation": 4
+            },
+            {
+                "task": "ie samples pending",
+                "status": "YES"
+            },
+            {
+                "task": "Column Used",
+                "value": "08070",
+                "additional": "lsoca",
+                "new": "ON/C",
+                "confirmation": "YES/NO"
+            }
+        ],
+        "technicians": [
+            {
+                "shift": "1pm-7am",
+                "name": "D.Soc'ggs",
+                "team": "A"
+            },
+            {
+                "shift": "7am-3pm",
+                "name": "emAn",
+                "team": "C"
+            },
+            {
+                "shift": "3pm-11am",
+                "team": "B"
+            }
+        ],
+        "comments": [
+            "Line down@c800-o94D due to work being done on the sheet can Roll and when the electric blade holder changed GC. columns Set all samples to use New 5880 As of 11:00 AM.",
+            "Solubles and additions down considerably. MoyGaret updates it to 2050701206."
+        ]
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "date": "08/01/91",
+    "time": "08:15",
+    "author": "RJR QA",
+    "procedure_note": {
+        "number": "001",
+        "date": "7/31/91",
+        "effective_date": "7/31/91",
+        "termination_date": null,
+        "temporary": false,
+        "permanent": true,
+        "r#s": "1C",
+        "product": "cess",
+        "packaging": null,
+        "flavor_type": null,
+        "material": null,
+        "other_specifications": "robacc",
+        "subject": "Lt.100 a STERLING 100 Kentho1 rina1 Specifications",
+        "brief_summary": "The product change from E216 to E301 (non-menthol) and E302 for menthol products has caused an increase in Holes Open and Holes Closed Draft.",
+        "recommendation": "The following changes are recommended for immediate action on targets for Holes Open/Holes Closed Draft."
+    },
+    "production": {
+        "current": {
+            "phase_III": {
+                "STERLING_Lt_100": {
+                    "HO": {
+                        "spec": 0.91,
+                        "data": 103,
+                        "proposed_spec": 105
+                    },
+                    "HC": {
+                        "spec": 140,
+                        "data": 148,
+                        "proposed_spec": 150
+                    },
+                    "code": 2000546
+                },
+                "STERLING_100_Menthol": {
+                    "HO": {
+                        "spec": 134,
+                        "data": 144,
+                        "proposed_spec": 148
+                    },
+                    "HC": {
+                        "spec": 134,
+                        "data": 144,
+                        "proposed_spec": 148
+                    },
+                    "code": 2000545
+                }
+            }
+        }
+    },
+    "authorization": {
+        "product_standards_authorization": {
+            "authorize": true,
+            "authorized_by": [
+                {
+                    "name": "L.J.Inman"
+                },
+                {
+                    "name": "F.MLockamy"
+                },
+                {
+                    "name": "C.E.tinsley"
+                },
+                {
+                    "name": "R.L.ward",
+                    "code": 51080
+                },
+                {
+                    "name": "6.C.Penne",
+                    "code": 6613
+                }
+            ]
+        }
+    },
+    "distribution": {
+        "product_standards_file": "Ann Niten"
+    }
+}

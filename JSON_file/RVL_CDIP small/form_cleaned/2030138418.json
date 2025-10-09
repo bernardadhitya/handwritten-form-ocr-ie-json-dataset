@@ -1,0 +1,83 @@
+{
+    "date": "01/26/89",
+    "case": "Philip Morris v. ABC",
+    "facility": "PARKSOO",
+    "location": "c.wknLa",
+    "home": "Irode Home LPS Elecliode Ctntcct clourus",
+    "other": "Other Conmon ane",
+    "manufacturer_distributor_name": "Hol LLov COaon",
+    "address": "67ugh HowellRad",
+    "city": "Tuckes",
+    "state": "CA",
+    "zip": "3008",
+    "storage_area": {
+        "ground_circle_code": null,
+        "building_circle_code": {
+            "above_ground": "8",
+            "below_ground": null,
+            "inside_building": "O",
+            "outside_building": null
+        }
+    },
+    "containers_storage_type": {
+        "above_ground_tank": "B",
+        "below_ground_tank": null,
+        "carboy": "H",
+        "silo": "M",
+        "glass_bottles_or_jugs": "C",
+        "tank_inside_building": "1",
+        "fiber_drum": "N",
+        "plastic_bottles_or_jugs": "D",
+        "steel_drum": "r",
+        "bag_blanket_cells_strips": null,
+        "tote_bin": "E",
+        "plastic_or_non_metallic_drum": "P",
+        "tank_wagon": null,
+        "can": "K",
+        "box": null,
+        "cylinder": null,
+        "rail_car": "L",
+        "other": "R"
+    },
+    "storage_conditions": {
+        "pressure": {
+            "ambient_pressure": "2",
+            "greater_than_ambient_pressure": null,
+            "less_than_ambient_pressure": "5"
+        },
+        "temperature": {
+            "ambient_temperature": "3",
+            "greater_than_ambient_temperature": "6",
+            "less_than_ambient_temperature": "7",
+            "cryogenic_conditions": null
+        }
+    },
+    "maximum_containers_stored": null,
+    "container_capacity_pounds": "0",
+    "maximum_amount_stored_pounds": null,
+    "average_daily_amount_stored_pounds": null,
+    "annual_usage_pounds": "05",
+    "days_on_site": "365",
+    "use_confidential": "N",
+    "usage_code": {
+        "building_material": "01",
+        "fuel_gasoline_oil": "U06",
+        "contractor_material": "U02",
+        "maintenance_material": "U11",
+        "rd_chemicals_only": "U03",
+        "hazardous_waste": null,
+        "office_material": "U12",
+        "equipment_process_material": "U04",
+        "isotope_radioactive": "U08",
+        "janitorial_cleaning_material": "U13",
+        "pest_control": null,
+        "flavor_product_material": "U05",
+        "laboratory_chemical": "U10",
+        "treatment_water": "U14",
+        "groundskeeping_materials": "U15",
+        "ara_material": "U16"
+    },
+    "comments": "2030138418",
+    "submitted_by": "CATEL",
+    "phone": "751-/55"
+}

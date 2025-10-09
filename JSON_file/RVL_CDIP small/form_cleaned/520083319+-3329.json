@@ -1,0 +1,138 @@
+{
+    "from": "John D Fonton",
+    "phone": "2073788962",
+    "code": "C8-03-980858H",
+    "to": "15084358591",
+    "page": "15P.3/3",
+    "divisionManager": "Premium Retail Promotions",
+    "couponTypes": {
+        "OCC": "On Carton Field Affixed Coupon",
+        "ICC": "Integrated Coupon Part of Carton",
+        "OPC": "Off Pack Coupon/VPR"
+    },
+    "date": "J11.1998",
+    "phiaSoris": "Yes",
+    "bat": "No",
+    "brands": [
+        {
+            "name": "Kool",
+            "coupons": [
+                "30c off pack",
+                "50c off pack"
+            ]
+        },
+        {
+            "name": "Marlboro",
+            "coupons": [
+                "25c off pack",
+                "$2.50 off carton",
+                "30 off pack",
+                "$3 off carton",
+                "Free T-shirt w/3 pks"
+            ]
+        },
+        {
+            "name": "Carlton",
+            "coupons": [
+                "BIG1F",
+                "20g off pack",
+                "30OCC",
+                "40OCC"
+            ]
+        },
+        {
+            "name": "Merit",
+            "coupons": [
+                "B2G1F"
+            ]
+        },
+        {
+            "name": "GPC",
+            "coupons": [
+                "20 off pack",
+                "30 off pack",
+                "35 off pack",
+                "40 off pack"
+            ]
+        },
+        {
+            "name": "Parliament L.ts.",
+            "coupons": [
+                "B21"
+            ]
+        },
+        {
+            "name": "Virginia Slims",
+            "coupons": [
+                "B2G1F"
+            ]
+        },
+        {
+            "name": "Basic",
+            "coupons": [
+                "$3 off carton",
+                "30 off pack",
+                "2.50 off carton",
+                "2 off pack",
+                "R2G1F",
+                "B2G2F"
+            ]
+        },
+        {
+            "name": "Misty",
+            "coupons": [
+                "B1G1F",
+                "15 off pack",
+                "20 off pack",
+                "30 off pack"
+            ]
+        },
+        {
+            "name": "Liggett",
+            "coupons": [
+                "B2F"
+            ]
+        },
+        {
+            "name": "Newport",
+            "coupons": [
+                "B1G1F",
+                "30 off pack",
+                "50 off pack"
+            ]
+        },
+        {
+            "name": "Maverick",
+            "coupons": [
+                "20 off pack",
+                "30 off pack",
+                "40 off pack",
+                "B1G1F"
+            ]
+        },
+        {
+            "name": "Old Gold",
+            "coupons": [
+                "30 off pack",
+                "35 off pack",
+                "40 off pack"
+            ]
+        }
+    ],
+    "specialRequest": {
+        "report": "Please report the most prevalent not the highest coupon buydown amounts for the following brands. Also indicate if the amounts shown are higher than the previous month and if yes, how much they have gone up.",
+        "isAmountHigher": {
+            "Carton": "Yes",
+            "GPC": "3",
+            "Basic": "2.y",
+            "Montclair": "30d"
+        },
+        "byHowMuch": {
+            "52008": "",
+            "Rasie": "",
+            "Montelair": "10",
+            "400": "",
+            "3319": ""
+        }
+    }
+}

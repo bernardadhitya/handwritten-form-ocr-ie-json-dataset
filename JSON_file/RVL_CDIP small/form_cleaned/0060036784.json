@@ -1,0 +1,40 @@
+{
+    "company": "The American Tobacco Company",
+    "project": {
+        "name": "Approved Marketing Project",
+        "expenseRecommendation": {
+            "project": "S.O.IS.C Project Recovery",
+            "number": "S0041",
+            "approvals": "$829M transferred to S0101 Project Recovery",
+            "approvalDetails": "See attachment for approvals"
+        }
+    },
+    "approvals": [
+        "UBsotryp83",
+        "Forecasting/Planning",
+        "V.P.-Brand Operations",
+        "Sr.V.P./Chief Acting Officer",
+        "V.P.-Sales",
+        "Brand Operations",
+        "Sr.V.P. Brand Marketing/Sales",
+        "Sales Operations",
+        "President & CEO"
+    ],
+    "brands": [
+        "Malibu",
+        "Riviera"
+    ],
+    "budget": {
+        "current": 5497600.0,
+        "adjustment": 829000.0,
+        "revised": 4668600.0
+    },
+    "other": {
+        "description": "Charge Code",
+        "amount": {
+            "MALISPLFRP": 529.0,
+            "RUIOD": 30000000,
+            "EPO": 829000.0
+        }
+    }
+}

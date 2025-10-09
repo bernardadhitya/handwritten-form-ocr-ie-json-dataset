@@ -1,0 +1,63 @@
+{
+    "institute": "INBIFO Institut fur biologische ForschungKoln",
+    "form": "FORM5.KW 85",
+    "code": "RWA/PE",
+    "project": "RZ50DIVA7",
+    "title": "ROUGH TIME/COST AND DURATION ESTIMATE",
+    "estimate_number": 13134,
+    "steps": [
+        {
+            "name": "definition",
+            "duration": "1 week",
+            "manhours": 50
+        },
+        {
+            "name": "opening",
+            "duration": "3 weeks",
+            "manhours": 200
+        },
+        {
+            "name": "planning establishment of assays",
+            "duration": "2 weeks",
+            "manhours": 50
+        },
+        {
+            "name": "protocol",
+            "duration": "4 weeks",
+            "manhours": 120
+        },
+        {
+            "name": "experiments",
+            "duration": "12 to 16 weeks",
+            "manhours": 1200
+        },
+        {
+            "name": "evaluation",
+            "duration": "8 weeks",
+            "manhours": 500
+        },
+        {
+            "name": "reporting",
+            "duration": "8 weeks",
+            "manhours": 200
+        },
+        {
+            "name": "storage and review",
+            "duration": "1 week",
+            "manhours": 160
+        }
+    ],
+    "total_duration": "39 to 43 weeks",
+    "total_manhours": 2480,
+    "number_of_samples": null,
+    "number_of_organs": null,
+    "number_of_sections_per_organ": null,
+    "remarks": "(d) depends on yield of extracts (yet to be evaluated in study -15128) (b) Without traveling time to TNO",
+    "reference_number": 2029230181,
+    "dates": {
+        "start": "03.Nov.1987",
+        "end": "30.Jan.1985"
+    },
+    "date_sign": "51. KW 83",
+    "color_code": "GELB"
+}

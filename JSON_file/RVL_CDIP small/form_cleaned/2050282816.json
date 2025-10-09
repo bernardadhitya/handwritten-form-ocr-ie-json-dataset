@@ -1,0 +1,48 @@
+{
+    "run_no": "88-069",
+    "high_pressure_cycle_no": 75,
+    "date": "88",
+    "purpose": "FLAVOR RUN",
+    "filler_type": "N CuT CAMA",
+    "dry_weight": "26 lbs",
+    "stem_type": "FSS",
+    "citrate_loading": "17 DWB",
+    "ov": "35%",
+    "dry_wi": "291 lbs",
+    "dry_weight_filler_stem_ratio": "9:10",
+    "ab_solution_preparation": "AB/TOB RATIO DWB 35",
+    "ab_solution_conc": "%",
+    "process_targets": {
+        "co2_initial_fill": "/0200 lbs FRM",
+        "co2_mass_flow": "954 lbs/min",
+        "co2_velocity": {
+            "filler": "1.5 ft/min /DOWN",
+            "stems": "60 ft/min /DOWN"
+        },
+        "flow_patterns": {
+            "heatup_cycle_1": 17,
+            "heatup_cycle_2": 2,
+            "extraction": 20,
+            "total_co2_recirculation": "520 lbs CO2",
+            "hot_recovery": 20,
+            "co2_recirculation_rate": "3 lbs/min"
+        }
+    },
+    "scf_samples": {
+        "extractor": "ADSORBER 2",
+        "total_lbs_co2_recirculated": "BMB 1",
+        "as_otherwise_noted": "BMB2",
+        "bmb_3": "VESSEL LOADING as-is lbs EXTR",
+        "ads_2": "DRYING REQUIREMENTS as-is lbs"
+    },
+    "insert": "NOT USED",
+    "filler": "ALL",
+    "top_basket": 0,
+    "stems": "NONE",
+    "bottom_basket": "ALL",
+    "total": "360 AVAILABLE",
+    "all": 538,
+    "special_instructions": "RUN 8DD ND7 EXTRACT G% THEN EXTACT AT 14 OF",
+    "note": "ME WT WEUH 2050282816",
+    "target_drying": "0Y = 10.5%"
+}

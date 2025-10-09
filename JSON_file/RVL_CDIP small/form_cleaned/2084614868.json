@@ -1,0 +1,45 @@
+{
+    "document": {
+        "id": 100,
+        "title": "AYENU MED PARK",
+        "phone": "1880",
+        "name": "Steve Piakor",
+        "details": {
+            "hectos": 2,
+            "eapying": "robl lann cone",
+            "per_sack": "Rogers"
+        },
+        "transmission_report": {
+            "id": 2084614868,
+            "confirmation_status": "NOT CONFIRMED",
+            "sample": "REDUCED SAMPLE ABOVE - S DETAILS BELOW",
+            "count": {
+                "total_pages_scanned": 2,
+                "total_pages_confirmed": 0
+            },
+            "sed": {
+                "remote_station": "918103853322",
+                "start_time": "11-25-88",
+                "duration": "420F",
+                "pages": 0,
+                "mode": "O/",
+                "results": "TERMINAL FAULT"
+            },
+            "total": "0000",
+            "note": {
+                "operation_number": 48,
+                "bps_selected": "4800BPS",
+                "error_correct": "EC",
+                "communication": "G2",
+                "polled_by_remote": "PD",
+                "store_and_forward": "SF",
+                "relay_initiate": "R1",
+                "relay_station": "RS",
+                "send_to_mailbox": "MB",
+                "polling_remote": "I'G",
+                "multi_polling": "MPa",
+                "receive_to_memory": "RM"
+            }
+        }
+    }
+}

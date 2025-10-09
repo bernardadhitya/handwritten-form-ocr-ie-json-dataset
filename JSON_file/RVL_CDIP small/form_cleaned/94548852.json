@@ -1,0 +1,109 @@
+{
+    "date": "08/21/95",
+    "time": "10:24",
+    "fax": "FAX1 908 5838977",
+    "company": "LORILLARD TOB CO",
+    "location": "MANHATTAN",
+    "page": "001/001",
+    "exhibit": "EXHIBIT8",
+    "monthly_contract_payment_summary": {
+        "carton_outlet_plans": {
+            "self_service_carton_shelf_plan": {
+                "volume": {
+                    "category_A": {
+                        "range": "225-290",
+                        "payment_per_row": "$5.50",
+                        "rows_paid_for": "65"
+                    },
+                    "category_B": {
+                        "range": "235-299",
+                        "payment_per_row": "$10",
+                        "rows_paid_for": "100"
+                    },
+                    "category_C": {
+                        "range": "300-499",
+                        "payment_per_row": "$2.10",
+                        "rows_paid_for": "100"
+                    },
+                    "category_D": {
+                        "range": "500+",
+                        "payment_per_row": "$3.50",
+                        "rows_paid_for": "120"
+                    }
+                }
+            },
+            "non_self_serve_carton_shelf_plan": {
+                "volume": {
+                    "category_A": {
+                        "range": "225-299",
+                        "payment_per_row": "$5.50",
+                        "rows_paid_for": "40"
+                    },
+                    "category_B": {
+                        "range": "500+",
+                        "payment_per_row": "$1.00",
+                        "rows_paid_for": "100"
+                    }
+                }
+            },
+            "universal_package_merchandising_display_plan": {
+                "capacity": {
+                    "1_merchandiser": {
+                        "active": "$35",
+                        "most_active": "$100"
+                    },
+                    "2_merchandisers": {
+                        "active": "$100",
+                        "most_active": "$50"
+                    }
+                }
+            }
+        },
+        "cigarette_outlet_merchandising_contract": {
+            "weekly_cigarette_volume": "+009",
+            "monthly_payment_per_store": "$325"
+        },
+        "pack_outlet_plans": {
+            "savings_center_display_plan": {
+                "volume": {
+                    "category_A": {
+                        "range": "100-149",
+                        "monthly_payment": "$15",
+                        "rows": "10"
+                    },
+                    "category_B": {
+                        "range": "66-105",
+                        "monthly_payment": "$25"
+                    }
+                }
+            },
+            "pack_outlet_merchandising_program": {
+                "base_contract": {
+                    "volume_monthly_payment": {
+                        "industry_weekly": {
+                            "range": "76-99",
+                            "payment": "$100"
+                        }
+                    }
+                },
+                "component_contract": {
+                    "volume_monthly_payment": {
+                        "industry_weekly": {
+                            "range": "100-149",
+                            "payment": "$25"
+                        },
+                        "range_150_199": {
+                            "payment": "$35"
+                        },
+                        "range_200_249": {
+                            "payment": "$45"
+                        },
+                        "range_250+": {
+                            "payment": "$55"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

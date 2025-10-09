@@ -1,0 +1,85 @@
+{
+    "certificateOfInsurance": {
+        "issueDate": "MM/DD/YY",
+        "producer": {
+            "name": "Johnson & Higgins",
+            "address": "125 Broad Street, New York, New York 10004"
+        },
+        "companiesAffordingCoverage": [
+            {
+                "letter": "A",
+                "name": "Hartford Fire Ins. Co."
+            },
+            {
+                "letter": "B",
+                "name": "Hartford Accident & Indemnity"
+            },
+            {
+                "letter": "C",
+                "name": "Twin City Fire Ins. Co."
+            },
+            {
+                "letter": "D",
+                "name": "Hartford Underwriters Ins. Co."
+            }
+        ],
+        "insured": {
+            "name": "Brisk Transportation, Inc.",
+            "address": "413 South Locust, Manteno, IL 60950"
+        },
+        "coverages": [
+            {
+                "type": "General Liability",
+                "policyNumber": "10JSEC35120E",
+                "policyEffectiveDate": "5/1/92",
+                "policyExpirationDate": "5/1/93",
+                "limits": {
+                    "generalAggregate": "$1,000,000",
+                    "productsCompOpAgg": "$1,000,000",
+                    "personalAdvInjury": "$1,000,000",
+                    "eachOccurrence": "$1,000,000",
+                    "fireDamage": "$1,000,000",
+                    "medExpense": "$10,000"
+                }
+            },
+            {
+                "type": "Automobile Liability",
+                "policyNumber": "10CSEC35119E",
+                "policyEffectiveDate": "5/1/92",
+                "policyExpirationDate": "5/1/93",
+                "limits": {
+                    "combinedSingleLimit": "$1,000,000"
+                }
+            },
+            {
+                "type": "Workers Compensation",
+                "policyNumber": "10WBRP28119E",
+                "policyEffectiveDate": "5/1/92",
+                "policyExpirationDate": "5/1/93",
+                "limits": {
+                    "statutoryLimits": true,
+                    "eachAccident": "$500,000",
+                    "diseasePolicyLimit": "$500,000",
+                    "diseaseEachEmployee": "$500,000"
+                }
+            },
+            {
+                "type": "Motor Truck Cargo",
+                "policyNumber": "10MSC35118E",
+                "policyEffectiveDate": "5/1/92",
+                "policyExpirationDate": "5/1/93",
+                "limits": {
+                    "anyOneVehicle": "$1,000,000",
+                    "anyOneTerminal": "$1,000,000",
+                    "totalLimitsAnyOneCasualtyOrDisaster": "$1,000,000"
+                }
+            }
+        ],
+        "descriptionOfOperations": "2063196296",
+        "certificateHolder": {
+            "name": "VIP Express",
+            "address": "4175 Senator, Memphis, TN 38118"
+        },
+        "authorizedRepresentative": "ACORD Corporation 1990"
+    }
+}
