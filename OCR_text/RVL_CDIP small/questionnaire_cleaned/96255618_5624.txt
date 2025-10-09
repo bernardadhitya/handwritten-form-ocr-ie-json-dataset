@@ -1,0 +1,71 @@
+AUG-
+2-90
+T HU
+SE SURVEYS ING
+#7001
+New York,NY
+AUGUST,1990
+CIGARETTE PRODUCT TEST
+ysa
+CALLBACK QUESTIONNATRE
+COMPETITIVE SMOKERS
+Tets
+Caeelsee
+ritl segal
+NAME:
+TEL.Area Code
+ASK TO SPEAK TO PERSON LISTED ON QUESTIONNAIRE.
+IF NOT AVAILABLERECORD TIMS AND DATE
+WHEN HE/SHE WILL BE IN. NQ.ONE ELSE QUALIPIES1
+Hell0.
+I'm
+from SE Surveys.
+I'm calling you about the True
+cigarettes we asked you to smoke,
+JA.
+First, did you receive both packages of cigarettes we asked you to try?
+a
+[CONTINUE
+ON
+b
+TERMINATE AND RETURN
+ia.
+Jid you try both types of cigarettes we sent you?
+yos
+GOTOQ1D
+No
+b
+ASKQ.1C]
+y didn't you try both types of cigarottes?
+TERMINATE AND RETURN
+10
+cigarettes?
+Got note sheet
+1
+Did not get note sheet
+2
+1E.
+Did you smoke the first 4 packs of cigarettes you received before smoking the
+four packs of cigarettes?
+Xes
+1
+GOTOQ.2A}
+'No
++{ASKQ.1F}
+Don't remember
+[TERMINATE ANDRETURN]
+1F.
+Let e Just make sure I have it right. The cigarectes you smoked first were not the
+ones you received first.
+That is you actually smoked the other cigarettes first.
+Is that correct?
+yes
+QUESTIONNAIREJ
++hytua
+REPEAT Q.IE.IF ANSWER TO
+TERM
+QUESTION IE IS STILL NO,
+TERMINATE AND RETURN)
+96259
+5
+8
