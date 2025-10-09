@@ -1,0 +1,55 @@
+{
+    "offer": "RESTRICTED TO SMOKERS 21 YEARS OF AGE OR OLDER",
+    "codes": {
+        "code1": "0925230",
+        "code2": "042108122"
+    },
+    "recipient": {
+        "name": "CHERYL MAYLE",
+        "address": {
+            "street": "919 BELLE AVE",
+            "zip": "51772",
+            "city": "SAINT CHARLES",
+            "state": "MI",
+            "postal_code": "48655-1617"
+        }
+    },
+    "questions": {
+        "usual_brand": "What Is your USUAL BRAND of CIGARETTES?",
+        "usual_brand_check": "Is your USUAL BRAND? Check one",
+        "brand_options": [
+            "thon-entho",
+            "7750"
+        ],
+        "purchase_frequency": "Out of the LAST TEN times you bought cigarettes, how many times did you buy your USUAL BRAND? Please enter a number between 0 and 10 in the boxes provided.",
+        "second_choice_brand": "If you don't have a second choice brand, write none above.",
+        "purchase_method": "How do you purchase cigarettes? Check one.",
+        "coupon_usage": "How often do you use coupons to buy brands OTHER THAN your Usual Brand? Check one.",
+        "coupon_options": [
+            "Frequently",
+            "Occasionally",
+            "Set"
+        ],
+        "collecting_proof": "Are you collecting packs proof of purchase UP for redeeming money for any cigarettes brand?",
+        "collecting_proof_options": [
+            "Yes",
+            "No"
+        ],
+        "merchandise": "Do you get merchandise?",
+        "free_cigarettes": "Do you get free cigarettes?",
+        "free_cigarettes_options": [
+            "No"
+        ]
+    },
+    "personal_info": {
+        "date_of_birth": "required",
+        "today_date": "required",
+        "age": "21 years",
+        "month": "required",
+        "signature": "required",
+        "signature_options": [
+            "(le)",
+            "(guest)"
+        ]
+    }
+}

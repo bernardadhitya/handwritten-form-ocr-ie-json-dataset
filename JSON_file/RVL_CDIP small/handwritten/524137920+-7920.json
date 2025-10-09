@@ -1,0 +1,60 @@
+{
+    "title": "CCR Product Optimization: BAK/N6 Temp",
+    "study": "#1",
+    "question": {
+        "canSidestreamBeReducedByChangingBaking": true,
+        "canBakingTemperatureBeLowered": true
+    },
+    "test": {
+        "co/co2": "50/30",
+        "visualSidestream": "SS"
+    },
+    "variables": {
+        "R-13": {
+            "madeBy": "J. Slater",
+            "code": "JS-19S",
+            "bakedAt": [
+                "800\u00b0C",
+                "950\u00b0C",
+                "1050\u00b0C"
+            ]
+        }
+    },
+    "procedure": {
+        "fuel": "wc with C'357-126",
+        "solidPercentage": "5%",
+        "N2": "2 mg",
+        "w/c": "on fve15",
+        "premierModel": "50/30"
+    },
+    "results": [
+        {
+            "temp": 800,
+            "ss": "Yes",
+            "co": 9.0,
+            "co2": 86
+        },
+        {
+            "temp": 950,
+            "ss": "Yes",
+            "co": 3.7,
+            "co2": 95
+        },
+        {
+            "temp": 1050,
+            "ss": "sa/",
+            "co": 4.1,
+            "co2": 88
+        }
+    ],
+    "observations": {
+        "noVisualReductionInSidestreamObserved": true,
+        "withFuelsBaked": [
+            "800\u00b0C",
+            "1050\u00b0C"
+        ],
+        "lowCoNotAchievedWhenFuelAt": "800\u00b0C"
+    },
+    "author": "Ioshlu",
+    "date": "1/31/89"
+}
