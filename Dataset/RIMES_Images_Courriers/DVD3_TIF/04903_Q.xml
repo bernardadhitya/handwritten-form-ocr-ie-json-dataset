@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2475" height="3505">04903_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Changement de données personnelles</scenario>
+  <writer>ROGUET Daniel</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="174" top_left_y="296" bottom_right_x="732" bottom_right_y="440">
+       <type>Code d'envoi</type>
+       <text>KVNSPG</text>
+  </box>
+  <box top_left_x="405" top_left_y="460" bottom_right_x="1214" bottom_right_y="570">
+       <type>Nom</type>
+       <text>ROGUET</text>
+  </box>
+  <box top_left_x="1408" top_left_y="465" bottom_right_x="2181" bottom_right_y="571">
+       <type>Prénom</type>
+       <text>Daniel</text>
+  </box>
+  <box top_left_x="489" top_left_y="563" bottom_right_x="2186" bottom_right_y="664">
+       <type>Adresse</type>
+       <text>9 rue Jean Jaurès</text>
+  </box>
+  <box top_left_x="566" top_left_y="664" bottom_right_x="984" bottom_right_y="771">
+       <type>Code Postal</type>
+       <text>83890</text>
+  </box>
+  <box top_left_x="1106" top_left_y="661" bottom_right_x="2189" bottom_right_y="772">
+       <type>Ville</type>
+       <text>Besse sur Isole</text>
+  </box>
+  <box top_left_x="373" top_left_y="775" bottom_right_x="1245" bottom_right_y="925">
+       <type>Téléphone</type>
+       <text>0470232795</text>
+  </box>
+  <box top_left_x="512" top_left_y="1044" bottom_right_x="2185" bottom_right_y="1166">
+       <type>Catégorie Scénario</type>
+       <text>Changement de données personnelles</text>
+  </box>
+  <box top_left_x="295" top_left_y="1154" bottom_right_x="2185" bottom_right_y="1343">
+       <type>Objet Scénario</type>
+       <text>Nouvelles coordonnées bancaires (Vous déclarerez\njoindre un RIB)</text>
+  </box>
+  <box top_left_x="288" top_left_y="1333" bottom_right_x="2184" bottom_right_y="1528">
+       <type>Complément Scénario</type>
+       <text>Vous changez de Banque\n</text>
+  </box>
+  <box top_left_x="911" top_left_y="1541" bottom_right_x="1547" bottom_right_y="1693">
+       <type>Référence client</type>
+       <text>EGVGEII</text>
+  </box>
+  <box top_left_x="587" top_left_y="1688" bottom_right_x="2190" bottom_right_y="1789">
+       <type>Interlocuteur</type>
+       <text>BOF Telecom</text>
+  </box>
+  <box top_left_x="498" top_left_y="1778" bottom_right_x="2189" bottom_right_y="1886">
+       <type>Adresse Interlocuteur</type>
+       <text>Rue de Besançon</text>
+  </box>
+  <box top_left_x="576" top_left_y="1877" bottom_right_x="1003" bottom_right_y="1997">
+       <type>Code Postal Interlocuteur</type>
+       <text>23430</text>
+  </box>
+  <box top_left_x="1138" top_left_y="1878" bottom_right_x="2189" bottom_right_y="1983">
+       <type>Ville Interlocuteur</type>
+       <text>Sancey le Grand</text>
+  </box>
+  <box top_left_x="1054" top_left_y="2215" bottom_right_x="1268" bottom_right_y="2326">
+       <type>Temps passé</type>
+       <text>12</text>
+  </box>
+  <box top_left_x="874" top_left_y="2154" bottom_right_x="977" bottom_right_y="2204">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1075" top_left_y="2150" bottom_right_x="1124" bottom_right_y="2202">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1290" top_left_y="2151" bottom_right_x="1342" bottom_right_y="2203">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="298" top_left_y="2616" bottom_right_x="352" bottom_right_y="2677">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1594" top_left_y="2574" bottom_right_x="2192" bottom_right_y="2687">
+       <type>Date d'envoi postal</type>
+       <text>17 avril 2007</text>
+  </box>
+  <box top_left_x="305" top_left_y="2712" bottom_right_x="352" bottom_right_y="2762">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="303" top_left_y="2806" bottom_right_x="354" bottom_right_y="2852">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1736" top_left_y="2747" bottom_right_x="2185" bottom_right_y="2866">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="299" top_left_y="2900" bottom_right_x="381" bottom_right_y="2953">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1592" top_left_y="2867" bottom_right_x="2187" bottom_right_y="2971">
+       <type>Date d'envoi par courriel</type>
+       <text>16 avril 2007</text>
+  </box>
+  <box top_left_x="1732" top_left_y="3064" bottom_right_x="1997" bottom_right_y="3159">
+       <type>Résolution</type>
+       <text>200</text>
+  </box>
+  <box top_left_x="576" top_left_y="3090" bottom_right_x="625" bottom_right_y="3139">
+       <type>Format PNG</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="779" top_left_y="3088" bottom_right_x="831" bottom_right_y="3139">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="960" top_left_y="3088" bottom_right_x="1010" bottom_right_y="3139">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1072" top_left_y="2964" bottom_right_x="2188" bottom_right_y="3067">
+       <type>Marque et modèle scanner</type>
+       <text>EPSON Stylus Scan 2000</text>
+  </box>
+</annotation>
