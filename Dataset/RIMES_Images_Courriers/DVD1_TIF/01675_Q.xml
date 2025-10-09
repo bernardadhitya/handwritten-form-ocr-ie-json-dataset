@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="18/12/2007" author="Jouve">
+  <source width="2471" height="3508">01675_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Modification de contrat / Commande</scenario>
+  <writer>CODRON Cyrille</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="171" top_left_y="378" bottom_right_x="729" bottom_right_y="519">
+       <type>Code d'envoi</type>
+       <text>ZZHWNL</text>
+  </box>
+  <box top_left_x="402" top_left_y="541" bottom_right_x="1211" bottom_right_y="646">
+       <type>Nom</type>
+       <text>CODRON</text>
+  </box>
+  <box top_left_x="1405" top_left_y="541" bottom_right_x="2177" bottom_right_y="643">
+       <type>Prénom</type>
+       <text>CYRILLE</text>
+  </box>
+  <box top_left_x="486" top_left_y="643" bottom_right_x="2183" bottom_right_y="736">
+       <type>Adresse</type>
+       <text>9 RUE GROB</text>
+  </box>
+  <box top_left_x="561" top_left_y="743" bottom_right_x="980" bottom_right_y="848">
+       <type>Code Postal</type>
+       <text>67320</text>
+  </box>
+  <box top_left_x="1102" top_left_y="737" bottom_right_x="2184" bottom_right_y="843">
+       <type>Ville</type>
+       <text>ADAMSWILLER</text>
+  </box>
+  <box top_left_x="369" top_left_y="855" bottom_right_x="1240" bottom_right_y="1001">
+       <type>Téléphone</type>
+       <text>0302220899</text>
+  </box>
+  <box top_left_x="509" top_left_y="1124" bottom_right_x="2184" bottom_right_y="1239">
+       <type>Catégorie Scénario</type>
+       <text>Modification de contrat / commande</text>
+  </box>
+  <box top_left_x="293" top_left_y="1234" bottom_right_x="2184" bottom_right_y="1416">
+       <type>Objet Scénario</type>
+       <text>Augmentation (x2) des ¤{quantites/quantités}¤\nde CD vierges commandées</text>
+  </box>
+  <box top_left_x="285" top_left_y="1412" bottom_right_x="2185" bottom_right_y="1601">
+       <type>Complément Scénario</type>
+       <text>aucun\n</text>
+  </box>
+  <box top_left_x="909" top_left_y="1620" bottom_right_x="1545" bottom_right_y="1769">
+       <type>Référence client</type>
+       <text>KRYPR98</text>
+  </box>
+  <box top_left_x="585" top_left_y="1767" bottom_right_x="2189" bottom_right_y="1862">
+       <type>Interlocuteur</type>
+       <text>LA REBOUTE</text>
+  </box>
+  <box top_left_x="496" top_left_y="1857" bottom_right_x="2187" bottom_right_y="1960">
+       <type>Adresse Interlocuteur</type>
+       <text>QUAI D'AIGUILLON</text>
+  </box>
+  <box top_left_x="574" top_left_y="1955" bottom_right_x="1002" bottom_right_y="2074">
+       <type>Code Postal Interlocuteur</type>
+       <text>22300</text>
+  </box>
+  <box top_left_x="1136" top_left_y="1956" bottom_right_x="2188" bottom_right_y="2057">
+       <type>Ville Interlocuteur</type>
+       <text>LANNION</text>
+  </box>
+  <box top_left_x="1053" top_left_y="2294" bottom_right_x="1267" bottom_right_y="2404">
+       <type>Temps passé</type>
+       <text>10</text>
+  </box>
+  <box top_left_x="882" top_left_y="2210" bottom_right_x="975" bottom_right_y="2310">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1074" top_left_y="2229" bottom_right_x="1123" bottom_right_y="2281">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1290" top_left_y="2230" bottom_right_x="1341" bottom_right_y="2281">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="286" top_left_y="2699" bottom_right_x="349" bottom_right_y="2768">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1594" top_left_y="2652" bottom_right_x="2193" bottom_right_y="2764">
+       <type>Date d'envoi postal</type>
+       <text>26/12/2006</text>
+  </box>
+  <box top_left_x="303" top_left_y="2793" bottom_right_x="353" bottom_right_y="2840">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="301" top_left_y="2887" bottom_right_x="353" bottom_right_y="2933">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1736" top_left_y="2825" bottom_right_x="2185" bottom_right_y="2943">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="277" top_left_y="2969" bottom_right_x="380" bottom_right_y="3053">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1592" top_left_y="2945" bottom_right_x="2187" bottom_right_y="3048">
+       <type>Date d'envoi par courriel</type>
+       <text>24/12/2006</text>
+  </box>
+  <box top_left_x="1732" top_left_y="3142" bottom_right_x="1997" bottom_right_y="3237">
+       <type>Résolution</type>
+       <text>200</text>
+  </box>
+  <box top_left_x="574" top_left_y="3169" bottom_right_x="625" bottom_right_y="3219">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="753" top_left_y="3147" bottom_right_x="856" bottom_right_y="3245">
+       <type>Format GIF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="961" top_left_y="3168" bottom_right_x="1010" bottom_right_y="3219">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1071" top_left_y="3043" bottom_right_x="2188" bottom_right_y="3143">
+       <type>Marque et modèle scanner</type>
+       <text>HPSCAN JET 3770</text>
+  </box>
+</annotation>

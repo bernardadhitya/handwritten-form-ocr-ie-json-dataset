@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="18/12/2007" author="Jouve">
+  <source width="2469" height="3502">01704_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Relance de courrier sans réponse</scenario>
+  <writer>RAUX Guillaume</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="176" top_left_y="359" bottom_right_x="734" bottom_right_y="500">
+       <type>Code d'envoi</type>
+       <text>JCYUEZ</text>
+  </box>
+  <box top_left_x="407" top_left_y="522" bottom_right_x="1219" bottom_right_y="628">
+       <type>Nom</type>
+       <text>RAUX</text>
+  </box>
+  <box top_left_x="1412" top_left_y="522" bottom_right_x="2188" bottom_right_y="625">
+       <type>Prénom</type>
+       <text>Guillaume</text>
+  </box>
+  <box top_left_x="490" top_left_y="625" bottom_right_x="2194" bottom_right_y="719">
+       <type>Adresse</type>
+       <text>26, rue des Fauvettes</text>
+  </box>
+  <box top_left_x="568" top_left_y="725" bottom_right_x="989" bottom_right_y="832">
+       <type>Code Postal</type>
+       <text>67160</text>
+  </box>
+  <box top_left_x="1111" top_left_y="720" bottom_right_x="2201" bottom_right_y="828">
+       <type>Ville</type>
+       <text>WISSEMBOURG</text>
+  </box>
+  <box top_left_x="374" top_left_y="838" bottom_right_x="1252" bottom_right_y="984">
+       <type>Téléphone</type>
+       <text>0322824570</text>
+  </box>
+  <box top_left_x="515" top_left_y="1105" bottom_right_x="2195" bottom_right_y="1221">
+       <type>Catégorie Scénario</type>
+       <text>Relance de courrier sans réponse</text>
+  </box>
+  <box top_left_x="299" top_left_y="1216" bottom_right_x="2195" bottom_right_y="1397">
+       <type>Objet Scénario</type>
+       <text>Votre changement de données personnelles n'a pas été\nPris en compte</text>
+  </box>
+  <box top_left_x="292" top_left_y="1395" bottom_right_x="2194" bottom_right_y="1583">
+       <type>Complément Scénario</type>
+       <text>\n</text>
+  </box>
+  <box top_left_x="918" top_left_y="1603" bottom_right_x="1556" bottom_right_y="1752">
+       <type>Référence client</type>
+       <text>MDKYA20</text>
+  </box>
+  <box top_left_x="593" top_left_y="1751" bottom_right_x="2204" bottom_right_y="1846">
+       <type>Interlocuteur</type>
+       <text>ANPE - Agence Nationale Pour l'Emploi</text>
+  </box>
+  <box top_left_x="503" top_left_y="1842" bottom_right_x="2204" bottom_right_y="1945">
+       <type>Adresse Interlocuteur</type>
+       <text>34, rue de la 2ème DB</text>
+  </box>
+  <box top_left_x="581" top_left_y="1940" bottom_right_x="1011" bottom_right_y="2059">
+       <type>Code Postal Interlocuteur</type>
+       <text>72290</text>
+  </box>
+  <box top_left_x="1146" top_left_y="1940" bottom_right_x="2204" bottom_right_y="2040">
+       <type>Ville Interlocuteur</type>
+       <text>MEZIERES SUR PONTHOUIN</text>
+  </box>
+  <box top_left_x="1062" top_left_y="2279" bottom_right_x="1277" bottom_right_y="2389">
+       <type>Temps passé</type>
+       <text>40</text>
+  </box>
+  <box top_left_x="885" top_left_y="2217" bottom_right_x="955" bottom_right_y="2267">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1084" top_left_y="2213" bottom_right_x="1133" bottom_right_y="2265">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1297" top_left_y="2213" bottom_right_x="1349" bottom_right_y="2266">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="308" top_left_y="2683" bottom_right_x="360" bottom_right_y="2734">
+       <type>Contribution postale</type>
+       <text></text>
+  </box>
+  <box top_left_x="1605" top_left_y="2636" bottom_right_x="2207" bottom_right_y="2748">
+       <type>Date d'envoi postal</type>
+       <text></text>
+  </box>
+  <box top_left_x="310" top_left_y="2780" bottom_right_x="360" bottom_right_y="2828">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="309" top_left_y="2875" bottom_right_x="361" bottom_right_y="2921">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1749" top_left_y="2810" bottom_right_x="2200" bottom_right_y="2928">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="304" top_left_y="2968" bottom_right_x="388" bottom_right_y="3022">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1604" top_left_y="2931" bottom_right_x="2203" bottom_right_y="3034">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1746" top_left_y="3128" bottom_right_x="2013" bottom_right_y="3223">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="583" top_left_y="3158" bottom_right_x="634" bottom_right_y="3208">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="789" top_left_y="3156" bottom_right_x="841" bottom_right_y="3207">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="971" top_left_y="3156" bottom_right_x="1021" bottom_right_y="3207">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1082" top_left_y="3029" bottom_right_x="2204" bottom_right_y="3130">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
