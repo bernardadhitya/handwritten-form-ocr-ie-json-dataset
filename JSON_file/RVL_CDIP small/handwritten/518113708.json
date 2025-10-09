@@ -1,0 +1,27 @@
+{
+    "store": {
+        "name": "ECKERDDRUG",
+        "number": "0472",
+        "address": "715 DR. MARTIN LUTHER KING JR. BLVD"
+    },
+    "transaction": {
+        "associate": "9385",
+        "register": "010",
+        "drawer": "1",
+        "transaction_number": "2703",
+        "type": "10",
+        "full_price": 4.65,
+        "tax": {
+            "rate": "6.75%",
+            "amount": 0.32
+        },
+        "total": 4.97,
+        "payment": {
+            "method": "cash",
+            "amount": 5.0,
+            "change": 0.03
+        },
+        "date": "February 4, 1993",
+        "time": "7:05 PM"
+    }
+}

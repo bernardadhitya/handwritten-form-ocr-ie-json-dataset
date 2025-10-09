@@ -1,0 +1,77 @@
+{
+    "organization": "OSF Medical Group",
+    "recipient": {
+        "name": "Ms. Canlyn C. Brinkley",
+        "company": "R.J. Reynolds Tobacco",
+        "address": {
+            "po_box": "Po Box 2959",
+            "city": "Winston-Salem",
+            "state": "NC",
+            "zip": "27102"
+        }
+    },
+    "letter": {
+        "greeting": "Dear Ms. Brinkley:",
+        "body": "Sent in November regarding children about smoking. If brochures are free, please send to Joan Aul RN, OSF Medical Group, 3409 Ludington St, Escanaba, MI 49829."
+    },
+    "contact": {
+        "name": "Joan Aul",
+        "title": "RN",
+        "organization": "OSF Medical Group",
+        "address": {
+            "street": "3409 Ludington St",
+            "city": "Escanaba",
+            "state": "MI",
+            "zip": "49829"
+        },
+        "phone": "906-789-4040",
+        "fax": "906-789-6463"
+    },
+    "departments": [
+        "Central Billing Office",
+        "Pediatrics",
+        "Family Practice",
+        "Internal Medicine",
+        "Walk-In Clinic"
+    ],
+    "suites": [
+        {
+            "number": "103 & 104",
+            "specialties": [
+                "Pulmonology",
+                "Cardiology"
+            ],
+            "address": {
+                "street": "3409 Ludington St",
+                "suite": "203",
+                "city": "Escanaba",
+                "state": "MI",
+                "zip": "49829"
+            }
+        },
+        {
+            "number": "104",
+            "address": {
+                "street": "3409 Ludington St",
+                "city": "Escanaba",
+                "state": "MI",
+                "zip": "49829"
+            },
+            "phone": "906-789-4449",
+            "fax": "906-789-4430"
+        }
+    ],
+    "additional_locations": [
+        {
+            "address": {
+                "street": "N15995 Main Street",
+                "city": "Powers",
+                "state": "MI",
+                "zip": "49874"
+            },
+            "phone": "906-497-4360",
+            "fax": "906-497-4362"
+        }
+    ],
+    "sisters": "The Sisters of the Third Order of St. Francis"
+}
