@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="18/12/2007" author="Jouve">
+  <source width="2468" height="3498">05062_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Difficulté de paiement</scenario>
+  <writer>OTMANI Jeremy</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="120" top_left_y="313" bottom_right_x="703" bottom_right_y="461">
+       <type>Code d'envoi</type>
+       <text>LLPSGG</text>
+  </box>
+  <box top_left_x="362" top_left_y="484" bottom_right_x="1207" bottom_right_y="594">
+       <type>Nom</type>
+       <text>¤OTMANI¤</text>
+  </box>
+  <box top_left_x="1409" top_left_y="483" bottom_right_x="2217" bottom_right_y="591">
+       <type>Prénom</type>
+       <text>JEREMY</text>
+  </box>
+  <box top_left_x="449" top_left_y="590" bottom_right_x="2222" bottom_right_y="691">
+       <type>Adresse</type>
+       <text>17 RUE DES AULNES</text>
+  </box>
+  <box top_left_x="529" top_left_y="696" bottom_right_x="966" bottom_right_y="807">
+       <type>Code Postal</type>
+       <text>67500</text>
+  </box>
+  <box top_left_x="1094" top_left_y="691" bottom_right_x="2223" bottom_right_y="806">
+       <type>Ville</type>
+       <text>BATZENDORF</text>
+  </box>
+  <box top_left_x="329" top_left_y="812" bottom_right_x="1239" bottom_right_y="967">
+       <type>Téléphone</type>
+       <text>0394847543</text>
+  </box>
+  <box top_left_x="475" top_left_y="1093" bottom_right_x="2226" bottom_right_y="1213">
+       <type>Catégorie Scénario</type>
+       <text>Difficulté de paiement</text>
+  </box>
+  <box top_left_x="250" top_left_y="1208" bottom_right_x="2226" bottom_right_y="1400">
+       <type>Objet Scénario</type>
+       <text>Demande d'échelonnement\n</text>
+  </box>
+  <box top_left_x="243" top_left_y="1394" bottom_right_x="2226" bottom_right_y="1596">
+       <type>Complément Scénario</type>
+       <text>Le montant de votre facture est trop élevé\n</text>
+  </box>
+  <box top_left_x="895" top_left_y="1612" bottom_right_x="1561" bottom_right_y="1772">
+       <type>Référence client</type>
+       <text>NEUSQ01</text>
+  </box>
+  <box top_left_x="557" top_left_y="1766" bottom_right_x="2235" bottom_right_y="1872">
+       <type>Interlocuteur</type>
+       <text>MANIF Assurances</text>
+  </box>
+  <box top_left_x="464" top_left_y="1860" bottom_right_x="2235" bottom_right_y="1976">
+       <type>Adresse Interlocuteur</type>
+       <text>PL MAURICE SEGUNOS</text>
+  </box>
+  <box top_left_x="546" top_left_y="1964" bottom_right_x="994" bottom_right_y="2089">
+       <type>Code Postal Interlocuteur</type>
+       <text>60930</text>
+  </box>
+  <box top_left_x="1134" top_left_y="1966" bottom_right_x="2234" bottom_right_y="2073">
+       <type>Ville Interlocuteur</type>
+       <text>BAILLEUL SUR THERAIN</text>
+  </box>
+  <box top_left_x="1048" top_left_y="2317" bottom_right_x="1272" bottom_right_y="2432">
+       <type>Temps passé</type>
+       <text>25</text>
+  </box>
+  <box top_left_x="888" top_left_y="2256" bottom_right_x="967" bottom_right_y="2302">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1069" top_left_y="2249" bottom_right_x="1120" bottom_right_y="2304">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1294" top_left_y="2250" bottom_right_x="1348" bottom_right_y="2304">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="259" top_left_y="2738" bottom_right_x="346" bottom_right_y="2792">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1614" top_left_y="2692" bottom_right_x="2240" bottom_right_y="2810">
+       <type>Date d'envoi postal</type>
+       <text>17/04/07</text>
+  </box>
+  <box top_left_x="252" top_left_y="2836" bottom_right_x="345" bottom_right_y="2892">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="259" top_left_y="2936" bottom_right_x="346" bottom_right_y="2989">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1762" top_left_y="2873" bottom_right_x="2232" bottom_right_y="2997">
+       <type>Date d'envoi par fax</type>
+       <text>17/04/07</text>
+  </box>
+  <box top_left_x="259" top_left_y="3034" bottom_right_x="346" bottom_right_y="3090">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1612" top_left_y="2999" bottom_right_x="2235" bottom_right_y="3107">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1760" top_left_y="3204" bottom_right_x="2038" bottom_right_y="3303">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="549" top_left_y="3232" bottom_right_x="602" bottom_right_y="3284">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="763" top_left_y="3231" bottom_right_x="817" bottom_right_y="3284">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="953" top_left_y="3232" bottom_right_x="1006" bottom_right_y="3285">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1068" top_left_y="3101" bottom_right_x="2237" bottom_right_y="3206">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>

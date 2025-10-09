@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2470" height="3505">05040_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Gestion de sinistre</scenario>
+  <writer>BERGEON Alexandra</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="138" top_left_y="346" bottom_right_x="698" bottom_right_y="488">
+       <type>Code d'envoi</type>
+       <text>FFSXSD</text>
+  </box>
+  <box top_left_x="370" top_left_y="509" bottom_right_x="1181" bottom_right_y="614">
+       <type>Nom</type>
+       <text>BERGEON</text>
+  </box>
+  <box top_left_x="1375" top_left_y="509" bottom_right_x="2150" bottom_right_y="612">
+       <type>Prénom</type>
+       <text>Alexandra</text>
+  </box>
+  <box top_left_x="453" top_left_y="611" bottom_right_x="2156" bottom_right_y="706">
+       <type>Adresse</type>
+       <text>8, route des Guillaumes</text>
+  </box>
+  <box top_left_x="531" top_left_y="712" bottom_right_x="951" bottom_right_y="819">
+       <type>Code Postal</type>
+       <text>06470</text>
+  </box>
+  <box top_left_x="1073" top_left_y="707" bottom_right_x="2160" bottom_right_y="815">
+       <type>Ville</type>
+       <text>PEONE</text>
+  </box>
+  <box top_left_x="338" top_left_y="825" bottom_right_x="1214" bottom_right_y="972">
+       <type>Téléphone</type>
+       <text>0418258205</text>
+  </box>
+  <box top_left_x="479" top_left_y="1093" bottom_right_x="2159" bottom_right_y="1209">
+       <type>Catégorie Scénario</type>
+       <text>Gestion de sinistres</text>
+  </box>
+  <box top_left_x="263" top_left_y="1204" bottom_right_x="2158" bottom_right_y="1386">
+       <type>Objet Scénario</type>
+       <text>Vous êtes sans nouvelles concernant\nl'expertise de votre véhicule accidenté le mois dernier</text>
+  </box>
+  <box top_left_x="257" top_left_y="1382" bottom_right_x="2159" bottom_right_y="1572">
+       <type>Complément Scénario</type>
+       <text>Aucun\n</text>
+  </box>
+  <box top_left_x="883" top_left_y="1591" bottom_right_x="1522" bottom_right_y="1742">
+       <type>Référence client</type>
+       <text>UIMPMOI</text>
+  </box>
+  <box top_left_x="559" top_left_y="1740" bottom_right_x="2169" bottom_right_y="1836">
+       <type>Interlocuteur</type>
+       <text>NAIF Assurances</text>
+  </box>
+  <box top_left_x="470" top_left_y="1831" bottom_right_x="2170" bottom_right_y="1937">
+       <type>Adresse Interlocuteur</type>
+       <text>21, avenue Alexis Rey</text>
+  </box>
+  <box top_left_x="549" top_left_y="1929" bottom_right_x="979" bottom_right_y="2049">
+       <type>Code Postal Interlocuteur</type>
+       <text>35440</text>
+  </box>
+  <box top_left_x="1114" top_left_y="1930" bottom_right_x="2170" bottom_right_y="2032">
+       <type>Ville Interlocuteur</type>
+       <text>Montreuil sur l'Ile</text>
+  </box>
+  <box top_left_x="1032" top_left_y="2268" bottom_right_x="1247" bottom_right_y="2379">
+       <type>Temps passé</type>
+       <text>15</text>
+  </box>
+  <box top_left_x="877" top_left_y="2202" bottom_right_x="928" bottom_right_y="2258">
+       <type>Stylo bille</type>
+       <text></text>
+  </box>
+  <box top_left_x="1052" top_left_y="2203" bottom_right_x="1101" bottom_right_y="2255">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1240" top_left_y="2208" bottom_right_x="1347" bottom_right_y="2271">
+       <type>Stylo feutre</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="280" top_left_y="2673" bottom_right_x="357" bottom_right_y="2723">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1575" top_left_y="2627" bottom_right_x="2178" bottom_right_y="2740">
+       <type>Date d'envoi postal</type>
+       <text>20/04/07</text>
+  </box>
+  <box top_left_x="281" top_left_y="2769" bottom_right_x="331" bottom_right_y="2817">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="279" top_left_y="2864" bottom_right_x="331" bottom_right_y="2911">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1719" top_left_y="2802" bottom_right_x="2171" bottom_right_y="2921">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="282" top_left_y="2959" bottom_right_x="359" bottom_right_y="3022">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1575" top_left_y="2923" bottom_right_x="2174" bottom_right_y="3027">
+       <type>Date d'envoi par courriel</type>
+       <text>19/04/07</text>
+  </box>
+  <box top_left_x="1718" top_left_y="3122" bottom_right_x="1985" bottom_right_y="3218">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="554" top_left_y="3149" bottom_right_x="605" bottom_right_y="3199">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="761" top_left_y="3148" bottom_right_x="813" bottom_right_y="3199">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="950" top_left_y="3150" bottom_right_x="998" bottom_right_y="3211">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1054" top_left_y="3022" bottom_right_x="2176" bottom_right_y="3124">
+       <type>Marque et modèle scanner</type>
+       <text>HP Photosmart C 4190</text>
+  </box>
+</annotation>

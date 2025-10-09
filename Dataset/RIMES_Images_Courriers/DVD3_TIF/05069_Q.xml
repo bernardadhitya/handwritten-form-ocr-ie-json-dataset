@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2482" height="3508">05069_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Changement de données personnelles</scenario>
+  <writer>COLLIN Noam</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="179" top_left_y="347" bottom_right_x="736" bottom_right_y="490">
+       <type>Code d'envoi</type>
+       <text>RALNYQ</text>
+  </box>
+  <box top_left_x="409" top_left_y="509" bottom_right_x="1218" bottom_right_y="616">
+       <type>Nom</type>
+       <text>COLLIN</text>
+  </box>
+  <box top_left_x="1412" top_left_y="506" bottom_right_x="2185" bottom_right_y="611">
+       <type>Prénom</type>
+       <text>Noam</text>
+  </box>
+  <box top_left_x="492" top_left_y="609" bottom_right_x="2190" bottom_right_y="706">
+       <type>Adresse</type>
+       <text>10 rue des Mésanges</text>
+  </box>
+  <box top_left_x="569" top_left_y="712" bottom_right_x="987" bottom_right_y="819">
+       <type>Code Postal</type>
+       <text>68290</text>
+  </box>
+  <box top_left_x="1109" top_left_y="703" bottom_right_x="2191" bottom_right_y="813">
+       <type>Ville</type>
+       <text>SUNHOFFEN</text>
+  </box>
+  <box top_left_x="378" top_left_y="824" bottom_right_x="1248" bottom_right_y="973">
+       <type>Téléphone</type>
+       <text>0345893493</text>
+  </box>
+  <box top_left_x="517" top_left_y="1090" bottom_right_x="2184" bottom_right_y="1208">
+       <type>Catégorie Scénario</type>
+       <text>Changement de données personnelles</text>
+  </box>
+  <box top_left_x="302" top_left_y="1201" bottom_right_x="2182" bottom_right_y="1384">
+       <type>Objet Scénario</type>
+       <text>Nouvelles coordonnées ¤{telephoniques/téléphoniques}¤\n</text>
+  </box>
+  <box top_left_x="295" top_left_y="1378" bottom_right_x="2179" bottom_right_y="1567">
+       <type>Complément Scénario</type>
+       <text>Vous vous installez avec votre conjoint\n</text>
+  </box>
+  <box top_left_x="915" top_left_y="1585" bottom_right_x="1552" bottom_right_y="1735">
+       <type>Référence client</type>
+       <text>NDHEV47</text>
+  </box>
+  <box top_left_x="594" top_left_y="1734" bottom_right_x="2200" bottom_right_y="1831">
+       <type>Interlocuteur</type>
+       <text>Banque ¤{debit/débit}¤ Lyonnais</text>
+  </box>
+  <box top_left_x="505" top_left_y="1824" bottom_right_x="2202" bottom_right_y="1930">
+       <type>Adresse Interlocuteur</type>
+       <text>10 rue de Moussy</text>
+  </box>
+  <box top_left_x="584" top_left_y="1923" bottom_right_x="1013" bottom_right_y="2041">
+       <type>Code Postal Interlocuteur</type>
+       <text>75004</text>
+  </box>
+  <box top_left_x="1148" top_left_y="1924" bottom_right_x="2202" bottom_right_y="2024">
+       <type>Ville Interlocuteur</type>
+       <text>Paris</text>
+  </box>
+  <box top_left_x="1064" top_left_y="2259" bottom_right_x="1279" bottom_right_y="2369">
+       <type>Temps passé</type>
+       <text>10</text>
+  </box>
+  <box top_left_x="884" top_left_y="2188" bottom_right_x="987" bottom_right_y="2276">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1084" top_left_y="2195" bottom_right_x="1134" bottom_right_y="2246">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1301" top_left_y="2195" bottom_right_x="1353" bottom_right_y="2246">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="313" top_left_y="2663" bottom_right_x="362" bottom_right_y="2713">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1607" top_left_y="2616" bottom_right_x="2207" bottom_right_y="2728">
+       <type>Date d'envoi postal</type>
+       <text>18/04/07</text>
+  </box>
+  <box top_left_x="314" top_left_y="2758" bottom_right_x="363" bottom_right_y="2806">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="312" top_left_y="2852" bottom_right_x="364" bottom_right_y="2898">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1749" top_left_y="2789" bottom_right_x="2199" bottom_right_y="2906">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="312" top_left_y="2944" bottom_right_x="364" bottom_right_y="2994">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1605" top_left_y="2908" bottom_right_x="2201" bottom_right_y="3011">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1745" top_left_y="3105" bottom_right_x="2011" bottom_right_y="3199">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="585" top_left_y="3133" bottom_right_x="636" bottom_right_y="3183">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="790" top_left_y="3132" bottom_right_x="842" bottom_right_y="3183">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="973" top_left_y="3132" bottom_right_x="1022" bottom_right_y="3183">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1083" top_left_y="3007" bottom_right_x="2202" bottom_right_y="3106">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
