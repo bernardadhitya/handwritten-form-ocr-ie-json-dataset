@@ -1,0 +1,51 @@
+{
+    "revision": {
+        "number": 2,
+        "date": "December 2, 1986"
+    },
+    "figure": {
+        "title": "SAMPLE PUMP CALIBRATION WORKSHEET",
+        "analyst_initials": "BNB",
+        "date": "c.9",
+        "pass_number": 11,
+        "pump_id": "CO",
+        "barometric_pressure": {
+            "value": 749,
+            "unit": "torr"
+        },
+        "ambient_temperature": {
+            "value": 4.39,
+            "unit": "\u00b0C"
+        },
+        "actual_volume_measured_with_flowmeter": 509.2,
+        "runs": [
+            {
+                "run_number": 1,
+                "time_sec": 507
+            },
+            {
+                "run_number": 2,
+                "time_sec": 517
+            },
+            {
+                "run_number": 3,
+                "time_sec": 507
+            },
+            {
+                "run_number": 4,
+                "time_sec": 507
+            },
+            {
+                "run_number": 5,
+                "time_sec": 508
+            }
+        ],
+        "average_r": 509,
+        "standard_volume_vs": "Va x Pb x 298 / (T + 273) x 760",
+        "standard_flow_rate_qs": {
+            "value": 502.9,
+            "unit": "L/min"
+        },
+        "r_value": 2076278964
+    }
+}

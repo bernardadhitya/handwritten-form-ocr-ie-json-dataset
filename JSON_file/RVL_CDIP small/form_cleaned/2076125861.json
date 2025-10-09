@@ -1,0 +1,127 @@
+{
+    "company": "Philip Morris",
+    "lab": "Richmond",
+    "quarter": "4Q96",
+    "property": "MKP",
+    "packet": "Dec-96",
+    "samples": [
+        {
+            "id": "M50",
+            "values": [
+                10.19,
+                10.717,
+                9.871
+            ],
+            "average": 10.26
+        },
+        {
+            "id": "M51",
+            "values": [
+                9.952,
+                9.981,
+                10.003
+            ],
+            "average": 9.98
+        },
+        {
+            "id": "M52",
+            "values": [
+                12.446,
+                11.697,
+                12.628
+            ],
+            "average": 12.26
+        },
+        {
+            "id": "M53",
+            "values": [
+                10.563,
+                9.961,
+                10.091
+            ],
+            "average": 10.21
+        },
+        {
+            "id": "629-1",
+            "values": [
+                11.389,
+                11.554,
+                11.633
+            ],
+            "average": 11.53
+        },
+        {
+            "id": "629-2",
+            "values": [
+                11.767,
+                11.31,
+                11.503
+            ],
+            "average": 11.53
+        },
+        {
+            "id": "629-3",
+            "values": [
+                11.117,
+                11.914,
+                11.589
+            ],
+            "average": 11.54
+        },
+        {
+            "id": "629-4",
+            "values": [
+                11.971,
+                10.893,
+                null
+            ],
+            "average": 11.43
+        },
+        {
+            "id": "502-1",
+            "values": [
+                12.16,
+                12.424,
+                null
+            ],
+            "average": 12.29
+        },
+        {
+            "id": "502-2",
+            "values": [
+                11.938,
+                11.835,
+                null
+            ],
+            "average": 11.89
+        },
+        {
+            "id": "502-3",
+            "values": [
+                11.295,
+                11.084,
+                11.33
+            ],
+            "average": 11.24
+        },
+        {
+            "id": "502-4",
+            "values": [
+                11.073,
+                11.835,
+                null
+            ],
+            "average": 11.45
+        }
+    ],
+    "instrument": {
+        "manufacturer": "Spectrace Instruments",
+        "model_number": "5000",
+        "serial_number": "27029-001"
+    },
+    "test_date": "January 27, 1997",
+    "tester": {
+        "name": "KenSe",
+        "contact": "2076125861"
+    }
+}

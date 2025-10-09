@@ -1,0 +1,51 @@
+{
+    "company": "TURNSTYLE",
+    "address": "1101-9th Avenue North, St. Petersburg, FL 33705",
+    "phone": "813-822-8929",
+    "division": "A Division of SuperSports Promotions",
+    "services": [
+        "Event Marketing",
+        "Advertising",
+        "Promotions"
+    ],
+    "event": {
+        "name": "SUPERBOWL OF SUPERCROSS",
+        "date": "Saturday, March 25",
+        "location": "Tampa Stadium"
+    },
+    "radio_station": {
+        "name": "IAJLFE / L1FE b8O",
+        "address": "9(yg Koglr Blud.",
+        "city_zip": "St. Petersburg, FL 33705",
+        "contact": "Tes Woll",
+        "phone": "576-6868"
+    },
+    "trade_details": {
+        "spots": {
+            "number_of_60_second_spots": 3,
+            "rate": 100,
+            "total_value": 300
+        },
+        "tickets": {
+            "number_of_tickets_requested": 50,
+            "price_per_ticket": 18,
+            "total_value": 900
+        },
+        "note": "Tickets are limited to 50 tickets per station."
+    },
+    "agreement": {
+        "ads_run_dates": {
+            "start": "March 11",
+            "end": "March 25"
+        },
+        "affidavit_and_invoice": {
+            "due_date": "April 30",
+            "recipient": "Bill Carlson",
+            "address": "1101-9th Avenue North, St. Petersburg, FL 33705"
+        },
+        "billing_note": "If affidavit and invoice are not received by April 30, we will be billed for any tickets sent."
+    },
+    "agreement_id": "50748",
+    "accepted_date": "4259",
+    "thank_you_note": "Thank you for your participation."
+}

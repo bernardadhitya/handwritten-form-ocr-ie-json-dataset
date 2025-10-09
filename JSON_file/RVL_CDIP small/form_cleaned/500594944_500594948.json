@@ -1,0 +1,57 @@
+{
+    "confidential": true,
+    "part": "1 of 5",
+    "title": "Winston King Control Change Test #1",
+    "date": "September 14, 1976",
+    "purpose": "To verify results from previous tests of combinations of product acceptability.",
+    "method": "Six hundred smokers will be mailed two blind packages of current #1 markings will be used. The control and test packs are to be marked either 'Smoke First' or 'Smoke Second' so that the order of usage can be alternated and the cigarettes identified. The cigarettes will have two weeks aging in pack before placing with respondents.",
+    "packaging_description": [
+        {
+            "rotation": "Smoke First",
+            "mailer_code": "2386A",
+            "mfg_code": "76-1125A",
+            "quantity": 600,
+            "description_of_product": "Current WINSTON King"
+        },
+        {
+            "rotation": "Smoke Second",
+            "mailer_code": "2386B",
+            "mfg_code": "76-1125A",
+            "quantity": 600,
+            "description_of_product": "Test Blend #1"
+        },
+        {
+            "rotation": "Smoke First",
+            "mailer_code": "2386B",
+            "mfg_code": "76-1125B",
+            "quantity": 600,
+            "description_of_product": "Test Blend #1"
+        },
+        {
+            "rotation": "Smoke Second",
+            "mailer_code": "2386A",
+            "mfg_code": "76-1125B",
+            "quantity": 600,
+            "description_of_product": "Current WINSTON King"
+        }
+    ],
+    "note": "NFO numbers (to be provided) will be marked on each shipping case. Warning notice and first class will be stamped on each mailer.",
+    "dates": {
+        "making_and_packing": "Week Of September 20, 1976",
+        "shipment": "Week Of September 27, 1976",
+        "nfo_mailout": "Week Of October 4, 1976",
+        "topline_results": "Week Of November 15, 1976"
+    },
+    "approval_signature": "H. Ray Rodgers",
+    "cc": [
+        "Mr. D.E. Rawson",
+        "Mr. J.D. Barnhill",
+        "Mr. W.M. Kelman",
+        "Dr. Anders Laurene",
+        "Mr. R.H. Cundiff",
+        "Mr. J.L. McKenzie",
+        "Dr. Alan Rodgman",
+        "Mr. D.P. Johnson",
+        "Mr. John Wyatt"
+    ]
+}

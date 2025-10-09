@@ -1,0 +1,44 @@
+{
+    "department": "DEPARTMENT OF THE TREASURY",
+    "form_approved": "OMB No. 1512-0467 06/30/99",
+    "bureau": "BUREAU OF ALCOHOL, TOBACCO AND FIREARMS",
+    "serial_number": "99-05",
+    "excise_tax_return": {
+        "amount_of_payment": 37896583.44,
+        "form_of_payment": "CHECK",
+        "return_covers": {
+            "beginning": "March 1909",
+            "ending": "March 15, 1999"
+        },
+        "employer_identification_number": "13-1607658",
+        "plant_registry_or_permit_no": "TP-VA-7",
+        "name_and_address_of_taxpayer": {
+            "name": "PHILIP MORRIS INCORPORATED",
+            "address": "4001 Commerce Road, P.O. Box 26603, Richmond, Virginia, 23261",
+            "attention": "Mike G. Kidd"
+        },
+        "calculation_of_tax_due": {
+            "cigarette_papers_and_or_cigarette_tubes": 3158048620,
+            "total_tax_liability": 37896583.44,
+            "adjustments_increasing_amount_due": 37896583.44,
+            "gross_amount_due": 37896583.44,
+            "adjustments_decreasing_amount_due": 0.0,
+            "amount_to_be_paid_with_this_return": 37896583.44
+        },
+        "declaration": {
+            "date": "March 29, 1999",
+            "signature": "Mike G. Kidd",
+            "title": "Attorney-in-Fact"
+        },
+        "schedule_a": {
+            "adjustments_increasing_amount_due": {
+                "subtotal_of_columns": 2085598701
+            }
+        },
+        "schedule_b": {
+            "adjustments_decreasing_amount_due": {
+                "total_adjustments_decreasing_amount_due": 0.0
+            }
+        }
+    }
+}

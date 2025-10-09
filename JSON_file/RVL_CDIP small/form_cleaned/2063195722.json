@@ -1,0 +1,69 @@
+{
+    "agency": {
+        "name": "Alexander & Alexander/R.B. Jones Corporation",
+        "address": "P.O. Box 13647, Kansas City, Missouri 64199"
+    },
+    "companies": [
+        {
+            "letter": "A",
+            "name": "Granite States Insurance Company"
+        },
+        {
+            "letter": "B",
+            "name": "Insurance Co. State of Pennsylvania"
+        }
+    ],
+    "insured": {
+        "name": "Kansas City Chiefs Football Club, Inc.",
+        "address": "One Arrowhead Drive, Kansas City, Missouri 64129"
+    },
+    "policies": [
+        {
+            "company_letter": "A",
+            "type": "General Liability",
+            "policy_number": "80-99183300",
+            "expiration_date": "1/1/84",
+            "limits": {
+                "bodily_injury": 1000,
+                "property_damage": 1000,
+                "personal_injury": 1000
+            }
+        },
+        {
+            "company_letter": "B",
+            "type": "Automobile Liability",
+            "policy_number": "80-99183300",
+            "expiration_date": "1/1/84",
+            "limits": {
+                "bodily_injury_each_person": 5,
+                "property_damage": 5,
+                "combined": 1000
+            }
+        },
+        {
+            "company_letter": "B",
+            "type": "Excess Liability",
+            "policy_number": "80-99183100D",
+            "expiration_date": "1/1/84",
+            "limits": {
+                "property_damage": 9000
+            }
+        },
+        {
+            "company_letter": "A",
+            "type": "Workers' Compensation and Employers' Liability",
+            "policy_number": "83-9983300",
+            "expiration_date": "1/1/84",
+            "limits": {
+                "statutory": true
+            }
+        }
+    ],
+    "additional_insured": "Philip Morris, Incorporated",
+    "certificate_holder": {
+        "name": "Philip Morris, Incorporated",
+        "address": "100 Park Avenue, New York, New York 10017"
+    },
+    "date_issued": "1483",
+    "authorized_representative": "R.B. Jones Corporation"
+}

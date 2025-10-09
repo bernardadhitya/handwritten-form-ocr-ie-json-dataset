@@ -1,0 +1,105 @@
+{
+    "document": {
+        "type": "OFFICIAL",
+        "location": "USA",
+        "date": "March 22, 1991",
+        "file": {
+            "code": "CA",
+            "language": "ENG"
+        },
+        "departments": [
+            {
+                "code": "HR",
+                "name": "Human Resources"
+            },
+            {
+                "code": "NII",
+                "name": "Information Services"
+            },
+            {
+                "code": "IS",
+                "name": "Information Services"
+            },
+            {
+                "code": "MFG",
+                "name": "Manufacturing"
+            }
+        ],
+        "sheet": {
+            "number": "1OF3",
+            "total": "3"
+        },
+        "retention": {
+            "period": "C+1",
+            "in_storage": "C+2",
+            "in_dept": "C+1",
+            "legal_counsel": "N",
+            "responsible_records_management_group": "Morris",
+            "department_head": "Philip",
+            "general_manager": "Richmond"
+        },
+        "authorization": "2043486694",
+        "record_category": [
+            {
+                "code": "C2567",
+                "name": "Manufacturing"
+            },
+            {
+                "code": "C1190",
+                "name": "Engineering"
+            },
+            {
+                "code": "I0324",
+                "name": "Information Services"
+            },
+            {
+                "code": "C1185",
+                "name": "Corporate Affairs"
+            },
+            {
+                "code": "E0669",
+                "name": "Environmental"
+            },
+            {
+                "code": "H0162",
+                "name": "Human Resources"
+            },
+            {
+                "code": "L0379",
+                "name": "Labor Relations"
+            },
+            {
+                "code": "M0060",
+                "name": "Maintenance"
+            },
+            {
+                "code": "E0674",
+                "name": "Equipment"
+            },
+            {
+                "code": "E0681",
+                "name": "Engineering"
+            },
+            {
+                "code": "F0470",
+                "name": "Financial"
+            },
+            {
+                "code": "F0386",
+                "name": "Facilities Management"
+            },
+            {
+                "code": "M0445",
+                "name": "Manufacturing"
+            }
+        ],
+        "revised_date": "June 13, 1995",
+        "key_to_retentions": {
+            "current_month": "C+1",
+            "current_year": "C+2",
+            "while_active": "C+2",
+            "until_terminated": "C+2",
+            "permanently": "C+2"
+        }
+    }
+}

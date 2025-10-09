@@ -1,0 +1,59 @@
+{
+    "title": "Philip Morris USA Confidential",
+    "testing_request": {
+        "part": 1,
+        "test_request": {
+            "date": "7/9/98",
+            "request_code": "Project Juice",
+            "requester": "Ed Carmines",
+            "cost_center_to_be_charged": "2R6",
+            "study_objective": "Perform Ames, cytotoxicity, and 90-day inhalation assays on blended cigarette samples with three different levels of citric acid added, and a control with no citric acid added. Perform smoke chemistry analyses only on control and sample with highest level of citric acid added.",
+            "samples": "Blended cigarette samples with three different levels of citric acid added, and a control with no citric acid added (control to be shared with Project Milk)",
+            "tests_requested": [
+                {
+                    "test": "Smoke Chemistry",
+                    "location_of_testing": "INBIFO",
+                    "projected_start_date": "9/98",
+                    "projected_completion_date": "3/99"
+                },
+                {
+                    "test": "Metals Analyses",
+                    "location_of_testing": "Henkel",
+                    "projected_start_date": "TBD",
+                    "projected_completion_date": "TBD"
+                },
+                {
+                    "test": "Ames Assay",
+                    "location_of_testing": "INBIFO",
+                    "projected_start_date": "4/99",
+                    "projected_completion_date": "8/99"
+                },
+                {
+                    "test": "Cytotoxicity Assay",
+                    "projected_start_date": "4/99",
+                    "projected_completion_date": "8/99"
+                },
+                {
+                    "test": "90-day Inhalation Study",
+                    "location_of_testing": "CRC",
+                    "projected_start_date": "9/98",
+                    "projected_completion_date": "10/99"
+                }
+            ],
+            "approval_of_test_request": {
+                "requester_signature": null,
+                "date": null
+            },
+            "cc": [
+                "Dr. C.Ellis (Part 1 only)",
+                "Dr.P.Terpstra",
+                "Dr. W. Reininghaus"
+            ],
+            "received": {
+                "code": "2060578335",
+                "date": "JUL 29 1998",
+                "by": "C.L.ELLIS"
+            }
+        }
+    }
+}

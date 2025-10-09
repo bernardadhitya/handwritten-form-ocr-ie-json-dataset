@@ -1,0 +1,28 @@
+{
+    "survey": "NATIONAL CONSENSUS SURVEY",
+    "company": "AHF MARKETING RESEARCH",
+    "address": "801 Second Avenue, New York, New York, 10017",
+    "job": "JOB1972G",
+    "code": "18b",
+    "questionnaire": {
+        "base": "TA 356O",
+        "title": "Why smoke",
+        "job": "Jof3",
+        "question": "Approved by Proj. Dir. Client",
+        "card": "#",
+        "date": "",
+        "note": "Create a 'Low tar/nicotine Taste (subset)' that combines 'Low tar Product + Nicotine (subset)' with 'Taste subset' when both appear in the same questionnaire",
+        "columns": {
+            "taste_better": "Mild, not as strong, milder than regular, is strong",
+            "irritation": "Vothar, does not irritate throat",
+            "satisfaction": "Satisfying taste",
+            "difference": "Different taste, taste different than the others/King size",
+            "same_taste": "Tastes the same"
+        },
+        "subnet": {
+            "low_tar_nicotine": "Low tar/nicotine",
+            "code": "03847238",
+            "description": "ess/low tar/nicotine"
+        }
+    }
+}

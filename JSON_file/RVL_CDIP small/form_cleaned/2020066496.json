@@ -1,0 +1,72 @@
+{
+    "department": "United States Department of Commerce",
+    "office": "Patent and Trademark Office",
+    "commissioner": "Commissioner of Patents and Trademarks",
+    "location": "Washington, D.C. 20231",
+    "application_number": "2020066496",
+    "filing_date": "",
+    "first_name": "",
+    "entity_docket_number_title": "",
+    "date_mailed": "",
+    "notice": "Notice to File Missing Parts of Application",
+    "filing_date_granted": true,
+    "missing_parts": [
+        {
+            "description": "The statutory basic filing fee is missing or insufficient.",
+            "applicant_type": "large entity or small entity",
+            "amount_due": "",
+            "surcharge_required": true
+        },
+        {
+            "description": "Additional claim fees are required.",
+            "applicant_type": "large entity or small entity",
+            "amount_due": "",
+            "surcharge_required": false
+        },
+        {
+            "description": "The oath or declaration is missing or does not cover items omitted at the time of execution.",
+            "compliance": "37 CFR 1.63",
+            "surcharge_required": true
+        },
+        {
+            "description": "The oath or declaration does not identify the application to which it applies.",
+            "compliance": "37 CFR 1.63",
+            "surcharge_required": true
+        },
+        {
+            "description": "The signature of the following joint inventor(s) is missing from the oath or declaration.",
+            "compliance": "37 CFR 1.63",
+            "surcharge_required": true
+        },
+        {
+            "description": "A translation of the application and a fee of $30.00 under 37 CFR 1.17(k) is required.",
+            "surcharge_required": false
+        },
+        {
+            "description": "A $50.00 processing fee is required for returned checks.",
+            "compliance": "37 CFR 1.21(m)",
+            "surcharge_required": false
+        },
+        {
+            "description": "Your filing receipt was mailed in error because the check was returned without payment.",
+            "surcharge_required": false
+        },
+        {
+            "description": "Other.",
+            "surcharge_required": false
+        }
+    ],
+    "surcharge": {
+        "large_entity": "",
+        "small_entity": ""
+    },
+    "response_instructions": {
+        "deadline": "One month from the date of this letter or two months from the filing date, whichever is later.",
+        "extensions": "Extensions of time may be obtained by filing a petition accompanied by the extension fee under the provisions of 37 CFR 1.135(a)."
+    },
+    "contact": {
+        "division": "Application Division, Special Handling Unit",
+        "manager": "Manager Application Division",
+        "form": "FORM PTO-1533 (REV. 6-90)"
+    }
+}

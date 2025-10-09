@@ -1,0 +1,76 @@
+{
+    "Contract": {
+        "Number": "007-0",
+        "Supplier": "PmL",
+        "Term": "_/9-a//90 20mks",
+        "TotalAmount": "$3.2a0,734",
+        "CompensationSchedule": {
+            "Amendments": null,
+            "DueDate": null,
+            "Date": null,
+            "TotalCost": "AR90-010",
+            "Oms": "$lod,odo",
+            "Eme": 50,
+            "NoPaymentTerms": "No payment terms",
+            "Payment": "Compensation",
+            "CompensationAmount": "$3220134",
+            "OutOfPocketExpense": null
+        },
+        "Invoices": [
+            {
+                "Date": "InvoiceOpen",
+                "Approval": "Payment",
+                "Routed": null,
+                "No": 38,
+                "Amount": 62433,
+                "Balance": 5,
+                "Approve": 402.592
+            },
+            {
+                "Date": "31",
+                "Approval": "62470",
+                "Routed": "3/ia",
+                "No": 2,
+                "Amount": 59,
+                "Balance": 602,
+                "Approve": "H/e"
+            },
+            {
+                "Date": "54",
+                "Approval": "60525",
+                "Routed": "0.592",
+                "No": 25,
+                "Amount": "o/",
+                "Balance": 51326,
+                "Approve": "1/1"
+            },
+            {
+                "Date": "6262",
+                "Approval": "1/",
+                "Routed": "H02592",
+                "No": 3,
+                "Amount": 2,
+                "Balance": 402.592,
+                "Approve": 1518
+            },
+            {
+                "Date": 309,
+                "Approval": 8,
+                "Routed": 100.0,
+                "No": 2720,
+                "Amount": 97,
+                "Balance": 1295,
+                "Approve": 221
+            },
+            {
+                "Date": 31,
+                "Approval": 5439,
+                "Routed": "te",
+                "No": 270,
+                "Amount": 734,
+                "Balance": null,
+                "Approve": null
+            }
+        ]
+    }
+}

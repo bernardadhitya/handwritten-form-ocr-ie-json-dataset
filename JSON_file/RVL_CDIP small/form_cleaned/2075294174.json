@@ -1,0 +1,69 @@
+{
+    "communicationResultReport": {
+        "date": "May 5, 1999",
+        "time": "4:18 PM",
+        "tti": null,
+        "fileMode": null,
+        "option": null,
+        "addressGroup": null,
+        "result": "OK",
+        "page": "31/31",
+        "memoryTx": null,
+        "tln": null,
+        "reasonForError": "E-3 RUSYACSIMILE CONNECTION",
+        "details": {
+            "date": "May 25, 1989",
+            "time": "10:04 AM",
+            "sender": "Frog-A P DC",
+            "faxNumber": "+2020426088",
+            "transmissionId": "T-160",
+            "pages": "03/33",
+            "faxCode": "F-562",
+            "recipientFaxNumber": "2075294174",
+            "recipient": "JONES DAY REAVIS & POGUE",
+            "locations": [
+                "ATLANTA",
+                "LONDON",
+                "CHICAGO",
+                "LOS ANGELES",
+                "CLEVELAND",
+                "COLUMBUS",
+                "NEW YORK",
+                "DALLAS",
+                "PARIS",
+                "PITTSBURGH PENNSYLVANIA",
+                "FRANKFURT",
+                "GENEVA",
+                "HONG KONG",
+                "TOKYO",
+                "IRVINE",
+                "WASHINGTON"
+            ],
+            "address": "SOO GRANT STREET",
+            "facsimile": "1209-7333",
+            "contact": {
+                "name": "WAITERE DIRECT UKSER",
+                "phone": "412394-7914"
+            }
+        },
+        "dateOfLetter": "May 21, 1999",
+        "subject": "A.D. Bedell Wholesale Co. Inc. vs. Philip Morris Inc. et al",
+        "recipients": [
+            {
+                "name": "Merjorie P. Lindblom Esq",
+                "firm": "Kirkland & Ellis",
+                "address": "153 E. 53rd St, New York, NY 10022"
+            },
+            {
+                "name": "Douglas Wald Esq",
+                "firm": "Arnold & Porter",
+                "address": "555 12th Street N.W., Washington D.C. 20004"
+            },
+            {
+                "name": "Barnard D. Marcus Esq",
+                "firm": "Marcus & Shapira",
+                "address": "One Oxford Centre, 35th Floor, Pittsburgh, PA 15219"
+            }
+        ]
+    }
+}

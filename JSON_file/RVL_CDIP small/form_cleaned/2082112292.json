@@ -1,0 +1,63 @@
+{
+    "company": "Philip Morris U.S.A.",
+    "business": "Philip Morris U.S.A.",
+    "document": {
+        "type": "Purchase Requisition",
+        "number": "050-7R5",
+        "department_number": "050-7R5-691",
+        "account_number": null,
+        "po_number": null,
+        "date_prepared": "02/23/2000",
+        "requisitioner": "John Paine/Frank Yang",
+        "requisitioner_phone_no": "43110/43852",
+        "suggested_supplier": {
+            "name": "Procedyne Corp.",
+            "address": "11 Industrial Drive, New Brunswick, NJ 08901"
+        },
+        "ship_to": null,
+        "deliver_to": null,
+        "date_required": "02/28/2000",
+        "payment_terms": "NET 30 Days",
+        "fob": "Shipping Point",
+        "freight_terms": "Prepay & Add",
+        "route_via": "Destination",
+        "reason_order_placed": "to pilot-scale reactors (batch and continuous)",
+        "purpose": "Pilot Scale Testing",
+        "quotes_attached": "Yes",
+        "items_attached_to_be_sent_to_vendor": "Yes",
+        "items": [
+            {
+                "quantity": 5,
+                "unit_of_measure": "Day",
+                "description": "Five (5) days testing",
+                "unit_price": 2100,
+                "total_price": 10500
+            },
+            {
+                "description": "Setup modification",
+                "unit_price": 1200
+            },
+            {
+                "description": "Supplies (Nitrogen and distilled water)",
+                "unit_price": 475
+            },
+            {
+                "description": "Clean-up and sample packing",
+                "unit_price": 900
+            },
+            {
+                "description": "Technical report",
+                "unit_price": 600
+            }
+        ],
+        "union_notification": "Yes",
+        "total_amount": 13675,
+        "approval_signatures": [
+            2,
+            5,
+            3,
+            6
+        ],
+        "doc_code": "P0780"
+    }
+}
