@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2467" height="3501">02039_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Fermeture de compte</scenario>
+  <writer>BALLON Jonathan</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="103" top_left_y="265" bottom_right_x="699" bottom_right_y="418">
+       <type>Code d'envoi</type>
+       <text>LEXIZT</text>
+  </box>
+  <box top_left_x="351" top_left_y="438" bottom_right_x="1217" bottom_right_y="553">
+       <type>Nom</type>
+       <text>BALLON JONATHAN</text>
+  </box>
+  <box top_left_x="1421" top_left_y="435" bottom_right_x="2249" bottom_right_y="548">
+       <type>Prénom</type>
+       <text>JONATHAN</text>
+  </box>
+  <box top_left_x="441" top_left_y="546" bottom_right_x="2258" bottom_right_y="649">
+       <type>Adresse</type>
+       <text>3 RUE LUNEVILLE</text>
+  </box>
+  <box top_left_x="525" top_left_y="657" bottom_right_x="974" bottom_right_y="770">
+       <type>Code Postal</type>
+       <text>54300</text>
+  </box>
+  <box top_left_x="1103" top_left_y="649" bottom_right_x="2265" bottom_right_y="765">
+       <type>Ville</type>
+       <text>BONVILLER</text>
+  </box>
+  <box top_left_x="320" top_left_y="777" bottom_right_x="1254" bottom_right_y="933">
+       <type>Téléphone</type>
+       <text>0392133846</text>
+  </box>
+  <box top_left_x="469" top_left_y="1059" bottom_right_x="2259" bottom_right_y="1185">
+       <type>Catégorie Scénario</type>
+       <text>Fermeture de compte</text>
+  </box>
+  <box top_left_x="239" top_left_y="1176" bottom_right_x="2260" bottom_right_y="1373">
+       <type>Objet Scénario</type>
+       <text>¤{resiliation/résiliation}¤ d'assurance auto\n</text>
+  </box>
+  <box top_left_x="231" top_left_y="1371" bottom_right_x="2265" bottom_right_y="1575">
+       <type>Complément Scénario</type>
+       <text>aucun\n</text>
+  </box>
+  <box top_left_x="900" top_left_y="1593" bottom_right_x="1583" bottom_right_y="1752">
+       <type>Référence client</type>
+       <text>EGGYS43</text>
+  </box>
+  <box top_left_x="553" top_left_y="1748" bottom_right_x="2275" bottom_right_y="1852">
+       <type>Interlocuteur</type>
+       <text>MANIF ¤{ASSURANCEES/ASSURANCES}¤</text>
+  </box>
+  <box top_left_x="458" top_left_y="1844" bottom_right_x="2273" bottom_right_y="1956">
+       <type>Adresse Interlocuteur</type>
+       <text>LE BOURG</text>
+  </box>
+  <box top_left_x="541" top_left_y="1949" bottom_right_x="1000" bottom_right_y="2076">
+       <type>Code Postal Interlocuteur</type>
+       <text>18210</text>
+  </box>
+  <box top_left_x="1143" top_left_y="1950" bottom_right_x="2272" bottom_right_y="2056">
+       <type>Ville Interlocuteur</type>
+       <text>BANNEGON</text>
+  </box>
+  <box top_left_x="1054" top_left_y="2309" bottom_right_x="1283" bottom_right_y="2427">
+       <type>Temps passé</type>
+       <text>20</text>
+  </box>
+  <box top_left_x="865" top_left_y="2243" bottom_right_x="951" bottom_right_y="2303">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1076" top_left_y="2239" bottom_right_x="1128" bottom_right_y="2294">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1277" top_left_y="2255" bottom_right_x="1389" bottom_right_y="2301">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="246" top_left_y="2740" bottom_right_x="336" bottom_right_y="2796">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1632" top_left_y="2690" bottom_right_x="2272" bottom_right_y="2809">
+       <type>Date d'envoi postal</type>
+       <text>17/01/2007</text>
+  </box>
+  <box top_left_x="246" top_left_y="2841" bottom_right_x="335" bottom_right_y="2897">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="246" top_left_y="2942" bottom_right_x="336" bottom_right_y="2999">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1784" top_left_y="2874" bottom_right_x="2264" bottom_right_y="3000">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="246" top_left_y="3044" bottom_right_x="337" bottom_right_y="3103">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1630" top_left_y="3003" bottom_right_x="2267" bottom_right_y="3113">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1782" top_left_y="3213" bottom_right_x="2066" bottom_right_y="3314">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="545" top_left_y="3245" bottom_right_x="600" bottom_right_y="3298">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="764" top_left_y="3243" bottom_right_x="819" bottom_right_y="3298">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="957" top_left_y="3244" bottom_right_x="1011" bottom_right_y="3298">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1075" top_left_y="3107" bottom_right_x="2269" bottom_right_y="3216">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
