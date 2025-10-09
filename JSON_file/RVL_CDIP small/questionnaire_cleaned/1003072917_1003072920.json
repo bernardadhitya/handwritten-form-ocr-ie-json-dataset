@@ -1,0 +1,32 @@
+{
+    "DivisionNo": null,
+    "AreaNo": null,
+    "GroupNo": null,
+    "DistrictNo": null,
+    "ResearcherNo": null,
+    "ResearcherName": null,
+    "CaseNo": null,
+    "Letter": "Dear Sir: This is a study of differences in health between non-smokers and smokers. From time to time all sorts of claims have been made as to the effects of smoking on health. Many of these are poorly founded. We hope to determine statistically the effects of smoking in a group of men 50 years of age and over. Thank you for your cooperation. AMERICAN CANCER SOCIETY",
+    "YourName": null,
+    "Address": null,
+    "City": null,
+    "State": null,
+    "AgeRange": [
+        "50-54",
+        "55-59",
+        "60-64",
+        "65-69"
+    ],
+    "Instructions": "READ QUESTIONS CAREFULLY BEFORE CHECKING ANSWERS",
+    "Questions": {
+        "HaveYouEverDoneSmokingOfAnyKind": null,
+        "IfYesForHowManyYearsHaveYouSmoked": null,
+        "DuringYourEntireLife": {
+            "HaveYouEverSmokedAtLeast5To10PacksOfCigarettes": null,
+            "HaveYouEverSmokedAtLeast50To75Cigars": null,
+            "HaveYouEverSmokedAtLeast3To5PackagesOfPipeTobacco": null
+        }
+    },
+    "Note": "If your answers to the 3 types of smoking in question B are all 'No', we need no further information. However, if any answer has been 'Yes', please answer the questions on the following pages.",
+    "ID": "1003072917"
+}

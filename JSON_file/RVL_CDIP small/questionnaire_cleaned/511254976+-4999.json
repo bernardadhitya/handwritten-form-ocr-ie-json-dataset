@@ -1,0 +1,98 @@
+{
+    "name": "KeN Suith",
+    "request": "Please assist us in the evaluation of this prototype. Your efforts are greatly appreciated.",
+    "instructions": [
+        "Please smoke product 5 first and evaluate. Wait 3-5 minutes.",
+        "Please smoke product 66 second and evaluate. Wait 3-5 minutes.",
+        "Please smoke product 155 third and evaluate. Thank you!"
+    ],
+    "attributes": {
+        "Strength": {
+            "code": "5802.155",
+            "scale": [
+                2,
+                54.4,
+                1,
+                3,
+                7
+            ],
+            "description": "Not at all to Extremely"
+        },
+        "Harshness": {
+            "code": "Suons",
+            "scale": [
+                1,
+                2,
+                5,
+                7
+            ],
+            "description": "Extremely to Not at all harsh"
+        },
+        "Bitter Taste": {
+            "code": "555",
+            "scale": [
+                1,
+                3,
+                6,
+                7
+            ],
+            "description": "Not at all to Extremely bitter"
+        },
+        "Smoothness": {
+            "code": "3.3 4",
+            "scale": [
+                1,
+                2,
+                5,
+                6,
+                7
+            ],
+            "description": "Very little to A lot"
+        },
+        "Tobacco Taste": {
+            "code": "4.5.5",
+            "scale": [
+                1,
+                2,
+                3,
+                5,
+                6,
+                7
+            ],
+            "description": "Very Little to A lot"
+        },
+        "Burn Rate": {
+            "code": "554",
+            "scale": [
+                1,
+                2,
+                3,
+                6
+            ],
+            "description": "Too Slow to Too Fast"
+        },
+        "Aftertaste": {
+            "code": "533",
+            "scale": [
+                1,
+                2,
+                3
+            ],
+            "description": "Not at all to Extreme"
+        },
+        "Overall Acceptance": {
+            "code": "478",
+            "scale": [
+                0,
+                6,
+                10
+            ],
+            "description": "VERY WORST to VERY BEST"
+        }
+    },
+    "comments": "Please comment on any attributes not listed on this ballot that are important to smoking quality.",
+    "additional_codes": [
+        "51125",
+        "4976"
+    ]
+}

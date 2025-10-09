@@ -1,0 +1,37 @@
+{
+    "company": "RESEARCH BUREAU LTD.",
+    "address": "CREENBANK, LONDON E1 9PA",
+    "telephone": "O-488-1366",
+    "survey": "TRANSPORT SURVEY",
+    "questionnaire_no": "RSL51114",
+    "interviewer": {
+        "name": "M.R.S.J.A.LUNN",
+        "interviewer_no": "INT.NO"
+    },
+    "respondent_no": "RESP.N",
+    "date": "C.15/",
+    "full_postal_address": "ED.",
+    "check": "Co1.10",
+    "social_class": "P1",
+    "occupation_of_head_of_household": "AHIGHER MAN..",
+    "age": {
+        "intermediate_management": "18-24",
+        "junior_management": "25~34",
+        "skilled_worker": "35-44",
+        "semi_unskilled": "45-54",
+        "state_pensions": "55-64",
+        "65_plus": "Co1.12"
+    },
+    "sex": {
+        "male": "P3",
+        "female": ""
+    },
+    "question_1": {
+        "question": "Do you use public transport at all in Glasgow?",
+        "code": "C.113",
+        "yes": "CONTINUE",
+        "yes_code": "2024976317",
+        "no": "CLOSE",
+        "no_code": "R67902"
+    }
+}

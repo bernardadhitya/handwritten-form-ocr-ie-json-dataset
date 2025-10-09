@@ -1,0 +1,46 @@
+{
+    "time": "9:08",
+    "page": "06",
+    "name": "FRON COSUER PESEAPCI",
+    "trial": "sTOr..9.m",
+    "prior_to_smoking": {
+        "aroma": {
+            "unpleasant": 2,
+            "pleasant": 3,
+            "just_right": 5
+        },
+        "moisture_level": "00",
+        "packing_ease": "easy"
+    },
+    "during_smoking": {
+        "taste_flavor": {
+            "unpleasant": 2,
+            "pleasant": 4,
+            "just_right": 2
+        },
+        "mouthfeel": {
+            "dry": 1,
+            "moist": 5,
+            "just_right": 2
+        },
+        "staying_lit": {
+            "easy": 2,
+            "just_right": 5,
+            "too_much": 6
+        }
+    },
+    "after_smoking": {
+        "aftertaste": {
+            "unpleasant": 1,
+            "pleasant": 3,
+            "just_right": 5
+        },
+        "likability": {
+            "dislike": 2,
+            "like": 3,
+            "same_as_own_brand": "like"
+        }
+    },
+    "vs_own_brand": "more",
+    "code": "570232783"
+}

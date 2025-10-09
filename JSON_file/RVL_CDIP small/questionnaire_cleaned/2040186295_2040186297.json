@@ -1,0 +1,46 @@
+{
+    "survey": {
+        "introduction": {
+            "owner": {
+                "message": "Hello, I'm from a market research company. We are conducting a survey among owners of beauty salons in the city. This is not a sales call, but rather an effort to gather opinions from professionals like yourself in the area.",
+                "questions": [
+                    {
+                        "question": "First of all, are you the owner of this salon that I am calling?",
+                        "options": {
+                            "yes": "[]",
+                            "no": "] - ASK TO SPEAK TO OWNER AND REPEAT INTRODUCTION"
+                        }
+                    },
+                    {
+                        "question": "Are you yourself involved in managing your salon on a daily basis, or is someone else responsible for that function?",
+                        "options": {
+                            "involved": "-CONTINUE TO Q.2",
+                            "someone_else": "] - THANK AND ASK TO SPEAK TO THAT PERSON. THEN START WITH INTRODUCTION TO MANAGER"
+                        }
+                    }
+                ]
+            },
+            "manager": {
+                "message": "Hello, I'm from a market research company. We are conducting a survey among managers or owners of beauty salons who are involved in managing the salon on a daily basis. Let me assure you that this is not a sales call, but rather an effort to gather opinions from professionals like yourself in the area.",
+                "questions": [
+                    {
+                        "question": "First of all, are you the person responsible for managing this salon on a daily basis?",
+                        "options": {
+                            "yes": "[]-CONTINUE TO Q.2",
+                            "no": "] - ASK TO SPEAK TO THAT PERSON AND REPEAT"
+                        }
+                    }
+                ]
+            }
+        },
+        "questions": [
+            {
+                "question": "Have you ever participated in a market research group discussion or interview?",
+                "options": {
+                    "yes": "[]-ASK Q.2b",
+                    "no": "[]-SKIP TO Q.3"
+                }
+            }
+        ]
+    }
+}

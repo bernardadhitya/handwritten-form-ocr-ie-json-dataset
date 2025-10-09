@@ -1,0 +1,76 @@
+{
+    "title": "NATIONAL CONSENSUS SURVEYS",
+    "address": {
+        "street": "801 Sacond Avenue",
+        "zip": "10017"
+    },
+    "instructions": "Please take a few minutes to go through the advertisements in the book. Please take as much time with each ad as you desire. If you ordinarily wear reading glasses, you'll need them.",
+    "portfolio": "HAND RESPONDENT PORTFOLIO AND TAKE IT BACK BEFORE CONTINUING",
+    "questions": [
+        {
+            "question": "Now I'd like to ask you a few questions about the ads in the book. What brand or products do you remember seeing ads for in the book?",
+            "brands": [
+                "Anana Range",
+                "Dole Pineapple",
+                "Luko",
+                "BankAmericard/VISA",
+                "General Electric",
+                "Golden Lights",
+                "Bayer Aspirin",
+                "Hilton Hotels",
+                "Golden",
+                "Solene Lawn Mower",
+                "Kawasaki",
+                "Yamaha",
+                "Budweiser",
+                "Old Spice Pocket Cologne",
+                "Canadian Club",
+                "Polaroid Camera",
+                "Kent",
+                "Light",
+                "Golden-Light",
+                "Coca Cola",
+                "Kent Up",
+                "Concord Watches",
+                "Foster's Choice",
+                "Lights Up",
+                "Crest toothpaste",
+                "Other"
+            ]
+        },
+        {
+            "question": "Do you remember any ads for cigarettes?",
+            "brands": [
+                "Luke",
+                "Golden Lights",
+                "Golden (Up)",
+                "Kent Golden",
+                "Kent Golden Lights",
+                "Kent-Lights",
+                "Kent (Up)",
+                "Lights Up",
+                "True",
+                "Other"
+            ]
+        },
+        {
+            "question": "Do you remember any ads for any other brands of cigarettes?",
+            "brands": [
+                "Golden Lights",
+                "Luke",
+                "Golden (Up)",
+                "Kent",
+                "Golden",
+                "Kent Golden Light",
+                "Kent Lights"
+            ]
+        }
+    ],
+    "skipInstructions": [
+        "IF NO CIGARETTE BRANDS MENTIONED ABOVE ASK Q.3.",
+        "IF ONLY ONE OR TWO CIGARETTE BRANDS MENTIONED SKIP TO Q.3b.",
+        "IF ALL THREE CIGARETTE BRANDS MENTIONED SKIP TO Q.4.",
+        "IF TRUE MENTIONED IN Q.23 OR 3b CONTINUE.",
+        "IF TRUE NOT MENTIONED IN Q.23 OR 3b SKIP TO Q.10."
+    ]
+}

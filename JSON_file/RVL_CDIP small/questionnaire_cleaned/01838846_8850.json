@@ -1,0 +1,75 @@
+{
+    "survey": {
+        "id": "#423184",
+        "address": "801 Second Avenue, New York, New York, 10017",
+        "instructions": "Please take a few minutes to go through the advertisements in this book. Please take as much time with each ad as you care to. If you ordinarily wear reading glasses you'll need them. Now I'd like to ask you a few questions about the ads in the book.",
+        "questions": [
+            {
+                "question": "What brands or products do you remember seeing ads for in the book?",
+                "brands": [
+                    "PROSE",
+                    "Any other brands?",
+                    "OS CNYE R LON 0",
+                    "GENERAL ADS",
+                    "Amans Racgs",
+                    "General Electric Vasar",
+                    "Dole Pineapple",
+                    "Luk",
+                    "BankAmericard/VISA",
+                    "Coldep",
+                    "Lights",
+                    "Bayer Aspirin",
+                    "Hilton Hotels",
+                    "Coldan",
+                    "Usp.",
+                    "Bolens Lawn Mower",
+                    "Kawasaki",
+                    "Vent Golden",
+                    "Budweiser",
+                    "Old Spice Pocket Cologne",
+                    "Lea",
+                    "Coldep Lights",
+                    "Canadian Club",
+                    "Polaroid Camera",
+                    "Lights",
+                    "Coca Cola",
+                    "Singer Sewing Machines",
+                    "Kent",
+                    "Uasp.",
+                    "Concord Watches",
+                    "Taster's Choice",
+                    "Lights",
+                    "Crest",
+                    "Weicht",
+                    "Other SPECIFY"
+                ]
+            },
+            {
+                "question": "Do you remember any ads for cigarettes?",
+                "brands": [
+                    "Golden Lights",
+                    "Golden Unsp.",
+                    "Kent Golden",
+                    "Kent Usp.",
+                    "Other SPECIFY"
+                ]
+            },
+            {
+                "question": "If no cigarette brands mentioned above, ask Q.3. If only one or two cigarette brands mentioned, skip to Q.3. If all three cigarette brands mentioned, skip to Q.4.",
+                "brands": [
+                    "Golden Lights",
+                    "Golden Unsp.",
+                    "Kent Golden Lights",
+                    "Kent Golden",
+                    "Kent Lights"
+                ]
+            },
+            {
+                "question": "If True mentioned in Q.2, 3 or 3b, continue. If True not mentioned in Q.2, 3 or 3b, skip to Q.10.",
+                "brands": [
+                    "True"
+                ]
+            }
+        ]
+    }
+}

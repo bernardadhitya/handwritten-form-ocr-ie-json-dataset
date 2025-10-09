@@ -1,0 +1,62 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "title": "EASE OF CONTACT",
+            "items": [
+                "Ability to get through on first call",
+                "Satisfaction with telephone recording",
+                "If put on hold, length of time on hold"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "PERSONNEL",
+            "items": [
+                "Courtesy",
+                "Professionalism",
+                "Knowledge",
+                "Authority to resolve problem"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "RESPONSE",
+            "items": [
+                "Timeliness",
+                "Clarity",
+                "Helpfulness",
+                "Follow through on promised action"
+            ]
+        }
+    ],
+    "satisfaction_levels": [
+        "Very Satisfied",
+        "Somewhat Satisfied",
+        "Neither Satisfied Nor Dissatisfied",
+        "Somewhat Dissatisfied",
+        "Very Dissatisfied"
+    ],
+    "action_taken": [
+        "I was completely satisfied.",
+        "I was NOT completely satisfied but the action taken was acceptable.",
+        "I was NOT completely satisfied but some action was taken.",
+        "I was NOT AT ALL satisfied with the action taken.",
+        "I was NOT AT ALL satisfied; no action was taken."
+    ],
+    "purchase_intention": [
+        "Definitely Would",
+        "Probably Would",
+        "Might or Might Not",
+        "Probably Would Not",
+        "Definitely Would Not"
+    ],
+    "recommendation": [
+        "Definitely Would",
+        "Probably Would",
+        "Might or Might Not",
+        "Probably Would Not",
+        "Definitely Would Not"
+    ],
+    "additional_comments": "Have not received my mailing yet but it has been about a month since I called to see if problem is resolved."
+}

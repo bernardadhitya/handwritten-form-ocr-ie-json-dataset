@@ -1,0 +1,81 @@
+{
+    "survey": {
+        "title": "NATIONAL CONSENSUS SURVEYS",
+        "address": {
+            "street": "801 Second Avenue",
+            "city": "New York",
+            "state": "New York",
+            "zip": "10017"
+        },
+        "code": "13-J",
+        "questions": [
+            {
+                "question": "What brands or products do you remember seeing ads for in the book?",
+                "categories": [
+                    "GENERAL ADS",
+                    "CIGARETTE ADS"
+                ],
+                "brands": [
+                    "Dole Pineapple",
+                    "BankAmericard/VISA",
+                    "General Electric Washer",
+                    "Golden Lights",
+                    "Bayer Aspirin",
+                    "Hilton Hotels",
+                    "Bolens Lawn Mower",
+                    "Old Spice Pocket Cologne",
+                    "Kawasaki",
+                    "Kent",
+                    "Budweiser",
+                    "Canadian Club",
+                    "Polaroid Camera",
+                    "Coca Cola",
+                    "Singer Sewing Machines",
+                    "Concord Watches",
+                    "Taster's Choice",
+                    "Crest toothpaste",
+                    "Weight Watcher"
+                ],
+                "cigarette_brands": [
+                    "Luke",
+                    "Golden Lights",
+                    "Golden (Dasp.)",
+                    "Kent",
+                    "Kent Colden",
+                    "Kent Lights",
+                    "Golden Unsp.",
+                    "Kent Unsp."
+                ]
+            },
+            {
+                "question": "Do you remember any ads for cigarettes?",
+                "brands": [
+                    "Luke",
+                    "Golden Lights",
+                    "Golden (Dasp.)",
+                    "Kent",
+                    "Kent Colden",
+                    "Kent Lights",
+                    "Golden Unsp.",
+                    "Kent Unsp."
+                ]
+            },
+            {
+                "question": "Do you remember any ads for any other brands of cigarettes?",
+                "brands": [
+                    "Luke",
+                    "Golden Lights",
+                    "Golden Unsp.",
+                    "Kent Colden",
+                    "Kent Golden",
+                    "Kent Casp",
+                    "Kent Lights"
+                ]
+            },
+            {
+                "question": "True",
+                "note": "IF TRUE MENTIONED IN Q.2 3a OR 3b CONTINUE. IF TRUE NOT MENTIONED IN Q.2 3a OR 3b SKIP TO Q.10."
+            }
+        ]
+    }
+}

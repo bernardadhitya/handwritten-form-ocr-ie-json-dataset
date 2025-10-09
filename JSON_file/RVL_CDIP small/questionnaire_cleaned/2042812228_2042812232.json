@@ -1,0 +1,77 @@
+{
+    "company": "WINONA RESEARCH INC.",
+    "address": {
+        "street": "8200 Humboldt Ave. So.",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip": "55431"
+    },
+    "tracking": "PL-II TRACKING 1-5",
+    "number": "1602-30275",
+    "version": "Short Version 9.2",
+    "date": "April 1983",
+    "market": {
+        "male": true,
+        "female": true
+    },
+    "respondent": {
+        "name": "",
+        "telephone_number": "",
+        "address": "",
+        "city": "",
+        "state": "",
+        "zip": ""
+    },
+    "interviewer": {
+        "number": "",
+        "date": "",
+        "callback": {
+            "name": "",
+            "phone": "",
+            "date": "",
+            "time": ""
+        }
+    },
+    "record": {
+        "date": "",
+        "time": "",
+        "result": ""
+    },
+    "attempts": {
+        "second": "",
+        "third": "",
+        "fourth": ""
+    },
+    "script": "Hello, I'm calling long distance from WINONA RESEARCH. We are a national opinion research company and we would like to interview someone (a man or a woman) in your household.",
+    "questions": {
+        "1a": "But, first of all, can you please tell me what county you live in?",
+        "counties": [
+            "Cochise",
+            "Pima",
+            "Coconino",
+            "Pinal",
+            "Maricopa",
+            "Yavapai",
+            "Navajo",
+            "Yuma",
+            "Other"
+        ],
+        "quotas": {
+            "check": true,
+            "don't_know": true
+        },
+        "1b": "And, are you under 18, between 18 and 34, or 35 years of age or older?",
+        "age_groups": {
+            "under_18": "ASK Q.2",
+            "35_or_over": "CHECK QUOTA. IF FILLED SKIP TO Q.2 OTHERWISE ASK Q.1c."
+        },
+        "1c": "Do you smoke cigarettes?",
+        "smoking": {
+            "yes": "SKIP TO Q.3a",
+            "no": "Is there anyone (a man or a woman) in your household who is 18 years of age or over, 18 to 34 years of age, 35 years of age or over and who smokes cigarettes?"
+        },
+        "callback": "ASK TO SPEAK TO THAT PERSON, RE-INTRODUCE YOURSELF AND BEGIN WITH Q.1b. IF NOT AVAILABLE ARRANGE FOR CALLBACK IN CALLBACK BOX ABOVE."
+    },
+    "termination": "THANK RESPONDENT AND TERMINATE",
+    "date_code": "4/04/83 rms"
+}

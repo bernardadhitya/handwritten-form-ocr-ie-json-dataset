@@ -1,0 +1,40 @@
+{
+    "company": "Marketing Research Services Inc",
+    "project": "June 1987 Smoker Tracking",
+    "address": "15 East Eighth Street, Cincinnati, Ohio 45202",
+    "MRS_number": "8007",
+    "phone": "513-579-1555",
+    "date": "5/31/87",
+    "introduction": "Hello, I am calling from Marketing Research Services, a national public opinion firm, long distance from Cincinnati, Ohio. I'd like to ask you a few questions.",
+    "questions": [
+        {
+            "question": "First of all, are you 18 years of age or over?",
+            "yes": "1--->ASK Q.1a",
+            "no": "IF NO ONE 18 OR OVER IS AT HOME, THANK RESPONDENT AND ARRANGE CALLBACK. IF NO ADULT 18+ LIVES IN HOUSEHOLD, TERMINATE AND TALLY."
+        },
+        {
+            "question": "Could you tell me, do you live in a big city, a small city, a town, a suburb, out in the country, or what?"
+        },
+        {
+            "question": "Are you 18 years of age or over and smoke cigarettes?",
+            "yes": "1--->ASK Q.3",
+            "no": "2--->TO Q.48 DIRECTIONAL"
+        }
+    ],
+    "callback": {
+        "date": "",
+        "time": "",
+        "name": "",
+        "age": "",
+        "telephone": "204-936-5493",
+        "time_zone": {
+            "E": "",
+            "C": "",
+            "M": "",
+            "P": ""
+        },
+        "state_code": "",
+        "county_code": ""
+    },
+    "misc": "Lowrsel"
+}

@@ -1,0 +1,50 @@
+{
+    "group_date": "9/Z",
+    "time": "",
+    "location": {
+        "name": "New York Conference Center",
+        "address": "240 Madison Avenue",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10016"
+    },
+    "job_number": "04/359",
+    "respondent": {
+        "name": "Fenny Lau",
+        "phone": "2-32/-6y",
+        "address": "%3",
+        "city": "",
+        "zip": "0470"
+    },
+    "survey": {
+        "introduction": "Hello, this is calling from . We're conducting a survey among men between the ages of 18 and 24. Does anyone living in your household fit that description?",
+        "responses": {
+            "no": "No",
+            "yes_speak": "Yes-May I speak to him?",
+            "yes_not_home": "Not at home (ARRANGE TO CALL BACK LATER.)",
+            "no_refused": "No, refused (THANK AND TERMINATE)"
+        },
+        "questions": [
+            {
+                "question": "First how old are you?",
+                "response": "C - years (if fewer than 18 or greater than 24, terminate)"
+            },
+            {
+                "question": "I'm going to read a list of different types of products. For each product I mention please tell me whether you, yourself, use that type of product.",
+                "items": [
+                    "Packaged cookies",
+                    "Diet or low-calorie soft drinks",
+                    "Regular soft drinks",
+                    "Decaffeinated coffee",
+                    "Regular coffee",
+                    "Cigarettes",
+                    "Paper towels",
+                    "Frozen vegetables",
+                    "Canned vegetables"
+                ],
+                "terminate_condition": "If answered no to cigarettes, THANK AND TERMINATE."
+            }
+        ]
+    },
+    "contact_number": "2049165641"
+}

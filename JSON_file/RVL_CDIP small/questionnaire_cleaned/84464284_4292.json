@@ -1,0 +1,96 @@
+{
+    "company": "AHF Marketing Research",
+    "survey": "National Consensus Surveys",
+    "address": {
+        "street": "1200 #25077W",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10017"
+    },
+    "date": "August, 1977",
+    "project": "Charrette Portfolio",
+    "questionnaire": "Screening Questionnaire",
+    "interview": {
+        "time_started": "130",
+        "time_ended": null
+    },
+    "respondent": {
+        "name": null,
+        "telephone": null,
+        "address": null,
+        "city": null,
+        "state": null,
+        "metro_area": null,
+        "date": "905",
+        "validated_by": null,
+        "validation_date": "5"
+    },
+    "cities": [
+        "Boston",
+        "Detroit",
+        "Des Moines",
+        "Lincoln",
+        "New Orleans",
+        "Omaha"
+    ],
+    "initial_refusal": [
+        5,
+        6,
+        10,
+        20,
+        21,
+        22,
+        21,
+        24,
+        25,
+        26,
+        27,
+        29,
+        30,
+        47,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        118,
+        119,
+        120
+    ],
+    "participated_in_study": {
+        "question": "Have you, yourself, participated in a market research survey in the past three months or so?",
+        "yes": "Continue",
+        "no": null
+    },
+    "age_card": {
+        "question": "Please tell me which letter on this card includes your age.",
+        "under_21": "C",
+        "21_to_29": "D",
+        "30_to_34": "Continue",
+        "40_to_44": null,
+        "45_to_49": null,
+        "terminate": "Circle next highest number"
+    },
+    "age": {
+        "under_or_over": "N",
+        "numbers": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            10,
+            11,
+            12,
+            84464284
+        ]
+    }
+}

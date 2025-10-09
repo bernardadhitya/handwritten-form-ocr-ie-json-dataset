@@ -1,0 +1,47 @@
+{
+    "phone_number": "9102946116",
+    "company": "HOMER MKT RESRCH",
+    "code": "470P02",
+    "date_time": "DEC119713:16",
+    "client": "R.J.Reynolds Tob.Co.",
+    "address": {
+        "street": "401 N.Main St.",
+        "city": "Winston-Salem",
+        "state": "NC",
+        "zip": "27102"
+    },
+    "contact": {
+        "telephone": "910741-7401",
+        "fax": "010741-7649"
+    },
+    "document": "SCREENING QUESTIONNAIRE",
+    "respondent": {
+        "name": "",
+        "home_telephone": "",
+        "work_telephone": "",
+        "home_address": "",
+        "city": "",
+        "state": "",
+        "zip_code": ""
+    },
+    "recruiter": "",
+    "date": "",
+    "validation": "",
+    "data": "Hello, I'm from We're conducting a research study among men and women and would like to ask you a few questions, if I may please. First of all",
+    "questions": {
+        "respondent_sex": {
+            "male": "CONTINUE...APPLY TO QUOTAS",
+            "female": ""
+        },
+        "age_question": "Would you please tell me your age? WRITE EXACT AGE AND CHECK APPROPRIATE BOX",
+        "age_ranges": {
+            "under_21": "TERMINATE",
+            "21_to_34": "RECRUIT TWO GROUPS MALE, Q",
+            "35_or_older": "GROUP FEMALE TERMINATE"
+        }
+    },
+    "codes": {
+        "code1": "51717",
+        "code2": "9536"
+    }
+}

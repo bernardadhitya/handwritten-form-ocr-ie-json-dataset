@@ -1,0 +1,135 @@
+{
+    "document_id": "1-6-140",
+    "title": "Contemporary Marketing Research",
+    "address": {
+        "street": "770 Lexington Ave.",
+        "suite": "40C6",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10021"
+    },
+    "date": "June, 1981",
+    "test_type": "Commercial Test",
+    "questionnaire": {
+        "version": "5 - 1",
+        "type": "Screening Questionnaire",
+        "fields": {
+            "name": "Pes",
+            "tel": "22",
+            "address": "-",
+            "city_state": "-"
+        },
+        "interview": {
+            "began": "",
+            "ended": "",
+            "length": "6/7",
+            "date": "",
+            "validated_by": "",
+            "validation_date": ""
+        },
+        "introduction": "Hello. I'm from Contemporary Marketing Research. We are asking men and women in your area a few questions and would like to include your opinions in our study.",
+        "instructions": "INTERVIEWER: CHECK SEX QUOTAS. CONTINUE IF NEEDED",
+        "questions": [
+            {
+                "question": "CIRCLE RESPONDENT'S SEX:",
+                "options": [
+                    "Male",
+                    "Female"
+                ]
+            },
+            {
+                "question": "Do you or any member of your household work for any of the following companies? READ LIST",
+                "options": [
+                    "A Market Research firm",
+                    "An advertising agency",
+                    "A Manufacturer or distributor of cigarettes or tobacco products"
+                ],
+                "action": "IF YES TO ANY TERMINATE"
+            },
+            {
+                "question": "Which of the following groups includes your age? (READ LIST)",
+                "options": [
+                    "Under 21",
+                    "21-29",
+                    "30-39",
+                    "40-49",
+                    "50-59",
+                    "60-65",
+                    "Over 65",
+                    "Refused Age (DO NOT READ)"
+                ],
+                "action": {
+                    "terminate": [
+                        "Under 21",
+                        "Over 65",
+                        "Refused Age (DO NOT READ)"
+                    ],
+                    "continue_if_needed": [
+                        "21-29",
+                        "30-39",
+                        "40-49",
+                        "50-59",
+                        "60-65"
+                    ]
+                }
+            },
+            {
+                "question": "Do you smoke cigarettes?",
+                "options": [
+                    "Yes",
+                    "No"
+                ],
+                "action": {
+                    "continue": "Yes",
+                    "terminate": "No"
+                }
+            },
+            {
+                "question": "About how many cigarettes do you smoke in an average day?",
+                "options": [
+                    "Less than 10 (Less than 1/2 pack)",
+                    "1/2 to less than 1 pack",
+                    "1 pack to less than 1 1/2 packs",
+                    "2 packs or more"
+                ],
+                "action": {
+                    "terminate": [
+                        "Less than 10 (Less than 1/2 pack)"
+                    ],
+                    "continue": [
+                        "1/2 to less than 1 pack",
+                        "1 pack to less than 1 1/2 packs",
+                        "2 packs or more"
+                    ]
+                }
+            }
+        ],
+        "ads": {
+            "rotation": "ROTATE ADS BELOW. USING THE COLOR QUESTIONNAIRE INDICATED.",
+            "instructions": "BE SURE TO CIRCLE THE CODE AND CHECK THE PROPER QUOTA GROUPS:",
+            "quota_groups": {
+                "ad_letter": {
+                    "white_questionnaire": {
+                        "male": "1",
+                        "female": "11",
+                        "age_21_34": "1",
+                        "age_35_plus": "2"
+                    },
+                    "blue_questionnaire": {
+                        "ad": "2",
+                        "age": "3"
+                    },
+                    "pink_questionnaire": {
+                        "ad": ""
+                    },
+                    "yellow_questionnaire": {
+                        "ad": ""
+                    },
+                    "green_questionnaire": {
+                        "ad": "9"
+                    }
+                }
+            }
+        }
+    }
+}

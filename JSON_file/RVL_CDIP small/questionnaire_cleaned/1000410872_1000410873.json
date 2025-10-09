@@ -1,0 +1,73 @@
+{
+    "company": {
+        "name": "PRODUCT OPINION LABORATORY",
+        "address": "P.O. Box 26563, Richmond, VA 23261",
+        "phone": "804-271-6002"
+    },
+    "instructions": {
+        "return_ballot_by": "N-9052 (RED CODES)",
+        "print_name_address_corrections": "on label",
+        "address_change": {
+            "apply_to": "all family members or just you",
+            "area_code": "What is your area code?",
+            "new_phone_number": "Please include"
+        },
+        "panelists": "3 packs",
+        "ballot_completion": "fill out the ballot completely",
+        "return_instructions": "please return it to me in the enclosed postage-paid envelope",
+        "thank_you_note": "Thank you very much--your cooperation in this test is most helpful",
+        "study_leader": "raucon"
+    },
+    "part_1": {
+        "instructions": "FIRST SMOKE TO CR THREE PACKS OF THE CIGARETTES CODED J2",
+        "phrases": [
+            {
+                "left": "a mild taste",
+                "right": "Is harsh"
+            },
+            {
+                "left": "Does not have a good taste",
+                "right": "Has a good taste"
+            },
+            {
+                "left": "Does not have enough menthol",
+                "right": "Has too much menthol"
+            },
+            {
+                "left": "Is not satisfying",
+                "right": "Is satisfying"
+            },
+            {
+                "left": "Is not cool smoking",
+                "right": "Is cool smoking"
+            },
+            {
+                "left": "Does not burn too fast",
+                "right": "Burns too fast"
+            },
+            {
+                "left": "Does not have an easy draw",
+                "right": "Has an easy draw"
+            },
+            {
+                "left": "Does not have a good menthol flavor",
+                "right": "Has a good menthol flavor"
+            },
+            {
+                "left": "Does not have a dry taste in the mouth",
+                "right": "Has a dry taste in the mouth"
+            },
+            {
+                "left": "Does not leave a good aftertaste in my mouth",
+                "right": "Leaves a good aftertaste in my mouth"
+            },
+            {
+                "left": "I dislike extremely",
+                "right": "I like extremely"
+            }
+        ],
+        "continue_on_reverse": "NV-11A"
+    },
+    "cigarette_code": "J2",
+    "identifier": "1000410872"
+}

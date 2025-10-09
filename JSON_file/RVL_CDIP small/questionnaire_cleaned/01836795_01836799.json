@@ -1,0 +1,67 @@
+{
+    "survey": {
+        "title": "NATLONAL CONSENSUS SURVEYS",
+        "id": "#42318W",
+        "address": {
+            "street": "801-Second Avenue",
+            "city": "New York",
+            "state": "New York",
+            "zip": "10017"
+        },
+        "questions": [
+            {
+                "id": 1,
+                "text": "What brands or products do you remember seeing ads for in the book?",
+                "type": "open-ended",
+                "note": "DO NOT READ EITHER BRAND NAMES OR PRODUCT CATEGORIES."
+            },
+            {
+                "id": 2,
+                "text": "Do you remember any ads for cigarettes?",
+                "type": "yes-no"
+            },
+            {
+                "id": 3,
+                "text": "What brands do you remember?",
+                "type": "open-ended"
+            },
+            {
+                "id": 4,
+                "text": "Any others?",
+                "type": "open-ended"
+            }
+        ],
+        "ads": {
+            "general": [
+                "Amena Range",
+                "Dole Pineapple",
+                "Lika",
+                "BankAmericard/VISA",
+                "General Electric Washer",
+                "Golden Unsp.",
+                "Golden Lights",
+                "Bayer Aspirin",
+                "Hilton Hotels",
+                "Bolens Lawn Mower",
+                "Kawasaki",
+                "Budweiser",
+                "Old Spice Pocket Cologne",
+                "Canadian Club",
+                "Polaroid Camera",
+                "Coca-Cola",
+                "Singer Sewing Machines",
+                "Concord Watches",
+                "Taster's Choice",
+                "Crest Toothpaste",
+                "Weight Watchers"
+            ],
+            "cigarette": [
+                "Kent Golden",
+                "Kent Golden Lights",
+                "Kent Lights",
+                "Kent Unsp.",
+                "True"
+            ]
+        }
+    }
+}

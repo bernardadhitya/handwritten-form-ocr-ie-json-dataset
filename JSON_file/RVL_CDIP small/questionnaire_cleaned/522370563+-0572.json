@@ -1,0 +1,91 @@
+{
+    "id": 250774465,
+    "name": "Chris Roach",
+    "address": {
+        "line1": "3312 187th Street Ct N",
+        "city": "East Moline",
+        "state": "IL",
+        "zip": "61244-9752"
+    },
+    "phone": {
+        "home": null,
+        "area_code": null
+    },
+    "gender": {
+        "male": false,
+        "female": false
+    },
+    "eligibility": {
+        "smoker": true,
+        "age_21_or_older": true
+    },
+    "birth_date": {
+        "day": null,
+        "month": null,
+        "year": null
+    },
+    "today_date": {
+        "day": null,
+        "month": null,
+        "year": null
+    },
+    "signature": {
+        "first": "FDWARO",
+        "middle_initial": "D",
+        "last": "M0"
+    },
+    "usual_brand": {
+        "name": "AL6",
+        "type": {
+            "menthol": false,
+            "non_menthol": false,
+            "non_filter": false,
+            "king": false,
+            "long_100s": false,
+            "extra_long_120s": false
+        },
+        "pack_description": {
+            "lights": false,
+            "milds": false,
+            "ultra_lights": false,
+            "none_of_these": false
+        },
+        "preferred": {
+            "slims": false,
+            "superslims": false,
+            "soft": false,
+            "ultima": false,
+            "wides": false
+        }
+    },
+    "purchase_frequency": null,
+    "brand_preference": {
+        "like_as_much_as_another": false,
+        "prefer_over_some": false,
+        "prefer_over_most": false,
+        "prefer_over_every": false
+    },
+    "statements": {
+        "old_friend": {
+            "strongly_agree": false,
+            "agree": false,
+            "neither": false,
+            "disagree": false,
+            "strongly_disagree": false
+        },
+        "unique_taste": {
+            "strongly_agree": false,
+            "agree": false,
+            "neither": false,
+            "disagree": false,
+            "strongly_disagree": false
+        },
+        "company_interest": {
+            "strongly_agree": false,
+            "agree": false,
+            "neither": false,
+            "disagree": false,
+            "strongly_disagree": false
+        }
+    }
+}

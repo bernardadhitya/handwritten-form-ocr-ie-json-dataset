@@ -1,0 +1,104 @@
+{
+    "company": "MARKETING INFORMATION SYSTEMS INTL.INC.",
+    "address": {
+        "street": "100 Sy1van Avenue",
+        "suite": "#838391",
+        "city": "Englewood C1iffs",
+        "state": "New Jersey",
+        "zip": "07632"
+    },
+    "contact": {
+        "toll_free": "1-800-631-1623",
+        "phone": "201-947-6900"
+    },
+    "date": "December, 1991",
+    "codes": {
+        "CE+OE": "554",
+        "A.B.+PS5": null
+    },
+    "study": "DB MARKET STRUCTURE STUDY",
+    "questionnaire": {
+        "bump_up_screening": {
+            "card": "1",
+            "column": "71",
+            "screening": "LSCREENING",
+            "questions": [
+                {
+                    "text": "First of all, are you 18 years of age or older?",
+                    "note": "Yes",
+                    "response": {
+                        "yes": "X",
+                        "no": "THANK AND TERMINATE"
+                    }
+                },
+                {
+                    "text": "What is your exact age?",
+                    "instruction": "RECORD EXACT AGE AT LEFT BELOW; THEN x CORRESPONDING AGE CATEGORY",
+                    "categories": {
+                        "18-21": "9",
+                        "22-24": "3",
+                        "25-29": "4",
+                        "30-34": "5",
+                        "35-39": "7",
+                        "40-44": "8",
+                        "45-49": "9",
+                        "50-54": "0",
+                        "55-64": "x",
+                        "65 and over": "-"
+                    }
+                },
+                {
+                    "text": "Sex",
+                    "instruction": "RECORD DO NOT ASK",
+                    "categories": {
+                        "male": "10",
+                        "female": "2"
+                    }
+                },
+                {
+                    "text": "Race",
+                    "instruction": "RECORD DO NOT ASK",
+                    "categories": {
+                        "white": "4",
+                        "black": "5",
+                        "asian": "6"
+                    }
+                },
+                {
+                    "text": "HAND CARD #1",
+                    "categories": {
+                        "beer": {
+                            "yes": "1",
+                            "no": null
+                        },
+                        "breakfast cereals": {
+                            "yes": "2",
+                            "no": null
+                        },
+                        "cigarettes": {
+                            "yes": "3",
+                            "no": "THANK AND TERMINATE"
+                        },
+                        "frozen vegetables": {
+                            "yes": "4",
+                            "no": null
+                        },
+                        "gasoline": {
+                            "yes": "5",
+                            "no": null
+                        },
+                        "laundry detergent": {
+                            "yes": "6",
+                            "no": null
+                        },
+                        "liquor": {
+                            "yes": "8",
+                            "no": null
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "misc": "2043342790"
+}

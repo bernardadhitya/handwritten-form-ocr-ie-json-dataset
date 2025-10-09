@@ -1,0 +1,90 @@
+{
+    "document": {
+        "id": "1-6-140",
+        "title": "Contemporary Marketing Research",
+        "code": "9905",
+        "date": "June, 1981",
+        "address": "770 Lexington Ave., New York, New York 10021",
+        "type": "Commercial Test",
+        "version": "5 - 1",
+        "screening_questionnaire": {
+            "tel": "SA3",
+            "name": "",
+            "city_state": "AA",
+            "address": "",
+            "ended": "",
+            "length": "6/7",
+            "interview_began": "",
+            "interviewer": "",
+            "date": "",
+            "validated_by": "",
+            "validation_date": "",
+            "introduction": "From Contemporary Marketing Research. We are asking men and women.",
+            "interviewer_check": "Sex quotas continue if needed",
+            "respondent_sex": {
+                "male": 1,
+                "female": 2
+            },
+            "employment_check": {
+                "question": "First, do you or does anyone in your family work for the following types of companies?",
+                "options": [
+                    "A Market Research firm",
+                    "An advertising agency",
+                    "A Manufacturer or distributor of cigarettes or tobacco products"
+                ],
+                "terminate_if_yes": true
+            },
+            "age_group": {
+                "question": "Which of the following groups includes your age?",
+                "options": [
+                    "Under 21",
+                    "21-29",
+                    "30-34",
+                    "35-49",
+                    "50-59",
+                    "60-65",
+                    "Over 65",
+                    "Refused Age"
+                ],
+                "terminate_if_under_21": true
+            },
+            "smoking_status": {
+                "question": "Do you smoke cigarettes?",
+                "yes_continue": true,
+                "no_terminate": true
+            },
+            "cigarette_consumption": {
+                "question": "About how many cigarettes do you smoke in an average day?",
+                "options": [
+                    "Less than 10 (Less than 1/2 pack)",
+                    "10-19 (1/2 to less than 1 pack)",
+                    "20-29 (1 pack to less than 1 1/2 packs)",
+                    "30-39 (1 1/2 packs to less than 2 packs)",
+                    "40 or More (2 or above packs)"
+                ],
+                "terminate_if_less_than_10": true
+            },
+            "questionnaire_rotation": {
+                "instruction": "Rotate ads below using the color questionnaire indicated.",
+                "code_numbers": [
+                    "11",
+                    "12",
+                    "13"
+                ],
+                "quota_groups": {
+                    "male": "Male",
+                    "female": "Female",
+                    "age_21_34": "21-34",
+                    "age_35_plus": "35+"
+                },
+                "questionnaire_colors": {
+                    "white": "ADK",
+                    "blue": "AD",
+                    "pink": "AD",
+                    "yellow": "ADy",
+                    "green": "AD"
+                }
+            }
+        }
+    }
+}

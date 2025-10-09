@@ -1,0 +1,44 @@
+{
+    "title": "JAGE",
+    "instructions": "USE THIS DO NOT VAKTAGE.",
+    "study": "2-046",
+    "column": "RESPONDENT NAKE TIALS",
+    "telephone_number": "2201",
+    "introduction_and_eligibility": "We're doing a survey on products used in the home.",
+    "question_1": {
+        "text": "Approximately how many cigarettes do you usually smoke per day?",
+        "options": [
+            "Less than 1",
+            "1-15",
+            "16-25",
+            "Over 25"
+        ]
+    },
+    "question_2": {
+        "text": "What is your usual brand of cigarette?",
+        "options": [
+            "Vantage",
+            "Kent",
+            "Other brands"
+        ],
+        "sub_question": {
+            "text": "Is that the non-menthol or the menthol type?",
+            "options": [
+                "Non-Menthol",
+                "Menthol"
+            ]
+        }
+    },
+    "question_3": {
+        "text": "How long have you been smoking cigarettes?",
+        "options": [
+            "1-4 Weeks",
+            "1-6 Months",
+            "7-12 Months",
+            "1-2 Years",
+            "Over 5 Years"
+        ]
+    },
+    "instructions_for_vantage": "If usual brand is Vantage, go to blue questionnaire.",
+    "instructions_for_kent": "If usual brand is Kent, go to white questionnaire."
+}

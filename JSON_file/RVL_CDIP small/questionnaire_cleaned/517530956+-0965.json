@@ -1,0 +1,49 @@
+{
+    "factoryQuestionnaire": {
+        "title": "FACTORY QUESTIONNAIRE ON PEST CONTROL",
+        "location": "TRIER",
+        "questions": [
+            {
+                "question": "Type of Factory",
+                "options": [
+                    "Make Pack",
+                    "Factory with Primary"
+                ]
+            },
+            {
+                "question": "Type of Tobacco Supply",
+                "options": [
+                    "Core Grades from outside supplies",
+                    "Core Grades from inter-company",
+                    "CBS or BS from inter-company",
+                    "Cut-filler packed in Plastic Polyliners",
+                    "Cut-filler packed without Plastic Polyliners"
+                ]
+            },
+            {
+                "question": "Tobacco Inventory Storage",
+                "options": [
+                    "Stored within factory building",
+                    "Stored in separate building on factory site",
+                    "Stored in off site warehouses"
+                ]
+            },
+            {
+                "question": "NTM's Storage",
+                "options": [
+                    "Separated room from tobacco",
+                    "Separated building from tobacco",
+                    "Stored within same room and building"
+                ]
+            },
+            {
+                "question": "Finished Good Storage",
+                "options": [
+                    "Separated room from tobacco",
+                    "Separated building from tobacco",
+                    "Stored within same room and building"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "version": "B",
+    "questions": [
+        {
+            "id": "1a",
+            "question": "Do you smoke cigarettes?",
+            "options": [
+                "Yes",
+                "No"
+            ]
+        },
+        {
+            "id": "1b",
+            "question": "What brand do you smoke regularly?"
+        },
+        {
+            "id": "1c",
+            "question": "Does this brand have a filter or not?",
+            "options": [
+                "Yes",
+                "No"
+            ]
+        },
+        {
+            "id": "1d",
+            "question": "Is this brand mentholated or not?",
+            "options": [
+                "Yes",
+                "No"
+            ]
+        },
+        {
+            "id": "2",
+            "question": "In your opinion which of the following is the safest cigarette to smoke?",
+            "options": [
+                "Marlboro Filter Cigarette",
+                "Tempo Filter Cigarette",
+                "Viceroy Filter Cigarette",
+                "Lark Filter Cigarette",
+                "Tareyton Filter Cigarette",
+                "SL Filter Cigarette",
+                "Tent Filter Cigarette"
+            ],
+            "note": "Rotate order of brands on cards"
+        }
+    ],
+    "classification_data": {
+        "gender": [
+            "Male",
+            "Female"
+        ],
+        "age_groups": [
+            "18-24",
+            "25-34",
+            "35-44",
+            "45-54",
+            "55 & over"
+        ]
+    }
+}

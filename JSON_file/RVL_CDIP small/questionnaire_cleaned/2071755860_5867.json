@@ -1,0 +1,25 @@
+{
+    "organization": "MONTERREY RESEARCH GROUP",
+    "project_number": "90-57-02",
+    "code": "066geo",
+    "interviewer": "erninate",
+    "question": 4,
+    "status": "Complete",
+    "screener_note": "THIS QUESTIONNAIRE SHOULD BE USED ONLY IF THE PERSON HAS DIFFICULTY IN UNDERSTANDING OR SPEAKING SPANISH.",
+    "questions": [
+        {
+            "text": "Do you or any member of your immediate family work in any of the following?",
+            "options": [
+                "Advertising Agency",
+                "A company that produces or sells cigarettes or cigars",
+                "A company that exclusively sells cigars or cigarettes"
+            ],
+            "terminate_if_yes": true
+        },
+        {
+            "text": "Have you purchased cigarettes?",
+            "terminate_if_yes": true
+        }
+    ],
+    "contact_number": "2071755860"
+}

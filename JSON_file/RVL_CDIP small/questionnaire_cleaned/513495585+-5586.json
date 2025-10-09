@@ -1,0 +1,91 @@
+{
+    "form": {
+        "offer": "FREE Gift from Camel",
+        "restrictions": "OFFER RESTRICTED TO SMOKERS 21 YEARS OF AGE OR OLDER",
+        "questions": [
+            {
+                "question": "What is your usual brand/style of cigarettes?"
+            },
+            {
+                "question": "In the last month, what ONE brand have you smoked most?"
+            },
+            {
+                "question": "What other brands have you smoked in the last 3 months?"
+            },
+            {
+                "question": "Which one reason best describes how you feel about your usual brand?",
+                "options": [
+                    "A. It's far better than all other brands",
+                    "B. It's as good as one or two other brands",
+                    "C. It's the same as most other brands"
+                ]
+            },
+            {
+                "question": "Out of your last 10 cigarette purchases, how many were for Camel?"
+            },
+            {
+                "question": "Do you own a Motorcycle?",
+                "options": [
+                    "N. Pool cue",
+                    "NC. Are you a serious fan of (check all that apply):",
+                    "D. Winston Cup Series",
+                    "E. Drag racing",
+                    "F. Superbike",
+                    "G. Hydroplane"
+                ]
+            },
+            {
+                "question": "How often do you attend motorcycle (biker) events?",
+                "options": [
+                    "often",
+                    "occasionally",
+                    "not at all",
+                    "never attend"
+                ]
+            },
+            {
+                "question": "Play pool/billiards?",
+                "options": [
+                    "often",
+                    "occasionally",
+                    "not at all",
+                    "never play"
+                ]
+            },
+            {
+                "question": "Attend motorsport racing events?",
+                "options": [
+                    "often",
+                    "occasionally",
+                    "not at all",
+                    "never attend"
+                ]
+            },
+            {
+                "question": "During my free time I would be most likely to",
+                "options": [
+                    "go to a bar or club",
+                    "watch TV or read",
+                    "hang out with friends",
+                    "physical activity",
+                    "other"
+                ]
+            }
+        ],
+        "personal_info": {
+            "name": "",
+            "street": "",
+            "apt": "",
+            "city": "",
+            "state": "",
+            "zip": "",
+            "daytime_phone": ""
+        },
+        "required_info": {
+            "birthdate": "",
+            "todays_date": "",
+            "certification": "I certify that I am a smoker, that I am 21 years of age or older, and that I want to receive offers, premiums, or free cigarettes that may be sent to me in the mail. I understand that giving false information in order to accept these offers may constitute a violation of law.",
+            "signature": ""
+        }
+    }
+}
