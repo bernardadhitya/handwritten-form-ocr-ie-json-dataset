@@ -1,0 +1,81 @@
+{
+    "contractResearchCenter": "CRC CONTRACT RESEARCH CENTER",
+    "formNumber": "FORMNO.11",
+    "projectNumber": "3276",
+    "groupCode": "05 CW 98",
+    "dayOfStudy": 75,
+    "date": "19A98",
+    "group": {
+        "males": {
+            "totalNumberOfAnimals": 10,
+            "decreasedSpontaneousActivity": "A",
+            "trembling": null,
+            "partiallyOrFullyClosedEyelids": null,
+            "harderianGlandSecretion": "A",
+            "partiallyOrFullyWetOrMoistFur": "8",
+            "abnormalBreathing": "0+"
+        },
+        "females": {
+            "totalNumberOfAnimals": "V+b",
+            "decreasedSpontaneousActivity": null,
+            "trembling": null,
+            "partiallyOrFullyClosedEyelids": null,
+            "harderianGlandSecretion": null,
+            "partiallyOrFullyWetOrMoistFur": null,
+            "abnormalBreathing": null
+        }
+    },
+    "individual": {
+        "animalNumber": null,
+        "sex": null,
+        "time": "14.4"
+    },
+    "codes": {
+        "spontaneousActivity": 5,
+        "irritability": 10,
+        "turningReflex": 20,
+        "grippingAbility": 35,
+        "closedEyelids": 40,
+        "trembling": 45,
+        "highLeggedGait": 50,
+        "abnormalBreathing": 55,
+        "harderianGlandSecretion": "+A",
+        "hairChanges": {
+            "rough": "C",
+            "moistWet": "So",
+            "discoloration": "X",
+            "hairLoss": "O"
+        },
+        "skinChanges": 95,
+        "incisors": 100,
+        "injuries": 105
+    },
+    "remarks": "Oracle",
+    "dates": [
+        {
+            "date": "22APR1998",
+            "initials": null
+        },
+        {
+            "date": "22APR1998",
+            "initials": "SD"
+        }
+    ],
+    "grades": {
+        "normal": 0,
+        "slightDecrease": -1,
+        "markedDecrease": -2,
+        "slightIncrease": 1,
+        "markedIncrease": 2
+    },
+    "errorCodes": {
+        "A": "writing",
+        "B": "calculation",
+        "C": "mixing up",
+        "D": "reading",
+        "E": "copy",
+        "F": "other with explanation"
+    },
+    "referenceNumber": "004231",
+    "errorReference": "0992"
+}

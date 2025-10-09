@@ -1,0 +1,69 @@
+{
+    "contact": {
+        "phone": "1-706-464-1409",
+        "attention": "Patty Engrave"
+    },
+    "account": {
+        "rjr_account_number": null,
+        "phone_fax": null
+    },
+    "promotion": {
+        "name": "R.J. Reynolds Promotional Program Parameters",
+        "date": "April 1994",
+        "details": "During the month of April, RJR will be working a Buy 2 Packs Get A Free Tumbler promotion on CAMEL. Promotion #400126.",
+        "styles": [
+            "CAMEL Filter Soft Pack",
+            "CAMEL Filter Hard Pack",
+            "CAMEL Lights Soft Pack",
+            "CAMEL Lights Hard Pack"
+        ],
+        "tumbler_sku": {
+            "description": "The Tumbler SKU will contain twenty (20) two-pack salable units for a total of four cartons of product.",
+            "pack_details": "Each SKU would be packed to contain five (5) two-pack offers of each of the four Camel styles listed below."
+        },
+        "pricing": "You will be charged only for the regular product at normal prices."
+    },
+    "regular_product": [
+        {
+            "name": "CAMEL Lights SP",
+            "case": "12M",
+            "case_number": "10412"
+        },
+        {
+            "name": "CAMEL Lights HP",
+            "case": "6M",
+            "case_number": "10706"
+        },
+        {
+            "name": "CAMEL Filter SP",
+            "case": "12M",
+            "case_number": "10212"
+        },
+        {
+            "name": "CAMEL Filter HP",
+            "case": "6M",
+            "case_number": "10306"
+        }
+    ],
+    "state_stamp_id": [
+        "AK",
+        "OR",
+        "WA",
+        "WY",
+        "MT"
+    ],
+    "confirmation": {
+        "purchase_order_number": null,
+        "eft_code": null,
+        "delivery_date": "51717",
+        "authorized_approval_signature": null,
+        "eft_dollar_amount": null,
+        "return_fax_to_account": "2807"
+    },
+    "contact_for_approval": {
+        "name": "Sue West",
+        "fax": "(206) 881-9318",
+        "phone": "(206) 885-2905"
+    },
+    "note": "TO GIVE APPROVAL, PLEASE SIGN AND RETURN VIA FAX TO SUE WEST OR CALL."
+}

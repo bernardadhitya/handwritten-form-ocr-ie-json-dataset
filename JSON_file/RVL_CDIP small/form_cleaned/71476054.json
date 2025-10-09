@@ -1,0 +1,68 @@
+{
+    "form": "INTERNATIONALPROJECTINFORMATIONFORM",
+    "form_number": "9-047",
+    "project_code": "IPIFSp#P",
+    "project_reference": "FxPORT StR CeSE: SPE-S7",
+    "section": "I",
+    "project_information": {
+        "project_name": "RRANDLAUNCH",
+        "project_purpose_summary": "Summarize purpose of project",
+        "project_type": {
+            "new_brand_launch": {
+                "brand_name": "BrandyKX",
+                "note": "complete separate form for each new brand style"
+            },
+            "change_to_existing_packaging": {
+                "brand_style": "Duc To",
+                "attachments": [
+                    "Met Sor multiple styles",
+                    "justification/rationale"
+                ],
+                "reason": {
+                    "government_regulation_change": true,
+                    "other": "Specify"
+                }
+            },
+            "change_manufacturing_source": {
+                "from": "From",
+                "to": "To",
+                "brand_style": "Attach t for multiple styles and rationale for change"
+            }
+        },
+        "country_code": {
+            "duty_free": true,
+            "other": true
+        },
+        "classification": "Duty Paid",
+        "business_type": [
+            "Export",
+            "Contract",
+            "Licensee"
+        ],
+        "production": "9mmy",
+        "timing_requirement": {
+            "in_market_arrival_date": "9(mmdy)",
+            "market_launch_date": "Ape996",
+            "note": "For B&W Exports: Please reference timetable standards for dates above. As actual timetable will be used additional costs."
+        },
+        "product_quantity_required": {
+            "new_brand_launch": {
+                "initial_order": "cases",
+                "minimum_order": "For B&W Export brands a minimum 40 case order",
+                "ongoing_monthly": "cases"
+            },
+            "package_change_or_sourcing_change": "attach list of quantity requirements for each brand style"
+        }
+    },
+    "form_completion": {
+        "new_brand_launch": "Continue with SECTION",
+        "change_to_existing_products_or_change_to_manufacturing_source": "Skip to SECTION I and continue"
+    },
+    "contact": {
+        "phone": "01784448652",
+        "fax": "835017978"
+    },
+    "page": "001",
+    "date": "FEB22%12:08",
+    "source": "PRODUCED FROM B&W WEB SITE"
+}

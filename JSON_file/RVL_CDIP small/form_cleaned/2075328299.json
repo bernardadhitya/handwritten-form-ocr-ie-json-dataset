@@ -1,0 +1,30 @@
+{
+    "transmissionResultReport": {
+        "date": "FEB27'96",
+        "time": "1015AM",
+        "filesErased": [
+            {
+                "file": "035",
+                "fileType": "MEMORY TX",
+                "telNo": "94505588",
+                "page": "05/05",
+                "result": "OK"
+            }
+        ],
+        "errors": [
+            "HANG UP OR LINE FAIL",
+            "BUSY",
+            "NO FACSIMILE CONNECTION"
+        ],
+        "facsimileTransmission": {
+            "department": "Legal Department",
+            "address": "120 Park Avenue, New York, NY 10017-5592",
+            "phone": "2075328299",
+            "date": "2/27/96",
+            "attention": "Marianne Fogarty, Esquire",
+            "company": "Davis, Polk & Wardwell",
+            "faxNumber": "212/450-5588",
+            "subject": "SDNY - Disposal Suspension Notice"
+        }
+    }
+}

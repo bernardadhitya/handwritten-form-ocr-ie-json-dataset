@@ -1,0 +1,83 @@
+{
+    "contract": "CRC CONTRACT RESEARCH CENTER",
+    "form_number": "11",
+    "code": "27CW 96",
+    "sil_mcm": "SIL/MCM",
+    "form_approved": "05l.6",
+    "group_and_individual_in_life_observations": {
+        "project_number": 327,
+        "group_code": "s",
+        "day_of_study": 79,
+        "date": "L",
+        "group": {
+            "males": null,
+            "females": null,
+            "time": "14:12",
+            "total_number_of_rats": "L0",
+            "decreased_spontaneous_activity": null,
+            "trembling": 3,
+            "partially_or_fully_closed_eyelids": null,
+            "harderian_gland_secretion": null,
+            "initials": null,
+            "partially_or_fully_wet_or_moist_fur": "Ro",
+            "abnormal_breathing": null
+        },
+        "individual": {
+            "rat_number": null,
+            "sex": "Errs0",
+            "time": 31,
+            "score": 434,
+            "spontaneous_activity": null,
+            "reaction_to_sound_touch": null,
+            "decreased_turning_reflex": null,
+            "decreased_gripping_ability": null,
+            "closed_eyelids": null,
+            "harderian_gland_secretion": null,
+            "trembling": null,
+            "check": {
+                "0": "normal",
+                "+1": "slight",
+                "+2": "marked",
+                "+3": "severe"
+            },
+            "abnormal_breathing": null,
+            "hair_changes": {
+                "rough": null,
+                "moist_wet_percent": "Lo",
+                "discoloration": "e.g.,yellow/brown",
+                "hairloss_percent": null
+            },
+            "skin_changes": null,
+            "wounds": null,
+            "high_legged_gait": "O",
+            "incisors": null,
+            "remarks": "Rox eye very one",
+            "error_codes": {
+                "A": "writing",
+                "B": "calculation",
+                "C": "mixing up",
+                "D": "reading",
+                "E": "copy",
+                "F": "other with explanation"
+            },
+            "initials": null,
+            "date": "22AUG 1997",
+            "initials_sd": "21AUG 1997",
+            "grades": {
+                "0": "normal",
+                "-1": "slight decrease",
+                "-2": "marked decrease",
+                "-3": "strong decrease"
+            },
+            "b_grades": {
+                "+1": "slight increase",
+                "+2": "marked increase",
+                "+3": "strong increase"
+            },
+            "002735": null,
+            "0": "normal",
+            "x": "finding.describe if necessary",
+            "2522": null
+        }
+    }
+}

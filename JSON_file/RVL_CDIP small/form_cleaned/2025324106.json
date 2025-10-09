@@ -1,0 +1,34 @@
+{
+    "form": {
+        "title": "TEST REQUEST FORM",
+        "department": "PRODUCTION/QUALITY & TECHNICAL SERVICES",
+        "sections": {
+            "A": {
+                "initiator_of_test": "Denise Donaher",
+                "date_submitted": "March 28, 1994"
+            },
+            "B": {
+                "purpose_of_test": "Previous tests have shown that there are subjective differences between RLB made with Wiegand liquor vs. the wiped film liquor. Further testing is needed to evaluate other running conditions of the Wiegand systems to determine if these subjective differences are lessened. Therefore the purpose of this test is to evaluate alternate operating conditions for the further testing with RLB liquor which is planned for the week of April 18th."
+            },
+            "C": {
+                "test_procedure": "This pre-testing will be conducted while the Wiegand in on water wash. Therefore, ensure that DNCEL levels are sufficient to allow the Wiegand system to be on water for approximately 3 hours for the testing. The following operating variables will be evaluated to determine how much they can be lowered and still maintain stable operation: (1) The preheat temperature will be lowered to 130 F and allowed to stabilize. Operation of the system will be monitored by Doug Chapman and Denise Donaher and the decision may be made to try other conditions. (2) The vapor temperature set point will be lowered to 120 F. The vacuum system will be monitored to determine if there is sufficient vacuum capacity to maintain these conditions. Other vapor temperature setpoints will be tested if necessary as determined by Doug Chapman and Denise Donaher."
+            },
+            "D": {
+                "test_samples_and_lab_analysis_required": "none"
+            },
+            "E": {
+                "scheduling_of_test": "The test will be run on the Wiegand evaporator system from about 0900 hours to 1200 hours on Thursday March 31st."
+            },
+            "F": {
+                "coordination_needed_between_departments": "Denise Donaher is be present for the testing."
+            },
+            "G": {
+                "departmental_approvals": {
+                    "designated_coordinator": "Production",
+                    "Q&TS": "N/A"
+                }
+            }
+        },
+        "cc": "Annamanthade, Line 3 Stock Prep Supervisors, Ransone, Sharkey, Simpson"
+    }
+}

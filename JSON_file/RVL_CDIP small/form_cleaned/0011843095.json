@@ -1,0 +1,78 @@
+{
+    "marketResearchAuthorization": {
+        "recommendedProposalAttached": true,
+        "date": "1988-04-25",
+        "number": 8,
+        "description": "PROJECT SUNDANCE",
+        "requestedBy": "R.D. Sharp",
+        "researchRequestAttached": true,
+        "budgeted": true,
+        "competitiveProposalsObtained": false,
+        "estimatedCostPerSupplier": [
+            {
+                "supplier": "Analytic Insight",
+                "cost": 36000,
+                "travel": 6000,
+                "totalCost": 42000,
+                "interview": 300
+            },
+            {
+                "supplier": "Kapuler Mktg. Res",
+                "cost": 36525,
+                "travel": 4900,
+                "totalCost": 41425,
+                "interview": 304.38
+            }
+        ],
+        "projected": {
+            "summaryOfMRDBudget": {
+                "year": 1988,
+                "internalInitDate": "1988-04-14",
+                "totalAreaBudget": 1050000,
+                "externalAuthDate": "1988-04-25",
+                "currentBalanceAvailable": 936705.87,
+                "wavesThisChange": 42000,
+                "fromCurrentBudget": 0,
+                "fieldComplete": "1988-05-16",
+                "fromNextYearsBudget": 0,
+                "newBalance": 894705.87,
+                "finalReportDue": "1988-06-20",
+                "supplierReport": null,
+                "committedToDate": 155294.13,
+                "wavesCurrentYear": null,
+                "sampleSize": "6 Groups/60 One-On-Ones",
+                "recommendedSupplier": "Analytic Insight",
+                "reasonsForRecommendation": "Lower cost per interview."
+            }
+        },
+        "submittedBy": {
+            "name": "W. Putne",
+            "date": "1988-04-25"
+        },
+        "approvedBy": [
+            {
+                "name": "Y. Lee",
+                "date": null
+            },
+            {
+                "name": "B.R. Pellett",
+                "date": null
+            }
+        ],
+        "budgetCheck": {
+            "date": null,
+            "sa": "465664084"
+        },
+        "originalProjectFile": {
+            "cc": [
+                "S. Wiinger",
+                "L.E. Gravely",
+                "Karen Lyle",
+                "V. Hansberry (If Int.)"
+            ],
+            "projectNo": "1988-58-NP",
+            "accountName": "NEW PRODUCTS-UNSPECIFIED",
+            "mrd": "MRD00006"
+        }
+    }
+}

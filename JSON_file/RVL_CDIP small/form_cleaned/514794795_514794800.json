@@ -1,0 +1,163 @@
+{
+    "request": {
+        "id": "MK",
+        "name": "ShANNOA",
+        "code": "9e8xcwp",
+        "model": "TG-6",
+        "description": "mouy rol bc tte Teo7",
+        "type": "PRODUCTION REQUEST",
+        "details": {
+            "date": null,
+            "requestor_id": null,
+            "quantity": null,
+            "purpose": null,
+            "date_needed": null
+        }
+    },
+    "components": [
+        {
+            "description": "Glass Fiber Jacket Assembly",
+            "items": [
+                {
+                    "name": "Gloss nat",
+                    "quantity": 1
+                },
+                {
+                    "name": "Tube",
+                    "quantity": 2,
+                    "code": "PTS"
+                },
+                {
+                    "name": "Paper wrap",
+                    "quantity": 3,
+                    "code": "KC0380"
+                },
+                {
+                    "name": "Seam adhesive",
+                    "code": "C5124Z"
+                }
+            ]
+        },
+        {
+            "description": "Tobacco Jacket Assembly",
+            "items": [
+                {
+                    "name": "Flwe",
+                    "quantity": 59,
+                    "code": "3570"
+                },
+                {
+                    "name": "Paper wrap",
+                    "quantity": 6,
+                    "code": "KC1487-15"
+                },
+                {
+                    "name": "Seam adhesive",
+                    "code": "CS1242"
+                }
+            ]
+        },
+        {
+            "description": "Cantline",
+            "items": [
+                {
+                    "name": "Combine paper",
+                    "quantity": 8,
+                    "code": "KCP768"
+                },
+                {
+                    "name": "Seam adhesive",
+                    "code": "S124"
+                },
+                {
+                    "name": "Centerline adhesive",
+                    "code": "c51242"
+                }
+            ]
+        },
+        {
+            "description": "Loaded Capsule Assembly",
+            "items": [
+                {
+                    "name": "Capsule",
+                    "quantity": 11,
+                    "code": "Stl.wash"
+                },
+                {
+                    "name": "Fuel source",
+                    "code": "R3t",
+                    "quantity": 1000
+                },
+                {
+                    "name": "Substrate loaded",
+                    "note": "see back",
+                    "quantity": 13
+                }
+            ]
+        },
+        {
+            "description": "Mouth-End-Piece Assembly",
+            "items": [
+                {
+                    "name": "Paper plug",
+                    "quantity": 14,
+                    "code": "C-M"
+                },
+                {
+                    "name": "Paper wrap",
+                    "quantity": 15,
+                    "code": "KC-1487-84-2"
+                },
+                {
+                    "name": "Seam adhesive",
+                    "code": "6-8"
+                },
+                {
+                    "name": "Filter",
+                    "code": "ppSAm.@sGw"
+                },
+                {
+                    "name": "Paper wrap",
+                    "quantity": 18,
+                    "code": "2-538515"
+                },
+                {
+                    "name": "Seam adhesive",
+                    "code": "S5b1-8h"
+                },
+                {
+                    "name": "Combine paper",
+                    "quantity": 20,
+                    "code": "KCp850-186-2"
+                },
+                {
+                    "name": "Seam adhesive",
+                    "code": "448-195K"
+                },
+                {
+                    "name": "Centerline adhesive",
+                    "code": "+-8"
+                }
+            ]
+        },
+        {
+            "description": "Combine Assembly",
+            "items": [
+                {
+                    "name": "Combine paper",
+                    "quantity": 23,
+                    "note": "tipping"
+                },
+                {
+                    "name": "Adhesive",
+                    "quantity": 24,
+                    "note": "100% from BTAA"
+                },
+                {
+                    "name": "Dienen",
+                    "code": "4795"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "company": "BIOLOGICAMONIORING.INC",
+    "chain_of_custody": {
+        "sample_collection": {
+            "sample_id": "No.V0026557",
+            "description_of_sample_site": "PARK 500, DIVISION PHILIP MORRIS, USA",
+            "client": "PARK 500",
+            "state": "VIRGINIA",
+            "county": "CHESTERFIELD",
+            "test_type": {
+                "acute": "48hr Daphnia pulex",
+                "chronic": "7 day Ceriodaphnia dubia, fathead minnow"
+            },
+            "sample_information": {
+                "composite": "24hr",
+                "date_time_comp_end": "5-29-51/233R5",
+                "comp_sample_freq": "esy",
+                "comp_amount": "1 gallon cubetainers in the laboratory",
+                "date_time_of_transfer": "3-98s",
+                "transferred_by": "M",
+                "preservation": "CH1NG_DURNG_CQCQNC2",
+                "composite_refrigerator_temperature_date_time": "233QS",
+                "sample_temperature_upon_retrieval": "3",
+                "chilling_after_collection": "5-29/233",
+                "laboratory_refrigerator_temperature_date_time": "A.A",
+                "temperature_upon_receipt": "C",
+                "damage": "?"
+            },
+            "lab_parameters": {
+                "result": "ABO509/-",
+                "sample_appearance": "slightly cloudy",
+                "hardness": 28,
+                "alkalinity": 2,
+                "residual": "0TRC",
+                "b.o97": "1CAPL",
+                "cy": "SLLCRLNG_AND_RECEIVING"
+            },
+            "shipping": {
+                "date_time_shipped": "-30-9",
+                "date_time_received": "i30-9",
+                "signatures": {
+                    "received_in_lab_by": "PSOOIAB",
+                    "picked_up_and_shipped_by": "BMI",
+                    "date_time": "094"
+                },
+                "chain_of_custody_intact": true,
+                "pick_up_at_shipper": "Yes",
+                "received_by": "BMI",
+                "date_time_received_by": "2030166334"
+            }
+        }
+    }
+}

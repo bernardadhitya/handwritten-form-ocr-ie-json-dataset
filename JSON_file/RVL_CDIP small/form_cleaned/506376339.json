@@ -1,0 +1,67 @@
+{
+    "company": "R.J.Reynolds Tobacco Company",
+    "authorizationRequest": {
+        "subject": "Project SPA-Funding for Owens-Corning Fiberglas Corporation's Phase II",
+        "datePrepared": "1/7/1986",
+        "arNo": "B-21",
+        "program": "R&D",
+        "originator": "Dr.R.A.Lloyd",
+        "approvalRequestSummary": {
+            "description": "Authorization is requested to fund the initial segment (February-July, 1986) of Owens-Corning Fiberglas Corporation (OCF) Phase II Program for $728M.",
+            "authorizationType": {
+                "capital": "$0",
+                "expense": "$728M",
+                "total": "$728M"
+            },
+            "expenditureTiming": {
+                "relatedProposals": {
+                    "expenseChange": "50637",
+                    "capital": "AC",
+                    "commitment": "86",
+                    "amount": "$728M",
+                    "listRelatedAR_CA_ACNos": "System (Computer) 6339"
+                },
+                "amountsPreviouslyApproved": {
+                    "policyChange": "19",
+                    "productIntroductionChange": "Annual Average",
+                    "thereafter": {
+                        "capital": "$0",
+                        "expense": "$0",
+                        "cumulative": "$0"
+                    },
+                    "otherDevelopment": "SPECIFY"
+                },
+                "leaseOrOtherContinuingCommitment": {
+                    "timingROI": {
+                        "commitment": {
+                            "proposalStartDate": "2/86",
+                            "completionDate": "7/86",
+                            "returnOnInvestment": "Minimum"
+                        }
+                    }
+                },
+                "efoImpact": {
+                    "1986": "$728M",
+                    "1987": "$0",
+                    "1988": "$0",
+                    "beyond": "$0",
+                    "profitLoss": "$728M",
+                    "thereafter": "$0",
+                    "budgetPlanChange": {
+                        "yes": false,
+                        "no": true
+                    }
+                }
+            }
+        },
+        "reviewedBy": "APPRovALs (Originator Enters Initials of Required Approvers)",
+        "approvals": {
+            "dept": "R&D",
+            "initials": "RAL",
+            "mktgPlanRJR": "ACR",
+            "vpmp": "GWM",
+            "admin": "100000",
+            "ceo": "Person Responsible for Implementing"
+        }
+    }
+}

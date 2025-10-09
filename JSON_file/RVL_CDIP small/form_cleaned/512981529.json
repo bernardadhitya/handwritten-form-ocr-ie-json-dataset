@@ -1,0 +1,89 @@
+{
+    "company": "R. J. Reynolds Tobacco USA",
+    "authorizationRequest": {
+        "subject": "Amendment to Guthrie & Associates",
+        "dateRouted": "11/21/89",
+        "arNo": "9/84-00-0",
+        "masterContract": true,
+        "originator": "IK Appleyard",
+        "deptRefNo": "",
+        "startDate": "5/4/89",
+        "operationalDate": "12/31/89",
+        "approvalRequestSummary": {
+            "description": "Approval is requested to increase funds spent with Guthrie & Associates from $49,500 to $250,000. Additional funding is needed due to the development and production of support materials for the new Winners Program to be announced in 1990."
+        },
+        "authorityRequested": {
+            "previouslyApproved": 49500,
+            "thisRequest": 200500,
+            "totalRequest": 250000,
+            "authorizationType": {
+                "capital": false,
+                "expense": true,
+                "other": "Contract Promotion"
+            },
+            "totalRequestAmount": 250000,
+            "productModificationIntroduction": true,
+            "subsequentProposalsRequired": false,
+            "previousProposals": "MK#2521",
+            "leaseOrOtherCommitment": {
+                "minimum": "",
+                "total": "",
+                "costJustifiedAt": "",
+                "roi": ""
+            }
+        },
+        "financeData": {
+            "capital": false,
+            "expense": true,
+            "capitalId": "",
+            "authorityRequestedCoveredBy": {
+                "budgetedDepartment": 853,
+                "amount": 250000
+            },
+            "projectId": "",
+            "fundsRequiredFrom": "Will vary with job assignment",
+            "department": "",
+            "expenseCode": "04-73-Xxxx-XxXx-853",
+            "corporate": ""
+        },
+        "financialImpact": {
+            "operatingEarningsLoss": 250000,
+            "corporateFundsRequested": ""
+        },
+        "reviewsApprovals": [
+            {
+                "dept": "Sales/ALB",
+                "initials": "ABD",
+                "date": ""
+            },
+            {
+                "dept": "Fin Ser",
+                "initials": "MEV",
+                "date": "5/12/98"
+            },
+            {
+                "dept": "MWB",
+                "initials": "M",
+                "date": ""
+            },
+            {
+                "dept": "JKA",
+                "initials": "KAul",
+                "date": ""
+            },
+            {
+                "dept": "Compt",
+                "initials": "1529",
+                "date": ""
+            },
+            {
+                "dept": "Sales",
+                "initials": "RHC",
+                "date": ""
+            }
+        ],
+        "implementorProjectManager": "",
+        "accountableIndividual": ""
+    },
+    "form": "RJRT Form 8711 - Rev. 6/88"
+}

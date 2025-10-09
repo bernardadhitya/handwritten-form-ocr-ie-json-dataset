@@ -1,0 +1,120 @@
+{
+    "year": 1994,
+    "officialFileLocation": 2,
+    "dates": [
+        "Date:",
+        "Date:",
+        "Date:",
+        "Date:"
+    ],
+    "departments": {
+        "corpSecy": "C+2",
+        "finAnal": "C+3",
+        "budgSheet": "C+2",
+        "brand": "C+5",
+        "chieeFin": "C+2",
+        "issued": "C+5",
+        "storageTotal": "C+1",
+        "retentionPeriod": "C+3"
+    },
+    "departmentCode": "PHILIP MORRIS USA",
+    "retention": 25,
+    "responsibleRecordsManagementGroup": "0186",
+    "operatingDept": "Tax Department",
+    "legalCounsel": "Brands",
+    "records": [
+        {
+            "category": "ORDS",
+            "retention": "C+2"
+        },
+        {
+            "category": "Discount",
+            "retention": "+3"
+        },
+        {
+            "category": "CALENDARS/DIARIES/DAYTIMERS",
+            "retention": "C+2"
+        },
+        {
+            "category": "AUTHORIZATION: & SEMINARS",
+            "retention": "C+2"
+        },
+        {
+            "category": "DEVELOPMENT",
+            "retention": "C+2"
+        },
+        {
+            "category": "Brand Management",
+            "retention": "C+1"
+        },
+        {
+            "category": "CHRONOLOGICAL FILES",
+            "retention": "C+2"
+        },
+        {
+            "category": "ADMINISTRATIVE",
+            "retention": "C+2"
+        },
+        {
+            "category": "ANNUAL REPORTS",
+            "retention": "C+3"
+        },
+        {
+            "category": "BRAND REVIEWS",
+            "retention": "C+3"
+        },
+        {
+            "category": "ADVERTISING",
+            "retention": "C+3"
+        },
+        {
+            "category": "BRAND FILES",
+            "retention": "C+3"
+        },
+        {
+            "category": "COMPETITORS",
+            "retention": "C+3"
+        },
+        {
+            "category": "CONFERENCES",
+            "retention": "C+3"
+        },
+        {
+            "category": "COUPON FILES",
+            "retention": "C+3"
+        },
+        {
+            "category": "BUSINESS",
+            "retention": "C+3"
+        },
+        {
+            "category": "Archival Review Required",
+            "retention": "C+3"
+        },
+        {
+            "category": "BUDGETS",
+            "retention": "C+3"
+        }
+    ],
+    "recordCodes": {
+        "A0150": "Marketing",
+        "A0170": "RECORD",
+        "A0340": "CODE",
+        "B0321": "A0150",
+        "B0380": "A0170",
+        "BO430": "A0340",
+        "B0500": "B0321",
+        "C0010": "B0380",
+        "C0310": "BO430",
+        "CO490": "B0500",
+        "C0550": "C0010",
+        "C0800": "C0310"
+    },
+    "revisedDate": 2041167084,
+    "keyToRetentions": {
+        "SUP": "Until Superseded",
+        "ACT": "While Active",
+        "CurrentMonth": "C = Current Year",
+        "VR": "Vital Records"
+    }
+}
