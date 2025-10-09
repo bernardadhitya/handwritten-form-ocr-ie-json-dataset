@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve ">
+  <source width="2472" height="3502">03289_L.png</source>
+  <document>Lettre manuscrite</document>
+  <scenario>Modification de contrat / Commande</scenario>
+  <writer>BUTON Jean-luc</writer>
+  <sender_person>Buton Jean-Luc</sender_person>
+  <sender_company></sender_company>
+  <sender_tel>+33(0)4.04.59.15.39</sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company>Trésorerie des impôts</receiver_company>
+  <date>07/03/2007</date>
+  <place>Bonson</place>
+  <box top_left_x="49" top_left_y="110" bottom_right_x="753" bottom_right_y="586">
+  <type>Coordonnées Expéditeur</type>
+  <text>Buton Jean-Luc\nPlace Maurice Scoffier\n06830 Bonson\nTél : 04-04-59.15.39</text>
+  </box>
+  <box top_left_x="1671" top_left_y="742" bottom_right_x="2379" bottom_right_y="879">
+  <type>Date, Lieu</type>
+  <text>Bonson, le 7 Mars 2007</text>
+  </box>
+  <box top_left_x="1720" top_left_y="894" bottom_right_x="2409" bottom_right_y="1237">
+  <type>Coordonnées Destinataire</type>
+  <text>Trésorerie des impôts\n1 cours Aristide Briand\n33000 Bordeaux</text>
+  </box>
+  <box top_left_x="156" top_left_y="1298" bottom_right_x="772" bottom_right_y="1427">
+  <type>Ouverture</type>
+  <text>Monsieur le ¤{tresorier/trésorier}¤,</text>
+  </box>
+  <box top_left_x="95" top_left_y="1446" bottom_right_x="2379" bottom_right_y="2261">
+  <type>Corps de texte</type>
+  <text>Je vous fait part de mon souhait de payer désormais mon impôt\nsur le revenu par prélèvements mensuels.\nA cette fin, vous trouverez ci-joint le formulaire destiné à vos services\nainsi que mon relevé d'identité bancaire.\nJe vous prie d'¤{agreer/agréer}¤, Madame, Monsieur, mes salutations les meilleures.</text>
+  </box>
+  <box top_left_x="1438" top_left_y="2322" bottom_right_x="2082" bottom_right_y="2474">
+  <type>Signature</type>
+  <text></text>
+  </box>
+</annotation>
