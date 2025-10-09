@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2471" height="3505">02592_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Ouverture de compte</scenario>
+  <writer>BOUCHET Estelle</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="156" top_left_y="361" bottom_right_x="714" bottom_right_y="504">
+       <type>Code d'envoi</type>
+       <text>VNYFLD</text>
+  </box>
+  <box top_left_x="387" top_left_y="523" bottom_right_x="1196" bottom_right_y="631">
+       <type>Nom</type>
+       <text>BOUCHET</text>
+  </box>
+  <box top_left_x="1390" top_left_y="522" bottom_right_x="2162" bottom_right_y="626">
+       <type>Prénom</type>
+       <text>Estelle</text>
+  </box>
+  <box top_left_x="470" top_left_y="625" bottom_right_x="2168" bottom_right_y="722">
+       <type>Adresse</type>
+       <text>20 RUE J.P. BLANCHARD</text>
+  </box>
+  <box top_left_x="547" top_left_y="729" bottom_right_x="965" bottom_right_y="836">
+       <type>Code Postal</type>
+       <text>17000</text>
+  </box>
+  <box top_left_x="1087" top_left_y="721" bottom_right_x="2170" bottom_right_y="830">
+       <type>Ville</type>
+       <text>LA ROCHELLE</text>
+  </box>
+  <box top_left_x="355" top_left_y="842" bottom_right_x="1227" bottom_right_y="989">
+       <type>Téléphone</type>
+       <text>0553202301</text>
+  </box>
+  <box top_left_x="493" top_left_y="1111" bottom_right_x="2170" bottom_right_y="1226">
+       <type>Catégorie Scénario</type>
+       <text>Ouverture de compte</text>
+  </box>
+  <box top_left_x="277" top_left_y="1222" bottom_right_x="2171" bottom_right_y="1404">
+       <type>Objet Scénario</type>
+       <text>Vous souhaitez ¤{connaitre/connaître}¤ la marche à suivre\npour devenir client</text>
+  </box>
+  <box top_left_x="271" top_left_y="1401" bottom_right_x="2173" bottom_right_y="1591">
+       <type>Complément Scénario</type>
+       <text>aucun\n</text>
+  </box>
+  <box top_left_x="896" top_left_y="1610" bottom_right_x="1536" bottom_right_y="1762">
+       <type>Référence client</type>
+       <text></text>
+  </box>
+  <box top_left_x="572" top_left_y="1759" bottom_right_x="2183" bottom_right_y="1860">
+       <type>Interlocuteur</type>
+       <text>NNA Assurances</text>
+  </box>
+  <box top_left_x="483" top_left_y="1851" bottom_right_x="2184" bottom_right_y="1961">
+       <type>Adresse Interlocuteur</type>
+       <text>11A 13 ROUTE D'ANTONY</text>
+  </box>
+  <box top_left_x="561" top_left_y="1950" bottom_right_x="991" bottom_right_y="2070">
+       <type>Code Postal Interlocuteur</type>
+       <text>91320</text>
+  </box>
+  <box top_left_x="1125" top_left_y="1953" bottom_right_x="2183" bottom_right_y="2055">
+       <type>Ville Interlocuteur</type>
+       <text>WISSOUS</text>
+  </box>
+  <box top_left_x="1041" top_left_y="2289" bottom_right_x="1255" bottom_right_y="2399">
+       <type>Temps passé</type>
+       <text>20</text>
+  </box>
+  <box top_left_x="894" top_left_y="2233" bottom_right_x="964" bottom_right_y="2278">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1061" top_left_y="2224" bottom_right_x="1110" bottom_right_y="2276">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1276" top_left_y="2224" bottom_right_x="1328" bottom_right_y="2276">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="290" top_left_y="2694" bottom_right_x="367" bottom_right_y="2744">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1581" top_left_y="2648" bottom_right_x="2181" bottom_right_y="2762">
+       <type>Date d'envoi postal</type>
+       <text>30/01/07</text>
+  </box>
+  <box top_left_x="294" top_left_y="2790" bottom_right_x="366" bottom_right_y="2840">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="285" top_left_y="2885" bottom_right_x="368" bottom_right_y="2939">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1724" top_left_y="2823" bottom_right_x="2174" bottom_right_y="2941">
+       <type>Date d'envoi par fax</type>
+       <text>30/01/07</text>
+  </box>
+  <box top_left_x="291" top_left_y="2977" bottom_right_x="343" bottom_right_y="3027">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1580" top_left_y="2943" bottom_right_x="2176" bottom_right_y="3047">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1721" top_left_y="3141" bottom_right_x="1987" bottom_right_y="3236">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="562" top_left_y="3168" bottom_right_x="612" bottom_right_y="3218">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="767" top_left_y="3167" bottom_right_x="818" bottom_right_y="3218">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="948" top_left_y="3167" bottom_right_x="998" bottom_right_y="3218">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1059" top_left_y="3042" bottom_right_x="2177" bottom_right_y="3142">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
