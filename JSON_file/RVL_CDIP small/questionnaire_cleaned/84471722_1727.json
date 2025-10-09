@@ -1,0 +1,53 @@
+{
+    "survey": {
+        "participant": {
+            "gender": "Female",
+            "location": "San Francisco",
+            "state": "CO",
+            "company": "Communicus, Inc.",
+            "birth_month": "April",
+            "birth_year": 1978
+        },
+        "interview": {
+            "interviewed_by": "Coxd",
+            "validated_by": "MUNICUS, INC.",
+            "questions": [
+                {
+                    "question": "Do you smoke filter, non-menthol cigarettes?",
+                    "answer": "Yes"
+                },
+                {
+                    "question": "How many cigarettes do you usually smoke per day?",
+                    "options": [
+                        "0-9",
+                        "10-15",
+                        "16-25",
+                        "More than 25"
+                    ]
+                },
+                {
+                    "question": "What is your regular brand of cigarettes?",
+                    "note": "Probe for specific style."
+                },
+                {
+                    "question": "Which of the following statements apply to you?",
+                    "options": [
+                        "I eat dinner in a restaurant at least once a month.",
+                        "I read a daily newspaper.",
+                        "I do most of the food shopping for myself and/or my family.",
+                        "I have taken an airline trip on a scheduled commercial airline in the past 12 months."
+                    ]
+                },
+                {
+                    "question": "Into which of the following age groups do you fall?",
+                    "options": [
+                        "Under 21",
+                        "21-34",
+                        "35-65",
+                        "65+"
+                    ]
+                }
+            ]
+        }
+    }
+}

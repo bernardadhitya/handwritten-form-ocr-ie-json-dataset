@@ -1,0 +1,36 @@
+{
+    "document": {
+        "title": "WINONA RESEARCH YOUTH SMOKING PREVENTION STUDY",
+        "address": "8800 N 22 Avenue, P02-80516, Phoenix, AZ 85021-4258",
+        "date": "August, 1998",
+        "instructions": "If necessary, ask to speak with an adult 18 years of age or older.",
+        "introduction": "Hello, my name is [Name] from Phoenix, Arizona. Today I am doing a short survey with children between the ages of 11 and 17. The results of the survey will be used to develop programs to discourage youth smoking. So first, is there anyone between the ages of 11 and 17 living in your household?",
+        "questions": [
+            {
+                "id": "2a",
+                "question": "Are you the parent or guardian of a 11 to 17 year old living in the household?",
+                "answers": {
+                    "yes": "Ask to speak to the parent or guardian of the 11 to 17 year old.",
+                    "no": "If not available, arrange callback."
+                }
+            },
+            {
+                "id": "2b",
+                "question": "May we have your permission to speak privately with an 11 to 17 year old in your household?",
+                "additional_info": {
+                    "sponsor": "The study is being conducted by Philip Morris in order to help them develop programs to discourage youth smoking.",
+                    "content": "The study we are conducting is intended to aid in the reduction of youth smoking. We will be asking about 15 minutes worth of questions about their views on issues facing children today which include their usage of tobacco. To encourage the children to be as truthful in their responses as possible, we ask that you try to give them as much privacy as possible."
+                },
+                "answers": {
+                    "permission_granted": "Proceed with the survey.",
+                    "permission_not_granted": "Thank and terminate."
+                }
+            }
+        ],
+        "contact_info": {
+            "phone": "206-952-0274",
+            "fax": "602-735-3287",
+            "timestamp": "14:02, 09/11/1998"
+        }
+    }
+}

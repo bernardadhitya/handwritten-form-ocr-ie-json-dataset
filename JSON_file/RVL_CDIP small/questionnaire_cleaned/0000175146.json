@@ -1,0 +1,84 @@
+{
+    "company": "RENDSINC",
+    "address": {
+        "street": "4 EAST 23rd STREET",
+        "city": "NEW YORK",
+        "state": "NEW YORK",
+        "zip": "10010"
+    },
+    "year": 2014,
+    "project_number": "219-3",
+    "survey": {
+        "introduction": "Good morning/afternoon/evening. My name is [Name]. We are conducting a public opinion survey in this mall and I would like to ask you a few short questions.",
+        "questions": [
+            {
+                "question": "What is your age?",
+                "options": [
+                    {
+                        "range": "Younger than 21",
+                        "action": "TERMINATE"
+                    },
+                    {
+                        "range": "Between 21-35",
+                        "action": "CONTINUE"
+                    },
+                    {
+                        "range": "Older than 35",
+                        "action": "TERMINATE"
+                    }
+                ]
+            },
+            {
+                "question": "Does any member of your immediate family work for: (READ CHOICES)",
+                "options": [
+                    {
+                        "choice": "An advertising agency",
+                        "action": "TERMINATE"
+                    },
+                    {
+                        "choice": "A market research company",
+                        "action": "TERMINATE"
+                    },
+                    {
+                        "choice": "A company manufacturing, selling or distributing beer, wine or other alcoholic beverages",
+                        "action": "TERMINATE"
+                    },
+                    {
+                        "choice": "A company manufacturing, selling or distributing tobacco products",
+                        "action": "TERMINATE"
+                    }
+                ]
+            },
+            {
+                "question": "Which of the following did you do in the past 2 days? (DO NOT RECORD ANSWERS)",
+                "options": [
+                    {
+                        "activity": "Drink a glass of wine",
+                        "response": "Yes"
+                    },
+                    {
+                        "activity": "Have a glass of beer",
+                        "response": "Yes"
+                    },
+                    {
+                        "activity": "Smoke a cigarette",
+                        "response": "Yes"
+                    }
+                ]
+            },
+            {
+                "question": "About how many cigarettes do you smoke in an average day?",
+                "options": [
+                    {
+                        "amount": "Less than half a pack",
+                        "action": "TERMINATE"
+                    },
+                    {
+                        "amount": "Half a pack or more",
+                        "action": "CONTINUE"
+                    }
+                ]
+            }
+        ]
+    }
+}

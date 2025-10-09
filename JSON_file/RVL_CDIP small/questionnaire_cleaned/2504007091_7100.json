@@ -1,0 +1,60 @@
+{
+    "company": "Kesearcn Lentre Limited",
+    "project_no": 819,
+    "assignment_no": "SIDE OF MAIN QUESTIONNAIRE",
+    "interviewer_name": "BDX ON TOP LEFT HAND",
+    "questionnaire": "SCREEN1NG QUEST1ONNA1RE",
+    "study": "SILK CUT TRACKING -WAVE I",
+    "introduction": "Good evening. We are presently conducting a research study on cigarettes and smoking habits among cigarette smokers between the ages of 18 and 50 years, therefore, I'd like to speak to the youngest member of your family who is at home now. First, I'd like to ask you a few questions for classification purposes only.",
+    "questions": {
+        "A": {
+            "question": "Sex",
+            "options": {
+                "1": "Male",
+                "2": "Female"
+            }
+        },
+        "B": {
+            "question": "Into which of the following age group do you fall?",
+            "options": {
+                "1": "18-24 years",
+                "2": "25-34 years",
+                "3": "35-50 years",
+                "A": "Refused"
+            }
+        },
+        "C": {
+            "question": "Do you, or anyone in your family, work for an advertising company, market research agency, or a tobacco company?",
+            "options": {
+                "1": "Yes",
+                "2": "No",
+                "A": "Refused"
+            }
+        },
+        "2a": {
+            "question": "Do you smoke cigarettes?",
+            "options": {
+                "1": "Yes",
+                "2": "No"
+            }
+        },
+        "2b": {
+            "question": "Are these cigarettes filter tipped or non-filter tipped?",
+            "options": {
+                "1": "Filter",
+                "2": "Non-filter"
+            }
+        },
+        "2c": {
+            "question": "What length of cigarettes do you smoke most often? Are they longer than king size, king size, or regular length?",
+            "options": {
+                "1": "Longer than king size",
+                "2": "King size",
+                "3": "Regular size",
+                "V": "Don't know/Refused"
+            }
+        }
+    },
+    "note": "IF RESPONDENT QUALIFIES, ATTACH THIS SCREENING QUESTIONNAIRE SECURELY TO THE MAIN QUESTIONNAIRE AND TRANSFER THE NUMBER FROM THE BOX ON THE TOP LEFT HAND CORNER OF THE MAIN QUESTIONNAIRE TO THE BOX ON THE TOP LEFT HAND CORNER OF THIS SCREENING QUESTIONNAIRE",
+    "reference_number": 2504007091
+}

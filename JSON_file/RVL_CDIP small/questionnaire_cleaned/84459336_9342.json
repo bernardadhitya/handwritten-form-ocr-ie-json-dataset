@@ -1,0 +1,89 @@
+{
+    "company": "AHF. MARKETING RESEARCHE",
+    "survey": "NATIONAL CONSENSUS SURVEYS",
+    "address": {
+        "street": "801 Second Avenue",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10017",
+        "code": "3237"
+    },
+    "reference": "#12947W",
+    "date": "May 1977",
+    "project": {
+        "name": "CIGARETTE PORTFOLIO",
+        "type": "SCREENING QUESTIONNAIRE"
+    },
+    "interview": {
+        "status": "ENDED",
+        "response": "RESPOSNA",
+        "telephone": "2-2783"
+    },
+    "state": "STATE",
+    "areas": "MTRO AREAS",
+    "validation": {
+        "date": "DATE",
+        "validated_by": "VALIDATED BY"
+    },
+    "cities": [
+        "Albany",
+        "Boston",
+        "Deaver",
+        "Buffalo",
+        "Xilwaukee",
+        "Des Moines",
+        "Kinneapolis",
+        "Syracuse"
+    ],
+    "initial_refusal": {
+        "circle_next_highest_number": [
+            2,
+            10,
+            17,
+            20,
+            40,
+            59,
+            69,
+            71,
+            72,
+            73,
+            80
+        ]
+    },
+    "participation": {
+        "question": "Have you, yourself, participated in a market research survey in the past three months or so?",
+        "terminate_and_circle_next_highest_number": "TERMINATE AND CIRCLE NEXT HIGHEST NUMBER BELOW",
+        "continue": "CONTINUE"
+    },
+    "study": {
+        "name": "PARTICI-STUDY",
+        "numbers": [
+            3,
+            4,
+            5,
+            7,
+            10,
+            11,
+            12
+        ]
+    },
+    "age": {
+        "prompt": "Please tell me which letter on this card includes your age",
+        "terminate_and_circle_next_highest_number": "TERMINATE AND CIRCLE NEXT HIGHEST NUMBER BELOW NEXT TO UNDER OR OVER AGE",
+        "age_ranges": {
+            "under_21": 7,
+            "30_to_34": "CONTINUE",
+            "45_to": "TERMINATE AND CIRCLE NEXT HIGHEST NUMBER"
+        },
+        "under_or_over_age": [
+            2,
+            3,
+            7,
+            8,
+            10,
+            12
+        ]
+    },
+    "takeback_age_card": "TAKEBACK AGE CARD",
+    "code": "84459336"
+}

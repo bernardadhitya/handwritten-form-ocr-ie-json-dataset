@@ -1,0 +1,83 @@
+{
+    "company": "NATIONAL CONSENSUS SURVEYS",
+    "address": {
+        "street": "801 Second Avenue",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10017"
+    },
+    "name": "Shao",
+    "phone": "NPhCn",
+    "instructions": "Please take a few minutes to go through the advertisements in the book. Please take as much time with each ad as you care to. If you ordinarily wear reading glasses, you'll need them. HAND RESPONDENT PORTFOLIO AND TAKE IT BACK BEFORE CONTINUING. Now I'd like to ask you a few questions about the ads in the book.",
+    "general_ads": [
+        "Dole Pineapple",
+        "Amana Range",
+        "Bank Americard/VISA",
+        "General Electric Washer",
+        "Golden Light",
+        "Bayer Aspirin",
+        "Hilton Hotels",
+        "Bolens Lawn Mower",
+        "Kawasaki",
+        "Kent Golden",
+        "Budweiser",
+        "Old Spice Pocket Cologne",
+        "Kent",
+        "Golden Lights",
+        "Canadian Club",
+        "Polaroid Camera",
+        "Kent Lights",
+        "Coca-Cola",
+        "Singer Sewing Machines",
+        "Concord Watches",
+        "Taster's Choice",
+        "Crest toothpaste",
+        "Weight Watchers",
+        "Other"
+    ],
+    "cigarette_ads": {
+        "brands_mentioned": [
+            "Golden Lights",
+            "Golden Unsp.",
+            "Kent Golden",
+            "Kent Golden Light",
+            "Kent Lights",
+            "Kent Unsp.",
+            "Lights Unsp.",
+            "True",
+            "Other"
+        ],
+        "questions": [
+            {
+                "question": "Do you remember any ads for cigarettes?",
+                "response": "Yes",
+                "brands": [
+                    "Golden Lights",
+                    "Golden Unsp.",
+                    "Kent Golden",
+                    "Kent Golden Light",
+                    "Kent Lights",
+                    "Kent Unsp.",
+                    "Lights Unsp.",
+                    "True",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Do you remember any ads for any other brands of cigarettes?",
+                "response": "Yes",
+                "brands": [
+                    "Golden Lights",
+                    "Golden Unsp.",
+                    "Kent Golden",
+                    "Kent Golden Light",
+                    "Kent Lights",
+                    "Kent Unsp.",
+                    "Lights Unsp.",
+                    "True",
+                    "Other"
+                ]
+            }
+        ]
+    }
+}

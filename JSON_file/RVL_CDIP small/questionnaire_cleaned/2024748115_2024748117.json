@@ -1,0 +1,166 @@
+{
+    "survey": {
+        "recipient": {
+            "name": "Mr. Daniel Binder",
+            "address": {
+                "street": "5 Eastfield Drive",
+                "city": "Palos Verdes P",
+                "state": "CA",
+                "zip": "90274-5251"
+            }
+        },
+        "questions": [
+            {
+                "id": 1,
+                "question": "What is your regular brand of cigarettes-that is the brand you smoke most often?",
+                "answer": "Alpine"
+            },
+            {
+                "id": 2,
+                "question": "Is your regular brand... Check one",
+                "options": [
+                    "Basic",
+                    "Doral",
+                    "Benson & Hedges",
+                    "GPC",
+                    "Kool",
+                    "Pyramid"
+                ],
+                "answer": null
+            },
+            {
+                "id": 3,
+                "question": "Is your regular brand... Check one",
+                "options": [
+                    "Menthol",
+                    "Non-Menthol"
+                ],
+                "answer": null
+            },
+            {
+                "id": 4,
+                "question": "Is your regular brand... Check one",
+                "options": [
+                    "Filter",
+                    "Non-Filter"
+                ],
+                "answer": null
+            },
+            {
+                "id": 5,
+                "question": "Is your regular brand... Check one",
+                "options": [
+                    "Lowest/1 mg Tar",
+                    "Ultra/Extra Low Tar",
+                    "Light/Mild",
+                    "Medium",
+                    "Full Flavor"
+                ],
+                "answer": null
+            },
+            {
+                "id": 6,
+                "question": "Do you usually buy it by the...",
+                "options": [
+                    "Pack",
+                    "Carton",
+                    "Both Ways"
+                ],
+                "answer": null
+            },
+            {
+                "id": 7,
+                "question": "How long have you smoked this brand?",
+                "options": [
+                    "Less than 1 year",
+                    "1 to 2 years",
+                    "2 to 3 years",
+                    "3 to 5 years",
+                    "Over 5 years"
+                ],
+                "answer": null
+            },
+            {
+                "id": 8,
+                "question": "What if any was your previous brand?",
+                "answer": null
+            },
+            {
+                "id": 9,
+                "question": "The next time you go to the store if your regular brand is not available, what would you do?",
+                "options": [
+                    "Go to another store to buy my regular brand",
+                    "Buy another type or length of my regular brand",
+                    "Buy a different brand entirely"
+                ],
+                "answer": null
+            },
+            {
+                "id": 10,
+                "question": "Which of the following statements best describes the way you use cigarette coupons?",
+                "options": [
+                    "I use almost any cigarette coupon I get",
+                    "I occasionally use coupons for cigarettes even if they are not for my regular brand",
+                    "I only use coupons if they are for my regular brand",
+                    "I never use coupons to buy cigarettes"
+                ],
+                "answer": null
+            },
+            {
+                "id": 11,
+                "question": "How often do you use special in-store cigarette offers such as a free gift with purchase, 2-for-1, or special prices?",
+                "options": [
+                    "Frequently",
+                    "Occasionally",
+                    "Never"
+                ],
+                "answer": null
+            },
+            {
+                "id": 12,
+                "question": "If your regular brand were not available, what other brands would you consider buying?",
+                "answer": null
+            },
+            {
+                "id": 13,
+                "question": "Please list all the brands of cigarettes you smoked",
+                "answer": null
+            },
+            {
+                "id": 14,
+                "question": "Which of the following best describes you? Check one",
+                "options": [
+                    "White",
+                    "American Indian",
+                    "Asian",
+                    "Hispanic",
+                    "Other"
+                ],
+                "answer": null
+            },
+            {
+                "id": 15,
+                "question": "Is there another smoker in your household 21 years of age or older? Please print full name, birthdate and regular brand",
+                "answer": null
+            },
+            {
+                "id": 16,
+                "question": "Would you be interested in receiving information about issues that affect smokers?",
+                "options": [
+                    "Yes",
+                    "No"
+                ],
+                "answer": null
+            },
+            {
+                "id": 17,
+                "question": "Would you be interested in joining a smokers' group?",
+                "options": [
+                    "Yes",
+                    "No"
+                ],
+                "answer": null
+            }
+        ]
+    }
+}

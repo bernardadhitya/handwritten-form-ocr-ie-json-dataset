@@ -1,0 +1,63 @@
+{
+    "company": "Bellomy-Carrigg, Inc.",
+    "address": {
+        "street": "UNIVERSITY PARKWAY",
+        "city": "WINSTON SALEM",
+        "state": "NC",
+        "zip": "27106"
+    },
+    "survey": {
+        "id": "#0906",
+        "date": "October 1984",
+        "type": "AA EXTENDED USE CONCEPT/PRODUCT TEST",
+        "screener": {
+            "respondent": {
+                "name": "",
+                "address": "",
+                "state": "",
+                "phone": ""
+            },
+            "interview": {
+                "date": "",
+                "interviewed_by": "",
+                "criteria": "INTERVIEW WOMEN ONLY"
+            },
+            "questions": [
+                {
+                    "question": "Into which of the following age groups does your age belong?",
+                    "options": {
+                        "Under 18": "TERMINATE, ERASE AND RE-USE",
+                        "18-24": "CHECK QUOTA TO DETERMINE IF NEEDED",
+                        "25-34": "CHECK QUOTA TO DETERMINE IF NEEDED",
+                        "35-49": "CHECK QUOTA TO DETERMINE IF NEEDED",
+                        "50+": "CHECK QUOTA TO DETERMINE IF NEEDED",
+                        "Refused": "TERMINATE, ERASE AND RE-USE"
+                    }
+                },
+                {
+                    "question": "Which of the following products do you use daily?",
+                    "options": [
+                        "Breathmints",
+                        "Mouthwash",
+                        "Cigarettes",
+                        "Gel toothpaste",
+                        "Cream toothpaste"
+                    ],
+                    "condition": "CONTINUE ONLY IF CIGARETTES CHECKED ABOVE IN Q.2"
+                },
+                {
+                    "question": "Which of the following brands have you used in the past week?",
+                    "options": [
+                        "Certs breathmints",
+                        "Clorets breathmints",
+                        "Topal toothpaste",
+                        "Aqua Fresh toothpaste",
+                        "Clinomint",
+                        "Scope",
+                        "Listerine"
+                    ]
+                }
+            ]
+        }
+    }
+}

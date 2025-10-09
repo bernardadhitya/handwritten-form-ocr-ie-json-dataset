@@ -1,0 +1,72 @@
+{
+    "company": "Hlomy-Carrigg, Inc",
+    "job_number": "0906",
+    "location": {
+        "address": "SUNIVEISITY PARKWAY",
+        "city": "WINSTONSAIEM",
+        "state": "NC",
+        "zip_code": "27106"
+    },
+    "date": "October, 1984",
+    "project": {
+        "id": "2058",
+        "name": "AA EXTENDED USE CONCEPT/PRODUCT TEST",
+        "type": "SCREENER"
+    },
+    "respondent": {
+        "name": "GI Uqu?hN",
+        "address": "857 Wnc/c",
+        "city": "Cicinnt",
+        "state": "452",
+        "area_code": "5",
+        "phone": "221-3017",
+        "interview_date": "10-15-84",
+        "interviewed_by": "MMCASU"
+    },
+    "interview": {
+        "target": "WOMEN ONLY",
+        "introduction": "Hello, I'm from (YOUR COMPANY), an independent marketing research",
+        "criteria": {
+            "age": {
+                "question": "Into which of the following age groups does your age belong?",
+                "options": [
+                    "Under 18",
+                    "18-24",
+                    "25-34",
+                    "35-49",
+                    "50+",
+                    "Refuse"
+                ],
+                "instructions": {
+                    "under_18": "TERMINATE, ERASE AND RE-USE",
+                    "18_24": "CHECK QUOTA TO DETERMINE IF NEEDED. IF OVER QUOTA, ASK FOR ANOTHER FEMALE IN AGE GROUP NEEDED.",
+                    "refuse": "TERMINATE, ERASE AND RE-USE"
+                }
+            },
+            "product_usage": {
+                "question": "Which of the following products do you use daily?",
+                "options": [
+                    "Breathmints",
+                    "Mouthwash",
+                    "Cigarettes",
+                    "Gel toothpaste",
+                    "Cream toothpaste"
+                ],
+                "instructions": "CONTINUE ONLY IF CIGARETTES CHECKED ABOVE IN Q.2. OTHERWISE, ASK FOR ANOTHER FEMALE HOUSEHOLD MEMBER 18+ AND GO BACK TO Q.1 IF NONE, TERMINATE, ERASE AND RE-USE."
+            },
+            "brand_usage": {
+                "question": "Which of the following brands have you used in the past week?",
+                "options": [
+                    "Certs breathmints",
+                    "Clorets breathmints",
+                    "50558 0496",
+                    "Topal toothpaste",
+                    "Aqua Fresh toothpaste",
+                    "Clinomint",
+                    "Scope",
+                    "Listerine"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "study": "DUODENAL ULCER - SMOKING STUDY",
+    "patient": {
+        "name": "C-",
+        "R_or_A_No": null,
+        "C_Number": null,
+        "hospital": null,
+        "date_of_interview_or_abstract": null,
+        "type_of_operation": null,
+        "date_of_operation": null
+    },
+    "smoking_status": {
+        "smoker": {
+            "type_of_smoker": {
+                "cigarette": {
+                    "duration": null,
+                    "average_per_day": null,
+                    "regularly_more_than_average": null,
+                    "maximum_per_day": null,
+                    "duration_of_maximum": null,
+                    "usual_type": null,
+                    "inhale": null,
+                    "length_discarded": null
+                },
+                "cigar": {
+                    "duration": null,
+                    "average_per_day": null,
+                    "regularly_more_than_average": null,
+                    "maximum_per_day": null,
+                    "duration_of_maximum": null,
+                    "inhale": null,
+                    "length_discarded": null
+                },
+                "pipe": {
+                    "duration": null,
+                    "average_per_day": null,
+                    "regularly_more_than_average": null,
+                    "maximum_per_day": null,
+                    "duration_of_maximum": null,
+                    "inhale": null
+                }
+            }
+        },
+        "non_smoker": {
+            "never_smoked": null,
+            "rarely_smokes": null,
+            "past_smoker": {
+                "duration_as_non_smoker": null
+            }
+        }
+    }
+}

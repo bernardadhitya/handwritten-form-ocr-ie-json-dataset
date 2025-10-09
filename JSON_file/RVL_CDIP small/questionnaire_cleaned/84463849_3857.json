@@ -1,0 +1,80 @@
+{
+    "title": "AHF MAKKET1M:RESEAKCH",
+    "id": 1151,
+    "survey": {
+        "name": "NATIONAL CONSENSUS SURVEYS",
+        "code": "#25077W",
+        "location": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10017"
+        },
+        "date": "August, 1977"
+    },
+    "questionnaire": {
+        "name": "CIGARETTE_PORTFOL10",
+        "type": "SCREENING QUESTIONNAIRE",
+        "time": "INTERVIEW",
+        "status": "STARTED",
+        "respondent": {
+            "name": "77N",
+            "telephone": "474-2039",
+            "address": {
+                "city": "",
+                "state": ""
+            }
+        },
+        "interviewer": {
+            "name": "",
+            "date": ""
+        },
+        "validated_by": {
+            "name": "",
+            "date": ""
+        }
+    },
+    "questions": [
+        {
+            "id": 1,
+            "text": "INDICATE CITY.",
+            "options": [
+                "Boston",
+                "Des Moines",
+                "Detroit",
+                "Lincoln",
+                "New Orleans",
+                "Omaha",
+                "San Francisco"
+            ]
+        },
+        {
+            "id": 2,
+            "text": "Have you, yourself, participated in a market study in the past three months or so?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "action": {
+                "yes": "TERMINATE AND CIRCLE NEXT HIGHEST NUMBER BELOW",
+                "no": "CONTINUE"
+            }
+        },
+        {
+            "id": 3,
+            "text": "AGE:",
+            "options": [
+                "Under 21",
+                "21 to 24",
+                "25 to 29",
+                "30 to 34",
+                "35 to 39",
+                "40 to 44",
+                "45 to 49",
+                "50 to 54",
+                "55 or over"
+            ],
+            "action": "TERMINATE AND CIRCLE NEXT HIGHEST NUMBER BELOW NEXT TO 'UNDER OR OVER AGE'"
+        }
+    ],
+    "notes": "TAKE BACK AGE CARD. (IWYR)"
+}

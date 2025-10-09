@@ -1,0 +1,68 @@
+{
+    "company": "TRENDEXINC.",
+    "address": {
+        "street": "15 RIVERSIDE AVENUE",
+        "city": "WESTPORT",
+        "state": "CON",
+        "postal_code": "MC174"
+    },
+    "test_job_number": "TC-152-034",
+    "intekviewer_number": null,
+    "respondent": {
+        "number": null,
+        "name": null,
+        "address": {
+            "street": null,
+            "city": null,
+            "state": null
+        }
+    },
+    "survey": {
+        "introduction": "GOOD EVENING. THIS IS (Insert Own Name) OF TRENDEX MARKET RESEARCH COMPANY CALLING. MAY I PLEASE SPEAK TO ANYONE IN YOUR HOUSEHOLD WHO IS 18 YEARS OF AGE OR OVER?",
+        "questions": [
+            {
+                "question": "HAVE YOU YOURSELF SMOKED ANY CIGARETTES DURING THE PAST WEEK?",
+                "options": {
+                    "yes": "Ask Q.1A",
+                    "no": "Terminate"
+                }
+            },
+            {
+                "question": "ABOUT HOW MANY CIGARETTES DO YOU YOURSELF SMOKE DURING AN AVERAGE DAY?",
+                "options": {
+                    "9 or Less": "Less than 1 pack",
+                    "10-19": "1/2-3/4 pack",
+                    "20-29": "1 pack",
+                    "30-39": "Over 1 pack to less than 2 packs",
+                    "40 or more": "2 packs or more"
+                }
+            },
+            {
+                "question": "WHAT BRAND OF CIGARETTES DO YOU NOW SMOKE MOST OFTEN - THAT IS THE BRAND YOU CONSIDER TO BE YOUR REGULAR BRAND?",
+                "note": "Circle number corresponding to respondent's answer in grid on opposite page - Pg.2."
+            },
+            {
+                "question": "IS (insert brand) A CIGARETTE WITH A FILTER OR WITHOUT A FILTER?",
+                "note": "Circle number corresponding to respondent's answer opposite brand being asked about."
+            },
+            {
+                "question": "IS (insert brand) A CIGARETTE WITH MENTHOL OR WITHOUT MENTHOL?",
+                "note": "Circle number corresponding to respondent's answer opposite brand being asked about."
+            },
+            {
+                "question": "WHICH DO YOU USUALLY BUY MOST OFTEN - THE SOFT PACK OR THE BOX?",
+                "note": "Circle number corresponding to respondent's answer opposite brand being asked about."
+            },
+            {
+                "question": "IS (insert brand) THE LONGER DELUXE - THAT IS SOMETIMES CALLED 100 MILLIMETER SIZE, OR A SMALLER SIZE?",
+                "note": "Circle number corresponding to respondent's answer under Col.2E opposite brand being asked about."
+            },
+            {
+                "question": "IS (insert brand) THE LONGER DELUXE - THAT IS SOMETIMES CALLED 100 MILLIMETER SIZE, THE KING SIZE, OR THE SMALLER SIZE?",
+                "note": "Circle number corresponding to respondent's answer opposite brand being asked about."
+            }
+        ]
+    },
+    "note_to_interviewer": "Answers to the following questions Q.2A through Q.2F are to be recorded.",
+    "identifier": "85064038"
+}

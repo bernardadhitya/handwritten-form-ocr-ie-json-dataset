@@ -1,0 +1,43 @@
+{
+    "code": "P0622",
+    "ad_code": "AD CODE",
+    "instructions": "Please read these questions along with me and then tell me the numbers of the answers you feel are the most appropriate.",
+    "questions": [
+        {
+            "question": "Which number from 1 to 7 best describes how likely you would be to buy a pack of these new cigarettes?",
+            "scale": {
+                "1": "Definitely would not buy a pack",
+                "7": "Definitely would buy a pack"
+            }
+        },
+        {
+            "question": "Which number from 1 to 7 best describes your feeling about whether the explanation of the cigarettes was clear/easy to understand or was unclear/hard to understand?",
+            "scale": {
+                "1": "Unclear/hard to understand",
+                "7": "Clear/easy to understand"
+            }
+        },
+        {
+            "question": "Which number from 1 to 7 best describes how important to you was what they said about the cigarettes?",
+            "scale": {
+                "1": "Not at all important to me",
+                "7": "Very important to me"
+            }
+        },
+        {
+            "question": "Do you consider this cigarette to be different than other brands or to be the same as other brands?",
+            "scale": {
+                "1": "Same as other brands",
+                "7": "Different than other brands"
+            }
+        },
+        {
+            "question": "Which number from 1 to 7 best describes how believable you feel the statements are about the new cigarettes?",
+            "scale": {
+                "1": "Definitely Not Believable",
+                "7": "Definitely Believable"
+            }
+        }
+    ],
+    "notice": "NOTICE IF THE FILM IMAGE IS LESS CLEAR THAN THIS NOTICE IT IS DUE TO THE QUALITY OF THE DOCUMENT BEING USED."
+}

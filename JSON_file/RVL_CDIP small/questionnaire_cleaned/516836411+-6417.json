@@ -1,0 +1,106 @@
+{
+    "id": "950516",
+    "project": "Tanpa Cigarette Screener-Non-Menthol 21+ Smokers",
+    "details": {
+        "name": "",
+        "address": "",
+        "phone": {
+            "home": "",
+            "work": ""
+        },
+        "age": "",
+        "brand_in_g": "11"
+    },
+    "schedule": {
+        "Wednesday": {
+            "date": "June 21",
+            "project": "DF",
+            "times": [
+                {
+                    "time": "4:00 p.m.",
+                    "group": "Males/Females"
+                },
+                {
+                    "time": "6:30 p.m.",
+                    "group": "Males/Females"
+                },
+                {
+                    "time": "8:30 p.m.",
+                    "group": "Males/Females"
+                }
+            ]
+        },
+        "Thursday": {
+            "date": "June 2",
+            "project": "FlOG",
+            "times": [
+                {
+                    "time": "12:00 p.m.",
+                    "group": "Females"
+                },
+                {
+                    "time": "4:00 p.m.",
+                    "group": "Females"
+                },
+                {
+                    "time": "6:00 p.m.",
+                    "group": "Males"
+                },
+                {
+                    "time": "8:00 p.m.",
+                    "group": "Males"
+                }
+            ]
+        }
+    },
+    "survey": {
+        "introduction": "Hello. This is from . We are conducting a short survey on consumer products among adults 21 or older.",
+        "questions": [
+            {
+                "question": "Check sex",
+                "options": [
+                    "male",
+                    "female"
+                ]
+            },
+            {
+                "question": "May I ask your age?",
+                "instructions": "Write in exact age above and check below.",
+                "options": [
+                    {
+                        "range": "Under 21",
+                        "action": "TERMINATE"
+                    },
+                    {
+                        "range": "21-60",
+                        "action": "Continue"
+                    },
+                    {
+                        "range": "61-65",
+                        "action": "12 max per group. Must work at least part-time."
+                    },
+                    {
+                        "range": "66+",
+                        "action": "TERMINATE"
+                    }
+                ]
+            },
+            {
+                "question": "Which if any of the following products do you personally use or consume on a daily basis?",
+                "options": [
+                    "Mouthwash",
+                    "Chewing gum",
+                    "Breath mints",
+                    {
+                        "product": "Cigarettes",
+                        "condition": "Must be checked to continue."
+                    }
+                ]
+            }
+        ]
+    },
+    "codes": {
+        "code1": "51683",
+        "code2": "6411"
+    }
+}

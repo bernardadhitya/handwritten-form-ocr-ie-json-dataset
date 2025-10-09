@@ -1,0 +1,76 @@
+{
+    "company": "Market Trends Inc.",
+    "address": {
+        "street": "4 EST 23rd Street",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10010"
+    },
+    "year": 2007,
+    "project_number": "219-3",
+    "date": "November 1982",
+    "document": "Screener Questionnaire",
+    "introduction": "Good morning, afternoon, or evening. My name is from Market Trends Inc., a public opinion research company conducting a public opinion survey in this area. I would like to ask you a few short questions.",
+    "questions": [
+        {
+            "question": "Are you between the ages of 21 and 35, younger or older?",
+            "options": [
+                {
+                    "answer": "Younger than 21",
+                    "action": "Terminate, circle next available"
+                },
+                {
+                    "answer": "Between 21 and 35",
+                    "action": "Continue"
+                },
+                {
+                    "answer": "Older than 35",
+                    "action": "Terminate, circle next available"
+                }
+            ]
+        },
+        {
+            "question": "Do you or does any member of your immediate family work for or consult with:",
+            "options": [
+                {
+                    "answer": "An advertising agency",
+                    "action": "Terminate"
+                },
+                {
+                    "answer": "A market research company",
+                    "action": "Terminate"
+                },
+                {
+                    "answer": "A company manufacturing, selling, or distributing beer, wine, or other alcoholic beverages",
+                    "action": "Terminate"
+                }
+            ]
+        },
+        {
+            "question": "Which of the following did you do in the past 2 days?",
+            "options": [
+                {
+                    "answer": "Drink a glass of wine",
+                    "action": "Do not record answers"
+                },
+                {
+                    "answer": "Have a glass of beer",
+                    "action": "Do not record answers"
+                },
+                {
+                    "answer": "Smoke a cigarette",
+                    "action": "Terminate, circle next available"
+                }
+            ]
+        },
+        {
+            "question": "About how many cigarettes do you smoke?",
+            "options": [
+                {
+                    "answer": "Less than half",
+                    "action": "Terminate, circle next available"
+                }
+            ]
+        }
+    ]
+}

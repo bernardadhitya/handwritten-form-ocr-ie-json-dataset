@@ -1,0 +1,63 @@
+{
+    "title": "NATIONAL CONSENSUS SURVEYS",
+    "address": {
+        "street": "801 Second Avenue",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10017"
+    },
+    "phone": "249",
+    "instructions": "Please take a few minutes to go through the advertisements in this book.",
+    "questions": [
+        {
+            "question": "What brands or products do you remember seeing ads for in the book?",
+            "note": "Do not read either brand names or product categories.",
+            "probe": "Any other brands?",
+            "categories": {
+                "general_ads": [
+                    "Dole Pineapple",
+                    "BankAmericard/Visa",
+                    "General Electric Washer",
+                    "Bayer Aspirin",
+                    "Hilton Hotels",
+                    "Bolens Lawn Mower",
+                    "Old Spice Pocket Cologne",
+                    "Kawasaki",
+                    "Polaroid Camera",
+                    "Coca Cola",
+                    "Singer Sewing Machine",
+                    "Taster's Choice",
+                    "Concord Watches",
+                    "Crest Toothpaste",
+                    "Weight Watchers"
+                ],
+                "cigarette_ads": [
+                    "Golden Lights",
+                    "Kent",
+                    "Canadian Club",
+                    "L&M",
+                    "Kent Lights"
+                ]
+            }
+        },
+        {
+            "question": "Do you remember any ads for cigarettes?",
+            "brands": [
+                "Golden Lights",
+                "Kent",
+                "Golden Unspecified",
+                "Kent Golden",
+                "Other"
+            ]
+        },
+        {
+            "question": "Do you remember any ads for any other brands of cigarettes?",
+            "brands": [
+                "Golden Lights",
+                "Golden Unspecified",
+                "Kent Golden",
+                "Other"
+            ]
+        }
+    ]
+}

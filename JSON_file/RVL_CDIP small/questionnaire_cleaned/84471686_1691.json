@@ -1,0 +1,42 @@
+{
+    "company": "CONICUS, INC.",
+    "project": "LLD-7",
+    "locations": [
+        "Chicago",
+        "New York",
+        "San Francisco"
+    ],
+    "date": "April, 1978",
+    "group": "D",
+    "name": "AM PM",
+    "address": "AM",
+    "city_town": "CITY/TOWN",
+    "telephone": "TELEPHONE#",
+    "interviewed_by": "INTERVIEWED BY:",
+    "validated_by": "VALIDATED BY:",
+    "survey_intro": "Hello, I'm conducting a survey and would like to include you.",
+    "company_intro": "from Communicus, a consumer opinion firm.",
+    "continue": "CONTINUE",
+    "terminate": "TERMINATE",
+    "age_groups": {
+        "under_21": "TERMINATE",
+        "21_34": "84471686",
+        "35_65": "35-65",
+        "65_plus": "65+"
+    },
+    "questions": [
+        {
+            "question": "What is your regular brand of cigarettes, that is, the one brand you smoke most often?",
+            "instruction": "PROBE FOR SPECIFIC STYLE. REFER TO LIST OF BRANDS."
+        },
+        {
+            "question": "Which of the following statements apply to you?",
+            "options": [
+                "I eat dinner in a restaurant at least once a month.",
+                "I read a daily newspaper.",
+                "I do most of the food shopping for myself and/or my family.",
+                "I have taken an airline trip on a scheduled commercial airline in the past 12 months."
+            ]
+        }
+    ]
+}

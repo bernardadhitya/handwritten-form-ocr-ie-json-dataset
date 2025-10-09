@@ -1,0 +1,71 @@
+{
+    "survey": {
+        "id": "900000159",
+        "name": "GWEN ASHLEY",
+        "address": {
+            "street": "5495 COPPELL",
+            "city": "COPPELL",
+            "state": "TX",
+            "zip": "75019"
+        },
+        "completedSurvey": true,
+        "giftChoice": "Lighter",
+        "smoker": {
+            "age21OrOlder": true,
+            "usualBrand": "",
+            "usualBrandType": "Non-menthol",
+            "packType": "Lights",
+            "purchaseMethod": "Usually buy packs",
+            "otherBrand": "",
+            "householdSmokesCigars": false,
+            "ethnicBackground": "White",
+            "birthdate": {
+                "month": "",
+                "day": "",
+                "year": ""
+            },
+            "telephoneNumber": "",
+            "householdIncome": "Under $15,000",
+            "opinions": {
+                "increaseTaxes": false,
+                "banInPublicPlaces": false,
+                "receiveInfo": false,
+                "workWithOthers": false
+            }
+        },
+        "otherSmokers": [
+            {
+                "firstName": "",
+                "lastName": "",
+                "smokesCigarettes": false,
+                "usualBrand": "",
+                "usualBrandType": "Non-menthol",
+                "packType": "Lights",
+                "purchaseMethod": "Usually buy packs",
+                "otherBrand": "",
+                "sex": "Male",
+                "birthdate": {
+                    "month": "",
+                    "day": "",
+                    "year": ""
+                }
+            },
+            {
+                "firstName": "",
+                "lastName": "",
+                "smokesCigarettes": false,
+                "usualBrand": "",
+                "usualBrandType": "Non-menthol",
+                "packType": "Lights",
+                "purchaseMethod": "Usually buy packs",
+                "otherBrand": "",
+                "sex": "Male",
+                "birthdate": {
+                    "month": "",
+                    "day": "",
+                    "year": ""
+                }
+            }
+        ]
+    }
+}

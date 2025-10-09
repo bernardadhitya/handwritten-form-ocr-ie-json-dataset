@@ -1,0 +1,68 @@
+{
+    "film": {
+        "title": "Smoking and Health-The",
+        "number": "04751",
+        "show_date": "03/19/73",
+        "location": "El Dorado Hosp"
+    },
+    "company": {
+        "name": "Modern Talking Picture Service Inc.",
+        "address": "2323 New Hyde Park Road, New Hyde Park, NY 11040",
+        "date": "04/09/73"
+    },
+    "respondent": {
+        "name": "B. Crittenden",
+        "address": "3280 Washington St, Placerville, CA 95667"
+    },
+    "questions": [
+        {
+            "question": "On a scale of 1 thru 10, please circle your group's reaction to the film.",
+            "scale": "1-10",
+            "options": {
+                "poor": "1",
+                "excellent": "10"
+            }
+        },
+        {
+            "question": "Compared with other films on the same subject, how would you rate this film?",
+            "scale": "1-10",
+            "options": {
+                "poor": "1",
+                "excellent": "10"
+            }
+        },
+        {
+            "question": "Was there any discussion of the film before or after showing?",
+            "options": [
+                "Yes",
+                "No"
+            ]
+        },
+        {
+            "question": "Was the film introduced before the showing?",
+            "options": [
+                "Yes",
+                "No"
+            ]
+        },
+        {
+            "question": "Can you estimate the average age of your group members?"
+        },
+        {
+            "question": "If you recall, please name the sponsor of the film."
+        },
+        {
+            "question": "We would appreciate any general comments about the film."
+        },
+        {
+            "question": "We would appreciate any comments about our service."
+        }
+    ],
+    "confidential": {
+        "note": "Minnesota Tobacco Litigation",
+        "codes": [
+            "0021678",
+            "TIMN 0078230"
+        ]
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "survey": {
+        "id": "5070200013969159",
+        "code": "111994",
+        "respondent": {
+            "name": "Mrs. P. Wolf",
+            "address": "159 High Street",
+            "zip": "0767",
+            "certification": "I am a cigarette smoker 21 years of age or older. I am also willing to receive free samples of cigarettes in the mail, subject to federal law.",
+            "signature": "W!",
+            "birthdate": "X"
+        },
+        "questions": [
+            {
+                "question": "What is your regular brand?",
+                "options": [
+                    "Alpine",
+                    "Parliament",
+                    "Raleigh Extra",
+                    "Pyramid",
+                    "Best Buy",
+                    "Hedges",
+                    "Salem",
+                    "Bristol",
+                    "Store Brand/Generic",
+                    "True",
+                    "Monarch",
+                    "More",
+                    "Virginia Slims",
+                    "Viceroy",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Is your regular brand Regular/King Size?",
+                "options": [
+                    "Yes",
+                    "No"
+                ]
+            },
+            {
+                "question": "Is your regular brand Menthol or Non-Menthol?",
+                "options": [
+                    "Menthol",
+                    "Non-Menthol"
+                ]
+            },
+            {
+                "question": "Is your regular brand Filter or Non-Filter?",
+                "options": [
+                    "Filter",
+                    "Non-Filter"
+                ]
+            },
+            {
+                "question": "Is your regular brand Lowest/1 mg Tar, Medium, or Full Flavor?",
+                "options": [
+                    "Lowest/1 mg Tar",
+                    "Medium",
+                    "Full Flavor"
+                ]
+            },
+            {
+                "question": "How many packs of cigarettes have you smoked in the past two weeks?",
+                "options": [
+                    "Less than 1 to 2 years",
+                    "2 to 3 years",
+                    "3 to 5 years",
+                    "Over 5 years"
+                ],
+                "note": "Write in exact number of packs for each. Note: 1 carton = 10 packs."
+            },
+            {
+                "question": "What, if any, was your previous brand?",
+                "options": [
+                    "# of Packs"
+                ]
+            },
+            {
+                "question": "The next time you go to the store, if your regular brand were not available, what would you do?",
+                "options": [
+                    "Go to another store to buy my regular brand",
+                    "Wait until the store has my regular brand",
+                    "Buy a different brand entirely"
+                ]
+            },
+            {
+                "question": "Which of the following best describes you?",
+                "options": [
+                    "African-American",
+                    "White",
+                    "Asian",
+                    "Hispanic",
+                    "American Indian",
+                    "Other"
+                ]
+            },
+            {
+                "question": "Which of the following statements best describes the way you use cigarette coupons?",
+                "options": [
+                    "I use almost any cigarette coupon I get.",
+                    "I occasionally use coupons for cigarettes, even if they are not for my regular brand.",
+                    "I only use coupons if they are for my regular brand.",
+                    "I never use coupons to buy cigarettes."
+                ]
+            },
+            {
+                "question": "Is there another smoker in your household 21 years of age or older?",
+                "fields": [
+                    "First Name",
+                    "Last Name",
+                    "Birthdate",
+                    "Regular Brand"
+                ]
+            },
+            {
+                "question": "Would you be interested in receiving information about offers, such as a free gift with purchase, a 2-for-1, or special prices?",
+                "options": [
+                    "Frequently",
+                    "Occasionally",
+                    "Never"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "questions": [
+        {
+            "id": 5,
+            "question": "Because smoking among children (especially young children) continues at truly epidemic levels, and many believe that cigarette advertising is at least partially to blame, other countries have banned tobacco advertising. Do you believe the United States should:",
+            "options": [
+                "Ban all tobacco advertising",
+                "Drastically limit tobacco advertising",
+                "Require free space for antismoking messages",
+                "Do nothing to restrict general tobacco advertising"
+            ]
+        },
+        {
+            "id": 6,
+            "question": "As mentioned above, smoking costs the public tens of billions of dollars every year in increased health care costs - most of which are paid by nonsmokers in the form of higher taxes, health insurance premiums, etc. As a result, do you feel the government should:",
+            "options": [
+                "Require smokers to pay more for health insurance",
+                "Permit insurance companies to charge smokers more",
+                "Take no action",
+                "Prohibit insurance companies from charging smokers more"
+            ]
+        },
+        {
+            "id": 7,
+            "question": "Would you be willing to spend just a few cents a day in support of ASH's efforts to fight back against the enormously powerful tobacco giants and to defend the rights of the nonsmoking public?",
+            "options": [
+                "Yes",
+                "If Yes, please see form below"
+            ],
+            "subscription": {
+                "message": "Yes! I'm sick and tired of breathing other peoples' smoke and having my hard-earned tax dollars subsidize ASH. Please begin my subscription to Smoking and Health Review at once. My contribution is for:",
+                "amounts": [
+                    "$15",
+                    "$35",
+                    "$50",
+                    "$100",
+                    "$500",
+                    "Other $"
+                ],
+                "note": "Contributions to ASH are tax deductible."
+            }
+        }
+    ],
+    "contact": {
+        "organization": "ACTION ON SMOKING AND HEALTH",
+        "address": "2013 H STREET N.W. WASHINGTON, DC 20006",
+        "phone": "87382128"
+    }
+}

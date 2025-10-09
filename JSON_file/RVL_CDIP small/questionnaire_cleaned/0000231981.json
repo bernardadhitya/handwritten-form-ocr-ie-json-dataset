@@ -1,0 +1,41 @@
+{
+    "document": {
+        "id": "$-765",
+        "draft": "1/2/80",
+        "title": "RALEIGHLIGHTS PORTFOLIO TEST",
+        "section": "Main Questionnaire",
+        "code": "PK6-Dt-Nt",
+        "location": "la.",
+        "instructions": [
+            "HAND PORTFOLIO TO RESPONDENT",
+            "Here is a portfolio containing ads. Please look at them as you would normally when reading a magazine, spending as much or as little time on each of them as you would like.",
+            "WHEN RESPONDENT IS FINISHED TAKE BACK PORTFOLIO AND ASK",
+            "Now tell me all the ads you remember seeing or reading. Please give me the complete name of each as you remember it from the ad.",
+            "PROBE: What other ads do you recall? Any others?",
+            "RECORD VERBATIM RESPONSES UNDER QU.1a BELOW",
+            "What if any other cigarette ads do you remember?",
+            "PROBE: Any others",
+            "RECORD VERBATIM RESPONSES UNDER QU.1b BELOW",
+            "FOR EACH CIGARETTE BRAND NOT MENTIONED IN QUS.1a OR 1b ASK",
+            "Do you remember seeing an advertisement for --BRAND",
+            "RECORD UNDER QU.1c BELOW"
+        ],
+        "questions": {
+            "Qu.1a": "Unaided",
+            "Qu.1b": "Cigarette",
+            "Qu.1c": "Brand Aided Recall"
+        },
+        "responses": {
+            "Raleigh": {
+                "aided": "Yes",
+                "unaided": "1"
+            },
+            "Raleigh Lights": {
+                "aided": "No/DK",
+                "unaided": "1"
+            },
+            "other_ads_in_portfolio": "670287336",
+            "other_specify": "Nothing, no other recalled"
+        }
+    }
+}

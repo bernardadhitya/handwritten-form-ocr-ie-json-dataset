@@ -1,0 +1,132 @@
+{
+    "CigaretteTestReportForm": {
+        "PartI": {
+            "Instructions": "To be answered immediately after you have finished smoking 3 or 4 packs of the C8 cigarettes and before you start smoking the T5 cigarettes.",
+            "Questions": [
+                {
+                    "Question": "What, if anything, did you dislike about the C8 cigarettes?"
+                },
+                {
+                    "Question": "What, if anything, did you like about the C8 cigarettes?"
+                }
+            ],
+            "PhrasePairs": [
+                {
+                    "Pair": "Does not have a mild taste / Has a mild taste",
+                    "Scale": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7
+                    ]
+                },
+                {
+                    "Pair": "Is not harsh / Is harsh",
+                    "Scale": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7
+                    ]
+                },
+                {
+                    "Pair": "Does not have a good taste / Has a good taste",
+                    "Scale": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6
+                    ]
+                },
+                {
+                    "Pair": "Is not satisfying / Is satisfying",
+                    "Scale": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7
+                    ]
+                },
+                {
+                    "Pair": "Is not cool smoking / Is cool smoking",
+                    "Scale": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7
+                    ]
+                },
+                {
+                    "Pair": "Does not burn too fast / Burns too fast",
+                    "Scale": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7
+                    ]
+                },
+                {
+                    "Pair": "Does not have an easy draw / Has an easy draw",
+                    "Scale": [
+                        1,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7
+                    ]
+                },
+                {
+                    "Pair": "Does not have a dry taste in my mouth / Has a dry taste in my mouth",
+                    "Scale": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7
+                    ]
+                },
+                {
+                    "Pair": "Does not leave a good aftertaste in my mouth / Leaves a good aftertaste in my mouth",
+                    "Scale": [
+                        4,
+                        5,
+                        7
+                    ]
+                },
+                {
+                    "Pair": "I dislike extremely / I like extremely",
+                    "Scale": [
+                        2,
+                        4,
+                        5,
+                        6,
+                        7
+                    ]
+                }
+            ],
+            "ImportantNote": "Please keep this report form handy. Do not return it to us.",
+            "Code": "P454-M1",
+            "Number": 2
+        }
+    }
+}

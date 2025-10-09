@@ -1,0 +1,68 @@
+{
+    "study": {
+        "id": "ND78-0012",
+        "edited_by": "duco",
+        "study_no": "RS",
+        "card": "ERDID",
+        "year_id": "780512",
+        "geo_reg": "TELSPHOE NEMDER",
+        "interviewer": "SATE COO",
+        "county_code": "COUNTYCOCE",
+        "size": "AREA COCEPRTXSUIX",
+        "number": "15",
+        "date": "78",
+        "time_ended": "TMESPARAED",
+        "no_of_min": "Kello,I'm"
+    },
+    "survey": {
+        "introduction": "with M//R/c Consumer Research, an independent research company, calling long distance. We're conducting a survey on people's use of consumer products and would like to include someone in your home 18 years of age or older among the people we are interviewing nationwide.",
+        "questions": [
+            {
+                "id": "1a",
+                "text": "Have you smoked any cigarettes in the past seven days, or not?",
+                "response": "Yes"
+            },
+            {
+                "id": "1b",
+                "text": "How many cigarettes do you usually smoke per day?",
+                "options": [
+                    "Less than one",
+                    "1-15",
+                    "16-25",
+                    "Over 25"
+                ]
+            },
+            {
+                "id": "2a",
+                "text": "What one brand of cigarette do you smoke most often and consider to be your usual brand?",
+                "options": [
+                    "Belair",
+                    "Benson & Hedges",
+                    "Camel",
+                    "Carlton",
+                    "Chesterfield",
+                    "Doral",
+                    "Kent",
+                    "Lark",
+                    "L&M",
+                    "Lucky Strike",
+                    "Marlboro",
+                    "Merit",
+                    "Newport",
+                    "Parliament",
+                    "Pall Mall",
+                    "KOOL",
+                    "Salem",
+                    "Tareyton",
+                    "Vantage",
+                    "True",
+                    "Raleigh",
+                    "Viceroy",
+                    "Virginia Slims",
+                    "Winston",
+                    "Other"
+                ]
+            }
+        ]
+    }
+}

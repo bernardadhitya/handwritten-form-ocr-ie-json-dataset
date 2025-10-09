@@ -1,0 +1,178 @@
+{
+    "PERLTAETIE": "THULTHASIC CUESTRNE",
+    "INTERVAL_HISTORY": "36639519",
+    "Dale": "",
+    "Form_Description": "THIS FORM IS TO HELP YOUR DOCTOR GIVE YOU BETTER HEALTH CARE. IT IS COMPLETELY CONFIDENTIAL AND WILL BE PART OF YOUR MEDICAL RECORD.",
+    "Patient_Information": {
+        "Name": "",
+        "Birth_Date": "",
+        "Home_Address": "",
+        "MR_Number": "",
+        "Home_Phone_Number": "",
+        "Business_Phone_Number": ""
+    },
+    "Questions": {
+        "Operations_Last_Year": {
+            "Yes": false,
+            "No": false,
+            "Details": ""
+        },
+        "Past_Five_Years": {
+            "Tetanus_Booster": {
+                "Yes": false,
+                "No": false
+            },
+            "Smallpox_Vaccination": {
+                "Yes": false,
+                "No": false
+            },
+            "Diphtheria_Booster": {
+                "Yes": false,
+                "No": false
+            },
+            "Polio_Vaccinations": {
+                "Yes": false,
+                "No": false
+            },
+            "Serious_Illness_Injury": {
+                "Yes": false,
+                "No": false,
+                "Details": ""
+            }
+        },
+        "Medicine_Reactions": {
+            "Aspirin_Empirin_Anacin_Bufferin": {
+                "Yes": false,
+                "No": false
+            },
+            "Benzedrine_Dexedrine": {
+                "Yes": false,
+                "No": false
+            },
+            "Asthma_Medicine": {
+                "Yes": false,
+                "No": false
+            },
+            "Blood_Transfusions": {
+                "Yes": false,
+                "No": false,
+                "Reason": ""
+            },
+            "Blood_Pressure_Pills": {
+                "Yes": false,
+                "No": false
+            },
+            "Codeine_Percodan_Morphine_Demerol": {
+                "Yes": false,
+                "No": false
+            },
+            "Cortisone_Type_Medicine": {
+                "Yes": false,
+                "No": false
+            },
+            "Coumadin_Blood_Thinning_Pills": {
+                "Yes": false,
+                "No": false
+            },
+            "Cough_Medicine": {
+                "Yes": false,
+                "No": false
+            },
+            "Digitalis_Type_Medicine": {
+                "Yes": false,
+                "No": false
+            },
+            "Hay_Fever_Medicine": {
+                "Yes": false,
+                "No": false
+            },
+            "Insulin_Diabetes_Pills": {
+                "Yes": false,
+                "No": false
+            },
+            "Hormones": {
+                "Yes": false,
+                "No": false
+            },
+            "Iron_Anemia_Medicine": {
+                "Yes": false,
+                "No": false
+            },
+            "Laxatives_Cathartics": {
+                "Yes": false,
+                "No": false
+            },
+            "Penicillin": {
+                "Yes": false,
+                "No": false
+            },
+            "Phenobarbital_Barbiturates": {
+                "Yes": false,
+                "No": false
+            },
+            "Other_Antibiotic": {
+                "Yes": false,
+                "No": false
+            },
+            "Procaine_Novocaine": {
+                "Yes": false,
+                "No": false
+            },
+            "Serum_Antitoxin": {
+                "Yes": false,
+                "No": false
+            },
+            "Shots_Pills_To_Lose_Water": {
+                "Yes": false,
+                "No": false
+            },
+            "Sleeping_Pills": {
+                "Yes": false,
+                "No": false
+            },
+            "Stomach_Digestion_Medicine": {
+                "Yes": false,
+                "No": false
+            },
+            "Sulfa_Drug": {
+                "Yes": false,
+                "No": false
+            },
+            "Other_Medicine_Reactions": ""
+        },
+        "Health_Status": {
+            "Cannot_Do_Usual_Work": false,
+            "Limited_Work": false,
+            "Not_Limited": false
+        },
+        "Marital_Status": {
+            "Married_Once": false,
+            "Remarried": false,
+            "Divorced": false,
+            "Never_Married": false,
+            "Widowed": false
+        },
+        "Occupation": {
+            "Current_Occupation": "",
+            "Business_Industry": ""
+        },
+        "Health_Checkup_Reason": {
+            "Didn't_Feel_Well": false,
+            "Regular_Annual_Checkup": false,
+            "Wanted_Checkup": false,
+            "Doctor_Suggested": false,
+            "Someone_Else_Suggested": false
+        },
+        "Medicine_Usage": {
+            "Regular_Medicine_Use": false,
+            "Details": ""
+        },
+        "Physical_Activities": {
+            "Sitting": false,
+            "Standing": false,
+            "Walking": false,
+            "Lifting_25_Pounds": false,
+            "Lifting_Over_25_Pounds": false
+        }
+    }
+}

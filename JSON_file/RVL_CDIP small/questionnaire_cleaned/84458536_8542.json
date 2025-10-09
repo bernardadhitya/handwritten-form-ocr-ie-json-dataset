@@ -1,0 +1,161 @@
+{
+    "company": "AHE Marketing Research",
+    "division": "National Consensus Surveys",
+    "address": {
+        "street": "801 Second Avenue",
+        "suite": "3142",
+        "postal_code": "12947W",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10017"
+    },
+    "date": "May, 1977",
+    "survey": {
+        "title": "Cigarette Portfolio Screening Questionnaire",
+        "interview": {
+            "time": {
+                "started": null,
+                "ended": null
+            },
+            "respondent": {
+                "name": null,
+                "address": null,
+                "city": null,
+                "state": null
+            },
+            "interviewer": null,
+            "metro_area": null,
+            "date": null,
+            "validated_by": null,
+            "validation_date": null
+        },
+        "questions": [
+            {
+                "id": 1,
+                "question": "Indicate city.",
+                "options": [
+                    "Boston",
+                    "Albany",
+                    "Buffalo",
+                    "Denver",
+                    "Des Moines",
+                    "Milwaukee",
+                    "Minneapolis",
+                    "Syracuse"
+                ]
+            },
+            {
+                "id": 2,
+                "question": "Initial refusal",
+                "instruction": "Circle next highest number below.",
+                "options": [
+                    10,
+                    11,
+                    17,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20,
+                    26,
+                    30,
+                    31,
+                    32,
+                    33,
+                    34,
+                    35,
+                    36,
+                    38,
+                    40,
+                    42,
+                    46,
+                    48,
+                    4,
+                    50,
+                    51,
+                    3,
+                    54,
+                    56,
+                    57,
+                    58,
+                    60,
+                    65,
+                    66,
+                    67,
+                    68,
+                    70,
+                    72,
+                    76,
+                    77,
+                    78,
+                    79,
+                    80,
+                    86,
+                    67,
+                    88,
+                    90,
+                    92,
+                    94,
+                    95,
+                    96,
+                    97,
+                    99,
+                    100
+                ],
+                "terminate_instruction": "Terminate and circle next highest number below",
+                "continue": "Yes",
+                "no": "No"
+            },
+            {
+                "id": 3,
+                "question": "Participated in study",
+                "options": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    6,
+                    10,
+                    1,
+                    12
+                ]
+            },
+            {
+                "id": 4,
+                "question": "Show age card",
+                "instruction": "Please tell which letter on this card includes your age",
+                "terminate_instruction": "Terminate and circle next highest number below next to under or over age",
+                "age_ranges": {
+                    "under_21": "Under 21",
+                    "continue": [
+                        35,
+                        29,
+                        35,
+                        40,
+                        36,
+                        45,
+                        50
+                    ],
+                    "terminate": "Terminate and circle next highest number below next to under or over age"
+                }
+            }
+        ],
+        "age_card": {
+            "under_or_over_age": [
+                2,
+                3,
+                5,
+                6,
+                8,
+                10,
+                11,
+                12,
+                8
+            ]
+        }
+    }
+}

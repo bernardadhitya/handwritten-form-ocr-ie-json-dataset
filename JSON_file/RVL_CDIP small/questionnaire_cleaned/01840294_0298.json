@@ -1,0 +1,104 @@
+{
+    "title": "NATIONAL CONSENSUS SURVEYS",
+    "address": {
+        "street": "801 Second Avenue",
+        "suite": "#42318W",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10017"
+    },
+    "survey": {
+        "instructions": "Please take a few minutes to go through the advertisements in this book. Take as much time with each ad as you care to. If you ordinarily wear reading glasses, you'll need them. HAND RESPONDENT PORTFOLIO AND TAKE IT BACK BEFORE CONTINUING.",
+        "questions": [
+            {
+                "question": "Now I'd like to ask you a few questions about the ads in the book. What brands or products do you remember seeing ads for in the book?",
+                "note": "DO NOT READ EITHER BRAND NAMES OR PRODUCT CATEGORIES.",
+                "probe": "Any other brands?",
+                "categories": {
+                    "general_ads": [
+                        "Amana Range",
+                        "Dole Pineapple",
+                        "Luke",
+                        "General Electric Washer",
+                        "Bayer Aspirin",
+                        "Hilton Hotels",
+                        "Golden Lights",
+                        "Golden Unsp.",
+                        "Bolens Lawn Mower",
+                        "Kawasaki",
+                        "Kent",
+                        "Golden",
+                        "Budweiser",
+                        "Old Spice Pocket Cologne",
+                        "Kent",
+                        "Golden Light",
+                        "Canadian Club",
+                        "Polaroid Camera",
+                        "Coca Cola",
+                        "Singer Sewing Machines",
+                        "Kent",
+                        "Lights",
+                        "Concord Watches",
+                        "Taster's Choice",
+                        "Uasp.",
+                        "Weight Watchers",
+                        "Lights (Unsp.)",
+                        "Crest toothpaste",
+                        "Other (SPECIFY)"
+                    ],
+                    "cigarette_ads": [
+                        "Golden Lights",
+                        "Luke",
+                        "Golden Unsp.",
+                        "Kent Golden",
+                        "Kent Golden Lights",
+                        "Kent Lights",
+                        "Kent Unsp.",
+                        "Lights Unsp.",
+                        "Other (SPECIFY)"
+                    ]
+                }
+            },
+            {
+                "question": "Do you remember any ads for cigarettes?",
+                "options": [
+                    {
+                        "answer": "Yes",
+                        "follow_up": "What brands do you remember seeing ads for? Any others?",
+                        "brands": [
+                            "Golden Lights",
+                            "Luke",
+                            "Golden Unsp.",
+                            "Kent Golden",
+                            "Kent Golden Lights",
+                            "Kent Lights",
+                            "Kent Unsp.",
+                            "Lights Unsp.",
+                            "Other (SPECIFY)"
+                        ]
+                    }
+                ]
+            },
+            {
+                "question": "Do you remember any ads for any other brands of cigarettes?",
+                "options": [
+                    {
+                        "answer": "Yes",
+                        "follow_up": "What brands were they? Any others?",
+                        "brands": [
+                            "Luke",
+                            "Golden Lights",
+                            "Golden Unsp.",
+                            "Kent Golden Lights",
+                            "Kent Golden",
+                            "Kent Lights",
+                            "Lights Unsp.",
+                            "Kent Unsp.",
+                            "Other (SPECIFY)"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

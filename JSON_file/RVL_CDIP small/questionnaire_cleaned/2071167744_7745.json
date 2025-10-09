@@ -1,0 +1,203 @@
+{
+    "title": "Hspanie Newspapens",
+    "publication": "Sample Publication",
+    "message": {
+        "english": "Wants Your Opinions!",
+        "spanish": "Desea conocer su opinion!"
+    },
+    "greeting": {
+        "english": "Dear Reader",
+        "spanish": "Apreciado lector"
+    },
+    "content": {
+        "english": "Our staff and we are sincerely interested in knowing the best way we can serve you. Because your input is so VERY IMPORTANT to us, readers who return this survey completed within 10 days will be eligible for a drawing for two prizes: the Grand Cash Prize of $2,500 and a Second Prize of $1,000.",
+        "spanish": "Nuestro personal y nosotros estamos sinceramente interesados en conocer la mejor manera en la que lo podamos servir. Por esta razon sus sugerencias SON MUY IMPORTANTES para nosotros. Los lectores que dentro de 10 dias nos remitan por correo estas encuestas de dos fabulosos premios. Primer Gran Premio: $2,500 dolares en efectivo y 2do. Gran Premio: $1,000 dolares en efectivo."
+    },
+    "instructions": {
+        "english": "When filling out this survey, please keep your responses INSIDE the postage paid side is on the outside. All your answers will be strictly confidential. You need to complete either the English or the Spanish questions, NOT BOTH.",
+        "spanish": "Despues de haber contestado completamente la encuesta, doblela de tal manera que el sello de porte pagado del correo quede del lado exterior. Todas las encuestas seran mantenidas en estricta confidencialidad. Usted debe contestar la encuesta en ingles o en espanol PERO NO en los dos idiomas."
+    },
+    "closing": {
+        "english": "Sincerely yours, Publisher or Editor",
+        "spanish": "Atentamente, Publisher or Editor"
+    },
+    "questions": {
+        "A": {
+            "english": "How many people read your copy of this publication?",
+            "spanish": "Cuantas personas, ademas de usted, leen la copia de su ejemplar?"
+        },
+        "B": {
+            "english": "What is your preferred language for reading?",
+            "spanish": "En que idioma prefiere usted leer",
+            "options": {
+                "english": [
+                    "English",
+                    "Spanish",
+                    "Both"
+                ],
+                "spanish": [
+                    "ingles",
+                    "espanol",
+                    "ambas"
+                ]
+            }
+        },
+        "C": {
+            "english": "How many people live in your household, including yourself?",
+            "spanish": "Cuantas personas viven en su hogar, incluyendose usted?"
+        },
+        "D": {
+            "english": "How much do you spend a month on clothing and shoes? (check one)",
+            "spanish": "Cual es la cantidad aproximada que usted gasta mensualmente en ropa y zapatos? (marque solo uno)",
+            "options": {
+                "english": [
+                    "Under $50",
+                    "$50-$150",
+                    "Over $150"
+                ],
+                "spanish": [
+                    "menos de $50",
+                    "$50-$150",
+                    "mas de $150"
+                ]
+            }
+        },
+        "E": {
+            "english": "What is your sex?",
+            "spanish": "Cual es su sexo?",
+            "options": {
+                "english": [
+                    "Female",
+                    "Male"
+                ],
+                "spanish": [
+                    "Femenino",
+                    "Masculino"
+                ]
+            }
+        },
+        "F": {
+            "english": "How many times a month do you see movies in a theater?",
+            "spanish": "Cuantas veces va al cine durante el mes?",
+            "options": {
+                "english": [
+                    "In English",
+                    "In Spanish"
+                ],
+                "spanish": [
+                    "en ingles",
+                    "en espanol"
+                ]
+            }
+        },
+        "G": {
+            "english": "Were you born in the U.S.?",
+            "spanish": "Nacio usted en los Estados Unidos?",
+            "options": {
+                "english": [
+                    "Yes",
+                    "No"
+                ],
+                "spanish": [
+                    "si",
+                    "No"
+                ]
+            }
+        },
+        "H": {
+            "english": "In 1999, do you plan to make any of the following purchases? (check as many as apply)",
+            "spanish": "En 1999 usted ha planificado comprar? (marque la casilla apropiada)",
+            "options": {
+                "english": [
+                    "Computer",
+                    "New Car",
+                    "House/condo"
+                ],
+                "spanish": [
+                    "Computadora",
+                    "Carro nuevo",
+                    "Casa o condominio"
+                ]
+            }
+        },
+        "I": {
+            "english": "In what year were you born?",
+            "spanish": "En que ano nacio?"
+        },
+        "J": {
+            "english": "What is your monthly rent or mortgage payment? (check one)",
+            "spanish": "Que cantidad paga mensualmente de renta o de mortgage? (marque solo uno)",
+            "options": {
+                "english": [
+                    "Under $500",
+                    "$500 to $749",
+                    "$750 to $999",
+                    "$1,000 to $1,499",
+                    "Over $1,500"
+                ],
+                "spanish": [
+                    "Menos de $500",
+                    "$500 a $749",
+                    "$750 a $999",
+                    "$1,000 a $1,499",
+                    "Mas de $1,500"
+                ]
+            }
+        },
+        "K": {
+            "english": "How often do you or members of your household visit a doctor, clinic, or hospital? (check one)",
+            "spanish": "Con que frecuencia usted o los miembros de su familia visitan a un doctor, una clinica o el hospital? (marque una)",
+            "options": {
+                "english": [
+                    "Monthly",
+                    "2-6 times a year",
+                    "Annually or less"
+                ],
+                "spanish": [
+                    "Mensualmente",
+                    "2-6 veces al ano",
+                    "Una vez al ano o menos"
+                ]
+            }
+        },
+        "L": {
+            "english": "What was your approximate total household income in 1998? (check one)",
+            "spanish": "Aproximadamente, cual fue su ingreso en 1998? (seleccione uno)",
+            "options": {
+                "english": [
+                    "Less than $25,000",
+                    "$25,000-$34,999",
+                    "$35,000-$49,999",
+                    "$50,000-$74,999",
+                    "$75,000-$99,999",
+                    "$100,000 or more"
+                ],
+                "spanish": [
+                    "Menos de $25,000",
+                    "De $25,000 a $34,999",
+                    "De $35,000 a $49,999",
+                    "De $50,000 a $74,999",
+                    "De $75,000 a $99,999",
+                    "$100,000 o mas"
+                ]
+            }
+        },
+        "M": {
+            "english": "How much does your household spend weekly on groceries? (check one)",
+            "spanish": "Aproximadamente, en la semana cuanto gasta en la compra de alimentos? (marque solo uno)",
+            "options": {
+                "english": [
+                    "Under $50",
+                    "$50 to $150",
+                    "Over $150"
+                ],
+                "spanish": [
+                    "Menos de $50",
+                    "$50 a $150",
+                    "Mas de $150"
+                ]
+            }
+        }
+    },
+    "attachment": "2071167744"
+}

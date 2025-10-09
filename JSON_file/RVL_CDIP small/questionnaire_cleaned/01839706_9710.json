@@ -1,0 +1,78 @@
+{
+    "company": "NATIONAL CONSENSUS: SURVEYS",
+    "code": "642318W",
+    "address": {
+        "street": "801 Second Avenue",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10017"
+    },
+    "phone": "13-2",
+    "instructions": "Please take a few minutes to go through the advertisements in this book. Please take as much time with each ad as you care to. If you ordinarily wear reading glasses, you'll need them.",
+    "questions": [
+        {
+            "question": "What brands or products do you remember seeing ads for in the book?",
+            "note": "DO NOT READ EITHER BRAND NAMES OR PRODUCT CATEGORIES.",
+            "categories": {
+                "general_ads": [
+                    "Amans Range",
+                    "Dole Pineapple",
+                    "BankAmericard/VISA",
+                    "General Electric Washer",
+                    "Bayer Aspirin",
+                    "Hilton Hotels",
+                    "Bolens Lawn Mower",
+                    "Kawasaki",
+                    "Budweiser",
+                    "Old Spice Pocket Cologne",
+                    "Canadian Club",
+                    "Polaroid Camera",
+                    "Coca Cola",
+                    "Singer Sewing Machine",
+                    "Concord Watches",
+                    "Taster's Choice",
+                    "Crest toothpaste",
+                    "Weight Watchers"
+                ],
+                "cigarette_ads": [
+                    "Golden Lights",
+                    "Golden (Unsp.)",
+                    "Kent Golden Lights",
+                    "Kent",
+                    "True"
+                ]
+            },
+            "other": "SPECIFY"
+        },
+        {
+            "question": "Do you remember any ads for cigarettes?",
+            "note": "IF NO CIGARETTE BRANDS MENTIONED ABOVE ASK",
+            "brands": [
+                "Golden Lights",
+                "Golden (Unsp.)",
+                "Kent Golden",
+                "Kent Golden Lights",
+                "Kent Lights",
+                "Kent (Unsp.)",
+                "Lights (Unsp.)",
+                "True"
+            ],
+            "other": "SPECIFY"
+        },
+        {
+            "question": "What brands were they? Any others?",
+            "note": "IF TRUE MENTIONED IN Q2 3a OR 3b CONTINUE.",
+            "brands": [
+                "Golden Light",
+                "Golden (Unsp.)",
+                "Kent Golden",
+                "Kent Golden Lights",
+                "Kent Lights",
+                "Kent (Unsp.)",
+                "Lights Unsp.",
+                "True"
+            ],
+            "other": "SPECIFY"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "survey": {
+        "questions": [
+            {
+                "id": 1,
+                "category": "EASE OF CONTACT",
+                "aspects": [
+                    "Ability to get through on first call",
+                    "Satisfaction with telephone recording",
+                    "If put on hold length of time on hold"
+                ]
+            },
+            {
+                "id": 2,
+                "category": "PERSONNEL",
+                "aspects": [
+                    "Courtesy",
+                    "Professionalism",
+                    "Knowledge",
+                    "Authority to resolve problem"
+                ]
+            },
+            {
+                "id": 3,
+                "category": "RESPONSE",
+                "aspects": [
+                    "Timeliness",
+                    "Clarity",
+                    "Helpfulness",
+                    "Follow through on promised action"
+                ]
+            }
+        ],
+        "satisfaction_statement": [
+            "I was completely satisfied.",
+            "I was NOT completely satisfied but the action taken was acceptable.",
+            "I was NOT completely satisfied but some action was taken.",
+            "I was NOT AT ALL satisfied with the action taken.",
+            "I was NOT AT ALL satisfied no action was taken."
+        ],
+        "purchase_intent": {
+            "question": "Based on how well you were treated by our representative, will you continue to purchase the brand of cigarettes you contacted us about?",
+            "options": [
+                "Definitely Would",
+                "Probably Would",
+                "Might or Might Not",
+                "Probably Would Not",
+                "Definitely Would Not"
+            ]
+        },
+        "recommendation": {
+            "question": "Would you recommend this brand of cigarettes to an adult smoker (21 years of age or older)?",
+            "options": [
+                "Definitely Would",
+                "Probably Would",
+                "Might or Might Not",
+                "Probably Would Not",
+                "Definitely Would Not"
+            ]
+        },
+        "additional_comments": "Please add any additional comments:"
+    },
+    "metadata": {
+        "key": 52273,
+        "code": 8027,
+        "status": "new"
+    }
+}

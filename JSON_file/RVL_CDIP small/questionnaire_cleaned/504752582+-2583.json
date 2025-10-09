@@ -1,0 +1,53 @@
+{
+    "questionnaire": {
+        "title": "TELEPHONE SCREENING QUESTIONNAIRE",
+        "fields": {
+            "name": "",
+            "address": "",
+            "city": "",
+            "telephone_area_code": "",
+            "date": "",
+            "interviewer": ""
+        },
+        "instructions": "ASK TO SPEAK TO MALES 18-",
+        "introduction": "Hello, I am from a local marketing research company. A panel is being established in the Winston-Salem area to evaluate various foods, non-alcoholic beverages, and tobacco products. Periodic participation will be required, perhaps over a considerable length of time, one year, and all participants will be paid for these product evaluations. If you qualify, would you be willing to participate?",
+        "response": {
+            "yes": "CONTINUE INTERVIEW",
+            "no": "TERMINATE ERASE & RE-USE"
+        },
+        "questions": [
+            {
+                "question": "1. First of all, do you or does any member of your family work for...",
+                "options": {
+                    "no": "",
+                    "yes": "TERMINATE, ERASE",
+                    "fields": [
+                        "An advertising agency or marketing research company",
+                        "A tobacco company",
+                        "A food company",
+                        "A beverage company"
+                    ]
+                }
+            },
+            {
+                "question": "3. Which of the following products do you presently use? (READ LIST - CHECK AS MANY AS APPLY)",
+                "options": {
+                    "fruit_juices": "",
+                    "fruit_drinks": "",
+                    "coffee": "",
+                    "cigarettes": "",
+                    "alcoholic_beverages": ""
+                }
+            },
+            {
+                "question": "6. Next, please describe in detail the brand name and type of your regular cigarette",
+                "instruction": "INTERVIEWER CHECK ONE ON ACCOMPANYING CIGARETTE BRAND LIST - IF BRAND NOT LISTED TERMINATE, ERASE & RE-USE",
+                "categories": {
+                    "full_flavor_low_tac": "1",
+                    "ultra_low_tar": "2",
+                    "full_flavor": "3"
+                }
+            }
+        ]
+    }
+}

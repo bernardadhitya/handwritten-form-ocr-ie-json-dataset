@@ -1,0 +1,51 @@
+{
+    "survey_title": "SMOKER'S SURVEY",
+    "instructions": "Please take a moment to complete the survey. Your answers will help us better understand the needs of today's smokers. In return, we'll include you on our list of people who like to receive special and unadvertised offers from America's best-known cigarette brands.",
+    "questions": [
+        {
+            "question": "How many times did you use money-off coupons for cigarettes?",
+            "options": [
+                "None",
+                "1 to 2 times",
+                "3 to 5 times",
+                "Over 5 times"
+            ]
+        },
+        {
+            "question": "Which of the following brands would you consider buying? Check all that apply.",
+            "options": [
+                "Brand A",
+                "Brand B",
+                "Filter",
+                "Menthol",
+                "Brand C",
+                "Long/100's",
+                "Filter Menthol Extra/12"
+            ]
+        },
+        {
+            "question": "Are any of these words on your pack?",
+            "options": [
+                "Camel",
+                "Rigan",
+                "Capri",
+                "None of these words are on my pack",
+                "Vantage",
+                "Virginia Slims"
+            ]
+        },
+        {
+            "question": "How do you usually buy it?",
+            "options": [
+                "Option A",
+                "Option B",
+                "Option C"
+            ]
+        }
+    ],
+    "recommended_by": {
+        "name": "Dr. Dave Corguet",
+        "address": "2064 Madison Ave. SE, Grand Rapids, MI 49507",
+        "phone": "202-474-6048"
+    }
+}

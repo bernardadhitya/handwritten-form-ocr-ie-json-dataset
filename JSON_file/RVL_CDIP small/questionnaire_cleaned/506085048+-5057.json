@@ -1,0 +1,56 @@
+{
+    "company": "DENNIS AND COMPANY, INC",
+    "address": {
+        "street": "1700 BEDFORD STREET",
+        "study_number": "Study#1568",
+        "city": "STAMFORD",
+        "state": "CONNECTICUT",
+        "zip": "06905"
+    },
+    "date": "June, 1986",
+    "phone": "(203)327-6596",
+    "card": "CARD3",
+    "record_val_no": "RECORD VAL.NO. FROM SCREENER",
+    "mx_concept_test": "MX CONCEPT TEST",
+    "main_questionnaire": "MAIN QUESTIONNAIRE",
+    "date_field": "Date:",
+    "time_started": "Time Started:",
+    "time_completed": "Time Completed:",
+    "total_time_in_minutes": "TOTAL TIME IN MINUTES",
+    "respondent_name": "Respondent's Name",
+    "interviewer": "Interviewer",
+    "instructions": "ALL QUESTIONS SHOULD BE ASKED AS WRITTEN. ALL RESPONSES ARE TO BE RECORDED VERBATIM THAT IS, IN THE FIRST PERSON EXACTLY AS STATED BY THE RESPONDENT.",
+    "questions": [
+        {
+            "question_number": 1,
+            "text": "First I'd like to ask you some background questions. Please tell me into which of the following groups your age falls. (READ LIST.)",
+            "options": [
+                "18-24",
+                "Under 18 (TERMINATE.)",
+                "25-34 (CONTINUE.)",
+                "35-49",
+                "50 or over (CLARIFY AND REDETERMINE ELIGIBILITY.)"
+            ],
+            "check_screener": "CHECK SCREENER O.A TO SEE IF AGE MATCHES. REDETERMINE RESPONDENT'S ELIGIBILITY. IF NOT CLARIFY AND"
+        },
+        {
+            "question_number": 2,
+            "text": "Do you currently smoke cigarettes at least daily?",
+            "options": [
+                "Yes (CONTINUE.)",
+                "No (CLARIFY AND REDETERMINE ELIGIBILITY.)"
+            ]
+        },
+        {
+            "question_number": 3,
+            "text": "Which of the following statements best describes how you usually get your cigarettes? (DO NOT READ LIST.)",
+            "options": [
+                "Less than 5 (CLARIFY AND REDETERMINE ELIGIBILITY.)",
+                "5 or more (CONTINUE.)",
+                "I buy them myself.",
+                "I ask someone else to buy the brand I want (CONTINUE.)",
+                "I smoke whatever is handy (CLARIFY AND REDETERMINE ELIGIBILITY.)"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "date": "AUG-2-90",
+    "day": "Thursday",
+    "company": "SE Surveys Inc.",
+    "address": "#7001 New York, NY",
+    "month_year": "August, 1990",
+    "survey_type": "Cigarette Product Test",
+    "survey_code": "ysa",
+    "survey_name": "Callback Questionnaire",
+    "target_group": "Competitive Smokers",
+    "questions": [
+        {
+            "question": "Did you receive both packages of cigarettes we asked you to try?",
+            "options": {
+                "a": "Continue",
+                "b": "Terminate and Return"
+            }
+        },
+        {
+            "question": "Did you try both types of cigarettes we sent you?",
+            "options": {
+                "yes": "Go to Q1D",
+                "no": "Ask Q1C"
+            }
+        },
+        {
+            "question": "Why didn't you try both types of cigarettes?",
+            "action": "Terminate and Return"
+        },
+        {
+            "question": "Did you smoke the first 4 packs of cigarettes you received before smoking the other four packs?",
+            "options": {
+                "yes": "Go to Q2A",
+                "no": "Ask Q1F",
+                "don't remember": "Terminate and Return"
+            }
+        },
+        {
+            "question": "Let me just make sure I have it right. The cigarettes you smoked first were not the ones you received first. That is, you actually smoked the other cigarettes first. Is that correct?",
+            "options": {
+                "yes": "Questionnaire",
+                "no": "Repeat Q1E. If answer to question IE is still no, Terminate and Return"
+            }
+        }
+    ],
+    "note": "Ask to speak to the person listed on the questionnaire. If not available, record time and date when he/she will be in. No one else qualifies.",
+    "id": "96259"
+}
