@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2473" height="3507">05263_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Ouverture de compte</scenario>
+  <writer>CARADEC Medhi</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="155" top_left_y="360" bottom_right_x="719" bottom_right_y="504">
+       <type>Code d'envoi</type>
+       <text>CHSCSP</text>
+  </box>
+  <box top_left_x="389" top_left_y="525" bottom_right_x="1207" bottom_right_y="634">
+       <type>Nom</type>
+       <text>CARADEC</text>
+  </box>
+  <box top_left_x="1403" top_left_y="529" bottom_right_x="2186" bottom_right_y="634">
+       <type>Prénom</type>
+       <text>MEDHI</text>
+  </box>
+  <box top_left_x="473" top_left_y="628" bottom_right_x="2193" bottom_right_y="726">
+       <type>Adresse</type>
+       <text>1 RUE DE ROSTENHART</text>
+  </box>
+  <box top_left_x="551" top_left_y="729" bottom_right_x="974" bottom_right_y="837">
+       <type>Code Postal</type>
+       <text>68600</text>
+  </box>
+  <box top_left_x="1099" top_left_y="725" bottom_right_x="2195" bottom_right_y="835">
+       <type>Ville</type>
+       <text>DESSENHEIM</text>
+  </box>
+  <box top_left_x="355" top_left_y="843" bottom_right_x="1239" bottom_right_y="993">
+       <type>Téléphone</type>
+       <text>0374941404</text>
+  </box>
+  <box top_left_x="496" top_left_y="1113" bottom_right_x="2190" bottom_right_y="1232">
+       <type>Catégorie Scénario</type>
+       <text>ouverture de compte</text>
+  </box>
+  <box top_left_x="277" top_left_y="1224" bottom_right_x="2189" bottom_right_y="1406">
+       <type>Objet Scénario</type>
+       <text>Vous souhaiter vous abonner\n</text>
+  </box>
+  <box top_left_x="270" top_left_y="1402" bottom_right_x="2188" bottom_right_y="1590">
+       <type>Complément Scénario</type>
+       <text>Vous avez davantage de temps pour vos loisirs\n</text>
+  </box>
+  <box top_left_x="900" top_left_y="1609" bottom_right_x="1544" bottom_right_y="1757">
+       <type>Référence client</type>
+       <text></text>
+  </box>
+  <box top_left_x="573" top_left_y="1756" bottom_right_x="2195" bottom_right_y="1850">
+       <type>Interlocuteur</type>
+       <text>Mensuel "Fleurs et Merguez"</text>
+  </box>
+  <box top_left_x="483" top_left_y="1846" bottom_right_x="2195" bottom_right_y="1948">
+       <type>Adresse Interlocuteur</type>
+       <text>10 RUE PAUL VAILLANT COUTURIER</text>
+  </box>
+  <box top_left_x="562" top_left_y="1944" bottom_right_x="995" bottom_right_y="2062">
+       <type>Code Postal Interlocuteur</type>
+       <text>58260</text>
+  </box>
+  <box top_left_x="1131" top_left_y="1943" bottom_right_x="2195" bottom_right_y="2046">
+       <type>Ville Interlocuteur</type>
+       <text>LA MACHINE</text>
+  </box>
+  <box top_left_x="1046" top_left_y="2282" bottom_right_x="1262" bottom_right_y="2394">
+       <type>Temps passé</type>
+       <text>20</text>
+  </box>
+  <box top_left_x="866" top_left_y="2227" bottom_right_x="951" bottom_right_y="2279">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1066" top_left_y="2217" bottom_right_x="1116" bottom_right_y="2269">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1283" top_left_y="2218" bottom_right_x="1336" bottom_right_y="2270">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="288" top_left_y="2687" bottom_right_x="345" bottom_right_y="2752">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1592" top_left_y="2643" bottom_right_x="2197" bottom_right_y="2756">
+       <type>Date d'envoi postal</type>
+       <text>24 Avril 2007</text>
+  </box>
+  <box top_left_x="281" top_left_y="2779" bottom_right_x="333" bottom_right_y="2832">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="280" top_left_y="2875" bottom_right_x="291" bottom_right_y="2926">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1735" top_left_y="2816" bottom_right_x="2189" bottom_right_y="2934">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="280" top_left_y="2969" bottom_right_x="366" bottom_right_y="3029">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1589" top_left_y="2935" bottom_right_x="2191" bottom_right_y="3040">
+       <type>Date d'envoi par courriel</type>
+       <text>24 Avril 2007</text>
+  </box>
+  <box top_left_x="1731" top_left_y="3134" bottom_right_x="1999" bottom_right_y="3231">
+       <type>Résolution</type>
+       <text>200</text>
+  </box>
+  <box top_left_x="561" top_left_y="3158" bottom_right_x="612" bottom_right_y="3208">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="782" top_left_y="3169" bottom_right_x="847" bottom_right_y="3209">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="953" top_left_y="3159" bottom_right_x="1023" bottom_right_y="3213">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1063" top_left_y="3033" bottom_right_x="2192" bottom_right_y="3137">
+       <type>Marque et modèle scanner</type>
+       <text>MP 730 CANON</text>
+  </box>
+</annotation>
