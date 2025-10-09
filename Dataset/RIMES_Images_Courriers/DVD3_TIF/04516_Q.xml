@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2473" height="3508">04516_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Difficulté de paiement</scenario>
+  <writer>FAYOLLE Alain</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="168" top_left_y="382" bottom_right_x="729" bottom_right_y="525">
+       <type>Code d'envoi</type>
+       <text>PARIIR</text>
+  </box>
+  <box top_left_x="401" top_left_y="546" bottom_right_x="1214" bottom_right_y="652">
+       <type>Nom</type>
+       <text>FAXLLE</text>
+  </box>
+  <box top_left_x="1408" top_left_y="545" bottom_right_x="2184" bottom_right_y="648">
+       <type>Prénom</type>
+       <text>Alain</text>
+  </box>
+  <box top_left_x="485" top_left_y="647" bottom_right_x="2190" bottom_right_y="742">
+       <type>Adresse</type>
+       <text>12 rue de detturller</text>
+  </box>
+  <box top_left_x="562" top_left_y="749" bottom_right_x="983" bottom_right_y="855">
+       <type>Code Postal</type>
+       <text>67690</text>
+  </box>
+  <box top_left_x="1105" top_left_y="739" bottom_right_x="2194" bottom_right_y="849">
+       <type>Ville</type>
+       <text>WALDOLWISHEIM</text>
+  </box>
+  <box top_left_x="369" top_left_y="861" bottom_right_x="1246" bottom_right_y="1009">
+       <type>Téléphone</type>
+       <text>0378219521</text>
+  </box>
+  <box top_left_x="509" top_left_y="1130" bottom_right_x="2192" bottom_right_y="1248">
+       <type>Catégorie Scénario</type>
+       <text>difficulté de paiement</text>
+  </box>
+  <box top_left_x="292" top_left_y="1242" bottom_right_x="2192" bottom_right_y="1425">
+       <type>Objet Scénario</type>
+       <text>demande d'¤{echelonnement/échelonnement}¤\n</text>
+  </box>
+  <box top_left_x="285" top_left_y="1421" bottom_right_x="2195" bottom_right_y="1610">
+       <type>Complément Scénario</type>
+       <text>Votre endettement est devenu trop important\n</text>
+  </box>
+  <box top_left_x="913" top_left_y="1630" bottom_right_x="1553" bottom_right_y="1779">
+       <type>Référence client</type>
+       <text>UQXEP03</text>
+  </box>
+  <box top_left_x="587" top_left_y="1778" bottom_right_x="2201" bottom_right_y="1873">
+       <type>Interlocuteur</type>
+       <text>BMP Banque Mutuelle de Paris</text>
+  </box>
+  <box top_left_x="498" top_left_y="1869" bottom_right_x="2199" bottom_right_y="1972">
+       <type>Adresse Interlocuteur</type>
+       <text>4 route de la Choppe</text>
+  </box>
+  <box top_left_x="576" top_left_y="1967" bottom_right_x="1007" bottom_right_y="2086">
+       <type>Code Postal Interlocuteur</type>
+       <text>37230</text>
+  </box>
+  <box top_left_x="1142" top_left_y="1968" bottom_right_x="2199" bottom_right_y="2068">
+       <type>Ville Interlocuteur</type>
+       <text>St Etienne de Chigny</text>
+  </box>
+  <box top_left_x="1060" top_left_y="2304" bottom_right_x="1275" bottom_right_y="2414">
+       <type>Temps passé</type>
+       <text>30</text>
+  </box>
+  <box top_left_x="881" top_left_y="2243" bottom_right_x="958" bottom_right_y="2305">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1080" top_left_y="2239" bottom_right_x="1129" bottom_right_y="2291">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1296" top_left_y="2239" bottom_right_x="1348" bottom_right_y="2291">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="307" top_left_y="2710" bottom_right_x="384" bottom_right_y="2760">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1605" top_left_y="2662" bottom_right_x="2207" bottom_right_y="2774">
+       <type>Date d'envoi postal</type>
+       <text></text>
+  </box>
+  <box top_left_x="308" top_left_y="2805" bottom_right_x="357" bottom_right_y="2852">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="306" top_left_y="2898" bottom_right_x="358" bottom_right_y="2944">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1748" top_left_y="2835" bottom_right_x="2200" bottom_right_y="2951">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="306" top_left_y="2989" bottom_right_x="358" bottom_right_y="3038">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1603" top_left_y="2954" bottom_right_x="2202" bottom_right_y="3055">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1745" top_left_y="3149" bottom_right_x="2012" bottom_right_y="3242">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="580" top_left_y="3175" bottom_right_x="631" bottom_right_y="3224">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="786" top_left_y="3175" bottom_right_x="838" bottom_right_y="3225">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="969" top_left_y="3175" bottom_right_x="1019" bottom_right_y="3225">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1080" top_left_y="3051" bottom_right_x="2203" bottom_right_y="3150">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>

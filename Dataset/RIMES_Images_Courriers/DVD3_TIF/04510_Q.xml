@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2472" height="3507">04510_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Difficulté de paiement</scenario>
+  <writer>GARIN Annie</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="209" top_left_y="257" bottom_right_x="768" bottom_right_y="399">
+       <type>Code d'envoi</type>
+       <text>VBRLTK</text>
+  </box>
+  <box top_left_x="441" top_left_y="419" bottom_right_x="1252" bottom_right_y="526">
+       <type>Nom</type>
+       <text>GARIN</text>
+  </box>
+  <box top_left_x="1445" top_left_y="417" bottom_right_x="2220" bottom_right_y="521">
+       <type>Prénom</type>
+       <text>Annie</text>
+  </box>
+  <box top_left_x="524" top_left_y="520" bottom_right_x="2227" bottom_right_y="615">
+       <type>Adresse</type>
+       <text>43 RUE HECKEN</text>
+  </box>
+  <box top_left_x="601" top_left_y="622" bottom_right_x="1020" bottom_right_y="729">
+       <type>Code Postal</type>
+       <text>68290</text>
+  </box>
+  <box top_left_x="1143" top_left_y="615" bottom_right_x="2228" bottom_right_y="723">
+       <type>Ville</type>
+       <text>KIRCHBERG</text>
+  </box>
+  <box top_left_x="409" top_left_y="735" bottom_right_x="1282" bottom_right_y="882">
+       <type>Téléphone</type>
+       <text>0382675481</text>
+  </box>
+  <box top_left_x="548" top_left_y="1002" bottom_right_x="2228" bottom_right_y="1117">
+       <type>Catégorie Scénario</type>
+       <text>Difficulté de paiement</text>
+  </box>
+  <box top_left_x="332" top_left_y="1111" bottom_right_x="2228" bottom_right_y="1293">
+       <type>Objet Scénario</type>
+       <text>Demande d'échelonnement\n</text>
+  </box>
+  <box top_left_x="323" top_left_y="1289" bottom_right_x="2229" bottom_right_y="1479">
+       <type>Complément Scénario</type>
+       <text>Mon endettement est devenu trop important\n</text>
+  </box>
+  <box top_left_x="949" top_left_y="1497" bottom_right_x="1587" bottom_right_y="1647">
+       <type>Référence client</type>
+       <text>BCGIO10</text>
+  </box>
+  <box top_left_x="624" top_left_y="1645" bottom_right_x="2233" bottom_right_y="1740">
+       <type>Interlocuteur</type>
+       <text>Brouille ¤{Telecom/Télécom}¤</text>
+  </box>
+  <box top_left_x="535" top_left_y="1736" bottom_right_x="2231" bottom_right_y="1839">
+       <type>Adresse Interlocuteur</type>
+       <text>PLACE PRINCIPALE</text>
+  </box>
+  <box top_left_x="613" top_left_y="1834" bottom_right_x="1042" bottom_right_y="1953">
+       <type>Code Postal Interlocuteur</type>
+       <text>83440</text>
+  </box>
+  <box top_left_x="1177" top_left_y="1835" bottom_right_x="2231" bottom_right_y="1936">
+       <type>Ville Interlocuteur</type>
+       <text>TANNERON</text>
+  </box>
+  <box top_left_x="1093" top_left_y="2172" bottom_right_x="1308" bottom_right_y="2283">
+       <type>Temps passé</type>
+       <text>9</text>
+  </box>
+  <box top_left_x="950" top_left_y="2111" bottom_right_x="1016" bottom_right_y="2161">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1114" top_left_y="2107" bottom_right_x="1163" bottom_right_y="2159">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1330" top_left_y="2108" bottom_right_x="1382" bottom_right_y="2160">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="340" top_left_y="2575" bottom_right_x="417" bottom_right_y="2625">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1635" top_left_y="2530" bottom_right_x="2236" bottom_right_y="2643">
+       <type>Date d'envoi postal</type>
+       <text>31/03/2007</text>
+  </box>
+  <box top_left_x="340" top_left_y="2671" bottom_right_x="390" bottom_right_y="2719">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="338" top_left_y="2765" bottom_right_x="389" bottom_right_y="2811">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1778" top_left_y="2704" bottom_right_x="2229" bottom_right_y="2821">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="343" top_left_y="2859" bottom_right_x="417" bottom_right_y="2909">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1633" top_left_y="2823" bottom_right_x="2231" bottom_right_y="2927">
+       <type>Date d'envoi par courriel</type>
+       <text>31/03/2007</text>
+  </box>
+  <box top_left_x="1774" top_left_y="3021" bottom_right_x="2040" bottom_right_y="3116">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="586" top_left_y="3048" bottom_right_x="651" bottom_right_y="3089">
+       <type>Format PNG</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="817" top_left_y="3047" bottom_right_x="868" bottom_right_y="3098">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="999" top_left_y="3047" bottom_right_x="1049" bottom_right_y="3098">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1111" top_left_y="2921" bottom_right_x="2232" bottom_right_y="3023">
+       <type>Marque et modèle scanner</type>
+       <text>HP Officejet 5610 Tout-en-un</text>
+  </box>
+</annotation>
