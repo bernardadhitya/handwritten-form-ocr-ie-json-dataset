@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="18/12/2007" author="Jouve">
+  <source width="2474" height="3506">01624_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Relance de courrier sans réponse</scenario>
+  <writer>ROZE Eugenie</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="145" top_left_y="353" bottom_right_x="703" bottom_right_y="494">
+       <type>Code d'envoi</type>
+       <text>EBRLBX</text>
+  </box>
+  <box top_left_x="376" top_left_y="516" bottom_right_x="1186" bottom_right_y="621">
+       <type>Nom</type>
+       <text>ROZE</text>
+  </box>
+  <box top_left_x="1379" top_left_y="516" bottom_right_x="2152" bottom_right_y="618">
+       <type>Prénom</type>
+       <text>Eugénie</text>
+  </box>
+  <box top_left_x="460" top_left_y="618" bottom_right_x="2157" bottom_right_y="712">
+       <type>Adresse</type>
+       <text>Maison Forestier de Wels</text>
+  </box>
+  <box top_left_x="536" top_left_y="719" bottom_right_x="954" bottom_right_y="825">
+       <type>Code Postal</type>
+       <text>67140</text>
+  </box>
+  <box top_left_x="1077" top_left_y="714" bottom_right_x="2158" bottom_right_y="820">
+       <type>Ville</type>
+       <text>BARR</text>
+  </box>
+  <box top_left_x="345" top_left_y="831" bottom_right_x="1216" bottom_right_y="978">
+       <type>Téléphone</type>
+       <text>0350225808</text>
+  </box>
+  <box top_left_x="484" top_left_y="1100" bottom_right_x="2159" bottom_right_y="1216">
+       <type>Catégorie Scénario</type>
+       <text>Relance de courrier sans réponse</text>
+  </box>
+  <box top_left_x="267" top_left_y="1211" bottom_right_x="2159" bottom_right_y="1393">
+       <type>Objet Scénario</type>
+       <text>Votre changement de données personnelles\nn'a pas été pris en compte</text>
+  </box>
+  <box top_left_x="260" top_left_y="1389" bottom_right_x="2160" bottom_right_y="1579">
+       <type>Complément Scénario</type>
+       <text>\n</text>
+  </box>
+  <box top_left_x="884" top_left_y="1598" bottom_right_x="1522" bottom_right_y="1748">
+       <type>Référence client</type>
+       <text>SEQIG82</text>
+  </box>
+  <box top_left_x="560" top_left_y="1746" bottom_right_x="2168" bottom_right_y="1842">
+       <type>Interlocuteur</type>
+       <text>BoF Telecom</text>
+  </box>
+  <box top_left_x="471" top_left_y="1837" bottom_right_x="2167" bottom_right_y="1942">
+       <type>Adresse Interlocuteur</type>
+       <text>LE BOURG</text>
+  </box>
+  <box top_left_x="549" top_left_y="1935" bottom_right_x="978" bottom_right_y="2054">
+       <type>Code Postal Interlocuteur</type>
+       <text>17460</text>
+  </box>
+  <box top_left_x="1113" top_left_y="1936" bottom_right_x="2167" bottom_right_y="2036">
+       <type>Ville Interlocuteur</type>
+       <text>LA JARD</text>
+  </box>
+  <box top_left_x="1029" top_left_y="2274" bottom_right_x="1244" bottom_right_y="2385">
+       <type>Temps passé</type>
+       <text>5</text>
+  </box>
+  <box top_left_x="852" top_left_y="2212" bottom_right_x="952" bottom_right_y="2262">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1050" top_left_y="2208" bottom_right_x="1099" bottom_right_y="2261">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1265" top_left_y="2208" bottom_right_x="1317" bottom_right_y="2261">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="277" top_left_y="2679" bottom_right_x="327" bottom_right_y="2738">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1571" top_left_y="2634" bottom_right_x="2171" bottom_right_y="2747">
+       <type>Date d'envoi postal</type>
+       <text>21/12/06</text>
+  </box>
+  <box top_left_x="279" top_left_y="2774" bottom_right_x="340" bottom_right_y="2841">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="287" top_left_y="2868" bottom_right_x="338" bottom_right_y="2918">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1713" top_left_y="2808" bottom_right_x="2164" bottom_right_y="2926">
+       <type>Date d'envoi par fax</type>
+       <text>21/12/06</text>
+  </box>
+  <box top_left_x="276" top_left_y="2960" bottom_right_x="328" bottom_right_y="3010">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1569" top_left_y="2928" bottom_right_x="2166" bottom_right_y="3031">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1710" top_left_y="3124" bottom_right_x="1976" bottom_right_y="3219">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="550" top_left_y="3150" bottom_right_x="601" bottom_right_y="3200">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="755" top_left_y="3150" bottom_right_x="807" bottom_right_y="3200">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="937" top_left_y="3150" bottom_right_x="987" bottom_right_y="3201">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1048" top_left_y="3025" bottom_right_x="2167" bottom_right_y="3126">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
