@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2476" height="3503">02786_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Demande d'information</scenario>
+  <writer>DREANO Karine</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="106" top_left_y="199" bottom_right_x="702" bottom_right_y="350">
+       <type>Code d'envoi</type>
+       <text>UTPJVN</text>
+  </box>
+  <box top_left_x="353" top_left_y="372" bottom_right_x="1218" bottom_right_y="487">
+       <type>Nom</type>
+       <text>DREANO</text>
+  </box>
+  <box top_left_x="1424" top_left_y="375" bottom_right_x="2251" bottom_right_y="486">
+       <type>Prénom</type>
+       <text>Karine</text>
+  </box>
+  <box top_left_x="442" top_left_y="482" bottom_right_x="2257" bottom_right_y="586">
+       <type>Adresse</type>
+       <text>9 avenue Carnot</text>
+  </box>
+  <box top_left_x="524" top_left_y="590" bottom_right_x="971" bottom_right_y="704">
+       <type>Code Postal</type>
+       <text>54130</text>
+  </box>
+  <box top_left_x="1102" top_left_y="585" bottom_right_x="2259" bottom_right_y="704">
+       <type>Ville</type>
+       <text>ST MAX</text>
+  </box>
+  <box top_left_x="318" top_left_y="709" bottom_right_x="1251" bottom_right_y="868">
+       <type>Téléphone</type>
+       <text>0362516730</text>
+  </box>
+  <box top_left_x="467" top_left_y="996" bottom_right_x="2257" bottom_right_y="1123">
+       <type>Catégorie Scénario</type>
+       <text>Demande d'information</text>
+  </box>
+  <box top_left_x="236" top_left_y="1113" bottom_right_x="2257" bottom_right_y="1310">
+       <type>Objet Scénario</type>
+       <text>demande de précisions sur votre ¤{derniere/dernière}¤\nfacture</text>
+  </box>
+  <box top_left_x="228" top_left_y="1303" bottom_right_x="2259" bottom_right_y="1508">
+       <type>Complément Scénario</type>
+       <text>le montant de votre facture est trop\n¤{elevé/élevé}¤</text>
+  </box>
+  <box top_left_x="895" top_left_y="1524" bottom_right_x="1576" bottom_right_y="1686">
+       <type>Référence client</type>
+       <text>DRNQQ20</text>
+  </box>
+  <box top_left_x="548" top_left_y="1681" bottom_right_x="2265" bottom_right_y="1789">
+       <type>Interlocuteur</type>
+       <text>GDF</text>
+  </box>
+  <box top_left_x="453" top_left_y="1778" bottom_right_x="2263" bottom_right_y="1894">
+       <type>Adresse Interlocuteur</type>
+       <text>12 rue du 17 novembre</text>
+  </box>
+  <box top_left_x="535" top_left_y="1883" bottom_right_x="993" bottom_right_y="2011">
+       <type>Code Postal Interlocuteur</type>
+       <text>25310</text>
+  </box>
+  <box top_left_x="1137" top_left_y="1885" bottom_right_x="2263" bottom_right_y="1994">
+       <type>Ville Interlocuteur</type>
+       <text>Herimoncourt</text>
+  </box>
+  <box top_left_x="1048" top_left_y="2244" bottom_right_x="1277" bottom_right_y="2362">
+       <type>Temps passé</type>
+       <text>20</text>
+  </box>
+  <box top_left_x="856" top_left_y="2184" bottom_right_x="966" bottom_right_y="2235">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1067" top_left_y="2176" bottom_right_x="1149" bottom_right_y="2239">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1271" top_left_y="2191" bottom_right_x="1383" bottom_right_y="2237">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="252" top_left_y="2676" bottom_right_x="328" bottom_right_y="2726">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1626" top_left_y="2627" bottom_right_x="2266" bottom_right_y="2747">
+       <type>Date d'envoi postal</type>
+       <text>14 ¤{fevrier/février}¤ 2007</text>
+  </box>
+  <box top_left_x="246" top_left_y="2776" bottom_right_x="299" bottom_right_y="2828">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="247" top_left_y="2878" bottom_right_x="328" bottom_right_y="2931">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1777" top_left_y="2812" bottom_right_x="2258" bottom_right_y="2938">
+       <type>Date d'envoi par fax</type>
+       <text>14 ¤{fevrier/février}¤ 2007</text>
+  </box>
+  <box top_left_x="237" top_left_y="2977" bottom_right_x="328" bottom_right_y="3037">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1623" top_left_y="2940" bottom_right_x="2260" bottom_right_y="3051">
+       <type>Date d'envoi par courriel</type>
+       <text>13 ¤{fevrier/février}¤ 2007</text>
+  </box>
+  <box top_left_x="1773" top_left_y="3151" bottom_right_x="2057" bottom_right_y="3252">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="508" top_left_y="3177" bottom_right_x="594" bottom_right_y="3232">
+       <type>Format PNG</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="754" top_left_y="3178" bottom_right_x="809" bottom_right_y="3232">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="947" top_left_y="3178" bottom_right_x="999" bottom_right_y="3232">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1067" top_left_y="3045" bottom_right_x="2261" bottom_right_y="3153">
+       <type>Marque et modèle scanner</type>
+       <text>HP Precision Scan LTX</text>
+  </box>
+</annotation>

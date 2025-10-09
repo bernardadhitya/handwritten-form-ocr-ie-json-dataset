@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2470" height="3504">01827_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Modification de contrat / Commande</scenario>
+  <writer>MARLIN Henriette</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="184" top_left_y="360" bottom_right_x="743" bottom_right_y="502">
+       <type>Code d'envoi</type>
+       <text>GINASK</text>
+  </box>
+  <box top_left_x="416" top_left_y="523" bottom_right_x="1226" bottom_right_y="629">
+       <type>Nom</type>
+       <text>MARLIN</text>
+  </box>
+  <box top_left_x="1419" top_left_y="523" bottom_right_x="2194" bottom_right_y="626">
+       <type>Prénom</type>
+       <text>Henriette</text>
+  </box>
+  <box top_left_x="500" top_left_y="626" bottom_right_x="2201" bottom_right_y="719">
+       <type>Adresse</type>
+       <text>16 rue du Stade</text>
+  </box>
+  <box top_left_x="577" top_left_y="727" bottom_right_x="996" bottom_right_y="833">
+       <type>Code Postal</type>
+       <text>67480</text>
+  </box>
+  <box top_left_x="1119" top_left_y="721" bottom_right_x="2204" bottom_right_y="828">
+       <type>Ville</type>
+       <text>ROESCHWOOG</text>
+  </box>
+  <box top_left_x="385" top_left_y="840" bottom_right_x="1259" bottom_right_y="986">
+       <type>Téléphone</type>
+       <text>0397727371</text>
+  </box>
+  <box top_left_x="524" top_left_y="1104" bottom_right_x="2201" bottom_right_y="1222">
+       <type>Catégorie Scénario</type>
+       <text>Modification de contrat / Commande</text>
+  </box>
+  <box top_left_x="308" top_left_y="1214" bottom_right_x="2201" bottom_right_y="1399">
+       <type>Objet Scénario</type>
+       <text>Demande de mensualisation de l'impôt\nsur le revenu</text>
+  </box>
+  <box top_left_x="301" top_left_y="1392" bottom_right_x="2202" bottom_right_y="1584">
+       <type>Complément Scénario</type>
+       <text>aucun\n</text>
+  </box>
+  <box top_left_x="926" top_left_y="1602" bottom_right_x="1564" bottom_right_y="1752">
+       <type>Référence client</type>
+       <text>SWUXK65</text>
+  </box>
+  <box top_left_x="602" top_left_y="1749" bottom_right_x="2210" bottom_right_y="1846">
+       <type>Interlocuteur</type>
+       <text>Trésorerie des ¤{impots/impôts}¤</text>
+  </box>
+  <box top_left_x="514" top_left_y="1839" bottom_right_x="2210" bottom_right_y="1945">
+       <type>Adresse Interlocuteur</type>
+       <text>Place Nicolas de Thou</text>
+  </box>
+  <box top_left_x="592" top_left_y="1940" bottom_right_x="1022" bottom_right_y="2059">
+       <type>Code Postal Interlocuteur</type>
+       <text>91140</text>
+  </box>
+  <box top_left_x="1156" top_left_y="1938" bottom_right_x="2210" bottom_right_y="2039">
+       <type>Ville Interlocuteur</type>
+       <text>Villebon sur Yvette</text>
+  </box>
+  <box top_left_x="1073" top_left_y="2276" bottom_right_x="1288" bottom_right_y="2387">
+       <type>Temps passé</type>
+       <text>15</text>
+  </box>
+  <box top_left_x="894" top_left_y="2215" bottom_right_x="966" bottom_right_y="2265">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1093" top_left_y="2211" bottom_right_x="1143" bottom_right_y="2263">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1309" top_left_y="2211" bottom_right_x="1361" bottom_right_y="2263">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="322" top_left_y="2684" bottom_right_x="369" bottom_right_y="2733">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1615" top_left_y="2632" bottom_right_x="2215" bottom_right_y="2745">
+       <type>Date d'envoi postal</type>
+       <text>10/01/07</text>
+  </box>
+  <box top_left_x="325" top_left_y="2778" bottom_right_x="375" bottom_right_y="2826">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="321" top_left_y="2873" bottom_right_x="373" bottom_right_y="2918">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1758" top_left_y="2805" bottom_right_x="2209" bottom_right_y="2922">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="321" top_left_y="2964" bottom_right_x="373" bottom_right_y="3013">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1614" top_left_y="2924" bottom_right_x="2211" bottom_right_y="3028">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1755" top_left_y="3121" bottom_right_x="2021" bottom_right_y="3215">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="595" top_left_y="3152" bottom_right_x="646" bottom_right_y="3201">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="800" top_left_y="3150" bottom_right_x="852" bottom_right_y="3201">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="982" top_left_y="3150" bottom_right_x="1032" bottom_right_y="3200">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1093" top_left_y="3022" bottom_right_x="2212" bottom_right_y="3124">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
