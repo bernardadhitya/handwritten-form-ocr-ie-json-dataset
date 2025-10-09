@@ -1,0 +1,40 @@
+{
+    "title": "BALANCE ACTIVITY TO INVENTORY ANALYSIS - RJRT",
+    "date": "November 1997",
+    "currency": "Dollars",
+    "beginning_inventory": 644653441.43,
+    "purchases": 364782174.21,
+    "usage": 341172954.16,
+    "other": 97230169.53,
+    "current_month_ending_inventory": 571032491.95,
+    "ending_inventory_analysis_report": 571032491.96,
+    "difference": -0.01,
+    "recap_of_other": {
+        "storage": 12521250.0,
+        "duty": -937913.9,
+        "under_over_applied": 4681394.97,
+        "miscellaneous": -113494900.6,
+        "total_other": 97230169.53
+    },
+    "recap_of_under_over_applied": {
+        "15_control": -16839151.5,
+        "16_control": 4049854.64,
+        "17_control": 17158072.02,
+        "19_control": 312619.81,
+        "under_over_applied_total": 4681394.97
+    },
+    "recap_of_miscellaneous": {
+        "all_other_usage": -119128339.42,
+        "other_charges": 4262255.75,
+        "claims_in_suspense": 0.0,
+        "maryland_processing_charges": 0.0,
+        "domestic_provision": 195414.7,
+        "in_transit": 1175768.37,
+        "rounding": 0.0,
+        "total_miscellaneous": -113494900.6
+    },
+    "unknown_values": [
+        52385,
+        5031
+    ]
+}

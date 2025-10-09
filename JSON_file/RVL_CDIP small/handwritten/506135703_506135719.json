@@ -1,0 +1,33 @@
+{
+    "process": {
+        "steps": [
+            "BLENDING",
+            "EXTRACTION (BARN)",
+            "CRITICAL STEP",
+            "CENTRIFUGE (SOLID REMOVAL)",
+            "SPRAY DRY",
+            "STORAGE/PACKAGING"
+        ],
+        "criticalStep": 4,
+        "notes": "Cans produce only if finished material (extraction/spray dry same day). Two separate quotes have been ordered (ET 2-3 weeks delivery) [small scale]."
+    },
+    "questions": [
+        "Why spray-dried material different small scale to current equipment?",
+        "Material stability (shelf life, etc.)",
+        "Space requirements for spray dry equipment"
+    ],
+    "budget": {
+        "includes": [
+            "Design",
+            "Operators",
+            "Installation",
+            "Start-up equipment"
+        ],
+        "location": "Temporary location, install, start-up equipment",
+        "additionalPersonnel": "Add personnel to operate to supply spray-dried material",
+        "timeline": "1QTR '86 - For development plant phase"
+    },
+    "ongoing": {
+        "notes": "Boma budget has been confirmed, current to text! Oct TS ongoing. Copy quantities supplied to lots of equipment. Attention for project phase may have to count before production equipment."
+    }
+}
