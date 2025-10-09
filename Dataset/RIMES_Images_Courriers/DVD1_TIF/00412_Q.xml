@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="18/12/2007" author="Jouve">
+  <source width="2462" height="3498">00412_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Gestion de sinistre</scenario>
+  <writer>VALLET Yves</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="148" top_left_y="116" bottom_right_x="704" bottom_right_y="257">
+       <type>Code d'envoi</type>
+       <text>KJUTDP</text>
+  </box>
+  <box top_left_x="378" top_left_y="278" bottom_right_x="1185" bottom_right_y="383">
+       <type>Nom</type>
+       <text>Vallet</text>
+  </box>
+  <box top_left_x="1378" top_left_y="279" bottom_right_x="2149" bottom_right_y="381">
+       <type>Prénom</type>
+       <text>Yves</text>
+  </box>
+  <box top_left_x="461" top_left_y="380" bottom_right_x="2154" bottom_right_y="473">
+       <type>Adresse</type>
+       <text>29, rue Pierre Demathieu</text>
+  </box>
+  <box top_left_x="537" top_left_y="479" bottom_right_x="954" bottom_right_y="585">
+       <type>Code Postal</type>
+       <text>55100</text>
+  </box>
+  <box top_left_x="1076" top_left_y="474" bottom_right_x="2156" bottom_right_y="583">
+       <type>Ville</type>
+       <text>Verdun</text>
+  </box>
+  <box top_left_x="345" top_left_y="590" bottom_right_x="1215" bottom_right_y="738">
+       <type>Téléphone</type>
+       <text>0381246227</text>
+  </box>
+  <box top_left_x="484" top_left_y="857" bottom_right_x="2155" bottom_right_y="975">
+       <type>Catégorie Scénario</type>
+       <text>Gestion de sinistre</text>
+  </box>
+  <box top_left_x="268" top_left_y="966" bottom_right_x="2156" bottom_right_y="1149">
+       <type>Objet Scénario</type>
+       <text>vous faites appel à votre assurance\nautomobile</text>
+  </box>
+  <box top_left_x="261" top_left_y="1143" bottom_right_x="2156" bottom_right_y="1333">
+       <type>Complément Scénario</type>
+       <text>vous avez provoqué un accident de la\nroute (vous déclarerez joindre le ¤{constat/constat)}¤</text>
+  </box>
+  <box top_left_x="883" top_left_y="1348" bottom_right_x="1518" bottom_right_y="1498">
+       <type>Référence client</type>
+       <text>NDTQP67</text>
+  </box>
+  <box top_left_x="558" top_left_y="1494" bottom_right_x="2161" bottom_right_y="1594">
+       <type>Interlocuteur</type>
+       <text>NAIF Assurances</text>
+  </box>
+  <box top_left_x="469" top_left_y="1583" bottom_right_x="2158" bottom_right_y="1691">
+       <type>Adresse Interlocuteur</type>
+       <text>4 rue du Général Leclerc</text>
+  </box>
+  <box top_left_x="546" top_left_y="1681" bottom_right_x="974" bottom_right_y="1800">
+       <type>Code Postal Interlocuteur</type>
+       <text>95750</text>
+  </box>
+  <box top_left_x="1108" top_left_y="1683" bottom_right_x="2158" bottom_right_y="1787">
+       <type>Ville Interlocuteur</type>
+       <text>Chars</text>
+  </box>
+  <box top_left_x="1024" top_left_y="2016" bottom_right_x="1237" bottom_right_y="2127">
+       <type>Temps passé</type>
+       <text>20</text>
+  </box>
+  <box top_left_x="845" top_left_y="1946" bottom_right_x="948" bottom_right_y="2002">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1045" top_left_y="1952" bottom_right_x="1094" bottom_right_y="2004">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1259" top_left_y="1953" bottom_right_x="1311" bottom_right_y="2005">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="272" top_left_y="2393" bottom_right_x="348" bottom_right_y="2463">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1561" top_left_y="2375" bottom_right_x="2159" bottom_right_y="2490">
+       <type>Date d'envoi postal</type>
+       <text>2/10/06</text>
+  </box>
+  <box top_left_x="280" top_left_y="2490" bottom_right_x="343" bottom_right_y="2548">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="270" top_left_y="2602" bottom_right_x="321" bottom_right_y="2648">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1702" top_left_y="2548" bottom_right_x="2151" bottom_right_y="2668">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="278" top_left_y="2682" bottom_right_x="348" bottom_right_y="2747">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1558" top_left_y="2667" bottom_right_x="2153" bottom_right_y="2773">
+       <type>Date d'envoi par courriel</type>
+       <text>1/10/06</text>
+  </box>
+  <box top_left_x="1698" top_left_y="2864" bottom_right_x="1963" bottom_right_y="2960">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="541" top_left_y="2884" bottom_right_x="592" bottom_right_y="2934">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="746" top_left_y="2885" bottom_right_x="797" bottom_right_y="2935">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="941" top_left_y="2871" bottom_right_x="1001" bottom_right_y="2926">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1038" top_left_y="2762" bottom_right_x="2154" bottom_right_y="2868">
+       <type>Marque et modèle scanner</type>
+       <text>HP PSC 15I0</text>
+  </box>
+</annotation>
