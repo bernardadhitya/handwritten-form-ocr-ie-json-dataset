@@ -1,0 +1,71 @@
+{
+    "Flaver": {
+        "3-Hydroug-H,5-dimethyl-a(5h)huranone": {
+            "approved": {
+                "Germany": "OK",
+                "FEMA_GRAS": true,
+                "FDA": false
+            },
+            "not_approved": [
+                "FR",
+                "BEL",
+                "UK"
+            ]
+        },
+        "Ethyl levulinate": {
+            "approved": {
+                "BEL": "OK",
+                "FR": "OK",
+                "FEMA_GRAS": true,
+                "FDA": true
+            },
+            "not_approved": [
+                "UK"
+            ]
+        },
+        "Chicory Root Ext": {
+            "approved": {
+                "BEL": "OK",
+                "FR": "OK",
+                "FEMA_GRAS": true,
+                "FDA": true
+            },
+            "not_approved": [
+                "UK"
+            ]
+        },
+        "Butyl isovalerate": {
+            "approved": {
+                "BEL": "OK",
+                "FR": "OK",
+                "FEMA_GRAS": true,
+                "FDA": true
+            },
+            "not_approved": [
+                "UK"
+            ]
+        },
+        "Ammonium alginate": {
+            "approved": {
+                "BEL": "OK",
+                "FR": "OK",
+                "FEMA_GRAS": true,
+                "UK": "OK"
+            },
+            "not_approved": [
+                "UK"
+            ]
+        },
+        "Woodpulp": {
+            "approved": {
+                "France": false
+            },
+            "use": "cigarette"
+        }
+    },
+    "economic_operator": "UK?",
+    "other": {
+        "CAK": "Bep",
+        "51537": 6285
+    }
+}

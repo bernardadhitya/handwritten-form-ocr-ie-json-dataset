@@ -1,0 +1,90 @@
+{
+    "offer": {
+        "validity": "OFFER VALID ONLY FOR ADDRESSEE",
+        "customer_id": "416254754",
+        "offer_code": "RJRDIRECT",
+        "address": {
+            "po_box": "P.O. Box 5920",
+            "city": "Wood",
+            "state": "MN",
+            "zip": "55583-5920"
+        },
+        "recipient": "LEWIS ROSS",
+        "order": {
+            "toll_free_number": "1.888.333.0195",
+            "address": {
+                "street": "1505 H PERIA AE PT 1105",
+                "city": "PEURIA",
+                "state": "IL",
+                "zip": "61603-3163"
+            },
+            "deadline": "8/31/2000",
+            "time": "Between 7 a.m. and midnight EST"
+        },
+        "restrictions": "OFFER RESTRICTED TO SMOKERS 21 YEARS OF AGE OR OLDER"
+    },
+    "items": [
+        {
+            "item_number": "",
+            "description": "",
+            "quantity": "",
+            "price_each": "",
+            "total_price": ""
+        }
+    ],
+    "pricing": {
+        "sub_total": "",
+        "shipping_handling": {
+            "up_to_30": "$4.00",
+            "over_30": "FREE"
+        },
+        "sales_tax": "0.075",
+        "total": ""
+    },
+    "delivery_options": {
+        "sign_for_package": "Do you want to sign for this package?",
+        "carrier": "UPS",
+        "adult_signature_required": true,
+        "free_shipping_over_30": true
+    },
+    "payment": {
+        "method": "We do not accept cigarette coupons",
+        "payable_to": "RJR Direct",
+        "credit_debit_card": "Credit/Debit Card Account Number"
+    },
+    "survey": {
+        "second_choice_brand": "",
+        "preference": {
+            "lights": false,
+            "milds": false,
+            "mediums": false,
+            "ultra_lights": false,
+            "ultras": false,
+            "none": false
+        },
+        "purchase_method": "",
+        "activities": [
+            "Play darts/pool",
+            "Go to movies",
+            "Go to hear bands",
+            "Entertain at home/friends' homes",
+            "Ride Motorcycles",
+            "Other",
+            "Surf the web",
+            "Listen to CDs/tapes"
+        ],
+        "preferred_coupons_regular_brand": "",
+        "bars_clubs": [
+            "Lounge",
+            "Live music",
+            "House",
+            "Dance Club",
+            "Pubs/neighborhood bars",
+            "Sports bars",
+            "Other",
+            "Dance clubs",
+            "Techno Dance Club"
+        ],
+        "preferred_coupons_other_brands": ""
+    }
+}

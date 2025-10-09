@@ -1,0 +1,26 @@
+{
+    "notice": "Notice to Mailer of Correction in Address",
+    "account_number": "No account number on mail",
+    "addressee_name": "Addressee's Name",
+    "old_address": {
+        "po_box": "P.O. Box 532",
+        "apartment_or_suite_number": "52273",
+        "city_state_zip": "OALAJ4ks"
+    },
+    "new_address": {
+        "box_closed": "No order",
+        "apartment_or_suite_number": "9402",
+        "city_state_zip": ""
+    },
+    "card_furnished_for": "address correction, as requested (your mail piece was forwarded)",
+    "form_replacement": "In place of Form 3579 see reason for non-delivery below",
+    "reasons_for_non_delivery": [
+        "Moved, left no address",
+        "No such street",
+        "No such number",
+        "Refused",
+        "Attempted, not known",
+        "Unclaimed"
+    ],
+    "form": "PS Form 3547, June 1995"
+}
