@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2474" height="3504">02207_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Modification de contrat / Commande</scenario>
+  <writer>ESNAULT Sebastien</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="163" top_left_y="298" bottom_right_x="720" bottom_right_y="441">
+       <type>Code d'envoi</type>
+       <text>FEABMI</text>
+  </box>
+  <box top_left_x="394" top_left_y="462" bottom_right_x="1202" bottom_right_y="569">
+       <type>Nom</type>
+       <text>ESNAULT</text>
+  </box>
+  <box top_left_x="1396" top_left_y="465" bottom_right_x="2169" bottom_right_y="569">
+       <type>Prénom</type>
+       <text>Sebastien</text>
+  </box>
+  <box top_left_x="477" top_left_y="564" bottom_right_x="2174" bottom_right_y="661">
+       <type>Adresse</type>
+       <text>34 Rue Chanzy</text>
+  </box>
+  <box top_left_x="553" top_left_y="664" bottom_right_x="971" bottom_right_y="770">
+       <type>Code Postal</type>
+       <text>88500</text>
+  </box>
+  <box top_left_x="1094" top_left_y="660" bottom_right_x="2175" bottom_right_y="769">
+       <type>Ville</type>
+       <text>Mirecourt</text>
+  </box>
+  <box top_left_x="361" top_left_y="776" bottom_right_x="1232" bottom_right_y="923">
+       <type>Téléphone</type>
+       <text>0354606541</text>
+  </box>
+  <box top_left_x="500" top_left_y="1043" bottom_right_x="2175" bottom_right_y="1161">
+       <type>Catégorie Scénario</type>
+       <text>Modification de contrat/commande</text>
+  </box>
+  <box top_left_x="283" top_left_y="1153" bottom_right_x="2175" bottom_right_y="1337">
+       <type>Objet Scénario</type>
+       <text>Commande de trois paires de chaussettes\n</text>
+  </box>
+  <box top_left_x="276" top_left_y="1331" bottom_right_x="2176" bottom_right_y="1521">
+       <type>Complément Scénario</type>
+       <text>aucun\n</text>
+  </box>
+  <box top_left_x="900" top_left_y="1538" bottom_right_x="1536" bottom_right_y="1689">
+       <type>Référence client</type>
+       <text>HNFKW03</text>
+  </box>
+  <box top_left_x="576" top_left_y="1686" bottom_right_x="2180" bottom_right_y="1784">
+       <type>Interlocuteur</type>
+       <text>La Reboute</text>
+  </box>
+  <box top_left_x="487" top_left_y="1776" bottom_right_x="2178" bottom_right_y="1882">
+       <type>Adresse Interlocuteur</type>
+       <text>7 rue du ¤{Genie/Génie}¤</text>
+  </box>
+  <box top_left_x="565" top_left_y="1874" bottom_right_x="993" bottom_right_y="1994">
+       <type>Code Postal Interlocuteur</type>
+       <text>50220</text>
+  </box>
+  <box top_left_x="1127" top_left_y="1876" bottom_right_x="2179" bottom_right_y="1978">
+       <type>Ville Interlocuteur</type>
+       <text>DUCEY</text>
+  </box>
+  <box top_left_x="1045" top_left_y="2212" bottom_right_x="1259" bottom_right_y="2322">
+       <type>Temps passé</type>
+       <text>30</text>
+  </box>
+  <box top_left_x="890" top_left_y="2147" bottom_right_x="941" bottom_right_y="2202">
+       <type>Stylo bille</type>
+       <text></text>
+  </box>
+  <box top_left_x="1066" top_left_y="2150" bottom_right_x="1140" bottom_right_y="2208">
+       <type>Stylo plume</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1281" top_left_y="2148" bottom_right_x="1333" bottom_right_y="2200">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="294" top_left_y="2613" bottom_right_x="343" bottom_right_y="2661">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1586" top_left_y="2569" bottom_right_x="2185" bottom_right_y="2682">
+       <type>Date d'envoi postal</type>
+       <text>23/01/07</text>
+  </box>
+  <box top_left_x="299" top_left_y="2709" bottom_right_x="339" bottom_right_y="2747">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="291" top_left_y="2803" bottom_right_x="372" bottom_right_y="2855">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1728" top_left_y="2742" bottom_right_x="2178" bottom_right_y="2860">
+       <type>Date d'envoi par fax</type>
+       <text>23/01/07</text>
+  </box>
+  <box top_left_x="294" top_left_y="2894" bottom_right_x="345" bottom_right_y="2944">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1584" top_left_y="2862" bottom_right_x="2180" bottom_right_y="2966">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1725" top_left_y="3059" bottom_right_x="1991" bottom_right_y="3154">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="567" top_left_y="3085" bottom_right_x="617" bottom_right_y="3134">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="771" top_left_y="3084" bottom_right_x="823" bottom_right_y="3135">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="954" top_left_y="3084" bottom_right_x="1003" bottom_right_y="3135">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1064" top_left_y="2959" bottom_right_x="2182" bottom_right_y="3061">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
