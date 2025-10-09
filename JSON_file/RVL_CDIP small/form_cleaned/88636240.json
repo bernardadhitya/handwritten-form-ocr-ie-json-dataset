@@ -1,0 +1,70 @@
+{
+    "inventoryControlSheet": {
+        "id": 218,
+        "chemical": "CiHgO",
+        "details": {
+            "dlot": "7-25-90",
+            "molecularWeight": 79.2,
+            "ralo": null
+        },
+        "transactions": [
+            {
+                "date": null,
+                "amount": null,
+                "total": null,
+                "source": "R.F.DAong",
+                "lotNumber": "OR80-32C",
+                "received": [
+                    {
+                        "date": "-91-",
+                        "amount": 125.93
+                    }
+                ]
+            },
+            {
+                "amount": "CURRENT",
+                "distributedTo": "S.lrebud",
+                "application": "OpGc QC-M5",
+                "date": "9-19",
+                "lotNumber": "R-32",
+                "distributed": [
+                    {
+                        "date": ": ls-",
+                        "amount": "123 y"
+                    }
+                ]
+            },
+            {
+                "distributedTo": "F. Rmooe",
+                "application": "CPP",
+                "date": "5-9",
+                "lotNumber": "R3C",
+                "amount": 117
+            },
+            {
+                "distributedTo": "wr`Y",
+                "application": "Acatre/to",
+                "amount": 158,
+                "lotNumber": "OR-3",
+                "date": 17
+            },
+            {
+                "distributedTo": "Crowt",
+                "application": "Anytes",
+                "date": "5-1-59",
+                "lotNumber": "OR70-3",
+                "amount": -15
+            },
+            {
+                "lotNumber": "L ot",
+                "date": "2--90",
+                "amount": "DRT0-32C",
+                "total": 30
+            }
+        ],
+        "inventory": {
+            "id": 32,
+            "code": 88636240
+        }
+    }
+}

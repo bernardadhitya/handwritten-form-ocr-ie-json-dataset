@@ -1,0 +1,95 @@
+{
+    "date": "04/29/98",
+    "fax": "NON08:37FAX5082348900",
+    "office": "AND UFFICE",
+    "accountNumber": "4232950",
+    "jobber": "Auburn Merchandising",
+    "programs": [
+        {
+            "name": "DORALFF & DORAL FF MEN",
+            "programNumber": "600895",
+            "programPeriod": "APRIL",
+            "programType": "B1G1F"
+        }
+    ],
+    "allocation": {
+        "displaysShippers": "ALLOCATION-Displays/shippers",
+        "deliveryDateShippers": "DELIVERYDATE-SHIPPERS",
+        "totalPacked": 315,
+        "vapShipments": "For VAp Shipments (Including chains below)",
+        "distribution": {
+            "forDA": "For D/A Dist.",
+            "forChain": [
+                "For Chain",
+                "For Chaln",
+                "For Chain",
+                "For Chaln",
+                "For Chain",
+                "For Chain"
+            ]
+        }
+    },
+    "displayLoad": {
+        "doralFFBox": {
+            "live": "ve=B",
+            "ctnsB1G1F": 2
+        },
+        "doralFMenBox": {
+            "live": "live=Bill",
+            "ctnsB1G1F": 2
+        },
+        "ctnsBillFor": 2,
+        "ctns": "CTNS."
+    },
+    "displayContains": "B1G1F",
+    "poNumber": "P.O.#",
+    "caseAllocation": {
+        "b1g1fDeliveryDate": "B1G1FDELIVERYDATE:",
+        "cost": "COST:",
+        "doralB1G1FCases": "DORALB1G1F CASES(6M",
+        "eftLive": "EFT/LIVE",
+        "brand": "Brand",
+        "ffBox": "FFBOX",
+        "fmBox": "FMBOX",
+        "costMA": 21,
+        "totalState": 21
+    },
+    "eft": "EFT:",
+    "state": {
+        "liveCS": "LIVE CS.",
+        "deliveryDate": "DELIVERYDATE:",
+        "po": "P.O.",
+        "liveCases": "LIVE CASES",
+        "vapCase": 21,
+        "brand": "Brand",
+        "vaps": "VAPS",
+        "perCase": "$30.00",
+        "payment": "$630.00",
+        "state": "STATE"
+    },
+    "paymentDetails": {
+        "state": "STATE",
+        "payment": "$630.00",
+        "po": "51871",
+        "tpsExplanation": "TPSEXPLANATION:",
+        "number": 7796
+    },
+    "signatures": {
+        "wholesaler": "WHOLESALER SIGNATURE:",
+        "rjr": "RJR SIGNATURE"
+    },
+    "sendPaymentTo": "SEND PAYMENT TO:",
+    "divisionOffice": {
+        "account": "30",
+        "divOff": "DIV.OFF",
+        "checkOn": "check on",
+        "instructions": "If division office -retum with voucher upon recelpt"
+    },
+    "unitsUpdated": {
+        "amount": 6300,
+        "rouToComplete": "ROU to complete:",
+        "voucherNumber": "Voucher#:",
+        "dateRequested": "Date Requested:",
+        "date": "Date:"
+    }
+}

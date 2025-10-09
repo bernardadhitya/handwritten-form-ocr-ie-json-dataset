@@ -1,0 +1,79 @@
+{
+    "certificateOfInsurance": {
+        "issueDate": "MM/DD/YY",
+        "producer": "Johnson & Higgins",
+        "address": "120 Park Avenue, New York, New York 10017",
+        "companiesAffordingCoverage": [
+            {
+                "letter": "A",
+                "company": "Hartford Fire Ins. Co."
+            },
+            {
+                "letter": "B",
+                "company": "Hartford Accident & Indemnity"
+            },
+            {
+                "letter": "C",
+                "company": "NY Underwriters Ins. Co"
+            },
+            {
+                "letter": "D",
+                "company": "Twin City Fire Ins. Co."
+            },
+            {
+                "letter": "E",
+                "company": "Entenmann's, Inc."
+            }
+        ],
+        "insured": "Philip Morris Companies Inc. and its Subsidiary Companies including Kraft General Foods Inc., Oscar Mayer Foods Corp., Miller Brewing Co.",
+        "coverages": [
+            {
+                "type": "General Liability",
+                "policyNumber": "10JSEC35104E",
+                "policyEffectiveDate": "5/1/91",
+                "policyExpirationDate": "5/1/92",
+                "limits": {
+                    "generalAggregate": 1000000,
+                    "productsCompOpAgg": 1000000,
+                    "personalAdvInjury": 1000000,
+                    "eachOccurrence": 1000000,
+                    "fireDamage": 1000000,
+                    "medExp": 5000
+                }
+            },
+            {
+                "type": "Automobile Liability",
+                "policyNumber": "10CSEC35100E",
+                "policyEffectiveDate": "5/1/91",
+                "policyExpirationDate": "5/1/92",
+                "limits": {
+                    "combinedSingleLimit": 1000000
+                },
+                "coverage": [
+                    "anyAuto",
+                    "allOwnedAutos",
+                    "hiredAutos",
+                    "nonOwnedAutos"
+                ]
+            },
+            {
+                "type": "Worker's Compensation and Employers' Liability",
+                "policyNumber": "10WBRP28118E",
+                "policyEffectiveDate": "5/1/91",
+                "policyExpirationDate": "5/1/92",
+                "limits": {
+                    "eachAccident": 500000,
+                    "diseasePolicyLimit": 500000,
+                    "diseaseEachEmployee": 500000
+                }
+            }
+        ],
+        "descriptionOfOperations": "Tombstone Pizza Corp. is included as a Named Insured.",
+        "certificateHolder": {
+            "name": "MCL-AMERISTAR",
+            "address": "P.O. BOX 355, LA PORTE, IN 46350"
+        },
+        "cancellation": "Should any of the above described policies be cancelled before the expiration date thereof, the issuing company will endeavor to mail 30-days written notice to the certificate holder named to the left, but failure to mail such notice shall impose no obligation or liability of any kind upon the company, its agents or representatives.",
+        "authorizedRepresentative": "xesl"
+    }
+}

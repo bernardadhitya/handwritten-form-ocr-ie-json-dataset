@@ -1,0 +1,35 @@
+{
+    "update": "FORM",
+    "make_copy": "Choose one of the following forms of ID that has your current address and birthdate:",
+    "id_options": [
+        "Driver's License",
+        "Sporting License",
+        "Veteran's Administration ID Card",
+        "State ID Card",
+        "MEDICAID Voucher",
+        "AARP Membership Card"
+    ],
+    "note": "Copying some forms of official identification is illegal in some states. Please make sure the ID you copy complies.",
+    "using_a_copy_machine": "574846 441876071",
+    "official_id_address": {
+        "id_number": "D=387306322",
+        "name": "Steve Pelligrini",
+        "address": "32 Green St #3",
+        "city_state_zip": "Gorham, ME 04038-1404"
+    },
+    "correct_address_check": "Is this your correct address?",
+    "address_correction": {
+        "name": "Slewe Relegini",
+        "new_address": "32 Greenst. #3",
+        "city_state_zip": "bharr:Me"
+    },
+    "signature_section": {
+        "note": "Responses will not be processed without signature, birthdate and ID",
+        "certification": "I certify that I am a smoker; I am 21 years of age or older and that I want to receive offers, premiums, coupons, or free cigarettes that may be sent to me in the mail. I understand that giving false information in order to accept these offers may constitute a violation of law.",
+        "birth_date": "1/26/76",
+        "today_date": "22",
+        "signature": "SIGN HERE",
+        "usual_brand": "What is your usual brand of cigarettes?"
+    },
+    "privacy_note": "We respect the privacy of smokers. We do not sell the names on our lists to anyone."
+}

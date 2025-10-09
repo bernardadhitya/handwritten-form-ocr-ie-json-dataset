@@ -1,0 +1,91 @@
+{
+    "title": "AMES ASSAY FOR MUTAGENICITY",
+    "compound": {
+        "name": "3-Methyl-2-pentenoic Acid",
+        "source": "Lorillard-Organic Chemistry",
+        "lorillard_no": "LORRLARDNOA29PD31",
+        "lot_no": "OR51-59A"
+    },
+    "dates": {
+        "source": "4/27/81",
+        "tested": "6/24/81-7/8/81",
+        "reported": "7/14/81"
+    },
+    "notebook_page": "BC19-98",
+    "investigator": "Poole",
+    "toxicity_percent_survival": [
+        50,
+        80,
+        100
+    ],
+    "solvent": "DMSOWATER",
+    "concentration_mg_ml": 0.5,
+    "other": "S. TYPHIMURIUM",
+    "strains": {
+        "TA1535": {
+            "without_S9": {
+                "plate_0.05_ml_solvent": 13.67,
+                "compound_ug_plate": 500,
+                "reversion_rate": 0.91
+            },
+            "with_S9": {
+                "plate_0.05_ml_solvent": 11.0,
+                "compound_ug_plate": 250,
+                "reversion_rate": 0.98
+            }
+        },
+        "TA100": {
+            "without_S9": {
+                "plate_0.05_ml_solvent": 116.33,
+                "compound_ug_plate": 125,
+                "reversion_rate": 1.04
+            },
+            "with_S9": {
+                "plate_0.05_ml_solvent": 119.33,
+                "compound_ug_plate": 500,
+                "reversion_rate": 0.85
+            }
+        },
+        "TA98": {
+            "without_S9": {
+                "plate_0.05_ml_solvent": 12.67,
+                "compound_ug_plate": 250,
+                "reversion_rate": 0.97
+            },
+            "with_S9": {
+                "plate_0.05_ml_solvent": 16.67,
+                "compound_ug_plate": 125,
+                "reversion_rate": 1.06
+            }
+        }
+    },
+    "positive_control": {
+        "2-aminoanthracene": {
+            "ug_plate": 4.0,
+            "reversion_rate": [
+                0.51,
+                3.55,
+                1.22,
+                4.94,
+                0.16,
+                32.22
+            ]
+        },
+        "streptozotocin": {
+            "ug_plate": 1.0,
+            "reversion_rate": [
+                4.54,
+                42.91,
+                1.24,
+                3.02
+            ]
+        }
+    },
+    "conclusion": "This compound is judged non-mutagenic in this test system.",
+    "copies_to": [
+        "Testing Program File 008300",
+        "Biochemistry Section",
+        "LORILLARO-RESEARCH CENTER"
+    ],
+    "form": "FORM 6 (5-80)"
+}

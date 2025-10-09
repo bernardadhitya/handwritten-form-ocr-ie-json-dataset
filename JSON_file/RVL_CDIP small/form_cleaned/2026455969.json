@@ -1,0 +1,46 @@
+{
+    "patents": "Pm345",
+    "faxCoverLetter": {
+        "address": "875 Third Avenue",
+        "company": "Fish & Neave",
+        "postalCode": "23275-0600",
+        "recipient": {
+            "name": "A.D. Lloyg",
+            "location": "Reddie Grose, England",
+            "telecopierNumber": "031-3290"
+        },
+        "sender": {
+            "name": "Geraxd deBlass",
+            "location": "Fish Neave",
+            "clientNumber": "02920.002"
+        },
+        "totalNumberOfPages": "3",
+        "transmissionDevice": "Xerox 7021",
+        "date": "11-8-90",
+        "time": "4:55PM",
+        "faxOperator": "Unknown",
+        "acknowledgement": {
+            "request": "Please acknowledge safe receipt of this transmission by signing and returning",
+            "signed": "Unknown",
+            "date": "Unknown"
+        },
+        "contact": {
+            "phone": "212-715-0600",
+            "faxNumbers": [
+                "212-715-067",
+                "212-715-0678",
+                "212-715-0674"
+            ]
+        },
+        "transmissionReport": {
+            "document": "Reduced sample above was sent",
+            "count": 3,
+            "remoteStationId": "071 242 3290",
+            "startTime": "11-8-90 4:55PM",
+            "duration": "1'56\"",
+            "pages": 3,
+            "totalDuration": "0:0158",
+            "device": "Xerox Telecopier 7021"
+        }
+    }
+}

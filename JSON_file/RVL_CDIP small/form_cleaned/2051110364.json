@@ -1,0 +1,81 @@
+{
+    "title": "TOBACCO SALES FORCE",
+    "key_to_retentions": {
+        "ACT": "While Active",
+        "TER": "Until Terminated",
+        "SUP": "Until Superseded",
+        "P": "Permanently",
+        "C": "Current Year",
+        "M": "Current Month"
+    },
+    "records": [
+        {
+            "code": "E1281",
+            "category": "EMPLOYMENT APPLICATIONS/RESUMES",
+            "retention_period": "M + 12"
+        },
+        {
+            "code": "D0784",
+            "category": "DISTRIBUTORS/WHOLESALE",
+            "retention_period": "ACT + 6"
+        },
+        {
+            "code": "C2319",
+            "category": "REPORTS",
+            "retention_period": "C + 2"
+        },
+        {
+            "code": "C2318",
+            "category": "CUSTOMER ANALYSIS - MISC.",
+            "retention_period": "C + 1"
+        },
+        {
+            "code": "C2316",
+            "category": "CORRESPONDENCE",
+            "retention_period": "C + 1"
+        },
+        {
+            "code": "C2315",
+            "category": "CHAIN ACCOUNTS",
+            "retention_period": "ACT + 6"
+        },
+        {
+            "code": "C2314",
+            "category": "CHAIN ACCOUNTS",
+            "retention_period": "SUP"
+        },
+        {
+            "code": "C2597",
+            "category": "CALL BOOKS/KEY ACCOUNT LISTINGS",
+            "retention_period": "C + 1"
+        },
+        {
+            "code": "B1002",
+            "category": "CALENDARS/DAYTIMERS/DIARIES",
+            "retention_period": "C + 6"
+        },
+        {
+            "code": "B1189",
+            "category": "BRAND PROMOTION",
+            "retention_period": "ACT"
+        },
+        {
+            "code": "A0991",
+            "category": "BENEFITS",
+            "retention_period": "C + 6"
+        },
+        {
+            "code": "A1068",
+            "category": "AUDITS/BUDGETS/TAX",
+            "retention_period": "C + 2"
+        }
+    ],
+    "revised_date": "September 14, 1993",
+    "authorization": {
+        "legal_counsel": "Philip",
+        "management_group": "MORRis",
+        "responsible_records_department_head": "Vqua"
+    },
+    "location": "USA",
+    "issued_date": "May 9, 1990"
+}

@@ -1,0 +1,81 @@
+{
+    "cigaretteTestData": {
+        "brand": "B&H-F SPECIAL",
+        "experimentNo": "18A-B",
+        "description": {
+            "brandName": "MF LONG",
+            "maker": "Philip Morris",
+            "source": "Philip Morris",
+            "dateReceived": "December 3, 195",
+            "numberOfCigarettesReceived": 300,
+            "cigaretteDimensions": {
+                "length": "80 mm",
+                "circumference": "25 mm",
+                "totalWeight": "328.33 g",
+                "meanWeight": "0.09 g"
+            },
+            "filterType": "Viscose",
+            "grainWeightVariance": {
+                "length": "15 mm",
+                "diameter": "mm",
+                "volume": 754
+            },
+            "productionCodes": "Benson and Hedges",
+            "filterMaterial": "Viscose",
+            "cigarettePaper": "Cig. paper",
+            "mouthpiecePaper": "Mouthpiece paper",
+            "tobaccoBlendDate": "Tobacco blend date",
+            "packer": "Packer"
+        },
+        "preparationForAnalysis": {
+            "moistureStatus": {
+                "asReceived": "7.109 g",
+                "conditioned": "1.09 g",
+                "gainOrLoss": "%",
+                "productionTarget": "e",
+                "difference": "b-d g",
+                "numberOfCigsWeighed": 140,
+                "moistureOfFilters": "15.88%"
+            },
+            "conditioning": {
+                "temperature": "71 F",
+                "relativeHumidity": "70%",
+                "duration": 72
+            },
+            "selectionOfCigarettes": {
+                "totalTested": 283,
+                "totalSelected": 140,
+                "percentageRejected": 50.3,
+                "selectedByConditionedWeight": "e",
+                "selectedByPressureDrop": "601.03 inches water"
+            },
+            "dimensionsOfConditionedAndSelectedCigarettes": {
+                "wholeCigarette": {
+                    "meanWeight": "1.09 g",
+                    "meanPressureDrop": "3.0-R-1.00 in"
+                },
+                "mouthpieceWithFilter": {
+                    "meanWeight": "0.187 g",
+                    "meanPressureDrop": "1.95-R.25 in"
+                },
+                "filterWithoutMouthpiece": {
+                    "meanWeight": "0.07 g",
+                    "meanDryWeight": "86%",
+                    "densityOfFilterCartridge": "13f)8c)"
+                }
+            }
+        },
+        "analysesOnTobacco": {
+            "numberOfConditionedCigarettesUsed": 14,
+            "meanWeightOfTobaccoPerCigarette": {
+                "conditioned": "0.97 g",
+                "dried": "0.77 g"
+            },
+            "moistureContent": "0.06 g",
+            "totalAlkaloid": {
+                "mean": 2.06,
+                "nicotineMean": 1.96
+            }
+        }
+    }
+}
