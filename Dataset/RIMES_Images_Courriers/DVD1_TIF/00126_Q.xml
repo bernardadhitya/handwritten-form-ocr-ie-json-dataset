@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2474" height="3504">00126_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Relance de courrier sans réponse</scenario>
+  <writer>SALHI Isabelle</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="164" top_left_y="313" bottom_right_x="723" bottom_right_y="456">
+       <type>Code d'envoi</type>
+       <text>LYRNCL</text>
+  </box>
+  <box top_left_x="396" top_left_y="475" bottom_right_x="1206" bottom_right_y="582">
+       <type>Nom</type>
+       <text>SALHI Isabelle</text>
+  </box>
+  <box top_left_x="1399" top_left_y="472" bottom_right_x="2174" bottom_right_y="577">
+       <type>Prénom</type>
+       <text></text>
+  </box>
+  <box top_left_x="479" top_left_y="575" bottom_right_x="2181" bottom_right_y="671">
+       <type>Adresse</type>
+       <text>2 rue de La Croix</text>
+  </box>
+  <box top_left_x="557" top_left_y="679" bottom_right_x="977" bottom_right_y="784">
+       <type>Code Postal</type>
+       <text>54290</text>
+  </box>
+  <box top_left_x="1098" top_left_y="672" bottom_right_x="2186" bottom_right_y="780">
+       <type>Ville</type>
+       <text>GRIPPORT</text>
+  </box>
+  <box top_left_x="364" top_left_y="790" bottom_right_x="1239" bottom_right_y="936">
+       <type>Téléphone</type>
+       <text>0346245898</text>
+  </box>
+  <box top_left_x="504" top_left_y="1055" bottom_right_x="2182" bottom_right_y="1172">
+       <type>Catégorie Scénario</type>
+       <text>Relance de courrier sans réponse</text>
+  </box>
+  <box top_left_x="288" top_left_y="1166" bottom_right_x="2183" bottom_right_y="1348">
+       <type>Objet Scénario</type>
+       <text>Votre demande de résiliation du mois\ndernier n'a pas été ¤{pris/prise}¤ en compte</text>
+  </box>
+  <box top_left_x="282" top_left_y="1344" bottom_right_x="2184" bottom_right_y="1532">
+       <type>Complément Scénario</type>
+       <text>Aucun\n</text>
+  </box>
+  <box top_left_x="908" top_left_y="1552" bottom_right_x="1547" bottom_right_y="1701">
+       <type>Référence client</type>
+       <text>UKIWI35</text>
+  </box>
+  <box top_left_x="583" top_left_y="1700" bottom_right_x="2192" bottom_right_y="1795">
+       <type>Interlocuteur</type>
+       <text>Hebdomadaire "Top Coule !"</text>
+  </box>
+  <box top_left_x="494" top_left_y="1791" bottom_right_x="2191" bottom_right_y="1894">
+       <type>Adresse Interlocuteur</type>
+       <text></text>
+  </box>
+  <box top_left_x="572" top_left_y="1890" bottom_right_x="1001" bottom_right_y="2008">
+       <type>Code Postal Interlocuteur</type>
+       <text>69620</text>
+  </box>
+  <box top_left_x="1136" top_left_y="1890" bottom_right_x="2191" bottom_right_y="1990">
+       <type>Ville Interlocuteur</type>
+       <text>CHAMELET</text>
+  </box>
+  <box top_left_x="1052" top_left_y="2227" bottom_right_x="1267" bottom_right_y="2336">
+       <type>Temps passé</type>
+       <text></text>
+  </box>
+  <box top_left_x="896" top_left_y="2166" bottom_right_x="974" bottom_right_y="2223">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1070" top_left_y="2187" bottom_right_x="1147" bottom_right_y="2223">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1259" top_left_y="2177" bottom_right_x="1366" bottom_right_y="2221">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="302" top_left_y="2643" bottom_right_x="379" bottom_right_y="2682">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1594" top_left_y="2581" bottom_right_x="2194" bottom_right_y="2694">
+       <type>Date d'envoi postal</type>
+       <text></text>
+  </box>
+  <box top_left_x="303" top_left_y="2728" bottom_right_x="353" bottom_right_y="2776">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="302" top_left_y="2822" bottom_right_x="353" bottom_right_y="2868">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1737" top_left_y="2755" bottom_right_x="2188" bottom_right_y="2873">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="299" top_left_y="2915" bottom_right_x="381" bottom_right_y="2970">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1594" top_left_y="2875" bottom_right_x="2191" bottom_right_y="2979">
+       <type>Date d'envoi par courriel</type>
+       <text>21 Aout 2006</text>
+  </box>
+  <box top_left_x="1736" top_left_y="3073" bottom_right_x="2001" bottom_right_y="3168">
+       <type>Résolution</type>
+       <text>200</text>
+  </box>
+  <box top_left_x="578" top_left_y="3108" bottom_right_x="651" bottom_right_y="3154">
+       <type>Format PNG</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="782" top_left_y="3102" bottom_right_x="833" bottom_right_y="3153">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="963" top_left_y="3102" bottom_right_x="1013" bottom_right_y="3153">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1073" top_left_y="2974" bottom_right_x="2192" bottom_right_y="3076">
+       <type>Marque et modèle scanner</type>
+       <text>ARTEC ULTIMA 2000</text>
+  </box>
+</annotation>

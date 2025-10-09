@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2472" height="3504">00123_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Relance de courrier sans réponse</scenario>
+  <writer>GOMIS Camille</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="183" top_left_y="343" bottom_right_x="743" bottom_right_y="486">
+       <type>Code d'envoi</type>
+       <text>PGZDNX</text>
+  </box>
+  <box top_left_x="414" top_left_y="507" bottom_right_x="1227" bottom_right_y="615">
+       <type>Nom</type>
+       <text>GOMIS</text>
+  </box>
+  <box top_left_x="1422" top_left_y="510" bottom_right_x="2200" bottom_right_y="614">
+       <type>Prénom</type>
+       <text>Camille</text>
+  </box>
+  <box top_left_x="497" top_left_y="610" bottom_right_x="2206" bottom_right_y="707">
+       <type>Adresse</type>
+       <text>76, rue Etienne Olry</text>
+  </box>
+  <box top_left_x="575" top_left_y="711" bottom_right_x="996" bottom_right_y="818">
+       <type>Code Postal</type>
+       <text>54170</text>
+  </box>
+  <box top_left_x="1119" top_left_y="706" bottom_right_x="2208" bottom_right_y="816">
+       <type>Ville</type>
+       <text>ALLAIN</text>
+  </box>
+  <box top_left_x="381" top_left_y="823" bottom_right_x="1259" bottom_right_y="972">
+       <type>Téléphone</type>
+       <text>0358441629</text>
+  </box>
+  <box top_left_x="521" top_left_y="1092" bottom_right_x="2205" bottom_right_y="1209">
+       <type>Catégorie Scénario</type>
+       <text>Relance de courrier sans réponse</text>
+  </box>
+  <box top_left_x="303" top_left_y="1203" bottom_right_x="2205" bottom_right_y="1385">
+       <type>Objet Scénario</type>
+       <text>La demande de résiliation du mois dernier n'a pas\nété prise en compte</text>
+  </box>
+  <box top_left_x="295" top_left_y="1382" bottom_right_x="2206" bottom_right_y="1572">
+       <type>Complément Scénario</type>
+       <text>\n</text>
+  </box>
+  <box top_left_x="923" top_left_y="1591" bottom_right_x="1564" bottom_right_y="1741">
+       <type>Référence client</type>
+       <text>FLTOP60</text>
+  </box>
+  <box top_left_x="596" top_left_y="1739" bottom_right_x="2215" bottom_right_y="1835">
+       <type>Interlocuteur</type>
+       <text>Bof telecom</text>
+  </box>
+  <box top_left_x="507" top_left_y="1829" bottom_right_x="2215" bottom_right_y="1933">
+       <type>Adresse Interlocuteur</type>
+       <text>LE BOURG</text>
+  </box>
+  <box top_left_x="586" top_left_y="1927" bottom_right_x="1017" bottom_right_y="2047">
+       <type>Code Postal Interlocuteur</type>
+       <text>03410</text>
+  </box>
+  <box top_left_x="1152" top_left_y="1928" bottom_right_x="2215" bottom_right_y="2030">
+       <type>Ville Interlocuteur</type>
+       <text>PREMILHAT</text>
+  </box>
+  <box top_left_x="1068" top_left_y="2267" bottom_right_x="1284" bottom_right_y="2378">
+       <type>Temps passé</type>
+       <text>10</text>
+  </box>
+  <box top_left_x="925" top_left_y="2193" bottom_right_x="963" bottom_right_y="2255">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1089" top_left_y="2202" bottom_right_x="1138" bottom_right_y="2254">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1306" top_left_y="2202" bottom_right_x="1358" bottom_right_y="2254">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="305" top_left_y="2647" bottom_right_x="348" bottom_right_y="2731">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1613" top_left_y="2627" bottom_right_x="2215" bottom_right_y="2740">
+       <type>Date d'envoi postal</type>
+       <text>10/8/06</text>
+  </box>
+  <box top_left_x="311" top_left_y="2770" bottom_right_x="353" bottom_right_y="2836">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="326" top_left_y="2845" bottom_right_x="364" bottom_right_y="2911">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1756" top_left_y="2802" bottom_right_x="2209" bottom_right_y="2919">
+       <type>Date d'envoi par fax</type>
+       <text>10/8/06</text>
+  </box>
+  <box top_left_x="312" top_left_y="2959" bottom_right_x="366" bottom_right_y="3029">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1611" top_left_y="2922" bottom_right_x="2211" bottom_right_y="3024">
+       <type>Date d'envoi par courriel</type>
+       <text>10/8/06</text>
+  </box>
+  <box top_left_x="1753" top_left_y="3118" bottom_right_x="2020" bottom_right_y="3213">
+       <type>Résolution</type>
+       <text>300</text>
+  </box>
+  <box top_left_x="587" top_left_y="3146" bottom_right_x="638" bottom_right_y="3195">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="793" top_left_y="3145" bottom_right_x="845" bottom_right_y="3195">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="990" top_left_y="3128" bottom_right_x="1035" bottom_right_y="3220">
+       <type>Format TIFF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1087" top_left_y="3020" bottom_right_x="2212" bottom_right_y="3119">
+       <type>Marque et modèle scanner</type>
+       <text>HP SCANJET 5550C</text>
+  </box>
+</annotation>
