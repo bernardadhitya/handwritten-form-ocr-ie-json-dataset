@@ -1,0 +1,83 @@
+{
+    "marketResearchAuthorization": {
+        "recommendedProposalAttached": "Yes",
+        "number": "RI-15",
+        "date": "9/15/87",
+        "description": "RICHAND 20's A&U-- Birmingham and Western Kentucky",
+        "requestedBy": "N.G.Naughton",
+        "researchRequestAttached": "Yes",
+        "competitiveProposalsObtained": "Yes",
+        "estimatedCostPerSupplier": [
+            {
+                "supplier": "Market Facts",
+                "cost": 257000,
+                "travel": 3213,
+                "totalCost": 297250
+            },
+            {
+                "supplier": "Kapuler",
+                "cost": 384000,
+                "travel": 4800,
+                "totalCost": 384000
+            },
+            {
+                "supplier": "Admar",
+                "cost": 0,
+                "travel": 0,
+                "totalCost": 0
+            }
+        ],
+        "summaryOfResearchBudget": {
+            "1987": {
+                "initiationDate": "9/9/87",
+                "totalAreaBudget": 349000,
+                "fieldStart": "TBD",
+                "currentBalanceAvailable": 20274.59,
+                "fieldComplete": "3/7/88",
+                "thisChange": -257000,
+                "fromCurrentBudget": 0,
+                "finalReportDue": "4/4/88",
+                "thisAmount": 0,
+                "fromNextYearsBudget": 72200,
+                "newBalance": 236725.41,
+                "committedToDate": 585725.41,
+                "currentYearSampleSize": 8000,
+                "recommendedSupplier": "Market Facts",
+                "reasonsForRecommendation": "This supplier is the lowest bidder of three for this project."
+            }
+        },
+        "dates": {
+            "submittedBy": {
+                "name": "WAIK",
+                "date": "9/108"
+            },
+            "approvedBy": [
+                {
+                    "name": "E.Gravey",
+                    "date": null
+                },
+                {
+                    "name": "G.D.Raphae",
+                    "date": null
+                },
+                {
+                    "name": "E/whitehair",
+                    "date": "9/17/87"
+                }
+            ],
+            "budgetCheck": {
+                "date": null
+            }
+        },
+        "originalProjectFile": {
+            "projectNumber": "1987-134-137RI",
+            "cc": [
+                "S.willinger 3",
+                "G.D.Raphae",
+                "V.Hansberry (If Int.)"
+            ],
+            "accountName": "RICHLAND",
+            "fwbg0911": 465925781
+        }
+    }
+}

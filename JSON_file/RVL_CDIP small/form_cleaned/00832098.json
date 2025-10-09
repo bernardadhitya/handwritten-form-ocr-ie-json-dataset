@@ -1,0 +1,63 @@
+{
+    "compoundPhysicalParameters": {
+        "lrcCompoundCode": "A7",
+        "date": "10/22/80",
+        "molecularWeight": 182,
+        "solubility": {
+            "measured": "XWATER",
+            "estimate": "OTHER",
+            "amount": "0.5 g/100ml"
+        },
+        "class": [
+            "ACID",
+            "BASE",
+            "SALT",
+            "OTHER"
+        ],
+        "reactivity": {
+            "descriptionOfReactivity": {
+                "withoutHeating": {
+                    "waterBrine": "UNCHANGED",
+                    "25%HCL": "NCHANGED",
+                    "5%NaOH": "UNCHANGED",
+                    "alcohols": "UNCHANGED",
+                    "oxygen": "UNCHANGED",
+                    "light": "UNCHANGEO"
+                },
+                "withHeating80C": {
+                    "waterBrine": "DECOMPOSITION",
+                    "25%HCL": "DECOMPOSITION",
+                    "5%NaOH": "DECOMPOSITION",
+                    "alcohols": "DECOMPOSITION",
+                    "oxygen": "DECOMPOSITION",
+                    "light": "DECOMPOSITION"
+                }
+            }
+        },
+        "safetyComments": {
+            "suggestedHandlingProcedure": "Use the normal handling for an aliphatic acid.",
+            "amesMutagenicScreeningTest": "1.77 g/kg"
+        },
+        "chemicalPurity": ">99%",
+        "analyticalMethods": [
+            "gas chromatography",
+            "thin-layer chromatography"
+        ],
+        "storageRecommendations": {
+            "normalStorage": true,
+            "specialStorage": false
+        },
+        "compoundSensitiveTo": [
+            "AIR",
+            "HEAT",
+            "LIGHT",
+            "MOISTURE",
+            "OTHER"
+        ],
+        "comments": "The material might form esters in the presence of alcohols.",
+        "signature": {
+            "date": "10/22/80",
+            "lorillardResearchCenter": "FORM9 (1080)"
+        }
+    }
+}

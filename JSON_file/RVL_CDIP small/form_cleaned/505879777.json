@@ -1,0 +1,329 @@
+{
+    "analytical_request_sheet": {
+        "submitter_code": "4-A",
+        "date": "4-8-87",
+        "submitter": "A.Pilups",
+        "sample_description_identification": "C/B",
+        "aerosol_type": "1",
+        "tobacco_type": "2",
+        "components_chemical": [
+            {
+                "name": "Nicotine",
+                "method": "#W",
+                "units": "mg/cig",
+                "values": [
+                    1,
+                    12
+                ]
+            },
+            {
+                "name": "Total Nitrogen",
+                "units": "mg/cig",
+                "values": [
+                    2
+                ]
+            },
+            {
+                "name": "Glycerin",
+                "units": "mg/cig",
+                "values": [
+                    3
+                ]
+            },
+            {
+                "name": "Nitrate",
+                "units": "mg/cig",
+                "values": [
+                    5
+                ]
+            },
+            {
+                "name": "Propylene Glycol",
+                "units": "mg/cig",
+                "values": [
+                    6
+                ]
+            },
+            {
+                "name": "Reducing Sugar",
+                "units": "mg/cig",
+                "values": [
+                    6
+                ]
+            },
+            {
+                "name": "Water",
+                "units": "mg/cig",
+                "values": [
+                    4
+                ]
+            },
+            {
+                "name": "Total Sugar",
+                "units": "mg/cig",
+                "values": [
+                    5
+                ]
+            },
+            {
+                "name": "Menthol",
+                "units": "mg/cig",
+                "values": [
+                    6
+                ]
+            },
+            {
+                "name": "Ammonia",
+                "units": "ug/cig",
+                "values": [
+                    8
+                ]
+            },
+            {
+                "name": "Acetic Acid",
+                "units": "ug/cig",
+                "values": [
+                    9
+                ]
+            },
+            {
+                "name": "Form/Acetaldehyde",
+                "units": "ug/cig",
+                "values": [
+                    7
+                ]
+            },
+            {
+                "name": "Acetone/Acrolein",
+                "units": "ug/cig",
+                "values": [
+                    8
+                ]
+            },
+            {
+                "name": "Moisture (oven)",
+                "units": "ug/cig",
+                "values": [
+                    6
+                ]
+            },
+            {
+                "name": "Propional/Crotonal",
+                "units": "ug/cig",
+                "values": [
+                    10
+                ]
+            },
+            {
+                "name": "Chloride",
+                "units": "ug/cig",
+                "values": [
+                    10
+                ]
+            },
+            {
+                "name": "Ash",
+                "units": "ug/cig",
+                "values": [
+                    11
+                ]
+            },
+            {
+                "name": "M'acroln/Isovaleral",
+                "units": "lug/cig",
+                "values": [
+                    12
+                ]
+            },
+            {
+                "name": "WTPM",
+                "units": "mg/puff",
+                "values": [
+                    13
+                ]
+            },
+            {
+                "name": "Malic/Oxalic/Citric",
+                "units": "%",
+                "values": [
+                    14
+                ]
+            },
+            {
+                "name": "Nicotine",
+                "units": "mg/puff",
+                "values": [
+                    13
+                ]
+            },
+            {
+                "name": "Glycerin",
+                "units": "mg/puff",
+                "values": [
+                    15
+                ]
+            },
+            {
+                "name": "Propylene Glycol",
+                "units": "mg/puff",
+                "values": [
+                    16
+                ]
+            },
+            {
+                "name": "Water",
+                "units": "mg/puff",
+                "values": [
+                    17
+                ]
+            },
+            {
+                "name": "Menthol",
+                "units": "mg/puff",
+                "values": [
+                    18
+                ]
+            },
+            {
+                "name": "TEG",
+                "units": "mg/puff",
+                "values": [
+                    19
+                ]
+            },
+            {
+                "name": "TEG",
+                "units": "mg/cig",
+                "values": [
+                    20
+                ]
+            },
+            {
+                "name": "CO",
+                "units": "mg/puff",
+                "values": [
+                    21
+                ]
+            },
+            {
+                "name": "CO2",
+                "units": "mg/cig",
+                "values": [
+                    22
+                ]
+            }
+        ],
+        "components_physical": [
+            {
+                "name": "Moisture (oven)",
+                "units": "mg/unit",
+                "values": [
+                    1
+                ]
+            },
+            {
+                "name": "Ash",
+                "units": "mg/unit",
+                "values": [
+                    2
+                ]
+            },
+            {
+                "name": "Real Density",
+                "units": "gm/cm3",
+                "values": [
+                    1
+                ]
+            },
+            {
+                "name": "Bulk Density",
+                "units": "gm/cm3",
+                "values": [
+                    2
+                ]
+            },
+            {
+                "name": "Free Flow Density",
+                "units": "gm/cm3",
+                "values": [
+                    3
+                ]
+            },
+            {
+                "name": "Tap Density",
+                "units": "gm/cm3",
+                "values": [
+                    4
+                ]
+            },
+            {
+                "name": "Surface Area-Disc,File",
+                "units": "M2/gm",
+                "values": [
+                    5
+                ]
+            },
+            {
+                "name": "N2 Porosity-Disc,File",
+                "units": "gm/cm3",
+                "values": [
+                    6
+                ]
+            },
+            {
+                "name": "Tot.Intrusion Vol,Hg",
+                "units": "cm3/gm",
+                "values": [
+                    7
+                ]
+            },
+            {
+                "name": "Total Pore Area,Hg",
+                "units": "M2/gm",
+                "values": [
+                    8
+                ]
+            },
+            {
+                "name": "Med. Pore Dia Vol",
+                "units": "uM",
+                "values": [
+                    9
+                ]
+            },
+            {
+                "name": "Med. Pore Dia Area",
+                "units": "uM",
+                "values": [
+                    10
+                ]
+            },
+            {
+                "name": "Av. Pore Dia 4V/A",
+                "values": [
+                    11
+                ]
+            },
+            {
+                "name": "Particle Size",
+                "units": "uM",
+                "values": [
+                    12
+                ]
+            },
+            {
+                "name": "Pulp Fiber Size screen",
+                "units": "uM",
+                "values": [
+                    13
+                ]
+            },
+            {
+                "name": "Holding Capacity (H20)",
+                "values": [
+                    14
+                ]
+            }
+        ]
+    }
+}

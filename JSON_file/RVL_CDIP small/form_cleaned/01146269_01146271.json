@@ -1,0 +1,57 @@
+{
+    "project_sheet": {
+        "project_sheet_no": 1,
+        "project_no": "642-100",
+        "project_coordinator": "Gargus",
+        "date": "August 7, 1969",
+        "compounds": "To be given in later Project Sheet",
+        "lot_numbers": "To be given in later Project Sheet",
+        "receipt_date": "To be given in later Project Sheet",
+        "lh_numbers": "To be given in later Project Sheet",
+        "divisions_participating": [
+            "Toxicology-Biosciences Laboratory",
+            "SIOMETRICS",
+            "PHYSICAL AND CHEMICAL.PROPERTIES",
+            "Histology",
+            "Pathology"
+        ],
+        "distribution": [
+            "CENTRAL FILE (2)",
+            "ACCOUNTING",
+            "EACH DIV.PARTICIPATING",
+            "PROJ.COORD.1",
+            "EACH DIV. DIRECTOR"
+        ],
+        "special_precautions": "Use disposable laboratory gloves when applying experimental materials or handling animals.",
+        "reference_information": {
+            "progress_reports_due": "Every six months",
+            "final_report_due": "On Completion",
+            "initials": "JLG:gh"
+        },
+        "experimental_work": "Experimental work to be done in Cancer Section.",
+        "evaluation": "Evaluation of the Carcinogenic Activity of Experimental Materials",
+        "objective": "The objective of the studies outlined in this proposal is the evaluation of the carcinogenic potential of an experimental chemical and a tobacco smoke condensate.",
+        "experimental": {
+            "tobacco_smoke_condensate": {
+                "duration": "18-Month Repeated Dermal",
+                "subjects": {
+                    "species": "ICR Swiss female mice",
+                    "number": 700,
+                    "weight_range": "18 - 25 grams"
+                },
+                "groups": [
+                    {
+                        "group_no": 1,
+                        "treatment": "Vehicle control, acetone",
+                        "number_of_animals": 100
+                    },
+                    {
+                        "group_no": 2,
+                        "treatment": "Negative control, one application of 125y910-dimethyl-1,2-benzanthracene only",
+                        "number_of_animals": 50
+                    }
+                ]
+            }
+        }
+    }
+}

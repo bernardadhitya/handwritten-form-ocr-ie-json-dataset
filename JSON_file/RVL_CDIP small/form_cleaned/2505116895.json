@@ -1,0 +1,86 @@
+{
+    "form_no_approval": "208",
+    "date": "15-11-1994",
+    "day_of_study": 49,
+    "project_no": "R",
+    "check_group": "TIME",
+    "temperature_spotcheck": [
+        {
+            "in": 0.0,
+            "chamber_inlet": 83,
+            "outlet": 22,
+            "remarks": "V"
+        },
+        {
+            "in": 2,
+            "chamber_inlet": 3.36,
+            "outlet": 25.0,
+            "remarks": "A"
+        },
+        {
+            "in": 26.6,
+            "chamber_inlet": 1.0,
+            "outlet": 8.44,
+            "remarks": 92.5
+        },
+        {
+            "in": 24.0,
+            "chamber_inlet": 3.42,
+            "outlet": 25.8,
+            "remarks": "X"
+        },
+        {
+            "in": 26.0,
+            "chamber_inlet": 4,
+            "outlet": 23.3,
+            "remarks": 3.46
+        },
+        {
+            "in": 25.4,
+            "chamber_inlet": "X",
+            "outlet": 26.3,
+            "remarks": 7
+        },
+        {
+            "in": 3,
+            "chamber_inlet": "y.10",
+            "outlet": 5.22,
+            "remarks": "V"
+        },
+        {
+            "in": 24.7,
+            "chamber_inlet": "V",
+            "outlet": 2,
+            "remarks": 254
+        },
+        {
+            "in": "X",
+            "chamber_inlet": "X",
+            "outlet": 23,
+            "remarks": "V"
+        },
+        {
+            "in": 24,
+            "chamber_inlet": 2,
+            "outlet": "S.4",
+            "remarks": "X"
+        },
+        {
+            "in": 26.3,
+            "chamber_inlet": 2505116895,
+            "outlet": "Oracle",
+            "remarks": "NPO"
+        }
+    ],
+    "sn": "Date: 08.99",
+    "initials": "SD",
+    "notes": [
+        "one determination in the first 90 min. of exposure, and one in the last 50 min. of exposure",
+        "check if the parameter is within range",
+        "OK",
+        "out of range",
+        "REMARK: temperature range 19-25C",
+        "Error codes: A: writing, B: calculation, C: mixing up, D: reading, E: copy, F: other with explanation"
+    ],
+    "code": "002691"
+}

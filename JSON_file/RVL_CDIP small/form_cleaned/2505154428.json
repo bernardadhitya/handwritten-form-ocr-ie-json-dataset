@@ -1,0 +1,79 @@
+{
+    "contract": "CNTRACTESABGHCENEER",
+    "form_number": "11",
+    "code": "05 CW 98",
+    "kmh_mcm": "KMH/MCM",
+    "form_approved": true,
+    "group_and_individual_in_life_observations": {
+        "project_number": "3276",
+        "group_code": "03G",
+        "day_of_study": "Date:b98",
+        "group": {
+            "males": {
+                "time": 190,
+                "total_number_of_animals": 4.53,
+                "decreased_spontaneous_activity": "O",
+                "trembling": null,
+                "partially_or_fully_closed_eyelids": null,
+                "harderian_gland_secretion": 6,
+                "initials": null,
+                "partially_or_fully_wet_or_moist_fur": "4O",
+                "abnormal_breathing": null
+            },
+            "females": {}
+        },
+        "individual": {
+            "animal_number": "03.203",
+            "hOrEo": null,
+            "sex": null,
+            "time": 0.44,
+            "A.55": null,
+            "aFeb98e": null,
+            "codes": 5,
+            "spontaneous_activity": "a",
+            "irritability_reaction_to_sound_touch": 10,
+            "turning_reflex": 20,
+            "gripping_ability": 35,
+            "closed_eyelids": 40,
+            "trembling": 45,
+            "high_legged_gait": 50,
+            "abnormal_breathing": "O",
+            "harderian_gland_secretion": "+1",
+            "hair_changes": {
+                "rough": "O",
+                "moist_wet_percent": 70,
+                "discoloration": "bron",
+                "example": "yellow/brown",
+                "ne": null,
+                "hairloss_percent": 96
+            },
+            "skin_changes": 100,
+            "incisors": 105,
+            "injuries": "O"
+        },
+        "remarks": "2505154428",
+        "oracle": null,
+        "date": "03MAR 199",
+        "initials": "A",
+        "date_mar1998": null,
+        "input_initials": "A",
+        "initials_sd": null,
+        "grades": {
+            "0": "normal",
+            "-1": "slight decrease",
+            "-2": "marked decrease",
+            "+1": "slight increase",
+            "+2": "marked increase",
+            "x": "finding, describe if necessary"
+        },
+        "error_codes": {
+            "A": "writing",
+            "B": "calculation",
+            "C": "mixing up",
+            "D": "reading",
+            "E": "copy",
+            "F": "other with explanation"
+        },
+        "0297": null
+    }
+}

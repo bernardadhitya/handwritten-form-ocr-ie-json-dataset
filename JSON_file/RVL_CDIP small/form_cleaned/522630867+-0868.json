@@ -1,0 +1,47 @@
+{
+    "application": {
+        "name": "BRMAS APPLICATION",
+        "number": "P:3O.OOO",
+        "description": "(business reply mail accounting system)",
+        "code": "E- 4h5C",
+        "details": "Application is made to distribute Business Reply postcards, envelopes, and self-mailers prepared and mailed for return without prepayment of postage in accordance with S922 of the USPS Domestic Mail Manual. Applicant is responsible for paying First-Class postage (determined by rate category) in addition to a per piece charge on all returned mailpieces under this program. Applicant agrees to prepare mailpieces in accordance with S922 then submit 50 actual samples to the Post Office where the permit is issued for testing on the automated equipment. Applicant understands that failure to meet these requirements will result in ineligibility to receive BRMAS rates."
+    },
+    "applicant": {
+        "instructions": "COMPLETE THIS PORTION ONLY. PLEASE TYPE OR PRINT IN INK.",
+        "brmPermitHolderName": "National Smoker Services",
+        "streetAddress": "P.O. Box 834001",
+        "cityStateZip": "Richardson, TX 75083",
+        "permitNumberAndCityOfIssue": "Permit 3sd.khaidsnelx",
+        "signature": "Ceinicdenel"
+    },
+    "internalUseOnly": {
+        "brmRateCategoryRequested": "PC",
+        "weight": "over 1 oz. but not more than 2 ozs.",
+        "verifyingEmployee": "u MAsg Regule",
+        "employeeId": "312235835",
+        "date": "097"
+    },
+    "mailpieceDesignAnalyst": {
+        "analysisAndRecommendations": {
+            "brmFormatVerified": "In Compliance",
+            "zip4BarcodeVerified": "In Compliance",
+            "isMailpieceCompatibleWithAutomatedEquipment": "Yes"
+        },
+        "completedBy": "hnray",
+        "completionDate": "19"
+    },
+    "authorization": {
+        "by": "BUSINESS MAIL ENTRY OR POSTMASTER",
+        "status": "Approved",
+        "authorizedBy": "Business Mail Entry",
+        "signature": "",
+        "date": "52263"
+    },
+    "dallasApplicantsOnly": {
+        "instructions": "SUBMIT 50 SAMPLES TO: BUSINESS MAIL ENTRY/BRMAS, US POSTAL SERVICE, 401 DFW TPKE, DALLAS TX 75260-9651",
+        "code": "0867"
+    },
+    "form": {
+        "revision": "BCFORM-REVISED 1/95"
+    }
+}

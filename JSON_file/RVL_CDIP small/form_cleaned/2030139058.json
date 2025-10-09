@@ -1,0 +1,33 @@
+{
+    "survey": "VIRGINIA ENHANCED TRIBUTARY MODELING NUTRIENT DATA SURVEY",
+    "facility": {
+        "name": "Philip Morris",
+        "location": "Richmond"
+    },
+    "VPDES_number": "VAx)6557.utfall x)",
+    "outfall_type": "sanitary, process wastewater, stormwater",
+    "nutrient_parameters": {
+        "nitrogen_species": {
+            "total_kjeldahl_nitrogen": "9.58 ppm",
+            "dissolved_kjeldahl_nitrogen": "9.11 ppm",
+            "dissolved_ammonia_nitrogen": "1.51 ppm",
+            "dissolved_nitrite_nitrogen": "0.023 ppm",
+            "dissolved_nitrate_nitrite_nitrogen": "24.0 ppm"
+        },
+        "phosphorus_species": {
+            "total_phosphorus": "1.50 ppm",
+            "dissolved_inorganic_phosphorus": "1.51 ppm",
+            "orthophosphorus": "0.486 ppm"
+        },
+        "carbon_species": {
+            "dissolved_organic_carbon": "24.0 ppm",
+            "particulate_carbon": "24.0 ppm"
+        }
+    },
+    "additional_analysis": {
+        "other_species": "No",
+        "willing_to_add_parameters": "Yes"
+    },
+    "date": "June 1994",
+    "reference_number": "2030139058"
+}

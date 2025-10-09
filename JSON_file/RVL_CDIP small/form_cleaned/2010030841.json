@@ -1,0 +1,79 @@
+{
+    "form": "EPMM",
+    "context": "CTX-FL",
+    "departmental_use": "For departmental use only",
+    "city": "THE CITY OF NEW YORK",
+    "checked_by": "CIGARETTE FLOOR TAX RETURN",
+    "date": "Date",
+    "tar_and_nicotine_content": "TAR AND NICOTINE CONTENT",
+    "name": "Pursuant to Chapter 46.Title D of the Administrative Code",
+    "remarks": "Retain duplicate for audit purposes.",
+    "address": {
+        "number_and_street": "address-mumber end street",
+        "permit_number": "Permit number",
+        "city_and_state": "City and state",
+        "zip_code": "zip code",
+        "license_number": "License number",
+        "federal_employer_identification_no": "Federal employer identification no."
+    },
+    "inventory_close_date": "Inventory at close of business June 30,1971.",
+    "category_1": {
+        "description": "Tar content in excess of 17 milligrams OR nicotine content in excess of 1.1 milligrams per cigarette",
+        "packages": {
+            "10s": "a.",
+            "20s": "b.",
+            "50s": "c.",
+            "100s": "d."
+        },
+        "tax_rate": {
+            "10s": "11/24",
+            "20s": "34",
+            "50s": "71/24",
+            "100s": "154"
+        },
+        "tax_due": "line 1 line 2",
+        "total": "$"
+    },
+    "category_2": {
+        "description": "Tar content in excess of 17 milligrams AND nicotine content in excess of 1.1 milligrams per cigarette",
+        "packages": {
+            "10s": "g.",
+            "20s": "h.",
+            "50s": "i.",
+            "100s": "j."
+        },
+        "tax_rate": {
+            "10s": "24",
+            "20s": "44",
+            "50s": "104",
+            "100s": "204"
+        },
+        "tax_due": "line 5 line 6",
+        "total": "Sum of columns f. $ through j.-line ."
+    },
+    "total_line": "$ +line",
+    "penalty_and_interest": "$ $",
+    "stamping_agents": {
+        "to_be_completed_by": "To be completed by all stamping agents.",
+        "agent_id": "201003084",
+        "use_quantity": "Use quantity.not face value24 44.",
+        "joint": "Joint44",
+        "meter_units": "[Joint NY. State and City]",
+        "meter_serial_number": "Meter serial number",
+        "ascending": "Ascending",
+        "descending": "Descending",
+        "number_of_stamps": "Number of stamps",
+        "stamp_values": {
+            "10s": "10",
+            "20s": "x10",
+            "50s": "x10"
+        }
+    },
+    "remittance": "Make remittance payable to CITY COLLECTOR",
+    "certification": {
+        "statement": "I hereby certify that this report is, to the best of my knowledge and belief, a true, correct and complete report.",
+        "signature": "Signature",
+        "title": "Title",
+        "date": "Date"
+    }
+}

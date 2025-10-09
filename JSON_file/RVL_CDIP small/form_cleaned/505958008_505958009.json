@@ -1,0 +1,179 @@
+{
+    "analyticalRequestSheet": {
+        "testCode": "CO0E7-7",
+        "submitterCode": "785/-",
+        "date": "7/2185",
+        "submitter": "Jayo",
+        "location": "",
+        "phone": "4966",
+        "sampleDescription": "AEROSOL TYPE 1",
+        "tobaccoType": "2",
+        "method": {
+            "wtpm": {
+                "units": "g/ci0",
+                "v": "3"
+            },
+            "nicotine": {
+                "units": "ag/cig",
+                "percentage": "%"
+            },
+            "glycerin": "2",
+            "totalNitrogen": {
+                "units": "ag/cig",
+                "value": "5"
+            },
+            "propyleneGlycol": {
+                "units": "ag/c10",
+                "percentage": "%"
+            },
+            "water": {
+                "units": "ng/cig",
+                "percentage": "%"
+            },
+            "menthol": "5",
+            "totalSugar": {
+                "units": "ag/cig",
+                "percentage": "%"
+            },
+            "aceticAcid": "6",
+            "ammonia": {
+                "units": "%",
+                "value": "ug/cig"
+            },
+            "formaldehydeAcetaldehyde": "7",
+            "pH": {
+                "units": "ug/cig",
+                "value": "8"
+            },
+            "moistureOven": "10",
+            "acetoneAcrolein": {
+                "units": "ug/cig",
+                "percentage": "%"
+            },
+            "propionalCrotonal": "9",
+            "chloride": {
+                "units": "ug/cig",
+                "value": "10"
+            },
+            "mecrolnIsovaleral": {
+                "units": "ug/cio",
+                "value": "Ash"
+            },
+            "utph": "11",
+            "malicOxalicCitric": "14",
+            "nicotinePuff": {
+                "units": "mg/puff",
+                "value": "12"
+            },
+            "glycerinPuff": {
+                "units": "ag/puff",
+                "percentage": "%"
+            },
+            "propyleneGlycolPuff": {
+                "units": "mg/puff",
+                "value": "16"
+            },
+            "waterPuff": "17",
+            "mentholPuff": {
+                "units": "mg/puff",
+                "value": "18"
+            },
+            "tegPuff": {
+                "units": "ag/puff",
+                "value": "19"
+            },
+            "teg": {
+                "units": "mg/puff",
+                "value": "20"
+            }
+        },
+        "components": {
+            "chemicalType": "3",
+            "physicalType": "4",
+            "moistureOven": "Ash",
+            "realDensity": {
+                "units": "%",
+                "value": "gM/C3"
+            },
+            "bulkDensity": "3",
+            "pH": {
+                "units": "OM/C3",
+                "value": "Nicotine"
+            },
+            "freeFlowDensity": {
+                "units": "M/C3",
+                "value": "S"
+            },
+            "water": {
+                "units": "m/unit",
+                "value": "4"
+            },
+            "tapDensity": {
+                "units": "ag/unit",
+                "value": "QM/cM3"
+            },
+            "glycerin": "5",
+            "surfaceArea": {
+                "units": "ng/unit",
+                "value": "6"
+            },
+            "n2Porosity": {
+                "units": "C.H.N",
+                "value": "m/unit"
+            },
+            "totIntrusionVol": {
+                "units": "ca3/gm",
+                "value": ":"
+            },
+            "oxygen": {
+                "units": "%",
+                "value": "6"
+            },
+            "totalPoreArea": {
+                "units": "M2/",
+                "value": "%"
+            },
+            "menthol": "6",
+            "medPoreDiaVol": {
+                "units": "un",
+                "value": "10"
+            },
+            "medPoreDiaArea": {
+                "units": "uM",
+                "value": "11"
+            },
+            "avPoreDia": {
+                "units": "uM",
+                "value": "%"
+            },
+            "nicotineUnit": {
+                "units": "ag/unit",
+                "value": "11"
+            },
+            "waterUnit": {
+                "units": "%",
+                "value": "12"
+            },
+            "glycerinUnit": {
+                "units": "%",
+                "value": "13"
+            },
+            "pulpFiberSize": {
+                "units": "screenx",
+                "value": "%"
+            },
+            "propyleneGlycolUnit": {
+                "units": "%",
+                "value": "16"
+            },
+            "teg": {
+                "units": "8008",
+                "value": "%"
+            },
+            "mentholUnit": {
+                "units": "%",
+                "value": "17"
+            }
+        }
+    }
+}

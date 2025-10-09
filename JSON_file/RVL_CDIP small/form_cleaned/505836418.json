@@ -1,0 +1,132 @@
+{
+    "company": "J.Reynolds Tobacco USA, Inc.",
+    "authorizationRequest": {
+        "subject": "Tragon Corp.-Prod Revelopment (Amend)",
+        "dateRouted": "5-6-87",
+        "arNo": null,
+        "originator": "B.C.MOody",
+        "deptRefNo": null,
+        "startDate": "3/87",
+        "operationalDate": "7/87",
+        "approvalRequestSummary": {
+            "contractDate": "March 20, 1987",
+            "contractor": "Tragon Corporation",
+            "service": "sensory evaluations relative to the ALphA product",
+            "initialFee": 118100,
+            "participants": 50,
+            "amendedFee": 189000,
+            "incrementalIncrease": 70900,
+            "additionalTasks": [
+                "Two additional days of testing for Task 1 of the Project.",
+                "Increase respondents for Task 3 from 50 to 78 subjects.",
+                "Establish a reserve pool of 22 respondents if possible in addition to the 78, or a total respondent pool of 100 subjects.",
+                "Additional use of Tragon facilities and staff for 5 days."
+            ]
+        },
+        "authorityRequested": {
+            "previouslyApproved": 118100,
+            "thisRequest": 70900,
+            "totalRequest": 189000,
+            "authorizationType": {
+                "capital": false,
+                "expense": true,
+                "contractProductScreening": true,
+                "developmental": false,
+                "other": false
+            },
+            "productModificationIntroduction": false,
+            "previousProposals": "Contract_87-780-018.See.Attachments",
+            "leaseOrOtherCommitment": {
+                "minimum": null,
+                "total": null,
+                "costJustifiedAt": null,
+                "roi": null
+            }
+        },
+        "financeData": {
+            "authorityRequestedCoveredBy": {
+                "capital": null,
+                "expense": 70900,
+                "capitalId": null,
+                "budgetedDepartment": 780
+            },
+            "projectId": null,
+            "fundsRequiredFrom": {
+                "department": null,
+                "expenseCode": "04-90-0218-9010-780",
+                "corporate": null
+            }
+        },
+        "financialImpact": {
+            "1987": 70900,
+            "thereafter": null,
+            "averageOperatingEarningsLoss": null,
+            "corporateFundsRequested": null
+        },
+        "reviewsApprovals": {
+            "nptR&D": {
+                "dept": "NPT-R&D",
+                "initials": "RAL",
+                "date": null
+            },
+            "svpR&D": {
+                "dept": "SVP-R&D/GRD",
+                "initials": null,
+                "signature": null,
+                "date": null
+            },
+            "law": {
+                "dept": "Law",
+                "initials": "SLJ",
+                "signature": null,
+                "date": null
+            },
+            "cfo": {
+                "dept": "CFO",
+                "initials": "5C583",
+                "signature": null,
+                "date": null
+            },
+            "tesvR&D": {
+                "dept": "TESV-R&D",
+                "initials": "MRS",
+                "signature": null,
+                "date": null
+            },
+            "operations": {
+                "dept": "Operations",
+                "initials": null,
+                "signature": null,
+                "date": null
+            },
+            "mktPlanRJR": {
+                "dept": "Mkt.Plan.RJR",
+                "initials": "6418",
+                "signature": null,
+                "date": null
+            },
+            "finAdmin": {
+                "dept": "Fin.&Admin.",
+                "initials": null,
+                "signature": null,
+                "date": null
+            },
+            "mktPlanGWM": {
+                "dept": "Mkt.Plan.GWM",
+                "initials": null,
+                "signature": null,
+                "date": null
+            },
+            "presCeo": {
+                "dept": "Pres.&CEO",
+                "initials": null,
+                "signature": null,
+                "date": null
+            }
+        },
+        "implementorProjectManager": null,
+        "projectClientRepresentative": null,
+        "departmentManagement": null,
+        "form": "RJRT Fm 8711-Rev.01/87"
+    }
+}
