@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2472" height="3505">02477_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Demande d'information</scenario>
+  <writer>FILALI Fabrice</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="169" top_left_y="350" bottom_right_x="729" bottom_right_y="492">
+       <type>Code d'envoi</type>
+       <text>DGVYDN</text>
+  </box>
+  <box top_left_x="402" top_left_y="512" bottom_right_x="1214" bottom_right_y="618">
+       <type>Nom</type>
+       <text>Filali</text>
+  </box>
+  <box top_left_x="1407" top_left_y="509" bottom_right_x="2182" bottom_right_y="613">
+       <type>Prénom</type>
+       <text>Fabrice</text>
+  </box>
+  <box top_left_x="486" top_left_y="612" bottom_right_x="2189" bottom_right_y="708">
+       <type>Adresse</type>
+       <text>6 rue des peupliers</text>
+  </box>
+  <box top_left_x="564" top_left_y="715" bottom_right_x="983" bottom_right_y="821">
+       <type>Code Postal</type>
+       <text>68600</text>
+  </box>
+  <box top_left_x="1106" top_left_y="706" bottom_right_x="2191" bottom_right_y="815">
+       <type>Ville</type>
+       <text>Volgehsheim</text>
+  </box>
+  <box top_left_x="372" top_left_y="827" bottom_right_x="1246" bottom_right_y="975">
+       <type>Téléphone</type>
+       <text>0325200966</text>
+  </box>
+  <box top_left_x="512" top_left_y="1091" bottom_right_x="2189" bottom_right_y="1211">
+       <type>Catégorie Scénario</type>
+       <text>Demande d'information</text>
+  </box>
+  <box top_left_x="296" top_left_y="1201" bottom_right_x="2190" bottom_right_y="1387">
+       <type>Objet Scénario</type>
+       <text>Demande de précisions sur votre dernière facture\n</text>
+  </box>
+  <box top_left_x="290" top_left_y="1380" bottom_right_x="2191" bottom_right_y="1572">
+       <type>Complément Scénario</type>
+       <text>le montant de votre facture est trop élevé\n</text>
+  </box>
+  <box top_left_x="915" top_left_y="1588" bottom_right_x="1554" bottom_right_y="1739">
+       <type>Référence client</type>
+       <text>HPSZRSI</text>
+  </box>
+  <box top_left_x="591" top_left_y="1735" bottom_right_x="2201" bottom_right_y="1834">
+       <type>Interlocuteur</type>
+       <text>les 3 Suifs</text>
+  </box>
+  <box top_left_x="503" top_left_y="1825" bottom_right_x="2201" bottom_right_y="1932">
+       <type>Adresse Interlocuteur</type>
+       <text>rue de porcelettes</text>
+  </box>
+  <box top_left_x="581" top_left_y="1927" bottom_right_x="1011" bottom_right_y="2047">
+       <type>Code Postal Interlocuteur</type>
+       <text>57890</text>
+  </box>
+  <box top_left_x="1145" top_left_y="1924" bottom_right_x="2201" bottom_right_y="2026">
+       <type>Ville Interlocuteur</type>
+       <text>Diesen</text>
+  </box>
+  <box top_left_x="1064" top_left_y="2263" bottom_right_x="1279" bottom_right_y="2373">
+       <type>Temps passé</type>
+       <text>25</text>
+  </box>
+  <box top_left_x="884" top_left_y="2192" bottom_right_x="987" bottom_right_y="2250">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1085" top_left_y="2199" bottom_right_x="1134" bottom_right_y="2250">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1300" top_left_y="2198" bottom_right_x="1353" bottom_right_y="2250">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="313" top_left_y="2654" bottom_right_x="392" bottom_right_y="2720">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1608" top_left_y="2616" bottom_right_x="2210" bottom_right_y="2730">
+       <type>Date d'envoi postal</type>
+       <text>02/02/07</text>
+  </box>
+  <box top_left_x="315" top_left_y="2765" bottom_right_x="355" bottom_right_y="2836">
+       <type>Option Page de garde de fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="306" top_left_y="2835" bottom_right_x="392" bottom_right_y="2908">
+       <type>Option envoi par fax</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1752" top_left_y="2789" bottom_right_x="2204" bottom_right_y="2907">
+       <type>Date d'envoi par fax</type>
+       <text>02/02/07</text>
+  </box>
+  <box top_left_x="310" top_left_y="2940" bottom_right_x="393" bottom_right_y="3004">
+       <type>Option envoi par courriel</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1608" top_left_y="2909" bottom_right_x="2206" bottom_right_y="3013">
+       <type>Date d'envoi par courriel</type>
+       <text>01/02/07</text>
+  </box>
+  <box top_left_x="1750" top_left_y="3106" bottom_right_x="2016" bottom_right_y="3201">
+       <type>Résolution</type>
+       <text>96</text>
+  </box>
+  <box top_left_x="588" top_left_y="3138" bottom_right_x="639" bottom_right_y="3188">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="795" top_left_y="3139" bottom_right_x="871" bottom_right_y="3185">
+       <type>Format GIF</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="975" top_left_y="3136" bottom_right_x="1025" bottom_right_y="3187">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1086" top_left_y="3007" bottom_right_x="2207" bottom_right_y="3110">
+       <type>Marque et modèle scanner</type>
+       <text>Canon piscma MP110</text>
+  </box>
+</annotation>
