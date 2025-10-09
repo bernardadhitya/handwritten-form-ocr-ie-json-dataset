@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE annotation SYSTEM "annotation.dtd">
+<annotation date="19/12/2007" author="Jouve">
+  <source width="2473" height="3503">03671_Q.png</source>
+  <document>Questionnaire</document>
+  <scenario>Modification de contrat / Commande</scenario>
+  <writer>LARDIERE Clara</writer>
+  <sender_person></sender_person>
+  <sender_company></sender_company>
+  <sender_tel></sender_tel>
+  <sender_fax></sender_fax>
+  <receiver_person></receiver_person>
+  <receiver_company></receiver_company>
+  <subject></subject>
+  <date></date>
+  <place></place>
+  <box top_left_x="171" top_left_y="351" bottom_right_x="730" bottom_right_y="493">
+       <type>Code d'envoi</type>
+       <text>EMWMQC</text>
+  </box>
+  <box top_left_x="403" top_left_y="515" bottom_right_x="1214" bottom_right_y="621">
+       <type>Nom</type>
+       <text>Lardière</text>
+  </box>
+  <box top_left_x="1408" top_left_y="515" bottom_right_x="2183" bottom_right_y="619">
+       <type>Prénom</type>
+       <text>Clara</text>
+  </box>
+  <box top_left_x="486" top_left_y="618" bottom_right_x="2188" bottom_right_y="713">
+       <type>Adresse</type>
+       <text>8 Rue Etendard</text>
+  </box>
+  <box top_left_x="563" top_left_y="719" bottom_right_x="982" bottom_right_y="826">
+       <type>Code Postal</type>
+       <text>54150</text>
+  </box>
+  <box top_left_x="1104" top_left_y="714" bottom_right_x="2189" bottom_right_y="823">
+       <type>Ville</type>
+       <text>Lantefontaine</text>
+  </box>
+  <box top_left_x="369" top_left_y="832" bottom_right_x="1244" bottom_right_y="981">
+       <type>Téléphone</type>
+       <text>0388549222</text>
+  </box>
+  <box top_left_x="508" top_left_y="1101" bottom_right_x="2189" bottom_right_y="1216">
+       <type>Catégorie Scénario</type>
+       <text>Modification de contrat / commande</text>
+  </box>
+  <box top_left_x="291" top_left_y="1212" bottom_right_x="2188" bottom_right_y="1393">
+       <type>Objet Scénario</type>
+       <text>Commande de 3 paires de chaussettes\n(¤{ref./réf.}¤ produit : CM 45-12)</text>
+  </box>
+  <box top_left_x="284" top_left_y="1391" bottom_right_x="2187" bottom_right_y="1581">
+       <type>Complément Scénario</type>
+       <text>\n</text>
+  </box>
+  <box top_left_x="909" top_left_y="1599" bottom_right_x="1547" bottom_right_y="1751">
+       <type>Référence client</type>
+       <text>YFZCE82</text>
+  </box>
+  <box top_left_x="584" top_left_y="1748" bottom_right_x="2194" bottom_right_y="1846">
+       <type>Interlocuteur</type>
+       <text>La Reboute</text>
+  </box>
+  <box top_left_x="495" top_left_y="1839" bottom_right_x="2193" bottom_right_y="1945">
+       <type>Adresse Interlocuteur</type>
+       <text>Rue de la Gare</text>
+  </box>
+  <box top_left_x="572" top_left_y="1939" bottom_right_x="1002" bottom_right_y="2058">
+       <type>Code Postal Interlocuteur</type>
+       <text>88220</text>
+  </box>
+  <box top_left_x="1137" top_left_y="1939" bottom_right_x="2193" bottom_right_y="2040">
+       <type>Ville Interlocuteur</type>
+       <text>Xertigny</text>
+  </box>
+  <box top_left_x="1053" top_left_y="2277" bottom_right_x="1267" bottom_right_y="2388">
+       <type>Temps passé</type>
+       <text>10</text>
+  </box>
+  <box top_left_x="874" top_left_y="2205" bottom_right_x="959" bottom_right_y="2284">
+       <type>Stylo bille</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1074" top_left_y="2212" bottom_right_x="1123" bottom_right_y="2264">
+       <type>Stylo plume</type>
+       <text></text>
+  </box>
+  <box top_left_x="1288" top_left_y="2212" bottom_right_x="1340" bottom_right_y="2264">
+       <type>Stylo feutre</type>
+       <text></text>
+  </box>
+  <box top_left_x="285" top_left_y="2661" bottom_right_x="377" bottom_right_y="2755">
+       <type>Contribution postale</type>
+       <text>x</text>
+  </box>
+  <box top_left_x="1595" top_left_y="2636" bottom_right_x="2194" bottom_right_y="2748">
+       <type>Date d'envoi postal</type>
+       <text>13 mars 2007</text>
+  </box>
+  <box top_left_x="303" top_left_y="2780" bottom_right_x="353" bottom_right_y="2828">
+       <type>Option Page de garde de fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="299" top_left_y="2875" bottom_right_x="351" bottom_right_y="2921">
+       <type>Option envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="1737" top_left_y="2809" bottom_right_x="2188" bottom_right_y="2927">
+       <type>Date d'envoi par fax</type>
+       <text></text>
+  </box>
+  <box top_left_x="299" top_left_y="2967" bottom_right_x="351" bottom_right_y="3017">
+       <type>Option envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1593" top_left_y="2930" bottom_right_x="2190" bottom_right_y="3033">
+       <type>Date d'envoi par courriel</type>
+       <text></text>
+  </box>
+  <box top_left_x="1735" top_left_y="3127" bottom_right_x="2001" bottom_right_y="3223">
+       <type>Résolution</type>
+       <text></text>
+  </box>
+  <box top_left_x="573" top_left_y="3158" bottom_right_x="624" bottom_right_y="3208">
+       <type>Format PNG</type>
+       <text></text>
+  </box>
+  <box top_left_x="779" top_left_y="3156" bottom_right_x="830" bottom_right_y="3207">
+       <type>Format GIF</type>
+       <text></text>
+  </box>
+  <box top_left_x="960" top_left_y="3156" bottom_right_x="1010" bottom_right_y="3207">
+       <type>Format TIFF</type>
+       <text></text>
+  </box>
+  <box top_left_x="1072" top_left_y="3029" bottom_right_x="2192" bottom_right_y="3130">
+       <type>Marque et modèle scanner</type>
+       <text></text>
+  </box>
+</annotation>
