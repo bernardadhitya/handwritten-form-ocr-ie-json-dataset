@@ -1,15 +1,15 @@
 {
-  "document": "Télécopie/Facsimilé",
-  "scenario": null,
-  "writer": null,
-  "sender_person": null,
-  "sender_company": null,
-  "sender_tel": null,
-  "sender_fax": null,
-  "receiver_person": "STANIF",
-  "receiver_company": "Asarauces",
-  "subject": "hewer d-",
-  "date": null,
-  "place": "9 rue Charles Fourier 91011 Evry Cedex",
-  "box": null
+    "document": "Fax",
+    "scenario": "Gestion de sinistre",
+    "writer": "DELMAS Gilles",
+    "sender_person": "DELMAS Gilles",
+    "sender_company": "¤{INT/Institut national des télécommunications}¤",
+    "sender_tel": "+33(0)1.60.76.40.40",
+    "sender_fax": "+33(0)1.60.76.43.25",
+    "receiver_person": "",
+    "receiver_company": "MANIF Assurances",
+    "subject": "Déclaration de sinistre",
+    "date": "28/06/2006",
+    "place": "",
+    "box": ""
 }
