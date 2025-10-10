@@ -1,3 +1,33 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 62 column 17 (char 1874)"
+  "process": {
+    "steps": [
+      "BLENDING",
+      "EXTRACTION (BARN)",
+      "CRITICAL STEP",
+      "CENTRIFUGE (SOLID REMOVAL)",
+      "SPRAY DRY",
+      null
+    ],
+    "criticalStep": null,
+    "notes": "Cans produce only if finished material (extraction/spray dry same day). Two separate quotes have been ordered (ET 2-3 weeks delivery) [small scale]."
+  },
+  "questions": [
+    "Why spray-dried material different small scale to current equipment?",
+    null,
+    "Space requirements for spray dry equipment"
+  ],
+  "budget": {
+    "includes": [
+      null,
+      null,
+      null,
+      "Start-up equipment"
+    ],
+    "location": "Temporary location, install, start-up equipment",
+    "additionalPersonnel": null,
+    "timeline": "1QTR '86 - For development plant phase"
+  },
+  "ongoing": {
+    "notes": null
+  }
 }

@@ -1,3 +1,47 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 45 column 25 (char 2131)"
+  "application": {
+    "name": null,
+    "number": "P:3O.OOO",
+    "description": "(business reply mail accounting system)",
+    "code": "E- 4h5C",
+    "details": null
+  },
+  "applicant": {
+    "instructions": null,
+    "brmPermitHolderName": null,
+    "streetAddress": "P.O. Box 834001",
+    "cityStateZip": "Richardson, TX 75083",
+    "permitNumberAndCityOfIssue": "Permit 3sd.khaidsnelx",
+    "signature": null
+  },
+  "internalUseOnly": {
+    "brmRateCategoryRequested": null,
+    "weight": "over 1 oz. but not more than 2 ozs.",
+    "verifyingEmployee": null,
+    "employeeId": "312235835",
+    "date": null
+  },
+  "mailpieceDesignAnalyst": {
+    "analysisAndRecommendations": {
+      "brmFormatVerified": null,
+      "zip4BarcodeVerified": "In Compliance",
+      "isMailpieceCompatibleWithAutomatedEquipment": "Yes"
+    },
+    "completedBy": null,
+    "completionDate": null
+  },
+  "authorization": {
+    "by": "BUSINESS MAIL ENTRY OR POSTMASTER",
+    "status": null,
+    "authorizedBy": "Business Mail Entry",
+    "signature": "",
+    "date": "52263"
+  },
+  "dallasApplicantsOnly": {
+    "instructions": "SUBMIT 50 SAMPLES TO: BUSINESS MAIL ENTRY/BRMAS, US POSTAL SERVICE, 401 DFW TPKE, DALLAS TX 75260-9651",
+    "code": null
+  },
+  "form": {
+    "revision": "BCFORM-REVISED 1/95"
+  }
 }

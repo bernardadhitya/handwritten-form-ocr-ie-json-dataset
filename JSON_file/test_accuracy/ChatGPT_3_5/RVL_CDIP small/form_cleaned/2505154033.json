@@ -1,3 +1,80 @@
 {
-    "extraction_raw": "Expecting property name enclosed in double quotes: line 58 column 34 (char 1941)"
+  "contractResearchCenter": "CRCCONTRACT RESEARCH CENTER",
+  "formNumber": null,
+  "code": null,
+  "reference": null,
+  "formApproval": null,
+  "observations": {
+    "type": "GROUP AND INDIVIDUAL IN-LIFE OBSERVATIONS",
+    "projectNumber": "3276",
+    "groupCode": null,
+    "dayOfStudy": null,
+    "date": "3Ap98",
+    "group": {
+      "males": {},
+      "females": {},
+      "time": "4.08",
+      "totalNumberOfAnimals": null,
+      "decreasedSpontaneousActivity": null,
+      "trembling": null,
+      "partiallyOrFullyClosedEyelids": null,
+      "harderianGlandSecretion": null,
+      "initials": "OY",
+      "partiallyOrFullyWetOrMoistFur": null,
+      "abnormalBreathing": "O"
+    },
+    "individual": {
+      "animalNumber": "6o rYO",
+      "sex": null,
+      "time": null,
+      "codes": {
+        "spontaneousActivity": null,
+        "irritability": null,
+        "turningReflex": null,
+        "grippingAbility": null,
+        "closedEyelids": null,
+        "trembling": 40,
+        "highLeggedGait": 45,
+        "abnormalBreathing": null,
+        "harderianGlandSecretion": null,
+        "hairChanges": {
+          "rough": 60,
+          "moistWetPercentage": "603",
+          "discoloration": null,
+          "hairlossPercentage": null
+        },
+        "skinChanges": 95,
+        "incisors": null,
+        "injuries": null
+      }
+    }
+  },
+  "remarks": "Oracle",
+  "dates": [
+    {
+      "date": null,
+      "initials": null
+    },
+    {
+      "date": "09APR1999",
+      "initials": null
+    }
+  ],
+  "grades": {
+    "0": null,
+    "-1": null,
+    "-2": "marked decrease",
+    "+1": "slight increase",
+    "+2": null,
+    "x": null
+  },
+  "errorCodes": {
+    "A": "writing",
+    "B": null,
+    "C": null,
+    "D": null,
+    "E": null,
+    "F": "other with explanation"
+  },
+  "errorCodeNumber": "0992"
 }

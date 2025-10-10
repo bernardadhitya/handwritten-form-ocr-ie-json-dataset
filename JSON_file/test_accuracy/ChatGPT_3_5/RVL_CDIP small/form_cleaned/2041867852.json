@@ -1,3 +1,35 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 26 column 25 (char 551)"
+  "form_number": null,
+  "revision": null,
+  "compd": null,
+  "purchase_order_number": null,
+  "purchase_requisition": "PURCHASEREQUISTION",
+  "order_from": null,
+  "date": null,
+  "requisition_number": null,
+  "ship_to": null,
+  "terms": "N30",
+  "fob": "CHATTANOOGA,TN",
+  "items": [
+    {
+      "quantity": null,
+      "item": "B&H TANK TOP",
+      "unit_price": 0.05,
+      "total": 2100
+    }
+  ],
+  "stamp": "ADULTON LABEL",
+  "purpose": null,
+  "prepared_by": null,
+  "date_required": null,
+  "departmental": null,
+  "deliver_to": null,
+  "department": null,
+  "approval": {
+    "accounting_code": "ACCTG.CODE",
+    "accounting_department": null,
+    "executive": "CY3-/33330/1-L4E",
+    "approval_number": null
+  },
+  "reference_number": null
 }

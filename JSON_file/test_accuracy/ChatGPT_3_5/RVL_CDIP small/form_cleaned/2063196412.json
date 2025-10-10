@@ -1,3 +1,81 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 66 column 34 (char 2313)"
+  "issueDate": "11/17/92",
+  "producer": {
+    "name": "Johnson & Higgins",
+    "address": null
+  },
+  "companiesAffordingCoverage": [
+    null,
+    null,
+    null,
+    "Hartford Underwriters Ins. Co."
+  ],
+  "subsidiaries": [
+    "Kraft General Foods, Inc.",
+    "Oscar Mayer Foods Corp.",
+    null,
+    "Entenmann's, Inc."
+  ],
+  "coverages": [
+    {
+      "type": null,
+      "policyNumber": "10JSEC35120E",
+      "policyEffectiveDate": "5/1/92",
+      "policyExpirationDate": null,
+      "limits": {
+        "generalAggregate": 100000,
+        "productsCompOpAgg": null,
+        "personalAdvInjury": null,
+        "eachOccurrence": null,
+        "fireDamage": null,
+        "medExpense": null
+      }
+    },
+    {
+      "type": null,
+      "policyNumber": null,
+      "policyEffectiveDate": null,
+      "policyExpirationDate": null,
+      "limits": {
+        "combinedSingleLimit": null
+      },
+      "coverage": [
+        "anyAuto",
+        "allOwnedAutos",
+        "scheduledAutos",
+        null
+      ]
+    },
+    {
+      "type": null,
+      "policyNumber": "10WBRP28119E",
+      "policyEffectiveDate": null,
+      "policyExpirationDate": "5/1/93",
+      "limits": {
+        "statutoryLimits": true,
+        "eachAccident": null,
+        "diseasePolicyLimit": null,
+        "diseaseEachEmployee": null
+      }
+    }
+  ],
+  "includesOperationsOf": null,
+  "accountNumber": "611090061",
+  "address": null,
+  "description": null,
+  "certificateHolder": {
+    "name": "Wood Business Products, Inc.",
+    "address": "4333 Edgewood Rd. NE, Cedar Rapids, IA 52499",
+    "attention": "Insurance Dept."
+  },
+  "cancellation": {
+    "noticePeriod": null,
+    "obligation": null
+  },
+  "authorizedRepresentative": {
+    "name": null,
+    "contact": "2063196412"
+  },
+  "form": null,
+  "corporation": "ACORD CORPORATION 1990"
 }

@@ -1,3 +1,112 @@
 {
-    "extraction_raw": "Expecting ',' delimiter: line 56 column 47 (char 1731)"
+  "header": {
+    "document_id": null,
+    "to": null,
+    "page": null,
+    "code": "4M",
+    "initials": "VJK"
+  },
+  "company": {
+    "name": null,
+    "address": {
+      "floor": null,
+      "street": "777 South Figueroa Street",
+      "city": null,
+      "state": "California",
+      "zip": "90017-2513"
+    },
+    "telephone": "(213)243-4000",
+    "telecopier": "(213)243-4199"
+  },
+  "fax": {
+    "type": null,
+    "date": "March 20, 1998",
+    "time": null,
+    "number_of_pages": 3,
+    "file": null
+  },
+  "recipients": [
+    {
+      "name_firm": null,
+      "telefax_number": null,
+      "contact_number": null
+    },
+    {
+      "name_firm": "Jean Mahon",
+      "telefax_number": "(212)907-5730",
+      "contact_number": "(212)878-2056"
+    },
+    {
+      "name_firm": "William Allinder (SHB)",
+      "telefax_number": null,
+      "contact_number": null
+    },
+    {
+      "name_firm": null,
+      "telefax_number": null,
+      "contact_number": null
+    },
+    {
+      "name_firm": null,
+      "telefax_number": "(504)585-0367",
+      "contact_number": "(504)585-0212"
+    },
+    {
+      "name_firm": null,
+      "telefax_number": "(312)558-5700",
+      "contact_number": null
+    },
+    {
+      "name_firm": "Mark Helm (MTO)",
+      "telefax_number": "213687-3702",
+      "contact_number": "213683-9187"
+    },
+    {
+      "name_firm": "Lonnie Nunley, III B. Otero (H&W)",
+      "telefax_number": null,
+      "contact_number": "804)788-8679"
+    },
+    {
+      "name_firm": null,
+      "telefax_number": null,
+      "contact_number": "215)994-4000"
+    },
+    {
+      "name_firm": null,
+      "telefax_number": "612)340-2683",
+      "contact_number": null
+    },
+    {
+      "name_firm": null,
+      "telefax_number": "(202)942-5999",
+      "contact_number": null
+    },
+    {
+      "name_firm": "Kim Futterman",
+      "telefax_number": "213687-3702",
+      "contact_number": null
+    },
+    {
+      "name_firm": null,
+      "telefax_number": null,
+      "contact_number": null
+    },
+    {
+      "name_firm": "William Maledon/Dawn Dauphine",
+      "telefax_number": "602640-6079",
+      "contact_number": "602207-1288"
+    }
+  ],
+  "from": {
+    "name": "David Oswalt",
+    "phone": null
+  },
+  "message": {
+    "content": null,
+    "disclaimer": "THIS MESSAGE AND ANY MATERIAL TRANSMITTED IS INTENDED ONLY FOR THE USE OF THE ADDRESSEE AND MAY CONTAIN INFORMATION THAT IS PRIVILEGED, CONFIDENTIAL AND EXEMPT FROM DISCLOSURE ANY USE OR DISSEMINATION OF THIS COMMUNICATIONS IS STRICTLY PROHIBITED. IF YOU HAVE RECEIVED THIS COMMUNICATION IN ERROR, PLEASE NOTIFY US IMMEDIATELY BY TELEPHONE AND 2077802107"
+  },
+  "footer": {
+    "code": null,
+    "revision_date": "Rev.3/20/97"
+  }
 }

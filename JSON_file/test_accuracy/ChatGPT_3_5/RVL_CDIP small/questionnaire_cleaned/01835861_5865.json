@@ -1,3 +1,70 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 48 column 5 (char 1098)"
+  "title": null,
+  "address": {
+    "street": null,
+    "suite": "42318w",
+    "city": null,
+    "state": "New York",
+    "zip": "10017"
+  },
+  "instructions": [
+    "Please take a few minutes to go through the advertisements in this book.",
+    "HAND RESPONDENT PORTFOLIO AND TAKE IT BACK BEFORE CONTINUING.",
+    null
+  ],
+  "questions": [
+    {
+      "question": null,
+      "categories": [
+        null,
+        null
+      ],
+      "brands": [
+        "Dole Pineapple",
+        null,
+        "Asana Range",
+        null,
+        "Bayer Aspirin",
+        "Hilton Hotels",
+        "Golden Lights",
+        null,
+        "Bolans Lawn Mower",
+        null,
+        "Budweiser",
+        "Old Spice Pocket Cologne",
+        null,
+        null,
+        null,
+        null,
+        "Singer Sewing Machines",
+        null,
+        null,
+        "Concord Watches",
+        null,
+        null
+      ]
+    },
+    {
+      "question": "Do you remember any ads for cigarettes?",
+      "brands": [
+        null,
+        null,
+        "Kent",
+        "Lights",
+        "Other (SPECIFY)"
+      ]
+    },
+    {
+      "question": "Do you remember any ads for any other brands of cigarettes?",
+      "brands": [
+        "Luke",
+        null,
+        "Kent",
+        null,
+        "Kent Golden Light",
+        null,
+        null
+      ]
+    }
+  ]
 }

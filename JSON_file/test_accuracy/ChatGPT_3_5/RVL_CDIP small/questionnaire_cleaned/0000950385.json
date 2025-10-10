@@ -1,3 +1,46 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 21 column 14 (char 478)"
+  "UG": null,
+  "ROM_CONSUMER_RESEARCH": "TOPDTHFL",
+  "PAGE": null,
+  "NAME": null,
+  "TRIAL": {
+    "TIME_PRIOR_TO_SMOKING": {
+      "AROMA": {
+        "TOO_MUCH": 9,
+        "UNPLEASANT": 1
+      },
+      "MOISTURE_LEVEL": {
+        "TOO_DRY": null,
+        "TOO_MOIST": null
+      },
+      "PACKING": "ERSY"
+    },
+    "DURING_SMOKING": {
+      "LIGHT": "LITTLE",
+      "TASTE_FLAVOR": {
+        "TOO_MUCH": null,
+        "UNPLEASANT": null
+      },
+      "MOUTHFEEL": {
+        "TOO_DRY": null,
+        "ERSY": "STAYING_LIT"
+      }
+    },
+    "AFTER_SMOKING": {
+      "AFTERTASTE": {
+        "LITTLE": null,
+        "JUST_RIGHT": "PISHT",
+        "TOO_MUCH": null,
+        "UNPLEASANT": "PLEASANT"
+      },
+      "LIKABILITY": {
+        "DISLIKE": null,
+        "LIKE": null,
+        "SAME": ".IKE",
+        "OWN_BRAND": "S.",
+        "MORE": null
+      }
+    }
+  },
+  "ID": 570232781
 }

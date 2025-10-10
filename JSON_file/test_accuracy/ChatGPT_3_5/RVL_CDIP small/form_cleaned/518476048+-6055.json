@@ -1,3 +1,155 @@
 {
-    "extraction_raw": "Expecting property name enclosed in double quotes: line 65 column 31 (char 1976)"
+  "workPlanVoucherRequest": {
+    "period": "2nd Half - 1996",
+    "instructions": null,
+    "division": null,
+    "date": "",
+    "jrPersonnel": "T.lhl",
+    "signature": null,
+    "jobberName": null,
+    "jobberSignature": "OK",
+    "accountNumber": "193:350",
+    "checkMailedTo": null,
+    "promotions": [
+      {
+        "promotion": "AM NY .20DPC VP",
+        "rate": 0.2,
+        "units": null,
+        "payment": null,
+        "comments": "Camel 4 Carton DPC Displays"
+      },
+      {
+        "promotion": "R NY.25DPC VP",
+        "rate": null,
+        "units": "X",
+        "payment": "",
+        "comments": "Doral 4 Carton DPC Displays"
+      },
+      {
+        "promotion": null,
+        "rate": 0.2,
+        "units": null,
+        "payment": 73.0,
+        "comments": "Salem 4 Carton DPC Displays"
+      },
+      {
+        "promotion": "IN NY.20DPC VP",
+        "rate": null,
+        "units": null,
+        "payment": null,
+        "comments": null
+      },
+      {
+        "promotion": null,
+        "rate": 0.2,
+        "units": null,
+        "payment": "",
+        "comments": null
+      },
+      {
+        "promotion": null,
+        "rate": 0.25,
+        "units": null,
+        "payment": "",
+        "comments": "Doral 2 Carton OPC Displays"
+      },
+      {
+        "promotion": null,
+        "rate": 0.2,
+        "units": null,
+        "payment": null,
+        "comments": null
+      },
+      {
+        "promotion": null,
+        "rate": null,
+        "units": null,
+        "payment": "",
+        "comments": null
+      }
+    ],
+    "displayAssembly": [
+      {
+        "item": "y Camei T Shirt",
+        "rate": null,
+        "units": null,
+        "comments": "July Camel T Shirt Displays"
+      },
+      {
+        "item": null,
+        "rate": 28.0,
+        "units": null,
+        "comments": null
+      },
+      {
+        "item": "p Doral B2G1F",
+        "rate": 28.0,
+        "units": null,
+        "comments": "Sep Doral B2G1F Displays"
+      },
+      {
+        "item": "t Salem B2G2F",
+        "rate": null,
+        "units": "X",
+        "comments": null
+      },
+      {
+        "item": "VCamel B2GF Lighter",
+        "rate": null,
+        "units": "X",
+        "comments": null
+      },
+      {
+        "item": "cDoral B2G1F",
+        "rate": 29.0,
+        "units": null,
+        "comments": "Dec Doral B2G1FDisplays"
+      },
+      {
+        "item": null,
+        "rate": 28.0,
+        "units": "X",
+        "payment": null,
+        "comments": "DPC Display Assembly"
+      },
+      {
+        "item": "Pre Book(Black lino & Sticker)",
+        "rate": null,
+        "units": "X",
+        "comments": "Cartons for Black line & Sticker"
+      }
+    ],
+    "temporaryPaymentSystem": [
+      {
+        "promotion": "96 RAC DISC",
+        "rate": 1.0,
+        "units": null
+      },
+      {
+        "promotion": "96 RAC DISC",
+        "rate": 1.0,
+        "units": "X",
+        "comments": null
+      },
+      {
+        "promotion": null,
+        "rate": 1.0,
+        "units": "51847 6048",
+        "comments": "S 96 RAC DISC"
+      },
+      {
+        "promotion": null,
+        "rate": 1.0,
+        "units": null,
+        "comments": null
+      },
+      {
+        "promotion": "96 RAC DISC",
+        "rate": null,
+        "units": null,
+        "comments": null
+      }
+    ],
+    "voucher": null
+  }
 }

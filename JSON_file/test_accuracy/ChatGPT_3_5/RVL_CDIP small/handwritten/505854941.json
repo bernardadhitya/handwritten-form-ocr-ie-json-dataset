@@ -1,3 +1,66 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 43 column 5 (char 1050)"
+  "details": {
+    "author": null,
+    "report": "forthcoming",
+    "report_number": null,
+    "type": null
+  },
+  "stored": {
+    "type_total": null,
+    "recovered": {
+      "t-30": 320.99,
+      "CuC1": "Contnii",
+      "volatiles": {
+        "pentane": {
+          "volume": 52.0,
+          "soluble_material": 5,
+          "insoluble_material": 61.8
+        }
+      },
+      "aqueous_layer": {
+        "type_pentane": "INSOL PENTANG"
+      }
+    }
+  },
+  "extraction": {
+    "continuous": "ether",
+    "ether_extract": "exhausted",
+    "sol_ether": 15.05,
+    "concentrated_to": null,
+    "washed_successively_with": {
+      "sol_water": null,
+      "chemical_separation": {
+        "a-1": {
+          "weak_bases": null,
+          "washed_successively_with": null
+        },
+        "a-2": {
+          "stronger_bases": null,
+          "NaC": 321,
+          "NOH": "b"
+        },
+        "strongly_acidic_constituents": 0.5025,
+        "moderately_acidic_constituents": 0.191,
+        "weakly_acidic_constituents": 0.156
+      }
+    }
+  },
+  "chromatography": {
+    "subfr": {
+      "e-1": {
+        "eluted_with": null,
+        "value": null
+      },
+      "e-2": {
+        "eluted_with": null,
+        "value": null
+      },
+      "50585": null,
+      "pure_MeOH": 4941
+    }
+  },
+  "components": {
+    "bases": "acids",
+    "phenols": null
+  }
 }

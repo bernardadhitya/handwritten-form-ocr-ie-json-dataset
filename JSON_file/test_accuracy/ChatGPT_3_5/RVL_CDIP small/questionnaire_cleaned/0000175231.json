@@ -1,3 +1,63 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 39 column 20 (char 1139)"
+  "company": "MARKET TRENDS INC.",
+  "address": {
+    "street": null,
+    "city": null,
+    "state": "NY",
+    "zip": null
+  },
+  "project_number": "219-3",
+  "document": {
+    "title": "SCREENING QUESTIONNAIRE",
+    "date": "November 1982"
+  },
+  "introduction": null,
+  "questions": [
+    {
+      "question": "What is your age?",
+      "options": [
+        null,
+        null,
+        "Older than 35"
+      ],
+      "actions": {
+        "Younger than 21": null,
+        "Between 21 and 35": null,
+        "Older than 35": null
+      }
+    },
+    {
+      "question": null,
+      "options": [
+        "An advertising agency",
+        "A market research company",
+        "A company manufacturing, selling, or distributing beer, wine, or other alcoholic beverages"
+      ],
+      "actions": {
+        "Yes to any of the above": "TERMINATE"
+      }
+    },
+    {
+      "question": null,
+      "options": [
+        null,
+        null,
+        null
+      ],
+      "actions": {
+        "Smoke a cigarette": null
+      }
+    },
+    {
+      "question": null,
+      "options": [
+        "Less than half a pack",
+        "A pack or more"
+      ],
+      "actions": {
+        "Less than half a pack": null,
+        "A pack or more": null
+      }
+    }
+  ]
 }

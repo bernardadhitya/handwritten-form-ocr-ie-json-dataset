@@ -1,3 +1,72 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 50 column 9 (char 1360)"
+  "productOpinion": {
+    "company": "LA30RAT0RY",
+    "address": null,
+    "telephone": "(804) 271-5002"
+  },
+  "instructions": {
+    "label": "ON THIS LABEL SHOULD TAKE THE TEST ONLY THE PERSON WHOSE NAME APPEARS",
+    "returnBallotBy": null,
+    "addressChange": {
+      "prompt": "Please print name/address corrections",
+      "applyTo": null
+    },
+    "addressChangeDetails": "If Address Changed: What is your (Please include area code.)"
+  },
+  "message": {
+    "greeting": null,
+    "content": null,
+    "closing": null,
+    "signature": null
+  },
+  "testInstructions": {
+    "part": null,
+    "firstStep": "FIRST SMOKE ONE OR TWO PACKS OF THE CIGARETTES CODED",
+    "phrases": null,
+    "scale": {
+      "left": null,
+      "right": "If you think side--again the surer it is the closer to the right side."
+    }
+  },
+  "cigaretteEvaluation": {
+    "mildTaste": {
+      "negative": "Does not have a mild taste.",
+      "positive": "Has a mild taste"
+    },
+    "harshness": {
+      "negative": null,
+      "positive": "Is harsh"
+    },
+    "goodTaste": {
+      "negative": "Does not have a good taste",
+      "positive": "Has a good taste"
+    },
+    "satisfaction": {
+      "negative": null,
+      "positive": "Is satisfying"
+    },
+    "coolSmoking": {
+      "negative": null,
+      "positive": null
+    },
+    "burnRate": null,
+    "draw": {
+      "negative": "Does not have an easy draw",
+      "positive": null
+    },
+    "dryTaste": {
+      "negative": null,
+      "positive": "Has a dry taste in the mouth"
+    },
+    "aftertaste": {
+      "negative": null,
+      "positive": null
+    },
+    "preference": {
+      "dislike": null,
+      "like": null
+    }
+  },
+  "note": "CONTINUE ON REVERSE SIDE",
+  "code": "NV=10N"
 }

@@ -1,3 +1,80 @@
 {
-    "extraction_raw": "Expecting property name enclosed in double quotes: line 19 column 9 (char 376)"
+  "Incidence": {
+    "Full Flavon Malo": {
+      "18-34": {
+        "Males": {
+          "Count": null,
+          "Rate": 0.12
+        },
+        "Females": {
+          "Count": null,
+          "Rate": null
+        }
+      },
+      "35+": {
+        "Males": {
+          "Count": null,
+          "Rate": 0.05
+        },
+        "Females": {
+          "Count": 12,
+          "Rate": 0.02
+        }
+      }
+    },
+    "Full Flawon LT": {
+      "18-34": {
+        "Males": {
+          "Count": 13,
+          "Rate": 0.5
+        }
+      },
+      "35+": {
+        "Males": {
+          "Count": null,
+          "Rate": 0.04
+        },
+        "Females": {
+          "Count": 12,
+          "Rate": null
+        }
+      }
+    },
+    "fE-81 myowny": {
+      "18-34": {
+        "Males": {
+          "Count": null,
+          "Rate": null
+        }
+      },
+      "35+": {
+        "Females": {
+          "Count": null,
+          "Rate": null
+        }
+      }
+    }
+  },
+  "Full Flavor": {
+    "Total": null,
+    "Percentage": null
+  },
+  "Full Flawon LowTor": {
+    "Total": null,
+    "Males": {
+      "Count": 75,
+      "Percentage": null
+    },
+    "Females": {
+      "Count": 50
+    }
+  },
+  "tE-81": {
+    "Total": null,
+    "Percentage": null
+  },
+  "35+": {
+    "Total": null
+  },
+  "Critical incidence": null
 }

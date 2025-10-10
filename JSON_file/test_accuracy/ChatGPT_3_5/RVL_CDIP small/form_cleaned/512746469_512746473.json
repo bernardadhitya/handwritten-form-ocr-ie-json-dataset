@@ -1,3 +1,36 @@
 {
-    "extraction_raw": "Expecting property name enclosed in double quotes: line 24 column 33 (char 722)"
+  "date": null,
+  "department": null,
+  "document": null,
+  "lab": "Central Cigarette Lab",
+  "brand": "PL LT 100@Whitaker Park 3",
+  "item_id": "2000668AY",
+  "brand_sub": null,
+  "test_reason": "Minimum Fill Ratio Determination",
+  "requested_by": [
+    null,
+    null
+  ],
+  "test_number": "93-169",
+  "qa_lab_services": "Glenn Salmons",
+  "distribution": [
+    "A.J.Schindler",
+    "L.S.Wood",
+    null,
+    "A.G.Niten",
+    "L.E.Curtis",
+    null,
+    null,
+    null
+  ],
+  "roles": {
+    "brand_r&d": "A.G.Niten",
+    "plant_quality_mgr": "R.G.Haberkem",
+    "mfg_plant_director": null,
+    "plant_process_engineer": null,
+    "plant_shift_director": null
+  },
+  "unknown_numbers": [
+    "6469"
+  ]
 }

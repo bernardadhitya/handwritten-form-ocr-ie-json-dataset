@@ -1,3 +1,71 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 37 column 7 (char 827)"
+  "departmentExpenseBudgetSummary": {
+    "company": "Lorillard, Division of Loew's Corp.",
+    "department": {
+      "division": null,
+      "domesticTaxFree": {
+        "projectedCurrentYearBudget": {
+          "expenses": 19,
+          "account": "WALI",
+          "budget": {
+            "currentYear": null,
+            "actual": 8500,
+            "projectedTotal": 25500,
+            "increaseDecrease": 6450
+          }
+        },
+        "items": [
+          {
+            "codeNo": 6460,
+            "description": null,
+            "projectedCurrentYearBudget": {
+              "budget": 30000,
+              "currentYear": null,
+              "actual": null,
+              "projectedTotal": null,
+              "increaseDecrease": null
+            }
+          },
+          {
+            "codeNo": 6470,
+            "description": null,
+            "projectedCurrentYearBudget": {
+              "budget": 28000,
+              "currentYear": 10000,
+              "actual": null,
+              "projectedTotal": null,
+              "increaseDecrease": 20000
+            }
+          },
+          {
+            "codeNo": null,
+            "description": "Consumer Offer Items",
+            "projectedCurrentYearBudget": {
+              "budget": null,
+              "currentYear": null,
+              "actual": null,
+              "projectedTotal": null
+            }
+          },
+          {
+            "codeNo": null,
+            "description": "Special Promotion Cost",
+            "projectedCurrentYearBudget": {
+              "budget": 42000,
+              "currentYear": 13000,
+              "actual": null,
+              "projectedTotal": null,
+              "increaseDecrease": null
+            }
+          }
+        ],
+        "total": {
+          "budget": null,
+          "currentYear": 27500
+        }
+      }
+    },
+    "dateSubmitted": null,
+    "departmentManager": null
+  }
 }

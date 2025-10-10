@@ -1,3 +1,22 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 6 column 18 (char 211)"
+  "transaction": {
+    "type": "VERSEMENTESPECES",
+    "bank": null,
+    "transaction_id": null,
+    "recipient": null,
+    "location": null,
+    "account": null,
+    "payer": "Abdut Qais Khovri",
+    "reference": null,
+    "description": null,
+    "total_amount": 468,
+    "note": "Nate deloptrotion",
+    "client_signature": null,
+    "cashier": "Caisse",
+    "approval": "Cocher ct visa de la AT",
+    "date": "06/05/22",
+    "code": "Vrad",
+    "extra": "es",
+    "number": null
+  }
 }

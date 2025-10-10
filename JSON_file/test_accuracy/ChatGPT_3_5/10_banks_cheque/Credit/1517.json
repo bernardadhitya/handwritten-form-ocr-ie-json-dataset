@@ -1,3 +1,32 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 5 column 17 (char 110)"
+  "bank": "CREDIT AGRICOLE",
+  "branch": null,
+  "accountHolder": "oyercomececleaveeos",
+  "transactionDetails": {
+    "transactionId": "QuTasanfSixLlundaclaud",
+    "amount": 44.4,
+    "description": null
+  },
+  "accountNumber": 5828,
+  "address": {
+    "street": "Chapin Auger",
+    "city": null,
+    "postalCode": "1:2:5",
+    "region": null
+  },
+  "transactionCode": "1aea=",
+  "balance": null,
+  "date": null,
+  "signature": "HAEVA",
+  "reference": null,
+  "additionalInfo": {
+    "location": "Re du CraPercre",
+    "code": "OCTOL.CLSE",
+    "checkNumber": null,
+    "checkId": null
+  },
+  "contact": {
+    "phone": null,
+    "alternatePhone": null
+  }
 }

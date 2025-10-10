@@ -1,3 +1,125 @@
 {
-    "extraction_raw": "Expecting property name enclosed in double quotes: line 56 column 31 (char 2245)"
+  "organization": {
+    "de": "Europaisches Patentamt",
+    "en": null,
+    "fr": "Office europeen des brevets"
+  },
+  "department": null,
+  "consultation": {
+    "options": [
+      "Telefonische Rucksprache",
+      "Personliche Ricksprache"
+    ],
+    "with": null,
+    "translations": {
+      "en": {
+        "options": [
+          "Consultation by telephone",
+          null
+        ],
+        "with": "with applicant/representative"
+      },
+      "fr": {
+        "options": [
+          "Entretien telephonique",
+          "Entretien de vive voix"
+        ],
+        "with": "avec le demandeur/le mandataire"
+      }
+    }
+  },
+  "application": {
+    "number": null,
+    "participant": {
+      "applicant": {
+        "de": null,
+        "en": null,
+        "fr": null
+      },
+      "authorization_checked": {
+        "de": null,
+        "en": null,
+        "fr": null
+      },
+      "representative": {
+        "de": "Vertreter",
+        "en": "Representative",
+        "fr": null
+      },
+      "identity_checked": {
+        "de": null,
+        "en": null,
+        "fr": "identite controlee"
+      }
+    }
+  },
+  "examining_division": {
+    "members": "C.LOCCHCSI PACL",
+    "personally_known": {
+      "de": null,
+      "en": null,
+      "fr": "connu personnellement"
+    }
+  },
+  "consultation_result": null,
+  "additional_text": "The,rcprahtve,aske!fol a tws morts luit 1i sn!e h ol'scu, Kc",
+  "form": {
+    "to_examiners_clerk": null,
+    "coding": {
+      "de": "Codierung von",
+      "en": null,
+      "fr": null
+    },
+    "dispatch": {
+      "de": null,
+      "en": null,
+      "fr": null
+    },
+    "to_formalities_officer": null,
+    "extension_of_time_limit": {
+      "de": "Verlangerung der Frist um Monate (Form 2017)",
+      "en": "Extension of time limit by months Form 2017",
+      "fr": null
+    },
+    "cancellation_of_time_limit": {
+      "de": "Loschung der Frist ExRE 3) und Vorlage der Akte an 1.Prufer",
+      "en": null,
+      "fr": null
+    },
+    "dispatch_with_time_limit": {
+      "de": "Obersendung mit Fristsetzung(Form 2049 Ziff..) von Monaten",
+      "en": null,
+      "fr": null
+    },
+    "not_applicable": {
+      "telephone_consultation": {
+        "de": null,
+        "en": null,
+        "fr": "a ne pes utiliser pour les entretiens tel6phoniques"
+      },
+      "before_first_communication": {
+        "de": null,
+        "en": null,
+        "fr": "a ne pes utiliser avant une premiere notification"
+      }
+    }
+  },
+  "signatures": {
+    "applicant_representative": {
+      "de": "Unterschrift Anmelder/Vertreter",
+      "en": "Signature of applicant/representative",
+      "fr": null
+    },
+    "primary_examiner_formalities_officer": {
+      "de": null,
+      "en": "Signature of Primary Examiner/Formalities Officer",
+      "fr": "Signature du demandeur/du mendataire"
+    },
+    "authorized_examiner": {
+      "de": "terschwift beauftragtor Prufer/Formelprufer",
+      "en": "Signature of applicant/representative",
+      "fr": null
+    }
+  },
+  "contact_number": null
 }

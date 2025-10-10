@@ -1,3 +1,49 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 23 column 19 (char 1421)"
+  "compound_physical_parameters": {
+    "lac_compound_code": null,
+    "date": "10/21/80",
+    "molecular_weight": null,
+    "water_solubility": {
+      "measured": "WATER",
+      "estimated": null,
+      "amount": "<0.5"
+    },
+    "class": {
+      "acid": null,
+      "base": null,
+      "salt": false,
+      "other": "ester"
+    },
+    "reactivity": {
+      "description_of_reactivity": {
+        "without_heating": null,
+        "with_heating": {
+          "water_brine": null,
+          "25%HCL": "UNCHANGED",
+          "HON%C": null,
+          "SOOHCO": null,
+          "oxygen": "UNCHANGED",
+          "light": null
+        }
+      }
+    },
+    "safety_comments": null,
+    "chemical_purity": "86",
+    "analytical_methods": [
+      null,
+      null
+    ],
+    "storage_recommendations": {
+      "special_storage": null,
+      "compound_sensitive_to": {
+        "air": null,
+        "light": true,
+        "moisture": null,
+        "other": "The material is relatively unstable to heat, light and oxygen (air) and will decompose within 1 month at room temperature. More rapid decomposition will occur at higher temperatures."
+      }
+    },
+    "signature": "PeRS",
+    "signature_date": "10/21/80",
+    "form": "FORM9 (1080)"
+  }
 }

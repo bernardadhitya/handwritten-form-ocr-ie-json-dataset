@@ -1,3 +1,161 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 32 column 25 (char 1104)"
+  "company": "AHE Marketing Research",
+  "division": null,
+  "address": {
+    "street": "801 Second Avenue",
+    "suite": null,
+    "postal_code": "12947W",
+    "city": null,
+    "state": null,
+    "zip": "10017"
+  },
+  "date": "May, 1977",
+  "survey": {
+    "title": null,
+    "interview": {
+      "time": {
+        "started": null,
+        "ended": null
+      },
+      "respondent": {
+        "name": null,
+        "address": null,
+        "city": null,
+        "state": null
+      },
+      "interviewer": null,
+      "metro_area": null,
+      "date": null,
+      "validated_by": null,
+      "validation_date": null
+    },
+    "questions": [
+      {
+        "id": null,
+        "question": null,
+        "options": [
+          null,
+          null,
+          null,
+          "Denver",
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "id": 2,
+        "question": null,
+        "instruction": null,
+        "options": [
+          null,
+          11,
+          null,
+          null,
+          16,
+          null,
+          null,
+          null,
+          20,
+          26,
+          null,
+          null,
+          null,
+          33,
+          null,
+          35,
+          36,
+          null,
+          40,
+          null,
+          46,
+          null,
+          4,
+          null,
+          51,
+          null,
+          54,
+          null,
+          57,
+          null,
+          null,
+          65,
+          66,
+          null,
+          68,
+          70,
+          72,
+          null,
+          77,
+          78,
+          null,
+          80,
+          null,
+          67,
+          88,
+          null,
+          92,
+          94,
+          95,
+          null,
+          97,
+          99,
+          100
+        ],
+        "terminate_instruction": null,
+        "continue": "Yes",
+        "no": "No"
+      },
+      {
+        "id": null,
+        "question": "Participated in study",
+        "options": [
+          null,
+          3,
+          4,
+          5,
+          null,
+          7,
+          8,
+          6,
+          null,
+          1,
+          null
+        ]
+      },
+      {
+        "id": 4,
+        "question": null,
+        "instruction": "Please tell which letter on this card includes your age",
+        "terminate_instruction": null,
+        "age_ranges": {
+          "under_21": "Under 21",
+          "continue": [
+            null,
+            null,
+            35,
+            40,
+            36,
+            45,
+            50
+          ],
+          "terminate": null
+        }
+      }
+    ],
+    "age_card": {
+      "under_or_over_age": [
+        null,
+        3,
+        null,
+        null,
+        null,
+        null,
+        null,
+        12,
+        8
+      ]
+    }
+  }
 }

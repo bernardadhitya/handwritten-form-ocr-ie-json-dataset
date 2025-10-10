@@ -1,3 +1,53 @@
 {
-    "extraction_raw": "Expecting value: line 21 column 17 (char 375)"
+  "ResponsibleRecordsManagementGroupApproval": {
+    "AuthorizedSignature": null,
+    "NameOfDepartment": null
+  },
+  "LegalCounselApproval": {
+    "From": "N6recds",
+    "To": null
+  },
+  "Description": "You must attach a description of records in each new category requested and reasons for any suggested retention period",
+  "Note": null,
+  "RecordsManagementDepartment": "Records Management Department",
+  "Inventory": [
+    {
+      "Code": "E0265",
+      "Category": null,
+      "Record": "categories"
+    },
+    {
+      "Code": null,
+      "Category": null,
+      "Record": null
+    },
+    {
+      "Code": "C0510",
+      "Category": "Communications - General",
+      "Record": "Christmas Club Savings Fund"
+    },
+    {
+      "Code": null,
+      "Category": null,
+      "Record": null
+    }
+  ],
+  "RetentionScheduleMaintenanceForm": {
+    "RecordCategory": null,
+    "ForRecordsManagementUse": {
+      "Add": "Add to the records retention schedule",
+      "RequestedRevisionCodes": {
+        "CRP": null,
+        "CRC": "Change the record category description",
+        "OEL": "Delete from the records retention schedule"
+      }
+    }
+  },
+  "ResponsibleRecordsManagementGroup": {
+    "InDept": null,
+    "RecordsCoordinator": "2051082763",
+    "DepartmentHead": null,
+    "Date": null,
+    "Total": null
+  }
 }

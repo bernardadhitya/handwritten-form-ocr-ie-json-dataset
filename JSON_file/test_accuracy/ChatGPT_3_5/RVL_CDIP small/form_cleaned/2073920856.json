@@ -1,3 +1,60 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 36 column 5 (char 893)"
+  "company": null,
+  "request": {
+    "type": null,
+    "requested_by": null,
+    "location": "Neuchatel, Switzerland",
+    "date": null,
+    "number": null
+  },
+  "disposal": {
+    "value": "CHF 16,459,448",
+    "selling_price": null,
+    "original_cost": null,
+    "depreciation": "CHF 0",
+    "loss": null,
+    "items": [
+      {
+        "description": null,
+        "value": "CHF 409,063",
+        "selling_price": "CHF 409,063"
+      },
+      {
+        "description": "Primary - Cut fiser",
+        "value": "CHF 10,621,206",
+        "selling_price": null
+      },
+      {
+        "description": "Plant services",
+        "value": "CHF 1,593,668",
+        "selling_price": null
+      },
+      {
+        "description": null,
+        "value": null,
+        "selling_price": null
+      },
+      {
+        "description": "Others - West ramp Secondary",
+        "value": null,
+        "selling_price": null
+      },
+      {
+        "description": null,
+        "value": "CHF 389,582",
+        "selling_price": null
+      }
+    ],
+    "total_local_currency": "CHF 20,224,580",
+    "total_usd": "USD 17,897,850"
+  },
+  "reason_for_disposal_transfer": "All equipment except MANG Pa Meridkeand stem export packing line to be scrapped.",
+  "approval": {
+    "philip_morris_companies_inc": "Approved",
+    "regional_approval": null,
+    "internal_approval": null
+  },
+  "contact": {
+    "phone": "2073920856"
+  }
 }

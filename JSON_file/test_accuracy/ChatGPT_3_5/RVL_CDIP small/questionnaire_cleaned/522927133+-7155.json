@@ -1,3 +1,166 @@
 {
-    "extraction_raw": "Expecting value: line 67 column 11 (char 733)"
+  "questions": [
+    {
+      "question": null,
+      "scale": null,
+      "1": "very unacceptable",
+      "5": "neutral",
+      "10": "very acceptable"
+    },
+    {
+      "question": "Let's say the federal government decides to impose a new tax that doubles the price of certain items. How acceptable do you think it is for people to buy the following smuggled items?",
+      "scale": "1 to 10",
+      "1": null,
+      "5": "neutral",
+      "10": null
+    },
+    {
+      "question": "Now, I am going to ask you to rate some activities people are known to do.",
+      "scale": "1 to 10",
+      "1": null,
+      "5": null,
+      "10": "very acceptable",
+      "activities": [
+        "Driving home from a party after having 3 or 4 drinks",
+        null,
+        null,
+        null,
+        null,
+        "Keeping the money when a store clerk gives too much change",
+        "Underage kids buying cigarettes from a neighborhood store",
+        "Breaking into someone's home and stealing their valuables",
+        null
+      ]
+    }
+  ],
+  "smuggled_items": [
+    "Cigarettes",
+    "Ammunition for firearms",
+    null,
+    null,
+    null,
+    null,
+    "Rolex watches"
+  ],
+  "ratings": {
+    "total": [
+      null,
+      null,
+      null,
+      10.5,
+      6.2,
+      null,
+      null,
+      8.1,
+      9.0,
+      null,
+      null,
+      3.2,
+      3.0,
+      1.6,
+      29.3,
+      null,
+      4.4,
+      1.4
+    ],
+    "smokers": [
+      15.5,
+      12.0,
+      10.8,
+      15.7,
+      null,
+      8.8,
+      null,
+      8.3,
+      null,
+      null,
+      10.2,
+      15.1,
+      11.8,
+      3.7,
+      null,
+      null,
+      30.3
+    ],
+    "non_smokers": [
+      null,
+      null,
+      4.2,
+      5.5,
+      4.2,
+      6.1,
+      null,
+      null,
+      null,
+      6.8,
+      3.8,
+      null,
+      null,
+      null,
+      null,
+      null,
+      79.4,
+      null,
+      null
+    ]
+  },
+  "percentages": {
+    "total": [
+      null,
+      76.7,
+      80.2,
+      66.9,
+      null,
+      77.8,
+      null,
+      72.2,
+      null,
+      95.0,
+      null,
+      69.5,
+      null,
+      null,
+      null
+    ],
+    "smokers": [
+      65.4,
+      null,
+      null,
+      59.7,
+      74.9,
+      73.7,
+      75.0,
+      null,
+      77.4,
+      96.1,
+      null,
+      60.5,
+      null,
+      79.0,
+      null,
+      86.1,
+      null,
+      6.7
+    ],
+    "non_smokers": [
+      null,
+      null,
+      80.2,
+      null,
+      null,
+      94.2,
+      77.1,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      72.9,
+      null,
+      81.2,
+      null,
+      7.3
+    ]
+  }
 }

@@ -1,3 +1,108 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 29 column 5 (char 691)"
+  "animalReceiptRecord": {
+    "projectNo": null,
+    "receiptDate": null,
+    "species": "mie",
+    "strain": null,
+    "supplier": null,
+    "totalReceived": null,
+    "purchaseOrderNo": null,
+    "males": null,
+    "malesR&E": 1898,
+    "malesWtRange": null,
+    "females": null,
+    "femalesR&E": null,
+    "femalesWtRange": null,
+    "conditionOfShippingCrates": null,
+    "otherInformation": "O",
+    "cageDetails": [
+      {
+        "cageNo": null,
+        "sex": "M",
+        "weight": 22,
+        "appearance": "16"
+      },
+      {
+        "cageNo": null,
+        "sex": "CO",
+        "weight": null,
+        "appearance": 3
+      },
+      {
+        "cageNo": null,
+        "sex": null,
+        "weight": null,
+        "appearance": null
+      },
+      {
+        "cageNo": 23,
+        "sex": null,
+        "weight": "03",
+        "appearance": null
+      },
+      {
+        "cageNo": null,
+        "sex": null,
+        "weight": 24,
+        "appearance": "IF"
+      },
+      {
+        "cageNo": 22,
+        "sex": null,
+        "weight": null,
+        "appearance": "024"
+      },
+      {
+        "cageNo": null,
+        "sex": 23,
+        "weight": 8,
+        "appearance": null
+      },
+      {
+        "cageNo": null,
+        "sex": 22,
+        "weight": null,
+        "appearance": null
+      },
+      {
+        "cageNo": 8,
+        "sex": null,
+        "weight": 23,
+        "appearance": "V"
+      },
+      {
+        "cageNo": null,
+        "sex": null,
+        "weight": 23,
+        "appearance": null
+      },
+      {
+        "cageNo": null,
+        "sex": 18,
+        "weight": null,
+        "appearance": null
+      },
+      {
+        "cageNo": 23,
+        "sex": 21,
+        "weight": null,
+        "appearance": 89430234
+      },
+      {
+        "cageNo": null,
+        "sex": 23,
+        "weight": null,
+        "appearance": 80
+      },
+      {
+        "cageNo": null,
+        "sex": null,
+        "weight": null,
+        "appearance": "6D"
+      }
+    ],
+    "technicianDate": null,
+    "veterinarianDate": null,
+    "orm": null
+  }
 }

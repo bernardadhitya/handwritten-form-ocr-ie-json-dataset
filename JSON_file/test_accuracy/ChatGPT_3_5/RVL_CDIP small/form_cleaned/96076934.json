@@ -1,3 +1,28 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 22 column 17 (char 653)"
+  "consignmentItems": {
+    "salesRep": null,
+    "date": null,
+    "items": [
+      {
+        "description": null,
+        "promo": null,
+        "cpnSerialNumbers": null,
+        "quantity": null
+      },
+      {
+        "description": null,
+        "promo": null,
+        "cpnSerialNumbers": "#5000",
+        "quantity": null
+      },
+      {
+        "description": "STyLE..So4eoNs",
+        "promo": null,
+        "cpnSerialNumbers": "3186012320",
+        "quantity": null
+      }
+    ],
+    "signatureDate": null,
+    "signatureNumber": "96076934"
+  }
 }

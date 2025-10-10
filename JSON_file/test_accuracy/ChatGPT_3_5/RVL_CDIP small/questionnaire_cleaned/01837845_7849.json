@@ -1,3 +1,74 @@
 {
-    "extraction_raw": "Expecting value: line 113 column 24 (char 2373)"
+  "company": null,
+  "address": {
+    "street": "801 Second Avenue",
+    "suite": "42318",
+    "city": null,
+    "state": "New York",
+    "zip": null
+  },
+  "phone": "o2/6-96-846",
+  "instructions": null,
+  "questions": [
+    {
+      "prompt": null,
+      "question": "What brands or products do you remember seeing ads for in the book? Please specify.",
+      "note": null
+    }
+  ],
+  "categories": {
+    "general_ads": [
+      null,
+      "Dole Pineapple",
+      null,
+      "General Electric Washer",
+      null,
+      null,
+      "Colden Lights",
+      null,
+      "Bolens Lawn Mower",
+      "Budweiser",
+      "Kawasaki",
+      null,
+      "Canadian Club",
+      null,
+      null,
+      "Singer Sewing Machines",
+      null,
+      "Taster's Choice",
+      null,
+      null
+    ],
+    "cigarette_ads": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      "Golden Unsp."
+    ]
+  },
+  "additional_questions": [
+    {
+      "condition": null,
+      "question": null
+    },
+    {
+      "condition": null,
+      "question": "Any others?"
+    },
+    {
+      "condition": null,
+      "question": null
+    }
+  ],
+  "brands": [
+    "Luke",
+    "Colden Lights",
+    "Colden Unsp.",
+    null,
+    null,
+    "Kent Lights",
+    null
+  ]
 }

@@ -1,3 +1,90 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 47 column 9 (char 1366)"
+  "survey": {
+    "title": "NATIONAL CONSENSUS SURVEYS",
+    "id": null,
+    "location": {
+      "city": "New York",
+      "state": null,
+      "address": null,
+      "zip": null
+    },
+    "respondent": {
+      "name": null,
+      "phone": null
+    },
+    "instructions": [
+      "Please take a few minutes to go through the advertisements in this book.",
+      "Please take as much time with each ad as you care to.",
+      "If you ordinarily wear reading glasses, you'll need them.",
+      null
+    ],
+    "questions": [
+      {
+        "text": null,
+        "prompt": "Any other brands?",
+        "categories": {
+          "general_ads": [
+            null,
+            null,
+            null,
+            "BankAmericard/VISA",
+            null,
+            "Golden Lights",
+            "Bayer Aspirin",
+            "Hilton Hotels",
+            null,
+            "Kawasaki",
+            "Golden",
+            "Bolens Lawn Mower",
+            "Budweiser",
+            null,
+            "Kent",
+            "Canadian Club",
+            "Polaroid Camera",
+            null,
+            null,
+            null,
+            null,
+            "Concord Watches",
+            null,
+            null,
+            "Crest",
+            null,
+            "Other"
+          ],
+          "cigarette_ads": [
+            null,
+            null,
+            "Kent Golden",
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      },
+      {
+        "text": null,
+        "prompt": null,
+        "follow_up": null,
+        "brands": [
+          "Golden Lights",
+          null,
+          "Kent Golden",
+          "Kent",
+          null,
+          null,
+          null,
+          "Other"
+        ]
+      }
+    ],
+    "skip_logic": {
+      "if_no_cigarette_brands_mentioned": "ASK Q.3a",
+      "if_one_or_two_cigarette_brands_mentioned": null,
+      "if_all_three_cigarette_brands_mentioned": null,
+      "if_true_mentioned_in_q2_3a_or_3b": null
+    }
+  }
 }

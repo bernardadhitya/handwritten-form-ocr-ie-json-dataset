@@ -1,3 +1,42 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 57 column 9 (char 1066)"
+  "study": null,
+  "participant": {
+    "name": null,
+    "telephone": "",
+    "address": null,
+    "city_state": "",
+    "zip": null
+  },
+  "interviewer": {
+    "name": "",
+    "date": null
+  },
+  "gender": {
+    "male": null,
+    "female": false
+  },
+  "age_group": {
+    "under_18": null,
+    "18_24": null,
+    "25_34": null,
+    "35_49": false
+  },
+  "company_type": {
+    "drug_company": false,
+    "food_manufacturer": false,
+    "mobile_manufacturer": null,
+    "advertising_agency": false,
+    "television_manufacturer": null
+  },
+  "cigarettes_per_day": {
+    "less_than_1": false,
+    "none": false,
+    "1_4": false,
+    "5_9": null,
+    "10_15": null,
+    "16_19": false,
+    "20": false,
+    "25": false,
+    "26_30": null
+  }
 }

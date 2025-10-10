@@ -1,3 +1,71 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 58 column 28 (char 1927)"
+  "ARTAP": {
+    "Name": "Division",
+    "Date": "April 16, 1987",
+    "FEMA_NO": null,
+    "Code_NO": null,
+    "Threshold": {
+      "DR_Min": "1 ppm",
+      "Soppm": null
+    },
+    "Attribute_Profile": {
+      "Additional_Comments": {
+        "Cigarette_like_taste": null,
+        "Toastedmush": null,
+        "Artificial_taste": null,
+        "Sweet_fruity_Sour_chemical": null,
+        "Fresh_tobacco_like_taste": null,
+        "Comments_3": null,
+        "Smoke_like_taste": null,
+        "Comments_4": null,
+        "Background_mask": "No effect",
+        "Dry_puff_character": {
+          "Comments_6": "None"
+        },
+        "Aftertaste": null,
+        "Clean_ingeringsweet": null,
+        "Trigeminal_sensation": [
+          null,
+          "tongue bite",
+          null,
+          "throat scratch",
+          null,
+          "heating",
+          "peppery (tingly)",
+          "soothing",
+          "salivating",
+          null
+        ],
+        "Categorization_of_flavor": [
+          null,
+          null,
+          null,
+          null,
+          "metallic",
+          "nutty/pyrazine",
+          null,
+          null,
+          "roasted",
+          null,
+          "green",
+          "honey",
+          null,
+          "sour/acidic",
+          "woody",
+          "spicy",
+          null,
+          "caramel",
+          "bitter"
+        ],
+        "Major_character_description": null,
+        "Sourody": null,
+        "Chemica": null,
+        "50637": null,
+        "Recommendations": {
+          "U_level_of_loppm_for_biter": null,
+          "Wotes": "9552"
+        }
+      }
+    }
+  }
 }

@@ -1,3 +1,36 @@
 {
-    "extraction_raw": "Expecting ',' delimiter: line 4 column 10 (char 71)"
+  "address": {
+    "zip": null,
+    "phone": "7175",
+    "city": null,
+    "state": null
+  },
+  "terms": {
+    "fob": "F.O.B.",
+    "payment": null
+  },
+  "order": {
+    "number": null,
+    "date": null,
+    "amount": null,
+    "purchaseOrderNo": null,
+    "shipDate": "As Required",
+    "delivery": null,
+    "requestedDelivery": null
+  },
+  "system": {
+    "name": "RJRT PURCHASE ORDER SYSTEM",
+    "buyer": "Robert V. Hall",
+    "requisitionNo": "KMB-88011",
+    "commodityOrService": null,
+    "buyerId": "563",
+    "supplier": null
+  },
+  "additionalInfo": {
+    "price": "PRICE",
+    "bidComparison": null,
+    "inquiryNo": null,
+    "jobOrderNo": null,
+    "unknownField": "y%pmog r p:J"
+  }
 }

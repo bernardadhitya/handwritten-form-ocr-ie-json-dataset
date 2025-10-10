@@ -1,3 +1,34 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 22 column 9 (char 828)"
+  "date": "August 16, 1968",
+  "title": null,
+  "description": null,
+  "physical_properties": {
+    "pressure_drop_of_cigarettes_cm_water": null,
+    "pressure_drop_of_filter_cm_water": 6.4,
+    "circumference_mm": 22.21
+  },
+  "ogg_smoke_analysis": {
+    "average_weight_cigarette_mgs_per_cigarette": null,
+    "cigarettes_per_4oz": 102.5,
+    "length_smoked_per_cigarette_mm": "67/100",
+    "particulate_matter_wet": {
+      "mgs_per_cigarette": 15,
+      "mgs_per_puff": null
+    },
+    "dry_particulate_matter": {
+      "mgs_per_cigarette": 13,
+      "mgs_per_puff": null
+    },
+    "nicotine": {
+      "mgs_per_cigarette": null,
+      "mgs_per_puff": 0.08
+    },
+    "tar": {
+      "mgs_per_cigarette": null,
+      "mgs_per_puff": null
+    },
+    "puffs_per_cigarette": null
+  },
+  "reference": null,
+  "author": "FWS:dpm BCF.W.Shepard"
 }

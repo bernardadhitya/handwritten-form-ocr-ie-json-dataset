@@ -1,3 +1,57 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 83 column 9 (char 1518)"
+  "productOpinion": {
+    "laboratory": null,
+    "telephone": "804-271-6002"
+  },
+  "instructions": {
+    "label": "ONLY THE PERSON WHOSE NAME APPEARS ON THIS LABEL SHOULD TAKE THE TEST",
+    "returnBallotBy": "RED",
+    "addressChange": {
+      "applyTo": "you or just to all family members",
+      "newPhoneNumber": null
+    }
+  },
+  "letter": {
+    "greeting": "Dear Panelist",
+    "content": "With this ballot I am enclosing ten packs of cigarettes with nine different pack codes as well as a complimentary pack for your smoking enjoyment. The packs coded ___ and ___ are for Part I. The packs coded ___ and ___ are for Part II. The packs coded ___ and ___ are for Part III. Smoke cigarettes from the three packs and compare the cigarettes as to how similar or different they are from one pack to another. For each part, one of the packs of cigarettes is different from the other two packs. Smoke cigarettes from the three packs and decide which pack is the different one. Because cigarettes are made from a natural product, there may be small differences even between the cigarettes within a pack. I suggest that you smoke all of the cigarettes from each pack before deciding which pack is different. Thank you very much. Your cooperation in this test is most helpful.",
+    "closing": null
+  },
+  "parts": {
+    "partI": {
+      "instruction": null
+    },
+    "partII": {
+      "instruction": null
+    },
+    "partIII": {
+      "instruction": null
+    }
+  },
+  "questions": {
+    "currentCigarette": {
+      "exactName": "The exact name of the brand",
+      "contains": {
+        "milds": "Does the name contain: Milds",
+        "superLights": null,
+        "other": null
+      },
+      "filtered": null,
+      "package": {
+        "softPack": null,
+        "hardPack": "Hard Pack"
+      },
+      "menthol": null,
+      "length": null,
+      "dailyConsumption": null
+    },
+    "cigaretteLengthScale": {
+      "placeEnd": "Place End of Cigarette Here",
+      "lengths": {
+        "80": null,
+        "85": "85",
+        "100": "100",
+        "120": null
+      }
+    }
+  }
 }

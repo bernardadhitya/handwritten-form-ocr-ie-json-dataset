@@ -1,3 +1,82 @@
 {
-    "extraction_raw": "Expecting value: line 3 column 123 (char 156)"
+  "Other": null,
+  "Export": {
+    "Spec": [
+      "AMiNs",
+      null,
+      null,
+      "LAMiNA",
+      "hANA",
+      "CAMINA"
+    ]
+  },
+  "Products": [
+    null,
+    null,
+    null,
+    "7X",
+    null,
+    null,
+    "PN",
+    null,
+    null,
+    null
+  ],
+  "Numbers": [
+    null,
+    3,
+    4,
+    5,
+    6,
+    null,
+    9,
+    null,
+    null,
+    3,
+    4,
+    15,
+    null,
+    null,
+    9,
+    null,
+    15
+  ],
+  "Laboratory": {
+    "Name": "TLA LABORATORY",
+    "Request": "ROUTINE CHEMICAL ANALYSIS REQUEST",
+    "Note": null,
+    "Samples": {
+      "Label": null,
+      "Recommended Size": "1/2 pound or 200 grams"
+    },
+    "Elements": [
+      "Phosphorus",
+      "Magnesium",
+      null,
+      "Chlorides",
+      null,
+      "Silicon",
+      null,
+      "Ash",
+      null,
+      null,
+      "Total Nitrogen"
+    ],
+    "Analysis": {
+      "Check Analysis # Required": "2056498266",
+      "Send Results to": "Copy J",
+      "Number of Samples": null,
+      "Submitter": null,
+      "Date Required": null,
+      "Total Alkaloids": null,
+      "Reducing Sugars": null,
+      "Date Logged": null,
+      "Date Completed": null,
+      "Date": null,
+      "Request Code": "",
+      "Ammonia": null,
+      "Nitrates": "",
+      "Purpose": null
+    }
+  }
 }

@@ -1,3 +1,57 @@
 {
-    "extraction_raw": "Expecting ',' delimiter: line 23 column 10 (char 246)"
+  "document": {
+    "type": "OFFICIAL",
+    "location": null,
+    "date": null,
+    "file": {
+      "FIN": null,
+      "SI": "HR",
+      "code": "9bL8",
+      "1OF": {
+        "date": null,
+        "total": null
+      }
+    },
+    "retention_period": {
+      "issued": "$860",
+      "in_storage": "01 MSP-103",
+      "department_code": null,
+      "responsible_records_management_group": null,
+      "department_head": "C+1",
+      "legal_counsel": null,
+      "production_planning_control": "CIGARETTE BRAND INFORMATION",
+      "authorization": {
+        "record_category": "INFORMATION & PERSONNEL/EMPLOYEE FILES",
+        "records": {
+          "computer_information": "2074741416",
+          "cost_information": null,
+          "cigarette_orders": null,
+          "correspondence": "COMMITTEES",
+          "equipment": null,
+          "packaging": "June",
+          "budgets": "Until Superseded"
+        }
+      },
+      "key_to_retentions": {
+        "until_terminated": "While Active",
+        "current_month": null,
+        "permanently": null
+      }
+    },
+    "manufacturing_record": {
+      "category": {
+        "B0133": null,
+        "C2233": null,
+        "DO114": "E0128",
+        "PO011": "P0203",
+        "C0400": "C1004",
+        "C0177": "C0178"
+      },
+      "code": {
+        "ACT": "W",
+        "Q": "SUP",
+        "TER": ""
+      }
+    }
+  }
 }

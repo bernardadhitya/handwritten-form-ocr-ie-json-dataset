@@ -1,3 +1,28 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 39 column 21 (char 1143)"
+  "date": "MAY-30-96",
+  "day": "THU",
+  "time": null,
+  "location": null,
+  "fax_number": "8037793241",
+  "P.U": null,
+  "page": null,
+  "survey": {
+    "title": null,
+    "role": "PLANT OPERATOR/MARKET",
+    "inventory": {
+      "total_plan_inventory": "#too",
+      "cleared_for_tobacco_use": {
+        "illuminated": null,
+        "regular": null
+      },
+      "proximity_to_schools_or_playgrounds": {
+        "regular": null,
+        "illuminated": null
+      }
+    },
+    "methods_used": "NI"
+  },
+  "plant_manager": {
+    "signature_date": "6/6/8/8/5/5"
+  }
 }

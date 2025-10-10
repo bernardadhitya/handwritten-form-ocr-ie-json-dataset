@@ -1,3 +1,154 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 48 column 18 (char 1275)"
+  "company": "Newman-Ste!n.Inc",
+  "address": null,
+  "suite": null,
+  "date": null,
+  "job_number": "2946B",
+  "circle_quota": {
+    "colors": [
+      "Blue",
+      "Green",
+      null
+    ],
+    "cities": [
+      {
+        "name": "Minneapolis",
+        "quota": null,
+        "gender": "Male",
+        "age_group": null,
+        "quota_number": "S",
+        "quota_value": 90
+      },
+      {
+        "name": "Phoenix",
+        "quota": "(7)",
+        "gender": "Female",
+        "age_group": null,
+        "quota_number": null,
+        "quota_value": null
+      }
+    ]
+  },
+  "study": null,
+  "screener": {
+    "respondent_name": null,
+    "area_code": null,
+    "telephone": null,
+    "city": "",
+    "state": null,
+    "zip_code": null,
+    "interviewer_name": null,
+    "interviewer_id": "",
+    "time_began": null,
+    "date": null,
+    "time_ended": null,
+    "am_pm": "",
+    "instructions": "SK TO SPEAK TO PERSON ON LIST",
+    "time_range": null
+  },
+  "introduction": "Hello, I'm from Newman-Stein, Inc., a national market research firm. We're conducting a survey in this area, and I would like to ask you some questions.",
+  "questions": [
+    {
+      "question": "Are you currently a cigarette smoker?",
+      "answers": [
+        {
+          "response": null,
+          "action": null
+        },
+        {
+          "response": "No",
+          "action": "TERMINATE RECORD ON TALLY SHEET ERASE AND RE-USE"
+        }
+      ]
+    },
+    {
+      "question": null,
+      "answers": [
+        {
+          "response": null,
+          "action": null
+        },
+        {
+          "response": null,
+          "action": "CONTINUE"
+        }
+      ]
+    },
+    {
+      "question": null,
+      "answers": [
+        {
+          "age_group": null,
+          "action": null
+        },
+        {
+          "age_group": null,
+          "action": null
+        },
+        {
+          "age_group": "21-24",
+          "action": "QUALIFIES FOR 18-34 YEAR OLD QUOTA"
+        },
+        {
+          "age_group": "25-29",
+          "action": null
+        },
+        {
+          "age_group": "35-39",
+          "action": null
+        },
+        {
+          "age_group": "40-49",
+          "action": "QUALIFIES FOR 35-59 YEAR OLD QUOTA"
+        },
+        {
+          "age_group": "50-54",
+          "action": "QUALIFIES FOR 35-59 YEAR OLD QUOTA"
+        },
+        {
+          "age_group": null,
+          "action": "QUALIFIES FOR 35-59 YEAR OLD QUOTA"
+        },
+        {
+          "age_group": null,
+          "action": null
+        }
+      ]
+    }
+  ],
+  "cigarette_consumption": {
+    "instruction": null,
+    "categories": [
+      {
+        "cigarettes": "1-9",
+        "packs": null,
+        "action": "TERMINATE RECORD ON TALLY SHEET"
+      },
+      {
+        "cigarettes": "10-19",
+        "packs": null,
+        "action": "ERASE AND RE-USE"
+      },
+      {
+        "cigarettes": "20-29",
+        "packs": "1 pack, but less than 1-1/2 packs",
+        "action": null
+      },
+      {
+        "cigarettes": "30-39",
+        "packs": null,
+        "action": "CONTINUE"
+      },
+      {
+        "cigarettes": null,
+        "packs": "2 packs, but less than 2-1/2 packs",
+        "action": null
+      },
+      {
+        "cigarettes": null,
+        "packs": "2-1/2 packs or more",
+        "action": null
+      }
+    ]
+  }
 }

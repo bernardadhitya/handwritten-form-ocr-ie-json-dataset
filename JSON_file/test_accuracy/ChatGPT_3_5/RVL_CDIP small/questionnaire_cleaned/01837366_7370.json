@@ -1,3 +1,77 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 84 column 9 (char 1530)"
+  "address": {
+    "street": "801 Second Avenue",
+    "city": "New York",
+    "state": "New York",
+    "zip": "10017"
+  },
+  "instructions": "Please take a few minutes to go through the advertisements in this book.",
+  "note": null,
+  "brands": {
+    "cigarette_ads": [
+      null,
+      null,
+      null,
+      null,
+      "Golden Light",
+      null,
+      null,
+      "Golden (Unsp.)",
+      null,
+      "Old Spice Pocket Cologne",
+      "Kawasaki",
+      null,
+      null,
+      null,
+      "Canadian Club",
+      "Polaroid Camera",
+      null,
+      "Light",
+      "Core Cola",
+      "Singer Sewing Machines",
+      "Kest",
+      null,
+      null,
+      "Toter's Choice",
+      "Craet",
+      null,
+      null,
+      null
+    ]
+  },
+  "questions": {
+    "Q3a": "IF NO CIGARETTE BRANDS MENTIONED ABOVE ASK",
+    "Q3b": "IF ONLY ONE OR TWO CIGARETTE BRANDS MENTIONED SKIP TO Q.3b.",
+    "Q4": "IF ALL THREE CIGARETTE BRANDS MENTIONED SKIP TO Q.4.",
+    "Q15": {
+      "question": null,
+      "response": null,
+      "follow_up": "What brands do you remember seeing ads for?",
+      "options": [
+        "Suke",
+        "Golden (Unsp.)",
+        null,
+        "Golden",
+        "Kent Golden Lights",
+        "Kent (Unsp.)",
+        "Kent Light",
+        null,
+        "Other (SPECIFY)"
+      ]
+    },
+    "Q16": {
+      "question": "Do you remember any ads for any other brands of cigarettes?",
+      "response": null,
+      "options": [
+        "Golden (Unsp.)",
+        "Golden Lights",
+        null,
+        null,
+        null,
+        "Kent (Unsp.)",
+        null,
+        "Other (SPECIFY)"
+      ]
+    }
+  }
 }

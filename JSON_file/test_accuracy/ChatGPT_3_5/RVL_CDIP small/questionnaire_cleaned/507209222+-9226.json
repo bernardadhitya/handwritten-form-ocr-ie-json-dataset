@@ -1,3 +1,22 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 25 column 9 (char 490)"
+  "faxCoverSheet": {
+    "date": null,
+    "time": null,
+    "sender": {
+      "name": null,
+      "company": null,
+      "telephone": null,
+      "fax": "404-237-1235"
+    },
+    "recipient": {
+      "name": "Carol Mitchell",
+      "department": "Marketing Research",
+      "company": null,
+      "telephone": "919-741-6608",
+      "fax": null
+    },
+    "numberOfPagesIncludingCoverSheet": "unknown",
+    "comments": null,
+    "referenceNumber": null
+  }
 }

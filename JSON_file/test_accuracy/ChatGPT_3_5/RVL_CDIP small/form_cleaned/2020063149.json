@@ -1,3 +1,43 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 15 column 24 (char 1146)"
+  "part": null,
+  "form": "ISSUE FEE TRANSMITTAL",
+  "instructions": null,
+  "correspondence_address": {
+    "inventor_name": null,
+    "firm": null,
+    "street_address": "875 THIRD AVE.",
+    "city_state_zip": "NEW YORK, NY 10022-6250"
+  },
+  "series_code_serial_no": null,
+  "date_mailed": null,
+  "total_claim": null,
+  "applicant": {
+    "first_named": "RAIMTER",
+    "name": "COXLINS, ALFRED",
+    "title_of_invention": null
+  },
+  "date_due": null,
+  "printing_on_patent_front_page": [
+    {
+      "name": "John M. Hintz",
+      "firm": "Fish and Neave",
+      "address": null
+    }
+  ],
+  "assignment_data": {
+    "name_assignee": "Philip Morris Incorporated",
+    "address": "New York",
+    "state_of_incorporation": null
+  },
+  "fees_enclosed": {
+    "issue_fee": "10",
+    "deposit_account_number": null
+  },
+  "assignment": {
+    "previously_submitted": "Assignment previously submitted to Patent and Trademark Office",
+    "being_submitted": "Assignment is being submitted under separate cover. Assignments should be directed to Box ASSIGNMENTS"
+  },
+  "note": "Unless an assignee is identified in Block 5, no assignee data will appear. The Issue Fee will not be paid from anyone other than the previously submitted or being submitted under separate cover. Completion of this form is NOT a substitute for filing an assignment rest as shown by the record of the Patent and Trademark Office.",
+  "transmit_form_with_fee": "TRANSMIT THIS FORM WITH FEE-CERTIFICATE OF MAILING ON REVERSE",
+  "form_revision": null
 }

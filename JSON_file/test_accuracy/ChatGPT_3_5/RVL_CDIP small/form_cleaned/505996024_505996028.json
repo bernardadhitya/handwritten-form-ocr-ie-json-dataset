@@ -1,3 +1,138 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 46 column 30 (char 1418)"
+  "notebook": null,
+  "code": null,
+  "location": "Cwm H G",
+  "submitter": null,
+  "date": null,
+  "phone": null,
+  "sample_description": null,
+  "aerosol_type": "M$",
+  "tobacco_type": null,
+  "components": {
+    "chemical_type": {
+      "nicotine": {
+        "method": null,
+        "units": null
+      },
+      "glycerin": {
+        "units": "mg/cig"
+      },
+      "total_nitrogen": {
+        "units": null
+      },
+      "propylene_glycol": {
+        "units": "mg/cig"
+      },
+      "nitrate": {
+        "units": "mg/cig"
+      },
+      "water": {
+        "units": null
+      },
+      "reducing_sugar": {
+        "units": "mg/cig"
+      },
+      "menthol": {
+        "units": "mg/cig"
+      },
+      "total_sugar": {
+        "units": "mg/cig"
+      },
+      "acetic_acid": {
+        "units": null
+      },
+      "ammonia": {
+        "units": null
+      },
+      "formaldehyde_acetaldehyde": {
+        "units": null
+      },
+      "acetone_acrolein": {
+        "units": "ug/cig"
+      },
+      "propional_crotonal": {
+        "units": "ug/cig"
+      },
+      "macroln_isovaleral": {
+        "units": "ug/cig"
+      },
+      "wtph": {
+        "units": "ug/cig"
+      },
+      "malic_oxalic_citric": {
+        "units": "ug/cig"
+      },
+      "nicotine_mg_puff": {
+        "units": "mg/puff"
+      },
+      "glycerin_mg_puff": {
+        "units": "mg/puff"
+      },
+      "propylene_glycol_mg_puff": {
+        "units": "mg/puff"
+      },
+      "water_mg_puff": {
+        "units": null
+      },
+      "menthol_mg_puff": {
+        "units": null
+      },
+      "teg_mg_puff": {
+        "units": null
+      },
+      "teg_mg_cig": {
+        "units": "mg/cig"
+      }
+    },
+    "physical_type": {
+      "moisture_oven": {
+        "units": "%"
+      },
+      "ash": {
+        "units": "%"
+      },
+      "real_density": {
+        "units": null
+      },
+      "bulk_density": {
+        "units": null
+      },
+      "pH": {
+        "units": null
+      },
+      "free_flow_density": {
+        "units": "M/CM3"
+      },
+      "tap_density": {
+        "units": "Qm/cm3"
+      },
+      "surface_area_disc_file": {
+        "units": null
+      },
+      "n2_porosity_disc_file": {
+        "units": null
+      },
+      "tot_intrusion_vol_hg": {
+        "units": "cm3/gm"
+      },
+      "total_pore_area_hg": {
+        "units": "M2/gm"
+      },
+      "med_pore_dia_vol": {
+        "units": "uM"
+      },
+      "med_pore_dia_area": {
+        "units": "wn"
+      },
+      "av_pore_dia_v_a": {
+        "units": "uM"
+      },
+      "particle_size": {
+        "units": null
+      },
+      "pulp_fiber_size_screen": {
+        "units": null
+      }
+    }
+  }
 }

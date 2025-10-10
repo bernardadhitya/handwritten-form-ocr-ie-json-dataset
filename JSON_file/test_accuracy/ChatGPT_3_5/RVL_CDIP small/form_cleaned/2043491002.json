@@ -1,3 +1,47 @@
 {
-    "extraction_raw": "Expecting property name enclosed in double quotes: line 11 column 16 (char 190)"
+  "keyToCodes": {
+    "QRSA": "Quick Retrieval Storage Area - 100 Park Avenue",
+    "TER": null,
+    "SUP": "Until Superceded",
+    "PER": "Permanently",
+    "CUR": "Current Year"
+  },
+  "keyBanks": [
+    "BANK FILES",
+    null,
+    null
+  ],
+  "accountingFiles": {
+    "accounts": null,
+    "qtlyGeneralLedger": null,
+    "worksheets": "CUR+2",
+    "journalEntries": "CUR+2",
+    "directorsReportMonthly": null
+  },
+  "recordTitle": "Philip Morris Incorporated",
+  "bookingRuns": null,
+  "terminations": "TER",
+  "comfiche": "DISC",
+  "office": null,
+  "department": [
+    null,
+    null,
+    "Department Management"
+  ],
+  "authorization": null,
+  "recordsRetentionSchedule": {
+    "QRSA": "CARLSTADT",
+    "retentionPeriod": null,
+    "duration": 5
+  },
+  "cowaA": "DENNIS Flotm",
+  "total": "TER",
+  "holdUntilCompletion": null,
+  "location": null,
+  "date": [
+    null,
+    null
+  ],
+  "page": "1 of 3",
+  "remarks": null
 }

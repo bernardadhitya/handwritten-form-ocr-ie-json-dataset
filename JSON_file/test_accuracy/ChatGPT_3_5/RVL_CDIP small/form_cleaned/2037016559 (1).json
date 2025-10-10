@@ -1,3 +1,24 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 32 column 19 (char 962)"
+  "company": null,
+  "job_procedure": {
+    "jp_no": null,
+    "issue_date": null,
+    "supersedes": null,
+    "applicable_to": null,
+    "subject": null,
+    "required_tools_equipment": null,
+    "approval": null,
+    "potential_hazards": [
+      null,
+      "Injury due to wet surfaces",
+      null,
+      "Muscle strain resulting from improper lifting techniques"
+    ],
+    "basic_job_procedure": [
+      "Need to use platform",
+      "Dip down by bending at knees, keeping back straight",
+      "Use dip stance between full plates",
+      null
+    ]
+  }
 }

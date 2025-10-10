@@ -1,3 +1,45 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 17 column 21 (char 837)"
+  "run_no": 441,
+  "date": null,
+  "purpose": "FIUER CITECNOUT -1TRUN",
+  "reference": null,
+  "filler": "ME w/0 AC",
+  "ov": null,
+  "ab_loading": null,
+  "vessel_1": {
+    "capacity": 4000,
+    "total_weight_dwb": 335,
+    "total_weight_as_is": null,
+    "wt_top_basket_as_is": 456,
+    "wt_bottom_basket_as_is": null
+  },
+  "stem": {
+    "type": "BGHT NE SHEODED",
+    "ov": null,
+    "citrate_loading_dwb": null,
+    "total_weight_dwb": null,
+    "vessel": "L",
+    "total_weight_as_is": null,
+    "wt_top_basket_as_is": 53,
+    "wt_bottom_basket_as_is": "Z27"
+  },
+  "vessel_2": {
+    "capacity": 1000,
+    "total_weight_dwb": null,
+    "total_weight_as_is": null,
+    "wt_top_basket_as_is": null,
+    "wt_bottom_basket_as_is": null
+  },
+  "process_targets": {
+    "pressure": null,
+    "temperature": "13//M//3",
+    "flow_rate": "1000 lbs/min",
+    "co2_flow": {
+      "direction": "38",
+      "time_mins": null,
+      "fill": null,
+      "step_1": null,
+      "step_2": null
+    }
+  }
 }

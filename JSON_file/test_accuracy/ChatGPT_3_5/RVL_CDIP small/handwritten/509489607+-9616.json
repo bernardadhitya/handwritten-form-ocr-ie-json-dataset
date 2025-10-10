@@ -1,3 +1,309 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 66 column 29 (char 2546)"
+  "Salen": {
+    "t.85": {
+      "BLEND_FORMULATION": {
+        "Seho": {
+          "tL00": null,
+          "TOTAL_%": null,
+          "GROUP_%": null,
+          "K19": {
+            "TOTAL_%": null,
+            "GROUP_%": null
+          },
+          "C30": {
+            "TOTAL_%": null,
+            "GROUP_%": null
+          },
+          "TR": {
+            "TOTAL_%": null,
+            "GROUP_%": null
+          },
+          "TB": {
+            "TOTAL_%": null,
+            "GROUP_%": null
+          },
+          "bbb1": {
+            "TOTAL_%": null,
+            "GROUP_%": null
+          },
+          "7A": {
+            "TOTAL_%": null,
+            "GROUP_%": null
+          },
+          "L": {
+            "TOTAL_%": null,
+            "GROUP_%": null
+          },
+          "3-23": {
+            "TOTAL_%": null,
+            "GROUP_%": null
+          },
+          "13-1": {
+            "TOTAL_%": null
+          }
+        }
+      }
+    },
+    "t": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {
+        "BLEND_FORMULATION": {
+          "Seho": {
+            "3-23": {
+              "GROUP_%": null
+            },
+            "C30": {
+              "GROUP_%": null
+            },
+            "bbb1": {
+              "TOTAL_%": null
+            },
+            "TB": {
+              "GROUP_%": null
+            },
+            "GROUP_%": null
+          }
+        }
+      }
+    ]
+  },
+  "Test_Parts_AZ": {
+    "Casing": {
+      "Case_For": [
+        "Materials",
+        "Cutting",
+        null,
+        null,
+        null,
+        "Cutting",
+        null
+      ],
+      "B4": {
+        "1": "I1"
+      },
+      "289": 208,
+      "35": null,
+      "208": null,
+      "56": null,
+      "18": 74,
+      "5": 14,
+      "CL": 3,
+      "54": null,
+      "47": 47,
+      "60": null,
+      "72": null,
+      "0": null,
+      "B3": null,
+      "147": 169,
+      "15": null,
+      "100": 105,
+      "34": 101,
+      "TOTAL": 701,
+      "671": "Casing For Cutting"
+    }
+  },
+  "Casing_For_Cutting": {
+    "Type": "App. Rate %",
+    "Aging_Hrs": null,
+    "Cut_Filler": {
+      "Test_Parts_AZ": "T.D.For G13",
+      "Type": null,
+      "Application_Rate_Lbs_1000": null
+    },
+    "Final_T.D.For_Casing_&_Cutting": {
+      "Type": null,
+      "-164": null,
+      "m-133": null
+    },
+    "Target_%_Moisture_Cut_Filler": "4.4/4",
+    "9.8.2": null,
+    "2.75": null,
+    "Pack": 45,
+    "Steam_Flotation_Temp_F": null,
+    "15": 0,
+    "50948": null,
+    "RJRT_Form": "8647 6/84",
+    "2": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Final_T": {
+      "D": {
+        "For_Casing_&_Cutting": {
+          "-164": null
+        }
+      }
+    },
+    "9": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {
+        "2": null
+      }
+    ]
+  }
 }

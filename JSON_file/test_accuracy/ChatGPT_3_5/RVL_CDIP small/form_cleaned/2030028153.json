@@ -1,3 +1,83 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 32 column 13 (char 670)"
+  "confidential": true,
+  "stockScreenDataSheet": {
+    "date": null,
+    "shift": "11-7-4",
+    "time": "5",
+    "flowTo": null,
+    "hs": "210",
+    "iny": null,
+    "h81": "180",
+    "machine": null,
+    "freenessAfterRefinerFeed": [
+      null,
+      33,
+      39
+    ],
+    "mcRoomFreeness": [
+      315,
+      null,
+      null,
+      344
+    ],
+    "accept": null,
+    "inletPressureToStockScreen": [
+      null,
+      null,
+      92
+    ],
+    "outletPressureToStockScreen": [
+      null,
+      null,
+      32
+    ],
+    "acceptValve": [
+      null,
+      64,
+      70
+    ],
+    "nollisonRejectValvePosition": [
+      35,
+      null,
+      39
+    ],
+    "stockScreen": [
+      133,
+      132,
+      null,
+      null
+    ],
+    "motorLoad": "d",
+    "threadsOn": 8,
+    "ceramicValveInletPressureTo1stRefiner": [
+      54,
+      null,
+      null,
+      null
+    ],
+    "outletPressureToLastRefiner": [
+      null,
+      null,
+      78,
+      null
+    ],
+    "kwOnRefiner": null,
+    "refinerData": {
+      "#1": [
+        null,
+        151,
+        150,
+        null
+      ],
+      "#2": null,
+      "#3": [
+        null,
+        161,
+        null,
+        140
+      ],
+      "#4": null
+    },
+    "remarks": "/file a2.001.rkg 10/89 2030028153"
+  }
 }

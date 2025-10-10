@@ -1,3 +1,28 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 12 column 9 (char 267)"
+  "transaction": {
+    "type": null,
+    "bank": null,
+    "account_number": "907043",
+    "transaction_id": null,
+    "recipient": {
+      "name": null,
+      "additional_info": null
+    },
+    "issuer": {
+      "name": null,
+      "code": "R.1.B."
+    },
+    "amount": {
+      "written": "CeuenThousand.SxHunared and SeventuShree",
+      "numeric": 7673
+    },
+    "note": null,
+    "client_signature": "Signature du clicnt",
+    "cashier": {
+      "name": null,
+      "approval": null
+    },
+    "date": "06/05/22",
+    "reference": "rsesgpe"
+  }
 }

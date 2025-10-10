@@ -1,3 +1,85 @@
 {
-    "extraction_raw": "Expecting property name enclosed in double quotes: line 64 column 17 (char 2051)"
+  "instructions": "Complete all information requested below, retain the pink copy for your records. Attach form and labels (2 labels required for overnight packages) to item being sent. For pick-up of large items call shipping and receiving on extension 2395. If you prefer, small items may please bring the items to the Lobby Messenger Room. When filling out this form, please indicate in the column marked CODE SELECTION your numeric choice for each field on the form. For example, if you work for USA Sales under code selection column you would indicate your division number as 2 and department number as 201. If your package requires next day delivery by 10:30 A.M. you would indicate the service requested as 22. If you have any questions, please contact the supervisor of Shipping and Receiving on extension 2398.",
+  "name": "MAON",
+  "date_extension": null,
+  "division": {
+    "code_selection": {
+      "1": "PM Management Corp.",
+      "2": null
+    },
+    "division_number": "",
+    "department": {
+      "101": null,
+      "108": "Tax",
+      "201": "Sales",
+      "102": null,
+      "109": null,
+      "202": "Marketing",
+      "103": null,
+      "110": null,
+      "203": null,
+      "104": null,
+      "105": null,
+      "111": null,
+      "204": "Corp. Affairs",
+      "112": null,
+      "205": null,
+      "106": "Personnel",
+      "113": null,
+      "206": null,
+      "107": "Executive",
+      "114": "PMCC",
+      "207": "Executive"
+    },
+    "department_number": ""
+  },
+  "type_of_service": {
+    "note": null,
+    "service_number": "",
+    "courier": {
+      "air_messenger_local": {
+        "29": "Regular 3 hours $5.25",
+        "22": "Overnight by 10:30 $6.50",
+        "30": null,
+        "23": "Overnight by 12:00 noon $5.00",
+        "31": "Trucking Base $15.50",
+        "insured": {
+          "24": "Saturday delivery by 5:00 pm $10.00",
+          "25": "Second Day $3.50"
+        }
+      }
+    },
+    "ups_rps_ground": {
+      "26": "Regular Residential $2.35",
+      "business": "$2.95"
+    },
+    "us_postal_service": {
+      "32": null,
+      "33": null,
+      "34": "Int. Registered Mail $5.45",
+      "35": null,
+      "36": "Certified Return Receipt $2.52"
+    },
+    "international_shipments": {
+      "27": "International Courier (Non Pouch) $11.00",
+      "39": null,
+      "40": null
+    }
+  },
+  "weight": "",
+  "ship_to": {
+    "name": null,
+    "c_o": "DORSEY WINEY",
+    "address": null,
+    "city": null,
+    "pcode": null,
+    "telephone": null
+  },
+  "pick_up_from": "2077023202",
+  "form_number": null,
+  "distribution": {
+    "white": "Shipping",
+    "yellow": "Shipping",
+    "pink": "Requestor"
+  }
 }

@@ -1,3 +1,29 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 12 column 14 (char 259)"
+  "shipment_id": null,
+  "shipment_type": "printed materials",
+  "sender": {
+    "name": "Ira Tienowitz",
+    "company_name": "Advertising Age Magazine",
+    "address": null,
+    "city": "Chicago",
+    "state": null,
+    "zip_code": null,
+    "phone": null
+  },
+  "receiver": {
+    "name": "ATTN (NAME/DEPT.)",
+    "company_name": null,
+    "address": "27101",
+    "city": null,
+    "state": null,
+    "zip_code": "3871"
+  },
+  "shipment_details": {
+    "origin": "804952844",
+    "shipment_valuation": null,
+    "airtone_account_no": "46251699",
+    "drop_box": null,
+    "tracking_no": "01037",
+    "ces": "51272"
+  }
 }

@@ -1,3 +1,61 @@
 {
-    "extraction_raw": "Expecting value: line 3 column 112 (char 127)"
+  "state": null,
+  "company": null,
+  "orders": null,
+  "category": null,
+  "records": null,
+  "vendor": "TELEPHONE SERVICE FILES",
+  "recordTitle": "PHILIP MORRIS INCORPORATED",
+  "operatingCompany": "Philip Morris Incorporated",
+  "recordsManagement": "Records Management",
+  "qrsa": null,
+  "retentionCodes": {
+    "TER": "Until Terminated",
+    "SUP": null,
+    "PER": null,
+    "CUR": "Current Year"
+  },
+  "keyToCodes": {
+    "TELEPHONE": null,
+    "F": null,
+    "SPM": null,
+    "g": "BILLS",
+    "equipmentList": null
+  },
+  "functionSubfunction": {
+    "untilCompletion": "Until Completion",
+    "3MOS": "3 MOS.",
+    "CUR+1": null,
+    "CUR+2": null,
+    "CURMO": "CUR MO.",
+    "CUR": null,
+    "PER": "PER"
+  },
+  "office": null,
+  "onSite": null,
+  "recordsRetentionSchedule": null,
+  "departmentHeadAuthorization": null,
+  "qrsaRetentionPeriod": null,
+  "location": {
+    "carlstadt": null,
+    "offSite": null
+  },
+  "retentionPeriod": {
+    "2": null,
+    "Ac": "Ac",
+    "untilCompletion": "Until Completion",
+    "3MOS": "3MOS.",
+    "CUR+1": null,
+    "CUR+2": "CUR+2",
+    "CURMO": "CUR MO.",
+    "+3": "+3",
+    "CUR": null,
+    "CUR+5": "CUR+5",
+    "PER": null
+  },
+  "total": "2061646906",
+  "completionOfBill": null,
+  "newYorkLocation": null,
+  "officeRemarks": "OFFICE REMARKS",
+  "pageDate": "Page Date"
 }

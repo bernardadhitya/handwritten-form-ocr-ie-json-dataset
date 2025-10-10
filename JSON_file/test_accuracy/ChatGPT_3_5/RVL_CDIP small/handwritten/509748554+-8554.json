@@ -1,3 +1,29 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 22 column 9 (char 515)"
+  "CompoundNames": [
+    "MONOSODIUM GLUTAMATE",
+    null,
+    null,
+    "SODIUM BENZOATE",
+    null,
+    null,
+    null,
+    null,
+    null,
+    "CALCIUM CARBONATE",
+    "CALCIUM HYDROXIDE"
+  ],
+  "Notes": [
+    null,
+    "Anything with 'sodium', 'potassium', or 'calcium' in the compound name.",
+    "RSR list showed no compounds (except sodium bicarbonate)"
+  ],
+  "References": {
+    "Source": null,
+    "Date": null,
+    "Codes": [
+      "50974",
+      null
+    ],
+    "Page": 1
+  }
 }

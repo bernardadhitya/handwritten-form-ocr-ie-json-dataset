@@ -1,3 +1,239 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 42 column 24 (char 1745)"
+  "analytical_request_sheet": {
+    "test_code": null,
+    "submitter_code": "ODATE",
+    "submitter": null,
+    "location": "3St",
+    "phone": null,
+    "sample_description_identification": null,
+    "aerosol_type": "1",
+    "tobacco_type": "2",
+    "components_chemical": [
+      {
+        "name": null,
+        "method": "M#",
+        "units": "mg/cig"
+      },
+      {
+        "name": null,
+        "method": null,
+        "units": null
+      },
+      {
+        "name": null,
+        "method": null,
+        "units": null
+      },
+      {
+        "name": null,
+        "method": "3",
+        "units": "mg/cig"
+      },
+      {
+        "name": null,
+        "method": null,
+        "units": "%"
+      },
+      {
+        "name": null,
+        "method": "5",
+        "units": "mg/cig"
+      },
+      {
+        "name": null,
+        "method": null,
+        "units": null
+      },
+      {
+        "name": null,
+        "method": "6",
+        "units": "mg/cig"
+      },
+      {
+        "name": null,
+        "method": "S",
+        "units": null
+      },
+      {
+        "name": null,
+        "method": null,
+        "units": null
+      },
+      {
+        "name": null,
+        "method": "6",
+        "units": "%"
+      },
+      {
+        "name": null,
+        "method": null,
+        "units": null
+      },
+      {
+        "name": "pH",
+        "method": "6"
+      },
+      {
+        "name": null,
+        "method": null,
+        "units": null
+      },
+      {
+        "name": "Moisture (oven)",
+        "method": null,
+        "units": null
+      },
+      {
+        "name": null,
+        "method": "ug/cig",
+        "units": null
+      },
+      {
+        "name": "Chloride",
+        "method": null,
+        "units": null
+      },
+      {
+        "name": null,
+        "method": "ug/cig",
+        "units": "10"
+      },
+      {
+        "name": "Ash",
+        "method": null,
+        "units": "ug/cig"
+      },
+      {
+        "name": null,
+        "method": "%",
+        "units": null
+      },
+      {
+        "name": null,
+        "method": "mg/puff",
+        "units": "13"
+      },
+      {
+        "name": null,
+        "method": null,
+        "units": null
+      },
+      {
+        "name": "Propylene Glycol",
+        "method": "mg/puff",
+        "units": null
+      },
+      {
+        "name": null,
+        "method": "%",
+        "units": null
+      },
+      {
+        "name": null,
+        "method": "mg/puff",
+        "units": "17"
+      },
+      {
+        "name": "Water",
+        "method": "mg/puff",
+        "units": null
+      },
+      {
+        "name": "Menthol",
+        "method": "mg/puff",
+        "units": null
+      },
+      {
+        "name": "TEG",
+        "method": "mg/cig",
+        "units": "20"
+      },
+      {
+        "name": null,
+        "method": "mg/puff"
+      }
+    ],
+    "components_physical": [
+      {
+        "name": "Moisture (oven)",
+        "units": null
+      },
+      {
+        "name": null,
+        "units": null
+      },
+      {
+        "name": null,
+        "units": "gm/cm3"
+      },
+      {
+        "name": "Free Flow Density",
+        "units": null
+      },
+      {
+        "name": null,
+        "units": null
+      },
+      {
+        "name": "Surface Area-Disc,File,M2/gm",
+        "units": "6"
+      },
+      {
+        "name": null,
+        "units": "7"
+      },
+      {
+        "name": null,
+        "units": "8"
+      },
+      {
+        "name": null,
+        "units": "9"
+      },
+      {
+        "name": "Med.Pore Dia Vo1",
+        "units": "10"
+      },
+      {
+        "name": "Med. Pore Dia Area",
+        "units": "11"
+      },
+      {
+        "name": "Av.Pore Dia4V/A",
+        "units": "uM"
+      },
+      {
+        "name": null,
+        "units": null
+      },
+      {
+        "name": null,
+        "units": "12"
+      },
+      {
+        "name": null,
+        "units": null
+      },
+      {
+        "name": null,
+        "units": "13"
+      },
+      {
+        "name": null,
+        "units": null
+      },
+      {
+        "name": null,
+        "units": null
+      },
+      {
+        "name": "TEG",
+        "units": "%"
+      },
+      {
+        "name": null,
+        "units": "6188"
+      }
+    ]
+  }
 }

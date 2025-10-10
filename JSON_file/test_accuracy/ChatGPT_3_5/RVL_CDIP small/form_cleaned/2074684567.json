@@ -1,3 +1,85 @@
 {
-    "extraction_raw": "Expecting value: line 58 column 17 (char 1573)"
+  "company": null,
+  "offices": [
+    {
+      "location": "WASHINGTON",
+      "address": "1400 L STREET, N.W.",
+      "city": "WASHINGTON, DC",
+      "zip": "20005-3502"
+    },
+    {
+      "location": "CHICAGO",
+      "address": "35 WEST WACKER DRIVE",
+      "city": null,
+      "zip": "60601-9703"
+    },
+    {
+      "location": "NEW YORK",
+      "address": null,
+      "city": "NEW YORK, NY",
+      "zip": null
+    },
+    {
+      "location": "GENEVA",
+      "address": "43 RUE DU RHONE",
+      "city": null,
+      "zip": "1204",
+      "country": "SWITZERLAND"
+    },
+    {
+      "location": null,
+      "address": null,
+      "city": null,
+      "zip": "11495",
+      "country": "SAUDI ARABIA"
+    }
+  ],
+  "contact": {
+    "name": null,
+    "fax": null,
+    "date": null
+  },
+  "recipients": [
+    {
+      "name": null,
+      "address": "1200 Main Street",
+      "city": "Kansas City",
+      "firm": null,
+      "fax": null,
+      "conf": null
+    },
+    {
+      "name": null,
+      "address": null,
+      "city": null,
+      "firm": "Philip Morris",
+      "fax": null,
+      "conf": null
+    },
+    {
+      "name": "LANREMCE BARTH",
+      "address": "355 South Grand Ave. 35th Floor",
+      "city": null,
+      "firm": "Munger Tolles & Olson",
+      "fax": null,
+      "conf": "213/683-9187"
+    },
+    {
+      "name": null,
+      "address": null,
+      "city": null,
+      "firm": "Wachtell, Lipton, Rosen & Katz",
+      "fax": "212/403-2000",
+      "conf": null
+    },
+    {
+      "name": null,
+      "address": null,
+      "city": null,
+      "firm": null,
+      "fax": null,
+      "conf": null
+    }
+  ],
+  "note": "If you do not receive all the pages, please call our facsimile operator at (312) 558-5948 as soon as possible."
 }

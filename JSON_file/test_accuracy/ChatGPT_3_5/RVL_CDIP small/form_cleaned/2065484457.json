@@ -1,3 +1,37 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 23 column 18 (char 624)"
+  "date": null,
+  "time": "13:31",
+  "document_info": {
+    "page_number": null,
+    "total_pages": "004"
+  },
+  "organization": {
+    "name": null,
+    "address": {
+      "street": "1560 Broadway",
+      "suite": null,
+      "city": null,
+      "state": null,
+      "zip": "80202"
+    },
+    "contact": {
+      "phone": null,
+      "fax": null,
+      "website": "www.ncsl.org",
+      "email": "info@ncsl.org"
+    }
+  },
+  "sender": {
+    "name": "Pam nman",
+    "telecopy_to": null,
+    "from": "NCSL",
+    "message": null,
+    "number_of_pages": "2/3",
+    "date_sent": "5/3/48",
+    "fax_number": null,
+    "note": "FAX NUMBER AND AUTHORIZATION CODE MUST APPEAR ON THE REVERSE SIDE."
+  },
+  "recipient": {
+    "to": null
+  }
 }

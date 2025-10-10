@@ -1,3 +1,30 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 32 column 20 (char 1652)"
+  "case": null,
+  "date": null,
+  "facility": "1.0oteS92.Focility",
+  "manufacturer_distributor_name": "Par-S",
+  "address": {
+    "state": null,
+    "zip": null
+  },
+  "storage_area": {
+    "ground": "Ground",
+    "building": "Above Ground"
+  },
+  "containers_storage_type": "Above Ground Tank",
+  "storage_conditions": {
+    "pressure": null,
+    "temperature": null
+  },
+  "maximum_containers_stored": "Cryogenic Conditions",
+  "container_capacity_pounds": "3",
+  "maximum_amount_stored_pounds": "22",
+  "average_daily_amount_stored_pounds": null,
+  "annual_usage_pounds": null,
+  "days_on_site": null,
+  "use_confidential": "T/H",
+  "usage_code": null,
+  "comments": null,
+  "submitted_by": "ARA Haterial",
+  "phone": "2030138342"
 }

@@ -1,3 +1,402 @@
 {
-    "extraction_raw": "Expecting property name enclosed in double quotes: line 49 column 40 (char 2064)"
+  "Permanente_Multiphasic_Questionnaire": {
+    "Date": null,
+    "Past_Medical_History": {
+      "Name": null,
+      "Birthdate": "",
+      "MR_Number": null,
+      "Questions": [
+        {
+          "Question": "Frequent, bad headaches?",
+          "Yes": false,
+          "No": null
+        },
+        {
+          "Question": "Dizzy spells so bad the room seemed to spin around?",
+          "Yes": null,
+          "No": false
+        },
+        {
+          "Question": "Convulsions (fits)",
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": "Asthma?",
+          "Yes": null,
+          "No": false
+        },
+        {
+          "Question": "Fainting (black out, unconscious) spells",
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": "Spells of weakness or paralysis of arms or legs?",
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": "Chronic bronchitis?",
+          "Yes": false,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": false,
+          "No": false
+        },
+        {
+          "Question": "Tuberculosis (TB)",
+          "Yes": false,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": "TB skin test which was positive?",
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": "Serious infection or bad injury to eye?",
+          "Yes": false,
+          "No": null
+        },
+        {
+          "Question": "An abnormal chest x-ray?",
+          "Yes": false,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": false,
+          "No": false
+        },
+        {
+          "Question": "Glaucoma?",
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": false,
+          "No": false
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": false
+        },
+        {
+          "Question": "Trouble swallowing liquids?",
+          "Yes": false,
+          "No": false
+        },
+        {
+          "Question": null,
+          "Yes": false,
+          "No": null
+        },
+        {
+          "Question": "Repeated pain (or tight feeling) in your chest?",
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": "Frequent thumping or racing of the heart?",
+          "Yes": false,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": false,
+          "No": false
+        },
+        {
+          "Question": null,
+          "Yes": false,
+          "No": false
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": "Pulmonary emphysema?",
+          "Yes": false,
+          "No": false
+        },
+        {
+          "Question": "Shortness of breath: That awakened you from sleep?",
+          "Yes": false,
+          "No": false
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": false
+        },
+        {
+          "Question": null,
+          "Yes": false,
+          "No": false
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": false,
+          "No": null
+        },
+        {
+          "Question": "Jaundice (yellow eyes or skin)?",
+          "Yes": false,
+          "No": false
+        },
+        {
+          "Question": "Stomach or duodenal ulcer?",
+          "Yes": false,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": false,
+          "No": false
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": false
+        },
+        {
+          "Question": null,
+          "Yes": false,
+          "No": false
+        },
+        {
+          "Question": "Dysentery or serious diarrhea?",
+          "Yes": false,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": false,
+          "No": false
+        },
+        {
+          "Question": "Coughed up any blood?",
+          "Yes": false,
+          "No": false
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": "Had pain in your legs that forced you to stop walking and that left after a few minutes rest?",
+          "Yes": false,
+          "No": false
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": "Kidney or bladder infection?",
+          "Yes": false,
+          "No": null
+        },
+        {
+          "Question": "Anemia (low blood count)?",
+          "Yes": false,
+          "No": null
+        },
+        {
+          "Question": "Cancer or tumor?",
+          "Yes": false,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": false
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": false
+        },
+        {
+          "Question": "Heartburn, indigestion or stomach pain?",
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": "Gout?",
+          "Yes": null,
+          "No": false
+        },
+        {
+          "Question": "Diabetes (sugar disease)?",
+          "Yes": false,
+          "No": false
+        },
+        {
+          "Question": "Vomiting (throwing up) of blood?",
+          "Yes": false,
+          "No": false
+        },
+        {
+          "Question": "Blood in your bowel movements?",
+          "Yes": false,
+          "No": false
+        },
+        {
+          "Question": null,
+          "Yes": false,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": false
+        },
+        {
+          "Question": "Thyroid goiter (swelling)?",
+          "Yes": false,
+          "No": false
+        },
+        {
+          "Question": "Burning or pain when urinating (passing water)?",
+          "Yes": null,
+          "No": false
+        },
+        {
+          "Question": null,
+          "Yes": false,
+          "No": false
+        },
+        {
+          "Question": "Loss of control of the bladder?",
+          "Yes": null,
+          "No": false
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": "Venereal disease (gonorrhea, syphilis, etc.)?",
+          "Yes": false,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": false,
+          "No": null
+        },
+        {
+          "Question": "German measles (Rubella)?",
+          "Yes": null,
+          "No": false
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": "Mononucleosis?",
+          "Yes": false,
+          "No": null
+        },
+        {
+          "Question": "Large glands (lumps/swelling) in your neck?",
+          "Yes": false,
+          "No": false
+        },
+        {
+          "Question": "Mumps?",
+          "Yes": null,
+          "No": false
+        },
+        {
+          "Question": null,
+          "Yes": false,
+          "No": null
+        },
+        {
+          "Question": "Herpes zoster (shingles)?",
+          "Yes": null,
+          "No": false
+        },
+        {
+          "Question": "Polio?",
+          "Yes": null,
+          "No": false
+        },
+        {
+          "Question": "Rheumatic fever?",
+          "Yes": false,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": false,
+          "No": null
+        },
+        {
+          "Question": "Pain in your back that was so bad you were not able to do your usual work?",
+          "Yes": false,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": false,
+          "No": null
+        },
+        {
+          "Question": "Skin infections or boils?",
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": "Were you born with any defect or condition?",
+          "Yes": false,
+          "No": null
+        }
+      ]
+    }
+  }
 }

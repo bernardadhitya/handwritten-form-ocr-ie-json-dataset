@@ -1,3 +1,94 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 37 column 67 (char 1268)"
+  "title": null,
+  "compound": {
+    "name": "3-Methyl-2-pentenoic Acid",
+    "source": null,
+    "lorillard_no": null,
+    "lot_no": "OR51-59A"
+  },
+  "dates": {
+    "source": "4/27/81",
+    "tested": "6/24/81-7/8/81",
+    "reported": "7/14/81"
+  },
+  "notebook_page": null,
+  "investigator": null,
+  "toxicity_percent_survival": [
+    50,
+    null,
+    100
+  ],
+  "solvent": "DMSOWATER",
+  "concentration_mg_ml": null,
+  "other": "S. TYPHIMURIUM",
+  "strains": {
+    "TA1535": {
+      "without_S9": {
+        "plate_0.05_ml_solvent": null,
+        "compound_ug_plate": null,
+        "reversion_rate": null
+      },
+      "with_S9": {
+        "plate_0.05_ml_solvent": null,
+        "compound_ug_plate": 250,
+        "reversion_rate": null
+      }
+    },
+    "TA100": {
+      "without_S9": {
+        "plate_0.05_ml_solvent": null,
+        "compound_ug_plate": null,
+        "reversion_rate": null,
+        "plate_0": {
+          "05_ml_solvent": null
+        }
+      },
+      "with_S9": {
+        "plate_0.05_ml_solvent": null,
+        "compound_ug_plate": 500,
+        "reversion_rate": null
+      }
+    },
+    "TA98": {
+      "without_S9": {
+        "plate_0.05_ml_solvent": null,
+        "compound_ug_plate": 250,
+        "reversion_rate": null
+      },
+      "with_S9": {
+        "plate_0.05_ml_solvent": null,
+        "compound_ug_plate": null,
+        "reversion_rate": 1.06
+      }
+    }
+  },
+  "positive_control": {
+    "2-aminoanthracene": {
+      "ug_plate": 4.0,
+      "reversion_rate": [
+        0.51,
+        null,
+        null,
+        4.94,
+        null,
+        null
+      ]
+    },
+    "streptozotocin": {
+      "ug_plate": 1.0,
+      "reversion_rate": [
+        4.54,
+        42.91,
+        1.24,
+        3.02
+      ]
+    }
+  },
+  "conclusion": null,
+  "copies_to": [
+    null,
+    "Biochemistry Section",
+    "LORILLARO-RESEARCH CENTER"
+  ],
+  "form": "FORM 6 (5-80)"
 }

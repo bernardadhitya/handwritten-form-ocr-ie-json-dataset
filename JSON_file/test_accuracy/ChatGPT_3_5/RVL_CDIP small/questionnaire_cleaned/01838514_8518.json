@@ -1,3 +1,86 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 85 column 9 (char 1526)"
+  "title": null,
+  "address": {
+    "street": "801 Second Avenue",
+    "city": null,
+    "state": "NY",
+    "zip": null
+  },
+  "contact": {
+    "phone": null
+  },
+  "instructions": "Please take a few minutes to go through the advertisements in this book. Please take as much time with each ad as you care to. If you ordinarily wear reading glasses, you'll need them.",
+  "note": null,
+  "questions": [
+    {
+      "prompt": "Now I'd like to ask you a few questions about the ads in the book. Any other brands?",
+      "note": "DO NOT READ EITHER BRAND NAMES OR PRODUCT CATEGORIES.",
+      "categories": [
+        null,
+        null
+      ],
+      "brands": [
+        null,
+        null,
+        "Luke",
+        null,
+        null,
+        null,
+        "Hilton Hotels",
+        null,
+        null,
+        "Bolens Lawn Mower",
+        null,
+        "Old Spice Pocket Cologne",
+        null,
+        "Golden Light",
+        null,
+        null,
+        "Coca Cola",
+        null,
+        null,
+        "Tester's Choice",
+        null,
+        null
+      ],
+      "cigarette_brands": {
+        "if_no_mention": {
+          "question": "Do you remember any ads for cigarettes?",
+          "options": [
+            null,
+            "No"
+          ],
+          "follow_up": "What brands do you remember seeing ads for? Any others?",
+          "brands": [
+            "Luke",
+            null,
+            null,
+            null,
+            "Other (SPECIFY)",
+            null
+          ]
+        },
+        "if_one_or_two_mentioned": null,
+        "if_all_mentioned": "SKIP TO Q.4."
+      },
+      "additional_brands": [
+        null,
+        null,
+        "Golden Uasp.",
+        "Kent Golden",
+        null,
+        null
+      ],
+      "true_mention": {
+        "if_true_mentioned": null,
+        "if_true_not_mentioned": null,
+        "brands": [
+          "Light Unsp.",
+          null,
+          "True",
+          "Other (SPECIFY)"
+        ]
+      }
+    }
+  ]
 }

@@ -1,3 +1,111 @@
 {
-    "extraction_raw": "Expecting property name enclosed in double quotes: line 74 column 67 (char 2427)"
+  "program": null,
+  "retailerUnderstanding": {
+    "phaseI": {
+      "priceReduction": {
+        "Marlboro": {
+          "pack": null,
+          "carton": null
+        },
+        "Basic": {
+          "pack": null,
+          "carton": null
+        }
+      },
+      "duration": {
+        "start": null,
+        "end": null
+      },
+      "posItems": [
+        {
+          "item": null,
+          "location": "Location"
+        },
+        {
+          "item": "POS Item #2",
+          "location": "Location"
+        },
+        {
+          "item": null,
+          "location": null
+        },
+        {
+          "item": null,
+          "location": null
+        }
+      ]
+    },
+    "phaseII": {
+      "priceReduction": {
+        "Benson & Hedges": {
+          "pack": null,
+          "carton": "$2"
+        },
+        "Merit": {
+          "pack": null,
+          "carton": "$2"
+        },
+        "Parliament": {
+          "pack": "20¢",
+          "carton": "$2"
+        },
+        "Virginia Slims": {
+          "pack": "20¢",
+          "carton": "$2"
+        }
+      },
+      "duration": {
+        "start": null,
+        "end": null
+      },
+      "posItems": [
+        {
+          "item": "POS Item #1",
+          "location": null
+        },
+        {
+          "item": null,
+          "location": null
+        },
+        {
+          "item": null,
+          "location": "Location"
+        }
+      ]
+    }
+  },
+  "promotionAllowance": {
+    "phaseI": {
+      "potentialAllowance": "$"
+    },
+    "phaseII": {
+      "potentialAllowance": null
+    },
+    "flexFundAllowance": null,
+    "totalPotentialAllowance": null
+  },
+  "auditRights": null,
+  "storeDetails": {
+    "storeName": null,
+    "control": "75",
+    "storeAddress": null,
+    "phone": null
+  },
+  "representative": {
+    "name": null,
+    "territoryNumber": null,
+    "signature": "",
+    "date": ""
+  },
+  "retailer": {
+    "name": "",
+    "signature": "",
+    "date": ""
+  },
+  "distribution": {
+    "original": null,
+    "copy1": "PM Manager",
+    "copy2": "Retailer",
+    "copy3": "PM Representative"
+  }
 }

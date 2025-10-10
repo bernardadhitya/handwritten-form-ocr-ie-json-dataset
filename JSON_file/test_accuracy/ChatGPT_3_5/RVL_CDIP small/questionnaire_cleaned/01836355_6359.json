@@ -1,3 +1,74 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 48 column 12 (char 1098)"
+  "title": "NATIONAL CONSENSUS SURVEYS",
+  "address": {
+    "street": null,
+    "city": null,
+    "state": "New York",
+    "zip": null
+  },
+  "AE": null,
+  "P35": "Please take a few minutes to go through the advertisements in this book. Please take as much time with each ad as you care to. If you ordinarily wear reading glasses, you'll need them.",
+  "instructions": null,
+  "questions": [
+    {
+      "question": "What brand or products do you remember seeing ads for in the book?",
+      "brands": [
+        null,
+        null
+      ],
+      "note": "DO NOT READ EITHER BRAND NAMES OR PRODUCT CATEGORIES"
+    },
+    {
+      "category": "CIGARETTE ADS",
+      "brands": [
+        "Agans Rangs",
+        null,
+        "BankAmericard/VISA",
+        "General Electric Washer",
+        null,
+        null,
+        "Hilton Hotels",
+        null,
+        "Bolens Lawn Mower",
+        "Kawasaki",
+        "Kent",
+        "Sudvelssr",
+        "Polaroid Camera",
+        null,
+        "Canadian Club",
+        "Coca Cola",
+        null,
+        "Concord Watches",
+        "Taster's Choice",
+        null,
+        null,
+        "Weight Watchers"
+      ]
+    }
+  ],
+  "cigarette_brands": {
+    "mentioned": [
+      "Golden (Unsp.)",
+      null,
+      null,
+      "Kent Lights",
+      "Kent (Unsp.)"
+    ],
+    "other": "SPECIFY"
+  },
+  "skip_instructions": [
+    null,
+    "IF ALL CIGARETTE BRANDS IDENTIFIED, SKIP TO Q.4",
+    null,
+    "IF TRUE NOT MENTIONED IN Q.2, 3 OR 3b, SKIP TO Q.10"
+  ],
+  "additional_brands": [
+    null,
+    "Golden (Unsp.)",
+    "Kent Golden",
+    null,
+    "Kent Lights",
+    null
+  ],
+  "other_specify": "SPECIFY"
 }

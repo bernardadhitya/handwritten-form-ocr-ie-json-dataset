@@ -1,3 +1,91 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 43 column 9 (char 1186)"
+  "title": "AMES ASSAY FOR MUTAGENICITY",
+  "organization": null,
+  "source": null,
+  "lorillard_no": null,
+  "date_received": null,
+  "tested": null,
+  "reported": null,
+  "investigators": [
+    "H. S. Tong",
+    "A.A. Poole"
+  ],
+  "notebook_page": null,
+  "signatures": [],
+  "toxicity": {
+    "percent_survival": {
+      "50": null,
+      "100": null
+    }
+  },
+  "solvent": null,
+  "concentration_mg_ml": 0.05,
+  "other": "S. TYPHIMURIUM",
+  "strains": {
+    "TA1535": {
+      "no_s9": null,
+      "plus_s9": null
+    },
+    "TA100": {
+      "no_s9": null,
+      "plus_s9": null
+    },
+    "TA98": {
+      "no_s9": null,
+      "plus_s9": null
+    }
+  },
+  "compound_ug_plate": {
+    "reversion_rate": {
+      "test_revertants_control_revertants_per_plate": {
+        "50": [
+          1.39,
+          null,
+          null
+        ],
+        "25": [
+          0.71,
+          1.16,
+          null
+        ],
+        "12.5": [
+          null,
+          null,
+          null
+        ]
+      }
+    }
+  },
+  "positive_control_ug_plate": {
+    "2-aminoanthracene": {
+      "4": [
+        null,
+        null,
+        null,
+        3.37,
+        2.35,
+        20.2
+      ],
+      "2": [
+        1.03,
+        4.39,
+        null,
+        3.11,
+        0.33,
+        null
+      ]
+    }
+  },
+  "conclusion": "This compound is judged non-mutagenic in this test system.",
+  "copies_to": [
+    {
+      "name": "Dr. H. J. Minnemeyer",
+      "id": null
+    },
+    {
+      "name": null,
+      "organization": "LORILLARD-RESEARCH CENTER"
+    }
+  ],
+  "form": null
 }

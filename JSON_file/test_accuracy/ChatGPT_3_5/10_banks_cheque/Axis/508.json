@@ -1,3 +1,16 @@
 {
-    "extraction_raw": "Expecting ',' delimiter: line 9 column 27 (char 237)"
+  "bank": "AXIS BANK",
+  "transaction": {
+    "value": null,
+    "reference": null,
+    "payee": "Wafiyah Nashwa Wasem",
+    "currency": null,
+    "amount": 5113
+  },
+  "account": {
+    "number": null,
+    "code": "SAM426160",
+    "branch": null,
+    "transaction_id": "50020242616031"
+  }
 }

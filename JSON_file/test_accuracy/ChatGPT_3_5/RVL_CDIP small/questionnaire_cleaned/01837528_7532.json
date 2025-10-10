@@ -1,3 +1,56 @@
 {
-    "extraction_raw": "Expecting value: line 72 column 17 (char 1427)"
+  "title": null,
+  "address": {
+    "street": "42318",
+    "city": null,
+    "state": "New York",
+    "zip": "10017"
+  },
+  "phone": null,
+  "instructions": null,
+  "questions": [
+    {
+      "question": "What brands or products do you remember seeing ads for in the book?",
+      "note": null,
+      "categories": [
+        null,
+        "Cigarette Ads"
+      ],
+      "brands": [
+        "Anana Ranga",
+        null,
+        null,
+        "General Electric Washer",
+        "Golden Lights",
+        null,
+        null,
+        null,
+        "Canadian Club",
+        "Polaroid Camera",
+        null,
+        "Singer Sewing Machines",
+        null,
+        "Taster's Choice",
+        "Crest Toothpaste",
+        "Weight Watchers",
+        "Other (Specify)"
+      ]
+    },
+    {
+      "question": null,
+      "brands": [
+        "Golden Lights",
+        "Kent",
+        null
+      ]
+    },
+    {
+      "question": "Do you remember any ads for any other brands of cigarettes?",
+      "brands": [
+        null,
+        "Kent",
+        null
+      ]
+    }
+  ]
 }

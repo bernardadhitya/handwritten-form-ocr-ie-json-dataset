@@ -1,3 +1,61 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 35 column 19 (char 915)"
+  "study_number": null,
+  "study_type": "xxxxxx",
+  "respondent_range": null,
+  "new_cpt_screening_questionnaire": {
+    "date": null,
+    "name": null,
+    "address": null,
+    "city_state": "",
+    "telephone": null,
+    "date_interview": "",
+    "time_begun": null,
+    "interviewer": null,
+    "validated_by": "Kello, 1"
+  },
+  "introduction": "We are conducting a survey in this area about various types of products and I'd like to ask you a few questions.",
+  "interviewer_note": null,
+  "terminate_problem": null,
+  "questions": {
+    "A": {
+      "question": "First, into which of the following groups does your age fall?",
+      "options": {
+        "under_18": "Terminate and record below.",
+        "18_24": "",
+        "25_34": "",
+        "35_56": null,
+        "50_and_over": null,
+        "refused": null
+      },
+      "terminate_reason": "Wrong age/refused"
+    },
+    "B": {
+      "question": null,
+      "options": {
+        "male": "",
+        "female": ""
+      },
+      "terminate_reason": "Over quota sex"
+    },
+    "C": {
+      "question": null,
+      "options": {
+        "white": null
+      }
+    },
+    "D": {
+      "question": "Our records indicate that you use cigarettes daily. Approximately how many cigarettes do you usually smoke per day?",
+      "options": {
+        "less_than_5": "",
+        "5_10": null,
+        "11_20": "",
+        "21_30": null,
+        "31_40": null,
+        "41_or_more": "",
+        "dont_know_no_answer": "Terminate and record below."
+      },
+      "terminate_reason": "Smoke less than per day/don't know/no answer"
+    }
+  },
+  "code": "507310902"
 }

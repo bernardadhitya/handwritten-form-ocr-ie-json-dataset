@@ -1,3 +1,29 @@
 {
-    "extraction_raw": "Expecting value: line 26 column 11 (char 453)"
+  "caseNumber": "3Q30396",
+  "liquorControlBoard": null,
+  "date": null,
+  "time": "10:05 AM",
+  "noticeType": null,
+  "paymentMethod": "Check or Money Order",
+  "address": {
+    "city": "Olympia",
+    "state": null,
+    "zip": "98504-3076",
+    "POBox": "43076",
+    "street": null
+  },
+  "violation": {
+    "RCW": "24.38.080",
+    "penalty": "Proposed Penalty-oo"
+  },
+  "licensee": {
+    "UBINumber": null,
+    "name": null,
+    "tradeName": null,
+    "liquorLicenseNumber": null,
+    "cityStateZip": "City/State/Zip+4"
+  },
+  "issuedBy": "Liquor Control Agent",
+  "penaltyDueDate": null,
+  "sendPaymentTo": "Licensee"
 }

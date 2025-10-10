@@ -1,3 +1,89 @@
 {
-    "extraction_raw": "Unterminated string starting at: line 48 column 9 (char 1299)"
+  "title": null,
+  "id": "#42318W",
+  "address": {
+    "street": null,
+    "city": null,
+    "state": null,
+    "zip": "10017",
+    "additional_code": null
+  },
+  "instructions": null,
+  "questions": [
+    {
+      "question": "What brands or products do you remember seeing ads for in the book?",
+      "prompt": null,
+      "additional_prompt": "Any other brands",
+      "note": null
+    }
+  ],
+  "categories": {
+    "general_ads": [
+      "Anana Ranga",
+      "Dols Pineapple",
+      "General Electric Washer",
+      "Coldas Light",
+      "Duke",
+      "BankAmericard/VISA",
+      "Bolens Lawn Mower",
+      null,
+      null,
+      null,
+      null,
+      "Kent",
+      null,
+      null,
+      "Old Spice Pocket Cologne",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "Weight Watchers",
+      "Crest"
+    ],
+    "cigarette_ads": [
+      "Golden Light",
+      null,
+      "Kant Golden",
+      "Kent Golden Light",
+      null
+    ]
+  },
+  "cigarette_questions": [
+    {
+      "question": null,
+      "brands": [
+        null,
+        "Golcer",
+        null,
+        null,
+        null
+      ],
+      "additional_prompt": null,
+      "note": "SPECIFY"
+    },
+    {
+      "question": "Do you remember any ads for any other brands of cigarettes?",
+      "additional_prompt": "Any others",
+      "brands": [
+        "Golden Lights",
+        "Golden (Unspecified)",
+        null,
+        "Kent Light"
+      ],
+      "note": null
+    }
+  ],
+  "skip_instructions": [
+    null,
+    "IF ONLY ONE OR TWO CIGARETTE BRANDS MENTIONED SKIP TO Q.3b.",
+    null,
+    "IF NO CIGARETTE BRANDS MENTIONED ABOVE ASK",
+    "IF ONE OR TWO CIGARETTE BRANDS MENTIONED ASK",
+    null,
+    null
+  ]
 }
