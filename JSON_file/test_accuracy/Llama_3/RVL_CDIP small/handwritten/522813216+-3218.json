@@ -1,4 +1,16 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n00 Jhyno tnepn abost Do n A hat 98 52281 Brall.? 3216 WH already eeyd 4ctnstr this year. 3216 WH already eeyd 4ctnstr this year. 3216 WH already eeyd 4ctnstr this year. 3216 WH already eeyd 4ctnstr this year. "
+  "number": "00",
+  "name": "Jhyno",
+  "code": "tnepn",
+  "type": "abost",
+  "status": "Do",
+  "flag": "n",
+  "category": "A",
+  "item": "hat",
+  "value": "98",
+  "id": "52281",
+  "location": "Brall.",
+  "zip": "3216",
+  "state": "WH",
+  "note": "already eeyd 4ctnstr this year"
 }

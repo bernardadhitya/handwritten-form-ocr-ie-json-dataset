@@ -1,3 +1,29 @@
 {
-    "error": "Extra data: line 9 column 1 (char 95)"
+  "caseNumber": null,
+  "agency": "Liquor Control Board",
+  "time": null,
+  "state": null,
+  "date": null,
+  "noticeType": null,
+  "permitNumber": "L",
+  "cityState": null,
+  "violation": null,
+  "administration": {
+    "address": "PO Box 43076",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": null
+  },
+  "licensee": {
+    "name": null,
+    "address": null,
+    "county": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "tradeName": "TradeName"
+  },
+  "issuedBy": null,
+  "proposedPenalty": null,
+  "sendMonetaryCostsTo": null
 }

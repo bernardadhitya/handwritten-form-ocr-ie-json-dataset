@@ -1,4 +1,20 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nngallswunyig VERSEMENTESPECES BIAT 907043 nmMari.Kal Netu rersst lar cwar.\nWafiyah Nashwa Wasem R.1.B.\nw.One.Jhausand.netnred.and Total du yerscment 191S Futeen Nate deloptrotion Signaturc du clicnt Caisse Cocher ct visa de la AT 06/05122 1144 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+  "transaction": {
+    "type": "VERSEMENTESPECES",
+    "bank": "BIAT",
+    "account_number": "907043",
+    "client_name": "Wafiyah Nashwa Wasem",
+    "description": "Netu rersst lar cwar.",
+    "recipient": null,
+    "reference": "R.1.B.",
+    "amount": "w.One.Jhausand.netnred.and",
+    "total": "191S",
+    "note": "Futeen",
+    "signature": "Signaturc du clicnt",
+    "client_signature": "Caisse",
+    "cashier": null,
+    "check_and_visa": "06/05122",
+    "date": null,
+    "code": null
+  }
 }

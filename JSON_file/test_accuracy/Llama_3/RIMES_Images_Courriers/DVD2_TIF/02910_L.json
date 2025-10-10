@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n3lscd t7 0& gAUAy Uanssa 1f eue Yambeta 6Q M3 DoSRgES o6 33o LE TgnEi &E. C&nt : BMHULS4 N2 T&Q: 04.41.Q9.86.15 Le Tigns, l 1Q C@uoE Qoo4 'amopol oY nod xr p nrS le ow NOOS 2camahos I ouet dit.\nnote pant do L asas&l d mo dospeR.\nde 1souca S sCOp 9penast upe Reponoe do vote pont zo&o jP owd cmoyymos Nono`an, nes sD&s 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o"
+  "document": "3lscd t7",
+  "scenario": "0& gAUAy Uanssa",
+  "writer": "1f eue Yambeta",
+  "sender_person": "6Q M3 DoSRgES",
+  "sender_company": "o6 33o LE TgnEi",
+  "sender_tel": "&E. C&nt : BMHULS4",
+  "sender_fax": "N2 T&Q: 04.41.Q9.86.15",
+  "receiver_person": "Le Tigns, l 1Q C@uoE Qoo4",
+  "receiver_company": "'amopol",
+  "date": "oY nod xr p nrS",
+  "place": "le",
+  "box": "ow"
 }

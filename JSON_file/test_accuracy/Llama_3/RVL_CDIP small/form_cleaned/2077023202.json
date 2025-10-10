@@ -1,4 +1,85 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nse ee ee eee REQUEST FOR SPECIAL MAILING/MESSENGER INSTRUCTIONS: Complete af intrmation requested! below, retain the pink copy for your records. Adach form and labels (2 labels rue for ‘overnight pack...\nNOTE: ON FRIDAY, UNLESS SPECIFIED, OVERNIGHT DELIVERIES WILL BE MADE ON MONDAY SERVICE #_ COURIER (AIR) (MESSENGER (LOCAL) sown fo. lb package 2o-Reguer Shows $525 22-Quemight by 10:30 $6.50 —> 90-Fus...\n25-Socond Day $350 ‘and destination LUPSIRPS (GROUND) US. POSTAL SERVICE Prices shown for b packaget Pree shown fr t ounce envelope FOR 26-Regular 32-Priorty Mall $3.00 up to 2 bs. S&R USE Residential...\nBusiness $295 ‘4- int Regatred Mall $545 ‘Price may vary depending on zip code 35-Express Mall $10.75 36-Cortleg tum Recapt” $252 INTERNATIONAL SHIPMENTS. ‘B7-Hnl Registered Retum Recelpt_ $8.55 Price...\n27-{rtainal Courier (Non Pouen) ‘0-Inl, Express Mall Staring at $11.50 as $14.00 40-Inf Mal (Small Package under As) ‘Prices wil vary depending on weight ‘and destination SHIPTO PICK-UP FROM 0 TER Wo..."
+  "instructions": null,
+  "name": null,
+  "date_extension": null,
+  "division": {
+    "code_selection": {
+      "1": null,
+      "2": null
+    },
+    "division_number": "",
+    "department": {
+      "101": null,
+      "108": null,
+      "201": null,
+      "102": null,
+      "109": "Audit",
+      "202": "Marketing",
+      "103": null,
+      "110": null,
+      "203": null,
+      "104": null,
+      "105": null,
+      "111": null,
+      "204": "Corp. Affairs",
+      "112": "HQ Services",
+      "205": null,
+      "106": "Personnel",
+      "113": null,
+      "206": null,
+      "107": null,
+      "114": null,
+      "207": null
+    },
+    "department_number": null
+  },
+  "type_of_service": {
+    "note": null,
+    "service_number": null,
+    "courier": {
+      "air_messenger_local": {
+        "29": "Regular 3 hours $5.25",
+        "22": null,
+        "30": null,
+        "23": null,
+        "31": null,
+        "insured": {
+          "24": null,
+          "25": null
+        }
+      }
+    },
+    "ups_rps_ground": {
+      "26": "Regular Residential $2.35",
+      "business": null
+    },
+    "us_postal_service": {
+      "32": "Priority Mail $3.00 up to 2 lbs.",
+      "33": null,
+      "34": null,
+      "35": null,
+      "36": null
+    },
+    "international_shipments": {
+      "27": null,
+      "39": null,
+      "40": null
+    }
+  },
+  "weight": null,
+  "ship_to": {
+    "name": null,
+    "c_o": null,
+    "address": "SXH",
+    "city": null,
+    "pcode": null,
+    "telephone": null
+  },
+  "pick_up_from": "2077023202",
+  "form_number": null,
+  "distribution": {
+    "white": null,
+    "yellow": null,
+    "pink": "Requestor"
+  }
 }

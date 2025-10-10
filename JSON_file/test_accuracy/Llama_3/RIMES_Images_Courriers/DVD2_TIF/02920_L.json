@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nomvel 8 rn s2 7O0 LifFoP le YeFI 1el: 03 06 30 2% 90 CAF oLace alt 8837O P1omhiec kshain 29 K`P 9uP0N9 mariagey avec vows xlai cloncgres de pnn&ve en cgm u @!Y@p]is cnas snf: 1el 1el 1el 1el 1el 1el 1el 1el 1el 1el 1el 1el 1el 1el 1el 1el 1el 1el 1el 1el 1el 1el 1el 1el 1el 1el 1el 1el 1el"
+  "document": "omvel",
+  "scenario": "rn",
+  "writer": "s2 7O0 LifFoP le YeFI",
+  "sender_person": "1el: 03 06 30 2% 90",
+  "sender_company": "CAF",
+  "sender_tel": "oLace alt",
+  "sender_fax": "8837O P1omhiec kshain",
+  "receiver_person": "29",
+  "receiver_company": "K`P 9uP0N9",
+  "date": "mariagey avec",
+  "place": "vows xlai cloncgres",
+  "box": "de pnn&ve en cgm"
 }

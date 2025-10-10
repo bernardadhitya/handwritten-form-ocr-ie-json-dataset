@@ -1,4 +1,27 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nFROM: THOM SMITH TO: VINCELOSITO REGISTRATION FORM CC: _T. BAYLIES, L. GIORDANO, V. LINDSLEY, M. McGLYNN, S. RAPISARLDI, 0 4 a BRANDS(S) APPLICABLE MEDIA ISSUE FREQUENCY/YEAR SPACE/COLOR COUPON ISSUE...\nee —HARLEV=pavrnson MAGAZINE ~ HOT ROD L FULL PAGE 11/30/93 25,461 TOTAL HOUSTON, GALVESTON, MINNEAPOLIS, ST. PAUL, DULUTH 75 OFF 1 BACK PACK 2[/a3 20 FOR CONTROL USE ONLY: 3-6 Ske CODE ASSIGNED: Bure... (continued)\n\n... 3-6 Ske CODE ASSIGNED: Bure... (continued)\n\n... 3-6 Ske CODE ASSIGNED: Bure... (continued)\n\n... 3-6 Ske CODE ASSIGNED: Bure... (continued)\n\n... 3-6 Ske CODE ASSIGNED: Bure... (continued)\n\n... 3-6 Ske CODE ASSIGNED: Bure... (continued)\n\n... 3-6 Ske CODE ASSIGNED: Bure... (continued)\n\n... 3-6 Ske CODE ASSIGNED: Bure... (continued)\n\n... 3-6 Ske CODE ASSIGNED: Bure... (continued)\n\n... 3-6 Ske CODE ASSIGNED: Bure... (continued)\n\n... 3-6 Ske CODE ASSIGNED: Bure... (continued)\n\n... 3-6 Ske CODE ASSIGNED: Bure... (continued)\n\n... 3-6 Ske CODE ASSIGNED: Bure... (continued)\n\n... 3-6 Ske CODE ASSIGNED: Bure... (continued)\n\n... 3-6 Ske CODE ASSIGNED: Bure... (continued)\n\n... 3-6 Ske CODE ASSIGNED: Bure... (continued)\n\n... 3-6 Ske CODE ASSIGNED: Bure... (continued)\n\n... 3-6 Ske CODE ASSIGNED: Bure... (continued)\n\n... 3-6 Ske CODE ASSIGNED: Bure... (continued)\n\n... 3-6 Ske CODE ASSIGNED: Bure... (continued)\n\n... 3-6 Ske CODE ASSIGNED: Bure... (cc) 3-6 Ske CODE ASSIGNED: Bure... (continued)\n\n"
+  "couponCodeRegistrationForm": {
+    "from": "THOMSMITH",
+    "to": "VINCELOSITO",
+    "brandsApplicable": "HARLEY-DAVIDSON",
+    "media": "MAGAZINE -HOT ROD",
+    "issueFrequencyPerYear": "1",
+    "spaceColor": "FULL PAGE",
+    "couponIssueDate": "5/19/93",
+    "couponExpirationDate": "11/30/93",
+    "circulation": "25,461",
+    "geographicalAreas": [
+      "TOTAL HOUSTON, GALVESTON, MINNEAPOLIS, ST. PAUL, DULUTH"
+    ],
+    "couponValue": "$.75 OFF1 RACK",
+    "advertisingCreativeTheme": "BLUE SKY",
+    "signatureOfInitiator": null,
+    "dateInitiated": null,
+    "analyticalRequirements": "FOR CONTROL USE ONLY",
+    "forControlUseOnly": {
+      "codeAssigned": "93-056",
+      "jobNumber": "9076",
+      "91391286": "91391286",
+      "estRedemption": "1.54"
+    }
+  }
 }

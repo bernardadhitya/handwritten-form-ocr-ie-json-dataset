@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nSALESsZ CwWe CRemn deo ampopu ta Boge Le 25/nI90oc FR0 iDzTe rre 70 900 Obyen Aumenilo der gotte ennaveres commandees BANQUE IEBlT LYONNAs Bdl d la Luoerte NwV hy 91 83 N 4 3 LE VAL.\nmantl waMN mo1 sp mF mw oI dnvee es quondt Rrnuraae cmmendee Re ls de emi e de deKr mm cmpKe cnuanY d co oeiokm ordpo Pes:\neueles conee Imsve,  esuenve de me.\nsentumens distne,  eueles conee Imsve,  esuenve de me.\neueles conee Imsve,  esuenve de me.\neueles conee Imsve,  esuenve de me.\neueles conee Imsve,  esuenve de me.\neueles conee Imsve,  esuenve de me.\neueles conee Imsve,  esuenve de me.\neueles conee Imsve,  esuenve de me.\neueles conee Imsve,  esuenve de me.\neueles conee Imsve,  esuenve de me.\neueles conee Imsve,  esuenve de me.\neueles conee Imsve,  esuenve de me.\ne"
+  "document": "SALESsZ CwWe",
+  "scenario": "CRemn deo ampopu ta Boge",
+  "writer": "Le 25/nI90oc",
+  "sender_person": "FR0 iDzTe rre",
+  "sender_company": "BANQUE IEBlT LYONNAs",
+  "sender_tel": "70 900",
+  "sender_fax": "Obyen Aumenilo der gotte",
+  "receiver_person": "ennaveres commandees",
+  "receiver_company": "Bdl d la Luoerte",
+  "subject": "NwV hy 91",
+  "date": "83 N 4 3",
+  "place": "LE VAL.",
+  "box": "mantl"
 }

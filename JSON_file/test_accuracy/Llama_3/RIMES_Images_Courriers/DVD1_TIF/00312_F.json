@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nTélécopie/Facsimilé Destinataire Nom/Name BoF Tee com Service/Entreprise/Department/Company Service/Department Télécopieur/Fax na Télécopieur/Fax n Téléphone/Telephone Date Page1/ page(s) ChvY n t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t& Ré.../t&"
+  "document": "Télécopie/Facsimilé",
+  "scenario": null,
+  "writer": null,
+  "sender_person": "BoF Tee com",
+  "sender_company": "Service/Entreprise/Department/Company",
+  "sender_tel": "Téléphone/Telephone",
+  "sender_fax": "Télécopieur/Fax na",
+  "receiver_person": "Nom/Name",
+  "receiver_company": "Service/Department",
+  "subject": null,
+  "date": "Date",
+  "place": "9 rue Charles Fourier 91011 Evry Cedex",
+  "box": "Page1/"
 }

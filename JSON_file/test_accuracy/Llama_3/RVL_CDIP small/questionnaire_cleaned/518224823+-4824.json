@@ -1,23 +1,27 @@
 {
-    "address": {
-        "street": "3903 Delano St.",
-        "city": "Houston",
-        "state": "TX",
-        "zip": "77004",
-        "additional": "Winston-Salem, N. C. 27102"
-    },
-    "customer": {
-        "name": "Ms. Catherine Williams Consumes Rotations"
-    },
-    "letter": {
-        "content": "Dear Valued Customer: Recently you contacted R. J. Reynolds' Consumer Relations Department and gave us the opportunity to respond.to your request for assistance with either a promotion of product related issue. In an effort to better serve our customers, we are asking you to please take a few minutes to complete a questionnaire about how well you were treated by our company representative. After completing the survey on the reverse side of this letter, please return it in the enclosed postage-paid envelope. Thank you for taking the time to let us know how our staff met your expectations. ~ We value your opinion and appreciate your business. Tanke Corned) Mark Conrad Consumer Satisfaction Research Manager"
-    },
-    "manager": {
-        "name": "Mark Conrad",
-        "title": "Consumer Satisfaction Research Manager"
-    },
-    "contact": {
-        "phone": "1-95",
-        "email": "1902047"
-    }
+  "company": "R.J. Reynolds' Tobacco Company",
+  "noid": "noid",
+  "contact_person": "Ms. Catherine Williams",
+  "address": {
+    "street": "3903 Delano St.",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77004"
+  },
+  "headquarters": {
+    "city": "Winston-Salem",
+    "state": "N.C.",
+    "zip": "27102"
+  },
+  "salutation": "Dear Valued Customer",
+  "message": "Recently you contacted R.J. Reynolds'Consumer Relations Department and gave us the opportunity to respondto your request for assistance with either a promotion or product related issue.",
+  "signature": "Mark Conrad",
+  "title": "Consumer Satisfaction Research Manager",
+  "postscript": "We work for smokers.",
+  "codes": [
+    "51822",
+    "4823",
+    "1902047",
+    "1-95"
+  ]
 }

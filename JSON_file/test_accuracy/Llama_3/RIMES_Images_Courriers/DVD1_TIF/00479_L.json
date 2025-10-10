@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nle 9/10/ 2oo6 SOHIER Ehustuae Loe Bourg 25190 Soulce Genay Celdomadare\" CopCoule 1 Rue de'Soult3 matt cfclenr:T 0AZX 36 68250 WestbaPten e 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+  "document": "SOHIER Ehustuae",
+  "scenario": null,
+  "writer": null,
+  "sender_person": "Ehustuae",
+  "sender_company": "Loe Bourg",
+  "sender_tel": "T 0AZX 36",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "date": "9/10/2006",
+  "place": "Soulce Genay, 25190",
+  "box": "1 Rue de'Soult3 matt"
 }

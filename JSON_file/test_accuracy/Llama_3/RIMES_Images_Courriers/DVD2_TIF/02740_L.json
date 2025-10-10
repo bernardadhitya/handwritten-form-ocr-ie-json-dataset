@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nPlnTEAU Gaie hO p&aQ NATi`ONAlE Sg390 FnouarO l.c380 32 9985 Ag.czr: w CT s B4 1 FQOUAQD & 1o 1irin 2oo7 ma sruaFi &nuQee agani de pede man emp&a1 j sdliare un eruoiu w &JRa de cn dr iwn a Madae,Monsi... (text truncated)\n\n...& 1o 1irin 2oo7 ma sruaFi &nuQee agani de pede man emp&a1 j sdliare un eruoiu w &JRa de cn dr iwn a Madae,Monsi... (text truncated)\n\n...& 1o 1irin 2oo7 ma sruaFi &nuQee agani de pede man emp&a1 j sdliare un eruoiu w &JRa de cn dr iwn a Madae,Monsi... (text truncated)\n\n...&"
+  "document": "PlnTEAU Gaie",
+  "scenario": "hO p&aQ NATi`ONAlE",
+  "writer": "Sg390 FnouarO",
+  "sender_person": "l.c380",
+  "sender_company": "32 9985",
+  "sender_tel": "Ag.czr: w CT s B4 1",
+  "sender_fax": "FQOUAQD & 1o 1irin 2oo7",
+  "receiver_person": "ma sruaFi &nuQee agani",
+  "receiver_company": "de pede man emp&a1 j sdliare un",
+  "date": "eruoiu w &JRa",
+  "place": "de cn dr iwn",
+  "box": "Madae,Monsium, a &'anarQ c Fanre ma cnjou'rarbn ralmlle Plo/con"
 }

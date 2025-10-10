@@ -1,4 +1,47 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nSEP-23-08 19:51 Frow:MO-SF 415-512-4077 T-069 P.03/05 Job-040 + ppon prise STH F-20R ret reenies on tees PILLSQURY, MADISON & SUTRO 26 0use racer Posr oFFict Gox 7000 GAN FRANCISCO, seangeves FACSIMIL...\nDagar albedo At. Loan ok (LaasthlWlfae Theabe Yer xEsance PyOLBLEIZ Phone Number of Faésimile Machine 916-323-6849 Fhong Number of Company client No.\nGen. Clas! 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+  "fax": {
+    "date": "3/17/89",
+    "totalPages": "1",
+    "to": {
+      "name": "THOMAS WARRINER",
+      "company": "HEALTH AND WELFARE AGENCY"
+    },
+    "from": {
+      "name": "JULIA EPLEY"
+    },
+    "contact": {
+      "phone": "415983~KXAS",
+      "fax": "91.6-323-6849"
+    },
+    "message": "IF YOU DO NOT RECEIVE THE CORRECT NUMBER OF PAGES, PLEASE CALL BEA 415983~KXAS SOON AS POSSIBLE.",
+    "client": {
+      "clientNo": "GEN. CLASS.",
+      "subject": "suaJsct",
+      "subjectNo": "sabac Ho."
+    }
+  },
+  "sender": {
+    "name": "CARLE AOCRESS EVA",
+    "address": {
+      "street": "TCH ALMADEN BCULEVARD",
+      "postOfficeBox": null,
+      "city": null,
+      "state": null,
+      "zip": null
+    },
+    "telephone": "3365",
+    "telex": "TELEX3473",
+    "facsimile": "FACSIMILE TRANSMLSSION COVER SHEET"
+  },
+  "receiver": {
+    "address": {
+      "city": "SAN FRANCSCO",
+      "state": "CALIFCRNIA",
+      "zip": "S4120"
+    },
+    "telephone": null,
+    "cableAddress": null,
+    "range": null,
+    "boulevard": null
+  }
 }

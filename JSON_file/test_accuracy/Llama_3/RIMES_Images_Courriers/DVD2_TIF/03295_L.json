@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nNMA AwnanCes Mm AVCLAiR Dyne 16 Re Th.d Pwymaigre LE BOURG S 7 97o IN6LANGE 3U u%o POV ZoULLES Te: 03_u5.0-63.43 Rewn& &nt: VCAOB3 7 Imjlange,& Ou ras 2c7 dbadame, chonsieur d' assurane.je derefiue d...\nye suis t xtisfaie de vo 1estatiom et ss me peumet donc d nous demander des imfermtiom conwmnt no cona d'assramw nu je m ccmms pas Qa marca a suiu.\nJe vu sdlliate afin de me fir 1art de contatle mieux adate a ma suation qe ra cmnaou3 e comt sgalement su &e Yait de men anciemme lDiwn.\n1ggg).\nMua qr avama,je reste a nou dispoition N ealley agrier, Cladame,consieur, mer sinceres s&utatioy, je vous remercie de vos conatle.\nTranslation:\n\nNMA AwnanCes Mm AVCLAiR Dyne 16 Re Th.d Pwymaigre LE BOURG S 7 97o IN6LANGE 3U u%o POV ZoULLES Te: 03_u5.0-63.43 Rewn& &nt: VCAOB3 7 Imjlange,& Ou ras 2c7 dbadame, chonsieur d' assurane.je derefiue d...\nye suis t xtisfaie de vo 1estatiom et ss me peumet donc d nous demander des imfermtiom conwmnt no cona d'assramw nu je m ccmms pas Qa marca a suiu.\nJe vu sdlliate afin de me fir 1art de contatle mieux adate a ma suation qe ra cmnaou3 e comt sgalement su &e Yait de men anciemme lDiwn.\n1ggg).\nMua qr avama,je reste a nou dispoition N ealley agrier, Cladame,consieur, mer sinceres s&utatioy, je vous remercie de vos conatle.\n\nStructured JSON output:\n\n```json\n{\n  \"text\": \"NMA AwnanCes Mm AVCLAiR Dyne 16 Re Th.d Pwymaigre LE BOURG S 7 97o IN6LANGE 3"
+  "document": "NMA AwnanCes",
+  "scenario": "Mm AVCLAiR Dyne",
+  "writer": "LE BOURG",
+  "sender_person": "S 7 97o IN6LANGE",
+  "sender_company": "3U u%o POV ZoULLES",
+  "sender_tel": "Te: 03_u5.0-63.43",
+  "sender_fax": "Rewn& &nt: VCAOB3 7",
+  "receiver_person": "Imjlange,& Ou ras 2c7",
+  "receiver_company": "dbadame, chonsieur d' assurane.je derefiue d um contat asswanle Adittiom",
+  "date": "16 Re Th.d Pwymaigre",
+  "place": "LE BOURG",
+  "box": "Mua qr avama,je reste a nou dispoition"
 }

@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n[Adresse] 6 Rue des Maréchaux LOUlSON Rachel [Téléphone] 03 12 38 52 36 Télécopie Rache A: SCRiBEOm oCYO7 1oa TeIecopie: O1 6O A6 Q3 3 3 Nombre de pages :3 (y Couny c&e_ ci Date: 2HOu/o7 Téléphone :\n0bjet: 6eiou o Cinile Cc :\nUrgent  Pour révision Pour commentaires Veuillez répondre  Veuillez recycler houoa ei`yatF & 7pusa cU ua 0?Mm 8C Saluhali 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+  "document": "6 Rue des Maréchaux",
+  "scenario": null,
+  "writer": "LOUlSON Rachel",
+  "sender_person": "LOUlSON Rachel",
+  "sender_company": "SCRiBEOm",
+  "sender_tel": "03 12 38 52 36",
+  "sender_fax": "O1 6O A6 Q3 3 3",
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "6eiou o Cinile",
+  "date": "2HOu/o7",
+  "place": null,
+  "box": null
 }

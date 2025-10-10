@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nSCRIPTO YAHIAOUI Romain 48, rue Professeur SCRIPTO Florence Tel : 04 72 91 27 32 69003 Lyon Tel :0472912750 Fax : 04 72 91 27 78 Formulaire de transmission de télécopie A :\nDe:\nNom: La Reb Date d'envoi :\nCopie :\n26 REv O7 Téléphone :\nNombre de pages : 2 Télécopie :\nMessage :\ntrou vez ci cri ons de m od devniere co mm ma nde\ntrouvez ci cri ons de m od devniere co mm ma nde\ntrouvez ci cri ons de m od devniere co mm ma nde\ntrouvez ci cri ons de m od devniere co mm ma nde\ntrouvez ci cri ons de m od devniere co mm ma nde\ntrouvez ci cri ons de m od devniere co mm ma nde\ntrouvez ci cri ons de m od devniere co mm ma nde\ntrouvez ci cri ons de m od devniere co mm ma nde\ntrouvez ci cri ons de m od devniere co mm ma nde\ntrouvez ci cri ons de m od devniere co mm ma nde"
+  "document": "SCRIPTO",
+  "scenario": "YAHIAOUI Romain",
+  "writer": "YAHIAOUI Romain",
+  "sender_person": "La Reb",
+  "sender_company": "SCRIPTO",
+  "sender_tel": "04 72 91 27 32",
+  "sender_fax": "04 72 91 27 78",
+  "receiver_person": null,
+  "receiver_company": "SCRIPTO",
+  "subject": "trou vez ci cri ons de m od devniere co mm ma nde",
+  "date": null,
+  "place": "48, rue Professeur, 69003 Lyon",
+  "box": null
 }

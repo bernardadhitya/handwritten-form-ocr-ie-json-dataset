@@ -1,4 +1,77 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\not ‘cousenses suavers anes roan s:\nAube fost anat Jidttn  Lafeseak he 1, Please tates fev sinvten to go thvough che sdvercisbarate tn’ ehie book. Phasse uch ion vith each ad as you aate ton Tt you ordinarily veer readlag (owl eene the...\nyou a fou questse What rants or produces do you repaaber seeing ad for tx the Yook? bay other randat (O0 NOT apAp EiTuua nrAND SwOrS.O€ PRONUCE CATEGORIES.) = ieawerze aps ae ange Cs Beakderesesra/VSA...\nse (Er No cicaReTTe seavos wSurioNED aBove, ASK.28:) (LP OL O#E-o8 TWO CICARETEE. BRANDS HENTLONED, SKIP TD @.38.)~ (a aut (THREE) ctanaer iw Geass wexTiosin,. 817 70 3.4.) 36,” (Ee 0° cloanerté saat... (a 0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"
+  "address": {
+    "street": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "instructions": null,
+  "note": null,
+  "brands": {
+    "cigarette_ads": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      "Bayer Aspirin",
+      null,
+      null,
+      null,
+      "Old Spice Pocket Cologne",
+      null,
+      null,
+      null,
+      null,
+      null,
+      "Polaroid Camera",
+      "Kent",
+      "Light",
+      null,
+      "Singer Sewing Machines",
+      null,
+      "Unsp.",
+      "Concord Watches",
+      null,
+      null,
+      null,
+      null,
+      "Other (SPECIFY)"
+    ]
+  },
+  "questions": {
+    "Q3a": null,
+    "Q3b": "IF ONLY ONE OR TWO CIGARETTE BRANDS MENTIONED SKIP TO Q.3b.",
+    "Q4": "IF ALL THREE CIGARETTE BRANDS MENTIONED SKIP TO Q.4.",
+    "Q15": {
+      "question": "Do you remember any ads for cigarettes?",
+      "response": "Yes",
+      "follow_up": "What brands do you remember seeing ads for?",
+      "options": [
+        null,
+        null,
+        "Leat",
+        null,
+        null,
+        null,
+        null,
+        "Light (Unsp.)",
+        null
+      ]
+    },
+    "Q16": {
+      "question": null,
+      "response": null,
+      "options": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Other (SPECIFY)"
+      ]
+    }
+  }
 }

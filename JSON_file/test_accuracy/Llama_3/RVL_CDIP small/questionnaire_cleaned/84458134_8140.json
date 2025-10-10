@@ -1,4 +1,138 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nae AP WARKETING RESEARCH WATIONAL CONSENSUS SURVEYS 801 Second. Avenue usd aasiru New York, New York 10017 Buse ayy 1977 R cXCARETTE rowtvoLto SCREENING QUESTIONATRE Tie: INTERVIEW: STARTED: Yi 2o em:...\nerenvieven: ares VALIDATED BY! ares (noreare cir.) ————_____—> Abas Boston 2 Buffalo ——— 3 Desver -m-nmrmm—on= Hello. 1'e from Nattonal, Des Hos meses! DP Consensus Suiveya. Wo ate conducting « atuly...\n123 4 5 6 7 8 9 0 1 13 M4 15 16 17 18 19 20 21 22 23 26 25 26 27 28 29 30 51 32 33 34 35-36 37 38 99 40 G1 42 43 Ab 4546-47 48 49 50 51 52 53 54 55 56 57 8 59 60 61 62 63 66 65 66 67 GH 69 70 71 72:73...\n(CERMTWATE AND CIRCLE NEXT HIGHEST NER ‘ELAN NEXT TO PUNDER OR OVER ACE\") <€<—— (conte) —— (PeRMINATE AND CIRCLE WEXT MIONEST HUMBER GELOW REXT'TO \"WADER OF OVER AGE\") €— T.\nwon on oven _—___- — we [— #2. se 7 8 9 © uD (TARE SACK AGE CARD.) vetschbe corny ——- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —- —"
+  "company": "AHF MARKETING RESEARCH",
+  "division": null,
+  "address": {
+    "street": null,
+    "suite": null,
+    "city": null,
+    "state": null,
+    "zip": "10017"
+  },
+  "date": null,
+  "reference_number": null,
+  "project": {
+    "title": null,
+    "type": null,
+    "code": null
+  },
+  "survey": {
+    "started": "420",
+    "ended": null,
+    "respondent": {
+      "name": null,
+      "telephone": null,
+      "address": null,
+      "state": null,
+      "metro_area": "",
+      "city": null
+    },
+    "validation": {
+      "validated_by": "",
+      "date": "(5)"
+    },
+    "cities": [
+      null,
+      "Buffalo",
+      null,
+      null,
+      null,
+      null,
+      null,
+      "Syracuse"
+    ],
+    "initial_refusal": [
+      null,
+      null,
+      14,
+      null,
+      null,
+      null,
+      20,
+      null,
+      null,
+      null,
+      null,
+      25,
+      null,
+      null,
+      28,
+      29,
+      null,
+      3,
+      32,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      46,
+      null,
+      null,
+      null,
+      null,
+      52,
+      null,
+      null,
+      60,
+      null,
+      62,
+      null,
+      null,
+      null,
+      null,
+      81,
+      82,
+      96,
+      97,
+      null
+    ],
+    "participated_in_study": {
+      "question": null,
+      "answers": {
+        "yes": null,
+        "no": null
+      },
+      "options": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        9,
+        10,
+        null,
+        null
+      ]
+    },
+    "age_card": {
+      "question": null,
+      "answers": {
+        "A": null,
+        "B": null,
+        "C": null,
+        "D": null,
+        "E": null,
+        "F": null,
+        "G": null
+      },
+      "terminate": null,
+      "under_or_over_age": [
+        null,
+        null,
+        null,
+        7,
+        null,
+        null,
+        null,
+        11,
+        null
+      ]
+    }
+  }
 }

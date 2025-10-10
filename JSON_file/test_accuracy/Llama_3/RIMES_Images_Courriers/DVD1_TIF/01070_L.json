@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nTu Ly fhanaI Bue fa toope 11&OO STJuole' o R Plaw oktEyl:se 2l 01 23.58.5&.01 192JO Sorhac J:gnBbv22 21/11/2006 su'mou P lau basant ahsi 6Q b O a 45euros mems smuauce MreA 1 mouoi`ew 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+  "document": "Tu Ly fhanaI",
+  "scenario": "Bue fa toope",
+  "writer": null,
+  "sender_person": null,
+  "sender_company": "11&OO STJuole' o R",
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "Plaw oktEyl:se",
+  "date": "21/11/2006",
+  "place": "su'mou P lau",
+  "box": "45euros"
 }

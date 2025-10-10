@@ -1,4 +1,42 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nPurchased Filter Request Form supplier § _ELL Date Ordered 9-29-94 Supplier Sample I. D. P.0.No.\nFiler Desripion == SAE Cavity LENGTH Study [/esuot Ty (3 cavity) Mono-Filter _t— Charcoal Dual Filter — —_ Type Triple Solid Quantity Cavity Other —_.\nFilter Rod Dimensions JOS X_2¥¢-€3 Filter Rod Plugwrap = <-=G- NoN -foKkous Filter Rod P. D. 320 trv. 80 _ Plasticizer Type & Level TIACET LM : Ry Quantity LO TRAYS Delivery Date ASAL. :\nProject Leader BPINERTEE Related Test No.\nAN Number AN _2784/ date Received Sampling Program Sampled By: CLey # of Points ___sReps= __ Tested By: tH cley :\nYe. Becky Dunn Skue Kalenow Rennie “Wiley St6> sorzs\nProject Manager: 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+  "PurchasedFilterRequestForm": {
+    "Supplier": null,
+    "DateOrdered": null,
+    "SupplierSampleID": null,
+    "PONo": null,
+    "FilterDescription": {
+      "SAF": null,
+      "CavityLengthStudy": null,
+      "13Cavity": null,
+      "MonoFilter": null,
+      "Charcoal": null,
+      "DualFilterType": null,
+      "TripleSolid": null,
+      "Quantity": null,
+      "Cavity": null,
+      "Other": null
+    },
+    "FilterRodDimensions": null,
+    "NonPorous": null,
+    "FilterRodPlugwrap": null,
+    "FilterRodPD": null,
+    "TipPD": null,
+    "PlasticizerTypeAndLevel": null,
+    "Quantity": null,
+    "DeliveryDate": null,
+    "ProjectLeader": null,
+    "RelatedTestNo": null,
+    "ANNumber": null,
+    "DateReceived": null,
+    "SamplingProgram": null,
+    "SampledBy": null,
+    "NumberOfPoints": "Rer",
+    "TestedBy": null,
+    "AdditionalInfo": {
+      "Uungm9J": null,
+      "521084915": null,
+      "SkueKikman": null,
+      "RennieTilley": null
+    }
+  }
 }

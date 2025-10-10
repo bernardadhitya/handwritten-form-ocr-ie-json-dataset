@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nY Oztwk La Reroute 26 noute du 2igrell.\nLmoC X 67 u 50 LamentRein 4 8000 3ADAR0UX C2l: 03.81.86.45.82 amertReim,& 5 Aril 2oo7 Ref Cmt:PNQik 25 iqor p smvf -y mF ow rapbowo  P mnHY Lerdialement 4 8000 3ADAR0UX C2l: 03.81.86.45.82 amertReim,& 5 Aril 2oo7 Ref Cmt:PNQik 25 iqor p smvf -y mF ow rapbowo  P mnHY Lerdialement 4 8000 3ADAR0UX C2l: 03.81.86.45.82 amertRe"
+  "document": "La Reroute",
+  "scenario": "26 noute du 2igrell",
+  "writer": "Y Oztwk",
+  "sender_person": "LmoC X",
+  "sender_company": "67 u 50 LamentRein",
+  "sender_tel": "C2l: 03.81.86.45.82",
+  "sender_fax": "amertReim,& 5 Aril 2oo7",
+  "receiver_person": "iqor p smvf",
+  "receiver_company": "ow rapbowo  P mnHY",
+  "date": null,
+  "place": null,
+  "box": null
 }

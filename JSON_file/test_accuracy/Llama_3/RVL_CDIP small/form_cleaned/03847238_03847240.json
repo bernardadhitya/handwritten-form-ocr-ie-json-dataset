@@ -1,4 +1,28 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n4 6 8 AHP MARKETING RESEARCH 801 Second Avenue \"New York, New York 10017 Card # Date ote Note fo, Tab: Create a. “Low ter/nicdives.\n4) thatcombines \"Lowtar) % Toate Coopmet) Hak conbions (Coote a both appear in the fame Guettioaire uf} CUnse) uve within subset Nt + daate diFfevent than the others king site Taates the sare Dhive ws..."
+  "survey": null,
+  "company": "AHF MARKETING RESEARCH",
+  "address": null,
+  "job": null,
+  "code": null,
+  "questionnaire": {
+    "base": "TA 356O",
+    "title": null,
+    "job": null,
+    "question": null,
+    "card": null,
+    "date": null,
+    "note": null,
+    "columns": {
+      "taste_better": null,
+      "irritation": null,
+      "satisfaction": null,
+      "difference": null,
+      "same_taste": null
+    },
+    "subnet": {
+      "low_tar_nicotine": "Low tar/nicotine",
+      "code": null,
+      "description": "ess/low tar/nicotine"
+    }
+  }
 }

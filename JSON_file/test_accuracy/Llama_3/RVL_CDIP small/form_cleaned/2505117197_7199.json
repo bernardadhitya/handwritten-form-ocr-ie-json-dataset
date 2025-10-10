@@ -1,4 +1,79 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nCRC contract RESEARCH CENTER FORM NO. 144 6 CW 84 ORO/BRW _[PERFORMLABFOVLOW, Form epprovea: te Tels, W MEASUREMENT OF FLOW RATE prosect no.}B} (lO Group code: GK Presumed flow rate (Vimin) : hoo Unco...\n1st Pre-dilution 2nd Pre-dilution Site of measurement (0.9., description, plan): [Conditions for measurement (e.g., tubes, aeaey : gene J Woon Je ye cibabion Srhlod (Urcm| | “Bobbellneken | ROTAMETER...\nBUR] | ZBLLLISOSe draft Date:\n{A wiung, 8 : eteulaon,C : mong up, © :eacing, &: copy, Fs ather with explanation Initials: 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1"
+  "contractResearchCenter": null,
+  "formNumber": null,
+  "code": null,
+  "department": "DRD/BRW",
+  "formType": null,
+  "formApproval": null,
+  "measurement": "MEASUREMENT OF FLOW RATE",
+  "projectNumber": null,
+  "groupCode": null,
+  "presumedFlowRate": null,
+  "dayOfStudy": null,
+  "equipment": null,
+  "factor": null,
+  "flowFor": {
+    "analytic": null,
+    "flowThroughDiaphragm": null,
+    "flowThroughExposureChamber": null,
+    "dilutionAir": null,
+    "othersDescribed": null
+  },
+  "preDilution": {
+    "first": null,
+    "second": null
+  },
+  "siteOfMeasurement": null,
+  "conditionsForMeasurement": null,
+  "note": null,
+  "sm": "Sm",
+  "preDilutionOutcome": null,
+  "bubbelnetes": null,
+  "rotameter": null,
+  "rotascale": null,
+  "flow": null,
+  "n": "N",
+  "mean": null,
+  "remarks": "REMARKS",
+  "measurements": [
+    {
+      "no": null,
+      "rate": null,
+      "flowRate": "5",
+      "time": null,
+      "cm": null,
+      "sec": null,
+      "lPerMin": null,
+      "lPerMin2": null
+    },
+    {
+      "no": null,
+      "rate": "8",
+      "flowRate": "38",
+      "time": null,
+      "cm": null,
+      "sec": null,
+      "lPerMin": null,
+      "lPerMin2": "S"
+    },
+    {
+      "no": null,
+      "rate": "82",
+      "flowRate": null,
+      "time": "ttb",
+      "cm": null,
+      "sec": null,
+      "lPerMin": "draft",
+      "lPerMin2": "Date"
+    }
+  ],
+  "errorCodes": {
+    "A": null,
+    "B": null,
+    "C": null,
+    "D": null,
+    "E": null,
+    "F": null
+  },
+  "initials": null
 }

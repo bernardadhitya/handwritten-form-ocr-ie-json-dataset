@@ -1,4 +1,41 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nree iN COVINGTON & BURLIN} “ 1201 PENNSYLVANIA AVERUB, NW.\nP.O. BOX 7566 WASHINGTON, D.C. 20007566 (207 62-<000 LECoNTIELD HOUSE. — [BRUSSMLS CORRESPONDENT OFFICE CURZON STREET TELEFAX (00640-6291, ‘44 AVENUE DES ARTS LONDON WIYEAS ENGLAND ‘TELEX 39 $9(COVLIN...\nMISSION O81 CONTENTS EY WeRSONS OTHER THAN TUE ADDRESSUE 8 STRICTLY PROUIGITED. JF YOU AVE RECKIVED THIS ‘TRANSMISSION IN ERROK, /LEASE NOTIFY US IMMEDIATELY BY TRLEPLIONE AND MAIL THE ORIGINAL TO US...\n(202) 662-6280 Telecommunications (202) 662-5942 Leslie L. Daniels - Secretary 6£€8205902 aero: seer-at'ce woas: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+  "company": "COVINGTON&BURLIN",
+  "address": {
+    "line1": "1201 PENNSYLVANIA AVENUE. N.W.",
+    "line2": "P.O.BOX7566",
+    "city": "WASHINGTON.D.C.",
+    "state": "20044-7566",
+    "zip": "20044-7566"
+  },
+  "phone": "(202)662-6000",
+  "offices": [
+    {
+      "name": "BRUSSHLS CORRESPONDENT OFFICE",
+      "address": {
+        "line1": "CURZON STREET",
+        "line2": "44 AVENUEDESARTS",
+        "city": "LONDON",
+        "state": "W1Y8AS",
+        "zip": "ENGLAND"
+      },
+      "phone": "44-71-495-5655",
+      "fax": "202)662-6291",
+      "telex": "89-593(COVLING WSII)"
+    }
+  ],
+  "fax": "TELEPHONE: 32-2-549-5230",
+  "date": "March 16, 1999",
+  "to": "Ginny Murphy",
+  "from": "David H. Remes",
+  "room": "803E",
+  "pages": "Message: The Maos. A6 Ruleo os fublished.",
+  "message": "The Maos. A6 Ruleo os fublished.",
+  "transmission_problem_contact": [
+    "2065078339",
+    "202662-6280"
+  ],
+  "telecommunications": "202662-5942",
+  "secretary": "Leslie L. Daniels",
+  "timestamp": "00:01",
+  "roh": "03.16.1999"
 }

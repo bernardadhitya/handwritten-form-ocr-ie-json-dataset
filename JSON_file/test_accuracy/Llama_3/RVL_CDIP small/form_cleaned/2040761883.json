@@ -1,4 +1,72 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nOUTDOOR BULLETIN DISPLAY CONTRACT LEO BURNETT COMPANY- INC.\nADVERTISING PRUDENTIAL PLAZA CHIGAOQ ILLINGIS 60801 128655959 To DATE: peeriery on FOSTER & KLEISER 120 INTERSTATE NO, PKRY.-EAST CONTRACTNO: _f°PTIA Anar0 SUITE 200 ATLANTA, GA 30339 ADVERTISER:  ___...\nMARKET [ LOCATION SIZE [_1ttum [YES] NO.\nATLANTA, GA 1184 CAPITAL wi x art | Lx CONTRACT PERIOD, (TL OF COMPLETION, APPROXIMATELY, [RATE INFORMATION | 1/1/82 ThRU 12/31/82 = $1,800.00, 1/1/83 THRU 12/21/83—— = $1,962.00; 1/1/84 THRU 12/31/84...\n| CANCELLATION PRIVILEGES:\nON ANY JANUARY 1 ARNIVERSERY DATE, UPON 60 DAYS Y, WITHOUT PENALTY.\nGross Monthly Cost. $__$¢B__ Discount s_couyRAcT ADVANCE NOTICE FROM AGEN Discounted Mo. Cost. $_PERICD | COPY CHANGES: The following copy change options will prevail under execution terms of this agr...\nIf this bulletin/3is to be completely painted there will be 8 complete paintings, including the initial, annually, or Ifthis bulletin is to be partial sted there will be 6 posting of posted portion an...\nHCY REPRESENTATI ACCEPTED:, AGENCY;__LEO BURNETT COMPANY, INC. \ncova on thane Lh Tf arite’ _ | BILLING INFORMATION: SEND INVOICES ONLY TO ACCOUNTING DEPT. SECT. B SHIPPING ADDRESS:\n€8819Z0r02 CLIENT COPY ‘ont REV. 10/80\n| 1/1/82 ThRU 12/31/82 = $1,800.00, 1/1/83 THRU 12/21/83—— = $1,962.00; 1/1/84 THRU 12/31/84 = $2,124.00; 1/1/85 THRU 12/31/85 = $2,286.00; 1/1/86 THRU 12/31/86 = $2,448.00; 1/1/87 THRU 12/31/87 = $2,610.00; 1/1/88 THRU 12/31/88 = $2,772.00; 1/1/89 THRU 12/31/89 = $2,934.00; 1/1/90 THRU 12/31/90 = $3,096.00; 1/1/91 THRU 12/31/91 = $3,258.00; 1/1/92 THRU 12/31/92 = $3,420.00; 1/1/93 THRU 12/31/93 = $3,582.00; 1/1/94 THRU 12/31/94 = $3,744.00; 1/1/95 THRU 12/31/95 = $3,906.00; 1/1/96 THRU 12/31/96 = $4,068.00; 1/1/97 THRU 12/31/97 = $4,230.00; 1/1/98 THRU 12/31/98 = $4,392.00; 1/1/99 THRU 12/31/99 = $4,554.00; 1/1/00 THRU 12/31/00 = $4,716.00; 1/1/01 THRU 12/31/01 = $4,878.00; 1/1/02 THRU 12/31/02 = $5,040.00; 1/1/03 THRU 12/31/03 = $5,202.00; 1/1/04 THRU 12/31/04 = $5,364.00; 1/"
+  "outdoor_bulletin": {
+    "display_contract": {
+      "agency": {
+        "name": null,
+        "address": null,
+        "phone": null
+      },
+      "to": {
+        "name": null,
+        "address": null
+      },
+      "contract_no": null,
+      "advertiser": {
+        "name": null,
+        "referred_as": null
+      },
+      "product": "Tobacco -ith Feo",
+      "initial_renewal": null,
+      "trading_area": null,
+      "market": "Atlanta, GA",
+      "location": "1184 Capital",
+      "size": null,
+      "illumination": null,
+      "contract_period": {
+        "start": "1/1/82",
+        "end": "12/31/84",
+        "rate_information": [
+          {
+            "period": null,
+            "rate": null
+          },
+          {
+            "period": null,
+            "rate": null
+          },
+          {
+            "period": "1/1/84 - 12/31/84",
+            "rate": "$2138.58"
+          }
+        ],
+        "gross_monthly_cost": null,
+        "annual_anniversary_date": null
+      },
+      "cancellation_privileges": {
+        "notice_period": null,
+        "penalty": null
+      },
+      "copy_changes": {
+        "complete_painting": null,
+        "partial_posting": null,
+        "complete_posting": null
+      },
+      "extensions": {
+        "above": "51 Ft.",
+        "below": null,
+        "each_side": null
+      },
+      "special_instructions": "The above unit is subject to the approval of agency representative upon its completion. Also, trees obstructing unit must be removed."
+    },
+    "accepted": {
+      "agency": null,
+      "representative": null,
+      "company": null
+    },
+    "shipping_address": "Same as above",
+    "billing_information": {
+      "send_invoices_to": "Accounting Dept. Sect. B"
+    },
+    "client_copy": null
+  }
 }

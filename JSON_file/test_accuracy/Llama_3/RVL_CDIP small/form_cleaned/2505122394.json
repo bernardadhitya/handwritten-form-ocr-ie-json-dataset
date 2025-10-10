@@ -1,4 +1,87 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nCRC contract RESEARCH CENTER FORM 17 ew #1 OROMEM _(PERFORMOLDGETERII Forman T SAMPLE COLLECTION FOR THE DETERMINATION |[PRosecr no. 8 lv oF...... MICOTINE..\nSample site: 7 Day of sway: YP SAMPLE |GROUP|STANDARD TIME DURATION | FLOW REMARKS —_ No cove : | stantjeno | | (min) (min) 1 A_|2-R Bus 4g Ge lyr A_|AA Bu O46 | SS [ae a {2-6 8 “eH v6 | 6 far 4 |se@... 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150"
+  "contract": "CRC CONTRACT AESEARCH CENTER",
+  "form": null,
+  "drd_mcm": "DRD/MCM",
+  "perform_oldldeteamin": null,
+  "farm_approved": null,
+  "sample_collection": null,
+  "project_no": null,
+  "of": null,
+  "n_co_n_e": null,
+  "sample_site": null,
+  "day_of_study": "tt",
+  "samples": [
+    {
+      "group": null,
+      "no": null,
+      "code": "9n",
+      "standard_time": {
+        "start": null,
+        "end": "Go"
+      },
+      "duration_min": null,
+      "flow_l_min": null,
+      "remarks": 8
+    },
+    {
+      "group": "b",
+      "no": null,
+      "code": null,
+      "standard_time": {
+        "start": null,
+        "end": null
+      },
+      "duration_min": null,
+      "flow_l_min": null,
+      "remarks": null
+    },
+    {
+      "group": null,
+      "no": null,
+      "code": null,
+      "standard_time": {
+        "start": null,
+        "end": null
+      },
+      "duration_min": null,
+      "flow_l_min": null,
+      "remarks": 60
+    },
+    {
+      "group": "A.",
+      "no": null,
+      "code": "-6R",
+      "standard_time": {
+        "start": null,
+        "end": null
+      },
+      "duration_min": null,
+      "flow_l_min": null,
+      "remarks": null
+    },
+    {
+      "group": null,
+      "no": "9 n",
+      "code": null,
+      "standard_time": {
+        "start": null,
+        "end": null
+      },
+      "duration_min": "q",
+      "flow_l_min": null,
+      "remarks": null
+    },
+    {
+      "group": null,
+      "no": "A",
+      "code": null,
+      "standard_time": {
+        "start": null,
+        "end": null
+      },
+      "duration_min": null,
+      "flow_l_min": null,
+      "remarks": null
+    }
+  ]
 }

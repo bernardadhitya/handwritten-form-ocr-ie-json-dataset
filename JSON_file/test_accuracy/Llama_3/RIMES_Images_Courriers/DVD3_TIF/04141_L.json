@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nVanssq bo`Tnc7 7 rvc du GnI d'Msra 6439O SCHOENAU TEl : 03.87.56.10.47 k 25mos 24 5yr: horars d'ouurts svi rcTvcMmen a da nckclu Habrtalou :\nYowsn`s nov d'urrhe d nndr l ws MAN1F Asvanus J Mla Frangod M:tfeu Hq1OO C Insesa : 03.87.56.10.48 k 25mos 24 5yr: horars d'ouurts svi rcTvcMmen a da nckclu Habrtalou :\nYowsn`s nov d'urrhe d nndr l ws MAN2F Asvanus J Mla Frangod M:tfeu Hq1OO C Insesa : 03.87.56.10.49 k 25mos 24 5yr: horars d"
+  "document": "Vanssq bo`Tnc7",
+  "scenario": "7 rvc du GnI d'Msra",
+  "writer": "SCHOENAU",
+  "sender_person": "6439O",
+  "sender_company": "SCHOENAU",
+  "sender_tel": "03.87.56.10.47",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "k 25mos 24",
+  "date": "nov",
+  "place": "Habrtalou",
+  "box": "MAN1F Asvanus"
 }

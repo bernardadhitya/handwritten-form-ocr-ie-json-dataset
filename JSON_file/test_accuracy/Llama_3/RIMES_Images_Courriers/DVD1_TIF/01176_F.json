@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nTELEFAX date : jeudi 30 novembre 2006 n fax : 01 60 76 43 33 societé : BAAF Assurances de : DUCOURNEAU Manon n° tel : +33 (0) 3 69 90 32 38 objet : Demande de d'information ref client : OWUXZ99 messag... (truncated)\n\nTELEFAX received : jeudi 30 novembre 2006 14h30 14h30 14h30 14h30 14h30 14h30 14h30 14h30 14h30 14h30 14h30 14h30 14h30 14h30 14h30 14h30 14h30 14h30 14h30 14h30 14h30 14h30 14h30 14h30 14h30 14h30 14h30 14h30 14h30 14h30 14h30 14h30 14h30 14h30 14h30 14h30 14h30 "
+  "document": "TELEFAX",
+  "scenario": null,
+  "writer": "DUCOURNEAU Manon",
+  "sender_person": "DUCOURNEAU Manon",
+  "sender_company": "BAAF Assurances",
+  "sender_tel": "+33 (0) 3 69 90 32 38",
+  "sender_fax": "01 60 76 43 33",
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "Demande de d'information",
+  "date": "jeudi 30 novembre 2006",
+  "place": null,
+  "box": null
 }

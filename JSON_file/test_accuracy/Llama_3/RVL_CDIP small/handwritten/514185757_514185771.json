@@ -1,4 +1,48 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nSOSTON FIE LD & FOCUS, INC. 0 4 Fanoull Hall Marketp! South Bullding, 3rd space Boston, Mecepehuetts 02109 (617) 720-1870 © (617) 720-1874 &ne- on - One CH yet Belen 8 = & @ a 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+  "company": "Boston field & focus, Inc.",
+  "address": {
+    "street": "4 Faneull Hall Marketplace",
+    "building": "South Bullding, 3rdFloor",
+    "city": "Boston",
+    "state": "Massachusetts",
+    "zip": "02109"
+  },
+  "phone_numbers": [
+    "617720-1870",
+    "(617)720-1874"
+  ],
+  "misc": [
+    "Ino.",
+    "One",
+    "Ethel",
+    "BIK",
+    "A-doesnf lihe",
+    "too middl(wan's mre mrertlol",
+    "nugth-5",
+    "Newpot!",
+    "8mnhilQivel",
+    "Net ao e",
+    "B-",
+    "Oin",
+    "E-",
+    "too",
+    "me.",
+    "Kol",
+    "C",
+    "Juot",
+    "Qile",
+    "/",
+    "wmld",
+    "B/6F",
+    "Mailin",
+    "Xrenosiwe",
+    "nore meotuline",
+    "Bla",
+    "40",
+    "amTe",
+    "o]?0 fyp-.8y n v -J",
+    "tOcus Arnps",
+    "51418",
+    "5757"
+  ]
 }

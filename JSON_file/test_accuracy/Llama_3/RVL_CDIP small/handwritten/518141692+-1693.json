@@ -1,4 +1,19 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nWoud Dear Folfes.\n50 like P Miomi YCR 51814 1692 O.Box Comrecordler? Priest.\n4405 Jr 2-3=97 2-3=97 2-3=97 2-3=97 2-3=97 2-3=97 2-3=97 2-3=97 2-3=97 2"
+  "name": "Folfes",
+  "greeting": "Dear",
+  "number": "50",
+  "preference": "like",
+  "initial": "P",
+  "nickname": "Miomi",
+  "code": "YCR",
+  "zip": "51814",
+  "year": "1692",
+  "address": {
+    "box": "O.Box",
+    "street": null,
+    "title": null,
+    "number": null,
+    "suffix": null
+  },
+  "equation": "2-3=97"
 }

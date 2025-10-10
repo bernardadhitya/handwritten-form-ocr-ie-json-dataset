@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nBANQUE UNIVERSELLE en ABONDANCE Sen dur Thouaandt Sn Banda ant l ne 06/05/22 à Zouuag Zaho l'utago 11 Su AL: 08 107 8 09 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 "
+  "company": "BANOUEUNIVERSELLE",
+  "branch": "CRABONDANCE",
+  "account_number": "5612",
+  "transaction_code": "w......y.",
+  "amount": "Fwe Jhousand Sxtundned and Jiselne",
+  "date": "06/05/22",
+  "recipient": "a 3aswas Zahanmusta",
+  "address": {
+    "street": "Seax",
+    "city": "Bd de la Prosperite"
+  },
+  "phone": "T.:011078809"
 }

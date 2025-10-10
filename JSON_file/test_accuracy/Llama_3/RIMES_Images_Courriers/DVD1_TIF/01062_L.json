@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nSe1euhim,e 24 novwn O6 Aouen GEA4 1t ue de, Chen'ntj H13fnass7s ott t9 3 plac Tean Mlarot t0: 03.31.69.64.11 14 92o HATH1EU qteups qve votu magazin l depus k nvmno spac Vanet: Rove a ldur d ch I me ma... (1)\n\nSe1euhim, 24 novwn O6 Aouen GEA4 1t ue de, Chen'ntj H13fnass7s ott t9 3 plac Tean Mlarot t0: 03.31.69.64.11 14 92o HATH1EU qteups qve votu magazin l depus k nvmno spac Vanet: Rove a ldur d ch I me ma... (2)\n\nSe1euhim, 24 novwn O6 Aouen GEA4 1t ue de, Chen'ntj H13fnass7"
+  "document": "Se1euhim,e",
+  "scenario": "Aouen GEA4",
+  "writer": "Chen'ntj",
+  "sender_person": "H13fnass7s",
+  "sender_company": "ott t9",
+  "sender_tel": "03.31.69.64.11",
+  "sender_fax": "14 92o HATH1EU",
+  "receiver_person": "qteups qve votu magazin",
+  "receiver_company": "l depus k nvmno spac",
+  "date": "24 novwn O6",
+  "place": "3 plac Tean Mlarot",
+  "box": "Vanet: Rove a ldur d ch"
 }

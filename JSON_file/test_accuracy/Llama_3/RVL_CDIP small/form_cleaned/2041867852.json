@@ -1,4 +1,35 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nForm #1507 MING REV 4/80 COMPDIae5AVAt42 P.O.No.\nPURCHASE REQUSTION ‘ORDER FROM SPECTRA Date: FES. 25, 1999 Reg. No.\nSHIPTO: TED Terms: N30 Fo.\nCHATTANOOGA, TN CUaNTTY, TEM URIFPRICE [TOTAL 42000 | BRHTANKTOP $2100 ‘STAMP “ADULT? ON LABEL PURPOSE: Prepared By, DATE REQUIRED:\nDELIVER TO: See SHIP TO: DEPT:\n|ACCTG. CODE:\nAcct, Dept. Executive “shy CUE Approval —__| Approval:\nOY3-13 3 B20/la-L ve PP 299 L90tv02 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+  "form_number": null,
+  "revision": null,
+  "compd": null,
+  "purchase_order_number": null,
+  "purchase_requisition": null,
+  "order_from": null,
+  "date": null,
+  "requisition_number": null,
+  "ship_to": null,
+  "terms": null,
+  "fob": null,
+  "items": [
+    {
+      "quantity": null,
+      "item": null,
+      "unit_price": 0.05,
+      "total": null
+    }
+  ],
+  "stamp": "ADULTON LABEL",
+  "purpose": null,
+  "prepared_by": "DEBBIESMITH",
+  "date_required": null,
+  "departmental": null,
+  "deliver_to": null,
+  "department": null,
+  "approval": {
+    "accounting_code": null,
+    "accounting_department": null,
+    "executive": "CY3-/33330/1-L4E",
+    "approval_number": null
+  },
+  "reference_number": null
 }

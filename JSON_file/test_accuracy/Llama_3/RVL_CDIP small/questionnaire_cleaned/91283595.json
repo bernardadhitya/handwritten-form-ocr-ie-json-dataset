@@ -1,4 +1,51 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n2 Ba.\n8b.\n9.\n10.\nSCREENING QUESTIONNAIRE (Interviewer:) \"Hello, I'm » of - -\n\"we're conducting a product usage study in your area, and I'd like to ask you a few questions:\n1s there anyone living in your household employed in the sale, manufacture or distribution of tobacco products, or marketing research or advertising? Yes__ NO Is there anyone living in your home betwe...\nHave you participated in a Marketing Research group discussion in the past 6 months? ves. (TERMINATE) — NO.\nseceazta\nNo, I have not participated in a Marketing Research group discussion in the past 6 months.\n(INTERVIEWER) \"Thank you for your time. You can now leave the interviewer. (TERMINATE) — NO.\n(INTERVIEWER) \"Thank you for your time. You can now leave the interviewer. (TERMINATE) — NO.\n(INTERVIEWER) \"Thank you for your time. You can now leave the interviewer. (TERMINATE) — NO.\n(INTERVIEWER) \"Thank you for your time. You can now leave the interviewer. (TERMINATE) — NO.\n(INTERVIEWER) \"Thank you for your time. You can now leave the interviewer. (TERMINATE) — NO.\n(INTERVIEWER) \"Thank you for your time. You can now leave the interviewer. (TERMINATE) — NO.\n(INTERVIEWER) \"Thank you for your time. You can now leave the interviewer. (TERMINATE) — NO.\n(INTERVIEWER) \"Thank you for your time. You can now leave the interviewer. (TERMINATE) — NO.\n(INTERVIEWER) \"Thank you for your time. You can now leave the interviewer. (TERMINATE) — NO.\n(INTERVIEWER) \"Thank you for your time. You can now leave the interviewer. (TERMINATE) — NO.\n(INTERVIEWER) \"Thank you for your time. You can now leave the interviewer. (TERMINATE) — NO.\n(INTERVIEWER) \"Thank you for your time. You can now leave the interviewer. (TERMINATE) — NO.\n(INTERVIEWER) \"Thank you for your time. You can now leave the interviewer. (TERMINATE) — NO.\n(INTERVIEWER) \"Thank you for your time. You can now leave the interviewer. (TERMINATE) — NO.\n(INTERVIEWER) \"Thank you for your time. You can now leave the interviewer. (TERMINATE) — NO.\n(INTERVIEWER) \"Thank you for your time. You can now leave the interviewer. (TERMINATE) — NO.\n(INTERVIEWER) \"Thank you for your time. You can now leave the interviewer. (TERMINATE) — NO.\n(INTERVIEWER) \"Thank you for your time. You can now leave the interviewer. (TERMINATE) — NO.\n(INTERVIEWER) \""
+  "screening_questionnaire": {
+    "introduction": "Hello, I'm of We're conducting a product usage study in your area, and I'd like to ask you a few questions:",
+    "questions": [
+      {
+        "question": "Is there anyone living in your household employed in the sale, manufacture",
+        "answer": "YES"
+      },
+      {
+        "question": "is there anyone living in your home between the ages of 25-49 who is a smoker?",
+        "answer": "YES"
+      },
+      {
+        "question": "May I speak to that person?",
+        "answer": "YES"
+      },
+      {
+        "question": "About how many cigarettes do you smoke in a day?",
+        "answer": "IF LESS THAN HALF A PACK OR LESS THAN 10 CIGARETTES PER DAY"
+      },
+      {
+        "question": "What is your regular brand of cigarettes -- that is, the brand you smoke most often?",
+        "answer": "Write_in"
+      },
+      {
+        "question": "Is that a filter or non-filter?",
+        "answer": "Write_in"
+      },
+      {
+        "question": "Is that a non-menthol or menthol?",
+        "answer": "TERMINATE"
+      },
+      {
+        "question": "Is that the regular size, the longer 100's or the extra long 120's?",
+        "answer": "Quota no more than two in each group)"
+      },
+      {
+        "question": "Have you purchased at least one pack of any brand of cigarettes advertised as low tar in the last 6 months?",
+        "answer": "NO"
+      },
+      {
+        "question": "Are you employed?",
+        "answer": null
+      },
+      {
+        "question": "Have you participated in a Marketing Research group discussion in the past 6 months?",
+        "answer": "YES"
+      }
+    ]
+  }
 }

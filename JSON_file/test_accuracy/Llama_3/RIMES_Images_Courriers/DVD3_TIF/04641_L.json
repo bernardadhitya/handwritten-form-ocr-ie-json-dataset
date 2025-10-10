@@ -1,4 +1,13 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nA)° Raynold SAMUEL Fompey Db 4 Ave? 2003 / on a As, Rus d Or “Tomas dao Tmnpolo 54340 POMPEY LE BOURG Ta: 03.9). 246_ 46.25 A9500 S* BAZILE DE MEYSSAC | ‘} Pwr Dams trmpo. dapusic pur ane Lp ad ‘le.... (rest of the text is not relevant to the text)\n\nHere is the structured information:\n\n* Name: Raynold Samuel Fompey\n* Date of birth: 2003\n* Place of birth: POMPEY LE BOURG\n* Address: Db 4 Ave\n* Phone number: 03.9). 246_ 46.25 A9500 S* BAZILE DE MEYSSAC\n* Occupation: Pwr Dams trmpo. dapusic pur ane Lp ad ‘le \n\nNote: The text is not a standard JSON format, but I'll provide the structured information in a JSON-like format for clarity.\n\n```json\n{\n  \"Name\": \"Raynold Samuel Fompey\",\n  \"Date of birth\": \"2003\",\n  \"Place of birth\": \"POMPEY LE BOURG\",\n  \"Address\": \"Db 4 Ave\",\n  \"Phone number\": \"03.9). 246_ 46.25 A9500 S* BAZILE DE MEYSSAC\",\n  \"Occupation\": \"Pwr Dams trmpo."
+  "document": "Pompey",
+  "scenario": "Trucowie deo Impot",
+  "writer": "Raymald SAMUEL",
+  "sender_person": "Raymald SAMUEL",
+  "sender_company": "54 34O POMPEY",
+  "sender_tel": "03.91.24_46.25",
+  "receiver_person": null,
+  "receiver_company": null,
+  "date": "4 Avr.l 2oo7",
+  "place": "LE BOURG",
+  "box": "19 5OO ST BAZ1LE DE MEYSSAC"
 }

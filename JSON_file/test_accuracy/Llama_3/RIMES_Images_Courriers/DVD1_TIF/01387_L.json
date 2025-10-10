@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nX U d& oO6 BoiviN 1ayW U9nu du BoG 88 35O GRAND BANQUE DEBiT T&: O386 935U 40 Lyonnaj 5 louIvord o Levau 9ZoOo N 4NTERRE 0k 5oO wvqs Rf &eL : iB D FB59 o /5oo euvos.\nDan lafeut, deou pu, Yada, Yonreu,dop a paltatio outfues, 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1"
+  "document": "BoiviN 1ayW",
+  "scenario": "U9nu du BoG",
+  "writer": "88 35O GRAND",
+  "sender_person": "BANQUE DEBiT",
+  "sender_company": "BANQUE DEBiT",
+  "sender_tel": "O386 935U 40",
+  "sender_fax": null,
+  "receiver_person": "Lyonnaj",
+  "receiver_company": "5 louIvord o Levau",
+  "subject": "9ZoOo N 4NTERRE",
+  "date": null,
+  "place": "o /5oo euvos.",
+  "box": "Dan lafeut, deou pu, Yada,"
 }

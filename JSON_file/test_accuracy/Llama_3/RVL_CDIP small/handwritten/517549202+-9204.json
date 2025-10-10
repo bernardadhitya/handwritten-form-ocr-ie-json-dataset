@@ -1,3 +1,25 @@
 {
-    "error": "Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  "company": "Tobacco Company",
+  "address": "Winston-Salem,NC27102",
+  "date": "March 18,1997",
+  "recipient": {
+    "name": "Mr.Randy Deberry",
+    "address": "PO Box 10121,Grindstone,PA15442"
+  },
+  "letter": {
+    "greeting": "Dear Mr. Deberry",
+    "body": "Thank you for taking thc time to contact us and for your interest in our Doral products and promotions",
+    "closing": "AgainMr. Deberry, we appreciate your taking the time to contact us.Best wishes from all ofus at Reynolds.",
+    "signature": "Sincerely,",
+    "title": "Pat Riggs, Consuner Relations Representative"
+  },
+  "product_info": {
+    "warning": "SURGEON GENERAL'S WARNING:Smoking 0.7 ng.nicotineMORE FLTR13g.tar1.1 mg niineDORAFULL FAVOR14mg By Pregnant Wonen May Result in Fetal Injury.Premature Birth And Low Birth Weight t12mg.nicotineCAMELFILTRS17ng tar1.1 mg.ricotineav.per cigareteby FICmethod.",
+    "products": []
+  },
+  "reference_numbers": {
+    "PI": "P-738433568",
+    "SEQ": "208834",
+    "CON": "99734269-1-1"
+  }
 }

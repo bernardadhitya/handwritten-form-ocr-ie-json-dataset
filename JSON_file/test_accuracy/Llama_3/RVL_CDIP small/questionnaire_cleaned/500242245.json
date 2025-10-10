@@ -1,3 +1,56 @@
 {
-    "error": "Blockwise quantization only supports 16/32-bit floats, but got torch.uint8"
+  "study": null,
+  "use_this": null,
+  "column": null,
+  "date": null,
+  "respondent_name": null,
+  "int_initials": null,
+  "telephone_number": 89101,
+  "introduction_and_eligibility": {
+    "introduction": null,
+    "question_1": "Have you, yourself, smoked any cigarettes in the past 7 days, or not?",
+    "continue": true,
+    "no": "ANOTHER PERSON AT HOME 18 OR OVER WHO SMOKES CIGARETTES AND REPEAT QUESTION 1a.",
+    "cigarettes_smoked": {
+      "less_than_1": null,
+      "1-15": null,
+      "16-25": null,
+      "over_25": null
+    }
+  },
+  "usual_brand": {
+    "question": null,
+    "winston": null,
+    "marlboro": null,
+    "if_other_brands": "TERMINATE"
+  },
+  "size": {
+    "question": "Is that the regular king size, or the extra-long 100 millimeter size?",
+    "regular_king_size": {
+      "winston": null,
+      "marlboro": null
+    },
+    "extra_long_size": null
+  },
+  "marlboro_type": {
+    "question": null,
+    "regular_marlboro": null,
+    "marlboro_menthol": null,
+    "marlboro_lights": null
+  },
+  "pack_type": {
+    "question": null,
+    "soft_paper_pack": null,
+    "hard_box_pack": null
+  },
+  "duration": {
+    "question": null,
+    "1-4_weeks": null,
+    "1-6_months": null,
+    "6-12_months": null,
+    "1-2_years": 4,
+    "2-5_years": null,
+    "over_5_years": null
+  },
+  "if_usual_brand_is_marlboro": "GO TO YELLOW QUESTIONNAIRE"
 }

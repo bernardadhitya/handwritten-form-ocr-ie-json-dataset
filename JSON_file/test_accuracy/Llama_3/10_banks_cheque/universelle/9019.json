@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nBANOUEUNIVERSELLE CRABONDANCE 3025 w.....y.\nThree Thousand and Twenty Five 06/05/22 1 Fleurette Coudert Gafsa Bd de la Prosperite PLANETTE TERRE T.:0811078809\nBANOUEUNIVERSELLE CRABONDANCE 3026 w.....y.\nThree Thousand and Twenty Six 06/05/22 2 Pierre Dupont Gafsa Bd de la Prosperite PLANETTE TERRE T.:0811078809\nBANOUEUNIVERSELLE CRABONDANCE 3027 w.....y.\nThree Thousand and Twenty Seven "
+  "bank": "BANOUEUNIVERSELLE",
+  "account": "CRABONDANCE",
+  "amount": "3025",
+  "currency": null,
+  "amountInWords": "Three Thousand and Twenty Five",
+  "date": "06/05/22",
+  "transactionNumber": "1",
+  "name": "Fleurette Coudert",
+  "city": "Gafsa",
+  "address": "Bd de la Prosperite",
+  "planet": "PLANETTE TERRE",
+  "telephone": "0811078809"
 }

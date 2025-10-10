@@ -1,4 +1,42 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nBoor 02/11/98 WED 08:08 FAX 19042744780 PM RICH LEGAL seeeessecnessennencae sex TX REPORT aes \"TRANSMISSION OK ‘TX/RX NO 0020 CONNECTION TEL ‘p1p2029125699 SUBADDRESS CONNECTION 1D ARNOLDAPORTER ST. T...\nAmold & Porter 202/942-5242 Sender; John E. Holleran Philip Morris Management Corp. - Lega! P. O, Box 26583 Richmond, VA 23261-6583 sender telephone #: (804) 274-5201 sender fax # (804) 274-4780 You s...\nComments: Rust— PLEASE thaw D Privileged and Confidential paiven 1M wn 229 Attomey Work Product LEVINE IN Rm. | Atthur Here are my comments on the first 5 pages of the second dratt of the CWLA documen..."
+  "date": "02/11/98",
+  "day": "WED",
+  "time": "08:08",
+  "fax_number": "18042744780",
+  "recipient": {
+    "name": "Arthur N.Levine,Esg",
+    "company": "Arnold & Porter",
+    "telephone": "202/942-5242"
+  },
+  "sender": {
+    "name": "John E.Holleran",
+    "company": "Philip Morris Management Corp. - Lega!",
+    "address": "P.O.Box26583",
+    "telephone": "804274-5201",
+    "fax_number": "804274-4780"
+  },
+  "transmission": {
+    "tx_report": "TXREPORT",
+    "status": "OK",
+    "tx_rx_no": "0020",
+    "connection_tel": "8p1p2029425999",
+    "connection_id": "ARNOLD&PORTER",
+    "start_time": "02/1108:07",
+    "usage_time": "01'46",
+    "pages": "6",
+    "result": "OK"
+  },
+  "facsimile_transmission": {
+    "date": "02/11/98",
+    "to": "Arthur N.Levine,Esg",
+    "company": "Arnold & Porter",
+    "telephone": "202/942-5242",
+    "sender": "John E.Holleran",
+    "sender_company": "Philip Morris Management Corp. - Lega!",
+    "sender_address": "P.O.Box26583",
+    "sender_telephone": "804274-5201",
+    "sender_fax": "804274-4780",
+    "pages": "6",
+    "comments": "RUsH- PLeAsE HAND Privileged and Contidential 2W a aa Attomey Work Product LEVINE 1N RM. 1229 2075727713 Arthur. Here are my comnents on the first 5 pages of the second draft of the CWLA document. I look forward to discussing these with you this morning. Jack"
+  }
 }

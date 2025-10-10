@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nQuO nue Salvador Allnok 54 23o Nuvcs 17aisn sh hO r8 8t TO GDF 8 as. Peincaré 55o Brieuffs su lsese l Umai Xoo4j lame Suike a mm endeltement qui davent mes vaws piu d'agneer, 7adome, mes sntiment espe... (Translation: \"QuO nue Salvador Allnok 54 23o Nuvcs 17aisn sh hO r8 8t TO GDF 8 as. Peincaré 55o Brieuffs su lsese l Umai Xoo4j lame Suike a mm endeltement qui davent mes vaws piu d'agneer, 7adome, mes sntiment espe...\")\n\nThis text appears to be a jumbled collection"
+  "document": "QuO nue Salvador Allnok",
+  "scenario": "54 23o Nuvcs 17aisn",
+  "writer": "sh hO r8 8t TO",
+  "sender_person": "GDF",
+  "sender_company": "8 as. Peincaré",
+  "sender_tel": "55o Brieuffs su",
+  "sender_fax": "lsese",
+  "receiver_person": "l Umai Xoo4j",
+  "receiver_company": "lame",
+  "date": "Suike a mm endeltement qui davent",
+  "place": "mes",
+  "box": "vaws piu d'agneer, 7adome, mes sntiment espedueux"
 }

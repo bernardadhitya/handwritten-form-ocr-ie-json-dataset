@@ -1,4 +1,50 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nREQUEST TO SAMPLE SEATED FUNCTION INFORMATION w son LO uy BEY division Number AAS lo son Manage [NS EdD pris ie Pe cn Zesiny Show May 12% 1497 “ ws Stace £0 Rieko wi Siete Hotel/Building rates Anencan...\nComments PRODUCT + Requested:\nWINSTON Lignts 85's (6M Case) —l_— sacem tignts 25's (6M Case) Sipping Aderess:\nDate of Arrival Regional Manager Date Aron Vice Presicent's Stat! dare S//7/8 Prometion Dent dete 2/22, B£00 69s05 2/22, B£00 69s05 2/22, B£00 69s05 2/22, B£00 69s05 2/22, B£00 69s05 2/22, B£00 69s05 2/22, B£00 69s05 2/22, B£00 69s05 2/22, B£00 69s05 2/22, B£00 69s05 2/22, B£00 69s05 2/22, B£00 69s05 2/22, B£00 69s05 2/22, B£00 69s05 2/22, B£00 69s05 2/22, B£00 69s05 2/22, B£00 69s05 2/22, B£00 69s05 2/22, B£00 69s05 2/22, B£00 69s05 2/22, B£00 69s05 2/22, B£00 69s05 2/22, B£00 69s05 2/22, B£00 69s05 2/22, B£00 69s05 2/22, B£00 69s05 2/22, B£00 69s05 2/22,"
+  "form": "EFORM",
+  "request": null,
+  "date": null,
+  "information": {
+    "name": null,
+    "division_number": "Q3l",
+    "contact": "ahhwgoP3 'Woeuey, ucs .",
+    "RIRT": null,
+    "function_event": null,
+    "coach": "gaacn Corachnh",
+    "phone": null,
+    "type": "FunctionEvent _AnnRkny",
+    "location": {
+      "name": null,
+      "function_event": null,
+      "city": null,
+      "state": null,
+      "hotel_building": null,
+      "estimated_attendance": null,
+      "skew": null,
+      "male": null,
+      "female": null
+    },
+    "comments": null
+  },
+  "product": {
+    "requested": [
+      null,
+      null
+    ],
+    "model": "Mdelmcye",
+    "shipping_address": null,
+    "date_of_arrival": null
+  },
+  "approvals": {
+    "regional_manager": {
+      "id": null,
+      "date": null
+    },
+    "area_vice_presidents_staff": {
+      "id": null,
+      "date": null
+    },
+    "promotion_dept": {
+      "id": 38,
+      "date": "A"
+    }
+  }
 }

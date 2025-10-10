@@ -1,4 +1,30 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nTNBIFO Tatu Tor bclogiache Forschung GnbA | iSsiro Contract Research TELEFAX MESSAGE NO. 2366 Tenses Bmw Of ld ~ DATE 19 March 1998 GEE eS ‘RIF rr sage Frag GO Fongea -OTTOS FROM. Dr. W. Reininghaus 9...\nTelefax No.: 001-804-274 38 90 NUMBER OF FOLLOWING PAGES: 3 For your information, as requested! PA EgLLzevose “ade Regia: Cooane Ms 37 Shen lanes Or or Raniah cme 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1"
+  "company": "INBIFO Institut fur biologische Forschung GmbH",
+  "department": "Contract Research",
+  "telefax_message_no": "99Z",
+  "telephone": "0 22 03303.1",
+  "teltax": "02203303-36",
+  "bvi": "BVI",
+  "document": "GNI_FAX.DOC",
+  "date": "19 March 1998",
+  "from": "Dr.W.Reininghaus",
+  "timestamp": "98-03-19 17:03:00UT",
+  "to": "Dr.Gerry Nixon",
+  "recipient_title": "Manager, External Studies",
+  "address": {
+    "company": "Philip Morris USA",
+    "location": "Research Center",
+    "po_box": "P.O.Box26583",
+    "city": "Richmond",
+    "state": "Va.",
+    "zip": "23261",
+    "country": "U.S.A."
+  },
+  "telefax_no": "001-804-274 38 90",
+  "number_of_following_pages": "3",
+  "note": "For your information, as requested",
+  "reference_number": "2501827757",
+  "trade_register": "Tade Register.Cologne HRB 367",
+  "general_manager": "Dr. Wolf Reininghaus",
+  "code": "27/94"
 }

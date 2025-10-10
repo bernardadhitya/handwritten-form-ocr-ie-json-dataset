@@ -1,4 +1,13 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nGX bracneou SUD OUEST semaine Pol hauond Ju uno “re HR Ste D out ent Cnt «| 824 à __ Sidmay Lapointe cures D Us 3 ende us :\ncs 2581230 085085474125 300852300852 bjr 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 "
+  "bank": "CREDIT AGRICOLE",
+  "branch": "SUDOUEST",
+  "account_holder": "FaabieF",
+  "account_number": "8041",
+  "transaction_reference": "EL237",
+  "transaction_date": "06/05/22",
+  "transaction_amount": "1000",
+  "transaction_currency": "s..",
+  "transaction_location": "Re du CraPercre",
+  "transaction_id": "2581230",
+  "customer_id": "0658085474125"
 }

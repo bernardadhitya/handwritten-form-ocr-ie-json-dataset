@@ -1,4 +1,47 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nCO _S_E'C’CECZCCCé“‘é‘“‘“—ététitell socstaonn vont sreeur om [SRAMPORD CONNECTICUT 009042380 ADVERTISING AND ‘SELLING AUTHORIZATION \"@e ouco sy prucosman Courcerina Ts roms) onicwaton SALES provectcoo...\nAPPROVALS ATTACHED yorars 90,000.00 VP, - Marketing NOV $ 25,000.\nDEC $ = 25,000, Cost Center VP. Sales V.P, -Maoting & Sales, Presid haimarczoing & Sales, Presid ent, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales, VP, - Marketing, VP, - Sales"
+  "forum": null,
+  "address": {
+    "line1": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "po_box": null
+  },
+  "company": "American Tobacco",
+  "form": null,
+  "guidance": null,
+  "originator": null,
+  "sales": null,
+  "date": "10/26/92",
+  "project_code": null,
+  "brand": null,
+  "project_description": "VPR/Buydown Arizona Price Is",
+  "coverage_period": {
+    "start": null,
+    "end": null
+  },
+  "memo": null,
+  "approvals_attached": null,
+  "total": 50000.0,
+  "approvals": {
+    "accounting_distribution": {
+      "agency": null,
+      "budgets": null,
+      "marketing": null
+    },
+    "v_p_marketing": {
+      "nov": 25000.0
+    },
+    "v_p_sales": {
+      "dec": null
+    },
+    "cost_center": null,
+    "v_p_marketing_sales": {
+      "budget_code": "$177",
+      "year": null
+    },
+    "president": null,
+    "auth_no": null,
+    "chairman_ceo": null
+  }
 }

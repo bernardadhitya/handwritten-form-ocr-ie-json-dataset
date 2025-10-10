@@ -1,4 +1,24 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nINBIFO Institut fir biologische Forschung ~ Kéin 9 Oct.92 —/MWO APP5250.WM On 9 Oct.92 Dr.rer-nat. T. Muller was appointed study director for the project no study codirector was appointed P 0500/5250...\nDNA from Hemeoxygenase Distribution Project file OA LR TOSPSE8Z0z 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+  "institution": "INBIFO Institut fur biologische Forschung Koln",
+  "date": "9Oct.92",
+  "reference": "/-MWO",
+  "document": "APP5250.WM",
+  "event_date": "9 Oct.92",
+  "study_director": "Dr.rer.nat. T. Muller",
+  "project": {
+    "number": "P 0500/5250",
+    "title": "Isolation of Hemeoxygenase cDNAs from Murine and Rat Cells",
+    "short_title": "cDNA from Hemeoxygenase",
+    "oracle_task": "2028954501"
+  },
+  "codirector": null,
+  "appointment": {
+    "accepted": "appointment accepted",
+    "date": "12.0ck.92"
+  },
+  "distribution": [
+    "Project file",
+    "QA",
+    "LR"
+  ]
 }

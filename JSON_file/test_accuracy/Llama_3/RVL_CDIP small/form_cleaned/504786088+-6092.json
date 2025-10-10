@@ -1,4 +1,48 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n1. D. Number. ANALYTICAL REPORT Research Department R. J. Reynolds Tobacco Company Submitted by QH ba qe Date Submitted 6-27-79 : : Date Reported _ (CT % 6 1979 Location Sender's Sample Ho. sp 1B ISS...\nRemarks. ANALYSIS DESIRED Y|_Ft¢ \"Tar\" _20 port | | Ng i uo | *BenzoLalpyrene Isoprene Y| ticotine *hHy (ug/cig) Yt 0 CPT Aa VY _|*pn - witipte port | Menthol Nicotine (mg/m) : { Nicotine (m9/9) | 7... 7.5 | 8.5 | 9.5 | 10.5 | 11.5 | 12.5 | 13.5 | 14.5 | 15.5 | 16.5 | 17.5 | 18.5 | 19.5 | 20.5 | 21.5 | 22.5 | 23.5 | 24.5 | 25.5 | 26.5 | 27.5 | 28.5 | 29.5 | 30.5 | 31.5 | 32.5 | 33.5 | 34.5 | 35.5 | 36.5 | 37.5 | 38.5 | 39.5 | 40.5 | 41.5 | 42.5 | 43.5 | 44.5 | 45.5 | 46.5 | 47.5 | 48.5 | 49.5 | 50.5 | 51.5 | 52.5 | 53.5 | 54.5 | 55.5 | 56.5 | 57.5 | 58.5 | 59.5 | 60.5 | 61.5 | 62.5 | 63.5 | 64.5 | 65.5 | 66.5 | 67.5 | 68.5 | 69.5 | 70.5 | 71.5 | 72.5 | 73.5 | 74.5 | 75.5 | 76.5 | 77.5 | 78.5 | 79.5 | 80.5 | 81.5 | 82.5 | 83.5 | 84.5 | 85.5 | 86.5 | 87.5 | 88.5 | 89.5 | 90.5 | 91.5 | 92.5 | 93.5 | 94.5 | 95.5 | 96.5 | 97."
+  "report": {
+    "title": "ANALYTICAL REPORT",
+    "department": "Research Department",
+    "company": "R.J. Reynolds Tobacco Company",
+    "submitted_by": "OH..wage",
+    "date_submitted": "6-7-79",
+    "location": "Date Reported_QCI6 1979",
+    "date_reported": "6-7-79",
+    "sender_sample_no": "3SA-",
+    "charge_no": "863",
+    "sample_of": "Cigarette",
+    "smoke_to_butt_length": null,
+    "estimated_composition_and_physical_constants": null,
+    "possible_hazards": null,
+    "remarks": null,
+    "analysis_desired": {
+      "FTC_Tar": "20 por Mg",
+      "TPM": null,
+      "Benzo[a]pyrene": null,
+      "Isoprene": null,
+      "Nicotine": {
+        "NHug_per_cig": "J",
+        "mg_per_m": null,
+        "mg_per_g": null
+      },
+      "HO": null,
+      "totalAaes": null,
+      "pH_Multiple_Port": null,
+      "Menthol": null,
+      "Formaldehyde": null,
+      "Isovaleric_Acid": null,
+      "Acetaldehyde": null,
+      "Cigs_per_Weight_FTC_Tar": null,
+      "CO": null,
+      "Acrolein": null,
+      "pH": null,
+      "Phenol": null,
+      "K": null,
+      "HCN": null,
+      "Total_Basestasufey": "504785083",
+      "NOX": null,
+      "NH_mg_per_cig": "J"
+    },
+    "distribution": "Approved by.ently.Sulltae",
+    "approved_by": null
+  }
 }

@@ -1,3 +1,94 @@
 {
-    "error": "Expecting ',' delimiter: line 18 column 4 (char 675)"
+  "accountInformationManagement": null,
+  "date": null,
+  "time": null,
+  "prodCamlib": null,
+  "reportTitle": null,
+  "nextFn": null,
+  "parent": {
+    "id": "777360",
+    "name": null,
+    "location": null
+  },
+  "shipPoint": {
+    "id": null,
+    "name": null,
+    "location": null
+  },
+  "somPeriod": {
+    "start": null,
+    "end": "06/30/96"
+  },
+  "partnersPlan": null,
+  "baseShares": {
+    "rjrtSom": null,
+    "rjrtFpsom": null,
+    "rjrtSavSoc": "72.8"
+  },
+  "companies": [
+    {
+      "name": null,
+      "fullPrice": 166581,
+      "somToDate": null,
+      "savings": null,
+      "socToDate": null,
+      "companyToDate": null,
+      "companySom": null
+    },
+    {
+      "name": null,
+      "fullPrice": null,
+      "somToDate": 43.7,
+      "savings": null,
+      "socToDate": null,
+      "companyToDate": null,
+      "companySom": null
+    },
+    {
+      "name": "B.A.T.",
+      "fullPrice": 83852,
+      "somToDate": null,
+      "savings": null,
+      "socToDate": null,
+      "companyToDate": null,
+      "companySom": null
+    },
+    {
+      "name": "LORILLARD",
+      "fullPrice": 39307,
+      "somToDate": null,
+      "savings": 39307,
+      "socToDate": null
+    },
+    {
+      "name": null,
+      "fullPrice": null,
+      "somToDate": 0.5,
+      "savings": null,
+      "socToDate": null
+    },
+    {
+      "name": null
+    }
+  ],
+  "totals": {
+    "fullPrice": 674365,
+    "somToDate": null,
+    "savings": null,
+    "socToDate": null,
+    "companyToDate": null
+  },
+  "misc": {
+    "mthHelp": null,
+    "pAcc": null,
+    "nAcc": null,
+    "date": "Date",
+    "pMth": "P Mth",
+    "nMth": null,
+    "main": "MAIN",
+    "prompt": null,
+    "startMonth": null,
+    "unknown1": null,
+    "unknown2": null
+  }
 }

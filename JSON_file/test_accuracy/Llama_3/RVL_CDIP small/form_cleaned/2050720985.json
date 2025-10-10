@@ -1,4 +1,65 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n1 3.\n4 5.\n6.\n7.\n8.\n. Complete line three accountability logsheet.\n2 LINE THREE REPORT DATE: _O/- 23-93.\nRLT DOMESTIC Maintain housekeeping in AA areas.\n= Restock station suppl — Restock folded fter paper.\nMake up bottles forall ines.\nPrepare.01 H2S04 extraction solution, Clean RLT FS grinder.\nClean RLT BW grinder.\nDump dust collector and vacuum cleaner.\nSamples pending.\nYES / NO ‘Technician 11pm—7am, ‘Spm—1 1pm, Comments:\n$86020502\n$86020503\n$86020504\n$86020505\n$86020506\n$86020507\n$86020508\n$86020509\n$86020510\n$86020511\n$86020512\n$86020513\n$86020514\n$86020515\n$86020516\n$86020517\n$86020518\n$86020519\n$86020520\n$86020521\n$86020522\n$86020523\n$86020524\n$86020525\n$86020526\n$86020527\n$86020528\n$86020529\n$86020530\n$86020531\n$86020532\n$86020533\n$86020534\n$86020535\n$86020536\n$86020537\n$86020538\n$86020539\n$86020540\n$86020541\n$86020542\n$86020543\n$86020544\n$86020545\n$86020546\n$86020547\n$86020548\n$86020549\n$86020550\n$"
+  "report": "LINE THREE REPORT",
+  "date": "012393",
+  "rlt_domestic": {
+    "tasks": [
+      {
+        "task": "1.Complete line three accountability logsheet.",
+        "status": "Yes"
+      },
+      {
+        "task": "2.Maintain housekeeping in AA areas.",
+        "status": "yes"
+      },
+      {
+        "task": "Restock station supplies.",
+        "status": "yes"
+      },
+      {
+        "task": "Restock folded filter paper.",
+        "status": "NO"
+      },
+      {
+        "task": "3.Make up bottles for all lines.",
+        "status": "YES"
+      },
+      {
+        "task": "4.Prepare.01H2SO4 extraction solution.",
+        "status": "NO"
+      },
+      {
+        "task": "5.Clean RLT FS grinder.",
+        "status": "NO"
+      },
+      {
+        "task": "6.Clean RLT BW grinder.",
+        "status": "NO"
+      },
+      {
+        "task": "7. Dump dust collector and vacuum cleaner.",
+        "status": "yes"
+      },
+      {
+        "task": "8.Samples pending",
+        "status": "YES/NO"
+      }
+    ],
+    "technician": "PovrinH",
+    "shifts": [
+      "11pm-7am",
+      "7am-3pm",
+      "3pm-11pm"
+    ],
+    "comments": [
+      "1b Moihine sponot~380spm peps",
+      "Ossbra hrs.",
+      "13Rejecls",
+      "10500bh",
+      "Bo dive bolt on codatoue foso",
+      "S0d3837a43",
+      "2050720985"
+    ]
+  },
+  "report_id": "A:REPORTID.WK",
+  "revision": "REV: 12/15/92"
 }

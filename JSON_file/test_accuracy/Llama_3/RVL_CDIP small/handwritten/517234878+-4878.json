@@ -1,4 +1,35 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\neT ne ey Rn styles, Mola a ARE) cog Maat eel us ew nt cra ame! fat a Someta na a Seer acetone ‘A poston pa Sonera ewer ar is at eu a a Offer Expires: 4/26/96 216495658. Cc2001 nen “3 eeceived DANNY NE...” (Note: The text is a jumbled mix of letters and numbers, but it appears to be a jumbled version of a receipt or invoice from a store.)\n\nHere is the structured information that can be extracted from the item:\n\n* Item name: Mola\n* Item number: 216495658\n* Expiration date: 4/26/96\n* Price: $0.00\n* Quantity: 1\n* Unit of measurement: unknown\n* Store name: Someta\n* Store location: unknown\n* Date of purchase: unknown\n* Payment method: unknown\n* Description: unknown\n\nHere is the structured JSON output:\n\n```\n{\n  \"item_name\": \"Mola\",\n  \"item_number\": \"216495658\",\n  \"expiration_date\": \"4/26/96\",\n  \"price\": \"0.00\",\n  \"quantity\": \"1\",\n  \"unit_of_measurement\": \""
+  "text": "Once youve tried all four styles check one to get your FREE carton.. AMEL CAMEL FILTERS 01 LIGHTS 4Bx WIDES 07Fitters SPECIAL LIGHTS 02sont Pack 05Soft Paok 09x 03100'sSoft Pak06100s Sot Pack 08ights 10Soft Pack 11100'sBx RnGAKSLAMHNYWAc copes ef or fora catnofC.pr RESTRICTED TO SMOKERS 21 YEARS OF AGE OR OLDER n costs pd by mant YOU MUST INCLUOE YOUR SIGNATURE AND BIRTHDATE 216495658CCC2001 DANNYNEBLETT 1139UNIONRD free'sampies didn Susexe 5e tHEM PLEASE PRINT ANY ADORI SS CORRECTIONSABOVE e Today's Date cert alan 51723 4878",
+  "brands": [
+    "AMEL",
+    "CAMEL"
+  ],
+  "packs": [
+    "01",
+    "02",
+    "05",
+    "09",
+    "10",
+    "11100'sBx"
+  ],
+  "restrictions": "RESTRICTED TO SMOKERS 21 YEARS OF AGE OR OLDER",
+  "note": "YOU MUST INCLUOE YOUR SIGNATURE AND BIRTHDATE",
+  "code": "216495658CCC2001",
+  "name": "DANNYNEBLETT",
+  "address": "1139UNIONRD",
+  "date": "Today's Date",
+  "cert": "cert alan",
+  "numbers": [
+    "01",
+    "02",
+    "05",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11100'sBx",
+    "216495658",
+    "51723",
+    "4878"
+  ]
 }

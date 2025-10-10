@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nPrologue 2 Tel+330561005290 anyware Fax+330561005146 31672 Labege Cedex (France) www.anyware-tech.com A/To: BAAF Asswanceo De/From:CHAMBON Maue- Clae CC :\nE-mail :\nFax :\nDate : 8mao 2oo7 Ref. :\nPages :\nObjet/Object : Fermetune da compte ( Pésiliation de man asswane auto NAF/APE722A S.A. au capital de 308 590 Euros) (French)\nTranslation:\n\nPrologue 2 Tel+330561005290 anyware Fax+330561005146 31672 Labege Cedex (France) www.anyware-tech.com A/To: BAAF Asswanceo De/From:CHAMBON Maue- Clae CC :\nE-mail :\nFax :\nDate : 8mao 2oo7 Ref. :\nPages :\nObjet/Object : Closure of account ( Termination of automatic payment NAF/APE722A S.A. at the capital of 308 590 Euros) (English)\n\nThe structured information can be extracted as follows:\n\n* **Sender Information**\n\t+ Name: CHAMBON Maue- Clae\n\t+ Email: (not provided)\n\t+ Fax"
+  "document": "Prologue 2",
+  "scenario": "anyware",
+  "writer": "CHAMBON Maue- Clae",
+  "sender_person": "CHAMBON Maue- Clae",
+  "sender_company": "anyware",
+  "sender_tel": "+330561005290",
+  "sender_fax": "+330561005146",
+  "receiver_person": "BAAF Asswanceo",
+  "receiver_company": "A/To",
+  "subject": "Fermetune da compte",
+  "date": "8mao 2oo7",
+  "place": "31672 Labege Cedex (France)",
+  "box": null
 }

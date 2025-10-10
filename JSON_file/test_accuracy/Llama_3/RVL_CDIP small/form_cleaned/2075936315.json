@@ -1,3 +1,39 @@
 {
-    "error": "Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  "confidential": null,
+  "date": null,
+  "document_type": null,
+  "manuscript_title": null,
+  "authors": [
+    {
+      "name": "Robert W. Jenkins",
+      "affiliation": null
+    },
+    {
+      "name": "Douglas D. McRae"
+    }
+  ],
+  "publication": {
+    "journal_book_title": "Recent Advances in Tobacco Science"
+  },
+  "presentation": {
+    "meeting": null,
+    "location": null,
+    "date": null,
+    "invited_paper": null
+  },
+  "travel_requested_for_authors": [
+    null,
+    null
+  ],
+  "conference_publication_deadline": {
+    "abstract": null,
+    "manuscript": null
+  },
+  "reviewed_by_manager": null,
+  "approved_by_director": null,
+  "abstract": null,
+  "patent_status": null,
+  "internal_referees": [],
+  "mrb_coordinator": null,
+  "doc_code": "P0622"
 }

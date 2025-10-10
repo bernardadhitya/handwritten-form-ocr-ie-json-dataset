@@ -1,4 +1,20 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n2-13-1996 5:21PM FROM ENVOY LOUNGE 6103627897 Pe Us AIRWAYS ENVOY LOUNGE FAX NUMBER ( ATTENTION:\nCOMPANY NAME:\nTELEPHONE NUMBER ( COUNTRY NUMBER OF PAGES INCLUDING THIS COVER SHEET HOME/ BUSINESS PHONE No. 1-800-PE-USA-1 (800-937-8221) \nHOME/ BUSINESS FAX No. 1-800-PE-USA-1 (800-937-8221) \nHOME/ BUSINESS EMAIL No. 1-800-PE-USA-1 (800-937-8221) \nHOME/ BUSINESS EMAIL ADDRESSES peusa@usa.com peusa@usa.com peusa@usa.com peusa@usa.com peusa@usa.com peusa@usa.com peusa@usa.com pe"
+  "date": "2-13-1996",
+  "time": "5:21 PM",
+  "from": {
+    "homeOrBusinessPhoneNo": "6103627897"
+  },
+  "phone": "P.8",
+  "page": "I",
+  "airline": "USAIRWAYS",
+  "lounge": "ENVOY LOUNGE",
+  "to": {
+    "faxNumber": "FAXNUMBER",
+    "attention": "ATTENTION",
+    "companyName": null,
+    "telephoneNumber": null,
+    "country": null
+  },
+  "numberOfPagesIncludingCoverSheet": "2",
+  "notes": "Abs+ract ormni-reyew the..e.ffe.ct...o...mmoi..comrond. on hesmokechemt C boavabitonTotne Freuas 4+ indicates......C.repatmain..concluslons Ror Fas4 45+5...the..as.... 2505511677"
 }

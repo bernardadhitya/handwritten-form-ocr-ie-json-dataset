@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nd'Informatique Centre National Laboratoire - pour la Mécanique de la Scientifique et les Sciences de l'Ingénieur Recherche Pahich CnEvET De la part de :\n2o AvaY Loot Date :\nTelephone: O 3 o Go S2 O8 l1O w PucpQ Adresse :\n61430 nACKWICLER Fums Tolp hone Adressé a :\nAu Bouy 7o3so lwyoul C Rci Télécopie :\nMessage :\nd sws e C wot Nombre de pages (celle-ci comprise) : 2\nd sws e C wot Nombre de pages (celle-ci comprise) : 2\nd sws e C wot Nombre de pages (celle-ci comprise) : 2\nd sws e C wot Nombre de pages (celle-ci comprise) : 2\nd sws e C wot Nombre de pages (celle-ci comprise) : 2\nd sws e C wot Nombre de pages (celle-ci comprise) : 2\nd sws e C wot Nombre de pages (celle-ci comprise) : 2\nd sws e C wot Nombre de pages (celle-ci comprise) : 2\nd sws e C wot Nombre de pages (celle-ci comprise) : 2\nd sws e C wot Nombre de pages (celle-ci comprise) : 2"
+  "document": "d'Informatique Centre National Laboratoire",
+  "scenario": "pour la Mécanique de la Scientifique et les Sciences de l'Ingénieur Recherche",
+  "writer": "Pahich CnEvET",
+  "sender_person": "2o AvaY Loot",
+  "sender_company": null,
+  "sender_tel": "O 3 o Go S2 O8",
+  "sender_fax": null,
+  "receiver_person": "Au Bouy",
+  "receiver_company": null,
+  "subject": null,
+  "date": null,
+  "place": "61430 nACKWICLER",
+  "box": null
 }

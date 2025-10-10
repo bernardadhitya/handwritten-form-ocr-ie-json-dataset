@@ -1,4 +1,51 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nPHILIP MORRIS RESEARCH CENTER New @ = Known 1) = 2452 Emp. Formula_CrzHiele Mol. Weight__190.28 Lit. Ref.\nName S)~(<) ~4~Bthylnicotine METHOD OF PREP:\nSoot Oo agro, : —————— ve Gls (an) 28200 oR 2452 1250s Solubility:\nNB#_3079 Fe #_98 Sample #__ 8079-98#4 BP_90° (oven) /0. 01mm To be tested for (amounts supplied):\nAnal. # g-9906 From_Galbraith Date_12/17/84 —— Recrystallization, Gc, TLC Data:\nCalcd. Found c 75.74 75.88 4 9.54 9.62 N 14.72 14.78 20 —_—_— Comments: [a}5° - 196? (c 0.0575, citsCl2) Date_/i7/ee Submitter Project #2505 Approved. Left 2062819202 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+  "research_center": "PHILIP MORRIS RESEARCH CENTER",
+  "cr": "CR",
+  "known": "Known",
+  "emp_formla": "C",
+  "mol_weight": "190.28",
+  "lit_ref": {
+    "name": "S---4-Ethylnicotine",
+    "structure": "STRUCTURE:METHOD OF PREP:COHAgNOCHCH3CR-2452NH2SO8HSO3079Pg#98"
+  },
+  "solubility": {
+    "sample_number": "8079-984",
+    "mp_bp": "BP 90oven/0.0lmm"
+  },
+  "to_be_tested_for_amounts_supplied": {
+    "number": "13631",
+    "date": "12/5/84",
+    "solvent": "CDC1",
+    "ir": null,
+    "hnmr": null
+  },
+  "ms": "HS7991-431011/30/84",
+  "anal": {
+    "g_number": "G-9896",
+    "from": "Galbraith",
+    "date": "12/17/84"
+  },
+  "recrystallization_gc_tlc_data": {
+    "calcd": "2026187902",
+    "found": {
+      "c": {
+        "calcd": "75.74",
+        "found": "75.88"
+      },
+      "h": {
+        "calcd": "9.54",
+        "found": "9.62"
+      },
+      "n": {
+        "calcd": "14.72",
+        "found": "14.78"
+      }
+    }
+  },
+  "comments": {
+    "date": "12/17/84",
+    "submitter": "/Keco",
+    "keco": "Project #2505",
+    "approved": null
+  }
 }

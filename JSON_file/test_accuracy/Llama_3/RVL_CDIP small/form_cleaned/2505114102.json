@@ -1,4 +1,40 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nINBIFO Institut far biologische Forschung GmbH - Kéin FORM 34.KW96 -/MWO X:MWOPCST.D0C Se PROJECT CONTROL SHEET OF P 2:\nTile (PR: Command! ou. \" Cliabbihunmnr fn poprtation, done bree fry soveityotions of hitarg Artin anno g orem dome ank discerdant cmmples” propotr bg K-\nRalarder, Uren, 15. OV. G6 Comments Proprornk, Di atery Wabi and 67S Objective’? Com nBe orn A pramorat of Boy, Eylanckes 70 enumhgnke Hatany haeih apong rrotang ae Remometerhy eavyetes Type 1°: zo Ty..."
+  "institution": "INBIFO Institut fur biologische Forschung GmbH Koln",
+  "form": "34.KW96 -/MWO XMWO\\PCST.DOC",
+  "projectControlSheet": null,
+  "title": null,
+  "author": null,
+  "date": null,
+  "shortTitle": null,
+  "objective": "Comm to cicrtgak",
+  "type1": "OZ",
+  "type2": null,
+  "type3": null,
+  "projectManagement": {
+    "studyDirectorCoordinator": null,
+    "studyCodirectorB": null
+  },
+  "closureOfProject": {
+    "rawDataPrepared": null,
+    "glpRegulations": null,
+    "projectShutdown": "M3.Dic s",
+    "dateSignSD": "",
+    "materialsHandedOver": null,
+    "dateSignArchivist": "M."
+  },
+  "qa": null,
+  "projectNumber": null,
+  "distribution": {
+    "original": null,
+    "copies": [
+      null,
+      null
+    ]
+  },
+  "completion": {
+    "completedBy": null,
+    "date": "10. KW 94"
+  },
+  "glpRelevant": null,
+  "gel": null
 }

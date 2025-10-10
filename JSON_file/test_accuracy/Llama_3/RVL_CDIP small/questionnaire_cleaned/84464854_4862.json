@@ -1,4 +1,100 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n2165 AATIONAL CONSENSUS SURVEYS 01 Second. Avenue fs07m New York, Mew York 10017 Auguet, 1977 R ‘SCMEENTNG: QUEST om The uwteavieu: stare: 22/3 RESPONDENT'S Mant:\nsoousss:\nLadue. z Lath ZR serra ice Mello. 1! Consenaus Sutvey Sn the area and 1'@ Uke to ‘questions.\n(woreate crt.) ——————————> sostoa Dee totes —————— 2 Detrote s————— 3.\nLeola Wiev Orleans -————- 5 Saba’ a Sea Franciaco ——— 7 from Wet tonal (QWITTAL MEFUSAL: CIRCLE WEXT HIGHEST INGER BELOW.) 1 20 » 4 59 60 7 79 80 98 99 100 ae 119 120 2 4 “ 4 15 8 3s wn 95 96 97 aus 1...\n81 82 83 84 a5 a6 87 68 B9 90 91 52 92 94 201 102 103 104 105 306 107 108 199 120 112 192 113.116 @ Ey e 10 30 so 1 a 5 a 2 3 2 6 ee Fy * 56 eaartcr— pase ehree (TESMDATE AND CIMCLE WEXT HIGHEST MinaE...\non oveR ace (SHO ACE CARD.) Please Cell ae vhich Leteer on thie card includes (remenware AND CIRCLE WexE HIGHEST EMBER ‘BELOM MEXT TO \"UNDER OR OVER ACE\" <— * mer prmiasy es to BL tote (conrniue) ¢——... ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————-"
+  "header": {
+    "code": null,
+    "id": null,
+    "title": "NATIONAL CONSENSUS SURVEYS",
+    "address": {
+      "street": null,
+      "suite": null,
+      "city": null,
+      "state": "New York",
+      "zip": null
+    },
+    "date": null
+  },
+  "questionnaire": {
+    "title": "SCREENING QUESTIONNAIRE",
+    "sections": [
+      {
+        "title": "CIGARETTE PORTFOLIO",
+        "time_interview": {
+          "started": null,
+          "ended": null
+        },
+        "respondent": {
+          "address": null,
+          "interviewer": null,
+          "metro_area": null,
+          "date": null,
+          "validated_by": ""
+        },
+        "indicate_city": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "initial_refusal": {
+          "circle_next_highest_number": [
+            10,
+            18,
+            null,
+            null,
+            null,
+            25,
+            26,
+            null,
+            null,
+            32,
+            null,
+            null,
+            50,
+            null,
+            null,
+            null,
+            null,
+            118,
+            null,
+            120
+          ]
+        },
+        "market_research_survey": {
+          "question": null,
+          "terminate_and_circle_next_highest_number": null,
+          "continue": null
+        },
+        "participated_in": {
+          "adults": [
+            null,
+            null,
+            null,
+            null,
+            6,
+            7,
+            null,
+            null,
+            11,
+            12
+          ]
+        },
+        "show_age_card": {
+          "question": "Please tell me which letter on this card includes your age.",
+          "terminate_and_circle_next_highest_number": [
+            null,
+            7,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "continue": null
+        }
+      }
+    ]
+  }
 }

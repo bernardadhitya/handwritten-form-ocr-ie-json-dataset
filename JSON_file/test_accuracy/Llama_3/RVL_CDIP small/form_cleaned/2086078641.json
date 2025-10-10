@@ -1,4 +1,32 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n1D?212-503-4650 APR 30'01 15:40 No.008 P.04 Please complete both Section A and B below. Seetion A certifice that your publication is \"not directed primarily to hoe under 2[ years of age.\" Section B do...\nTam the 1 oedtify that is not directed primarily Jo sopse under 21 years of age.\nSignature:\nName (lease pent): GE0PE Antec et SECTION B CIRCULATION: (#000) 40,000 Newsstand: _[O_% — % Subscription: _F4_% AGE PROFILE: % Circulation aged 21+: % OR  % Readership aged 21+: g * RESRARCH (PLEASE A...\nDate of Study: _ 2050 Spring.\n‘Type of Study (please check one) + (27 rtedianack Research ne. [J Media Aust [}senrorough [] simmons [] other Sf Other, please describe the TYRE (e.g., phone survey, blow-in cards, le), METHODOLOGY...\nquestionnaire within every \"th\" issue) wad provide the TOTAL # OF RESPONDENTS in the apace below:\nSe 198209802 Forms must be faxed to 917-663-5313 or mailed to: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+  "ID": "212-503-4650",
+  "Date": "APR 30'01",
+  "Time": "15:40",
+  "No": "008P.04",
+  "Page": null,
+  "Title": "PHILIP MORRIS USA PRINT RECERTIFICATION FORM",
+  "Instructions": null,
+  "SectionA": {
+    "PublicationTitle": null,
+    "Certification": "I cortify that (title of publication) is not dirccted primarily to those under 21 years of age.",
+    "SignatureDate": null,
+    "Signature": null,
+    "Name": null
+  },
+  "SectionB": {
+    "SubscriptionPercentage": "90%",
+    "Circulation": {
+      "NewsstandPercentage": null,
+      "CirculationAged21PlusPercentage": "97%",
+      "ReadershipAged21PlusPercentage": null
+    },
+    "Research": {
+      "DateOfStudy": "2050 Sering",
+      "TypeOfStudy": "Mediamark Research Inc.",
+      "OtherTypeDescription": null,
+      "Methodology": "phone survey",
+      "TotalNumberOfRespondents": "2086078641"
+    }
+  },
+  "FaxNumber": "917-663-5313"
 }

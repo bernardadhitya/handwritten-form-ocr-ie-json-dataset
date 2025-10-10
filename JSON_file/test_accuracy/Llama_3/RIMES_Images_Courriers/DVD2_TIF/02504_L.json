@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nA PorF svr Saone Gardes Emeric 1e 04/02/0F 16 av du 6vi1lemeF 7O 17O PorF sur Saone 03.84.66.02.81 BAAF Assorances V RM DA75 de Bourg SF Carreuc 22150 Madame, Monsievr montant de la prime d'assurance... 1.00 € 0.00 € 0.00 € 0.00 € 0.00 € 0.00 € 0.00 € 0.00 € 0.00 € 0.00 € 0.00 € 0.00 € 0.00 € 0.00 € 0.00 € 0.00 € 0.00 € 0.00 € 0.00 € 0.00 € 0.00 € 0.00 € 0.00 € 0.00 € 0.00 € 0.00 € 0.00 €"
+  "document": "PorF",
+  "scenario": "svr Saone",
+  "writer": "Gardes Emeric",
+  "sender_person": "Monsieur",
+  "sender_company": "BAAF Assorances",
+  "sender_tel": "03.84.66.02.81",
+  "sender_fax": null,
+  "receiver_person": "Madame",
+  "receiver_company": "SF Carreuc",
+  "date": "04/02/0F",
+  "place": "de Bourg",
+  "box": "22150"
 }

@@ -1,4 +1,28 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nFEB 19 ‘99 @3:@2Am PHILIP MORRIS\"RED TT ~ Pat TO: Name D ~ We RestgPano _—_ H-2764 Company INBI FO Fax No. [Eingeoangen. : 19:FE8.1999 Or) \"q 4 Gerrpryen {7 | Philip Moses USA, RED, wane x Phone: 804...\n@ MESSAGE: g File.\nT Me De Why Ast cg. et. wee eh lhe fle Cor f Cnn t= a Se BA eM) vSLygesosz 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+  "fax": {
+    "header": {
+      "date": "FEB 1099",
+      "time": "0902AM",
+      "sender": "Philip Mors USA.R&D,Richmond.VA",
+      "page": "P.1"
+    },
+    "to": {
+      "name": "Dy. W.Reiuuehauo",
+      "company": "INBIFO",
+      "faxNo": "Eingeoangen",
+      "received": "1.FE8.1999"
+    },
+    "from": {
+      "name": "Semm",
+      "company": null,
+      "phone": "804/274",
+      "fax": "804/274",
+      "reference": "3",
+      "code": "PM 80310"
+    },
+    "date": "1.FE8.1999",
+    "pagesToFollow": "PAGESTOFOLLOW",
+    "confidentialityNotice": "This facsimile transmission (and/or the documents accompanying it) may contain confidential information belonging to the sender. The information is intended only for the use of the addressee or entity named above. If you are not the intended recipient, you are hereby notified that any disclosure, copying, distribution or the taking of any action in reliance of the contents of this information is strictly prohibited by law. If you have received this transmission in error,please immediately notify us by telephone to arrange for the returo of the documents.",
+    "message": "T4e DVe tig. tt.usc 2505364154"
+  }
 }

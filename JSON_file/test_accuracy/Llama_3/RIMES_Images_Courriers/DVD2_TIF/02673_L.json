@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nChristian laTaur evrie 2eo 5 chemn o6eR&ERC 67140 n1iTTEL BERGHEiM Te/ 03.15.23.32.35 7ANif Assuanc 1513o TEIssiERES lEJ BoULiEs Aodane.\nMonoieu Vass m'eha Yas po pavar qw I Rva ol dombe tE vike dov mo giom e qu'/ nain aen o owenir,le.hnhne poavo memetede qe de tout me o don l'oeihe. Condul en wgence cher mn mika tou ds xcouphen serkme... (Translation: Christian Latour, 2eo 5 chemn o6eR&ERC 67140 n1iTTEL BERGHEiM Te/ 03.15.23.32.35 7ANif Assuanc 1513o TEIssiERES lEJ BoULiEs Aodane. The monoieu Vass is a very good horse, and I Rva ol dombe tE vike dov mo giom e qu'/ nain aen o owenir,le.hnhne poavo memetede qe de tout me o don l'oeihe. Condul en wgence cher mn mika tou ds xcouphen serkme...)\n\nThe text is written in a mix of French and English, with some words and phrases in Latin. The text appears to be a letter or"
+  "document": "Christian laTaur",
+  "scenario": "evrie 2eo",
+  "writer": "5 chemn o6eR&ERC",
+  "sender_person": "Christian laTaur",
+  "sender_company": "n1iTTEL BERGHEiM",
+  "sender_tel": "03.15.23.32.35",
+  "sender_fax": null,
+  "receiver_person": "7ANif Assuanc",
+  "receiver_company": "1513o TEIssiERES lEJ BoULiEs",
+  "date": null,
+  "place": "Aodane",
+  "box": "Monoieu"
 }

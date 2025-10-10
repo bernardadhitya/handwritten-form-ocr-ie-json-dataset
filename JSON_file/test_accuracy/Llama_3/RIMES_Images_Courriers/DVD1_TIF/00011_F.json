@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nLibertéEgalitéFraternite RÉPUBLIQUE FRANCAISE MINISTERE DE LA DEFENSE TÉLÉCOPIE Non protégée Diffusion restreinte No 3 Date: 25/0+/ DGA DESTINATAIRE(S) :\nN° de télécopieur :\nDELEGATION GENERALE POUR L'ARMEMENT o1 6o 76 43 33 (0)Jm3.\nLe Délégué général 1Z, paQ Qeg&x 3S23o Sr ArmI Nombre de page dont celle-ci :3 Expéditeur :\nimmédiat urgent routine Caractére d'urgence :\nHuie Gendon OBJET :\nFax :\nTél. : 03 5& 36 28 74 Votre Jamatron du wa dener es} ul& Adresse électronique éventuellement Saws suit ZONE DE TEXTE :\nMadame, Honiew Jeuilles touwr a-joinl :\nlne neIau e courier saws nponK un questonnare Bonne neupton 1 Hlune Gmdron QMG Délégation générale pour I'armement - 00457 Armées Téléphone : 01 45 52 73 10 - Télécopie : 01 45 52 72 72 - Fax : 01 45 52 73 11 - Courrier électronique : [armee@armee.fr](mailto:armee@armee.fr) - Adresse postale : 1 Place de la Concorde, 75008 Paris, France - Adresse électronique : [armee@armee.fr](mailto:armee@armee.fr) - Télécopie : 01 45 52 72 72 - Fax : 01 45 52 73 11 - Courrier électronique : [armee@armee.fr](mailto:armee@armee.fr) - Adresse postale : 1 Place de la Concorde, 75008 Paris, France - Adresse électronique : [armee@armee.fr](mailto:armee@armee.fr) - Télécopie : 01 45 52 72 72 - Fax : 01 45 52 73 11 - Courrier électronique : [armee@armee.fr](mailto:armee@armee.fr) - Adresse postale : 1 Place de la Concorde, 75008 Paris,  France - Adresse électronique : [armee@armee.fr](mailto:armee@armee.fr) - Télécopie : 01 45 52 72 72 - Fax : 01 45 52 73 11 - Courrier électronique : [armee@armee.fr](mailto:armee@armee.fr) - Adresse postale : 1 Place de la Concorde, 75008 Paris, France - Adresse électronique : [armee@armee.fr](mailto:armee@armee.fr) -"
+  "document": "TÉLÉCOPIE",
+  "scenario": "Non protégée",
+  "writer": "Huie Gendon",
+  "sender_person": "Le Délégué général",
+  "sender_company": "Délégation générale pour l'armement",
+  "sender_tel": "01 45 52 73 10",
+  "sender_fax": "01 45 52 72 72",
+  "receiver_person": "Madame, Honiew",
+  "receiver_company": "DELEGATION GENERALE",
+  "subject": "OBJET",
+  "date": "25/0+/",
+  "place": "ZONE DE TEXTE",
+  "box": "No 3"
 }

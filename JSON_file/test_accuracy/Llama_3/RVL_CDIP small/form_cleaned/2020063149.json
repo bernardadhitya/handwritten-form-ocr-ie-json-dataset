@@ -1,4 +1,41 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nan PART -ISSUE FEE TRANSMITTAL snc Ws TAUCTNS: Ts eset ate vig EE. tt et goo pi az nermonons rtm athlete tet ri, tee ee ed an a ae ae arg Seve eaten er teentecereeeramntes nere aa 1 CORRESPONDENCE ROO...\nNEW YORK. NY \"10022-6250 CO RENTORS NOME i [Su Seeder oa 1D chock tacstonal changes a on rover ste Tig o€ WON EP PARATUS 68D METHOD FOR LAMINATING PATCHES OF A FIRSTA0ER MATERIAL ONTO A SECOMD WEB MAT...\n‘PUASE NOTE: nessa ass writs 80S, sam it per * nie poor inaten ttre tala wo trey wan uh yore ote fan re evens nrsandi PTO are bengneracrs eet sen cover Corban! parca unginn oet Siteminor a wousomorkag..."
+  "part": "B-ISSUEFEE TRANSMITTAL",
+  "form": "PART B-ISSUEFEE TRANSMITTAL",
+  "instructions": "Thi$ form should be used for transmiting the ISSUE FEE. Blocks 2 through6 should bo completed where appropriate.",
+  "correspondence_address": {
+    "inventor_name": "JOHN M.HINTZ",
+    "firm": "FISH AND NEAVE",
+    "street_address": "875 THIRD AVE.",
+    "city_state_zip": "NEW YORK,NY 10022-6250"
+  },
+  "series_code_serial_no": "INGOATE-",
+  "date_mailed": "07/837722",
+  "total_claim": "600",
+  "applicant": {
+    "first_named": "First Named",
+    "name": "COXLINS, ALFRED",
+    "title_of_invention": "APPARATUS AND METHD FOR LAMINATING PATCES OF A FIRSTSEB MATERIAL ONTO A SECOND WEB MATERIAL"
+  },
+  "date_due": "cuws",
+  "printing_on_patent_front_page": [
+    "JOHN M. HINTZ",
+    "Jeffrey H.",
+    "Ingeraar"
+  ],
+  "assignment_data": {
+    "name_assignee": "Philip Morris Incorporated",
+    "address": "New York, DEPOSITACCOUNT NUMBER 06-1075",
+    "state_of_incorporation": "Virginia"
+  },
+  "fees_enclosed": {
+    "issue_fee": "10",
+    "deposit_account_number": "06-1075"
+  },
+  "assignment": {
+    "previously_submitted": "Assignment previously submid oPanand TradamarkOfc",
+    "being_submitted": "Assignment is boing submittod undor soparaiocovor"
+  },
+  "note": "NOTEThe lssue Fee wi not beopsd from aryone oer san e previousy submid o Pi beng suunder separale cover.",
+  "transmit_form_with_fee": "TRANSMIT THIS FORM WITH FEE-CERTIFICATE OF MAILNG ON REVERSE",
+  "form_revision": "RTCL-85B (REV 12-Ba)(OM8 Claarance is pending)"
 }

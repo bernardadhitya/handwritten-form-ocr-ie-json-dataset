@@ -1,4 +1,55 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nPe MR srece CHAIN VOUCHER REQUEST TO: JOYCE DOUCETTE - PC - 1110 *Please Attach Documentation sist 55 637/ ‘ACCOUNT NAME: Haney Faenas TOTAL AMOUNT OF VOUCHER: _# 2555.40 VOUCHER SENT TO: PAYEE:__ ROU...\nREQUESTED BY: Jane 4 /de RCA ROS 5-4 pate: 3/u As [_#UNITS | RATE | TOTAL \"__HlH- TPS CODE (DESCRIPTION) = 760. 20% | f32f.00 CAM____30. PR_RED 30 PR RED PR. RED 30 PR. RED 3O_PR. RED ‘Discounting app...\n[# UNITS [RATE] TOTAL Hi - TPS CODE (DESCRIPTION) IRIR MATCH PORTION ONLY RAC_CAM_RJRMATCH RAC WIN RJRMATCH RAC SAL RJRMATCH RAC RETAIL MATCH UPDATE ACTIVITY? YES = *NO *Do not update activity if base...\nIF YES, CHECK OFF ONE METHOD OF SPREADING ACTIVITY WITHIN CHAIN-ID#Z29_- go. 2d ~~ Spread activity equally among all accounts = Spread activity based upon volume % ‘Spread activity using BPE tempiate...’ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d "
+  "voucherRequest": {
+    "to": "JOYCE DOUCETTE-PC-1110",
+    "sisNumber": "5537",
+    "accountName": "HneyFums",
+    "totalAmountOfVoucher": "6555.0",
+    "voucherSentTo": "PAYEE",
+    "requestedBy": "A.RRCROSS",
+    "date": "3/98",
+    "buydowns": [
+      {
+        "units": "7760",
+        "rate": "30",
+        "total": "2328.00",
+        "description": "CAM"
+      },
+      {
+        "units": "11500",
+        "rate": "945000",
+        "total": "*WN",
+        "description": "PR.RED"
+      },
+      {
+        "units": "1940",
+        "rate": "552.00",
+        "total": "DOR",
+        "description": "30PR.RED"
+      },
+      {
+        "units": "750",
+        "rate": "3og",
+        "total": "2Q5.00",
+        "description": "MON"
+      }
+    ],
+    "retailAccrualMatch": {
+      "rjrMatchPortion": {
+        "racCam": "$1.00",
+        "racWin": "$1.00",
+        "racSal": "$1.00"
+      },
+      "retailMatchPortion": {
+        "racRetailMatch": "$1.00"
+      }
+    },
+    "updateActivity": "YES",
+    "spreadActivityMethod": null,
+    "spreadActivityId": "51877 2902",
+    "tpsExplanation": "i/CAnHONDR",
+    "rouCompletion": {
+      "voucherNumber": "153989/2",
+      "dateRequested": "3798"
+    }
+  }
 }

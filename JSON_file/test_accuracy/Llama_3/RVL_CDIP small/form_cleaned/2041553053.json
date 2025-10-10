@@ -1,3 +1,22 @@
 {
-    "error": "Extra data: line 9 column 1 (char 238)"
+  "fax": {
+    "id": "001",
+    "time": null,
+    "pages": null,
+    "date": null
+  },
+  "sender": {
+    "name": null,
+    "company": null,
+    "return_fax": null
+  },
+  "recipient": {
+    "name": "Phikin Mowis",
+    "company": null,
+    "fax_number": null
+  },
+  "message": null,
+  "address": null,
+  "phone": null,
+  "telex": null
 }

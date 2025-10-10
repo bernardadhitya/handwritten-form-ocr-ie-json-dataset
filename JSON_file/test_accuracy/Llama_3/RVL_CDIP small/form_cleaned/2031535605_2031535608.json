@@ -1,4 +1,83 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nPhilip Motis USA.\nIndustrial Hygiene STRESS CHARACTERIZATION 1. IDENTIFICATION City Plant Exposure Zone Location: Bic MC__ PRORAeS  _| LL 1 4 8 Year Month Day Identification # omt | Sample BQ ot BS) _Avs) a Number: 16...\nIl, JOB CHARACTERIZATION caro 2 2 v A Bw Job Type: — Routine/Norma-R) —_Infrequent/Variab! Start-Up Upset/Abnorm:\nBatch 28 Job Frequency: Times/Month = Minutes/Time (If Appropriate, EG: Batch, Variable) ee ee 29 32, Job Description: (Include Machines) Men OA cane Room = pices ey 35-79 in 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+  "PhilipMotisUSA": {
+    "IndustrialHygiene": {
+      "STRESS_CHARACTERIZATION": {
+        "IDENTIFICATION": {
+          "City": "City",
+          "Plant": "PRAREA3",
+          "ExposureZone": "3w",
+          "Location": "3w",
+          "Year": "1981",
+          "Month": "9",
+          "Day": null,
+          "Identification#": "a3",
+          "OmitSample": "L65",
+          "Number": [
+            16,
+            18,
+            20,
+            22,
+            80
+          ]
+        },
+        "JOB_CLASS_REPRESENTATION": {
+          "CARD": 26,
+          "EmployeeName": {
+            "Last": null,
+            "First": null,
+            "SS#": null,
+            "MI": null
+          },
+          "JobCode": 28,
+          "Representation": "Representative RUnusual-U",
+          "Representative": "R",
+          "Unusual-U": null,
+          "IfR": {
+            "OtherRepresentativeJobCodes": [
+              43,
+              47,
+              51,
+              55,
+              59
+            ]
+          },
+          "Shifts": {
+            "Day": "A",
+            "Evenings": "B",
+            "Graveyard": "C",
+            "Novel": "N",
+            "ShiftCodes": [
+              "A",
+              "B",
+              "C",
+              "N"
+            ]
+          },
+          "Note": "Note -Representative monitoring will be assigned to all individuals with the job code listed and the exposure zone specified.Unusual monitoring results will only be assigned to individuals speci- fied.For representative monitoring all appropriate shifts will be specified."
+        },
+        "JOB_CHARACTERIZATION": {
+          "CARD": 2,
+          "JobType": {
+            "Routine/Normal": "-R",
+            "Start-Up": null,
+            "Infrequent/Variable": "-V",
+            "Upset/Abnormal": "-A",
+            "Batch": "-B"
+          },
+          "JobFrequency": {
+            "Times/Month": null,
+            "Minutes/Time": null
+          },
+          "JobDescription": {
+            "IncludeMachines": "orrisy",
+            "Details": [
+              "ABC",
+              "2031535605",
+              "40-050-1"
+            ]
+          }
+        }
+      }
+    }
+  }
 }

@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nMme MARINE SAGE 4 Les Bouleaux 88240 LES VOIVRES Télécopie A: NNA A sSUGnceo Téléphone :03 86 66 59 66 Pages :\nDate :\n16/03/07 Urgent Pour avis Commentaires Réponse Confidentiel\nMme MARINE SAGE\nLes Bouleaux\n88240 LES VOIVRES\nTélécopie : 03 86 66 59 66\nPages : 16\n\nThe following information is not included in the text:\n\n* The date of the letter (16/03/07) is not a date in the classical sense, but rather a date in the format of a French postal code (Les Voiv"
+  "document": "Mme MARINE SAGE",
+  "scenario": null,
+  "writer": null,
+  "sender_person": "Mme MARINE SAGE",
+  "sender_company": "Les Bouleaux",
+  "sender_tel": "03 86 66 59 66",
+  "sender_fax": "Télécopie",
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "Pour avis",
+  "date": "16/03/07",
+  "place": "LES VOIVRES",
+  "box": "Urgent"
 }

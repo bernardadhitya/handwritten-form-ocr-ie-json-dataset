@@ -1,4 +1,16 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nGX bracneou = SUD OUEST Écrans ènarraune ne esse me Poe s Eleanor Frééman a à Has Seau nee sé ps cs - = 2581230 085085474125 300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852"
+  "bank": "CREDITAGRICOLE",
+  "branch": "SUDOUEST",
+  "accountHolder": "Eleanor Freeman",
+  "accountNumber": "3085",
+  "transactionID": "EL2327",
+  "transactionDate": "06/05/22",
+  "transactionAmount": "1.00",
+  "location": "Madrid",
+  "reference": "Re du CraPercre",
+  "additionalInfo": {
+    "code": "OCTOL.CLSE",
+    "description": "Chee.eN",
+    "note": "2581230"
+  }
 }

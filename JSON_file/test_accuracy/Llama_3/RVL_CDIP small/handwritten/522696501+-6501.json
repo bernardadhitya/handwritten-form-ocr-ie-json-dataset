@@ -1,4 +1,9 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nDenR SiRs, :.\nSHe MR. JDHN Lici7siR0 5MDKe s WhiNSToN THANK 52269650 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+  "name": "DenR SiRs",
+  "title": "MR. JDHN Lici7siR0",
+  "contact": {
+    "name": "5MDKe s WhiNSToN",
+    "address": null,
+    "phone": "52269650"
+  }
 }

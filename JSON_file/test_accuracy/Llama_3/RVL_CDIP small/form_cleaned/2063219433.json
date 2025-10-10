@@ -1,4 +1,73 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n1 | i | acorn. CERTIFICATE OF INSURANCE ro oa noo [THIS GERTIICATETS SSUEDAS A WATTER OF HFORMATHON-GRCY AND 7 CONFERS NO RIGHTS UPON THE CERTIFICATE HOLDER, THIS CERTIFICATE DOES NOT AMEND, EXTEND OR...\n. eperae Hartford Accident & Indemnity sufPhilip Morris Companies, Inc. and seen | its Subsidiary Companies including cour NY Underwriters Ins. Co.\nKraft General Foods, Ine, Oscar Mayer eran Foods Corp, Miller Brewing Co, coun ‘Twin City Fire Ins. Co.\nEntenmann’s, Inc.\n120 Park Avenue courawr New York, New York 10017 terran” ‘COVERAGES :\n‘This 18 TO CERTIFY THAT THE POLIGIES OF INSURANCE LISTED BELOW HAVE BEEN ISSUED TO THE INSURED NAMED ABOVE FOR THE POLICY PERIOD Recs. nanruatanons sy esunetiey ea or oti or ant couancr os orn Boca t...\nX won aro -\nuraae usury morenvommer 8 i 8 [iceman oraemomene + | amet en so0necare 23 |__ orien ria avons rome z ino 1OWBRP28118E_ 5/1/91. 5/1/92 exon nooIoeNTT'500,000 curve saaery awseasc-roucruum + —500°000...\n| t | f ‘CERTIFICATE HOLDER ‘CANCELLATION SHOULD ANY OF THE ABOVE DESCRIBED POLICIES SE CANCELLED BEFORE THE Churchill Downs Ine. EXPIRATION OATE THEREOF, THE (SSUNG COMPANY WILL ENDEAVOR TO | 700 Cen..."
+  "certificate_of_insurance": {
+    "issue_date": "04/19/92",
+    "producer": {
+      "name": null,
+      "address": "125 Broad Street, New York, New York 10004-2424"
+    },
+    "companies_affording_coverage": {
+      "A": null,
+      "B": null,
+      "C": null,
+      "D": null,
+      "E": "Entenmann's, Inc."
+    },
+    "insured": {
+      "name": null,
+      "address": null
+    },
+    "coverages": [
+      {
+        "type_of_insurance": null,
+        "policy_number": null,
+        "policy_effective_date": null,
+        "policy_expiration_date": "05/01/92",
+        "limits": {
+          "general_aggregate": null,
+          "products_comp_op_aggr": 1000000,
+          "personal_adv_injury": null,
+          "each_occurrence": null,
+          "fire_damage": 1000000,
+          "med_expense": null
+        }
+      },
+      {
+        "type_of_insurance": null,
+        "policy_number": "10CSEC35100E",
+        "policy_effective_date": null,
+        "policy_expiration_date": null,
+        "limits": {
+          "combined_single_limit": null
+        },
+        "coverage": [
+          "any_auto",
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "type_of_insurance": null,
+        "policy_number": null,
+        "policy_effective_date": "05/01/91",
+        "policy_expiration_date": "05/01/92",
+        "limits": {
+          "each_accident": null,
+          "disease_policy_limit": 500000,
+          "disease_each_employee": null
+        }
+      }
+    ],
+    "description_of_operations": null,
+    "certificate_holder": {
+      "name": null,
+      "address": null,
+      "attn": null
+    },
+    "cancellation": "The issuing company will endeavor to mail 30 days written notice to the certificate holder named to the left, but failure to mail such notice shall impose no obligation or liability of any kind upon the company, its agents or representatives.",
+    "authorized_representative": null,
+    "form": null,
+    "copyright": null
+  }
 }

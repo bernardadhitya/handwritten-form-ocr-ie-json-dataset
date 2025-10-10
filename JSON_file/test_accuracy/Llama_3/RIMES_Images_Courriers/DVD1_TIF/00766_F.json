@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nGRTgaz RESEAUNOROEST AGENCE EXPLOITATIONLILLE-BETHUN vos REF.Bomg nosntr 24K1 du cKenoy - ST Gevmoin Le chotlop INTERLOCUTEUR A TMANiGO er ooordonneo sRTga-telephone03.216.7.30..teco 0321.64..49.-www....gtrgaz.com\n\nThe following information is provided:\n\n*   **Contact Information:**\n    *   **Address:** Lille-Bethune\n    *   **Phone Number:** 03.216.7.30.00\n    *   **Email:** [www.gtrgaz.com](mailto:www.gtrgaz.com)\n*   **Service Information:**\n    *   **Service Name:** RESEAUNOROEST\n    *   **Service Description:** AGENCE EXP"
+  "document": "GRTgaz",
+  "scenario": "RESEAUNOROEST",
+  "writer": "AGENCE EXPLOITATIONLILLE-BETHUN",
+  "sender_person": "vos REF.Bomg",
+  "sender_company": "nosntr 24K1 du cKenoy - ST Gevmoin Le chotlop",
+  "sender_tel": "03.216.7.30",
+  "sender_fax": "0321.64.49",
+  "receiver_person": "INTERLOCUTEUR A TMANiGO",
+  "receiver_company": "er ooordonneo",
+  "subject": "sRTga-telephone",
+  "date": null,
+  "place": null,
+  "box": null
 }

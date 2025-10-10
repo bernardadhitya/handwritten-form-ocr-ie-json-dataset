@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n(6 Carrefour Nos ref AGNÉS Tean-Tacqeueo À Cour HANHART 69630 MiTTEL WiHR.\nVos ref: VAIF Aadurancen AS Rue de Cine) Te- Ge Ne a0%oo CHATENEIS LES FORGES 69003 Lyon\nFrance\n Postal Code: 69003\nCity: Lyon\nCountry: France\nPhone: +33 4 72 49 49 49\nEmail: info@chateneis.com\nWebsite: www.chateneis.com\n)\n\nHere is the information extracted from the text:\n\n*   **Address**:\n    *   **Street**: Rue de"
+  "document": "Carrefour",
+  "scenario": null,
+  "writer": null,
+  "sender_person": "A6NES Tean-Tacqueo",
+  "sender_company": "HANHART 6863O MiTTELWiHR",
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": "NAiF Assuances",
+  "receiver_company": "1g Rue du GéneaI De Gculle",
+  "subject": "ceca ma-demande d'infamaden",
+  "date": null,
+  "place": "gOtOO CHATENOis LES FORGES",
+  "box": "YOWYO Mk AGNEs"
 }

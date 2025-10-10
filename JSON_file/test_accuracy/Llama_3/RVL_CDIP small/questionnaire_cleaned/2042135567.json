@@ -1,4 +1,65 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n5 WINONA URE, INC.\n8200 HUMBOLDT AVENUE Minneapolis, MN 55431.\n‘SCREENER Market:\nArizona... ee ee ed Tampa se ee 2 Hello, national opinion research company and we would like to interview WOMAN) in your household.\nIm calling long sence from WINONA RESEARCH.\nDE-NIC CONTINUOUS THT NO. 1602-00473 / 1602-00474 JUNE-DECEMBER, 1990 Oe AS We area SOMEONE) (A MAN) (A 1, First of all, can you please tell me what county you live in? Acceptable county...\nOther :\nDon't know/refused...\n2. What is your age, please? + (IF REFUSE, ASK:) falls? Are you... (READ LIST) Under 18 :\n18-2400 25 - 29 te 30-34...\n35-3900.\n40 - 44 os Do NOT READ 3a. Do you smoke cigarettes? Yes :\nNo :\nRefused to answer question 9/27/30/c2/6 ‘THANK & TERMINATE.\nSELECT T.1A ON CRT SCREEN (RECORD EXACT AGE - CHECK QUOTAS) Can you please tell me into which of these ranges your age THANK AND TERMINATE.\nSELECT T.2 ON CRT SCREEN.\n1 2 3 4 5 CHECK QUOTAS. IF FILLED, 6 SKIP TO Q.3b.\n7 8 -\n9 0 ¥ THANK AND TERMINATE.\nSELECT R.2 ON CRT SCREEN.\nSKIP 10 Q.3¢ ‘THANK & TERMINATE.\nR.3a ON CRT SCREEN.\nSELECT Lgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\nLgggelevoe.\n"
+  "company": null,
+  "project": "DE-NIC CONTINUOUS TMT",
+  "address": null,
+  "project_numbers": [
+    null,
+    null
+  ],
+  "location": null,
+  "role": null,
+  "time_period": "JUNE-DECEMBER, 1990",
+  "markets": [
+    null,
+    "Tampa"
+  ],
+  "introduction": "Hello, I'm calling long distance from WINONA RESEARCH. We are a national opinion research company and we would like to interview SOMEONE (A MAN OR WOMAN) in your household.",
+  "questions": [
+    {
+      "question": null,
+      "options": {
+        "acceptable_county": null,
+        "other": null,
+        "don't_know_refused": 3
+      },
+      "action": null
+    },
+    {
+      "question": null,
+      "action": null,
+      "if_refuse": null,
+      "age_ranges": {
+        "under_18": null,
+        "18-24": 1,
+        "25-29": null,
+        "30-34": null,
+        "35-39": 4,
+        "40-44": null,
+        "45-49": null,
+        "50-54": null,
+        "55-59": null,
+        "60-64": null,
+        "65_and_over": null,
+        "refused": null
+      },
+      "action_if_refused": null
+    },
+    {
+      "question": "Do you smoke cigarettes?",
+      "options": {
+        "yes": null,
+        "no": null,
+        "refused": null
+      },
+      "action_if_refused": null
+    }
+  ],
+  "codes": [
+    null,
+    null,
+    "35567"
+  ],
+  "date": null,
+  "initials": "cz",
+  "version": null
 }

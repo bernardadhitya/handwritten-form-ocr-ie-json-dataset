@@ -1,10 +1,45 @@
 {
-    "Did you or any menber(s) of your family as listed below ever have cancer?": "Yes",
-    "NUMBER TYPE(S)": "Yes",
-    "FAILLY wim oF DO OR DID": "Grandparente",
-    "Grandparente": "x",
-    "Parents": "2 Bone Yes Yes Painter",
-    "Brothers & Sisters": "Children",
-    "Children": "No —",
-    "Aunta & Uncles": "3 x x }_ox"
+  "survey": {
+    "code": "Ass1gncdUSF 71~",
+    "family": {
+      "question": "Did you or any members) of your family as listed below ever have cancer?",
+      "response": "Yes",
+      "details": [
+        {
+          "number": "90",
+          "type": "Grandparents",
+          "cancer": "Yes",
+          "smoke": null,
+          "drink": null,
+          "occupation": "Painter"
+        },
+        {
+          "number": "91",
+          "type": "Parents",
+          "cancer": "No",
+          "smoke": null,
+          "drink": null,
+          "occupation": "Garmet Factory"
+        },
+        {
+          "number": "92",
+          "type": "Brothers & Sisters",
+          "cancer": "No",
+          "smoke": null,
+          "drink": null,
+          "occupation": "House-keeper"
+        },
+        {
+          "number": "93",
+          "type": "Children",
+          "cancer": "No"
+        },
+        {
+          "number": "94",
+          "type": "Aunto& Uncles",
+          "cancer": null
+        }
+      ]
+    }
+  }
 }

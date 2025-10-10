@@ -1,4 +1,42 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\niomerre stow ne, re sooness : crnerstat, tren E 20 ene Wee eoamETar Say tn ens area and voutd tie te ait yours Feu gunboats Al (00 wor ASK. RECORD FROM onsenvariony ow Fesnie! | B- Fese, into whten of...\n201? anny COMTI iy i ; i. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. "
+  "study": "CIGARETTE STUDY",
+  "participant": {
+    "name": "",
+    "telephone": null,
+    "address": null,
+    "city_state": null,
+    "zip": null
+  },
+  "interviewer": {
+    "name": "",
+    "date": null
+  },
+  "gender": {
+    "male": null,
+    "female": null
+  },
+  "age_group": {
+    "under_18": null,
+    "18_24": null,
+    "25_34": null,
+    "35_49": null
+  },
+  "company_type": {
+    "drug_company": false,
+    "food_manufacturer": null,
+    "mobile_manufacturer": null,
+    "advertising_agency": false,
+    "television_manufacturer": false
+  },
+  "cigarettes_per_day": {
+    "less_than_1": false,
+    "none": null,
+    "1_4": null,
+    "5_9": null,
+    "10_15": null,
+    "16_19": null,
+    "20": null,
+    "25": null,
+    "26_30": null
+  }
 }

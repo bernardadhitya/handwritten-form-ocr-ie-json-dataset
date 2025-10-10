@@ -1,3 +1,43 @@
 {
-    "error": "Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  "company": "FOSS-COOPER ASSOCIATES,INC.",
+  "address": "275 Msdiaon Avenue, New York, New York 10016",
+  "project": {
+    "name": "SMOKER IMGERY TEST",
+    "code": "SCRENER",
+    "phone": "350-35-83",
+    "date": "MAY 1983",
+    "test": null,
+    "version": null
+  },
+  "interview": {
+    "name": null,
+    "address": null,
+    "interviewer": "INTERVIEWER",
+    "date": "DATE",
+    "validated_by": null,
+    "time_began": "1",
+    "introduction": "Hello,Im an interviewer from ROSS-COOPER ASSoCIATESa national opinion research company.We are conducting a survey and would like to ask you a few questions.",
+    "questions": [
+      {
+        "question": "Excluding politics, have you been interviewod on any subject in the past six months?",
+        "answer": "YES"
+      },
+      {
+        "question": "Do you or do any of your friends or relatives,work for any of the following Kinds of campanies?",
+        "answer": null
+      },
+      {
+        "question": "RECORD SEX",
+        "answer": "506C6"
+      }
+    ],
+    "brand_quota": {
+      "other": null,
+      "camel_lights": null,
+      "marlboro_regular": "MARLBORO REGULAR",
+      "marlboro_lights": "MARLBORO LIGHTS",
+      "all_other_full_flavor": "ALL OTER FULL FLAVOR",
+      "all_other_lights": "ALL OTHER LIGHTS"
+    }
+  }
 }

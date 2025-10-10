@@ -1,4 +1,70 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nassent: cuisessus sewers terns oS Seen eenve :\nfev fette'sestork 10017 3h ae wee iu! puoi ened Sizinerts send Please taka & fee sieuten’ 00 go tirouph che adverttcesente fo ene book, Please {ake se toch Cine sith each af as you aafe tov If you ora...\nfo anne 29 (SKIP TO 9.10) {ar vont ck \"wo\" cLcARETTE DRANoS MENTIONED, ASE:) ab. bo you tenanber any ade for any gener Or 16) [pinnae beande-uere eheyt Any others? Wo mannan B# ¢ ‘ vent Solgen tees >... (skip to 9.11) {ar 29 (SKIP TO 9.11) {ar 29 (SKIP TO 9.12) {ar 29 (SKIP TO 9.13) {ar 29 (SKIP TO 9.14) {ar 29 (SKIP TO 9.15) {ar 29 (SKIP TO 9.16) {ar 29 (SKIP TO 9.17) {ar 29 (SKIP TO 9.18) {ar 29 (SKIP TO 9.19) {ar 29 (SKIP TO 9.20) {ar 29 (SKIP TO 9.21) {ar 29 (SKIP TO 9.22) {ar 29 (SKIP TO 9.23) {ar 29 (SKIP TO 9.24) {ar 29 (SKIP TO 9.25) {ar 29 (SKIP TO 9.26) {ar 29 (SKIP TO 9.27) {ar 29 (SKIP TO 9.28) {ar 29 (SKIP TO 9.29) {ar 29 (SKIP TO 9.30) {ar 29 (SKIP TO 9.31) {ar 29 (SKIP TO 9.32) {ar 29 (SKIP TO 9.33) {ar 29 (SKIP TO 9.34) {ar 29 (SKIP TO 9.35) {ar 29 (SKIP TO 9.36) {ar 29 (SKIP TO 9.37) {ar 29 (SKIP TO 9.38) {ar 29 (SKIP TO 9.39) {ar 29 (SKIP TO 9.40) {ar 29 (SKIP TO 9.41) {ar 29 (SKIP TO 9.42) {ar 29 (SKIP TO 9.43) {ar 29 (SKIP TO 9.44) {ar 29 (SKIP TO 9.45) {ar 29 (SKIP TO 9.46) {ar 29 (SKIP TO 9.47) {ar 29 (SKIP TO 9.48) {ar 29 (SKIP TO 9.49) {ar 29 (SKIP TO 9.50) {ar 29 (SKIP TO 9.51) {ar 29 (SKIP TO 9.52)"
+  "title": null,
+  "address": {
+    "street": null,
+    "city": "New York",
+    "state": null,
+    "zip": null
+  },
+  "instructions": [
+    "Please take a few minutes to go through the advertisements in this book.",
+    null,
+    null
+  ],
+  "questions": [
+    {
+      "text": null,
+      "note": null,
+      "categories": {
+        "general_ads": [
+          null,
+          null,
+          null,
+          null,
+          "Hilton Hotels",
+          null,
+          "Bolens Lawn Mower",
+          null,
+          null,
+          "Budweiser",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "cigarette_ads": [
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "text": null,
+      "follow_up": [
+        {
+          "condition": null,
+          "text": "What brands do you remember seeing ads for? Any others?",
+          "brands": [
+            null,
+            "Kent",
+            null
+          ]
+        },
+        {
+          "condition": null,
+          "text": null,
+          "brands": [
+            null,
+            "Kent"
+          ]
+        }
+      ]
+    }
+  ]
 }

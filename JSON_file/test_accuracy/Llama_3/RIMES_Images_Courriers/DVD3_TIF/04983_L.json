@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nHairio Madarme Sachan Lise Averu do Qa gare 4& rue des Rompaats 362CD CancRemioRE 67&6O SaRPOwopdn Hadame :\n&G P T!nu osoo sues adc5 ssON s op Uogyp 1 Pauve3-vaB Qaipe Pe nkcesaiRe aPu quQ cQDa cossQ Se vaus ROmapciQ d'aNaMe et vospplQ d'agRecRg Madarme,E' axpressan de mes sentmenb distingu6s :\nSetrton, 1er de la 1ere 1er de la 1ere 1er de la 1ere 1er de la 1ere 1er de la 1ere 1er de la 1ere 1er de la 1ere 1er de la 1ere 1er de la 1ere 1er de la 1ere 1er de la 1ere 1er de la 1ere 1er de la 1ere 1er de la 1ere 1er de la 1ere 1er de la 1ere 1er de la 1ere 1er de la 1ere 1er de la "
+  "document": "Hairio",
+  "scenario": "Madarme Sachan Lise",
+  "writer": "Averu do Qa gare",
+  "sender_person": "Hadame",
+  "sender_company": "&G P T!nu osoo sues adc5 ssON s op Uogyp 1",
+  "sender_tel": "Pauve3-vaB Qaipe Pe nkcesaiRe aPu quQ cQDa cossQ",
+  "sender_fax": "Se vaus ROmapciQ d'aNaMe et vospplQ d'agRecRg",
+  "receiver_person": "Madarme,E' axpressan de mes sentmenb distingu6s",
+  "receiver_company": "Setrton",
+  "date": null,
+  "place": "4& rue des Rompaats",
+  "box": "362CD CancRemioRE"
 }

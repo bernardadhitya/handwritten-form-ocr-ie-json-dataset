@@ -1,4 +1,17 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n060522 FORTPEEMONTSONY na Seundbads500015 AAAAWWG Pay arEgta OrBearer Rupees Eigt Thousand On Hundred 8100 Alco.\n0954404450000626285 + SBUT NAL BAN CES NEW SAVINGS ACCOUNT VISACARO 5155600622005095000 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  "date": "060522",
+  "location": "FORTPEEMONTSONY",
+  "accountNumber": "500015",
+  "transactionCode": "AAAAWWG",
+  "payee": "Pay arEgta",
+  "payeeType": "OrBearer",
+  "amountInWords": "Rupees Eigt Thousand On Hundred",
+  "amount": "8100",
+  "additionalInfo": "Alco.",
+  "transactionId": "0954404450000626285",
+  "transactionType": "SBUT",
+  "bank": "NAL BAN",
+  "accountType": "CES",
+  "cardType": "VISACARO",
+  "cardNumber": "515560062200509500"
 }

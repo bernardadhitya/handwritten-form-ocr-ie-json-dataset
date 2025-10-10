@@ -1,3 +1,44 @@
 {
-    "error": "Blockwise quantization only supports 16/32-bit floats, but got torch.uint8"
+  "draft": "DRAFT",
+  "company": "D/RInc.",
+  "study_number": "372-07",
+  "location": "Pensacola",
+  "date": "February,1989",
+  "locations": [
+    "Los Angeles",
+    "San Francisco",
+    "St.Louis",
+    "Corpus Christie",
+    "Syracuse",
+    "Pittsburgh",
+    "Houston",
+    "Baltimore",
+    "Chicago",
+    "Columbus"
+  ],
+  "test": "ADVERTISING COMMUNICATION TEST",
+  "screener": {
+    "introduction": "Hellomy name is from Diagnostic Research, a consumer research firm. We are conducting a survey in this area on consumer products, and we would like very much to get your viewpoint.TALLy REFusALS)",
+    "indicate_sex": {
+      "male": "12",
+      "female": "Female"
+    },
+    "check_quotas": "-CHECK QUOTAS",
+    "products_used_daily": [
+      "Toothpaste",
+      "Mouthwash",
+      "Cigarettes",
+      "Chewing gum"
+    ],
+    "education_level": [
+      "Grade school",
+      "High school",
+      "Trade or technical school",
+      "Some college",
+      "College graduate or more"
+    ],
+    "check_quotas_education": "-CHECK QUOTAS"
+  },
+  "reference_number": "507209735",
+  "copy_type": "BEST"
 }

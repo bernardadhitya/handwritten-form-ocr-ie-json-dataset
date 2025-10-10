@@ -1,3 +1,24 @@
 {
-    "error": "Blockwise quantization only supports 16/32-bit floats, but got torch.uint8"
+  "company": "Tobacco Company",
+  "contact_person": "Ms Georgina Christensen",
+  "department": "Consumer Relations",
+  "address": {
+    "street": "7836 Muirfield Court",
+    "city": "Winston-Salem",
+    "state": "N.C.",
+    "zip": "27102"
+  },
+  "additional_address": {
+    "city": "PotomacMD",
+    "state": null,
+    "zip": "20854"
+  },
+  "greeting": "Dear Valued Customer",
+  "message": "Recently you contacted R.J.Reynolds Consumer Relations Department and gave us the opportunity to respond.to your request for assistance with either a promotion or product related issue.",
+  "signature": {
+    "name": "Mark Conrad",
+    "title": "Consumer Satisfaction Research Manager"
+  },
+  "codes": [],
+  "slogan": "We work for smokers"
 }

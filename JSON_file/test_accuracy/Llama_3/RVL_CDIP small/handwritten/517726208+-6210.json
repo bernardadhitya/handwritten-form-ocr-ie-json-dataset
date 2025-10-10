@@ -1,12 +1,24 @@
 {
-    "patient_name": "N. Reynoldstococo",
-    "patient_id": "NC27102-0345",
-    "mailing_address": "35 Kyoa",
-    "prescription": {
-        "medication": "Menthol",
-        "dosage": 14,
-        "nicotine_level": 0.8,
-        "non_nicotine_level": 0.8,
-        "flavor": "Non-menthol"
+  "company": null,
+  "address": {
+    "street": null,
+    "city": null,
+    "zip": null
+  },
+  "mailingList": {
+    "poBox": null,
+    "request": null
+  },
+  "productDetails": [],
+  "contact": {
+    "name": null,
+    "address": {
+      "street": null,
+      "city": null,
+      "state": null,
+      "zip": null
     }
+  },
+  "phone": null,
+  "codes": []
 }

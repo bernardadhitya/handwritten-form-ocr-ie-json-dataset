@@ -1,4 +1,69 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n% % % COMMUNICATION RESULT REPORT ( NAY.25.1959 4:1erM) x x LE MODE, ADDRESS. (GROUP) RESULT PAGE E33 Ro facsimite conection Vy-25-8810:04a8 Froneh P OC sr0eestth Tis owe Fase x JONES, DAY, BEAVIS & P...\nsrans—oraon ttucmenn sane OF Shomme Slmonus 8 Sea, toe oe news oom = B Sine oom a ao Me serene omecrnowees, wencone Torre (412) 384-7916 team ne paararon me May 21, 1999 Yet Reker TE ss es Garg ‘VIAFA...\nFloor fashington, D.C, 20004 Tow New York, NY 10022 suas Bernard D, Marcus, Esq.\nMarens & i e One Oxford Center 36th Floor Pinsburgh, PA 15219 Re: AD. Bedell Wholesale Co, Ine. vs. Philip Maris Inc.ctal. No. 99- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001- 0001"
+  "communicationResultReport": {
+    "date": null,
+    "time": null,
+    "tti": null,
+    "fileMode": null,
+    "option": null,
+    "addressGroup": null,
+    "result": null,
+    "page": "31/31",
+    "memoryTx": null,
+    "tln": null,
+    "reasonForError": null,
+    "details": {
+      "date": null,
+      "time": null,
+      "sender": null,
+      "faxNumber": null,
+      "transmissionId": null,
+      "pages": "03/33",
+      "faxCode": null,
+      "recipientFaxNumber": null,
+      "recipient": null,
+      "locations": [
+        null,
+        "LONDON",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "GENEVA",
+        "HONG KONG",
+        null,
+        null,
+        null
+      ],
+      "address": null,
+      "facsimile": "1209-7333",
+      "contact": {
+        "name": null,
+        "phone": null
+      }
+    },
+    "dateOfLetter": null,
+    "subject": null,
+    "recipients": [
+      {
+        "name": null,
+        "firm": null,
+        "address": "153 E. 53rd St, New York, NY 10022"
+      },
+      {
+        "name": null,
+        "firm": "Arnold & Porter",
+        "address": null
+      },
+      {
+        "name": null,
+        "firm": "Marcus & Shapira",
+        "address": null
+      }
+    ]
+  }
 }

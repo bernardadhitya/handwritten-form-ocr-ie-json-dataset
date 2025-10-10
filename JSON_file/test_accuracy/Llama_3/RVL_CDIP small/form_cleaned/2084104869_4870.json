@@ -1,4 +1,19 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nU.S.A.\nPHILIP MORRIS USA MEDIA_DEPARTMENT 120 PARK AVENUE, NEW YORK CITY 10017 PHONE: (212) 880-5000 FAX: (212) 907-5313 To ( Vat Lag.\nFax S B5O-BSO2 From Total Pages (with cover) 3 Comments This facsimile transmission (and/or th documents accompanying it) may contain confi Jonging to the sender. The Information is intended ont the ‘...\ngosvolys0z0\nU.S.A.\nPHILIP MORRIS USA MEDIA_DEPARTMENT 120 PARK AVENUE, NEW YORK CITY 10017 PHONE: (212) 880-5000 FAX: (212) 907-5313 To ( Vat Lag.\nFax S B5O-BSO2 From Total Pages (with cover) 3 Comments This facsimile transmission (and/or th documents accompanying it) may contain confi Jonging to the sender. The Information is intended ont the ‘...\ngosvolys0z0\nU.S.A.\nPHILIP MORRIS USA MEDIA_DEPARTMENT 120 PARK AVENUE, NEW YORK CITY 10017 PHONE: (212) 880-5000 FAX: (212) 907-5313 To ( Vat Lag.\nFax S B5O-BSO2 From Total Pages (with cover) 3 Comments This facsimile transmission (and/or th documents accompanying it) may contain confi Jonging to the sender. The Information is intended ont the ‘...\ngosvolys0z0\nU.S.A.\nPHILIP MORRIS USA MEDIA_DEPARTMENT 120 PARK AVENUE, NEW YORK CITY 10017 PHONE: (212) 880-5000 FAX: (212) 907-5313 To ( Vat Lag.\nFax S B5O-BSO2 From Total Pages (with cover) 3 Comments This facsimile transmission (and/or th documents accompanying it) may contain confi Jonging to the sender. The Information is intended ont the ‘...\ngosvolys0z0\nU.S.A.\nPHILIP MORRIS USA MEDIA_DEPARTMENT 120 PARK AVENUE, NEW YORK CITY 10017"
+  "company": "PHILIP MORRIS USA",
+  "department": "MEDIA DEPARTMENT",
+  "address": {
+    "street": "120PARK AVENUE",
+    "city": "NEW YORK CITY",
+    "zip": "10017"
+  },
+  "contact": {
+    "phone": "212880-5000",
+    "fax": "212907-5313"
+  },
+  "to": "Fax",
+  "fax": "4/533a-0302",
+  "from": null,
+  "total_pages_with_cover": "2084104869",
+  "comments": "confidential information belonging to the sender.",
+  "disclaimer": "The information is intended only for the use of the addressee or entity named above. lf you aro not the intended recipient, you have received this transmission in orror, please immediately notify us by telephone to arrange for the return of the documents.Thank you."
 }

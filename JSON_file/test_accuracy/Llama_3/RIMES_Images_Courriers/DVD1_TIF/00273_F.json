@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nGRTgaz RESEAU NORO EST AGENCE EXPLOITATION LILLE-BETHUNE VOS REF.\nnospr uonue HorcaI Pognf-Moapch577Oo cLE ME NTE Don INTERLOCUTEUR neenoi ma demande de Ituna &e umpk mes coordonmirs Dwo vvrw ncwo,0 GRige teepcne0S.71.6.7.30.o3.1nd.79.9.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"
+  "document": "GRTgaz",
+  "scenario": "RESEAU NORO EST",
+  "writer": "AGENCE EXPLOITATION LILLE-BETHUNE",
+  "sender_person": "nospr",
+  "sender_company": "uonue HorcaI Pognf-Moapch577Oo",
+  "sender_tel": "cLE ME NTE Don",
+  "sender_fax": "INTERLOCUTEUR",
+  "receiver_person": "neenoi",
+  "receiver_company": "ma demande de Ituna &e umpk",
+  "subject": "mes coordonmirs",
+  "date": "Dwo",
+  "place": "vvrw ncwo,0",
+  "box": "GRige teepcne0S.71.6.7.30.o3.1nd.79.9"
 }

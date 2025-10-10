@@ -1,3 +1,57 @@
 {
-    "error": "Blockwise quantization only supports 16/32-bit floats, but got torch.uint8"
+  "company": "OFRIEN-SHERWOOD ASSOCIATES INC",
+  "address": {
+    "street": "230 PARK AVENUE",
+    "city": "NEWYCRK",
+    "state": "7.NEW YCRK"
+  },
+  "survey": {
+    "title": "FILTPR CIGARETTE COPY TEST -N.Y.",
+    "questions": [
+      {
+        "text": "Do you smoke cigarettes?",
+        "answers": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "text": "What brand do you smoke most often?",
+        "answers": []
+      },
+      {
+        "text": "Is this brand a filter, a non-filter, or a menthol cigarette?",
+        "answers": [
+          "Filter",
+          "Non-Filter",
+          "Menthol"
+        ]
+      },
+      {
+        "text": "What was said in the ad that makes you say this?",
+        "answers": []
+      },
+      {
+        "text": "How do you interpret the word'satisfies' as it relates to cigarette smoking?",
+        "answers": []
+      }
+    ]
+  },
+  "classification_data": {
+    "sex": [
+      "Male",
+      "Female"
+    ],
+    "age_groups": [
+      "18-24",
+      "25-34",
+      "35-44",
+      "45-54",
+      "55& over"
+    ]
+  },
+  "metadata": {
+    "id": "03361471",
+    "date": "11K-12-64"
+  }
 }

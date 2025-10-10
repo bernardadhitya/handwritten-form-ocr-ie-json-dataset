@@ -1,4 +1,39 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\niver 8 3 471? 1704 9 aon © en, Westerly to numer helo Internation Tel 872 3m 0068 LOVELL ~*~ WHITE DURRANT 30 sep. &B 29 9 vod viaduct Londen ECIa 207 Ais f parry ia sonable for ‘supecon st the above...\nBritish Anericen Tobacgo Co Rothnans Inli.tobacco utg.\nFAX + 0784449390 c- Fax 1 0296 433605 3 Beedon Esq © Devereux Esq Rothmans Internationa TyysdGo Lta Gallaher cea FAK : 0895 835716 FAX $0932 as0¢01 = A.D Porter Esq Ad Andrade 2 Inperin! Tobacco Lea P...\n‘mtomyewr Yo shclnn Unc res a Estencin 2276 gS sthergonon erate yc tenon x ef cra in hoa ivesnen tne Ua Say 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+  "date": "30SEP.1993",
+  "page_number": "93",
+  "sender": {
+    "name": "DURRANT",
+    "address": "LOVELL, London EC1A 2DY",
+    "phone": "T44712300",
+    "reply_fax_number": "071 236 0084",
+    "international_reply_fax_number": "+44712360084",
+    "originator_location": "GTSAH",
+    "extension": "2276"
+  },
+  "recipient": {
+    "name": null,
+    "company": null,
+    "fax": null
+  },
+  "cc": [
+    "Fox number(-)",
+    "Johu Meltzer",
+    "Ms P Casingena/P L Clarke Esq",
+    "Mrs I Gilbey",
+    "J Seddon Esq",
+    "C Dovereux Esq",
+    "A D Porter Esg",
+    "AJ Andrade Esg",
+    "J Evano Esg",
+    "T Bezanson Esq/P Eck E3q",
+    "MTyler Esg",
+    "PAX0716069100"
+  ],
+  "internal_use": {
+    "fax_operator": "For Receiving Fax Operator",
+    "client": "35007/17",
+    "matter_no": "confidential",
+    "confidentiality_notice": "Confidentiality The information in this fax is confidential. It is intended only for the use of the named recipient. If you are not the intended recipient please notify us immediately so that we can arrange to collect this fax from you. You should not disclose the contents to any other person take any copies."
+  },
+  "regulation": "The firm is regulated in the conduct of its investment business by the Law Society"
 }

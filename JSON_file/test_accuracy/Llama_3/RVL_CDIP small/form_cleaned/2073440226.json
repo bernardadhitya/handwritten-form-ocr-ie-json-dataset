@@ -1,4 +1,34 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\npe FSIS INTERNATIONAL, TEL: ¢ Si¢ 639 6935 Dec. 16.1993 1:49 PH SIS INTERNATIONAL, INC.\nFAX TRANSMISSION DATE: ffi To: Me, hes Padoses FAXNO: (313) G07. 6246 FROM: Hessen Kuta RE: Sco Qnstcr lee Were PAGES: (excluding cover page) NOTES: :\nF y To ow PSRs It you have not received all of the pages, please call (014) 639-1934 immediately and we will resand. If you have recelved this fax In error, please call us at the above number.\nThank you! PO Box 490, New City, New York 10056-0490 Tel 914 639 1994 Fax 914 639 6038 New York * London « Brussels + Munich « Rio de Janeiro Budapest + Warsaw + Tokyo + Seoul « Singapore Pt 92Z0PrELO..."
+  "company": null,
+  "fax_transmission": {
+    "date": null,
+    "time": "1:49 PM",
+    "to": {
+      "name": null,
+      "fax_no": null
+    },
+    "from": {
+      "name": "Kensetha Kass"
+    },
+    "re": null,
+    "pages": null,
+    "notes": null
+  },
+  "contact": {
+    "tel": null,
+    "fax": null,
+    "error_contact": null
+  },
+  "locations": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Seoul",
+    "Singapore"
+  ]
 }

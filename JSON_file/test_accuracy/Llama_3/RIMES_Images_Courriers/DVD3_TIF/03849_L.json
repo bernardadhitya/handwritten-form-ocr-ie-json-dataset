@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nSemande Aduer t sue des Piene 6874O twndhouse Tresoreue dk, umnot 3, arue AbeI Rland 81 39O Bruatext Mwnchhouse, le 1t mav 200t lyet:Demande de mensulisation & l umnet su le reronu Madame, Mensilw Pay... (text truncated)\n\nNote: The text appears to be a jumbled collection of words and numbers, but it can be deciphered to reveal a French text that appears to be a request for a mortgage application.\n\nHere is the deciphered text:\n\n\"Demande de mensualisation\" translates to \"Mortgage application\" in English.\n\nHere is the structured JSON output:\n\n```\n{\n  \"type\": \"mortgage application\",\n  \"address\": {\n    \"street\": \"Semande Aduer\",\n    \"city\": \"Piene\",\n    \"country\": \"France\",\n    \"zip\":"
+  "document": "Semande Aduer",
+  "scenario": "t sue des Piene",
+  "writer": "Mwnchhouse, le 1t mav 200t",
+  "sender_person": "Madame, Mensilw",
+  "sender_company": "Paye concennant mon ais d'mpaition de lannee do6",
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": null,
+  "date": null,
+  "place": "3, arue AbeI Rland",
+  "box": "6874O twndhouse"
 }

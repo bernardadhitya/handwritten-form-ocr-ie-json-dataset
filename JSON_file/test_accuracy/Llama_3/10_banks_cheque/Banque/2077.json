@@ -1,4 +1,13 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nBANQUE pro nn, EP Thausand Three Hands. RE 20 Egg ne\" : 5 8 ange Lpoe AT T7 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8"
+  "bank": "BANQUE",
+  "amount_in_words": "Eight Thousand Three Hundred",
+  "amount_in_numbers": "8381",
+  "payee": null,
+  "account_number": "1523600060070008545636-0000255",
+  "location": "LasVegar",
+  "signature": "M.MARTIN",
+  "address": "123RUE SPECIMEN, 75015PARIS",
+  "cheque_number": "C000036",
+  "code": "L06.105/22",
+  "date": "090000"
 }

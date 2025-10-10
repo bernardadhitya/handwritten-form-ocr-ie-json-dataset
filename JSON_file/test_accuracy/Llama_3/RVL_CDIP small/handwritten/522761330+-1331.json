@@ -1,4 +1,33 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nynotds Tobacco Company July 5,2000 Consumer Relations 308418863 Winston-Salem,N.C.27102 Carolyn Ivey 946 Old Swann Point Ave Rocky Point, NC 28457 Dear Valued Customer Recently you contacted R.J.Reyno...\nIn an effort to better serve our customers,we are asking you to please take a few minutes to complete a questionnaire about how well you were treated by our company representative. After completing th...\nWe value your opinion and appreciate your business.\nMark Conrad Consumer Satisfaction Research Manager Sh. NeTurnd tnvebpbetter mow _mg founeI WGZTK 52276 811 1330 We work for smokers. We work for non-smokers. We work for everyone. We work for the future. Our mission is to provide the best possible service to our customers. We value your opinion and appreciate your business. We are committed to providing the best possible service to our customers. We are committed to providing the best possible service to our customers. We are committed to providing the best possible service to our customers. We are committed to providing the best possible service to our customers. We are committed to providing the best possible service to our customers. We are committed to providing the best possible service to our customers. We are committed to providing the best possible service to our customers. We are committed to providing the extra special service to our customers. We are committed to providing the extra special service to our customers. We are committed to providing the extra special service to our customers. We are committed to providing the extra special service to our customers. We are committed to providing the extra special service to our customers. We are committed to providing the extra special service to our customers. We are committed to providing the extra special service to our customers. We are committed to providing the extra special service to our customers. We are committed to providing the extra special service to our customers. We are committed to providing the extra special service to our customers. We are committed to providing the extra special service to our customers. We are committed to providing the extra special service to our customers. We are committed to providing the extra special service to our customers. We are committed to providing the extra special service to our customers. We are committed to providing the extra special service to our customers. We are committed to providing the extra special service to our customers. We are committed to providing the extra special service to our customers. We are committed to providing the extra special service to our customers. We are committed to providing the extra special service to our customers. We are committed to providing the extra special service to our customers. We are committed to providing the extra special service to our customers. We are committed to providing the extra special service to our customers. We are committed to providing the extra special service to our customers. We are committed to providing the extra special service to our customers. We are committed to providing the extra special service to our customers. We are committed to providing the extra special service to our customers. We are committed to providing the extra special service to our customers. We are committed to providing"
+  "company": "Tobacco Company",
+  "date": "July 5,2000",
+  "department": "Consumer Relations",
+  "contact_number": "308418863",
+  "address": {
+    "city": "Winston-Salem",
+    "state": "N.C.",
+    "zip": "27102"
+  },
+  "customer": {
+    "name": "Carolyn Ivey",
+    "address": "946 Old Swann Point Ave",
+    "city": "Rocky Point",
+    "state": "NC",
+    "zip": "28457"
+  },
+  "letter": {
+    "greeting": "Dear Valued Customer",
+    "body": "Recently you contacted R.J.Reynolds'Consumer Relations Department and gave us the opportunity to respond to your request for assistance with either a promotion or product related issue. In an effort to better serve our customers,we are asking you to please take a few minutes to complete a questionnaire about how well you were treated by our company representative. After completing the survey on the reverse side of this letter, please return it in the enclosed postage-paid envelope. Please return within ten days of receipt Thank you for taking the time to let us know how our staff met your expectations. We value your opinion and appreciate your business.",
+    "closing": "Mark Conrad",
+    "position": "Consumer Satisfaction Research Manager"
+  },
+  "additional_info": {
+    "code": "WGZTK",
+    "numbers": [
+      "52276",
+      "811",
+      "1330"
+    ],
+    "slogan": "We work for smokers"
+  }
 }

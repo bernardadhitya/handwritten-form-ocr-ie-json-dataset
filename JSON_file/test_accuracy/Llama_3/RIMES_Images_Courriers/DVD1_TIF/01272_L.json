@@ -1,4 +1,13 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nMR cogRON cyRiTle guc GROB 6732o A9AMSxi`llrR MAM`r A&SVRANCE9 2Y PAE YE iA uBRE 8919o V1vENEvEAHuak msiew Sule u lh wn ce mon nehiul immalicuk 21 57 HP 6l meri cle ban rouli sesiGer mon dams vot elaM... (text)\n\nNote: The text appears to be a jumbled collection of letters and numbers, but it can be interpreted as a possible phone number or other structured data.\n\nHere is the extracted structured information:\n\n* `type`: `phone_number`\n* `number`: `6732o A9AMSxi`llrR MAM`r`\n* `country_code`: `2Y`\n* `region_code`: `PAE`\n* `exchange_code`: `YE`\n* `line_number`: `8919o`\n* `prefix`: `V1vENEvEAHuak`\n* `suffix`: `msiew Sule u lh wn ce mon nehi"
+  "document": "MR cogRON cyRiTle",
+  "scenario": "guc GROB",
+  "writer": "MAM`r A&SVRANCE9",
+  "sender_person": "Sule",
+  "sender_company": "u lh wn ce mon nehiul immalicuk",
+  "sender_tel": "21 57 HP 6l meri cle ban rouli sesiGer mon",
+  "sender_fax": "dams vot elaMssemevt",
+  "receiver_person": "Dons",
+  "receiver_company": "LatterTe cle rous luey veuill",
+  "date": "Clish",
+  "place": "Vonsrur, mes salufrs"
 }

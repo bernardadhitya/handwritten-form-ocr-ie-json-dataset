@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nTELECOPIE Date: 09103103 Nombre de pages (celle-ci comprise) : 3 A: NAN1F,Assurances 62 1Z8 BoYELLES De: Nmme REI6NIER Nichele 3O ZO NAGNY VERNOIS Objet: Neclaation oe sinistre Vealkz hrouver ci -jain... (trunc.)...-t 1er 1er 1er 1er 1er 1er 1er 1er 1er 1er 1er 1er 1er 1er 1er 1er 1er 1er 1er 1er 1er 1er 1er 1er 1er 1er 1er 1er 1er 1er 1er 1er 1er 1er 1er 1er 1er 1er 1er 1er 1er 1"
+  "document": "TELECOPIE",
+  "scenario": null,
+  "writer": null,
+  "sender_person": "Nmme REI6NIER Nichele",
+  "sender_company": "Assurances",
+  "sender_tel": "62 1Z8 BoYELLES",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "Neclaation oe sinistre",
+  "date": "09103103",
+  "place": "3O ZO NAGNY VERNOIS",
+  "box": null
 }

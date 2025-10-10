@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n0U-07 8GQ d ERkou 5s3o =L0qwemex9 OBstT mMbLl 12Te go5oo -Ceouown 69e8 ch4s.42 MJFawF ole A5& mO0 mYd SmON w0 5s3o =L0qwemex9 OBstT. 0U-07 8GQ d ERkou 5s3o =L0qwemex9 OBstT mMbLl 12Te go5oo"
+  "document": "0U-07",
+  "scenario": "8GQ d ERkou",
+  "writer": "5s3o =L0qwemex9",
+  "sender_person": "OBstT",
+  "sender_company": "mO0 mYd SmON w",
+  "sender_tel": "12Te",
+  "sender_fax": "go5oo -Ceouown",
+  "receiver_person": "69e8 ch4s.42",
+  "receiver_company": "MJFawF ole A5&",
+  "subject": null,
+  "date": null,
+  "place": null,
+  "box": null
 }

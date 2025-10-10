@@ -1,4 +1,24 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n01/15/96 THU 17:14 FAK 804 274 3055 sc oor PHILIP MORRIS U.S.A.\nSCIENTIFIC AFFAIRS P.O. BOX 26583 RICHMOND, VA 23261 FAX: (804) 274-3055 To:. er FAX NO:\n~ rrom:_ Alan Courter PAGES TO FOLLOW: _-3, PHONE: _(804) 274-2 74.5 Please call the above phone number if there is any problem with this transmission.\nMESSAGE:\n2 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a 8 & a "
+  "date": "01/13/96",
+  "day": "THU",
+  "time": "17:14",
+  "fax_number": "804 2743055",
+  "department": "SCIENTIF AFFAIRS",
+  "page_number": "001",
+  "company": "PHILIP MORRIS U.S.A.",
+  "address": {
+    "department": "SCIENTIFIC AFFAIRS",
+    "po_box": "P.O.BOX26583",
+    "city": "RICHMOND",
+    "state": "VA",
+    "zip": "23261"
+  },
+  "fax": "FAX804274-3055",
+  "to": "Mr. Roaer Whidden",
+  "fax_no": null,
+  "from": null,
+  "pages_to_follow": "PAGES TOFOLLOW:",
+  "phone": "804274-2795",
+  "message": "2065354290",
+  "month": "JAN"
 }

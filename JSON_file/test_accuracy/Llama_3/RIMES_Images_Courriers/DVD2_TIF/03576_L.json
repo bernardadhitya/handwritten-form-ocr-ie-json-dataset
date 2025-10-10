@@ -1,4 +1,13 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nCfRRt S&iane pvym roaNi8 ootes Plae Fnrane Newve 66 020- PERPiGHATL-\nZ J5 Olaw 2oo7 2 ClewV1 tPTH 38 vsue &ais psw og dvm@ndn ol Sia ma commande du 12 ofas.\nm c&l X8 w3 c'&r& dure uwoi 2o uD Vw8-\nGni onehon tuth'uus, I'exaedo'n, 1'&r&d 1'&r&d 1'&r&d 1'&r&d 1'&r&d 1'&r&d 1'&r&d 1'&r&d 1'&r&d 1'&r&d 1'&r&d 1'&r&d 1'&r&d 1'&r&d 1'&r&d 1'&r&d "
+  "document": "CfRRt S&iane",
+  "scenario": "pvym roaNi8 ootes",
+  "writer": "Plae Fnrane Newve",
+  "sender_person": "Z J5 Olaw",
+  "sender_company": "2 ClewV1 tPTH 38",
+  "sender_tel": "66 020- PERPiGHATL-",
+  "sender_fax": null,
+  "receiver_person": "Sia",
+  "receiver_company": null,
+  "date": "2oo7",
+  "place": "vsue &ais psw og dvm@ndn ol"
 }

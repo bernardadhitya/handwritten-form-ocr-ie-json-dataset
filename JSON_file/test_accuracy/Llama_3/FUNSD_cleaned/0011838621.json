@@ -1,29 +1,55 @@
 {
-    "project": {
-        "id": "1989-29",
-        "name": "International Marketing Research",
-        "type": "Research",
-        "status": "Approved",
-        "start_date": "6/2190",
-        "end_date": "6/2190",
-        "location": "Cisarette Market Monitor",
-        "supplier": "HOR HK",
-        "budget": 2960000.0,
-        "balance": 1488126.25
+  "title": "INTERNATIONAL MARKETING RESEARCH",
+  "change_of_authorized_cost": {
+    "date": "6/21/90",
+    "number": "27",
+    "description": "Hong Kong: Cigarette Market Monitor",
+    "supplier": "MDR, HK",
+    "total_cost": {
+      "1990_cost": "43.335.00",
+      "previous_commitments": "0.00",
+      "this_project": "4.376.47",
+      "amt_of_change": {
+        "increase": "X",
+        "decrease": ".08",
+        "percentage_change": "10%"
+      },
+      "adjusted_total_cost_of_project": "47.711.47"
     },
-    "change": {
-        "amount": 4376.47,
-        "reason": "Increase"
-    },
-    "summary": {
-        "init_date": "6/2190",
-        "total_area_budget": 2960000.0
-    },
-    "project_details": {
-        "approved_by": "7 Lem tate 4 he",
-        "committed_to_date": "6/2190",
-        "final_report": "Supplier Rpt.",
-        "original_project_file": "WRA File Project No. 1989-29",
-        "account_name": "Internationa'"
+    "reasons": "Original MRA did not include cost for the first month of the study (see L. Lee memo of September 11, 1989)"
+  },
+  "projected": {
+    "summary_of_imrd_budget": {
+      "internal_init_date": null,
+      "total_area_budget": "2,960,000.00",
+      "ext_auth_date": null,
+      "current_balance_available": "1,488,126.23",
+      "waves": {
+        "this_change": ".08",
+        "from_current_budget": "0",
+        "this_amount": "0",
+        "field_complete": "From Next Year's Budget",
+        "from_next_years_budget": null,
+        "new_balance": "1,488,126.15"
+      },
+      "final_report_due": "Supplier Rpt.",
+      "supplier_report": null,
+      "committed_to_date": "1,471,873.85",
+      "waves_current_year": null
     }
+  },
+  "submitted_by": {
+    "name": "M.D.Davis",
+    "date": null
+  },
+  "approved_by": {
+    "name": "N.W.Kremer",
+    "date": null
+  },
+  "original_project_file": "Project File",
+  "mra_file": "MRA File",
+  "project_number": "1989-29",
+  "cc": "N.H.Kremer",
+  "account_name": "International",
+  "account_number": "464537440"
 }

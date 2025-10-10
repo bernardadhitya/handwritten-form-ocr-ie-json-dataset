@@ -1,3 +1,125 @@
 {
-    "error": "Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  "organization": {
+    "de": null,
+    "en": null,
+    "fr": null
+  },
+  "department": null,
+  "consultation": {
+    "options": [
+      "Telefonische Rucksprache",
+      "Personliche Ricksprache"
+    ],
+    "with": null,
+    "translations": {
+      "en": {
+        "options": [
+          null,
+          null
+        ],
+        "with": "with applicant/representative"
+      },
+      "fr": {
+        "options": [
+          null,
+          "Entretien de vive voix"
+        ],
+        "with": null
+      }
+    }
+  },
+  "application": {
+    "number": null,
+    "participant": {
+      "applicant": {
+        "de": null,
+        "en": null,
+        "fr": null
+      },
+      "authorization_checked": {
+        "de": null,
+        "en": null,
+        "fr": null
+      },
+      "representative": {
+        "de": null,
+        "en": null,
+        "fr": null
+      },
+      "identity_checked": {
+        "de": null,
+        "en": null,
+        "fr": null
+      }
+    }
+  },
+  "examining_division": {
+    "members": "C.LOCCHCSI PACL",
+    "personally_known": {
+      "de": null,
+      "en": "personally known",
+      "fr": "connu personnellement"
+    }
+  },
+  "consultation_result": "CA-A-45piti tacn12...",
+  "additional_text": null,
+  "form": {
+    "to_examiners_clerk": null,
+    "coding": {
+      "de": null,
+      "en": "Coding",
+      "fr": null
+    },
+    "dispatch": {
+      "de": "Obersendung zur Kenntnisnahme (Form 2049 Ziff.1.) nd-Rickgabe-en-1Profer",
+      "en": "Despatch for information (Form 2049 Section 1 and return to Primary Examiner",
+      "fr": "Transmission pour information (formulaire 2049 point l) et renvoi a I'examinateur qui instruit la demande"
+    },
+    "to_formalities_officer": null,
+    "extension_of_time_limit": {
+      "de": null,
+      "en": "Extension of time limit by months Form 2017",
+      "fr": "Prolongation du delai de m0isForm2017)"
+    },
+    "cancellation_of_time_limit": {
+      "de": "Loschung der Frist ExRE 3) und Vorlage der Akte an 1.Prufer",
+      "en": null,
+      "fr": null
+    },
+    "dispatch_with_time_limit": {
+      "de": null,
+      "en": null,
+      "fr": null
+    },
+    "not_applicable": {
+      "telephone_consultation": {
+        "de": null,
+        "en": null,
+        "fr": null
+      },
+      "before_first_communication": {
+        "de": null,
+        "en": null,
+        "fr": null
+      }
+    }
+  },
+  "signatures": {
+    "applicant_representative": {
+      "de": null,
+      "en": "Signature of applicant/representative",
+      "fr": null
+    },
+    "primary_examiner_formalities_officer": {
+      "de": null,
+      "en": null,
+      "fr": null
+    },
+    "authorized_examiner": {
+      "de": null,
+      "en": "Signature of applicant/representative",
+      "fr": null
+    }
+  },
+  "contact_number": null
 }

@@ -1,3 +1,84 @@
 {
-    "error": "Expecting ',' delimiter: line 70 column 6 (char 1411)"
+  "company": null,
+  "address": {
+    "street": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "year": 2014,
+  "project_number": null,
+  "survey": {
+    "introduction": "Good morning/afternoon/evening. My name is [Name]. We are conducting a public opinion survey in this mall and I would like to ask you a few short questions.",
+    "questions": [
+      {
+        "question": null,
+        "options": [
+          {
+            "range": null,
+            "action": null
+          },
+          {
+            "range": "Between 21-35",
+            "action": null
+          },
+          {
+            "range": null,
+            "action": null
+          }
+        ]
+      },
+      {
+        "question": "Does any member of your immediate family work for: (READ CHOICES)",
+        "options": [
+          {
+            "choice": "An advertising agency",
+            "action": null
+          },
+          {
+            "choice": null,
+            "action": "TERMINATE"
+          },
+          {
+            "choice": null,
+            "action": null
+          },
+          {
+            "choice": "A company manufacturing, selling or distributing tobacco products",
+            "action": null
+          }
+        ]
+      },
+      {
+        "question": null,
+        "options": [
+          {
+            "activity": null,
+            "response": null
+          },
+          {
+            "activity": "Have a glass of beer",
+            "response": null
+          },
+          {
+            "activity": null,
+            "response": null
+          }
+        ]
+      },
+      {
+        "question": null,
+        "options": [
+          {
+            "amount": "Less than half a pack",
+            "action": null
+          },
+          {
+            "amount": null,
+            "action": null
+          }
+        ]
+      }
+    ]
+  }
 }

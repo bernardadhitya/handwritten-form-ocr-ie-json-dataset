@@ -1,4 +1,48 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nAE 8496 [BROWN & WILLIAMSON TOBACCO CORPORATION LEAF EVALUATION 8D CODE b SUBMITTED BY: PROJECT RECOM.\nRADE: 7 2 DEALER: DATE REC'D. _~ PANT POSITION COUNTRY: RESPONSE DATE:\nLear Type: IC PRICENUNIT : RESPONSE TYPE:\ncrop year: 14 quantity: — EVALUATOR:\nVISUAL CHARACTERISTICS SUBJECTIVE SMOKING coLon QUALITY 6000 IRRITATION LEVEL ae zee vei c Poor EDM VERY POOR Aw ITENsITY STRONG eact = noveRare nc —— Wene — Neoiow PALE tow TEXTURE NORMAL ‘OPEN GRAIN...\nBODY NORMAL THIN ‘SEMLFLAVOR MEDIUM RECOMMENDATIONS Ti Hea FURTHER TESTING NOINTEREST ABNORMAL CHAFFY Sonu.\nLEATHERY/FLESHY PURCHASE _—____ STIFF/BONEY MATURITY NORMAL, RIPE REMARKS FAIRLY RIPE IMMATURE ABNORMAL OVERRIPE —— StneaKeD reen AROMA 08 Fat : Neutal Forign ‘STEMS ANALYTICAL DATA att ‘% ALKALOIDS 2...\n621551147 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0"
+  "RE": null,
+  "Company": null,
+  "Leaf Evaluation": {
+    "R&D Code": null,
+    "Submitted By": null,
+    "Project Recommendation": null,
+    "Grade": null,
+    "Dealer": "",
+    "Date Received": "",
+    "Plant Position": null,
+    "Country": "",
+    "Response Date": null,
+    "Leaf Type": null,
+    "Price/Unit": "",
+    "Response Type": null,
+    "Crop Year": null,
+    "Quantity": null,
+    "Evaluator": null
+  },
+  "Visual Characteristics": {
+    "Color": null,
+    "Quality": null,
+    "Irritation Level": "High",
+    "Intensity": null,
+    "Impact": null,
+    "Texture": null,
+    "Taste": "Moderate",
+    "Classification": null,
+    "Body": null,
+    "Recommendations": null,
+    "Maturity": "Ripe",
+    "Remarks": "Normal"
+  },
+  "Aroma": "Good",
+  "Stems": null,
+  "Analytical Data": {
+    "Alkaloids": null,
+    "Chlorides": null,
+    "Fructose": null,
+    "Glucose": "",
+    "Sucrose": null,
+    "Nitrates": null,
+    "Phosphates": null,
+    "Total Sugars": null,
+    "Reducing Sugars": null
+  }
 }

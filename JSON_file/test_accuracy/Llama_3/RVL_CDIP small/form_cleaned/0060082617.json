@@ -1,4 +1,53 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nx Dp v0 39 e600) Se Aperican Sebaceoempany ADVERTISING AND SELLING AUTHORIZATION DO_NOT MAKE ANY COMMITMENT OR AUTHORIZE ANY EXPENDITURE OF ANY KIND FOR ACCOUNT OF THIS COMPANY UNTIL EXECUTIVE APPROVA...\nAGENCY___Corporate Media Department ____No,_____pate_1/9/81 BRAND MEDIUM DESCRIPTION CARLTON Filter King Size Outdoor 30 Sheet Posters.\nBox ~ 100% PERIOD - KRom____February 1961 en ESTIMATES OF AMOUNTS TO MAXIMUM EXPENDITURES AUTHORIZED THe —_—_ 3,042 NB Wheet rosters $40,241.00 3,659 posters plus 5x overrun (183) @ $10.50 SPACE ———_—..."
+  "advertising_and_selling_authorization": {
+    "address": "245 PARK AVENUE, NEW YORK, NEW YORK 10167",
+    "division": "A OIVISION OP ANOS,IN",
+    "agency": "Corporate Media Department",
+    "no": "NO.",
+    "date": "1/9/81",
+    "brand": "CARLTON Filter King Size",
+    "medium": "Outdoor",
+    "description": "30 Sheet Posters Box-100%",
+    "period": "February 1981",
+    "maximum_expenditures_authorized": {
+      "amount": "$40.341.00",
+      "total": 3842,
+      "posters": 3659,
+      "overrun": "$10.50",
+      "space": {
+        "each": "$183"
+      }
+    },
+    "art_work": {
+      "general_department": "JAN2iAM7:48",
+      "mechanical_production": null,
+      "display_material": null,
+      "accounting": null,
+      "contingency": {
+        "estimated_sales_tax": 300.0,
+        "estimated_freight_charges": 5800.0
+      }
+    },
+    "account": {
+      "sus": "755-150",
+      "code": "0-033",
+      "total": 46441.0
+    },
+    "approvals": {
+      "debc": null,
+      "provundry_ad": "Agency"
+    },
+    "remarks": {
+      "product": "Above poster to be a new design and features copy only, no package. Posters captioned for Media identification 'cARLTON is lowest. Box - Less than 0.0l mg.tar,0.002 mg.nic.",
+      "sales": null,
+      "additional_info": null,
+      "president": "73",
+      "posters": "Posters to be printed in a combination of off-set and silk-screen in three colors on 70 outdoor poster paper.",
+      "executive": "President",
+      "accounting": "41888",
+      "budget_allocation": "A~3a e10",
+      "authorization_no": "M-14",
+      "peeel": null
+    }
+  }
 }

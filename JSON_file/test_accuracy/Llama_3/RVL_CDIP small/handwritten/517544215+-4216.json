@@ -1,4 +1,8 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n-8-96 Doral LiaktsJoo's DOB 51754 4215 OelioMuchceo's DOB 51754 4215\n-8-96 Doral LiaktsJoo's Address 1234 Main St, Anytown, USA 12345\n-8-96 Doral LiaktsJoo's"
+  "number": "-8-96",
+  "name": "Doral LiaktsJoo's",
+  "DOB": "51754 4215",
+  "additionalInfo": [
+    "OelioMuchce"
+  ]
 }

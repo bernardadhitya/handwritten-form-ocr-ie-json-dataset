@@ -1,3 +1,62 @@
 {
-    "error": "Expecting ',' delimiter: line 77 column 6 (char 1664)"
+  "company": null,
+  "address": {
+    "street": null,
+    "suite": null,
+    "city": null,
+    "state": null,
+    "zip": "10017"
+  },
+  "survey": {
+    "id": null,
+    "name": null,
+    "phone": null,
+    "instructions": null,
+    "questions": [
+      {
+        "id": 2,
+        "text": null,
+        "probe": null,
+        "categories": {
+          "general_ads": [
+            null,
+            null,
+            null,
+            null,
+            "Hilton Hotels",
+            null,
+            "Budweiser",
+            null,
+            "Kawasaki",
+            null,
+            null,
+            null,
+            null,
+            "Taster's Choice",
+            null,
+            null
+          ],
+          "cigarette_ads": [
+            null,
+            "Golden Lights",
+            "Kent Golden",
+            null,
+            null
+          ]
+        }
+      },
+      {
+        "id": null,
+        "text": "Do you remember any ads for cigarettes?",
+        "brands": [
+          "Luke",
+          null,
+          null,
+          null,
+          null
+        ],
+        "other_specify": ""
+      }
+    ]
+  }
 }

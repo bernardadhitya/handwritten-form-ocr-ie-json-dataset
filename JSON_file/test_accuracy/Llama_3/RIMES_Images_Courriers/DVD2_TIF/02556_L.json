@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nMme DiALlO Ste'pha8 & 61026F 4 Re ds lilas 6 3 32o URSChENH E1M 1TJWK 26 lbavueu ) y'a ek'tx etomee d comstate au mon alt iamcuu ou mo d )ame1 qx pule' l motanFmesw ns xwriy avaf D'asuuanu cl pmn omma... (Translation: Madame DiAllo Stephanie & 61026F 4 Redds Lilas 6 3 32o URSCHENH E1M 1TJWK 26 lbavueu ) y'a ek'tx etomee d comstate au mon alt iamcuu ou mo d )ame1 qx pule' l motanFmesw ns xwriy avaf D'asuuanu cl pmn omma...)\n\nThe text is a jumbled collection of letters and numbers, but if we look at the first few characters, we can identify the following information:\n\n* Madame DiAllo Stephanie\n* 61026F\n* 4 Redds Lilas\n* 6 3 32o\n* URSCHENH E1M\n* 1TJWK\n* 26 lbavueu\n\nThe text is likely a jumbled collection of letters and numbers, but"
+  "document": "Mme DiALlO Ste'pha8",
+  "scenario": "& 61026F",
+  "writer": "4 Re ds lilas",
+  "sender_person": "6 3 32o URSChENH E1M",
+  "sender_company": "1TJWK 26",
+  "sender_tel": "lbavueu )",
+  "sender_fax": "y'a ek'tx etomee d comstate au mon",
+  "receiver_person": "alt iamcuu ou mo d )ame1 qx",
+  "receiver_company": "pule' l motanFmesw",
+  "date": "ns xwriy avaf",
+  "place": "D'asuuanu",
+  "box": "cl pmn omma Syuus"
 }

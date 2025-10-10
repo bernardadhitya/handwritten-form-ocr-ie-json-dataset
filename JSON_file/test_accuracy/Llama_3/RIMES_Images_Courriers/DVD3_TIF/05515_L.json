@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n7oolcuc NOVR RY.1 2 m o ohafles lleus 627Oo. OTTERSTHAL 3 mo e t.\nBA A F.asswwou e 16 fubwF Reyre 13 U3._EYGoiEREs : oleuo you i no conbat olassuauu je mu permt de nous nsollah en apuond me oleuaude Ar/ pns eu bonple Yovreur 1 mes f nous pie de nwvoi 1aoan, Sinceri... (Translation: \"7oolcuc NOVR RY.1 2 m o ohafles lleus 627Oo. OTTERSTHAL 3 mo e t. BA A F.asswwou e 16 fubwF Reyre 13 U3._EYGoiEREs : oleuo you i no conbat olassuauu je mu permt de nous nsollah en apuond me oleuaude Ar/ pns eu bonple Yovreur 1 mes f nous pie de nwvoi 1aoan, Sinceri...\")\n\n## Step 1: Identify the structured information in the text\nThe"
+  "document": "7oolcuc NOVR RY.1",
+  "scenario": "2 m o ohafles lleus",
+  "writer": "627Oo. OTTERSTHAL",
+  "sender_person": "BA A F.asswwou e",
+  "sender_company": "16 fubwF",
+  "sender_tel": "Reyre",
+  "sender_fax": "13 U3._EYGoiEREs",
+  "receiver_person": "oleuo",
+  "receiver_company": "you i",
+  "subject": "no conbat olassuauu",
+  "date": "je mu permt de nous nsollah en apuond",
+  "place": "me oleuaude Ar/ pns eu bonple",
+  "box": "Yovreur 1 mes"
 }

@@ -1,3 +1,36 @@
 {
-    "error": "Expecting property name enclosed in double quotes: line 1 column 3 (char 2)"
+  "survey": {
+    "id": "hn-c9",
+    "phone_number": "8123810000",
+    "code": "3290020",
+    "hours": "8-17",
+    "name": "NAME/AD SURVEY",
+    "type": "SCREENER",
+    "respondent": {
+      "id": "1819",
+      "name": "ALI",
+      "state": null,
+      "address": null,
+      "area_code": null,
+      "phone_number": null,
+      "date": null,
+      "interviewed_by": "Hello,I'm from a local marketing.research company."
+    },
+    "introduction": "We're conducting a survey today and I'd like to ask you a few questions.",
+    "questions": [
+      {
+        "question": "First, do you or does any member of your family work for An automobile manufacturer A food processing company An advertising agency. [1 A newspaper or magazine. [] TERMINATE,ERASE & RE-USE A tobacco manufacture [] An insurance company [] A marketing research company Have you participated in a marketing research study in the past 6 months involving.. Beer [] Soft drinks [] Cigarettes TERMINATEERASE & RE-USE"
+      }
+    ],
+    "additional_info": {
+      "code": null,
+      "less_than_10": "Less than 10",
+      "code_2": null,
+      "10_or_more": "10 or more",
+      "respondent_sex": {
+        "male": null,
+        "female": "20)"
+      }
+    }
+  }
 }

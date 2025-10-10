@@ -1,4 +1,74 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n1 > hattown consensus suavers sane 4) \"MOL Stcond venue.\nNev York, Now York 10017 w= fs bada two nZE = FKE ~LY6, Map to go through the advertisemmate im tha book, Pleats oP sa you sare tov Ik you ordinarily weer reediog (GUND AESFONDENT POMTOLIO AND TAKE IT...\nWuue veande oF products do you reseabar seeing ade Tor to che dock (20821) ‘ay other Brandat (00 MOT READ EITHER BEAND NAMES OR PRODUCT CATEGORIES.) > coveeas ADs CLoAMeTTE 00s (a4 ‘Dela Piseeppie ———...\n(1P x0 CIGARETTE BRANDS NENTIONED ABOVE, ASK 9.38.) (AF mY cwE O8 THO CIGARETTE BEADS MENTIONED, SELF TO Q.3.) (ar aut (EGET) creanrrre nasans wertioneD, $41P TO @.4.) 3a. (XP wo CIGARETTE auayDs wner...\n1—pimet hrande vere they? “Any otharet (COP save meron 1 Q.2) 36, O83, comTLMUE.) CLE Hut yor MENTIONED 1H Q.2,. 34, OF 30, SKIP 4.10.) ‘Other (SPECIFY): 1H Q.2. 34, 30, 4.10. 1H Q.2. 34, 30, 4.10. 1H Q.2. 34, 30, 4.10. 1H Q.2. 34, 30, 4.10. 1H Q.2. 34, 30, 4.10. 1H Q.2. 34, 30, 4.10. 1H Q.2. 34, 30, 4.10. 1H Q.2. 34, 30, 4.10. 1H Q.2. 34, 30, 4.10. 1H Q.2. 34, 30, 4.10. 1H Q.2. 34, 30, 4.10. 1H Q.2. 34, 30, 4.10. 1H Q.2. 34, 30, 4.10. 1H Q.2. 34, 30, 4.10. 1H Q.2. 34, 30, 4.10. 1H Q.2. 34, 30, 4.10. 1H Q.2. 34, 30, 4.10. 1H Q.2. 34, 30, 4.10. 1H Q.2. 34, 30, 4.10. 1H Q.2. 34, 30, 4.10. 1H Q.2. 34, 30, 4.10. 1H Q.2. 34, 30, 4.10. 1H Q.2. 34, 30, 4.10. 1H Q.2. 34, 30, 4.10. 1H Q.2. 34, 30, 4.10. 1H Q.2. 34, 30, 4.10. 1H Q.2. 34, 30, 4.10. 1H Q.2. 34, 30, 4.10. 1H Q.2. "
+  "company": null,
+  "address": {
+    "street": null,
+    "suite": "42318",
+    "city": "New York",
+    "state": null,
+    "zip": null
+  },
+  "phone": null,
+  "instructions": null,
+  "questions": [
+    {
+      "prompt": null,
+      "question": null,
+      "note": null
+    }
+  ],
+  "categories": {
+    "general_ads": [
+      "Asana Range",
+      null,
+      null,
+      null,
+      null,
+      "Hilton Hotels",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "Polaroid Camera",
+      null,
+      null,
+      "Concord Watches",
+      null,
+      null,
+      null
+    ],
+    "cigarette_ads": [
+      null,
+      "Golden Light",
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "additional_questions": [
+    {
+      "condition": "IF NO CIGARETTE BRANDS MENTIONED ABOVE ASK Q.3.",
+      "question": null
+    },
+    {
+      "condition": null,
+      "question": null
+    },
+    {
+      "condition": "IF ALL THREE CIGARETTE BRANDS MENTIONED, SKIP TO Q.4.",
+      "question": null
+    }
+  ],
+  "brands": [
+    null,
+    "Colden Lights",
+    null,
+    "Kent Golden",
+    null,
+    null,
+    null
+  ]
 }

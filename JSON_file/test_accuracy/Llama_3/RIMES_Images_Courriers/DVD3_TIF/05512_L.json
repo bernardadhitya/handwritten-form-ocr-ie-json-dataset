@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nMonsieur k:lian TRicoT J6t A,ruc Pnncpale 6f 3So ETTEN DORF T&P: 03.89.63.49.54 1z 4ma 2oo7 France Telephone Plsce Le Poouel Ht 39o LAyRAC Obyet : Changemat de coordonnes bancai'r.\nRef`cliet : TVsrHBO Hodame, Tfonaes Pos guhonsohon de prelEvenet ec date du J5 celte meme dote no &n RuB contenart me. nouveliks coordonnée Klia TRicOT REsponde : 03.89.63.49.54 1z 4ma 2oo7 France Telephone Plsce Le Poouel Ht 39o LAyRAC Obyet : Changemat de coordonnes bancai'r.\n\n## Step 1: Identify the structured information in the text\nThe structured information in the text includes:\n- A phone number: 03.89.63.49.54 1z 4ma 2oo7\n- A location: Le Poouel Ht 39o LAyRAC Obyet\n- A date: 03.89.63.49.54 1z 4ma 2oo7\n- A name: Monsieur k:lian TRicoT J6t A,ruc Pn"
+  "document": null,
+  "scenario": null,
+  "writer": null,
+  "sender_person": null,
+  "sender_company": null,
+  "sender_tel": "+33(0)3.89.63.49.54",
+  "sender_fax": "",
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": null,
+  "date": null,
+  "place": "Ettendorf",
+  "box": null
 }

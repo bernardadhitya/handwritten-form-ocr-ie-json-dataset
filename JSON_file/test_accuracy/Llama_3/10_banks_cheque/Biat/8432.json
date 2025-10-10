@@ -1,4 +1,21 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nVERSEMENTESPECES BIAT 907043 Nertuchtw Cermade.Geus..\nEdmee.Petletier.\nR.1.B.\nmmwn CNinoJhousondNintfundred Total du verscment 9943 E Jhae Nate deloptrotion Signaturc du clicnt Caisse Cocher ctvisa de la tAT 06/05122/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01/01"
+  "transactionType": "VERSEMENTESPECES",
+  "bank": "BIAT",
+  "transactionId": "907043",
+  "names": [
+    "Edmee.Petletier",
+    "R.1.B.",
+    "Jhae",
+    "Nate deloptrotion"
+  ],
+  "reference": "mmwn CNinoJhousondNintfundred",
+  "amountInWords": "Total du verscment 9943",
+  "totalAmount": "9943",
+  "currency": "E",
+  "additionalInfo": "Caisse",
+  "note": "Cocher ctvisa de la tAT 06/05122",
+  "clientSignature": "Signaturc du clicnt",
+  "cashier": null,
+  "verification": null,
+  "date": null
 }

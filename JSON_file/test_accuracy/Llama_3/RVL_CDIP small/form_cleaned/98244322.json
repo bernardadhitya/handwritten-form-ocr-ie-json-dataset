@@ -1,3 +1,80 @@
 {
-    "error": "Expecting ',' delimiter: line 52 column 6 (char 1200)"
+  "certificate_of_service": {
+    "certifier": "Raymond D. Boscia II",
+    "statement": null,
+    "signature": null
+  },
+  "service_list": [
+    {
+      "title": null,
+      "company": null,
+      "address": {
+        "street": null,
+        "city": null,
+        "state": null,
+        "zip": null
+      }
+    },
+    {
+      "title": null,
+      "company": null,
+      "address": {
+        "street": null,
+        "city": null,
+        "state": "NY",
+        "zip": "10017"
+      }
+    },
+    {
+      "title": null,
+      "company": null,
+      "address": {
+        "street": null,
+        "city": null,
+        "state": null,
+        "zip": null
+      }
+    },
+    {
+      "title": null,
+      "company": null,
+      "address": {
+        "street": "714 Green Valley Road",
+        "box": null,
+        "city": null,
+        "state": null,
+        "zip": null
+      }
+    },
+    {
+      "title": null,
+      "company": "Liggett Group",
+      "address": {
+        "street": "700 West Main Street",
+        "city": null,
+        "state": null,
+        "zip": "27702"
+      }
+    },
+    {
+      "title": null,
+      "company": null,
+      "address": {
+        "street": null,
+        "city": null,
+        "state": null,
+        "zip": null
+      }
+    },
+    {
+      "title": null,
+      "company": null,
+      "address": {
+        "street": null,
+        "city": "New York",
+        "state": "NY",
+        "zip": null
+      }
+    }
+  ]
 }

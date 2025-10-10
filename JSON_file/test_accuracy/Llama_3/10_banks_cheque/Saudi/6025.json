@@ -1,4 +1,17 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nNo Sgil 06/05/22 The Saud lnesment Bank s Veos COCOBAA AgantthChr av toeOrdcrof Daurd Corbel The Aruntf Seven Thouoand Five Hundred 7544 and Fonryy Four iR. The Aruntf Seven Thouoand Five Hundred 7544 and Fonryy Four iR. The Aruntf Seven Thouoand Five Hundred 7544 and Fonryy Four iR. The Aruntf Seven Thouoand Five Hundred 7544 and Fonryy Four iR. The Aruntf Seven Thouoand Five Hundred 7544 and Fon"
+  "No": "Sgil",
+  "Date": "06/05/22",
+  "Bank": "The Saud lnesment Bank",
+  "Details": {
+    "Veos": "COCOBAA",
+    "Agent": "AgantthChr",
+    "Order": "av toeOrdcrof",
+    "Recipient": "Daurd Corbel",
+    "Amount": {
+      "Words": "Seven Thouoand Five Hundred and Fonryy Four",
+      "Number": "7544",
+      "Additional": "iR"
+    },
+    "Currency": null
+  }
 }

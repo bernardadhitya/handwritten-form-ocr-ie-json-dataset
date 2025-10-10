@@ -1,4 +1,33 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nLEO BURNETT JOB INFORMATION PRIN AdNo, OMMER MIss2- Ba 00. Job Now SAAS Brand pacrliso-o Packing) inne aces Tio _y side 20.2 —___ Mesum ROP Description ectanac.ad. Sera e_yustiy prea 4d 625 Sn Firat S...\nPrint Sevice <_—ta) [21 Database BST Database RMT nena aR cial PM Legal Changes/Commgats‘Date ‘Agency Legal ete co UPC APPROVAL (IF APPLICABLE) LBCo.\nCoupon Administrator eM Brand Direct Marketitg L8ps6éLyeoz 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"
+  "jobInformation": {
+    "adNo": null,
+    "lbCoJobNo": null,
+    "brand": null,
+    "title": null,
+    "medium": null,
+    "description": null,
+    "area": null,
+    "firstSchedCoverDate": null,
+    "warningExh": null,
+    "acd": null,
+    "tAndNSize": "Kot",
+    "onSaleDate": null
+  },
+  "approvals": {
+    "printService": null,
+    "databaseBST": null,
+    "databaseRMT": null,
+    "agencyLegal": null,
+    "clientService": null,
+    "pmFulfillment": null,
+    "pmLegalChangesCommentsDate": null,
+    "agencyLegalConfirmation": null,
+    "upcApproval": null,
+    "lbCo": null,
+    "couponAdministrator": null,
+    "pm": null,
+    "brand": null,
+    "directMarketing": null,
+    "agency": null
+  }
 }

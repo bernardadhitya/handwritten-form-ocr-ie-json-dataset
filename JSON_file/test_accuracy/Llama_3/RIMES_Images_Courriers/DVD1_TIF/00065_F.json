@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nLibertéEgalité-Fraternité RÉPUBLIQUE FRANCAISE MINISTERE DE LA DEFENSE TÉLÉCOPIE Non protégéeDiffusion restreinte Date:11/0F/06 N A DGA No de télécopieur :\nDESTINATAIRE(S) :\nDELEGATION GENERALE La Rebovte POUR L'ARMEMENT O1 6o f6 43 33 23 nue de la Post Le Délégué général ouo5 ms 1mmoY5 oSt rQ Nombre de page dont celle-ci :3 Expéditeur :\nCaractére d'urgence : immédiat urgent routine Munel Cudron Fax :\nOBJET :\nTél. :03 58 36 28+4 Adresse électronique Vous souhait connathe la wauche a&uiwe éventuellement paR cevenclieet ZONE DE TEXTE :\nHadame, Donsewr, Vouill touxr ci-goint :\nwa duaude dovvatre de aupte a la lebot:\nun qetonnaiR Bieu corcuaenew Hw nonel Gendrn 2e Délégation générale pour I'armement - 00457 Armées 5bis, avenue de la Porte de Sévres - 75509 Paris Cedex 15 Téléphone:0145527310-Télécopie:01 45527272- Fax:0145527310-Email:armement@armee.fr\n\n**Note :** La copie de cette lettre est destinée à un destinataire spécifique et non à un public général. Il est donc interdit de la reproduire ou de la diffuser sans autorisation préalable.\n\n**Note :** La copie de cette lettre est destinée à un destinataire spécifique et non à un public général. Il est donc interdit de la reproduire ou de la diffuser sans autorisation préalable.\n\n**Note :** La copie de cette lettre est destinée à un destinataire spécifique et non à un public général. Il est donc interdit de la reproduire ou de la diffuser sans autorisation préalable.\n\n**Note :** La copie de cette lettre est destinée à un destinataire spécifique et non à un public général. Il est donc interdit de la reproduire ou de la diffuser sans autorisation préalable.\n\n**Note :** La copie de cette lettre est destinée à un destinataire spécifique et non à un public général. Il est donc interdit de la reproduire ou de la diffuser sans autorisation préalable.\n\n**Note :** La copie de cette lettre est destinée à un destinataire spécifique et non à un public général. Il est donc interdit de la reproduire ou de la diffuser sans autorisation préalable.\n\n**Note :** La copie de cette lettre est destinée à un destinataire spécifique et non à un public général. Il est donc interdit de la reproduire ou de la diffuser sans autorisation préalable.\n\n**Note :** La copie de cette lettre est destinée à un destinataire spécifique et non à un public général. Il est donc interdit de la reproduire ou de la diffuser sans autorisation préalable.\n\n**Note :** La copie de cette lettre est destinée à un destinataire spécifique et"
+  "document": "TÉLÉCOPIE",
+  "scenario": "Non protégéeDiffusion restreinte",
+  "writer": "Munel Cudron",
+  "sender_person": "Munel Cudron",
+  "sender_company": "DGA",
+  "sender_tel": "03 58 36 28+4",
+  "sender_fax": null,
+  "receiver_person": "Le Délégué général",
+  "receiver_company": "DELEGATION GENERALE",
+  "subject": "OBJET :",
+  "date": "11/0F/06",
+  "place": "Hadame, Donsewr",
+  "box": "2e"
 }

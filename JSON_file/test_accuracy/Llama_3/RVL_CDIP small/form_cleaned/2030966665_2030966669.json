@@ -1,4 +1,27 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nPROPOSED CHANGE FORM 1. Originator: 5. Estes 2. Proposed Change ti () Parameters 8. Problem Statement: Current Blending Feed Parameters (Controllable) are causing us to shift the process level away fr...\n4. List evidence, provide data to support need for change:\n(See attached data) Describe what will be improved if problem is resolved: fhat is the objective? Process will stay centered at target blend percentages for each component, blend integrity should impr...\n6. Identify probable causes of problem (attach C&R) (See attachment) 7. Describe proposed SPC system change “Change Blending Feed Parameters (VST, KST, Bright Scrap, Burley Scrap, Class) from Controll...\n8. Recomend measurenenta of effectiveness of proposed change.\nrkeave current Blending Feed TQM's in place ~X should be closer to target, variation should remain the same or decrease 8. Describe action plan for implementing proposed change (attach if need more sp...\n10. List personel impacted:\nLIII Blending Attendants Blending Supervisors LIII SPC Specialist 2030966665 11. List equipment impacted:\nBlending Feed System 12. List other resources impacted:\n13. List other resources impacted:\n14. List other resources impacted:\n15. List other resources impacted:\n16. List other resources impacted:\n17. List other resources impacted:\n18. List other resources impacted:\n19. List other resources impacted:\n20. List other resources impacted:\n21. List other resources impacted:\n22. List other resources impacted:\n23. List other resources impacted:\n24. List other resources impacted:\n25. List other resources impacted:\n26. List other resources impacted:\n27. List other resources impacted:\n28. List other resources impacted:\n29. List other resources impacted:\n30. List other resources impacted:\n31. List other resources impacted:\n32. List other resources impacted:\n33. List other resources impacted:\n34. List other resources impacted:\n35. List other resources impacted:\n36. List other resources impacted:\n37. List other resources impacted:\n38. List other resources impacted:\n39. List other resources impacted:\n40. List other resources impacted:\n41. List other resources impacted:\n42. List other resources impacted:\n43. List other resources impacted:\n44. List other resources impacted:\n45. List other resources impacted:\n46. List other resources impacted:\n47. List other resources impacted:\n48. List other resources impacted:\n49. List other resources impacted:\n50. List other resources impacted:\n51. List other resources impacted:\n52. List other resources impacted:\n53. List other resources impacted:\n54. List other resources impacted:\n55. List other resources impacted:\n56. List other resources impacted:\n57. List other resources impacted:\n58. List other resources impacted:\n59. List other resources impacted:\n60. List other resources impacted:\n61. List other resources impacted:\n62. List other resources impacted:\n63. List other resources impacted:\n64. List other resources impacted:\n65. List other resources impacted:\n66. List other resources impacted:\n67. List other resources impacted:\n68. List other resources impacted:\n69. List other resources impacted:\n70. List other resources impacted:\n71. List other resources impacted:\n72. List other resources impacted:\n73. List other resources impacted:\n74. List other resources impacted:\n75. List other resources impacted:\n76. List other resources impacted:\n77. List other resources impacted:\n78. List other resources impacted:\n79. List other resources impacted:\n80. List other resources impacted:\n81. List other resources impacted:\n82. List other resources impacted:\n83. List"
+  "originator": "B.Estes",
+  "proposedChangeTo": [
+    "Parameters",
+    "Standards",
+    "C Control"
+  ],
+  "problemDescription": "are causing us to shift the process level away from center in. reaction to special causes.",
+  "evidence": "(See attached data)",
+  "objective": "Process will stay centered at target blend percentages for each component, blend integrity should improve.",
+  "probableCauses": "(See attachment)",
+  "proposedSPCSystemChange": "-Change Blending Feed Parameters (vsT, KST, Bright Scrap, Burley Scrap, Class) from Controllable to Tracking on current blending output and blend percentages..",
+  "measurementsOfEffectiveness": [
+    "-Leave current Blending Feed TQM's in place",
+    "-x should be closer to target, variation should remain the. same or decrease"
+  ],
+  "actionPlan": [
+    "-Communicate to impacted personnel by 1l/28/89",
+    "-Convert controllable parameters to tracking and implement. new standards at 2300 on 1l/28/89."
+  ],
+  "personnelImpacted": [
+    "LIII Blending Attendants",
+    "Blending Supervisors",
+    "LIII SPC Specialist"
+  ],
+  "contact": "2030966665"
 }

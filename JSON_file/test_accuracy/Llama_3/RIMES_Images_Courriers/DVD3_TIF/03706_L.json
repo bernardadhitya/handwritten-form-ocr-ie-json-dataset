@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nLla Francisco 6 we d'Alteuhom 67 49 O fr&dooRoim Yaga3un \"DEO' om opwor9 4 1 I7O Le GauIt PercR Byet : naveller coordonno Ianccires Yadame, Yorsau Y vow fat pat d. meo nawelles coodonne, Cancaas suite... \n\nNote: The text is in a mix of languages, including Catalan, French, and English. I'll assume that the text is a mix of these languages and that the structured information is in English.\n\nHere is the structured information:\n\n* Name: Lla Francisco\n* Address: 6 we d'Alteuhom 67 49\n* City: O fr&dooRoim Yaga3un\n* Country: DEO' om opwor9 4 1 I7O\n* Postal Code: Le GauIt PercR Byet\n* Phone Number: naveller coordonno Ianccires Yadame\n* Email:"
+  "document": "Lla Francisco",
+  "scenario": "6 we d'Alteuhom",
+  "writer": "Yaga3un",
+  "sender_person": "DEO",
+  "sender_company": "om opwor9",
+  "sender_tel": "4 1 I7O Le GauIt PercR",
+  "sender_fax": "Byet : naveller coordonno Ianccires",
+  "receiver_person": "Yadame",
+  "receiver_company": "Yorsau",
+  "subject": "Y vow fat pat d. meo nawelles",
+  "date": "coodonne, Cancaas suite a wn cRangemont",
+  "place": "da Lanqus",
+  "box": "Vw hawew a-jantwn R1B Aluationo distiaquss"
 }

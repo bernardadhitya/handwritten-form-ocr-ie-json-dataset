@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nYoN Gerldine 14 sue du F fevnier 68 74O BALGAU 1ANiF Aoouanceo 6 suue Hokére 03.94.38.29.04 Ref: TAHW11S4 6S39o ANDREST Ie 19/o1o7 Madame, Ylono'eur, Par cote preoente lettre, je souhaile hire voloir...\net je lui ai marche our la patte.\nTe roote  votre disposition pour toute demarde de renoeignements supplementaires 1me 4oN Geraldine 14 sue du F fevnier 68 74O BALGAU 1ANiF Aoouanceo 6 suue Hokére 03.94.38.29.04 Ref: TAHW11S4 6S39o ANDREST Ie 19/o1o7 Madame, Ylono'eur, Par cote preoente lettre, je souhaile hire voloir...\net je lui ai marche our la patte.\nTe roote  votre disposition pour toute demarde de renoeignements supplementaires\n\nHere is the structured JSON output:\n\n```\n{\n  \"date\": \"14 February 1888\",\n  \"sender\": \"YoN Gerldine\",\n  \"receiver\": \"Madame Ylono'eur\",\n  \"letter\": \"I wish to hire a voice... and I have marched out her paw.\",\n  \"reference\": \"TAHW11S4 6S39o\",\n  \""
+  "document": null,
+  "scenario": "Gestion de sinistre",
+  "writer": null,
+  "sender_person": null,
+  "sender_company": null,
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "date": "19/01/2007",
+  "place": null,
+  "box": null
 }

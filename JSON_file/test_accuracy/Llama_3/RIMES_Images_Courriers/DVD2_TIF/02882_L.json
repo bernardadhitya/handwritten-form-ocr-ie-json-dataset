@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nLeo 3 Sufo AGnes JeAn-Jacgles 9 Rue LOUViER l CouL HANARHT 2F 49O LA cROiX stLEUFROy MiTTEL WiHR Q6989 Mcdlame.monsieae J scuhaitras.annl ma commande et mod'fr mon -ccnKat Salutatons destenguees HA6N... \n\nHere is the text with the unstructured information removed:\n\n49O LA cROiX stLEUFROy MiTTEL WiHR Q6989 Mcdlame.monsieae J scuhaitras.annl ma commande et mod'fr mon -ccnKat Salutatons destenguees HA6N...\n\nThe structured information is the phone number and the address. Here is the structured JSON output:\n\n```\n{\n  \"phone_number\": \"49O LA"
+  "document": null,
+  "scenario": null,
+  "writer": null,
+  "sender_person": null,
+  "sender_company": "",
+  "sender_tel": null,
+  "sender_fax": "",
+  "receiver_person": null,
+  "receiver_company": "Les 3 Suifs",
+  "date": null,
+  "place": null,
+  "box": null
 }

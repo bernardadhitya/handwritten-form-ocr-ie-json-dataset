@@ -1,3 +1,71 @@
 {
-    "error": "Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  "survey": {
+    "contact_method": null,
+    "questions": [
+      {
+        "question": null,
+        "aspects": [
+          null,
+          null,
+          "If put on hold, length of time on hold"
+        ],
+        "satisfaction_levels": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "question": null,
+        "aspects": [
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "question": null,
+        "aspects": [
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    ],
+    "satisfaction_statement": {
+      "question": null,
+      "options": [
+        null,
+        "I was NOT completely satisfied but the action taken was acceptable.",
+        "I was NOT completely satisfied but some action was taken.",
+        null,
+        "I was NOT AT ALL satisfied, no action was taken."
+      ]
+    },
+    "purchase_intention": {
+      "question": "Based on how well you were treated by our representative, will you continue to purchase the brand of cigarettes you contacted us about?",
+      "options": [
+        "Definitely Would",
+        null,
+        "Might or Might Not",
+        null,
+        "Definitely Would Not"
+      ]
+    },
+    "recommendation": {
+      "question": null,
+      "options": [
+        "Definitely Would",
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "additional_comments": null
+  }
 }

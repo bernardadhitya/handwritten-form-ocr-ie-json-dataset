@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nQudivine Vandervoorda Rue de Jiuafans 40110 VcUces la UiUa tr 78 os 9h so NAi'F Asserances LE SAUT 2o 22I ADREA Obit opoY7 C de usntation aocn coucerwant les Coutrat d 8)MOJ TSS O sny opo 2 Ayawt AYYY...\nde 2400 ues cuent : RYXF W 82 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 "
+  "document": "Qudivine Vandervoorda",
+  "scenario": "Rue de Jiuafans",
+  "writer": "40110",
+  "sender_person": "VcUces la UiUa",
+  "sender_company": "tr 78 os 9h so",
+  "sender_tel": "NAi'F",
+  "sender_fax": null,
+  "receiver_person": "Asserances",
+  "receiver_company": "LE",
+  "subject": "SAUT",
+  "date": "2o 22I",
+  "place": "ADREA",
+  "box": "opoY7 C"
 }

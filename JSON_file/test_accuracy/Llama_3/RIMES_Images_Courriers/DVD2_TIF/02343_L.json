@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nF OUCHER 21 ma das Aunas Lapahoie,& 27 jaue 2oo7 6% 65o lapathoie 03.32.98.46.60 Baqu Souste Geniale qroD vP m h 3s S2o la CAapea d $ogeatr Reg.Iieuf: TBKNZ39 Objet: demanda d'&gamahon Hasien euuoye w... (text truncated)\n\n... 2o2o 6% 65o lapathoie 03.32.98.46.60 Baqu Souste Geniale qroD vP m h 3s S2o la CAapea d $ogeatr Reg.Iieuf: TBKNZ39 Objet: demanda d'&gamahon Hasien euuoye w... (text truncated)\n\n... 2o2o 6% 65o lapathoie 03.32.98.46.60 Baqu Souste Geniale qroD vP m h 3s S2o la CAapea d $ogeatr Reg.Iieuf: TBKNZ39 Objet:"
+  "document": "F OUCHER",
+  "scenario": "21 ma das Aunas",
+  "writer": "Baqu Souste Geniale",
+  "sender_person": null,
+  "sender_company": "Baqu Souste Geniale",
+  "sender_tel": "03.32.98.46.60",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "demanda d'&gamahon",
+  "date": "27 jaue 2oo7",
+  "place": "Lapahoie",
+  "box": "TBKNZ39"
 }

@@ -1,3 +1,96 @@
 {
-    "error": "Expecting ',' delimiter: line 75 column 6 (char 1054)"
+  "company": "AHF Marketing Research",
+  "survey": null,
+  "address": {
+    "street": "1200 #25077W",
+    "city": null,
+    "state": "New York",
+    "zip": null
+  },
+  "date": null,
+  "project": "Charrette Portfolio",
+  "questionnaire": null,
+  "interview": {
+    "time_started": null,
+    "time_ended": null
+  },
+  "respondent": {
+    "name": null,
+    "telephone": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "metro_area": null,
+    "date": null,
+    "validated_by": null,
+    "validation_date": "5"
+  },
+  "cities": [
+    null,
+    "Detroit",
+    null,
+    "Lincoln",
+    null,
+    null
+  ],
+  "initial_refusal": [
+    5,
+    null,
+    null,
+    null,
+    null,
+    22,
+    null,
+    null,
+    25,
+    null,
+    null,
+    null,
+    null,
+    null,
+    101,
+    null,
+    null,
+    104,
+    null,
+    null,
+    null,
+    null,
+    109,
+    110,
+    111,
+    null,
+    null,
+    null,
+    null
+  ],
+  "participated_in_study": {
+    "question": null,
+    "yes": null,
+    "no": null
+  },
+  "age_card": {
+    "question": null,
+    "under_21": null,
+    "21_to_29": "D",
+    "30_to_34": null,
+    "40_to_44": null,
+    "45_to_49": null,
+    "terminate": null
+  },
+  "age": {
+    "under_or_over": null,
+    "numbers": [
+      null,
+      null,
+      5,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      84464284
+    ]
+  }
 }

@@ -1,4 +1,46 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nPRIOR TO SrOK INE i oie sos Mo.\nvsecgas a ony orckine ence ne! unis smctne TASTE/PLAVOR t 2 2 cmp rasre/runion : 2 BR AeTER snOKINe:\nro0.\nuaTite AeTERTASTE, : 2 3 uNeLensANT — arrerreste + 2 orsuiKe Lieagnuety i a ue cagpensry, tess:\nTS. GaN eran t 2 Pesearcu ob. :\n109 4 3. 7 e “3 nego cS.\n109 we i + os aust 109 awa aR ws «os ME oN sg ; ae 570232781 ~~ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+  "UG": "89",
+  "ROM_CONSUMER_RESEARCH": "ROM CONSUNER PESEARCH",
+  "PAGE": "PAGE.004",
+  "NAME": "DAUO",
+  "TRIAL": {
+    "TIME_PRIOR_TO_SMOKING": {
+      "AROMA": {
+        "TOO_MUCH": "9",
+        "UNPLEASANT": "UNPLEASANT"
+      },
+      "MOISTURE_LEVEL": {
+        "TOO_DRY": "TOO DRY",
+        "TOO_MOIST": "TOO MOISTURE LEVEL"
+      },
+      "PACKING": "PACKING ERSE"
+    },
+    "DURING_SMOKING": {
+      "LIGHT": "LITTLE",
+      "TASTE_FLAVOR": {
+        "TOO_MUCH": "MUCH",
+        "UNPLEASANT": "UNPLERSPNT"
+      },
+      "MOUTHFEEL": {
+        "TOO_DRY": "TOO DRY",
+        "ERSY": "ERSY"
+      }
+    },
+    "AFTER_SMOKING": {
+      "AFTERTASTE": {
+        "LITTLE": "LITTLE",
+        "JUST_RIGHT": "JUST",
+        "TOO_MUCH": "MUCH",
+        "UNPLEASANT": "UNPLEASANT"
+      },
+      "LIKABILITY": {
+        "DISLIKE": "DISLIKE",
+        "LIKE": "LIKE",
+        "SAME": "SAME",
+        "OWN_BRAND": "OWN SRANO",
+        "MORE": "MORE"
+      }
+    }
+  },
+  "ID": "570232781"
 }

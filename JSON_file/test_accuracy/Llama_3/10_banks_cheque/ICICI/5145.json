@@ -1,4 +1,16 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n1 060522 FORTPEEMONTISOMY DDMMYYYY Pay at umnh Or Bearer Rupees oqdFive Thousand One Hundred and Thirty Four 5134 Alco.\n01256005625005642535 ONAL BANKG CES GNEWSAVINGS ACCOUNT VISACARO Pessa s 00555002290095545231 00555002290095545231 00555002290095545231 00555002290095545231 00555002290095545231 00555002290095545231 00555002290095545231 00555002290095545231 00555002290095545231 00555002290095545231 00555002290095545231 00555002290095545231 00555002290095545231 00555002290095545231 005"
+  "number": "1",
+  "date": "060522",
+  "location": "umnh",
+  "date_format": "DDMMYYYY",
+  "payment_instructions": "Or Bearer",
+  "amount_in_words": "Five Thousand One Hundred and Thirty Four",
+  "amount": "5134",
+  "account_details": {
+    "alco": "01256005625005642535",
+    "bank": "ONAL BANKG",
+    "account_type": "GNEWSAVINGS ACCOUNT",
+    "card_type": "VISACARO",
+    "pessa": "00555002290095545231"
+  }
 }

@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\ngemeeve ptHi Li pPEAu Mg ue principale cgt9 Neu BoiS Neubos, & 3hohu 2o6 Tel 03.9h.50.21.81 MANi F AsS wrcuc da Roucheyoele LEs VAsS PAVQP0 3 Ot1h0 W essieurs Wus seas te oblige de biru voulsu documen... (text)\n\n## Step 1: Identify the structured information in the text\nThe text appears to be a jumbled collection of words and numbers, but upon closer inspection, we can identify some structured information. The text contains a phone number, a date, and a name.\n\n## Step 2: Extract the structured information\nThe phone number is 03.9h.50.21.81, but it seems to be a jumbled collection of numbers. The date is 2o6, which is likely a typo and should be 2006. The name is Neubos.\n\n## Step 3: Format the extracted information into a structured JSON output\nBased on the extracted information, we can create a structured JSON output as follows"
+  "document": "gemeeve ptHi Li pPEAu",
+  "scenario": "Mg ue principale",
+  "writer": "Neu BoiS",
+  "sender_person": "Neubos",
+  "sender_company": "3hohu 2o6",
+  "sender_tel": "03.9h.50.21.81",
+  "sender_fax": null,
+  "receiver_person": "W essieurs",
+  "receiver_company": "Wus seas te oblige de biru voulsu",
+  "date": null,
+  "place": "da Roucheyoele",
+  "box": "PAVQP0 3"
 }

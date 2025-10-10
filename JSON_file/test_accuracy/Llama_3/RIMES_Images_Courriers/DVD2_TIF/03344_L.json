@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nCods envow:ABWXN ne Henbin Izabelle le Jo-narnbe 2c6 9u Rue de L'EgUse 682lo ampach 8bznsnL: quoyp Jpd & UnA Asurance 83 l c HyeRe0 obye} : 6eoho des Sinistres de Vendirdi J3 novenbre Erant Covat au h...\nPen me qsnsieur, ne xenhment de 6eoho des Sinistres de Vendirdi J3 novenbre Erant Covat au h... (repeated 3 times)\n\nCods envow:ABWXN ne Henbin Izabelle le Jo-narnbe 2c6 9u Rue de L'EgUse 682lo ampach 8bznsnL: quoyp Jpd & UnA Asurance 83 l c HyeRe0 obye} : 6eoho des Sinistres de Vendirdi J3 novenbre Erant Covat au h... (repeated "
+  "document": "Cods envow:ABWXN",
+  "scenario": "ne Henbin Izabelle",
+  "writer": "le Jo-narnbe 2c6",
+  "sender_person": "9u Rue de L'EgUse",
+  "sender_company": "682lo ampach",
+  "sender_tel": "8bznsnL: quoyp Jpd",
+  "sender_fax": "&",
+  "receiver_person": "UnA Asurance",
+  "receiver_company": "83 l c HyeRe0",
+  "subject": "obye} : 6eoho des Sinistres de Vendirdi J3 novenbre",
+  "date": "Erant Covat au htre Di cefk-c shon.",
+  "place": "Pen me qsnsieur, ne xenhment"
 }

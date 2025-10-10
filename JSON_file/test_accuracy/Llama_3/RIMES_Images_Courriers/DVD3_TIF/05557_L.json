@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nVIRERT Joum - Luc % ROUTE WATIDNALE 64440 BELLEVILLE tA.: 03.62.37 53.36 AD RUE DE LA GARE 63460 LUTTERRACH Ole domomde de Dampertyremunts Madame M omsiean., Tai Hnaie how us Jehan pd dicis Knives uma... (Note: This appears to be a handwritten or typed text with some illegible characters and words)\n\nHowever, if we look at the address in a more structured format, we can extract the following information:\n\n* Address: RUE DE LA GARE, 63460 LUTTERRACH\n* City: LUTTERRACH\n* Postal Code: 63460\n* Country: BELLEVILLE (Note: This appears to be a typo or incorrect information, as Belleville is a city in France, but the postal code and country do not match)\n\nHere is the structured JSON output:\n\n```\n{\n  \"address\": \"RUE DE"
+  "document": null,
+  "scenario": null,
+  "writer": "VIBERT Jeam.luc",
+  "sender_person": "VIBERT Jeam.luc",
+  "sender_company": "Q ROVTE NATIONALE",
+  "sender_tel": "03.62.37.53.36",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "Olijet : demande de renseionenents",
+  "date": null,
+  "place": "1ORUE DE LA GARE, 68 460 LUTTER BAC H"
 }

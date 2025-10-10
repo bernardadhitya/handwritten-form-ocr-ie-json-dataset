@@ -1,3 +1,154 @@
 {
-    "error": "Expecting property name enclosed in double quotes: line 3 column 1 (char 3)"
+  "company": null,
+  "address": null,
+  "suite": null,
+  "date": null,
+  "job_number": null,
+  "circle_quota": {
+    "colors": [
+      null,
+      "Green",
+      null
+    ],
+    "cities": [
+      {
+        "name": null,
+        "quota": null,
+        "gender": "Male",
+        "age_group": "18-34",
+        "quota_number": null,
+        "quota_value": null
+      },
+      {
+        "name": null,
+        "quota": "(7)",
+        "gender": null,
+        "age_group": null,
+        "quota_number": null,
+        "quota_value": null
+      }
+    ]
+  },
+  "study": null,
+  "screener": {
+    "respondent_name": "",
+    "area_code": "",
+    "telephone": "97-//3",
+    "city": "",
+    "state": "",
+    "zip_code": null,
+    "interviewer_name": null,
+    "interviewer_id": null,
+    "time_began": null,
+    "date": null,
+    "time_ended": "",
+    "am_pm": "",
+    "instructions": null,
+    "time_range": null
+  },
+  "introduction": null,
+  "questions": [
+    {
+      "question": null,
+      "answers": [
+        {
+          "response": "Yes",
+          "action": null
+        },
+        {
+          "response": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "question": null,
+      "answers": [
+        {
+          "response": "Yes",
+          "action": null
+        },
+        {
+          "response": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "question": "And which of the following age groups best describes your age?",
+      "answers": [
+        {
+          "age_group": null,
+          "action": null
+        },
+        {
+          "age_group": null,
+          "action": null
+        },
+        {
+          "age_group": null,
+          "action": null
+        },
+        {
+          "age_group": null,
+          "action": "QUALIFIES FOR 18-34 YEAR OLD QUOTA"
+        },
+        {
+          "age_group": null,
+          "action": null
+        },
+        {
+          "age_group": "40-49",
+          "action": null
+        },
+        {
+          "age_group": "50-54",
+          "action": "QUALIFIES FOR 35-59 YEAR OLD QUOTA"
+        },
+        {
+          "age_group": null,
+          "action": null
+        },
+        {
+          "age_group": null,
+          "action": null
+        }
+      ]
+    }
+  ],
+  "cigarette_consumption": {
+    "instruction": null,
+    "categories": [
+      {
+        "cigarettes": null,
+        "packs": "Less than 1/2 pack",
+        "action": null
+      },
+      {
+        "cigarettes": null,
+        "packs": null,
+        "action": null
+      },
+      {
+        "cigarettes": null,
+        "packs": "1 pack, but less than 1-1/2 packs",
+        "action": null
+      },
+      {
+        "cigarettes": "30-39",
+        "packs": null,
+        "action": null
+      },
+      {
+        "cigarettes": null,
+        "packs": null,
+        "action": "CONTINUE"
+      },
+      {
+        "cigarettes": null,
+        "packs": "2-1/2 packs or more",
+        "action": null
+      }
+    ]
+  }
 }

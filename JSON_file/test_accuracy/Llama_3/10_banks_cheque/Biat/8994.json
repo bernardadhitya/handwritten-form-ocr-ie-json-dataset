@@ -1,4 +1,16 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n907043 Fauwe Buheyn Mustepa e mens. Eva Davies LE.\nli de Ty Det deropérotn — Signoture du client Guise Cacher er visa de Jo BAT.\n' 060572 i 060572 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+  "transactionType": "VERSEMENTESPECES",
+  "bank": "BIAT",
+  "transactionId": "907043",
+  "accountHolder": "Fawwaz2uhay Muokafa",
+  "description": "Net t rew lar Cwar",
+  "recipient": "Eva Davies",
+  "reference": "R.1.B.",
+  "totalAmount": "35",
+  "note": "Nate deloptrotio",
+  "clientSignature": "Signature du clicnt",
+  "cashier": "Caisse",
+  "checkbox": "Cocher ct visa de la AT",
+  "date": "06/05122",
+  "code": "114"
 }

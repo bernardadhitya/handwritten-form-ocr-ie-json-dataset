@@ -1,4 +1,38 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n‘ot the info below, send £8 tny and yaa vill be efor et Lins of re Vinteh ae foe Sat ‘OFFER RK]RCMD To suoKENG 21 YRS OFAaC OLDE «ST Poe aN MD tattane FREE ave ty_Fleneuc! sue AU. ze cs an Hane Phon 2...\nSinggeeanetee ail rae ‘Se depmerea ey coca le a Re, a Sees Ree tel eter Dor ccsie ae tale a ag ET smasseme me, 51704 3921. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. "
+  "offer": "REETROCTEDTO SMOKERS 21YEARS OFAGEOCLDER",
+  "form": {
+    "firstName": null,
+    "streetAddress": "Stret Addess3BFFe",
+    "apartment": "DRUE",
+    "city": "CyFORG",
+    "state": "Stat AL.ZIPCOdB630",
+    "zipCode": "630",
+    "homePhone": null,
+    "daytimePhone": null,
+    "gender": {
+      "male": "Male",
+      "female": "Female"
+    },
+    "smokingPreference": {
+      "100s": "syoureslbnd/NoFg100s",
+      "long120": "Lng120 Exta Long",
+      "extraLong": null
+    },
+    "usualBrand": null,
+    "brandPreference": {
+      "checkOne": "Chackn wngnk",
+      "waitUntilStoreHasUsualBrand": "on k",
+      "buyDifferentBrand": "Ms Utas"
+    }
+  },
+  "requestProcessing": {
+    "withoutSignature": "REQUESTO E ROCESSEWTOUT SIGTUREATE",
+    "todaysDate": null,
+    "signature": null
+  },
+  "additionalInfo": {
+    "motorCosts": "motorel costs ped by mantactnr. Ho asimes r c",
+    "houseAssumes": "0"
+  },
+  "codes": []
 }

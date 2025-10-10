@@ -1,4 +1,13 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nLAGuE RRE logev SIllst Lo loKe 16 Ruw l Ploe ole ls lot 9100 391o0 26l &O M0NTv kN 0rE 0f 0nE 0f 0nE 0f 0nE 0f 0nE 0f 0nE 0f 0nE 0f 0nE "
+  "document": "LAGuE RRE",
+  "scenario": "logev SIllst",
+  "writer": "Lo loKe",
+  "sender_person": "16 Ruw l",
+  "sender_company": "Ploe ole ls lot",
+  "sender_tel": "9100",
+  "sender_fax": "391o0",
+  "receiver_person": "26l &O M0NTv kN 0rE",
+  "date": null,
+  "place": null,
+  "box": null
 }

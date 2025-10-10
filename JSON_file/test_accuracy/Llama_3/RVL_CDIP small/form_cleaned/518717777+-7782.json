@@ -1,4 +1,56 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n03/20/08 FRI 14:08 FAX $08 294 9900 AND OFFICE & g%O [JOBBER: AUBURN MERCHANDISE DIST.\nPorn Fs -|ewms wear ca —> exneat ALLOCATION Os phay Seer ALLOCATION Displays/ehippers:\nDisplaysishippers - Total packed For VAP Shipments ( Inctuding chains below) \"100 For DIA Diet.\na7, Boos [Acct #: | 429206 [Program Period : APRIL Delivery Dater|_ 3/16/96 P.O. #:[ NA For chain X-Tra Mart For Chain 'For Chain ——rorchain For Chaln For chain DISPLAY LOAD 3 CARTONS CAMEL FIL BOX 61...\n‘STATE | * ‘STATE, g. a a ertcosti{__ = ee. 3 ‘TPS EXPLANATION:.\nweed ree Lisp larye WHOLESALER SIGNATURE: fer Xrte pany UR SIGNATURE: i SEND PAYMENT TO:\n(eheck one) X_@v. 08> ACCOUNT * it Glan oflon - aku wen voucher upon recapitulation of the shipment. 3/20/08 FRI 14:08 FAX $08 294 9900 AND OFFICE & g%O [JOBBER: AUBURN MERCHANDISE DIST.\nPorn Fs -|ewms wear ca —> exneat ALLOCATION Os phay Seer ALLOCATION Displays/ehippers:\nDisplaysishippers - Total packed For VAP Shipments ( Inctuding chains below) \"100 For DIA Diet.\na7, Boos [Acct #: | 429206 [Program Period : APRIL Delivery Dater|_ 3/16/96 P.O. #:[ NA For chain X-Tra Mart For Chain 'For Chain ——rorchain For Chaln For chain DISPLAY LOAD 3 CARTONS CAMEL FIL BOX 61...\n‘STATE | * ‘STATE, g. a a ertcosti{__ = ee. 3 ‘TPS EXPLANATION:.\nweed ree Lisp larye WHOLESALER SIGNATURE: fer Xrte pany UR SIGNATURE: i SEND PAYMENT TO:\n(eheck one) X_@v. 08> ACCOUNT * it Glan oflon - aku wen voucher upon recapitulation of the shipment. 3/20/08 FRI 14:08 FAX $08 294 9900 AND OFFICE & g%O [JOBBER: AUBURN MERCHANDISE DIST.\nPorn Fs -|ewms wear ca —> exneat ALLOCATION Os phay Seer ALLOCATION Displays/ehippers:\nDisplaysishippers - Total packed For VAP Shipments ( Inctuding chains below) \"100 For DIA Diet.\na7, Boos [Acct #: | 429206 [Program Period : APRIL Delivery Dater|_ 3/16/96 P.O. #:[ NA For chain X-Tra Mart For Chain 'For Chain ——rorchain For Chaln For chain DISPLAY LOAD 3 CARTONS CAMEL FIL BOX 61...\n‘STATE | * ‘STATE, g. a a ertcosti{__ = ee. 3 ‘TPS EXPLANATION:.\nweed ree Lisp larye WHOLESALER SIGNATURE: fer Xrte pany UR SIGNATURE: i SEND PAYMENT TO:\n(eheck"
+  "fax": "03/28/96 FRI 14:09FAX508 234 9900",
+  "fax_number": "508 234 9900",
+  "office": "AND OFFICE",
+  "page_number": "003",
+  "account_number": "423295",
+  "jobber": "AUBURN MERCHANDISE DIST.",
+  "program": [
+    "600028",
+    "Program",
+    "Program"
+  ],
+  "period": "APRIL",
+  "name": null,
+  "delivery_date": "3/15/95",
+  "po_number": "N/A",
+  "displays_shippers_total_packed": "778",
+  "vap_shipments": "100",
+  "da_dist": "254",
+  "chain": [
+    "X-Tra Mart",
+    "For Chain",
+    "For Chain",
+    "For Chain",
+    "For Chain"
+  ],
+  "display_load": {
+    "camel_fil_box": "613",
+    "cartons": "3",
+    "camel_lt_box": "515"
+  },
+  "display_contains": "6",
+  "live_cases_for_packing": "OM",
+  "delivery_date_2": "3/15/96",
+  "brands": {
+    "cam_fi_bx": "Cam FiBxCam Lt Bx",
+    "cam_lt_bx": "Cam Lt Bx"
+  },
+  "state": "MA",
+  "po_number_2": "51871",
+  "eft_cost": "87.60",
+  "cases": "X",
+  "price_per_case": "28.00",
+  "total_cost": "2452.80",
+  "vap_payment": "TPS EXPLANATION",
+  "use_extra_display": "useexTRs Displary",
+  "wholesaler_signature": "RJR SIGNATURE",
+  "rjr_signature": ".C.",
+  "send_payment_to": "DIV.OFF",
+  "voucher_number": null,
+  "units_updated_sis": "17520",
+  "rou_to_complete": {
+    "date_requested": null,
+    "date": null
+  }
 }

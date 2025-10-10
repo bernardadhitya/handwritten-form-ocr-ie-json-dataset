@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nTHÉVENE ne ie fn) LS O6 A Plan Dv Va.\nTél: ol 6f. 47. 80.38.\npa au É33o WESUERS lle Riommode qe 12 Fm, de 48 lobe Zoé Clint no: POGOT de More Le Désou Tau La enle, jé vous cibime dus dam Sr d'Honue. role da Are En me hélcue sens empla AU da Bee  dpaus 3x ve d m... (text truncated)\n\nHowever, the actual text is:\n```\nTHÉVENE ne ie fn) LS O6 A Plan Dv Va.\nTél: ol 6f. 47. 80.38.\npa au É33o WESUERS lle Riommode qe 12 Fm, de 48 lobe Zoé Clint no: POGOT de More Le Désou Tau La enle, jé vous cibime dus dam Sr d'Honue. role da Are En me hélcue sens empla AU da Bee  dpaus 3x ve d m...\n```\nThe structured information is:\n\n* Name: THÉVENE\n* Phone number: ol 6f. 47. 80.38\n* Address: pa au É33o WESUERS lle Riommode qe 12 Fm, de 48 lobe Zoé Clint no: POGOT de More Le Désou Tau La enle\n\nHere is the structured JSON output:\n\n```\n{\n  \"name\": \"THÉVENE\",\n  \"phone\": \"ol 6f. 47. 80"
+  "document": null,
+  "scenario": null,
+  "writer": null,
+  "sender_person": null,
+  "sender_company": "",
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": null,
+  "date": "18/10/2006",
+  "place": "Plan",
+  "box": null
 }

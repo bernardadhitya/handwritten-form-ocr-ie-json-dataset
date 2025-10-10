@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nLiberté-Egalité-Fraternite RÉPUBLIQUE FRANCAISE MINISTERE DE LA DEFENSE TÉLÉCOPIE Non protégée Diffusion restreinte No 48O4/CEP Date : 12/07/6 DGA No de télécopieur :\nDESTINATAIRE(S) :\nDELEGATION GENERALE POUR L'ARMEMENT MagaZine Dco 01.60.76.43.33 DIRECTION DE Jrue deo Pres L'EXPERTISE TECHNIQUE Centre d'Expertise Parisien 6799O OSTHOFFEN Site d'Arcueil Nombre de pages dont celle-c...\nCaractére d'urgence : immédiat urgent l routine Yichelle AWAiN 3{errasse deo Vosges OBJET: Gllede ScRiBEO Res l@ reridüen Ref: Code envoi no iRAQ4P 5u52O LAxOU Je vous souhale bonne recephon de rroisi... (il y a des erreurs deo dans le texte)\n\nIl semble que le document est corrompu ou altéré, il est donc difficile de l'extraire en entier. Cependant, je peux extraire les informations suivantes :\n\n*   Date : 12/07/6\n*   DGA No de télécopieur : 01.60.76.43.33\n*   Destination : \n    *   Delegation General for Arms\n    *   MagaZine Dco\n    *   Direction de Jrue deo\n    *   Pres L'Expertise Technique\n    *   Centre d'Expertise Parisien\n    *   6799O OSTHOFFEN\n    *   Site d'Arcueil\n    *   Nombre de pages : 3\n*   Caractére d'urgence : immédiat urgent routine Yichelle AWAiN 3{errasse deo Vosges\n*   OBJET : Gllede ScRiBEO Res l@ reridüen Ref: Code envoi no iRAQ4P 5u52O LAxOU\n*   Il y a des erreurs deo dans le texte, il est donc difficile de l'extraire en entier.\n\nVoici le JSON extrait :\n\n```json\n{\n  \"date\": \"12/07/6\",\n  \"dga_no_telecopieur\": \"01.60.76.43.33\",\n  \"destinations\": [\n    \"Delegation General for Arms\",\n    \"MagaZine Dco\",\n    \"Direction de Jrue deo\",\n    \"Pres L'Expertise Technique\",\n    \"Centre d'Expertise Parisien\",\n    \"6799O OSTHOFFEN\",\n    \""
+  "document": "TÉLÉCOPIE",
+  "scenario": "Non protégée Diffusion restreinte",
+  "writer": "Yichelle AWAiN",
+  "sender_person": "Yichelle AWAiN",
+  "sender_company": "MINISTERE DE LA DEFENSE",
+  "sender_tel": "01.60.76.43.33",
+  "sender_fax": null,
+  "receiver_person": "DELEGATION GENERALE",
+  "receiver_company": "POUR L'ARMEMENT",
+  "subject": "Gllede ScRiBEO",
+  "date": "12/07/6",
+  "place": "CEP Arcueil -16bis,avenue Prieur de la Cte d'Or 94114 Arcueil Cedex",
+  "box": null
 }

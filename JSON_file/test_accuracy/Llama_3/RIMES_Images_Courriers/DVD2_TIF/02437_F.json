@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nTélécopie DAUMAS Lea 128 RUE DES JARDINS 57320 BRETINACH tél 03.27.90.52.21 Destinataire :... TRE.\n000.00...\neee 0 eee esse 0...\neos essee 00e...\nNombre de pages :...... CT\nNombre de mots :...... CT\nNombre of pages :...... CT\nNombre de mots :...... CT\nNombre of pages :...... CT\nNombre de mots :...... CT\nNombre of pages :...... CT\nNombre of words :...... CT\nNombre of pages :...... CT\nNombre of words :...... CT\nNombre of pages :...... CT\nNombre of words :...... CT\nNombre of pages :...... CT\nNombre of words :...... CT\nNombre"
+  "document": "Télécopie",
+  "scenario": null,
+  "writer": "DAUMAS Lea",
+  "sender_person": "DAUMAS Lea",
+  "sender_company": "Yas",
+  "sender_tel": "03.27.90.52.21",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "CHANDENENT  OE MA",
+  "date": "1",
+  "place": "128 RUE DES JARDINS, 57320 BRETTNACH",
+  "box": null
 }

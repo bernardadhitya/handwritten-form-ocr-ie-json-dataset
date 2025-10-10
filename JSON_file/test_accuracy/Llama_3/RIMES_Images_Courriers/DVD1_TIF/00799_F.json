@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nTélécopie Expéditeur: B1S MUTH v&l0m00 21 AUE DU GEN DE GAUUE LNOW3ONOy.SnCs,3713dYHOY7 O9qOB :03 94 62 4109 Fax :\nDestinataire :\nNom NA1F Auamu Etablissement :\nTélécopie :\nTéléphone :\nDate : O 6 movulou 20O6 OBJET:emande de documenation:tomamant h nontat d'auame væ Madame, Monoeu demaude cb docmeutation concemant sos -comtat dlaoonaue vi Svew ordialemeut LP biouulte par vosseu. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. "
+  "document": "Télécopie",
+  "scenario": null,
+  "writer": "B1S MUTH v&l0m00",
+  "sender_person": "NA1F Auamu",
+  "sender_company": null,
+  "sender_tel": "03 94 62 4109",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "demande de documenation:tomamant h nontat d'auame væ",
+  "date": "O 6 movulou 20O6",
+  "place": "21 AUE DU GEN DE GAUUE",
+  "box": "LNOW3ONOy.SnCs,3713dYHOY7 O9qOB"
 }

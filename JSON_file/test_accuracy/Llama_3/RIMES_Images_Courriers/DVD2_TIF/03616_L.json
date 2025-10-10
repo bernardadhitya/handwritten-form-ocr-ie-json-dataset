@@ -1,4 +1,13 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nBOCQulER David 9,swe GOUDAN 9O40O TREVENANS Tel: O3 43 1314 31 NAlF Asswranceo PLACE DES HALLES 9117o Sr JEAN DE loSNE Trevenams, le 51 mavs 9OO4 Maolame, Mowxen, Rssedanf une vakue de 18CV fscaux d a...\nCe lype de vohale? Qruzamces ole Mera d`avamce B0CQuIER DawioD 9swe GOUDAN 9O40O TREVENANS Tel: O3 43 1314 31 NAlF Asswranceo PLACE DES HALLES 9117o Sr JEAN DE loSNE Trevenams, le 51 mavs 9OO4 Maolame, Mowxen, Rssedanf une vakue de 18CV fscaux d a...\n\n## Step 1: Identify the structured information in the text\nThe text appears to be a phonebook entry or a list of names and numbers. The structured information includes:\n- Name: BOCQulER David\n- Address"
+  "document": "BOCQulER David",
+  "scenario": "9,swe GOUDAN",
+  "writer": "BOCQulER David",
+  "sender_person": "BOCQulER David",
+  "sender_company": "NAlF Asswranceo",
+  "sender_tel": "O3 43 1314 31",
+  "receiver_person": "Maolame, Mowxen",
+  "receiver_company": "Rssedanf une vakue de 18CV fscaux",
+  "date": "Trevenams, le 51 mavs 9OO4",
+  "place": "PLACE DES HALLES",
+  "box": "9117o Sr JEAN DE loSNE"
 }

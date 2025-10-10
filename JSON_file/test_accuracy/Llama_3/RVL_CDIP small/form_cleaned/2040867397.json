@@ -1,4 +1,36 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nJAN 16 '92 @3!@3PM 1 KANSAS CITY PLA‘ SHOOK, HARDYs BACON es weneantne ‘ONE KANSAS CITY PLACE amitacences, sa een GATE KANSAS CITY, MISSOUAL 68105 (gg) 476-5550, Telecopy Number for Tobacco Matters: (...\nDelivery Instructions:\nLniturke Lydia _______ prom: aol Date: Lb-7Z Please Deliver Additional Copies To:\nAdditional Delivery Instructions:\nRUSH O please call to discuss immediately after review Ashes LEGLIBOVOS WE ARE TRANSMITTING FROM A RICOH RAPICOM 830 (GROUP III). IF YOU EXPERIENCE ANY PROBLEMS IN RECEIVING ANY OF THESE FASES, PLEASE...\nOPERATOR:\nTHANK YOU."
+  "date": "JAN16'92",
+  "time": "0308PM",
+  "location": "KANSAS CITY PLACE",
+  "page": "P.1/13",
+  "law_office": {
+    "name": "SHOOK.HARDY&BACON",
+    "address": "ONE KANSAS CITY PLACE",
+    "contact": {
+      "phone": "(816) 474-5550",
+      "telecopy_number_for_tobacco_matters": "(816) 421-2708"
+    },
+    "other_offices": [
+      "W.U.,TELE1SHKSC",
+      "1200MAIN STREET",
+      "OYERLANOPARK,KANSAS"
+    ]
+  },
+  "telecopy_transmission": {
+    "pages_including_cover": "Pages (Including This Cover Page)",
+    "confidentiality_notice": "CONFIDENTIALITY NOTICE:"
+  },
+  "delivery_instructions": {
+    "to": "ms",
+    "recipient": "Hhamk Bahl",
+    "from": "ine",
+    "date": "Please Deliver",
+    "additional_copies_to": "2040867397",
+    "additional_delivery_instructions": "RUSH Please call to discuss immediately after review"
+  },
+  "transmission_details": {
+    "device": "RICOH RAPICOM 83O GROUP III",
+    "contact_for_issues": "816 474-6550EXT"
+  },
+  "operator": "OPERATOR"
 }

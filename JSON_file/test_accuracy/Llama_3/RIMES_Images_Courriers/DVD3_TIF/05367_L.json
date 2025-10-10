@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nMmu ENG EL Taxye TRESORERIE DES IIPOTS 8 xue Gexardin J4 RvE GRAND RUE 8&30O NEUFCHATEAU 452u0 sennelY Tl: 03.91.51.66.39 : ZS PUV60 Neufeaau, le u8 AvxuQoF Yladame, Tensiewr, Ayont eu ur enfant celte... (Translation: \"In the treasury of the IIPOTS, 8 xue Gexardin J4 RvE GRAND RUE 8&30O NEUFCHATEAU 452u0 sennelY Tl: 03.91.51.66.39 : ZS PUV60 Neufeaau, the 8th of AvxuQoF Yladame, Tensiewr, Ayont eu ur enfant celte...\")\n\n## Step 1: Identify the structured information in the text\nThe text appears to be a French text with some encoded information. We need to identify the structured information, which seems to be a phone number and an address.\n\n## Step 2: Extract the phone number\nThe phone number is: 03.91.51.66.39\n\n## Step 3: Extract the address\nThe address is: GRAND RUE 8&30O NEUFCHATEAU 452u0 sennelY Tl: 03.91.51.66.39\n\n"
+  "document": "Lettre manuscrite",
+  "scenario": null,
+  "writer": "ENGEL Maryse",
+  "sender_person": "Mme ENGEL Maryse",
+  "sender_company": null,
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "date": null,
+  "place": null,
+  "box": null
 }

@@ -1,4 +1,44 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nContract Research TELEFAX MESSAGE NO. So Teter 2 09) 308362 Tar baogashe Favshang GAB Paper 3 = as ERONWO Origina’ XIMWOILETIRCA FAX DATE: 26 Aug 96 Ablage FROM: Dr. Ewald Romer 96-08-26 14:32 ouT To:...\nFollowing my comments on the paper of M. Friedman. Unfortunately, this paper had been lost on von Holt’s desk and was only handed over to me for comments end of last week. | regret the delay and hope...\nKind regards, Zoocee Ewald Romer 969e91S0¢z SS Sa 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+  "info": {
+    "company": "INBIFO Institut fur biologische Forschung GmbH",
+    "department": "Contract Research"
+  },
+  "telefax_message_no": "Teletax 022 03303-362",
+  "contact": {
+    "telefax": "Teletax 022 03303-362",
+    "telephone": "(0 22 03) 303-1"
+  },
+  "original": "Original",
+  "file": "ERO/MWO",
+  "storage": "Ablage",
+  "date": "26 Aug.96",
+  "from": {
+    "name": "Dr. Ewald Romer",
+    "timestamp": "96-08-2614:32 0UT"
+  },
+  "to": {
+    "name": "Dr.R.A.Carchman",
+    "address": {
+      "company": "Philip Morris",
+      "department": "Research Center",
+      "po_box": "P.O.Box26583",
+      "city": "Richmond",
+      "state": "Va.",
+      "zip": "23261",
+      "country": "USA"
+    },
+    "telefax_no": "001-804-274 2891"
+  },
+  "number_of_following_pages": "1",
+  "message": {
+    "greeting": "Dear Richard:",
+    "body": "Following my comments on the paper of M. Friedman.Unfortunately this paper had been lost on von Holt's desk and was only handed over to me for comments end of last week.I regret the delay and hope that my comments are still of some value for you.",
+    "closing": "Kind regards,",
+    "signature": "Ewald Romer"
+  },
+  "additional_info": {
+    "trade_register": "Trade Register.Cologne HRB 367",
+    "general_manager": "Dr. Woif Reininghaus",
+    "reference": "27/94"
+  }
 }

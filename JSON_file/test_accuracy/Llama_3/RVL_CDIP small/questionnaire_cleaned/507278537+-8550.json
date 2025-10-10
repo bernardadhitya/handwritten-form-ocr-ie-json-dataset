@@ -1,3 +1,56 @@
 {
-    "error": "Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  "company": null,
+  "interview": {
+    "interviewer": "JSTT",
+    "interviewee": null,
+    "date": null,
+    "questions": [
+      {
+        "question": null,
+        "response": null
+      },
+      {
+        "question": "Do you smoke at least fifty cigarettes a day, or not?",
+        "response": null
+      },
+      {
+        "question": "Have you bought or used a headache remedy in the past month or not?",
+        "response": null
+      },
+      {
+        "question": null,
+        "response": null
+      },
+      {
+        "question": null,
+        "response": null
+      }
+    ],
+    "qualifications": {
+      "frozen_food_producer": null,
+      "marketing_research_company": null,
+      "construction_company": null,
+      "pharmaceutical_or_drug_company": null,
+      "tobacco_company": null,
+      "airline": null,
+      "beer_or_wine_distributor": null,
+      "advertising_agency": null,
+      "insurance_company": false,
+      "newspaper_or_magazine_publisher": null,
+      "self_employed": null
+    },
+    "magazine_readership": {
+      "read_current_issue": null,
+      "read_last_four_issues": null
+    },
+    "follow_up": {
+      "leave_copy": true,
+      "contact_method": null,
+      "purpose": null
+    },
+    "demographics": {
+      "gender": null,
+      "age": null
+    }
+  }
 }

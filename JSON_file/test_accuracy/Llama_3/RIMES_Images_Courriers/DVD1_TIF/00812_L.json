@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nL AF0NTAINE Dznie1 1vvc de 1`Ehh 6 F 88O KRAUTER 6ER S#EIM TEl: O3 56 37 y2 28 r Reolovt Liev dil- Le Boovc 3355o HAvx F:Auq-rntetion des quentitts de chevsseltes courn dtes Monsiew,Mrde-c Vevil1tz gr... (Translation: LAFONTAINE Dznie1 1vvc de 1`Ehh 6 F 88O KRAUTER 6ER S#EIM TEl: O3 56 37 y2 28 r Reolovt Liev dil- Le Boovc 3355o HAvx F:Auq-rntetion des quentitts de chevsseltes courn dtes Monsiew,Mrde-c Vevil1tz gr...)\n\nThe text appears to be a jumbled collection of letters and numbers, but if we look closely, we can extract the following structured information:\n\n* Name: LAFONTAINE"
+  "document": "L AF0NTAINE Dznie1",
+  "scenario": "1vvc de 1`Ehh",
+  "writer": "Dzniel Lcfortcirc",
+  "sender_person": "Monsiew,Mrde-c",
+  "sender_company": "Vevil1tz greev,Monsievv,Mzdzn-e",
+  "sender_tel": "O3 56 37 y2 28",
+  "sender_fax": null,
+  "receiver_person": "Liev dil- Le Boovc",
+  "receiver_company": "3355o HAvx",
+  "subject": "F:Auq-rntetion des quentitts de chevsseltes",
+  "date": null,
+  "place": null,
+  "box": null
 }

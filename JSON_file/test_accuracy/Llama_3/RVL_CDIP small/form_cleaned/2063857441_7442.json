@@ -1,4 +1,20 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nDepartment of Transportation 400 7th Street, §.W., Room PL-401 ‘Washington, D.C. 20590 aReNPRM——_) wn Decker No SEIETs0 ‘Smoking in Airports ) Nice bi-30 RAM 31959C28 COMMENTS CONCERNING SMOKING IN AI...\n= ki Ae & Supstaute Fee A SMore-FREG AiRBeT _WwHere Weup THe fir Sv eee Fo2 “HS CAQT Come FRom P WHAT WéuLD A Fassnicer frame wine WATWG for THe Cheri Jee ° WUST Wwateciie THRVGH THE sme lcer CLUSTERE...\nTHERE Shovi0 BE No smoke ALloweb ANY Weep af THE A RrORT BeEeAvsE THE SMOKE CAN Deusr _FRom ~The Sexe AREA Te THE CAT NTO.\nWHERE ree oPLie RE WALKING To THE Bica@ice AREAS — A(R CowmrinWw 6 SPARS THe sme p& sTAce Shore — |T TOES Nor 2emouws ix for ME — | Cay Sec 7 wu 2 We = AM Wahu Wie ACOaslG-\n» » » BE SURE TO FILL OUT THE OTHER SIDE ALSO « + « ‘This comment form is provided as a public service, and may be freely duplicated.\nTepesee90z ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ————- ———"
+  "department": "Department of Transportation",
+  "address": "400 7th StreetS.W.,Room PL-401, Washington,D.C.20590",
+  "subject": "In Re NPRM, Docket No. N5AC28, Smoking in Airports",
+  "docket_no": "N5AC28",
+  "comments": {
+    "smoking_in_airports": {
+      "section_1": {
+        "question": "Do you agree or disagree?Why? PRINT",
+        "response": "LOISAGREG THAT A CLOSED CARTWOULD BE ASUBSTUTE FORA SMOKE-FREG AIRFRT WAERE WOUDTHAIRSUPPYFORH BREAE WHLEWATGFOR TH CARTARRM JUST WALKING TROOQh T4E SMoIERS CLUSTERED MARESME Siek - I HAte THe lNTERMssIoNs BEeAUSe YOU CANT GET OUTWITOUT OING THROUG ASMOKESCREEWTHSWOULD B THGSAME"
+      },
+      "section_2": {
+        "question": "Are there other areas of the airport terminal that passengers - including those sensitive to tobacco smoke frequently must use while traveling, and where they therefore need protection from exposure to tobacco smoke (e.g.,restrooms, telephones, eating areas, baggage claim, news stands and other stores, ticket counters, etc.)? If yes, explain why these areas are important to travelers, and what smoking restrictions (if any) should be adopted.PRINT",
+        "response": "NTHGARRORT BGeAUSE THE SMOKE CAN DRETEROME SMCNAREATOTHE EATAREASDRJSTTOTASLES BAGGGEAREAC- ALRCONDTIONNG SFREAS SMEZL DESTACE SMAKE-ITPOES NO REMOVEOR MEICA SMEL 2063857441 AMWAAOG BE SURE TO FILL OUT THE OTHER SIDE ALSO"
+      }
+    }
+  },
+  "contact": "2063857441",
+  "note": "AMWAAOG BE SURE TO FILL OUT THE OTHER SIDE ALSO"
 }

@@ -1,4 +1,47 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nCOD -FL7-6/08 ‘ © eos nents se ewe eee srt x rae, ee es, Hes Ss v7 eae Ra uh EEE 8 a ved cent cis dar U2 Seite Stttciangrieas 3 5 Ce Cigh- meued WHN4 _ +4 [Mayet ee? | > rx CC) &2 5° 1e-\n779 7972 coceeent 1 to (NAME OF PERSON ON LABEL)? (IF RESPONDENT NOT AVAILABLE, MAKE CALLBACK ARRANGEMENT. IF RESPONDENT AVAILABLE, REINTRODUCE YOURSELF) 27 Yos []1 -->(ASK Q.1b) No” []2 -->(VERIFY AD...\nplease get the fora and bring it to the phone. Do you happen to ha 1 Yes []1-->(SKIP TO Q.2, WHITE QUESTIONNATRE) Would you ser te. do you think you could find the fora? la, Did you receive the tvo -... (no response) 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+  "product": "Virginia Slims Menthol Cigarette",
+  "location": {
+    "city": null,
+    "state": "NY",
+    "zip": null,
+    "po_box": null
+  },
+  "screener": {
+    "time_started": null,
+    "time_ended": null,
+    "interviewers_name": null,
+    "date": null
+  },
+  "questions": {
+    "TQ1": {
+      "did_not_receive_product": null,
+      "disconnected": null,
+      "stopped_smoking": null,
+      "other_tester": null,
+      "respondent_not_available": null,
+      "could_not_participate": null,
+      "no_answer": null,
+      "refused_to_be_interviewed": false,
+      "completed_interview": null,
+      "not_stopped_smoking": null,
+      "no_such_person": false,
+      "non_usable": null
+    },
+    "interviewer_id": null,
+    "intro": "Hello, I'm calling for Janet Hall of Home Testing Institute. May I speak to (NAME OF PERSON ON LABEL? IF RESPONDENT NOT AVAILABLE, MAKE CALLBACK ARRANGEMENT. IF RESPONDENT AVAILABLE, REINTRODUCE YOURSELF)",
+    "la": {
+      "received_cigarettes": null,
+      "verify_address": null
+    },
+    "1c": {
+      "packs_superslims": null,
+      "packs_capri": null
+    },
+    "1d": {
+      "has_report_form": null
+    },
+    "1e": {
+      "can_find_form": null
+    }
+  }
 }

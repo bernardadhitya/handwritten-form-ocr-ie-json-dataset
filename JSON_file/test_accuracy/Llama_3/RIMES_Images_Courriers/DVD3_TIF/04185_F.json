@@ -1,4 +1,17 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nTELECGCOPIE Le Page 1 Nombre de page au total :\nDESTINATAIRE :\nSociété: / € A REPCUTE _ — — Adresse : “Hos Dern © _Fréresn Seedot. _ CP/Ville: AD ARO a SALMERT Contacts N°Fax: a EXPEDITEUR :\nsocistss SCHMIDT Math Adresse: <f “cue che Ja rakcTe | ee cP Ville: BF DIG NT WEE Contact :\nNTI ODBLERYGHG N°Fax: aE Objet :\nMad aken de Ma decrfése_comenasdte URGENT: [J CONFIDENTIEL: [ IMPORTANT : [SITUATION CRITIQUE] [SITUATION CRITIQUE] [SITUATION CRITIQUE] [SITUATION CRITIQUE] [SITUATION CRITIQUE] [SITUATION CRITIQUE] [SITUATION CRITIQUE] [SITUATION CRITIQUE] [SITUATION CRITIQUE] [SITUATION CRITIQUE] [SITUATION CRITIQUE] [SITUATION CRITIQUE] [SITUATION CRITIQUE] [SITUATION CRITIQUE] [SITUATION CRITIQUE] [SITUATION CRITIQUE] [SITUATION CRITIQUE] [SITUATION CRITIQUE] [SITUATION CRITIQUE] [SITUATION CRITIQUE] [SITUATION CRITIQUE] [SITUATION CRITIQUE] [SITUATION CRITIQUE] [SITUATION CRITIQUE] [SITUATION CRITIQUE] [SITUATION CRITIQUE] [SITUATION CRITIQUE] [SITUATION CRIT"
+  "document": "TELECOPIE",
+  "scenario": "Page1",
+  "writer": null,
+  "sender_person": "ZA_RE@COTE",
+  "sender_company": "societe:ZA_RE@COTE",
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": "SCH MIDTMth&u",
+  "receiver_company": "societe:SCH MIDTMth&u",
+  "receiver_tel": "033425J856",
+  "receiver_fax": null,
+  "subject": "Mad&ccnde Ma decni&e commasde",
+  "date": null,
+  "place": "Go356 EUETTE SAL@ERT",
+  "box": null
 }

@@ -1,4 +1,20 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nMEMO From the Desk of ot Del Donald deBethizy “4/>% lie Dratribution ‘ APR 2.9 1996 TX hove attacked Qe Su rr received Covres’ : <@: Dabbour Ct RES D.rTouonsend Original:\nPaRetum to: NE D Fil under: > giee vests 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1."
+  "memo": {
+    "from": "Dr.J.Donald deBethizy",
+    "date": "6/9",
+    "subject": "APR291996",
+    "instructions": "Please Copy '5ymy! Need Copies wE?",
+    "copies_to": [
+      "BlixtMosterg",
+      "Robinsan",
+      "lownsen"
+    ],
+    "original": {
+      "return_to": "me",
+      "file_under": "Postcopy"
+    },
+    "cc": "CAB",
+    "mew": "51544",
+    "reference": "i wHnq1siP"
+  }
 }

@@ -1,3 +1,58 @@
 {
-    "error": "Expecting ',' delimiter: line 58 column 4 (char 1458)"
+  "intangible_property_corporation": {
+    "schedule_d": {
+      "total_assets": null,
+      "total_tangible_assets": null,
+      "total_intangible_assets": 887367026,
+      "investments_in_foreign_subsidiaries": null,
+      "item_5": null,
+      "income_apportionment_percentage": null,
+      "intangible_assets_allocable_to_massachusetts": null,
+      "massachusetts_tangible_property_not_subject_to_local_taxation": null,
+      "item_9": null,
+      "net_worth_ratio": null,
+      "total_assets_item_11": null,
+      "total_liabilities": null,
+      "net_worth": null,
+      "taxable_net_worth": null
+    }
+  },
+  "schedule_e_1": {
+    "total_dividends": null,
+    "dividends_from_massachusetts_corporate_trusts": null,
+    "dividends_from_non_wholly_owned_discs": null,
+    "dividends_on_common_stock": 6904,
+    "dividends_on_preferred_stock": null,
+    "total_taxable_dividends": null,
+    "dividends_deduction": 26467946
+  },
+  "schedule_e_2": {
+    "date_of_organization": null,
+    "date_of_mass_registration": null,
+    "return": null,
+    "massachusetts": null,
+    "federal_carryback": null,
+    "year": null,
+    "losses_used": null,
+    "total_used": null,
+    "loss_available": null,
+    "loss_carryover_deduction": null
+  },
+  "schedule_e_taxable_income": {
+    "net_income": 6303,
+    "federal_wage_credit_allowable": null,
+    "state_and_municipal_bond_interest": null,
+    "foreign_state_or_local_income_taxes": null,
+    "other_adjustments": null,
+    "total_of_items_2_3_4_5": null,
+    "capital_gains_on_installment_sales": null,
+    "dividends_deduction": null,
+    "loss_carryover": null,
+    "total_of_items_7_8_9": null,
+    "income_subject_to_apportionment": null,
+    "income_apportionment_percentage": null,
+    "item_13": null,
+    "certified_mass_solar_or_wind_power_deduction": null,
+    "income_taxable_in_massachusetts": null
+  }
 }

@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nnU GErolcunc BoQUET Dom2'nc d& Romecort 5781o AZoUDANGt 1.1 03.14.40.57.58 Rtfkrenc dent: oWk4s 15 les 3 s:fs 8,us de'l'hstel Die oL&oo VENbEUiL k 17.01.07 JMU men tent nsnY x7rc un 7s sveyz Y swop sr... (text)\n\n## Step 1: Identify the structured information in the text\nThe text appears to be a jumbled collection of words and numbers, but upon closer inspection, it seems to be a coded message. However, without a clear pattern or key to decipher the code, we can only assume that the text is not structured in a way that can be easily extracted.\n\n## Step 2: Attempt to identify any patterns or codes\nUpon re-examining the text, it appears that the words and numbers are randomly arranged, and there is no apparent pattern or code that can be used"
+  "document": "nU GErolcunc BoQUET",
+  "scenario": "Dom2'nc d& Romecort",
+  "writer": "5781o AZoUDANGt",
+  "sender_person": "Rtfkrenc dent: oWk4s 15",
+  "sender_company": "les 3 s:fs",
+  "sender_tel": "8,us de'l'hstel Die",
+  "sender_fax": "oL&oo VENbEUiL",
+  "receiver_person": "k 17.01.07",
+  "receiver_company": "JMU",
+  "date": "men tent",
+  "place": "nsnY x7rc un 7s sveyz Y swop srSqcyos z1",
+  "box": "dat vaic' 1o reknc : CH 4s16"
 }

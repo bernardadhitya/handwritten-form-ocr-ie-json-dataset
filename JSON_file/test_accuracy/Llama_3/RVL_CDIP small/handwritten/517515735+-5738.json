@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nVANTAGE PO Box32o0 J-b-96 wiN570N SALErf, N.C.Q7iOz DEAR SIA:\nWi LL yOV FLEASE GEND ME 51751 ONE OF yOOR VANTAGE BROCHUR I WOULD LjKE TO 0RDEA 5735 A SACKET iF YOU HAVE ONE iN STocK. THAUKie yoo.\nSINCERELY 3AKE W, FOGERS,sr. 3AKE W. FOGERS,sr. 3AKE W. FOGERS,sr. 3AKE W. FOGERS,sr. 3AKE W. FOGERS,sr. 3AKE W. FOGERS,sr. 3AKE W. FOGERS,sr. 3AKE W. FOGERS,sr. 3AKE W. FOGERS,sr. 3AKE W. FOGERS,sr. 3AKE W. FOGERS,sr. 3"
+  "company": "VANTAGE",
+  "address": {
+    "POBox": "PO Box32o0",
+    "code": "J-b-96",
+    "city": "wiN570N SALErf",
+    "state": "N.C.Q7iOz",
+    "zip": null
+  },
+  "salutation": "DEAR SIA:",
+  "message": "Wi LL yOV FLEASE GEND ME 51751 ONE OF yOOR VANTAGE BROCHUR I WOULD LjKE TO 0RDEA 5735 A SACKET iF YOU HAVE ONE IN STocK. THAUKie yoo.",
+  "closing": "SINCERELY",
+  "name": "3AKE W, FOGERS,sr."
 }

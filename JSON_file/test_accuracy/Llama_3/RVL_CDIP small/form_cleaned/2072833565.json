@@ -1,4 +1,17 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nFROM A URSHINGTON 6th GRADE PHONE NO. : 903 751 4287 Oct. fis 1999 a2: fern Washington Sixth Grade Center 1020 Hamlet Palestine, TX 75801 owe 5 Lf 9 # of Pages | (Including cover Hage) j rl hegadiche...\nsoseesz.ozs.ozs.ozs.ozs.ozs.ozs.ozs.ozs.ozs.ozs.ozs.ozs.ozs.ozs.ozs.ozs.ozs.ozs.ozs.ozs.ozs.ozs.ozs.ozs.ozs.ozs.ozs.ozs.ozs.ozs.ozs.ozs.ozs.ozs.ozs.ozs.ozs.ozs.ozs.ozs.ozs.ozs.ozs.oz"
+  "from": "Washington 6th Grade",
+  "phoneNo": "9037314287",
+  "month": "Oct.",
+  "school": "Washington Sixth Grade Center",
+  "address": {
+    "street": "Hamlet",
+    "city": "Palestine",
+    "state": "TX",
+    "zip": "75801"
+  },
+  "date": null,
+  "numberOfPages": " _L",
+  "faxNumber": "3-5-877",
+  "attention": "2072833565",
+  "rue": null
 }

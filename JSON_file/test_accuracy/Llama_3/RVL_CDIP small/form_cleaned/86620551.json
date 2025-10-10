@@ -1,4 +1,22 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nMAY 1S °96 12:SFM PHILIP MORRIS PHILIP MORRIS U.8A.\n{ARPARKAVENUE, NEWYORK. NX SCONANER TELEPHONE A guDcOR FAX TRANSMITTAL DATE: WHS bo TOTAL PAGES INCLUDING COVER SHEET: 77 Te 44% ee Ge 42S FAKE (9/0) 323 — A/ ue ee Hann PHONE #: (212) FAX #: (212) 90...\n#& Lagat Debvenyt 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+  "document": {
+    "id": "MAY15961258PM",
+    "company": "PHILIP MORRIS",
+    "location": {
+      "name": "U.S.A.",
+      "address": "PARKAVENUE.NEWYRKN.Y10017-92",
+      "telephone": "2128000"
+    },
+    "fax": null,
+    "transmittal": {
+      "date": "5/90",
+      "totalPagesIncludingCoverSheet": "4"
+    },
+    "to": "4eAncee",
+    "toFax": "(9/0)323-(F)Z",
+    "from": "Shuanre",
+    "fromPhone": "(212)",
+    "fromFax": "212907-5361",
+    "message": "8 9 O. 20551 MARLEORO SENSONAHEDGES MEAIT VIRGINIA SUNS PARLAMENT UGNTS PLAYEAS SARAOGA CAMBRIXGE ALPINE MULNFIUER"
+  }
 }

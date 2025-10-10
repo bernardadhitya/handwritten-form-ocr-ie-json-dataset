@@ -1,4 +1,28 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n907043 Ÿ‘Ethel M Bryson Le ax aa en — mme Tata Tagrt Toto du versement Gen Eee == Det deropéotn  Signoture du client M Gaise Cacher er visa de Jo BAT.\n' 3060512 Qu Eee  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+  "transaction": {
+    "type": "VERSEMENTESPECES",
+    "bank": "BIAT",
+    "account_number": "907043",
+    "transaction_id": null,
+    "recipient": {
+      "name": "Renata Lukic",
+      "additional_info": "Net t rew lar Cwar"
+    },
+    "issuer": {
+      "name": "Ethel M.Bryson",
+      "code": "R.1.B."
+    },
+    "amount": {
+      "written": "CeuenThousand.SxHunared",
+      "numeric": "7673"
+    },
+    "note": "and SeventuShree",
+    "client_signature": "Signature du clicnt",
+    "cashier": {
+      "name": null,
+      "approval": null
+    },
+    "date": "06/05122",
+    "reference": "rsesgpe"
+  }
 }

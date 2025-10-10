@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nBROUiLLE T ne nragmol m S EN9N!NnH o&E&9 BAAF Asswran&s O35o 46 ss 83 Plac JB Coml& 1388o VELAUX Nonsairou Nademe/ mman Calitalon -\nMowssn Lecpenun &e me inceu salulotons A Huningw  & 6/02/o7/2007 6/02/2007 6/02/2007 6/02/2007 6/02/2007 6/02/2007 6/02/2007 6/02/2007 6/02/2007 6/02/2007 6/02/2007 6/02/2007 6/02/2007 6/02/2007 6"
+  "document": "BROUiLLE T",
+  "scenario": "ne",
+  "writer": "nragmol m S",
+  "sender_person": "EN9N!NnH o&E&9",
+  "sender_company": "BAAF Asswran&s",
+  "sender_tel": "O35o 46 ss 83",
+  "sender_fax": "Plac JB Coml&",
+  "receiver_person": "1388o VELAUX",
+  "receiver_company": "Nonsairou Nademe/",
+  "date": "mman",
+  "place": "Calitalon -",
+  "box": "Mowssn Lecpenun &e me inceu salulotons A Huningw  & 6/02/o7"
 }

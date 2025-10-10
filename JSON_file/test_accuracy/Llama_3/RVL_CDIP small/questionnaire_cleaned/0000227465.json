@@ -1,3 +1,39 @@
 {
-    "error": "Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  "ProjectNo": "776",
+  "QuestionNo": "1-5",
+  "File": "fil74-15",
+  "Study": "CIGARETTE STUDY - TEEEPIONE INTERVIEY",
+  "Interviewer": "Fied Staton",
+  "FieldStation": "Dale",
+  "Date": null,
+  "TimeBegan": "AM/PM",
+  "AM_PM": "AM/PM",
+  "RespondentDetails": {
+    "Name": "Hello,my na",
+    "Address": "I'm frcm Market Fasts, Iacorporated In Chlvago.",
+    "Phone": "(10 oge)"
+  },
+  "Introduction": "May 1 speak to.",
+  "Availability": "Unavailablo2 DETERMNE WCN BEST TO CALL BACK ANC ECORD TIME BELOW)",
+  "Callbacks": {
+    "Callback1": null,
+    "Callback2": null
+  },
+  "InterviewDetails": {
+    "PreviousInterview": "Soveral weeks ago we ir.terviawed yon and asked yon somo qucstions cbout your emoking cxorectoristice.",
+    "PacksSmoked": {
+      "Question": "about how many packs of cigarettes would yoa estimste you've snoked these past saanOn",
+      "NumberOfPacks": "26"
+    },
+    "BrandsSmoked": {
+      "Question": "Now, wculd you please oame all the brands of cigarettee you have smoked s pack or moreof dhess week?",
+      "Brands": [
+        "Viceroy",
+        "Viceroy Fich Lights",
+        "Rieh Lighte"
+      ],
+      "TotalMustAgree": null
+    }
+  },
+  "ThankYou": "AND THANK RESPON-DENT)"
 }

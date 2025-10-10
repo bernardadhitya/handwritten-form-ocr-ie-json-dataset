@@ -1,4 +1,19 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nATTN: Custone- Seruiet CAMEL Po.BoX 834657 Richardson Tx. 75o83-9758 To whom it may concern:\nIm writing thi's letter as I hove just recently Swrtched Cigarette brands From Mar/boro lights lous to CAMtl lights 10, Imade th's choice becouse of taste.\nond Iwer price.T would oppreciote any hird of discount coupons or Free Offers that CAmel couel send me, Thank you and Happy Ne Year Cynthid ann Gradillas Qge 38 mnths 0 Enadilas D0.8.7-/7-58 iddess? 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... 1... "
+  "recipient": "To whom it may concern",
+  "company": "Camel",
+  "po_box": "Po.BoX 834657",
+  "city": "Richardson",
+  "state": "Tx",
+  "zip_code": "75083-9758",
+  "letter": "Im writing thi's letter as I hove just recently Swrtched Cigarette brands From Mar/boro lights lous to CAMtl lights 10, Imade th's choice becouse of taste. and Iwer price.T would oppreciote any hird of discount coupons or Free Offers that CAmel couel send me, Thank you and Happy Ne Year",
+  "sender": {
+    "name": "Cynthid ann Gradillas",
+    "age": "38",
+    "dob": "D0.8.7-7-58",
+    "address": "1yy Wesr'B' Street",
+    "phone": "517688292",
+    "city": "Ontario",
+    "state": "C",
+    "zip_code": "91762"
+  }
 }

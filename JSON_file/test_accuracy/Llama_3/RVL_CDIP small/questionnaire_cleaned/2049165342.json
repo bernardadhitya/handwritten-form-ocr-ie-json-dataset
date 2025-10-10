@@ -1,4 +1,74 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\na th ’. ve de.\nNEW YORK CONFERENCE CENTER 15 ¢ croup pave: J2Js rie: S) BD 240 MADISON AVENUE. 308 #*007359° NEW YORK, NY 10916 Social Networks Screener Yor AL RESPONDENT NAMES vee LOM AKRD puoned 2/¢ 372-66 3F app...\nYes No a. Packaged cookies s+ _ b. Diet or low-calorie soft drinks c. Regular soft drinks _ x d. Decaffeinated coffee _ x e. Regular coffee x _ ft Cigarettes xX __ (if answered \"no\" to cigarettes, THA...). 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. 47. 48. 49. 50. 51. 52. 53. 54. 55. 56. 57. 58. 59. 60. 61. 62. 63. 64. 65. 66. 67. 68. 69. 70. 71. 72. 73. 74. 75. 76. 77. 78. 79. 80. 81. 82. 83. 84. 85. 86. 87. 88. 89. 90. 91. 92. 93. 94. 95. 96. 97. 98. 99. 100. 101. 102. 103. 104. 105. 106. 107. 108. 109. 110. 111. 112. 113. 114. 115. 116. 117. 118. 119. 120. 121. 122. 123. 124. 125. 126. 127. 128. 129. 130. 131. 132. 133. 134. 135. 136. 137. 138. 139. 140. 141. 142. 143. 144. 145. 146. 147. 148. 149. 150. 151. 152. 153. 154. 155. 156. 157. 158. 159. 160. 161. 162. 163. 164. 165. 166. 167. 168. 169. 170. "
+  "conference_center": "NEW YORK CONFERENCE CENTER",
+  "group": "GROUPDATETIME",
+  "datetime": null,
+  "address": "240 MADISQN AVENUE.",
+  "survey": {
+    "title": "Social Networks Screener",
+    "job_number": "JOB04/359",
+    "location": {
+      "city": "NEW YORK",
+      "state": "NY",
+      "zip": "10016"
+    },
+    "respondent": {
+      "name": "AOBARD",
+      "phone": "2/8 373-8638",
+      "city": "BRQOy",
+      "zip": "223"
+    },
+    "questions": [
+      {
+        "question": "Does anyone living in your household fit that description?",
+        "answer": "No"
+      },
+      {
+        "question": "First how old are you?",
+        "answer": "30 years"
+      },
+      {
+        "question": "Please tell me whether you, yourself, use that type of product.",
+        "answers": [
+          {
+            "product": "Packaged cookies",
+            "answer": "X"
+          },
+          {
+            "product": "Diet or low-calorie soft drinks",
+            "answer": "X"
+          },
+          {
+            "product": "Regular soft drinks",
+            "answer": "X"
+          },
+          {
+            "product": "Decaffeinated coffee",
+            "answer": "X"
+          },
+          {
+            "product": "Regular coffee",
+            "answer": "X"
+          },
+          {
+            "product": "Cigarettes",
+            "answer": "X"
+          },
+          {
+            "product": "Paper towels",
+            "answer": "X"
+          },
+          {
+            "product": "Frozen vegetables",
+            "answer": "X"
+          },
+          {
+            "product": "Canned vegetables",
+            "answer": "X"
+          }
+        ]
+      }
+    ]
+  },
+  "code": "9ewvP zE",
+  "id": "2049165342"
 }

@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nAmquetil Axe 8 swe du RiF2 Xeo 3 SuBs 96C1 bdI d Rue do la Rs Obier : Cordommee 65d9o Juilan hancainos 1sawalkof &ate & mam changemeur de hanqwe ge au fai yanvenin un R.iB aderu de metln& & yaur wues...\nSous en sauRaitant bamma xecention.\nBmaes salutatiams - 1sawalkof &ate & mam changemeur de hanqwe ge au fai yanvenin un R.iB aderu de metln& & yaur wues...\nSous en sauRaitant bamma xecention.\nBmaes salutatiams - 1sawalkof &ate & mam changemeur de hanqwe ge au fai yanvenin un R.iB aderu de metln& & yaur wues...\nSous en sauRaitant bamma xecention.\n\nThe text is a jumbled collection of letters and numbers, but if we look closely, we can extract the following information:\n\n* Address:"
+  "document": "Amquetil Axe",
+  "scenario": "8 swe du RiF2",
+  "writer": "Xeo 3 SuBs",
+  "sender_person": "Obier",
+  "sender_company": "Cordommee",
+  "sender_tel": "65d9o Juilan",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "&ate & mam changemeur de hanqwe",
+  "date": "ge au fai yanvenin un R.iB",
+  "place": "Rue do la Rs",
+  "box": "aderu de metln& & yaur wues mouve!"
 }

@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nGRT'gaz AGENCE EXPLOITATION LILLE-BETHUNE NNA Assurances VOS REF.\nNOSRER XPD GT15 honsiewt huowve a-iont wuonstaner len et l constat l accidont a p.a piovoque 03.21.64.79.49.00.00.00.00.00.00.00.00.00.00.00.00.00.00.00.00.00.00.00.00.00.00.00.00.00.00.00.00.00.00.00.00.00.00.00.00.00.00.00.00.00.00.00.00"
+  "document": "GRT'gaz",
+  "scenario": "AGENCE EXPLOITATION LILLE-BETHUNE",
+  "writer": null,
+  "sender_person": null,
+  "sender_company": "NNA Assurances",
+  "sender_tel": "03.21.64.79.49",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "VOS REF.",
+  "date": null,
+  "place": null,
+  "box": "NOSRER XPD GT15"
 }

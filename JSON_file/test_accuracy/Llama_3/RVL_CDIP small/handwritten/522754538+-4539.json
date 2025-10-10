@@ -1,23 +1,18 @@
 {
-    "customer": {
-        "name": "Lyonna Sharp",
-        "address": "Rr2Box641 Ore City, TX 75683"
-    },
-    "company": {
-        "name": "R.J. Reynolds",
-        "department": "Consumer Relations",
-        "location": "Winston-Salem, NC 27102"
-    },
-    "contact": {
-        "method": "phone",
-        "date": "unknown"
-    },
-    "request": {
-        "type": "questionnaire",
-        "description": "how well you were treated by our company representative"
-    },
-    "quote": {
-        "source": "Mark Conrad, Consumer Satisfaction Research Manager",
-        "text": "We work for smokers, by smokers, and for the cigarette industry. We are committed to providing the best possible service to our customers. We strive to make every interaction with our company a positive experience. We value your feedback and would like to hear from you about your recent experience with our company representative."
-    }
+  "company": "R.J. Reynolds",
+  "contact_number": "295521171",
+  "department": "Consumer Relations",
+  "location": "Winston-Salem, N.C. 27102",
+  "customer_name": "Lyonna Sharp",
+  "customer_address": "Ore City, TX 75683",
+  "greeting": "Dear Valued Customer",
+  "message": "Thank you for taking the time to let us know how our staff met your expectations We value your opinion and appreciate your business.",
+  "manager_name": "Mark Conrad",
+  "manager_title": "Consumer Satisfaction Research Manager",
+  "codes": [
+    "52275",
+    "WGZ95",
+    "4538"
+  ],
+  "slogan": "We work for smokers"
 }

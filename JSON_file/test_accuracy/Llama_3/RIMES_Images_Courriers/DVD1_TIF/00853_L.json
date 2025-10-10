@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nLes 3 SviFS adaue Fabieue GRIHAc 52 Ru dv CauoPX pwsiewr 9 uc du KnTZENBERc 6872O- ZLLFuRTH 4 9 19o SAubn de Lvicn Tu:03 15 S7757 79 0B1ET: 7oolfteahon de cowuaude Onsi eu u au dw o1'auuuPr amwan de e... (Translation: The three SviFS are located at Fabieue GRIHAc 52 Ru dv CauoPX pwsiewr 9 uc du KnTZENBERc 6872O- ZLLFuRTH 4 9 19o SAubn de Lvicn Tu:03 15 S7757 79 0B1ET: 7oolfteahon de cowuaude Onsi eu u au dw o1'auuuPr amwan de e...)\n\nThe text is a jumbled mix of letters and numbers, but if we look at the address, we can extract the following structured information:\n\n* Address: Fabieue GRIHAc 52 Ru dv CauoPX p"
+  "document": "Les 3 SviFS",
+  "scenario": "adaue Fabieue",
+  "writer": "GRIHAc",
+  "sender_person": "52 Ru dv CauoPX pwsiewr",
+  "sender_company": "9 uc du KnTZENBERc",
+  "sender_tel": "6872O- ZLLFuRTH",
+  "sender_fax": "4 9 19o SAubn de Lvicn",
+  "receiver_person": "Tu:03 15 S7757 79",
+  "receiver_company": "0B1ET: 7oolfteahon de cowuaude",
+  "subject": "Onsi eu",
+  "date": "u au dw o1'auuuPr",
+  "place": "amwan de ecedaut",
+  "box": "wa sou Koil e ponom Trpon1 / npyo mcr s nY Vele lu agveer. Yadaue Youieu d'epresi'or ws Aerhitrh /s"
 }

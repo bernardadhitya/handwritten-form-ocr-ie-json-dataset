@@ -1,4 +1,37 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n» AWINSTONSALEM, NC. 27106, Bellomy-Carrigg,Inc. 0755. Job 10906 UNIVERSITY PARKWAY October, 1984 a-4 AA EXTENDED USE CONCEPT/PRODUCT TEST SCREENER mesrowoenr's wg LLY Cea Se S aooness:_ JY 25 2 Valo...\n(READ LIsT) Under 18.... eee TERMINATE, ERASE AND RE-USE 18-24...\n293d eet eee S49. eeeeee SOte eee eeee CHECK QUOTA TO DETERMINE IF NEEDED. IF OVER QUOTA, ASK FOR ANOTHER FEMALE IN AGE GROUP NEEDED.\nRefused.\nTERMINATE, ERASE AND RE-USE 2. Which of the Breathmint:\nMouthwash.\nCigarettes........ 66 Gel toothpaste Cream toothpaste CONTINUE ONLY IF CIGARETTES CHECKED ABOVE IN Q.2. OTHERWISE, ASK FOR ANOTHER FEMALE HOUSEHOLD MEMBER 18+ AND GO BACK TO O11.\nIF NONE, TERMINATE, ERASE AND RE-USE.\nWhich of the following brands have you used in the past week? certs breathmints.....\nClorets bri ‘Topal toothpaste......\nAqua Fresh toothpaste...\nClinomint...sseeeeee thnints...\n0968 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope...\nListerine. 2ss0s Scope"
+  "company": "Bellomy-Carrigg,Inc.",
+  "job_number": "0906",
+  "address": {
+    "street": "5UNIVERSITY PARKWAY",
+    "city": "WINSTON-SALEM",
+    "state": "N.C.",
+    "zip": "27106"
+  },
+  "date": "October, 1984",
+  "survey": {
+    "title": "AA EXTENDED USE CONCEPT/PRODUCT TEST",
+    "type": "SCREENER",
+    "respondent": {
+      "name": "A",
+      "address": null,
+      "state": "53",
+      "interviewed_by": "h/"
+    },
+    "instructions": "Hello, I'm from (YouR COMPANy), an independent marketing research company. we're conducting a survey with women about various consumer products. TO FEMALE 18+ YEARS OR OLDER.)",
+    "introduction": null,
+    "questions": [
+      {
+        "text": "Into which of the following age groups does your age belong? Are yOu....READ LIST) Under 18. TERMINATE,ERASE AND RE-USE 18-24 6-1 CHECK QUOTA TO DETERMINE IF 25-34. -2 NEEDED. IF OVER QUOTA,ASK 35-49 3 FOR ANOTHER FEMALE IN AGE GROUP NEEDED. 50+ Refused. TERMINATE,.ERASE AND RE-USE",
+        "type": "multiple_choice"
+      },
+      {
+        "text": "Which of the following products do you use daily? Breathmints. Mouthwash. Cigarettes Gel toothpaste Cream toothpaste. CONTINUE ONLY IF CIGARETTES CHECKED ABOVE IN Q.2. OTHERWISE, IF NONE,TERMINATE, ERASE AND RE-USE.",
+        "type": "multiple_choice"
+      },
+      {
+        "text": "Which of the following brands have you used in the past week? 50552 8960 Certs breathmints.. X Clorets breathmints Topal toothpaste.. Aqua Fresh toothpaste. Clinomint. Scope. Listerine.",
+        "type": "multiple_choice"
+      }
+    ]
+  }
 }

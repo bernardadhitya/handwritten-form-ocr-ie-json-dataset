@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nshoit de Wotrheu 6 112o &gewhoiu Clut : wwMUz4f.\ntugsheiu,k 2o y wfue po cayéut & wu sulail de dstue Iattelle de Paus, 2ua du 9teiacl Gpulle a`Tuille 185440.tu qfb fene sur pw satisfaue de vo scuces et a`pus toutactauec lé ai la toucureuc n 1laa alo...\nTute nes alutatuu el aes neuaeecieueut autcpeu, 2o y wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu wu"
+  "document": "shoit de Wotrheu",
+  "scenario": "Clut : wwMUz4f.",
+  "writer": "tugsheiu,k 2o y",
+  "sender_person": "wfue po cayéut & wu sulail de dstue",
+  "sender_company": "Iattelle de Paus",
+  "sender_tel": "2ua du 9teiacl Gpulle a`Tuille 185440",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "date": null,
+  "place": "pw satisfaue de vo scuces et a`pus toutactauec",
+  "box": null
 }

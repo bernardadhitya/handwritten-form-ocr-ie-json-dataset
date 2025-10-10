@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nle 10103107 2A sue -de merfes a NNA Aourances 67300 N ieder xhaeff-f.he Place Nicolas -de Tollom Tel: 03 -29-5 q-99 -42 713 2o Toslon Su Arroux Ref: ZR2p289 Tadame, honaeu d'&rernvemenkr r07 a 1sn 1uo... (1) 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+  "document": "10103107",
+  "scenario": "2A sue -de merfes",
+  "writer": "NNA Aourances",
+  "sender_person": null,
+  "sender_company": null,
+  "sender_tel": "03 -29-5 q-99 -42",
+  "sender_fax": null,
+  "receiver_person": "Tadame, honaeu",
+  "receiver_company": "d'&rernvemenkr",
+  "date": "r07",
+  "place": "Place Nicolas -de Tollom",
+  "box": "713 2o Toslon Su Arroux"
 }

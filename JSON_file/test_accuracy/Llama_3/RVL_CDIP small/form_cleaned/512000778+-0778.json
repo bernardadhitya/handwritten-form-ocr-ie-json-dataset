@@ -1,4 +1,45 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nPROMOTION MATERYAL APPROVALS [ror Deadline:\nBrand(s)- a WINNERS ChB _ tom... TE OR ARY MEMAEES. CARO.\nDescription of Use_ ~ ee — Originator. doe A. Leinster ni HiXone. fa hs $a No.\na Hove tops dare. a Comments INCREAS Meena? 61258 = $515 Stu ONE CEA Approvals Initials Date Comments 1. Promotion wen BOR. tehes B. Managor a -\nG. Group Managor/Director D. Sonior Director 2. Lew 3. Brand Managoment A. Braid Manager ~ 8. Vico President Brand Marketing : -e 4. Vox 5. Senior Management -.\nA. Sonior Vice President Marketing : : -\n8. Exocutive Vico President Marketing : - -\n6. Sates SS suyer: nef Kloten 27 Mktlag Yh Karen tlughes 4 Reynolds Bldg.\n| 8LL@ oozts a Seaniton Call for Pick-up: ~ FLT USA Form 6202 = Rew. 5788 ~ ~ RONG 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1."
+  "promotionMaterialApprovals": {
+    "approvalDeadline": "Program#5003",
+    "brand": "BN_WINNERSCCUB",
+    "temporaryMembersCard": {
+      "descriptionOfUse": "Doscription of Uso.",
+      "legal": "/95",
+      "approvalNo": "NSi Ki",
+      "comments": "NCREA"
+    },
+    "approvals": [
+      {
+        "initials": "A",
+        "date": "112/95",
+        "comments": "Comments"
+      },
+      {
+        "initials": "B",
+        "date": "112/95",
+        "comments": "Comments"
+      },
+      {
+        "initials": "C",
+        "date": "112/95",
+        "comments": "Comments"
+      },
+      {
+        "initials": "D",
+        "date": "112/95",
+        "comments": "Comments"
+      }
+    ],
+    "bluver": {
+      "name": "Karen llughes",
+      "address": "4 Reynolds Bldg.",
+      "code": "6593",
+      "callForPickUp": {
+        "name": "(Nanie)",
+        "extension": "(Extension)"
+      }
+    },
+    "usafm": "USAFm80-Rv.5/83",
+    "onilho": "ONILHIO"
+  }
 }

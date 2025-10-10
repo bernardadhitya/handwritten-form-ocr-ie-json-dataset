@@ -1,4 +1,83 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nDLAET Roper Starch Worldwide ‘August 1996 2683-198 Draft #2 BRAND IMAGE STUDY SCREENER Hello.'m from Roper Starch Worldwide. the national public opinion research frm, We are conducting a study about...\nA. Respondent Gender: Male Female B. First, whats your age? Ate you..(READ LIST)? Under 18 ‘THANK AND TERMINATE 18.25 (CHECK QuoTaS 2534 (CHECK QUOTAS 3549 50-59 THANK AND TERMINATE 60 or older C. Lam...\nDiet or lo-al sot deinks Regular soft drinks Caffeinated cottee Filtered eigaretes Beer Wine oF wine coolers Use t'1 I 1 Other aleohotc beverages 1 ereaeee IF USE ITEM D. FILTERED CIGARETTES, CONTIN... (READ LIST) 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. "
+  "company": null,
+  "document_number": "#643-194",
+  "date": "August 1996",
+  "draft": "Draft #2",
+  "study": null,
+  "section": "SCREENER",
+  "introduction": null,
+  "questions": {
+    "A": {
+      "question": "Respondent Gender",
+      "options": [
+        null,
+        null
+      ]
+    },
+    "B": {
+      "question": null,
+      "options": {
+        "Under 18": null,
+        "18-24": null,
+        "25-34": "CHECK QUOTAS",
+        "35-49": null,
+        "50-59": null,
+        "60 or older": null
+      }
+    },
+    "C": {
+      "question": "I am going to read you some items. For each one, please tell me whether it is something you personally use, or not.",
+      "items": {
+        "Diet or lo-cal soft drinks": [
+          null,
+          null
+        ],
+        "Regular soft drinks": [
+          null,
+          null
+        ],
+        "Caffeinated coffee": [
+          "Use",
+          null
+        ],
+        "Filtered cigarettes": [
+          null,
+          null
+        ],
+        "Beer": [
+          null,
+          null
+        ],
+        "Wine or wine coolers": [
+          null,
+          null
+        ],
+        "Other alcoholic beverages": [
+          null,
+          null
+        ]
+      },
+      "instructions": {
+        "IF USE ITEM D. FILTERED CIGARETTES": null,
+        "IF DO NOT USE ITEM D. FILTERED CIGARETTES": null
+      }
+    },
+    "D": {
+      "question": "You mentioned you smoke cigarettes. About how many do you smoke on average per day?",
+      "options": {
+        "Less than half a pack": null,
+        "Half a pack": null,
+        "About one pack": null,
+        "More than one pack": null,
+        "Don't know": null
+      }
+    },
+    "E": {
+      "question": null,
+      "options": {
+        "Menthol": "THANK AND TERMINATE",
+        "Non-menthol": null
+      }
+    }
+  }
 }

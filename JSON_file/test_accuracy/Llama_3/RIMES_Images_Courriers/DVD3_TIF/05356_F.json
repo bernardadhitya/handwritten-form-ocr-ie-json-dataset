@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nC eax Qees Quox Ae SC wads Qs Nee Qreaente Sous ae mancey ) DX Seas Pore nets EMULE © ded Re Weis AEC Ook | XQ oe Se. LQ0 A Goes, ce Kae un REE, is! qu, Ane auKeciekion ve Qe oe NEQNE ak cx. Pant ‘...\n= f ‘ > Perseus / Q CL REPRO Ave mer Ancecey Bev. aX od ;. AEC Ook | XQ oe Se. LQ0 A Goes, ce Kae un REE, is! qu, Ane auKeciekion ve Qe oe NEQNE ak cx. Pant ‘... (repeats the same text)\n\nThe text appears to be a jumbled collection of words and phrases, but if we look closely, we can extract some structured information. Here's what we can extract:\n\n* A name: \"Perseus\"\n* A location: \"CL REPRO Ave\"\n* A person: \"Ane auKeciekion\"\n* A title: \"ve Qe oe NEQNE ak cx\"\n* A phrase: \"Pant ‘...\"\n\nHere's the structured JSON output:\n\n```\n{\n  \"name"
+  "document": null,
+  "scenario": null,
+  "writer": null,
+  "sender_person": null,
+  "sender_company": null,
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": null,
+  "date": null,
+  "place": null,
+  "box": null
 }

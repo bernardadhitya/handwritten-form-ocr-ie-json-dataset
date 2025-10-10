@@ -1,4 +1,13 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nCREDIT AGRICOLE SUDOUEST =oyercomececaaveeos &oThouacndJotndnadond JL 4.44 Srhtutuse 8285 Flt.Cde FaatieF 12:5 Bacrte 1aea=.1000 s..\n06/05122 EL.37 HAEVA gngture Re du Cra Percre TOCTOL.CL3E Chee.e N 2581230 0658985474125 369852369852  0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0"
+  "bank": "CREDIT AGRICOLE",
+  "branch": "SUDOUEST",
+  "account_number": "8285",
+  "transaction_code": "4.44",
+  "transaction_date": "06/05/122",
+  "amount": "1000",
+  "reference": "EL.37",
+  "signature": "HAEVA",
+  "check_number": "2581230",
+  "phone_number": "0658985474125",
+  "alternate_number": "369852369852"
 }

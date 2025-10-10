@@ -1,4 +1,108 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nayo fe eY PLEASE TELL US WHAT YOU THINK ye(or typ contacto us by phone, ploase answer all questions. if you contacted us by eter, please skip to Question #2.\natlafled Wore you In each of the following areas:\nNelthor Voy | Rementat Salted ior Scinewhat Vary snintea | Pomanea’ ‘Ginetened Gatvfes  oicelees GABE OF CONTACT:\ntrbiacinwntiecteronotme kl Ol o oa 4 piton nol, teat of te on ols oO. oO oO Oo sd PERSONNEL:.\n* Courtesy & oO a Oo Qa ®.O ao oO Qa @ oO oO Oo Oo w Q Oo o oO w a oO o oO Moi oO B oO through on promised acon oo oO o ETE toro og sti BE dnt wn wt tn ay PAR. Rin Cas Satta oparmentio rman your req e...\n{was NOT AT ALL said wth th acton taken | was NOT AT ALL sats no action was taken.” ‘Based on how well you were tealed by ou representative, wil you continue fo purchase the brand of dgaretos you cont...\ncoupons WERE: Pipi pse 10 los —_— 2, BRAND KF 4 2a oy.\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60 2aoy\n£60>£60"
+  "survey": {
+    "contact_method": {
+      "phone": null,
+      "letter": null
+    },
+    "satisfaction_areas": {
+      "ease_of_contact": {
+        "ability_to_get_through_on_first_call": {
+          "very_satisfied": null,
+          "somewhat_satisfied": 0,
+          "neither_satisfied_nor_dissatisfied": null,
+          "somewhat_dissatisfied": null,
+          "very_dissatisfied": 0
+        },
+        "satisfaction_with_telephone_recording": {
+          "very_satisfied": null,
+          "somewhat_satisfied": null,
+          "neither_satisfied_nor_dissatisfied": null,
+          "somewhat_dissatisfied": null,
+          "very_dissatisfied": 0
+        }
+      },
+      "personnel": {
+        "courtesy": {
+          "very_satisfied": null,
+          "somewhat_satisfied": null,
+          "neither_satisfied_nor_dissatisfied": null,
+          "somewhat_dissatisfied": null,
+          "very_dissatisfied": null
+        },
+        "professionalism": {
+          "very_satisfied": null,
+          "somewhat_satisfied": null,
+          "neither_satisfied_nor_dissatisfied": 0,
+          "somewhat_dissatisfied": null,
+          "very_dissatisfied": null
+        },
+        "knowledge": {
+          "very_satisfied": null,
+          "somewhat_satisfied": null,
+          "neither_satisfied_nor_dissatisfied": 0,
+          "somewhat_dissatisfied": null,
+          "very_dissatisfied": null
+        },
+        "authority_to_resolve_problem": {
+          "very_satisfied": 0,
+          "somewhat_satisfied": null,
+          "neither_satisfied_nor_dissatisfied": null,
+          "somewhat_dissatisfied": null,
+          "very_dissatisfied": null
+        }
+      },
+      "response": {
+        "timeliness": {
+          "very_satisfied": null,
+          "somewhat_satisfied": null,
+          "neither_satisfied_nor_dissatisfied": null,
+          "somewhat_dissatisfied": null,
+          "very_dissatisfied": null
+        },
+        "clarity": {
+          "very_satisfied": null,
+          "somewhat_satisfied": 0,
+          "neither_satisfied_nor_dissatisfied": null,
+          "somewhat_dissatisfied": null,
+          "very_dissatisfied": 0
+        },
+        "helpfulness": {
+          "very_satisfied": null,
+          "somewhat_satisfied": 0,
+          "neither_satisfied_nor_dissatisfied": null,
+          "somewhat_dissatisfied": null,
+          "very_dissatisfied": null
+        },
+        "follow_through_on_promised_action": {
+          "very_satisfied": null,
+          "somewhat_satisfied": null,
+          "neither_satisfied_nor_dissatisfied": null,
+          "somewhat_dissatisfied": 0,
+          "very_dissatisfied": null
+        }
+      }
+    },
+    "action_taken": {
+      "completely_satisfied": null,
+      "not_completely_satisfied_but_acceptable": false,
+      "not_completely_satisfied_but_some_action": false,
+      "not_at_all_satisfied_with_action": null,
+      "not_at_all_satisfied_no_action": null
+    },
+    "future_purchase_intent": {
+      "definitely_would": false,
+      "probably_would": null,
+      "might_or_might_not": null,
+      "probably_would_not": null,
+      "definitely_would_not": null
+    },
+    "recommendation_intent": {
+      "definitely_would": false,
+      "probably_would": null,
+      "might_or_might_not": null,
+      "probably_would_not": null,
+      "definitely_would_not": null
+    },
+    "additional_comments": null
+  }
 }

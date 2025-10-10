@@ -1,4 +1,11 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nD ordeefor My mom.nasamoked Dascls focalonqtmesne used..to-getthis_cder.fenm..then.the.y-quit.sre.\ntecywod.iKetostart.gettingitegainhelast time shcwentte.thestore.she had tobwy 6pcr Oid.Goids Decowsr thoy werc. cheoper tnos. Oera!s and sheadncccupoas.she wawasbcthoppy Hece.is.hes.oddcess..mcryk..b....(no more)\n\nThe text is a jumbled collection of words and phrases, but if we look at the text as a whole, we can see that it appears to be a jumbled collection of words and phrases that are meant to represent a sentence or phrase. However, the text is not a coherent sentence or phrase, and it does not appear to be a meaningful or grammatically correct sentence.\n\nIf we try to extract structured information from the text, we can see that there are a few key elements that can be identified:\n\n* The text mentions a person (the mom) and a store.\n* The text mentions a specific quantity (6pcr Oid.Goids Decowsr thoy werc).\n* The text mentions a specific type of product (cheoper tnos).\n* The text mentions a specific emotion (bcthoppy Hece.is.hes.oddcess..mcryk..).\n\nHowever, the text is not structured in a way that allows us to extract meaningful or coherent information. The text is a jumbled collection of words and phrases that do not appear to be related to each other in a logical or meaningful way.\n\nTherefore, the"
+  "order": "Doral",
+  "customer": {
+    "name": "My mom",
+    "comment": "used..to-getthis_cder.fenm..then.the.y-quit.sre.\n tecywod.iKetostart.gettingitegainhelast\n time shcwentte.thestore.she had tobwy 6pcr\n Oid.Goids Decowsr thoy werc. cheoper tnos. Oera!s and\n sheadncccupoas.she wawasbcthoppy",
+    "address": null
+  },
+  "family": {
+    "comment": "Myentre.family rmoke.Oorals but lately we are\n hou.ngtuDwy-ackeoper band.wsdont liketheother\n branda.as.muchas..Doral\n Buhy KBsmmer\n 52417 4537"
+  }
 }

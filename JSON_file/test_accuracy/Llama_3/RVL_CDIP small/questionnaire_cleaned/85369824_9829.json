@@ -1,4 +1,31 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nSadosky Wod$ oar 031486/1 ager SCREENER Menthol Cigarettes Hello, I'm of.\nWe are conducting a brief survey on cigarettes and would like to inelude your opinions.\n1 First, is there anyone living in your houschold who is employed in the sale, manufacture or distribution of tobacco products, or market research, or advertising? ves (TERMINATE) No Is there a female...\nIs your regular brand of cigarettes menthol or non-menthol? Menthol Non-menthol (TERMINATE) Is there a female in your household who smokes cigarettes? Yes No Is there a female in your household who smokes cigarettes? Yes No Is there a female in your household who smokes cigarettes? Yes No Is there a female in your household who smokes cigarettes? Yes No Is there a female in your household who smokes cigarettes? Yes No Is there a female in your household who smokes cigarettes? Yes No Is there a female in your household who smokes cigarettes? Yes No Is there a female in your household who smokes cigarettes? Yes No Is there a female in your household who smokes cigarettes? Yes No Is there a female in your household who smokes cigarettes? Yes No Is there a female in your household who smokes cigarettes? Yes No Is there a female in your household who smokes cigarettes? Yes No Is there a female in your household who smokes cigarettes? Yes No Is there a female in your household who smokes cigarettes? Yes No Is there a female in your household who smokes cigarettes? Yes No Is there a female in your household who smokes cigarettes? Yes No Is there a female in your household who smokes cigarettes? Yes No Is there a female in your household who smokes cigarettes? Yes No Is there a female in your household who smokes cigarettes? Yes No Is there a female in your household who smokes cigarettes? Yes No Is there a female in your household who smokes cigarettes? Yes No Is there a female in your household who smokes cigarettes? Yes No Is there a female in your household who smokes cigarettes? Yes No Is there a female in your household who smokes cigarettes? Yes No Is there a female in your household who smokes cigarettes? Yes No Is there a female in your household who smokes cigarettes? Yes No Is there a female in your household who smokes cigarettes? Yes No Is there a female in your household who smokes cigarettes? Yes No Is there a female in your household who smokes cigarettes? Yes No Is there a female in your household"
+  "survey": {
+    "id": "U-126",
+    "date": "Wed 9",
+    "user_id": null,
+    "reference_number": "031486/1",
+    "gender": "FEMALE",
+    "role": "SCREENER",
+    "product": "Menthol Cigarettes",
+    "introduction": "Hello,I'm We are conducting a brief survey on cigarettes and would like to include your opinions.",
+    "questions": [
+      {
+        "question": "Is there a female living in your home between the ages of 18 and 34 who smokes at least 10 cigarettes per day?",
+        "answer": "Yes"
+      },
+      {
+        "question": "May I speak to that person?",
+        "answer": null
+      },
+      {
+        "question": "Is your regular brand of cigarettes a filter or non-filter cigarette?",
+        "answer": "Filter"
+      },
+      {
+        "question": "Is your regular brand of cigarettes menthol or non-menthol?",
+        "answer": "Menthol"
+      }
+    ],
+    "contact_number": "85369824"
+  }
 }

@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nLiberteEgaliteFraternité RÉPUBLIQUE FRANCAISE MINISTERE DE LA DEFENSE Non protégéeDiffusion restreinte TÉLÉCOPIE Date: 1%/06/06 nXJKgx& DGA No de télécopieur :\nDESTINATAIRE(S) :\nDELEGATION GENÉRALE Ov Fae 61 NNA Assd/anv&s POUR L'ARMEMENT 6 1ve  ( guuunus DIRECTION DE L'EXPERTISE TECHNIQUE Centre d'expertise parisien GU11O SrAhn dy ChaYeuux Nombre de page dont celle-ci : 3 ro...\nOBJET :\nTél.01.42.31.\nniihuQ ailah l oiswnie.\nEmail :\nCentre d'expertise parisien - 16bis, avenue Prieur de la Cöte d'Or 94114 Arcueil Cedex Téléphone : 33 (0)1.42.31.92.39 - Télécopie : 33 (0)1.42.31.99.55\nCoordonnées du destinataire :\nOv Fae 61 NNA Assd/anv&s POUR L'ARMEMENT\nAdresse : 61 Rue de la République 75011 Paris\nEmail : ovf@armement.gouv.fr\nTéléphone : 33 (0)1.42.31.92.39\nFax : 33 (0)1.42.31.99.55\nObjet : Tél.01.42.31.92.39 - niihuQailah l oiswnie.\nEmail : ovf@armement.gouv.fr\nRéponse préalable : Non\nRéponse préalable : Non\nRéponse préalable : Non\nRéponse préalable : Non\nRéponse préalable : Non\nRéponse préalable : Non\nRéponse préalable : Non\nRéponse préalable : Non\nRéponse préalable : Non\nRéponse préalable : Non\nRéponse préalable : Non\nRéponse préalable : Non\nRéponse préalable : Non\nRéponse préalable : Non\nRéponse préalable : Non\nRéponse préalable : Non\nRéponse préalable : Non\nRéponse préalable : Non\nRéponse préalable : Non\nRéponse préalable : Non\nRéponse préalable : Non\nRéponse préalable : Non\nRéponse préalable : Non\nRéponse préalable : Non\nRéponse préalable :"
+  "document": "TÉLÉCOPIE",
+  "scenario": "Non protégéeDiffusion restreinte",
+  "writer": null,
+  "sender_person": "DELEGATION GENÉRALE",
+  "sender_company": "MINISTERE DE LA DEFENSE",
+  "sender_tel": "01.42.31.",
+  "sender_fax": "01.42.31.",
+  "receiver_person": "DGA",
+  "receiver_company": "DIRECTION DE L'EXPERTISE TECHNIQUE",
+  "subject": "OBJET",
+  "date": "1%/06/06",
+  "place": "Centre d'expertise parisien",
+  "box": "16bis, avenue Prieur de la Cöte d'Or 94114 Arcueil Cedex"
 }

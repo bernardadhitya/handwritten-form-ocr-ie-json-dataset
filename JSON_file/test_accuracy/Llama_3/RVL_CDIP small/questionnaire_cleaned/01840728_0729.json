@@ -1,4 +1,89 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nCy} —~ 1015 ar ame ese xanous casnisus sires 21 Second Avene Stee Soe forty Nev Tork_ 30017 Seneerr, 3978 creznerre rorrroure SCREENING ESTTOMATRE (aroteate cree.) > testes ———— 7 Cleveland ——— ‘iecks...\n2, COMTTTAL REFUSAL: CIRCLE NEXT HIGHEST MIDGER BELOW.) 21 22 23 04 25 26 27 28 29 30 31 32 33 MH 3S 36 37 3B 39 0 41 42 AS M4 AS 46 47 48 4S 50 51 52 53 54 55°56 57 S859 60 6 62 63 64 65 66 67 68 6 7...\n1: Rave you, yourself, partie{pated 4 # market research survey in the past three feuths oF so? (omasire am crams NET aIOUEST HOR TEAM — Tee, eae — WG) assicre sm in(y 23.4.5 6 7 8 9 w uD :\n4. (GHOH ACR CARD.) Please tell me witch Lecter on this card includes your age.\n(remnure Aro CIRCLE WERT HIGHEST MINER (BELOW WERE TO ORDER OR OVER AGE\") <— Onder 2 (5a too —— 30 to 30 3 35 to 39 —— 4 fo to as 5 toa —— 6 ies 5 1. 55059 8 J. 60 end over — 9. eet 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9"
+  "id": "1015",
+  "company": "AHF MARKETING RESEARCH",
+  "project_number": "#42318W",
+  "project_name": "NATIONAL CONSENSUS SURVEYS",
+  "address": {
+    "street": "801 Second Avenue",
+    "city": "New York",
+    "state": "New York",
+    "zip": "10017"
+  },
+  "date": "January,1978",
+  "survey": {
+    "title": "CIGARETTE PORTFOLIC SCREENING QUESTIONNATRE TIME INTERVIE",
+    "time_interview": {
+      "started": null,
+      "ended": "ENDED"
+    },
+    "respondent": {
+      "name": "RESPONDENT'S NAME",
+      "telephone": "TEL.",
+      "address": "ADDRESS",
+      "state": "STATE"
+    },
+    "interviewer": "INTERVIEWER",
+    "interview_date": null,
+    "validated_by": "VALIDATEDBY",
+    "validation_date": null
+  },
+  "city_options": [
+    "Boston",
+    "Cleveland",
+    "Jacksonville",
+    "Los Angeles",
+    "New York"
+  ],
+  "initial_refusal": {
+    "circle_next_highest_number": [
+      2,
+      4,
+      10,
+      11,
+      20,
+      28,
+      30,
+      32,
+      34,
+      36,
+      37,
+      38,
+      39,
+      40,
+      48,
+      60
+    ]
+  },
+  "participation": {
+    "terminate_and_circle_next_highest_number": [
+      "Yes",
+      "Under",
+      "to",
+      "to",
+      "to"
+    ],
+    "continue": "CONTNUE"
+  },
+  "age_card": {
+    "terminate_and_circle_next_highest_number": [
+      "Yes",
+      "Under",
+      "to",
+      "to",
+      "to"
+    ],
+    "continue": [
+      "I",
+      "J",
+      "55",
+      "60",
+      "to"
+    ],
+    "under_age": [
+      "Under",
+      "21",
+      "29"
+    ]
+  },
+  "reference_number": "01840728"
 }

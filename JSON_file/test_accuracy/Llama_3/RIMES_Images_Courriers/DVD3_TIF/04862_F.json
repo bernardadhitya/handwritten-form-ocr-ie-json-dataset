@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nK Fax message founded by Philips To: MANNIE Assurances 7 A EAE + Place Cee mea Clamen _ : Claw ASE2Zo PAR ALN Ouy: Fax:\nrom: Glsie. LIMA 7 aa Be u mee des, Vardiat 64240 Vo LK Bare No of pages: Z, mm: OS : oF - ceo A Subject:\nDeel Ay _. Ou L Stu she ASSUS Auce lh alate tk an Ce. YEros 21) werwanxp.com 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) 21) "
+  "document": "Fax message",
+  "scenario": "NX",
+  "writer": "Philips",
+  "sender_person": "Fahicu L1MA",
+  "sender_company": "NXP",
+  "sender_tel": "03 45 2394 59",
+  "sender_fax": "O1 3739 y 342",
+  "receiver_person": "MAN1F Assurm&5",
+  "receiver_company": "g5'620 pArMA1N",
+  "subject": null,
+  "date": "08.07.2001",
+  "place": "6t21o Vo Lks BER6",
+  "box": "&"
 }

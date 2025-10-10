@@ -1,4 +1,54 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nst 4D Bellomy-Carrigg,Inc. - ~ EISILY PARKWAY MARSTON Cn -\naso AA EXTENDED USE CONCEPT/PRODUCT TEST I SCREENER RESPONDENT'S NAHE:\naponess:_p f* :\nAREA CODE: (_\" INTERVIEWED BY:\n2083 ee Job 40906 _Gétober, 1984 (INTERVIEW WoNEN ONLY) Hello, I'm company.\nTO FEMALE 16+ YEARS OR OLDER.) from (YOUR COMPANY), an independent marketing research we\"re conducting a survey with women aboutyvai rious consumer products. (ASK TO SPEAK IF OVER QUOTA, ASK 1. Into w...\n35-48. FOR ANOTHER FEMALE IN AGE vere GROUP NEEDED.\n50s. we Refused..eseeees TERMINATE, ERASE AND RE-USE 2. Which of the following products do you use daily? Breathnints.\nMouthwash.\nCigarettes Gel toothpaste.\ncream toothpaste...\nCONTINUE ONLY IF CIGARETTES CHECKED ABOVE IN Q.2. OTHERWISE, ASK FOR ANOTHER FEMALE HOUSEHOLD MEMBER 18+ AND GO BACK TO Q.1.\nIP NONE, TERMINATE, ERASE AND RE-USE, 3. Which of the following brands have you used in the past week? Certs breathnints......4.\nChorets breathnints, Clinomint..++ Scopes sseseeeeeeee Listerine.\nesos 9920. 4. Which of the following brands have you used in the past week? Listerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine.\nListerine"
+  "company": "Bellomy-Carrigg,Inc",
+  "job_number": "0906",
+  "location": {
+    "address": "UNIVERSITY PARKWAY",
+    "city": "WINSTONSALEM",
+    "state": "NC",
+    "zip_code": "270G"
+  },
+  "date": "October,1984",
+  "project": {
+    "id": "AA EXTENDED USE CONCEPT/PRODUCT TEST",
+    "pages": "SCREENER",
+    "title": "RESPONDENT'S NAMS",
+    "document_type": null
+  },
+  "respondent": {
+    "name": null,
+    "address": null,
+    "state": null,
+    "area_code": null,
+    "phone": null,
+    "date": null,
+    "interviewed_by": "Hello,I'm from (youR cOMPANy), an independent marketing research company."
+  },
+  "instructions": {
+    "target": "INTERVIEW WOMEN ONLY",
+    "introduction": "Hello,I'm from (youR cOMPANy), an independent marketing research company. We're conducting a survey with women about various consumer products."
+  },
+  "questions": [
+    {
+      "question": "Which of the following prcducts do you use daily?",
+      "options": [
+        "Breathmints",
+        "Mouthwash",
+        "Cigarettes",
+        "Gel toothpaste",
+        "Cream toothpaste"
+      ]
+    },
+    {
+      "question": "Which of the following brands have you used in the past week?",
+      "options": [
+        "Certs breathmints",
+        "Clorets breathmints",
+        "Topal toothpaste",
+        "Aqua Fresh toothpaste",
+        "clinomint",
+        "Scope",
+        "Listerine"
+      ]
+    }
+  ]
 }

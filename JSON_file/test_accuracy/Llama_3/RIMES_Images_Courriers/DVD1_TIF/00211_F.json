@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nTélécopie/Facsimilé Destinataire Nom/Name Naen e Caml& Gomi5 Service/Entreprise/Department/Company Service/Department Telécopieur/Fax n Télécopieur/Fax n 0l-60-6-43-81 Téléphone/Telephone Date 8q/9ocp.../9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q 9q"
+  "document": "Télécopie/Facsimilé",
+  "scenario": null,
+  "writer": null,
+  "sender_person": "Caml& Gomi5",
+  "sender_company": "Institut national des télécommunications",
+  "sender_tel": "01 60 76 40 40",
+  "sender_fax": "01 60 76 43 25",
+  "receiver_person": "Nom/Name",
+  "receiver_company": "Service/Entreprise/Department/Company",
+  "subject": "Objet",
+  "date": "8q/9ocp",
+  "place": "9 rue Charles Fourier 91011 Evry Cedex",
+  "box": "Page1/"
 }

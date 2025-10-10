@@ -1,4 +1,66 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nCRC contract RESEARCH CENTER FORM 38GW 09 RAWRICA PROJECT SCHEDULE (a) PROJECT NO. AlOr% CONS. |STEP, ACTIVITY [DATE TIME DIFFERENCE (b) REMARKS:\nNO, JSTEP NO. won. TO.\nCommission se O14 A JAB Subconirect request to 2 Tinairo AS Ay Subcontract accepted by 7 2 4 3 fineiro 03 Sep 44 Dot of concept to client _ |r = ~ [start of protoce preperation — |bysp x Deivery of,...\nDetvery of INBIFO —_ ———_| subprotocols to CRC | Detvery of protocol to cent — sy [mone 24.Ocd A (,_[eotenene U2 Wav as 9 [Pi et omen Wa. alow g [Fre of exposure 2S Wo cy | Detvery of Bveretyes Repor..."
+  "contractResearchCenter": "CRC CONTRACT RESEARCH CENTER",
+  "form": "FORM 3CW 89 RAW/MCM",
+  "projectSchedule": {
+    "projectNo": 10,
+    "steps": [
+      {
+        "stepNo": 1,
+        "to": "Commission",
+        "date": "19.A.qn",
+        "remarks": "Subcontract request to"
+      },
+      {
+        "stepNo": 2,
+        "to": "INBIFO",
+        "date": "19.Auy 91",
+        "remarks": "Subcontract accepted by"
+      },
+      {
+        "stepNo": 3,
+        "to": "INBIFO",
+        "date": "03.5p.91",
+        "remarks": "Delivery of concept to client"
+      },
+      {
+        "stepNo": 4,
+        "to": "SD",
+        "date": "Start of protocol preparation",
+        "remarks": "by"
+      },
+      {
+        "stepNo": 5,
+        "to": "INBIFO",
+        "date": "30.09",
+        "remarks": "Protocol to"
+      },
+      {
+        "stepNo": 6,
+        "to": "INBIFO",
+        "date": "Delivery of Protocol Biology",
+        "remarks": "to"
+      },
+      {
+        "stepNo": 7,
+        "to": "CRC",
+        "date": "Delivery of INBiFO subprotocols",
+        "remarks": "to"
+      },
+      {
+        "stepNo": 8,
+        "to": "client",
+        "date": "Delivery of protocol",
+        "remarks": "to"
+      },
+      {
+        "stepNo": 9,
+        "to": "INBIFO",
+        "date": "Delivery of ltgrt Report",
+        "remarks": "to"
+      }
+    ]
+  },
+  "remarks": "5.sun. al ontes actualdatesl are cbgatory he SO s rosponl for the updaing b to bo nld in by GEMA",
+  "note": "p.t.o.",
+  "p.t.o.": "M"
 }

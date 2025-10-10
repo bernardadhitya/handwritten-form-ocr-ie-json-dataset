@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nMe FAviER Jacwe 1 RouYc c NANCY S43O S0uy aup ArcHtS 18:0399 83 6819 k 201O3zoof Madame Msuneu pa La Psere eHue nouhaila nench den Uws avecunde Is Cowseilles.\nMa lefe& clieFoV:\nL Bab sS f8 fe me riensa vohc cu/ro'hsn a tnrmomenaL eHue. \nMa lefe& clieFoV:\nL Bab sS f8 fe me riensa vohc cu/ro'hsn a tnrmomenaL eHue. \nMa lefe& clieFoV:\nL Bab sS f8 fe me riensa vohc cu/ro'hsn a tnrmomenaL eHue. \nMa lefe& clieFoV:\nL Bab sS f8 fe me riensa vohc cu/ro'hsn"
+  "document": "Me FAviER Jacwe",
+  "scenario": "1 RouYc c NANCY",
+  "writer": "S43O S0uy aup ArcHtS",
+  "sender_person": "Madame Msuneu",
+  "sender_company": "pa La Psere eHue nouhaila nench",
+  "sender_tel": "18:0399 83 6819",
+  "sender_fax": "k 201O3zoof",
+  "receiver_person": null,
+  "receiver_company": null,
+  "date": null,
+  "place": null,
+  "box": null
 }

@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\neWe Satie CAA seme g xue de Ja sntaine alecems 57 STO Bnsse hentqcn 03- 7-61-28-76 c 3 8uih 20 Mt Tola Kamgomenl comcnant ma deniee commande RefeRene: OYTHT 46 Ye maele el commandex Saahale chan Tn ee... (Translation: \"eWe Satie CAA seme g xue de Ja sntaine alecems 57 STO Bnsse hentqcn 03- 7-61-28-76 c 3 8uih 20 Mt Tola Kamgomenl comcnant ma deniee commande RefeRene: OYTHT 46 Ye maele el commandex Saahale chan Tn ee...\")\n\n## Step 1: Identify the structured information in the text\nThe text appears to be a jumbled collection of words and numbers, but upon closer inspection, it seems to be a coded message. However, the coded message itself does not contain any structured information that can"
+  "document": "eWe Satie CAA",
+  "scenario": "seme",
+  "writer": "Ja sntaine",
+  "sender_person": "alecems",
+  "sender_company": "57 STO Bnsse hentqcn",
+  "sender_tel": "03- 7-61-28-76",
+  "sender_fax": "c 3 8uih",
+  "receiver_person": "Kamgomenl comcnant ma deniee commande",
+  "receiver_company": "RefeRene: OYTHT 46",
+  "subject": "Ye maele el commandex",
+  "date": "20 Mt Tola",
+  "place": "Saahale chan",
+  "box": "Tn eexant que s pxendu ce cxie en consdexalio was yie d aax Cadame Jonsicux cxxesion de mes alutalions"
 }

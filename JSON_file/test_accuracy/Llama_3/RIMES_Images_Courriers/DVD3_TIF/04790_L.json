@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nSoon Christophe 5W3C1I m 2 54F30 NiUE HOVDLEMONT 03.49. S.792 tel.\nOH.OM.OF QH REBOUTE tlace oneChsn 7363O Lt C4ATFLARD Madame puosses un commmanol ye voudrafs prdut. 010-2s=cPv Ci-joint mon okigu d reglemt ncesss yotutalin. 010-2s=cPv Ci-joint mon okigu d reglemt ncesss yotutalin. 010-2s=cPv Ci-joint mon okigu d reglemt ncesss yotutalin. 010-2s=cPv Ci-joint mon okigu d reglemt ncesss yotutalin. 010-2s=cPv Ci-joint mon okigu d reglemt ncesss yotutalin. 010-2s=c"
+  "document": "Soon Christophe",
+  "scenario": "5W3C1I m 2",
+  "writer": "NiUE HOVDLEMONT",
+  "sender_person": "Madame",
+  "sender_company": "OH.OM.OF",
+  "sender_tel": "03.49. S.792",
+  "sender_fax": "tel.",
+  "receiver_person": null,
+  "receiver_company": null,
+  "date": null,
+  "place": "7363O Lt C4ATFLARD",
+  "box": "QH REBOUTE"
 }

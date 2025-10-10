@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nSELLE Anagqwe Zimmebac Qe 1S fvne 2x4 18 Rovte d&TUschhem 68 23O Fimmelsach ie : 03.56.04:03.02 JO3 p Rue  d'occilaue 3usso Cintegabelle Obje&: Pouvelles Coordanees Bacaires Nadame.1onsleu neuveaw com...\nTlesci de prendu &a compk ceo rouvellas coordennees pous &. prochain pslevemeF.\nCordialemel 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+  "document": "SELLE Anagqwe",
+  "scenario": "Zimmebac Qe 1S fvne 2x4",
+  "writer": "18 Rovte d&TUschhem",
+  "sender_person": "68 23O Fimmelsach",
+  "sender_company": "ie : 03.56.04:03.02",
+  "sender_tel": "JO3 p",
+  "sender_fax": "Rue  d'occilaue",
+  "receiver_person": "3usso Cintegabelle",
+  "receiver_company": "Obje&: Pouvelles Coordanees Bacaires",
+  "subject": "Nadame.1onsleu",
+  "date": "neuveaw compl & prdleve d&sormais; Erar donn 2.",
+  "place": "Tlesci de prendu &a compk ceo rouvellas",
+  "box": "coordennees pous &. prochain pslevemeF. Cordialemel"
 }

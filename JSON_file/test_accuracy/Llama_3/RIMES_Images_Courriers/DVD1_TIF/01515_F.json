@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n1e J8 cc5u 2oO6 ENTREPRISE URBAIN & fils Bordereau d'envoi EXPEDITEUR BoiviN MayW BOE..IeLECO! J9 nu du Sois S2.--sus--d-cosak..ele Memieu 8 p 350 GrAn9.4..9..9.9..S5AUSN..QE LUG.N.E Désignation des...-d-...-d-...-d-...-d-...-d-...-d-...-d-...-d-...-d-...-d-...-d-...-d-...-d-...-d-...-d-...-d-...-d-...-d-...-d-...-d-...-d-...-d-...-d-...-d-...-d-...-d-...-d-...-d-...-d-...-d-...-d-...-d-...-d-...-d-..."
+  "document": "Bordereau d'envoi",
+  "scenario": "ENTREPRISE URBAIN & fils",
+  "writer": "BoiviN MayW",
+  "sender_person": "BoiviN MayW",
+  "sender_company": "BOE..IeLECO!",
+  "sender_tel": null,
+  "sender_fax": "pau d pard fax",
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": null,
+  "date": "J9 nu du Sois",
+  "place": "S2.--sus--d-cosak..ele",
+  "box": "8 p 350 GrAn9"
 }

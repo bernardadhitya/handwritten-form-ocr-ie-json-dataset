@@ -1,4 +1,26 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nNOTICE OF M DISPOSAL SUSPENSION. The disposal of the records described below is hereby sus-\npended until further notice.\n(7 DISPOSAL SUSPENSION RELEASE. The disposal suspension of the records de-\nseribed below is hereby released.\nTO: 1 Jia | rc pate: (4/9) (records management group) 2 Records Coordinator: ] (came) n 3. Department Head: _J_N fui we (me 4 ile 4 Others: Recs Coreoaumes- Colo Aus 5 yyy hdl INITIATED BY: Philip Mor...\n(mame) Philip Morris U.S.A. Legal Department Representative: @ Due ELE (name) GENERAL DESCRIPTIONOFRECORDS ET REUATED REcocas ove TW BRP v BM RECEIVED NOV - 6 1001 BILLLYNCH SUPERVISOR RECORDS MANAGEV..."
+  "notice": "NOTICE OF DISPOSAL SUSPENSION.",
+  "message": "The disposal of the records described below is hereby suspended until further notice.",
+  "release": "DISPOSAL SUSPENSION RELEASE.",
+  "release_message": "The disposal suspension of the records described below is hereby released.",
+  "to": [
+    "Wiia",
+    "UNCH"
+  ],
+  "initiated_by": {
+    "name": "Philip Morris",
+    "department": "Corporate Tax Department"
+  },
+  "legal_representative": {
+    "name": "PURCEL",
+    "department": "Philip Morris U.S.A.Legal Department"
+  },
+  "general_description_of_records": "s13",
+  "related_records": "Oue aL BRiN v BM",
+  "received": "2054597261",
+  "received_date": "NOV-1001",
+  "supervisor": "BILL LYNCH",
+  "role": "RECORDSMANAGEMENT",
+  "issued_date": "10/02/89",
+  "revised_date": "12/14/90"
 }

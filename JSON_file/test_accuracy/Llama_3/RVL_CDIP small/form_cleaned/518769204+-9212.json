@@ -1,4 +1,63 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nRevised 6/18/96 CHAIN VOUCHER REQUEST.\n‘Please Attach Documentation © se TSI237 —accounrmaie: CABRS OL ‘TOTAL AMOUNT OF, L VOUCHER: = VOUCHER SENT TO: PAYEE: ___ ROU:\nneauesren pvc) haw Nee DATE: Aw  'BUYDOWNS - VPR - DISPLAY PAYMENTS.\n| FoNrs [Rate [roTaL [7] HH TPS CODE (DESCRIPTION Pine ise] ao} REO Men Kem AS eer Eos [AoW 29) en eae SN? Pe ipol 20F 12 a} ~ 7 Z co GGTRLY PAYMENT Whi - TPS CODE (DESCRIPTION) i | eUNiTS | RATE | |...\npoze 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9LeTS 9Le"
+  "Revised": "6/18/96",
+  "ChainVoucherRequest": {
+    "To": null,
+    "PleaseAttachDocumentation": null,
+    "AccountName": null,
+    "Voucher": {
+      "Payee": null,
+      "RequestedBy": "Lbh",
+      "Date": "SUYDOWNS-VPR-DISPLAYPAYMENTS",
+      "OnIts": {
+        "Rate": null,
+        "Total": null,
+        "HHTPSCode": null,
+        "Units": 20,
+        "Camz": null,
+        "C180": null,
+        "236": 18,
+        "980": null,
+        "196": null
+      },
+      "TPSExplanation": null,
+      "Units": {
+        "Rate": null,
+        "HHTPSCode": null,
+        "Total": null,
+        "Circle": null
+      },
+      "AdditionalUnits": [
+        {
+          "Rate": null,
+          "HHTPSCode": null,
+          "Circle": null
+        },
+        {
+          "Rate": null,
+          "HHTPSCode": null,
+          "Circle": null
+        },
+        {
+          "Rate": null,
+          "HHTPSCode": null,
+          "Circle": "DIS OR NON-DISC"
+        },
+        {
+          "Rate": null,
+          "HHTPSCode": null,
+          "Circle": null
+        },
+        {
+          "Rate": null,
+          "HHTPSCode": null,
+          "Circle": "DIS OR NON-DISC"
+        }
+      ],
+      "TPSExplanation2": "518769204",
+      "ROUToComplete": {
+        "VoucherNumber": "1534-3.518",
+        "DateRequested": null
+      }
+    }
+  }
 }

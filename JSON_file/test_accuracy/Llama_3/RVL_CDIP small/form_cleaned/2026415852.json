@@ -1,4 +1,73 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nPatent and Trade rk Office & Siainigean Bek UNITED STATES DEPARTMENT OF commerce // ‘ress: Cownussiongl OF PATENTS AND TRADEMARKS (ime a] Taro ra [ance] 07/222+961 07/22/88 HAYWARD c GLENN &. OUSTERHO...\nNEH YORK, NY 10022-6250 soe oa/teve8 ATE mateo:\nNOTICE TO FILE MISSING PARTS OF APPLICATIO! FILING DATE GRANTED A filing datehas been granted to this application, However, the following partsare missing.\nining a hd whi te prod ny, tho agcun ove yap w0 Soren ley ele ce dh (000 Spal et enc > Boe te RUNS EAS a THE SURCHARGE NS INSICNTED SELON 2-0 Ado fe: of 5a 2 ieee, © seal ny, nig any road pull dpenden...\nFr panto pete naa eee ceaton Tepe By te omiaed pee Menage let oR SON eention ted Fine Bate: & SURCHARGE MUST ALgO'Be SUBMITTED TS RUBIO NESD 7. © The splcaton was fed in guage other than Engh. Appia’...\nlhel ye Tor office Us Oay et Mangels Branch Ee 8 Grog seei fe | 38 Zs Sant eSsstps2o2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+  "office": null,
+  "address": {
+    "commissioner": "COMMISSIONER OF PATENTS AND TRADEMARKS",
+    "location": null
+  },
+  "serial_number": null,
+  "filing_date": null,
+  "first_named_applicant": null,
+  "attorney_docket_no": null,
+  "attorney": {
+    "name": "GLENN A. OUSTERHOUT",
+    "firm": null,
+    "address": null
+  },
+  "date_mailed": null,
+  "notice": null,
+  "missing_parts": [
+    {
+      "description": null,
+      "entity": null,
+      "surcharge": "THE SURCHARGE AS INDICATED BELOW."
+    },
+    {
+      "description": null,
+      "entity": null,
+      "surcharge": null
+    },
+    {
+      "description": "The oath or declaration is missing.",
+      "surcharge": "A SURCHARGE MUST ALSO BE SUBMITTED AS INDICATED BELOW."
+    },
+    {
+      "description": null,
+      "surcharge": null
+    },
+    {
+      "description": null,
+      "surcharge": null
+    },
+    {
+      "description": null,
+      "surcharge": "A SURCHARGE MUST ALSO BE SUBMITTED AS INDICATED BELOW."
+    },
+    {
+      "description": "The application was filed in a language other than English.",
+      "fee": null,
+      "surcharge": "NO SURCHARGE UNDER 37 CFR 1.16(e) IS REQUIRED FOR THIS ITEM."
+    },
+    {
+      "description": null,
+      "regulation": null
+    },
+    {
+      "description": null
+    }
+  ],
+  "other": null,
+  "surcharge": {
+    "regulation": null,
+    "amount": {
+      "large_entity": "$110.00",
+      "small_entity": null
+    }
+  },
+  "deadline": "ONE MONTH FROM THE DATE OF THIS LETTER, OR TWO MONTHS FROM THE FILING DATE, WHICHEVER IS LATER",
+  "extensions": "Extensions of time may be obtained by filing a petition accompanied by the extension fee under the provisions of 37 CFR 1.136(a).",
+  "contact": {
+    "attention": null,
+    "phone": null
+  },
+  "form": null
 }

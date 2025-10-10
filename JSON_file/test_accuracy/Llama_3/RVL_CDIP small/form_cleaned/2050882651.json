@@ -1,4 +1,36 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n21/11 ‘94 19:00 ‘+49 2203 309902 INFIBO Koeln +++ GNI GPA RSO Boo1/o0s. a a INBIFO Institut far biologische Forschung GmbH i iSir Contract Research TELEFAX MESSAGE NO: 7-3 9-7 Telophons (0 22 03)903-...\nFROM: Or. W, Reininghaus TO: Dr. Gerry Nixon ADDRESS: Phillp Morris USA Research Center P.O. Box 26583 Richmond, Va, 23261 USA.\nTelefax No.: 001-804-274 30 55 NUMBER OF FOLLOWING PAGES: x For your information! are k reli Vewtan ttle Gh, 4, RR 7 ve! Tssessosoz ‘Trade Register Cologne HAS 357 General Manager Or, Wall Reiningnavs, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1"
+  "document_number": "21/1194",
+  "time": "19:00",
+  "phone": "+492203303362",
+  "company": "INFIBO Koeln",
+  "reference": "GNI GPA RSO",
+  "page_number": "001/006",
+  "institute": "INBIFO Institut fur biologische Forschung GmbH",
+  "service": "Contract Research",
+  "telephone": "022 03)303-1",
+  "telefax": "02203303-362",
+  "address": "Puggerstrae 3D-51149 Cologne",
+  "department": "/BRA",
+  "fax_document": "GNI_FAXDOC",
+  "date": null,
+  "from": "Dr.W.Reininghaus",
+  "to": "Dr.Gerry Nixon",
+  "recipient_address": {
+    "company": "Phillp Morris USA",
+    "department": "Research Center",
+    "po_box": "P.O.Box26583",
+    "city": "Richmond",
+    "state": "Va.",
+    "zip": "23261",
+    "country": "U.S.A."
+  },
+  "recipient_telefax": "001-804-274 3055",
+  "number_of_following_pages": "For your information!",
+  "note": "ouncl roGi Nicotiu MfGoCjf",
+  "additional_info": {
+    "ouncl": "bg RJR",
+    "bg": "2050882651",
+    "trade_register": "Trade RegisterCologne HR8 357",
+    "general_manager": "Genera Mananer.Dr.Wo Reninghaus"
+  }
 }

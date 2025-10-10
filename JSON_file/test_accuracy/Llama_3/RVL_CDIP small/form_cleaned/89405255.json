@@ -1,58 +1,49 @@
 {
-    "compound": {
-        "name": "B wowwae B vecourosrnon",
-        "description": "olefinic ester",
-        "physical_parameters": {
-            "density": 0.5,
-            "molecular_weight": 9,
-            "oxides": [
-                "urewoe",
-                "vecourernon",
-                "B wowwae B vecourosrnon",
-                "oxen",
-                "wows",
-                "oecourosmon",
-                "ao",
-                "wecwae",
-                "Bi",
-                "oecourcernon",
-                "ova",
-                "vecoueosmon",
-                "Srey",
-                "conmsenTs",
-                "ana",
-                "PROCES",
-                "comer",
-                "ROTTER",
-                "STORAGE",
-                "Nom",
-                "STORE",
-                "Kerecu",
-                "stomoe",
-                "Bua",
-                "Quosmne",
-                "Gomer"
-            ],
-            "toxicity": {
-                "LDz": 4.0
-            },
-            "stability": {
-                "heat": "unstable",
-                "light": "unstable",
-                "oxygen": "unstable",
-                "decomposition": "within 1 month at room temperature"
-            }
-        },
-        "suggested_processes": [
-            "normal handling procedures",
-            "Ames mutagenic screening test",
-            "acute oral toxicity test"
-        ],
-        "storage_recommendations": [
-            "stored under inert atmosphere in refrigerator",
-            "dark brown bottle"
-        ]
-    },
+  "compound_physical_parameters": {
+    "lac_compound_code": "A8",
     "date": "10/21/80",
-    "notes": "Pome 08)"
+    "molecular_weight": "WATER",
+    "water_solubility": {
+      "measured": "220",
+      "estimated": "<0.5",
+      "amount": null
+    },
+    "class": {
+      "acid": "ACIO",
+      "base": "ester",
+      "salt": null,
+      "other": null
+    },
+    "reactivity": {
+      "description_of_reactivity": {
+        "without_heating": "WITHOUT HEATING",
+        "with_heating": {
+          "water_brine": "NNGED",
+          "25%HCL": "UNCHANGED",
+          "HON%C": "UNCHANGED",
+          "SOOHCO": "UNCHANGED",
+          "oxygen": "UNCHANGED",
+          "light": null
+        }
+      }
+    },
+    "safety_comments": "Use the normal handling procedures for an olefinic ester. The Ames mutagenic screening test indicated no detectable mutagenic activity. The acute oral toxicity (LD5c) value in mice was 4.0 g/kg.",
+    "chemical_purity": "86",
+    "analytical_methods": [
+      "gas chromatography",
+      "chromatography"
+    ],
+    "storage_recommendations": {
+      "special_storage": "dark brown bottle; stored under inert atmosphere in refrigerator.",
+      "compound_sensitive_to": {
+        "air": "AR",
+        "light": "UGHT",
+        "moisture": "MOISTURE",
+        "other": null
+      }
+    },
+    "signature": "PeRS",
+    "signature_date": "10/21/80",
+    "form": "FORM9 (1080)"
+  }
 }

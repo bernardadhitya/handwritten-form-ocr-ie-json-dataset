@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nM MiJhQJos5E 0 nne du MAL LE CLERC 6 f7OO EckAkTs x/ilLer T& 03.3+.06.&0.97 EIaK,wl0er lo 13nept 2oo6 BAAF Aminance 5AiNT JEAN Du 8LEYHARD S81SO LE BLEYMARD Madama moniem ow q xrd haA zP conmunquer &g... (text)\n\n## Step 1: Identify the structured information in the text\nThe text appears to be a jumbled collection of words and numbers, but upon closer inspection, it seems to be a mix of French and English words, possibly with some intentional formatting or encoding.\n\n## Step 2: Attempt to decipher the text\nAfter analyzing the text, it appears to be a jumbled collection of words and numbers, but without further context or decoding, it is difficult to extract any meaningful information.\n\n## Step 3: Consider possible encoding or formatting\nGiven the unusual formatting and the presence of numbers and letters, it is possible that the text is encoded or formatted in a way that makes it difficult to extract information.\n\n##"
+  "document": "MAL LE CLERC",
+  "scenario": "Aminance",
+  "writer": "S81SO LE BLEYMARD",
+  "sender_person": "Madama",
+  "sender_company": "moniem",
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": "5AiNT JEAN Du 8LEYHARD",
+  "receiver_company": null,
+  "date": "2006",
+  "place": "13nept",
+  "box": null
 }

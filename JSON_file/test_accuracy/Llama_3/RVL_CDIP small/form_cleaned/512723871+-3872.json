@@ -1,4 +1,29 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n‘ORG ARSE ROBE ————— $50 BBN 95284 ————— ————— ————— ————— ————— ————— ————— ————— ————— ————— ————— ————— ————— ————— ————— ————— ————— ————— ————— ————— ————— ————— ————— ————— —————"
+  "shipment_id": "001294",
+  "shipment_type": "printed materials",
+  "sender": {
+    "name": "Ira Tienowitz",
+    "company_name": "Advertising Age Magazine",
+    "address": "740 N. Rush Street",
+    "city": "Chicago",
+    "state": "IL",
+    "zip_code": "60611",
+    "phone": "312649-5435"
+  },
+  "receiver": {
+    "name": null,
+    "company_name": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip_code": null
+  },
+  "shipment_details": {
+    "origin": "GSO",
+    "shipment_valuation": "Check No.Amoun",
+    "airtone_account_no": "46251699",
+    "drop_box": "DROP BOX",
+    "tracking_no": "804952844",
+    "ces": "51272"
+  }
 }

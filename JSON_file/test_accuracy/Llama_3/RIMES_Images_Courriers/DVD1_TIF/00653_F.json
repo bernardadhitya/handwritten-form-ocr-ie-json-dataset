@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nTELECOPIE L.M.A.R.C.\nDate : 13/10/2006 Laboratoire de Mécanique Appliquée R. Chaléat UMR CNRS 6604 Nombre de page (inclus celle-ci) :3 24 rue de l'Epitaphe \"HonORE Phlippe 25000 BESANCON (FRANCE) Expéditeur: 11e MaIraux B...\n13 130.\nOber:\nDemamde de documenahion Cemcernan les Contat  d'asurance habdahonale  d'Univ. de Besancon\nDemamde de documenahion Cemcernan les Contat  d'asurance habdahonale  d'Univ. de Besancon\nDemamde de documenahion Cemcernan les Contat  d'asurance habdahonale  d'Univ. de Besancon\nDemamde de documenahion Cemcernan les Contat  d'asurance habdahonale  d'Univ. of Besancon\nDemamde de documenahion Cemcernan les Contat  d'asurance habdahonale  d'Univ. of Besancon\nDemamde de documenahion Cemcernan les Contat  d'asurance habdahonale  d'Univ. of Besancon\nDemamde de documenahion Cemcernan les Contat  d'asurance habdahonale  d'Univ. of Besancon\nDemamde de documenahion Cemcernan les Contat  d'asurance habd"
+  "document": "TELECOPIE",
+  "scenario": "L.M.A.R.C.",
+  "writer": "Laboratoire de Mécanique Appliquée R. Chaléat",
+  "sender_person": "HonORE Phlippe",
+  "sender_company": "MANiF Asuomces",
+  "sender_tel": "03.87.07.61.95",
+  "sender_fax": "03.81.66.67.00",
+  "receiver_person": null,
+  "receiver_company": "MANiF Asuomces",
+  "subject": "Demamde de documenahion Cemcernan les Contat d'asurance habdahon",
+  "date": "13/10/2006",
+  "place": "BESANCON (FRANCE)",
+  "box": "11e MaIraux BPu5"
 }

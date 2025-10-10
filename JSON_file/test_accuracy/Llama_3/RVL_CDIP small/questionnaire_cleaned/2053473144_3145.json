@@ -1,3 +1,72 @@
 {
-    "error": "Blockwise quantization only supports 16/32-bit floats, but got torch.uint8"
+  "productOpinion": {
+    "company": null,
+    "address": null,
+    "telephone": null
+  },
+  "instructions": {
+    "label": null,
+    "returnBallotBy": null,
+    "addressChange": {
+      "prompt": "Please print name/address corrections",
+      "applyTo": null
+    },
+    "addressChangeDetails": null
+  },
+  "message": {
+    "greeting": "Dear Panelist",
+    "content": null,
+    "closing": null,
+    "signature": null
+  },
+  "testInstructions": {
+    "part": "PART",
+    "firstStep": "FIRST SMOKE ONE OR TWO PACKS OF THE CIGARETTES CODED",
+    "phrases": null,
+    "scale": {
+      "left": null,
+      "right": null
+    }
+  },
+  "cigaretteEvaluation": {
+    "mildTaste": {
+      "negative": null,
+      "positive": null
+    },
+    "harshness": {
+      "negative": null,
+      "positive": null
+    },
+    "goodTaste": {
+      "negative": null,
+      "positive": "Has a good taste"
+    },
+    "satisfaction": {
+      "negative": null,
+      "positive": null
+    },
+    "coolSmoking": {
+      "negative": null,
+      "positive": null
+    },
+    "burnRate": null,
+    "draw": {
+      "negative": null,
+      "positive": null
+    },
+    "dryTaste": {
+      "negative": "Does not have a dry taste in the mouth",
+      "positive": null
+    },
+    "aftertaste": {
+      "negative": "Does not leave a good aftertaste in my mouth",
+      "positive": null
+    },
+    "preference": {
+      "dislike": null,
+      "like": null
+    }
+  },
+  "note": null,
+  "code": null
 }

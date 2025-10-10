@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nSiMoNNEAu Monique 9Rue Principaie 6f420 RANRUPT GDF 2s Rue du Bois de1a Chapelle 545oo VANDoEUVRE LES NANCY Objer : Demande de précisions sur ma derniere fackure Re9 clienF: wLQGV 9L A RANRupT,1e Same...\nCimonnea 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e 1e"
+  "document": "SiMoNNEAu Monique",
+  "scenario": "Demande de précisions sur ma derniere fackure",
+  "writer": "Cimonnea",
+  "sender_person": "Monique",
+  "sender_company": "GDF",
+  "sender_tel": "6f420",
+  "sender_fax": "RANRUPT",
+  "receiver_person": "Madame, Mon Sieur",
+  "receiver_company": null,
+  "subject": "Demande de précisions sur ma derniere fackure",
+  "date": "1e Samedi 7 avril",
+  "place": "2s Rue du Bois de la Chapelle, 54500 VANDoEUVRE LES NANCY",
+  "box": "9Rue Principaie"
 }

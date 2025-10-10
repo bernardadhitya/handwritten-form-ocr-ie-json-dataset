@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nSiMoNNEAU Monigue g Rue Principale 6f42o RANRUPT Te1: 03.60.06.53.42 NN A Assurances QS3o EYGUiANS Objet : responsabilité civile A RANRuPT, Le mardi 3 avri1 2co7 Madame, Monsieur, ge Souhailerais 2tre... (text truncated)\n\nThe text appears to be a snippet of a letter or email, but it is not clear what the content is. However, the text includes the following structured information:\n\n* Name: SiMoNNEAU Monigue\n* Address: Rue Principale 6f42o RANRUPT\n* Phone number: Te1: 03.60.06.53.42\n* Company: NN A Assurances\n* Department: QS3o EYGUiANS\n* Purpose: responsabilité civile\n* Date: Tuesday, April 2, 2023\n* Time: 3:00 AM\n* Greeting: Madame, Monsieur, ge\n\nHere is the structured JSON output:\n\n```json\n{\n  \"name\": \"SiMoNNEAU Monigue\",\n  \"address\": \"Rue Principale 6f42o RANRUPT\",\n  \"phone"
+  "document": "SiMoNNEAU Monigue",
+  "scenario": "responsabilité civile",
+  "writer": "imonneau",
+  "sender_person": "SiMoNNEAU Monigue",
+  "sender_company": "NN A Assurances",
+  "sender_tel": "03.60.06.53.42",
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "responsabilité civile",
+  "date": "Le mardi 3 avril 2007",
+  "place": "A RANRuPT",
+  "box": "QS3o EYGUiANS"
 }

@@ -1,4 +1,47 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n: J06 wale SED witwauke “aS0MMNUNICUS» THC. Femali 2 Syracuse 2 SOMITE =2 syr -\nProject LLD-6 e cuns 33 nprit, 1978 crow as crry/rown:_ TELEPHONE #:_.\n‘DATERVIEWED BY Y VALIDATED BY, Bello, I'm from Communicus, a consumer opinion firm. We are conducting @ survey and would like to include you.\nla. Do you smoke filter, non-menthol cigarettes? (eg) —» CONTINUE —> TERMINATE b. Bow many cigarettes do you usually smoke per day? (DO NOT READ LIST.) 0-9 ‘TERMINATE Between 10 and 15 ee 16 to 25 SS...\nTIposbbs 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. "
+  "id": "106",
+  "gender": "Male",
+  "age": "50",
+  "location": "Milwaukee",
+  "company": "OMUNICUS,INC",
+  "survey": {
+    "interviewee_gender": "Female",
+    "interviewee_age": "-2",
+    "interviewee_location": "Syracuse",
+    "project_code": "LLD-6",
+    "project_location": "Omaha",
+    "project_code_2": "-3",
+    "project_date": "April,1978",
+    "group": "GROUP",
+    "name": "NAME",
+    "address": "ADDRESS",
+    "city_town": "_",
+    "telephone": "84460411",
+    "interviewed_by": "Eello,I'm from Communicus, a consumer opinion firm.",
+    "validated_by": null,
+    "introduction": "We are conducting a survey and would like to include you.",
+    "questions": [
+      {
+        "question": "la. Do you smoke filter, non-menthol cigarettes?",
+        "answer": "Yes"
+      },
+      {
+        "question": "b. DO NOTREAD LIST.",
+        "answer": "6-0"
+      },
+      {
+        "question": "Between 10 and 15",
+        "answer": "16to25"
+      },
+      {
+        "question": "2. Which of the following statements apply to you?",
+        "answer": "A. I eat dinner in a restaurant at least once a month."
+      },
+      {
+        "question": "Into which of the following age groups do you fall?",
+        "answer": "Between 10 and 15"
+      }
+    ],
+    "code": null
+  }
 }

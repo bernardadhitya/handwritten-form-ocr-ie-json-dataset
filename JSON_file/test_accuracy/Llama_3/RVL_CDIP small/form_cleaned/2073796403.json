@@ -1,4 +1,31 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n20/07 \"99 13:34 +49 2203 303362 INBIFO Koeln oor Contract Research TELEFAX MESSAGE NO.: oe TTF TSR Dalle Fane GF 3B Coe “eaprone 9:20 36841 ‘Teter 02209 sesae2 eM BVLRWA FAXDOS DATE: 29. Juli 1999 FRO...\n120 Park Avenue New York, N.Y. 10017-5592 USA.\nTelefax-Nr.: 001-917-663 5849 NUMBER OF FOLLOWING PAGES: 7 Re.: E-mail vom 28.JuL99 Lieber Herr Dr. Walk, anbei die gewOnschte Kopie von Herm Romers Cocoa Publikation Viele Grage b. but.\n£0r962e 07 ise ‘Trae agnor Coogra HR 367 (Sones anager Dee einngraus ame 1. 1. 1999) 1. 1. 1999 1. 1. 1999 1. 1. 1999 1. 1. 1999 1. 1. 1999 1. 1. 1999 1. 1. 1999 1. 1. 1999 1. 1. 1999 1. 1. 1999 1. 1. 1999 1. 1. 1999 1. 1. 1999 1. 1. 1999 1. 1. 1999 1. 1. 1999 1. 1. 1999 1. 1. 1999 1. 1. 1999 1. 1. 1999 1. 1. 1999 1. 1. 1999 1. 1. 1999 1. 1. 1999 1. 1. 1999 1. 1. 1999 1. 1. 1999 1. 1. 1999 1. 1. 1999 1. 1. 1999 1. 1. 1999 1. 1. 1999 1. 1."
+  "date": "29.Juli 1999",
+  "messageNumber": "66.",
+  "time": "13:34",
+  "phoneNumber": "+492203303362",
+  "company": "INBIFO KoeIn",
+  "faxNumber": "Telefx (022 03) 303-382",
+  "institute": "INBlFO institut fur biologische Forschung GmbH",
+  "contractResearch": "Contract Research",
+  "telefaxMessageNumber": "1c0 (co  0) eeoydo",
+  "telefax": "BVI_RWA_FAX.DOC",
+  "document": null,
+  "documentDate": null,
+  "from": "Brigitte Viol",
+  "to": "Dr.R.-A.Walk",
+  "address": {
+    "company": "Philip Morris",
+    "street": "120Park Avenue",
+    "city": "New York",
+    "state": "N.Y.",
+    "zip": "10017-5592",
+    "country": "U.S.A."
+  },
+  "recipientFaxNumber": "001-917-6635849",
+  "numberOfFollowingPages": "7",
+  "reference": "Re.:E-mail vom28.Jul.99",
+  "message": "Lieber Herr Dr.Walk,\nanbei die gewanschte Kopie von Herm Romers Cocoa Publikation\nViele Grufe\n2073796403\n12",
+  "generalManager": "Dr. Wof Reininghaus",
+  "tradeRegister": "Cologne HRB 367",
+  "additionalInfo": "127/94"
 }

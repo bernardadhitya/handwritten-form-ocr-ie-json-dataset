@@ -1,3 +1,39 @@
 {
-    "error": "Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  "date": "2345",
+  "interviewer": "National Family Opinion",
+  "callback": "78210",
+  "rotation": "78210",
+  "introduction": "I'm calling long distance for Carol Adams of National Family Opinion in Toledo, Ohio.",
+  "question_1": {
+    "question": "Did you finish smoking all the cigarettes?",
+    "response": "NO",
+    "follow_up": "About how many cigarettes have you smoked:",
+    "response_number": "11"
+  },
+  "question_2": {
+    "question": "Id like to have you rate your usual brand on a l to l0 rating scale.",
+    "scale": "l to l0",
+    "response": "2",
+    "note": "O/"
+  },
+  "question_2b": {
+    "question": "What number from 1 to l0 best describes your overall feelings toward the cigarettes we sent you?",
+    "response": "6359"
+  },
+  "question_2c": {
+    "question": "And what number from 1 to 10 best describes your overall feelings toward menthol filter cigarettes in general?",
+    "response": "16)"
+  },
+  "question_3": {
+    "question": "What did you like about the cigarettes we sent you?",
+    "response": "7A.",
+    "follow_up": "What-else?",
+    "response_follow_up": "21"
+  },
+  "question_4": {
+    "question": "What did you not like about the cigarettes we sent you?",
+    "response": "24 *.",
+    "follow_up": "What else?",
+    "response_follow_up": "27"
+  }
 }

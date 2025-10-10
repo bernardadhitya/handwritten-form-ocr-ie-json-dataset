@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nUPVD Université de Perpignan. Yia Domitia Faculté des Lettres et Sciences Humaines TELECOPIE RohnF.LOisEAv Expéditeur :\n18 u du Vallon 68 71O TA6oisHEiT Fax : 04 68 66 00 44 Perpignan, le Broulk Telecom Destinataire..\nBouug Sai'nf- Corniu - du, - lande 618%0 Fax n° Obiet : Noualk Coordonni, lancau, P.J CRiB j'ow) Message :\n52, avenue Paul Alduy 66860 Perpignan Cedex Tél 00 33 (0)4 68 66 2155 Fax 00 33 (o)4 68 66 00 44\nP.J CRiB j'ow) Message : 52, avenue Paul Alduy 66860 Perpignan Cedex Tél 00 33 (0)4 68 66 2155 Fax 00 33 (o)4 68 68 00 44\nP.J CRiB j'ow) Message : 52, avenue Paul Alduy 66860 Perpignan Cedex Tél 00 33 (0)4 68 66 2155 Fax 00 33 (o)4 68 66 00 44\nP.J CRiB j'ow) Message : 52, avenue Paul Alduy 66860 Perpignan Cedex Tél 00 33 (0)4 68 66 2155 Fax 00 33 (o)4 68 66 00 44\nP.J CRiB j'ow) Message : 52, avenue Paul Alduy 66860 Perp"
+  "document": "UPVD",
+  "scenario": "Université de Perpignan. Yia Domitia",
+  "writer": "Faculté des Lettres et Sciences Humaines",
+  "sender_person": "RohnF.LOisEAv",
+  "sender_company": "Broulk Telecom",
+  "sender_tel": "04 68 66 00 44",
+  "sender_fax": "04 68 66 00 44",
+  "receiver_person": "Bouug",
+  "receiver_company": "Sai'nf- Corniu - du, - lande",
+  "subject": "Noualk Coordonni, lancau",
+  "date": "le",
+  "place": "Perpignan",
+  "box": "66860 Perpignan Cedex"
 }

@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nLEPERs PoscOl La Reboute 95,fis AUenwe P.Seregovoy Alee Als ROmarins Le Gossir U3b5 MinEt 58OOO NEVERs Te:04.42.61.06.33 obgel: Augmentati0m (xr) des co Vierges cOmmandes Madomli Mho ndiwr Losse de 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... 10... "
+  "document": "LEPERs PoscOl",
+  "scenario": "La Reboute",
+  "writer": "95,fis AUenwe P.Seregovoy",
+  "sender_person": "Alee Als ROmarins Le Gossir",
+  "sender_company": "U3b5 MinEt",
+  "sender_tel": "Te:04.42.61.06.33",
+  "sender_fax": "obgel: Augmentati0m (xr) des co Vierges cOmmandes",
+  "receiver_person": "Madomli Mho ndiwr",
+  "receiver_company": "Losse de",
+  "subject": "10 0O",
+  "date": "500",
+  "place": "Madome, 1onsir, mis sslulo&ons",
+  "box": "am cgreier pus ds tinauees Lepers"
 }

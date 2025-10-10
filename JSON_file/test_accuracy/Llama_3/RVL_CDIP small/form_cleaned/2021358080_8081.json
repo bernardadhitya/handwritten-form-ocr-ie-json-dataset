@@ -1,4 +1,57 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nC-8¥8G-s~O REQUEST FOR MACHINE-MADE EXPERIMENTAL CIGARETTES Deliver to: g/e Tau) IBM Code Pack Code bob 1i9g 5 Spratt 279 Requested Bye tre Jnewman) EXT. Noisy) Date_- 9-90 Proj. No. YOsS— Purpose Am...\n) mos f dts peadac tio Filler Code (1) iB @ (2) Rae Hs on (5) ae ead GQ) Meat 6) Soo Cigt. Cire. 24.0 mm Rod We. _. gy cigt. Rod Length 27/3, 5~ Cigarette Paper Filter Code Tipping Code Width mm Dilut...\n2205-9 fF:\nCompleted:\n— 202.\nShipped : BOE 1358080 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+  "request": "REQUEST FOR MACHINE-MADE EXPERIMENTAL CIGARETTES",
+  "delivery": {
+    "to": "73",
+    "ibm_code": null,
+    "pack_code": null
+  },
+  "codes": {
+    "h8hc": "h8hc",
+    "2486": "2486",
+    "G": "G",
+    "Spruilt": "Spruilt",
+    "64": "64",
+    "Ambccsia/Lotusye/ioc": "Ambccsia/Lotusye/ioc"
+  },
+  "cigarettes": {
+    "required": "400o cigt coch lacked",
+    "filler_supplied": {
+      "lbs": null,
+      "2": "2",
+      "masl": null
+    },
+    "production": {
+      "marl": "marl ltsoraduetien",
+      "5": "5",
+      "6": "6"
+    },
+    "rod": {
+      "wt": "8/5",
+      "length": "7/3/5"
+    },
+    "paper": {
+      "cigarette": null,
+      "code": null,
+      "width_mm": null
+    },
+    "codes": {
+      "45y": "45y",
+      "A": "A",
+      "POGE": "POGE",
+      "33": "33",
+      "y5": "y5",
+      "5": "5",
+      "14": "14",
+      "POQA": "POQA"
+    }
+  },
+  "ibm_code": "IBM Code",
+  "totals": {
+    "wt": null,
+    "dils": null,
+    "made": null
+  },
+  "additional_specifications": "5-705A",
+  "completed": "2021358080",
+  "shipped": "Shipped"
 }

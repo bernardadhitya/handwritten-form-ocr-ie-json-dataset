@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nMatn GRAN GE qme de Vezus 7O 11O FALLoN tl. 03-45-80-43-9i efIent KKOGY97 m d l Ekce 7O 1Oo NANTILLy.00 t: mgmelles o coodorres t-Q Madam r desomais ml ais ou 1f jondu'au O3 45 8O G3 9y tl wAw me ion... (text truncated)\n\n... 7O 1Oo NANTILLy.00 t: mgmelles o coodorres t-Q Madam r desomais ml ais ou 1f jondu'au O3 45 8O G3 9y tl wAw me ion... (text truncated)\n\n... 7O 1Oo NANTILLy.00 t: mgmelles o coodorres t-Q Madam r desomais ml ais ou 1f jondu'"
+  "document": "Matn GRAN GE",
+  "scenario": "qme de Vezus",
+  "writer": "mgmelles",
+  "sender_person": "Madam",
+  "sender_company": "coodorres t-Q",
+  "sender_tel": "03-45-80-43-9i",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": null,
+  "date": "O3 45 8O G3 9y",
+  "place": "NANTILLy",
+  "box": ".00"
 }

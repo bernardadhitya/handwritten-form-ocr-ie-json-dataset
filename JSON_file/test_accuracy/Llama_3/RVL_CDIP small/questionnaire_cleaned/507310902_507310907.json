@@ -1,4 +1,61 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n_esrounent a) Mu cr. sexttanye evtstromnine mooresss,__ UCN.\nHello, Him ______ fran Katana censaner Optnten, We are conducting © survey én thle eros atout varlout types of bradicte 0nd 1d Vike Co ak you 9 few questions, 1A. First, Into wleh of the foltoeing gro...\nMOMIMATE 0k = owe ace/ecFUSED [ oer & 06 o7 oor wT I BVewDARBAD | 8. mueayicungs econ sex, 2esMINANE 0.08 = 8 eUOTAS $04 (Lot 02 05 06 6 06 67 08 69 10 UT w war RBA | Yo entre equal reprezentation of...\neRAIWATE 0,0 = SHEE_LESS_NMN SPER DAY/OOET KNOW. ANSE [NRSKH MT ETWUREKE WUBI DARN | 2060 tezos 0.0 = 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0"
+  "study_number": "0o0o0o",
+  "study_type": null,
+  "respondent_range": null,
+  "new_cpt_screening_questionnaire": {
+    "date": null,
+    "name": null,
+    "address": null,
+    "city_state": null,
+    "telephone": null,
+    "date_interview": null,
+    "time_begun": null,
+    "interviewer": null,
+    "validated_by": null
+  },
+  "introduction": "We are conducting a survey in this area about various types of products and I'd like to ask you a few questions.",
+  "interviewer_note": null,
+  "terminate_problem": null,
+  "questions": {
+    "A": {
+      "question": null,
+      "options": {
+        "under_18": "Terminate and record below.",
+        "18_24": null,
+        "25_34": "",
+        "35_56": null,
+        "50_and_over": null,
+        "refused": "Terminate and record below."
+      },
+      "terminate_reason": null
+    },
+    "B": {
+      "question": "Interviewer record sex.",
+      "options": {
+        "male": "",
+        "female": null
+      },
+      "terminate_reason": null
+    },
+    "C": {
+      "question": null,
+      "options": {
+        "white": null
+      }
+    },
+    "D": {
+      "question": "Our records indicate that you use cigarettes daily. Approximately how many cigarettes do you usually smoke per day?",
+      "options": {
+        "less_than_5": null,
+        "5_10": "",
+        "11_20": null,
+        "21_30": null,
+        "31_40": null,
+        "41_or_more": null,
+        "dont_know_no_answer": "Terminate and record below."
+      },
+      "terminate_reason": null
+    }
+  },
+  "code": null
 }

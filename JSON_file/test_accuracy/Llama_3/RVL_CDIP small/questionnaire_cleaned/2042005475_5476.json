@@ -1,27 +1,37 @@
 {
-    "demographic_info": {
-        "age": 18,
-        "occupation": "Tam of O'Brien-Sherwood Research Company"
+  "company": "O'BRIEN-SHERWOOD ASSOCIATES INC.",
+  "location": "57-16 WOODSIDE AVENUE, WOODSIDE, NEW YORK 11377",
+  "study": "LIGHTS AD STUDY",
+  "introduction": "3ood morning/afternoon/evening. I am of O'Brien-Sherwocd Researeh Company. We are doing a survey on smoking.",
+  "questions": [
+    {
+      "question": "Do you smoke cigarettes, thet is, at least a pack a week?"
     },
-    "smoking_habits": {
-        "frequency": "at least a pack a week",
-        "brands": [
-            "EE suze",
-            "Falter Reguier",
-            "Ron-riiser"
-        ],
-        "type": "cigarettes"
+    {
+      "question": "What is your regular brand of cigarettes, that is, the brand you smoke most often?"
     },
-    "advertising_awareness": {
-        "recent_advertising": "yes",
-        "specific_brands": [
-            "EE suze",
-            "Falter Reguier",
-            "Ron-riiser"
-        ],
-        "marlboro_lights_advertising": "yes",
-        "marlboro_lights_description": "not specified",
-        "marlboro_lights_visuals": "not specified",
-        "marlboro_lights_target_audience": "not specified"
+    {
+      "question": "How many packs of cigarettes do you buy?"
+    },
+    {
+      "question": "What new brand or brands do you remember seeing advertised?"
+    },
+    {
+      "question": "Have you ever heard of a cigarette called Marlboro Lights?"
+    },
+    {
+      "question": "Do you remember seeing any advertising for Marlboro Lights?"
+    },
+    {
+      "question": "What, specifically, was said in the advertising?"
+    },
+    {
+      "question": "What was shown in the advertising?"
+    },
+    {
+      "question": "What ideas were they trying to get across?"
     }
+  ],
+  "contact": "2042005475",
+  "interviewer": "Lakia aia a"
 }

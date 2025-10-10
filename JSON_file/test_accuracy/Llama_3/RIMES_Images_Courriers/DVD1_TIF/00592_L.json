@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\ner GSRliane de db 40/2006 be do 25490 #, Gexpay Tel: 03.00.94.90. +4 Re}: Cent: ZUPTZ A La Sreboute 06380 GUER.\nHood ame | fonsieux.\nÀ Cova ma de. Ye A € ZSEMAL NE an anLrete éRehemépaaer. FE eut Wetasr Le cataPæue qe {x Leets Ce VAN, Àe me Aus apergu qu'iP xtsbait Qe même sa Tu Le en modète Ferre e Asows La Ke tence. CH4S -02-2006.\n```\n\n## Step 1: Identify the structured information in the text\nThe text appears to be a receipt or invoice with some structured information, including a date, a phone number, a name, and an address.\n\n## Step 2: Extract the structured information\nThe structured information can be extracted as follows:\n- Date: 40/2006\n- Phone number: 03.00.94.90. +4\n- Address: A La Sreboute 06380 GUER\n- Name: Hood ame | fonsieux\n- Amount: € ZSEMAL NE an anLrete éRehemépaaer\n- Payment method: FE eut Wetasr Le cataPæue qe {x Leets Ce VAN\n- Reference: Àe me Aus a"
+  "document": "BRustas",
+  "scenario": "cle 1b 11o/90o6",
+  "writer": "Yohuer",
+  "sender_person": "Le Bows",
+  "sender_company": "251 90 Ioulce Ceuna",
+  "sender_tel": "03.00.91.90.11",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "date": null,
+  "place": "U8 Rue du Iow",
+  "box": "56 380 GVER"
 }

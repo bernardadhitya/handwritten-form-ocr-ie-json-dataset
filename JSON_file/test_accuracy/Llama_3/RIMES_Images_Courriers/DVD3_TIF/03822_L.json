@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nFELLiER A&lane Q nue de Redelac 57 s8o Czs& 03.75.79. 36.81 B1P.Banpve Auvelle da Pori s Bourg 61 4OO lE PiN lA GARENNa Yaaiour Powriez- s wa fai pauvenir ls lsairn dacwvet uenogeanl procuainewant dos... (text)\n\n## Step 1: Identify the structured information in the text\nThe text appears to be a jumbled collection of words and numbers, but upon closer inspection, we can identify some structured information. The text contains a series of numbers and letters that seem to be a phone number or address.\n\n## Step 2: Extract the structured information\nThe structured information in the text is:\n- Phone number: 03.75.79. 36.81 B1P.Banpve\n- Address: FELLiER A&lane Q nue de Redelac 57 s8o Czs& 03.75.79. 36.81 B1P.Banpve Auvelle da Pori s Bourg 61 4OO lE Pi"
+  "document": "FELLiER A&lane",
+  "scenario": "Q nue de Redelac",
+  "writer": null,
+  "sender_person": null,
+  "sender_company": "Banpve Auvelle da Pori s",
+  "sender_tel": "03.75.79. 36.81",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "date": null,
+  "place": "Bourg 61 4OO lE PiN lA GARENNa Yaaiour",
+  "box": "Powriez- s wa fai pauvenir ls lsairn dacwvet uenogeanl procuainewant dos cofre gin,ie desi'r k neodi pas fok -k olólaceunt tnuhteent e s'rwaue b Itnln gueus prkerz oaputk Bien csrsk'oleuuank"
 }

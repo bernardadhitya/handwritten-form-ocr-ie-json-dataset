@@ -1,4 +1,52 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nDEPARTNENT EXPENSE BUDGET SUMMARY Form P.0. 1049-4 fr LORILLARD, san DIVISION OF LOEW'S CORP.\nDept.\nDivision _ Sales Department Domestic Tax Free Gode No.\nPROJECTED CURRENT YEAR BDET EXPENSES_19 accouxr] zu sucer | cuir Ron [PRUECIES mom | 0. van | GER 8 monrus(é mourus | vear 19 RER) 17,000 | 8,500 | 25,500 | 6450 | consumer sampiing 4's 30,000 _|€ 4,5...\nrabebfps SEEN 4,500 | 2,500 | 6,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500 | 2,500"
+  "departmentExpenseBudgetSummary": {
+    "company": "LORILLARD, DIVISION OF LOEW'S CORP.",
+    "department": {
+      "division": "DivisionSales",
+      "domesticTaxFree": {
+        "projectedCurrentYearBudget": {
+          "expenses": 25500,
+          "account": "WALI",
+          "budget": {
+            "currentYear": 17000,
+            "actual": 8500,
+            "projectedTotal": 25500,
+            "increaseDecrease": 4050
+          }
+        },
+        "items": [
+          {
+            "name": "Consumer Sampling 4's",
+            "budget": 30000,
+            "actual": 4500,
+            "increaseDecrease": 8000
+          },
+          {
+            "name": "Consumer Sampling 20's",
+            "budget": 28000,
+            "actual": 10000,
+            "increaseDecrease": 16000
+          },
+          {
+            "name": "Consumer Offer Items",
+            "budget": 20000,
+            "actual": 19000,
+            "increaseDecrease": 10000
+          },
+          {
+            "name": "Special Promotion Cost",
+            "budget": 42000,
+            "actual": 13000,
+            "increaseDecrease": 29000
+          }
+        ],
+        "total": {
+          "budget": 120000,
+          "currentYear": 27500
+        }
+      }
+    },
+    "dateSubmitted": "AND DEPT. MANAGER",
+    "departmentManager": "DEPT. MANAGER"
+  }
 }

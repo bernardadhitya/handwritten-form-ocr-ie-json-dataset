@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nduCouRNEAU Mahm &1 me  &ehun.\nrramo 44 S CtAMPi GNY/Ae Nczd ohh && l : 03.69.10.32.38 <FcIeut: EPRxQ81 Fr2on Q 28/02 /06 F au fnonant de /mes 1mea8naUtK rahives au glneut 0ontracK ohu2 wo mmu5 mss mumaCks I h elet sy + J8t7u81 zSY... (1) 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+  "document": "duCouRNEAU Mahm",
+  "scenario": "&1 me  &ehun.",
+  "writer": "duCouRNEAU Mahm",
+  "sender_person": "Mahm",
+  "sender_company": "rramo",
+  "sender_tel": "44 S CtAMPi GNY/Ae",
+  "sender_fax": "Nczd ohh &&",
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": null,
+  "date": "28/02 /06",
+  "place": "Fr2on Q",
+  "box": "l : 03.69.10.32.38"
 }

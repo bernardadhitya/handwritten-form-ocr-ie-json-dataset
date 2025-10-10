@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nnlk Alexondra BERGEON Peone, 19103107 8, routc dk Guilloumes o 5 u70 PEONE T'1 : Ou 18 25 82OS BAAFAssuran ces Gou let rue Silos LIEVIN 62 801 objet : Resilioton d' ossuronce auto Madornc, Monsieur.\nbien vouloir prondrc en comple vas pie de je demonde de resiliokan de mon contat mo doc normakment Fin au 1e Mon conkal prandra.\njuin prochoin. Je vous roppelle ma n de client:\nX 00 1982.\nrcspectueuses salutotians.\nde mes I`assuron ce s`il vous plaite.\nSincerely,\nAlexondra BERGEON Peone\nDate: 18 June 1913\n\nThe text is written in French and appears to be a letter written in a formal and somewhat archaic style. The structured JSON output should include the following information:\n\n* Name: Alexondra BERGEON Peone\n* Date of birth: 19103107 (interpreted as 31st July 1910)\n* Address: Guilloumes, 5, rue Silos, Lievin, 62 801\n* Object of the letter: Resilioton d'ossuronce auto Madornc\n* Request: Prondrc en comple vas pie de je demonde de resiliokan de mon contat mo doc normakment Fin au 1e Mon conkal prandra\n* Client name: X 00 1982 (interpreted as unknown or not provided)\n* Signature: Alexondra BERGEON Peone\n* Date: 18 June 1913\n\nHere is the structured JSON output"
+  "document": "Lettre manuscrite",
+  "scenario": null,
+  "writer": null,
+  "sender_person": null,
+  "sender_company": null,
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": "BAAF Assurances",
+  "subject": null,
+  "date": null,
+  "place": null,
+  "box": null
 }

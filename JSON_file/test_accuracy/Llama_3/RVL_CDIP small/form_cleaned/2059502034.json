@@ -1,4 +1,20 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nDEC 14°93. 12:03PM PHILIP MORRIS USA Pat [Paty PHILIP MORRIS USA Business Plannin Lino 120 Park Avenue - Ninth Floor med New York, New York 10017 ~ eur FAX #: (212) 907-6390 ie De 14 ih 5 4 FACSIMILE...\nFax fi nH fp ct.\nEROM: Name:\nNo. of pages (Including transmittal sheet) 2s Please call sender If there are any problems with this transmission.\nMESSAGE/ADDITIONAL_ INFORMATION:\nbEozosesososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososososos"
+  "date": "Dec 14, 1993",
+  "recipient": {
+    "name": "Henry",
+    "title": "PM-UsA (Schmon",
+    "company": "PHILIP MORRIS USA",
+    "fax_number": "212907-5390"
+  },
+  "sender": {
+    "name": "PHILIP MORRI5",
+    "business_planning": "Buslness Planning",
+    "address": "120 Park Avenue-Nlnth Floor, New York, New York 10017",
+    "fax_number": "212907-5390",
+    "voice_phone": "2288-3"
+  },
+  "facsimile_transmittal_sheet": {
+    "number_of_pages": "No.of pages (Including transmittal sheet)",
+    "message_additional_information": "2059502034"
+  }
 }

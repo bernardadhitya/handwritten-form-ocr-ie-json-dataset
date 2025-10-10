@@ -1,3 +1,86 @@
 {
-    "error": "Expecting ',' delimiter: line 67 column 6 (char 1373)"
+  "title": null,
+  "address": {
+    "street": "801 Second Avenue",
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "contact": {
+    "phone": "82-95"
+  },
+  "instructions": null,
+  "note": null,
+  "questions": [
+    {
+      "prompt": null,
+      "note": null,
+      "categories": [
+        null,
+        "CIGARETTE ADS"
+      ],
+      "brands": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Hilton Hotels",
+        "Golden Lights",
+        null,
+        "Bolens Lawn Mower",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Polaroid Camera",
+        null,
+        null,
+        "Concord Watches",
+        "Tester's Choice",
+        null,
+        null
+      ],
+      "cigarette_brands": {
+        "if_no_mention": {
+          "question": null,
+          "options": [
+            null,
+            null
+          ],
+          "follow_up": null,
+          "brands": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "if_one_or_two_mentioned": null,
+        "if_all_mentioned": null
+      },
+      "additional_brands": [
+        "Luke",
+        "Golden Lights",
+        "Golden Uasp.",
+        null,
+        null,
+        null
+      ],
+      "true_mention": {
+        "if_true_mentioned": null,
+        "if_true_not_mentioned": null,
+        "brands": [
+          null,
+          null,
+          "True",
+          null
+        ]
+      }
+    }
+  ]
 }

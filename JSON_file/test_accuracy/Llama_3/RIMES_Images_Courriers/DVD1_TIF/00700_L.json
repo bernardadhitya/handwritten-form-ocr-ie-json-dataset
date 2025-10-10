@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nBufPard Sephora Convesho lo me d Qa Tso1s Rauio 88U0o Taintwx Mes referenceo = BZYPY5o Tainhux Qe 1g110/o6 radame lana'eue Intesse paR plusievar de vos predur, j8 Canepondance coordonnees Leeille rrcw... \n\nNote: The text appears to be a jumbled mix of letters and numbers, but it seems to be a reference to a specific location or coordinate.\n\nHere is the structured information extracted from the BufPard Sephora Convesho:\n\n* Latitude: 88.0\n* Longitude: 1.1\n* Reference: BZYPY5o\n* Coordinate system: Not specified\n\nNote: The extracted information is based on the assumption that the text is a reference to a specific location or coordinate, and the structured information is extracted accordingly.\n\nHere is the structured JSON output:\n\n``"
+  "document": "BufPard Sephora",
+  "scenario": "Convesho",
+  "writer": "lo me d Qa",
+  "sender_person": "Tso1s Rauio",
+  "sender_company": "88U0o Taintwx",
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": "Mes referenceo = BZYPY5o",
+  "receiver_company": "Tainhux Qe 1g110/o6",
+  "date": null,
+  "place": "radame lana'eue",
+  "box": "Intesse paR plusievar de vos predur, j8"
 }

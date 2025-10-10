@@ -1,4 +1,9 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n'R. J. REYNOLDS TOBACCO COMPANY RESEARCH DEPARTMENT REPORT\nDATE: 1975\nAUTHOR: R. J. Reynolds Tobacco Company Research Department\nTITLE: Effects of Temperature on the Volatile Compounds of Tobacco\nSUBTITLE: A Study of the Effects of Temperature on the Volatile Compounds"
+  "company": "R.J. REYNOLDS TOBACCO COMPANY",
+  "department": "RESEARCH DEPARTMENT",
+  "subject": "Subjodt",
+  "date": "Oct/9/95",
+  "job_number": "RP-206",
+  "summary": "CT - 5C1045092",
+  "experiment": "EXPERIMSM A.et 2~7 -9-10 -a/"
 }

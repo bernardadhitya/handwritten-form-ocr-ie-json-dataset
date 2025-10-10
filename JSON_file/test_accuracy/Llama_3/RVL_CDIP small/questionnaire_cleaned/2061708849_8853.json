@@ -1,4 +1,40 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nPROPOSED Hom UEOUBOUND SURVEY SCRT wun wre Greeting ¢ se ye 1. “Hello, may I speak with (list name) please?” “¢€ wt Iflist name available: Go 102.\nIflist name not available after 5 attempts: “Is there a better day for me to call (list, back?” - Schedule callback, and go to Closing I Record 34 party refusal if list name is hospitalized, in jail,...\nname currently appears on the Philip Morris mailing list of adult syfokers, which may makeyou eligible to receive coupons and other promotional offers.\nDo you wish to remain on our mailing list? Ufsays, “Ido not smoke.” Or \"I quit.”:\nIfsays, “Ido not smoke a Philip Morris brand.”: The Philip Morris maintains @ list of adult smokers regardless of brand. Would you like to remain on that list?” Y.says: “Why haven't lever received cou...\nUsays, “How did you get my name?”: “I'm sorry, I was not provided with that information.” ~ Continue with script.\nIfsays, “Please don't call me again.\": “I'll make a note to remove your name from our list.\n'm sorry to have inconvenienced you.” - Code as Do Not Call, and go to Closing I.\nIno: Codes as Remove Name, and go to Closing 1.\nIf Yes: Are you 21 or older?” Ino: Code as Under 21, and go to Closing I Ifyes: Confirm spelling of all information including phone number 3. “Lhave just a few questions about your smoking preferences...\n‘Approved: ‘Tose: “I do not smoke.” “I quit.” “I smoke a Philip Morris brand.” “I smoke a non-PHILIP MORRIS brand.” “I smoke.” “I do not smoke a Philip Morris brand.” “I smoke a non-PHILIP MORRIS brand.” “I smoke a non-PHILIP MORRIS brand.” “I smoke a non-PHILIP MORRIS brand.” “I smoke a non-PHILIP MORRIS brand.” “I smoke a non-PHILIP MORRIS brand.” “I smoke a non-PHILIP MORRIS brand.” “I smoke a non-PHILIP MORRIS brand.” “I smoke a non-PHILIP MORRIS brand.” “I smoke a non-PHILIP MORRIS brand.” “I smoke a non-PHILIP MORRIS brand.” “I smoke a non-PHILIP MORRIS brand.” “I smoke a non-PHILIP MORRIS brand.” “I smoke a non-PHILIP MORRIS brand.” “I smoke a non-PHILIP MORRIS brand.” “I smoke a non-PHILIP MORRIS brand.” “I smoke a non-PHILIP MORRIS brand.” “I smoke a non-PHILIP MORRIS brand.” “I smoke a non-PHILIP MORRIS brand.” “I smoke a non-PHILIP MORRIS brand.” “I smoke a non-PHILIP MORRIS brand.” “I smoke a non-PHILIP MORRIS brand.” “I smoke a non-PHILIP MORRIS brand.” “I smoke a non-PHILIP MORRIS brand.” “I smoke a non-PHILIP MORRIS brand.” “I smoke a non-PHILIP MORRIS brand.” “I smoke a non-PHILIP MORRIS brand.” “I smoke a non-PHILIP MORRIS brand.” “I smoke a non-PHILIP MORRIS brand.” “I smoke a non-PHILIP MORRIS brand.” “I smoke a non-PHILIP MORRIS brand.” “I smoke a non-PHILIP MORRIS brand.” “I smoke a non-PHILIP MORRIS brand.” “I smoke a non-PHILIP MORRIS brand.” “I smoke a"
+  "script": {
+    "title": "1998 UE OUTBOUND SURVEY SCRIPT",
+    "sections": [
+      {
+        "greeting": "Hello, may I speak with (list nameplease",
+        "questions": [
+          {
+            "text": "Do you wish to remain on our mailing list?",
+            "responses": [
+              {
+                "text": "I do not smoke",
+                "next_question": "The Philip Morris maintains a list of adult smokers regardless of brand. Would you like to remain on that list?"
+              },
+              {
+                "text": "I do not smoke a Philip Morris brand",
+                "next_question": "The Philip Morris maintains a list of adult smokers regardless of brand. Would you like to remain on that list?"
+              }
+            ]
+          },
+          {
+            "text": "Why haven't I ever received coupons?",
+            "responses": [
+              {
+                "text": "Philip Morris sends promotional offers and coupons to selected individuals on the mailing list",
+                "next_question": "Continue with script"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "created": "4/25/98",
+      "revised": null,
+      "approved": null,
+      "to_site": ""
+    }
+  }
 }

@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nSALNi Annu&s S'paFR T'Lphoie 653 chau:n &u spit3mlhug 2,loukeo du Rhin Q8 1oo NAyeNoNT LS fossES.03.9s.52-2-2 NX3HLOLc ct7 t9 R&uu &ef: FCxZTuO A Noyanl  fnes I JA aou1 2oo7 Sujet = Qalanu d couue sa... \n\nNote: The text appears to be a jumbled collection of words and symbols, but it can be deciphered as a message in French. \n\nDeciphered message:\n\"Salonnière Annuaires S'pagnol Toulouse 653 Chauvet & Spittel 2, Loukeo du Rhin Q8 1oo Nantes LS Fossés. 03.09.52-2-2 NX3HLOLc ct7 t9 R&uu &ef: FCxZTuO A Noyanl  fnes I JA aou1 2oo7 Sujet = Qalanu d couue sa...\"\n\nTranslated to English:\n\"Salonnière Annuaires S'pagnol Toulouse 653 Chauvet & Sp"
+  "document": null,
+  "scenario": "Relance de courrier sans réponse",
+  "writer": null,
+  "sender_person": null,
+  "sender_company": "",
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": null,
+  "date": null,
+  "place": "Nayemont les fosses",
+  "box": null
 }

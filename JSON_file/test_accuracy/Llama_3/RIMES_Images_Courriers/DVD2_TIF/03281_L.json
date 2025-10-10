@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nHQimorsd0p,le A mas 2o07 POVEDA Rarina 6 ne de Foldkch 68S6O HEiTERsD0RF 03.7o16.8.25 boF toecom Raule d Qyre 8622O INGRANDES Qbiat' Dawauda d information Hadue Tlaaew pexte saus roqon& depus puw dun... (Note: The text is in a language that is not easily readable, and the text appears to be a jumbled collection of words and phrases. However, the first few lines seem to be a reference to a specific event or date, and the subsequent lines appear to be a reference to a person or organization.)\n\nHere is the structured information that can be extracted from the text:\n\n* Event/Date: HQimorsd0p, le A mas 2o07\n* Person/Organization: POVEDA Rarina, HEiTERsD0RF\n* Location: Foldkch 68S6O\n* Date: 03.7o16.8.25\n* Time: boF toecom Raule d Qyre 8622O\n* Information: Hadue Tlaaew pexte saus roqon& depus puw dun\n\nHere is the structured JSON output:\n\n```\n{\n  \"Event/Date\": \"HQimorsd"
+  "document": "HQimorsd0p,le A mas 2o07",
+  "scenario": "POVEDA Rarina",
+  "writer": "6 ne de Foldkch",
+  "sender_person": "68S6O HEiTERsD0RF",
+  "sender_company": null,
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": "Raule d Qyre",
+  "receiver_company": "8622O INGRANDES",
+  "subject": "Qbiat' Dawauda d information",
+  "date": "03.7o16.8.25",
+  "place": "boF toecom",
+  "box": null
 }

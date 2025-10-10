@@ -1,4 +1,18 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nBIAT 907043 Ntruche Clarice Blane Elliot Humphreys R.1.B.\nTotol du vesscment 2018 Natedeloptrotion Signature du clicnt Caisse Cocher ct visa de la AT 06/05122 rresgipre 2018\n2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2041 2042 2043 2044"
+  "code": "BIAT",
+  "number": "907043",
+  "names": [
+    "Ntruche",
+    "Clarice Blane",
+    "Elliot Humphreys"
+  ],
+  "reference": "R.1.B.",
+  "description": "Totol du vesscment",
+  "year": "2018",
+  "note": "Natedeloptrotion",
+  "signature": "Signature du clicnt",
+  "department": "Caisse",
+  "action": "Cocher ct visa de la AT",
+  "date": "06/05122",
+  "misc": "rresgipre"
 }

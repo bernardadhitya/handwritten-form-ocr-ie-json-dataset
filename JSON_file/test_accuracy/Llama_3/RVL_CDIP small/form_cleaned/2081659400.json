@@ -1,4 +1,37 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n% COMMUNICATION RESULT REFORT ( NOV.16.1996 6:31AM) x ¥ x “REASON FOR ERROR.\nety HE G.UP OR LINE FAIL £3} Ne ANGER WI PTION ADDRESS (GROUP) RESULT Pace 1% P38 £2) Busy Ea} NO FACSIMILE CONNECTION post [Gory >) PHILIP MORRIS USA Marketing, Information & Planning 100 Park Avenue...\nDate: 03/3 [oo Name; Anrttan ¥ CEALS for Tits Company, Lv Sof Are DS | Fax #: Bu SPITE — Views) Sense Visnna Lane ds EROM:\nvane: Mtge Wsaoach | i O0vES91807 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+  "communicationResultReport": {
+    "date": null,
+    "time": null,
+    "fileMode": null,
+    "option": "FILE MODE",
+    "addressGroup": null,
+    "result": null,
+    "page": null,
+    "memoryTx": "479",
+    "errorReason": [
+      {
+        "code": null,
+        "description": null
+      },
+      {
+        "code": null,
+        "description": null
+      }
+    ]
+  },
+  "sender": {
+    "company": null,
+    "department": null,
+    "address": null,
+    "fax": "(917) 663-5327"
+  },
+  "faxTransmittalSheet": {
+    "date": null,
+    "amount": null,
+    "name": null,
+    "title": null,
+    "company": null,
+    "faxNumber": "2081659400",
+    "fromName": "Name"
+  }
 }

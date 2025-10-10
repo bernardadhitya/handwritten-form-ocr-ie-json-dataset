@@ -1,4 +1,112 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nMAR 22 198 16125 FR PRNOLDEPORTER LA To 12123075736 P.21/03 Arnold & Porter Forty Fourth Floor 77 South Figueroa Street {Las Angeles, California 90017-2513 Telephone (213) 243-4000 ‘Telecopier (213) 2...\nNO.OF PAGES: “3_ OUR FILE: 08633.285 neg ma TO: Name/Kinn ‘Telefax Number Contact Number Ll John Mulderig/David Florendo (212) 907-5796 (212) 880-3056/3042, 2. Jean Mahon (212) 907-5730 (212) 878-2056...\nTRANSMISSION PROBLEMS: Please contact (213) 243-4064 (Kate Jensen).\n“THIS MESSAGE AND ANY MATERIAL TRANSMITTED IS INTENDED ONLY FOR THE USK OF THE ADDRESSEE [AND MAY CONTAIN INFORMATION TUAT IS PRIVILEGED, CONFIDENTIAL AND EXEMPT FROM DISCLOSURE.\nENDER APPLICABLE LAW. IF YOU ARE NOT THE INTENDED RECIPIENT VOU ARE MEREBY NOTIFTED THAT [ANY USE OW DISSEMINATION OF THIS COMMUNICATIONS IS STRICTLY PROBIBITED. IF YOU BAVE RCEIVED THIS COMMUNICATION...\nSDOPM-AZ Rev. 32097 oveoeLLoz 1/2/97 1:00 PM Page 1\n“THIS MESSAGE AND ANY MATERIAL TRANSMITTED IS INTENDED ONLY FOR THE USE OF THE ADDRESSEE [AND MAY CONTAIN INFORMATION THAT IS PRIVILEGED, CONFIDENTIAL AND EXEMPT FROM DISCLOSURE. IF YOU ARE NOT THE INTENDED RECIPIENT YOU ARE HEREBY NOTIFIED THAT ANY USE OR DISSEMINATION OF THIS COMMUNICATION IS STRICTLY PROHIBITED. IF YOU HAVE RECEIVED THIS COMMUNICATION IN ERROR, PLEASE CONTACT THE SENDER AND DESTROY THE ORIGINAL MESSAGE AND ANY COPY THEREOF.\n“THIS MESSAGE AND ANY MATERIAL TRANSMITTED IS INTENDED ONLY FOR THE USE OF THE ADDRESSEE [AND MAY CONTAIN INFORMATION THAT IS PRIVILEGED, CONFIDENTIAL AND EXEMPT FROM DISCLOSURE. IF YOU ARE NOT THE INTENDED RECIPIENT YOU ARE HEREBY NOTIFIED THAT ANY USE OR DISSEMINATION OF THIS COMMUNICATION IS STRICTLY PROHIBITED. IF YOU HAVE RECEIVED THIS COMMUNICATION IN ERROR, PLEASE CONTACT THE SENDER AND DESTROY THE ORIGINAL MESSAGE AND ANY COPY THEREOF.\n“THIS MESSAGE AND ANY MATERIAL TRANSMITTED IS INTENDED ONLY FOR THE USE OF THE ADDRESSEE [AND MAY CONTAIN INFORMATION THAT IS PRIVILEGED, CONFIDENTIAL AND EXEMPT FROM DISCLOSURE. IF YOU ARE NOT THE INTENDED RECIPIENT YOU ARE HEREBY NOTIFIED THAT ANY USE OR DISSEMINATION OF THIS COMMUNICATION IS STRICTLY PROHIBITED. IF YOU HAVE RECEIVED THIS COMMUNICATION IN ERROR, PLEASE CONTACT THE SENDER AND DESTROY THE ORIGINAL MESSAGE AND ANY COPY THEREOF.\n“THIS MESSAGE AND ANY MATERIAL TRANSMITTED IS INTENDED ONLY FOR THE USE OF THE ADDRESSEE [AND MAY CONTAIN INFORMATION THAT IS PRIVILEGED, CONFIDENTIAL AND EXEMPT FROM DISCLOSURE. IF YOU ARE NOT THE INTENDED RECIPIENT YOU ARE HEREBY NOTIFIED THAT ANY USE OR DISSEMINATION OF THIS COMMUNICATION IS STRICTLY PROHIBITED. IF YOU HAVE RECEIVED THIS COMMUNICATION IN ERROR, PLEASE CONTACT THE SENDER AND DESTROY THE ORIGINAL MESSAGE AND ANY COPY THEREOF.\n“THIS MESSAGE AND ANY MATERIAL TRANSMITTED IS INTENDED ONLY FOR THE USE OF THE ADDRESSEE [AND MAY CONTAIN INFORMATION THAT IS PRIVILEGED, CONFIDENTIAL AND EXEMPT FROM DISCLOS"
+  "header": {
+    "document_id": null,
+    "to": null,
+    "page": "P.01/03",
+    "code": "4M",
+    "initials": null
+  },
+  "company": {
+    "name": "Arnold & Porter",
+    "address": {
+      "floor": null,
+      "street": null,
+      "city": "Los Angeles",
+      "state": null,
+      "zip": null
+    },
+    "telephone": null,
+    "telecopier": "(213)243-4199"
+  },
+  "fax": {
+    "type": "MULTI-ADDRESS TELEFAX TRANSMISSION SHEET",
+    "date": null,
+    "time": null,
+    "number_of_pages": 3,
+    "file": null
+  },
+  "recipients": [
+    {
+      "name_firm": null,
+      "telefax_number": "(212)907-5796",
+      "contact_number": null
+    },
+    {
+      "name_firm": null,
+      "telefax_number": null,
+      "contact_number": null
+    },
+    {
+      "name_firm": null,
+      "telefax_number": null,
+      "contact_number": null
+    },
+    {
+      "name_firm": null,
+      "telefax_number": null,
+      "contact_number": null
+    },
+    {
+      "name_firm": null,
+      "telefax_number": null,
+      "contact_number": null
+    },
+    {
+      "name_firm": null,
+      "telefax_number": "(312)558-5700",
+      "contact_number": null
+    },
+    {
+      "name_firm": "Mark Helm (MTO)",
+      "telefax_number": null,
+      "contact_number": null
+    },
+    {
+      "name_firm": "Lonnie Nunley, III B. Otero (H&W)",
+      "telefax_number": null,
+      "contact_number": null
+    },
+    {
+      "name_firm": null,
+      "telefax_number": "(215)994-2222",
+      "contact_number": null
+    },
+    {
+      "name_firm": null,
+      "telefax_number": null,
+      "contact_number": "612343-7903"
+    },
+    {
+      "name_firm": "Susanne Addy (A&P DC)",
+      "telefax_number": null,
+      "contact_number": "(202)942-6079"
+    },
+    {
+      "name_firm": null,
+      "telefax_number": null,
+      "contact_number": null
+    },
+    {
+      "name_firm": null,
+      "telefax_number": null,
+      "contact_number": null
+    },
+    {
+      "name_firm": null,
+      "telefax_number": null,
+      "contact_number": "602207-1288"
+    }
+  ],
+  "from": {
+    "name": null,
+    "phone": null
+  },
+  "message": {
+    "content": null,
+    "disclaimer": null
+  },
+  "footer": {
+    "code": "JDOPM-AZA",
+    "revision_date": null
+  }
 }

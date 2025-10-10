@@ -1,4 +1,19 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nDCR2 USE 00 0 / 3 C.MAURICE FULTON NORTON,VIRGINIA24273 P.O.BOX416 51829 7132  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "
+  "DCR2": {
+    "USE": "USE",
+    "Code": "00",
+    "Slash": "/",
+    "Number": "3",
+    "Name": "C.MAURICE FULTON",
+    "Location": {
+      "City": "NORTON",
+      "State": "VIRGINIA",
+      "Zip": "24273"
+    },
+    "Address": {
+      "POBox": "P.O.BOX416",
+      "Code1": "51829",
+      "Code2": "7132"
+    }
+  }
 }

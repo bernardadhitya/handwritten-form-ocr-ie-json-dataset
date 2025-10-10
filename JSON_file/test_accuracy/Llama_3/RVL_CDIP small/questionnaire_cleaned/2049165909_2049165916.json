@@ -1,4 +1,23 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nwey ton conseneyce an Iot cxove oa \"g UE TIME:(o 22 240 MADISON A +. #°04/359) NEW YORK, NY 10916 Social Networks Screener 2 * °*/2 re cxoent nae: Gene SIAWIK VE 979-SEST RE.\nappress:_23-7/ 734 SZ crrv: the Koa 1 zre:_1/322 4 A Hello, this is calling from We're conducting a survey among men between the ages of 18 and 24. Does anyone living in your household fit that descri...\nYes No a. Packaged cookies zw —_ b. Diet or low-calorie soft drinks x ©. Regular soft drinks x _ d. Decaffeinated coffee _ a e. Regular coffee x _ £ Cigarettes a _ (If answered \"no\" to cigarettes, THA...\nIH 4069 Ta b0z 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+  "conference_center": "NEW YORK CONFERENCE CENTER",
+  "group_date_time": "GROUP DATE/TIME",
+  "address": {
+    "street": "240 MADISON AVENUE",
+    "city": "NEW YORK",
+    "state": "NY",
+    "zip": "10016"
+  },
+  "survey": {
+    "title": "Social Networks Screener",
+    "job_number": "JOB#04/359",
+    "respondent": {
+      "name": "GVES/M/N",
+      "phone": "2/8779-S8S",
+      "address": "33-773S7",
+      "city": "KO",
+      "zip": "32"
+    },
+    "questions": [],
+    "contact_number": "2/8779-S8S"
+  }
 }

@@ -1,4 +1,19 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nDUPLICATE, REQUISITION Date_/r2/s Permission requested for:\n1. Long Distance Call -\n2. Dispatch of Telegram y 1 3. Temporary Help - en 4, Special Art or Layout Work _ 5. Special Research Work —— -\n6, Books & Supplies. ° 7. Out- of - Town ‘Trips — 8.5 graving or Typeset 9, Equipment or Repairs 10. Sundry Expenses... | 7.\nClient _1eky Strike ~ American Tobaoee Co-:\nReasons:_ (Charge to Lucky Strike ~.footbel.\nbak over). _ 2. (Charge to Lucky Strike ~.footbel.\nbak under). 3. (Charge to Lucky Strike ~.footbel.\nbak under). 4. (Charge to Lucky Strike ~.footbel.\nbak under). 5. (Charge to Lucky Strike ~.footbel.\nbak under). 6. (Charge to Lucky Strike ~.footbel.\nbak under). 7. (Charge to Lucky Strike ~.footbel.\nbak under). 8. (Charge to Lucky Strike ~.footbel.\nbak under). 9. (Charge to Lucky Strike ~.footbel.\nbak under). 10. (Charge to Lucky Strike ~.footbel.\nbak under). 11. (Charge to Lucky Strike ~.footbel.\nbak under). 12. (Charge to Lucky Strike ~.footbel.\nbak under). 13. (Charge to Lucky Strike ~.footbel.\nbak under). 14. (Charge to Lucky Strike ~.footbel.\nbak under). 15. (Charge to Lucky Strike ~.footbel.\nbak under). 16. (Charge to Lucky"
+  "type": "REQUISITION",
+  "date": "6/22/s6",
+  "permissions_requested": [
+    "Long Distance Call",
+    "Dispatch of Telegram Day Lotter",
+    "Temporary Help",
+    "Special Art or Layout Work",
+    "Special Research Work",
+    "Books & Supplies",
+    "Out-of-Town Trips",
+    "Engraving or Typesetting",
+    "Equipment or Repairs",
+    "Sundry Expenses"
+  ],
+  "client": "Luoky Strike- American Tobacco Co",
+  "name": "baok oorer)",
+  "cost": "634341784"
 }

@@ -1,4 +1,13 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nTonnelier Jean 3rue d'Albeville 672zo Abe 03.2898 79.35 N TOw Q 88 France Felephone madame.\nmOn s1eUr livre par avance merci salutations onnelier Jean 3rue d'Albeville 672zo Abe 03.2898 79.35 N TOw Q 88 France Felephone madame.\n\nThe text is a letter written in French, with some intentional errors and typos. Here is the structured JSON output:\n\n```\n{\n  \"name\": \"Tonnelier Jean"
+  "document": null,
+  "scenario": null,
+  "writer": "Tonnelier Jean",
+  "sender_person": "Tonnelier Jean",
+  "sender_company": "N TOw Q 88",
+  "sender_tel": "03.2898 79.35",
+  "sender_fax": null,
+  "receiver_person": "madame",
+  "receiver_company": "France Felephone",
+  "date": null,
+  "place": "3rue d'Albeville, 672zo Abe"
 }

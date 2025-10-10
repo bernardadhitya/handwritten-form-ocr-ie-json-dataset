@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nTHI BAJT 13 16 Bd d& Bacon o9r90 CAP D'ANTiBES Banqse Cuclt Popuiai 23ue aint 029 tt Equvi lle Cap d'Antibes &,O1 AuriP 2oO7 RoYena: MS JM i 1g Concenant men comyt chey voss.wxn uqrof 3)? ou vonr mo... (rest of the text is garbled and unreadable)\n\nHere is the structured information that can be extracted from the text:\n\n* Event: Thi Bajt\n* Date: 13 16 ( likely a date in the format of day month year)\n* Location: Cap d'Antibes\n* Event Type: Banquet\n* Guest: MS JM i 1g Concenant men comyt chey voss\n* Other: AuriP 2oO7 RoYena\n\nHere is the structured"
+  "document": "THI BAJT",
+  "scenario": "13 16",
+  "writer": "Bd",
+  "sender_person": "d& Bacon",
+  "sender_company": "o9r90",
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": "CAP D'ANTiBES",
+  "receiver_company": "Banqse Cuclt Popuiai",
+  "subject": "23ue aint",
+  "date": "029 tt",
+  "place": "Equvi lle",
+  "box": "Cap d'Antibes"
 }

@@ -1,4 +1,33 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nRIRT R&D HUMAN RESEARCH REVIEW COMMITTEE e@ REVIEW FORM 1991 Membership: C. A. Blixt, J. D. deBethizy, H. M. Dufour, R. G. Fletcher, J. S. Gentry, R. G. Haberkern, L. J. Inman, B. M. Lawrence, J. H. L...\nDate April 9, 1991 Initial beside the relevant statement below I approve the proposar_ fff I disapprove the proposal.\nComments (required only if proposal is disapproved, add additional pages if required) :\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TOses\n9TTT TO"
+  "committee": "RJRT R&D HUMAN RESEARCH REVIEW COMMITTEE",
+  "reviewForm": {
+    "membership": [
+      "C.A.Blixt",
+      "J.D. deBethizy",
+      "W.M.Dufour",
+      "R.G. Fletcher",
+      "J.S.Gentry",
+      "R.G.Haberkern",
+      "L.J. Inman",
+      "B.M.Lawrence",
+      "J.W.Lawson",
+      "J.H.Reynolds",
+      "M.R.Savoca",
+      "R.L. Suber"
+    ],
+    "reviewerInstructions": "Please fill out this form after you have given consideration to the attached proposal. During your review, keep in mind the guidelines established for human research review. Return the form as soon as possible to J. H. Reynolds, RJRT R&D, Bowman Gray Technical Center, Bldg. 611-13/Co, Room 101G. If you have questions, please call J. H. Reynolds at 741-4390.",
+    "proposal": {
+      "title": "Plasma Nicotine Study: WINsoN Prototypes",
+      "number": "R9120"
+    },
+    "reviewer": {
+      "name": "Resleberf",
+      "date": "April 9, 1991"
+    },
+    "approval": {
+      "approve": "I approve the proposal",
+      "disapprove": "DCH",
+      "comments": "50801 1116"
+    }
+  }
 }

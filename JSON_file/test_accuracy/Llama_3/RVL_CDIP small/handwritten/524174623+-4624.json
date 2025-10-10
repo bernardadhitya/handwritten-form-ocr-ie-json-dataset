@@ -1,4 +1,17 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n30 C t* wsqm 2L Mo Rou Russo would liKe 4o haue xhe nformati fe coten f Cigaretbes sent to me.Im.\nAaing t bands sn+f tho Doals.l smoK Fp yxm) C1al 100s,cnd My Ro Russe us 12-/2/7 4S1_3.Cmlio lle.\nDeland. F1.\n32724-5917 52417 4623 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+  "temperature": 30,
+  "unit": "C",
+  "code": "wsqm 2L",
+  "name": "Rou Russo",
+  "request": "Cigaretbes sent to me",
+  "brand": "Mo",
+  "address": {
+    "name": "Ro Russe",
+    "date": "12-02-27",
+    "street": "Cmlio lle.",
+    "city": "Deland",
+    "state": "F1",
+    "zip": "32724-5917"
+  },
+  "phone": "52417 4623"
 }

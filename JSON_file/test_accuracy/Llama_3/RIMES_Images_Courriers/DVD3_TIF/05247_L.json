@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nRossep David 9 GRavde = RvE 88 %Jo PLEVAIN Cooke TER. ©F-48- 37.95.68 Reererce Bak, KABHS 05 ( Obs Commande A achons pect dren Poe teu moe a de A500 eum, Hote Der uu der deucers Aer Vaks Kinamesees de... (Translation: Rossep David 9 GRavde = RvE 88 %Jo PLEVAIN Cooke TER. 48-37.95.68 Reererce Bak, KABHS 05 ( Obs Commande A achons pect dren Poe teu moe a de A500 eum, Hote Der uu der deucers Aer Vaks Kinamesees de...)\n\n## Step 1: Identify the structured information in the text\nThe text appears to be a phone number or address in a non-standard format. The structured information is likely to be the phone number or address itself, which is embedded within the text.\n\n## Step 2: Extract the structured information\nThe structured information is: Rossep David 9 GRavde = RvE 88 %Jo PLEVAIN Cooke TER. 48-37.95.68 Reererce Bak, KABHS 05 ( Obs Commande A achons pect dren Poe teu moe a de A500 eum, Hote Der uu der deucers Aer Vaks Kinamesees de...\n\n"
+  "document": "ROS SARD",
+  "scenario": null,
+  "writer": null,
+  "sender_person": "pnvC",
+  "sender_company": "& GRANDE RUE",
+  "sender_tel": "88 39o BLEVAiN COUAT",
+  "sender_fax": "T2l: 03.48.37.95.68",
+  "receiver_person": "Reerene C&aF",
+  "receiver_company": "KABHS O5",
+  "subject": "r: coamaulk dachon uuenes pou uu modanF cle 15oo euo.",
+  "date": null,
+  "place": "Flowreu",
+  "box": "myYMmuov m"
 }

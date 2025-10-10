@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\ndamel leramte le 9/2/0F 2 plau fnees pe chens 2617o 5us les laronms gouille toldcom le bue 3617o St Gvam Madame, Monneun, Je sus ane3 mese pa vote ofhe de telephone T'aimeras sanour commen en benef'ce...\nTe uus wneru c me faie pavenr um domer compler 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+  "document": "damel leramte",
+  "scenario": "le 9/2/0F",
+  "writer": "Madame, Monneun",
+  "sender_person": null,
+  "sender_company": "toldcom",
+  "sender_tel": "3617o St Gvam",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "date": "le 9/2/0F",
+  "place": null,
+  "box": null
 }

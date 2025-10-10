@@ -1,4 +1,12 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nPROCLAMATION OF THE COMMISSIONER OF PUBLIC HEALTH FOR THE STATE (CITY, TOWN) OF A CALL FOR ALL VICTIMS OF CIGARETTE AND TOBACCO INDUCED: DISEASE 10 INITIATE PERSONAL INJURY/PRODUCT LIABILITY LAWSUITS...\n1§ Whereas epidemic cigarette and tobacco-induced disease causes 350,000 preventable American deaths a year and is the number one cause of premature death in the State (City, Town) of and the Nation,...\n7§ Whereas cigarettes and tobacco products are addictive and contain substances which in normal use are highly dangerous and cause epidemic disease, death, and disability and therefore may be characte..."
+  "proclamation": "OF THE COMMISSIONER OF PUBLIC HEALTH FOR THE STATE CITYTOWN OF A CALL FOR ALL VICTIMS OF CIGARETTE AND TOBACCO INDUCED DISEASE TO INITIATE PERSONAL INJURY/PRODUCT LIABILITY LAWSUITS AGAINST THE TOBACCO INDUSTRY, FOR THE PROTECTION OF ALL CITIZENS AGAINST THE MOST LETHAL EPIDEMIC OF DISEASE, DEATH AND DISABILITY IN OUR NATION'S HISTORY.",
+  "call_for": "ALL VICTIMS OF CIGARETTE AND TOBACCO INDUCED DISEASE TO INITIATE PERSONAL INJURY/PRODUCT LIABILITY LAWSUITS AGAINST THE TOBACCO INDUSTRY",
+  "whereas_statements": [
+    "Whereas epidemic cigarette and tobacco-induced disease causes 350,000 preventable American deaths a year and is the number one cause of premature death in the State (City, Town) of and the Nation.",
+    "Whereas cigarettes cause heart attacks and heart failure, emphysema and chronic obstructive lung disease, bronchitis, pneumonia and upper respiratory infections as well as addiction, fetal injury, burn injury, allergic reactions, stroke, peripheral vascular disease, and cancers of the mouth, lips, tongue, larynx, lungs, pancreas, esophagus, bladder and other organs, resulting in the deaths of 350,000 Americans each year, leaving millions of others sick and disabled.",
+    "Whereas prevention is the best and the least expensive medicine, and lethal epidemic agents such as tobacco require strong measures to protect the general population.",
+    "Whereas current educational and regulatory measures to curb contain and eliminate tobacco and cigarette-diseases have failed",
+    "Whereas proper legislative remedies are thwarted by the immense lobbying power of the tobacco industry and the self-censorship of much of the news media due to economic pressure from tobacco advertisers",
+    "Whereas cigarettes and tobacco products are addictive and contain substances which in normal use are highly dangerous and cause epidemic disease, death, and disability and therefore may be characterized as unreasonably unsafe and irresponsibly marketed products"
+  ]
 }

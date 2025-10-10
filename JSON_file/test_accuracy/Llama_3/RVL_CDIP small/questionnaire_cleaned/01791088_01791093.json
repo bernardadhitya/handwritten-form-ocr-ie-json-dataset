@@ -1,4 +1,71 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nCOMMUNICUS, INC. Male 5-1 Chicago 6-1 Project LLD-7 Female -2 New York -2 april, 1978 San Francisco -3 cro F 4-6 4 NAME: TIME BEGAN: PM aM ADDRESS: TIME ENDED: PM cxry/Tom: STATE:\nTELEPHONE #:_(__) ZIP CODE:\nINTERVIEWED BY: DATE:\nVALIDATED BY: DATE:\nHello, I'm from Communicus, a consumer opinion firm. We are conducting @ survey and would like to include you.\n1a. Do you smoke filter, non-menthol cigarettes? Yes? CONTINUE No ==) TERMINATE b. How many cigarettes do you usually smoke per day? (DO NOT READ LIST.) 0-9 ———> TERMINATE Between 10 and 15 7-1 16 to...\n8-1 REFER 10 LIST OF BRANDS. IF BRAND GIVEN IS FROM QUOTA 1, THEN CIRCLE -2 -l. IF FROM QUOTA 2, THEN CIRCLE -2.\n2. Which of the following statements apply to you? A. I eat dinner in a restaurant at least once a month. a “B. I read a daily newspaper. 2 ©. 1 do most of the food shopping for myself and/or my famil...\nD. I have taken an airline trip on a scheduled commercial airline in the past 12 months. “4 3. Into which of the following age groups do you fall? (READ LIST.) © B Under 21 —= TERMINATE 3 21 - 34 9-1...\n65+ —> TERMINATE gz (P) 4. Which of the survey questions will you answer? (READ LIST.) 5. What is your occupation? (READ LIST.) 6. What is your highest level of education? (READ LIST.) 7. What is your annual household income? (READ LIST.) 8. What is your marital status? (READ LIST.) 9. What is your gender? (READ LIST.) 10. What is your age? (READ LIST.) 11. What is your zip code? (READ LIST.) 12. What is your telephone number? (READ LIST.) 13. What is your address? (READ LIST.) 14. What is your state? (READ LIST.) 15. What is your time zone? (READ LIST.) 16. What is your time of day? (READ LIST.) 17. What is your name? (READ LIST.) 18. What is your occupation? (READ LIST.) 19. What is your highest level of education? (READ LIST.) 20. What is your annual household income? (READ LIST.) 21. What is your marital status? (READ LIST.) 22. What is your gender? (READ LIST.) 23. What is your age? (READ LIST.) 24. What is your zip code? (READ LIST.) 25. What is your telephone number? (READ LIST.) 26. What is your address? (READ LIST.) 27. What is your state? (READ LIST.) 28. What is your time zone? (READ LIST.) 29. What is your time of day? (READ LIST.) 30. What is your name? (READ LIST.) 31. What is your occupation? (READ LIST.) 32. What is your highest level of education? (READ LIST.) 33. What is your annual household income? (READ LIST.) 34. What is your marital status? (READ LIST.) 35. What is your gender? (READ LIST.) 36. What is your age? (READ LIST.) 37. What is your zip code? (READ LIST.) 38. What is your telephone number? (READ LIST.) 39. What is your address? (READ LIST.) 40. What is your state? (READ LIST.) 41. What is your time zone? (READ LIST.) 42. What is your time of day? (READ LIST.) 43. What is your name"
+  "company": null,
+  "gender": null,
+  "location": {
+    "Chicago": null,
+    "New York": null,
+    "San Francisco": null
+  },
+  "project": null,
+  "group": null,
+  "group_code": null,
+  "time": null,
+  "name": "NAME",
+  "time_began": null,
+  "address": "ADDRESS",
+  "city_town": null,
+  "state": "STATE",
+  "telephone": null,
+  "zip_code": null,
+  "interviewed_by": "INTERVIEWED BY",
+  "interview_date": null,
+  "validated_by": "VALIDATED BY",
+  "validation_date": null,
+  "introduction": null,
+  "questions": {
+    "1a": {
+      "question": "Do you smoke filter, non-menthol cigarettes?",
+      "answers": {
+        "Yes": "CONTINUE",
+        "No": null
+      }
+    },
+    "1b": {
+      "question": null,
+      "answers": {
+        "0-9": null,
+        "10-15": null,
+        "16-25": null,
+        "More than 25": null
+      }
+    },
+    "1c": {
+      "question": null,
+      "instruction": "PROBE FOR SPECIFIC STYLE. REFER TO LIST OF BRANDS. IF BRAND GIVEN IS FROM QUOTA 1 THEN CIRCLE 2 -1. IF FROM QUOTA 2 THEN CIRCLE -2."
+    },
+    "2": {
+      "question": null,
+      "statements": {
+        "A": null,
+        "B": null,
+        "C": "I do most of the food shopping for myself and/or my family.",
+        "D": null
+      },
+      "codes": {
+        "A": null,
+        "B": null,
+        "C": null,
+        "D": "-4"
+      }
+    },
+    "3": {
+      "question": null,
+      "age_groups": {
+        "Under 21": null,
+        "21-34": null,
+        "35-65": null,
+        "65+": "TERMINATE"
+      }
+    }
+  }
 }

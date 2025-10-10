@@ -1,4 +1,20 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nDepartment of Transportation 400 7th Street, $.W., Room PL-401 Washington, D.C. 20590 ET 26 in insane In Re NPRM. ) Docket No.;S16-\nSmoking in Airports ) Notice 96:25, RIBS 2108-A€:\nCOMMENTS CONCERNING SMOKING IN AIRPORTS S nivLeossHouE PATH ONLY: DOT kas sogeted that uaanesing passengers sentve to tbaeco smoke “a path of acces frome terminal fenteance to the airraft fee from exp...\nZATING aeens, Bae nce Conna JST Rooms Foe Pie ke NEED Te Re Smee TC pie MAU TO moves TH rook THE SE BREAS AMO THE Smit Els weemrmwvé To OUR WASAL MOSSA EIS AWD Ponts SeELS8E902 » » » BE SURE TO FILL O..."
+  "department": "Department of Transportation",
+  "docket": "DOCKE i",
+  "address": "400 7th Strect,S.W.,Room PL-401, Washington,D.C.20590",
+  "in_re": "NPRM Smoking in Airports",
+  "comments": {
+    "path_only": {
+      "description": "guarantecing passengers sensitive to tobacco smoke a path of access from the terminal entrance to the aircraft free from exposure to tobacco smoke, perhaps by using an enclosed cart that took the passenger through the airport without exposure to smoke, would provide sufficient protection.",
+      "question": "Do you agree or disagree? Why?",
+      "response": null
+    },
+    "other_areas": {
+      "description": "Are there other areas of the airport terminal that passengers-including those sensitive to tobacco smoke - frequently must use while traveling, and where they therefore need protection from exposure to tobacco smoke (e.g., restrooms, telephones, eating areas, baggage claim, news stands and other stores, ticket counters, etc.)?",
+      "question": "If yes, explain why these areas are important to travelers, and what smoking restrictions (if any) should be adopted.",
+      "response": null
+    }
+  },
+  "note": "TFCAC WAAAWWKACETCSLLS",
+  "comment_form_note": "BE SURE TO FILL OUT THE OTHER SIDE ALSO This comment form is provided as a public service, and may be freely duplicated."
 }

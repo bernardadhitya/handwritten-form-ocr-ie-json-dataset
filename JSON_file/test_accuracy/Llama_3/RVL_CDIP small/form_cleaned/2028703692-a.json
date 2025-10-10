@@ -1,4 +1,26 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nOe: J. Van gen Bulcke Pow: Herm A. Eberhard Von. an From To.\nFe: Angepaiite Tabelle “Costs of Laboratory | Owe: 08 Sep.02 Extension of CRC, 1993\" ‘hore: INBIFO i Fuggersu. 9 (0-5000 Kein 90 Reman Lieder Herr Ebernard, anve! hngen Sie aie obengenanate Tabelle. D...\nZN Van Voor De. J: Vanden Buicke Pow: Hern Or W Reiningnaus Vor me From To:\nFe; Tabelie Costs of Laboratory Extension of | Ome. 08 Sop 02 CRC, 1993\" : :\n‘poaress, INBIFO Fuggersu. 3 : 10-5000 Koin 90 Remarks: Sehr goenrter Her Doktor Reininghaus, nba! inden Sie die obengenannte Tabelle. Diese Tabelle wurde im Vergleich 2ur vornerigen Version ~ angepas...\n8 1932 Zaventem (Sini Stevens: WAGs Tollaan / Avenue du-Péage 1016-~ at soc: Zaverte, Botha Teletoon / Téléphone : 02 - 72081 74 BTW TUR eae ons Telefax / Télétax : 02 - 725 1209 + Genera Bank / Géndr..."
+  "messages": [
+    {
+      "telofax_message_no": "2614",
+      "from": "J.Van den Buicke",
+      "to": "Herrn A. Eberhard",
+      "date": "08.Sep.92",
+      "subject": "AngepaBte Tabelle Costs of Laboratory",
+      "address": "INBIFO, Fuggerstr.3, D5000Koln 90",
+      "remarks": "Lieber Herr Ebernard. angepaBt autgrung von der genaueren Scnatzung des Antangsdatums der Lab Technicians und deren Gehater der moglicnen Zumietung von Raumen ert ab O1.Dez.93. Viele GruBe",
+      "phone": "02-7208174",
+      "fax": "02725 1209"
+    },
+    {
+      "telofax_message_no": "2615",
+      "from": "J.Van den Buicke",
+      "to": "Herrn Or.W Reininghaus",
+      "date": "08.Sep.92",
+      "subject": "Tabelle Costs ot Laboratory Extension of CRC.1993",
+      "address": "INBIFO, Fuggerstr.3, D5000Koln 90",
+      "remarks": "Sehr geenrter Herr Doktor Reininghaus, angepaBt aufgrund von - der genaueren Schatzung des Anfangsdatums der Lab Techniclans und deren Gehater der moglichen Zumietung von Raumen erst ab Q1 Dez.93. Mit freundlichen GruBen",
+      "phone": "02-7208174",
+      "fax": "02-7251209"
+    }
+  ]
 }

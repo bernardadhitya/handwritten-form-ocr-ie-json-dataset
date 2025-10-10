@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nTELECOPIE DO 55/57,rue Brillat Savarin Date :\n23.11.06 75013 Paris Tel.:0143133333 Nombre de pages Fax:0143 13 33 30 (celle-ci comprise :\nDe : Christe 2`lleF 1ANiF AsseRacs A:\nH Redu 1u jellet 11 11o Sxllo d`Aede Téléphone :\n+331431333.33 Te1écopie : Ol 6 o 7 6 43 33 Télécopie :\n+331-43-13-33-30 Cc O3 23 88 o3 u 2 0bjet : Ceon dSAKe Notes:\nUrgent Pour information Réponse au plus Veuillez vite commenter Veeuller tewrer un ro wHloun 4noP-Y enofar al`amab)e Cmergant I'accudeht de LaRot we yai pouopue.\nELDA S.A : 250000£ - R.C.S. PARIS B 402 781 876 (95B14795) - EURO-ID N° : FR-53402781876 55-57 rue Brillat Savarin 75013 Paris - France Tel: +33 1 43 13 33 33 - Fax: +33 1 43 13 33 30 - Email: raymond...@eldas.com - Website: www.eldas.com\n\nThe text is a formal business letter, likely from a company to a client or partner. The structured JSON output should include the following information:\n\n* Company name\n* Company address\n* Company phone number\n* Company fax number\n* Company email\n* Company website\n* Date of the letter\n* Sender's name\n* Sender's title\n* Sender's company\n* Sender's phone number\n* Sender's fax number\n* Sender's email\n* Sender's company ID\n* Sender's ID number\n* Sender's notes\n* Sender's urgency level\n* Sender's response time\n* Sender's request\n* Sender's company ID (again, for consistency)\n\nHere is the structured JSON output:\n\n```json\n{\n  \"company_name\": \"ELDA S.A\",\n  \"company_address\": \"55-57 rue Brillat Savarin 75013 Paris - France\",\n  \"company_phone_number\": \"+33 1 43 13 33 33\",\n  \"companyFax_number\": \"+33 1 43 13 33 30\",\n  \"company_email\": \"raymond...@eldas.com\",\n  \"company_website\": \"www.eldas.com\",\n  \"date_of_letter\": \"23.11.06\",\n  \"sender_name\": \"Christe 2`lleF 1ANiF AsseRacs A\",\n  \"sender_title\": \"H Redu 1u jellet 11 11o Sxllo d`Aede\",\n  \"sender_company\": \"Téléphone :\",\n  \"sender_phone_number\": \"+331431333.33\",\n  \"senderFax_number\": \"+331-43-13-33-30\",\n"
+  "document": "TELECOPIE",
+  "scenario": "DO",
+  "writer": "Christe 2`lleF",
+  "sender_person": "1ANiF AsseRacs",
+  "sender_company": "H Redu 1u jellet",
+  "sender_tel": "+33143133333",
+  "sender_fax": "+33143133330",
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "Ceon dSAKe",
+  "date": "23.11.06",
+  "place": "55/57,rue Brillat Savarin, 75013 Paris, France",
+  "box": null
 }

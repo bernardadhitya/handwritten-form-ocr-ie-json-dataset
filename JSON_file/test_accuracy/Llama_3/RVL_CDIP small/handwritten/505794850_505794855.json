@@ -1,3 +1,86 @@
 {
-    "error": "Expecting value: line 11 column 4 (char 149)"
+  "product": {
+    "name": null,
+    "weight": null,
+    "components": [
+      {
+        "name": null,
+        "percentage": "92.92%"
+      },
+      {
+        "name": null,
+        "percentage": null
+      },
+      {
+        "name": null,
+        "weight": null,
+        "percentage": null
+      },
+      {
+        "name": null,
+        "percentage": null
+      },
+      {
+        "name": null,
+        "percentage": null
+      }
+    ],
+    "total_weight": null,
+    "total_percentage": "100.00%",
+    "notes": null,
+    "subshnte_mix": {
+      "name": null,
+      "weight_per_capsule": "3192g"
+    },
+    "additional_components": [
+      {
+        "name": null,
+        "weight": "23.74g",
+        "percentage": null
+      },
+      {
+        "name": null,
+        "weight": "64.47g"
+      },
+      {
+        "name": null,
+        "code": null,
+        "weight": "8.00g",
+        "percentage": null
+      },
+      {
+        "weight": null,
+        "percentage": "3.79%"
+      }
+    ],
+    "model_configuration": {
+      "model": null,
+      "overall_length_mm": null,
+      "fuel_source": null,
+      "inserted_by": "3mm into Capsule",
+      "capsule": {
+        "type": null,
+        "volume_filled_to": "26mm"
+      },
+      "mouth_end_piece": {
+        "type": null,
+        "hole_diameter": null,
+        "code": null
+      },
+      "tobacco_jacket": {
+        "composition": null,
+        "paper": null
+      },
+      "fiberglass_jacket": {
+        "weight": "0.075g",
+        "code": null,
+        "binder": null,
+        "underwrap_paper": null
+      },
+      "front_end_overwrap": {
+        "paper": null,
+        "flavor_code": null
+      }
+    }
+  }
 }

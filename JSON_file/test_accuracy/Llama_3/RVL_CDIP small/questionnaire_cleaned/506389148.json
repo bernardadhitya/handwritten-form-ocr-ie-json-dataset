@@ -1,49 +1,52 @@
 {
-    "ARTAP": {
-        "S30": {
-            "ATTRIBUTE_PROFILE": {
-                "1": {
-                    "Cigarette-like taste": "Yes",
-                    "artificial taste": "Ve)n"
-                },
-                "2": {
-                    "artificial taste": "Ve)n"
-                },
-                "3": {
-                    "Fresh tobacco-like taste": "Yes fo"
-                },
-                "4": {
-                    "Smoke-like taste": "ves"
-                },
-                "5": {
-                    "Background mesk?": "Decrease No effect"
-                },
-                "6": {
-                    "Dry puff character": "Ce ts: omens ig ppm Yee, 5"
-                },
-                "7": {
-                    "Aftertaste?": "régreesblo) Disagreeable"
-                },
-                "8": {
-                    "Trigeminal sensation?": "Pie nasal sting tongue bite cooling throat scratch. astringent heating 7 peppery (tingly) soothing salivating iS drying"
-                },
-                "9": {
-                    "Categorization of flavor": "Lartificial chocolate/cocoa flue-cured metallic Znutty/pyrazine burley o phenolic roasted ¥ floral't green Jhoney e Frutty/wine ; | sour/acidic'woody- spicy 4 sweet caramel | bitter"
-                },
-                "10": {
-                    "Major character description": "Ptsort wrrrds t Anak"
-                },
-                "11": {
-                    "NAME": {
-                        "pate": "4/6 REn"
-                    },
-                    "FEMA NOz CODE NOz": "ARGA RAW MATERIAL: @=76 Caryapty lene alegha",
-                    "THRESHOLD": {
-                        "1": "z |. 1 z |"
-                    },
-                    "ADDITIONAL COMMENTS": "Piney ateng gng"
-                }
-            }
-        }
+  "name": "ALPHA RECOGNITION THRESHOLD ATTRIBUTE PROFILE (ARTAP)",
+  "date": "9/",
+  "rfm": "RFM",
+  "fema_no": null,
+  "code_no": null,
+  "aroma_raw_material": "92-0",
+  "threshold": {
+    "min": "R",
+    "max": "ppm",
+    "unit": "R"
+  },
+  "attribute_profile": {
+    "1": {
+      "cigarette_like_taste": "Yes"
+    },
+    "2": {
+      "artificial_taste": "NO"
+    },
+    "3": {
+      "fresh_tobacco_like_taste": "es",
+      "comments": "Comments:"
+    },
+    "4": {
+      "smoke_like_taste": "Ye",
+      "comments": "Comments:"
+    },
+    "5": {
+      "background_mask": "Increase) Decrease No effect"
+    },
+    "6": {
+      "dry_puff_character": null,
+      "comments": "Comments:"
+    },
+    "7": {
+      "aftertaste": "Agreeable Disagreeabl",
+      "comments": "Comments:"
+    },
+    "8": {
+      "trigeminal_sensation": "nasal sting tongue bite cooling NO throat scratch astringent heating peppery (tingly) soothing salivating drying"
+    },
+    "9": {
+      "categorization_of_flavor": "Z artificia7 chocolate/cocoa flue-cured metallic I nutty/pyrazine burley phenolic 3 roasted 4flora7 Piney igreen honey Frutty/wine J sour/acidic woody spicy 50638 4 sweet carame7 /bitter"
+    },
+    "10": {
+      "major_character_description": "Mdey 9148"
+    },
+    "11": {
+      "recommendations": "K 7 1. t t0"
     }
+  }
 }

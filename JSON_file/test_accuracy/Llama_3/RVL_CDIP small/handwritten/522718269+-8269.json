@@ -1,23 +1,18 @@
 {
-    "id": "423293711",
-    "name": "Michael Wilson",
-    "address": {
-        "street": "105 Mills Ave",
-        "city": "GREENVILLE",
-        "state": "SC",
-        "zip": "29605"
-    },
-    "smokingHistory": {
-        "usualBrand": "CAMEL LIGHTS",
-        "secondChoiceBrand": "WINSTON SELECT",
-        "purchaseMethod": "By the pack"
-    },
-    "certification": {
-        "ageVerification": true,
-        "smokerStatus": "Smoker"
-    },
-    "signature": {
-        "name": "ChuL",
-        "date": "____________________"
-    }
+  "offerRestriction": "RESTRICTED TO SMOKERS 21 YEARS OF AGE OR OLDER.",
+  "id": "423293711",
+  "name": "MICHAEL WILSON",
+  "address": {
+    "street": "105MILLS AVE",
+    "city": "GREENVILLE",
+    "state": "SC",
+    "zip": "29605"
+  },
+  "usualBrand": "CAMEL LIGHTS",
+  "isUsualBrandMenthol": "Mark xoneA",
+  "usualBrandPurchaseFrequency": "09",
+  "secondChoiceBrand": "WINSTON SELECT",
+  "purchaseMethod": "Markx)one",
+  "birthCertification": "required",
+  "signature": "ChuL"
 }

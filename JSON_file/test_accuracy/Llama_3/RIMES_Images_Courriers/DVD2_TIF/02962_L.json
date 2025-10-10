@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nCHAUVET Olvie to/zo/61 o pogon fS y 3 rue du niene Chauront 882OO 5f Nbbord IO tZ h8 O9 tO Rec&: GFN B5 86 NNA Asuor Jue de la post 72s10 nanugre Suik o &emmenagemetneotavu ma cayoint,de liens & vaws...\nft nawr pr d ooie, Monueu, : I'oxyrenion d.\nmes sertirert deiinguei, 1'ocde, 1'ocde, 1'ocde, 1'ocde, 1'ocde, 1'ocde, 1'ocde, 1'ocde, 1'ocde, 1'ocde, 1'ocde, 1'ocde, 1'ocde, 1'ocde, 1'ocde, 1'ocde, 1'ocde, 1'ocde, 1'ocde, 1'ocde, 1'ocde, 1'ocde, 1'ocde, 1'ocde, 1'oc"
+  "document": "CHAUVET",
+  "scenario": "Olvie",
+  "writer": null,
+  "sender_person": "to/zo/61 o pogon fS",
+  "sender_company": "y 3 rue du niene Chauront",
+  "sender_tel": "882OO 5f Nbbord",
+  "sender_fax": "IO tZ h8 O9 tO",
+  "receiver_person": "Rec&: GFN B5 86",
+  "receiver_company": "NNA",
+  "date": "Jue de la post",
+  "place": "72s10 nanugre",
+  "box": "Suik o &emmenagemetneotavu ma cayoint,de liens & vaws"
 }

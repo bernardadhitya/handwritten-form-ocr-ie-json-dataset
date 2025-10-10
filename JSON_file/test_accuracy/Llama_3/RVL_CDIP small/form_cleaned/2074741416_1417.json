@@ -1,4 +1,59 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\npeau esmuogo spon si uy onborey | SRY coreg syosunog [e8o\"T psyeumey nun = HAL ee. il popesodng un = as unuieg = aucfy ea FS ido qwowoseuepy 2074741416 smoq wenn = 9 spr00y ajqisuodsay uo weuND = W a...\ns+0 o+o g NOIIVMUOINT INaNaINOS| - BzTOr T+ T+ SaTUvIG/SUVGNATWO/SuaWILAWa] - ¥ITOd NI T+9 T+o NOTEWAYOINT GSOD[ - 6LTOD T+ T#o BONHUNOGSSUUOD| - BLTOD SI ans ans NOTIWNYOSNT WaLNaNOo}| = LZTOO z+ z+..."
+  "document": {
+    "type": "OFFICIAL",
+    "location": "LOCATION",
+    "date": "March 21, 1991",
+    "file": {
+      "FIN": "8-4-95",
+      "SI": "HR",
+      "code": "9bL8",
+      "1OF": {
+        "date": null,
+        "total": "$860"
+      }
+    },
+    "retention_period": {
+      "issued": "ISSUED",
+      "in_storage": "W",
+      "department_code": "01 MSP-103",
+      "responsible_records_management_group": "OIIO",
+      "department_head": "C+10",
+      "legal_counsel": "PhIlIp",
+      "production_planning_control": "RETE",
+      "authorization": {
+        "record_category": "INFORMATION & PERSONNEL/EMPLOYEE FILES",
+        "records": {
+          "computer_information": "2074741416",
+          "cost_information": "151995",
+          "cigarette_orders": "CIGARETTE ORDERS",
+          "correspondence": "COMMUNICATIONS",
+          "equipment": "EQUIPMENT",
+          "packaging": "PACKAGING",
+          "budgets": "BUDGETS"
+        }
+      },
+      "key_to_retentions": {
+        "until_terminated": "Until Superseded",
+        "current_month": "Current Month",
+        "permanently": "Permanently"
+      }
+    },
+    "manufacturing_record": {
+      "category": {
+        "B0133": "-",
+        "C2232": "-",
+        "C2233": "-",
+        "DO114": "-",
+        "PO011": "-",
+        "C0400": "-",
+        "C0177": "-",
+        "C0178": "="
+      },
+      "code": {
+        "ACT": "W",
+        "Q": "SUP",
+        "TER": "TER"
+      }
+    }
+  }
 }

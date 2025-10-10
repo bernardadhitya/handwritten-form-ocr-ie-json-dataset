@@ -1,4 +1,28 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n| 21/08 \"87 18:28 FAX 32 2 7251209 ere +++ INBIFO goo1/o0z CRC Contract Research Center svaasert TELEFAX MESSAGE = } Ne 1 — Yer Process ET Sgegenaes Priority!, Confidential 2 AMAL 1 99 7 yaya Dr.P.V...\nB-1932 Zaventem Fax: 0049-2203-30 33 62 Number of pages Date: 21 May 97 including this page: 2 Re. B3271, Table: General conditions for analytical sample collection, storage and transport Dear Doctor...\n‘Thank you in advance.\nCondon a9 gov on bbb ant ob.\n22,.4.84 RUM Yours sincerely, Ly Ces x Karla Heyien Ome; 3 Enclosure: 1 table Maatchappatie satel Zaventem, Bais Hramce, prwava Ganetaie Banke Odndae da Banque Sige soca Zevontem, Baie Soa 300 Besos 0..."
+  "fax": {
+    "date": "21.MAI1997",
+    "time": "15:28",
+    "fax_number": "3227251209",
+    "pages": "2"
+  },
+  "sender": {
+    "name": "K.Heylen",
+    "organization": "INBIFO",
+    "address": "Postfach 900547, D-51115Koln",
+    "fax": "0049-2203-303362"
+  },
+  "recipient": {
+    "name": "Dr.P.Voncken",
+    "organization": "INBIFO",
+    "address": "Tollaan 101c, A, B-1932 Zaventem",
+    "tel": "32-2-7215047",
+    "fax": "32-2-725 1209"
+  },
+  "message": {
+    "date": "21 May 97",
+    "subject": "B3271,Table:General conditions for analytical sample collection, storage and transport",
+    "body": "Dear Doctor Voncken\nEnclosed you will find the above mentioned table for study B3271/P 0500 3271. Would you be so kind to check this table and make the necessary corrections.Please return a.s.a.p.\nThank you in advance.\nC onolihions ar givw in tabl one o.l\n27..57\nYours sincerely,\nP. V-L\n2505152962\nKarla Heylen\n22-0-3\nEnclosure1 table",
+    "closing": "Yours sincerely",
+    "enclosure": "1 table"
+  }
 }

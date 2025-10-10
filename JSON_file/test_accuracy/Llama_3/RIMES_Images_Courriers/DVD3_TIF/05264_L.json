@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nFOrGET Nathal SBiA1sE,& Q7 Anl QOo7 1O,ue du EoUeL O6 67O ST BLAiSE Tél.: O41208 09 01 a :B AAF Asswawcs 1O, plac Bupnet Q5Q7O le vi E r Rkf.Y&eut: L W N bU 63 Soute aux iutaupenes ayaut xu Ja Ksi&ato...\nqmomgonpo2 NcHoIe FCRGET. 1O,ue du EoUeL O6 67O ST BLAiSE Tél.: O41208 09 01 a :B AAF Asswawcs 1O, plac Bupnet Q5Q7O le vi E r Rkf.Y&eut: L W N bU 63 Soute aux iutaupenes ayaut xu Ja Ksi&ato...\n\nThe text appears to be a jumbled collection of words and numbers, but if we look closely, we can extract the following structured information:\n\n* Name: FOrGET Nathal SBiA1sE\n* Address: 1O,ue du EoUeL O6 67O ST BLAiSE\n* Phone number: O41208 09 01\n* Association: B AAF Asswawcs\n* Location: plac Bupnet Q5Q7O le vi E r Rkf"
+  "document": null,
+  "scenario": null,
+  "writer": "FORGET Nathalie",
+  "sender_person": null,
+  "sender_company": null,
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": "BAAF Assurances",
+  "date": null,
+  "place": null,
+  "box": null
 }

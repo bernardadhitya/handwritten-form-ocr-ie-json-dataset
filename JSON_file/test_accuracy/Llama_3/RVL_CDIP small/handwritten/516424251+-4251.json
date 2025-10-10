@@ -1,4 +1,17 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nROBERT A SLADE AGENCY Fax : 414-679-2642- “Feb 16 \"96 10:52 ROBERT A, SLADE AGENCY ‘& 75 W. 18983 Circle Orive ‘Mustega, Wi 83150 To: 0 ara.\nFrom: Lege Doe = 20139 473 “600330 a Number of pages: 2 ___—..\nJo-(“»- 679-46 42- 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "
+  "agency": "ROBERT A SLADE AGENCY",
+  "fax": "414-679-2642",
+  "date": "Feb 16 '96 10:52",
+  "address": {
+    "line1": "S.75W.18983 CkclOrv",
+    "city": "MuskegaWi",
+    "state": null,
+    "zip": "53150"
+  },
+  "phone": "678-0804",
+  "received": "Life in the",
+  "to": "Q07839473-600330",
+  "from": "Jes",
+  "number_of_pages": "51642",
+  "code": "4251"
 }

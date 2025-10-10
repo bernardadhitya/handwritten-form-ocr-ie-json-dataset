@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nM Décembr 2co6 RAinBAuLT Amamdn 31, Ru Somen 54 56o Audun X Roman Tel: 03.39.08.0H.10 Rf Went : OCPDB g5 HANiF Asswrances RD Ao6 33127 styean d'Illac lame 0onsiew Sams mourelle de l'expotise de mon au... (Note: This text is in French)\n\nTranslation:\n\nDecember 2, 2006 RAinBAuLT Amamdn 31, Ru Somen 54 56o Audun X Roman Tel: 03.39.08.0H.10 Rf Went : OCPDB g5 HANiF Asswrances RD Ao6 33127 styean d'Illac lame 0onsiew Sams mourelle de l'expotise de mon au...\n\nExtracted structured information:\n\n* Date: December 2, 2006\n* Location: Ru Somen 54 56o\n* Phone number: 03.39.08.0H.10\n* Reference: OCPDB g5 HANiF Asswrances RD Ao6 33127\n* Name: styean d'Illac\n* Address: styean d'I"
+  "document": "M Décembr 2co6",
+  "scenario": "RAinBAuLT Amamdn",
+  "writer": "31, Ru Somen",
+  "sender_person": "54 56o Audun X Roman",
+  "sender_company": "HANiF Asswrances",
+  "sender_tel": "03.39.08.0H.10",
+  "sender_fax": "Rf Went : OCPDB g5",
+  "receiver_person": "lame 0onsiew",
+  "receiver_company": "Sams mourelle de l'expotise de mon auto",
+  "date": "M Décembr 2co6",
+  "place": "33127 styean d'Illac",
+  "box": "RD Ao6"
 }

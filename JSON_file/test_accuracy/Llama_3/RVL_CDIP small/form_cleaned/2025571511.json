@@ -1,4 +1,22 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nKabat® Application Record DATE:___8:25-94 (retention: 3 yrs. from date) KABAT® APPLICATION SYSTEM: _Henderson_ #1 i (Dryer Line Designation) | GRADE:_E7K8 —_—____ HOGSHEADS or CASES / RUN:_733/862_130...\n(Ges, ata) LENGTH OF RUN (hrs): _8 fl REDRIED (Ibs. / kgs.) RUN:__123.685 KABAT® USED (MLS): _7425 i KABAT® LOT NUMBER (S) USED:__31001 Kabat® was applied to this strip tobacco product at a calculated...\n‘Kabat ® (@ registered trademark of Zoecon, Inc., Dallas, Texas) is a 5% wiw formulation ‘of methoprene (active ingredient) and 95 % ethanol. i Calculated Average Rate (ppm) = Kabat® used (mils) _ 103..."
+  "KabatApplicationRecord": {
+    "date": null,
+    "retention": null,
+    "kabatApplicationSystem": null,
+    "ryerLineDesignation": null,
+    "grade": null,
+    "hogsheadsOrCasesRun": "733/862 130",
+    "lengthOfRunHrs": null,
+    "redriedLbsKgsRun": null,
+    "kabatUsedMls": null,
+    "kabatLotNumbersUsed": null,
+    "calculatedAverageRatePpm": null,
+    "description": null,
+    "calculatedAverageRatePpmFormula": "Kabat used mls. X 103.1 (lbs. or 46.8 kgs.) assuming 12.35 OV",
+    "totalLbsKgsRun": null,
+    "numberOfCansEmptiedOnThisRun": null,
+    "cansTripleRinsedPuncturedCrushed": null,
+    "initialed": "Jams R. wilhon",
+    "authorizedSignature": "Jams R. wilhon"
+  }
 }

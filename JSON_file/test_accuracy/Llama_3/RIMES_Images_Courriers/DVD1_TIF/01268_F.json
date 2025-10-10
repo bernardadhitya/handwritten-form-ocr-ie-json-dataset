@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nTÉLÉCOPIE SERVICE ADMINISTRATIF & FINANCIER De DB TVR eau 8 Anh up ee A vatertion de TT Rhone Ars Eye Fax: O1 Go.+6- (FES «35 Nombre de page(s) : (oace de garde comprise) 3 Objet: nn envi abs at me No...\nSaint-Martin-au-Laert, le MESSAGE : Vans RE CENNA on frac le mon COMME as omeuve FSA France - ZI du Fond Souiri - BP 169 Saint-Martin-au-Laërt - 62 500 Saint-Martin-au-ler te! : 03,21.38.72.00 - fax :... \n\n## Step 1: Identify the structured information in the text\nThe text appears to be a business letter or email, and the structured information can be identified as follows:\n- Company name: TÉLÉCOPIE SERVICE ADMINISTRATIF & FINANCIER\n- Address: DB TVR eau 8 Anh up ee A vatertion de TT Rhone Ars Eye\n- Contact information:\n  - Phone number: O1 Go.+6- (FES «35)\n  - Fax number: O1 Go.+6- (FES «35)\n  - Email: [no email address provided]\n- Date and time: Not explicitly stated, but the message is dated \"Saint-Martin-au-Laert, le MESSAGE : Vans RE CENNA on frac le mon COMME as omeuve FSA France\"\n- Location: ZI du Fond Souiri - BP 169 Saint-Martin-au-Laërt - 62 500 Saint-Martin-au-ler te!\n- Other information:\n  - Number of pages: (oace de garde comprise) 3\n  - Object of the message: nn"
+  "document": null,
+  "scenario": null,
+  "writer": "MAISONNEUVE Antoinette",
+  "sender_person": "Maisonneuve Antoinette",
+  "sender_company": null,
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": null,
+  "date": null,
+  "place": "",
+  "box": null
 }

@@ -1,19 +1,73 @@
 {
-    "date": "AUGUST 1994",
-    "location": "Humboldt Ave. So. SCREENER 1602-40404, Minneapoil, MN 65431",
-    "person": {
-        "name": "WINONA MAB, INC.",
-        "age": "35 years of age or older",
-        "smokes": "No"
-    },
-    "questions": [
+  "company": {
+    "name": "WINONA MRB,INC.",
+    "address": "8200 Humboldt Ave.So., Minneapolls,MN 55431",
+    "study": "DATABASE REVIVAL STUDY",
+    "date": "AUGUST 1994"
+  },
+  "call": {
+    "introduction": "Hello, I'm calling long distance trom WlNONA RESEARCH.",
+    "person_on_phone": {
+      "available": {
+        "action": "CONTINUE"
+      },
+      "not_available": {
+        "action": "ARRANGE CALLBACK"
+      }
+    }
+  },
+  "questions": [
+    {
+      "question": "Are you under 21, batween 21 and 34, or 35 years of age or older?",
+      "answers": [
         {
-            "question": "Do you smoke cigarettes?",
-            "answer": "No"
+          "answer": "Under 21",
+          "action": "THANK&TERMINATE"
         },
         {
-            "question": "Did you ever smoke cigaretion?",
-            "answer": "Yes"
+          "answer": "21-34",
+          "action": "SCREEN"
+        },
+        {
+          "answer": "35 or over",
+          "action": "THANK & TERMINATE"
         }
-    ]
+      ]
+    },
+    {
+      "question": "Do you smoke clgarettes?",
+      "answers": [
+        {
+          "answer": "Yes",
+          "action": "SKIP TOQ.3"
+        },
+        {
+          "answer": "No",
+          "action": "THANK&TERMINATE"
+        }
+      ]
+    },
+    {
+      "question": "Did you ever smoke cigarettes?",
+      "answers": [
+        {
+          "answer": "Yes",
+          "action": "2073173510"
+        },
+        {
+          "answer": "No",
+          "action": "TERMINATE &TALLY"
+        },
+        {
+          "answer": "Don't know",
+          "action": "TERMINATE &TALLY"
+        }
+      ]
+    }
+  ],
+  "note": "NOTE:KEEP ALL DATA BEYOND THIS POINT",
+  "metadata": {
+    "file": "WADATA\\PMORRIS.FIL\\QUESTION.94DATABASE.49408/15/04CRM/ep",
+    "page": "Page 1"
+  }
 }

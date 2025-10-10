@@ -1,4 +1,66 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n-- at =~ v CRUDE Fut detarls will be De Rawnagce CONDENSATE Qiven tn a Forthcoming 4a gles Cin OHCs) Report ( Stored e Concentrated —— recovered at Io\" ¢ TYPE (TOTAL) mea a Heel,, Contais | ©.2 4 of... —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— —— ——"
+  "details": {
+    "author": null,
+    "report": null,
+    "report_number": null,
+    "type": null
+  },
+  "stored": {
+    "type_total": null,
+    "recovered": {
+      "t-30": null,
+      "CuC1": null,
+      "volatiles": {
+        "pentane": {
+          "volume": null,
+          "soluble_material": null,
+          "insoluble_material": null
+        }
+      },
+      "aqueous_layer": {
+        "type_pentane": null
+      }
+    }
+  },
+  "extraction": {
+    "continuous": null,
+    "ether_extract": "exhausted",
+    "sol_ether": null,
+    "concentrated_to": null,
+    "washed_successively_with": {
+      "sol_water": null,
+      "chemical_separation": {
+        "a-1": {
+          "weak_bases": null,
+          "washed_successively_with": null
+        },
+        "a-2": {
+          "stronger_bases": 0.5405,
+          "NaC": 321,
+          "NOH": null
+        },
+        "strongly_acidic_constituents": null,
+        "moderately_acidic_constituents": null,
+        "weakly_acidic_constituents": null
+      }
+    }
+  },
+  "chromatography": {
+    "subfr": {
+      "e-1": {
+        "eluted_with": null,
+        "value": 5.227
+      },
+      "e-2": {
+        "eluted_with": null,
+        "value": null
+      },
+      "50585": "subfr",
+      "pure_MeOH": 4941
+    }
+  },
+  "components": {
+    "bases": "acids",
+    "phenols": null
+  }
 }

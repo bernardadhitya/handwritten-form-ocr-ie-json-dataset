@@ -1,4 +1,13 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nul-u BP15 Cheque NO76S Payez contre ce cheque non endosseble and Fifleen A ferdre de Hiang diTao Payable tisbone 0110112022 Tiulsire du compte Signatore(s)) 0b5100b50920159100 Lay fhrno David Corbeil... (rest of the text is not relevant to the structured information)\n\nHere is the structured information:\n\n*   **Cheque Number:** NO76S\n*   **Payee:** Fifleen A\n*   **Payee Address:** Hiang diTao\n*   **Payable Date:** 0110112022\n*   **Payee Signature:** Tiulsire du compte\n*   **Signatory:** David Corbeil\n\nHere is the structured JSON output:\n\n```json\n{\n  \"Cheque Number"
+  "ul-u": "BP15",
+  "Cheque": "Cheque NO76S",
+  "Instruction": "Payez contre ce cheque non endosseble and Fifleen",
+  "A ferdre de": "Hiang diTao",
+  "Payable": "Payable",
+  "Date": "0110112022",
+  "Tiulsire du compte": "Tiulsire du compte",
+  "Account Number": "0b5100b50920159100",
+  "Lay": "fhrno",
+  "Name": "David Corbeil",
+  "Privileges": "PRIVILEGES M"
 }

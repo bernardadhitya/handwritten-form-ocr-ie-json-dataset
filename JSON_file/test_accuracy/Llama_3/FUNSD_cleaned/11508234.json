@@ -1,4 +1,82 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nRL TION (DOMESTIC) (Recommended Proposal Attached) Due arch 3, 1995 No. [1995450 Descriptions | LUCKY STRIRE QUALITATIVE ADVERTISING RESEARCH - GATEWAY CITES Requested bye | A A Strobel Reseureh Reg....\nCost per Supplier Cost (5) | Est. Travel | Total Cost _ | Interview Analyoe Tsigh, Inc. 27,000 2,500 29,500 Goldfarb Consultants 29216 2,500 SLT Prajected: Summary of MRD Budget 1958 Internal Init, Da...\nAn3Z Approved By: Date: 57 KAMgr Con, Res. (to S100,000) Approved By: Date:\nDir & Mk Res. (10 $250,000) Approved By: Rte lo Date  Z/7/7 Senior VP Marketing (to $1,000,000) Budget Check: Sn Loank Date:\nVicki Clark Original. Project File 7H Wilians mao 4665840246 4668402 PRODUCED FROM B&W WEB SITE 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 1995 199"
+  "title": null,
+  "recommendedProposal": null,
+  "date": null,
+  "number": "1995-48D",
+  "description": null,
+  "requestedBy": null,
+  "researchReqAttached": true,
+  "budgeted": null,
+  "originalBudgetedAmount": null,
+  "competitiveProposalsObtained": null,
+  "suppliers": [
+    {
+      "name": null,
+      "costPerInterview": null,
+      "estTravel": null,
+      "totalCost": null
+    },
+    {
+      "name": "Goldfarb Consultants",
+      "costPerInterview": 29216,
+      "estTravel": null,
+      "totalCost": null
+    }
+  ],
+  "projected": {
+    "summaryOfMRDBudget": null,
+    "internalInitDate": null,
+    "totalAreaAuthorized": null,
+    "currentBalanceAvailable": null,
+    "waves": null,
+    "thisChange": null,
+    "fieldCompleteWave": null,
+    "thisAmount": null,
+    "fromNextYearsBudget": null,
+    "finalReportDue": null,
+    "newBalance": 353075,
+    "supplierRptWave": null,
+    "committedToDate": 146925,
+    "currentYear": null
+  },
+  "projectType": "Qualitative Research",
+  "sampleSize": null,
+  "recommendedSupplier": null,
+  "reasonsForRecommendation": null,
+  "submittedBy": {
+    "name": null,
+    "date": "3/3/"
+  },
+  "analyst": null,
+  "approvedBy": [
+    {
+      "name": null,
+      "date": null,
+      "role": null
+    },
+    {
+      "name": null,
+      "date": null,
+      "role": null
+    },
+    {
+      "name": null,
+      "date": null,
+      "role": null
+    }
+  ],
+  "budgetCheck": {
+    "date": null,
+    "name": null
+  },
+  "projectNo": null,
+  "acctName": null,
+  "original": null,
+  "projectFile": null,
+  "cc": [
+    null,
+    null
+  ],
+  "producedFrom": "B&W WEB SITE",
+  "mraDom": null
 }

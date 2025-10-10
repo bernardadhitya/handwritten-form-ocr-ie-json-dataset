@@ -1,4 +1,30 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n07/19/98 _ SUN 16:37 FAX 8042739520 KINKO'S RICHMOND LT oor t J ses TX REPORT eee TRANSMISSION OK ‘Tx/RK No 3716 CONNECTION TEL 0118227281208 SUBADDRESS.\n‘CONNECTION 1D rc st. TIME o7/19 Usace T o7\"10 Pcs. 27 RESULT oR.\nKinko's’ fax cover sheet Kinko's West End Tnnsbrok « Telephone: (804) 965-0880 « Fax: (804) 273-9529, oe 2/14] to: vane af Leininghons from:\nNumber of pages 2G saan cover Qu. ko Solana Name ar pel company ~ Company Telephone Telephone Fax_O) 4 22 033 83 62 Sy TES ey Comments ore than 850 locations worldwide. For the location nearest you, c...\noosttsy90z 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1.0.0.0 1"
+  "date": "07/19/98",
+  "day": "SUN",
+  "time": "16:37",
+  "fax_number": "8042739529",
+  "location": "KINKO'S RICHMOND III",
+  "report_number": "001",
+  "transmission_status": "TRANSMISSION OK",
+  "tx_rx_no": "TX/RX NO",
+  "connection_tel": "3716",
+  "connection_id": null,
+  "start_time": "07/19 16:30",
+  "usage_time": "07'10",
+  "pages": "9Y",
+  "result": "27 OK",
+  "cover_sheet": {
+    "location": "Kinkos West End Innsbrook",
+    "telephone": "804965-0880",
+    "fax": "804273-9529",
+    "date": "7/19/98",
+    "to_name": "Rick",
+    "from_name": "Solann",
+    "to_company": "Company",
+    "from_company": "Company",
+    "to_telephone": "49",
+    "from_telephone": "22",
+    "comments": "More than 850 lacations worldwide.For the lacation nearest you, call 1-800-2-KINxos.Visit our Web site at http://www.kinkos.com."
+  },
+  "additional_number": "2064511500"
 }

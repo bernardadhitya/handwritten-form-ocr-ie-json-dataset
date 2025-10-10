@@ -1,4 +1,12 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nHSDEX Premier SlaBnngoaboL CATE 06/05122 Sdnyap VAY S$ 1630 One ThouoanOne lundred anl 2 Fifty TuonanFive lundred anl 4 Fifty TuonanFive lundred anl 5 One ThouoanFive lundred anl 6 One ThouoanFive lundred anl 7 One ThouoanFive lundred an"
+  "code": "HSDEX",
+  "type": "Premier",
+  "location": "SlaBnngoaboL",
+  "category": "CATE",
+  "date": "06/05122",
+  "city": "Sdnyap",
+  "state": "VAY",
+  "currency": "S$",
+  "amount": "1630",
+  "description": "One ThouoanOne lundred anl 2 Fifty Tu"
 }

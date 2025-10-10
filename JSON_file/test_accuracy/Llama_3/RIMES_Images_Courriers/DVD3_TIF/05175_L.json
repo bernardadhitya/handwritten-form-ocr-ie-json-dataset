@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\niedeeshuePe22/04/03 Geonges Iuhent 5A930NiENEILSTiNZEL TeR:o3.4o.38.04.44 BnP-Bauque Mauele&e Panis 2 Roure diIugwilReR 67 2go La FeVKe P:eRRe Ojeri Nouvedes coordouuees LePephouiqe LeP.cReavi QAB I49... (Note: The text is in a format that appears to be a mix of handwritten notes and seemingly random characters, making it difficult to extract structured information.)\n\nHowever, if we were to assume that the text is actually a list of coordinates in a specific format, we can attempt to extract the structured information as follows:\n\n*   **Date**: 22/04/03\n*   **Location**: Geonges Iuhent\n*   **Latitude**: 5A930\n*   **Longitude**: NiENEILSTiNZEL TeR:o3.4o.38.04.44\n*   **Reference**: BnP-Bauque Mauele&e Panis\n*   **Coordinate Type**: 2\n*   **Coordinate Value**: 67 2go La FeVKe P:eRRe"
+  "document": "iedeeshuePe22/04/03",
+  "scenario": "Geonges Iuhent",
+  "writer": "BnP-Bauque Mauele&e Panis",
+  "sender_person": "Roure diIugwilReR",
+  "sender_company": null,
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": "Ojeri Nouvedes coordouuees LePephouiqe",
+  "receiver_company": null,
+  "subject": "LeP.cReavi QAB I499",
+  "date": "67 2go La FeVKe P:eRRe",
+  "place": null,
+  "box": "Mou Qovuew numeRo ce peCephoue esF Ce 8uivcai o3.uo.3f.O4.uu"
 }

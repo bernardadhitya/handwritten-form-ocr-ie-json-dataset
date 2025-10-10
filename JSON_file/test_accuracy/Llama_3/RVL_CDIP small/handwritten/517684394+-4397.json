@@ -1,4 +1,11 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nN.e.2710 PM 24JAN 966/ 0 7423 51768 4394 eg Obi-Wan Kenobi\nN.e.2711 PM 24JAN 966/ 0 7423 51768 4394 eg Obi-Wan Kenobi\nN.e.2712 PM 24JAN 966/"
+  "N": "N.e.2710",
+  "PM": "PM",
+  "Code": "24JAN",
+  "Value1": "966/",
+  "Value2": "0",
+  "Value3": "7423",
+  "Value4": "51768",
+  "Type": "eg",
+  "Name": "Obi"
 }

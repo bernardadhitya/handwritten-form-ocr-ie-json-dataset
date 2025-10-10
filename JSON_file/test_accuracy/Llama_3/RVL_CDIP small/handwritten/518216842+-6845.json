@@ -1,4 +1,43 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nALBERTSONS IT’S YOUR STORE Tran 3075 Terainal 10 Cashier 000401 Stare 1646 Thur Jun 29+ 1995 623tpe Teta $0.00 rowers 2189 TRIDENT 0.79 8 TRIDENT ona Total » cash s subtotal = Tar pal 2 Total tender 6... 6.00 6.00 6.00 6.00 6.00 6.00 6.00 6.00 6.00 6.00 6.00 6.00 6.00 6.00 6.00 6.00 6.00 6.00 6.00 6.00 6.00 6.00 6.00 6.00 6.00 6.00 6.00 6.00 6.00 6.00 6.00 6.00"
+  "store": null,
+  "address": {
+    "street": "bOPierAve#5",
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "transaction": {
+    "number": null,
+    "terminal": null,
+    "cashier": null,
+    "store_number": "1646",
+    "date": "Thu Jun 29 1995",
+    "time": null
+  },
+  "items": [
+    {
+      "name": "GTOARETTES",
+      "price": null,
+      "tax": null
+    },
+    {
+      "name": null,
+      "price": null,
+      "tax": false
+    },
+    {
+      "name": null,
+      "price": null,
+      "tax": null
+    }
+  ],
+  "totals": {
+    "subtotal": null,
+    "tax_paid": null,
+    "total": 16.48,
+    "cash": null,
+    "total_tender": null,
+    "change": 0.52
+  },
+  "message": null
 }

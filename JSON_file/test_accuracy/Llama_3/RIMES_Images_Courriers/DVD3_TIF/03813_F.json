@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nTÉLÉCOPIE BRETAGNE BREST Date : i9103l04 Nb de pages (y compris celle-ci : 3 Expéditeur: ThaPe Cograzd Destinataire:\nT:03.08.3185.01 Société Fax Eax MESSAGE Re8&exe PenF: BC5n A4S ma demande VuJ sux mar Berne Iece 2 avenue de Provence - BP 40112 - 29601 BREST CEDEX -  02 98 34 44 44 www.esc-brest.fr  02 98 34 44 45  02 98 34 44 46  02 98 34 44 47  02 98 34 44 48  02 98 34 44 49  02 98 34 44 50  02 98 34 44 51  02 98 34 44 52  02 98 34 44 53  02 98 34 44 54  02 98 34 44 55  02 98 34 44 56  02 98 34 44 57  02 98 34"
+  "document": "TÉLÉCOPIE",
+  "scenario": "BRETAGNE BREST",
+  "writer": "ThaPe Cograzd",
+  "sender_person": "ThaPe Cograzd",
+  "sender_company": "Société",
+  "sender_tel": "T:03.08.3185.01",
+  "sender_fax": "Fax",
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "Re8&exe PenF: BC5n A4S",
+  "date": "i9103l04",
+  "place": "2 avenue de Provence - BP 40112 - 29601 BREST CEDEX",
+  "box": "www.esc-brest.fr"
 }

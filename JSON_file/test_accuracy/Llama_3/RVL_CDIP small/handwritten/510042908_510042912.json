@@ -1,4 +1,49 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n@ ~< STOCK Soeur:\nous Q Bor Gor! me) Colkidan @ - 0.00 mM - adh un SO uk vel fo Smts perral Cone, needed 100 ¥ cone ~ 0.07 mM ¥ 1002 /mM STOCK ~ filer atibye - tye af “706 tn mall aligues 4 UTE ae - hla? “ Oy topl tldi...\noa fk WY9%G wie j 178. OS, 12 Hye (BSB 22 we 1128.01 17 ORO “156.02 6 Py 10006! with aH, 9, we L3M Figg bd a 4.0 %.5 BS w 8 =.\n8 ® 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0"
+  "stockSolutions": {
+    "BiDR": {
+      "concentration": null,
+      "volume": null,
+      "totalVolume": null,
+      "stockConcentration": null,
+      "calculation": null,
+      "stock": null
+    },
+    "Cytophr": {
+      "concentration": null,
+      "stock": null,
+      "dilution": null
+    },
+    "PC": {
+      "concentration": null,
+      "value": "11.96j"
+    },
+    "miscellaneous": {
+      "values": [
+        null,
+        null,
+        null,
+        null,
+        "138.011",
+        "7.6",
+        null,
+        null,
+        "25",
+        null,
+        null,
+        null,
+        null,
+        "19.5",
+        null,
+        null,
+        null,
+        null,
+        "40.5",
+        null,
+        null,
+        "6.5",
+        null,
+        "2908"
+      ]
+    }
+  }
 }

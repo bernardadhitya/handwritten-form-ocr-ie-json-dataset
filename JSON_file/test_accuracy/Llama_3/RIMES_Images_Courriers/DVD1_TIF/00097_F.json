@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nANALYSE D'IMAGE & INTELLIGENCE ARTIFICIELLE A 2iA ARTIFICIAL INTELLIGENCE & IMAGE ANALYSIS 40bis,rue Fabert 75007 PARIS FRANCE Tél. : +33 1 44 42 00 80 - Fax : +33 1 44 42 00 81 - e-mail : info@a2ia.c...\nFrom: HEN R lQo5S 2o&n 01.60.76.63.33 Pages': 3 Fax :\nTel :\n2 R10F1 2006 Date:\nRef :\nL pc bsX CC :\nUrgent Pour avis Commentaires Réponse Confidentiel Qlqsue: Relanue de ouner /sns o'ponse ObjeY:Vohe nelamation du msis danr \"oys s! spnpu! sabed jo leaanu ala\" \n(Translation:\nFrom: Hen R lQo5S 2o&n 01.60.76.63.33\nPages: 3\nFax: \nTel: 2 R10F1 2006\nDate: \nRef: \nL pc bsX CC: \nUrgent Pour avis Commentaires Réponse Confidentiel Qlqsue: Relanue de ouner /sns o'ponse ObjeY:Vohe nelamation du msis danr \"oys s! spnpu! sabed jo leaanu ala\" \n)\n\n## Step 1: Identify the structured information in the text\nThe structured information in the text includes:\n- Company name: 2iA\n- Company address: 40bis,rue Fabert 75007 PARIS FRANCE\n- Contact information:\n  - Phone number: +33 1 44 42 00 80\n  - Fax number: +33 1 44 42 00 81\n  - Email: info@a2ia.com\n- From information:\n  - Name: Hen R lQo5S 2o&n\n  - Email: 01.60.76.63.33\n  - Pages: 3\n- Other information:\n  - Date:"
+  "document": "ANALYSE D'IMAGE & INTELLIGENCE ARTIFICIELLE",
+  "scenario": "ARTIFICIAL INTELLIGENCE & IMAGE ANALYSIS",
+  "writer": "A2IA",
+  "sender_person": "HEN R lQo5S 2o&n",
+  "sender_company": "ASSE DiC- Arowonca",
+  "sender_tel": "01.60.76.63.33",
+  "sender_fax": "",
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "Vohe nelamation du msis danr",
+  "date": "2 R10F1 2006",
+  "place": "40bis,rue Fabert 75007 PARIS FRANCE",
+  "box": "Fax"
 }

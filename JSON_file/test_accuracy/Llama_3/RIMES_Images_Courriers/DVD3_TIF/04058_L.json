@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nHealim Damien le qnand c&emp O 6 66O Jbunn T:04.32.24.47.21 Jbunony&e 24 naro i7wQbLn npmoy3H :moS nne da la pate 2L 37O Ean&nx Jbadame, Moonnien, 1nnn2 onw vwJ n7 ohmq T r&qworop qwohgG T'atadr mon p... (text truncated)\n\nNote: The text appears to be a jumbled collection of words and numbers, but it seems to be a mix of names, dates, and possibly some other information. Without further context, it's difficult to determine the exact meaning or structure of the text.\n\nHowever, based on the provided text, I can attempt to extract some structured information. Here's my attempt:\n\n```json\n{\n  \"names\": [\n    \"Healim Damien\",\n    \"Jbunn\",\n    \"Jbunony\",\n    \"Ean\",\n    \"Jbadame\",\n    \"Moonnien\",\n    \"Innnn2\"\n  ],\n  \"dates\": [\n    \"6"
+  "document": "Healim Damien",
+  "scenario": "le qnand c&emp",
+  "writer": "O 6 66O Jbunn",
+  "sender_person": "Jbunony&e 24 naro",
+  "sender_company": "i7wQbLn npmoy3H :moS",
+  "sender_tel": "T:04.32.24.47.21",
+  "sender_fax": null,
+  "receiver_person": "nne da la pate",
+  "receiver_company": "2L 37O Ean&nx",
+  "subject": "Jbadame, Moonnien, 1nnn2 onw vwJ n7 ohmq T r&qworop qwohgG",
+  "date": null,
+  "place": "Jbadame, Moonnien",
+  "box": null
 }

@@ -1,3 +1,38 @@
 {
-    "error": "Blockwise quantization only supports 16/32-bit floats, but got torch.uint8"
+  "company": null,
+  "address": "One Park Avenue, New York, N.Y. 10016-5895",
+  "bulletin_contract": {
+    "to": null,
+    "date": null,
+    "contract_no": null,
+    "location": "Los Angeles, California",
+    "zip_code": "69006"
+  },
+  "client": [
+    "Lorillard",
+    null,
+    null,
+    null,
+    null
+  ],
+  "product": null,
+  "service_period": {
+    "commencement": null,
+    "charges_less_commission": null
+  },
+  "advertising_details": {
+    "location": null,
+    "size": null,
+    "yearly_units": null,
+    "paints_postings": null,
+    "cost": {
+      "1st_year": null,
+      "2nd_year": null,
+      "3rd_year": "$5,354.00"
+    }
+  },
+  "shipping_address": {
+    "care_of": "Viking Crane",
+    "address": null
+  }
 }

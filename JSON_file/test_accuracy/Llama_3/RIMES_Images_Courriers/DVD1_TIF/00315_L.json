@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nGullou VincenH 31 Ru D #URWiLLER 6t ll0 ZINSw i lLeR T&: 03.91.69.92.77 A I'aHenho de :\nd. tneorier da umpshs Ancien Presbytee 64 2OO Noyou 8ur Jarbo A 2inswilkr l 24 Septmbre 20O6 Objer: Demande de mensualisalion & I'impofsor & venu R&fEren& Qienh: RsEvPO3 Monsieur, Veulg aggrce, Noniwr... (Note: The text is in French)\n\nTranslated to English:\n\nGullou VincenH 31 Ru D #URWiLLER 6t ll0 ZINSw i lLeR T&: 03.91.69.92.77 A I'aHenho de : \nd. tneorier da umpshs Ancien Presbytee 64 2OO Noyou 8ur Jarbo A 2inswilkr l 24 Septmbre 20O6 Objer: Demande de mensualisalion & I'impofsor & venu R&fEren& Qienh: RsEvPO3 Monsieur, Veulg aggrce, Noniwr...\n\nNote: The text is in French, but"
+  "document": null,
+  "scenario": null,
+  "writer": "Gullou VincenH",
+  "sender_person": "Gullou VincenH",
+  "sender_company": "URWiLLER",
+  "sender_tel": "03.91.69.92.77",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "Demande de mensualisalion & I'impofsor & venu",
+  "date": "24 Septmbre 20O6",
+  "place": "64 2OO Noyou 8ur Jarbo",
+  "box": null
 }

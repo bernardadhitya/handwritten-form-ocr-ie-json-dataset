@@ -1,4 +1,28 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nPage 2 (RUR FOI Submited by:\nLocetion Sender's Semple Semple of:\nRM 1901 Rov 1/60) ‘Analysis No, ANALYTICAL REPORT Research Department R. J. Reynolds Tobacco Company = Noon K <> t a eZ = ot KE wba LotI Le cmon, FCO ‘Analyis osired:\nC.\n—Gex ow thn GK Estimates Composition and Physical Constants — Distrbutlon:\naveroved by JC. 2. — 9STe 6zzts — 9STe 6zzts — 9STe 6zzts — 9STe 6zzts — 9STe 6zzts — 9STe 6zzts — 9STe 6zzts — 9STe 6zzts — 9STe 6zzts — 9STe 6zzts — 9STe 6zzts — 9STe 6zzts — 9STe 6zzts — 9STe 6zzts — 9STe 6zzts — 9STe 6zzts — 9STe 6zzts — 9STe 6zzts — 9STe 6zzts — 9STe 6zzts — 9STe 6zzts — 9STe 6zzts — 9STe 6zzts"
+  "form": "Pege2RJR FORM 1301-Rev.1/69",
+  "analysis_no": null,
+  "report_type": "ANALYTICAL REPORT",
+  "department": "Research Department",
+  "company": "R.J. Reynolds Tobacco Company",
+  "date": "3/19/76",
+  "submitted_by": "Submittod by",
+  "date_received": "Date Received",
+  "location": "Locetion",
+  "date_reported": "Dsteo Raportod 2/6",
+  "sender_sample_no": "8860",
+  "charge_no": "Sample of: A",
+  "sample_of": "A",
+  "analysis_desired": "Estimated Composition and Physical Constant",
+  "possible_hazards": "Possible Hezards",
+  "remarks": "Remarks",
+  "results": {
+    "A-/&-/-": "6.77",
+    "A-/a-a": "5.94",
+    "B--/-": "4.27",
+    "-/-)": "9Z'S",
+    "C-/-a": "4.81",
+    "51229 4156": null
+  },
+  "distribution": "Distribution:",
+  "approved_by": "Approved by J.c.J."
 }

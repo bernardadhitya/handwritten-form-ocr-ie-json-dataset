@@ -1,4 +1,97 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nAMES ASSAY FOR MUTAGENICITY connouno. _3>Methy1-2-pentenoic Acid ounce LOLiLLard-Organic Chemistry oracseono PD3L) toro. ORSI=59Al oare neceneo: 4/27/81 resre06/24/81-7/8/81 REPORTED: 7/14/81 wesnieat...\nCopies to: Testing Program File Biochemistry Section QO4ERS00 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1"
+  "title": null,
+  "compound": {
+    "name": null,
+    "source": null,
+    "lorillard_no": null,
+    "lot_no": null
+  },
+  "dates": {
+    "source": null,
+    "tested": null,
+    "reported": null
+  },
+  "notebook_page": null,
+  "investigator": null,
+  "toxicity_percent_survival": [
+    null,
+    80,
+    null
+  ],
+  "solvent": null,
+  "concentration_mg_ml": null,
+  "other": null,
+  "strains": {
+    "TA1535": {
+      "without_S9": {
+        "plate_0.05_ml_solvent": null,
+        "compound_ug_plate": null,
+        "reversion_rate": null
+      },
+      "with_S9": {
+        "plate_0.05_ml_solvent": null,
+        "compound_ug_plate": null,
+        "reversion_rate": null,
+        "plate_0": {
+          "05_ml_solvent": null
+        }
+      }
+    },
+    "TA100": {
+      "without_S9": {
+        "plate_0.05_ml_solvent": null,
+        "compound_ug_plate": null,
+        "reversion_rate": 1.04,
+        "plate_0": {
+          "05_ml_solvent": null
+        }
+      },
+      "with_S9": {
+        "plate_0.05_ml_solvent": null,
+        "compound_ug_plate": null,
+        "reversion_rate": null
+      }
+    },
+    "TA98": {
+      "without_S9": {
+        "plate_0.05_ml_solvent": null,
+        "compound_ug_plate": null,
+        "reversion_rate": 0.97
+      },
+      "with_S9": {
+        "plate_0.05_ml_solvent": null,
+        "compound_ug_plate": null,
+        "reversion_rate": null
+      }
+    }
+  },
+  "positive_control": {
+    "2-aminoanthracene": {
+      "ug_plate": null,
+      "reversion_rate": [
+        0.51,
+        null,
+        null,
+        4.94,
+        null,
+        null
+      ]
+    },
+    "streptozotocin": {
+      "ug_plate": null,
+      "reversion_rate": [
+        null,
+        null,
+        1.24,
+        3.02
+      ]
+    }
+  },
+  "conclusion": null,
+  "copies_to": [
+    null,
+    "Biochemistry Section",
+    null
+  ],
+  "form": null
 }

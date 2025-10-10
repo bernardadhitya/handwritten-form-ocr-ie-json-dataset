@@ -1,3 +1,68 @@
 {
-    "error": "Blockwise quantization only supports 16/32-bit floats, but got torch.uint8"
+  "form": "INTERNATIONALPROJECTINFORMATIONFORM",
+  "form_number": null,
+  "project_code": null,
+  "project_reference": "FxPORT StR CeSE: SPE-S7",
+  "section": null,
+  "project_information": {
+    "project_name": null,
+    "project_purpose_summary": null,
+    "project_type": {
+      "new_brand_launch": {
+        "brand_name": null,
+        "note": null
+      },
+      "change_to_existing_packaging": {
+        "brand_style": null,
+        "attachments": [
+          null,
+          null
+        ],
+        "reason": {
+          "government_regulation_change": null,
+          "other": null
+        }
+      },
+      "change_manufacturing_source": {
+        "from": null,
+        "to": null,
+        "brand_style": "Attach t for multiple styles and rationale for change"
+      }
+    },
+    "country_code": {
+      "duty_free": null,
+      "other": true
+    },
+    "classification": null,
+    "business_type": [
+      "Export",
+      null,
+      null
+    ],
+    "production": null,
+    "timing_requirement": {
+      "in_market_arrival_date": null,
+      "market_launch_date": "Ape996",
+      "note": null
+    },
+    "product_quantity_required": {
+      "new_brand_launch": {
+        "initial_order": "cases",
+        "minimum_order": null,
+        "ongoing_monthly": null
+      },
+      "package_change_or_sourcing_change": null
+    }
+  },
+  "form_completion": {
+    "new_brand_launch": null,
+    "change_to_existing_products_or_change_to_manufacturing_source": null
+  },
+  "contact": {
+    "phone": "01784448652",
+    "fax": null
+  },
+  "page": "001",
+  "date": null,
+  "source": "PRODUCED FROM B&W WEB SITE"
 }

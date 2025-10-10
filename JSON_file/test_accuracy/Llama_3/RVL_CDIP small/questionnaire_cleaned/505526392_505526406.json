@@ -1,3 +1,59 @@
 {
-    "error": "Extra data: line 22 column 1 (char 327)"
+  "document": {
+    "header": {
+      "time": "10",
+      "company": "Bellomy-gg.Inc.",
+      "job_number": "0906",
+      "address": "5UNIVEISIIY PARKWAY",
+      "date": "October,1984",
+      "location": "WINSTONSA.EMN",
+      "code": "2143",
+      "version": "1-4"
+    },
+    "title": "AA EXTENDED USE CONCEPT/PRODUCT TEST",
+    "respondent": {
+      "name": "Ade",
+      "address": null,
+      "area_code": null,
+      "date": "10-6",
+      "interviewed_by": "INTERVIEW WOMEN ONLY"
+    },
+    "introduction": "Hello,I'm from (youR COMPANy),an independent marketing research TO FEMALE 18+ YEARS OR OLDER.)",
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Into which of the following age groups does your age belong? Are you....(ReaD LIsT",
+        "options": [
+          "Under 18",
+          "18-24",
+          "25-34",
+          "35-49",
+          "50+",
+          "Refused"
+        ]
+      },
+      {
+        "question": "Which of the following products do you use daily?",
+        "options": [
+          "Breathmints",
+          "Mouthwash",
+          "Cigarettes",
+          "Gel toothpaste",
+          "Cream toothpaste"
+        ]
+      },
+      {
+        "question": "Which of the following brands have you used in the past week?",
+        "options": [
+          "Certs breathmints",
+          "Clorets breathmints",
+          "Topal toothpaste",
+          "Aqua Fresh toothpaste",
+          "clinomint",
+          "Scope",
+          "Listerine"
+        ]
+      }
+    ]
+  }
 }

@@ -1,4 +1,11 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nP.O. Box 5920 lvvosdal donna\nAddress: 123 Main St, Anytown, USA 12345\nPhone: 555-1234\nEmail: donna@anytown.com\nFax: 555-5678\n\nP.O. Box 5920 lvvosdal"
+  "address": {
+    "city": "Norwood",
+    "state": null,
+    "zip": "55583-5920",
+    "poBox": "P.O.Box5920",
+    "unknown": ".",
+    "code1": "51704",
+    "code2": "4743"
+  }
 }

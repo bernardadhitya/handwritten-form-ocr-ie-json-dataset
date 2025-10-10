@@ -1,3 +1,55 @@
 {
-    "error": "Blockwise quantization only supports 16/32-bit floats, but got torch.uint8"
+  "survey": "1996 Political Activity Survey",
+  "respondent": {
+    "name": "Mr. Jac Kader",
+    "company": "RTCdirect",
+    "date": "31346"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Are you a registered voter?",
+      "answer": "Yes"
+    },
+    {
+      "id": 2,
+      "question": "Do you plan to vote in the 1996 elections?",
+      "answer": "Yes"
+    },
+    {
+      "id": 3,
+      "question": "Concerning issues of importance,how would you prefer to contact you elected officials?",
+      "answer": "Writing a letter, Sending an E-mail, Sending a fax, Making a telephone call, Making an office visit"
+    },
+    {
+      "id": 4,
+      "question": "Have you written a letter to the editor of your local newspaper about issues of importance to you?",
+      "answer": "Yes"
+    },
+    {
+      "id": 5,
+      "question": "If no, would you be willing to write a letter to the editor of your local newspaper?",
+      "answer": "No"
+    },
+    {
+      "id": 6,
+      "question": "Do you have access to on-line or Internet services?",
+      "answer": "Yes, AOL"
+    },
+    {
+      "id": 7,
+      "question": "On which of the topics below would you most likely voice your opinion to elected officials?",
+      "answer": "Government regulations of tobacco sales and use, Excise taxes on tobacco products, Smoking restrictions/bans in public places, restaurants or workplaces, Youth access to tobacco products"
+    },
+    {
+      "id": 8,
+      "question": "Do you receive the Smokers Advocate newsletter about issues concerning smokers' rights?",
+      "answer": "Yes"
+    },
+    {
+      "id": 9,
+      "question": "If no, would you like to receive this free newsletter?",
+      "answer": "Yes"
+    }
+  ]
 }

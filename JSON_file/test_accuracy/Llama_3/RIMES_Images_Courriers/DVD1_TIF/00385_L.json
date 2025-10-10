@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nREMY ArmelQo 226 Res &s Aleian 57s0 st AvOLD O3 7Z 49 085I re?Clent:GYNFH ZO St Avo1d, le 28 Septembre 2oO6 Banque Debt Lyonnas Place 6eneral de Gaule 3416o BoisSERoN 6bjet: augmentation des quant:tes...\nMadame, Nasieus, mes mlutatióun dstingueos - 1er et 2e classe, 1er et 2e classe, 1er et 2e classe, 1er et 2e classe, 1er et 2e classe, 1er et 2e classe, 1er et 2e classe, 1er et 2e classe, 1er et 2e classe, 1er et 2e classe, 1er et 2e classe, 1er et 2e classe, 1er et 2e classe, 1er et 2e classe, 1er et 2e classe, 1er et 2e classe, 1er et 2e classe, 1er et 2e classe, 1er et 2"
+  "document": "REMY ArmelQo",
+  "scenario": "226 Res &s Aleian",
+  "writer": null,
+  "sender_person": "REMY ArmelQo",
+  "sender_company": "Banque Debt Lyonnas",
+  "sender_tel": "O3 7Z 49 085I",
+  "sender_fax": null,
+  "receiver_person": "Hadame, Hlaiem",
+  "receiver_company": null,
+  "subject": "objet: augmentation des quant:tes d'adions bowrsees commandees",
+  "date": "le 28 Septembre 2oO6",
+  "place": "Place 6eneral de Gaule, 3416o BoisSERoN"
 }

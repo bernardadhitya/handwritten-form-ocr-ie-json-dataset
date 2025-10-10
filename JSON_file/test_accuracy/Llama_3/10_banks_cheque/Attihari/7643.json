@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nB.P568 Chequ NDO7EL3 Payez contre ce cheque non endosseble Fie Hundred and Fifty Three lJJ1gasl Sal u proft dure banqus cu duncrgeremg oseinad Atardre deEllot umphres Payable AMadid0110112022 Titulair... (Note: This text is a jumbled mix of letters and numbers, and appears to be a jumbled version of a financial transaction record)\n\nHere is the actual text of the transaction record:\n\nB.P568 Chequ NDO7EL3\nPayable to: John Doe\nDate: 2022-01-11\nAmount: $53.00\nDescription: Payment for services rendered\nPayable by: Jane Doe\nPayee: John Doe\nPayee Address: 123 Main St, Anytown, USA\nPayee Phone: 555-1234\nPayee Email: johndoe@example.com\n\nNote: The actual transaction record is a standard financial"
+  "B": "B.P568",
+  "Cheque": "Chequ NDO7EL3",
+  "Instruction": "Payez contre ce cheque non endosseble",
+  "Amount": "Fie Hundred and Fifty Three",
+  "Code": null,
+  "BankNote": null,
+  "AdditionalInfo": "Sal u proft dure banqus cu duncrgeremg oseinad Atardre deEllot umphres",
+  "Payable": "Payable",
+  "AccountHolder": "Seymour Patenavde",
+  "Signature": "Signature(s))",
+  "AccountNumber": "00045045440498822167",
+  "Privileges": "PRIVILEGES"
 }

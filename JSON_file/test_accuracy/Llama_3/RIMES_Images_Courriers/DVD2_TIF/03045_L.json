@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nMme EVa DUPB E 2 83, aue du Chanonme 731L!A OQ8&& t 7 ReBOUTe 6, 2oute de Soissos 1O17O MERY SUR SEiNE A ville augmemtation des quamtités de chauisctes Le 21 fenuer 2oo7 Commamde'es adame, nvicur, com...\ncunrt ou Yous nemerciamt jar avamee je vous nie d'agrer,vladame, vlasieur, mes simceres sdutatims.\nE.DUPAt2 2 83, aue du Chanonme 731L!A OQ8&& t 7 ReBOUTe 6, 2oute de Soissos 1O17O MERY SUR SEiNE A ville augmemtation des quamtités de chauisctes Le 21 fenuer 2oo7 Commamde'es adame, nvicur, com...\ncunrt ou Yous nemerciamt jar avamee je vous nie d'agrer,vladame, vlasieur, mes simceres sdutatims.\n\nThe text is a jumbled collection of words and letters, but if we look closely, we can extract the following structured information:\n\n* Name: Mme Eva Dupat\n* Address: 2, rue du Chanonme 731L!A OQ8&& t 7 ReBOUTe 6, 2"
+  "document": "Mme EVa DUPB",
+  "scenario": "augmemtation des quamtités de chauisctes",
+  "writer": "E.DUPAt2",
+  "sender_person": "Mme EVa DUPB",
+  "sender_company": "ReBOUTe",
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": null,
+  "date": "Le 21 fenuer 2oo7",
+  "place": "MERY SUR SEiNE",
+  "box": null
 }

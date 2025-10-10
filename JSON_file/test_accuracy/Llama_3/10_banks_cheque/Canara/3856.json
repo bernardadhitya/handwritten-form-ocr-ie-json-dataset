@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n-500014 060522 of anssrment Canara Bank 2014MSHCY Kompally500014 DDMMYYY Pay Milenko Tkalcia Or Bearer Rupoes by EigtJhousand SHundred and Si Swen 8667 40598089480489440987 Payable at par at all our B... ( truncated )... branches and at the stock exchange on any business day\n-500014 060522 of anssrment Canara Bank 2014MSHCY Kompally500014 DDMMYYY Pay Milenko Tkalcia Or Bearer Rupoes by EigtJhousand SHundred and Si Swen 8667 40598089480489440987 Payable at par at all our B... ( truncated )... branches and at the stock exchange on any business day\n\nNote: The text appears to be a truncated version of a bank's"
+  "account_number": "500014",
+  "date": "060522",
+  "bank_name": "Canara Bank",
+  "branch_code": "2014MSHCY",
+  "branch_location": "Kompally",
+  "date_format": "DDMMYYY",
+  "payee": "Milenko Tkalcia",
+  "amount_in_words": "EigtJhousand SHundred and Si Swen",
+  "amount_in_numbers": "8667",
+  "transaction_id": "40598089480489440987",
+  "payable_at": "all our Branches in India",
+  "cheque_number": "038565000504",
+  "branch_code_suffix": "31"
 }

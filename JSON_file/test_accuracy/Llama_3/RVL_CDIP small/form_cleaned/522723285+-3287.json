@@ -1,3 +1,48 @@
 {
-    "error": "Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  "company": "Taharrn Campany",
+  "D": "440110837",
+  "contact_number": "332533929",
+  "additional_number": "796693",
+  "contact_person": "Holly Blevins",
+  "address": {
+    "street": "105 E 21st St Apt 12",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "74114-1138"
+  },
+  "mailing_address": {
+    "city": "Winston-Salem",
+    "state": "N.C.",
+    "zip": "27102"
+  },
+  "contact_info": {
+    "phone": "1-800-777-2695",
+    "hours": "Monday through Friday from 8:00 a.m.to 6:00 p.m.EST"
+  },
+  "steps": [
+    {
+      "step": "STEP 1; Check to make sure the mailing address above is correct. Print any corrections in the box below on the right. Any corrections must match your ID."
+    },
+    {
+      "step": "STEP 2Your signature and date of birth are required to determine your eligibility."
+    },
+    {
+      "step": "STEP 3: Attach a copy of your identification."
+    },
+    {
+      "step": "STEP 4Send form and copy of ID in the enclosed self-addressed envelope or mail to:"
+    }
+  ],
+  "certification": {
+    "statement": "I certify that I am a smoker: am 21 years of age or older; and that I want to receive offers, premiums, coupons, or cigarettes that may be sent to me in the mail. I understand that giving false information in order to accept these offers may constitute a violation of law.",
+    "note": "COPYING SOME FORMS OF OFFICIAL ID IS ILLEGAL IN SOME STATES. PLEASE MAKE SURE THE ID YOU COPY COMPLIES."
+  },
+  "signature": {
+    "first_name": "Blly",
+    "middle_initial": "H",
+    "last_name": "Hjtst"
+  },
+  "usual_brand_of_cigarettes": "KAMEL",
+  "offer_restriction": "Offer Restricted to Smokers 21 Years of Age or Older.",
+  "company_statement": "We work for smokers."
 }

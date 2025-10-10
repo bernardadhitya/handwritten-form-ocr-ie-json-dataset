@@ -1,4 +1,31 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nPO. Box 634039 :\nRichardson, TX 75089-4039 *. woot a, Cvianae seavice REQUESTED et #BYNCXXT *AUTO °***\" **** 3-DIGIT 605 = ‘iovoeeuonsioese eee ae nub ® Sivan. we OW 8111 ROUTE 53 Apt 8 P00 WOODRIDGE IL 60;7-3643 * 3-DIGIT 605 = ‘iovoeeuonsioese eee ae nub. 3-DIGIT 605 = ‘iovoeeuonsioese eee ae nub. 3-DIGIT 605 = ‘iovoeeuonsioese eee ae nub. 3-DIGIT 605 = ‘iovoeeuonsioese eee ae nub. 3-DIGIT 605 = ‘iovoeeuonsioese eee ae nub. 3-DIGIT 600 ="
+  "address": {
+    "po_box": "P.O.Box834039",
+    "city": "Richardson",
+    "state": "TX",
+    "zip": "75083-4039"
+  },
+  "status": "PAID",
+  "service_request": "CHANGE SEAVICE REQUESTED",
+  "recipient": {
+    "name": "R.J. REYNG",
+    "code": "#BYNCXXT",
+    "auto": "*AUTO*",
+    "digit": "3-DIGIT 605",
+    "cco": "CCO0O",
+    "id": "192035649",
+    "id_number": "803138",
+    "code_number": "R18-00",
+    "r_code": "BETTYSOPCAK",
+    "name_2": "C009",
+    "c_code": "52273",
+    "number": "8111 ROUTE 53 Apt",
+    "address_2": "POO0",
+    "poo": "WOODRIDGE",
+    "city_2": "IL",
+    "state_2": "6057-3643",
+    "zip_2": null,
+    "code_2": null
+  },
+  "restriction": "MAILING RESTRICTED TO SMOKERS 21 YEARS OF AGE OR OLDER"
 }

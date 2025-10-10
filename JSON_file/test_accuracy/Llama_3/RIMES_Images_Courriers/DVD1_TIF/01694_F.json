@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nFax 02.51.49.89.84 De + À BC QUES Roue Tél. 02.51.6802.32 CAISSE D'EPARGNE DES PAYS-DE4A<LOIRE Agence de CHALLANS 7 Rue Bonne Fontaine 85300 CHALLANS | A + Y À ME Aron ctA [üte Z. FU2/2%06 LE Nombre...\nOBJET :\nGao Zu à mshne\nGao Zu à mshne\nGao Zu à mshne\nGao Zu à mshne\nGao Zu à mshne\nGao Zu à mshne\nGao Zu à mshne\nGao Zu à mshne\nGao Zu à mshne\nGao Zu à mshne\nGao Zu à mshne\nGao Zu à mshne\nGao Zu à mshne\nGao Zu à mshne\nGao Zu à mshne\nGao Zu à mshne\nGao"
+  "document": "CAISSE D'EPARGNE DES PAYS-DE-LA-LOIRE",
+  "scenario": "PARGNE",
+  "writer": "ELECOPE",
+  "sender_person": "SAYS-DE",
+  "sender_company": "CAISSE D'EPARGNE DES PAYS-DE-LA-LOIRE",
+  "sender_tel": "02.51.68.0Z.32",
+  "sender_fax": "02.51.49.89.84",
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "Geho d simihe",
+  "date": "Té1. 02.51.68.0Z.32",
+  "place": "7 Rue Bonne Fontaine, 85300 CHALLANS",
+  "box": "1A r IlANiF"
 }

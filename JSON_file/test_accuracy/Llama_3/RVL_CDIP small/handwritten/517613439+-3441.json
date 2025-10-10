@@ -1,4 +1,16 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nSS ~ oo REsicx (aye) ~ oo REsicx (aye) ~ oo REsicx (aye) ~ oo REsicx (aye) ~ oo REsicx (aye) ~ oo REsicx (aye) ~ oo REsicx (aye) ~"
+  "warning": "SURGEON GENERAL'S WARNING:",
+  "address": {
+    "city": "Redding",
+    "state": "CA",
+    "zip": "96003-7351"
+  },
+  "id_numbers": [
+    "1524",
+    "659613901105",
+    "2659613907005367"
+  ],
+  "name": "Darren Maser",
+  "code": "BYNCXXT",
+  "gene": "51761"
 }

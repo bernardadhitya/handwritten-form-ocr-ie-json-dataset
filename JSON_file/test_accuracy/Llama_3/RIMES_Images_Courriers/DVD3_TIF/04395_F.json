@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nERNST Jean SOCIETE 4 RUE DE RUSTENHART ERNST Jean 68600 DESSENHEIM Tél 03.23.03.43.14 Téleconi Expediteur: (c ERNST Tecan Desiatare: OPA Carce Primary, A amr  (Nadodre Télécopie : Pages:\nVetere? as 93 os ee Date: OA A.nx 2o0% Suet? We elle Ghioira  Dovrdode Zf Urgent 0 Pour avis OC Commentaires 0 Réponse CZ Confidentiel ® Commentaires:\nSalutations.\n[Cliquez ici et entrez les informations sur l'entreprise : statut, capital, RCS...] pour obtenir les informations sur l'entreprise.\nPour obtenir les informations sur l'entreprise, vous devez remplir le formulaire ci-dessous et cliquer sur le bouton \"Valider\". \n\n*   Nom de l'entreprise : ERNST Jean SOCIETE\n*   Adresse : 4 RUE DE RUSTENHART\n*   Code postal : 68600 DESSENHEIM\n*   Tél : 03.23.03.43.14\n*   Télecom : (c ERNST Tecan\n*   Télécopie : Pages:\n*   Fax : \n*   Email : \n*   Site web : \n*   Statut : \n*   Capital : \n*   SIREN : \n*   RCS : \n*   Date de création : \n*   Date de suppression : \n*   Statut actuel : \n*   Siret : \n*   Code APE : \n*   Code NAF : \n*   Code SIC : \n*   Code SIRET : \n*   Code SIREN : \n*"
+  "document": null,
+  "scenario": null,
+  "writer": "ERNST Jean",
+  "sender_person": "ERNST Jean",
+  "sender_company": "SOCIETE",
+  "sender_tel": "03.23.03.43.14",
+  "sender_fax": null,
+  "receiver_person": "CPAn",
+  "receiver_company": "Case",
+  "subject": "NeusvelleKtato",
+  "date": null,
+  "place": "DESSENHEIM",
+  "box": null
 }

@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nALCk fORvnO 96 RuE DU FAUBOURO RAiNE$ D:JOn 21000 LE goo2/2r/2? Demande qe xuiliation OBJET:\nnon puise en compte faolame, fonsiewt inf orme Je mon y U mo1 conhrak qe recephion qe ce couuieu. 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1."
+  "document": "96 RuE DU FAUBOURO RAiNE$",
+  "scenario": "Demande qe xuiliation",
+  "writer": "Je",
+  "sender_person": "mon",
+  "sender_company": null,
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "OBJET: non puise en compte faolame, fonsiewt inf orme",
+  "date": "21000",
+  "place": "LE goo2/2r/2?",
+  "box": null
 }

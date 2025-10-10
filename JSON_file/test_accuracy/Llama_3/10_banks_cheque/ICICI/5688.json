@@ -1,4 +1,17 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n060522 FORTPEEMONTISOMY AAAAWWG Eglantine Forest OrBearer Rupees oqdTwo Thousand Four Hundred and Thirty Three 4151 Alco.\n05838250590159448908 ONAL BANKG CES GNEWSAVINGS ACCOUNT VISACARO Pe 5155600622005889500 5889500 5889500 5889500 5889500 5889500 5889500 5889500 5889500 5889500 5889500 5889500 5889500 5889500 5889500 5889500 5889500 5889500 5889500 5889500 5889500 5889500 5889500 5889500 5889500 5889500 5889500"
+  "date": "060522",
+  "location": "Eglantine Forest",
+  "code": "OrBearer",
+  "forest": "Eglantine Forest",
+  "bearer": "OrBearer",
+  "amount": "Two Thousand Four Hundred and Thirty Three",
+  "number": "4151",
+  "company": "Alco.",
+  "account_number": "05838250590159448908",
+  "bank": "ONAL BANKG",
+  "type": "GNEWSAVINGS ACCOUNT",
+  "account_type": "GNEWSAVINGS ACCOUNT",
+  "card": "VISACARO",
+  "prefix": "Pe",
+  "card_number": "5155600622005889500"
 }

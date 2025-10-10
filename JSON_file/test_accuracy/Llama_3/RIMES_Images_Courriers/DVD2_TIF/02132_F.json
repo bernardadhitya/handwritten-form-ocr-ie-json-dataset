@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nBELLANGER Christiane & Cie 78 rue Kleber 68800 THANN 03.16.30.13.16 Date: d(Os lO) Destinataire: Banque Credif Popsbire Nombre de pages :\nMessage :\nVoici une commande d achonS biSi@res Dour on mon}@nF de JsaD euDs :\nRonne recephonT de la banque Credif Popsbire un montant de 1 000 000 F CFA. 1 000 000 F CFA sont des Fonds de placement pour les investissements. 1 000 000 F CFA sont des Fonds de placement pour les investissements. 1 000 000 F CFA sont des Fonds de placement pour les investissements. 1 000 000 F CFA sont des Fonds de placement pour les investissements. 1 000 "
+  "document": "BELLANGER Christiane & Cie",
+  "scenario": null,
+  "writer": null,
+  "sender_person": "Christiane",
+  "sender_company": "BELLANGER Christiane & Cie",
+  "sender_tel": "03.16.30.13.16",
+  "sender_fax": null,
+  "receiver_person": "Banque Credif Popsbire",
+  "receiver_company": "Banque Credif Popsbire",
+  "subject": "Voici une commande d achonS",
+  "date": "d(Os lO)",
+  "place": "78 rue Kleber, 68800 THANN",
+  "box": null
 }

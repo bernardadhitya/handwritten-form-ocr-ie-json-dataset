@@ -1,4 +1,12 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nBANOUEUNIVERSELLE CRABONDANCE 5248 Fne Thousard TaHundred and 06/05/22 a Chelsea@aton Madrid :\nBd de la Prosperite PLANETTE TERRE T:0811078809\nMadrid, Spain\nBd de la Prosperite 12\n12/05/22 a 14:00\nBd de la Prosperite 12\nBd de la Prosperite 12\nBd de la Prosperite 12\nBd de la Prosperite 12\nBd de la Prosperite 12\n"
+  "company": "BANOUEUNIVERSELLE",
+  "branch": "CRABONDANCE",
+  "code": "5248",
+  "amount": "Fne Thousard TaHundred and",
+  "date": "06/05/22",
+  "email": "a Chelsea@aton",
+  "city": "Madrid",
+  "address": "Bd de la Prosperite",
+  "planet": "PLANETTE TERRE",
+  "telephone": "0811078809"
 }

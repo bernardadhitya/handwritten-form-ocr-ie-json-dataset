@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nFossey Hlorent 8rve des coqvelicots 5 4 96O Mercyle Bas tel: O 3 29 49 29 38 Barque Sociere6oniale 87 rovte nationale 5 496O Mercy le Bas Mercy le 10/10/2006 obyet: Demande de rendez-vous avec un cons...\nPouriez vous mobtenir vn rendez-vovs avec Ion de vos con seillers? onsievr, mes plus sinceres salutations.\nJlorent Jossey Hlorent\nMercy le Bas\nMercy le 29/10/2006\n\nNote: The text is written in French.\n\nHere is the structured information:\n\n* Name: Fossey Hlorent\n* Address: 8 Rive des coqvelicots, 5 4 96O\n* Phone: 03 29 49 29 38\n* Company: Barque Sociere6oniale\n* Position: 87 Rovte nationale\n* Date: 10/10/2006\n* Message: Demande de rendez-vous avec un cons...\n* Signature: Jlorent Jossey Hlorent\n* Name: Mercy le Bas\n* Address: Mercy le 29/10/2006\n\nHowever, the last two entries are not structured information, but rather a signature and a date. They are not relevant to the structured information that we want to extract.\n\nHere is the structured JSON output:\n\n```\n{\n  \"Name\": \"Fossey Hlorent\",\n  \"Address\": \"8 Rive des coqvelicots, 5 4 96O\",\n  \"Phone\": \"03 29 49 29 38\",\n  \"Company\": \"Barque Sociere6oniale\",\n"
+  "document": null,
+  "scenario": null,
+  "writer": null,
+  "sender_person": null,
+  "sender_company": null,
+  "sender_tel": null,
+  "sender_fax": "",
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "Objet : Demande de rendez-vous avec un conseiller",
+  "date": null,
+  "place": "Mercy",
+  "box": null
 }

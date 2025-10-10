@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nanpe CALAIS THEATRE 37, rue Gustave Cuvelier B.P.349 62107 CALAIS CEDEX Courriel : ale.calais-theatre@anpe.fr 03.21.46.57.0003.21.46.57.19 CORRESPONDANT: 1esSno- BriqHK TELECOPIE 3] Date : 03 lulo 6 N... 2022 14:00 14:30 15:00 15:30 16:00 16:30 17:00 17:30 18:00 18:30 19:00 19:30 20:00 20:30 21:00 21:30 22:00 22:30 23:00 23:30 00:00 00:30 01:00 01:30 02:00 02:30 03:00 03:30 04:00 04:30 05:00 05:30 06:00 06:30 07:00 07:30 08:00 08:30 09:00 09:30 10:00 10:30 11:00 "
+  "document": "CALAIS THEATRE",
+  "scenario": null,
+  "writer": null,
+  "sender_person": "CORRESPONDANT: 1esSno- BriqHK",
+  "sender_company": "anpe",
+  "sender_tel": "03.21.46.57.0003.21.46.57.19",
+  "sender_fax": null,
+  "receiver_person": "NA1F Assuranc,Avenua du G aDe 6aule",
+  "receiver_company": null,
+  "subject": null,
+  "date": "03 lulo 6",
+  "place": "37, rue Gustave Cuvelier, B.P.349, 62107 CALAIS CEDEX",
+  "box": "Courriel : ale.calais-theatre@anpe.fr"
 }

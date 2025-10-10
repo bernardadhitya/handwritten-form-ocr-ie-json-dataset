@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nMOUQUET Meudes 5 Hameau de Ia Chame 25 15O EcoF TEl.: 03 02 62 92 38 France Telephone 1 Plau Xoi le Montaaner 56 52o Gudl Ref.&enE : GVXFUf7 Olget : nemIousement Xe 2 mass 2oo 7 Madame, Monoeu, f'ai c...\nInr I 2t &nne lof.\nToutfos,l té&phons et defechuux 1je n entendl achat. 1e n entendl achat. 1e n entendl achat. 1e n entendl achat. 1e n entendl achat. 1e n entendl achat. 1e n entendl achat. 1e n entendl achat. 1e n entendl achat. 1e n entendl achat. 1e n entendl achat. 1e n entendl achat. 1e n entendl achat. 1e n entendl achat. 1e n entendl achat. 1e n entendl achat. 1e n entendl achat. 1e n entendl achat. 1e"
+  "document": "MOUQUET Meudes",
+  "scenario": "5 Hameau de Ia Chame",
+  "writer": null,
+  "sender_person": "Madame, Monoeu",
+  "sender_company": "France Telephone",
+  "sender_tel": "03 02 62 92 38",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "achat",
+  "date": "Xe 2 mass 2oo 7",
+  "place": "1 Plau Xoi le Montaaner, 56 52o Gudl",
+  "box": "Ref.&enE : GVXFUf7"
 }

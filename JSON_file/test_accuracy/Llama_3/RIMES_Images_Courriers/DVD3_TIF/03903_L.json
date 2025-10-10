@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nBouCHoN DouaM 3 1MP Des Roses 6Y 33o oBeRSou LTz BACH 16: 03.38.03.23.82 Réf'xence ceenr:\nNAIF ASSURANCES Rue PrinCipaLe 0eFUM52 32 39O STE CHR1ST1e Obie:\nObexsau Rtzbach Yeshon de Sinste 5QoZ sxon 5Y al a en&e dans un uaga%a Jaceks de chaussuxes Youlu ue 2attapex & dorisée sous nion T sp.od ye sus pas& au taves PotCuor pe,SaRaleaio te couverle au tte o...\nYe mue hen a voue d&poohon pw dk olu lenseignenen ro.g expression cle Mcs BaCefa honsa 3 1MP 6Y 33o oBeRSou LTz BACH 16: 03.38.03.23.82 Réf'xence ceenr:\nNAIF ASSURANCES Rue PrinCipaLe 0eFUM52 32 39O STE CHR1ST1e Obie:\nObexsau Rtzbach Yeshon de Sinste 5QoZ sxon 5Y al a en&e dans un uaga%a Jaceks de chaussuxes Youlu ue 2attapex & dorisée sous nion T sp.od ye sus pas& au taves PotCuor pe,SaRaleaio te couverle au tte o...\n\nThe text appears to be a jumbled collection of words and phrases, but if we extract the structured information, we can see that there are two instances of the following information:\n\n* Name: BouCHoN DouaM\n* Address: Rue PrinCipaLe 0eFUM52 32 39O\n* Phone number: STE CHR1ST1e Obie\n* Reference number: Ré"
+  "document": "BouCHoN DouaM",
+  "scenario": "3 1MP Des Roses",
+  "writer": "Obexsau Rtzbach",
+  "sender_person": "Yeshon de Sinste",
+  "sender_company": "NAIF ASSURANCES",
+  "sender_tel": "16: 03.38.03.23.82",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": null,
+  "date": null,
+  "place": "Rue PrinCipaLe",
+  "box": "0eFUM52"
 }

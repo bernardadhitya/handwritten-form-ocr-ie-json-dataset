@@ -1,3 +1,78 @@
 {
-    "error": "Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  "MasterChecklist": {
+    "1994StimulusEvaluationAndResponseSelection": {
+      "BloodStudy": {
+        "Name": null,
+        "Date": null,
+        "Code": "Soa",
+        "Age": "a3",
+        "Weight": null,
+        "ConsentForm": null,
+        "BreathCOLevelUponArrival": {
+          "COLevel": 10,
+          "PPM": null
+        },
+        "EEGCapHookUp": null,
+        "InsertCatheter": null,
+        "PracticeTheTask": false,
+        "BreathCO": {
+          "COLevel": null,
+          "Ndd": null
+        },
+        "BloodSamplePreSmoking": {
+          "Time": null,
+          "COHbLevel": null
+        },
+        "PreSmokingTask": null,
+        "BreathCOPreSmoking": {
+          "COLevel": null,
+          "PPM": true
+        },
+        "BloodSample0MinPreSmoking": {
+          "COHbLevel": null
+        },
+        "SmokeCigaretteUtilizingQSDSMachine": null,
+        "BreathCOPostSmoking1Min": {
+          "COLevel": null,
+          "PPM": null
+        },
+        "BloodSample1MinPostSmoking": {
+          "COHbLevel": null
+        },
+        "FirstPostSmokingTask": null,
+        "BreathCOPostSmoking8Min": {
+          "COLevel": 13.8,
+          "PPM": null
+        },
+        "BloodSample8MinPostSmoking": {
+          "COHbLevel": 3.2
+        },
+        "SecondPostSmokingTask": null,
+        "BreathCOPostSmoking15Min": {
+          "COLevel": null,
+          "PPM": null
+        },
+        "BloodSample15MinPostSmoking": {
+          "COHbLevel": null
+        },
+        "ThirdPostSmokingTask": null,
+        "BreathCOPostSmoking22Min": {
+          "COLevel": null,
+          "PPM": null
+        },
+        "BloodSample22MinPostSmoking": {
+          "COHbLevel": null
+        },
+        "FourthPostSmokingTask": null,
+        "BreathCOPostSmoking29Min": {
+          "COLevel": 1.5,
+          "PPM": null
+        },
+        "BloodSample29MinPostSmoking": {
+          "COHbLevel": null
+        },
+        "FifthPostSmokingTask": null
+      }
+    }
+  }
 }

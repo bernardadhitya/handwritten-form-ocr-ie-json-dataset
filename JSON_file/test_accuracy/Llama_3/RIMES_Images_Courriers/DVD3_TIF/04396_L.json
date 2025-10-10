@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nSAuLNy k OLivE Hww 1a A 2oo7 4S,Rue c SAULnY 57140 ASsEDC xwcm SS b Le POurg 3435O NoTRE DAme DE launk OwD /nCon mu 2YvcC xmc U 0 & a r0v O1 YowoV & wO R rxmY'KC YY cnO.y0YXCV 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 "
+  "document": "SAuLNy k",
+  "scenario": "OLivE Hww",
+  "writer": "1a A 2oo7",
+  "sender_person": "SAULnY",
+  "sender_company": "4S,Rue c",
+  "sender_tel": "57140",
+  "sender_fax": "ASsEDC",
+  "receiver_person": "xwcm SS b",
+  "receiver_company": "Le POurg",
+  "date": "3435O NoTRE DAme DE launk",
+  "place": "OwD /nCon",
+  "box": "mu 2YvcC"
 }

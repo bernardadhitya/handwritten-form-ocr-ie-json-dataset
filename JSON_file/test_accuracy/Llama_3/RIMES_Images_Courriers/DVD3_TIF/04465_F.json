@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nAA ECOLE NATIONALE DINGENIEURS FA X AGRICOLES ET ALIMENTAIRES NOM DU SERVICE A I'attention de :\nNos réf. :\nsociété: TlANiF Asurac Vos réf. :\nDossier suivi par :\nN°defax:o_ So-A6-u3-33.\nNombre de page(s) y compris celle ci :\n3 Tel. :\nFax :\nDe la part de: FREY,ANNi`CK Date :\n28lo 3lo7.\nE-Mail :\n0bjet: Demoude dl doeomeu/asn asncrnar wo conFras &'arvnac ue CU&r :KsL MF15 Aokexc i 1 bs rve de la Vele F8nrouhe 25 31o H tri non c&eT.\nvl: o3.8A-16-91 -22 Rue de la Géraudiére - BP 82225 -44322 NANTES CEDEX 3-France  Tél. : + 33 (0)2 51 78 5454 - Fax : + 33 (0)2 51 78 54 55- www.enitiaa-nantes.fr Ministere de I'Agricalture et de I'Alimentation - Ministere de I'Environnement - Ministere de I'Industrie - Ministere de I'Education Nationale - Ministere de I'Accompagnement des PME - Ministere de I'Emploi - Ministre de I'Environnement - Ministere de I'Industrie - Ministere de I'Education Nationale - Ministre de I'Accompagnement des PME - Ministre de I'Emploi\n\nNote: The text is in French, and the output will be in French as well.\n\nHere is the structured JSON output:\n\n```json\n{\n  \"société\": \"TlANiF Asurac\",\n  \"dossier suivi par\": \"FREY,ANNi`CK\",\n  \"n°defax\": \"o_ So-A6-u3-33\",\n  \"nombre de page(s)\": 3,\n  \"tel\": \"+33 (0)2 51 78 5454\",\n  \"fax\": \"+33 (0)2 51 78 54 55\",\n  \"adresse\": \"25 31o H tri non c&eT\",\n  \"ville\": \"NANTES CEDEX 3-France\",\n  \"email\": \"0bjet: Demoude dl doeomeu/asn asncrnar wo conFras &'arvnac ue CU&r :KsL MF15 Aokexc i 1 bs rve"
+  "document": "Fax",
+  "scenario": null,
+  "writer": null,
+  "sender_person": null,
+  "sender_company": null,
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": "",
+  "receiver_company": null,
+  "subject": "Objet : Demande de documentation\\nconcernant les contrats d'assurance vie",
+  "date": null,
+  "place": null,
+  "box": null
 }

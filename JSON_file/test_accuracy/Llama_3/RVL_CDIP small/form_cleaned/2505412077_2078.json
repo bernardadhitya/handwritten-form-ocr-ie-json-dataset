@@ -1,4 +1,29 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\ncio — $i SFO — Contract Research TELEFAX MESSAGE NO. SH Telephone +49-2203-309-1 Telefax +49-2203-303-362 TNBIFO institut for bologieche Forschung GmbH Fuggerst 3 + 51149 Cologne + Germany, HHM/BRA GP...\nResearch Center P.O. Box 26583 Richmond, Va. 23261 USA.\nFaxno.: 001-804-274 30 55 NUMBER OF FOLLOWING PAGES: 4 Dear George:\nCal EPA published a paper on their approach to determine the relative cancer potencies of polyoyclic aromatic hydrocarbons, which | have used for the calculation of the smoke chemistry index. Please f...\nBest regards, 3 :\nSASSO\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute Inc.\nSAS Institute"
+  "company": {
+    "name": "INBiFO institut fur biologische Forschung GmbH",
+    "address": "Fuggerstr. 3  51149 Cologne  Germany",
+    "telephone": "+49-2203-303-1",
+    "telefax": "+49-2203-303-362",
+    "general_manager": "Hans-Jurgen Haussmann",
+    "trade_register": "Cologne HRB 367 1976/4"
+  },
+  "message": {
+    "telefax_message_no": "TELEFAX MESSAGE NO:",
+    "date": "April 15,1999",
+    "from": "Hans-Jurgen Haussmann",
+    "to": "Dr.George Patskan",
+    "to_address": {
+      "name": null,
+      "research_center": "Philip Morris U.S.A Research Center",
+      "pobox": "P.O.Box26583",
+      "city": "Richmond",
+      "state": "Va.",
+      "zip": "23261",
+      "country": "U.S.A.",
+      "fax_no": "001-804-274 3055"
+    },
+    "number_of_following_pages": "1",
+    "content": "Dear George\nCal EPA published a paper on their approach to determine the relative cancer potencies of\npolycyclic aromatic hydrocarbons, which 1 have used for the calculation of the smoke\nchemistry index.Please find the first page of this paper attached for your information\nBest regards,\n2505412077",
+    "additional_info": null
+  }
 }

@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nCOOORA Ang zsso9 S nolle 5+s30 GLATIGNY 1Q: 03.89.72.01.51 A I'atenionde Banque dabit Lyonnais 12 na Feat 3S 39o GRAND FOUGERAY Réf dient: GDQIC7o Obipt : nowelles ceordonneas lelkphoniques Par dapeen... (text truncated)\n\n... Par dapeen, lekton de la Banque dabit Lyonnais, M. Jean-Pierre Dufour, a déclaré: \"La Banque dabit Lyonnais a décidé de mettre en place un système de gestion de la qualité pour garantir la qualité des services offerts aux clients. Ce système sera mis en œuvre dans les prochaines semaines et sera basé sur les principes de la qualité définis par la norme ISO 9001. Nous sommes convaincus que ce système sera efficace pour garantir la qualité des services offerts aux clients et contribuera à la satisfaction des clients.\"\n\nTranslation:\n\nCOORA Ang zsso9 S nolle 5+s30 GLATIGNY 1Q: 03."
+  "document": "COOORA",
+  "scenario": "A I'atenionde Banque dabit Lyonnais",
+  "writer": "Ang",
+  "sender_person": "Ang",
+  "sender_company": "Banque dabit Lyonnais",
+  "sender_tel": "03.89.72.01.51",
+  "sender_fax": "03.89.72.0.54",
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "Obipt : nowelles ceordonneas lelkphoniques",
+  "date": null,
+  "place": "GRAND FOUGERAY",
+  "box": "Réf dient: GDQIC7o"
 }

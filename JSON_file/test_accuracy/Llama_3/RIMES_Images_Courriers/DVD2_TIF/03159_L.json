@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nPELERm &nq 1e lundi 2b Peuer 2o07 138 rout d Sanne 6AuuO SanEvHE17 BrP- Sanqu quhiela T: 03.63 99.95 75 e Pani plau d IEf&x 8tubO lUIALEvF agena: Charanur do douui lnuulls Gmyduad: Vous va ishl dki ot... (text truncated)\n\n... (text truncated)\n\n... (text numbered list)\n\n1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1."
+  "document": "PELERm",
+  "scenario": "lundi 2b Peuer 2o07",
+  "writer": null,
+  "sender_person": "Charanur do douui lnuulls",
+  "sender_company": "Gmyduad",
+  "sender_tel": "03.63 99.95 75",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": null,
+  "date": "lundi 2b Peuer 2o07",
+  "place": "138 rout d Sanne",
+  "box": "6AuuO SanEvHE17"
 }

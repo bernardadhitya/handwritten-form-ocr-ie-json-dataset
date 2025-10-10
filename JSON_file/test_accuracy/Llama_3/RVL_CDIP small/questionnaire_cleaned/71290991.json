@@ -1,26 +1,35 @@
 {
-    "Q1": [
-        "BIB",
-        "Gnu",
-        "Deannaa",
-        "Meme",
-        "Rnvtend"
-    ],
-    "Q2": [
-        "BIB",
-        "Gnu",
-        "Deannaa",
-        "Meme",
-        "Rnvtend"
-    ],
-    "Q3C": [
-        "Yes"
-    ],
-    "Q3D": [
-        "BIB",
-        "Gnu",
-        "Deannaa",
-        "Meme",
-        "Rnvtend"
-    ]
+  "title": "WISCONSIN MARKET MONITOR",
+  "date": "August,1997",
+  "sections": [
+    {
+      "question": "whaMehDan nin",
+      "question_number": "Q1",
+      "text": "WHEN YOU THINK OF CIGARETTES,WHAT BRANDS COME TO MIND? WHAT OTHERS CAN YOU THINK OF? (Ask until unproductive.)"
+    },
+    {
+      "question": "WHICHCIGARETTE BRANDS HAVE YOU SEEN ADVERTISED DURING THE PAST FOUR WEEKS, MMHCL EITHER IN A NEWSPAPER OR MAGAZINE, ON A BILLBOARD, OR ON A DISPLAY IN A STORE? WHAT OTHERS? (Ask until unproductive.)",
+      "question_number": "Q2",
+      "text": null
+    },
+    {
+      "question": "BUY ONE, GET ONE FREE OFFERS.FREE SAMPLES,FREE MERCHANDISE,INSTANT REBATE STICKERS THAT YOU TEAR OFF PACKS OR CARTONS AT THE STORE, OR MONEY-OFF COUPONS IN MAGAZINES.NEWSPAPERS OR THE MAIL.IN THE PAST FOUR WEEKS,WHICH CIGARETTE BRANDS HAVE YOU SEEN PROMOTED? WHAT OTHERS? (Ask until unproductive.)",
+      "question_number": "Q3",
+      "text": null
+    },
+    {
+      "question": "DURING THE PAST FOUR WEEKS.HAVE YOU, OR ANYONE IN YOUR HOUSEHOLD,RECEIVED ANY ADVERTISING OR PROMOTIONAL MATERIALS FOR,CIGARETTES THROUGH THE MAIL, OR NOT?",
+      "question_number": "Q3C",
+      "text": null
+    },
+    {
+      "question": "WHAT BRANDS OF CIGARETTES WERE FEATURED IN THE MATERIALS THAT YOU RECEIVED IN THE MAIL? (Record on standard brands list. Accept multiple responses.)",
+      "question_number": "Q3D",
+      "text": null
+    }
+  ],
+  "metadata": {
+    "code": "462124694",
+    "source": "B&W WEB SITE"
+  }
 }

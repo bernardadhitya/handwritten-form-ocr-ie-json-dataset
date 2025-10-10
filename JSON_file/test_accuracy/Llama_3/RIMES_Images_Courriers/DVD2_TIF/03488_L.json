@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nVansa Po1TAnn 7 n du BraI d'Hsa 64390 SCHOENAV t1: 03.87.56.40.47 1 : UMCET64 k 9 man &4 : ninxt aulonokt 1-enX gvc hs prcT k nTol srntqvt mattnds r h dwy pTt Cemerc'at m'r qvc uu q d mon rwop Nn d te... (text truncated)\n\n...n d te... (text truncated)\n\n...n d te... (text truncated)\n\n...n d te... (text truncated)\n\n...n d te... (text truncated)\n\n...n d te... (text truncated)\n\n...n d te... (text truncated)\n\n...n d te... (text truncated)\n\n...n d te... (text truncated)\n\n...n d te... (text truncated)\n\n...n d te... (text truncated)\n\n...n d te... (text truncated)\n\n...n d te... (text truncated"
+  "document": "Vansa Po1TAnn",
+  "scenario": "7 n du BraI d'Hsa",
+  "writer": null,
+  "sender_person": "UMCET64",
+  "sender_company": "k 9 man &4",
+  "sender_tel": "t1: 03.87.56.40.47",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "ninxt aulonokt",
+  "date": null,
+  "place": "64390 SCHOENAV",
+  "box": null
 }

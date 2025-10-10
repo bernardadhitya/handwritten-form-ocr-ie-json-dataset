@@ -1,4 +1,31 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nAa foal Tobacco C, hlhas Oe ee ME 270r he tg at peitleort (ag ie ab ernt 20» Grebar Joe anja e drips drips Lon » Bezonke we S00 £. le” St 6 WC, Wr 000? RECEIVED AUG 18 1989 do ene new Seer C C4, Pttne... (ag ie ab ernt 20» Grebar Joe anja e drips drips Lon » Bezonke we S00 £. le” St 6 WC, Wr 000? \n\nThe text is a receipt from a store, with the following information:\n\n* Date: August 18, 1989\n* Store name: Tobacco C\n* Address: 270r he tg at peitleort\n* Store number: 20\n* Customer name: Grebar Joe\n* Customer address: anja e drips drips Lon\n* Customer phone number: 000?\n* Product: Seer C C4\n* Quantity: 1\n* Price: £0.00\n* Total: £0.00\n\nHere is the structured JSON output:\n\n```json\n{\n  \"date\": \"August 18, 1989\",\n  \"store\": {\n    \"name\": \"Tobacco C\",\n    \"address\":"
+  "address": {
+    "street": "51O E.12#Sf #J6",
+    "city": "NYC",
+    "state": "NY",
+    "zip": "i0oo9"
+  },
+  "company": {
+    "name": "R.J. Reznolls Tebacco C",
+    "department": "Camsb'Pulfic blatisns"
+  },
+  "received": {
+    "location": "hinstow-Sile, NC",
+    "zip": "77102",
+    "date": "AUG 18 1989"
+  },
+  "misc": [
+    "Mimie",
+    "Stries",
+    "Srhll",
+    "enticenrt",
+    "Tack",
+    "Io entice",
+    "to",
+    "ephics",
+    "An",
+    "momo",
+    "51359",
+    "3617"
+  ]
 }

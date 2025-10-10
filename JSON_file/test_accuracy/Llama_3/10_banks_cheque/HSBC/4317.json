@@ -1,4 +1,7 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nX Premier SlaBnngoc4boL CATE 06105122 VAY Jens Egger S$ 3013 X-AHS-001\nX Premier SlaBnngoc4boL CATE 06105122 VAY Jens Egger S$ 3013 X-AHS-001\nX Premier SlaBnngoc4boL CATE "
+  "X": "X",
+  "SlaBnngoc4boL": "Premier",
+  "06105122": "06105122",
+  "Jens Egger": "Jens Egger",
+  "3013": "3013"
 }

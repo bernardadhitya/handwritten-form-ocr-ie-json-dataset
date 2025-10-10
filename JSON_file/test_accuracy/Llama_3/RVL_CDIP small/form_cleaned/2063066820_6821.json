@@ -1,3 +1,54 @@
 {
-    "error": "Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  "form": null,
+  "account_name": null,
+  "date": "66-29",
+  "call_number": null,
+  "time": null,
+  "control_number": "541457",
+  "tsm": null,
+  "store_number": null,
+  "territory_number": "S3--03",
+  "deduction_notice": null,
+  "non_compliance_reasons": {
+    "A": "No We Card or equivalent signage in visible location",
+    "B": null,
+    "C": null,
+    "D": null,
+    "E": null,
+    "F": "Lack of fair share of space on industry Fixture(s)",
+    "G": null,
+    "H": null,
+    "I": null,
+    "J": "Lack of fair share of FF pack facings on Counter/Checklane Display(s)",
+    "K": null,
+    "L": null,
+    "M": null,
+    "N": null,
+    "O": null,
+    "P": null,
+    "Q": null,
+    "R": null,
+    "S": null,
+    "T": "Foreign objects / Competitive merchandise on or obstructing displays / Fixtures / Signage, Displays or fixtures not stocked / Obstructed / Removed",
+    "U": null,
+    "V": null,
+    "W": null,
+    "X": null
+  },
+  "correction_status": {
+    "corrected": false,
+    "not_corrected": null
+  },
+  "corrective_actions_taken": null,
+  "notice": "Continuous non-compliance situations may result in the termination of our Retail Leaders contract",
+  "signatures": {
+    "retailer_signature": null,
+    "pm_representative_signature": null,
+    "duplicate_account_manager": null,
+    "triplicate_supervisor": null,
+    "original_retailer": "",
+    "quadruplicate_sales_rep": null
+  },
+  "pos_number": null,
+  "revision": null
 }

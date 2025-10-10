@@ -1,3 +1,52 @@
 {
-    "error": "Blockwise quantization only supports 16/32-bit floats, but got torch.uint8"
+  "Blend": null,
+  "Brand": null,
+  "Callback": null,
+  "RespondentName": "JNorton",
+  "ID": null,
+  "Questions": [
+    {
+      "Question": null,
+      "Response": null
+    },
+    {
+      "Question": null,
+      "Response": null
+    },
+    {
+      "Question": "What, if anything, did you particularly dislike about York FILTER cigarettes?",
+      "Response": "Strength/lack of mildness"
+    }
+  ],
+  "RatingComparison": {
+    "Taste": {
+      "MuchMoreSatisfying": null,
+      "LittleMoreSatisfying": null,
+      "AboutTheSame": false,
+      "LittleLessSatisfying": null,
+      "MuchLessSatisfying": null
+    },
+    "Mildness": {
+      "MuchMilder": false,
+      "LittleMilder": null,
+      "AboutTheSame": null,
+      "LittleStronger": null
+    },
+    "FilterDraw": {
+      "MuchEasier": null,
+      "LittleEasier": null
+    }
+  },
+  "Preference": {
+    "Taste": "No Preference",
+    "Mildness": null,
+    "FilterDraw": "No Preference"
+  },
+  "OverallPreference": {
+    "York": "Much more",
+    "RegularBrand": null,
+    "YorkLittleMore": null,
+    "RegularBrandLittleMore": null,
+    "NoPreference": null
+  }
 }

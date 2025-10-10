@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nLadhauI Nan3a 1S1 lve 3rveiMer 54 l10 Varangevic lEl: 03/13/53/22/86 Broville Telecom 96,Auenvc de 1a republi qve 13.4 00 AU BA G n E.\nonsieur I me permets yar 1a prEsent 5nor oR RedonneR mes nouvellel coordonnees Te o Ai 9vC ainsi que mes nouvelles Jonnces hancaires.\nSincircs salurahons - 1a prEsent 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a "
+  "document": "LadhauI Nan3a",
+  "scenario": "1S1 lve 3rveiMer",
+  "writer": "54 l10 Varangevic",
+  "sender_person": "onsieur",
+  "sender_company": "Broville Telecom",
+  "sender_tel": "96,Auenvc de 1a",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "date": "03/13/53/22/86",
+  "place": "republi qve",
+  "box": "13.4 00"
 }

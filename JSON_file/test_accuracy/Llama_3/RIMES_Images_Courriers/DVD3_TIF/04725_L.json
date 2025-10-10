@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nGrrvudville le S avr'l 2oo7 2 Rua des Roses 5751O Gruudui Me Yel. 03.39.8h.71.11 Ref. el:et: BN CHY1S MAN1F Assursuce Rue cu Cora St Cesare 17770 O5jet: Deuaude de Reude? -vous awec Cov Maclane Mont'e...\nc l c m s!om,p sm!n r! 'pH En Gohou Simao ip nK fe 2o mcus 2oo7 Avor, ye sohait ecu's conse'fle, QPn de mfu ma xfuatior a jurs wm dispougls pur ls nouveaux-nS Je suis dispouser tou: ls san sm nm r 1ff... (Note: the text is written in a mix of French and English, and appears to be a phone call transcript)\n\nHere is the call transcript:\n\nGrrvudville le S avr'l 2oo7 2 Rua des Roses 5751O Gruudui Me Yel. 03.39.8h.71.11 Ref. el:et: BN CHY1S MAN1F Assursuce Rue cu Cora St Cesare 17770 O5jet: Deuaude de Reude? -vous awec Cov Maclane Mont'e...\nc l c m s!om,p sm!n r! 'pH En Gohou Simao ip nK fe 2o mcus 2oo7 Avor, ye sohait ecu's conse'fle, QPn de mfu ma xfuatior a jurs wm dispougls pur ls nouveaux-nS Je suis dispouser tou: ls san sm nm r 1ff...\n\nHere is the structured JSON output:\n\n```json\n{\n  \"date\": \""
+  "document": "Grrvudville le S avr'l 2oo7",
+  "scenario": "Deuaude de Reude? -vous awec",
+  "writer": "Gohou Simao",
+  "sender_person": "Maclane Mont'eut",
+  "sender_company": "MAN1F Assursuce",
+  "sender_tel": "03.39.8h.71.11",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "ecu's conse'fle",
+  "date": "2o mcus 2oo7",
+  "place": "Rue cu Cora, St Cesare, 17770"
 }

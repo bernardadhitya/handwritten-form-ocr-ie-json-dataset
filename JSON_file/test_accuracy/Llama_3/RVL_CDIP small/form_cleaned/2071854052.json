@@ -1,4 +1,16 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n212 207 S306i# 1 10-27-95 + 2:56PM + Nielsen A. C. NIELSEN 299 PARK AVENUE NEW YORK, NY 10171 (212) 708-7088 FAX # (212) 708-7086 SENT BY:\nFACE DATE: 929 NUMBER OF pages: g —igea (meting Ons cove shew * ro: _ Beoce Nemec LOCATION: 1 en FROM: ‘ Dawalll Sch COMMENTS:\n@sorserzoz'1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+  "timestamp": "10-27-95256PM",
+  "phone_number": "2129075306",
+  "sent_by": "Nielsen",
+  "company": "A.C.NIELSEN",
+  "address": "299 PARK AVENUE, NEWYORK,NY 10171",
+  "phone": "(212)708-7088",
+  "fax": "212708-7080",
+  "date": null,
+  "number_of_pages": null,
+  "to": "BRuce Neide",
+  "location": null,
+  "from": null,
+  "comments": "nstructons 2071854052",
+  "reference_number": null
 }

@@ -1,4 +1,41 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n4-5 PARK $00 QUALITY ACCEPTANCE FORM “ALLIED CLARIFLOC (33) POLYMER Objective Philip Content Determine the properties of CLARIFLOC £_33] polymer each time 3 MQ Otis 4 shipment arrives. Upon arrival of...\nProcedure 1, Have the driver collect 600 ml or more of sample from the top of the tank truck and from the bottom of the tank truck.\n2. Check the two samples for odor, color, trash, temperature, ng wisgosity NOTE: for viscosities argater than. ‘40,000 cps, use the #4 spindle seein CAR Shy A SePELaP bch fo SRR Sr. Fabare’1ees’ Chan...\nWolly Whe Bupervildor “ir clidrge “shether the ‘shipment ig accepted of rejected as soon as possible.\n4 Discard the sample.\n5. File Acceptance Form in Lab drawer file.\n6. Attach to this form, any certificate of analysis that may be supplied by the vendor.\nSpecifications Analytical Results Odor = Slight amine - Like color Trash___= None Aedes COMMENTS :\nViscosity - as is @ 25°C 35-60 x 103 cps ad STD Temperature - L Color = colorless, viscous Liquid Louk, Rejected by Mie:\nWaste Treatment Lab Technician JE 9- RE-92 Date 2030141090\n1. The following data are for a 1.0 L sample of a 0.5 M solution of NaOH. Calculate the pH of the solution. 2. The following data are for a 1.0 L sample of a 0.5 M solution of NaOH. Calculate the pH of the solution. 3. The following data are for a 1.0 L sample of a 0.5 M solution of NaOH. Calculate the pH of the solution. 4. The following data are for a 1.0 L sample of a 0.5 M solution of NaOH. Calculate the pH of the solution. 5. The following data are for a 1.0 L sample of a 0.5 M solution of NaOH. Calculate the pH of the solution. 6. The following data are for a 1.0 L sample of a 0.5 M solution of NaOH. Calculate the pH of the solution. 7. The following data are for a 1.0 L sample of a 0.5 M solution of NaOH. Calculate the pH of the solution. 8. The following data are for a 1.0 L sample of a 0.5 M solution of NaOH. Calculate the pH of the solution. 9. The following data are for a 1.0 L sample of a 0.5 M solution of NaOH. Calculate the pH of the solution. 10. The following data are for a 1.0 L sample of a 0.5 M solution of NaOH. Calculate the pH of the solution. 11. The following data are for a 1.0 L sample of a 0.5 M solution of NaOH. Calculate the pH of the solution. 12. The following data are for a 1.0 L sample of a 0.5 M solution of NaOH. Calculate the pH of the solution. 13. The following data are for a 1.0 L sample of a 0.5 M solution of NaOH. Calculate the pH of the solution. 14. The following data are for a 1.0 L sample of a 0.5 M solution of NaOH. Calculate the pH of the solution. 15. The following data are for a 1.0 L sample of a 0.5 M solution of NaOH. Calculate the pH of the solution. 16"
+  "form": {
+    "title": "QUALITY ACCEPTANCE FORM",
+    "product": "ALLIED CLARIFLOC C-331 POLYMER",
+    "objective": "Confidential shipment arrives. Upon arrival of the shipment, a bottom sample and top. sample will be collected from the tank truck and the Waste Treatment Specialist personnel will perform the analysis.",
+    "procedure": [
+      "1. Have the driver collect 600 ml or more of sample from the top of the tank truck and from the bottom of the tank truck.",
+      "2. Check the two samples for odor, color, trash, temperature, and",
+      "3. rejected as soon as possible.",
+      "4. Discard the sample.",
+      "5. File Acceptance Form in Lab drawer file.",
+      "6. Attach to this form, any certificate of analysis that may be supplied by the vendor."
+    ],
+    "specifications": {
+      "analytical_results": {
+        "top": {
+          "odor": "- Slight amine - like",
+          "color": "EK",
+          "trash": "-None",
+          "viscosity": "35-60 x10 cps",
+          "temperature": "34.5"
+        },
+        "bottom": {
+          "odor": "- Slight amine - like",
+          "color": "6K",
+          "trash": "AONENONE",
+          "viscosity": "35-60 x10 cps",
+          "temperature": "34.5"
+        }
+      },
+      "comments": "Viscosity-as is @ 25c 35-60 x10 cps",
+      "color": "colorless, viscous liquid"
+    },
+    "acceptance": {
+      "circle_one": "Accepted by",
+      "waste_treatment": "Waste Treatment",
+      "lab_technician": "t6-78-6",
+      "date": "2030141090"
+    }
+  }
 }

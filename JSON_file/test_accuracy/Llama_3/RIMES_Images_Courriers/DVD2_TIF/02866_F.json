@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nPage Fax EXPEDITEUR ithe. Chums 22470 PLOUMAGOAR el. 02.36. 82.04, AP DESTINATAIRE Bonus Lib enn S mip, oe Chad 68220 HAGEWTAL Lé OBJET Lemante d infer me tC pentée Aas fk. 02.36. 82.04, AP DESTINATAIRE Bonus Lib enn S mip, oe Chad 68220 HAGEWTAL Lé OBJET Lemante d infer me tC pentée Aas fk. 02.36. 82.04, AP DESTINATAIRE Bonus Lib enn S mip, oe Chad 68220 HAGEWTAL Lé OBJET Lemante d infer me tC pentée Aas fk. 02.36. 82.04,"
+  "document": "Page Fax",
+  "scenario": "EXPEDITEUR",
+  "writer": "Weber Oma",
+  "sender_person": "Weber Oma",
+  "sender_company": "Banque Oehil dymnais",
+  "sender_tel": "T1. 02.36.84.01.17",
+  "sender_fax": "T1. 02.36.84.01.17",
+  "receiver_person": "Banque Oehil dymnais",
+  "receiver_company": "Banque Oehil dymnais",
+  "subject": "Demande d'infomakc nestte sans effe.",
+  "date": null,
+  "place": "68HO HAGENTAL LE BAS",
+  "box": "2291O PLOUuAGOAR"
 }

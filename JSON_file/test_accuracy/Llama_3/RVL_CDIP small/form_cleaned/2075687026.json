@@ -1,4 +1,30 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nwee er Ei So fe ates DPwi P2713 @002 DAVis POLK & WARDWELL SultiploFaxTransmittsl Sender meter nt ‘wor Charles Duggan 912-480-4000 Date ‘Number of Pages (this page included) October 27, 1997 12 Sender...\n“WSs PRA BeAeTAa Tere 920289S2L0z Ca ee Tey aS GE ‘Grave ected fon Gen Dasenon buono conven ou sn ce ufo Ce byw I Sea esoyes ama republic ned ep poss ye have ones Brel INE, ‘pleas ovatus homed by tele..."
+  "Sender": {
+    "Company": "DAVISPOLK&WARDWELL",
+    "Address": "50Lexington Avenuo",
+    "Name": "Charies Duggan",
+    "Voice Number": "12-450-4000",
+    "Fax Number": null
+  },
+  "Main Fax Operator": {
+    "Voice Number": "212-450-4785"
+  },
+  "Date": "October 27, 1997",
+  "Number of Pages": "12",
+  "Reference": "17560-188",
+  "Recipients": [
+    {
+      "Name": "Marc Firestone",
+      "Phone Number": "212-907-5473"
+    },
+    {
+      "Name": "Marc Berlind",
+      "Phone Number": "212-907-5805"
+    },
+    {
+      "Name": "Richard Verheij",
+      "Phone Number": "203-863-7233"
+    }
+  ],
+  "Message": "Following is an outline of Reynolds'mail-order sales policies for your consideration in connection with the statutory provision regarding mail-order sales."
 }

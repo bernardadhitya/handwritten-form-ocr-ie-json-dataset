@@ -1,4 +1,82 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nPHILIP MORRIS, U. S. A E. W. RECORDS ADMINISTRATION RECORDS RETRIEVAL REQUEST To: Records Administration 089 11/87 | Tainé OF REQUESTOR | bemaatiir | cosreaennveer | omaion | Yet _Yeoso _¥XS ‘GENERAL..."
+  "company": "PHILIP MORRIS, U.S.A",
+  "department": null,
+  "form_type": null,
+  "to": null,
+  "form_number": null,
+  "requestor": {
+    "name": null,
+    "department": null,
+    "cost_center_number": null,
+    "extension": null
+  },
+  "case_reference": {
+    "description": null,
+    "case_number": null,
+    "order_of_preparation": {
+      "chronological": false,
+      "alphabetical": null,
+      "numerical": null,
+      "subject_matter": null,
+      "other": null
+    },
+    "record_location": {
+      "title_of_folder": null,
+      "in_file_folder": null,
+      "loose": null
+    },
+    "send": {
+      "entire_folder": null,
+      "entire_case": false,
+      "document_from_folder": null,
+      "document_from_case": null,
+      "describe": null
+    }
+  },
+  "department_access": {
+    "reader_printer": null,
+    "fiche_jacket_reader_equipment": null,
+    "other": null
+  },
+  "delivery": {
+    "method": null,
+    "time_and_date_required": null,
+    "courier": null,
+    "mail": null,
+    "telephone": null,
+    "reviewed_in_records_administration": false,
+    "pick_up": false
+  },
+  "authorization": {
+    "authorized_by": null,
+    "date_submitted": null
+  },
+  "records_administration_use": {
+    "record_status": {
+      "microfilmed": null,
+      "stored_as_hard_copy": false,
+      "pending_microfilmed": null
+    },
+    "roll_number": "36-5",
+    "roll_location": null,
+    "case_location": null,
+    "method_of_supplying_request": {
+      "hard_copy_duplicate": false,
+      "roll_film_duplicate": null,
+      "hard_copy_original": null,
+      "film_portion_duplicate": null
+    },
+    "action": {
+      "duplicate_destroy": false,
+      "original_return_to_records_administration": null,
+      "original_returned_to_department": null
+    },
+    "approved_by": null,
+    "date_delivered": "eb-01-l",
+    "contact_number": "2051163000"
+  },
+  "return_instructions": {
+    "return_to": null,
+    "location": null
+  }
 }

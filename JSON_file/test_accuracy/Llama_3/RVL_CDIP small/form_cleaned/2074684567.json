@@ -1,4 +1,85 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n. 4th ie WINSTON & STRAWN Ke WASHINGTON OFFICE 35 WEST WACKER DRIVE NEW YORK OFFICE 1400 L STREET, N.W, CHICAGO, ILLINOIS 60601-9703 200 Park Avenue WASHINGTON, De 20005-3802 NEW YORK, MY 10165-4193,...\nMano: STACEY RAINEY ‘Address: One Kansas City Fax #: 616/621-5547 Place, 1200 Main street.\nFirat shook Hardy & Bacon city! Kansas city conf.#1816/391-5599 mane:Joun MULDERIO Address: 120 Park Avenue Fax #1 212/907-5796 ‘DAVE FLOREXDO 23xa Floor Fira: Philip Morris City: wow York conf. $+ 21...\nFira: Munger Tolles & Olson city: Los Angeles conf. #:213/683-9187 Name: DAVID MORPEY Fira: Wachtel, Lipton, Rosen & Kate Fax #¢ 212/403-2000 conf. #2 212/403-1366 Fax #: 906/344-0922 conf.#:804/788-8...\nI€ you do not receive all the pages, please call our facsimile operator at (312) 558-5948 goon as possible. Thank you.\nDirect Dial Fax Number: (312) 558-5700 1 d 182610092 ON/91:61 'LS/82'61 16,51 ZI (NOK) OOVOIHO © NAWELS % NOLSNIM WOUO 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+  "company": null,
+  "offices": [
+    {
+      "location": null,
+      "address": null,
+      "city": null,
+      "zip": "20005-3502"
+    },
+    {
+      "location": null,
+      "address": null,
+      "city": "CHICAGO, ILLINOIS",
+      "zip": null
+    },
+    {
+      "location": null,
+      "address": null,
+      "city": null,
+      "zip": null
+    },
+    {
+      "location": null,
+      "address": null,
+      "city": null,
+      "zip": null,
+      "country": null
+    },
+    {
+      "location": "SAUDI ARABIA",
+      "address": null,
+      "city": null,
+      "zip": "11495",
+      "country": null
+    }
+  ],
+  "contact": {
+    "name": null,
+    "fax": null,
+    "date": null
+  },
+  "recipients": [
+    {
+      "name": null,
+      "address": null,
+      "city": null,
+      "firm": null,
+      "fax": "816/421-5547",
+      "conf": null
+    },
+    {
+      "name": "JOEN MULDERIG",
+      "address": null,
+      "city": "New York",
+      "firm": null,
+      "fax": null,
+      "conf": "212/880-5000"
+    },
+    {
+      "name": null,
+      "address": "355 South Grand Ave. 35th Floor",
+      "city": "Los Angeles",
+      "firm": null,
+      "fax": "213/687-3702",
+      "conf": null
+    },
+    {
+      "name": null,
+      "address": null,
+      "city": null,
+      "firm": null,
+      "fax": "212/403-2000",
+      "conf": null
+    },
+    {
+      "name": null,
+      "address": null,
+      "city": null,
+      "firm": "Hunton Williams",
+      "fax": null,
+      "conf": null
+    }
+  ],
+  "note": "If you do not receive all the pages, please call our facsimile operator at (312) 558-5948 as soon as possible."
 }

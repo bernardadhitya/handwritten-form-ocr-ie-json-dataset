@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nNine VaALov Cenalduy LA Pie Cry nemer Sy Go +helueCourT ‘Tel. 03-63-63 -29-63 Rok chent > AWFUPSY BAAr A cx nancor 25 YO PRownreraGé Heillecourt, le 0% (wos doo F Mu 3 Wad | ‘fe, Sou halitan. POUSCRR...\nDrax Av altate de Q doamertalion Dorover, Much, 2 'oesukance le fous, 0% (wos doo F Mu 3 Wad | ‘fe, Sou halitan. POUSCRR...\n\nThe text appears to be a jumbled collection of words and phrases, but if we look closely, we can extract the following structured information:\n\n* Name: VaALov Cenalduy\n* Address: LA Pie Cry nemer Sy Go +helueCourT ‘Tel\n* Phone number: 03-63-63 -29-63\n* Age: 25\n* Occupation: AWFUPSY BAAr\n* Location: Heillecourt\n* Date: 0% (wos doo F Mu 3 Wad | ‘fe, Sou halitan\n* Event: POUSCRR...\n\nHere is the structured JSON output:\n\n```json\n{\n  \"name\": \"VaALov Cenalduy\",\n  \"address\": \"LA Pie Cry nemer Sy Go +helueCourT ‘Tel\",\n  \"phone\": \"03-63-63 -29-63\",\n  \"age\": 25,\n  \"occupation\": \"AWFUPSY BAAr\",\n  \"location\": \"Heillecourt\",\n  \"date\": \"0% (wos doo F Mu 3 Wad | ‘fe, Sou halitan\",\n  \"event\":"
+  "document": "VALoT GeRaIdn",
+  "scenario": "BAAF As&uRancs",
+  "writer": null,
+  "sender_person": "HWFuP54",
+  "sender_company": "QeF clent",
+  "sender_tel": "1el : 03.67-6-29-63",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "date": "Hcllcouit, le 0g Mau Io07",
+  "place": "4s Rue GuynemeR",
+  "box": "54 u8o HEiuECouRT"
 }

@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nSUPMÉCA Institut Supérieur de Mécanigue de Paris 1 Boulevard de l'Aiguillette suprreca 75516 Paris Cedex France 0176480010 0176 23 47 20 télécopie A: HANIE ASSURANCES DE:BARDOT YVON Télécopie :\nNombre de pages :\nTé16phone: o3333 6 oH q5 Date: 0b. 02.2o0 OBIET:Nouv Cle si`tuatou CC :\nUrgentPour révisionPour commentaires Veuillez répondre Veuillez recycler Commentaires :\nMADAHE.HONSIEUR Veulley tnurer ci-jont ma mot chon Biem loroiale SUPMECA - Institut Supérieur de Mécanique de Paris, institut publique sous tutelle du Ministére de l'Education Nationale et de la Reche... (contenu manquant)\n\nNote: The text is in French.\n\nHere is the contact information for the SUPMÉCA Institut Supérieur de Mécanique de Paris:\n\n* Address: 1 Boulevard de l'Aiguillette, 75516 Paris, France\n* Phone number: 0176 23 47 20\n* Fax: 0176 23 47 20\n* Email: [no email address provided]\n* Website: [no website provided]\n* Social media: [no social media information provided]\n\nHere is the contact information for HANIE ASSURANCES DE:BARDOT:\n\n* Address: [no address provided]\n* Phone number: [no phone number provided]\n* Fax: [no fax number provided]\n* Email: [no email address provided]\n* Website: [no website provided]\n* Social media: [no social media information provided]\n\nHere is the contact information for YVON BARDOT:\n\n* Address: [no address provided]\n* Phone number: [no phone number provided]\n* Fax: [no fax number provided]\n* Email: [no email address provided]\n* Website: [no website provided]\n* Social media: [no social media information provided]\n\nHere is the contact information for the OBIET:\n\n* Address: [no address provided]\n* Phone number: [no phone number provided]\n* Fax: [no fax number provided]\n*"
+  "document": "SUPMÉCA",
+  "scenario": "Institut Supérieur de Mécanique de Paris",
+  "writer": null,
+  "sender_person": "HANIE ASSURANCES",
+  "sender_company": "BARDOT YVON",
+  "sender_tel": "0176480010",
+  "sender_fax": "0176 23 47 20",
+  "receiver_person": "MADAHE.HONSIEUR",
+  "receiver_company": "SUPMECA - Institut Supérieur de Mécanique de Paris",
+  "subject": "Nouv Cle si`tuatou",
+  "date": "02.02.2000",
+  "place": "Paris Cedex, France",
+  "box": null
 }

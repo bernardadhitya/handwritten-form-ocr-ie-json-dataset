@@ -1,4 +1,79 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nMEE FR. J. Reynolds Tobacco USA, Inc, AUTHORIZATION REQUEST (SUBJECT DATE ROUTED: 4/24/87 ___ ARNO: __B-52__ Machinery Requirenents, for Polypropylene ORIGINATOR: W._B. Scantland DEPT. REF. NO: 785 __...\npropylene filters for the development and pilot phases of Project CAL.\nRIR Yo. RST shuler a J = :\nSECRET a Gnd Annereere ONLY ial No “aby No aa By 5 AUTHORTY REQUESTED) —provouny TGTHORZATION TYPE] é Roprved Cantal s. Gx) cepts! new Development Expense s eee - Co contract a ToulRewet $__S_LB22N Ss...\noo as UAV 4.24.9 wR RYE shaky RE GLE oe 336 6 yp Oe gy ‘Gperatone MEE FHC ‘Fin € Aarin j me CEO « a 2a D. H. Beeson M,N. Baker L. L. Bass, 112 BRT Form 0711 = Rev. OWT 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+  "company": null,
+  "authorizationRequest": {
+    "subject": "Machinery Requirements for Polypropylene",
+    "dateRouted": null,
+    "arNo": null,
+    "originator": null,
+    "deptRefNo": "785",
+    "project": "Filter Production for Project CAL",
+    "startDate": null,
+    "operationalDate": null,
+    "approvalRequestSummary": null,
+    "authorityRequested": {
+      "previouslyApproved": "$1.922M",
+      "thisRequest": null,
+      "totalRequest": null,
+      "authorizationType": null,
+      "capital": "$1.922M",
+      "expense": null,
+      "other": "",
+      "contract": null,
+      "productModificationIntroduction": null,
+      "subsequentProposalsRequired": null,
+      "previousProposals": "",
+      "leaseOrOtherCommitment": {
+        "minimum": null,
+        "total": null
+      },
+      "costJustifiedAt": null
+    },
+    "financeData": {
+      "capital": "$1.922M",
+      "expense": null,
+      "capitalId": "",
+      "authorityRequestedCoveredBy": {
+        "budgetedDepartment": null,
+        "amount": null
+      },
+      "projectId": null,
+      "fundsRequiredFrom": {
+        "department": null,
+        "amount": null
+      },
+      "expenseCode": "",
+      "corporate": {
+        "amount": null
+      }
+    },
+    "financialImpact": {
+      "1987": null,
+      "1988": "$120M",
+      "1989": null,
+      "1990": null,
+      "thereafter": null,
+      "averageOperatingEarningsLoss": null
+    },
+    "corporateFundsRequested": "",
+    "reviewsApprovals": {
+      "dept": "RR",
+      "date": null,
+      "deptInitials": null,
+      "signature": null,
+      "date2": null,
+      "deptInitials2": null,
+      "signature2": null,
+      "deptInitials3": null,
+      "signature3": null,
+      "deptInitials4": "neh",
+      "signature4": null,
+      "deptInitials5": null,
+      "signature5": null,
+      "deptInitials6": null
+    },
+    "implementorProjectManager": null,
+    "projectClientRepresentative": "M.N.Baker",
+    "departmentManagement": "L.L.BassIII"
+  },
+  "form": null
 }

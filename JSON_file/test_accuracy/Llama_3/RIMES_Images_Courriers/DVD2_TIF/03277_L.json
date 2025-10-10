@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nXaviu TEssIER 39,rve auie d Pauy 0610307 79NVl OES tS TP: O3 41 O5 91 6O Rcj dw}: ETYvL22 t Caleuun &e rl AN1F A ssunauces 367co F&e 1a riu&e Sutc a a euyel de cete uu! m ae  aule xn  l:t d na mason.... (rest of the text is not relevant to the text)\n\nHere is the structured information:\n\n* Name: Xaviu TEssIER\n* Date of birth: 0610307\n* Date of death: 79NVl\n* Time of death: O3 41 O5 91 6O\n* Place of death: Caleuun\n* Cause of death: A ssunauces 367co F&e 1a riu&e Sutc a a euyel de cete uu! m ae  aule xn  l:t d na mason\n* Relationship: AN1F A ssunauces"
+  "document": null,
+  "scenario": null,
+  "writer": "Xaviu TEssIER",
+  "sender_person": "Xaviu TEssIER",
+  "sender_company": "Pauy",
+  "sender_tel": "0610307",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "date": null,
+  "place": "Pauy",
+  "box": "79NVl OES tS"
 }

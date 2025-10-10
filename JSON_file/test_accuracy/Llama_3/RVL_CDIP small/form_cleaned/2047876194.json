@@ -1,4 +1,29 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nSe PHILIP MORRIS us.A.\n120PARK AVENUE, NEW YORK,NY 100178862, TELEPHONE 2) 8606000 FAX TRANSMITTAL DATE: als TOTAL PAGES INCLUDING COVER SHEET:\nTo: Ca S AC hen FAX it: 0. Sas - /% FROM: Tha Cameo & Vensior tte ansel PHONE #: (212) ¥vo-4OxvE FAX #: (212) 907-5361 MESSAGE:\nCarol:\nPls Gee rit fo Hhscunad Cre yuu ve hod a. Charee *% fonews Jhexks, Tae > WARLOORO BENSONAHEDGES MEAT VIGINASUMS PARUAMENTLGHTS PLAYERS SARATOGA CAMBRIDGE ALPE MULTFNTER POTOLSLEOS\nSARATOGA CAMBRIDGE ALPE MULTFNTER POTOLSLEOS\nSARATOGA CAMBRIDGE ALPE MULTFNTER POTOLSLEOS\nSARATOGA CAMBRIDGE ALPE MULTFNTER POTOLSLEOS\nSARATOGA CAMBRIDGE ALPE MULTFNTER POTOLSLEOS\nSARATOGA CAMBRIDGE ALPE MULTFNTER POTOLSLEOS\nSARATOGA CAMBRIDGE ALPE MULTFNTER POTOLSLEOS\nSARATOGA CAMBRIDGE ALPE MULTFNTER POTOLSLEOS\nSARATOGA CAMBRIDGE ALPE MULTFNTER POTOLSLEOS\nSARATOGA CAMBRIDGE ALPE MULTFNTER POTOLSLEOS\nSARATOGA CAMBRIDGE ALPE MULTFNTER POTOLSLEOS\nSARATOGA CAMBRIDGE ALPE MULTFNTER POTOLSLEOS\nSARATOGA CAMBRIDGE ALPE MULTFNTER POTOLSLEOS\nSARATOGA CAMBRIDGE ALPE MULTFNTER POTOLSLEOS\nSARATOGA"
+  "company": "PHILIP MORRIS",
+  "location": "U.S.A.",
+  "address": "120PARKAVENUENEW YORKN.Y.10017-592",
+  "telephone": "(212)880-5000",
+  "fax_transmittal": {
+    "date": null,
+    "total_pages_including_cover_sheet": "To:Cassl Shwnachor",
+    "to": "Cassl Shwnachor",
+    "fax_number": "404/525-196y",
+    "from": "Toua Cauuo x dan'ce nfesSaniel",
+    "phone_number": "(212)880-4048",
+    "message": "Carvt : Ps. CeeI ne A dliscuss oxee You've hod o Chaxce Ao Nriew.. TheiK's, Taa 2047876194"
+  },
+  "reference_number": null,
+  "brands": [
+    "MARLBORO",
+    "BENSON&HEDGES",
+    "MERIT",
+    "VIRGINIA SLIMS",
+    "PARLIAMENT",
+    "LIGHTS",
+    "PLAYERS",
+    "SARATOGA",
+    "CAMBRIDGE",
+    "ALPINE",
+    "MULTIFILTER"
+  ]
 }

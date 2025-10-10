@@ -1,3 +1,41 @@
 {
-    "error": "Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  "document": {
+    "id": null,
+    "draft": null,
+    "title": null,
+    "section": null,
+    "code": "PK6-Dt-Nt",
+    "location": "la.",
+    "instructions": [
+      "HAND PORTFOLIO TO RESPONDENT",
+      null,
+      "WHEN RESPONDENT IS FINISHED TAKE BACK PORTFOLIO AND ASK",
+      null,
+      "PROBE: What other ads do you recall? Any others?",
+      null,
+      null,
+      null,
+      null,
+      null,
+      "Do you remember seeing an advertisement for --BRAND",
+      null
+    ],
+    "questions": {
+      "Qu.1a": null,
+      "Qu.1b": null,
+      "Qu.1c": null
+    },
+    "responses": {
+      "Raleigh": {
+        "aided": "Yes",
+        "unaided": null
+      },
+      "Raleigh Lights": {
+        "aided": null,
+        "unaided": null
+      },
+      "other_ads_in_portfolio": null,
+      "other_specify": null
+    }
+  }
 }

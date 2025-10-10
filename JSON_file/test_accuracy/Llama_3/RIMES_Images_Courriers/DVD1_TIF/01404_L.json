@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nBUrARD Masie Piona 4S A nue a2 BonBld 67 1lr0 STOTZHEIM 03-08- 11- 9s-29 N4IF FoDwrano 3 ue de lagare WARG NTES LE GRANO 59144 KanK wMe c 'ameras si Neauls que Nus fayleey aoms.Nso magasvns de edre on... (text)\n\n## Step 1: Identify the structured information in the text\nThe text appears to be a jumbled collection of words and phrases, but upon closer inspection, we can identify some structured information. The text seems to be a list of names and locations, with some numbers and dates scattered throughout.\n\n## Step 2: Extract the structured information\nFrom the text, we can extract the following structured information:\n\n* Names:\n\t+ BURARD Masie Piona\n\t+ STOTZHEIM\n\t+ WARG\n\t+ LE GRANO\n\t+ NUS\n* Locations:\n\t+ 4S A nue\n\t+"
+  "document": "BUrARD Masie Piona",
+  "scenario": "4S A nue a2 BonBld",
+  "writer": null,
+  "sender_person": "Masie Piona",
+  "sender_company": "BUrARD",
+  "sender_tel": "67 1lr0 STOTZHEIM",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "date": "03-08- 11- 9s-29",
+  "place": "59144",
+  "box": "KanK wMe c"
 }

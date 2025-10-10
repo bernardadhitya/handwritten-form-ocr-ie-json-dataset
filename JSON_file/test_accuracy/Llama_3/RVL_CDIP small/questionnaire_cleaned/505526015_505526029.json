@@ -1,4 +1,38 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n| Bellomy-Carrigg,Inc.\nBBS UNIVERSITY PARKWAY WIRSTORSLEN Se a -\nJob #0906 October, 1984 F 1254. a-o = AA EXTENDED USE CONCEPT/PRODUCT TEST SCREENER nesponeut's name: M4 ror. ST Ram avons: 24 2 Nn Ls 7et lees 7 8 4 pagans Vee area cove: (__7/4 ) prions fit vie par...\nCHECK QUOTA 70 DETERMINE IF. NEEDED. IF OVER QUOTA, ASK - sag : FOR ANOTHER FEMALE IN AGE sete GROUP NEEDED.\nBO eeeeeeeee Refused TERMINATE, ERASE AND RE-USE 2, Which of the following products do you use daily? Breathnints..\nMouthwash...\nCigarettes.......5 Ge toothps Cream toothpaste...\nCONTINUE ONLY IF CIGARETTES CHECKED ABOVE IN Q.2. OTHERWISE, ASK FOR ANOTHER FEMALE HOUSEHOLD MEMBER 18+ AND GO BACK TO Q.2.\nIF NONE, TERMINATE, ERASE AND RE-USE.\n3. Which of the following brands have you used in the past week? Certs breathnints, Clorets breathnints...\nTopal toothpaste.......+5 Aqua Fresh toothps Clinonint, Scope..\nListerine...\nStoo 2ssos...\nCrest...\nContinu...\nCONTINUE ONLY IF ALL BRANDS CHECKED ABOVE IN Q.3. OTHERWISE, ASK FOR ANOTHER FEMALE HOUSEHOLD MEMBER 18+ AND GO BACK TO Q.3.\nIF NONE, TERMINATE, ERASE AND RE-USE.\n4. Which of the cigarettes brands do you use? \n5. What is your age? \n6. What is your marital status? \n7. What is your occupation? \n8. What is your annual income? \n9. What is your highest level of education? \n10. What is your highest level of education? \n11. What is your highest level of education? \n12. What is your highest level of education? \n13. What is your highest level of education? \n14. What is your highest level of education? \n15. What is your highest level of education? \n16. What is your highest level of education? \n17. What is your highest level of education? \n18. What is your highest level of education? \n19. What is your highest level of education? \n20. What is your highest level of education? \n21. What is your highest level of education? \n22. What is your highest level of education? \n23. What is your highest level of education? \n24. What is your highest level of education? \n25. What is your highest level of education? \n26. What is your highest level to education? \n27. What is your highest level of education? \n28. What is your highest level of education? \n29. What is your highest level of education? \n30. What is your highest level of education? \n31. What is your highest level of education? \n32. What is your highest level of education? \n33. What is your highest level of education? \n34. What is your highest level of education? \n35. What is your highest level of education? \n36. What is your highest level of education? \n37. What is your highest level of education? \n38. What is your highest level of education? \n39. What is your highest level of education? \n40. What is your highest level of education? \n41. What is your highest level of education? \n42. What is your highest level of education? \n43. What is your highest level of education? \n44. What is your highest level of education? \n45. What is your highest level of education? \n"
+  "company": "Bellomy-Carrigg,Inc.",
+  "job_number": "0906",
+  "location": {
+    "city": "WINSTONSALEM",
+    "state": "NC",
+    "zip_code": "2706",
+    "address": "UNIVERSITY PARKWAY"
+  },
+  "date": "October,1984",
+  "survey": {
+    "id": "AA EXTENDED USE CONCEPT/PRODUCT TEST",
+    "version": "SCREENER",
+    "title": null,
+    "type": null,
+    "address": "STATE",
+    "area_code": "7",
+    "phone": null,
+    "interview_date": null,
+    "interviewed_by": "(INTERVIEW WOMEN ONLY)",
+    "instructions": "Hello,Im from (youR coMPANy), an independent marketing research company. We're conducting a survey with women about various consumer products. TO FEMALE 18+YEARS OR OLDER.)",
+    "introduction": null,
+    "questions": [
+      {
+        "id": 1,
+        "text": "Into which of the following age groups does your age belong? Are you....(ReAD LIsT)"
+      },
+      {
+        "id": 2,
+        "text": "Which of the following products do you use daily?"
+      },
+      {
+        "id": 3,
+        "text": "Which of the following brands have you used in the past week?"
+      }
+    ]
+  }
 }

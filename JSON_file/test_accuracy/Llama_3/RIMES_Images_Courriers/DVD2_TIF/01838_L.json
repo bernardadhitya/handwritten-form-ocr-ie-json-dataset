@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nAgme GUiNET gxnwnd m E7 67 4A0 TRimBAcH 03 94 98 2353 Banque Socee Gemale Lie-a lebowg 24 6oO PtTT BERSAc Objo: formetSe c compla bancaSe Nadame, Nagies, SuiS a Ia pet d. mon ompI,je sui contaime & og...\nque y'ai olamo nstu larque.\ncett feumetse ol. con 7  MmpvD A.Gul 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 "
+  "document": "Agme GUiNET",
+  "scenario": "gxnwnd m E7",
+  "writer": "Banque Socee Gemale",
+  "sender_person": "Lie-a lebowg",
+  "sender_company": "Banque Socee Gemale",
+  "sender_tel": "24 6oO PtTT BERSAc",
+  "sender_fax": null,
+  "receiver_person": "Nadame, Nagies",
+  "receiver_company": "SuiS a Ia pet d. mon ompI,je sui",
+  "subject": "Objo: formetSe c compla bancaSe",
+  "date": null,
+  "place": null,
+  "box": "7  MmpvD"
 }

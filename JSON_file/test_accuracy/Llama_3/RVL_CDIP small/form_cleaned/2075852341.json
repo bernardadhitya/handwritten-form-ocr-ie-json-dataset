@@ -1,4 +1,36 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nCOLL DAVIDSON CARTER SMITH SALTER & BARKETT P.A.\n3200 Miami Center 201 S. Biscayne Bhi Miami, Florida 83131-2312 (05) 375-5200 Telacopiar Cover Shout ‘Telecopler - 808-374-7298 —— Operator - 305 373-5200 owe — A-ILAL contre: dene Salnepes) Fim: SH E...\nTotal Pages including Cover Sheet —_ “7 Leter Ska Legal Size Originating attorney o.\nThis facsimile contains PRIVILEGED AND CONFIDENTIAL information intended oniy forthe use of the ‘addrassee(s) named above, Ifyou are not the intendea recipient ofthis facsimile, or the employes or age...\ntion or copying of this facsimile Is striety prohibited, Hf you have received this facsimile in error, please immediately notity the originating ertornay above by teisphone (coliect calli necessary) a...\nTime Sent: AM PM Contest » 8 Telecopier Operator x tent cade GEESD & Matter Codes _O5 FOIA 5.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1."
+  "document": {
+    "header": {
+      "firm": "COLLDAVIDSON CARTER SMITH SALTER & BARKETT P.A",
+      "address": "3200 Miami Center, 201 S.Blscayne Blvd., Miam, Florlda 33131-2312",
+      "phone": "305)373-5200",
+      "telecopier": "Telecopler-305-374-7296",
+      "operator": "Operator-305-373-5200",
+      "date": "5-1-92"
+    },
+    "recipient": {
+      "name": "MARTA S.WA",
+      "firm": "SHOAeCXCoN",
+      "telecopier_no": "816-91-2709",
+      "confirmation_no": null
+    },
+    "details": {
+      "total_pages_including_cover_sheet": null,
+      "letter_size": null,
+      "legal_size": "NORus",
+      "notes": "This facsimile contains PRIVILEGED AND CONFIDENTIAL information intended only for the use of the addressee(s) named above."
+    },
+    "transmission": {
+      "time_sent": {
+        "am": null,
+        "pm": null
+      },
+      "confirmed": "2075852341",
+      "telecopier_operator": null
+    },
+    "codes": {
+      "client_code": "630",
+      "matter_code": "0570"
+    }
+  }
 }

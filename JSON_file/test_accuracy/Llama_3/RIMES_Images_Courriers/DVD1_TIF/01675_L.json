@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nCODRON cyRille 9 rue 6RoB 63&O A9AMSMi`LuR lA REBOVTE QvAi OAi6vi1ON L13o0 LANMiN rer pasee a noTe labhxmewt k mois sne Mou cle ban nout doub s gumthe cmmanolcs, il Jut mamtenant m envoye 1o0 cobrom o... (Translation: CODRON cyRille 9 rue 6RoB 63&O A9AMSMi`LuR lA REBOVTE QvAi OAi6vi1ON L13o0 LANMiN rer pasee a noTe labhxmewt k mois sne Mou cle ban nout doub s gumthe cmmanolcs, il Jut mamnant m envoye 1o0 cobrom o...)\n\n## Step 1: Identify the structured information in the text\nThe text appears to be a jumbled collection of characters and numbers, but upon closer inspection, it seems to be a coded message."
+  "document": "CODRON cyRille",
+  "scenario": "lA REBOVTE",
+  "writer": "CODRON cyRille",
+  "sender_person": "CODRON cyRille",
+  "sender_company": "63&O A9AMSMi`LuR",
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "date": null,
+  "place": "9 rue 6RoB",
+  "box": null
 }

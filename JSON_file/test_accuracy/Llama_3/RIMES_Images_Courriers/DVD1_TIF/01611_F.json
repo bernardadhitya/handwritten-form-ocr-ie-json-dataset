@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\neDF Guihacl Haeva Jos ref.:\nvom i Fluu er Yergues WYY cowie hrenaemenl bencires coolclone'cs\neDF Guihacl Haeva Jos ref.:\nvom i Fluu er Yergues WYY cowie hrenaemenl bencires coolclone'cs\n\nThe first 10 days of the month are considered the most important"
+  "document": "eDF",
+  "scenario": "Guihacl Haeva",
+  "writer": "vom i Fluu er Yergues",
+  "sender_person": "WYY",
+  "sender_company": "cowie",
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "Jos ref.",
+  "date": null,
+  "place": null,
+  "box": null
 }

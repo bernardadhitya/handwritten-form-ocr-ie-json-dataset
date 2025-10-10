@@ -1,3 +1,44 @@
 {
-    "error": "Expecting property name enclosed in double quotes: line 2 column 1 (char 2)"
+  "documentClearanceSheet": {
+    "dateRouted": "Apx118.1991",
+    "contract": {
+      "subject": "Contract",
+      "companyName": "Promotionsl Marketing.Inc.",
+      "contractNumber": "4603/859",
+      "brands": "3403/859",
+      "totalCost": "8529.560",
+      "currentYearEF0": "529.560",
+      "briefDescription": "Promotionsl Marketing to provide services described in Attechments 1-12.",
+      "implementor": "Deborah LJones",
+      "glCode": [
+        "04-73-4603-8390-859",
+        "04-73-3403-8360-859"
+      ],
+      "rc": "t1002"
+    },
+    "reviewRouting": [
+      {
+        "department": "Asset &Risk",
+        "signature": "Dt ytr",
+        "initiels": null
+      },
+      {
+        "department": "Fin.Services",
+        "signature": "JEL",
+        "initiels": null
+      },
+      {
+        "department": "Finance",
+        "signature": "MLp",
+        "initiels": null
+      }
+    ],
+    "approvedBy": "E.M.Blackmer",
+    "returnTo": {
+      "name": "Jayne K. Appleyard",
+      "department": "Fin.Sery.-Marketing",
+      "location": "6th Floor Rey Bldg"
+    },
+    "note": "The Document Originator must maintain on file a copy of the signed document clearance sheet in accordance with established Company records retention schedules."
+  }
 }

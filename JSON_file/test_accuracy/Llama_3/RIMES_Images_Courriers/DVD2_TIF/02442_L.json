@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nA-sWcan ces &6 Rue de verdun u swe charlso De Gaulg St 4 8o Kiroch Leo S'erch 52 J3 o Vqux Swr TeI: o31Fg/s5/us /u5 Blouce objet: Demande de docmenFah`or A Kroch Les S'ech Xe 03102104 Tadame, onoewx G...\ndemandor una doawmentahon sowe 2es dfeuto typeo de conthat qua cous uo ono oP'aunm V(.ce8Quomo lemotcsa an l'aHene d'une xaponoe d bohes part,je vouo peu d'aggon adame Jpnoaw,l'e&paeooion da meo palut... (Translation: A Swiss citizen, 6 Rue de Verdun, Charles De Gaulle St 4 8o Kiroch Leo S'erch 52 J3 o Vqux Swr TeI: o31Fg/s5/us /u5 Blouce objet: Demande de docmenFah`or A Kroch Les S'ech Xe 03102104 Tadame, onoewx G...)\n\nThe text is a corrupted or incomplete email message. The email message is supposed to be a formal request for a document, but it is garbled and contains many typos and errors.\n\nHere is the supposed original email message:\n\nFrom: Kroch Les S'ech [krochlessech@domaine.com](mailto:krochlessech@domaine.com)\nTo: A-sWcan ces &6 Rue de verdun u swe charlso De Gaulg St 4 8o Kiroch Leo S'erch 52 J3 o Vqux Swr TeI: o31Fg/s5/us /u5 Blouce objet: Demande"
+  "document": "A-sWcan ces",
+  "scenario": "Demande de docmenFah`or",
+  "writer": "uo ono oP'aunm V(.ce8Quomo",
+  "sender_person": "A Kroch Les S'ech",
+  "sender_company": "Blouce",
+  "sender_tel": "o31Fg/s5/us /u5",
+  "sender_fax": null,
+  "receiver_person": "Tadame, onoewx",
+  "receiver_company": null,
+  "subject": "objet: Demande de docmenFah`or",
+  "date": "03102104",
+  "place": "52 J3 o Vqux Swr &6 Rue de verdun",
+  "box": null
 }

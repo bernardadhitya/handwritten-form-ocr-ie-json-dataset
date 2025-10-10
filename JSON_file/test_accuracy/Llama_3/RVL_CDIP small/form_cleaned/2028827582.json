@@ -1,4 +1,12 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n20. Nov. 1992 Q QA 46KW92 NDAMIVO QACHANGEWM Remarks: Lame Approval Date Signature ~ | Remarks Study Director Ao Hag. Ie efit AA | GEMA ‘Sponsor (2) DISTRIBUTION (6); Coordinator, QA.\nRemark: According to GLP regulations \"all changes:\n‘the reasons therefore shell be documented, maintained with the protocol”, (6) required only in ease of serious changes @) tobe determined by srady eitecior in or revisions of an approved protocol and..."
+  "document_number": null,
+  "remarks": null,
+  "date": null,
+  "signature": "QA",
+  "study_director": "GEMA",
+  "sponsor": null,
+  "coordinator": null,
+  "remark": null,
+  "contact_number": null,
+  "note": null
 }

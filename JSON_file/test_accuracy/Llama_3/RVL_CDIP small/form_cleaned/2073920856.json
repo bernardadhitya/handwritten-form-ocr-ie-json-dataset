@@ -1,4 +1,50 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nPHILP MORRIS INTERNATIONAL [PROPERTY DISPOSAL / TRANSFER REQUEST Frese ote Rhee ay 95 fe mcaearon a TT nse YALE Price cost | cermecunen | coer ‘oss IMoESCRITON ‘a © 5 rf oF oF oF or oF oF + coast Petr...\nAll equipment except vmoene -\nstem export packing line to be.scrapped. an = 2073920856\nThe following equipment is to be sold as scrap:\n1. 2 x 1.5mtr. wide x 1.5mtr. deep x 1.5mtr. high x 1.5mtr. deep x 1.5mtr. high x 1.5mtr. deep x 1.5mtr. high x 1.5mtr. deep x 1.5mtr. high x 1.5mtr. deep x 1.5mtr. high x 1.5mtr. deep x 1.5mtr. high x 1.5mtr. deep x 1.5mtr. high x 1.5mtr. deep x 1.5mtr. high x 1.5mtr. deep x 1.5mtr. high x 1.5mtr. deep x 1.5mtr. high x 1.5mtr. deep x 1.5mtr. high x 1.5mtr. deep x 1.5mtr. high x"
+  "company": "PHILIP MORRIS INTERNATIONAL",
+  "request": {
+    "type": "PROPERTYDISPOSAL/TRANSFER REQUEST",
+    "requested_by": "Fabriquos do Tabac Reunies",
+    "location": "Neuchatel, Switzertard",
+    "date": "May.95",
+    "number": "NUMBER: Neuchatel"
+  },
+  "disposal": {
+    "value": 409063,
+    "selling_price": 10261206,
+    "original_cost": 5429179,
+    "depreciation": 833657,
+    "loss": 902240,
+    "items": [
+      {
+        "description": "Pnmary Cut fiser",
+        "value": 10261206
+      },
+      {
+        "description": "Flant services",
+        "value": 1593668
+      },
+      {
+        "description": "Others",
+        "value": 185978
+      },
+      {
+        "description": "Land wrorov.",
+        "value": 902240
+      },
+      {
+        "description": "Leasehold improv",
+        "value": 389582
+      }
+    ],
+    "total_local_currency": 20224580,
+    "total_usd": 17897850
+  },
+  "reason_for_disposal_transfer": "6.SELLTRANSFERTO 10.APPROVAL-PHILIP MORRIS COMPANIES INC. 23. All equipment except MANG Pa Meridkeand stem export packing line to be scrapped.",
+  "approval": {
+    "philip_morris_companies_inc": "10.APPROVAL-PHILIP MORRIS COMPANIES INC.",
+    "regional_approval": "23.",
+    "internal_approval": "VA11 4 2y/iAs 2073920856"
+  },
+  "contact": {
+    "phone": "2073920856"
+  }
 }

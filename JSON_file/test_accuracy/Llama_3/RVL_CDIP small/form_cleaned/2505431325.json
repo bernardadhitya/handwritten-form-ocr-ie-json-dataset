@@ -1,4 +1,40 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nINBIFO Institut far biologische Forschung GmbH Akko ‘War sar welapacheForRCNCNGGRN  FoHGRH. 3“ OSTE CaaS TELEFAX MESSAGE NO, DATE: 24.0ct.97 FROM: Dr. Thomas Muller To: Dr. H.-J. Haussmann, Associate...\nResearch Center P.O. Box 26583 Richmond, Va. 23261 USA.\nTelefax No.: 001-804-274 38 90 Contract Research Teophone (022.09 309-1 Teton {62203308382 “ev HHIM_FAX 006 Teletax-\nnal Origi NUMBER OF FOLLOWING PAGES: 45 Lieber Hans-Jargen, hier sind zwei in Bezug auf die von uns beobachteten biologischen Effekte von smoke-\nbubbled PBS wichtige Literaturstellen. Eine Information vorweg: Cyclosporin A ist ein Auferst effizienter Inhibitor der smoke-bubbled PBS-induzierten Apoptose/Nekrose in U937 Zellen.\nDu kannst mich ja mal bei Gelegenheit anrufen.\nKind regards {hows ‘Tade Repste: Caepne a8 67 hs Ste Lersose 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67 8 67"
+  "company": "INBlFO Institut fur biologische Forschung GmbH",
+  "type": "Contract Research",
+  "telefax_message_no": "886",
+  "telephone": "(0 22 03) 303-1",
+  "telefax": "0 2203303-362",
+  "address": {
+    "street": "Fuggerstr. 3",
+    "postal_code": "D-51149",
+    "city": "Cologne"
+  },
+  "bvi": "BVI",
+  "document": "HHM_FAX.DOC",
+  "teletax": null,
+  "date": "24.Oct.97",
+  "original_from": "Dr. Thomas Muller",
+  "ablage": "10-24-9713:49",
+  "to": {
+    "name": "Dr.H.-J.Haussmann",
+    "title": "Associate Principal Scientist",
+    "address": {
+      "company": "Philip Morris USA",
+      "research_center": "Research Center",
+      "po_box": "P.O.Box26583",
+      "city": "Richmond",
+      "state": "Va.",
+      "postal_code": "23261",
+      "country": "U.S.A."
+    },
+    "telefax_no": "001-804-274 38 90"
+  },
+  "number_of_following_pages": "15",
+  "message": "Lieber Hans-Jurgen, hier sind zwei in Bezug auf die von uns beobachteten biologischen Effekte von smoke-bubbled PBS wichtige Literaturstellen. Eine Information vorweg: Cyclosporin A ist ein auBerst effizienter Inhibitor der smoke-bubbled PBS-induzierten Apoptose/Nekrose in U937 Zellen. Du kannst mich ja mal bei Gelegenheit anrufen Kind regards 2505431325",
+  "contact_number": null,
+  "trade_register": {
+    "location": "Cologne",
+    "hrb": "367",
+    "i": "127/94"
+  }
 }

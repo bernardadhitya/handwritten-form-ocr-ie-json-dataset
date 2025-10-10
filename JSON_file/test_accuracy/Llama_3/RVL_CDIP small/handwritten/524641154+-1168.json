@@ -1,4 +1,23 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nFleoss remie -Deceased 11000 #BYNCXXT *AUTO3-DIGIT 300 #3446566278054386# ID=344656627 802538 35T 524641154 RANDALL MALONE 5019 6115WINDSOR TRACE DR POOO C032 NORCROSS GA 30092-2366......dd.............\nMAILING RESTRICTED TO SMOKERS 21 YEARS OF AGE OR OLDER ONLY  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  * "
+  "name": "Fleoss remie",
+  "status": "Deceased",
+  "code": "BYNCXXT",
+  "identifier": "3446566278054386",
+  "auto_digit": "300",
+  "number": "11000",
+  "id": "344656627",
+  "secondary_id": "802538",
+  "code_2": "35T",
+  "additional_number": "524641154",
+  "contact_name": "RANDALL MALONE",
+  "contact_number": "5019",
+  "address": {
+    "street": "6115 WINDSOR TRACE DR",
+    "po_box": "POOO",
+    "code_3": "C032",
+    "city": "NORCROSS",
+    "state": "GA",
+    "zip": "30092-2366"
+  },
+  "note": "MAILING RESTRICTED TO SMOKERS 21 YEARS OF AGE OR OLDER"
 }

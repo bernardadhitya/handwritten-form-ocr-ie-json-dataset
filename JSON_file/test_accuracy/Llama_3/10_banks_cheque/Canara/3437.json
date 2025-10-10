@@ -1,4 +1,16 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n-500014 e ot Inssrurment Canara Bank Kompally500014 060522 2014MSHCY DDMMYYY Pay Theraoe Forrier Or Bearer Rupees y Eigh Thousand Two Hundred and Fifreen 8215 12995001590908404594 Payable at par at al... (last 4 digits of the cheque number) 500014 060522 2014MSHCY DDMMYYY\n-500014 e ot Inssrurment Canara Bank Kompally500014 060522 2014MSHCY DDMMYYY Pay Theraoe Forrier Or Bearer Rupees y Eigh Thousand Two Hundred and Fifreen 8215 12995001590908404594 Payable at par at al... (last 4 digits of the cheque number) 500014 060522 2014MSHCY DDMMYYY\n\n"
+  "instrument_number": "-500014",
+  "bank_name": "Canara Bank",
+  "branch": "Kompally",
+  "branch_code": "500014",
+  "date": "060522",
+  "transaction_code": "2014MSHCY",
+  "date_format": "DDMMYYY",
+  "payee": "Pay Theraoe Forrier",
+  "amount_in_words": "Rupees Eight Thousand Two Hundred and Fifteen",
+  "amount_in_numbers": "8215",
+  "account_number": "12995001590908404594",
+  "payable_at": "all our Branches in India",
+  "cheque_number": "0343750005048",
+  "branch_id": "31"
 }

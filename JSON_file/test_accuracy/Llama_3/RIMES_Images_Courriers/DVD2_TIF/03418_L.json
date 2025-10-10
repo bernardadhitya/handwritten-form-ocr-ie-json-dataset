@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nBENETEA U Mi&c apwymg 2moy s T1 rue de l'AbeeLonfomt 9ue de la Morime 54 11F FAViRES 29f3O GUiLViNEC T: 03.31.12.30. 03 Ou nU mC \"Chorit or vhe bimehl mml suis m Tetaite depuis mo a ma :omno dolum ewt...\". \n\nTranslation: \nBENETEAU Mi&c apwymg 2moy s T1 rue de l'AbeeLonfomt 9ue de la Morime 54 11F FAViRES 29f3O GUiLViNEC T: 03.31.12.30. 03 Ou nU mC \"Chorit or vhe bimehl mml suis m Tetaite depuis mo a ma :omno dolum ewt...\".\n\n\nThe structured JSON output should be in the following format:\n\n```\n{\n  \"name\": \""
+  "document": "BENETEA U Mi&c",
+  "scenario": "apwymg 2moy s",
+  "writer": "T1 rue de l'AbeeLonfomt",
+  "sender_person": "9ue de la Morime",
+  "sender_company": "54 11F FAViRES",
+  "sender_tel": "29f3O GUiLViNEC",
+  "sender_fax": "T: 03.31.12.30. 03",
+  "receiver_person": "Ou nU mC",
+  "receiver_company": "Chorit",
+  "date": null,
+  "place": "or vhe bimehl",
+  "box": "mml suis m Tetaite"
 }

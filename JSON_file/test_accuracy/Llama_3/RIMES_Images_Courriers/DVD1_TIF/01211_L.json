@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nDELGADO lKick 9 Due des Vouqers 88IZOST AME.\nT: o3 oo oh 6% ok nq 8DF; AXA CY3o Tresoreue des Innds E3 9Ao VENi2Y $TAme Je l1220o6 OBTET: Deuaude de s&uu$e graeiuse Madaue) Mousieer 1'ou &'oaneu de slata de vcre kou Lenvril&oue whe xewise grausu... 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'ou 1'"
+  "document": "DELGADO lKick",
+  "scenario": "Due des Vouqers",
+  "writer": "88IZOST AME.",
+  "sender_person": "T: o3 oo oh 6% ok",
+  "sender_company": "nq 8DF; AXA CY3o",
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": "Tresoreue des Innds",
+  "receiver_company": "E3 9Ao",
+  "subject": "VENi2Y",
+  "date": "$TAme Je l1220o6",
+  "place": "OBTET: Deuaude de s&uu$e graeiuse",
+  "box": "Madaue) Mousieer"
 }

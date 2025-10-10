@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nGENERALE deseaux Christaue GAsCH ET De :\nx e Agence :\nDate :\n24 Mars 2007 Nombre de pages :\nMessage: Code w AHLAHJ Sctuario : ouetare d Coufta CENTRE SERVICE CLIENTS 06297 NICE CEDEX 3 JNDIAU VENDREDI 8H-19H/SAMEDI 9H-12H DE L'ETRANGER 4.97.25.88.95\n\nContact :\n- Nom : Christaue GAsCH\n- Prénom : \n- Adresse : 4.97.25.88.95\n- Téléphone : 06297 NICE CEDEX 3\n- Email : \n- Site web : \n\nNote : \n- Le service client est ouvert du lundi au vendredi de 8h à 19h et du samedi de 9h à 12h.\n- Le centre de service client est ouvert du lundi au vendredi de 8h à 18h.\n\n**Structure de la page :**\n\n*"
+  "document": "deseaux",
+  "scenario": "ouetare d Coufta",
+  "writer": "Christaue GAsCH ET",
+  "sender_person": null,
+  "sender_company": "Agence",
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "Code w AHLAHJ",
+  "date": "24 Mars 2007",
+  "place": "06297 NICE CEDEX 3",
+  "box": "CENTRE SERVICE CLIENTS"
 }

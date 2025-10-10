@@ -1,4 +1,35 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n“Reteen ox0you|1n0s 08 oso wontons 2044934416 1 sien “Festiscnons | |! | OUT SrTdg-erey wove |\" “enerrma ronson a OTIOL po 9000 wean BAO NO I2 3DV SUIAOWS HOS -oun nok OyM ~— ee ET OER Te 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+  "survey": {
+    "questions": [
+      {
+        "question": "How often do you use special in-store",
+        "answer": "my regular brand..."
+      },
+      {
+        "question": "Which of the following statements best",
+        "answer": "1 never use coupons to buy ciga"
+      },
+      {
+        "question": "Is your regular brand... (Check one.)",
+        "answer": "oo"
+      }
+    ],
+    "demographics": {
+      "ethnicity": [
+        "African-American",
+        "Hispanic",
+        "Other"
+      ],
+      "age": "21"
+    },
+    "brands": [
+      "Parliament Winston"
+    ],
+    "locations": [
+      "Eldorado",
+      "Ankakee"
+    ],
+    "consumer_survey_associates": "5420100693672585",
+    "signature": "Q.BO"
+  }
 }

@@ -1,4 +1,29 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n1D19107412308 JAN 10°97 15:22 No.003 P.02 i January ‘97 Indy Test Inbound Script - APAC Ferson states up front that they WANT TO TRY FOR EREE and/or WANTS TO PURCHASE THE PRODUCT “Thank you for callin...\nmay 1 help you? fies.” “1°11 be happy.to holp you, ma'anvsir, but fit may I have your zip code please?\" “May Ihave your home phone number please?” Qf consumers record is on file, confirm address, smok...\nYou should be receiving this information within 2-3 weeks.” “May I have your date of birth please?” Date of Birth ({fa smoker age 21 or older, yo to 5) (funder 21, goto 4u) (objection to age question,...) “May I have your social security number please?” Social Security Number (SSN) (funder 21 or older, yo to 5) (objection to SSN question,...) “May I have your driver’s license number please?” Driver’s License Number (funder 21 or older, yo to 5) (objection to DLN question,...) “May I have your credit card information please?” Credit Card Information (funder 21 or older, yo to 5) (objection to CCN question,...) “May I have your bank account information please?” Bank Account Information (funder 21 or older, yo to 5) (objection to BA N question,...) “May I have your employment information please?” Employment Information (funder 21 or older, yo to 5) (objection to EI question,...) “May I have your income information please?” Income Information (funder 21 or older, yo to 5) (objection to INI question,...) “May I have your tax information please?” Tax Information (funder 21 or older, yo to 5) (objection to TI question,...) “May I have your medical information please?” Medical Information (funder 21 or older, yo to 5) (objection to MI question,...) “May I have your insurance information please?” Insurance Information (funder 21 or older, yo to 5) (objection to II question,...) “May I have your legal status please?” Legal Status (funder 21 or older, yo to 5) (objection to LS question,...) “May I have your marital status please?” Marital Status (funder 21 or older, yo to 5) (objection to MS question,...) “May I have your gender identity please?” Gender Identity (funder 21 or older, yo to 5) (objection to GI question,...) “May I have your sexual orientation please?” Sexual Orientation (funder 21 or older, yo to 5) (objection to SO question,...) “May I have your religious beliefs please?” Religious Beliefs (funder 21 or older, yo to 5) (objection to RB question,...) “May I have your political beliefs please?” Political Beliefs (funder 21 or older, yo to 5) (objection to PB question,...) “May I have your hobbies and interests please"
+  "ID": "19107412308",
+  "Date": "JAN 10'97",
+  "Time": "15:22",
+  "No": "003",
+  "Page": "02",
+  "MonthYear": "January 97",
+  "Test": "Indy Test Inbound Script-APAC",
+  "Script": [
+    {
+      "Question": "1.",
+      "Text": "Thank you for calling the Eclipse information line.This is Hlow may I help you? Im calling abou your now cigarcttc.I want to find out more about it/try it for frec."
+    },
+    {
+      "Question": "2.",
+      "Text": "11 be happy.to help you, maan/sir, but first may I have your zip code please? May I have your home phone number plcase? If consumers record is on fileconfirm address, smoking status and dob,then proceed to qucstion 9b and ask anly if necessary) If record is not on file proceed to question 3"
+    },
+    {
+      "Question": "3.",
+      "Text": "All right, are you a smoker Yee continue with 4 No ask 4 and if 21 or olderrespond with We can talk with non-snokcrs ovcr thc age of21 and give out Jimited informationhoweveryou cannot participate in any of our promotions.If you'd likc, wc have a brochure of information that I can send you.finterested capture namo and address.APAC sends material.) Thank you for your intcrest. You should be receiving this information within 2-3 weeks. May I have your date of birth please? Datc of Birth: If a smoker age 21 or older,go to 5 funder21go to 4a (If objcction to age questionrespond with Mr/Ms. as a tobacco company,we want to ensure that we dont mail or talk to individuals undor the age of21.So,I'm surc you can undcrstand why wa'd like to know your date of birth. If refuses to give DOB,terninate the call"
+    }
+  ],
+  "Codes": [
+    {
+      "Code": "51684",
+      "Code2": "7840"
+    }
+  ]
 }

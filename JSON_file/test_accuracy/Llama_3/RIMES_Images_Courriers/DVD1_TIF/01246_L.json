@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nlle Sabice CAnARA Og xue de Ja Sonlaine S7 STO Bnsse Hentxen 03:72-64-18-46 Mcazine J4 axxue du dalaao 64990 Ss Penne d'Trube Fefenene: I/UYB44 sment de coxdomnæ ytale-\nmas de enle nows damex ma elle Eealxice CAAA 575O Bnsse Plentqen aaxee mes amlataonsd Aaee TAR 1/1/2023 2:00 PM\n- 1/1/2023 2:00 PM\n- 1/1/2023 2:00 PM\n- 1/1/2023 2:00 PM\n- 1/1/2023 2:00 PM\n- 1/1/2023 2:00 PM\n- 1/1/2023 2:00 PM\n- 1/1/2023 2:00 PM\n- 1/1/2023 2:00 PM\n- 1/1/202"
+  "document": "lle Sabice CAnARA",
+  "scenario": "Og xue de Ja Sonlaine",
+  "writer": "S7 STO Bnsse Hentxen",
+  "sender_person": null,
+  "sender_company": "Mcazine",
+  "sender_tel": "03:72-64-18-46",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "J4 axxue du dalaao",
+  "date": null,
+  "place": "64990 Ss Penne d'Trube",
+  "box": "Fefenene: I/UYB44"
 }

@@ -1,3 +1,42 @@
 {
-    "error": "Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  "Date": "November 8, 1991",
+  "ProjectApproval": {
+    "Department": "Marketing Research Department",
+    "Approval": "True"
+  },
+  "Project": "Product Test II",
+  "Product": "Micro Liqhts",
+  "Title": "Product Test II",
+  "Job": "5542/691",
+  "Objectives": "Determine the acceptance levels of 2 revised True 2 mg. 100's non-menthol product candidates versus Now. Proceed to market this product if it achieves the action standard: at parity or better versus Now among female Now smokers, aged 35-55.",
+  "ResearchDesign": {
+    "Description": "This is a two cell test with a sample size of 300 (l50 per cell). Only 100mm Now smokers who are female and between 35 and 55 years of age will qualify.",
+    "TestDetails": "Each smoker will test 4 packs of one of the prototype True 2 mg. products and 4 packs of Now."
+  },
+  "CostEstimate": "$61000",
+  "ResearchFirm": "Newman-Stein,Inc.",
+  "Contingency": {
+    "List": "-10% Contingency",
+    "Percentage": "-10%",
+    "Included": "Yes"
+  },
+  "Incidence": "$4 cold screening",
+  "FinalReport": {
+    "Included": "Yes",
+    "ScreenTime": "5 minute screen;",
+    "InterviewLength": "15 minute callback"
+  },
+  "PreparedBy": "S R. Benson",
+  "OpenEnds": "ln",
+  "ApprovedBy": {
+    "MarketingResearchDirector": {
+      "Topline": "12/23/91*"
+    },
+    "Final": "12/30/91",
+    "ProductManager": {
+      "Assumption": "Product available by 11/25."
+    },
+    "GroupProductManager": "Pa"
+  },
+  "Banners": "4"
 }

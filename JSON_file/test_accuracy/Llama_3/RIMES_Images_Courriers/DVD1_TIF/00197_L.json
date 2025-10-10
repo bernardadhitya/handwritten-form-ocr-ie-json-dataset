@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n4lun f /912006 Camille Gomi5 T6 que Etennc s4 17O Allai`r 3 Su Service 6117o le Mele tm ck S9d2?18 k'honnevr:c6 o-llcG &vcc r6sol ls 4/9/06 monki5 ol cleur Ayanf vu l'egre 4/9/06 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4"
+  "document": "4lun f /912006",
+  "scenario": "T6 que Etennc",
+  "writer": "Camille Gomi5",
+  "sender_person": "Su",
+  "sender_company": "6117o le Mele",
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "Service",
+  "date": "4/9/06",
+  "place": "monki5 ol cleur",
+  "box": null
 }

@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nE..D.F.\nulewalo 8420 CARRiERES SUR SEiNE Di PCU93 Cutm ons\nE..D.F.\nulewalo 8420 CARRiERES SUR SEiNE Di PCU93 Cutm ons\nE..D.F.\nulewalo 8420 CARRiERES SUR SEiNE Di"
+  "document": "E..D.F.",
+  "scenario": "ulewalo",
+  "writer": null,
+  "sender_person": null,
+  "sender_company": "CARRiERES SUR SEiNE",
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "date": null,
+  "place": null,
+  "box": "PCU93"
 }

@@ -1,4 +1,31 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nINFORMATION SEARCH SUMMARY ial omens sawn 3 coun ot (ee Siamy Bel May 27, 1982 Valerian Flutd Extract ama aa II. (cont\"é) “nee Toxline 1974-\nJan, 1982 Registry of the Toxic Effects of Chemicals to Dec.\n1981,, 4 I Ap fs ATi Jan C. Stringflelgy N.L.5.\nLiterature Chenie} TIL, SUPPLEMENTAL LITERATURE SEARCH Chemical Abstracts Vol. 23 = Vol. 65 1929-1966 Arctander's Perfume and Flavor Materials of Natural Origin (1960) Guenther's Monographs on Fragran...\nDec. 1981 U.S. Dispensatory 23rd edition (1943) 2 s & q 8 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+  "informationSearchSummary": {
+    "type": [
+      "CHEMICAL",
+      "BIOLOGICAL"
+    ],
+    "name": "Jimmy Bell",
+    "date": "May 27, 1982",
+    "compoundName": "Valerian Fluid Extract",
+    "compoundCode": "B73",
+    "registryNumber": "# apcab",
+    "literatureSurveyed": [
+      "Toxline",
+      "Registry of the Toxic Effects of Chemicals"
+    ],
+    "supplementalLiteratureSearch": [
+      "Chemical Abstracts",
+      "Arctander's Perfume and Flavor Materials",
+      "Guenther's Monographs on Fragrance Raw Materials",
+      "Tobacco Abstracts",
+      "U.S. Dispensatory"
+    ],
+    "scientist": {
+      "name": "Jimm H. Bell",
+      "degree": "BSc.",
+      "id": "00851772",
+      "affiliation": "LORILLARD RESEARCH CENTER"
+    },
+    "form": "FORM8 [1080]"
+  }
 }

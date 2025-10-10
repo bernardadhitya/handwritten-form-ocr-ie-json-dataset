@@ -1,4 +1,52 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nLEO BURNETT. COMPANY: INC.\nseunevein ADVERTISING aeqan No oon POSTER DISPLAY CONTRAC MIDPORT OUTDOOR Abies INC. bceneR 8, 1982 TO 12 UNION STREET DATE:\nMIDDLETOWN, NY 10940 MyMIDD 01-03 ‘CONTRACT NO.\nADVERTISER. Philip Mortis, Inc.\nPRODUCT: Tobacco _\" 85 POOL Hereinafter referred to as Company TRADING AREA: 160 Leo Burnett Company, Inc., hereinafter referred to as Agency, hereby contracts for the Posting and Maintenance ‘of Outd...\nyean —-*1983 \"82 ‘83 ORES sen ee warn [oe [me] seer [oor [nove ORDERED | 12/26 | 1/26 | 2/25 | 9/26 | 42s | si2s | o/2s | 712s | a/2s | 9/28 | 10/25 | 11/26 79) I iy necere pg To VEG ‘This is a master...\nRATE INFORMATION.\nSPECIAL INSTRUCTIONS: 11,950.00 Gross Mo. Cost s.\nContinuity 97.50 Discount s.\n1,852.50 Discounted Mo. Cost $.\nAGENCY: LEO BURNETT 2OMPI ACCEPTED:\nCOMPANY: BY:\nSHIPPING ADDREss:__* SAME ____ BILLING INFORMATION: SEND INVOICES ONLY TO ‘ACCOUNTING DEPT. SECT. 8 DATE:\nCLIENT COPY ouaee pa 11/28 pLeLsLovoe 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28 11/28"
+  "company": "LEO BURNETT COMPANY INC",
+  "industry": "ADVERTISING",
+  "address": "PRUDENTIAL PLAZA  CH1CAGO.ILLINO1S 60601",
+  "phone": "312-565-5959",
+  "contract": {
+    "type": "POSTER_DISPLAY CONTRAC",
+    "contractor": "MIDPORT OUTDOOR ADVERTISING INC",
+    "date": "DECEMBER 81982",
+    "contract_no": "85POOL",
+    "advertiser": "Philip Morris, Inc.",
+    "product": "Tobacco",
+    "trading_area": "Leo Burnett Company,Inc.",
+    "agency": "LEO BURNETT COMPANY INC",
+    "market": "MIDDLETOWN,NY",
+    "size": "41",
+    "number_of_panels": "9",
+    "posting": "4",
+    "showing": "13",
+    "illumination": "12",
+    "posting_date": "25th of Previous Month.",
+    "year": "1983",
+    "dates": {
+      "ordered": {
+        "jan": "12/25",
+        "feb": "1/25",
+        "mar": "2/25",
+        "apr": "3/25",
+        "may": "4/25",
+        "jun": "5/25",
+        "jul": "6/25",
+        "aug": "7/25",
+        "sep": "8/25",
+        "oct": "9/25",
+        "nov": "10/25",
+        "dec": "11/25"
+      }
+    },
+    "rate_information": {
+      "gross_monthly_cost": "1950.00",
+      "discount": "97.50",
+      "discounted_monthly_cost": "1,852.50"
+    },
+    "special_instructions": null,
+    "accepted": {
+      "agency": "LEO BURNETT COMPANY INC",
+      "company": null,
+      "shipping_address": "SAME",
+      "billing_information": "ACCOUNTING DEPT.SECT.B"
+    }
+  }
 }

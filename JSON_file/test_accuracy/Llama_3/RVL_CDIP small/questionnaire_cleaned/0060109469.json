@@ -1,3 +1,74 @@
 {
-    "error": "Expecting property name enclosed in double quotes: line 2 column 1 (char 2)"
+  "title": null,
+  "date": "12/16/78",
+  "author": null,
+  "questions": [
+    {
+      "question_number": null,
+      "question_text": null,
+      "response": null
+    },
+    {
+      "question_number": null,
+      "question_text": "In the past 3 months, what other brands of cigarettes have you tried, even counting those cigarettes you 'borrowed' from someone else?",
+      "response": "RECORD BELOW"
+    },
+    {
+      "question_number": null,
+      "question_text": null,
+      "response": null
+    },
+    {
+      "question_number": null,
+      "question_text": null,
+      "response": null
+    },
+    {
+      "question_number": null,
+      "question_text": "For each brand mentioned in Q.4, what do you remember about the advertising ... that is, what was shown or said about in the advertising?",
+      "response": null
+    },
+    {
+      "question_number": null,
+      "question_text": null,
+      "statements": [
+        {
+          "statement": null,
+          "brand": null
+        },
+        {
+          "statement": "A lot of taste without a lot of tar",
+          "brand": "Vantage"
+        },
+        {
+          "statement": null,
+          "brand": null
+        },
+        {
+          "statement": null,
+          "brand": null
+        },
+        {
+          "statement": "I'm realistic. I only smoke ...",
+          "brand": null
+        },
+        {
+          "statement": null,
+          "brand": "True"
+        }
+      ]
+    }
+  ],
+  "classification": {
+    "question_number": null,
+    "question_text": "Into which age group do you belong? Are you ...",
+    "age_groups": [
+      "21-24",
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  }
 }

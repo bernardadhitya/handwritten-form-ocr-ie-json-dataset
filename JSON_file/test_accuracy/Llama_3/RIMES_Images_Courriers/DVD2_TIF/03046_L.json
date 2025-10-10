@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nMORA Mauricc l3 rue de Tillulp 68 I3o Ca rspacH TEl : 03.86. 45.03.08 NAiF Ansuramces Placc du chafeau t2 320.1ontmiroil beK:R&s]iaMim d'asurance auo:W6-SAH77 Le 19/o2/0F Morsien c vou omc por la p re... (text truncated)\n\nHere is the text with the non-structured information removed:\n\nMORA Mauricc l3 rue de Tillulp 68 I3o Ca rspacH TEl : 03.86. 45.03.08 NAiF Ansuramces Placc du chafeau t2 320.1ontmiroil beK:R&s]iaMim d'asurance auo:W6-SAH77 Le 19/o2/0F Morsien c vou omc por la p re...\n\nThe structured information is:\n\n* Name: Mauricc\n* Address: \n  * Street: rue de Tillulp\n  * Number: 68\n  * City: Ca rspacH\n* Phone: 03.86. 45.03.08\n"
+  "document": "MORA Mauricc",
+  "scenario": null,
+  "writer": null,
+  "sender_person": "MORA Mauricc",
+  "sender_company": "NAiF Ansuramces",
+  "sender_tel": "03.86. 45.03.08",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": null,
+  "date": "19/o2/0F",
+  "place": "Placc du chafeau",
+  "box": "beK:R&s]iaMim d'asurance auo:W6-SAH77"
 }

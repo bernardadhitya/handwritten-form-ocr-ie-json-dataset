@@ -1,4 +1,17 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nAN a 8e 3475 Genie oapees a à Pepe dinde Tiyee Thousand Fe Hundred en and Sieky Four re de Maria Halb 4 Pate Fe A Las Vegas e 0110112022 à mure dde Sn Ah dE TU au SALLE EL Holly Martin rvuèors PU 0110112022 à mure dde Sn Ah dE TU au SALLE EL Holly Martin rvuèors PU\n\nHere is the text with the unstructured information removed:\n\n3475 Genie oapees a à Pepe dinde Tiyee Thousand Fe Hundred en and Sieky Four re de Maria Halb 4 Pate Fe A Las Vegas\n\nThis text can be represented as a JSON object with the following structure:\n\n```\n{\n  \"date\": \"0110112022"
+  "location": "ul-u",
+  "ul": "ul-u",
+  "BP": "BP393",
+  "cheque": "Cheque N0O7E6S",
+  "instruction": "Payez contre ce cheque non endosseble",
+  "amount": "Three Thousand Five Hundred and Sixty Four",
+  "additionalInfo": "ATardre deMaria Kalb",
+  "payee": "Lay Hollu Martin",
+  "payableLocation": "ALas Yegas0110112022",
+  "date": "0110112022",
+  "accountHolder": "Titulsire du compte",
+  "signature": "Signature(s))",
+  "code": "50b510605590",
+  "lay": "Lay",
+  "name": "Hollu Martin"
 }

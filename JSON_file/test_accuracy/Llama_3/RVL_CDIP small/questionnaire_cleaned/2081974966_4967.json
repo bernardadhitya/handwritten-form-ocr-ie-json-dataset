@@ -1,3 +1,38 @@
 {
-    "error": "Extra data: line 1 column 5 (char 4)"
+  "title": null,
+  "location": "Sereener",
+  "code": 500,
+  "format": null,
+  "intent": null,
+  "introduction": null,
+  "questions": [
+    {
+      "question": "Have you been interviewed the last few days concerning Merit with PaperSelect TM?",
+      "responses": {
+        "yes": null,
+        "no": null
+      }
+    },
+    {
+      "question": null,
+      "responses": {
+        "yes": null,
+        "no": null
+      }
+    },
+    {
+      "question": null,
+      "note": null
+    },
+    {
+      "question": null,
+      "responses": {
+        "yes": null,
+        "no": null
+      }
+    }
+  ],
+  "eligibility": "Only smokers 21 years of age or older are eligible to participate in this research.",
+  "contact": null,
+  "requirements": null
 }

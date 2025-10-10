@@ -1,3 +1,49 @@
 {
-    "error": "Blockwise quantization only supports 16/32-bit floats, but got torch.uint8"
+  "company": null,
+  "location": {
+    "city": null,
+    "state": null
+  },
+  "codes": {
+    "5301": null
+  },
+  "survey": {
+    "title": null,
+    "respondent": {
+      "name": null,
+      "telephone_area_code": null
+    },
+    "interviewer": null,
+    "address": {
+      "street": null,
+      "city": null,
+      "state": null,
+      "zip_code": null
+    },
+    "interview_time": {
+      "started": null,
+      "ended": ""
+    }
+  },
+  "questions": [
+    {
+      "question": null,
+      "responses": {
+        "yes": "Continue to Q2",
+        "no": "Terminate and circle below"
+      }
+    },
+    {
+      "question": null,
+      "responses": {
+        "yes": null,
+        "no": "Continue"
+      }
+    }
+  ],
+  "notes": {
+    "if_tobacco_mentioned": null,
+    "related_industry": null
+  },
+  "reference_number": "03856992"
 }

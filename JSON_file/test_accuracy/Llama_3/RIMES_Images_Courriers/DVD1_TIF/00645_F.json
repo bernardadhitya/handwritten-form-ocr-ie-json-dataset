@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n() veouiA AGENCE DU LUC EN PCE De: CHSTiuAa LASSOS A: DdETRit Luo NU.\nAgence :\nDate: _À6. {o. oO.\nNombre de pages : à Objet : Fermeture de Compte bam Ca Re | Message :\nCL - SAV de maido &o Lrrekure de Com p Ce CENTRE SERVICE CLIENTS - 06297 NICE CEDEX 3 Tél : 0.811.900.700 - Fax : 04.97.25.88.84 LUNDI AU VENDREDI 8H-19H / SAMEDI 9H-12H DE L'ETRANGER 4.97.25.88.95 LUNDI AU VENDREDI 8H-19H / SAMEDI 9H-12H\n\nContact :\nName :  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  - "
+  "document": "VEOLIA",
+  "scenario": "AGENCE DU LUC EN PCE",
+  "writer": "C HRSTiNA UASSuS",
+  "sender_person": "DETiT LYONNAN",
+  "sender_company": "Agence",
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "FermetoRe de compR bam&iRe",
+  "date": "16. o. 0(o",
+  "place": "06297 NICE CEDEX 3",
+  "box": null
 }

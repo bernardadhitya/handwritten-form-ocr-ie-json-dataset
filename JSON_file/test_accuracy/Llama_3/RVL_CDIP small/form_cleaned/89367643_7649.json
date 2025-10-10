@@ -1,3 +1,85 @@
 {
-    "error": "Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  "RSOI": {
+    "DailyGroupDataSheet": {
+      "TestArticle": null,
+      "ProtocolNo": null,
+      "StudyNo": null,
+      "TechInttias": null,
+      "AnimalNo": null,
+      "Date": null,
+      "RH": "7",
+      "Temp": "70",
+      "SmokeFlowmeterSetting": null,
+      "InGroup": null,
+      "MachineNo": null,
+      "PurgeFlowmeterSetting": null,
+      "Species": null,
+      "NoOfCigsPerHolder": null,
+      "GroupNo": null,
+      "SmokeAirCyclePerMinute": "30/30",
+      "SmokeConcentration": null,
+      "NoOfPuffsPerExposure": null,
+      "NoOfCigsBeforeRest": null,
+      "ContinuousOrIntermittent": "",
+      "ProposedNoOfExposures": null,
+      "LengthOfRest": "",
+      "CalibratedSmokeFlow": "OLSl",
+      "TimeOfDeath": null,
+      "O557": null,
+      "ExposureNo": null,
+      "Deaths": null,
+      "ConeOrSlotNo": null,
+      "Time": null,
+      "PuffNo": "",
+      "Observations": [
+        {
+          "042": "1",
+          "105treahcc": null,
+          "xttomh": null
+        },
+        {
+          "2": null,
+          "Resr": "3",
+          "11.30": null
+        },
+        {
+          "REST": "5",
+          "R6ST": null,
+          "2hl": null
+        },
+        {
+          "i": "1218",
+          "REST": "12:3.4",
+          "8": null
+        },
+        {
+          "605:21": "&"
+        }
+      ],
+      "CompletionTimeOfLastExposure": null,
+      "DeadAnimalIdentificationNos": "",
+      "ObservationsOfSurvivorsImmediatelyAfterExposure": {
+        "Degree": {
+          "A": null,
+          "B": null,
+          "C": null
+        },
+        "Lethargic": null,
+        "Convulsions": null,
+        "Trembling": null,
+        "Uncoordinated": null,
+        "EyeTearing": null,
+        "Cold": null,
+        "YellowishBrownSnout": null,
+        "Hyperactive": null,
+        "BloodyNoses": "",
+        "ShallowBreathing": null,
+        "SwollenNoses": null,
+        "LyingProne": null,
+        "Other": null,
+        "UnableToWalk": "89367643",
+        "SmoothCoat": "cctire pom"
+      }
+    }
+  }
 }

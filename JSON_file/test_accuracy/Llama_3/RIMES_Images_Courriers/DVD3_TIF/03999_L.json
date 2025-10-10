@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nMme Michele ORTi2 7J Vou du ChapEe 886SO ANOULD Te1 03.51.76.81.23 ED F 19avenue de la Lberahor J483O Lsngrvne sur Mer Objet : Demande da Aemwoe ReF clent: E cZBU 39 AnouQd1 Q& && mao &cot smassaW Ie... (rest of the text is truncated)\n\nHere is the structured information:\n\n* Name: Michele ORTi2\n* Address: 7 Vou du ChapEe 886SO\n* Phone Number: 03.51.76.81.23\n* Date: 19/02/2023\n* Client ID: 39\n* Reference: Aemwoe ReF\n* Location: Lsngrvne sur Mer\n\nHere is the structured JSON output:\n\n```json\n{\n  \"Name\": \"Michele ORTi2\",\n  \"Address\": \"7 Vou du ChapEe 886SO\",\n  \"Phone Number\": \"03.51.76.81.23\",\n  \"Date\": \"19/"
+  "document": null,
+  "scenario": null,
+  "writer": "Mme Michele ORTi2",
+  "sender_person": "Mme Michele ORTi2",
+  "sender_company": "7J Vou du ChapEe",
+  "sender_tel": "03.51.76.81.23",
+  "sender_fax": "ED F",
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "Demande da Aemwoe",
+  "date": null,
+  "place": "19avenue de la Lberahor, J483O Lsngrvne sur Mer",
+  "box": "E cZBU 39"
 }

@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nwe REuAMy L&a 19 Si's Qaude Rue 54 61o Asaw covrt8 &&1l ConAf Asnvauus Buat'eTagh'at.\n2o2z8 P.no A ASauovrt s/Sul, le 13ors 2o7 gd: Asvrauu Haittsn tV ZJH Kn : nmsf2 is suit auy ntemKrusécauks pu out adenes afin de ourtka won desna-\nDaus Iatteat de vot if&,eceve? ouhor, mes csd'ales saatatous hnvm2% 2o7. 2o7. 2o7. 2o7. 2o7. 2o7. 2o7. 2o7. 2o7. 2o7. 2o7. 2o7. 2o7. 2o7. 2o7. 2o7. 2o7. 2o7. 2o7. 2o7. 2o7. 2o7. 2o7. 2o7. 2o7. 2o7. 2o7. 2o7. 2o7. 2o7."
+  "document": "REuAMy L&a",
+  "scenario": "19 Si's Qaude Rue",
+  "writer": "Asaw covrt8 &&1l",
+  "sender_person": "ConAf Asnvauus",
+  "sender_company": "Buat'eTagh'at",
+  "sender_tel": "2o2z8 P.no",
+  "sender_fax": "A ASauovrt s/Sul, le 13ors 2o7",
+  "receiver_person": "gd: Asvrauu Haittsn",
+  "receiver_company": "tV ZJH Kn : nmsf2",
+  "subject": "is suit auy ntemKrusécauks pu out",
+  "date": null,
+  "place": "adenes afin de ourtka won desna-",
+  "box": "Daus Iatteat de vot if&,eceve?"
 }

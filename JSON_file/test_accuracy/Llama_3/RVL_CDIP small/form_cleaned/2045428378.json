@@ -1,4 +1,56 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n: PREMIUM BRANDS © PEOPLE/NEWSPAPER MARKET CHECKLIST Date 4118]a4 wane Bods hao Store Name Dari, Coronel ‘Store Customer No.\nRetail Masters _X_Non-retail Mastere - Caylee Trade cae cestore Xs Supermarket, Drug Liguer__Mass__@rocery Liquor___Urban______Other____ April Multibrand Promotion jj, De punt MPa tktrine, woth was Th...\nPeople Tent Care. xX People Danglers (2) Newspaper Pack Display _ B-CLL OILY x Newspaper Poster xX Newspaper Dangiers (2) x2 Newspaper Tent Garg 4 Caen ICs on: SEH 1008 ___ Mari vs Parliament oiner P..."
+  "premium_brands": {
+    "people_newspaper": {
+      "market_checklist": "411894",
+      "date": "Bhode clnlonl",
+      "market": "O",
+      "store_customer_no": "Retail Masters",
+      "retail_masters": "X",
+      "non_retail_masters": "Lexclsin",
+      "trade_class": {
+        "c_store": "C-store_X",
+        "c_gas": "C-gas_",
+        "supermarket": "Supermarket_",
+        "drug": null,
+        "liquor": "Liquor_",
+        "mass": "Mass",
+        "grocery": "Grocery_",
+        "liquor_urban": null,
+        "other": "Urban"
+      },
+      "april_multi_brand_promotion": {
+        "date": "2",
+        "nertoce": "nertoce",
+        "people_canon_promotion_sold_in": null,
+        "newspaper_pack_promotion_sold_in": null,
+        "good_location": null,
+        "bad_location": null,
+        "visibility": "Visibllity",
+        "people_canon_display": "x",
+        "people_poster": "x",
+        "people_danglers": "x",
+        "people_tent_card": "x",
+        "newspaper_pack_display": "x",
+        "newspaper_poster": "x",
+        "newspaper_danglers": "X 2",
+        "newspaper_tent_card": "X",
+        "canon_ircs_on": {
+          "s_h_100s": "S&H 100s",
+          "merit": "Merit",
+          "vs": "VS",
+          "parliament": "Parliament",
+          "other": "Other"
+        },
+        "pack_ircs_on": {
+          "b_h_100s": "B&H 10os",
+          "merit": "Merit",
+          "vs": "vs",
+          "parliament": "Parliament",
+          "other": "Other"
+        }
+      }
+    }
+  },
+  "page": "Page 1",
+  "id": "2045428378"
 }

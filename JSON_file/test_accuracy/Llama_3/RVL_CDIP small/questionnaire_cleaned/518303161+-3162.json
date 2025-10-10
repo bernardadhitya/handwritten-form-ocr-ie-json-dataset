@@ -1,4 +1,33 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nTobacco Company Ms. Pamela Crowley Consumer Relations 15818 Terrace Dr. Winston-Salem, N.C. 27102 Oak Forest, IL 60452 Dear Valued Customer:\nRecently you contacted R. J. Reynolds’ Consumer Relations Department and gave Us the opportunity to respond to your request for assistance with either a promotion or product related issue, In an effor...\n‘Thank you for taking the time to let us know how our staff met your expectations, We value your opinion and appreciate your business.\nMark Conrad Consumer Satisfaction Research Manager Wrasten 2060995 4-95 278 T9te eeets “We work for smokers.” R. J. Reynolds Tobacco Company is a leading manufacturer of tobacco products, including cigarettes, smokeless tobacco, and other related products. Our mission is to provide the best possible products and services to our customers. We strive to make our products and services accessible to all, regardless of age, income, or geographic location. We are committed to providing a safe and healthy environment for our customers. We are proud of our heritage and our commitment to excellence in all that we do. We are a leading manufacturer of tobacco products and are dedicated to making our products and services available to all. We are committed to providing a safe and healthy environment for our customers. We are proud of our heritage and our commitment to excellence in all that we do. We are a leading manufacturer of tobacco products and are dedicated to making our products and services available to all. We are committed to providing a safe and healthy environment for our customers. We are proud of our heritage and our commitment to excellence in all that we do. We are a leading manufacturer of tobacco products and are dedicated to making our response to your request for assistance with either a promotion or product related issue, In an effort to improve our customer service, we have implemented a new customer service system. This system allows us to respond to customer requests in a timely and efficient manner. We are committed to providing a safe and healthy environment for our customers. We are proud of our heritage and our commitment to excellence in all that we do. We are a leading manufacturer of tobacco products and are dedicated to making our products and services available to your customers. We are committed to providing a safe and healthy environment for our customers. We are proud of our heritage and our commitment to excellence in all that we do. We are a leading manufacturer of tobacco products and are dedicated to making our products and services available to all. We are committed to providing a safe and healthy environment for our customers. We are proud of our heritage and our commitment to excellence in all that we do. We are a leading manufacturer of tobacco products and are dedicated to making our products and services available to all. We are committed to providing a safe and healthy environment for our customers. We are proud of our heritage and our commitment to excellence in all that we do. We are a"
+  "company": "Tobacco Company",
+  "contact": {
+    "name": "Ms. Pamela Crowley",
+    "position": "Consumer Relations",
+    "address": {
+      "street": "15818 Terrace Dr",
+      "city": "Winston-Salem",
+      "state": "N.C.",
+      "zip": "27102"
+    },
+    "alternate_address": {
+      "city": "Oak Forest",
+      "state": "IL",
+      "zip": "60452"
+    }
+  },
+  "letter": {
+    "greeting": "Dear Valued Customer:",
+    "body": "Recently you contacted R. J. Reynolds'Consumer Relations Department and gave us the opportunity to respond to your request for assistance with either a promotion or product related issue.\nIn an effort to better serve our customers, we are asking you to please take a few minutes to complete a questionnaire about how well you were treated by our company representative. After completing the survey on the reverse side of this letter, please return it in the enclosed postage-paid envelope.\nThank you for taking the time to let us know how our staff met your expectations.\nWe value your opinion and appreciate your business.",
+    "closing": "Mark Conrad",
+    "position": "Consumer Satisfaction Research Manager"
+  },
+  "codes": {
+    "code1": "51830",
+    "code2": "Winstor",
+    "code3": "2060995",
+    "code4": "4-95",
+    "code5": "278",
+    "code6": "3161"
+  },
+  "slogan": "We work for smokers"
 }

@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n4LBA Fransoise S Bis Tve HOH L 6t29O ROSTEiG 03.94.57.89.42.\nRef:V r TS e 41 NN A AssurOn ces Tve dc PONT 4322O RioTORD Messieurs, pour mon domiale chez vous.\nOr je vais proch9incment m':nstaller avecmon con JoinF a ce mon contat. Je veus Temercie de metfre & Tovr mon dossier afin de prendre en compTe ce changemenT.\nbicn m'en foire port, porretour de courrier.\nCordiole ment, et dons I'sTTeute. (Translation: \n4LBA Fransoise S Bis Tve HOH L 6t29O ROSTEiG 03.94.57.89.42.\nRef:V r TS e 41 NN A AssurOn ces Tve dc PONT 4322O RioTORD Messieurs, pour mon domiale chez vous.\nOr je vais proch9incment m':nstaller avecmon con JoinF a ce mon contat. Je veus Temercie de metfre & Tovr mon dossier afin de prendre en compTe ce changemenT.\nbicn m'en foire port, porretour de courrier.\nCordiole ment, et dons I'sTTeute.)\n\nThe structured JSON output is as follows:\n\n```\n{\n  \"sender\": {\n    \"name\": \"Fransoise S Bis Tve\",\n    \"address\": \"HOH L 6t29O ROSTEi"
+  "document": "4LBA Fransoise",
+  "scenario": "S Bis Tve HOH L",
+  "writer": null,
+  "sender_person": "Messieurs",
+  "sender_company": "NN A AssurOn ces",
+  "sender_tel": "03.94.57.89.42.",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "date": null,
+  "place": "RioTORD",
+  "box": null
 }

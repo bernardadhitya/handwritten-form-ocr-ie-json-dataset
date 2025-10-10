@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nMONTSJURA AUTOCARS FAX EXPEDITEUR :.Bion d......Sand..in..4.&7..chunm.au.mal?m..06.5...$.Pa.\n5:.04..54..00..47..35 DESTINATAIRE :.BAA.F..AWAW..\n9qIau.d.l.&pUx 9.3.6oa..4.na.ow...\nOBJET DU FAX :..&m&..d.&hlonwmn MONTS JURA AUTOCARS 4 Rue Berthelot 25000 BESANCON/ Tel : 03 81 63 44 60/Fax : 03 81 80 98 61 Mail : mjabesancon@keolis.com/RCS Besancon B 344 148 515/N° SIRET 3441485.../N° RIB 3441485.../N° RIB 3441485.../N° RIB 3441485.../N° RIB 3441485.../N° RIB 3441485.../N° RIB 3441485.../N° RIB 3441485.../N° RIB 3441485.../N° RIB 3441485.../N° RIB 3441485.../N° RIB 3441485.../N° RIB 3441485.../N° RIB 3441485.../N° RIB 3441485.../N° RIB 3441485.../N° RIB 3441485.../N° RIB 3441485.../N° RIB 3441485.../N° RIB 3441485.../N° RIB "
+  "document": "MONTSJURA",
+  "scenario": "AUTOCARS",
+  "writer": null,
+  "sender_person": "Bion d......Sand..in",
+  "sender_company": "MONTS JURA AUTOCARS",
+  "sender_tel": "03 81 63 44 60",
+  "sender_fax": "03 81 80 98 61",
+  "receiver_person": "BAA.F..AWAW..",
+  "receiver_company": null,
+  "subject": "OBJET DU FAX :..&m&..d.&hlonwmn",
+  "date": null,
+  "place": "4 Rue Berthelot 25000 BESANCON",
+  "box": null
 }

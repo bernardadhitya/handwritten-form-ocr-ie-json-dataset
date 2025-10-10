@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nANDRE AuRéGa u3 Rue du Uignobe 68720 HeiDWiLLEk RePenen ce cu'en5: H H AU F 16 HedwilleR le O2 ocrobRe 2oo6 Nadame, Nonsieue Sure  1@ uente de mon oohcule Renouef Uic imm@lrwfe H H AU F 16) e sauhaire...\nANDRE AuReU@ GaU3 Rue du Uignobe 68720 HeiDWiLLEk RePenen ce cu'en5: H H AU F 16 HedwilleR le O2 ocrobRe 2oo6 Nadame, Nonsieue Sure  1@ uente de mon oohcule Renouef Uic imm@lrwfe H H AU F 16) e sauhaire...\n\nThe text appears to be a jumbled collection of words and numbers, but if we look closely, we can extract the following structured information:\n\n* Name: ANDRE AuRéGa\n* Address: \n  * Street: Rue du Uignobe\n  * City: He"
+  "document": "ANDRE AuRéGa",
+  "scenario": null,
+  "writer": null,
+  "sender_person": "ANDRE AuReU@",
+  "sender_company": "u3 Rue du Uignobe",
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": "Nadame, Nonsieue",
+  "receiver_company": null,
+  "date": "HedwilleR le O2 ocrobRe 2oo6",
+  "place": "68720 HeiDWiLLEk",
+  "box": "RePenen ce cu'en5: H H AU F 16"
 }

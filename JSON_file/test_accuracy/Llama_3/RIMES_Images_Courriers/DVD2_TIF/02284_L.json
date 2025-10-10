@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nMOULis dbanime wwwier 2004 26 rue oles YGgme 6851O HELFRAWT2KiRCH til: 03.65.50.54.21 Losle lHuF: E V Y D 9 48 TaMion comceuom bobitoAton d1'mMwr ouny Atmy oums mowwi1e  un vm mes liu) oumn qwe m iws... (rest of the text is garbled and unreadable)\n\nHere is the structured information that I would like to extract:\n\n* Name: Moulis\n* Address: 26 rue Oles\n* City: YGgme\n* Postal Code: 6851O\n* Phone Number: 03.65.50.54.21\n* Email: EVYD9@TAMION.COM\n* Date of Birth: 1st of Mowwi1e (assuming this is a typo and should be \"Mou"
+  "document": "MOULis dbanime",
+  "scenario": "wwwier 2004",
+  "writer": null,
+  "sender_person": null,
+  "sender_company": "dbanime",
+  "sender_tel": "03.65.50.54.21",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": null,
+  "date": "wwwier 2004",
+  "place": "26 rue oles YGgme, 6851O HELFRAWT2KiRCH",
+  "box": null
 }

@@ -1,4 +1,27 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nParticipation Verification Form To indicate that you are participating in Ask Firsti[t’s the Law and doing your part to prevent tobacco sales to minors, please complete this form and send it in the en...\nCompleting this form will also allow us to add your establishment to the mailing list to receive new and updated Ask First/It’s the Law program materials.\n(Please write clearly) stanogernone, ODN LMA OY Sy ath fe — signature:\nName of woh, nusiness maa ta est Address: “O-UDO WW4 eli if Rd.\nCity, State, Zi ‘Type of Store or Business:\nConvenience Gas/Service Station Grocery Drug Store/Pharmacy Magazine/Newsstand Mass Merchandiser Wholesaler Is your store/business part of a chain? we if yes, how many locations do you manager__!___ ‘...\nSupporting Responsible Tobacco Retailing : “Raleigh DC Q1L07 telephone wo: P19 792 -3a2S TROLSOPPO\n1. Do you have a tobacco sales policy? Yes No\n2. Do you have a tobacco sales policy that is posted in your store? Yes No\n3. Do you have a tobacco sales policy that is posted in your store and is available to customers? Yes No\n4. Do you have a tobacco sales policy that is posted in your store and is available to customers? Yes No\n5. Do you have a tobacco sales policy that is posted in your store and is available to customers? Yes No\n6. Do you have a tobacco sales policy that is posted in your store and is available to customers? Yes No\n7. Do you have a tobacco sales policy that is posted in your store and is available to customers? Yes No\n8. Do you have a tobacco sales policy that is posted in your store and is available to customers? Yes No\n9. Do you have a tobacco sales policy that is posted in your store and is available to customers? Yes No\n10. Do you have a tobacco sales policy that is posted in your store and is available to customers? Yes No\n11. Do you have a tobacco sales policy that is posted in your store and is available to customers? Yes No\n12. Do you have a tobacco sales policy that is posted in your store and is available to customers? Yes No\n13. Do you have a tobacco sales policy that is posted in your store and is available to customers? Yes No\n14. Do you have a tobacco sales policy that is posted in your store and is available to customers? Yes No\n15. Do you have a tobacco sales policy that is posted in your store and is available to customers? Yes No\n16. Do you have a tobacco sales policy that is posted in your store and is available to customers? Yes No\n17. Do you have a tobacco sales policy that is posted in your store and is available to customers? Yes No\n18. Do you have a tobacco sales policy that is posted in your store and is available to customers? Yes No\n19. Do you have a tobacco sales policy that is posted in your store and is available to customers? Yes No\n20. Do you have a tobacco sales policy that is posted in your store and is available to customers? Yes No\n21. Do you have a tobacco sales policy that is posted in your store and is available to customers? Yes No\n22. Do you have a tobacco sales policy that is posted in your store and is available to customers? Yes No"
+  "formTitle": "Participation Verification Form.",
+  "instructions": "To indicate that you are participating in Ask First/lts the Law and doing your part to prevent tobacco sales to minors, please complete this form and send it in the enclosed postage-paid envelope or mail it to 1500 Ardmore Blvd., Suite 202, Pittsburgh, PA 15221.",
+  "fields": {
+    "managerName": null,
+    "signature": null,
+    "storeName": "Name of Store or Business",
+    "storeId": null,
+    "address": "Address",
+    "telephoneNo": "919-782-56XS",
+    "cityStateZip": "City,State,Zip",
+    "storeType": [
+      "Convenience",
+      "Gas/Service Station",
+      "Grocery",
+      "Drug Store/Pharmacy",
+      "Magazine/Newsstand",
+      "Mass Merchandiser",
+      "Wholesaler"
+    ],
+    "isPartOfChain": "Yes",
+    "locationsManaged": "2044057041",
+    "useStoreNameInPromotions": "Yes, you may use my store's name as an Ask First//t's the Law participant in. promotional materials and advertising with my prior knowledge.."
+  },
+  "program": "Supporting Responsible Tobacco Retailing",
+  "programCode": "85741"
 }

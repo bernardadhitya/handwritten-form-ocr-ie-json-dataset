@@ -1,4 +1,17 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nane À Gnara tant EEE Par Cgntage Bupees veù_ gt Thousand Thre Hundred and Foky 5x mt] Ÿ | 6346 ELITE ne AT \"003873\" 5000 15048 a 5000 15048 a 5000 15048 a 5000 15048 a 5000 15048 a 5000 15048 a 5000 15048 a 5000 15048 a 5000 15048 a 5000 15048 a 5000 15048 a 5000 15048 a 5000 15048"
+  "account_number": "500014",
+  "date": "060522",
+  "bank_name": "anara Bank",
+  "branch_code": "2014MSHCY",
+  "branch_location": "Kompally",
+  "date_format": "DDMMYYY",
+  "payee": "Pay ChapinAuger",
+  "amount_in_words": "Rupees by Eig Thousand Thre Hundred and Foty Six",
+  "amount_in_numbers": "8346",
+  "micr_code": "12688056400459004590",
+  "ifsc_code": null,
+  "note": "Payable at par at all our Branches in India",
+  "signature_line": "Please sign",
+  "transaction_code": "038735000504",
+  "check_number": "31"
 }

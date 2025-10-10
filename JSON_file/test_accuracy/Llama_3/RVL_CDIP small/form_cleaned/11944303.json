@@ -1,4 +1,35 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nGENERAL LETTERS 1. Assign nunber and date.\nv J 2. Cross Reference.\n3. Make necessary corrections.\n4. Return to Author If Not Approved As Is “ _s. Fill out Multilith Work order.\nL{6. Enter on Mail Room Instruction sheet.\n1 Send original to Addressograph.\n8. Originals returned from Addressograph.\n‘ATTACHMENTS ETC qm DATE SENT 70 REPOGRAPHICS ADDITIONAL MATERIALS TO BE TAKEN TO THE MAILROOM AUTHOR 671720327 PRODUCED FROM B&W WEB SITE 1/2/2007 1:00:00 PM 1/2/2007 1:00:00 PM 1/2/2007 1:00:00 PM 1/2/2007 1:00:00 PM 1/2/2007 1:00:00 PM 1/2/2007 1:00:00 PM 1/2/2007 1:00:00 PM 1/2/2007 1:00:00 PM 1/2/2007 1:00:00 PM 1/2/2007 1:00:00 PM 1/2/2007 1:00:00 PM 1/2/2007 1:00:00 PM 1/2/2007 1:00:00 PM 1/2/2007 1:00:00 PM 1/2/2007 1:00:00 PM 1/2/2007 1:00:00 PM 1/2/2007 "
+  "general_letters": {
+    "assign_number_and_date": "Assign number and date.",
+    "cross_reference": "2.",
+    "make_necessary_corrections": "3.",
+    "return_to_author_if_not_approved_as_is": "5",
+    "fill_out_multilith_work_order": "Fill out Multilith Work Order.",
+    "enter_on_mail_room_instruction_sheet": "1.",
+    "send_original_to_addressograph": "Send original to Addressograph.",
+    "originals_returned_from_addressograph": "Originals returned from Addressograph."
+  },
+  "attachments_etc": {
+    "quantity": "QUANITY",
+    "date_sent_to_reprographics": null,
+    "additional_materials_to_be_taken_to_the_mailroom": "ADDITIONAL MATERIALS TO BE TAKEN TO THE MAILROOM"
+  },
+  "author": {
+    "code": ".5010",
+    "letter": "LETTER",
+    "date": "s|7",
+    "name": [
+      "Emsg Moskolng outtie",
+      "QivceoifPsrthoeeeewey",
+      "Stasur nosya KooL",
+      "Meeskinso B!1F",
+      "Promo Cnaix' #"
+    ],
+    "numbers": [
+      "789ac400x0",
+      "17203",
+      "671720327"
+    ]
+  },
+  "produced_from": "B&W WEB SITE"
 }

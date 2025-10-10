@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nOpRel& GENDRON 2,we Bellevve d377!m9N1 OhE t9 tP :\nO3 51 54 1O 5l a : TRESoRERiE DES inPOIS 8, Place d'Alsac Lorran 34700 LODEVE Roanc d& courric son% reppnse 1suropo cc mo1guc ca mon cowvua du mous den&ret rak 2ans : xucdgu Vows &at.dP posRa do oepvr...\nCordaalement e& GENDRON 2,we Bellevve d377!m9N1 OhE t9 tP :\nO3 51 54 1O 5l a : TRESoRERiE DES inPOIS 8, Place d'Alsac Lorran 34700 LODEVE Roanc d& courric son% reppnse 1suropo cc mo1guc ca mon cowvua du mous den&ret rak 2ans : xucdgu Vows &at.dP posRa do oepvr...\n\nThe text appears to be a collection of emails or letters, but the content is garbled and difficult to decipher. However, the first line of each email appears to be a unique identifier or signature, which can be used to extract structured information"
+  "document": "OpRel& GENDRON",
+  "scenario": null,
+  "writer": null,
+  "sender_person": "GENDRON",
+  "sender_company": "TRESoRERiE DES inPOIS",
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": null,
+  "date": null,
+  "place": "8, Place d'Alsac Lorran, 34700 LODEVE"
 }

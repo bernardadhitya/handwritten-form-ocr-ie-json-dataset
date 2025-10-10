@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n1 k 12 mau 2oo7 PARDON Michel 16 Plone Rue du 5726O, VERGAViLLE Tel: 03 21 01 24 83 NAIF Asswiances Rue de la poste 8054O, BOUGAINVILLE Objet: Demand de documntalm comcenant &s contats d' assurance cu...\ntous ge voudras auoir assuance mauntenant.\nle faire Dan cmcemant ds condal d'assuranc auto.\nles docmens aglealle, je uus prsend ms uohe nepene l'alen& dle Oistiguees salutatons.\n \nNote: The text is written in French and contains some typos and grammatical errors.\n\nHere is the letter:\n\n```\nPARDON Michel\n16 Plone Rue du 5726O, VERGAViLLE\nTel: 03 21 01 24 83\nNAIF Asswiances\nRue de la poste 8054O, BOUGAINVILLE\nObjet: Demand de documntalm comcenant &s contats d' assurance cu...\ntous ge voudras auoir assuance mauntenant.\nle faire Dan cmcemant ds condal d'assuranc auto.\nles docmens aglealle, je uus prsend ms uohe nepene l'alen& dle Oistiguees salutatons.\n```\n\nThe structured JSON output should be in the following format:\n\n```json\n{\n  \"name\": \"Michel\",\n  \"address\": {\n    \"street\": \"16 Plone Rue du 5726O"
+  "document": "Lettre manuscrite",
+  "scenario": "Demande d'information",
+  "writer": null,
+  "sender_person": null,
+  "sender_company": null,
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": null,
+  "date": null,
+  "place": "",
+  "box": null
 }

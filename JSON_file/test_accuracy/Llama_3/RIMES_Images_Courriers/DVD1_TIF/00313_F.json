@@ -1,12 +1,15 @@
 {
-    "Télécopie/Facsimilé": {
-        "Destinataire": "OLiVEi2",
-        "Nom/Name des impots": "Tre'sorerie",
-        "Service/Department": "Service/Entreprise/Department/Company",
-        "Télécopieur/Fax": "na 0342.23.01.11",
-        "Téléphone/Telephone": "na"
-    },
-    "Date": {
-        "Page1/ page.../Page n°": "1/1/ Page n° 2/2/ Page n° 3/3/.../Page n° 10/10"
-    }
+  "document": "Télécopie/Facsimilé",
+  "scenario": "Destinataire",
+  "writer": "OLiVEi2",
+  "sender_person": "Nom/Name",
+  "sender_company": "Tre'sorerie",
+  "sender_tel": "0342.23.01.11",
+  "sender_fax": "Télécopieur/Fax na",
+  "receiver_person": "Nom/Name",
+  "receiver_company": "Service/Entreprise/Department/Company",
+  "subject": "Veilr trouver ci-joint une letre concernant ma olemomde",
+  "date": "Page1/",
+  "place": "Institut national des télécommunications",
+  "box": "9 rue Charles Fourier 91011Evry Cedex"
 }

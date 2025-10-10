@@ -1,4 +1,20 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n- PHILIP MORRIS KOREA INC (SEOUL) woo FAX NO, : 02-775 - 9780 TELNO. : 02-775 -9777 DELIVERY TO : MS. Susan Ho SENDER : Sean hee. Roky ec 7 Den Hocis / Bempe gwen, DESTINATION 3 PMAT ¢ aperete. AP PoN...\nPAGES TO FOLLOW : a DATE = 2423) 9, suBJECT :\noe REMARKS :\neee Susan — je & z “he figh fo Poxgat OE\" Smolcing Twetdewt\" Lae e al by the Korsa ctactitnke fe Popintetinon ¢ Hearty uctOh owthe wit. Mic beris Somehow foe “Hage, Seed fo Tan and tn, Hons,  Than® Su...\nIF YOU DONOT RECEIVE ALL PAGES OR FIND IT GARBLED OR PART OF THE TEXT MISSING, PLS CONTACT US SOONEST FOR A TRANSMISSION AGAIN, ‘THANKS, HEEEIEEELECEE EERE HELE EEE eRe EE EEoeeee hOhZ00h0S2_0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h0h"
+  "company": "PHILIP MORRIS KOREA INC",
+  "location": "SEOUL",
+  "fax_number": "02-775-9780",
+  "telephone_number": "02-775-9777",
+  "delivery_to": {
+    "name": "Susan Ho",
+    "title": "MS."
+  },
+  "sender": "Jeanhee Rob",
+  "cc": "MY.DoHas",
+  "destination": "PMAI",
+  "conorote": "Conorote",
+  "pages_to_follow": "PAGES TO FOLLOW",
+  "date": "1678",
+  "subject": "REMARKS",
+  "remarks": "Susan Finally we.  hod.. th.. suryeytonsloted. Tnto..Snglish... Th frtk..o pages are.\"Smoking thcident\" Surveyed.",
+  "receiving_operator": "2504002404",
+  "note": "IF YOU DO NOT RECEIVE ALL PAGES OR FIND IT GARBLED OR PART OF THE TEXT MISSING, PLS CONTACT US SOONEST FOR A TRANSMISSION AGAIN. THANKS."
 }

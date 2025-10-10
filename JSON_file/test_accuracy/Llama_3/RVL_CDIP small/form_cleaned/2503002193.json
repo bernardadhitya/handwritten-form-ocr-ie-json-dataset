@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nPHILIP MORRIS INTERNATIONAL INC Vieguk anowestonsren venue ve enone hen THERON Es Qregud ILE COVER SH! DRLOIQ, Sak lawn COMPANY:\nFROM: MARK M. MUSE LATIN AMERICA REGION - CORPORATE AFFAIRS DIRECT TEL # - 914-335-7354 PAX # ~ 914-335-7928 JESU EEE EEE EES IIS ISITE EIU IIS III III III II ik oo DL bo (19 won RADL Here athe lad ye..."
+  "company": "PHILIP MORRIS INTERNATIONAL INC.",
+  "address": "800 WESTCHESTER AVENUE.RYE BROOK, N.Y. 10573-1301",
+  "telephone": "(914)335-5000",
+  "facsimile_cover_sheet": {
+    "from": "MARK M.MUSE",
+    "department": "LATIN AMERICA REGION - CORPORATE AFFAIRS",
+    "direct_tel": "(914)335-7354",
+    "fax": "(914)335-7928",
+    "date": "0 6,1993",
+    "pages_including_cover": "PJl Nerest",
+    "notes": "Oe 2503002193"
+  }
 }

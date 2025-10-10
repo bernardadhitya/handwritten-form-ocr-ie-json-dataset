@@ -1,3 +1,66 @@
 {
-    "error": "Blockwise quantization only supports 16/32-bit floats, but got torch.uint8"
+  "company": null,
+  "contract": {
+    "name": "RETAIL PARTNERS MARKETING PLAN CONTRACT",
+    "type": null
+  },
+  "taxpayer_information": {
+    "corporation_name": null,
+    "corporation_exempt": null,
+    "sole_proprietor_name": null,
+    "sole_proprietor_business_name": null,
+    "ein": null,
+    "address": {
+      "street": null,
+      "city_state_zip": ""
+    }
+  },
+  "certification": {
+    "penalty_of_perjury": null,
+    "backup_withholding": false
+  },
+  "store_information": {
+    "store_name": null,
+    "rjr_account_no": null,
+    "street_address": "3sm",
+    "city_state": "St",
+    "zip_code": null,
+    "rjr_territory_no": null,
+    "classification": null,
+    "brand_chain": "13250000",
+    "current": null,
+    "rjr_vol": "",
+    "type": null,
+    "monthly_payment": null,
+    "total_quarterly": null,
+    "dollar_amount": null,
+    "si": null,
+    "total": null
+  },
+  "contract_details": {
+    "date_signed": null,
+    "signature": null,
+    "title": "M-",
+    "contract_effective_date": null,
+    "function": null,
+    "contract_type": null,
+    "units": null,
+    "rate": null,
+    "mo_yr": null,
+    "function_a": null,
+    "nw": null,
+    "pack": null,
+    "s": null,
+    "e3": null,
+    "a_add": null,
+    "p": "P",
+    "e": null,
+    "end": null,
+    "prp": null,
+    "delete": "=DELETE",
+    "049": null,
+    "c_change": null,
+    "item_no": null,
+    "form": null
+  }
 }

@@ -1,3 +1,56 @@
 {
-    "error": "Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  "Date": "12/15/95",
+  "To": "Leo",
+  "From": "RJ.Di - 00 0",
+  "Subject": "COMPETITIVE ACTIVITY - Riviera",
+  "Geography": {
+    "PrimaryDistributionFocus": [
+      "Entire Division"
+    ],
+    "RSMReporting": {
+      "EntireRegion": null,
+      "DivisionsInvolved": []
+    }
+  },
+  "DistributionByClassOfTrade": {
+    "BOX": {
+      "Supermarket": 0,
+      "Drug": 0,
+      "Convenience": 0,
+      "Discount": 0,
+      "Grocery": 0,
+      "CigaretteStore": 0,
+      "Gas": 0,
+      "Liquor": 0,
+      "Membership": 0,
+      "Military": 0,
+      "Other": 0
+    },
+    "SOFT": {
+      "Supermarket": 0,
+      "Drug": 0,
+      "Convenience": 0,
+      "Discount": 0,
+      "Grocery": 0,
+      "CigaretteStore": 0,
+      "Gas": 0,
+      "Liquor": 0,
+      "Membership": 0,
+      "Military": 0,
+      "Other": 0
+    },
+    "KS": {
+      "Supermarket": 100,
+      "Drug": 2,
+      "Convenience": 2.8,
+      "Discount": 9,
+      "Grocery": 3.5,
+      "CigaretteStore": 15.4,
+      "Gas": 1.7,
+      "Liquor": 0,
+      "Membership": 0,
+      "Military": 0,
+      "Other": 1.9
+    }
+  }
 }

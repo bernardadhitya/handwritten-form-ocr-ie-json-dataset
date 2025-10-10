@@ -1,4 +1,40 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nINBIFO Institut fr biologische Forschung GmbH - Kéin 2OKWS7 NDAIMWO XAMWOGAAMENDIAND_5342.D0C, /Study Plan Amendment: P - /5342 IChange-No.: 1 * /es xno ‘Ames, Single Blends Study Director: TME Date o...\nThe MSC will be dosed at 0.05, 0.10, 0.20, and 0.40 mg dry condensate/plate. The controls for the assay will be taken from the parallel running study P -/3280.\n‘Change: In addition, the MSC of the test cigarette X6DSRN will be prepared and assayed.\n‘Consequences of Change and Measures to be Take! information of teams AC and IT p.to.\nNumber is assigned by study director.\nDecision by study director Beso9esoseo 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0."
+  "institution": "INBIFO Institut fur biologische Forschung GmbH",
+  "document": {
+    "reference": "20.KW97NDA/MWO X:\\MWO\\QAAMEND\\AND_5342.DOC",
+    "studyPlanAmendment": "P-/5342",
+    "changeNumber": "11",
+    "majorChange": "yes",
+    "shortTitle": "Ames,Single Blends",
+    "studyDirector": "TME",
+    "dateOfStudyPlanApproval": "3 Nov.97",
+    "authorOfChange": "TME",
+    "dateSubmitted": "30Jan.98",
+    "subject": "Additional testing of MSC of X6D5RN",
+    "reasonsForChange": "Due to client's request pers. comm.by FTE,28 Jan.98",
+    "changeDescription": "In addition, the MSC of the test cigarette X6D5RN will be prepared and assayed.",
+    "testCigarette": {
+      "name": "X6D5RN",
+      "synonym": "168,000 cigarettes received on 12 Mar.95,INBIFO code K 186,base-web sheet ofCDL",
+      "quantity": null,
+      "receivedDate": "12 Mar.95",
+      "inbifoCode": "K 186",
+      "baseWebSheet": "CDL"
+    },
+    "mscDosing": {
+      "doses": [
+        "0.05",
+        "0.10",
+        "0.20",
+        "0.40"
+      ],
+      "unit": "mg dry condensate/plate"
+    },
+    "controls": "taken from the parallel running study P -/3280",
+    "consequencesAndMeasures": "Information of teams AC and IT 2505366588 p.t.o.",
+    "additionalInfo": {
+      "numberAssignedByStudyDirector": "2505366588",
+      "decisionByStudyDirector": "p.t.o."
+    }
+  }
 }

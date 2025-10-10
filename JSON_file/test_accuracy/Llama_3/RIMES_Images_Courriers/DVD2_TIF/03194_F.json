@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nECOLE NATIONALE D'INGENIEURS FAX DESTECHNIQUESDESINDUSTRIE AGRICOLES ET ALIMENTAIF NOM DU SERVICE A I'attention de :\nNos réf. :\nSocieté: Treorerie ces mpot :\nVos réf. :\nDossier suivi par :\nN°defax: ol-6o-76-u3-33 Nombre de page(s) y compris celle ci : 3 Tél. :\nFax :\nDelapart de: Bruno F&EvUE Date: &-02-0+.\nE-Mail:\nObjet: Domade &e &mioe 28mrwt CODE S ENV8i : PTH JES Adrexe : 7 chow`n ow Gvelns.osts Freis Frof Tet i o 3-s 3-u7uJ-S2 Rue de la Géraudiere - BP 82225 - 44322 NANTES CEDEX 3 - France  Tél. : + 33 (0)...- 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 "
+  "document": "ECOLE NATIONALE D'INGENIEURS",
+  "scenario": "FAX",
+  "writer": "Bruno F&EvUE",
+  "sender_person": "Bruno F&EvUE",
+  "sender_company": "Treorerie ces mpot",
+  "sender_tel": "+ 33 (0)2 51 78 54 54",
+  "sender_fax": "+ 33 (0)2 51 78 54 55",
+  "receiver_person": "A I'attention de",
+  "receiver_company": "Ministere de I Agriculture",
+  "subject": "Domade &e &mioe",
+  "date": "02-02-200+",
+  "place": "Rue de la Géraudiere - BP 82225 - 44322 NANTES CEDEX 3 - France",
+  "box": "N°defax: ol-6o-76-u3-33"
 }

@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nEmission Telécopie I Expec teu.\nWuoF A Lelepiccnwavecparla De la oar de Des.rataire : L alaenien de Vo ce pageis. : 1 to-ho-h : alaH:ct PAGE DE GARDE Message :\nwne om wi wm Y m6) (z1-shH2:tv) (z1-shH2:tv) (z1-shH2:tv) (z1-shH2:tv) (z1-shH2:tv) (z1-shH2:tv) (z1-shH2:tv) (z1-shH2:tv) (z1-shH2:tv) (z1-shH2:tv) (z1-shH2:tv) (z1-shH"
+  "document": "Emission Telécopie",
+  "scenario": "I Expec teu.",
+  "writer": "WuoF A",
+  "sender_person": "Lelepiccnwavecparla",
+  "sender_company": "De la oar de",
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": "alaenien de",
+  "receiver_company": "Vo ce pageis.",
+  "subject": "PAGE DE GARDE",
+  "date": null,
+  "place": null,
+  "box": null
 }

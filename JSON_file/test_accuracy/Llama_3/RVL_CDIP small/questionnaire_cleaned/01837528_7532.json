@@ -1,4 +1,56 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nO whxtonat coustsus SueveYs sane + S01 Second Avenue pI BAA on (uo sesPORDENT PORTTOLIO AND TAKE IT BACK BEFORE CovTUMUIG.),~ ow, Tig Auke fo ank you « (av questions about the ade tb che Lock, Wet Sra...\nSinger Saving Machines Tester'a Cholce = Great, toochpasce ——~ 9 esghe Watchers ‘other (SPECIFY):\nsthap 6) Qe (GP WO CLGARETTE BRANDS MENTIONED ANOVE, ASK Q.20.2 on en - (GF GSUY ONE 08 TWO CLOARETTE SRANDS.vexTIONED, -SEiP ‘to Q.38.). 1°24 = (or ace [GEE] Cxeaaetse snwso§ vasTiobeD,- sez 70 G4.)...\nas = = SY tae beasde do-you camesbei saeing ade fort y Iie eile Coldee (onep.) Ele Coleen - ant Grete 16 6:10 (cr vows On \"rvo\" cicARETTE stanns mEvTtONED, ASK:\n- Bb; Do yourremeber tny ade for ny other branes of cigeesttes? cig), Tpimat brane vere chey? Any others? ee. (GE rave merowieo 18.9.2, 34,_OK 38, CONTIAUE.) (IP THOE NOT WENTIORED 1H Q:2, 34, 08-90,...)...\n\nThe text is a transcript of a conversation between two people, SueveYs and Tig Auke. The conversation is about a portfolio and a request to return it. The conversation is also about a request to specify certain brands of cigarettes mentioned in the article.\n\nQ.20.2: What are the two brands of cigarettes mentioned in the article?\nQ.38: What is the name of the company that manufactured the cigarettes?\nQ.24: What is the name of the company that manufactured the cigarettes?\nQ.1: What is the name of the company that manufactured the cigarettes?\nQ.2: What is the name of the company that manufactured the cigarettes?\nQ.34: What is the name of the company that manufactured the cigarettes?\nQ.90: What is the name of the question number?\nQ.18.9.2: What is the date of the question?\nQ.38: What is the name of the company that manufactured the cigarettes?\nQ.38: What is the name of the company that manufactured the cigarettes?\nQ.38: What is the name of the company that manufactured the cigarettes?\nQ.38: What is the name of the question number?\nQ.38: What is the name of the company that manufactured the cigarettes?\nQ.38: What is the name of the company that manufactured the cigarettes?\nQ.38: What is the name of the company that manufactured the cigarettes?\nQ.38: What is the name of the question number?\nQ.38: What is the name of the company that manufactured the cigarettes?\nQ.38: What is the name of the company that manufactured the cigarettes?\nQ.38: What is the name of the company that manufactured the cigarettes?\nQ.38: What is the name of the question number?\nQ.38: What is the name of the company that manufactured the cigarettes?\nQ.38: What is the name of the company that manufactured the cigarettes?\nQ.38: What is the name of the company that manufactured the cigarettes?\nQ.38: What is the name of the question number?\nQ.38: What is the name of the company that manufactured the cigarettes?\nQ.38: What is the name of the company that manufactured the cigarettes?\nQ.38: What is the name of the company that manufactured the cigarettes?\nQ.38: What is the name of the question number?\nQ.38: What is the name of the company that manufactured the cigarettes?\nQ.38: What is the name of the"
+  "title": null,
+  "address": {
+    "street": null,
+    "city": null,
+    "state": null,
+    "zip": "10017"
+  },
+  "phone": "c061-961",
+  "instructions": null,
+  "questions": [
+    {
+      "question": null,
+      "note": null,
+      "categories": [
+        null,
+        null
+      ],
+      "brands": [
+        null,
+        null,
+        "BankAmericard/VISA",
+        null,
+        "Golden Lights",
+        null,
+        null,
+        null,
+        null,
+        null,
+        "CocaCola",
+        null,
+        "Concord Watches",
+        "Taster's Choice",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "question": "Do you remember any ads for cigarettes?",
+      "brands": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "question": null,
+      "brands": [
+        null,
+        null,
+        null
+      ]
+    }
+  ]
 }

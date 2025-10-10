@@ -1,4 +1,30 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nU.S.A.\nPHILIP MORRIS USA MEDIA DEPARTMENT 120 PARK AVENUE, NEW YORK CITY 10017 PHONE: (212) 878-2481 FAX: (212) 907-$313 To ——sot_PRam@ie BArTMeE Times Fax Yio - 242 - 1627 From Renee SIMONS telth eatery 3 C...\npanying it) may contala Hoo - “We WaBO:r@ 86, 72 OM Z909L}7802 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+  "company": "PHILIP MORRIS USA",
+  "department": "MEDIA DEPARTMENT",
+  "address": {
+    "street": "120PARK AVENUE",
+    "city": "NEW YORK CITY",
+    "zip": "10017"
+  },
+  "contact": {
+    "phone": "212878-2481",
+    "fax": "212907-5313"
+  },
+  "recipient": {
+    "name": "BRAMBLE",
+    "to": "Joy",
+    "location": "BALTIMORE",
+    "fax": "-01n 243 - 1627"
+  },
+  "sender": {
+    "name": "SNOwIS",
+    "from": "RENeE"
+  },
+  "totalPages": 3,
+  "comments": "Commeats B e confidential information belonging to te sender. The informaton is intended only for pn n o pw A p sn acton in rellance of the contenta of ths infomaton i stricty prohibitmd by law. H you arranga for the return of the documents. Thank you.",
+  "documentInfo": {
+    "page": "P.1/3",
+    "code": "0408PMP.M.-C0H",
+    "date": "MAR2498"
+  }
 }

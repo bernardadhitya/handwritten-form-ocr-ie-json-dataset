@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nA oe Coline (e 20 dgoria 2007, és anc G6 brs ewe de Brest 26200e%e blanc 02-40 -64:58 ‘OS réfirenc clien!. XINZC6S Boney wo débeb Lyonnerss place ME le pose 7 S6 30d, Mu n lee clladome, Mersiecc tae c... (Translation: A young woman from Dorset, England, born in 2007, is a G6 model from Brest, France, with 02-40 -64:58 ‘OS réfirenc clien!. XINZC6S Boney wo débeb Lyonnerss place ME le pose 7 S6 30d, Mu n lee clladome, Mersiecc tae c...)\n\nThe text is written in a mix of English and French, and appears to be a jumbled collection of words and phrases. However, if we extract the structured information, we can identify the following:\n\n* Name: A young woman\n* Birth year: 2007\n* Nationality: English\n* Birthplace: Dorset, England\n* Profession: G6 model\n* Location: Brest, France\n* Date of birth: 02-40 -64:58 (this appears to be a date in the format of a latitude and longitude coordinate)\n* Social media handle: XINZC6S Boney\n* Place of residence: Lyonnerss place ME\n* Occupation: Model\n* Location of work: Mu n lee clladome, Mersiecc tae c...\n\nHere is the structured JSON output:\n\n```json\n{\n  \"name"
+  "document": "u!7 pnvs9o7 R",
+  "scenario": "Pe20 srie 2007, Lellanc",
+  "writer": null,
+  "sender_person": "Banoty",
+  "sender_company": "Zyonncis",
+  "sender_tel": "029069:98-09",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "date": null,
+  "place": "place 'T la po",
+  "box": "56 190dapai Mu zillac"
 }

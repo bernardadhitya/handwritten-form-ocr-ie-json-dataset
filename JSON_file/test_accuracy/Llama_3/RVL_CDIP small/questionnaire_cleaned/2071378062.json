@@ -1,3 +1,51 @@
 {
-    "error": "Expecting ',' delimiter: line 88 column 10 (char 1956)"
+  "contest": {
+    "prize": "$25,000 U.S. Savings Bond",
+    "deadline": "January 31, 1991",
+    "eligibility": "All replies are eligible for our drawing, if received on or before January 31, 1991."
+  },
+  "participant": {
+    "name": "Mr. John Extralongname",
+    "address": {
+      "street": "1234 Main Street",
+      "city": "New York",
+      "state": "99999",
+      "zip": "99999"
+    }
+  },
+  "survey": {
+    "questions": [
+      {
+        "question": "What is your regular brand of cigarettes?(Full Brand Name}"
+      },
+      {
+        "question": "About how long have you smoked this brand?"
+      },
+      {
+        "question": "Is your regular brand...?"
+      },
+      {
+        "question": "Are any of these words on your pack?"
+      },
+      {
+        "question": "your regular brand was not aailable at the store. which other brands would you consider buying?"
+      },
+      {
+        "question": "Please tell us about yourself."
+      },
+      {
+        "question": "In which of the following hobbies/interests do you frequently participate"
+      }
+    ],
+    "signature": "Signature (required)",
+    "return_instructions": "Please relurn your completed survey by 1/31/9l in order to be eligible to win. Thank you."
+  },
+  "contact": {
+    "phone": "2071378062"
+  },
+  "company": {
+    "name": "Benson & Hedges",
+    "year": "1990"
+  },
+  "notes": "yu wool ot to ceve ofs  Besn  Heges inth fu siml witt lo us a Benso & Hd, 0 B 240 Kante  60902"
 }

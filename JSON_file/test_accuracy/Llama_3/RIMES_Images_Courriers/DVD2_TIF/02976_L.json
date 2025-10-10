@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nMmha 7o kn dn Ytd 5r f2o om MANIF Aswuanies 03.20-2- 99-51 13 Plae 29 l90 LEN NON n c rm Q t3.20-2- 99-51 13 Plae 29 l90 2.0 2.0 2.0 2.0 2.0 2.0 2.0 2.0 2"
+  "document": "MANIF",
+  "scenario": "Aswuanies",
+  "writer": null,
+  "sender_person": null,
+  "sender_company": null,
+  "sender_tel": "03.20-2- 99-51",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "date": null,
+  "place": "13 Plae 29 l90 LEN NON",
+  "box": null
 }

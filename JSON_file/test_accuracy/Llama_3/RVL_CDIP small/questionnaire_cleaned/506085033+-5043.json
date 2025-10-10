@@ -1,3 +1,118 @@
 {
-    "error": "Blockwise quantization only supports 16/32-bit floats, but got torch.uint8"
+  "company": null,
+  "study_number": null,
+  "address": {
+    "street": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "phone": null,
+  "date": null,
+  "validation_number": null,
+  "master": null,
+  "concept_test": null,
+  "telephone_screening_questionnaire": {
+    "quota_box": {
+      "age": null,
+      "usual_brand": [
+        {
+          "type": null,
+          "code": null,
+          "range": null
+        },
+        {
+          "type": "Low Tar",
+          "code": "LT",
+          "range": "2A4"
+        },
+        {
+          "type": null,
+          "code": "ULT",
+          "range": null
+        }
+      ],
+      "sizes": [
+        null,
+        null
+      ],
+      "mac": "MAC155"
+    },
+    "date": null,
+    "time_started": null,
+    "time_completed": null,
+    "total_time_in_minutes": null,
+    "respondent": {
+      "name": null,
+      "street_address": null,
+      "telephone": null,
+      "city": null,
+      "state": null,
+      "zip": "5033"
+    },
+    "interviewer": null,
+    "introduction": "Hello, I'm with Dennis and Company, a national marketing research company. We are conducting a survey in this area and would like to include you or someone in your household among the people we are talking to. May I speak to a male age 18 or over?",
+    "respondent_availability": {
+      "available": null,
+      "not_available": null,
+      "no_eligible_respondent": null
+    },
+    "termination_numbers": [
+      null,
+      null,
+      "03",
+      null,
+      null,
+      "06",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "33",
+      null,
+      null,
+      null,
+      null,
+      "18",
+      null,
+      null,
+      "21",
+      null,
+      null,
+      null,
+      null,
+      "26",
+      null,
+      null,
+      null,
+      "30",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "40",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "48",
+      null,
+      null
+    ]
+  },
+  "additional_info": {
+    "foronmn_bos": null,
+    "spash_cek": null,
+    "kf_hstci": null
+  }
 }

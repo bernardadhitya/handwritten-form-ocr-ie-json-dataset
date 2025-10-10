@@ -1,4 +1,30 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n2 <~ Confidential Philip Morris v. asc 3. oepartnent Ta. Semen ene 6. Lecation 5. Trode Kone Merufectureristritutor = None deicees city Storage Area = Ground (Crete ene code) GYD hove ceound Below Gro...\n@ 10, containers/storas Type (Cirete soe code) or26/09 ME tr Ue en mcrae teats seg Bik se sais alas Rb atl MAT ster comon vn due Se Yu —_ S Sh 70 zp Oo e Area ~ Building (cirete ene ead) Inside Buildi...\n17. snus vsae cous &.\n19. se conttdentiat cry fy 20. Usage Code (Circle coe code) WI Building Material VO Fuel casotinevoit We2 contractor Material Uo7 Hazardous waste Container capscity (Poundey ‘Average Deily Ancunt Stor..."
+  "case": "Philip Morris v.ABC",
+  "date": "01/25/89",
+  "facility": "Par-",
+  "manufacturer_distributor_name": "Other Comon Na",
+  "address": {
+    "state": null,
+    "zip": null
+  },
+  "storage_area": {
+    "ground": "8",
+    "building": "9"
+  },
+  "containers_storage_type": "A",
+  "storage_conditions": {
+    "pressure": "R",
+    "temperature": "2"
+  },
+  "maximum_containers_stored": "7",
+  "container_capacity_pounds": null,
+  "maximum_amount_stored_pounds": "22",
+  "average_daily_amount_stored_pounds": null,
+  "annual_usage_pounds": null,
+  "days_on_site": "365",
+  "use_confidential": "1",
+  "usage_code": "U01",
+  "comments": "2030138342",
+  "submitted_by": "Phooe",
+  "phone": "751-185"
 }

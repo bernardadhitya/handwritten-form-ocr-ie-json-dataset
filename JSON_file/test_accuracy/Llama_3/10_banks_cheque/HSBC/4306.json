@@ -1,4 +1,11 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nPremier CATE 06/05122 VAY Hasna Bahigaa Amari S$ 6318 2 I-AHS and Eighteen 18 2 I-AHS\nPremier CATE 06/05123 VAY Hasna Bahigaa Amari S$ 6318 2 I-AHS and Eighteen 18 2 I-AHS\nPremier C"
+  "Premier": "Premier",
+  "Date": "06/05122",
+  "Code": "VAY",
+  "Name": "Hasna Bahigaa Amari",
+  "Currency": "S$",
+  "Amount": "6318",
+  "Quantity": "2",
+  "Identifier": "I-AHS",
+  "Description": "and Eighteen"
 }

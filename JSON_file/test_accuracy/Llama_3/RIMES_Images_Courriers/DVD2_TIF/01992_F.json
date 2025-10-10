@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nEmission Télécopie :TRENOV OeIpRine Expéditeur Telecopic cnvoyec par la De la part de :\nsection BTSTC du lycée proh7 YqxO mhwoE:1U!s0 VAUCANSON älattention de : & icer Nb. de page(s) : 2 Date fHeure  : 15/01/07 Message :\nClottx aQ rompt bonca're AVENA ACTIUNS VATCAKSON FTUDES CONSEILS SEXTION TECINITEN SIPERIEUR 1ECHNICO-COMMERCIAI :\nsélectionnée par le conseil de la part de : 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+  "document": "Emission Télécopie",
+  "scenario": "TRENOV OeIpRine",
+  "writer": "section BTSTC du lycée",
+  "sender_person": "VAUCANSON",
+  "sender_company": null,
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": "& icer",
+  "receiver_company": null,
+  "subject": "Clottx aQ rompt bonca're",
+  "date": "15/01/07",
+  "place": null,
+  "box": "2"
 }

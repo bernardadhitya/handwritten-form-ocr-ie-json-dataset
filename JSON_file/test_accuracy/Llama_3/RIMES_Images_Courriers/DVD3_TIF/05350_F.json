@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nJELECROIx &oliele [Adresse],38 QUE DES ROHA1NS [Télécopie] [Site Web] Télécopie A: Un:uers &ale Hoble Télécopie :\nNombre de pages :3 Date: 2610u 1o3 Téléphone :\nobjet : Demande de remhosrsemeak cc :\nUrgent  Pour révision  Pour commentaires  Veuillez répondre  Veuillez recycler commentaires: Ereur dans le produr lioré  Erreur dans le format de la page  Erreur dans le format de la page  Erreur dans le format de la page  Erreur dans le format de la page  Erreur dans le format de la page  Erreur dans le format de la page  Erreur dans le format de la page  Erreur dans le format de la page  Erreur dans le format de la page  Erreur dans le format de la page  Erreur dans le format de la page  Erreur dans le format de la page  Erreur dans le format de la page  Erreur dans le format de la page  Erreur dans le format de la page  Erreur dans le format de la page  Erreur dans le format de la page  Erreur dans le format"
+  "document": "JELECROIx &oliele",
+  "scenario": "38 QUE DES ROHA1NS",
+  "writer": "A: Un:uers &ale Hoble",
+  "sender_person": null,
+  "sender_company": "JELECROIx &oliele",
+  "sender_tel": null,
+  "sender_fax": "Télécopie",
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "Demande de remhosrsemeak cc :",
+  "date": "2610u 1o3",
+  "place": null,
+  "box": null
 }

@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nVAvInAveys 1E HAUT &26-12.06 EVANNO BRi GiTTe 9 bon N LIEU DIT LE BoURG 6394O MARSAC EN LIVRADOIS Mbaolame, queae petils annonees et stant actuellement aumsi a vote ne Xoow gagne <sDe O77 feraa w plav...\nTue madame,moousieu e nows Aalatatons MeA B.5vanng 1.5. 1.5. 1.5. 1.5. 1.5. 1.5. 1.5. 1.5. 1.5. 1.5. 1.5. 1.5. 1.5. 1.5. 1.5. 1.5. 1.5. 1.5. 1.5. 1.5. 1.5. 1.5. 1.5. 1.5. 1.5. 1.5. 1.5. 1.5. 1.5. 1.5. 1."
+  "document": "VAvInAveys",
+  "scenario": "1E",
+  "writer": "HAUT",
+  "sender_person": "BRi GiTTe",
+  "sender_company": "9 bon N",
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": "Mbaolame",
+  "receiver_company": "queae petils annonees et stant actuellement",
+  "subject": "LIEU DIT LE BoURG",
+  "date": "6394O MARSAC EN LIVRADOIS",
+  "place": "6394O MARSAC EN LIVRADOIS",
+  "box": null
 }

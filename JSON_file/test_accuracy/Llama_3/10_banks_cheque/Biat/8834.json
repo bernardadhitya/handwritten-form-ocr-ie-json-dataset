@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n907043 ‘Holly Martin. aus Béraen D nr Ve Tree na Fetl de sesement and Ety ni +581:\nDet deropéotn  Signoture du client Guise Cacher er visa de Jo BAT.\n'Ve Tree na Fetl de sesement and Ety ni +581' is a reference to a specific location or object, but the text is written in a way that makes it difficult to extract the actual location or object. The text is written in a notarial act, a type of legal document that is often used in France. The text is written in a formal and somewhat archaic language, which makes it challenging to"
+  "transactionType": "VERSEMENTESPECES",
+  "bank": "BIAT",
+  "transactionNumber": "907043",
+  "recipient": "Milenko Tkalcic",
+  "address": "Neturerss larcwa",
+  "additionalInfo": "Hotly Martin",
+  "reference": "R.1.B.",
+  "totalAmount": "189",
+  "note": "Tlunfi and Ehty On",
+  "clientSignature": "Signature du cticnt",
+  "cashier": "Caisse",
+  "authorization": "Cocher ct visa de la AT",
+  "date": "06/05122"
 }

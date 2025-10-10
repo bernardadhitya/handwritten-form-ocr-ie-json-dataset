@@ -1,3 +1,32 @@
 {
-    "error": "Expecting ',' delimiter: line 40 column 5 (char 954)"
+  "company": null,
+  "contract_number": null,
+  "department": "Contract Research",
+  "telefax_message_no": null,
+  "telefax": "(0 22 03) 303-362",
+  "telephone": null,
+  "address": null,
+  "date": "April 22, 1998",
+  "from": {
+    "name": "Dr. D. Veltel",
+    "timestamp": "98-04-22 16:44 OUT"
+  },
+  "to": {
+    "name": null,
+    "position": "Manager, External Studies",
+    "company": null,
+    "address": null,
+    "telefax_no": null
+  },
+  "number_of_following_pages": null,
+  "report": {
+    "title": null,
+    "subject": null,
+    "method": null,
+    "project": null
+  },
+  "message": null,
+  "trade_register": null,
+  "general_manager": null,
+  "reference_number": null
 }

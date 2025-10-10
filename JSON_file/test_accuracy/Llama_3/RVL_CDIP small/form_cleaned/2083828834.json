@@ -1,4 +1,29 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nLP 2000 MARLBORO BAR PROGRAM CONTRACT TOP SHEET ommssm: _ JEAVNINE DOELFLER.\nMARKET: ATLANTA venuename: i A! Fe/E Lode VENUE ID Please check the appropriate box that will identify the type of club and the appropriate contract executed by club owner/manager:\nPleven []visipiuity [music [exe Please check the appropriate box regarding venue admission policy:\n[Jaots-p [aozt-p []pao-r Daois.v Gaoz Vv GMMISSM SIGN) vesszsesoz SELLIN —_  APPROVAL: —\" pate: 2 {2s ¢ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2"
+  "program": "2000 MARLBORO BAR PROGRAM",
+  "contractTopSheet": {
+    "gmmSsm": "JEANNINE DOERFLEL",
+    "location": "ATLANTA",
+    "market": "jlliE A THE lNAL1",
+    "venue": {
+      "name": "VENUE NAME",
+      "id": "ATL.CIOZ.LL"
+    },
+    "clubType": {
+      "visibility": "VISIBILITY",
+      "music": "MUSIC",
+      "rnb": "RNB"
+    },
+    "venueAdmissionPolicy": [
+      "AO18-P",
+      "A021-P",
+      "PAO-P",
+      "AO18-V",
+      "A021-V"
+    ],
+    "gmmSsmId": "2083828834",
+    "signature": "SELLIN",
+    "signatureDate": null,
+    "sellinApproval": "APPROVAL",
+    "sellinApprovalDate": null
+  }
 }

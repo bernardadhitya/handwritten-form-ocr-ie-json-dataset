@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nNol Jacquor 21-2-07 4 Chemn des yundr 1adims Z3N s77 huyo7 0SO LG TEl: 02-0G-59-82 -2 5 t07 Rne Scoltle 97220 santeHaue Objetr Demave de preoiron su vote demiere facu ReYtnu clenA: VJk VP 66 Swk ak1ac... (text truncated)\n\nThis text appears to be a corrupted or encoded message. The text is not readable due to the presence of characters that resemble a mix of letters and numbers, possibly indicating a substitution cipher or other encoding technique.\n\nHowever, if we were to extract structured information from the text, we might consider the following:\n\n* Date: 21-2-07\n* Location: Chemn des yundr 1adims Z3N s77\n* Phone number: 02-0G-59-82\n* Address: 97220 santeHaue\n* Object: Demave de preoiron\n* Purpose: Vote\n* Action: Demiere facu\n* Contact: ReYtnu clenA\n* Email: VJk VP 66 Swk ak1ac"
+  "document": "Nol Jacquor",
+  "scenario": null,
+  "writer": null,
+  "sender_person": "Nol Jacquor",
+  "sender_company": "Rne Scoltle",
+  "sender_tel": "02-0G-59-82 -2 5",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": "santeHaue",
+  "subject": "Objetr Demave de preoiron su vote demiere facu",
+  "date": "21-2-07",
+  "place": "4 Chemn des yundr 1adims",
+  "box": null
 }

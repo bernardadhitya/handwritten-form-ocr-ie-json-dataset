@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nAa& CA2ENAVE 21 nu d hlUnq 62io Anma1w'll Au auce N N A Ioo mS 32 mu luc 24 0lt Oljst: Nmnclls conalmn& 2anad Ky.(un5: cuxv23.\nfninhi oms cfnma d m tah d`eFo5linemcuL bancai C ai 1hc 77 lc Lymnai.\nP.J : nnurau RIB 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+  "document": "Aa& CA2ENAVE",
+  "scenario": "21 nu d hlUnq",
+  "writer": "Au auce",
+  "sender_person": "N N A",
+  "sender_company": "Ioo mS",
+  "sender_tel": "32 mu luc",
+  "sender_fax": "24 0lt",
+  "receiver_person": "Oljst: Nmnclls conalmn& 2anad",
+  "receiver_company": "Ky.(un5: cuxv23.",
+  "subject": "fninhi oms cfnma d",
+  "date": "m tah",
+  "place": "d`eFo5linemcuL bancai",
+  "box": "C ai 1hc"
 }

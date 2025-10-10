@@ -1,4 +1,402 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n* PERMANENTE MULTIPHASIC QUESTIONNAIRE PAST MEDICAL HISTORY ‘THIS FORM IS TO HELP YOUR DOCTOR GIVE YOU BETTER HEALTH CARE. IT 1S COMPLETELY CONFIDENTIAL AND WILL BE PART OF YOUR MEDICAL RECORD.\n9 ‘THIS PAGE CONTAINS QUESTIONS CONCERNING YOUR PAST MEDICAL HISTORY; THAT IS, MEDICAL CONDITIONS YOU HAD BEFORE ONE YEAR AGO.\nName PLEASE ANSWER EACH QUESTION AS CORRECTLY AS YOU CAN BY PLACING t [AN IN THE BOX UNDER YES.OR NO, BUT NOT IN BOTH.\nBefore one year ago had you ever had:\nFrequent, bad headaches? Dizzy spells so bad the room seemed to spin ‘around! Convulsions (fits)? Fsinting (black out uncon ells of weakness or paralysis of arms or Flea injrios bad enough to knock y...\n‘Drainage from or bad injury to the ear?....\nExposure to very loud noise for long periods? Trouble swallowing solid fo0ds?....\nTrouble swallowing liquids? Repeated pain (or tight feeling) in your chest? Frequent thumping or racing of the heart?...\ne@ Shortness of breath: 1 -\nat made you stop after climbing 10-14 steps? That awakened you from sleep? ee enerenne With wheezing (whistling) breathing? 000 oooooo ooo oooooo Before one year ago had you ever:\n‘Had a bad cough that lasted over three weeks?... [] °° (] Coughed up an ounce (2 tablespoons) of sputum a day for more than 2 Weeks? onrnmenesneneeee CJ 2° O] ¢ Coughed up any blood? a 6 ~ Had pain i...\n\"Nausea (sick to stomach) or vomiting?.\nHeartburn, indigestion or stomach Before one year ago had you ever had an} ‘Vomiting (throwing up) of blood?.\nBlood in your bowel movements’ Burning or pain when urinating (passing water)? Trouble starting urination? ven Loss of control of the bladder?....\nUrine which was bloody or olor of Hack eof ‘eatment for the genitals (private parts) 2.\nVenereal disease (gonorshes, sys, ee)? Large glands.(lumps,-swelling).n.your.neck?, oooooo0000 00 goooooo000 oo Large glands in your arm pits or in your groi re one year ago had you often had:\nn your back that was s0 bad you were not able to do your usual work? o# 9 your legs? oe 5 ions or boils? [he g oe bate Name:\nvon Au mR PLEASE ANSWER EACH QUESTION ves Before one year ago had you ever had Asthma? 7 jay fever? Chronic. bronchi Pneumonia? ‘Tuberculosis (TB)? ~ ‘TB skin test which was positive? An abnormal ches...\n\"ulmonary emphysema? vn Nervous, anxiety or tension conditions? Gallstones or gallbladder trouble! Liver disease (such as hepatitis)? Jaundice (yellow eyes or skin)? Stomach or duodenal ulcer?, Colo...\nInfection with.ameba, parasites or worms?..\nKidney or bladder stones?..\nidney disease (such as nephritis)? Kidney or bladder infection? ‘Anemia (low blood count)? Cancer or tumor? Bad arthritis or rheumatism of the joints? Gout? Diabetes (ugar dee)? Overactive thyroid (...\nThyroid goiter (swelling) 2..1.0m Have you ever had Malaria?....\nGerman measies (Rubella)? Measles? Mononucleosis? Mumps? em Herpes zoster (shi Polio? Rheumatic fever Scarlet fever? ‘Typhoid fever ooo00000 Ronsnmnonr nnannonoocooonooocoooooboo oO or condition?....\na 2.0m Have you ever had a stroke?.\na 2.0m Have you ever had a heart attack?.\na 2.0m Have you ever had a heart valve problem?.\na 2.0m Have you ever had a heart transplant?.\na 2.0m Have you ever had a pacemaker?.\na 2.0m Have you ever had a heart catheterization?.\na 2.0m Have you ever had a heart pacemaker?.\na 2.0m Have you ever had a heart pacemaker?.\na 2.0m Have you ever had a heart pacemaker?.\na 2.0m Have you ever had a heart pacemaker?.\na 2.0m Have you ever had a heart pacemaker?.\na 2.0m Have you ever had a heart pacemaker?.\na 2.0m Have you ever had a heart pacemaker?.\na 2.0m Have you ever had a heart pacemaker?.\na 2.0m Have you ever had a heart pacemaker?.\na 2.0m Have you ever had a heart pacemaker?.\na 2.0m Have you ever had a heart pacemaker?.\na 2.0m Have you ever had a heart pacemaker?.\na 2.0m Have you ever had a heart pacemaker?.\na 2.0m Have you ever had a heart pacemaker?.\na 2.0m Have you ever had a heart pacemaker?.\na 2.0m Have you ever had a heart pacemaker?.\na 2.0m Have you ever had a heart pacemaker?.\na 2.0m Have you ever had a heart pacemaker?.\na 2.0m Have you ever had a heart pacemaker?.\na 2.0m Have you ever had a heart pacemaker?.\na 2.0m Have you ever had a heart pacemaker?.\na 2.0m Have you ever had a heart pacemaker?.\na 2.0m Have you ever had a heart pacemaker?.\na 2.0m Have you ever had a heart pacemaker?.\na 2.0m Have you ever had a heart pacemaker?.\na 2.0m Have you ever had a heart pacemaker?.\na 2.0m Have"
+  "Permanente_Multiphasic_Questionnaire": {
+    "Date": null,
+    "Past_Medical_History": {
+      "Name": null,
+      "Birthdate": null,
+      "MR_Number": "",
+      "Questions": [
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": "Fainting (black out, unconscious) spells",
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": "Pneumonia?",
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": false
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": false,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": "Glaucoma?",
+          "Yes": null,
+          "No": false
+        },
+        {
+          "Question": "Trouble swallowing solid foods?",
+          "Yes": false,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": false,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": false,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": false,
+          "No": false
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": "A heart attack (coronary, angina, infarct)?",
+          "Yes": null,
+          "No": false
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": false
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": false,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": "Liver disease (such as hepatitis)?",
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": "Jaundice (yellow eyes or skin)?",
+          "Yes": null,
+          "No": false
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": "Had a bad cough that lasted over three weeks?",
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": "Coughed up an ounce (2 tablespoons) of sputum a day for more than 2 weeks?",
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": false
+        },
+        {
+          "Question": "Infection with ameba, parasites or worms?",
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": "Coughed up any blood?",
+          "Yes": null,
+          "No": false
+        },
+        {
+          "Question": "Kidney or bladder stones?",
+          "Yes": false,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": false
+        },
+        {
+          "Question": "Kidney or bladder infection?",
+          "Yes": false,
+          "No": false
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": false,
+          "No": null
+        },
+        {
+          "Question": "Nausea (sick to stomach) or vomiting?",
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": "Bad arthritis or rheumatism of the joints?",
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": false
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": "Vomiting (throwing up) of blood?",
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": "Blood in your bowel movements?",
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": false,
+          "No": false
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": false,
+          "No": null
+        },
+        {
+          "Question": "Treatment for the genitals (private parts)?",
+          "Yes": false,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": "Malaria?",
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": "German measles (Rubella)?",
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": "Mumps?",
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": false,
+          "No": null
+        },
+        {
+          "Question": "Herpes zoster (shingles)?",
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": "Scarlet fever?",
+          "Yes": null,
+          "No": false
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": false
+        },
+        {
+          "Question": "Pain in your back that was so bad you were not able to do your usual work?",
+          "Yes": false,
+          "No": null
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        },
+        {
+          "Question": "Skin infections or boils?",
+          "Yes": false,
+          "No": false
+        },
+        {
+          "Question": null,
+          "Yes": null,
+          "No": null
+        }
+      ]
+    }
+  }
 }

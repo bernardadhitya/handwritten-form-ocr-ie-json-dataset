@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nY Saval A6 s2 roued Claka O 6 39O RENDEJUN 1 04.15.98.01.70 olas Cormro OBJET- Ouvr1uu d co peu clat luteha do Y rv buouir w coupl dou Voto 1 Yous olouou d. ol Ko uac asw'u bduxnu p'oce uecossares Qus... (Translation: Y Saval A6 s2 roued Claka O 6 39O RENDEJUN 1 04.15.98.01.70 olas Cormro OBJET- Ouvr1uu d co peu clat luteha do Y rv buouir w coupl dou Voto 1 Yous olouou d. ol Ko uac asw'u bduxnu p'oce uecossares Qus...)\n\n## Step 1: Identify the structured information in the text\nThe text appears to be a jumbled collection of words and symbols, but upon closer inspection, it seems to be a coded message. However, the coded message itself does not contain any"
+  "document": "Y Saval",
+  "scenario": "A6 s2 roued Claka",
+  "writer": "O 6 39O RENDEJUN",
+  "sender_person": "olas",
+  "sender_company": "Cormro",
+  "sender_tel": "OBJET- Ouvr1uu d co",
+  "sender_fax": "peu clat",
+  "receiver_person": "luteha do",
+  "receiver_company": "Y rv",
+  "subject": "buouir w coupl dou Voto 1",
+  "date": "04.15.98.01.70",
+  "place": "Yous olouou d. ol",
+  "box": "Ko uac asw'u"
 }

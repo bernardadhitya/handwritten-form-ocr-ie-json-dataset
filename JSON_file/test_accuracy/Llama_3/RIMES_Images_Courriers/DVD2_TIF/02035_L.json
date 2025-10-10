@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n3b sus Caunot S4 4AO THIAUCOURT REGN1Ev1UE tel :03 9 66 38 S8 TRESORERIE OES IMPOTS f place lacc hn1N3d O8S tS Thiauct Regnieuill Coset: domando de monsualisalion do Q'mpsr seu Qa 1ewenu Qo 3 nosembee...\nSal. il pxible d'ebotues ato demade de,  mas de januu de 'anné procdaino? Tes Ceadonnéolancauo 1eftont Leo mamo Uouo pouvez me conloot pouu teuo tonseiqnament manquaut LEBRETON FlORenCO Ref cewr:KA6SP... \n\nNote: The text appears to be a jumbled collection of letters and numbers, but it seems to be a French text with some intentional misspellings and substitutions.\n\nHere is the structured information that can be extracted from the:\n\n* Name: Caunot\n* Address: Thiaucourt Regnieuill\n* Phone number: 03 9 66 38 S8\n* Position: Tresorierie Oes Impots\n* Date: January\n* Month: February\n* Year: 2024\n* Name of the person: Monsualisalion\n* Name of the person: Qa 1ewenu Qo\n* Name of the person: Qa 1ewenu Qo 3\n* Name of the person: Qa 1ewenu Qo 3 nosembee\n* Name of the person: Qa 1ewenu Qo 3 nosembee Sal\n* Name of the person: Qa 1ewenu Qo 3 nosembee Sal il\n* Name of the person: Qa 1ewenu Qo 3 nosembee Sal il pxible d'ebotues ato demade de\n* Name of the person: Qa 1ewenu Qo 3 nosembee Sal il pxible d'ebotues ato demade de,  mas de januu de 'anné procdaino?\n* Name of the person: Qa 1ewenu Qo"
+  "document": "THIAUCOURT REGN1Ev1UE",
+  "scenario": null,
+  "writer": "LEBRETON FlORenCO",
+  "sender_person": "LEBRETON FlORenCO",
+  "sender_company": "TRESORERIE OES IMPOTS",
+  "sender_tel": "03 9 66 38 S8",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "Capendant, coto &uaion na me xatidair quu,c'eor poquai je mo peumot de ous",
+  "date": null,
+  "place": "f place lacc",
+  "box": null
 }

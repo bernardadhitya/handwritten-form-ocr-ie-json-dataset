@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nBEuANGER Christi@ne f8 ne Kleber THAUN le 12f&vies 2ao7 NNDHL 008 89 03.16.30.13.16 NNA Assur@nces A qiace aux Herbes g1 3sO 6R16Ny ohiet : demande de dacumentatio rbiseur Ayant qaur prqiet d'acqu&ir...\nBELLANGER chnSti@ne f8 ne Kleber THAUN le 12f&vies 2ao7 NNDHL 008 89 03.16.30.13.16 NNA Assur@nces A qiace aux Herbes g1 3sO 6R16Ny ohiet : demande de dacumentatio rbiseur Ayant qaur prqiet d'acqu&ir...\nBONNEAU Pierre f8 ne Kleber THAUN le 12f&vies 2ao7 NNDHL 008 89 03.16.30.13.16 NNA Assur@nces A qiace aux Herbes g1 3sO 6R16Ny ohiet : demande de dacumentatio rbiseur Ayant qaur prqiet d'acqu&ir...\nBONNEAU Pierre f8 ne Kleber THAUN le 12f&vies 2ao7 NNDHL 008 89 03.16.30.13.16 NNA Assur@nces A qiace aux Herbes g1"
+  "document": "Lettre manuscrite",
+  "scenario": null,
+  "writer": "BELLANGER Christiane",
+  "sender_person": null,
+  "sender_company": null,
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": null,
+  "date": null,
+  "place": null,
+  "box": null
 }

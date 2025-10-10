@@ -1,10 +1,61 @@
 {
-    "name": "RD",
-    "age": 40,
-    "gender": "female",
-    "cigarette_smoking": "yes",
-    "cigarette_smoking_frequency": 5,
-    "food_shopping": "yes",
-    "airline_travel": "yes",
-    "age_group": "40-49"
+  "company": "COMMUNICUS,INC.",
+  "gender": "Male",
+  "age": 51,
+  "location": "Milwau.ee",
+  "project": "Project LLD-6",
+  "additional_info": [
+    "Female",
+    "-2",
+    "Syracuse",
+    "-2",
+    "GROUPB-",
+    "Omaha",
+    "-3",
+    "pxil,1978",
+    "AM"
+  ],
+  "name": "NAME",
+  "address": "ADDRES",
+  "city_town": "CITY/TOW.",
+  "telephone": "TELEPHONE",
+  "interviewed": "INTERVIEWED",
+  "validated_by": "VALIDATED BY",
+  "survey_intro": "Hello,I'm conducting a survey and would like to include you.",
+  "questions": [
+    {
+      "question": "la. Do you smoke filter, non-menthol cigarettes?",
+      "answers": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "question": "b. How many cigarettes do you usually smoke per day?",
+      "answers": [
+        "6-0",
+        "Between 10 and 15",
+        "16to25",
+        "More than 25"
+      ]
+    },
+    {
+      "question": "Which of the following statements apply to you?",
+      "answers": [
+        "A. I eat dinner in a restaurant at least once a month.",
+        "B. I read a daily newspaper.",
+        "C. I do most of the food shopping for myself and/or my family.",
+        "D. I have taken an airline trip on a scheduled commercial airline in the past 12 months."
+      ]
+    },
+    {
+      "question": "Into which of the following age groups do you fall?",
+      "answers": [
+        "Under21",
+        "21-34",
+        "35+"
+      ]
+    }
+  ],
+  "reference_number": "84460684"
 }

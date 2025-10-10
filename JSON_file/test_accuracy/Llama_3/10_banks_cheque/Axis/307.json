@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nAXIS BANKD 060522 RAAANWOO PAY Hasna Bahiyaa Amari CA SEAER RUPE Nine Thousand Dine Hundred and Serenty Nine bhe 666 ACNO 06545409840159404564 SAM426160 000307 50020242616031 000307 50020242616031 000307 50020242616031 000307 50020242616031 000307 50020242616031 000307 50020242616031 000307 50020242616031 000307 50020242616031 000307 50020242616031 000307 50020242616031 000307 500202"
+  "bank": "AXIS BANK",
+  "date": "060522",
+  "transaction_code": "RAAANWOO",
+  "payee": "Hasna Bahiyaa Amari",
+  "account_type": "CA SEAER",
+  "currency": "RUPE",
+  "amount_in_words": "Nine Thousand Dine Hundred and Serenty Nine",
+  "amount_in_numbers": "666",
+  "branch_code": "06545409840159404564",
+  "account_number": "SAM426160",
+  "transaction_id": "000307",
+  "reference_number": "50020242616031",
+  "customer_id": null
 }

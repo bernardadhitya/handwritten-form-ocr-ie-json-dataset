@@ -1,4 +1,78 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nMPI QUESTIONNAIRE JOB #92-7-3014 & PLEASE FILL OUT ALL INFORMATION BELOW AND RETURN TO RECEPTIONIST.\nNAME: _ASZcs we Par 3, C9- sR 4. What is your age? Pa O96 & 2. How many packs of cigarettes do you smoke in an average day? __/<— 3. What is your regular brand of cigarettes ~- that is, the brand you...\n(77 fitor ) menthol yo ‘ () non-fitter (J non-mentho! 5 (7 king (_ ) full-flavor ( ) 100's (), medium ( ) 120's (-T light (mild) () ultra Tight 5. Do you purchase your regular brand of cigarettes in....\n)_ soft pack UAT box 6. Do you purchase your regular brand of cigarettes most often by the...\n) pack ( (+-Y carton 7. Are you currently employed? (TYES... Is that.. (°F ful time (NO () part time What is your occupation? What type of company do you work for? ize wy 10, 8. Do you, or does anyo... 9. Do you, or does anyo... 11. Do you, or does anyo... 11. Do you, or does anyo... 12. Do you, or does anyo... 13. Do you, or does anyo... 14. Do you, or does anyo... 15. Do you, or does anyo... 16. Do you, or does anyo... 17. Do you, or does anyo... 18. Do you, or does anyo... 19. Do you, or does anyo... 20. Do you, or does anyo... 21. Do you, or does anyo... 22. Do you, or does anyo... 23. Do you, or does anyo... 24. Do you, or does anyo... 25. Do you, or does anyo... 26. Do you, or does anyo... 27. Do you, or does anyo... 28. Do you, or does anyo... 29. Do you, or does anyo... 30. Do you, or does anyo... 31. Do you, or does anyo... 32. Do you, or does anyo... 33. Do you, or does anyo... 34. Do you, or does anyo... 35. Do you, or does anyo... 36. Do you, or does anyo... 37. Do you, or does anyo... 38. Do you, or does anyo... 39. Do you, or does anyo... 40. Do you, or does anyo... 41. Do you, or does anyo... 42. Do you, or does anyo... 43. Do you, or does anyo... 44. Do you, or does anyo... 45. Do you, or does anyo... 46. Do you, or does anyo... 47. Do you, or does anyo... 48. Do you, or does anyo... 49. Do you, or does anyo... 50. Do you, or does anyo... 51. Do you, or does anyo... 52. Do you, or does anyo... 53. Do you, or does anyo... 54. Do you, or does anyo... 55. Do you,"
+  "questionnaire": {
+    "job_number": null,
+    "instructions": null,
+    "questions": [
+      {
+        "question_number": 1,
+        "question_text": "What is your age?"
+      },
+      {
+        "question_number": null,
+        "question_text": null
+      },
+      {
+        "question_number": null,
+        "question_text": null
+      },
+      {
+        "question_number": null,
+        "question_text": null,
+        "options": [
+          null,
+          null,
+          "non-filter",
+          "non-menthol",
+          "king",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "question_number": null,
+        "question_text": null,
+        "options": [
+          null,
+          "box"
+        ]
+      },
+      {
+        "question_number": null,
+        "question_text": null,
+        "options": [
+          "YES",
+          null
+        ],
+        "sub_questions": [
+          {
+            "question_text": null,
+            "options": [
+              "full time",
+              null
+            ]
+          }
+        ]
+      },
+      {
+        "question_number": null,
+        "question_text": null
+      },
+      {
+        "question_number": null,
+        "question_text": null
+      },
+      {
+        "question_number": null,
+        "question_text": null,
+        "options": [
+          "YES",
+          null
+        ]
+      }
+    ]
+  }
 }

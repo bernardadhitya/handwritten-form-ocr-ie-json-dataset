@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nGoLp and LigBENGooD Suite 850 1455 PENNSYLVANIA AVENUE, N. W.\nWASHINGTON, D. C, 20004 (202) 639-8899 Fax (202) 639-8972 EAX COVER SHEET PLEASE DELIVER THE FOLLOWING “A To:\n+h a FROM:\nDATE:\nFAX NUMBER:\nNUMBER OF PAGES: LL {Including Cover) MESSAGE:\nIf you do not receive the entire fax, please contact us at (202) 639-8899, 989ESLPL0z\nThe following information is required to process your fax:\n1. Name of the person to whom the fax is addressed:\n2. Name of the person who is sending the fax:\n3. Name of the person who is receiving the fax:\n4. Name of the person who is sending the fax:\n5. Name of the person who is receiving the fax:\n6. Name of the person who is sending the fax:\n7. Name of the person who is receiving the fax:\n8. Name of the person who is sending the fax:\n9. Name of the person who is receiving the fax:\n10. Name of the person who is sending the fax:\n11. Name of the person who is receiving the fax:\n12. Name of the person who is sending the fax:\n13. Name of the person who is receiving the fax:\n14. Name of the person who is sending the fax:\n15. Name"
+  "company": "GOLD AND LIEBENGOOD",
+  "suite": "SUITE 950",
+  "address": "455 PENNSYLVANIA AVENUE,N.W. WASHINGTON,D.C.20004",
+  "phone": "(202)639-8899",
+  "fax": "(202)639-8972",
+  "fax_cover_sheet": {
+    "please_deliver_to": "PLEASE DELIVER THE FOLLOWING PAGES TO:",
+    "from": null,
+    "date": null,
+    "fax_number": null,
+    "number_of_pages": "Including Cover",
+    "message": "2074153686 If you do not receive the entire fax,please contact us at (202) 639-8899."
+  }
 }

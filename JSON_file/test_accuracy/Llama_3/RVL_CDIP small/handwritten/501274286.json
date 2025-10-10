@@ -1,17 +1,75 @@
 {
-    "Male": {
-        "te-34": "Mole",
-        "35+": "a3"
-    },
-    "Female": {
-        "18-34": {
-            "Famele": "12",
-            "Flava LT": "13",
-            "Mader": "18-34"
+  "Incidence": {
+    "Full Flavon Malo": {
+      "18-34": {
+        "Males": {
+          "Count": 24,
+          "Rate": ".12"
         },
-        "38+": {
-            "Females": "12",
-            "Fue Flaver": "14"
+        "Females": {
+          "Count": 23,
+          "Rate": ".02"
         }
+      },
+      "35+": {
+        "Males": {
+          "Count": 15,
+          "Rate": ".04"
+        },
+        "Females": {
+          "Count": 12,
+          "Rate": ".02"
+        }
+      }
+    },
+    "Full Flawon LT": {
+      "18-34": {
+        "Males": {
+          "Count": 13
+        }
+      },
+      "35+": {
+        "Males": {
+          "Count": 15
+        },
+        "Females": {
+          "Count": 12
+        }
+      }
+    },
+    "fE-81 myowny": {
+      "18-34": {
+        "Males": {
+          "Count": 1
+        }
+      },
+      "35+": {
+        "Females": {
+          "Count": 12
+        }
+      }
     }
+  },
+  "Full Flavor": {
+    "Total": 125,
+    "Percentage": "59%"
+  },
+  "Full Flawon LowTor": {
+    "Total": 89,
+    "Males": {
+      "Count": 75,
+      "Percentage": "60%"
+    },
+    "Females": {
+      "Count": 50
+    }
+  },
+  "tE-81": {
+    "Total": 501274286,
+    "Percentage": "0s"
+  },
+  "35+": {
+    "Total": 62
+  },
+  "Critical incidence": 501274286
 }

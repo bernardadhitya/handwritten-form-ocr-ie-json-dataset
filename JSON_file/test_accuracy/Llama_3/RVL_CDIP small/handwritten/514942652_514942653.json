@@ -1,3 +1,54 @@
 {
-    "error": "Expecting ',' delimiter: line 35 column 6 (char 712)"
+  "date": "October 19, 1989",
+  "recipient": {
+    "name": "Jim",
+    "department": "Genetic Toxicology",
+    "organization": "Hazleton Laboratories America",
+    "address": {
+      "street": "5516 Nicholson Lane",
+      "suite": "400",
+      "city": "Kensington",
+      "state": "MD",
+      "zip": "20895"
+    }
+  },
+  "greeting": "Dear Jim:",
+  "body": {
+    "introduction": "Please find enclosed the following samples to be tested in our SCE program:",
+    "samples": [
+      {
+        "name": "SC-IC-7",
+        "value": 136.8
+      },
+      {
+        "name": "SC-IC-8",
+        "value": 143.9
+      },
+      {
+        "name": "SC-IC-9",
+        "value": 147.0
+      },
+      {
+        "name": "SC-IC-10",
+        "value": 168.4
+      },
+      {
+        "name": "SC-IC-11",
+        "value": 171.1
+      }
+    ],
+    "contact": "If you have any questions concerning these samples, please contact me at your convenience.",
+    "request": "Again, I would appreciate a copy of the draft reports on this series of samples as you complete them."
+  },
+  "closing": "Sincerely",
+  "sender": {
+    "name": "ohnnie R. Hayes Ph.D.",
+    "title": "Master Toxicologist"
+  },
+  "initials": "JRH",
+  "cc": "R.L. Suber",
+  "enclosures": [
+    "IVETT2.doc",
+    "51494"
+  ]
 }

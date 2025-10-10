@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n_--__ Flavor. satus Ar Gouran CT 6a -142 (ioe Me) war esawated oh devo billecent —__ _Nevelo Wile asad 2 S the + Tne Newoc was My ated —_] ©. subetoude comkeining 1% Che. B%e GCA. aud _.\npr%e OB. fn beth instances M164 = 14> as _peccivesl | as imgeming hn Senoks hap ie ef bola false gh oo geane ntact olteckaste wes dilectect os Rrewmerendakoe Bacdrece the level of (Bet) fcactions _gce..._.\n\n## Step 1: Identify the structured information in the text\nThe text appears to be a jumbled collection of words and phrases, but upon closer inspection, we can identify some structured information. The text can be broken down into sections with a clear pattern of words and symbols. We can extract the following structured information:\n\n* A list of words and phrases with a specific pattern, which can be represented as a list of key-value pairs.\n* A series of numbers and symbols, which can be represented as a list of numerical values.\n\n## Step 2: Extract the structured information\nBased on the pattern of words and symbols, we can extract the following structured information:\n\n* Flavor: satus Ar Gouran CT 6a -142 (ioe Me)\n* Status: war esawated oh devo billecent\n* Newel: Wile asad 2 S the + Tne Newoc was My ated\n* Subetoude: comkeining 1% Che\n* GCA: B%e\n* OB: fn beth instances M164 = 14> as _peccivesl | as imgeming hn Senoks hap ie ef bola false gh oo geane ntact olteckaste wes dilectect os Rrewmerendakoe Bacdrece\n* Bet: fcactions _gce...\n\n## Step 3: Represent the extracted information as JSON\nBased on the extracted structured information, we can represent it as a JSON object with the following structure:\n\n```json\n{\n  \"Flavor\": \"satus Ar Gouran CT 6a -142 (ioe Me)\",\n  \"Status\": \"war esawated oh devo billecent\",\n  \"Newel\": \"Wile asad 2 S the + Tne Newoc was My ated\",\n  \"Subetoude\": \"comkeining 1% Che\",\n  \"G"
+  "title": "FlaVorStAtS",
+  "code": "A6",
+  "data": "4=23-8.",
+  "identifier": "PG0AcWa",
+  "description": "sgwateelsttsifksent SubstctecontuiningslecAey.BoeeAand..smoke.taste..ofalpha.nalthough..c.",
+  "content": "applied to the fiber cRass.undwillbeeaWatel",
+  "author": "SimsAn",
+  "process": "PcecusssMix sghab",
+  "schedule": "Nextwek sn.tb.sbstsskscneefthesesxtsacts asisentian",
+  "note": "EvaWatiowsesultswill bsaailabe..",
+  "results": null,
+  "next": "Naxtw 505859292"
 }

@@ -1,4 +1,13 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nCustomer Reprsenbalive R.g, Rieynldy -Tebacte Compary A Peu. oflice. Bx 7 Wan Slem, NC 21102 9ne. 5, 1998 Dear Gusmr. Riprunatue.\nCiymWis hry the cwton and Uu pubim ALLms ts c^raelle in own an ashlnay trwrnr te en e 52427 5927. 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+  "CustomerRepresentative": "R.g, Rieynldy -Tebacte Compary",
+  "Company": "A",
+  "Address": {
+    "POBox": "Peu. oflice. Bx 7",
+    "City": "Wan Slem",
+    "State": "NC",
+    "ZipCode": "21102"
+  },
+  "Date": "9ne. 5, 1998",
+  "Recipient": "Gusmr. Riprunatue.",
+  "Message": "CiymWis hry the cwton and Uu pubim ALLms ts c^raelle in own an ashlnay trwrnr te en e 52427 5927"
 }

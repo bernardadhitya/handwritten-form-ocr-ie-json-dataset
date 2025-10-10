@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nR TE Gestionnaire DATE: 20 Maw 200 F DE/FROM: 7) ANNI{N Ladue SERVICE DEPARTMENT:\nNOS REF.\nOUR REF. :\nSANAL 8 ~ TELEPHONE poone: C4 64 39 15 SH FAX:\ndu Réseau de Transport d’Electricité PAGES: | [ 3 aito: CcfAM SOCIETE COMPANY NAME :\nVOS REF.\nYOUR REF. :\nFax: O| 60 Z¢ 43 32 FAX OBJET.\nSUBJECT: Re dance Pwr be oa Couper berms AD pore.\nRTE EDF Transport, société anonyme a directoire et conseil de surveillance au capital de 2 132 285 690 euros R.C.S.Nanterre 444 619 258 Dees www.rte-france.com ERE TET 05-09-00-FAX\nRTE EDF Transport, société anonyme a directoire et conseil de surveillance au capital de 2 132 285 690 euros R.C.S.Nanterre 444 619 258 Dees www.rte-france.com ERE TET 05-09-00-FAX\nRTE EDF Transport, société anonyme a directoire et conseil de surveillance au capital de 2 132 285 690 euros R.C.S.Nanterre 444 619 258 Dees www.rte-france.com ERE TET 05-09-00-FAX\nRTE EDF Transport, société anonyme a directoire et conseil de surveillance au capital de 2 132 285 690 euros R.C.S.Nanterre 444 619 258 Dees www.rte-france.com ERE TET 05-09-00-FAX\nRTE EDF Transport, société anonyme a directoire et conseil de surveillance au capital de 2 132 285 690 euros R.C.S.Nanterre 444 619 258 Dees www.rte-france.com ERE TET 05-09-00-FAX\nRTE EDF Transport, société anonyme a directoire et conseil de surveillance au capital de 2 132 285 690 euros R.C.S"
+  "document": "FAX",
+  "scenario": "Gestionnaire",
+  "writer": "RTE",
+  "sender_person": "du Réseau de Transport d'Electricité",
+  "sender_company": "RTE",
+  "sender_tel": "O4 66 39 l5 54",
+  "sender_fax": "0 764333",
+  "receiver_person": "SERVICE",
+  "receiver_company": "SOCIETE",
+  "subject": "ruite 13",
+  "date": "3O MaiS 2OO 7",
+  "place": null,
+  "box": null
 }

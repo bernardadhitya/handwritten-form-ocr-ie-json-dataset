@@ -1,3 +1,63 @@
 {
-    "error": "Expecting ',' delimiter: line 86 column 6 (char 1509)"
+  "company": "MARKET TRENDS INC.",
+  "address": {
+    "street": null,
+    "city": null,
+    "state": "NY",
+    "zip": null
+  },
+  "project_number": null,
+  "document": {
+    "title": null,
+    "date": null
+  },
+  "introduction": "Good (morning/afternoon/evening), my name is [Name] from an opinion research company. We are conducting a public opinion survey in this mall and I would like to ask you a few short questions.",
+  "questions": [
+    {
+      "question": null,
+      "options": [
+        null,
+        null,
+        null
+      ],
+      "actions": {
+        "Younger than 21": "TERMINATE",
+        "Between 21 and 35": null,
+        "Older than 35": null
+      }
+    },
+    {
+      "question": "Does any member of your immediate family work for:",
+      "options": [
+        null,
+        null,
+        null
+      ],
+      "actions": {
+        "Yes to any of the above": null
+      }
+    },
+    {
+      "question": null,
+      "options": [
+        null,
+        "Have a glass of beer",
+        null
+      ],
+      "actions": {
+        "Smoke a cigarette": "TERMINATE"
+      }
+    },
+    {
+      "question": "About how many cigarettes do you smoke in an average day?",
+      "options": [
+        "Less than half a pack",
+        null
+      ],
+      "actions": {
+        "Less than half a pack": null,
+        "A pack or more": null
+      }
+    }
+  ]
 }

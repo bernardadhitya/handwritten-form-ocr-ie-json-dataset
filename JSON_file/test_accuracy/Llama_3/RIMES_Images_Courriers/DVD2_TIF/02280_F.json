@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nUPVD niversité de Perpignan, Via Domitia Faculté des Lettres et Sciences Humaines TELECOPIE Exp6ditcur:m& 6 ABOR1AU Cypielle 2ianhen tortaPlana des bemt:\n06320 CAP D'A1L Fax : 04 68 66 00 44 Perpignan, le Destinataire: M&omlF les  M 9ulx 3'1Br A vn Ta& okpev& 0biet : Alonmimmt a la /ew P.J. :\nuFluno er 1 ergwz\" Message :\n52, avenue Paul Alduy 66860 Perpignan Cedex Tél 00 33 (0)4 68 66 2155 Fax00 33(o)468 6600 44\nuFluno er 1 ergwz\" Message :\n52, avenue Paul Alduy 66860 Perpignan Cedex Tél 00 33 (0)4 68 66 2155 Fax00 33(o)468 6600 44\nuFluno er 1 ergwz\" Message :\n52, avenue Paul Alduy 66860 Perpignan Cedex Tél 00 33 (0)4 68 66 2155 Fax00 33(o)468 6600 44\nuFluno er 1 ergwz\" Message :\n52, avenue Paul Alduy 66860 Perpignan Cedex Tél 00 33 (0)4 68 66 2155 Fax00 33(o)468 6600 44\nuFluno er 1 ergwz\" Message :\n52, avenue Paul Alduy 66860 Perpignan Cedex Tél 00 33 (0"
+  "document": "UPVD",
+  "scenario": "niversité de Perpignan, Via Domitia",
+  "writer": "Faculté des Lettres et Sciences Humaines",
+  "sender_person": "Exp6ditcur:m& 6 ABOR1AU Cypielle",
+  "sender_company": "TELECOPIE",
+  "sender_tel": "04 68 66 00 44",
+  "sender_fax": "04 68 66 00 44",
+  "receiver_person": "M&omlF les  M 9ulx",
+  "receiver_company": "Destinataire:",
+  "subject": "Alonmimmt a la /ew",
+  "date": null,
+  "place": "Perpignan, le",
+  "box": "06320 CAP D'A1L"
 }

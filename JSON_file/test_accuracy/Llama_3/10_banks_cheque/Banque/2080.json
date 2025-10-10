@@ -1,4 +1,11 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nBANQUE E Payez conre co chu non endossaeThreeThousandOneHundred redperercusvement some entoutestftrs Sauf au profit d'une banque ou d'unetablissement assimid andFortyTwo 3142 Steffen.Krueger C Nde com... (Note: This text is in French and appears to be a bank statement or receipt)\n\nHere is the structured information extracted from the text:\n\n* `date`: 3142\n* `amount`: ThreeThousandOneHundred\n* `description`: redperercusvement\n* `beneficiary`: Sauf au profit d'une banque ou d'unetablissement assimilé\n* `payer`: Steffen.Krueger C Nde com\n* `account_number`: FortyTwo\n\nNote that the information is not in a standard JSON format, but rather a structured representation of the data. To convert it to a standard JSON format, the following output would be:\n\n```json\n{\n  \"date\": \"3142\",\n  \"amount\": \"ThreeTh"
+  "bank": "BANQUE",
+  "amount_in_words": "ThreeThousandOneHundred",
+  "amount_in_numbers": "3142",
+  "payee": "Steffen.Krueger",
+  "account_number": "1523600060070008545636-0000255",
+  "reference": "L0.6.105/22",
+  "drawer": "M.MARTIN",
+  "address": "123RUE SPECIMEN, 75015PARIS, 88",
+  "check_number": "090000"
 }

@@ -1,4 +1,36 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nPS 7 OC MED 03240 PM KORMAN MARKETING GROUP FAX NO, 3035710301 P, OL 1590 LAWRENCE STREET, SUITE 300 KORMAN a tty coo ee MAR ERETING GROUE FAX.\nYo: _Lauron Steen From: Paul Stoutfer Fans 917.063.5322 Pages including cover sheet: 1O Company Php Moris USA Dates _June2, 1099 Ret Wier Actes cc:\nCurent ForReview Fioase Comment (Please Reply C1 Please Recycle HiLaurey, Here are the responses tothe e:mai questions :\n© Att ched is the reorganized actly list for both ranches. Please note i a waiver is nct required, itis Cov ed in the guest's affidavit or either the KMG o Ranch waiver:\nRou'd House Is the company where we rent all of our downhill (including snowboard) equipment. They are located at Bridger Bow (tho Independent ofthe area), have great equipment, prices and sarvice) °...\nDeadrock this past January ~ one's the ranch’s and ce fs ours. The Cor ’s\", which represents the guests we handle. This wil bo ‘and Whita Station use one page waivers. The attached ble waiver, a5 well...\nPlease lat me know if you are in need of any adfttonal information! I am available to answer any questions you may have. Thank you for your time and consideration. Sincerely, Paul Stoutfer\nPaul Stoutfer, President Korman Marketing Group, Inc. 1590 Lawrence Street, Suite 300 Denver, CO 80204 303-571-0301 Fax: 303-571-0302\nPaul Stoutfer, President Korman Marketing Group, Inc. 1590 Lawrence Street, Suite 300 Denver, CO 80204 303-571-0301 Fax: 303-571-0302\nPaul Stoutfer, President Korman Marketing Group, Inc. 1590 Lawrence Street, Suite 300 Denver, CO 80204 303-571-0301 Fax: 303-571-0302\nPaul Stoutfer, President Korman Marketing Group, Inc. 1590 Lawrence Street, Suite 300 Denver, CO 80204 303-571-0301 Fax: 303-571-0302\nPaul Stoutfer, President Korman Marketing Group, Inc. 1590 Lawrence Street, Suite 300 Denver, CO 80204 303-571-0301 Fax: 303-571-0302\nPaul Stoutfer, President Korman Marketing Group, Inc. 1590 Lawrence Street, Suite 300 Denver, CO 80204 303-571-0301 Fax: 303-571-0302\nPaul Stoutfer, President Korman Marketing Group, Inc. 1590 Lawrence Street, Suite 300 Denver, CO 80204 303-571-0301 Fax: 303-571-0302\nPaul Stoutfer, President Korman Marketing Group, Inc. 1590 Lawrence Street, Suite 300 Denver, CO 80204 303-571-0301 Fax: 303-571-0302\nPaul Stoutfer, President Korman Marketing Group, Inc. 1590 Lawrence Street, Suite 300 Denver, CO 80204 303-571-0301 Fax: 303-571-0302\nPaul Stoutfer, President Korman Marketing Group, Inc. 1590 Lawrence Street, Suite 300 Denver, CO 80204 303-571-0301 Fax: 303-571-0302\nPaul Stoutfer, President Korman Marketing Group, Inc. 1590 Lawrence Street, Suite 300 Denver, CO 80204 303-571-0301 Fax: 303-571-0302\nPaul Stout"
+  "document_id": null,
+  "company": null,
+  "fax_number": null,
+  "page_number": null,
+  "address": {
+    "street": null,
+    "city": null,
+    "state": "Colorado",
+    "zip_code": "80204"
+  },
+  "contact": {
+    "telephone": null,
+    "fax": null
+  },
+  "sender": {
+    "name": null,
+    "fax": null
+  },
+  "recipient": {
+    "name": "Laurn Steen",
+    "company": null
+  },
+  "date": null,
+  "pages_including_cover_sheet": null,
+  "subject": null,
+  "cc": "Urgent",
+  "actions": [
+    null,
+    "Please Comment",
+    null,
+    null
+  ],
+  "message": null,
+  "additional_contact": null
 }

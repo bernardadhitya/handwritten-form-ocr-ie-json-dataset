@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nBArry nnara 2A e0lE DE NAnTES 4%550 ri uuebOurG Tel: 01.93.26.32.56 NAIF Assuramwo ROUTE DE LAVIT 9ZS0O iARRA&E1 Objet: ksliahon danuranu auha Rrmuo Cumb: SLQuu5O :\nMadame, Monaeur, Je Hnaio a v0wo vnIOmer d la vmQ d mon haL a orpQr du 2u novmbre 2oo. Je Aouhait donl n 8pqdwo x nyowamo mwanxo uow muy memu Xur Valleasr&r,Madamo, Monntur,mo mn&e swoyarya,Je Hnaio a v0wo vnIOmer d la vmQ d mon haL a orpQr du 2u novmbre 2oo. Je Aouhait donl n 8pqdwo x nyowamo mwanxo uow muy memu Xur Valleasr&r,Madamo, Monntur,mo mn&e swoyarya,Je Hnaio a v0wo vnIOmer d la vmQ d mon haL a orpQr du 2u novmbre 2oo. Je Aouhait donl n 8pqdwo x nyowamo mwanxo uow muy memu Xur Valleasr&r,Madamo, Monntur,mo mn&e swoyarya,Je Hnaio a v0wo vnIOmer d la vmQ d"
+  "document": "BArry nnara",
+  "scenario": "2A e0lE DE NAnTES",
+  "writer": null,
+  "sender_person": "NAIF Assuramwo",
+  "sender_company": null,
+  "sender_tel": "01.93.26.32.56",
+  "sender_fax": null,
+  "receiver_person": "Madame, Monaeur",
+  "receiver_company": null,
+  "subject": "ksliahon danuranu auha",
+  "date": "2u novmbre 2oo",
+  "place": "ROUTE DE LAVIT",
+  "box": "9ZS0O iARRA&E1"
 }

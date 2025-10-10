@@ -1,4 +1,42 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nROM ‘susrAN - GODFREY iss616-02 16147 Hoos Popivor / ‘J nerunwmout To: vee SUSMAN GODFREY L.L.P.\n4 REGISTERED LIMITED LIABILITY PARTNERSHIP File Clerk Attorneys at Law $100 First imersiate Bank Plaza FROM: SANDRA LOVINGS 1000 Lowisiana DATE: October 2, 1996 Houston, Texas 77002-5006 CLIMAT #: 664...\n# 212/880-3310 [) Machine Confirm 713/963-0859 1 Confirm by Phone:\n# 713/552-1234 0 Machine Confirm ‘MESSAGE Mr. Rissman: Karen Susman asked that I let you the lease for the house in Pascagoula, ‘The lease will be faxed to you | for your approval. SANDRA: 713/653-784...\n‘vslz7zes2oz Its intended only forthe individual or eltydesigasted sbove. Any dintibusion, copying, or use of or relince upon i ‘information contained in and transmitted with this facsimile by or to a..."
+  "from": "SUSMAN",
+  "return_route_to": null,
+  "company": null,
+  "description": "A REGISTERED LIMITED LIABILITY PARTNERSHIP",
+  "position": null,
+  "profession": null,
+  "address": null,
+  "from_person": null,
+  "from_address": null,
+  "date": null,
+  "cli_mat_number": null,
+  "phone": null,
+  "telecopy": null,
+  "total_pages_including_cover": null,
+  "recipients": [
+    {
+      "name": null,
+      "company": null,
+      "fax": null,
+      "confirm_by_phone": null,
+      "machine_confirm": true
+    },
+    {
+      "name": "Mary Tourenq",
+      "company": null,
+      "fax": null,
+      "confirm_by_phone": null,
+      "machine_confirm": null
+    }
+  ],
+  "message": "Mr. Rissman: Karen Susman asked that I let you know that Mary Tourenq is preparing the lease for the house in Pascagoula. The lease will be faxed to you tomorrow morning for your approval.",
+  "sender_contact": null,
+  "notice_of_confidentiality": {
+    "privilege": null,
+    "work_product": "ATTORNEY WORK PRODUCT",
+    "confidential": null,
+    "intended_recipient": null,
+    "action_on_error": null
+  },
+  "fax_note": null
 }

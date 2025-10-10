@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\na Lhaly Orado & 4/o2/2007 CHAPPO1S 0aue IoeIle 1f ue du 1O gun 57 64O ChArLY OrADOUR : 03.65.22.94.31 a Quotiolin \"tPan\" Chef Xeu LA BALM E 7346O froNTEnEX ObyeY : demande de renseignemant Madame  Mon... 1f ue du 1O gun 57 64O ChArLY OrADOUR : 03.65.22.94.31 a Quotiolin \"tPan\" Chef Xeu LA BALM E 7346O froNTEnEX ObyeY : demande de renseignemant Madame  Mon... 1f ue du 1O gun 57 64O ChArLY OrADOUR : 03.65.22.94.31 a Quotiolin \"tPan\" Chef Xeu LA BALM E 7346O froNTEnEX ObyeY :"
+  "document": "a Lhaly Orado",
+  "scenario": "CHAPPO1S 0aue IoeIle",
+  "writer": "57 64O ChArLY OrADOUR",
+  "sender_person": "Chef Xeu LA BALM E",
+  "sender_company": "7346O froNTEnEX",
+  "sender_tel": "03.65.22.94.31",
+  "sender_fax": null,
+  "receiver_person": "Madame  Monsieur",
+  "receiver_company": null,
+  "subject": "alonnement -heghothéticue",
+  "date": "04/02/2007",
+  "place": "ObyeY : demande de renseignemant",
+  "box": "n wmd7"
 }

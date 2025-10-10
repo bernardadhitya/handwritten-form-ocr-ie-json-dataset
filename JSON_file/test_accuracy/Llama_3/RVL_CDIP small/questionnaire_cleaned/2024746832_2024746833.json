@@ -1,3 +1,149 @@
 {
-    "error": "Extra data: line 28 column 1 (char 624)"
+  "survey": {
+    "respondent": {
+      "name": null,
+      "address": {
+        "street": "801 Pine Avenue",
+        "apartment": null,
+        "city": null,
+        "state": null,
+        "zip": null
+      },
+      "signature": "X",
+      "birthdate": null
+    },
+    "questions": [
+      {
+        "id": null,
+        "question": null,
+        "answer": null
+      },
+      {
+        "id": null,
+        "question": "If your regular brand were not available, what other brands would you consider buying?",
+        "options": [
+          null,
+          null,
+          null,
+          "GPC",
+          "Now",
+          "Parliament",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "answer": "Selected brands"
+      },
+      {
+        "id": null,
+        "question": null,
+        "answer": null
+      },
+      {
+        "id": null,
+        "question": null,
+        "answer": null
+      },
+      {
+        "id": null,
+        "question": null,
+        "answer": "Full Flavor"
+      },
+      {
+        "id": null,
+        "question": "Do you usually buy it by the Pack, Carton, or Both Ways?",
+        "answer": null
+      },
+      {
+        "id": 7,
+        "question": null,
+        "options": [
+          "Less than 1 year",
+          "1 to 2 years",
+          null,
+          "3 to 5 years",
+          null
+        ],
+        "answer": null
+      },
+      {
+        "id": 8,
+        "question": null,
+        "answer": null
+      },
+      {
+        "id": 9,
+        "question": "The next time you go to the store, if your regular brand were not available, what would you do?",
+        "options": [
+          null,
+          "Buy another type or length of my regular brand.",
+          null
+        ],
+        "answer": null
+      },
+      {
+        "id": null,
+        "question": null,
+        "options": [
+          null,
+          null,
+          null,
+          null
+        ],
+        "answer": null
+      },
+      {
+        "id": null,
+        "question": null,
+        "options": [
+          null,
+          null
+        ],
+        "answer": null
+      },
+      {
+        "id": null,
+        "question": null,
+        "options": [
+          null,
+          null,
+          "African-American",
+          null,
+          null,
+          null
+        ],
+        "answer": null
+      },
+      {
+        "id": null,
+        "question": null,
+        "answer": "Yes",
+        "details": {
+          "first_name": "First Name",
+          "middle_initial": "M",
+          "last_name": null,
+          "birthdate": null,
+          "regular_brand": null
+        }
+      },
+      {
+        "id": null,
+        "question": null,
+        "answer": null
+      },
+      {
+        "id": null,
+        "question": null,
+        "answer": null
+      }
+    ],
+    "contact_number": null
+  }
 }

@@ -1,4 +1,12 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nAXIS BANK LTD 060522 DDMMYYYY PAY Germa deGeus RUPEES FourThousandTwoHundredandTwelve bhe 4212 ACNO 00326085076095030580 SAM426160 000322 5002110122616031 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  "bank": "AXIS BANK LTD",
+  "date": "060522",
+  "transaction_code": "PAY",
+  "payee": "Germa deGeus",
+  "amount_words": "RUPEES FourThousandTwoHundredandTwelve",
+  "amount_number": "4212",
+  "account_number": "00326085076095030580",
+  "reference_number": "SAM426160",
+  "branch_code": "000322",
+  "transaction_id": "5002110122616031"
 }

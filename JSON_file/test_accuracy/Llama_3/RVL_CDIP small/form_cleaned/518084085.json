@@ -1,4 +1,27 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n0 tT act hs SAM’S CLUB# PROMOTIONS. IST OTR. 1997 CAMEL §$ 0.30 OFF 1 PACK # 700077 DISPLAY QUANTITIES OO DORAL. $ 0.30 OFF 1 PACK. # 700074 DISPLAY QUANTITIES _ GENERAL MGRS NAMED Yjyrad'r SALES REPS...\n6363 Rivers srore stamp Besse NOT PARTICIPATING IN DPC PROGRAM Ce NERAL MGR NAME apa | s8or Boetsch\n6383 Rivers srore stamp Besse NOT PARTICIPATING IN DPC PROGRAM Ce NERAL MGR NAME apa | s8or Boetsch\n6384 Rivers srore stamp Besse NOT PARTICIPATING IN DPC PROGRAM Ce NERAL MGR NAME apa | s8or Boetsch\n6385 Rivers srore stamp Besse NOT PARTICIPATING IN DPC PROGRAM Ce NERAL MGR NAME apa | s8or Boetss\n6386 Rivers srore stamp Besse NOT PARTICIPATING IN DPC PROGRAM Ce NERAL MGR NAME apa | s8or Boetsch\n6387 Rivers srore stamp Besse NOT PARTICIPATING IN DPC PROGRAM Ce NERAL MGR NAME apa | s8or Boetsch\n6388 Rivers srore stamp Besse NOT PARTICIPATING IN DPC PROGRAM Ce NERAL MGR NAME apa | s"
+  "number": "71467797.3",
+  "from": "FROMRFnols Tob.",
+  "contact": "7145378352",
+  "date": "12-02-304870",
+  "page": "/1",
+  "sanis": "SANIS",
+  "code": "OLOB#",
+  "promotions": [
+    "PROMOTIONS",
+    "IST.OTR.1997",
+    "CAMEL$0.30OFF1PACK.#700077",
+    "DRA$0.3F1PACK#700074"
+  ],
+  "displayQuantities": "DISPLAY QUANTIIIES",
+  "generalManagerName": "GENERALMGRSNAME",
+  "salesRepName": "SALES REPSNAME",
+  "store": {
+    "name": "Sam's Club 18-6378",
+    "code": "6363",
+    "address": "6363 Vallcy Springs Pkwy, Riversidc,CA92507"
+  },
+  "storeStamp": "STORESTAMP",
+  "dpcProgram": "NOTPARTICIPATINGINDPCPROGRAM",
+  "dpcCode": "51808",
+  "generalManagerCode": "4085"
 }

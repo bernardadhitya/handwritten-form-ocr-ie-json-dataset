@@ -1,4 +1,58 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n‘ sav ornices con SHOOK.HARDYs BACON LLP KO oe cneraneserr race a T200MAN STREET sure ete Angas cst MISSOURI eatO6- 218 aeeeee, dee ceca “TELEPHONE B10) 474550 + FACSIMILE 36) «2.8847 sas 212-907-5979...\n\"Tes gonmente accompanying bis gelecopy trusmassion canpain confideataay informacion SLT Tepaliy Pecioges Soe tnemaeion ty feceaie. oy forthe sae tee Fedtedaulh (2) of entiey tea) tanea above.” 1 pou..."
+  "law_offices": "SHOOK.HARDY&BACONLLP",
+  "address": "ONE KANSAS CITY PLACE, KANSASCITY, MISSOUAI 410S-2118",
+  "telephone": "(016)474-8550",
+  "facsimile": "(810)421-6547",
+  "recipients": [
+    {
+      "name": "JOEN MULDERIG",
+      "telecopy_no": "212-907-5979"
+    },
+    {
+      "name": "GREG LITTLE",
+      "telecopy_no": "202-942-5999"
+    },
+    {
+      "name": "ARTHUR H. RAINEY",
+      "telecopy_no": "215-994-2222"
+    },
+    {
+      "name": "JUDY LEONE",
+      "telecopy_no": "612-340-2868"
+    },
+    {
+      "name": "PETER SIPKINS",
+      "telecopy_no": "312-558-5700"
+    },
+    {
+      "name": "THOMAS J. FREDERICK",
+      "telecopy_no": "212-403-2000"
+    },
+    {
+      "name": "SCOTT DELACROIX",
+      "telecopy_no": "504-585-0367"
+    },
+    {
+      "name": "LONNIE D. NUNLEY",
+      "telecopy_no": "804-788-8218"
+    },
+    {
+      "name": "MARK HELM",
+      "telecopy_no": "213-687-3702"
+    }
+  ],
+  "from": "CRAIG GUSTAFSON",
+  "number": "300",
+  "date": "March 25, 1996",
+  "shb_client_matter_no": "PEMI.43773",
+  "pages_transmitted": "ORIGINAL DOCUMENT WILL NOT FOLLOW",
+  "operator": "JULIE",
+  "comments_message": "TOENTIALIN NOTICE g chis celecopy txansmission costain confidential information Icgally any disclosure, oyp prohtblted celynctilyus b his telecopied",
+  "additional_info": {
+    "extension": "2342",
+    "code": null,
+    "p_no": "2075475203",
+    "nv": "NV90:6",
+    "date": "Mar.25.1996"
+  }
 }

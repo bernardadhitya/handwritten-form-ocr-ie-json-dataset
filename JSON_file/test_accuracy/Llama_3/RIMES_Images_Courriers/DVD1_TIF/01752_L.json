@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nIsRAEL Soane 43 rue ea Qa Cheneviee 51 39o i1ENskircH Tel: 03.03.83.60.00 BAAF Assurance 3 RJe Dv 6eneraI Vandenbus Ohjer: Dewende de Renstigneuet adame,onsler He sis inlaesse pa cetain de Vos prod.5...\ndauey, 6e de la 6e, 6e de la 6e, 6e de la 6e, 6e de la 6e, 6e de la 6e, 6e de la 6e, 6e de la 6e, 6e de la 6e, 6e de la 6e, 6e de la 6e, 6e de la 6e, 6e de la 6e, 6e de la 6e, 6e de la 6e, 6e de la 6e, 6e de la 6e, 6e de la 6e, 6e de la 6e, 6e de la 6e, 6e de la 6e, 6e de la 6e, 6e de la "
+  "document": "BAAF Assurance",
+  "scenario": null,
+  "writer": "IsRAEL Soane",
+  "sender_person": "IsRAEL Soane",
+  "sender_company": "BAAF Assurance",
+  "sender_tel": "03.03.83.60.00",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": null,
+  "date": null,
+  "place": "43 rue ea Qa Cheneviee, 51 39o i1ENskircH",
+  "box": null
 }

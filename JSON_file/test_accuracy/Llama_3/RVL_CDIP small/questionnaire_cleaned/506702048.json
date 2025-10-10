@@ -1,3 +1,37 @@
 {
-    "error": "Expecting ',' delimiter: line 11 column 10 (char 202)"
+  "ballot_number": "114",
+  "date": "hE I~apoj",
+  "evaluation": {
+    "odor_strength": {
+      "intensity": [
+        "slight",
+        "extreme"
+      ]
+    },
+    "nasal_irritation": {
+      "intensity": [
+        "slight",
+        "extreme"
+      ]
+    },
+    "eye_irritation": {
+      "intensity": [
+        "slight",
+        "extreme"
+      ]
+    },
+    "overall_acceptability_of_room_air": {
+      "scale": [
+        "extremely unacceptable",
+        "acceptable",
+        "acceptable",
+        "unacceptable"
+      ]
+    }
+  },
+  "codes": [
+    "50670",
+    "2048"
+  ],
+  "file_path": "G:\\ballot"
 }

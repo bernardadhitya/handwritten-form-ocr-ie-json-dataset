@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nTHiRi0T Astrid Route d Q Pisseuse 7o 8oo Plainemont T2l : 03.3&.37.36.75 NAiF Assurances Le &6 AvriL &oo7 objet : demarde de Dowmentahon ReP: clent:QNG ARO9 Madame, monseur, organism.\nvous porkere3 & ma demande Je vous prie de croire, madame, Mongieur, Iassurarke d mes saltatons distinqveek Loii!hL faii. (Translation: Hi Astrid Route d Q Pisseuse 7o 8oo Plainemont T2l : 03.3&.37.36.75 NAiF Assurances Le &6 AvriL &oo7 objet : demarde de Dowmentahon ReP: clent:QNG ARO9 Madame, monseur, organism. vous porkere3 & ma demande Je vous prie de croire, madame, Mongieur, Iassurarke d mes saltatons distinqveek Loii!)\n\nNote: The text is written in a way that is intentionally misspelled and grammatically incorrect to mimic a phishing email.\n\n**Please do not attempt to contact"
+  "document": "THiRi0T Astrid",
+  "scenario": "Route d Q Pisseuse",
+  "writer": null,
+  "sender_person": "Madame, monseur",
+  "sender_company": "NAiF Assurances",
+  "sender_tel": "03.3&.37.36.75",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "objet : demarde de Dowmentahon",
+  "date": null,
+  "place": "Le &6 AvriL &oo7",
+  "box": "ReP: clent:QNG ARO9"
 }

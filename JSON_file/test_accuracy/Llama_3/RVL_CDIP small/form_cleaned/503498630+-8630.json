@@ -1,4 +1,19 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nR. J. REYNOLDS TOBACCO COMPANY COST SAVINGS REPORT srano:_ Quo Mack parex__G] 18 | 63 ITEM: r BO hy t Ce im rs PRODUCTION ESTIMATE NUMBER 3-SR- 02.\nSUPPLIER.\nSAVING PER ORE WAS THIS SAVING ACCOMPLISHED THROUGH:\nNEGOTIATION NEW SUPPLIER, VALUE ANALYSIS___7 OTHER, PLEASE GIVE FULL DETAILS BELOW did nit orofiso Hus prove’ ere cutin fee ape :\nos Model Res - $2420 Prentrns —$35) oc | SIGNED: (Nu « DATE:, 3 ‘ & g $ 2 & 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2 3 2"
+  "company": "R.J. REYNOLDS TOBACCO COMPANY",
+  "report": "COST SAVINGS REPORT",
+  "brand": "Sullom Sock",
+  "date": "81883",
+  "production_estimate_number": "H3-SBCZ3",
+  "supplier": null,
+  "saving_per_unit": "$38725",
+  "was_saving_accomplished_through": {
+    "negotiation": true,
+    "new_supplier": false,
+    "value_analysis": false,
+    "other": true
+  },
+  "details": "Agyscsy did nit prohure this apnes execuhin aollr duskad d3 3-sheot executr. ase neeel.+ fuf!the Bock.Ct ogwmets resultigin Hao folowng saine s Mock1 Rees -$37z5 Prn$ny -$35,oW",
+  "signed": null,
+  "signed_date": "8//s/s",
+  "reference_number": "50349 8630"
 }

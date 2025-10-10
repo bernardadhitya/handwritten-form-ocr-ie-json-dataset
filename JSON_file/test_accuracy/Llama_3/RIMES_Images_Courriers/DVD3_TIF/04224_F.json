@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nCSKELAPOSTC TÉLÉCOPIE Direction de La Poste Grand Public Date: 2t M ARS 2007 Nombre de pages (incluant celle-ci) : 3 Expéditeur gacquo Paost dma3 sa mV h LE MOur6 689b0 0berD0rF 0318O Le BEu1L Télépho...\n63 91 69 77 u1 Télécopie:\nTélécopie :\nMotifs de transmission Ref Pour information Pour avis Pour suite á donner Autres Message Ausm eutarion Objet :\nwuportaute c mmoum N sooilo daws ma fu&.t\nécrasement de la vie\nécrasement de la vie\nécrasement de la vie\nécrasement de la vie\nécrasement de la vie\nécrasement de la vie\nécrasement de la vie\nécrasement de la vie\nécrasement de la vie\nécrasant de la vie\nécrasement de la vie\nécrasement de la vie\nécrasement de la vie\nécrasement de la vie\nécrasement de la vie\nécrasement de la vie\nécrasement de la vie\nécrasement de la vie\nécrasement de la vie\nécrasement de la vie\nécrasement de la vie\nécrasement de la vie\nécrasement de la vie\nécrasement de la vie\nécrasement de la vie"
+  "document": "CSKELAPOSTC",
+  "scenario": "TÉLÉCOPIE",
+  "writer": "Direction de La Poste Grand Public",
+  "sender_person": "gacquo Paost",
+  "sender_company": "dma3 sa mV h",
+  "sender_tel": "0318O Le BEu1L",
+  "sender_fax": "63 91 69 77 u1",
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "wuportaute",
+  "date": "2t M ARS 2007",
+  "place": null,
+  "box": null
 }

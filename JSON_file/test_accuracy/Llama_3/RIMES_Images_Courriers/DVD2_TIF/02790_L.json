@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nDiAS Cindy 5,rue BenoCt Mafon 1o 300 Ste Savine tel : 03.75.63.67.38 Univers Sale Mobile 73 8OO Montmelian Obset: ouverture de compl-\nSle Savine, fe 12 Fevricr 2oO7 Madame, Monsieur Vou S la s suivre pour devenir client.\nDans laHenhe d'une riponse de vobre parb, Je vous prie dagrees,Madame Monsicur, sv!t Cindu, DiAS Cindy 5, rue BenoCt Mafon 1o 300 Ste Savine, tel : 03.75.63.67.38, Univers Sale Mobile 73 8OO Montmelian Obset: ouverture de compl-\nSle Savine, fe 12 Fevricr 2oO7, pour devenir client de DiAS Cindy 5, rue BenoCt Mafon 1o 300 Ste Savine, tel : 03.75.63.67.38, Univers Sale Mobile 73 8OO Montmelian Obset: ouverture de compl-\nSle Savine, fe 12 Fevricr 2oO7, pour devenir"
+  "document": "DiAS Cindy",
+  "scenario": null,
+  "writer": null,
+  "sender_person": "Cindy",
+  "sender_company": "Univers Sale Mobile",
+  "sender_tel": "03.75.63.67.38",
+  "sender_fax": null,
+  "receiver_person": "Madame, Monsieur",
+  "receiver_company": null,
+  "subject": "Obset: ouverture de compl-",
+  "date": "fe 12 Fevricr 2007",
+  "place": "73 8OO Montmelian, 5,rue BenoCt Mafon, 1o 300 Ste Savine"
 }

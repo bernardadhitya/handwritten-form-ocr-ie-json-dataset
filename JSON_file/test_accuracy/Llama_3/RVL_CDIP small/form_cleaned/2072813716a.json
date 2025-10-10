@@ -1,4 +1,44 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nNov-21-96 17:50 From:MNTON & WILLIAIS waoescaeaze To262 P.O/T dob-40s » TELECOPY INFORMATION HUNTON & WILLIAMS:\nRiverfront Plaza 951 East Byrd Street Telecopier Nos.\nRichmond, Virginia 23219-4074 (804) 788-6218 (804) 788-8200 (804) 788-8219 2nd Floor Telecopier (804) 788-8669 TO:\nName: John J. Mulderig, Esq.\nFirm: Phillp Morris Companies Inc.\nLocation: New York, NY Telecopy Number: (212) 907-5796 —1LL__ Pages (Including Caver) FROM:\nName: Brian V. Otero HUNTON & WiLuiaMs (Floor 11\") (804) 788-8683 if problem with transmission, please contact Mary E. St. Clalr at (804) 788-8497.\nMesaage: PLEASE DELIVER IMMEDIATELY UPON RECEIPT.\nOperator: Mary E. St. Clair Date: November 21, 1996 ‘Time: am./p.m.\nClient/Matter Name: = PM/Liaison ClientiMatter No.: 50504.2 This communication is confidential and Is intended to be privleged pursuant to the attomey-cilent privilege and the wark-product doctrine. ~...\nVWOLLELSZLOZEN 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. "
+  "date": "November 21, 1996",
+  "time": "a.m./p.m.",
+  "from": {
+    "name": "Brian V. Otero",
+    "phone": null,
+    "job": "HUNTON & WILLIAMS (FIOOr 11)",
+    "telecopy_information": {
+      "company": "HUNTON & WILLIAMS",
+      "address": "Riverfront Plaza, 951 East Byrd Street, Richmond, Virginia 23219-4074",
+      "telecopier_numbers": [
+        "804)788-8218",
+        "804788-8200",
+        "804788-8219",
+        "804788-8669"
+      ]
+    }
+  },
+  "to": {
+    "name": "John J. Mulderig, Esq.",
+    "company": "Phillp Morris Companies Inc",
+    "location": "New Yark, NY",
+    "telecopy_number": "212907-5796",
+    "pages_including_cover": "11"
+  },
+  "from_details": {
+    "name": "Brian V. Otero",
+    "company": "HUNTON & WILLIAMS",
+    "phone": "804)788-8683"
+  },
+  "contact_for_issues": {
+    "name": "Mary E. St. Clair",
+    "phone": "(804)788-8497"
+  },
+  "operator": "Mary E. St. Clair",
+  "date_sent": "November 21, 1996",
+  "time_sent": "a.m./p.m.",
+  "client_matter": {
+    "name": "PM/Liaison",
+    "number": "50594.2"
+  },
+  "confidentiality_notice": "This communication is confidential and is intended to be privileged pursuant to the attorney-client privilege and the work-product doctrine.",
+  "service_code": "2072813716A"
 }

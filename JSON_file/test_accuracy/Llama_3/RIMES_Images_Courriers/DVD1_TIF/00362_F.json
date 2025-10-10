@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nTélécopie/Facsimilé Destinataire Nom/Name DEBIT LYONNAiS LAF LEUR_HaDon Service/Department Télécopieur/Fax Télécopieur/Fax n oJ 6o76 U3 33 Téléphone/Telephon 0o n t8 68 Eo Date Page1/ 2 2810912006 pag... ( truncated )... 2810912007 pag... ( truncated )... 2810912008 pag... ( truncated )... 2810912009 pag... ( truncated )... 2810912010 pag... ( truncated )... 2810912011 pag... ( truncated )... 2810912012 pag... ( truncated )... 2810912013 pag... ( truncated )... 2810912014 pag... ( truncated )... 2810912015 pag... ( truncated )... 2810912016 pag... ( truncated )... 2810912017 pag... ( truncated )... 2810912018 pag... ( truncated )... 2810912019 pag... ( truncated )... 2810912020 pag... ( truncated )... 2810912021 pag... ( truncated )... 2810912022 pag... ( truncated )... 2810912023 pag... ( truncated )... 2810912024 pag... ( truncated )... 2810912025 pag... ( truncated )... 2810912026 pag... ( truncated )... 2810912027 pag... ( truncated )... 2810912028 pag... ( truncated )... 2810912029 pag... ( truncated )... 2810912030 pag... ( truncated )... 2810912031 pag... ( truncated )... 281091"
+  "document": "Télécopie/Facsimilé",
+  "scenario": null,
+  "writer": "eeR",
+  "sender_person": "Madane,tondieee",
+  "sender_company": "Institut national des télécommunications",
+  "sender_tel": "01 60 76 40 40",
+  "sender_fax": "01 60 76 43 25",
+  "receiver_person": "DEBIT LYONNAiS",
+  "receiver_company": "LAF LEUR_HaDon",
+  "subject": "d& de diminution des vezsements our mon PEL",
+  "date": "2810912006",
+  "place": "9 rue Charles Fourier 91011 Evry Cedex",
+  "box": "page(s)"
 }

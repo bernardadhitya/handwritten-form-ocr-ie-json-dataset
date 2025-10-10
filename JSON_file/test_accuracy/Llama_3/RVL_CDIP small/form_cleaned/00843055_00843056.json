@@ -1,4 +1,101 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nAMES ASSAY FOR MUTAGENICITY comowo 3.6,10,10~Tetramethyl-2-oxaspiro 4,5 dec-6-ene ounce. LOFillard-Organic Chemistry oatsasono, —ALO4 Lor wo OR63-17.\nore neceneo 12/4/80. resteo) 2/4-2/10/81 genome 2/12/81 Imvestiarons, He S-_Tong & A. A. Poole noreooox ace: BCL8=105 our hee CO ale ToxIery ¢% SURVIVAL) SoweNt XD) oMso, waren 0 omen ose ese | ose is...\nCopies! to the following: Dr. H. J. Minnemeyer z—| Ms. L. B. Gra 2 I sae 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81. 2/4/81."
+  "title": null,
+  "organization": null,
+  "source": "A104",
+  "lorillard_no": null,
+  "date_received": "12/4/80",
+  "tested": null,
+  "reported": "2/12/81",
+  "investigators": [
+    "H. S. Tong",
+    null
+  ],
+  "notebook_page": null,
+  "signatures": [],
+  "toxicity": {
+    "percent_survival": {
+      "50": 80,
+      "100": null
+    }
+  },
+  "solvent": null,
+  "concentration_mg_ml": null,
+  "other": null,
+  "strains": {
+    "TA1535": {
+      "no_s9": 12.67,
+      "plus_s9": null
+    },
+    "TA100": {
+      "no_s9": 48.33,
+      "plus_s9": 42.0
+    },
+    "TA98": {
+      "no_s9": null,
+      "plus_s9": null
+    }
+  },
+  "compound_ug_plate": {
+    "reversion_rate": {
+      "test_revertants_control_revertants_per_plate": {
+        "50": [
+          null,
+          null,
+          null
+        ],
+        "25": [
+          null,
+          null,
+          null
+        ],
+        "12.5": [
+          null,
+          null,
+          null
+        ],
+        "12": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {
+            "1": null
+          }
+        ]
+      }
+    }
+  },
+  "positive_control_ug_plate": {
+    "2-aminoanthracene": {
+      "4": [
+        1.26,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "2": [
+        null,
+        4.39,
+        null,
+        3.11,
+        null,
+        null
+      ]
+    }
+  },
+  "conclusion": null,
+  "copies_to": [
+    {
+      "name": null,
+      "id": null
+    },
+    {
+      "name": "Ms. L.B. Gray",
+      "organization": null
+    }
+  ],
+  "form": "FORM6(580"
 }

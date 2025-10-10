@@ -1,4 +1,161 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n© aie MaQCETING RESEARCH 201 Second Avenue New York, New York 10017 NATIONAL CONSENSUS SURVEYS fa94re May, 1977 R ‘Five KeTERVEON: STARTED! n= nom: oe naspowmnrt's whe soos:\nerenvirwe:\nA. (noreare xx.) ——————_> from Nattonal fe conducting 0 otudy te this area and I'd like to ank yous fev sestions.\n2. CEWITIAL EEUSAL: CIRCLE MEXT RICHEST WOMBER BELOW.) p23 4 5 6 7 8 9 10 2 19 15 16 17 BB A9 20 21 22 23% 25 26 27 28 28 30 M3233 3S 96 7 OB 41 42-43 44 4546 47 48 49 50 51 52.52 SH 55 56 57 5B 59 60...\n(TAKE RACK. AGE CARD.) seseces cove) 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1"
+  "company": null,
+  "division": null,
+  "address": {
+    "street": null,
+    "suite": null,
+    "postal_code": null,
+    "city": "New York",
+    "state": null,
+    "zip": "10017"
+  },
+  "date": null,
+  "survey": {
+    "title": "Cigarette Portfolio Screening Questionnaire",
+    "interview": {
+      "time": {
+        "started": null,
+        "ended": null
+      },
+      "respondent": {
+        "name": null,
+        "address": null,
+        "city": null,
+        "state": null
+      },
+      "interviewer": null,
+      "metro_area": null,
+      "date": null,
+      "validated_by": null,
+      "validation_date": null
+    },
+    "questions": [
+      {
+        "id": null,
+        "question": "Indicate city.",
+        "options": [
+          null,
+          null,
+          null,
+          null,
+          "Des Moines",
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "id": 2,
+        "question": null,
+        "instruction": null,
+        "options": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          17,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          34,
+          null,
+          null,
+          null,
+          null,
+          42,
+          null,
+          48,
+          null,
+          null,
+          51,
+          3,
+          null,
+          null,
+          57,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          76,
+          77,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          94,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "terminate_instruction": null,
+        "continue": "Yes",
+        "no": "No"
+      },
+      {
+        "id": 3,
+        "question": "Participated in study",
+        "options": [
+          null,
+          null,
+          null,
+          5,
+          null,
+          7,
+          8,
+          6,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "id": null,
+        "question": "Show age card",
+        "instruction": null,
+        "terminate_instruction": "Terminate and circle next highest number below next to under or over age",
+        "age_ranges": {
+          "under_21": null,
+          "continue": [
+            35,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "terminate": "Terminate and circle next highest number below next to under or over age"
+        }
+      }
+    ],
+    "age_card": {
+      "under_or_over_age": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        8
+      ]
+    }
+  }
 }

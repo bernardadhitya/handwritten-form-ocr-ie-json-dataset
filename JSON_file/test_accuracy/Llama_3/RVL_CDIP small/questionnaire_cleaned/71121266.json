@@ -1,3 +1,46 @@
 {
-    "error": "Blockwise quantization only supports 16/32-bit floats, but got torch.uint8"
+  "CodeNo": "101",
+  "Title": "Annual Survey of Manufacturers' Domestic Sales of Smoking Tobacco -- 1996",
+  "Categories": [
+    "Pipe/Smoking Tobacco",
+    "Roll-Your-Own"
+  ],
+  "Units": "lbs.)",
+  "Total": {
+    "Total": {
+      "Value": "158100389"
+    },
+    "lbs": {
+      "Value": null
+    }
+  },
+  "States": [
+    "Alabame",
+    "Alaska",
+    "Arizona",
+    "Arkansas",
+    "California",
+    "Colorado",
+    "Connecticut",
+    "Delaware",
+    "Florida",
+    "Georgia",
+    "Hawaii",
+    "Idaho",
+    "Illinois",
+    "Indiana",
+    "Iowa",
+    "Kansas",
+    "Kentucky",
+    "Louisiana",
+    "Maine",
+    "Maryland",
+    "Massachusetts",
+    "Michigan",
+    "Minnesota",
+    "Mississippi"
+  ],
+  "Note": "*Invoiced value minus credited returned merchandise",
+  "Reference": null,
+  "Source": "PRODUCED FROM B&W WEB SITE"
 }

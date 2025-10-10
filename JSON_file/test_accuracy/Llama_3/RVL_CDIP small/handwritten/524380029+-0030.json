@@ -1,4 +1,18 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nRuthanne Torster 6563 Rt.90 8oche, Ny i30q3-qt13 onse LDb1'hC ^jenq?L Reynolds Tobacco Co..\nWinston- Salem, NC.\neoile Dear Sir or Madam..\nI think that it's a great idea QOcKaqes.I thinK that it's gew! te wan.\nI ncticed that the warnirg is yery Small.\nCouldrt you maKe the worning a little noK qey7 mouy I.z6uiyoge5 a^a,, nouu Wont tc sell more but I think that all briter colcr than biacK. I tnonk ycu fcr your time.\n52438 Sinceey Ruthonno Forster 0029 Ruthonne Forster 0029 Ruthanne Forster 0029 Ruthanne Forster 0029 Ruthanne Forster 0029 Ruthanne Forster 0029 Ruthanne Forster 0029 Ruthanne Forster 0029 Ruthanne Forster 0029 Ruthanne Forster 0029 Ruthanne Forster 0029 Ruthanne For. 0029 Ruthanne Forster 0029 Ruthanne Forster 0029 Ruthanne Forster 0029 Ruthanne Forster 0029 Ruthanne Forster 0029 Ruthanne Forster 0029 Ruthanne Forster 0029 Ruthanne Forster 0029 Ruthanne Forster 0029 Ruthanne Forster 0029 Ruthanne Forster 0029 Ruthanne Forster 0029 Ruthanne Forster 0029 Ruthanne Forster 0029 Ruthanne Forster 0029 Ruthanne Forster 0029 Ruthanne Forster 0029 Ruthanne Forster 0029 Ruthanne Forster 0029 Ruthanne Forster 0029 Ruthanne Forster 0029 Ruthanne Forster 0029 Ruthanne Forster 0029"
+  "name": "Ruthanne Torster",
+  "address": {
+    "street": "6563 Rt.90",
+    "city": "8oche",
+    "state": "Ny",
+    "zip": "i30q3-qt13"
+  },
+  "company": "Reynolds Tobacco Co.",
+  "company_location": "Winston- Salem, NC.",
+  "letter": {
+    "greeting": "Dear Sir or Madam",
+    "body": "I think that it's a great idea... Couldrt you maKe the worning a little... I think that all briter colcr than biacK.",
+    "closing": "Wont tc sell more but I think that all",
+    "signature": "Ruthonno Forster"
+  },
+  "id": "52438"
 }

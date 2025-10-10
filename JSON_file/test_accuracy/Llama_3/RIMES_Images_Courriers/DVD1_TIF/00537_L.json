@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nyme Ge sH QU1ERE Nicqlc 2we del'eqWe g4QO4 n1eDe rhaus BergeN noTe1: 03 401F6007 a Twsceue des impot 4 we Pe aleHe n g4 45o L1Me1L Bnev AnNcs Objet: demande de mensualsaon d I'impt sw euenu ReRence cU... (truncated)\n\nHere is the text with the non-structured information removed:\n\nNicqlc 2we del'eqWe g4QO4 n1eDe rhaus BergeN noTe1: 03 401F6007 a Twsceue des impot 4 we Pe aleHe n g4 45o L1Me1L Bnev AnNcs Objet: demande de mensualsaon d I'impt sw euenu ReRence cU...\n\nHere is the structured JSON output:\n\n```\n{\n  \"name\": \"Nicqlc 2we del'eqWe\",\n  \"address\": \"rhaus BergeN\",\n  \"reference\": \"03 401F6007\",\n  \"type\": \"Twsceue des impot\",\n  \"amount\": \"4 we Pe aleHe n g4 45o L1Me1L Bnev AnNcs\",\n  \"object\": \"demande de mensualsaon d"
+  "document": "yme",
+  "scenario": "Ge sH QU1ERE Nicqlc",
+  "writer": "noTe1: 03 401F6007",
+  "sender_person": "a Twsceue des impot",
+  "sender_company": "4 we Pe aleHe n",
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": "g4 45o L1Me1L Bnev AnNcs",
+  "receiver_company": "Objet: demande de mensualsaon d I'impt sw euenu",
+  "subject": "ReRence cUe nk: H c A lcL 9 2",
+  "date": null,
+  "place": null,
+  "box": null
 }

@@ -1,3 +1,77 @@
 {
-    "error": "Blockwise quantization only supports 16/32-bit floats, but got torch.uint8"
+  "cigarette": null,
+  "callback": null,
+  "reasonsForNoInterview": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "testerOtherThanNameOnLabel": null,
+  "result": null,
+  "attempt": null,
+  "schedule": {
+    "date": null,
+    "time": null,
+    "cc": null,
+    "bsy": null,
+    "receive": null,
+    "ue": null,
+    "refTQ": null,
+    "other": null
+  },
+  "interview": {
+    "introduction": null,
+    "callbackArrangement": null,
+    "reintroduce": null,
+    "questions": [
+      {
+        "question": null,
+        "yes": null,
+        "no": "TERMINATE"
+      },
+      {
+        "question": "Did you smoke all 10 packs of cigarettes?",
+        "yes": null,
+        "no": {
+          "followUp": null,
+          "packsN18": null,
+          "cigarettesN18": null,
+          "packsF85": null,
+          "cigarettesF85": null,
+          "callbackArrangement": null,
+          "completeInterview": null,
+          "didntLikeN18": null,
+          "didntLikeF85": null
+        }
+      },
+      {
+        "question": null,
+        "yes": "ASKQ.4&5",
+        "no": "SKIP TOQ.6"
+      },
+      {
+        "question": null,
+        "n18": null,
+        "f85": null
+      },
+      {
+        "question": null,
+        "preferN18": null,
+        "preferF85": null,
+        "noPreference": null
+      },
+      {
+        "question": null,
+        "yes": null,
+        "no": null
+      },
+      {
+        "question": "Which cigarette was harsher to your mouth or throat -- the cigarettes called N18 you tried first or the ones called F85 you tried second?",
+        "n18": null,
+        "f85": null
+      }
+    ]
+  }
 }

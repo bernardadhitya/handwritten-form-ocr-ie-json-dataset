@@ -1,4 +1,45 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nVY TABLE 2. Control and Expertinental Data.\nYe tere Whe yp bef tall 2% eget Ranner Plate So Ae at Icor:|6 ee Ps Avg 2x eer oe 2, Burr oe Senna | salad violet (20u1/88eer10 Boe STo T —1.\nt f “ase - :\nriser slope 2257. 7 — = iE Ie BRA slope 2 25/—rev/in f ee lesterter re T 7 (SDTIS | IS | 950 | PS BAYS, T BT V2 Bes | 272 | 535 | 3a 2 | 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 "
+  "Centro": {
+    "Data": {
+      "Canlamination Check Controls": {
+        "N.B./Exp.for page": "page",
+        "TABLE": "2",
+        "cost anne": "Mx",
+        "overlay": {
+          "s9 fraction": "1",
+          "S9 mx": "overlay+-S9 mx"
+        },
+        "values": [
+          "68",
+          "43",
+          "82"
+        ],
+        "Plate No": {
+          "Vogel Bonner Pate": "435",
+          "value": "35",
+          "2.2": "2.2",
+          "980h": "1X"
+        },
+        "Nutrient Agar Plots": {
+          "30": "Avg",
+          "value": "83",
+          "O": "O",
+          "37": "Avg",
+          "1": "45"
+        },
+        "Machine Settings": {
+          "Sens": "352",
+          "value": "205082059",
+          "BG": "-BG",
+          "amplen(g/dsc": "amplen(g/dsc"
+        },
+        "Titers": {
+          "TA98slock": "Timc of Exp.(duratlon)",
+          "3:45-4:30": "3:45-4:30",
+          "see": "see.",
+          "rcv/n": "j-80"
+        }
+      }
+    }
+  }
 }

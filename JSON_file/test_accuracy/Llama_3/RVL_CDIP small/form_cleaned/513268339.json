@@ -1,3 +1,48 @@
 {
-    "error": "Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  "documentClearanceSheet": {
+    "documentNumber": "90-Q63",
+    "mkNumber": "MK#",
+    "dateRouted": "4/2/90",
+    "contractNumber": "S-0b-",
+    "contractSubject": "Charreada",
+    "company": "Fiestas de AmericaInc.",
+    "brands": "CAMEL",
+    "totalCost": "$1.000",
+    "currentYearEF0": "$1000",
+    "briefDescription": "CAMEL will sponsor the subject event",
+    "implementor": "G.G.Strauss",
+    "glCode": "04-73-4603-8390-869",
+    "reviewRouting": [
+      {
+        "department": "DEPARTMENT",
+        "name": "NAME",
+        "signature": "SIGNATURE",
+        "date": "DATE"
+      },
+      {
+        "department": "Promotion",
+        "name": "JKA",
+        "signature": "Approved by: WSL WM",
+        "date": "4690"
+      }
+    ],
+    "approvedBy": {
+      "name": "WSL WM",
+      "signature": "Approved by: WSL WM"
+    },
+    "returnTo": {
+      "name": "Jayne Appleyard",
+      "department": "Promotion",
+      "location": "5th Floor Rey.Bldg."
+    },
+    "note": "The Document Originator must maintain on file a copy of the signed document clearance sheet in accordance with established Company records retention schedules.",
+    "received": "APR 6/1990",
+    "additionalInfo": {
+      "code": "8339",
+      "date": "4/90",
+      "receivedStamp": "J.K.APPLEYARD",
+      "additionalCode": "51326",
+      "jKAppleyard": "J.K.APPLEYARD"
+    }
+  }
 }

@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nSABATHIER Lionel 45,rme os haut- bewry ga100 NEUVILLIERS SUR F AE 1. 03 9335 49 61 CPAM: CasSe Pimaure d' Assurance Maleche Que Prcpole 3935 Orden Lance.\nMadame, Mona, Te Von écus pour Var 1 Ame hae-hon Jermbale En de, je Vin d'avar um Fotsteme enfant Vous hunveez a- vu l'atet d'acte conopondant ù cet heureux évenement melie à ut fumer ol\" un Chançerm... (Translation: SABATHIER Lionel 45,rme os haut- bewry ga100 NEUVILLIERS SUR F AE 1. 03 9335 49 61 CPAM: CasSe Pimaure d' Assurance Maleche Que Prcpole 3935 Orden Lance.)\n\n## Step 1: Identify the structured information in the text\nThe text appears to be a French document with a structured format, likely a receipt or a formal letter. The structured information includes:\n- Name: SABATHIER Lionel\n- Address: NEUVILLIERS SUR F AE 1\n- Phone number: 45,rme os haut- bewry ga100\n- CPAM: CasSe Pimaure d' Assurance Maleche Que Prcpole 3935 Orden Lance\n- Date: 03 9335 49 61\n\n## Step 2: Convert the structured information into JSON format\nBased on the identified structured information, the JSON output can be constructed as follows:\n\n```json\n{\n  \"name\": \"SABATHIER Lionel\",\n  \"address\": \"NEUVILLIERS SUR F AE 1\",\n"
+  "document": "SABATHlER Liond",
+  "scenario": "45,ue olu hauhbcuy",
+  "writer": "8810O NEUVlLL1EQS suR FAVE",
+  "sender_person": "Te1: 03 79 85 43 61",
+  "sender_company": "d`Assuramce Malaoue",
+  "sender_tel": "Rue Bruncypale",
+  "sender_fax": "3235O Ordan Larroque",
+  "receiver_person": "Madamc, Moricwr",
+  "receiver_company": "Te Vow écus paur Vows infomer dum charqemank ole",
+  "date": "wn Yo1v,p raN z 2p u7 1vym9 wypZ aw",
+  "place": "dle naissanee conepondanF a cef hewux cvenemnr",
+  "box": "fure le neceoaire par meHhe a jwr"
 }

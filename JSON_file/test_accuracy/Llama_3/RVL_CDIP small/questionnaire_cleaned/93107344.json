@@ -1,4 +1,33 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nNov-20-95 MON 9:25 SUPER S-FREEPORT.ZLL eiszszs009 pees BULLETIN DATA SURVEY.\nestimate #: PEL sti0ug PLANT OPERATOR/MARKET: an Bufgeto, ey tocanon: Pf. 5 0 Jo Bhaco els aD) What Is ihe current Bally Effective Circulation of this unit? 243 9b 2) How many lamps are used on this u...\ntype/wattage Ghinenmre 400 3) How often Is the face of this unit scraped? # times por yer Ay puede 1-1 4) Is there any elementary school, junior high school, or high school or children's.\nplayground within 500 ft. of the above location? ° YES no__ 5) __ |Is there any elementary school, junior high school, or high school or children’s playground between 500 ft. and 1000 ft. of the above... 6) __ |Is there any elementary school, junior high school, or high school or children’s playground between 1000 ft. and 1500 ft. of the above... 7) __ |Is there any elementary school, junior high school, or high school or children’s playground between 1500 ft. and 2000 ft. of the above... 8) __ |Is there any elementary school, junior high school, or high school or children’s playground between 2000 ft. and 2500 ft. of the above... 9) __ |Is there any elementary school, junior high school, or high school or children’s playground between 2500 ft. and 3000 ft. of the above... 10) __ |Is there any elementary school, junior high school, or high school or children’s playground between 3000 ft. and 3500 ft. of the above... 11) __ |Is there any elementary school, junior high school, or high school or children’s playground between 3500 ft. and 4000 ft. of the above... 12) __ |Is there any elementary school, junior high school, or high school or children’s playground between 4000 ft. and 4500 ft. of the above... 13) __ |Is there any elementary school, junior high school, or high school or children’s playground between 4500 ft. and 5000 ft. of the above... 14) __ |Is there any elementary school, junior high school, or high school or children’s playground within 5000 ft. of the above location? 15) __ |Is there any elementary school, junior high school, or high school or children’s playground between 5000 ft. and 5500 ft. of the above... 16) __ |Is there any elementary school, junior high school, or high"
+  "bulletin_data_survey": {
+    "estimate_number": "PeR #1Oly",
+    "plant_operator_market": "3hY",
+    "location": "Rt.5 w s/o Ihio t",
+    "questions": [
+      {
+        "question": "What Is the current Daily Effective Circulation of this unit?",
+        "answer": "24 8.96"
+      },
+      {
+        "question": "How many lamps are used on this unit?",
+        "answer": "4"
+      },
+      {
+        "question": "How often is the face of thls unit scraped",
+        "answer": "Av puedos # times per year"
+      },
+      {
+        "question": "Is there any elementary school, junlor high school, or high school or children's playground within 500 ft. of the above location?",
+        "answer": "YES"
+      },
+      {
+        "question": "Is there any elementary school, junior high school, or high school or children's playground between 500 ft. and 1000 ft.of the above location?",
+        "answer": "YES"
+      }
+    ],
+    "additional_info": {
+      "code": null,
+      "plant_manager": "Plant Manage"
+    }
+  }
 }

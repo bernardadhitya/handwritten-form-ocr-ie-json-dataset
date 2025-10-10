@@ -1,4 +1,21 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nBROWN & WILLIAMSON 1994 COLLECTION PHOTOCOPYING VARIANCE FORM ‘This form was placed before Bates 1p __(? AT THE TIME OF REPRODUCTION, THE FOLLOWING Nt ot 7 DOCUMENT COPIES ARE IN THE SAME SEQUENCE AS...\nPAGE NUMBER(S) WERE MISSING IN THE ORIGINAL, POOR QUALITY onrcrNAL. facil Z OVERLAY ITEM COULD NOT BE REMOVED WITHOUT DANAGE TO THE ORIGINAL.\nNO DOCUMENTS WERE FOUND WITHIN THE ORIGINAL:\n©) FILE FOLDER ©) REDROPE EXPANDABLE FILE co HANGING FILE ©) ENVELOPE, ane) OTHER (SPECIFY) DOCUMENT COPIES WERE REPRODUCED IN COLOR [0 PERMIT CORRECTION INTERPRETATION, BATES NUMBER ___ NOT USED.\nOTHER VARIANCE (EXPLAIN). (SPECIFY)\n \nNote: The Bates number is not used in the Brown & Williamson 1994 Collection Photocopying Variance Form.\n\nThe Bates number is not used in the document.\n\nThe Bates number is not used in the document.\n\nThe Bates number is not used in the document.\n\nThe Bates number is not used in the document.\n\nThe Bates number is not used in the document.\n\nThe Bates number is not used in the document.\n\nThe Bates number is not used in the document.\n\nThe Bates number is not used in the document.\n\nThe Bates number is not used in the document.\n\nThe Bates number is not used in the document.\n\nThe Bates number is not used in the document.\n\nThe Bates number is not used in the document.\n\nThe Bates number is not used in the document.\n\nThe Bates number is not used in the document.\n\nThe Bates number is not used in the document.\n\nThe Bates number is not used in the document.\n\nThe Bates number is not used in the document.\n\nThe Bates number is not used in the document.\n\nThe Bates number is not used in the document.\n\nThe Bates number is not used in the document.\n\nThe Bates number is not used in the document.\n\nThe Bates number is not used in the document.\n\nThe Bates number is not used in the document.\n\nThe Bates number is not used in the document.\n\nThe Bates number is not used in the document.\n\nThe Bates number is not used in the document.\n\nThe Bates number is not used in the document.\n\nThe Bates number is not used in the document.\n\nThe Bates number is not used in the document.\n\nThe Bates number is not used in the document.\n\nThe Bates number"
+  "company": "BROWN & WILLIAMSON",
+  "year": "1994",
+  "collection": "COLLECTION",
+  "bates_id": "670805266",
+  "notations": {
+    "page_numbers_missing": "PAGE NUMBER(S) WERE MISSING IN THE ORIGINAL.",
+    "poor_quality_original": "POOR QUALITY ORIGINAL.",
+    "overlay_item_damage": "OVERLAY ITEM COULD NOT BE REMOVED WITHOUT DAMAGE TO THE ORIGINAL.",
+    "no_documents_found": {
+      "file_folder": "FILE FOLDER (.).",
+      "redrope_expandable_file": "REDROPE EXPANDABLE FILE (.).",
+      "hanging_file": "HANGING FILE (.).",
+      "envelope": "ENVELOPE (.).",
+      "other": "OTHER (SPECIFY) (.)."
+    },
+    "color_reproduction": "DOCUMENT COPIES WERE REPRODUCED IN COLOR TO PERMIT CORRECTION INTERPRETATION.",
+    "bates_number_not_used": "BATES NUMBER NOT USED.",
+    "other_variance": "OTHER VARIANCE (EXPLAIN)."
+  }
 }

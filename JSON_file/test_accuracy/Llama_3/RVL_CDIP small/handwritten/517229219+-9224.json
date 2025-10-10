@@ -1,4 +1,10 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nPlease indicate whick Winston Select brand style you prefer (ch ony om):\nOCD rut Re s54Sef Pick 02C) Ful Raver 854 ox 08) Lights B54 Sf Pack 4D Highs 85% Box OSD Ligh 1003 Soft Pack 06) Sim Lighes 100% Box our request cannot be processed without your signature and birthdat...\n6tz6 zzLts 100% Box our request cannot be processed without your signature and birthdat...\nPlease select one of the following Winston Select brand styles:\n1. 100% Box\n2. 100% Box our request cannot be processed without your signature and birthdat...\n3. 100% Box our request cannot be processed without your signature and birthdat...\n4. 100% Box our request cannot be processed without your signature and birthdat...\n5. 100% Box our request cannot be processed without your signature and birthdat...\n6. 100% Box our request cannot be processed without your signature and birthdat...\n7. 100% Box our request cannot be processed without your signature and birthdat...\n8. 100% Box our request cannot be"
+  "question": "Please indicate which Winston Select brand style you prefer (chk only n)",
+  "options": [
+    "D1Full Flavor 85s Soft Pack",
+    "02Ful Flavor 85s Box",
+    "03Lights 85s Sof Pack",
+    "4Lights 85s Box"
+  ],
+  "note": null
 }

@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nRÉPUBLIQUE FRANCAISE MINISTERE DE LA DEFENSE TÉLÉCOPIE Non protégéeDiffusion restreinte Date: J1 106/2co6 No DGA No de télécopieur :\nDESTINATAIRE(S) :\nDÉLEGATION GENÉRALE 0160F6 4 3 33 NNA Asswranceo POURL'ARMEMENT DIRECTION DE L'EXPERTISE TECHNIQUE Centre d'expertise parisien Nombre de page dont celle-ci :\nExpéditeur :\nurgent routine Caractére d'urgence : immédiat Sandune Band 0BJET: @ermancle -de -documentatom Fax01.42.31.\nTél. : 01.42.31.03 1843636 'omcemant fes contrats d'anuance nie Email :\nVeuille3 lrower ci-j'eint mon courie conceunant one demande de documentatom Sur leo conhats d'anuance nie.\nSandune Crand Centre d'expertise parisien - 16bis, avenue Prieur de la Cöte d'Or 94114 Arcueil Cedex Téléphone : 33 (0)1.42.31.92.39 - Télécopie : 33 (0)1.42.31.99.55\nSandune Crand Centre d'expertise parisien - 16bis, avenue Prieur de la Côte d'Or 94114 Arcueil Cedex\nFax : 33 (0)1.42.31.99.55\nEmail : [sandune.crand@centre-expertise-parisien.fr](mailto:sandune.crand@centre-expertise-parisien.fr)\nTél. : 33 (0)1.42.31.92.39\n\nRéponse :\n\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante :\nLa réponse est la suivante"
+  "document": "TÉLÉCOPIE",
+  "scenario": "Non protégéeDiffusion restreinte",
+  "writer": "RÉPUBLIQUE FRANCAISE",
+  "sender_person": "DGA",
+  "sender_company": "MINISTERE DE LA DEFENSE",
+  "sender_tel": "01.42.31.03 1843636",
+  "sender_fax": "Fax01.42.31.",
+  "receiver_person": "DÉLEGATION GENÉRALE",
+  "receiver_company": "NNA Asswranceo",
+  "subject": "Objet: @ermancle -de -documentatom",
+  "date": "J1 106/2co6",
+  "place": "Centre d'expertise parisien - 16bis, avenue Prieur de la Cöte d'Or 94114 Arcueil Cedex",
+  "box": "urgent"
 }

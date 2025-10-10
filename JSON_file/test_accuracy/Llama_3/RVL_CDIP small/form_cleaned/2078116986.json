@@ -1,4 +1,33 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nae BEL GAT  /AO) pat sun baer - 4 f-\nlS tale CLEARY, GomTbies, STEEN & HaMi Vibeiven ew vornemy 1991470 gg yay “4 PHti2# 16 wre FACSIMILE From Jonathan Blackuan Date May 6, 2000 Sender's direct dial (212-225-2490 For retrapsmission (212)...\nRosa 9869118202 “This Gicsmile mosage js being seat by or on behalf of e aware ws intended for the exclusive uae ofthe adérenoco mamed above and may consis inforoution tet is plleged of cotiZental or..."
+  "printTime": "11:13AM",
+  "printDate": "MAY.4.",
+  "receivedTime": "1110M",
+  "receivedDate": "MAY.4.",
+  "location": "ONE LIBERTY PLAZA, NEW YORK, NY 10006-1470",
+  "faxHeader": "WH",
+  "contactNumber": "212)225-2000",
+  "sender": {
+    "name": "Jonathan I. Blackman",
+    "date": "May 4,2000",
+    "directDial": "212-225-2490",
+    "retransmission": "212)225-3545",
+    "fax": "212-225-3999",
+    "totalPagesSent": "42"
+  },
+  "recipient": {
+    "name": "Chistopher M.Nolan, Esq",
+    "company": "Philip Morris Management Corp.",
+    "fax": "917-663-5356",
+    "phone": "917-663-3048"
+  },
+  "message": "Attached is the document you requested Rosa 2078116986 This facsimile message is being sent by an agent on behalf of a lawyer, it is intended for the exclusive use of the addressee named above and may constitute information that is privileged or confidential or otherwise legally exempt from disclosure. If you have received this facsimile message in error, please do not read, copy or disseminate. Notify us immediately by telephone and return the original facsimile to us by mail.",
+  "senderAssistant": "Rosa",
+  "senderID": "00169",
+  "referenceNumber": "11566-008",
+  "faxRoom": "CGSHNT FAX RM",
+  "faxTime": "12:14 FAX",
+  "faxNumber": "2122253999",
+  "faxDate": "05/04/00",
+  "note": null,
+  "documentID": null
 }

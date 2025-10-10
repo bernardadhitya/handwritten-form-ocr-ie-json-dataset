@@ -1,4 +1,20 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nGX bracneou EX swousr FE. € rire Rtuedoudel CEE seul is 3 Eee or LOS 122 Free ê/ k LL cs 2581230 085085474125 300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852300852"
+  "bank": "CREDITAGRICOLE",
+  "branch": "SUDOUEST",
+  "accountHolder": "Sidney Lapointe",
+  "accountNumber": "2581230",
+  "transactionDetails": {
+    "transactionId": "EL2327",
+    "transactionDate": "06/05/22",
+    "transactionAmount": "1.000",
+    "transactionLocation": "Re du CraPercre"
+  },
+  "contact": {
+    "phone": "0658085474125",
+    "alternatePhone": null
+  },
+  "misc": {
+    "code": "OCTOL.CLSE",
+    "reference": "Chee.e N"
+  }
 }

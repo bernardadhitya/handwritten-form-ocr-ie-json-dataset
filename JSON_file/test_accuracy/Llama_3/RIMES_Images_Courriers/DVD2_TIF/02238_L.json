@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\ndtefe Saurgeon BMP_ Bamque Yutel& ctleocandsia de $auio 2o suz Sasreut 9o9 &oniche dbicRel 3aha oog ap. fonoyp osr hS 2ow m zwfeg oP 0OG E& o373 41 96 56 Jodame. movsieur, caukailetais commander deo a...\nSageon BMP-2 2o suz Sasreut 9o9 &oniche dbicRel 3aha oog ap. fonoyp osr hS 2ow m zwfeg oP 0OG E& o373 41 96 56 Jodame. movsieur, caukailetais commander deo a...\nSageon BMP-2 2o suz Sasreut 9o9 &oniche dbicRel 3aha oog ap. fonoyp osr hS 2ow m zwfeg oP 0OG E& o373 41 96 "
+  "document": "BMP_ Bamque Yutel&",
+  "scenario": "ctleocandsia",
+  "writer": "Saurgeon",
+  "sender_person": "Jodame. movsieur",
+  "sender_company": "caukailetais",
+  "sender_tel": "o373 41 96 56",
+  "sender_fax": null,
+  "receiver_person": "commander deo achonb &autieieo pau un monrand",
+  "receiver_company": "repechueueo",
+  "date": "de $auio",
+  "place": "oog ap. fonoyp osr hS",
+  "box": "2ow m zwfeg oP 0OG E&"
 }

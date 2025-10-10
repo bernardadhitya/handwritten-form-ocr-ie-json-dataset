@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nWAR GN1ER Jodam GA RUECH eDOUtND An 1CT G&U3O ACTK1 nCH Tsl 03.09910c 98 NNA ASSo(AN cS AVEN UE NOU RAIN 8533O N0IRnoui1ER EN 37s117 tanco da l'acadamt caiaxomon 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+  "document": "WAR GN1ER Jodam",
+  "scenario": "GA RUECH eDOUtND An 1CT",
+  "writer": "G&U3O ACTK1 nCH",
+  "sender_person": null,
+  "sender_company": null,
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "date": "03.09910c 98",
+  "place": "AVEN UE NOU RAIN",
+  "box": "8533O N0IRnoui1ER EN"
 }

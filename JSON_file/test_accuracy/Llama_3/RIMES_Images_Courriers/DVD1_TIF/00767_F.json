@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nRESEAU NORD EST AGENCE EXPLOITATION LILLE-BETHURNE VOS REF be WE i LE BouR & - 327520 — Menlueud in Rurore NOS RÉF AO nue Ê = MARSITS H - 67 700 uvrercocureun CLÉ ME NTE Ln aull., eanon pme. nédamokin... (text truncated)\n\n... 327520 — Menlueud in Rurore NOS RÉF AO nue Ê = MARSITS H - 67 700 uvrercocureun CLÉ ME NTE Ln aull., eanon pme. nédamokin... (text truncated)\n\n... 327520 — Menlueud in Rurore NOS RÉF AO nue Ê = MARSITS H - 67 700 uvrercocureun CLÉ ME NTE Ln aull., eanon pme. nédamokin... (text truncated)\n\n... 327520 — Menlueud in Rurore NOS RÉF AO nue Ê = M"
+  "document": "GRTgaz",
+  "scenario": "RESEAU NORDEST",
+  "writer": "AGENCE EXPLOITATION LILLE-BETHUNE",
+  "sender_person": null,
+  "sender_company": "AGENCE EXPLOITATION LILLE-BETHUNE",
+  "sender_tel": "03.21.64.79.30",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": null,
+  "date": null,
+  "place": "Montreuil en Turone",
+  "box": "VOS REF."
 }

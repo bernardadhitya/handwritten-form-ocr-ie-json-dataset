@@ -1,3 +1,19 @@
 {
-    "error": "Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  "document": "SG",
+  "scenario": "Fax",
+  "writer": "A'attention/ Nais Assurmas",
+  "sender_person": "A'attention/ Nais Assurmas",
+  "sender_company": "Socitté Générale",
+  "sender_tel": "01.40.16.00.08",
+  "sender_fax": "Fax 1.6.76.63.33",
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "Dammde dinformalion",
+  "date": null,
+  "place": "Tour Société Générale, 92972 Paris, La Defense Cédex, France",
+  "box": null,
+  "confidential": true,
+  "acknowledgement_request": true,
+  "amount": 528749122.5,
+  "thanks": "I'émetteur, merci."
 }

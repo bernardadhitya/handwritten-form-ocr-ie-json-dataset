@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nVOcV le 12lo3/o4 7me Ioune SA 6E 4 J BOuleaux 88 24o leo Voc'o 1onw  J7aie Oan ma ue,depu; queepus mot:, la anpwlate'  & Cms ont toto ment Ceu`d you wmme d nut, & Ita deir'aon Ror d ta n'le pa exemple...\nIare a m, pentmen5 Hoiu l mele,  & 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a "
+  "document": "VOcV le 12lo3/o4",
+  "scenario": "7me Ioune SA 6E",
+  "writer": "4 J BOuleaux",
+  "sender_person": "88 24o leo Voc'o",
+  "sender_company": "1onw  J7aie",
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": "Oan ma ue,depu; queepus mot:, la",
+  "receiver_company": "anpwlate'  & Cms ont toto ment",
+  "date": null,
+  "place": null,
+  "box": null
 }

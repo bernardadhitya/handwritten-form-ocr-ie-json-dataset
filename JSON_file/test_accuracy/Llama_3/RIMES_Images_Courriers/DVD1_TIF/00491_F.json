@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nTELECOPIE L.M.A.R.C.\nDate: 5/10/2006 Laboratoire de Mécanique Appliquée R. Chaléat UMR CNRS 6604 Nombre de page (inclus celle-ci) :3 24 rue de l'Epitaphe HONORE PRi&ppe 25000 BESANCON (FRANCE) Tel. secrétariat : 03.81.66....\nObjer Resilaho d'anusemce habiahm\nObjer Resilaho d'anusemce habiahm\nObjer Resilaho d'anusemce habiahm\nObjer Resilaho d'anusemce habiahm\nObjer Resilaho d'anusemce habiahm\nObjer Resilaho d'anusemce habiahm\nObjer Resilaho d'anusemce habiahm\nObjer Resilaho d'anusemce habiahm\nObjer Resilaho d'anusemce habiahm\nObjer Resilaho d'anusemce habiahm\nObjer Resilaho d'anusemce habiahm\nObjer Resilaho d'anusemce habiahm\nObjer Resilaho d'anusemce habiahm\nObjer Resilaho d'anusemce habiahm\nObjer Resilaho d'anusemce habiah"
+  "document": "TELECOPIE",
+  "scenario": "L.M.A.R.C.",
+  "writer": "HONORE PRi&ppe",
+  "sender_person": "HONORE PRi&ppe",
+  "sender_company": "Laboratoire de Mécanique Appliquée R. Chaléat",
+  "sender_tel": "03.81.66.60.00",
+  "sender_fax": "03.81.66.67.00",
+  "receiver_person": "BA AF AMuamce",
+  "receiver_company": "Quaurer BarHay Malartic",
+  "subject": "Objer Resilaho d'anusemce habiahm",
+  "date": "5/10/2006",
+  "place": "24 rue de l'Epitaphe, 25000 BESANCON (FRANCE)",
+  "box": "57 390 Audwn leTiche"
 }

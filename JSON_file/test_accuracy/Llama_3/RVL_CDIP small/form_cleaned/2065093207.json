@@ -1,4 +1,28 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nFEB-20-98 17:11 FronsRd REYHOLOS TosACCD Co. zonszeT208 TOI P.O} Job-02e R.J.REYNOLDS TOBACCO COMPANY 11455 Pennsylvania Avenue, NW, Suite 925 ‘Washington, D.C. 20004 202-626-7225 FAX: 202-626-7208 ro...\nJohn Fish (202-626-7225) or JOYCE MUENCH (202-626-7219 Federal Government Affairs Office ‘Washingtoa, D.C.\n8 & g 3 8 S wuwmrror races: tus COVER SHEET\nFEB-20-98 17:11 FronsRd REYHOLOS TosACCD Co. zonszeT208 TOI P.O} Job-02e R.J.REYNOLDS TOBACCO COMPANY 11455 Pennsylvania Avenue, NW, Suite 925 ‘Washington, D.C. 20004 202-626-7225 FAX: 202-626-7208 ro...\nJohn Fish (202-626-7225) or JOYCE MUENCH (202-626-7219 Federal Government Affairs Office ‘Washingtoa, D.C.\n8 & g 3 8 S wuwmrror races: tus COVER SHEET\nFEB-20-98 17:11 FronsRd REYHOLOS TosACCD Co. zonszeT208 TOI P.O} Job-02e R.J.REYNOLDS TOBACCO COMPANY 11455 Pennsylvania Avenue, NW, Suite 925 ‘Washington, D.C. 20004 202-626-7225 FAX: 202-626-7208 ro...\nJohn Fish (202-626-7225) or JO"
+  "date": null,
+  "time": "1711",
+  "from": "RJ REYNOLDS TOBACCO CO.",
+  "fax_number": null,
+  "transmission_code": null,
+  "page_number": null,
+  "document_code": null,
+  "company": null,
+  "address": null,
+  "phone": null,
+  "fax": "202-626-7208",
+  "recipient": null,
+  "sender": null,
+  "contact_date": null,
+  "contact_person_1": {
+    "name": null,
+    "phone": null
+  },
+  "contact_person_2": {
+    "name": null,
+    "phone": null
+  },
+  "office": "Federal Government Affairs Office",
+  "location": null,
+  "additional_code": null,
+  "number_of_pages": null
 }

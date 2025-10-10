@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nc1mu SE&REs &ennelte 56 C Rue cl&chaim 25 4.20 COURCELLES MAN1F Assurances tel: 03.86.25.83.29.\n36 Rue Carmot COLOM BEY -\n54 170 - Les - Beues.\nRef :\nCTACJ 09 :\nY 13 c1ars JooT ladame, Honsieur, Sute a mes dernires dimarchas, s'ai a fotemenk desu nou m'auxs pas rempli oohe comhal,at de ce fait, j'exiqe qu' il soit imennompu sur.le champ. Faites-moi parvenir l...\nwou prie d'aqréer,madame, monsisur, l'spresion de mes salulalions distinquées.\nEarres: \n- 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1."
+  "document": "CTACJ 09",
+  "scenario": "Y 13 c1ars JooT",
+  "writer": "ladame, Honsieur",
+  "sender_person": "COLOM BEY",
+  "sender_company": "MAN1F Assurances",
+  "sender_tel": "03.86.25.83.29.",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "date": "25 4.20",
+  "place": "COURCELLES",
+  "box": "36 Rue Carmot"
 }

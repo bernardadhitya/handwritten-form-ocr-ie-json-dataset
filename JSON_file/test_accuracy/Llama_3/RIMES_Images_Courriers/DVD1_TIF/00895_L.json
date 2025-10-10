@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nEVANNO BRiGiTTe VA U1 N A VEyS 1ehavT,1e 6.1106 1e havT 3 841O V A v1NA V E yS Té1.04.01.48.07-46 BAAF ASSURaNCeS A GGIO ME RATION ASPRIERES 12+00 Reference c1ienr: xbxm v76 madlame rnmorrwoaw 8ute a... (rest of the text truncated)\n\nHere is the extracted structured information:\n\n* `name`: Evan\n* `age`: 6\n* `height`: 110.6\n* `weight`: 8410\n* `gender`: male\n* `date_of_birth`: 01.04.01.48.07-46\n* `reference`: xbxm v76 madlame rnmorrwoaw 8ute a\n\nNote that the text is truncated, but the above information is extracted from the provided text.\n\nHere is the structured JSON output:\n\n```json\n{\n  \"name\": \"Evan\",\n  \"age\": 6,\n  \"height\": 110.6,\n  \"weight\": 8410,\n  \"gender\": \"male\",\n  \"date_of_birth\":"
+  "document": "EVANNO",
+  "scenario": "BRiGiTTe",
+  "writer": "VA U1 N A VEyS 1ehavT,1e 6.1106",
+  "sender_person": "1e havT",
+  "sender_company": "3 841O V A v1NA V E yS",
+  "sender_tel": "Té1.04.01.48.07-46",
+  "sender_fax": "BAAF",
+  "receiver_person": "ASSURaNCeS",
+  "receiver_company": "A GGIO ME RATION",
+  "date": "ASPRIERES",
+  "place": "12+00",
+  "box": "Reference c1ienr: xbxm v76"
 }

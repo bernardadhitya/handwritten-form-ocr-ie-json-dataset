@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nExp BM P_ Banqve mnnnIl d2 pans Belliard Den's Le Bom8 1 9nue d Nonmomdic 4Z8OO SF Romam en 5ow 62 6O0 oBersoasheim Te1: 03 4264344 RccleI: KQV HR86 m5ention din de echeances preside cmoy Bll'ard Dens 1 9nue d Nonmomdic 4Z8OO SF Romam en 5ow 62 6O0 oBersoasheim Te1: 03 4264344 RccleI: KQV HR86 m5ention din de echeances preside cmoy Bll'ard Dens 1 9nue d Nonmomdic 4Z8OO SF Romam en 5ow 62 6O0 o"
+  "document": "Exp",
+  "scenario": "BM P_ Banqve mnnnIl d2 pans",
+  "writer": "Belliard Den's",
+  "sender_person": "Le Bom8",
+  "sender_company": "1 9nue d Nonmomdic",
+  "sender_tel": "Te1: 03 4264344",
+  "sender_fax": "RccleI: KQV HR86",
+  "receiver_person": "m5ention",
+  "receiver_company": "din de echeances preside",
+  "subject": "cmoy",
+  "date": null,
+  "place": "62 6O0 oBersoasheim",
+  "box": null
 }

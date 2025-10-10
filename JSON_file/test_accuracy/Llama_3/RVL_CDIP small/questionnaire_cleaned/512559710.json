@@ -1,3 +1,63 @@
 {
-    "error": "Blockwise quantization only supports 16/32-bit floats, but got torch.uint8"
+  "survey": {
+    "title": null,
+    "introduction": null,
+    "questions": [
+      {
+        "question": null,
+        "options": [
+          "Yes",
+          null
+        ]
+      },
+      {
+        "question": "Once you received the kit and materials, did you review them in detail?",
+        "options": [
+          "Yes",
+          null
+        ],
+        "response": null
+      },
+      {
+        "question": null,
+        "response": null
+      },
+      {
+        "question": null,
+        "options": [
+          null,
+          null
+        ],
+        "response": null,
+        "follow_up": {
+          "question": "If yes, who?",
+          "response": null
+        }
+      },
+      {
+        "question": null,
+        "options": [
+          null,
+          null
+        ],
+        "response": null,
+        "follow_up": {
+          "question": null,
+          "response": null
+        }
+      }
+    ],
+    "personal_information": {
+      "name": null,
+      "position": null,
+      "organization": null,
+      "mailing_address": "",
+      "city": null,
+      "state": null,
+      "zip": null,
+      "telephone_area_code": "",
+      "telephone_number": ""
+    },
+    "closing": null
+  }
 }

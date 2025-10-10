@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nFERRE Forione Chemin du pré d Icare 83 1RO P1an de la Tou1 Tel : o4 28 65 98 9O NP1F Fssurances 1 pl&e du 8 moi 1g45 37 38O St Lourrnf en Gahmes DTWJ R 79 Madame, Monsicur, Vous ciucs clans cine m@iso... (text truncated)\n\nThe text appears to be a snippet of a letter or email, but it's not clear what the content is. However, I can extract the structured information from the address and phone number:\n\nAddress:\n- Street: Chemin du pré d Icare\n- City: Forione\n- Postal Code: 83 1RO\n- Plan: P1an de la Tou1\n- Address Type: ( unclear, possibly a building or location name)\n\nPhone Number:\n- Country Code: +33\n- Area Code: 04\n- Phone Number: 28 65 98 90\n- Phone Type: ( unclear, possibly a landline or mobile phone number)\n\nHere is the"
+  "document": "FERRE Forione",
+  "scenario": "NP1F Fssurances",
+  "writer": "Madame, Monsicur",
+  "sender_person": "Vous",
+  "sender_company": "NP1F Fssurances",
+  "sender_tel": "o4 28 65 98 9O",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "ciucs clans cine m@ison Dour mmenager Je vous sera...",
+  "date": null,
+  "place": "1 pl&e du 8 moi 1g45, 37 38O St Lourrnf en Gahmes",
+  "box": "DTWJ R 79"
 }

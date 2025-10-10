@@ -1,4 +1,83 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nconte F (save adore SHEETS) = STOCK SCREEN DATA SHEET DATE Ut¢-84 sur _//- 7- # TIME = 2/0 ican cme jy] al | mame ene 24 hy (ct (i/e Room) FREENESS 315 uf nel | | INLET PRESSURE BE PEST 34 Saree sl i...\n/file a2.001.rkg 10/89 2030028153 ° 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+  "confidential": true,
+  "stockScreenDataSheet": {
+    "date": null,
+    "shift": null,
+    "time": null,
+    "flowTo": null,
+    "hs": "210",
+    "iny": null,
+    "h81": "180",
+    "machine": "chest",
+    "freenessAfterRefinerFeed": [
+      null,
+      33,
+      null
+    ],
+    "mcRoomFreeness": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "accept": null,
+    "inletPressureToStockScreen": [
+      null,
+      null,
+      null
+    ],
+    "outletPressureToStockScreen": [
+      57,
+      35,
+      null
+    ],
+    "acceptValve": [
+      null,
+      null,
+      70
+    ],
+    "nollisonRejectValvePosition": [
+      null,
+      35,
+      null
+    ],
+    "stockScreen": [
+      null,
+      132,
+      null,
+      null
+    ],
+    "motorLoad": null,
+    "threadsOn": 8,
+    "ceramicValveInletPressureTo1stRefiner": [
+      null,
+      51,
+      null,
+      null
+    ],
+    "outletPressureToLastRefiner": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "kwOnRefiner": null,
+    "refinerData": {
+      "#1": [
+        null,
+        151,
+        150,
+        null
+      ],
+      "#2": null,
+      "#3": [
+        null,
+        161,
+        null,
+        null
+      ],
+      "#4": null
+    },
+    "remarks": null
+  }
 }

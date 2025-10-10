@@ -1,4 +1,17 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nocT @1 ’93 13:42 LEO BURNETT 1s) co COMPETITIVE FLASH REPORT wae: Bllabrin “farang tor DATE: afifys CONTACT/COMPANY/PUBLICATION (OPTIONAL): —Ceapedarbial ____— S CONFIDENCE RATING (HOW RELIABLE IS THI...\n(1 LOWEST RELIABILITY - 5 HIGHEST RELIABILITY) COMPETITIVE FLASH ( €.G., NEW BRAND INTRODUCTION/TEST MARK‘ PENDING; AD MAJOR SHIFTS/REDUCTIONS/INCREASES IN COMPANY/BRAND SI CAMPAIGN CHANGES; SPECIAL C..."
+  "report_id": "OCT 019313:12LE0BURNETT",
+  "time": "15",
+  "location": null,
+  "contact": {
+    "name": "Torn Aulrek",
+    "company": null,
+    "publication": null
+  },
+  "confidence_rating": 1,
+  "competitive_flash": "COMPETITIVE FLASH REPORT AT CONTACT/COMPANY/PUBLICATION (OPTIONAL):",
+  "photos_samples_available": "Y",
+  "fax_to": "KAYGALEOTTI",
+  "company": "PM USA,NEWYORK",
+  "fax_number": "212907-5313",
+  "phone_number": "212880-3268"
 }

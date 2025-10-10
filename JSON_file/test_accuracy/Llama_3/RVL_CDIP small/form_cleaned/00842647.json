@@ -1,3 +1,99 @@
 {
-    "error": "Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  "title": null,
+  "compound": "2-Carboethoxymethyl-1,3,7,7-tetramethyl-bicyclo[4.4.0]dodec-2-ene",
+  "source": {
+    "company": "Lorillard - Organic Chemistry",
+    "lorillard_no": null,
+    "or_number": null
+  },
+  "lot_no": null,
+  "dates": {
+    "received": null,
+    "tested": "1/7/81"
+  },
+  "investigators": [
+    null,
+    "A.A. Poole"
+  ],
+  "notebook_page": "BC18-18",
+  "toxicity_percent_survival": [
+    null,
+    null,
+    null
+  ],
+  "solvent": null,
+  "concentration_mg_ml": null,
+  "organism": null,
+  "strains": {
+    "TA1535": {
+      "control_revertants_per_plate": null,
+      "compound_ug_plate": {
+        "500": null,
+        "250": 1.7,
+        "125": 1.33
+      },
+      "positive_control": {
+        "2-aminoanthracene": null
+      }
+    },
+    "TA100": {
+      "control_revertants_per_plate": null,
+      "compound_ug_plate": {
+        "500": null,
+        "250": null,
+        "125": 1.0
+      },
+      "positive_control": {
+        "2-aminoanthracene": null
+      }
+    },
+    "TA98": {
+      "control_revertants_per_plate": null,
+      "compound_ug_plate": {
+        "500": null,
+        "250": 0.83,
+        "125": null
+      },
+      "positive_control": {
+        "2-aminoanthracene": 1.01
+      }
+    },
+    "JS-9": {
+      "control_revertants_per_plate": null,
+      "compound_ug_plate": {
+        "500": 1.83,
+        "250": null
+      },
+      "positive_control": {
+        "2-aminoanthracene": null
+      }
+    },
+    "+JS-9": {
+      "control_revertants_per_plate": 6.0,
+      "compound_ug_plate": {
+        "500": null,
+        "250": 1.0
+      },
+      "positive_control": {
+        "2-aminoanthracene": null
+      }
+    },
+    "-JS-9": {
+      "control_revertants_per_plate": null,
+      "compound_ug_plate": {
+        "500": null,
+        "250": null
+      },
+      "positive_control": {
+        "2-aminoanthracene": null
+      }
+    }
+  },
+  "conclusion": null,
+  "conclusion_code": null,
+  "xc": [
+    null,
+    null
+  ],
+  "lorillard_research_center": null
 }

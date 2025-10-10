@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nLout REGENT 0 Sue Drake 06 6<o St Etienne LTiNÉE B.\".P.\nRots de Ru 21530 LA RoGHE ex B RENIC G Fan Lee, ur. Récation de ut: uns dur filter 10 Ry KEXAX A2 Momseux de Drudtas., dau ma We du Cul LG Gt an fon, vous demau daix de nl von DRAC à mn nom, que qe... (il y a 2 pages de texte)\n\nIl y a 2 pages de texte, mais je vais vous donner les informations clés :\n\n* Lout REGENT 0\n* Sue Drake\n* 06 6<o St Etienne LTiNÉE B.\".P.\n* Rots de Ru 21530 LA RoGHE ex B RENIC G Fan Lee\n* Récation de ut: uns dur filter 10 Ry KEXAX A2 Momseux de Drudtas., dau ma We du Cul LG Gt an fon, vous demau daix de nl von DRAC à mn nom, que qe...\n\nNote that the text is not in a standard format and contains some errors or typos. I'll do my best to extract the structured information and return it as a JSON object.\n\nHere is the structured JSON output:\n```\n{\n  \"name\": \"Lout REGENT 0\",\n  \"phone\": \"06 6<o St Etienne LTiN"
+  "document": "2w Rt6tNT",
+  "scenario": "yvC xmc ot",
+  "writer": "O66so St tTiENNE dQTiNEe",
+  "sender_person": "B.M.P.",
+  "sender_company": "Route de Paris",
+  "sender_tel": "21 53O LA RoCHE &u B RtNic",
+  "sender_fax": "1yammmt s)",
+  "receiver_person": "Oljer : Reilation &e womt, nouniu dut jiller roo",
+  "receiver_company": "Rel",
+  "subject": "k e X AX 12",
+  "date": "1oniem le Sinde",
+  "place": "Daus ma lelu du6juillur 2v6, atk e",
+  "box": "fouue, s ms demaudais d aamon wm noxxx"
 }

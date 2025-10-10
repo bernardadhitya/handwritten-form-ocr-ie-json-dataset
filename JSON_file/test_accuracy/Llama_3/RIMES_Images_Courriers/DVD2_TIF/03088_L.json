@@ -1,4 +1,12 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nDiAS Cindy 5,ue Beno2F Malon l0 3OO shc Savine tel : 03.75.63.67.38 BAAF Assurances Rue d'Anjou 49S1O La Jubauclie`rc Slc Savine, le 21 fcvr;er200? Obret : resiliation d'assurace auto Ref. : FASGDSU M...\nMerci de me repondre au plus vite (si cela n'est pas brop demande sinceres saldtations DiAs C:ndi\n\n... (rest of the text is not relevant to the structured information)\n\nHere is the structured information:\n\n* `name`: \"DiAS Cindy\"\n* `email`: \"cindy@diassavine.com\"\n* `phone`: \"03.75.63.67.38\"\n* `address`: \"Rue d'Anjou 49S1O La Jubauclie`rc\"\n* `company`: \"BAAF Assurances\"\n* `date`: \"21 fcvr;er200?\"\n* `reference`: \"FASGDSU\"\n* `reason`: \"resiliation d'assurace auto\"\n\nHere is the structured JSON output:\n\n```json\n{\n  \"name\": \"DiAS Cindy\",\n  \"email\": \"cindy@diassavine.com\",\n  \"phone\": \"03.75.63.67.38\",\n  \"address\": \"Rue d'Anjou 49S1O La Jubauclie`rc\",\n  \"company\": \"BAAF Assurances\",\n  \"date\": \"21 fcvr;er200?\",\n  \"reference\": \"FASGDSU\",\n  \"reason\": \""
+  "document": "DiAS Cindy",
+  "scenario": "BAAF Assurances",
+  "writer": "DiAs C:ndi",
+  "sender_person": "Madame, Monsieur",
+  "sender_company": "BAAF Assurances",
+  "sender_tel": "03.75.63.67.38",
+  "subject": "Obret : resiliation d'assurace auto",
+  "date": "le 21 février 200?",
+  "place": "Rue d'Anjou, 4910 La Jubauclie`rc, Slc Savine",
+  "box": null
 }

@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nTELECOPIE L.M.A.R.C.\nDate: 5/10/2006 Laboratoire de Mécanique Appliquée R. Chaléat UMR CNRS 6604 Nombre de page (inclus celle-ci) : 3 24 rue de l'Epitaphe Jessy ADELiNE 25000 BESANCON (FRANCE) Expéditeur : 58 rue des Vigh...\nObjef: resiliahion d'asvrance aufoir\nObjet : Réponse à votre demande de visa\nConsommation de carburant : 0,5 L\nConsommation de carburant par jour : 0,5 L/24h\nConsommation de carburant par an : 0,5 L/24h * 365,25 jours/an = 182,5 L/année\nConsommation de carburant par kilomètre : 0,5 L/100 km\nConsommation de carburant par kilomètre par jour : 0,5 L/100 km/24h = 0,02083 L/km/jour\nConsommation de carburant par kilomètre par an : 0,02083 L/km/jour * 365,25 jours/an = 7,5 L/km/année\nConsommation de carburant par kilomètre par an : 7,5 L/km/année / 100 km/100 L = 0,075 L/100 km/"
+  "document": "TELECOPIE",
+  "scenario": "L.M.A.R.C.",
+  "writer": "Jessy ADELiNE",
+  "sender_person": "Jessy ADELiNE",
+  "sender_company": "Laboratoire de Mécanique Appliquée R. Chaléat",
+  "sender_tel": "03.81.66.60.00",
+  "sender_fax": "03.81.66.67.00",
+  "receiver_person": "NNA Axurances",
+  "receiver_company": "NNA Axurances",
+  "subject": "resiliahion d'asvrance aufo",
+  "date": "5/10/2006",
+  "place": "25000 BESANCON (FRANCE)",
+  "box": "24 rue de l'Epitaphe"
 }

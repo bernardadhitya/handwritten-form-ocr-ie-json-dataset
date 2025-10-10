@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nSean luC Quati GasTelkndo 643O /BARs R 0S.55.48.64.\nRAAF AsSvANCES 1e 1ue Afud Cancl J7SoO PONTAVOEMER E9 7LODO O35ET bumande dc feche su te den't r rahe AuT nendu Comte quc ouo 1e 1ue 1e 1ue 1e 1ue 1e 1ue 1e 1ue 1e 1ue 1e 1ue 1e 1ue 1e 1ue 1e 1ue 1e 1ue 1e 1ue 1e 1ue 1e 1ue 1e "
+  "document": "Quati GasTelkndo",
+  "scenario": "643O /BARs",
+  "writer": "Sean luC",
+  "sender_person": "RAAF AsSvANCES",
+  "sender_company": "1e 1ue Afud Cancl",
+  "sender_tel": "J7SoO PONTAVOEMER",
+  "sender_fax": "E9 7LODO",
+  "receiver_person": "O35ET",
+  "receiver_company": "bumande dc feche",
+  "subject": "su te den't",
+  "date": "r rahe",
+  "place": "AuT nendu Comte",
+  "box": "quc ouo"
 }

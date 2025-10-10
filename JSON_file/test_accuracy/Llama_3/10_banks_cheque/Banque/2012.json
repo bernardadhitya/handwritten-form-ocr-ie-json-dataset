@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nBANQUE E Payez conre co chu non endossaineThosandineHundred redperercusvement somentouteslers Sauf au profit d'une banque ou d'un etablissement assimid and_Twelve 9912 A MariaKalb N'de compne 15236000..._  1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1."
+  "bank": "BANQUE",
+  "payee": "MariaKalb",
+  "amount_in_words": "ThosandineHundred",
+  "amount_in_numbers": "9912",
+  "account_holder": "Arvrona",
+  "account_number": "1523600060070008545636-0000255",
+  "branch": "123RUE SPECIMEN",
+  "signature": "M.MARTIN",
+  "transaction_code": "L06.105122",
+  "authorized_person": "N'de compne",
+  "address": "75015PARIS",
+  "code": "C000036"
 }

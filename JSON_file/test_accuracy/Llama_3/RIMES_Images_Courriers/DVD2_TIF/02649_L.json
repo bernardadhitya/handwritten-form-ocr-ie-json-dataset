@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nla o7 lEvuer 2oT Coqueuin Cye1 RJe CHARLES AsRoUKE iE MovTFOeT eS xo CAP o4 p2 37 9t 9u A SAAF ASSULANCE iS 2ve d ia Maiie Annexe 83 i3o LA GAnDE Obel : R&s:Uatov d'zssu1awca ha:tzt3 Madam, Monsievn,...\nI'exaass' CEuRoPeAn CoUnTy 2oT Coqueuin Cye1 RJe CHARLES AsRoUKE iE MovTFOeT eS xo CAP o4 p2 37 9t 9u A SAAF ASSULANCE iS 2ve d ia Maiie Annexe 83 i3o LA GAnDE Obel : R&s:Uatov d'zssu1awca ha:tzt3 Madam, Monsievn,...\nI'exaass' CEuRoPeAn CoUnTy 2oT Coqueuin Cye1 RJe CHARLES AsRoUKE iE MovTFOeT eS xo CAP o4 p2 37 9t 9u A SAAF ASSULANCE iS "
+  "document": "Coqueuin Cye1",
+  "scenario": "RJe CHARLES AsRoUKE iE MovTFOeT",
+  "writer": "eS xo CAP",
+  "sender_person": "o4 p2 37 9t 9u",
+  "sender_company": "SAAF ASSULANCE",
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": "iS 2ve d ia Maiie Annexe",
+  "receiver_company": "83 i3o LA GAnDE",
+  "subject": "Obel : R&s:Uatov d'zssu1awca ha:tzt3",
+  "date": null,
+  "place": null,
+  "box": null
 }

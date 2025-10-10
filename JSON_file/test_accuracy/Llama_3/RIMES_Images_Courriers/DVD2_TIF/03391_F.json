@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nFAX De : Florcne Pn&voH Tel : o3 755 80 o5 Fax: o 3 7S 5 8o o7 Attention: N AiF ASSunanCoo Tél.: O1 59 46 27 3o Fax:o.1 5q 4627 3i Nombre de page(s) - celle ci incluse :\nde documentation Conounant vos contRals d'asurcune auto CoRcuialemenr Floiane PavoroH (Florcne Pn&voH) \nde la page 1 à la page 3 \nde la page 4 à la page 6 \nde la page 7 à la page 9 \nde la page 10 à la page 12 \nde la page 13 à la page 15 \nde la page 16 à la page 18 \nde la page 19 à la page 21 \nde la page 22 à la page 24 \nde la page 25 à la page 27 \nde la page 28 à la page 30 \nde la page"
+  "document": "FAX",
+  "scenario": null,
+  "writer": "Florcne Pn&voH",
+  "sender_person": "Florcne Pn&voH",
+  "sender_company": "N AiF ASSunanCoo",
+  "sender_tel": "o3 755 80 o5",
+  "sender_fax": "o 3 7S 5 8o o7",
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": null,
+  "date": null,
+  "place": null,
+  "box": null
 }

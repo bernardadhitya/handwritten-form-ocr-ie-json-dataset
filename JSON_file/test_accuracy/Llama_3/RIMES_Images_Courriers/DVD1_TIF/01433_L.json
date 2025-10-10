@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n1. Bernard. olive 5+Anr d'Err os1c 1211 7J5 ch Jc /a Bcnguer 5+ AUhe d1'CVcuo5 8 333O LVtNo5 T:1: 0$.43.85.03.57 NNA.AssuvwcU Avrue Chav1s TMeHA0t5 8 19 9o.NoA1LHAC RiFVYKHB3Z hulita t'o ui-atdiK W h... (text truncated)\n2. Bernard. olive 5+Anr d'Err os1c 1211 7J5 ch Jc /a Bcnguer 5+ AUhe d1'CVcuo5 8 333O LVtNo5 T:1: 0$.43.85.03.57 NNA.AssuvwcU Avrue Chav1s TMeHA0t5 8 19 9o.NoA1LHAC RiFVYKHB3Z hulita t'o ui-atdiK W h... (text truncated)\n\n... (multiple lines of text truncated)\n\n3. Bernard. olive 5+Anr d'Err os1c 1211 7J5 ch Jc /a Bcnguer 5+ AUhe d"
+  "document": "1. Bernard. olive",
+  "scenario": "5+Anr d'Err os1c 1211",
+  "writer": "7J5 ch Jc /a Bcnguer",
+  "sender_person": "5+ AUhe d1'CVcuo5",
+  "sender_company": "8 333O LVtNo5",
+  "sender_tel": "T:1: 0$.43.85.03.57",
+  "sender_fax": "NNA.AssuvwcU",
+  "receiver_person": "Avrue Chav1s TMeHA0t5",
+  "receiver_company": "8 19 9o.NoA1LHAC",
+  "date": "RiFVYKHB3Z",
+  "place": "hulita t'o",
+  "box": "ui-atdiK"
 }

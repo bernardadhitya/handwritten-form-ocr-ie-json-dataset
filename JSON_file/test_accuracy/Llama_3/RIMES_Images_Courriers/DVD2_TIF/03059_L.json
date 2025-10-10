@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nMAZOYER AWO 295 CH IDE LA RERENGUiERE STE ANNE O`EVENQS 8333O EVENOS T1 04.18.90.51.46.\nLe 18.02.07 A EUENOS OBJET: Gostiou de &iniste Hadaue, Honsious Apss aioi ma&koxousenont macka &u Qe chon dc nua ei8inQ paa QC bEnaFicioa dc 0a cewroRtxe de QQ %oia Choyle ustéRinoic.\nHerci dem'ineuor &i colaeotpa&ibo Ya & pue d'agles Haolaue, 0 distnQw'o2 uer Awoe, 0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0."
+  "document": "MAZOYER AWO",
+  "scenario": null,
+  "writer": null,
+  "sender_person": "MAZOYER AWO",
+  "sender_company": "295 CH IDE LA RERENGUiERE STE ANNE O`EVENQS",
+  "sender_tel": "8333O EVENOS",
+  "sender_fax": "T1 04.18.90.51.46.",
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "OBJET: Gostiou de &iniste",
+  "date": "Le 18.02.07",
+  "place": "A EUENOS",
+  "box": null
 }

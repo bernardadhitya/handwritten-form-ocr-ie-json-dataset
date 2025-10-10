@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nFAX Gestionnaire RTE du Réseau de Transport d'Electricité 200 7 DATE: l8 AvR PAGES:\n1/3 DE/FROM: JANN1N Ludovic A/TO:\nSERVICE SOCIETE DEPARTMENT:\nCOMPANY NAME :\nNOS REF.\nVOS REF.\nQ uk Y N27 Les OURREF.:\nYOURREF.:\nTELEPHONE O4 66 39 15 S4 PHONE:\nFAX :\n01 6O 76 4333 FAX :\nOBJET coodonnees Yek SUBJECT:\nRTE EDF Transport AQ société anonyme á directoire et conseil de surveillance au capital de 2 132 285 690 euros R.C.S.Nanterre 444 619 258 XV-00-60-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90-90"
+  "document": "FAX",
+  "scenario": "Gestionnaire",
+  "writer": "JANN1N Ludovic",
+  "sender_person": "JANN1N Ludovic",
+  "sender_company": "RTE",
+  "sender_tel": "O4 66 39 15 S4",
+  "sender_fax": "01 6O 76 4333",
+  "receiver_company": "SERVICE",
+  "subject": "coodonnees Yek",
+  "date": "l8 AvR",
+  "place": "RTE EDF Transport",
+  "box": "AQ"
 }

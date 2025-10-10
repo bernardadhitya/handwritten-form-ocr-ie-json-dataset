@@ -1,3 +1,35 @@
 {
-    "error": "Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  "conference": null,
+  "preparation_of_abstracts": {
+    "principal_author": {
+      "name": null,
+      "address": null,
+      "phone": null
+    },
+    "subject": null,
+    "co_author": null,
+    "research_center": null,
+    "abstract": {
+      "content": "Statistical analysis was used to determine the composition and blend homogeneity in the production of cigarette blends. The ultimate application for this technique can be divided into samples of reconstituted leaf, and various tobaccos were analyzed separately to distinguish the different tobacco types. In the second phase, tobacco test mixtures that were blended as cut strips were analyzed. Predictions with the actual compositions showed differences in the tobacco components within 2%. In the third phase, a calibration model was developed in composition to production blends from the final and intermediate stages of the production process. Analytical results will be presented that illustrate the accuracy of the NIR instrumentation.",
+      "requirements": [
+        "The abstract should be 180-225 words in length.",
+        "Submit as both a word processing file and an ASCII (text) file on diskette.",
+        null,
+        null
+      ],
+      "notes": [
+        null,
+        null,
+        null
+      ],
+      "editorial_committee": {
+        "name": "Schweitzer-Mauduit International",
+        "address": null
+      },
+      "deadline": "June 4, 1999",
+      "confirmation": null
+    },
+    "projection_requirements": null,
+    "presentation_time": null
+  }
 }

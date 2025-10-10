@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nwwC 71ll 0 H 0 Av CamdI 5L1JO S'Ma Mnc&e sauon V8W 6M WSYZc mn a 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+  "document": "wwC 71ll 0 H",
+  "scenario": "0 Av CamdI",
+  "writer": "5L1JO S'Ma",
+  "sender_person": "Mnc&e sauon",
+  "sender_company": null,
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": null,
+  "date": null,
+  "place": null,
+  "box": "V8W"
 }

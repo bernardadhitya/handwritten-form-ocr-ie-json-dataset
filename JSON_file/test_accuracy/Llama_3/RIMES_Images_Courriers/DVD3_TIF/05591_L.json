@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nouad emma Bi1che,le ll mai 2co7 5 rue TrumeatFaLer 5723O Bitehe BAAF Assurances & Pl.aukice Segords 6O g3O Raileul sw thwan vauo ai adousse un ceusaua & meis daniu veus dmo ontat et de me &4rmr utt al... (Translation: \"Wadham Emma Bich, the main 2co7 5 rue TrumeatFaLer 5723O Bitehe BAAF Assurances & Pl.aukice Segords 6O g3O Raileul sw thwan vauo ai adousse un ceusaua & meis daniu veus dmo ontat et de me &4rmr utt al...\")\n\n## Step 1: Identify the key elements in the text\nThe text appears to be a jumbled collection of letters and numbers, but upon closer inspection, we can identify the following key elements:\n- Name: Wadham Emma Bich\n- Address: 5 rue TrumeatFaLer 5723O Bitehe\n- Company"
+  "document": "ouad emma",
+  "scenario": "Bi1che,le ll mai 2co7",
+  "writer": "BAAF Assurances",
+  "sender_person": "Pl.aukice Segords",
+  "sender_company": "BAAF Assurances",
+  "sender_tel": "5723O Bitehe",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "date": null,
+  "place": "5 rue TrumeatFaLer",
+  "box": "6O g3O Raileul sw thwan"
 }

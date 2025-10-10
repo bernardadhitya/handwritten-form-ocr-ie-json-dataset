@@ -1,4 +1,17 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n8-15 8-f-00.R.g.Reyynolds.\n.Werston:dalem Iarn.w.itig.ts thank.yow.For.But.s.do not.likeryutelling Tme where I have ts ahop to take.\nFossihle. or.conv.nent. for. Ine.to.us.\nthe.coupons..for.a.apecisb.place.\nottentin.to this Rittiv...apprecal.\nneel.jpach.coupons.\nIhanhs ogoin, Iam, fleen Curry 4 9s 9: Lin, Lordon Cir.\n52276 dlarpshug, Md. Q1782 1658.\nI am a 9-year-old boy who loves playing with my friends and going on adventures. I am also very interested in science and technology. I have a pet dog named Max, and I like to play with him in the letter. I am a good student and I like to learn new things. I am also very good at sports, especially soccer and basketball. I am a bit shy at first, but once I get to know you, I am very friendly and outgoing. I am looking for a friend who likes to have fun and go on adventures together. If you are interested in science and technology, we can have a lot of fun together. We can play games, build things, and learn new things. I am excited to meet someone who shares my interests and values.\n\nNote: The text is not a formal or structured piece of writing, and the output"
+  "date": "8-15",
+  "reference": "8-f-00",
+  "recipient": {
+    "name": ".R.g.Reyynolds.",
+    "address": "Werston:dalem"
+  },
+  "message": {
+    "greeting": "Iarn.w.itig.ts thank.yow.For",
+    "content": "But.s.do not.likeryutelling Tme where I have ts ahop to take. Fossihle. or.conv.nent. for. Ine.to.us. the.coupons..for.a.apecisb.place. ottentin.to this Rittiv...apprecal. neel.jpach.coupons.",
+    "closing": "Ihanhs ogoin,"
+  },
+  "sender": {
+    "name": "fleen Curry",
+    "address": "4 9s 9: Lin, Lordon Cir. 52276 dlarpshug, Md. Q1782 1658"
+  }
 }

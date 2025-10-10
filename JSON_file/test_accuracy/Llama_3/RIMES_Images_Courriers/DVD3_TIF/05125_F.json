@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nERNST Jean SOCIETE 1 RUEDERUSTENHART ERNST Jean 68600 DESSENHEIM Té03.23.03.43.14 Télécopie Ernst Expéditeur:\nJea Destinataire :\nTélécopie :\nPages :\n19/04 (2007 Téléphone: o3.23 c3 43/4 Date:\nDmand de lemik Sujet :\n0 Urgent Pour avis Commentaires Réponse Confidentiel 0 Commentaires:\nSalutations.\n[Cliquez ici et entrez les informations sur I'entreprise : statut, capital, RCS..] \nPour les informations sur I'entreprise, veuillez consulter le site web de I'entreprise.\nPour les informations sur I'entreprise, veuillez consulter le site web de I'entreprise.\nPour les informations sur I'entreprise, veuillez consulter le site web de I'entreprise.\nPour les informations sur I'entreprise, veuillez consulter le site web de I'entreprise.\nPour les informations sur I'entreprise, veuillez consulter le site web de I'entreprise.\nPour les informations sur I'entreprise, veuillez consulter le site web de I'entreprise.\nPour les informations sur I'entreprise, veuillez consulter le site web de I'entreprise.\nPour les informations sur I'entreprise, veuillez consulter le site web de I'entreprise.\nPour les informations sur I'entreprise, veuillez consulter le site web de I'entreprise.\n"
+  "document": null,
+  "scenario": null,
+  "writer": "ERNST Jean",
+  "sender_person": "ERNST Jean",
+  "sender_company": "SOCIETE",
+  "sender_tel": "Té03.23.03.43.14",
+  "sender_fax": "Télécopie",
+  "receiver_person": "Jea",
+  "receiver_company": null,
+  "subject": "Dmand de lemik",
+  "date": "19/04 (2007",
+  "place": "1 RUEDERUSTENHART, 68600 DESSENHEIM",
+  "box": null
 }

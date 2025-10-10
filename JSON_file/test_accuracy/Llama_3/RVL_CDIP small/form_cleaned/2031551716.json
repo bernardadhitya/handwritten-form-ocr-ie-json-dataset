@@ -1,4 +1,178 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nTrecsd/Proi Transfered Dpalance Forvard WSS a it a EEA 2 oN 3 95.25% = “ bz- 7 2 Sree jis Ce z 8 | aT SL 10 108.5\" TT 55\" 23.45\" 2.5\" 2.5\" 2.5\" 2.5\" 2.5\" 2.5\" 2.5\" 2.5\" 2.5\" 2.5\" 2.5\" 2.5\" 2.5\" 2.5\" 2.5\" 2.5\" 2.5\" 2.5\" 2.5\" 2.5\" 2.5\" 2.5\" 2.5\" 2.5\" 2.5\" 2.5\" 2.5\" 2.5"
+  "WithdrawalRecord": {
+    "HONOH": {
+      "MARCH": {
+        "YEAR": null,
+        "Recd_Prod": {
+          "Transfered": "Tobacco Spray Use",
+          "Balance": [
+            {
+              "Date": null,
+              "GALS": null,
+              "Balance_Forward": 78.5
+            },
+            {
+              "Date": null,
+              "GALS": 85.25,
+              "Balance_Forward": null
+            },
+            {
+              "Date": 8,
+              "GALS": null,
+              "Balance_Forward": 4
+            },
+            {
+              "Date": null,
+              "GALS": null,
+              "Balance_Forward": null
+            },
+            {
+              "Date": null,
+              "GALS": null,
+              "Balance_Forward": -1
+            },
+            {
+              "Date": null,
+              "GALS": 29,
+              "Balance_Forward": null
+            },
+            {
+              "Date": null,
+              "GALS": 8,
+              "Balance_Forward": null
+            },
+            {
+              "Date": null,
+              "GALS": null,
+              "Balance_Forward": null
+            },
+            {
+              "Date": 6,
+              "GALS": null,
+              "Balance_Forward": null
+            },
+            {
+              "Date": 157,
+              "GALS": "a4",
+              "Balance_Forward": null
+            },
+            {
+              "Date": null,
+              "GALS": null,
+              "Balance_Forward": 33.25
+            },
+            {
+              "Date": null,
+              "GALS": 4,
+              "Balance_Forward": null
+            },
+            {
+              "Date": null,
+              "GALS": 15,
+              "Balance_Forward": null
+            },
+            {
+              "Date": 100,
+              "GALS": null,
+              "Balance_Forward": null
+            },
+            {
+              "Date": "E",
+              "GALS": null,
+              "Balance_Forward": null
+            },
+            {
+              "Date": null,
+              "GALS": null,
+              "Balance_Forward": null
+            },
+            {
+              "Date": null,
+              "GALS": null,
+              "Balance_Forward": null
+            },
+            {
+              "Date": null,
+              "GALS": null,
+              "Balance_Forward": null
+            },
+            {
+              "Date": null,
+              "GALS": null,
+              "Balance_Forward": 145.75
+            },
+            {
+              "Date": "a3",
+              "GALS": null,
+              "Balance_Forward": null
+            },
+            {
+              "Date": null,
+              "GALS": null,
+              "Balance_Forward": null
+            },
+            {
+              "Date": null,
+              "GALS": null,
+              "Balance_Forward": null
+            },
+            {
+              "Date": null,
+              "GALS": null,
+              "Balance_Forward": null
+            },
+            {
+              "Date": null,
+              "GALS": 1,
+              "Balance_Forward": null
+            },
+            {
+              "Date": null,
+              "GALS": null,
+              "Balance_Forward": null
+            },
+            {
+              "Date": null,
+              "GALS": "i",
+              "Balance_Forward": null
+            },
+            {
+              "Date": "a5",
+              "GALS": 30,
+              "Balance_Forward": null
+            },
+            {
+              "Date": null,
+              "GALS": null,
+              "Balance_Forward": null
+            },
+            {
+              "Date": 1,
+              "GALS": null,
+              "Balance_Forward": "t"
+            },
+            {
+              "Date": null,
+              "GALS": 5,
+              "Balance_Forward": null
+            },
+            {
+              "Date": 108.5,
+              "GALS": null,
+              "Balance_Forward": null
+            },
+            {
+              "Date": null,
+              "GALS": 120,
+              "Balance_Forward": 31
+            },
+            {
+              "Date": null,
+              "GALS": 2031551716
+            }
+          ]
+        }
+      }
+    }
+  }
 }

@@ -1,4 +1,36 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nINTEROFFICE MEMORANDUM To: Jchn Dorsey Gerald McKenna From: Seth W. Moskowitz Date February 22, 1988 Subject: SFA CO-LEVEL Q&A FOR TEST PRODUCT Attached is the Q&A sheet public relations will use to r...\nIf you have ‘any questions, please let me know.\n‘swM.\nAttachment cc: David Fishel Betsy Annese Maura Fayne 6199 2690S CLASSIFIED MATERIAL RECEIPT Tile andlor number of documont_(S.t the | Number of Copies__t Classification : secret [2h conrvenniat 1) ‘A....\nPrepare in two coples and erty tat material racalved leas Desorbed.\nforward with matertal. ‘Sign original copy and return : Ratain other copy for your Mes. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. "
+  "interofficeMemorandum": {
+    "to": [
+      "Jchn Dorsey",
+      "Gerald McKenna"
+    ],
+    "from": "Seth W. Moskowitz",
+    "date": "February 22, 1988",
+    "subject": "SFA CO-LEVEL Q&A FOR TEST PRODUCT",
+    "body": "Attached is the Q&A sheet public relations will use to respond to media enguiries concerning the co level of spA test product. If you have any questions, please let me know.",
+    "signature": "SWM",
+    "attachment": null,
+    "cc": [
+      "David Fishel",
+      "Betsy Annese",
+      "Maura Fayne"
+    ],
+    "documentNumber": "No._435",
+    "referenceNumber": "50637"
+  },
+  "classifiedMaterialReceipt": {
+    "titleOrNumber": "CLASSIFIED MATERIAL RECEIPT",
+    "numberOfCopies": null,
+    "classification": [
+      "SECRET",
+      "CONFIDENTIAL"
+    ],
+    "deliverTo": "Juhs Dansey",
+    "date": "2/2 /89",
+    "receivedBy": null
+  },
+  "instructionsForUse": {
+    "whenTransmitting": "A.When Transmitting:\nB.Whon Receiving\nPrepare In two coples and\nVerlfy that material recelved Is as Described.\nforward with material.\nSlon origlnal copy and return to sonder.\nRetain other copy for your fles.",
+    "whenReceiving": "Prepare In two coples and\nVerlfy that material recelved Is as Described.\nforward with material.\nSlon origlnal copy and return to sonder.\nRetain other copy for your fles."
+  }
 }

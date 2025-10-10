@@ -1,3 +1,72 @@
 {
-    "error": "Extra data: line 18 column 1 (char 277)"
+  "title": null,
+  "address": {
+    "street": "801 Secoud Avenue",
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "instructions": "Please take a few minutes to go through the advertisements in this book. Please take as much time with each ad as you care to. If you ordinarily wear reading glasses, you'll need them.",
+  "questions": [
+    {
+      "question": null,
+      "categories": [
+        {
+          "category": "General Ads",
+          "brands": [
+            "Amens Range",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "Lavasaki",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "Tester's Choice",
+            "Weight Watchers",
+            null
+          ]
+        },
+        {
+          "category": null,
+          "brands": [
+            null,
+            null,
+            "Kent",
+            null
+          ]
+        }
+      ]
+    },
+    {
+      "question": null,
+      "if_no_cigarette_brands_mentioned": true
+    },
+    {
+      "question": null,
+      "if_one_or_two_cigarette_brands_mentioned": null,
+      "brands": [
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  ],
+  "skip_logic": {
+    "if_no_cigarette_brands_mentioned": null,
+    "if_only_one_or_two_cigarette_brands_mentioned": null,
+    "if_all_three_cigarette_brands_mentioned": null,
+    "if_true_mentioned_in_Q2_or_3": "Continue",
+    "if_true_not_mentioned_in_Q2_or_3b": null
+  }
 }

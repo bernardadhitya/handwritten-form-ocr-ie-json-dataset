@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nEVA1N Claiw A Twrckheim, Ia Jo Mav 9o9 5 Ru ou Cneil 68&30 TURCKHEIM OBJET : Plam (muianc xomeeo Madame, Monouus et de la muut- Clest insufetald - Je me pewx mame fas deumwr JpmquiQa &a muit. de con (...\ndistinquces : 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1."
+  "document": "EVA1N Claiw",
+  "scenario": "A Twrckheim, Ia Jo Mav 9o9",
+  "writer": "5 Ru ou Cneil",
+  "sender_person": "68&30 TURCKHEIM",
+  "sender_company": null,
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": "Madame, Monouus",
+  "receiver_company": "et de la muut- Clest insufetald",
+  "subject": "Plam (muianc xomeeo",
+  "date": null,
+  "place": null,
+  "box": null
 }

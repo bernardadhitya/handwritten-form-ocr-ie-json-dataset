@@ -1,3 +1,45 @@
 {
-    "error": "Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  "Blend": null,
+  "RegularBrand": "Regular Brand",
+  "Interview": null,
+  "RespondentName": null,
+  "Extension": "xt.3975",
+  "CigarettesSmoked": null,
+  "Likes": "Mildness",
+  "Dislikes": "G-ympnecks - limp where filter attached",
+  "Attributes": null,
+  "Satisfaction": {
+    "MuchMore": null,
+    "ALittleMore": null,
+    "AboutTheSame": null,
+    "ALittleLess": null,
+    "MuchLess": null
+  },
+  "Mildness": {
+    "MuchMilder": null,
+    "ALittleMilder": null,
+    "AboutTheSame": null,
+    "ALittleStronger": null,
+    "MuchStronger": null
+  },
+  "FilterDraw": {
+    "MuchEasier": null,
+    "ALittleEasier": null,
+    "AboutTheSame": null,
+    "MuchHarder": null,
+    "ALittleHarder": null
+  },
+  "Preference": {
+    "Taste": null,
+    "Mildness": null,
+    "FilterDraw": null
+  },
+  "OverallRating": "ExcellentGood",
+  "OverallPreference": {
+    "PreferYorkMuchMore": null,
+    "PreferRegularMuchMore": null,
+    "PreferYorkLittleMore": null,
+    "PreferRegularLittleMore": false,
+    "NoPreference": null
+  }
 }

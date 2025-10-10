@@ -1,4 +1,64 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nCONTRACT SUBJECT:\ncompany Elkhart Lake's Road America, Inc.\nTotal Contract Cost _$18,804-00 Brief Description This is the new CAMEL Winner Circle.\nwith 3' x 6' event slot in the middle. ¢i Ww:\nthe winner Circle at all events.\nG/L Code __28-73-4600-9401-730 Program Budget Code _000550738401 originator _J. A. Holder _ ss af LZ). ) -% Manager -_R. N. Hauser REVIEH_ ROUTING To Be ee By Signature Rate Insurance FS - Marketing K...\nZar. SrLos. 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1."
+  "documentType": "SPORTS",
+  "dateRouted": "8/1/90",
+  "documentNumber": "03500000",
+  "contract": {
+    "company": "Elkhart Lake's Road America, Inc.",
+    "brands": "CAMEL",
+    "totalContractCost": "$18,804.00",
+    "currentYearCost": null,
+    "briefDescription": "This is the new CAMeL Winner Circle. It is 8 feet wide with 3 x 6 event slot in the middle. the winner circle at all events."
+  },
+  "originator": {
+    "name": "J. A. Holder",
+    "signature": null,
+    "date": null
+  },
+  "manager": {
+    "name": "R. N. Hauser",
+    "signature": null,
+    "date": null
+  },
+  "reviewRouting": {
+    "insurance": {
+      "toBeReviewedBy": null,
+      "signature": null,
+      "date": null
+    },
+    "law": {
+      "toBeReviewedBy": null,
+      "signature": null,
+      "date": null
+    },
+    "fsMarketing": {
+      "toBeReviewedBy": null,
+      "signature": null,
+      "date": null
+    }
+  },
+  "approvalRouting": {
+    "vpDirector": {
+      "signature": null,
+      "date": null
+    },
+    "srVp": {
+      "signature": null,
+      "date": null
+    }
+  },
+  "returnTo": {
+    "name": "Chris Drew",
+    "department": "Sports Marketing Enterprises",
+    "location": "PLB-5A"
+  },
+  "contractLimits": {
+    "upToAndIncluding": "$25,000",
+    "over": "$25,000"
+  },
+  "contactNumbers": {
+    "number1": "50745 7482",
+    "number2": null
+  },
+  "revisionDate": "11/1/89",
+  "documentClassification": "Doc.Cl"
 }

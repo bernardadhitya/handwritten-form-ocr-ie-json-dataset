@@ -1,3 +1,60 @@
 {
-    "error": "Expecting ',' delimiter: line 85 column 6 (char 1471)"
+  "Objectives": {
+    "Instructions": "We would like your responses regardless of the extent of your initiatives. If you do not offer any health promotion activities to your employees,please go to Question 32 on page 10.",
+    "Questions": [
+      {
+        "Rank": 1,
+        "Options": [
+          {
+            "Option": "Improved employee health",
+            "Rank": 1
+          },
+          {
+            "Option": "Medical cost containment",
+            "Rank": 2
+          },
+          {
+            "Option": "Improved employee morale",
+            "Rank": 3
+          },
+          {
+            "Option": "Increased productivity",
+            "Rank": 4
+          },
+          {
+            "Option": "Reduced absenteeism",
+            "Rank": 5
+          },
+          {
+            "Option": "Increased organizational effectiveness as part of total quality program",
+            "Rank": 6
+          },
+          {
+            "Option": "Response to competitive pressures",
+            "Rank": 7
+          },
+          {
+            "Option": "Employee recruiting/retention",
+            "Rank": 8
+          },
+          {
+            "Option": "Other (specify)"
+          }
+        ]
+      },
+      {
+        "Objective": "Improved employee health",
+        "Rating": "Very"
+      },
+      {
+        "Objective": "Medical cost containment",
+        "Rating": "Not Sure"
+      },
+      {
+        "Objective": "Improved employee morale",
+        "Rating": "Not Effective"
+      }
+    ]
+  },
+  "Company": "Hewitt Associates"
 }

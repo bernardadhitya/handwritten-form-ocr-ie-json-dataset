@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nPAYET RaL 32,ue du moulin sfs70-BEyREn5 LE8 8ieRcK T:03.46.07.59.17 w.&eut VPBE114 avec un comelle Banqve Cu'dit Po1u taro &E B OU R G 0317o - S+ A n Beyreu ls Siu,le sdiunho 2o06 1m;maw vous awyn& de...\nd v o1 cc smof 1 moVst wut Nes me'llews. 1m;e 1m;e 1m;e 1m;e 1m;e 1m;e 1m;e 1m;e 1m;e 1m;e 1m;e 1m;e 1m;e 1m;e 1m;e 1m;e 1m;e 1m;e 1m;e 1m;e 1m;e 1m;e 1m;e 1m;e 1m;e 1m;e 1m;e 1m;e"
+  "document": "PAYET RaL",
+  "scenario": null,
+  "writer": null,
+  "sender_person": "PAYET RaL",
+  "sender_company": "sfs70-BEyREn5 LE8 8ieRcK",
+  "sender_tel": "03.46.07.59.17",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": "& E B OU R G",
+  "subject": "w.&eut VPBE114 avec un comelle",
+  "date": "2006",
+  "place": "Beyreu ls Siu,le sdiunho",
+  "box": null
 }

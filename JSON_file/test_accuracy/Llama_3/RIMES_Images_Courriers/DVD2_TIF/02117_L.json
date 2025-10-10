@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nCAF Cau&e co Hoarsno alde BADRy talale.\ng'na & la9onrane Place do8 Tillesls SAA1O TRESSANCE 3n1nd31HLoe2 t2 03 33 92 7013 R&euce.VBM0I2S Tuxauge,le 1&c)auvtes 27 haugeuaur d donneeo per&onnelles Sadaue, Sausiess, yaulal VenaF`d Iauger: Je n... (truncated)\n\n## Step 1: Identify the structured information in the text\nThe text appears to be a phone number and a name, but it is heavily truncated and contains a lot of nonsensical characters. However, upon closer inspection, we can see that the text contains a phone number in the format of \"03 33 92 7013\" and a name \"R&euce.VBM0I2S Tuxauge,le 1&c)auvtes 27 haugeuaur d donneeo per&onnelles Sadaue, Sausiess, yaulal VenaF`d Iauger: Je n...\".\n\n## Step 2: Extract the phone number from the text\nThe phone number is \"03 33 92 7013\".\n\n## Step"
+  "document": "CAF Cau&e co Hoarsno",
+  "scenario": "alde BADRy",
+  "writer": null,
+  "sender_person": "Tuxauge,le 1&c)auvtes 27",
+  "sender_company": "haugeuaur d donneeo per&onnelles",
+  "sender_tel": "03 33 92 7013",
+  "sender_fax": null,
+  "receiver_person": "R&euce.VBM0I2S",
+  "receiver_company": "Sadaue, Sausiess, yaulal VenaF`d Iauger",
+  "subject": "Je nbus d aJoi u geuua& d&oseude note af de mefaire siruattsn as,fadaws,on&en, cones slstsrn",
+  "date": null,
+  "place": "Place do8 Tillesls",
+  "box": "SAA1O TRESSANCE"
 }

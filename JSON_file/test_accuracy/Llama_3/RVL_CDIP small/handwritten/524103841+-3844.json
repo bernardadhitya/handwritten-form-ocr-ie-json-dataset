@@ -1,4 +1,21 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nPHP, CG ah Mr Joseph Schanbier #2 Woodside Cir White River Junction, VP 05001-3819 Dear Valued Customer:\nRecently you contacted R. J. Reynolds’ Consumer Relations Department and gave us the opportunity to respond to your request for assistance with either a promotion or product related issue.\nIn an effort to better serve our customers, we are asking you to please take a few minutes to complete a questionnaire about how well you were treated by our ‘company representative. After completing...\nThank you for taking the time to let us know how our staff met your expectations We value your opinion and appreciate your business.\nMark Conrad Consumer Satisfaction Research Manager 2236108 9-95 828 ow 8 z e 2 3 2 1 8 9 8 2 3 1 8 9 8 2 3 1 8 9 8 2 3 1 8 9 8 2 3 1 8 9 8 2 3 1 8 9 8 2 3 1 8 9 8 2 3 1 8 9 8 2 3 1 8 9 8 2 3 1 8 9 8 2 3 1 8 9 8 2 3 1 8 9 8 2 3 1 8 9 8 2 3 1 8 9 8 2 3 1 8 9 8 2 3 1 8 9 8 2 3 1 8 9 8 2 3 1 8 9 8 2 3 1 8 9 8 2 3 1 8 9 8 2 3 1 8 9 8 2 3 1 8 9 8 2 3 1 8 9 8 2 3 1 8 9 8 2 3 1 8 9 8 2 3 1 8 9 8 2 3 1 8 9 8 2 3 1 8 9 8 2 3 1 8 9 8 2 3 1 8 9 8 2 3 1 8 9 8 2 3 1 8 9 8 2 3 1 8 9 8 2 3 1 8 9 8 2 3 1 8 9 8 2 3 1 8 9"
+  "recipient": {
+    "name": "Mr Joseph Schanbier",
+    "address": {
+      "street": "#2 Woodside Cir",
+      "city": "White River Junction",
+      "state": "VT",
+      "zip": "05001-3819"
+    },
+    "customer_id": "9.N.C.27193"
+  },
+  "letter": {
+    "greeting": "Dear Valued Customer:",
+    "body": "Recently you contacted R.J.ReynoldsConsumer Relations Department and gave us the opportunity to respond to your request for assistance with either a promotion or product related issue In an effort to better serve our customers,we are asking you to please take a few minutes to complete a questionnaire about how well you were treated by our company representative. After completing the survey on the reverse side of this letter, please return it in the enclosed postage-paid envelope Thank you for taking the time to let us know how our staff met your expectations. We value your opinion and appreciate your business",
+    "closing": "Thank you for taking the time to let us know how our staff met your expectations. We value your opinion and appreciate your business",
+    "title": null,
+    "reference_numbers": [
+      "9.N.C.27193"
+    ]
+  }
 }

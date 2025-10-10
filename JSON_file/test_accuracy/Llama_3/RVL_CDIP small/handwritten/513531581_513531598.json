@@ -1,3 +1,30 @@
 {
-    "error": "Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  "document": {
+    "id": "RJR'Fom2872/70",
+    "company": "R.J.REYNOLDS TOBACCO COMPANY",
+    "department": "ENGINEERING DEPARTMENT",
+    "prepared_by": "MEH",
+    "date": "DATE-A-92",
+    "subject": "STUDY NO",
+    "study_no": null,
+    "checked_by": null,
+    "estimation": "OEMAXIMUM",
+    "project_no": "PROJ.NO.",
+    "work_order_no": "W.O.NO",
+    "summary": {
+      "data_used": "BASED ON THE PROCESS RECORDS (SEE PAGE NOS. 5 THROUGH 8 OF THIS ATTACHMENT), THE WORST-CASE APPEARSTO HAVE OCCURRED ON 1-I4-O2.",
+      "total_tobacco_processed": "18T153 L8S.",
+      "total_nh3_applied": "96 LBS.",
+      "total_operating_time": "8.75 HRS.",
+      "total_downtime": "0.02 HRS.",
+      "net_production_time": "T.83 HRS.",
+      "check_net_production_time": "THE AVERAGE OF 8 LNSTANTANEOUS PRODUCTTON RATE READINGS SHOWN ON PAGE 9 IS 23S15 LBS.TOB./HR.",
+      "nh3_application_rate": "Q961LBSNH3.=1272.16L8S.NH3 7.83HRS.",
+      "stack_test": {
+        "date": "5-8-QO",
+        "performed_by": "ENTROPY ENVRONMENTALTSTS",
+        "results": "SHOW THAT8I9 LBS.NH3/HR. WAS ENTERTNGTHE NCTNERATOR."
+      }
+    }
+  }
 }

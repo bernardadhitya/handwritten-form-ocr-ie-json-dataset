@@ -1,4 +1,83 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\npier APPROPRIATION REQUEST ee “Summary tage 1) 1 COMPARY GR BIVSTON 7 PLANT OR LOCATION SAFRROP. NO] © SUPPL RO” PHILIP MORRIS USA RICHMOND B-211 & PROGECT TILE 7 AMOUNT 1000 Liter Pilot Plant - Advan...\nfrom West Germany. Construct pilot plant facilities 270,000 for Research & Development and Engineering testing. EXPENSE TOTAL REQUEST 55,253,000 __ 3. CATEGORY OF CAPITAL EXPENDITURE 1. D INCREASED cA...\n‘51,000,000 AND OVER Operating Coraany ContVler VICE PRESIOENT & CONTROLLER Baie e Zee Bee a wo i ice President rE FEET = PING iva & aE RET OF OTE OR es Wee uf te Vie Presicont 7 Le fk EXECUTIVE VICE..."
+  "company_or_division": null,
+  "plant_or_location": null,
+  "approp_no": null,
+  "suppl_no": null,
+  "project_title": null,
+  "amount": {
+    "fixed_assets": null,
+    "capitalized_interest": null,
+    "working_capital": null,
+    "expense": null,
+    "total_request": null
+  },
+  "project_description": null,
+  "category_of_capital_expenditure": {
+    "increased_capacity": 6,
+    "compliance_with_outside_requirements": null,
+    "cost_reduction": null,
+    "research_development": null,
+    "administrative_requirements": null,
+    "new_venture": 8,
+    "straight_replacement": null,
+    "strategic_requirement": null,
+    "product_leadership_competitive_pressures": null,
+    "engineering_engineering_design": null
+  },
+  "project_status": {
+    "this_requests": null,
+    "previous_authorizations": null,
+    "total_cost": 4983000,
+    "project_was_included_in_five_year_plan": null
+  },
+  "summary_of_facilities_to_be_retired": {
+    "original_cost": null,
+    "loss_or_gain_on_disposition": "N/A"
+  },
+  "forecast_of_cash_outlay": {
+    "3rd_qtr_1986": 1726000,
+    "4th_qtr_1986": null,
+    "1st_qtr_1987": null,
+    "2nd_qtr_1987": null,
+    "total_cash_outlay": null
+  },
+  "estimated_completion_date": null,
+  "incremental_profit_analysis": {
+    "payback_period_years": null,
+    "return_on_investment_percent": null,
+    "project_life_years": 15
+  },
+  "approvals": {
+    "philip_morris_companies_inc": {
+      "amount": "1,000,000 AND OVER",
+      "date": null
+    },
+    "vice_president_controller": {
+      "date": null
+    },
+    "operating_company_vice_president": {
+      "date": null
+    },
+    "vice_president_planning": {
+      "date": null
+    },
+    "vice_president_finance": {
+      "date": null
+    },
+    "vice_president_chief_financial_officer": {
+      "date": null
+    },
+    "vice_president_operations": {
+      "date": null
+    },
+    "executive_vice_president": {
+      "date": null
+    },
+    "operating_company_president": {
+      "date": null
+    },
+    "chairman_president_vice_chairman": {
+      "date": null
+    }
+  }
 }

@@ -1,4 +1,47 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nBRMAS APPLICATION: 30,000 (BUSINESS REPLY MAIL ACCOUNTING SYSTEM) > LST Street Address.\nCity “ST ZIP+4 Code SOV sn lX KK ich 1d Gig T X1508 3-7? a) FOR INTERNAL USE ONLY BRM Rate Category Requested: PC 102.__ over 1 oz. but, not more than 2 zs.\nVe e TH 435-335 ion emnlone an oe em ecten Zeid? 4980 e9zzs 1.5 oz. 1.5 oz. 1.5 oz. 1.5 oz. 1.5 oz. 1.5 oz. 1.5 oz. 1.5 oz. 1.5 oz. 1.5 oz. 1.5 oz. 1.5 oz. 1.5 oz. 1.5 oz. 1.5 oz. 1.5 oz. 1.5 oz. 1.5 oz. 1.5 oz. 1.5 oz. 1.5 oz. 1.5 oz. 1.5 oz. 1.5 oz. 1.5 oz. 1.5 oz. 1.5 oz"
+  "application": {
+    "name": null,
+    "number": null,
+    "description": null,
+    "code": null,
+    "details": null
+  },
+  "applicant": {
+    "instructions": null,
+    "brmPermitHolderName": null,
+    "streetAddress": null,
+    "cityStateZip": null,
+    "permitNumberAndCityOfIssue": "Permit 3sd.khaidsnelx",
+    "signature": null
+  },
+  "internalUseOnly": {
+    "brmRateCategoryRequested": "PC",
+    "weight": null,
+    "verifyingEmployee": null,
+    "employeeId": null,
+    "date": "097"
+  },
+  "mailpieceDesignAnalyst": {
+    "analysisAndRecommendations": {
+      "brmFormatVerified": null,
+      "zip4BarcodeVerified": null,
+      "isMailpieceCompatibleWithAutomatedEquipment": null
+    },
+    "completedBy": "hnray",
+    "completionDate": null
+  },
+  "authorization": {
+    "by": "BUSINESS MAIL ENTRY OR POSTMASTER",
+    "status": "Approved",
+    "authorizedBy": "Business Mail Entry",
+    "signature": null,
+    "date": null
+  },
+  "dallasApplicantsOnly": {
+    "instructions": null,
+    "code": null
+  },
+  "form": {
+    "revision": "BCFORM-REVISED 1/95"
+  }
 }

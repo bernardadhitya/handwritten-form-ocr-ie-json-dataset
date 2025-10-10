@@ -1,4 +1,66 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nL FF yg og HUE? LEVULIAIC ACID ——— C dani de wo li routine Oeil ao a Diner Adolitive Mon Aight 160 Menthol CFR 0.048 pug fay Salem Lt, 100 Custom Case CP6 0.048 pug leg, Contury Aight 160 Menthol 0. 6...\nVarage Wetra. Aight foo 25 ug a Wenoten Uta Augfit loo of. 45, Ka leg Mow lao 154, 292 49 Tai Morn hight 120 184, 882 jug Jes 9 TL8z 9820S 0. 6...\nAight foo 25 ug a Wenoten Uta Augfit loo of. 45, Ka leg Mow lao 154, 292 49 Tai Morn hight 120 184, 882 jug Jes 9 TL8z 9820S 0. 6...\n\nThe text appears to be a jumbled collection of words and numbers, but if we look closely, we can extract the following structured information:\n\n* Product name: LEVULIAIC ACID\n* Product description: Adolitive Mon Aight 160 Menthol\n* Product code: CFR 0.048 pug fay Salem Lt, 100 Custom Case CP6 0.048 pug leg, Contury Aight 160 Menthol 0.6...\n* Product variations:\n\t+ Varage Wetra\n\t+ Aight foo 25 ug a Wenoten Uta Augfit loo of. 45, Ka leg Mow lao 154, 292 49 Tai Morn hight 120 184, 882 jug Jes 9 TL8z 9820S 0.6...\n\nHere is the structured"
+  "TIE": "LEUULINIC",
+  "data": [
+    {
+      "name": null,
+      "type": null,
+      "description": null,
+      "COPY": null,
+      "value": null
+    },
+    {
+      "name": "Solem Lt. 1oo. Custm Case CPe",
+      "value": 0.045,
+      "unit": null
+    },
+    {
+      "name": null,
+      "value": null,
+      "unit": "b jg1Cig"
+    },
+    {
+      "name": null,
+      "value": 0.04,
+      "unit": null
+    },
+    {
+      "name": null,
+      "value": null,
+      "unit": null
+    },
+    {
+      "name": "Centwry 85-",
+      "value": null,
+      "unit": null
+    },
+    {
+      "name": null,
+      "value": 2.565,
+      "unit": "g"
+    },
+    {
+      "name": null,
+      "description": "6rY t8_S'c"
+    },
+    {
+      "name": null,
+      "description": "Sth'e"
+    },
+    {
+      "name": null,
+      "value": null
+    },
+    {
+      "name": null,
+      "value": null
+    },
+    {
+      "name": null,
+      "value": null
+    }
+  ],
+  "codes": [
+    null,
+    null
+  ]
 }

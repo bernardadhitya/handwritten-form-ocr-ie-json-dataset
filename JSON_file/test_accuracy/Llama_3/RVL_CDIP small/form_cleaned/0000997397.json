@@ -1,4 +1,42 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nCode Which has:\nMore Impact Wore Irritation Hore Body More Menthol More Tobacco Taste More Off-taste More Mouth Drying Overall Difference:\nNone Slight Moderate Significant MENTHOL PANEL ane: bbe itbarsmn) Trial 1 ost o4/ os! o4/ Gal FP SD.\n| 641 vs. 651 “Trial 2 trial 3 Hh _ bs ost 64 bHt by 69 _ 6st He bs) a us asp hs e Trial 4 657 —Hsd__ 6S sl o4/ Wsd * 620707815 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S 6S "
+  "MENTHOL_PANEL": {
+    "Name": "641vs.651",
+    "Trial1": {
+      "More_Impact": "651",
+      "More_Irritation": "64!",
+      "More_Body": "159",
+      "More_Menthol": "651",
+      "More_Tobacco_Taste": "641",
+      "More_Off_taste": "NS.D",
+      "More_Mouth_Drying": "N.SD"
+    },
+    "Trial2": {
+      "More_Impact": "651",
+      "More_Irritation": "651",
+      "More_Body": "641",
+      "More_Menthol": "651",
+      "More_Tobacco_Taste": "651",
+      "More_Off_taste": "NS.D",
+      "More_Mouth_Drying": "NSD"
+    },
+    "Trial3": {
+      "More_Impact": "651",
+      "More_Irritation": "651",
+      "More_Body": "6",
+      "More_Menthol": "651",
+      "More_Tobacco_Taste": "651",
+      "More_Off_taste": "NS.D",
+      "More_Mouth_Drying": "NSD"
+    },
+    "Trial4_": {
+      "More_Impact": "651",
+      "More_Irritation": "651",
+      "More_Body": null,
+      "More_Menthol": "651",
+      "More_Tobacco_Taste": "641",
+      "More_Off_taste": "NS.D",
+      "More_Mouth_Drying": "NSD"
+    },
+    "Overall_Difference": "None"
+  }
 }

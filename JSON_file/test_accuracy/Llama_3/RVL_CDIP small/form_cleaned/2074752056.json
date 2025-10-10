@@ -1,4 +1,24 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n12/41/97 THU 15:00 FAX S04 2747714 Philip Morris RAD, FACSIMILE TO: Name JS. > ‘Company Fax No.\n(= B/2- 907-5399 mo. Vg FROM: C eo| Lew) Philip Moris USA. RED, Richmond, VA ~ Phone:\nFax:\nDa’ PAGES TO FOLLOW:\nThis facstmile transmission (and/or the documents accompanying it) may contain confidential information belonging to the sender. ‘The information is juteaded only for the use of the addressee or entit...\nMESSAGE:\ngg0zsLvL0oz Boor 0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0"
+  "date": "12/97",
+  "day": "THU",
+  "time": "15:00",
+  "fax_number": "804 2747714",
+  "company": "Philip Morris R&D",
+  "document_number": "001",
+  "facsimile": {
+    "to": {
+      "name": "MS-.",
+      "company": null,
+      "fax_number": "-312-907-5399"
+    },
+    "from": {
+      "company": "Philip Moris USA.R&D.Richmond,VA",
+      "phone": "8042748",
+      "fax": "804/274-"
+    },
+    "date": "12/11/97",
+    "pages_to_follow": "PAGES TO FOLLOW",
+    "confidentiality_notice": "This facsimile transmission and/or the documents accompanying it) may contain confidential information belonging to the sender. The information is intended only for the use of the addressee or entity named above If you are not the iutended reciplent you are hereby notified that any disclosure copying, distribution or the taking of any action in reliance of tbe contents of this information is strictly prohibited by law.If you have received this transmission in error, please immediately notify us by telephone to arrange for thc return of thc documents.",
+    "message": "2074752056"
+  }
 }

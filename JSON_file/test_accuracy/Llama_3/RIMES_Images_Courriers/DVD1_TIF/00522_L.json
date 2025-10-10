@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nQ LE sY NDiCAT le 26/06/2006 Madame, Monnsieure ggvouuo7 2omYp ow un& anpwefonUs uTd spxp swi p qmS commande nu &e modle identje par& nKfeace CH45-02.\nJe Xicur a m'erau poun e Oargamentnamo doute hetturbateun a vote égad.\nCoordlonmee :\n&Fne& &eJ: QKcLJ47 adresse :\nM. Y& ToucHAR0 6,B TRAVERSE DE LA PRELE 8Y 12o LE SyNDi cAT telepHone: O3 59 27 1o 5g ma nalatatong lo rlu dintnguee.\nYe, ToucHARD 6, 12o LE SyNDi cAT 6 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o 12o "
+  "document": "Q LE sY NDiCAT",
+  "scenario": null,
+  "writer": "Madame, Monnsieure",
+  "sender_person": "M. Y& ToucHAR0",
+  "sender_company": "SyNDi cAT",
+  "sender_tel": "03 59 27 10 5",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "date": "26/06/2006",
+  "place": "6,B TRAVERSE DE LA PRELE",
+  "box": "QKcLJ47"
 }

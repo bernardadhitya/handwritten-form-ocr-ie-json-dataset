@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nTELECOPIE LM.AR.C. Date : OS /tofbé Laboratoire de Mécanique Appliquée R. Chaléat UMR CNRS 6604 Nombre de page (inclus celle-ci) : 3 24 rue de l'Epitaphe, | 25000 BESANCON (FRANCE) Expéditeur : Geral...@gmail.com  Date de réception : 2019-01-14 14:30:00  Date de naissance : 1990-01-01  Date de décès : 1990-01-01  (Note : les dates sont en format JDD/MM/AAAA)  Date de réception du courrier : 2019-01-14 14:30:00  Date de réception du courrier (environ) : 2019-01-14 14:30:00  Date de réception du courrier (environ) : 2019-01-14 14:30:00  Date de réception du courrier (environ) : 2019-01-14 14:30:00  Date de réception du courrier (environ) : 2019-01-14 14:30:00  Date de réception du courrier (environ) : 2019-01-14 14:30:"
+  "document": "TELECOPIE",
+  "scenario": "OS/M0/06",
+  "writer": "L.M.A.R.C.",
+  "sender_person": "Crand LON6UET",
+  "sender_company": "Laboratoire de Mécanique Appliquée R. Chaléat",
+  "sender_tel": "03.81.66.60.00",
+  "sender_fax": "03.81.66.67.00",
+  "receiver_person": "NWIP Assuramces",
+  "receiver_company": null,
+  "subject": "ObeF, hesi1intion d'assuranee aubonob//e",
+  "date": "OS/M0/06",
+  "place": "24 rue de l'Epitaphe, 25000 BESANCON (FRANCE)",
+  "box": null
 }

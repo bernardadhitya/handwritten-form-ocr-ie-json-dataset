@@ -1,4 +1,29 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n05-10-1993 16:17 TDC eet S68 721 POL é O Cecnpe Agent leat) =e (obge) Fax Transmission (ebempe( aes “tut; ) To: Mr Mat Winokur ‘Company: Philip Movis Int!) Fax Number: O10 212 -G07-S372 From: Nicola A...\nKind Nesouds XN 5 If you have any queries regarding this fax, please call +44(0)81 569 7788 § 2 THAMESIDE CENTRE, KEW BRIDGE ROAD, BRENTFORD, MIDDLESEX TW8 OHP, ENOLAND TELEPHONE +44(081 58 7788 FAX +..."
+  "dateTime": "05-10-1993 16:17",
+  "tdc": "TDC",
+  "page": "P.01",
+  "document": "DOCU",
+  "faxTransmission": "Fax Transmission",
+  "recipient": {
+    "name": "Mr Ma# Winokur",
+    "company": "Philip Moris ht'l",
+    "faxNumber": "010-212-907-5372"
+  },
+  "sender": {
+    "name": "Nicola Argent (6r Rn Tully"
+  },
+  "date": "5m October 1993",
+  "totalPagesSent": "3",
+  "message": "Pleax fino apperded cepy of \"No Move Smoke Beteen Uls\" previoshy faxed # y0i 27n septonbes. Kind regcwds NO 2025498276",
+  "no": "2025498276",
+  "contactInfo": {
+    "queryContact": "+44(0)81 569 7788",
+    "address": "2THAMESIDE CENTREKEW BRIDGE ROAD,BRENTPORD.MIDDLESEX TW3 OHP,ENOLAND"
+  },
+  "companyInfo": {
+    "liability": "mitcd Liability",
+    "registrationNo": "FC6520",
+    "establishedIn": "Swizeand",
+    "vatNumber": "538 9273 05"
+  }
 }

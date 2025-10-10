@@ -1,4 +1,72 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n‘MARKETING: RESEAKCHE YATIONAL CONSENSUS SURVEYS : 01 Second Avene 1146 25077 i Neu York, Mew York 10017 ‘Auguet, 1977 R pag ee Tine wiv seaneos pds room's me, on am Ln tmarioe weno ma aster re 1. (aw...\n(SHOW AGE CARD.) Pleane tell me which letter on thts card tacludes your age.\n(TeANEWATE. AND CIRCLE NEXT WTGHEST WHER ‘SELON NEXT TO \"UWDER OB OVE ACE” <—— * voter 2, cconrrwuey <—— (TERMEWATE AND CIMCLE NEXT NLOMEST WONBER, DELON NEXT TO \"UNDER OB OVEE ACK\") €—— mxoen ‘on ove...’ (show age card) Pleane tell me which letter on thts card tacludes your age.\n(TeANEWATE. AND CIRCLE NEXT WTGHEST WHER ‘SELON NEXT TO “UWDER OB OVE ACE” <—— * voter 2, cconrrwuey <—— (TERMEWATE AND CIMCLE NEXT NLOMEST WONBER, DELON NEXT TO “UNDER OB OVEE ACK”) €—— mxoen ‘on ove...’ (show age card) Pleane tell me which letter on thts card tacludes your age.\n(TeANEWATE. AND CIRCLE NEXT WTGHEST WHER ‘SELON NEXT TO “UWDER OB OVE ACE” <—— * voter 2, cconrrwuey <—— (TERMEWATE AND CIMCLE NEXT NLOMEST WONBER, DELON NEXT TO “UNDER OB OVEE ACK”) €—— mxoen ‘on ove...’ (show age card) Pleane tell me which letter on thts card tacludes your age.\n(TeANEWATE. AND CIRCLE NEXT WTGHEST WHER ‘SELON NEXT TO “UWDER OB OVE ACE” <—— * voter 2, cconrrwuey <—— (TERMEWATE AND CIMCLE NEXT NLOMEST WONBER, DELON NEXT TO “UNDER OB OVEE ACK”) €—— mxoen ‘on ove...’ (show age card) Pleane tell me which letter on thts card tacludes your age.\n(TeANEWATE. AND CIRCLE NEXT WTGHEST WHER ‘SELON NEXT TO “UWDER OB OVE ACE” <—— * voter 2, cconrrwuey <—— (TERMEWATE AND CIMCLE NEXT NLOMEST WONBER, DELON NEXT TO “UNDER OB OVEE ACK”) €—— mxoen ‘on ove...’ (show age card) Pleane tell me which letter on thts card tacludes your age.\n(TeANEWATE. AND CIRCLE NEXT WTGHEST WHER ‘SELON NEXT TO “UWDER OB OVE ACE” <—— * voter 2, cconrrwuey <—— (TERMEWATE AND CIMCLE NEXT NLOMEST WONBER, DELON NEXT TO “UNDER OB OVEE ACK”) €—— mxoen ‘on ove...’ ("
+  "organization": "Consensus Surveys",
+  "survey": "NATIONAL CONSENSUS SURVEYS",
+  "address": {
+    "street": "Neu York,New York",
+    "suite": null,
+    "postal_code": "10017",
+    "city": "Neu York",
+    "state": "Nehe",
+    "zip_code": null
+  },
+  "date": "August,1977",
+  "project": "CIGARETTE PORTFOL.LO",
+  "screening_questionnaire": {
+    "time_interview": {
+      "started": null,
+      "ended": null
+    },
+    "respondents": null,
+    "telephone": "TEL.0442-466-3/",
+    "address": null,
+    "city": "Lincola",
+    "state": "Nehe",
+    "interviewer": "Nationsl",
+    "metro_area": null,
+    "date": null,
+    "validated_by": null,
+    "validation_date": null,
+    "indicate_city": [
+      "Boston",
+      "Detroit",
+      "Des Moines",
+      "Onaha",
+      "New Orleang"
+    ],
+    "initial_refusal": {
+      "circle_mex": [
+        10,
+        20,
+        21,
+        22,
+        27,
+        30,
+        46,
+        50,
+        58
+      ]
+    },
+    "participation": {
+      "question": "Have you, yourself, participated in a study?",
+      "terminate_and_circle_next_highest_number_below": "Ye",
+      "response": {
+        "yes": null,
+        "no": "No"
+      }
+    },
+    "age_card": {
+      "instruction": "Please tell me which letter on this card includes your age.",
+      "terminate_and_circle_next_highest_number": null,
+      "age_groups": {
+        "A": "Under21",
+        "B": "7",
+        "C": "35",
+        "D": "to",
+        "E": "24",
+        "F": "to",
+        "G": "34"
+      },
+      "terminate_and_circle_next_highest_number_under_or_over_age": "3"
+    }
+  }
 }

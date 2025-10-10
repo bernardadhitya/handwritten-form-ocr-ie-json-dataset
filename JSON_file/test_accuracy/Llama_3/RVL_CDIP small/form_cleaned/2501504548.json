@@ -1,4 +1,47 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nINBIFO Institut fur biologische Forschung - KéIn FORM 35.KW 82 RO/SN SN22 BIO REPORT-LAURGETTED 2 O80 /3050.\nTitel: Determination a ne gar dcon CocQQicrer ing DGertioadd bey CIEE HSER OS Sots Sak 2 Report in Deutsch/Englisch:\nAnzahl Exemplare (a) Auftraggeber: Inbifo:\nVORGANG STBLLE DATUM an Baw. EBINGANG AUSGANG PERSON 2usammenstel lung AUTOR und Priifung EBrstellung Originale RP. AW. Mee BQ NO Korrekturlesen RP.\nNumerierung, Inhaltsverz., Verweise im Text RP Freigabe AUTOR TEAMLETTER PL ‘OAR HRO GH DRE Kenntnisnahme OA HRO Bingen, Buchbinder INBIFO RP Briefbeschaffung, Ver-\npackung, Auslieferungs~ protokoll RP Versand (a) mit Angabe, ob Vydec-Ausdruck (V) oder Kopie (K) apsyostosZ awe.\nBewilligung der Veroffentlichung RP Veroffentlichung RP Veroffentlichung (a) mit Angabe, ob VVYdec-Ausdruck (V) oder Kopie (K) apsyostosZ awe.\nBewilligung der Veroffentlichung RP Veroffentlichung RP Veroffentlichung (a) mit Angabe, ob VVYdec-Ausdruck (V) oder Kopie (K) apsyostosZ awe.\nBewilligung der Veroffentlichung RP Veroffentlichung RP Veroffentlichung (a) mit Angabe, ob VVYdec-Ausdruck (V) oder Kopie (K) apsyostosZ awe.\nBewilligung der Veroffentlichung RP Veroffentlichung RP Veroffentlichung (a) mit Angabe, ob VVYdec-Ausdruck (V) oder Kopie (K) apsyostosZ awe.\nBewilligung der Veroffentlichung RP Veroffentlichung RP Veroffentlichung (a) mit Angabe, ob VVYdec-Ausdruck (V) oder Kopie (K) apsyostosZ awe.\nBewilligung der Veroffentlichung RP Veroffentlichung RP Veroffentlichung (a) mit Angabe, ob VVYdec-Ausdruck (V) oder Kopie (K) apsyostosZ awe.\nBewilligung der Veroffentlichung RP Veroffentlichung RP Veroffentlichung (a) mit Angabe, ob VVYdec-Ausdruck (V) oder Kopie (K) apsyostosZ awe.\nBewilligung der Veroffentlichung RP Veroffentlichung RP Veroffentlichung (a) mit Angabe, ob"
+  "institution": "INBiFO Institut fur biologische Forschung Koln",
+  "form": "FORM35.KW 82",
+  "ro_sn": "RO/SN",
+  "sn": "SN22B10",
+  "report": "REPORT",
+  "aufzettel": "AS/35.",
+  "as": null,
+  "title": "oee Fion Wecdteng ec Moumodw Port -",
+  "report_language": "Deutsch/Englisch",
+  "number_of_copies": "Anzahl Exemplare (a) Auftraggeber: Inbifo:",
+  "inbifo": "Inbifo",
+  "process": {
+    "stelle": "VORGANG",
+    "datum": "28.KW82",
+    "zn": "ZN",
+    "bzw": "BZW.",
+    "eingang": "EINGANG",
+    "ausgang": "AUSGANG",
+    "person": "PERSON"
+  },
+  "compilation": "Zusammenstellung AUTOR und Prufung",
+  "author": "AUTOR",
+  "review": "Erstellung Originale RP 4.c8 Korrekturlesen RP",
+  "original_creation": "Erstellung Originale RP",
+  "correction": "Korrekturlesen RP",
+  "numbering": "Numerierung, Inhaltsverz., Verweise im Text RP",
+  "approval": {
+    "author": "AUTOR",
+    "team_leader": "TEAMLEITER",
+    "pl": "PL",
+    "qa": "QA",
+    "hro": "HRO",
+    "gm": "GM",
+    "drha": "DRHA"
+  },
+  "acknowledgment": {
+    "qa": "QA",
+    "hro": "HRO"
+  },
+  "binding": "Binden, Buchbinder RP",
+  "mailing": "Briefbeschaffung,Ver-packung, Auslieferungs-protokoll RP",
+  "shipping": "Versand 2501504548",
+  "shipping_code": "a mit Angabe,ob Vydec-Ausdruck V oder Kopie K)",
+  "note": null,
+  "date": "28.KW82"
 }

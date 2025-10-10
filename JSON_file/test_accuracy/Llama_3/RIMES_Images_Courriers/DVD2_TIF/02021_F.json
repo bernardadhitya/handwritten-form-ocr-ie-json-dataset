@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nCarrefour Kama 1 Rue du henou 6tg9o Othage Nos ref.\nwb 3 mOCl Vos ref:\nW.N.A ym6 xmm0 me) cood cnmee? 6t 6t 6t 6t 6t 6t 6t 6t 6t 6t 6t 6t 6t 6t 6t 6t 6"
+  "document": "Carrefour",
+  "scenario": null,
+  "writer": null,
+  "sender_person": "Kama",
+  "sender_company": "1 Rue du henou 6tg9o Othage",
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": null,
+  "date": null,
+  "place": "Kama 1 Rue du henou 6tg9o Othage",
+  "box": null
 }

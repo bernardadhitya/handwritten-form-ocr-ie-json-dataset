@@ -1,4 +1,53 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\naE PHILIP MORRIS RESEARCH CENTER New QB known Q] ~177t Emp. Formila_Ciz Hao V2 Mol. Weight 204-31 Lit. Ref.\nname (14S) - ¢- lsoprepofnic Hine STRUCTURE: © METHOD OF PREP:\nfo) :\ne S Hea, :\n<3 CT Het, _ Oy Meow BE ox- jy Cry ond wae 7359 Ree _6l [ soiwbility:_ Geo, CHcL Sample #__7354—41- la MP. BP Number| Date To be tested for (amounts supplied); | Derivatives:\nAnal. = Gout From Galbraith Pate {222579 diptencke + Wao Recrystallization, GC, TLC Data:\nCeled. Found c F442 43-67 H 41d 4-03 N 1647. lo-2¢ —a Comments:\nDate_3-1 AW Submitter_D. fasten [C.Chedrri'a, Project # 2TvO Approved, 2501582472\nThe above text is a sample of the input data that you will receive. The input data will be in the same format as the sample above. The input data will be in the same format as the sample above. The input data will be in the same format as the sample above. The input data will be in the same format as the sample above. The input data will be in the same format as the sample above. The input data will be in the same format as the sample above. The input data will be in the same format as the sample above. The input data will be in the same format as the sample above. The input data will be in the same format as the sample above. The input data will be in the same format as the sample above. The input data will be in the same format as the sample above. The input data will be in the same format as the sample above. The input data will be in the same format as the sample above. The input data will be in the same format as the sample above. The input data will be in the same format as the sample above. The input data will be in the same format as the sample above. The input data will be in the same format as the sample above. The input data will be in the same format as the sample above. The input data will be in the same format as the sample above. The input data will be in the same format as the sample above. The input data will be in the same format as the sample above. The input data will be in the same format as the sample above. The input data will be in the same format as the sample above. The input data will be in the same format as the"
+  "research_center": "PHILIP MORRIS RESEARCH CENTER",
+  "status": {
+    "CR": "New",
+    "Known": "ILL"
+  },
+  "empirical_formula": "C3H0",
+  "molecular_weight": "a04.31",
+  "literature_reference": "Lit. Ref",
+  "name": "s-5-soprpniHn",
+  "structure": "STRUCTURE:",
+  "method_of_preparation": "HOHO",
+  "NC": "NC",
+  "LL": "LL",
+  "page": "19",
+  "solubility": "04",
+  "sample_number": "7359-61-1a",
+  "melting_point": "To be tested for amounts supplied",
+  "boiling_point": "To be tested for amounts supplied",
+  "testing": {
+    "amounts_supplied": "To be tested for amounts supplied",
+    "number": null,
+    "date": "09-",
+    "solvent": null,
+    "IR": null,
+    "UV": null,
+    "NMR": null,
+    "derivatives": "MS",
+    "analytical": "Anal."
+  },
+  "from": "Glsyih",
+  "date": "10--79",
+  "diyoigrnt": "diyoigrnt.H0",
+  "recrystallization": "Recrystallization, GC.TLC Data",
+  "GC_TLC_data": {
+    "calculated": {
+      "C": "4412",
+      "H": "4-12",
+      "N": "16.47"
+    },
+    "found": {
+      "C": "43.65",
+      "H": "4-03",
+      "N": "16-2"
+    }
+  },
+  "comments": {
+    "date": "3-10",
+    "submitter": "D.Ams",
+    "project_number": "so",
+    "approved": "2501552472"
+  }
 }

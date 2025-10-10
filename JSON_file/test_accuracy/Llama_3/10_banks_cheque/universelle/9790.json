@@ -1,4 +1,12 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nBANOUEUNIVERSELLE CRABONDANCE 1264 w.....y.\nOn Thousand Two Hundred and SixtFor 06/05/22 Fawa Zuhayr Matafa EKef Bd de la Prosperite PLANETTE TERRE T.:0811078809\nBANOUEUNIVERSELLE CRABONDANCE 1265 w.....y.\nOn Thousand Two Hundred and SixtFor 06/05/22 Fawa Zuhayr Matafa EKef Bd de la Prosperite PLANETTE TERRE T.:0811078809\nBANOUEUNIVERSELLE CRABONDANCE 1266 w.....y.\nOn Thousand"
+  "company": "BANOUEUNIVERSELLE",
+  "branch": "CRABONDANCE",
+  "code": "1264",
+  "account": "w.....y.",
+  "amount": "On Thousand Two Hundred and SixtFor",
+  "date": "06/05/22",
+  "name": "Fawa Zuhayr Matafa",
+  "location": "EKef",
+  "address": "Bd de la Prosperite",
+  "telephone": "T.:0811078809"
 }

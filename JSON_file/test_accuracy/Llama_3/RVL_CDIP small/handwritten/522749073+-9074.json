@@ -1,4 +1,8 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n666T QBaue saveal olotekthe dooloeols t.Rwebase eooon.\nDoolimel inoleButInewneceie Mes.\nD.bagereegSinvoeed yn the Dorol teopsomotersalongtn bouk. Ye Anite 52274 9073.\nDoolimel inoleButInewneceie Mes.\nDoolimel inoleButInewneceie Mes.\nDoolimel inoleButInewneceie Mes.\nDoolimel inoleButInewneceie Mes.\nDoolimel inoleButInewneceie Mes.\nDoolimel inoleButInewnece"
+  "code": "666T",
+  "text": "QBaue saveal olotekthe dooloeols t.Rwebase eooon. Doolimel inoleButInewneceie Mes. D.bagereegSinvoeed yn the Dorol teopsomotersalongtn bouk. Ye Anite 52274 9073",
+  "numbers": [
+    "52274",
+    "9073"
+  ]
 }

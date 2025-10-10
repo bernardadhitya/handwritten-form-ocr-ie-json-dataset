@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nASSOCIATION BUZENVAL Action Educative d'Aide ä Domicile 194 Bd Voltaire 92600 ASNIERES Tél. : 01.40.86.06.86 Fax : 01.47.90.13.77 Le 2 1ema,2oot Secteur de :\nClichy/Levallois-Perret/Neuilly Bois-Colombes/Asniéres Expéditeur :\nDestinataire v a) NNA An Nombre depages :\n3 (cette page comprise) MESSAGE hsaiet mto a'larata de Mhiske de n de la 2eme section de la 1eme secteur de Clichy/Levallois-Perret/Neuilly Bois-Colombes/Asniéres\na) NNA An Nombre depages :\n3 (cette page comprise) MESSAGE hsaiet mto a'larata de Mhiske de n de la 2eme section de la 1eme secteur de Clichy/Levallois-Perret/Neuilly Bois-Colombes/Asniéres\na) NNA An Nombre depages :\n3 (cette page comprise) MESSAGE hsaiet mto a'larata de Mhiske de n de la 2eme section de la 1eme secteur de Clichy/Levallois-Perret/"
+  "document": "ASSOCIATION BUZENVAL",
+  "scenario": "Action Educative d'Aide ä Domicile",
+  "writer": null,
+  "sender_person": null,
+  "sender_company": "ASSOCIATION BUZENVAL",
+  "sender_tel": "01.40.86.06.86",
+  "sender_fax": "01.47.90.13.77",
+  "receiver_person": "NNA An",
+  "receiver_company": null,
+  "subject": "hsaiet",
+  "date": null,
+  "place": "194 Bd Voltaire, 92600 ASNIERES, Clichy/Levallois-Perret/Neuilly, Bois-Colombes/Asniéres",
+  "box": "3"
 }

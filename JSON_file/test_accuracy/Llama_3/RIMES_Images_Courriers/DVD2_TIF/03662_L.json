@@ -1,4 +1,13 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nBARRoso Remy 19 RoUTE DE sT LEoNARD 67 53o BOERsCH Tel : 03.34.31.74. 95 a NAiF AssuRances A PLACE DE LA MAiRiE 54 91o VALLERoy Madame, Monsieur, I1 y a un mois, je vous ai conlacle au %ujer de mon v&...\nJe rous pr:e degréer,Madame, Monsieus, mes Solufahons dstiruees -\nBARR0 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 "
+  "document": "BARRoso Remy",
+  "scenario": null,
+  "writer": null,
+  "sender_person": "BARRoso Remy",
+  "sender_company": "a NAiF AssuRances",
+  "sender_tel": "03.34.31.74. 95",
+  "sender_fax": null,
+  "receiver_person": "Madame, Monsieur",
+  "receiver_company": "A PLACE DE LA MAiRiE",
+  "date": null,
+  "place": "54 91o VALLERoy"
 }

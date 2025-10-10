@@ -1,4 +1,13 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nMme G AVDRY NatKalic 28 sw Vel ponst 32co AvcH elere ch e DSNMP48 86 30200 S* NAZAIRE m'a incore awcwm Soc' couvuer Vous Swz mmor aemne 0s. 12.93.38.93 GAVDRY NatKalic 28 sw Vel ponst 32co AvcH elere ch e DSNMP48 86 30200 S* NAZAIRE m'a incore awcwm Soc' couvuer Vous Swz mmor aemne 0s. 12.93.38.93\n\nThe text appears to be a series of phone numbers and"
+  "document": "Mme G AVDRY NatKalic",
+  "scenario": "28 sw Vel ponst",
+  "writer": "32co AvcH",
+  "sender_person": "Mme G AVDRY",
+  "sender_company": "NatKalic",
+  "sender_tel": "86",
+  "sender_fax": "30200 S* NAZAIRE",
+  "receiver_person": "m'a incore",
+  "receiver_company": "awcwm",
+  "date": "0s. 12.93.38.93",
+  "place": "GAVDR"
 }

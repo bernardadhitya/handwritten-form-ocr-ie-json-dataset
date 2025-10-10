@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nadame THiEBAvT (Groline 3chemin de la prairie 6814O S TOssWiHR Tel: 03.31-80.74-41 Qg: ELRYL4S SFosswihr, le 1 Ochobre 20a6 yysg uoy)pysaw  7P voy1Y lavenve Jean Jaulig 92 39o V:llenevve la 6asenne ba...\nRiBbOn  (Groline 3chemin de la prairie 6814O S TOssWiHR Tel: 03.31-80.74-41 Qg: ELRYL4S SFosswihr, le 1 Ochobre 20a6 yysg uoy)pysaw  7P voy1Y lavenve Jean Jaulig 92 39o V:llenevve la 6asenne ba...\n\nThe text appears to be a collection of phone numbers and addresses, but it's not clear what the context is or what the purpose of the text is. However, the phone numbers and addresses appear to be in"
+  "document": "adame THiEBAvT",
+  "scenario": "Groline",
+  "writer": "Jean Jaulig",
+  "sender_person": "adame THiEBAvT",
+  "sender_company": "Groline",
+  "sender_tel": "03.31-80.74-41",
+  "sender_fax": "ELRYL4S",
+  "receiver_person": null,
+  "receiver_company": null,
+  "date": "1 Ochobre 20a6",
+  "place": "Fosswihr",
+  "box": null
 }

@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n7 nve oes jacdins 685CO R1MBACHZEUL MAN1F aMurances Rgference clent : EDNLPO3 5 place du ch2ne ven1 0 35310 CinTRE 1!ano un nap sno-lpo1 sp spunwsp :phqO Monsicer, np uuado.p nb!ydo1 suo ss3 snoA p pi...\nsinceres salutations, I am writing to you from the address above. I am a representative of the company, and I am contacting you to inform you that your account has been flagged for review due to a potential security risk. We have received information that suggests your account may be compromised by a third party. We urge you to take immediate action to secure your account and prevent any further unauthorized access.\n\nPlease find below the details of your account:\n\n*   Account Name: [insert account name]\n*   Account Number: [insert account number]\n*   Account Type: [insert account type]\n*   Current Balance: [insert current balance]\n*  "
+  "document": "Lettre manuscrite",
+  "scenario": null,
+  "writer": "LEPINE Elsa",
+  "sender_person": null,
+  "sender_company": null,
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": null,
+  "date": null,
+  "place": null,
+  "box": null
 }

@@ -1,4 +1,128 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nSample Number _ 297-2 _ Confidential Sample Date 2/2542 Ope dlaNier ted BR/25; 72 Fiament Abundance: [] [] [] [J — 0 ° 1 2 3 4 5 6 None Few Some Common Very ‘Abundant — Excessive Common Filament Effec...\n|__| Rank | Abundance [| ———_| Rank | Abundance 5 M. parvicella 4 Vane Type 0581 Type 0092 LAGI] type 0803 | Typo 1851 ave | type 0961 Bes | Type 0675 | other Remarks Fack Soo Batu tt Wusedl Kower 203..."
+  "SampleNumber": null,
+  "Confidential": true,
+  "Code": null,
+  "SampleDate": null,
+  "Observations": null,
+  "FilamentAbundance": {
+    "None": null,
+    "Few": null,
+    "Some": 2,
+    "Common": null,
+    "VeryAbundant": null,
+    "Excessive": null
+  },
+  "FilamentEffectOnFlocStructure": {
+    "LittleOrNone": null,
+    "Bridging": null,
+    "OpenFlocStructure": null
+  },
+  "MorphologyOfFloc": {
+    "Firm": null,
+    "Weak": null,
+    "Round": false,
+    "Irregular": null,
+    "Compact": null,
+    "Diffuse": null
+  },
+  "Size": {
+    "LessThan150": false,
+    "Between150And500": false,
+    "GreaterThan500": null
+  },
+  "PercentageInRange": null,
+  "Flament": "0zN",
+  "Features": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "FilamentousMicroorganismSummary": {
+    "Nocardia sp.": {
+      "Rank": null,
+      "Abundance": null
+    },
+    "M.parvicella": {
+      "Rank": null,
+      "Abundance": null
+    },
+    "Type 1701": {
+      "Rank": null,
+      "Abundance": null
+    },
+    "Type 0581": {
+      "Rank": null,
+      "Abundance": null
+    },
+    "S.natans": {
+      "Rank": null,
+      "Abundance": null
+    },
+    "Type 0092": {
+      "Rank": null,
+      "Abundance": null
+    },
+    "Type 021N": {
+      "Rank": null,
+      "Abundance": null
+    },
+    "Type 0803": {
+      "Rank": null,
+      "Abundance": null
+    },
+    "Thiothrix sp.": {
+      "Rank": null,
+      "Abundance": null
+    },
+    "Type 1851": {
+      "Rank": null,
+      "Abundance": null
+    },
+    "Type 0041": {
+      "Rank": null,
+      "Abundance": null
+    },
+    "Type 0961": {
+      "Rank": null,
+      "Abundance": null
+    },
+    "H.hydrossis": {
+      "Rank": null,
+      "Abundance": null
+    },
+    "Type 0675": {
+      "Rank": null,
+      "Abundance": null
+    },
+    "N.limicola": {
+      "Rank": null,
+      "Abundance": null
+    },
+    "Other": {
+      "Fungus": null,
+      "Other": null
+    },
+    "S": {
+      "natans": {
+        "Rank": null
+      }
+    },
+    "Thiothrix sp": {
+      "": {
+        "Abundance": null
+      }
+    },
+    "N": {
+      "limicola": {
+        "Rank": null
+      }
+    }
+  },
+  "Remarks": null,
+  "Basn": null,
+  "CodeNumber": null
 }

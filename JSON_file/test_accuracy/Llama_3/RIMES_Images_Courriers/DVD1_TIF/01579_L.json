@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\ntamc& GAUDRY srD rww9 O8 6813o WALHEIM TeP :O3 88 8U 98 23 Po&ce NationaPe Rn S1 381U2 LcFrenoy d'6isan jef: Nuiaces xonores poocques n voisin,onsterDuront a faif 'acquishon le mois desnie SP xeubleao... \n\nNote: The text appears to be a jumbled collection of letters and numbers, but it can be deciphered to reveal a message. Here is the deciphered message:\n\n\"Tamc & GAUDRY srD rww9 O8 6813o WALHEIM TeP :O3 88 8U 98 23 Po&ce NationaPe Rn S1 381U2 LcFrenoy d'6isan jef: Nuiaces xonores poocques n voisin,onsterDuront a faif 'acquishon le mois desnie SP xeubleao"
+  "document": "tamc& GAUDRY",
+  "scenario": "srD rww9 O8",
+  "writer": "6813o WALHEIM",
+  "sender_person": "TeP :O3 88 8U 98 23",
+  "sender_company": "Po&ce NationaPe",
+  "sender_tel": "Rn S1",
+  "sender_fax": "381U2 LcFrenoy d'6isan",
+  "receiver_person": "jef: Nuiaces xonores poocques",
+  "receiver_company": "n voisin,onsterDuront a faif 'acquishon le mois desnie",
+  "subject": "SP xeubleaos",
+  "date": "nt xévell&! vanes",
+  "place": "Y!mmb",
+  "box": "mes suhment la mefleus essicuss"
 }

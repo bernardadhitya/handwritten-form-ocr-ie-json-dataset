@@ -1,4 +1,50 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n~ OUTDOOR BULLETIN DISPLAY CONTRACT LEO BURNETT COMPANY: INC.\nADVERTISING DOENTIA PLATA GNEAGO LNG 0001 To DATE: CEMBER 14. 1992 ACKERLEY COMMUNICATIONS.\n3601 6TH AVE. 2 CONTRACT No: _MASEAT 01-37 SEATTLE, WA 98134 ADVERTISER: Philip Mortis, Ine.\niersnatier cetera 0 as Comoany proucr rosacen (Maun:\nTRAE Te Re NEA Tal TRADING AREA: _€1H VON Leo Burnett Company, Inc.,hereinafter referred to as Agency, hereby contracts for the Display and Maintenance of advertising on Outdoor Advertising Bulletin s...\nthe front and back hereof and any addendums attached hereto.\nMARKET LOCATION “Sze ilu | YES] NO SEATTLE, WA ELLIOTT AVE AND GALER NF. 14'x48\" x | CONTRACT PERIOD: FROM DATE OF COMPLETION APPROXIMATELY ———Rate INFORMATION) 1/1/83, THROUGH 12/31/83, WITH JANUARY...\nCOPY CHANGES: The following copy change options will prevail under execution terms of this agreement:\n{f this bulletin/Sis to be completely painted there will be 3 complete paintings, including the intial, annually, o; If this bulletin is to be partially posted there will be 6 posting of posted portio...\nEXTENSIONS:\nThis unit may be equipped with extensions of which the maximum limits are_5%_ Ft. above, Breach sae :\n2 Ft. below and This is a master contract authorizing all Philip Morris, Inc. operating companies and affiliates and their advertising agencies to place space against this contract.\nPLANT WILL INSTALL HOLOPHANE BY 2/1/83. ALSO 5'X17\" EXTENSION SHALL SE SHRGHEMED TO TH1S UIT FROM ONE OF THE ROTARY UNTTS BEING DROPPED 1/1/53.\nACCEPTED:\n-AGeNcy, LEO BURNETT COMPANY No fittre WP 07 SHIPPING ADDRESS:_______ BILLING INFORMATION: SEND INVOICES ONLY ‘TO ACCOUNTING DEPT. SECT. 8 COMPANY: SAME AS ABOVE neon BY.\nCLIENT COPY cones nex  6862940700 bree TY  6862940700\nADVERTISER COPY CONES NEXT  6862940700 BREE TY  6862940700\nADVERTISER COPY CONES NEXT  6862940700 BREE TY  6862940700\nADVERTISER COPY CONES NEXT  6862940700 BREE TY  6862940700\nADVERTISER COPY CONES NEXT  6862940700 BREE TY  6862940700\nADVERTISER COPY CONES NEXT  6862940700 BREE TY  6862940700\nADVERTISER COPY CONES NEXT  6862940700 BREE TY  6862940700\nADVERTISER COPY CONES NEXT  6862940700 BREE TY  6862940700\nADVERTISER COPY CONES NEXT  6862940700 BREE TY  6862940700\nADVERTISER COPY CONES NEXT  6862940700 BREE TY  6862940700\nADVERTISER COPY CONES NEXT  6862940700 BREE TY  6862940700\nADVERTISER COPY CONES NEXT  6862940700 BREE TY  6862940700\nADVERTISER COPY CONES NEXT  6862940700 BREE TY  6862940700\nADVERTISER COPY CONES NEXT  6862940700 BREE TY  6862940700\nADVERTISER COPY CONES NEXT  6862940700 BREE TY  6862940700\nADVERTISER COPY CONES NEXT  6862940700 BREE TY  6862940700\nADVERTISER COPY CONES NEXT  6862940700 BREE TY  6862940700\nADVERTISER COPY CONES NEXT  6862940700 BREE TY  6862940700\nADVERTISER COPY CONES NEXT  6862940700 BREE TY  6862940700\nADVERTISER COPY CONES NEXT  6862940700 BREE TY  6862940700\nADVERTISER COPY CONES NEXT  6862940700 BREE TY  6862940700\nADVERTISER COPY CONES NEXT  6862940700 BREE TY  6862940700\nAD"
+  "outdoor_bulletin": {
+    "display_contract": {
+      "agency": {
+        "name": "LEO BURNETT COMPANY, INC",
+        "address": "PRUDENTIAL PLAZA - CHICAGO.ILLINO1S",
+        "phone": "312-565-5959"
+      },
+      "to": {
+        "date": "DECEMEER14.1992",
+        "company": "ACKERLEY COMUNICATIONS",
+        "address": "3601 6TH AVE. SEATTLEWA 99734"
+      },
+      "contract_no": "WASEAT01-87",
+      "advertiser": {
+        "name": "Philip Morris.Inc.",
+        "product": "TOBACCO",
+        "trading_area": "610"
+      },
+      "contract_details": {
+        "market": "SEATTLE,WA",
+        "location": "ELLIOTT AVE AND GALER NF",
+        "size": "14'X43'",
+        "illumination": "X",
+        "contract_period": "FRC DATE OF COMPLETICN APPROXIMATELY",
+        "rate_information": {
+          "gross_monthly_cost": "$2938.20",
+          "discount": "0.00",
+          "discounted_monthly_cost": "$2933.28"
+        },
+        "cancellation_privileges": "ON ANY JANUARY 1ANNIVERSARYDiSCOunt",
+        "copy_changes": "The following copy change options will prevail under execution terms of this agreement:",
+        "extensions": {
+          "above": "535",
+          "each_side": "2",
+          "below": ""
+        },
+        "special_instructions": "PLANT NILL INSTALL HOLOPHANE BY 2/1/83.ALSO 5X17EXTENSION"
+      },
+      "accepted": {
+        "agency": "LEO BURNETT COMPANY, INC",
+        "agency_id": "2040762989",
+        "company": "SAME AS ABOVE"
+      },
+      "billing_information": {
+        "send_invoices_to": "TOACCOUNTING DEPT.SECT.B"
+      }
+    }
+  }
 }

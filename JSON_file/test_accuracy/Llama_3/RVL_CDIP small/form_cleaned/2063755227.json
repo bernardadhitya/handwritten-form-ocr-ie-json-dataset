@@ -1,4 +1,51 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nJUN-02-97 HON 13:44. P,01/02 Ade — 68>.\ne 4 Fax TRANSMISSION a CALIFORNIA TAXPAYERS’ ASSOCIATIO! iCal-Tax 921 - 11th Street, cule oo Sacramento, CA 95814 ‘Telephone: (18) 441-0490 = FAX: (916) 441-1819 Dare: o/2, f 97 cL #of Pages, includin...\nSUBJECT:\nEROM:\nQ Marta Basser W__Lisa Marin Dave Doser Q— Larry MoCartHy Q Caro Evans QQ Betry Rickaro Q Carta GoucHNour Ron Roactt Q  KaRLHIRAL UW Joyce SHowatTeR @ Q Steve KROES QQ —-REsecca TAYLOR OQ KAREN Yes I...\nFext: Muyj— 299°) ie TH) sido Lzzgsze90z 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+  "date": "JUN-02-97",
+  "day": "MON",
+  "time": "13:44",
+  "page": "P.01/02",
+  "code": "5B5",
+  "type": "FAX TRANSMISSION",
+  "organization": "nCal-Tax",
+  "association": "CALIFORNIA TAXPAYERS'ASSOCIATION",
+  "address": {
+    "street": "921 -11th Street,Suite 800",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95814"
+  },
+  "contact": {
+    "telephone": "915441-0490",
+    "fax": "916441-1619"
+  },
+  "details": {
+    "number_of_pages": "L # of Pages, including cover",
+    "to": [
+      "Micul Cnpenbe",
+      "Plilp Moniz Ty"
+    ],
+    "subject": "",
+    "from": [
+      "MARTA BASSETT",
+      "LISA MARTIN",
+      "DAVE DOERR",
+      "LARRY MCCARTHY",
+      "CAROL EVANS",
+      "BETTY RICKARD",
+      "CARLA GOUGHNOUR",
+      "RON ROACH",
+      "KARL HiRAI",
+      "JOYCE SHOWALTER",
+      "STEVE KROES",
+      "REBECCA TAYLOR",
+      "KAREN YEE"
+    ],
+    "comments": "If there are problems with this fax transmission.please contact Betty Rickard"
+  },
+  "additional_info": {
+    "comments": "2063755227",
+    "fax_number": "Fax# A--289",
+    "unknown": "Karu.Tsitin",
+    "code": "MREAPRE",
+    "version": "VER19"
+  }
 }

@@ -1,4 +1,21 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nJun. @8 1997 10:13FM PL 2 PRBE HALEY FIELD rKTG PHONE NO. 2 404 373 7170 FAX COVER SHEET (ANNE M, HALEY FIELD MARKETING INC.\nATLANTA. GA MARKET MANAGER PHONE: 1-S88-VAN-GEAR EXT. 6439 FAX: 408973-7170 [SEND To i ‘comany tame on PHILIP MORRIG anne Hatley aie CONN. HINGOT -10-99 tes eaten Tar aTLon 7O-\n[rman Pia aia a= 907- SOSY Yyoy4-377- 8319 Churn Ren asa 1 Pease comment —[] Piase review rer yurtermaten Tell poges, inating covers LeLesezzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzozzoz"
+  "sender": {
+    "name": "ANNEM.HALEY",
+    "company": "FIELD MARKETING INC.",
+    "position": "MARKETMANAGER",
+    "phone": "1-886-VAN-GEAREXT.8433",
+    "fax": "404-373-7170"
+  },
+  "recipient": {
+    "company_name": "PHILIP MORRI9 HQLEY Allention",
+    "attention": "Company name",
+    "date": "ONNOO HINOOT b-0/-9",
+    "office_location": "Office kocation",
+    "fax_number": "90-5354",
+    "phone_number": "404-37-8310"
+  },
+  "message": {
+    "reply_asap": "Reply ASAP",
+    "comments": "Please commentPlease redew For your Inormation Tolapgesincding co COMMENTS 2072963131"
+  }
 }

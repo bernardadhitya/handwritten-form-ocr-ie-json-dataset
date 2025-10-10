@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nRIGAUD GROUPE Destinataire :\nExpéditeur :\nO Mme O Mlle Xl Mr OAutre Nom Entreprise...M.AN.F...Assur.a.n.G.e..\nNom.....I.G.A.....\nN° tél :\nPréenom....a.c...s.\nN té...0...3...82...6...01...\nN° Fax :\nDate............o.0..\nN° Fax :..\nRéférence :..MC..Y.D.U...7.6..\nN° pages :....\nObjet : aem.and....de...dacumentaton...concer.nan....es...cant.rats.\nd'assurances habitaton Monsieur, Je voudroi's bien devenir yotre c&ent.Pour ContraF d'ossurancs RIGAUD GROUPE 91 Rue De La Liberté 45770 SARAN Tél : 02.03.88.66.01 Fax : 02.03.88.66.02 Réponse : 02.03.88.66.03\n\nNote : Le message a été envoyé par un système automatique.\n\nNote : Le message a été envoye par un système automatique.\n\nNote : Le message a été envoyé par un système automatique.\n\nNote : Le message a été envoyé par un système automatique.\n\nNote : Le message a été envoyé par un système automatique.\n\nNote : Le message a été envoyé par un système automatique.\n\nNote : Le message a été envoyé par un système automatique.\n\nNote : Le message a été envoyé par un système automatique.\n\nNote : Le message a été envoyé par un système automatique.\n\nNote : Le message a été envoyé par un système automatique.\n\nNote : Le message a été envoyé par un système automatique.\n\nNote : Le message a été envoyé par un système automatique.\n\nNote : Le message a été envoyé par un système automatique.\n\nNote : Le message a été envoyé par un système automatique.\n\nNote : Le message a été envoyé par un système automatique.\n\nNote : Le message a été envoyé par un système automatique.\n\nNote : Le message a été envoy"
+  "document": null,
+  "scenario": null,
+  "writer": "RIGAUD Jacques",
+  "sender_person": null,
+  "sender_company": null,
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": "MANIF Assurances",
+  "subject": "Objet : Demande de documentation concernant les contrats\\nd'assurances habitation .",
+  "date": null,
+  "place": null,
+  "box": null
 }

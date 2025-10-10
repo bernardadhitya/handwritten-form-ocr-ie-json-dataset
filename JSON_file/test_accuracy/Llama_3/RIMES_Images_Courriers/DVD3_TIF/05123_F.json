@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nOLIVE Marie SOCIETE 41 RUE DE METZ OLIVE Marie 57140 SAULNY Té103.82.65.26.00 Télécopie Eqpéditeur:\nl 3 Su Destinataire :\nTélécopie :\nPages :\nTelephone: O3:3L_r6S i2C OS Date:29 /o Y/07 0wsuhaifs V0 w Sujet :\n1embeeu Urgent Pour avis Commentaires Réponse Confidentiel 0 Commentaires:\nSalutations.\n[Cliquez ici et entrez les informations sur I'entreprise : statut, capital, RCS..] pour obtenir les informations sur I'entreprise.\nPour les informations sur les produits, contactez notre service client.\nPour les informations sur les services, contactez notre service client.\nPour les informations sur les employés, contactez notre service client.\nPour les informations sur les partenaires, contactez notre service client.\nPour les informations sur les sites web, contactez notre service client.\nPour les informations sur les réseaux sociaux, contactez notre entreprise.\nPour les informations sur les événements, contactez notre service client.\nPour les informations sur les déclarations d'impôt, contactez notre service client.\nPour les informations sur les déclarations de TVA, contactez notre service client.\nPour les informations sur les déclarations de TVA, contactez notre service client.\nPour les informations sur les déclarations de TVA, contactez notre service client.\nPour les informations sur les déclarations de TVA, contact"
+  "document": null,
+  "scenario": null,
+  "writer": "OLIVE Marie",
+  "sender_person": "OLIVE Marie",
+  "sender_company": "SOCIETE",
+  "sender_tel": "Té103.82.65.26.00",
+  "sender_fax": "Télécopie",
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "1embeeu",
+  "date": "29/07/2007",
+  "place": "41 RUE DE METZ, 57140 SAULNY"
 }

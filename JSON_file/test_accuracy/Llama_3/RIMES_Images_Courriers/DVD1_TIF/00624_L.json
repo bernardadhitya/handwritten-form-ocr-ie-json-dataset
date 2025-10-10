@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nLEFEUVRE N&il 7O RUE DU 3E SPAHiS 6865o LE BoNHOMME Tl 03.08.01.7&.95 R&kwn4 Ien: ZLOWS8S Bimenil Ehaik buh:doI/ LE BOURG 3516o'LE VERGER Madlame:\nmQW cordilameml 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1."
+  "document": "LEFEUVRE N&il",
+  "scenario": "7O RUE DU 3E SPAHiS",
+  "writer": "LE BoNHOMME",
+  "sender_person": "Tl 03.08.01.7&.95",
+  "sender_company": "R&kwn4 Ien: ZLOWS8S",
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": "Bimenil Ehaik buh:doI/",
+  "receiver_company": "LE BOURG",
+  "date": null,
+  "place": "3516o'LE VERGER",
+  "box": "Madlame: mQW"
 }

@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nTélécopie/Facsimilé Destinataire Nom/Name Service/Entreprise/Department/Company Service /Department Télécopieur/Fax n° g383 4835 95 Téléphone/Telephone Télépho Date Page1/ Z page(s) RIOURO2 Référence/.../Reference Reference 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1"
+  "document": "Télécopie/Facsimilé",
+  "scenario": null,
+  "writer": null,
+  "sender_person": "RIOURO2",
+  "sender_company": "Institut national des télécommunications",
+  "sender_tel": "01 60 76 40 40",
+  "sender_fax": "01 60 76 43 25",
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": null,
+  "date": "Page1/ Z",
+  "place": "9 rue Charles Fourier 91011 Evry Cedex",
+  "box": null
 }

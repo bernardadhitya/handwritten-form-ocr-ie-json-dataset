@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n0606 22.\nencens sel Hot \"ONOSIEN S0021iIOL2E LÈBAEON 3à 4 2023\" (2023-02-22)\nencens sel Hot \"ONOSIEN S0021iIOL2E LÈBAEON 3à 4 2023\" (2023-02"
+  "bank": "AXIS BANK",
+  "date": "060522",
+  "transaction_code": "PAY",
+  "payee": "OneThousarnd Fie Hunaret andSeventy Fue",
+  "amount": null,
+  "check_number": null,
+  "rpe": "RPE",
+  "branch_code": "2202",
+  "account_number": "05918045904004812049",
+  "reference_number": "SAM426160",
+  "signature_code": "000516",
+  "transaction_id": null,
+  "additional_code": "50020242616031"
 }

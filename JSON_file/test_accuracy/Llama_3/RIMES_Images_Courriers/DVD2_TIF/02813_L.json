@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nSOUFFLET Racol 6 uwe du 22 aout1gY4 54 62O PIERREPONT 1AN1F #8Vrane Route dk clcanoux 86 46O PREssAC Y5v lX VOUS wwec lmvofu a anesie Sw Sss cmuA. a oMvacee 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a "
+  "document": "SOUFFLET Racol",
+  "scenario": "6 uwe du 22 aout1gY4",
+  "writer": null,
+  "sender_person": null,
+  "sender_company": "PIERREPONT",
+  "sender_tel": "54 62O",
+  "sender_fax": "86 46O",
+  "receiver_person": "VOUS",
+  "receiver_company": null,
+  "subject": "lmvofu a",
+  "date": "Y5v lX",
+  "place": "Route dk clcanoux",
+  "box": "Sw Sss cmuA. a"
 }

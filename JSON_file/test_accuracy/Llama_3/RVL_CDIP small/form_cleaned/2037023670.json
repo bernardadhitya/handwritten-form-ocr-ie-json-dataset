@@ -1,4 +1,43 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nAt Combustibles and vulnerable equipment moved to a distance of at least 50 feet protected by fire resistant covers. (Covers ‘containing asbestos not permitted), * ntaners of flammable liquids removed...\ndampers closed welding is complete, MAINTENAN E. “SUPERVISOR/PROJEC CA prinkler system is fully operatic f (2In confined spaces; combustible gas and ox (Forced ventilation device used. if natal Equipm..."
+  "permit": {
+    "type": "WELDING AND CUTTING",
+    "area_supervisor": null,
+    "permit_number": 8808,
+    "safety_measures": {
+      "clean_area": null,
+      "combustible_movement": null,
+      "asbestos_prohibition": null,
+      "flammable_removal": null,
+      "openings_covered": null,
+      "supply_lines_purged": "Supply lines purged of all combustibles and flammable liquids and/or gases.",
+      "ducts_shutdown": null,
+      "fire_watch": "Fire watch provided for at least 1/2 hour after welding is completed including patrol of floor above and below.",
+      "fire_watch_equipment": "Fire watch supplied with extinguishing equipment.",
+      "dust_collectors_shutdown": null
+    },
+    "maintenance_supervisor": {
+      "note": null,
+      "signed": "MAINTENANCE SUPERVISOR/PROJECT COORDINATOR"
+    },
+    "sprinkler_system": null,
+    "confined_space_tests": "In confined spaces combustible gas and oxygen deficiency tests conducted.",
+    "ventilation": null,
+    "ppe": null,
+    "welding_curtains": null,
+    "security_notification": null,
+    "operator": {
+      "signed": "OPERATOR",
+      "equipment_condition": null,
+      "ppe_usage": null,
+      "permit_posting": null
+    },
+    "additional_info": {
+      "initial": null,
+      "complete_tag": null,
+      "detach": null,
+      "vo": 8808,
+      "delivery": null,
+      "contact": null
+    }
+  }
 }

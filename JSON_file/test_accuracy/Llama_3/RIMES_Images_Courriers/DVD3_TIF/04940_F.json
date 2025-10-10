@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nAA École NaTIonale Dd'ingEniEurs F A X DEs TECHNIQUES DES INDUSTRIES AGRICOLES ETALIMENTAIRE BTP 8awQue NutueQ & faw's NOM DU SERVICE A I'attention de :\nNos réf.:\nSociété :\nVos réf. :\nDossier suivi par :\nN° de fax :\nNombre de page(s) y compris celle ci :\nTél. :\nFax :\nDe la part de : Atcic Date:6.0.0 E-Mail :\nsYoYr&ron roP UOynuymr!B:!q0 Sur LU xxaQ FRey Amici Sonroune l Srs HeRinoncou2 T 25BlO o 3 83 16 9i2Z Rue de la Géraudiére - BP 82225 - 44322 NANTES CEDEX 3- France  Tél. : + 33 (0)2 51 78 54 54 - Fax... : +33(0)2 51 78 54 55\n\n**Service de l'attention de la direction**\n\n**Informations de contact**\n\n*   **Nom du service** : Atcic\n*   **Date** : 6.0.0\n*   **E-mail** : sYoYr&ron roP UOynuymr!B:!q0\n*   **Téléphone** : + 33 (0)2 51 78 54 54\n*   **Fax** : +33(0)2 51 78 54 55\n\n**Informations de contact**\n\n*   **Nom du service** : Atcic\n*   **Date** : 6.0.0\n*   **E-mail** : sYoYr&ron roP UOynuymr!B:!q0\n*   **Téléphone** : + 33 (0)2 51 78 54 54\n*   **Fax** : +33(0)2 51 78 54 55\n\n**Informations de contact**\n\n*   **Nom du service** : Atcic\n*   **Date** : 6.0.0\n*   **E-mail** : sYoYr&ron roP UOynuymr!B:!q0\n*  "
+  "document": "AA",
+  "scenario": "École NaTIonale Dd'ingEniEurs",
+  "writer": "DEs TECHNIQUES DES INDUSTRIES AGRICOLES ETALIMENTAIRE BTP",
+  "sender_person": "Atcic",
+  "sender_company": "Minisiere de l'Agriculture",
+  "sender_tel": "+ 33 (0)2 51 78 54 54",
+  "sender_fax": "+ 33 (0)2 51 78 54 55",
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "Sur LU xxaQ FRey Amici Sonroune l Srs Herinoncou2 T 25BlO o 3 83 16 9i2Z",
+  "date": "6.0.0",
+  "place": "Rue de la Géraudiére - BP 82225 - 44322 NANTES CEDEX 3- France",
+  "box": null
 }

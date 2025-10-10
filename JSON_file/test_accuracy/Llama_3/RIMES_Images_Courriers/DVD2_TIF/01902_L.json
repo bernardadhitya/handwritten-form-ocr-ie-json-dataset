@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\neon - Loun CHRETIEN 5 45, ElRanaim du Do. Gandattz 83 780 Flauonc TL: 04.03.54. 35.39 Rd: SRVERTO Ffoyesc, Le 42/04/07 € PAM À 6 sue de  Lléokis 35 720 PLEUGUENEUC Obiet : mulawre da éounnien sous REN...  (Note: the text is in French)\n\nTranslation:\n\n- Loun CHRETIEN 5 45, ElRanaim du Do. Gandattz 83 780 Flauonc TL: 04.03.54. 35.39 Rd: SRVERTO Ffoyesc, Le 42/04/07 € PAM À 6 sue de  Lléokis 35 720 PLEUGUENEUC Obiet : mulawre da éounnien sous REN...  (Note: the note is in French)\n\nHere is the structured JSON output:\n\n```\n{\n  \"eon\": {\n    \"name\": \"Loun CHRETIEN 5 45\",\n    \"address\": {\n      \"street\": \"Gandattz"
+  "document": "Jecn-Lows C HRETiEN",
+  "scenario": null,
+  "writer": null,
+  "sender_person": "J.L CHRETiEN",
+  "sender_company": "C PAM",
+  "sender_tel": "04.03.51.35.39",
+  "sender_fax": "Rf:sryGr70",
+  "receiver_person": "Madame, Monsiewr",
+  "receiver_company": null,
+  "subject": "Oljet : suIanca d. couvuer sans reponse",
+  "date": "121O11O7",
+  "place": "FIoyosc,Le",
+  "box": "5 g5, Eemin d la Gard.Hc"
 }

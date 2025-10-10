@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nMANiF Aswan wo Brant llodi 36 glond ne 1 plale de la Gasdb ba 6 5F 930 Goose1mns O6 6o Valbonnc 3F p0 zO 99 1O ndome, morstts, E vau Coi ayin da Vao demandez ole m'envoyet de la doamenoton cocenam Ieo...\nEm vao lmeucam, ye baw phe d'ager maolome, movtswt, meo 1epediwxo salutattono MMell Bianc 3F p0 zO 99 1O ndome, morstts, E vau Coi ayin da Vao demandez ole m'envoyet de la doamenoton cocenam Ieo...\nEm vao lmeucam, ye baw phe d'ager maolome, movtswt, meo 1epediwxo salutattono MMell Bianc 3F p0 zO 99 1O ndome, morstts, E vau Coi ayin da Vao demandez ole m'envoyet de la doamenoton cocenam Ieo...\n\nThe text appears to be a jumbled collection of words and phrases, but if we look closely, we can extract the following structured information:\n\n* **Name**:"
+  "document": "MANiF",
+  "scenario": "Aswan",
+  "writer": "Brant",
+  "sender_person": "llodi",
+  "sender_company": "36 glond ne",
+  "sender_tel": "1 plale de la Gasdb ba 6",
+  "sender_fax": "5F 930 Goose1mns",
+  "receiver_person": "O6 6o Valbonnc",
+  "receiver_company": "3F p0 zO 99 1O",
+  "date": "ndome, morstts",
+  "place": "E vau Coi ayin da Vao demandez ole m'envoyet",
+  "box": "de la doamenoton cocenam Ieo aonhas l'4ssraruo"
 }

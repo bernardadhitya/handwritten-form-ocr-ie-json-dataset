@@ -1,3 +1,78 @@
 {
-    "error": "Expecting property name enclosed in double quotes: line 2 column 1 (char 2)"
+  "ACNEN": "SGS.C.",
+  "Caty": "176LSRE",
+  "RNE": null,
+  "FILLER": null,
+  "Job": null,
+  "YF_PACN": null,
+  "FPACENT": "ESAT FCALLEACX",
+  "IStarted": null,
+  "RRYOCA": null,
+  "Survey": {
+    "Introduction": null,
+    "AgeCategory": null,
+    "Questions": [
+      {
+        "Question": null,
+        "Response": null
+      },
+      {
+        "Question": null,
+        "Response": null
+      },
+      {
+        "Question": "Have you bought or used a headache remedy in the past month or not?",
+        "Response": "1"
+      },
+      {
+        "Question": null,
+        "Response": null
+      },
+      {
+        "Question": "Do you occasionally have a glass of wine or beer with dinner?",
+        "Response": null
+      }
+    ],
+    "Qualification": null,
+    "NewsweekIssue": {
+      "Question": "Have you already read this particular July 18 issue of Newsweek magazine?",
+      "Response": null
+    },
+    "Employment": {
+      "Question": null,
+      "Options": [
+        null,
+        "A government agency?",
+        "A marketing research company?",
+        null,
+        null,
+        null,
+        null,
+        "An advertising agency?",
+        null
+      ],
+      "Response": null
+    },
+    "SelfEmployed": null,
+    "SurveyParticipation": {
+      "Question": null,
+      "Response": null
+    },
+    "MagazineReadingHabits": {
+      "Introduction": null,
+      "Purpose": "The purpose of this is to make magazines more useful and interesting. Would you be willing to participate?",
+      "FollowUp": null
+    }
+  },
+  "Contact": {
+    "AreaCode": "46-11",
+    "TelNo": null,
+    "CityState": null,
+    "ZipCode": null,
+    "DateOfReinterview": null,
+    "Time": null,
+    "Interviewer": null,
+    "CodeLetter": null,
+    "InterviewerID": null
+  }
 }

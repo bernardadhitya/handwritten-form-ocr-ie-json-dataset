@@ -1,10 +1,65 @@
 {
-    "age": "35-65",
-    "cigarette_smoking": "No",
-    "cigarette_brand": "DD prion Coe sent",
-    "dinner_out": "A",
-    "newspaper_reading": "B",
-    "food_shopping": "D",
-    "airline_trip": "D",
-    "smoking_frequency": "7-1"
+  "company": "COMUNICUSINC.",
+  "gender": [
+    "Male",
+    "Female"
+  ],
+  "locations": [
+    "Chicago",
+    "New York",
+    "San Fyancisco"
+  ],
+  "project": "Project LLD-7",
+  "date": "April1978",
+  "group": "GROUP",
+  "time": [
+    "AM",
+    "PM"
+  ],
+  "survey": {
+    "introduction": "Hello,I'm from Communicus, a consumer opinion firm. We are conducting a survey and would like to include you.",
+    "questions": [
+      {
+        "question": "Do you smoke filter, non-menthol cigarettes?",
+        "answers": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "question": "How many cigarettes do you usually smoke per day?",
+        "answers": [
+          "6-0",
+          "Between 10 and 15",
+          "16to25",
+          "More than 25"
+        ]
+      },
+      {
+        "question": "What is your regular brand of cigarettes, that is, the one brand you smoke most often?",
+        "answers": [
+          "-2",
+          "-1"
+        ]
+      },
+      {
+        "question": "Which of the following statements apply to you?",
+        "answers": [
+          "A.",
+          "B.",
+          "C.",
+          "D."
+        ]
+      },
+      {
+        "question": "Into which of the following age groups do you fall?",
+        "answers": [
+          "Under 21",
+          "21-34",
+          "35-65",
+          "65+"
+        ]
+      }
+    ]
+  }
 }

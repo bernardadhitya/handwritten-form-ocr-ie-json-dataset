@@ -1,4 +1,12 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nHSECX Premier CATE 06/05122 VAY SP S$ 4233 X-AHS Two.Thuan Mine Hunred and 2 Fifteen and 3 Fifteen and 4 Fifteen and 5 Fifteen and 6 Fifteen and 7 Fifteen and 8 Fifteen and 9 Fifteen and 10 Fifteen and 11 Fifteen and 12 Fifteen"
+  "code": "HSECX",
+  "category": "Premier",
+  "type": "CATE",
+  "date": "06/05122",
+  "location": "VAY",
+  "status": "SP",
+  "currency": "S$",
+  "amount": "4233",
+  "reference": "X-AHS",
+  "description": "Two.Thuan Mine Hunred and 2 Fifteen"
 }

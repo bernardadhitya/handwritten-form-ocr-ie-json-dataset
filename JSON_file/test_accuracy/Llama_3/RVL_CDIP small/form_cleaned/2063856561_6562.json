@@ -1,4 +1,17 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nDepartment of Transportation 400 7th Street, 8.W., Room PL-401 Washington, D.C. 20590 DEPT OF TR ANSFORTAION InReNPRM Docket No. BUT S6.1889 Smoking in Airports ) Notice 96:25, RIN PI'ACPH 3: 05 [MENT...\nrod, How would ac eas det tachseol cond pe coacubihel ancl os ts tte by. amor ~ a Le Also who lekemines stasitvity dohace imate CB 72. ane harnce/ by tae sm whrthc g 5 “on thet bb fo.\n\" hoes! ape nyt.\n7 7 2.OTHER AREAS: Are there other areas ofthe airport terminal that passengers — including those sensitive to tobacco smoke frequently must use while traveling, and where they therefore need protecti...\nfeel nse sanok pyar), ebae 4 news fe aarie s Lif ¢venen tloe hav eths + + + » BE SURE TO FILL OUT THE OTHER SIDE ALSO « « « ‘This comment form is provided asa public service, and may be freely duplica...\nT9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9S9SBE90Z9"
+  "department": "Department of Transportation",
+  "address": "400 7th Street, S.W. Room PL401 WashingtonD.C.20590",
+  "notice": "96-253305",
+  "subject": "Smoking in Airports",
+  "comments": [
+    {
+      "question": "1. PATH ONLYDOT has suggested that guaranteeing passengers sensitive to tobacco smoke a path of access from the terminal entrance to the aircraft free from exposure to tobacco smoke, perhaps by using 'an enclosed cart that took the passenger through the airport without exposure to smoke, would provide sufficient protection. Do you agree or disagree WhyPRINT nbacco 5 rarm",
+      "answer": null
+    },
+    {
+      "question": "2. QTHER AREAS: Are there other areas of the airport terminal that passengers -including those sensitive to tobacco smoke frequently must usc while traveling and where they therefore nced protection from exposure to tobacco smoke (e.g. restrooms, telephones, eating areas, baggage claim, news stands and other stores, ticket counters, etc.) If yes, explain why these areas are important to travelers, and what smoking restrictions (if any) should be adopted.PRINT 1 i n 2063856561 h n",
+      "answer": null
+    }
+  ],
+  "note": "BE SURE TO FILL OUT THE OTHER SIDE ALSO This comment form is provided as a public service, and may be freely duplicated"
 }

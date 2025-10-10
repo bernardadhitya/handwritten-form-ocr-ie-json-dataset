@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nJe Rainbau Lt Amandine 34, Rue Somen Sh So Aludun orman TE : 03 233 08.01.40 Ref Client : VZUAC 82 Hodun Œ Roman, JT, 8 ÎNovenbre 2ob, Pamque- Dékct djonnais 3, bis rue des ercanda O2 450 PBouEe Jene... (Note: The address is in a non-standard format and may not be easily readable)\n\nHere is the contact information in a more readable format:\n\nAmandine Rainbau\n34 Rue Somen Sh So Aludun\nOrman TE\n03 233 08.01.40\nRef Client : VZUAC 82\nHodun Œ Roman, JT, 8 ÎNovenbre 2ob, Pamque- Dékct djonnais 3, bis rue des ercanda\nO2 450 PBouEe Jene\n\nContact Information:\n\n* Name: Amandine Rainbau\n* Address: 34 Rue Somen Sh So Aludun, Orman TE\n* Phone: 03 233 08.01.40\n* Reference: VZUAC 82\n* Additional Information: Hodun Œ Roman, JT, 8 ÎNovenbre 2ob, Pamque- Dékct djonnais 3, bis rue des ercanda O2 450 PBouEe Jene\n\nHere is the structured JSON output:\n\n```json\n{\n  \"name\": \"Amandine Rainbau\",\n  \"address\": \"34"
+  "document": "Lettre manuscrite",
+  "scenario": null,
+  "writer": null,
+  "sender_person": null,
+  "sender_company": null,
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": "Banque Débit Lyonnais",
+  "date": null,
+  "place": null,
+  "box": ""
 }

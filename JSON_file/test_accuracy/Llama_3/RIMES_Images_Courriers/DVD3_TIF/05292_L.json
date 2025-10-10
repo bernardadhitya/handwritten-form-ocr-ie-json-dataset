@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nkoRREL lae6`6`a 89Cahh den Rmph NAIF AssuranCo Va Lo hosaux nomo rg esoot 64ho PElCCON 76111 YPoRT Tel: 02 3 16 9820 he.CkeY: UJKHH33 Madame Monoseur BorREC Caekh`q 89 Cahh Xeu Ramph Vla /es Rexoux 06...\nM`aen`a 89Cahh 6`6`a lae6`6`a 89Cahh 6`6`a lae6`a 89Cahh 6`6`a lae6`a 89Cahh 6`6`a lae6`a 89Cahh 6`6`a lae6`a 89Cahh 6`6`a lae6`a 89Cahh 6`6`a lae6`a "
+  "document": "koRREL lae6`6`a",
+  "scenario": "89Cahh den Rmph",
+  "writer": "NAIF AssuranCo",
+  "sender_person": "Madame",
+  "sender_company": "NAIF AssuranCo",
+  "sender_tel": "02 3 16 9820",
+  "sender_fax": null,
+  "receiver_person": "Monoseur",
+  "receiver_company": "BorREC Caekh`q",
+  "date": null,
+  "place": "Vla /es Rexoux",
+  "box": "064YO PE1LCON"
 }

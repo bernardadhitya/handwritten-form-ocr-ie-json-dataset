@@ -1,3 +1,53 @@
 {
-    "error": "Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  "company": "MARKETING INFORMATION SYSTEMSINC.",
+  "contact": {
+    "name": null,
+    "address": "100.Sylvan Avenue, Englewood Cliffs 07632",
+    "phone": [
+      "1-800-631-1623",
+      "201-947-6900"
+    ]
+  },
+  "document": {
+    "title": "ART AD/FIVE PACK E.U.TEST",
+    "version": "#830289",
+    "date": "February,1989",
+    "type": null
+  },
+  "survey": {
+    "respondent": {
+      "name": "NANCY",
+      "address": null,
+      "city_state": null,
+      "zip_code": null,
+      "telephone_number": null,
+      "date": null,
+      "interviewer_signature": null,
+      "regular_brand": null
+    },
+    "questions": [
+      {
+        "text": "how many packs of did you smoke?",
+        "type": "open-ended"
+      },
+      {
+        "text": "Would you be willing to continue smoking the cigarettes a few more days?",
+        "type": "multiple-choice"
+      },
+      {
+        "text": "How long will it take you to finish smoking cigarettes we gave you?",
+        "type": "open-ended"
+      }
+    ],
+    "callback": {
+      "date": null,
+      "time": null,
+      "from_screener": "Q.73",
+      "from_first_callback": [
+        "Q.26"
+      ],
+      "day": null,
+      "note": "Not available... Call back at (DATE) (TIME)"
+    }
+  }
 }

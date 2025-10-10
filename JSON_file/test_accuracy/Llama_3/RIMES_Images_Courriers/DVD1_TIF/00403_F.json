@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nLibertéEgalitaFraternite REPUBLIQUE FRANCAISE MINISTERE DE LADEFENSE Non protégéeDiffusion réstreinte TELÉCOPIE Date: 29.09.06 N°M2KPNB DGA No de télécopieur :\nDESTINATAIRE(S) :\nDELEGATION GENÉRALE GDF POURL'ARMEMENT Leu dit le Bour% DIRECTION DE L'EXPERTISE TECHNIQUE Centre d'expertise parisien 33390 CARTELEGUE Nombre de page dont celle-ci : 3 Expéditeur :\nroutine Caractére d'urgence :  immédiat Anne-Claire CoLiN 0BJET: Relauca pow u couwiar roste gaul Fax : 01.42.31.\nTel.:01.42.31.\n&ponse Email :\nCentre d'expertise parisien - 16bis, avenue Prieur de la Cöte d'Or 94114 Arcueil Cedex Téléphone : 33 (0)1.42.31.92.39 - Télécopie : 33 (0)1.42.31.99.55\nAdresse : 16 bis, avenue Prieur de la Côte d'Or 94114 Arcueil Cedex\nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse : \nRéponse"
+  "document": "TELÉCOPIE",
+  "scenario": "Non protégéeDiffusion réstreinte",
+  "writer": "Anne-Claire CoLiN",
+  "sender_person": "routine",
+  "sender_company": "DIRECTION DE L'EXPERTISE TECHNIQUE",
+  "sender_tel": "01.42.31.",
+  "sender_fax": "01.42.31.",
+  "receiver_person": "DELEGATION GENÉRALE",
+  "receiver_company": "GDF",
+  "subject": "Relauca pow u couwiar roste gaul",
+  "date": "29.09.06",
+  "place": "Centre d'expertise parisien",
+  "box": "N°M2KPNB"
 }

@@ -1,4 +1,68 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nPLEASE TELL US WHAT YOU THINK.\nIt you contacted us by phone, please answer all questions. If you contacted us by later, please skip to Question #2, How satisfied wore you In each ofthe following are Nother :\n: very Satisfied Nor Somewhat Very sattos —“Gatoned. —‘Diggatateg Dialated —Dltetsned 1. EASE OF CONTACT:\nAygo trough on aca Qa + satstaton win wephonecactng =] # Uptontadenghettnwontels = 2, PERSONNEL:\n+ courosy + Prolessioatsm + Koes © Authoty to resolve probleny ‘answer question oooo ooo oo00 ooo oooo goo, 3. RESPONSE:\nA © Timeliness, © Canty Bene ‘+ Foto trough on promised gcton ooo0 oooo ann ooo00 0000 oooo F 4, Wich ONE ofthe fowng statoments BEST descbes the way you fee about he action taken by the R. J. Reynol...\nSesne de 6414 Je Caren was Seq Please add any additional comments: Coa 1 an) Lape fee tll BT fu ‘ean Pte 2.) Laps f wT puke tKs # tzoe exzzs 7 : Getto <4. Le ewe fe Ceri bne, Liem 4 LEA he Seth fw y 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4. Lea 4"
+  "survey": {
+    "questions": [
+      {
+        "id": null,
+        "category": "EASE OF CONTACT",
+        "aspects": [
+          "Ability to get through on first call",
+          null,
+          null
+        ]
+      },
+      {
+        "id": 2,
+        "category": null,
+        "aspects": [
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "id": null,
+        "category": null,
+        "aspects": [
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    ],
+    "satisfaction_statement": [
+      null,
+      null,
+      null,
+      "I was NOT AT ALL satisfied with the action taken.",
+      null
+    ],
+    "purchase_intent": {
+      "question": null,
+      "options": [
+        null,
+        "Probably Would",
+        null,
+        "Probably Would Not",
+        null
+      ]
+    },
+    "recommendation": {
+      "question": "Would you recommend this brand of cigarettes to an adult smoker (21 years of age or older)?",
+      "options": [
+        null,
+        null,
+        "Might or Might Not",
+        null,
+        "Definitely Would Not"
+      ]
+    },
+    "additional_comments": null
+  },
+  "metadata": {
+    "key": 52273,
+    "code": null,
+    "status": null
+  }
 }

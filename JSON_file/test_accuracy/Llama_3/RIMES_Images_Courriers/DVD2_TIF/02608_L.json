@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nwil 100 26 we d1e Viqnes 68510 HEL FRANTZKiRCH tt: 03.65.50.54.21 H Y 0 V6 4s mr l Vins owmtes mit Auoh swu uten octuc 'ochrff mmeuu os. viuse necemourt 1.5 km. 1.5 km. 1.5 km. 1.5 km. 1.5 km. 1.0 km. 1.0 km. 1.0 km. 1.0 km. 1.0 km. 1.0 km. 1.0 km. 1.0"
+  "document": "wil 100",
+  "scenario": "26 we d1e Viqnes",
+  "writer": null,
+  "sender_person": null,
+  "sender_company": "HEL FRANTZKiRCH",
+  "sender_tel": "03.65.50.54.21",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "H Y 0 V6 4s",
+  "date": null,
+  "place": "68510",
+  "box": null
 }

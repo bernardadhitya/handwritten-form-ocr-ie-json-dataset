@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n(eg 28/4/2002, CKPRrPow JEN NE 4 vu Our Voulin 64-260 - WOLESKIRChED Nua Anwaules Oph Bemauds ds ferwelun Av Couple Veriours ad, Arun, Auld coasts He tour Ge wou sss Ga, ofc Tchapor eo, 2002)\n\nThe text appears to be a jumbled collection of words and numbers, but if we look closely, we can extract the following structured information:\n\n* Date: 28/4/2002\n* Name: CKPRrPow JEN NE\n* Address: 64-260\n* Location: WOLESKIRChED Nua Anwaules Oph Bemauds ds ferwelun Av Couple Veriours ad\n*"
+  "document": "CHAPoW JERonE",
+  "scenario": "4 ree du doul",
+  "writer": "HmoP M",
+  "sender_person": "Yrodo",
+  "sender_company": null,
+  "sender_tel": "67 26 0- w0 Lf sK1RCHtw",
+  "sender_fax": null,
+  "receiver_person": "Nerrieus",
+  "receiver_company": "lou Ws iu famstous fquaul t Q quntiounaie",
+  "subject": "Oop! Ocuauek d feruetuu de couep",
+  "date": "le 28/3/2007",
+  "place": null,
+  "box": null
 }

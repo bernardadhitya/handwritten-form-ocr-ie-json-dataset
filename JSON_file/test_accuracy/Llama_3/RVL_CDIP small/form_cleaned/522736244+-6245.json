@@ -1,4 +1,34 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nC2005 iO, COmmeese-\n2 Fa Tobacco Comoany Yoviesorsse 32262018 © asaras soseph Thornton Consumer Relations £233 Sutton Leke Re Winston-Salem, N.C. 27102 Wilmington, NC 28401-0000 ‘Thank you for contacting us. As part of o...\norder to be added to our active mailing lst and to be eligible to receive future mailings, please complete this form and include a copy of an official identification that contains your name, current a...\nA you have any question about filing ou this form, pense cll 1800-77-2698, We're open Monday through Friday fom t0 6:00 p.m. (EST).\nSTEP L: Check to make sure the mailing address above is correct. Pr corrections must match your ID.\nHOTE: Te oreo oir | | spar OTe aficlaDmastmatchihe | | VO Core pak rods any correetions inthe box below on the right. Any address where you will receive |_| Nene mange ore i unetl, Sree Adress Verific...\nWhat is your Binhdote?_Cp -_% 1 57 (REQUIRED) (month) Gay) Gear) Totey's Dater_/O 1 fy _/_ BQ ‘evonth) (ay) year) 1 ci oie ieee gw © itor older and that ms andlor coupons, aswell as What is your usual...\nAttn: Consumer Relations, P.O. Box 2959, Winston-Salem, NC 27102 Offer Restricted to Smokers 21 Years of Age or Older.\n‘We respect the privacy of qu amokere. We da not sell the names on our ists to anyone, vez9 exezsively. We use the information you provide to improve our products and services, and to send you mailings about our products and services. We may also use the information you provide to contact you about other products and services that may be of interest to you. We do not sell or rent your information to third parties. We do not use cookies or other tracking devices to collect information about you. We do not use your information to contact you about other products or services that may be of interest to you. We do not sell or rent your information to third parties. We do not use cookies or other tracking devices to collect information about you. We do not use your information to contact you about other products or services that may be of interest to you. We do not sell or rent your information to third parties. We do not use cookies or other tracking devices to collect information about you. We do not use your information to contact you about other products or services that may be of interest to you. We do not sell or rent your information to third parties. We do not use cookies or other tracking devices to collect information about you. We do not use your information to contact you about other products or services that may be of interest to you. We do not sell or rent your information to third parties. We do not use cookies or other tracking devices to collect information about you. We do not use your information to contact you about other products or services that may be of interest to you. We do not sell or rent your information to third parties. We do not use cookies or other tracking devices to collect information about you. We do not use your information to contact you about other products or services that may be of interest to you. We do not sell or rent your information to third parties. We do not use cookies or other tracking devices to collect information about you. We do not use your information to contact you about other products or services that may be of interest to you. We do not sell or rent your information to third parties. We do not use cookies or other tracking devices to collect information about you. We do not use your information to contact you about other products or services that may be of interest to you. We do not sell or rent your information to third parties. We do not use cookies or other tracking devices to collect information about you. We do not use your information to contact you about other products or services that may be of interest to you. We do not sell or rent your information to third parties. We do not use cookies or other tracking"
+  "company": "Tobacco Comoany",
+  "contact": {
+    "name": "Joseph Thornton",
+    "position": "Consumer Relations",
+    "address": {
+      "street": "233 Sutton Lake Rd",
+      "city": "Winston-Salem",
+      "state": "N.C.",
+      "zip": "27102"
+    },
+    "alternate_address": {
+      "city": "Wilmington",
+      "state": null,
+      "zip": "28401-9000"
+    }
+  },
+  "message": "Thank you for contacting us. As part of our continued efforts to stop underage smoking we verify that every smoker on our mailing list is 21 years of age or older.",
+  "steps": [
+    {
+      "step": "STEP 1: Check to make suire the mailing address above is correct. Print any corrections in the box below on the right. Any corrections must match your ID."
+    },
+    {
+      "step": "STEP 2:Your signature and date of birth are required to determine your eligibility"
+    },
+    {
+      "step": "STEP 3 Attach a copy ofyour identification."
+    },
+    {
+      "step": "STEP 4:Send form and copy of ID in the enclosed self-addressed envelope,or mail to Attn: Consumer RelationsP.O.Box 2959,Winston-SalemNC 27102"
+    }
+  ],
+  "offer_restriction": "Offer Restricted to Smokers 21 Years of Age or Older."
 }

@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nVsQ0uo, Q 12 decmSn 2oa6 C&n CARD1NA L 96 ne du9ptom g82o VAuERoY AUX SAuIES Vl Ref.:ZHLZT93 BAAF Aaouamu Paca Hemi SueuiOe J9U6o NEUVlC Oljeh: mauvlas Coodonme& te&pQonique o3 81 2o 6 o3 Vou, uemeuam... (text truncated)\n\n... (text truncated)\n\n... (text truncated)\n\n... (text truncated)\n\n... (text truncated)\n\n... (text truncated)\n\n... (text truncated)\n\n... (text truncated)\n\n... (text truncated)\n\n... (text truncated)\n\n... (text truncated)\n\n... (text truncated)\n\n... (text truncated)\n\n... (text truncated)\n\n... (text truncated)\n\n... (text truncated)\n\n... (text truncated)\n\n... (text truncated)\n\n... (text truncated)\n\n... (text truncated)\n\n... (text truncated)\n\n... (text truncated)\n\n... (text"
+  "document": "VsQ0uo",
+  "scenario": "Q 12 decmSn 2oa6",
+  "writer": "C&n CARD1NA L",
+  "sender_person": "96 ne du9ptom",
+  "sender_company": "g82o VAuERoY AUX SAuIES",
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": "Vl Ref.:ZHLZT93",
+  "receiver_company": "BAAF Aaouamu",
+  "subject": "Paca Hemi SueuiOe",
+  "date": "J9U6o NEUVlC",
+  "place": "Oljeh: mauvlas Coodonme& te&pQonique",
+  "box": "o3 81 2o 6 o3"
 }

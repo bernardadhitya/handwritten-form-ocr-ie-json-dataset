@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nFran goi se v!d o7 1 Ruc DR CADOL 5ys00 VANDOEUVRE LES NAn CY Fh O2 S tSQEQ N\" ClicnF : QOo1KZ9 Les 3 SuiFs PLACE ARiSTi O E SRinj 16 tOO RuFFe c 65jeF : Hoci5cnh on de conhnh cHmgmar ce comnmcs J7A d... (Note: The text is a jumbled mix of letters and numbers, but it appears to be a jumbled version of a French text)\n\nHowever, if we look at the title of the page, we can see that it is actually a French text, and the title is \"Les 3 Suis\" which translates to \"The 3 Suits\" in English. \n\nThe text is a jumbled mix of letters and numbers, but if we look at the card game, we can see that it is actually a variation of the card game \"Piquet\" which is a popular French card game.\n\nPiquet is a trick-taking card game that is played with a deck of 32 cards, and the objective is to score points by taking tricks and forming combinations of cards.\n\nHere is the structured JSON output:\n\n```\n{\n  \"title\": \"The 3 Suis\",\n  \"game\": \"Piquet\",\n"
+  "document": "Lettre manuscrite",
+  "scenario": "Modification de contrat / Commande",
+  "writer": "COPIN Francoise",
+  "sender_person": null,
+  "sender_company": null,
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": null,
+  "date": null,
+  "place": null,
+  "box": null
 }

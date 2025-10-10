@@ -1,74 +1,65 @@
 {
-    "name": "cromonany ramet",
-    "age": 7,
-    "address": {
-        "street": "New York, New York 10021",
-        "city": "coetnctAL",
-        "state": "TES",
-        "zip": "3-1"
-    },
-    "occupation": "SCRERTING QUESTIOSNATRE",
-    "research": {
-        "field": "contemporacy Maskecing Research",
-        "values": [
-            "ankiag",
-            "wertes",
-            "Taal",
-            "teee",
-            "comnere",
-            "rae",
-            "eid",
-            "ie"
-        ],
-        "inclusion": [
-            "Jour onions",
-            "eat"
-        ]
-    },
+  "id": "4017",
+  "address": {
+    "street": "770 'Lexington Ave.",
+    "city": "New York",
+    "state": "New York",
+    "zip": "10021"
+  },
+  "company": "CONTEMPORARY MARKETING RESEARCH",
+  "document": {
+    "type": "COMMERCIAL TEST",
+    "section": "SCREE ING QUESTIONNAIRE",
     "questions": [
-        {
-            "question": "Ac Pireey do_you oF does anyone io your Fantly work for the folloving Epes of",
-            "answer": "Coupasien?"
-        },
-        {
-            "question": "te eee",
-            "answer": "HD 1380"
-        },
-        {
-            "question": "So 29 (2 1/2 packs €0 Ie",
-            "answer": "£0 or Hore (2 oF sore packs)"
-        },
-        {
-            "question": "‘rutou quzsriomalae —S ",
-            "answer": "3"
-        },
-        {
-            "question": "Gru quesriowaln — ¢",
-            "answer": "st"
-        },
-        {
-            "question": "a",
-            "answer": "i"
-        },
-        {
-            "question": "‘wure @estiomAIEE —— 1 GD 1",
-            "answer": "Suse"
-        },
-        {
-            "question": "iam QUESTIONAIRE",
-            "answer": "? 3"
-        },
-        {
-            "question": "‘rutou quzsriomalae —S ",
-            "answer": "3"
-        },
-        {
-            "question": "Gru quesriowaln — ¢",
-            "answer": "st"
-        },
-        {
-            "question": "a",
-            "answer": "i"
-        }
+      {
+        "text": "First, do you or does anyone in your family work for the following types of companies?",
+        "options": [
+          "A Market Research firm",
+          "An advertising agency",
+          "A Manufec turer or dis-tributor of cigarettes or tobacco products"
+        ]
+      },
+      {
+        "text": "Do you smoke cigarettee?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "text": "About how many cigarettes than 10",
+        "options": [
+          "Less than 1/2 pack",
+          "10-19",
+          "1/2 to less than1pack-",
+          "20-29",
+          "1 pack to less than I 1/2 packs--",
+          "30-39",
+          "40 or More 2 or zove packs"
+        ]
+      }
+    ],
+    "ads": [
+      {
+        "letter": "AD LETTER",
+        "color": "WHITE QUESTIONNAIRE"
+      },
+      {
+        "letter": "AD",
+        "color": "BLUE QUESTIONNAIRE"
+      },
+      {
+        "letter": "AD",
+        "color": "PINK QUESTIONNAIRE"
+      },
+      {
+        "letter": "AD",
+        "color": "YELLOW QUESTIONNAIRE"
+      },
+      {
+        "letter": "AD",
+        "color": "GREEN QUESTIONNAIRE"
+      }
     ]
+  }
 }

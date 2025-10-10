@@ -1,4 +1,59 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n. Qo- o> LT : Fie 33? & lomv- ‘i Bee Job #0906 Bellomy-Carrigg,Inc. ae WASTONSA EM NCS 05° a-o AA EXTENDED USE concEPT/onoDUCT aEST SCREENER a.\nRESPONDENT'S NAME! 2TH Moy ee -< nomnsss_/ 0S C9 Talore crm__D& a sane I ih.\narea coor: (3/9 _ypHoxe: PR pote pare: 79 //7 Sh late INTERVIEWED BY: Law d (INTERVIEW WoMEN oNEY) Hello, I'm company.\nTO FEMALE 18+ YEARS OR OLDER.) from (YOUR COMPANY), an independent marketing research Werte conducting @ survey with wonen about various consumer products, (ASK TO SPEAK 2+ Into which of the following...\n50%...\nRefused... TERMINATE, ERASE AND RE-USE 2.\ndeertninteevssee IF NONE, TERMINATE, ERASE AND AS-USE.\nCerts breathnint:\nClorets breathmines..\n‘Topal toothpaste Aqua Fresh toothpaste clinomint.\nScope...\nListerine.\nCONTINUE ONLY IF CIGARETTES CHECKED ABOVE IN Q.2.\nASK FOR ANOTHER FEMALE HOUSEHOLD MEMBER 18+ AND GO OTHERWISE, BACK TO Q/1.\nBb cces 2ss0s 0n 2nd page.\n........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................"
+  "company": "Bellomy-Carrigg,Inc.",
+  "job_number": "0906",
+  "address": "5UNIVERSITYPARKWAY, WINSTON-SALEM.N.C.27103",
+  "date": "October, 1984",
+  "project": "AA EXTENDED USE CONCEPT/PRODUCT TEST",
+  "document_type": "SCREENER",
+  "respondent": {
+    "name": "BE172",
+    "state": "TR",
+    "area_code": "3/",
+    "phone": "2",
+    "date": "10i",
+    "interviewed_by": "N"
+  },
+  "instructions": {
+    "interview_women_only": true,
+    "age_question": {
+      "question": "Into which of the following age groups does your age belong?",
+      "options": [
+        "Under 18",
+        "18-24",
+        "25-3",
+        "35-49",
+        "50+",
+        "Refused"
+      ],
+      "terminate_if": [
+        "Under 18",
+        "Refused"
+      ]
+    },
+    "product_usage_question": {
+      "question": "Which of the following products do you use daily?",
+      "options": [
+        "Breathmints",
+        "Mouthwash",
+        "Cigarettes",
+        "Gel toothpaste",
+        "Cream toothpaste"
+      ],
+      "continue_if": [
+        "Cigarettes"
+      ]
+    },
+    "brand_usage_question": {
+      "question": "Which of the following brands have you used in the past week?",
+      "options": [
+        "Certs breathmints",
+        "Clorets breathmints",
+        "Topal toothpaste",
+        "Aqua Fresh toothpaste",
+        "Clinomint",
+        "Scope",
+        "Listerine"
+      ]
+    }
+  }
 }

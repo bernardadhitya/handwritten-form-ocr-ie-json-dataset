@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nZimmerman, Morris 28751--28800 @ SECRE\" No. 26 By.\nZimmernan, Morris 28751-22800 Monthly reports 6-56=-4-57 ily <4 Shoo GL zote volos 6-56-4-57 ily <4 Shoo GL zote volos 6-56-4-57 ily <4 Shoo GL zote volos 6-56-4-57 ily <4 Shoo GL zote volos 6-56-4-57 ily <4 Shoo GL zote volos 6-56-4-57 "
+  "name": "Zimmerman,Morris",
+  "range": "28751--28800",
+  "reports": "Monthly reports 6-56--4-57",
+  "code": "RJR",
+  "status": "SECRE?",
+  "number": "No.26 By.",
+  "date": "DATE",
+  "issued_to": "169",
+  "id": "BREeiot",
+  "code2": "5-c4/",
+  "reference": "50104",
+  "code3": null,
+  "code4": "9162"
 }

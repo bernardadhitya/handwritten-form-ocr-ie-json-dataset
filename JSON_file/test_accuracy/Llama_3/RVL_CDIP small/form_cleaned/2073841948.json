@@ -1,4 +1,11 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nCORPORATE AFFAIRS MEMO FROM: CRAIG I. FULLER.\nCOMMENTS:\nRETURNTO: Jim Botticelli BrELyselocated in the 1000 block of 1st Street, Suite 1000, in the City of San Diego, County of San Diego, State of California, 92101.\nDATE: 10/10/2017.\nSUBJECT: 201"
+  "from": "CRAIGL.EULLER",
+  "date": null,
+  "deadline": null,
+  "for": {
+    "action": "ACTION",
+    "information": "INFORMATION"
+  },
+  "comments": "2073841948",
+  "return_to": "Jim Botticelli"
 }

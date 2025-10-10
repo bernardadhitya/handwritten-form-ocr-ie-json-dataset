@@ -1,4 +1,18 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nBANOUEUNIVERSELLE CRABONDANCE 4532 Seren.ThiousandTire.Llundrcd auhrylypm 06/05/22 1 Chelsea Watson Bizerre Bd de la Prosperite PLANETTE TERRE T.:0811078809 T.:0811078809 T.:0811078809 T.:0811078809 T.:0811078809 T.:0811078809 T.:0811078809 T.:0811078809 T.:0811078809 T.:0811078809 T.:0811078809 T.:0811078809 T.:0811078809 T.:0811078809"
+  "company": "BANOUEUNIVERSELLE",
+  "branch": "CRABONDANCE",
+  "code": "4532",
+  "accountHolder": "Seren.ThiousandTire.Llundrcd",
+  "accountType": "auhrylypm",
+  "date": "06/05/22",
+  "transactionNumber": "1",
+  "contact": {
+    "name": "Chelsea Watson",
+    "address": {
+      "street": "Bd de la Prosperite",
+      "city": "Bizerre",
+      "planet": "PLANETTE TERRE"
+    },
+    "phone": "0811078809"
+  }
 }

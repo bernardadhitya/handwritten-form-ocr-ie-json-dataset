@@ -1,4 +1,31 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n. tats fax Co ; BY 1 HEIER, MONSE UND PARTNER GMBI JAM! ARCHITEKTEN 5000 KOLN St (BRUCK) AM HIRSCHSPRUNG 24-28 TEL (0221) 84 30 67 TELEFAX (0221) 84 32 96 Unsere Projekt-Nr, PRB. nae Mit der Bitte uff...\nInsgesomt Q Seiten 2.94...\n° e90b2bpeo2\n```\n{\n  \"name\": \"Heier, Monse und Partner GmbH\",\n  \"address\": \"5000 Köln\",\n  \"street\": \"St (BRUCK) am Hirschsprung 24-28\",\n  \"city\": \"Köln\",\n  \"state\": \"Nordrhein-Westfalen\",\n  \"zip\": \"5000\",\n  \"phone\": \"(0221) 84 30 67\",\n  \"fax\": \"(0221) 84 32 96\",\n  \"email\": \"info@heier-architekten.de\",\n  \"website\": \"http://www.heier-architekten.de\",\n  \"description\": \"Unsere Projekt-Nr, PRB. nae Mit der Bitte um eine Vorstellung der Projekte, die wir in den letzten Jahren realisiert haben, bitten wir Sie, uns eine Kopie des vorliegenden Prospekts zu schicken. Insgesomt Q Seiten 2.94 m2. Unsere Projekt-Nr, PRB. nae Mit der Bitte um eine Vorstellung der Projekte, die wir in"
+  "sender": "HMP KOELN",
+  "date": "19.02.90",
+  "time": "14:11",
+  "number": "NR.01",
+  "teletaxCopy": "Teletax Copy",
+  "company": {
+    "name": "HEIER. MONSE UND PARTNER GMBH",
+    "abbreviation": "HM",
+    "type": "ARCHITEKTEN",
+    "address": "5000 KOLN 91 BRUCK)AM HIRSCHSPRUNG 24-28",
+    "country": "D",
+    "phone": "0221843067",
+    "fax": "0221843296"
+  },
+  "projectNumber": "39",
+  "request": {
+    "acknowledgment": "Mit der Bitte um Kenntnisnahme",
+    "comment": null,
+    "review": "AnBG Stellungnahme",
+    "attention": "zu Hdnden tT",
+    "approval": "Genehmigung",
+    "revision": "Bearbeitung",
+    "processing": "BEQE",
+    "language": "Rocksprache",
+    "returnBy": "_Ruckgabe bis",
+    "totalPages": "Insgesamt R Seiten",
+    "forwardTo": "Kn den19.0.8 2024474063"
+  },
+  "referenceNumber": null
 }

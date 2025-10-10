@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nLiberte-Egaliti-Fraterni RÉPUBLIQUE FRANCAISE MINISTERE DE LA DEFENSE TÉLÉCOPIE Non protégée Diffusion restreinte Date: 26/07/2006 No DGA N° de télécopieur :\nDESTINATAIRE(S) :\nDÉLEGATION GENÉRALE France Telephone 01.60.76.43.33 POUR L'ARMEMENT Lieu dit lo bowg DIRECTION DE L'EXPERTISE TECHNIQUE Centre d'expertise parisien Nombre de page dont celle-ci :\nExpéditeur :\nroutine immédiat urgent Caractére d'urgence :\nChristete Doyeu OBJET :\nFax : 01.42.31.\nTél. : 01.42.34. 03.19.51.30.08 mat'on Email :\nVoici une oemaude de rembousemeuF suite a m una ereu da vot pat su maj Christete Centre d'expertise parisien - 16bis, avenue Prieur de la Cöte d'Or 94114 Arcueil Cedex Téléphone : 33 (0)1.42.31.92.39... 33 (0)1.42.34.03.19.51.30.08 mat'on Email : christete.doyeu@centre-expertise-parisien.fr\n\n**STRUCTURE**\n\n*   **Title**: Liberte-Egaliti-Fraterni RÉPUBLIQUE FRANCAISE MINISTERE DE LA DEFENSE\n*   **Date**: 26/07/2006\n*   **Sender**: Christete Doyeu\n*   **Recipient**: DÉLEGATION GENÉRALE France\n*   **Destination**: DIRECTION DE L'EXPERTISE TECHNIQUE Centre d'expertise parisien\n*   **Message Type**: Télécopie\n*   **Characteristics**: Non protégée, Diffusion restreinte\n*   **Contact Information**: France Telephone 01.60.76.43.33\n*   **Page Number**: 1\n*   **Fax Number**: 01.42.31.03.19.51.30.08\n*   **Email Address**: christete.doyeu@centre-expertise-parisien.fr\n*   **Urgency**: Routine immédiat urgent\n*   **Characteristics of Urgency**: Caractére d'urgence\n\nHere is the structured JSON output:\n\n```json\n{\n  \"title\": \"Liberte-Egaliti-Fraterni RÉPUBLIQUE FRANCAISE MINISTERE DE LA DEFENSE\",\n  \"date\": \"26/07/2006\",\n  \"sender\": \"Christete Doyeu\",\n  \"recipient\": \"DÉLEGATION GENÉRALE France\",\n  \"destination\": \"DIRECTION DE L'EXPERTISE TECHNIQUE Centre d'expertise"
+  "document": null,
+  "scenario": null,
+  "writer": null,
+  "sender_person": "Christèle Doyen",
+  "sender_company": null,
+  "sender_tel": null,
+  "sender_fax": "+33(3)3.01.42.31.99",
+  "receiver_person": null,
+  "receiver_company": "France Téléphone",
+  "subject": null,
+  "date": null,
+  "place": null,
+  "box": null
 }

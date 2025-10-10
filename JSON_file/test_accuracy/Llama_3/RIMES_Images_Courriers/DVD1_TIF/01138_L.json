@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nEoue PE RON 2 4 nue e BiltqLeim 68127 NIEDERENTZEN tel: O3 76 42 91 14 CPAM- Case a nfIent:T FZ I C1 7 Pumaae d tssunonce Maladie Placede La losd 50230 AGON COUTAINVILLE objet: Relance de couie tons n...\nIe vous 1eais necomnaisont d len voulo f jondudens &us plus &f deeis p avona mea Esluce PE RON F f&m 2 4 nue e BiltqLeim 68127 NIEDERENTZEN tel: O3 76 42 91 14 CPAM- Case a nfIent:T FZ I C1 7 Pumaae d tssunonce Maladie Placede La losd 50230 AGON COUTAINVILLE objet: Relance de couie tons n...\nIe vous 1eais necomnaisont d len voulo f jondudens &us plus &f deeis p avona mea Esluce PE RON F f&m 2 4 nue e BiltqLeim 68127 NIEDERENTZEN tel: O3 76 42 91 14 CPAM- Case a nfIent:T FZ I C1 7 Pumaae d tssunonce Maladie Placede La losd 50230 AGON COUTAINVILLE"
+  "document": "Eoue PE RON",
+  "scenario": "CPAM- Case",
+  "writer": "Esluce PE RON",
+  "sender_person": "Madame, Monsieur",
+  "sender_company": "Eoue PE RON",
+  "sender_tel": "O3 76 42 91 14",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "Relance de couie tons nepomse",
+  "date": "50230",
+  "place": "AGON COUTAINVILLE",
+  "box": null
 }

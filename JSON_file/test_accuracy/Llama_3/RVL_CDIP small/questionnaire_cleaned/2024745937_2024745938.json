@@ -1,3 +1,74 @@
 {
-    "error": "Expecting ',' delimiter: line 54 column 6 (char 1655)"
+  "survey": {
+    "respondent": {
+      "name": "Ms.Jean Bouse",
+      "address": "206 Mason Street, Mason MI 48854-1128",
+      "certification": "By responding to this survey and signing below, I certify that I am a cigarette smoker 21 years of age or older.",
+      "signature": null,
+      "birthdate": null
+    },
+    "questions": [
+      {
+        "question": "What is your regular brand of cigarettes?",
+        "answer": "Alpine"
+      },
+      {
+        "question": "Is your regular brand...",
+        "answer": "Basic"
+      },
+      {
+        "question": "Is your regular brand...",
+        "answer": "Mentholor NonMenthol"
+      },
+      {
+        "question": "Is your regular brand...",
+        "answer": "Regular/King Size"
+      },
+      {
+        "question": "Is your regular brand...",
+        "answer": "Light/Mild"
+      },
+      {
+        "question": "Do you usually buy by the...",
+        "answer": "Pack"
+      },
+      {
+        "question": "Do you usually smoke...",
+        "answer": "1 to 2 years"
+      },
+      {
+        "question": "The next time you go to the store, your regular brand were not available, what would you do?",
+        "answer": "Go to another store buy my regular brand."
+      },
+      {
+        "question": "Which of the following best describes you?",
+        "answer": "White"
+      },
+      {
+        "question": "Which of the following statements best describes the way you use cigarette coupons?",
+        "answer": "Occasionally use coupons regardless of the brand"
+      },
+      {
+        "question": "Is there another smoker in your household 21 years of age or older?",
+        "answer": "Yes"
+      },
+      {
+        "question": "How often do you use special in-store offers?",
+        "answer": "Occasionally"
+      },
+      {
+        "question": "Would you be interested in receiving information about issues that affect smokers?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Would you be interested in joining a smokers group to help protect your right to smoke?",
+        "answer": "No"
+      }
+    ],
+    "additional_smoker": {
+      "name": null,
+      "birthdate": null,
+      "regular_brand": null
+    }
+  }
 }

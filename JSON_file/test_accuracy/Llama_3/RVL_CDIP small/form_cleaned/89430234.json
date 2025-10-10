@@ -1,3 +1,108 @@
 {
-    "error": "Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  "animalReceiptRecord": {
+    "projectNo": null,
+    "receiptDate": null,
+    "species": "mie",
+    "strain": null,
+    "supplier": null,
+    "totalReceived": null,
+    "purchaseOrderNo": null,
+    "males": 62,
+    "malesR&E": null,
+    "malesWtRange": 30,
+    "females": null,
+    "femalesR&E": null,
+    "femalesWtRange": null,
+    "conditionOfShippingCrates": null,
+    "otherInformation": "O",
+    "cageDetails": [
+      {
+        "cageNo": null,
+        "sex": null,
+        "weight": null,
+        "appearance": null
+      },
+      {
+        "cageNo": null,
+        "sex": "CO",
+        "weight": null,
+        "appearance": null
+      },
+      {
+        "cageNo": null,
+        "sex": null,
+        "weight": 23,
+        "appearance": "I2"
+      },
+      {
+        "cageNo": null,
+        "sex": "V",
+        "weight": null,
+        "appearance": "V"
+      },
+      {
+        "cageNo": null,
+        "sex": "!4",
+        "weight": null,
+        "appearance": null
+      },
+      {
+        "cageNo": null,
+        "sex": "GC",
+        "weight": null,
+        "appearance": null
+      },
+      {
+        "cageNo": 0,
+        "sex": null,
+        "weight": 8,
+        "appearance": "d6"
+      },
+      {
+        "cageNo": null,
+        "sex": 22,
+        "weight": null,
+        "appearance": null
+      },
+      {
+        "cageNo": null,
+        "sex": null,
+        "weight": 23,
+        "appearance": "V"
+      },
+      {
+        "cageNo": null,
+        "sex": null,
+        "weight": 23,
+        "appearance": null
+      },
+      {
+        "cageNo": null,
+        "sex": null,
+        "weight": null,
+        "appearance": 21
+      },
+      {
+        "cageNo": null,
+        "sex": 21,
+        "weight": null,
+        "appearance": null
+      },
+      {
+        "cageNo": null,
+        "sex": null,
+        "weight": null,
+        "appearance": null
+      },
+      {
+        "cageNo": null,
+        "sex": null,
+        "weight": null,
+        "appearance": null
+      }
+    ],
+    "technicianDate": null,
+    "veterinarianDate": null,
+    "orm": "123"
+  }
 }

@@ -1,4 +1,12 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nS PHILIP SmoRRs ~~ Section 35 Dallas, Texas Office - (214) 387-8245 Fax - (214) 458-2057 TOTAL PAGES__3 S8eerszg0zg0zg0zg0zg0zg0zg0zg0zg0zg0zg0zg0zg0zg0zg0zg0zg0zg0zg0zg0zg0zg0zg0zg0zg0z"
+  "sender": "SPHILIP",
+  "recipient": "A",
+  "section": "Section 35",
+  "location": "Dallas, Texas",
+  "office_phone": "(214) 387-8245",
+  "fax": "(214) 458-2057",
+  "to": "TO: A",
+  "from": "FROM:",
+  "date": "3-8-93",
+  "total_pages": "TOTAL PAGES"
 }

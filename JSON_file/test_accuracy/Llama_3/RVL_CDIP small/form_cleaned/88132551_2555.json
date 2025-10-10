@@ -1,3 +1,65 @@
 {
-    "error": "Expecting property name enclosed in double quotes: line 3 column 1 (char 3)"
+  "cigarettes": [
+    {
+      "brand": "Cascase",
+      "size": "King size",
+      "flavor": "menthol",
+      "packs": 4
+    },
+    {
+      "brand": "Frappe",
+      "size": "King size",
+      "flavor": "menthol",
+      "packs": 1
+    },
+    {
+      "brand": "La",
+      "size": "King size",
+      "flavor": "sof'Pqcl",
+      "packs": 2
+    },
+    {
+      "brand": "L5.fc",
+      "size": "King size",
+      "flavor": "sofpack",
+      "packs": 4
+    },
+    {
+      "brand": "Holiday",
+      "size": "Kingsizcnonfilter",
+      "flavor": "(soft'pack)",
+      "packs": 4
+    },
+    {
+      "brand": "Holiday",
+      "size": "Kingsz0ilter",
+      "flavor": "(soft'pack 14",
+      "packs": null
+    },
+    {
+      "brand": "Regular",
+      "size": "Regular size",
+      "flavor": "filter",
+      "packs": 2
+    },
+    {
+      "brand": "L&M",
+      "size": "King size",
+      "flavor": "filter",
+      "packs": 2
+    },
+    {
+      "brand": "LM",
+      "size": "King sszefilter",
+      "flavor": "soft pack",
+      "packs": 1
+    }
+  ],
+  "purchase_details": {
+    "date": null,
+    "retail_outlet": {
+      "name": null,
+      "address": null
+    }
+  }
 }

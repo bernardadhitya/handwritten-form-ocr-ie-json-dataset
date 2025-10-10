@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n9080'Z MARTINEZ Slati Sg su National.\nS7 5IO ST Jem RohIach kl: 03-71- 23.33-06 NI Int: QTXVL54 Banque Soute Genale 8 nlu de Ia Maie 56 160 L1 GNO L objet: augmestatin des quantite d action louns cmmanoe.\nMonsieu Dan Le Cawu du 20_O8.O6,je Nou danandai d acheta em Lowx 1O action TDf eH 9o actin RDf. Je dacht en Louwx 2o action de la pouet' TDf et 4O actiom de la oocute RDf.\ndu montant de ceo et de oyorrolo Veillor l'owron de mo sentiment 1 wmewoW aanee 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 "
+  "document": "9080'Z",
+  "scenario": "MARTINEZ Slati",
+  "writer": "Sg su National.",
+  "sender_person": "S7 5IO ST Jem RohIach",
+  "sender_company": "Banque Soute Genale",
+  "sender_tel": "kl: 03-71- 23.33-06",
+  "sender_fax": "NI Int: QTXVL54",
+  "receiver_person": "Monsieu",
+  "receiver_company": null,
+  "subject": "objet: augmestatin des quantite d action louns cmmanoe.",
+  "date": "20_O8.O6",
+  "place": "8 nlu de Ia Maie",
+  "box": "56 160"
 }

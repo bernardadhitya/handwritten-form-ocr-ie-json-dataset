@@ -1,3 +1,67 @@
 {
-    "error": "Expecting ',' delimiter: line 80 column 6 (char 1545)"
+  "ARTAP": {
+    "Name": "Division",
+    "Date": "April 16, 1987",
+    "FEMA_NO": "2582",
+    "Code_NO": "AROMA RAW MATERIAL5-C",
+    "Threshold": {
+      "DR_Min": "1",
+      "Soppm": "ppm"
+    },
+    "Attribute_Profile": {
+      "Additional_Comments": {
+        "Cigarette_like_taste": "No",
+        "Toastedmush": "i",
+        "Artificial_taste": "No",
+        "Sweet_fruity_Sour_chemical": "Yes",
+        "Fresh_tobacco_like_taste": "Yes",
+        "Comments_3": "Comments:",
+        "Smoke_like_taste": "Yes",
+        "Comments_4": "Comments:",
+        "Background_mask": "No effect",
+        "Dry_puff_character": {
+          "Comments_6": "None"
+        },
+        "Aftertaste": "Qisagreeable",
+        "Clean_ingeringsweet": "clean ingering sweet)",
+        "Trigeminal_sensation": [
+          "nasal sting",
+          "tongue bite",
+          "cooling",
+          "O",
+          "throat scratch",
+          "astringent",
+          "heating",
+          "peppery (tingly) soothing",
+          "salivating",
+          "drying"
+        ],
+        "Categorization_of_flavor": [
+          "artificial chocolate/cocoa flue-cured",
+          "non descrip",
+          "metallic",
+          "nutty/pyrazine burley",
+          "phenolic",
+          "roasted",
+          "flora)",
+          "green",
+          "honey",
+          "fruity/wine",
+          "sour/acidicwoody)",
+          "spicy",
+          "sweet",
+          "carame7",
+          "bitter"
+        ],
+        "Major_character_description": "biter",
+        "Sourody": "Sourody",
+        "Chemica": "Chemica",
+        "50637": "50637",
+        "Recommendations": {
+          "U_level_of_loppm_for_biter": "U",
+          "Wotes": "9552"
+        }
+      }
+    }
+  }
 }

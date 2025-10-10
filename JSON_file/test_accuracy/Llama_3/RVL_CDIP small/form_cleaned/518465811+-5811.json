@@ -1,4 +1,38 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n51846 5811 [Focus Program Evaluation Form - Pertod : October 31, 1994 through April 28, 1995 |Sttpto Account Name: _WAKEFERN FOOD COMP. Last trpat = stipe Accoum Nemier: 4257800 Pen Prtcpton: (Check A...\nFUR Beginning Period Base SOM:\nRUR Ending Program Period SOM:\nBB Reeuit:(o-)_ 0.996 RIA Salen Lees Tham 105% of Purchaes__YES Curated # Cartons Sod —Ateonen_ a Full Price 250,500 $10,367.50 Bs $2,101.17 ‘Total Payment _ $12,570.73\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry]\n[Data Entry"
+  "date": "JUN-28-1995",
+  "time": "16:34",
+  "phone_number": "9085218560",
+  "page": "P.02/02",
+  "rjr_cartons": {
+    "customer_som_determination": "Customer SOM Determination",
+    "participation": "Plsn Particlpetion:(Check Aor",
+    "ship_to_account": "Shtpto Accou N",
+    "focus_program": "Focus Program",
+    "sang": "Sang",
+    "full_price": "FullPrtce",
+    "rjr_sale_less_than_105_percent_of_purchase": "RJR Saie Les Thn 105% of Perchse",
+    "evaluation_form_period": {
+      "start": "October 31, 1994",
+      "end": "April 25, 1995"
+    },
+    "rjr_ending_program_period_som": "RJR Ending Program Period SOM",
+    "rjr_beginning_period_base_som": "RJR Beginnng Period Bsee SOM"
+  },
+  "account_number": "42-57690",
+  "company": "WAKEFERN FOOD COR",
+  "result": {
+    "plan_a": "PianA",
+    "value_1": "73,03",
+    "percentage_1": "21.9%",
+    "percentage_2": "22.8%",
+    "value_2": "0.03",
+    "value_3": "0.04",
+    "pise": "Pise",
+    "total_payment": "$12,678.73",
+    "value_4": "191.1",
+    "value_5": "$10,367.5",
+    "value_6": "51846",
+    "value_7": "5811",
+    "total": "TCTAL.02"
+  }
 }

@@ -1,4 +1,82 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n2056498266. 2019 - 01 - 01T00:00:00.000Z. 2019 - 01 - 01T00:00:00.000Z. 2019 - 01 - 01T00:"
+  "Other": null,
+  "Export": {
+    "Spec": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "Products": [
+    "BTim",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Numbers": [
+    2,
+    3,
+    null,
+    null,
+    null,
+    8,
+    null,
+    null,
+    22,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Laboratory": {
+    "Name": null,
+    "Request": null,
+    "Note": "Please allow a minimum of 1 week for 1 analysis and 2 weeks for more than 1",
+    "Samples": {
+      "Label": null,
+      "Recommended Size": null
+    },
+    "Elements": [
+      "Phosphorus",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "Total Nitrogen"
+    ],
+    "Analysis": {
+      "Check Analysis # Required": null,
+      "Send Results to": null,
+      "Number of Samples": null,
+      "Submitter": null,
+      "Date Required": "",
+      "Total Alkaloids": null,
+      "Reducing Sugars": "",
+      "Date Logged": null,
+      "Date Completed": null,
+      "Date": null,
+      "Request Code": "",
+      "Ammonia": null,
+      "Nitrates": null,
+      "Purpose": "88/11 815#"
+    }
+  }
 }

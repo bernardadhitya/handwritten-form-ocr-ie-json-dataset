@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nbEAvooviN Veronque a : HANiF Assurauceo S,rvc oo Roses 2, placa de la Poste Hs7vM 3V 3N!N7d Ot8tS Q2 y 7O PlOvEZEC l : 03.79. 85.97.13 Ha dame, Ionie.\nmes coordonneo Eu vas nemvuant Veron'que BEAU DociN doyi 1, rue de la Poste 3V 3N!N7d Ot8tS Q2 y 7O PlOvEZEC l : 03.79. 85.97.13 Ha dame, Ionie.\nmes coordonnee Eu vas nemvuant Veron'que BEAU DociN doyi 1, rue de la Poste 3V 3N!N7d Ot8tS Q2 y 7O PlOvEZ"
+  "document": "bEAvooviN Veronque",
+  "scenario": "a : HANiF Assurauceo",
+  "writer": "S,rvc oo Roses",
+  "sender_person": "Hs7vM 3V 3N!N7d Ot8tS",
+  "sender_company": "Q2 y 7O",
+  "sender_tel": "PlOvEZEC",
+  "sender_fax": "l : 03.79. 85.97.13",
+  "receiver_person": "Ha dame, Ionie.",
+  "receiver_company": "mes coordonneo",
+  "date": "Eu vas nemvuant",
+  "place": "Veron'que",
+  "box": "BEAU DociN"
 }

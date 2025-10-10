@@ -1,35 +1,26 @@
 {
-    "name": "James Rosser",
-    "address": {
-        "street": "790 Douglas Ave",
-        "city": "Monroe",
-        "state": "OH",
-        "zip": "45050"
-    },
-    "customer_id": "270246583",
-    "letter_id": "WWC 001",
-    "sender": {
-        "name": "Aah Conrad",
-        "title": "Consumer Satisfaction Research Manager",
-        "organization": "Mark Conrad"
-    },
-    "request": {
-        "type": "assistance",
-        "description": "request for assistance"
-    },
-    "survey": {
-        "type": "customer satisfaction",
-        "description": "to complete a questionnaire about how well you were treated by our company representative"
-    },
-    "warning": {
-        "type": "health warning",
-        "description": "Smoking causes lung cancer, heart disease, emphysema, and may complicate pregnancy."
-    },
-    "data": {
-        "smoking_data": {
-            "cigarette_weight": "17mg",
-            "cigarette_length": "14img",
-            "cigarette_weight_by_FTC_method": "a 14img ricci a per cigarette"
-        }
-    }
+  "company": "Winston",
+  "customer_id": "63288Q181",
+  "slogan": "PUTTING YOUFIRST",
+  "customer_name": "Mr. James Rosser",
+  "date": "February 6, 1996",
+  "address": {
+    "street": "790 Douglas Ave",
+    "city": "Monroe",
+    "state": "OH",
+    "zip": "45050"
+  },
+  "contact_number": "270246583",
+  "account_number": "WWC001",
+  "message": "Dear Valued Customer:...",
+  "contact_person": "Mark Conrad",
+  "position": "Consumer Satisfaction Research Manager",
+  "warning": "SURGEON GENERAL'S WARNING: Smoking Causes Lung Cancer, Heart Disease, Emphysema. And May Complicate Pregnancy.",
+  "sponsor": "Winston King",
+  "cigarette_info": {
+    "tar": "17 mg",
+    "nicotine": "1.4 mg",
+    "method": "FTC method"
+  },
+  "year": "1997"
 }

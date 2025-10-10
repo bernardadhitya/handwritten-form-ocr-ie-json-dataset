@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nNme Di ACLo Stephanu l 161Q/06 F Rue des dilas 683 2o Ursc Hen HeiM T61: 03868961 27 A MbmeuR oliune olaiaton o cemte nlk,tarl Jilas- Cett nu,xurefa. coIme eof oerenue extemementIuyamk notemnent a cau...\nmcssamt oles comono tot Q matn Cscomtate ole ssus afi ol.\nneni cualls- Cett nu,xurefa. coIme eof oerenue extemementIuyamk notemnent a cau...\nmcssamt oles comono tot Q matn Cscomtate ole ssus afi ol.\nNme Di ACLo Stephanu l 161Q/06 F Rue des dilas 683 2o Ursc Hen HeiM T61: 03868961 27 A MbmeuR oliune olaiaton o cemte nlk,tarl Jilas- Cett nu,xurefa. coIme eof oerenue extemementIuyamk notemnent a cau...\nm"
+  "document": "Nme Di ACLo Stephanu",
+  "scenario": null,
+  "writer": null,
+  "sender_person": "Stephanu",
+  "sender_company": "Ursc Hen HeiM",
+  "sender_tel": "T61: 03868961 27",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "date": "l 161Q/06",
+  "place": "Rue des dilas",
+  "box": "683 2o"
 }

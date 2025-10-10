@@ -1,4 +1,48 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n< Lellomy-Carrigg, Inc. -\nSITIES TAY : Job # 9503 —_ Y May, 1982 a-0 PSYCHOPHYSIOLOGY STUDY - D.G. 82 TELEPHONE SCREENING QUESTIONNAIR:\nWeg (ASK TO SPEAK 70 MALES/FEMALES 25 - 35) Helio, I'm from Bellony-Carrigg, Inc., a local marketing research company. I'd like to ask you a few questions.\na.\nFirst of a11, do you or does any member of your family An advertising agency or marketing TERMINATE, ERASE Fesearch company.sssssreseese RE-USE A tobacco company.\nA food company...\nA beverage company.\nWhat is your age? (RECORD BELOW) Aly... twownanve ony 1F ace 25 ~ a5; TERMINATE ALL OTHER.) :\nWhich of the following prodiicts do you presently use? (READ LIST - CHECK AS MANY AS appLy) Fruit Juices.......5 Carbonated Soft Drinks.\ncoffee...\ndioses...\nTea...\nOther (please specify) :\nWhich of the following products do you presently use? (READ LIST - CHECK AS MANY AS appLy) Cigarettes...\nAlcohol...\nBeer...\nWine...\nOther (please specify) :\nHow many hours per week do you spend on work-related activities? (RECORD BELOW) :\nHow many hours per week do you spend on work-related activities? (RECORD BELOW) :\nHow many hours per week do you spend on work-related activities? (RECORD BELOW) :\nHow many hours per week do you spend on work-related activities? (RECORD BELOW) :\nHow many hours per week do you spend on work-related activities? (RECORD BELOW) :\nHow many hours per week do not spend on work-related activities? (RECORD BELOW) :\nHow many hours per week do not spend on work-related activities? (RECORD BELOW) :\nHow many hours per week do not spend on work-related activities? (RECORD BELOW) :\nHow many hours per week do not spend on work-related activities? (RECORD BELOW) :\nHow many hours per week do not spend on work-related activities? (RECORD BELOW) :\nHow many hours per week do not spend on work-related activities? (RECORD BELOW) :\nHow many hours per week do not spend on work-related activities? (RECORD BELOW) :\nHow many hours per week do not spend on work-related activities? (RECORD BELOW) :\nHow many hours per week do not spend on work-related activities? (RECORD BELOW) :\nHow many hours per week do not spend on work-related activities? (RECORD BELOW) :\nHow many hours per week do not spend on work-related activities? (RECORD BELOW) :\nHow many hours per week do not spend on work-related activities? (RECORD BELOW) :\nHow many hours per week do not spend on work-related activities? (RECORD BELOW) :\nHow many hours per week do not spend on work-related activities? (RECORD BELOW) :\nHow many hours per week do not spend"
+  "company": "beilomy-Carrigg,Inc",
+  "job": "Job0503",
+  "month": "May",
+  "year": "1982",
+  "study": "PSYCHOPHYSIOLOGY STUDY-D.G.82",
+  "questionnaire": "TELEPHONE SCREENING QUESTIONNAIRE",
+  "fields": {
+    "name": null,
+    "address": "05A",
+    "city": null,
+    "telephoneAreaCode": "99-",
+    "interviewer": "NF",
+    "askToSpeakTo": "MALES/FEMALES 25-35"
+  },
+  "introduction": "Hello,I'm from Bellomy-Carrigg,Inc.,a local markcting research company. I'd like to ask you a few questions.",
+  "questions": [
+    {
+      "question": "do you or does any member of your family work for An advertising agency or marketing research company....",
+      "answer": "NO"
+    },
+    {
+      "question": "What is your age?",
+      "answer": null
+    },
+    {
+      "question": "Which of the following products do you presently use?",
+      "answers": [
+        {
+          "product": "Fruit Juices",
+          "response": "No"
+        },
+        {
+          "product": "Carbonated Soft Drinks",
+          "response": null
+        },
+        {
+          "product": "Coffe",
+          "response": null
+        },
+        {
+          "product": "Alcoholic",
+          "response": null
+        }
+      ]
+    }
+  ]
 }

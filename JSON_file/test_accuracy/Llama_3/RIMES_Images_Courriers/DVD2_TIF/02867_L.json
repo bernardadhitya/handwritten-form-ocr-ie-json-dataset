@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nHaiue ADEL Delphune 466 Rrc de`1ecaxene Rue de.Penthuevre O6ULO LA GRAvE DE PEiLLE Z&0o s BRieuc Obier: Reclamatians leJ5 fev&uee 2cJ Yadame, Honsieux, swte awnaweL amenaqemear de la cammune, ievws co...\nE effel, enconseqxace de Cawqmeahaton clu txaPc awtamobile dans ma we ic subis depus quequos remps de nwisances sanaes. celle-a atant punapalemeah gonanfas la nwt et duxanF la aicre de ma eafanh5 9e r... (Translation: \nHaiue ADEL Delphune 466 Rue de.Penthuevre O6ULO LA GRAvE DE PEiLLE Z&0o s BRieuc Obier: Reclamatians leJ5 fev&uee 2cJ Yadame, Honsieux, swte awnaweL amenaqemear de la cammune, ievws co... \nE effel, enconseqxace de Cawqmeahaton clu txaPc awtamobile dans ma we ic subis depus quequos remps de nwisances sanaes. celle-a atant punapalemeah gonanfas la nwt et duxanF la aicre de ma eafanh5 9e r...)\n\n**Note:** The text appears to be a jumbled mix of French and English words, with some words repeated or misspelled. The text is likely a corrupted or encoded message.\n\n**Extracted Information:**\n\n* Name: Haiue ADEL Delphune\n* Address: 466 Rue de.Penthuevre O6ULO LA GRAvE DE PEiLLE Z&0o s BRieuc Obier\n* Date: February 5th\n* Location: Yadame, Honsieux\n* Issue: Mobile phone signal loss\n* Effect: Disruption of service\n* Description: The mobile phone"
+  "document": "Haiue",
+  "scenario": "Obier: Reclamatians",
+  "writer": "ADEL Delphune",
+  "sender_person": "ADEL Delphune",
+  "sender_company": "swte awnaweL amenaqemear de la cammune",
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": "Yadame, Honsieux",
+  "receiver_company": null,
+  "subject": "leJ5 fev&uee 2cJ",
+  "date": "9e rahautcas",
+  "place": "Rue de.Penthuevre, O6ULO LA GRAvE DE PEiLLE, Z&0o s BRieuc",
+  "box": null
 }

@@ -1,4 +1,19 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n2 sah be +O.\nFIRM: 23) 220.8. LOCATION BLDG.:\neS una FROM:\nPHILIP MORRIS R&D RO. BOX 26583 RICHMOND,VA. 23261 804-274-3982 PAGES TO FOLLOW ==> THIS DOCUMENT TRANSMISSION REPORT (REDUCED SAMPLE ABOVE) J WAS SENT we COUNT 2k #4 sek SEND eh No] _REWOTE STATION T..."
+  "firmLocation": "FIRMLEEOALOCATION BLDG.",
+  "from": "tol",
+  "company": "PHILIPMORRIS R&D",
+  "address": "PO.BOX26583 RICHMONDVA.23261",
+  "phone": "804-274-3982",
+  "pagesToFollow": "TRANSMISSION REPORT",
+  "documentStatus": "THIS DOCUMENT REDUCED SAMPLE ABOVE WAS SENT",
+  "count": 4,
+  "send": "***SEND***",
+  "remoteStationId": null,
+  "startTime": "6-19-90 10:00",
+  "duration": "0:0247",
+  "pages": 4,
+  "comment": "4 1 21 618 4 618",
+  "total": "TOTAL 0:0247",
+  "telecopier": "XEROX TELECOPIER 7021",
+  "faxNumber": "2063582775"
 }

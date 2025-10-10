@@ -1,4 +1,47 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nRight Decisions, Right Now ‘Order Form for Materials Please indicate the quantity of materials you are interested inreoeiving, Besuretoindicateyourname, addressandhow the materials are to be used.\nQUANTITY (MATERIALS 18° X 25\" Posters Kt Enalish —= * Spanish x 5°X 6 1/2\" Table-Top Signs English + Spanish geez 9571S __L Tobacco: Helping Youth Say No” Booklet L “How To TAR To Your Kids About Not...\nvane: EDM cagawcarion:, ———_—_— rooness, 13.21 HAM Cack-R BARREWET 0 crn: sme MSL ap: 08007 prone: {22 SH b- 8946 Briefly explain how you intend to utilize the requested rates of materials. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. "
+  "orderForm": {
+    "title": null,
+    "materials": [
+      {
+        "name": null,
+        "language": null,
+        "quantity": 51256
+      },
+      {
+        "name": null,
+        "language": "Spanish",
+        "quantity": null
+      },
+      {
+        "name": null,
+        "language": null,
+        "quantity": null
+      },
+      {
+        "name": null,
+        "language": null,
+        "quantity": null
+      },
+      {
+        "name": null,
+        "quantity": null
+      },
+      {
+        "name": null,
+        "quantity": null
+      },
+      {
+        "name": null,
+        "quantity": null
+      }
+    ],
+    "contactInformation": {
+      "name": null,
+      "organization": "13o1-HAs/CoeK-DR",
+      "address": null,
+      "stateZip": null,
+      "phone": "609546-8946"
+    },
+    "usageExplanation": null
+  }
 }

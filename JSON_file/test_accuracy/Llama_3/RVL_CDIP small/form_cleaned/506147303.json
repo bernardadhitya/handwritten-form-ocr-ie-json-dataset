@@ -1,25 +1,13 @@
 {
-    "agreement": {
-        "parties": [
-            {
-                "name": "G.D Societa per Azioni",
-                "type": "representative"
-            },
-            {
-                "name": "R. J.",
-                "type": "individual"
-            }
-        ],
-        "product": {
-            "name": "Project CAL",
-            "description": "new product"
-        },
-        "discussions": {
-            "existence": true,
-            "nature": "new product"
-        },
-        "disclosure": {
-            "agreement": true
-        }
-    }
+  "documentType": "SECRECY AGREEMENT",
+  "parties": [
+    "G.D Societa per Azioni"
+  ],
+  "agreementDetails": {
+    "projectName": "project CAL"
+  },
+  "signatory": "G.D Societa per Azioni",
+  "location": "Bologna",
+  "date": "September 9, 1985",
+  "referenceNumber": "50614 7303"
 }

@@ -1,4 +1,63 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nARNOLD & PORTER 44th Floor 777 South Figueroa Street Los Angeles, California 90017-2513 Mi Telephone: (213) 243-4000 TELEFAX: (213) 243-4199 SBR TELEFAX TRANSMISSION SHEET mmy We are sending “7 rages...\nMESSAGE:\nJOHN ( ] If checked, please confirm receipt W:\n(213) 243-4032. If any problems, contact operator.\nReturn To: Angela Simpson-Harris Matter No.\nTimekeeper No. 4205 100\"sosd wend any CONAN HORS RECEIVED.\nMay 19 ROT MULDFF\" operator at 05633-195 y8E6L8L202 ebi2t 16. 6T AML 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1"
+  "company": null,
+  "address": {
+    "floor": null,
+    "street": null,
+    "city": "Los Angeles",
+    "state": null,
+    "zip": null
+  },
+  "telephone": null,
+  "telefax": null,
+  "fax_transmission_sheet": {
+    "date": null,
+    "pages_including_cover": null,
+    "recipients": [
+      {
+        "name": null,
+        "fax": null,
+        "phone": null
+      },
+      {
+        "name": "John Mulderig",
+        "fax": "212/907-5796",
+        "phone": "212/880-3056"
+      },
+      {
+        "name": null,
+        "fax": null
+      },
+      {
+        "name": null,
+        "fax": "914/335-9374",
+        "phone": null
+      },
+      {
+        "name": null,
+        "fax": "816/421-2708",
+        "phone": null
+      },
+      {
+        "name": null,
+        "fax": "816/474-6550"
+      },
+      {
+        "name": null
+      },
+      {
+        "name": null,
+        "fax": null,
+        "phone": null
+      }
+    ],
+    "privileged_information": null,
+    "received_message": null,
+    "confirmation_request": null,
+    "return_to": null,
+    "matter_no": "05633.195",
+    "timekeeper_no": null,
+    "from": null,
+    "timestamp": null,
+    "page": null
+  }
 }

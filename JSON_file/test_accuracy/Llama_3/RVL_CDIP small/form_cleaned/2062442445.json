@@ -1,4 +1,111 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nECT, Ret x Understanding of Program Elements In onder to receive the Philip Morris allowance. | understand that participants for Phase I will need to reduce the price of Marlboro and Basic by at least...\n‘will nced to be placed and maintained in agreed-upon locations during the entire price reduction period.\nPOS Item #1 Location POS Item #2 Location POS Item #3 Location POS Item #4 Location Price in Effect Marlboro Basic Pack: Cm: Pack: $ Cn:\nReduced Price; | Pack: $ Cm: $ Pack: _$. Cin: $ For Phase Il, participants will need to reduce the price of Benson & Hedges, Merit. Parliament. and Virginia Slims by at least 20¢ a pack or $2 a carton...\nAdditionally. the following point-of-sale items (Minimum of 3 PM Premium Brand POS pieces) will ‘need to be placed and maintained in agreed-upon locations during the entire price reduction period.\nPOS tem #1 Location POS Item #2 Location POS Item #3 Location Merit, Virginia Slims, Benson & Hedges, and Parliament Price in Effect Pack: _$ Cm: $s.\nReduced Price Pack: cm: 7 Potential Promotion Allowance Payment.\nPayments will be made atthe completion of each phase ofthis promotion, Potential Phase I Promotion Allowance is $s Potential Phase II Promotion Allowance is 3.\nFlex Fund Allowance to extend Marlboro 1 week — $, ‘Total Potential Promotion Allowance is 8 Philip Morris reserves the right to audit compliance of any of these program requirements at any time, to a...\n00 StoreName: _flmerican Dvug cart [Boe Contra Store Address: (GIG SWiFF Dave, Cubbie | Tihwas ose} ___ Philip Morris Representative (please print) Bavbava Lipnclt _ — Temitory #.\nPhilip Morris Representative Signature Date I understand the clements of the SUMMER SALES SPECTACULAR and will participate.\nRetailer (Please print name) Retailer Signature Date Sbbzrezo0z Distribution: Original -Section Office Copy 1-PM Manager Copy2-Retailer_ Copy 3 - PM Representative Copy 4 - PM Representative Copy 5 - PM Representative Copy 6 - PM Representative Copy 7 - PM Representative Copy 8 - PM Representative Copy 9 - PM Representative Copy 10 - PM Representative Copy 11 - PM Representative Copy 12 - PM Representative Copy 13 - PM Representative Copy 14 - PM Representative Copy 15 - PM Representative Copy 16 - PM Representative Copy 17 - PM Representative Copy 18 - PM Representative Copy 19 - PM Representative Copy 20 - PM Representative Copy 21 - PM Representative Copy 22 - PM Representative Copy 23 - PM Representative Copy 24 - PM Representative Copy 25 - PM Representative Copy 26 - PM Representative Copy 27 - PM Representative Copy 28 - PM Representative Copy 29 - PM Representative Copy 30 - PM Representative Copy 31 - PM Representative Copy 32 - PM Representative Copy 33 - PM Representative Copy 34 - PM Representative Copy 35 - PM Representative Copy 36 - PM Representative Copy 37 - PM Representative Copy 38 - PM Representative Copy 39 - PM Representative Copy 40 - PM Representative Copy 41 - PM Representative Copy 42 - PM Representative Copy 43 - PM Representative Copy 44 - PM Representative Copy 45 - PM Representative Copy 46 - PM Representative Copy 47 - PM Representative Copy 48 - PM Representative Copy 49 - PM Representative Copy 50 - PM Representative Copy 51 - PM Representative Copy 52 - PM Representative Copy 53 - PM Representative Copy 54 - PM Representative Copy 55 - PM Representative Copy 56 - PM Representative Copy 57 - PM Representative Copy 58 - PM Representative Copy 59 - PM Representative Copy 60 - PM Representative Copy 61 - PM Representative Copy 62 - PM Representative Copy 63 - PM Representative Copy 64 - PM Representative Copy 65 - PM Representative Copy 66 - PM Representative Copy 67 - PM Representative Copy 68 - PM Representative Copy 69 - PM Representative Copy 70 - PM Representative Copy 71 - PM Representative Copy 72 - PM Representative Copy 73 - PM Representative Copy 74 - PM Representative Copy 75 - PM Representative Copy 76 - PM Representative Copy 77 - PM Representative Copy 78 - PM Representative Copy 79 - PM Representative Copy 80 - PM Representative Copy 81 - PM Representative Copy 82 - PM Representative Copy 83 - PM Representative Copy 84 - PM Representative Copy 85 - PM Representative Copy 86 - PM Representative Copy 87 - PM Representative Copy 88 - PM Representative Copy "
+  "program": null,
+  "retailerUnderstanding": {
+    "phaseI": {
+      "priceReduction": {
+        "Marlboro": {
+          "pack": null,
+          "carton": null
+        },
+        "Basic": {
+          "pack": null,
+          "carton": "$2"
+        }
+      },
+      "duration": {
+        "start": "June 26, 1995",
+        "end": "July 9, 1995"
+      },
+      "posItems": [
+        {
+          "item": "POS Item #1",
+          "location": null
+        },
+        {
+          "item": "POS Item #2",
+          "location": null
+        },
+        {
+          "item": null,
+          "location": null
+        },
+        {
+          "item": null,
+          "location": null
+        }
+      ]
+    },
+    "phaseII": {
+      "priceReduction": {
+        "Benson & Hedges": {
+          "pack": null,
+          "carton": null
+        },
+        "Merit": {
+          "pack": null,
+          "carton": "$2"
+        },
+        "Parliament": {
+          "pack": null,
+          "carton": null
+        },
+        "Virginia Slims": {
+          "pack": null,
+          "carton": "$2"
+        }
+      },
+      "duration": {
+        "start": null,
+        "end": "/95"
+      },
+      "posItems": [
+        {
+          "item": "POS Item #1",
+          "location": null
+        },
+        {
+          "item": "POS Item #2",
+          "location": null
+        },
+        {
+          "item": null,
+          "location": null
+        }
+      ]
+    }
+  },
+  "promotionAllowance": {
+    "phaseI": {
+      "potentialAllowance": null
+    },
+    "phaseII": {
+      "potentialAllowance": null
+    },
+    "flexFundAllowance": null,
+    "totalPotentialAllowance": "$"
+  },
+  "auditRights": null,
+  "storeDetails": {
+    "storeName": null,
+    "control": null,
+    "storeAddress": null,
+    "phone": null
+  },
+  "representative": {
+    "name": null,
+    "territoryNumber": null,
+    "signature": null,
+    "date": null
+  },
+  "retailer": {
+    "name": null,
+    "signature": null,
+    "date": null
+  },
+  "distribution": {
+    "original": null,
+    "copy1": null,
+    "copy2": null,
+    "copy3": null
+  }
 }

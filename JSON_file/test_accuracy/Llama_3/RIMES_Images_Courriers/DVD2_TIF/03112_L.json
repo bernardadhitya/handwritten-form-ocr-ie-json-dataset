@@ -1,4 +1,13 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nBAKRAUD Ludovic 29 ne Chalc de Gaull So loo GRosNE A laHenhiom d : Quotidin \"le Pai.\nBvno 35 48O GO1pRY Frosre C 26 v1in 2007 Fmps pou ms Coisis mnK de ce u ant cnkare m alonme a ve ro s X mes Y eux Emis au mom dle me Cudovic Benaud 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+  "document": "BAKRAUD",
+  "scenario": "Ludovic",
+  "writer": "Ludovic",
+  "sender_person": "Ludovic",
+  "sender_company": "ne Chalc de Gaull",
+  "sender_tel": "29",
+  "sender_fax": "So loo GRosNE",
+  "receiver_person": "A laHenhiom d",
+  "receiver_company": "Quotidin \"le Pai\"",
+  "date": "C 26 v1in 2007",
+  "place": "Fmps pou ms Coisis mnK de ce u ant cnkare m alonme a ve ro s X mes Y eux Emis au mom dle me Cudovic Benaud"
 }

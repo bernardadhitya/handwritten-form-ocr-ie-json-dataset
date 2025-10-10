@@ -1,4 +1,239 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nANALYTICAL REQUEST SHEET test cove GO/26S Neu SUBMITTER susHITTER cone BBO -\npate Cok By GSS vocation B&Decc(Mct prone XEAQS ‘SAMPLE DESCRIPTION/IDENTIFICATION AEROSOL (TYPE 1) ne METHOD wTem Nicotine Glycerin Propylene Glycol Water Menthol Acetic Acid Forn/Acetaldehyde 10 Ace... (continues)\n\n... 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 10 "
+  "analytical_request_sheet": {
+    "test_code": "30/z6s~",
+    "submitter_code": "ODATE",
+    "submitter": null,
+    "location": null,
+    "phone": null,
+    "sample_description_identification": null,
+    "aerosol_type": "1",
+    "tobacco_type": null,
+    "components_chemical": [
+      {
+        "name": "WTPM",
+        "method": null,
+        "units": null
+      },
+      {
+        "name": null,
+        "method": null,
+        "units": "%"
+      },
+      {
+        "name": "Total Nitrogen",
+        "method": null,
+        "units": null
+      },
+      {
+        "name": null,
+        "method": "3",
+        "units": "mg/cig"
+      },
+      {
+        "name": null,
+        "method": null,
+        "units": null
+      },
+      {
+        "name": null,
+        "method": null,
+        "units": "mg/cig"
+      },
+      {
+        "name": "Reducing Sugar",
+        "method": null,
+        "units": "%"
+      },
+      {
+        "name": "Water",
+        "method": null,
+        "units": null
+      },
+      {
+        "name": null,
+        "method": null,
+        "units": null
+      },
+      {
+        "name": null,
+        "method": "7",
+        "units": null
+      },
+      {
+        "name": null,
+        "method": null,
+        "units": "%"
+      },
+      {
+        "name": null,
+        "method": null,
+        "units": null
+      },
+      {
+        "name": null,
+        "method": "6"
+      },
+      {
+        "name": null,
+        "method": null,
+        "units": "ug/cig"
+      },
+      {
+        "name": null,
+        "method": null,
+        "units": null
+      },
+      {
+        "name": null,
+        "method": null,
+        "units": "6"
+      },
+      {
+        "name": "Chloride",
+        "method": null,
+        "units": null
+      },
+      {
+        "name": "Propional/Crotonal",
+        "method": null,
+        "units": "10"
+      },
+      {
+        "name": null,
+        "method": null,
+        "units": null
+      },
+      {
+        "name": null,
+        "method": null,
+        "units": null
+      },
+      {
+        "name": null,
+        "method": null,
+        "units": null
+      },
+      {
+        "name": null,
+        "method": "Glycerin",
+        "units": null
+      },
+      {
+        "name": "Propylene Glycol",
+        "method": null,
+        "units": null
+      },
+      {
+        "name": null,
+        "method": null,
+        "units": null
+      },
+      {
+        "name": null,
+        "method": null,
+        "units": null
+      },
+      {
+        "name": null,
+        "method": "mg/puff",
+        "units": "18"
+      },
+      {
+        "name": null,
+        "method": "mg/puff",
+        "units": null
+      },
+      {
+        "name": null,
+        "method": null,
+        "units": null
+      },
+      {
+        "name": null,
+        "method": null
+      }
+    ],
+    "components_physical": [
+      {
+        "name": null,
+        "units": null
+      },
+      {
+        "name": null,
+        "units": null
+      },
+      {
+        "name": "Bulk Density",
+        "units": null
+      },
+      {
+        "name": "Free Flow Density",
+        "units": null
+      },
+      {
+        "name": "Tap Density",
+        "units": null
+      },
+      {
+        "name": null,
+        "units": null
+      },
+      {
+        "name": "N2 Porosity-Disc,File",
+        "units": "7"
+      },
+      {
+        "name": null,
+        "units": null
+      },
+      {
+        "name": null,
+        "units": null
+      },
+      {
+        "name": null,
+        "units": "10"
+      },
+      {
+        "name": "Med. Pore Dia Area",
+        "units": null
+      },
+      {
+        "name": null,
+        "units": null
+      },
+      {
+        "name": null,
+        "units": null
+      },
+      {
+        "name": null,
+        "units": null
+      },
+      {
+        "name": null,
+        "units": null
+      },
+      {
+        "name": null,
+        "units": "13"
+      },
+      {
+        "name": null,
+        "units": "%"
+      },
+      {
+        "name": "Propylene Glycol",
+        "units": null
+      },
+      {
+        "name": "TEG",
+        "units": null
+      },
+      {
+        "name": null,
+        "units": null
+      }
+    ]
+  }
 }

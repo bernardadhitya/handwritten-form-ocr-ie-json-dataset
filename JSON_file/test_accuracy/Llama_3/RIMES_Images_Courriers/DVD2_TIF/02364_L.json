@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nGENT1LHOMME R&9 & 25.0107 67 360 OBERDORF SPACH BACH 03.19.24.49.30 MAN iF Aswromc& L48 no& saoe 55 29o SOUILLY Monuewr mettre hali tation 1a nwogut & 1909.2003.\nd chamqe d maun,'j'ai em l H Nun Jai &en mot,quen aylcaton dlo dipotino contactuller 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1a 1"
+  "document": "GENT1LHOMME R&9",
+  "scenario": null,
+  "writer": null,
+  "sender_person": "MAN iF Aswromc&",
+  "sender_company": "L48 no& saoe",
+  "sender_tel": "03.19.24.49.30",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": "OBERDORF SPACH BACH",
+  "date": "1909.2003.",
+  "place": "SOUILLY",
+  "box": null
 }

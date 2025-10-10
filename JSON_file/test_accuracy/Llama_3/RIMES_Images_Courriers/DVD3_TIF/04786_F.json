@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nFAX Melle DENIZOT Aurore 69 rue d'or 68500BERRWILLER 0346783088 DESTINATAIRE: NAiF DWLanCe dt Ba$ :\nDATE: Jo 1o512co4 REFERENCE:OZUT Z3O OBET:SInise uopnshLk cuPe AL'ATTENTION DE: a du paenenh deo nee 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1o 1"
+  "document": "FAX",
+  "scenario": null,
+  "writer": "Melle DENIZOT Aurore",
+  "sender_person": "Melle DENIZOT Aurore",
+  "sender_company": "Aurore",
+  "sender_tel": "0346783088",
+  "sender_fax": null,
+  "receiver_person": "NAiF DWLanCe",
+  "receiver_company": "DWLanCe",
+  "subject": "dt Ba$ :",
+  "date": "Jo 1o512co4",
+  "place": "69 rue d'or, 68500 BERRWILLER",
+  "box": "OZUT Z3O"
 }

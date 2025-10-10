@@ -1,4 +1,13 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nNo Sglil 06/05/22 The Saud lnesment Bank COCOBAA AgantthrChr P'av to eOrdcof Garrna deGus The Aruntf 640 iR. 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+  "response": {
+    "status": "No",
+    "code": "Sglil",
+    "date": "06/05/22",
+    "bank": "The Saud lnesment Bank",
+    "transaction": "COCOBAA",
+    "agent": "AgantthrChr",
+    "payToOrderOf": "P'av to eOrdcof",
+    "amount": "640",
+    "currency": "iR"
+  }
 }

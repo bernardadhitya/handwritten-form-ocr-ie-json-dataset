@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nLolmar Ie 12 mars Cwerard Stanes 6 swe JIl 68 000 Colmar 03-55-58-78-73 A GoF 6 sue ole MonceI 78 121 cREsp1ERe5 Sieb : SeIamation msiewr Hon cowruer du 11102107 ibant rest sams reponoe Voici ma nefie... (il y a des erreurs dans le texte)\n\nNote: The text appears to be a jumbled collection of words and numbers, but it can be deciphered as a phone number and a name. The phone number is in the format of a French phone number, with the area code being 03-55-58-78-73. The name appears to be \"Lolmar Ie\" with a possible first name \"Cwerard\" and a surname \"Stanes\".\n\nHere is the structured JSON output:\n\n```\n{\n"
+  "document": "Lolmar Ie",
+  "scenario": "12 mars",
+  "writer": "Cwerard Stanes",
+  "sender_person": "6 swe JIl",
+  "sender_company": "68 000 Colmar",
+  "sender_tel": "03-55-58-78-73",
+  "sender_fax": "A GoF",
+  "receiver_person": "6 sue ole MonceI",
+  "receiver_company": "78 121 cREsp1ERe5",
+  "subject": "Sieb : SeIamation",
+  "date": "msiewr",
+  "place": "Hon cowruer du 11102107 ibant rest sams reponoe",
+  "box": "Voici ma nefience Iinb : M2ESQ70"
 }

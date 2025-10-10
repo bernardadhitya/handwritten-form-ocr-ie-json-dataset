@@ -1,4 +1,30 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nThe purpose of this questionnaire 1s to récelve your personal response to the Anformation presented by B&W at the 1965 Maxwell Seminar. We would appreciate “Yous coments through completion of this bil...\nLow Degree 1 2 Would you have need for additional financial snforeation shout ‘AN, BaTUS, and B.A.T.? B 4. Yow do you rate BAW on corm piece: objectives? 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 8 9 10 11 12 13 14 15 16 17 8 9 10 11 12 13 14 15 16 17 8 9 10 11 12 13 14 15 16 17 8 9 10 11 12 13 14 15 16 17 8 9 10 11 12 13 14 15 16 17 8 9 10 11 12 13 14 15 16 17 8 9 10 11 12 13 14 15 16 17 8 9 10 11 12 13 14 15 16 17 8 9 10 11 12 13 14 15 16 17 8 9 10 11 12 13 14 15 16 17 8 9 10 11 12 13 14 15 16 17 8"
+  "questionnaire": "QUESTIONNAIRE ON BROWN & WILLIAMSON MAXNELL SEMINA",
+  "purpose": "to receive your personal response to the information presented by B&w at the l985 Maxwell Seminar. We would appreciate your comments through conpletion of this brief questionnaire.Your signature is cptional.",
+  "comments": "Your signature is cptional.",
+  "questions": [
+    {
+      "text": "The presentation clearly identifiedB&w's coporate strategy for the ne 12 to 18 months.",
+      "answers": [
+        "LowDegree"
+      ]
+    },
+    {
+      "text": "Would you have need for BATUS and B.A.T.",
+      "answers": [
+        "LowDegree",
+        "Degree"
+      ]
+    },
+    {
+      "text": "Do you feel the answers to quest responsive?",
+      "answers": [
+        "LowDegree"
+      ]
+    },
+    {
+      "text": "ow do you IateB& cn com b1ectives",
+      "answers": []
+    }
+  ]
 }

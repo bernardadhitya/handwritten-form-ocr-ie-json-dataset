@@ -1,3 +1,59 @@
 {
-    "error": "Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  "company": null,
+  "proposalType": null,
+  "subject": null,
+  "departmentDivision": null,
+  "precedingPEPs": {
+    "relativeToSubject": "",
+    "number": null
+  },
+  "checkAsAppropriate": {
+    "estimatedStudyDevelopmentProposal": null,
+    "longRangeImpact": "",
+    "capitalExpenditures": "",
+    "annualPreTaxProfitEffect": {
+      "afterImplementation": "",
+      "year": null,
+      "nextYear": null,
+      "futureYears": ""
+    }
+  },
+  "profitProposal": {
+    "preTaxProfitLossEffect": null,
+    "isPLBudgetChange": null,
+    "howMuch": null
+  },
+  "capitalExpenditureProposal": {
+    "disbursementOfFunds": {
+      "totalRequest": "",
+      "timing": ""
+    },
+    "isBudgetChange": null,
+    "howMuchInTotal": null,
+    "timing": null
+  },
+  "estimatedBy": {
+    "rjReyTobEng": null,
+    "engCoord": null
+  },
+  "projectNo": "",
+  "policyChangeProposal": {
+    "literatureToBeChanged": "",
+    "descriptionOfOpportunityOrProblem": null,
+    "background": null,
+    "proposedActionAndAlternatives": null,
+    "resultsOfProposedAction": ""
+  },
+  "routing": {
+    "comments": null,
+    "date": null
+  },
+  "originator": null,
+  "approvedCopyTo": null,
+  "datePlannedToStart": null,
+  "dateStarted": null,
+  "datePlannedToComplete": null,
+  "dateCompleted": null,
+  "personResponsibleForImplementing": null,
+  "disapprovedExplanation": null
 }

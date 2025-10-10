@@ -1,3 +1,147 @@
 {
-    "error": "Expecting ',' delimiter: line 62 column 6 (char 1027)"
+  "survey": {
+    "certification": null,
+    "birthdate": null,
+    "questions": [
+      {
+        "question": null,
+        "options": [
+          null,
+          null,
+          null,
+          "Doral",
+          "GPC",
+          null,
+          null,
+          "Marlboro",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          "Salem",
+          null,
+          "True",
+          null,
+          "Viceroy",
+          null
+        ]
+      },
+      {
+        "question": null,
+        "options": [
+          "Alpine",
+          "Benson & Hedges",
+          null,
+          null,
+          null,
+          "Kent",
+          null,
+          "Marlboro",
+          null,
+          "Misty",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "question": "Is your regular brand Regular/King Size or Superslims?",
+        "options": [
+          "Regular/King Size",
+          "Superslims"
+        ]
+      },
+      {
+        "question": null,
+        "options": [
+          null,
+          null
+        ]
+      },
+      {
+        "question": null,
+        "options": [
+          null,
+          null
+        ]
+      },
+      {
+        "question": null,
+        "options": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "question": null,
+        "options": [
+          null,
+          null
+        ]
+      },
+      {
+        "question": null,
+        "options": [
+          null,
+          null,
+          null,
+          null,
+          "Over 5 years"
+        ]
+      },
+      {
+        "question": null,
+        "options": [
+          "Go to another store to buy my regular brand",
+          "Buy another type or length of my regular brand",
+          "Wait until the store has my regular brand",
+          null
+        ]
+      },
+      {
+        "question": null,
+        "options": [
+          null,
+          null,
+          "Rarely",
+          null
+        ]
+      },
+      {
+        "question": null,
+        "options": [
+          null,
+          null
+        ]
+      },
+      {
+        "question": null,
+        "options": [
+          null,
+          null
+        ]
+      }
+    ],
+    "personal_info": {
+      "first_name": null,
+      "middle_initial": null,
+      "last_name": null,
+      "birthdate": null,
+      "regular_brand": null
+    }
+  }
 }

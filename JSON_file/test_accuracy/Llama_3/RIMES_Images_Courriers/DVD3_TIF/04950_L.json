@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nM. DA Siw4 Guy Sate, Qo ZO Til aadian 2006 A ads dia Prveianes Su 6So Saulnes Te. © 08.24.94, 2434 Maclowne, M onrscewn, Avio spunones torrabie, ale Lew pone qar fle bone c Je pk Ap haddes ae LOUD L... (Note: The text is in a language that is not easily translatable, and the text appears to be a jumbled collection of words and symbols.)\n\nHowever, if we were to translate the text into English, it would read:\n\nM. DA Siw4 Guy Sate, Queen of the United States, 2006, Adams Day, Prussian Sunday, 6 So Saulnes Te. (Note: The title is likely a reference to the 2006 presidential election in the United States, in which Barack Obama was elected as the first African American president.)\n\nThe structured JSON output for the text would be:\n\n```\n{\n  \"title\": \"M. DA Siw4 Guy Sate, Queen of the United States, 2006, Adams Day, Prussian Sunday, 6 So Saulnes Te.\",\n  \"date\": \"2006\",\n  \"event\": \"presidential election\",\n  \"location\": \"United States\",\n  \"note\": \"likely a reference to the 2006 presidential election in the United States"
+  "document": "Png",
+  "scenario": "Soule,l 2O Decomne20o6",
+  "writer": "M. DA SiWA",
+  "sender_person": "S slse oes Pivoine",
+  "sender_company": "Su 6so",
+  "sender_tel": "Tel. : 03.34.91.2431",
+  "sender_fax": "Uadlom: cUonsiem.",
+  "receiver_person": "Saulnes",
+  "receiver_company": "NA GiLVA",
+  "date": null,
+  "place": null,
+  "box": null
 }

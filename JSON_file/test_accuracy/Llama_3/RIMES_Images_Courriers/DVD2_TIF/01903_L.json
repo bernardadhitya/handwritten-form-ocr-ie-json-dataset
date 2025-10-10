@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nFran& IuLOT Paris,La 12jawves 2007 yovL p amc t 68 830 Odaxon 03.01.94.12.04.\ndeoros maxmo Bauqua Debit Lyonnais Place Général de gaull.\n06 260 Ruget Thenieus Objet : Couuaude d'achias Ref. CUent: EKFFU 17 motmo Vus eler wuar aduel caneiller uaucier au Debil Lyonnais. Je Vous sllicite au d pacor de I'aqeuteu boue. Aussi, uayaut ui lo...\nJe xoste ä wote disporitia pau daut sourigurueul caupkueutaus dant vowo pouaiez avoir bosain En ateudaut de uco uowellas dis que sua deuaude sera salisfaite veuffez aecevoir, fawieury ues salutallan:... \n\nNote: The text is written in a way that is difficult to read and understand, and it appears to be a jumbled collection of words and phrases. However, if we extract the structured information, we can identify the following:\n\n* Date: 12 January 2007\n* Time: 6:80 AM\n* Location: Paris, France\n* Address: 830 Odaxon\n* Phone number: 03.01.94.12.04\n* Bank: Deoros Maxmo Bauqua Debit Lyonnais\n* Branch: Place Général de Gaulle\n* Account number: EKFFU\n* Transaction type: Withdrawal\n* Amount: 17 euros\n* Currency: Euro\n* Description: Withdrawal of cash\n* Reference number: CUent\n* Customer name: Fran& IuLOT Paris\n* Customer address: La 12jawves\n* Customer phone number: 06 260 Ruget Thenieus\n* Customer email: (not provided)\n* Customer ID: (not provided)\n* Transaction date: 17 months ago\n* Transaction time: 6:80 AM\n* Transaction type: Withdrawal\n* Amount: 17 euros\n* Currency: Euro\n\nHere is the structured JSON output:\n\n```json\n{\n  \"date\": \"12 January 2007\",\n  \"time\": \"6:80 AM"
+  "document": null,
+  "scenario": null,
+  "writer": "MULOT Franck",
+  "sender_person": "Franck MULOT",
+  "sender_company": null,
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": "Monsieur Marcel",
+  "receiver_company": null,
+  "subject": null,
+  "date": null,
+  "place": null,
+  "box": null
 }

@@ -1,4 +1,56 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nMeee FLAVOR RAW MATERIAL CERTIFICATE OF ANALYSIS (UIN-HOUSE USE ONLY) Provuct NaME__3-Methylvaleric Acid AuRT LOT NO.== surP.ien___Research Organic/Inorganic ORDER NUMBER ==~===~~ OATE RECEIVED, 9-80...\n—— Fresh Point (9 Nom Volatile Residue —— Optical Rot ( d Halogen (ppm).\n_—— sms Heavy Metals FTIR 38 Pb (ppm) —— Aerie. (ppm) — Soluble in Volumes. % Ethyl Alcohol MISCELLANEOU: THES FLAVOR QUALITY CONTROL USE ONLY SIGNATURE/DATE. - 2-tl-¥o —— APPROVED COMMENTS, e6g6 teez... —— 9-80-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
+  "product_name": "3-Methylvaleric Acid",
+  "rjrt_lot_no": "M-456",
+  "supplier": "Research Organic/Inorganic",
+  "order_number": null,
+  "date_received": "7-9-80",
+  "supplier_lot_number": "M-456",
+  "amount_received": "2 ounces",
+  "date_sampled": "n/a",
+  "specifications": {
+    "usp": null,
+    "fcc": null,
+    "eoa": null,
+    "rjrt_specifications": null,
+    "re_qualification": "memo",
+    "qualification_of_new_supplier": "wHenVmetec"
+  },
+  "primary_analysis": {
+    "aroma": "APPROVED",
+    "i_r": "APPROVED",
+    "g_c": {
+      "status": "APPROVED",
+      "analyst": "148"
+    },
+    "physical_appearance": {
+      "status": "APPROVED",
+      "analyst": null
+    }
+  },
+  "physical_chemical_properties": {
+    "specific_gravity_25_25_c": "0.9419",
+    "color": "X",
+    "refractive_index_20c": "485",
+    "melting_range": null,
+    "flash_point": null,
+    "non_volatile_residue": null,
+    "optical_rotation": null,
+    "halogen_ppm": null,
+    "gc_ms": null,
+    "heavy_metals": null,
+    "ftir": null,
+    "as_pb_ppm": null,
+    "arsenic_ppm": null,
+    "soluble_in": null,
+    "volumes": null,
+    "ethyl_alcohol": null
+  },
+  "miscellaneous_properties": {
+    "flavor_quality_control_use_only": "USE ONLY",
+    "approved": "APPROVED",
+    "rejected": "REJECTEO",
+    "signature_date": "1-8",
+    "comments": "COOOMMES 9893"
+  },
+  "rjrt_form": "RJRT Form 61182/79"
 }

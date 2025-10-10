@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nCOLLEGE ANATOLE FRANCE 55, avenue A.Briand 93320 LES PAVILLONS-SOUS-BOIS TEL : 01 48 49 58 57 TELECOPIEUR N° 01 48 48 90 19 BORDEREAU DE TRANSMISSION PAR FAX EXPEDITEUR : STEPHAN CINON DESTINATAIRE :...\nN FAX :\nQ.1..6.0..7..4333..\nOBJET :...ReOmatow MESSAGE :\nceil ouscr.....mao..\nR.n.c Nombre de pages ( compris cle-ci :......\nDATE :......0.......\nHEURE :...\nATTENTION : EN CAS DE MESSAGE ILLISIBLE OU INCOMPLET MERCI DE NOUS LESIGNALER AU:0148495857\n```\n\nHere is the structured information extracted from the text:\n\n*   **College Information**\n    *   Name: Anatole France\n    *   Address: 55, avenue A.Briand, 93320 LES PAVILLONS-SOUS-BOIS\n    *   Phone Number: 01 48 49 58 57\n    *   Fax Number: 01 48 48 90 19\n    *   Courier: Stephan Cinion\n    *   Destination: (Not provided)\n*   **Message Information**\n    *   Fax Number: Q.1..6.0..7..4333..\n    *   Object: ReOmatow\n    *   Message: ceil ouscr.....mao..\n    *   Number of Pages: (Not provided)\n    *   Date: (Not provided)\n    *   Time: (Not provided)\n    *   Attention: In case of an illegible or incomplete message, please notify us at: 01 48 49 58 57\n\nHere is the structured JSON output:\n\n```json\n{\n "
+  "document": null,
+  "scenario": null,
+  "writer": "STEPHAN Linda",
+  "sender_person": null,
+  "sender_company": null,
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": null,
+  "date": null,
+  "place": "",
+  "box": null
 }

@@ -1,4 +1,20 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nLANGNER, PARRY, CARD & LANGNER 10 COLUMBUS CIRCLE NEW YORK 19, N. ¥.\n| SESSRS, WATSON, LEAVENWORTH, | KSLTON & TaGoERE 109 PARK AVENUS HE _A?, HBR YORK a-29 fe thank you for your instructions to poy the tox due on this patent (or patent application) ond we have instruc...\nWe atioch our debit nolo in the sum of $ 55 025 cated __ SUN 23.1969.\n‘OUR REGISTER No “°° BHCIB'WORR1s iNoORPORATED countny SWITZERLAND “\"\"\" ha ggg FILE 505-538-r0R,\" \"= 09 ACKNOWLEDGMENT of INSTRUCTIONS TO PAY TAX INDICATED ABOVE RECEIVED WLK&aT JUN 2.4 1969 FILE_sea-..."
+  "company": "LANGNER,PARRYCARD &LANGNER",
+  "address": "10COLUMBUS CIRCLE",
+  "date": "JUN231969",
+  "register_no": "OUR REGISTER NO.NT0927-086",
+  "recipient": "MESSRS.WATSONLEAVENWORTA, KELTON & TAGGERE",
+  "recipient_address": "OO PARK AVENUE",
+  "country": "SWITZERLAND",
+  "case_file": "FILE582338F0R",
+  "tax": {
+    "type": "TAX",
+    "date": "SEPT 271969"
+  },
+  "acknowledgment": "We atfach our debit note in the sum of s 5525",
+  "instructions": "INSTRUCTIONS TO PAY TAX INDICATED ABOVE",
+  "received_by": "W.LK&T",
+  "received_date": "JUN241969",
+  "file": "FILE58-338",
+  "contact": "2026368696"
 }

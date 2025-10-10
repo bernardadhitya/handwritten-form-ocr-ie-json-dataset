@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nBOUQUET Amin U08,Rue dy 1ar 6723o RossfelD t.: 03.31.33.76.61 RcF cliet! ORMTL63 C.?.A.M 3,Areruc Gan'ba1d &3'5o Lz Soyne sur Ycr RsssFld, lz 1s man 2oo7 6b: Nuvells cosrIsnn& hancaire sertinerb BOUQU... (text truncated)\n\n... (rest of the text truncated)\n\n... (rest of the text truncated)\n\n... (rest of the text truncated)\n\n... (rest of the text truncated)\n\n... (rest of the text truncated)\n\n... (rest of the text truncated)\n\n... (rest of the text truncated)\n\n... (rest of the text truncated)\n\n... (rest of the text truncated)\n\n... (rest of the text truncated)\n\n... (rest of the text truncated)\n\n... (rest of the text truncated)\n\n... ("
+  "document": "BOUQUET",
+  "scenario": "Amin",
+  "writer": null,
+  "sender_person": "Amin",
+  "sender_company": "U08,Rue dy 1ar",
+  "sender_tel": "t.: 03.31.33.76.61",
+  "sender_fax": null,
+  "receiver_person": "RcF cliet! ORMTL63",
+  "receiver_company": "C.?.A.M",
+  "subject": "BOUQUGT A.",
+  "date": "3,Areruc Gan'ba1d",
+  "place": "RsssFld, lz 1s man 2oo7",
+  "box": "6b: Nuvells cosrIsnn& hancaire"
 }

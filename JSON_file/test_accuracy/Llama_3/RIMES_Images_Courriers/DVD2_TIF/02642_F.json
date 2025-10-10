@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nABIOS 3D 3D SARL au capital de 25 000 euros 636 Chemin des Molieres 06690 Tourrette Levens Tel. : 0800 63 92 63 Fax : 04 93 53 91 66 Télécopie Date :\ntoltoto Nombre de pages : 3 Expéditeur :\nSOTO pi err e tte 67 rue PRiNCiPALE ov s tS LOuPerhOUsE Destinataire :\nPiMESTRIEL \" CHARiTE BUSHiDO\" A CORNiCHE OE NEUBURG 34 200 SeTe Objet :\nRELANCE DE SANS Re Ppon se 1er mai 2005 1er mai 2005 1er mai 2005 1er mai 2005 1er mai 2005 1er mai 2005 1er mai 2005 1er mai 2005 1er mai 2005 1er mai 2005 1er mai 2005 1er mai 2005 1er mai 2005 1er mai 2005 1er mai 2005 1er mai 2005 1er mai 2005 1er mai 2005 1er mai 2005 1er mai 2005 1er mai 2005 1er mai 2005 1er mai 2005 1er mai 2005 1er mai 2005 1er mai "
+  "document": "ABIOS 3D",
+  "scenario": "3D",
+  "writer": null,
+  "sender_person": "SOTO",
+  "sender_company": "pi err e tte",
+  "sender_tel": "0800 63 92 63",
+  "sender_fax": "04 93 53 91 66",
+  "receiver_person": "PiMESTRIEL",
+  "receiver_company": "CHARiTE BUSHiDO",
+  "subject": "RELANCE DE SANS",
+  "date": null,
+  "place": "LOuPerhOUsE",
+  "box": null
 }

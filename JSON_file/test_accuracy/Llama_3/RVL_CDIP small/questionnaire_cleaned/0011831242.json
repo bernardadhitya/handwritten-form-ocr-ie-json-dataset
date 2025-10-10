@@ -1,3 +1,86 @@
 {
-    "error": "Expecting property name enclosed in double quotes: line 1 column 2 (char 1)"
+  "master": {
+    "areaCodeAndPhoneNumber": null,
+    "projectNumber": null,
+    "date": "March 211938",
+    "forOfficeUse": {
+      "repNumber": null,
+      "interviewNumber": null,
+      "femaleName": null,
+      "results": 1234,
+      "state": null,
+      "duration": null
+    },
+    "wave": null,
+    "q21": {
+      "brandsRated": [
+        {
+          "brand": null,
+          "code": null,
+          "week": "5weck"
+        },
+        {
+          "brand": null,
+          "code": null,
+          "week": null
+        },
+        {
+          "brand": "Yore",
+          "code": null,
+          "week": null
+        },
+        {
+          "brand": "Capri",
+          "code": null,
+          "week": null
+        },
+        {
+          "brand": null,
+          "code": null,
+          "week": null
+        },
+        {
+          "brand": null,
+          "code": null,
+          "week": null
+        }
+      ],
+      "noneRated": null
+    },
+    "reloIm": null,
+    "products": null,
+    "questions": {
+      "A": {
+        "question": null,
+        "responses": {
+          "noOne21OrOlder": null,
+          "onCalledToPhone": null,
+          "unavailable": null
+        }
+      },
+      "B": {
+        "question": null,
+        "subQuestions": [
+          null,
+          "Smoke cigarettes?",
+          null
+        ],
+        "instructions": {
+          "mustSayYes": null,
+          "askQCAndGoToQE": null,
+          "ifMoreThanOne": null,
+          "ifOneAskForThatPersonThen": null
+        }
+      },
+      "C": {
+        "question": null,
+        "responses": {
+          "advertisingAgency": "IF YES TO ANY TERMINATE Q.C.",
+          "cigaretteManufacturer": null,
+          "magazineNewspaperRadioTelevision": null
+        }
+      }
+    },
+    "code": null
+  }
 }

@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nR INRIA FAX - TELECOPIE FROM/EXPEDITEUR LEFEBVRE AGNES :\nDepartment/Service MACS :\nBuilding/Batiment :\n16 Telephone Number/ N° de Téléphone :\n01 39 63 (ligne directe) Fax number/ N° de Télécopieur 01 39 63 58 82 :\ne.mail :\nTO/DESTINATAIRE LES 3 SV1FS :\nRN 2O4 Firm/Raison sociale 537 :\nMERVEILLES 0643O TENOE Fax Number / N° Télécopieur :\nREFERENCE/OBJET:\nugmentatun (xi] des quantit& de CS Dergs tmmaudess Page 1 out / Nombres de pages (y compris celle-ci) :\nDate :\nAUTOMATIQUE Unité de Recherche INRIA Rocquencourt : Domaine de Voluceau -Rocquencourt-B.P.105-78153 Le Chesnay Cedex France Téléphone : 01 39 63 55 11 - international : +33 1 39 63 55 11 -FAX : 01 39... 58 82\n\nThe text is a French document, and the structured information can be extracted as follows:\n\n* Department/Service: MACS\n* Building/Batiment: 16\n* Telephone Number: 01 39 63 (ligne directe)\n* Fax Number: 01 39 63 58 82\n* Email: TO/DESTINATAIRE LES 3 SV1FS\n* Firm/Raison sociale: RN 2O4\n* Reference/Objectif: augmentatun (xi] des quantit& de CS Dergs tmmaudess Page 1 out / Nombres de pages (y compris celle-ci)\n* Date: AUTOMATIQUE\n* Unité de Recherche: INRIA Rocquencourt\n* Domaine de Voluceau: Domaine de Voluceau -Rocquencourt-B.P.105-78153\n* France: France\n* Telephone: 01 39 63 55 11\n* International: +33 1 39 63 55 11\n* Fax: 01 39 63 58 82\n\nHere is the structured JSON output:\n\n```json\n{\n  \"Department/Service\": \"MACS\",\n  \"Building/Batiment\": \"16\",\n  \"Telephone Number\": \"01 39 63 (ligne directe)\",\n  \"Fax Number\": \"01 39 63 58 82\",\n  \"Email\": \"TO/DESTINATAIRE LES 3 SV1FS\",\n  \"Firm/Raison sociale\": \"RN 2O4\",\n  \"Reference/Objectif\": \"augmentatun (xi] des quantit& de CS Dergs tmmaudess Page 1 out / Nombres de pages (y compris celle-ci)\",\n  \"Date\": \"AUTOMATIQUE\",\n  \"Unité de Recherche\": \"INRIA Rocquencourt\",\n  \"Domaine de Voluceau"
+  "document": "R",
+  "scenario": "INRIA",
+  "writer": "LEFEBVRE AGNES",
+  "sender_person": "LEFEBVRE AGNES",
+  "sender_company": "INRIA",
+  "sender_tel": "01 39 63",
+  "sender_fax": "01 39 63 58 82",
+  "receiver_person": "LES",
+  "receiver_company": "3 SV1FS",
+  "subject": "ugmentatun (xi] des quantit& de CS",
+  "date": "AUTOMATIQUE",
+  "place": "Unité de Recherche INRIA Rocquencourt : Domaine de Voluceau -Rocquencourt-B.P.105-78153 Le Chesnay Cedex France",
+  "box": "Téléphone : 01 39 63 55 11 - international : +33 1 39 63 55 11 -FAX : 01 39 63 53 30 - international : +33 1 39 63 53 30"
 }

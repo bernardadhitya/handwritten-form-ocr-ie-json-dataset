@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nPOUI R0UX Mich&l 5 roe dc la FovEF 6719O STiLL T1: 03.33.14-77.21 rkfirencc clienF: I1DWJW 57 A: CPAM.Caisse Pr maie d'Assurancc 1Yaladic Voucl O27oO TergNiEr Objc5: 1Dcmande d'inForma5ion i nosveao M... (1) 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1"
+  "document": "POUI R0UX Mich&l",
+  "scenario": "5 roe dc la FovEF",
+  "writer": "POUI R0UX Mich&l",
+  "sender_person": "POUI R0UX Mich&l",
+  "sender_company": "CPAM.Caisse Pr maie d'Assurancc 1Yaladic",
+  "sender_tel": "T1: 03.33.14-77.21",
+  "sender_fax": null,
+  "receiver_person": "rkfirencc clienF: I1DWJW 57",
+  "receiver_company": null,
+  "subject": "Objc5: 1Dcmande d'inForma5ion i nosveao",
+  "date": null,
+  "place": "O27oO TergNiEr",
+  "box": null
 }

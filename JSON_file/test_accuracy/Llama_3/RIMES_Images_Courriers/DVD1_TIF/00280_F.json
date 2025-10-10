@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n? A france telecom Télécopie Destinataire Expéditeur MA Ave En din. Flavie JCRRA 4 br Fovoo VELLE LE cHarét ph d An le Pet 77Bo LAQUENE x} Télécopieur Télécopieur = ol £o 1 _U333 = ol ŒQUU EC Date: Lo... (date)... 77Bo LAQUENE x} Télécopieur Télécopier = ol £o 1 _U333 = ol ŒQUU EC\n\n## Step 1: Identify the structured information in the text\nThe text appears to be a piece of fax transmission data, with various fields such as \"Destinataire\", \"Expéditeur\", \"MA Ave En din\", \"Flavie JCRRA\", and \"Date\" that contain structured information.\n\n## Step 2: Extract the structured information\nFrom the text, we can extract the following structured information:\n- \"Destinataire\": Flavie JCRRA\n- \"Expéd"
+  "document": "Télécopie",
+  "scenario": null,
+  "writer": null,
+  "sender_person": "NNA AnvuW",
+  "sender_company": "france telecom",
+  "sender_tel": "cl 66 76 U 333",
+  "sender_fax": "03 29 4 2/f3",
+  "receiver_person": "1bolu d sirt",
+  "receiver_company": "flanio ScRR4",
+  "subject": "Av lo FovOo VELLE lE CHATtL",
+  "date": "10l091o6",
+  "place": null,
+  "box": null
 }

@@ -1,4 +1,31 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nJun-24-E8 11:06am FreseGOODWIN, PROCTER & HOAR errsaaizat Tots POW/I2 Fase GOODWIN, PROCTER & HOAR LLP FAX TRANSMITTAL Exchange Place Boston, MA 02109-2881 pr ha Uf There Are Problems With This Transm...\nFrom: Henry C. Dinger, P.C.\nPhone #: (617)570-1276 Fax #: (617) 523-1231 Total Pages: |. Date: staan 27/7 7 a 2 Message: ~ ‘Fhe ttomanga contanad wo hs conamnaion Ts fcntcd only forthe partons ad confiacnual ic oF the dehigsied..."
+  "date": "Jun-24-69",
+  "from": {
+    "name": "Henry C.Dinger, P.C",
+    "phone_number": "(617)570-1276",
+    "fax_number": "617523-1231"
+  },
+  "fax_number": "6175231231",
+  "transmission_code": "T-250P.01/12F-468",
+  "company": "GOODWIN,PROCTER & HOAR LLP",
+  "fax_transmittal": {
+    "address": "Exchange Place, Boston, MA02109-2881",
+    "contact": {
+      "fax_department_phone": "(617) 570-1498"
+    }
+  },
+  "to": {
+    "name": null,
+    "company": null,
+    "fax_number": null,
+    "phone_number": null,
+    "attached_list": "See Attached List"
+  },
+  "total_pages": 12,
+  "message": "The mformanon contauned in this commuptcation is insended only for the persunal and confidennal usc ot the dosgnated racipieaus atressed.",
+  "additional_info": {
+    "code": "CE",
+    "date_received": "JUN241999",
+    "location": "MAAD"
+  }
 }

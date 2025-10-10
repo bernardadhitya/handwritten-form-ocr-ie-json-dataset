@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nCENTRE NATIONAL LABORATOIRED'INFORMATIQUE POUR LA MECANIQUE DELA RECHERCHE SCIENTIFIQUE ET LES SCIENCES DE L'INGÉNIEUR De : VERA 1?HRAT : 11/1/2006 Date Téléphone : 0169 85 (+33 1 69 85 from outside F...\nAdresse : lue St ViCOLAS 50400 GRAN Vi'E Télécopie : 01 6 0 76 y 3 33 dltmformaton Message : emanol Crmanol l colalson Nombre de pages (page de garde incluse) :\nLIMSI - UPR 3251 - BP 133 - 91403 ORSAY Cedex (France) - TéI. : 01 69 85 80 80 - Fax : 01 69 85 80 88 Bat 508 et 502 bis, Campus d'Orsay, Université Paris Sud - Toile : http://www.limsi.fr/ Toile : http://www.limsi.fr/ Toile : http://www.limsi.fr/ Toile : http://www.limsi.fr/ Toile : http://www.limsi.fr/ Toile : http://www.limsi.fr/ Toile : http://www.limsi.fr/ Toile : http://www.limsi.fr/ Toile : http://www.limsi.fr/ Toile : http://www.limsi.fr/ Toile : http://www.limsi.fr/ Toile : http://www.lims\n```\n\nHere is the text:\n\n```\nCENTRE NATIONAL LABORATOIRED'INFORMATIQUE POUR LA MECANIQUE DELA RECHERCHE SCIENTIFIQUE ET LES SCIENCES DE L'INGÉNIEUR\nDe : VERA 1?HRAT : 11/1/2006\nDate Téléphone : 0169 85 (+33 1 69 85 from outside\nAdresse : lue St ViCOLAS 50400 GRAN Vi'E Télécopie : 01 6 0 76 y 3 33 dltmformaton\nMessage : emanol Crmanol l colalson\nNombre de pages (page de garde incluse) :\nLIMSI - UPR 3251 - BP 133 - 91403 ORSAY Cedex (France) - TéI. : 01 69 85 80 80 - Fax : 01 69 85 80 88\nBat 508 et 502 bis, Campus d'Orsay, Université Paris Sud - Toile : http://www.limsi.fr/\n```\n\nHere is the structured JSON output"
+  "document": "CENTRE NATIONAL LABORATOIRED'INFORMATIQUE POUR LA MECANIQUE DE LA RECHERCHE SCIENTIFIQUE ET LES SCIENCES DE L'INGÉNIEUR",
+  "scenario": null,
+  "writer": "VERA 1?HRAT",
+  "sender_person": "VERA 1?HRAT",
+  "sender_company": "CENTRE NATIONAL LABORATOIRED'INFORMATIQUE POUR LA MECANIQUE DE LA RECHERCHE SCIENTIFIQUE ET LES SCIENCES DE L'INGÉNIEUR",
+  "sender_tel": "+33 1 69 85",
+  "sender_fax": "+33 1 69 85 80 88",
+  "receiver_person": "DESTINATAIRE",
+  "receiver_company": "Organisme",
+  "subject": "Message : emanol Crmanol l colalson",
+  "date": "11/1/2006",
+  "place": "LIMSI,Bt 508,Université Paris-Sud,F-91403 Orsay cedex, FRANCE",
+  "box": "LIMSI - UPR 3251 - BP 133 - 91403 ORSAY Cedex (France) - TéI. : 01 69 85 80 80 - Fax : 01 69 85 80 88"
 }

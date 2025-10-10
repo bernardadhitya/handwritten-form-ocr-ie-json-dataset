@@ -1,4 +1,32 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nINBIFO Institut for biologische Forschung GmbH Contract Research TELEFAX MESSAGE NO, 4 S80 lephone (02203 363-1 ms a Tale (0 2 03)503-982 _ TNIF waa Tor Balogiache Foachung GRON- Fonpea 3 OST Cao RA -...\nTo Dr. A. Schroth Scientist Product Research ADDRESS: Philip Morris Europe Fabriques de Tabac Reunies S.A.\nCH-2003 Neuchatel ‘Switzerland Fax no.: 0041-32-88 6731 NUMBER OF FOLLOWING PAGES: 5 Maleie Hydrazide Determination TA046.04- 36 TT 4084.94 ~44 } Kind regards, Dr. B. Gerstenberg F benlen buy  ¢ 8 “Ta...” 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 "
+  "company": {
+    "name": "INBIFO Institut fur biologische Forschung GmbH",
+    "type": "Contract Research",
+    "address": "Fuggerstr. 3, D-51149 Cologne",
+    "telephone": "(0 22 03) 303-1",
+    "teletax": "(0 22 03) 303-362",
+    "trade_register": "Cologne HRB 367",
+    "general_manager": "Dr. Wolf Reininghaus"
+  },
+  "telefax_message": {
+    "number": "97-07-281:530U7",
+    "date": "27/94",
+    "from": {
+      "name": "Dr.B.Gerstenberg",
+      "department": "Ablaar"
+    },
+    "to": {
+      "name": "Dr.A.Schroth",
+      "position": "Scientist Product Research",
+      "address": "Philip Morris Europe, Fabriques de Tabac Reunies S.A, CH-2003 Neuchatel, Switzerland",
+      "fax_no": "0041-32-888 6731"
+    },
+    "number_of_following_pages": 5,
+    "subject": "Maleic Hydrazide Determination",
+    "reference_numbers": [
+      "046.01-3",
+      "T1039.01-14"
+    ],
+    "kind_regards": "Kind regards, 2505430992, B.Cesk"
+  }
 }

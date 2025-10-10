@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nTELEFAX date : mardi 3 octobre 2006 n°fax : 01 60 76 43 33 société : BAAF Assurances de : MOREAUX David n° tel : +33 (0) 3 87 66 57 60 objet : demande d'informations pour devenir client ref client :\nmessage :\nMadamy Monsseur s>uhaYeras dsp 0 Xe dermctl con&rnsnK BAAF Assuranes, Oe aesireras la marhe c sivr w8 U Pour er Jrnir Jenr.\naire 8 Parrenir rlatm l-ovserrurc Ik Jocmenrs amnre Yeu1ke2 ladiamy T lonsevr m8 snYimenks r&pcrwx U0:s8 nombre de pages, y compris ce formulaire : 1 page\n Yeu1ke2 ladiamy T lonsevr m8 snYimenks r&pcrwx U0:s8\n Yeu1ke2 ladiamy T lonseur m8 snYimenks r&pcrwx U0:s8\n Yeu1ke2 ladiamy T lonsevr m8 snYimenks r&pcrwx U0:s8\n Yeu1ke2 ladiamy T lonsevr m8 snYimenks r&pcrwx U0:s8\n Yeu1ke2 ladiamy T lonsevr m8 snYimenks r&pcrwx U0:s8\n Yeu1ke2 ladiamy T lonsevr m8 snYimenks r&pcrwx U0:s8\n Yeu1ke2 ladiamy T lonsevr m8 snYimenks r&pcrwx U0:s8\n Yeu1ke2 ladiamy T lonsevr m8 snYimenks r&pcrwx U0:s8\n Yeu1ke2 ladiamy T lonsevr m8 sn"
+  "document": "TELEFAX",
+  "scenario": null,
+  "writer": null,
+  "sender_person": "MOREAUX David",
+  "sender_company": "BAAF Assurances",
+  "sender_tel": "+33 (0) 3 87 66 57 60",
+  "sender_fax": "01 60 76 43 33",
+  "receiver_person": "Madamy Monsseur",
+  "receiver_company": null,
+  "subject": "demande d'informations pour devenir client",
+  "date": "mardi 3 octobre 2006",
+  "place": null,
+  "box": null
 }

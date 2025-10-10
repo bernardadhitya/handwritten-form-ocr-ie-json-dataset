@@ -1,4 +1,36 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n(per eH “Or at WO°L2L'T$ 88/0T/ot ‘SeqeTDossy Troostzq “word SaL wna RGATIG wariaans pormbey sy :Ivd aTHS 88/OT/Ol =AIHATTAC caisanoay \"OR WEGHO Gor ‘Tloss-ahl “ON NOLLISTACER SLTL vOdTS SPD TOTES IOU...” (per eH “Or at WO°L2L'T$ 88/0T/ot ‘SeqeTDossy Troostzq “word SaL wna RGATIG wariaans pormbey sy :Ivd aTHS 88/OT/Ol =AIHATTAC caisanoay \"OR WEGHO Gor ‘Tloss-ahl “ON NOLLISTACER SLTL vOdTS SPD TOTES IOU...” (per eH “Or at WO°L2L'T$ 88/0T/ot ‘SeqeTDossy Troostzq “word SaL wna RGATIG wariaans pormbey sy :Ivd aTHS 88/OT/Ol =AIHATTAC caisanoay \"OR WEGHO Gor ‘Tloss-ahl “ON NOLLISTACER SLTL vOdTS SPD TOTES IOU...” (per eH “Or at WO°L2"
+  "address": {
+    "zip": null,
+    "phone": null,
+    "city": null,
+    "state": null
+  },
+  "terms": {
+    "fob": null,
+    "payment": null
+  },
+  "order": {
+    "number": "1810",
+    "date": null,
+    "amount": null,
+    "purchaseOrderNo": null,
+    "shipDate": null,
+    "delivery": null,
+    "requestedDelivery": null
+  },
+  "system": {
+    "name": null,
+    "buyer": null,
+    "requisitionNo": null,
+    "commodityOrService": null,
+    "buyerId": null,
+    "supplier": null
+  },
+  "additionalInfo": {
+    "price": "PRICE",
+    "bidComparison": "BID COMPARISON",
+    "inquiryNo": null,
+    "jobOrderNo": "JOB ORDER NO.",
+    "unknownField": "y%pmog r p:J"
+  }
 }

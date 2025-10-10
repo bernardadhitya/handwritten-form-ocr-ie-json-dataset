@@ -1,11 +1,37 @@
 {
-    "test": {
-        "id": "2000668AY",
-        "brand": "PLLTCigarette Lab",
-        "test_type": "Minimum Fill Ratio Determination",
-        "test_date": "1D",
-        "location": "Whitaker Park 3",
-        "sub-brand": "3187A0",
-        "manufacturing_plant": "A.J. Schindler us. i.W. Ehmann 4 AG. Niten (Brand R&D) LE. Curis S.M. Kelly J.L. Ring/T. R. Young a Pate ig fw pode? Mfg. Plant Director a, “Y R.G. Haberkem ft hyp! Plant Process Engineer D.E. Wilhe..."
-    }
+  "date": "05-Oct-93",
+  "department": "Quality Assurance",
+  "document": "Speclal Test Summary",
+  "lab": "Central Cigarette Lab",
+  "brand": "PL LT 100@Whitaker Park 3",
+  "item_id": "2000668AY",
+  "brand_sub": "3187AO",
+  "test_reason": "Minlmum Fill Ratio Determination",
+  "requested_by": [
+    "R.Burcham",
+    "T.Martin"
+  ],
+  "test_number": "93-169",
+  "qa_lab_services": "Glenn Salmons",
+  "distribution": [
+    "A.J.Schindler",
+    "L.S.Wood",
+    "C.W.Ehmann",
+    "A.G.Niten",
+    "L.E.Curtis",
+    "S.M.Kelly",
+    "J.L.Ring",
+    "T.R.Young"
+  ],
+  "roles": {
+    "brand_r&d": "A.G.Niten",
+    "plant_quality_mgr": "J.L.Ring/T.R.Young",
+    "mfg_plant_director": "R.G.Haberkem",
+    "plant_process_engineer": "D.E.Wilhelm",
+    "plant_shift_director": "C.H.Norman"
+  },
+  "unknown_numbers": [
+    "51274",
+    "6469"
+  ]
 }

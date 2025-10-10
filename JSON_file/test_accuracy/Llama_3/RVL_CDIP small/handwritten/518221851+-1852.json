@@ -1,4 +1,8 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\n518221851 EM rey LN VA7C 3JL\n518221851 EM rey LN VA7C 3JL\n518221851 EM rey LN VA7\n3JL\n518221851 EM rey LN VA7C 3JL\n518221851"
+  "number": "518221851",
+  "type": "EM",
+  "name": "rey",
+  "code": "VA7C",
+  "identifier": null,
+  "value": "3"
 }

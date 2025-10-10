@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nThelliu Fliane 2L nue Pun apdc 0L7t9 wxyuoddod R eKClienti CuuI 62 Le 3 leuua 2oD7 Madame,Worzs'eu Ces chaw s(eHeJ awQcnt commc AxY&ence CH45-12.U0yQnfQwe Oou@<7 ne5ad conlUmE dQnS un mQR que Jou 2 s'... (text)\n\n## Step 1: Identify the structured information in the text\nThe text appears to be a jumbled collection of words and characters, but upon closer inspection, we can identify some structured information. The text seems to be a mix of names, numbers, and letters, but there is no clear indication of what the structured information is or how it is organized.\n\n## Step 2: Look for patterns or formatting\nUpon re-examining the text, we notice that some of the words and numbers are formatted in a way that suggests they may be part of a larger structure. For example, the text contains phrases like \"Thelliu Fliane 2L\" and \"R eKClienti CuuI 62\", which may indicate that the structured information is organized into groups or"
+  "document": "Thelliu Fliane",
+  "scenario": "2L nue Pun apdc",
+  "writer": "Worzs'eu",
+  "sender_person": "Madame",
+  "sender_company": "R eKClienti CuuI 62",
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "date": "Le 3 leuua 2oD7",
+  "place": "ne5ad conlUmE dQnS un mQR que Jou 2",
+  "box": "s' obQaaJrcoh d'asnula cette commam"
 }

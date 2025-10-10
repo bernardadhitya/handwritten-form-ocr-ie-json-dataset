@@ -1,4 +1,15 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nLe 12 Janviu 2oo4 pASCAL PiVre 4 BT ue Tolioh Cuul Su135 MtXY Banqw ola1 lou 03.93.31.36.$4 Au B9RG 660 Utbocin lyst: cKongemest d'adene J udk oe'ormcur 4 4rs r 7olot Cuue 1 S4135 MExY:\nY ou sua qre' de lien uloi 7 ml tilns cyeudot a vote dponFo Qu 03.43.31.3.34 6 10i de paea a/at de 1 henu. 4 4rs r 7olot Cuue 1 S4135 MExY:\nY ou sua qre' de lien uloi 7 ml tilns cyeudot a vote dponFo Qu 03.43.31.3.34 6 10i de paea a/at de 1 henu. 4 4rs r 7olot Cuue 1 S4135 MExY:\nY ou sua qre' de lien uloi 7 ml tilns cyeudot a vote dponFo Qu 03.43.31.3.34 6 10i de paea a/at de 1 henu. 4 "
+  "document": "pASCAL PiVre",
+  "scenario": "BT ue Tolioh Cuul",
+  "writer": "Au B9RG",
+  "sender_person": "pASCAL PiVre",
+  "sender_company": "Au B9RG",
+  "sender_tel": "03.93.31.36.$4",
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "subject": "Su135 MtXY",
+  "date": "12 Janviu 2oo4",
+  "place": "660 Utbocin",
+  "box": "lyst: cKongemest d'adene"
 }

@@ -1,4 +1,25 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nQresey.Ver To become eligible to reccive Dora &Co. simply complete the following survey and send it in.\nP-306081359 1288570 375350 Deborah Nevills 40Burchal AMeo T DBye pck MINE YOUR ELIGIBIUTY exll Attach photocopy of your official identification here.We can accept any one of the following:\n-Driver's License VA ID Card State Medicaid Voucher AARP Membership Card Sporting License State ID 196 one of these states, pltase copy one of the o OLDSTOBACCOCO 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+  "title": "Qresey.Ver",
+  "instructions": "To become eligible to reccive Dora &Co. simply complete the following survey and send it in.",
+  "codes": [
+    "P-306081359",
+    "1288570",
+    "375350"
+  ],
+  "name": "Deborah Nevills",
+  "address": "40Burchal",
+  "city": "AMeo",
+  "state": "T",
+  "additional_info": "DBye pck",
+  "identification_instructions": "Attach photocopy of your official identification here.",
+  "acceptable_identifications": [
+    "Driver's License",
+    "VA ID Card",
+    "State Medicaid Voucher",
+    "AARP Membership Card",
+    "Sporting License",
+    "State ID"
+  ],
+  "note": "MINE YOUR ELIGIBIUTY",
+  "company": "Dora &Co."
 }

@@ -1,3 +1,55 @@
 {
-    "error": "Expecting property name enclosed in double quotes: line 1 column 3 (char 2)"
+  "survey": {
+    "introduction": "HelloI'm of We're conducting an opinion survey today among peopTe between the ages of 18 and 60 about various products used in the household and I'd like to ask you a few questions.",
+    "questions": [
+      {
+        "question": "1. First of all, are you between the ages of 18 and 60?",
+        "answers": [
+          "Yec"
+        ]
+      },
+      {
+        "question": "2. And are you between 18 and 34 years of age, or between 35 and 60 years of age?",
+        "answers": [
+          "18-34"
+        ]
+      },
+      {
+        "question": "3. Do you smoke filter cigarettes?",
+        "answers": [
+          "Filter"
+        ]
+      },
+      {
+        "question": "4. Do you currently smoke at least 3 packs of cigarettes a week?",
+        "answers": [
+          "Yes"
+        ]
+      },
+      {
+        "question": "5. Do you usually smoke the regular/king size cigarettes or the cigarettes that are longer than king size -- that is, the 100 or 120 millimeter size?",
+        "answers": [
+          "Regular/king size"
+        ]
+      },
+      {
+        "question": "6. Is your regular brand of cigarettes menthol or non-menthol?",
+        "answers": [
+          "Non-menthol"
+        ]
+      },
+      {
+        "question": "7. What is your regular brand of cigarettes -- that is, the brand you smoke most Often?",
+        "answers": [
+          "Saratoga Smokers /0o's"
+        ]
+      },
+      {
+        "question": "8. During the past 6 months, have you been interviewed on the subject of cigarettes?",
+        "answers": [
+          "Yes"
+        ]
+      }
+    ]
+  }
 }

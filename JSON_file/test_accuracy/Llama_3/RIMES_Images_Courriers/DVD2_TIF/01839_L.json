@@ -1,4 +1,14 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\namcat.\nqu olimame cemren toaR nb /uneqo\nnqo /uqo /uqo /uqo /uqo /uqo /uqo /uqo /uqo /uqo /uqo /uqo"
+  "document": "amcat",
+  "scenario": "qu",
+  "writer": "olimame",
+  "sender_person": "cemren",
+  "sender_company": null,
+  "sender_tel": null,
+  "sender_fax": null,
+  "receiver_person": null,
+  "receiver_company": null,
+  "date": null,
+  "place": null,
+  "box": null
 }

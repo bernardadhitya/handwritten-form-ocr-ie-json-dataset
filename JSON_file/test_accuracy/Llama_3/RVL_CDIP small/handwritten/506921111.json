@@ -1,4 +1,19 @@
 {
-    "error": "No JSON detected",
-    "raw_output": "Extract structured information from the following text and return only the structured JSON output:\n\nchance ne Box 33006 * Coon Rapids, MN USA :\n. “Classic Quality” Series B,C & D 1947-1955 M The world's most legendary and controversial motorcycl “Black Shadow\" ave,o e oom TITT Z690S 1955-1962  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 "
+  "name": "Bob Chantland",
+  "company": "Classic Quality",
+  "address": {
+    "box": "BOX 33006",
+    "city": "Coon Rapids",
+    "state": "MN",
+    "zip": "55",
+    "country": "USA"
+  },
+  "phone": "(612)786-0089",
+  "message": "STOP",
+  "description": "The world's most legendary and controverslal motorcycl YOUTH!!",
+  "docket": {
+    "management_branch": "DOCKETSMANAGEMENT BRANC!",
+    "number": "506921111",
+    "code": "88P-o/5 5"
+  }
 }
