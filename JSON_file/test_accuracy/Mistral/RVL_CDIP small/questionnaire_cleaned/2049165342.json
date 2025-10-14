@@ -1,0 +1,51 @@
+{
+  "Location": {
+    "Name": "NEW YORK CONFERENCE CENTER",
+    "Address": "240 MADISQN AVENUE., NEW YORK,NY 1O016"
+  },
+  "Respondent": {
+    "Name": "AOBARD",
+    "Phone": "2/8 373-8638"
+  },
+  "Survey": {
+    "AgeRange": "18-24",
+    "Products": [
+      {
+        "Name": "Packaged cookies",
+        "Used": true
+      },
+      {
+        "Name": "Diet or low-calorie soft drinks",
+        "Used": true
+      },
+      {
+        "Name": "Regular soft drinks",
+        "Used": true
+      },
+      {
+        "Name": "Decaffeinated coffee",
+        "Used": true
+      },
+      {
+        "Name": "Regular coffee",
+        "Used": true
+      },
+      {
+        "Name": "Cigarettes",
+        "Used": false
+      },
+      {
+        "Name": "Paper towels",
+        "Used": true
+      },
+      {
+        "Name": "Frozen vegetables",
+        "Used": true
+      },
+      {
+        "Name": "Canned vegetables",
+        "Used": true
+      }
+    ]
+  }
+}

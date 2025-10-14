@@ -1,0 +1,32 @@
+{
+  "title": "NATIONAL CONSENSUS SURVEYS",
+  "address": {
+    "street": "801 Second Avenue",
+    "city": "New York",
+    "state": "10017"
+  },
+  "contact": {
+    "phone": "82-95"
+  },
+  "instructions": "Plesse take a fev minutea to go through the advertisemente in this book.Pleese take as such time with each ad as you eare to. If you ordinarily wear resding glasses, you'll need chem.",
+  "questions": [
+    {
+      "question": "Do you remeaber any ads for cigarettes?",
+      "type": "text",
+      "options": [],
+      "multiple": false
+    },
+    {
+      "question": "What brand(s) do you remeber seeing for cigarettes?",
+      "type": "text",
+      "options": [],
+      "multiple": true
+    },
+    {
+      "question": "Any other brands?",
+      "type": "text",
+      "options": [],
+      "multiple": true
+    }
+  ]
+}

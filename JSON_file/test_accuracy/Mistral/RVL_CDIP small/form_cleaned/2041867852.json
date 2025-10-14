@@ -1,0 +1,42 @@
+{
+  "form_number": "Form #1507",
+  "revision": "PMINC REV4/80",
+  "compd": "COMPD/466A/A142",
+  "purchase_order_number": "P.O.No.",
+  "purchase_requisition": "PURCHASEREQUISTION",
+  "order_from": "ORDER FROM:SPECTRA",
+  "date": "FEB.23,1993",
+  "requisition_number": "Req.No.",
+  "ship_to": "SHIP TO:",
+  "terms": "N30",
+  "fob": "CHATTANOOGA,TN",
+  "items": [
+    {
+      "quantity": 42000,
+      "item": "B&H TANK TOP",
+      "unit_price": 0.05,
+      "total": 2100
+    },
+    {
+      "quantity": null,
+      "item": "STAMPADULTON LABEL",
+      "unit_price": null,
+      "total": null
+    }
+  ],
+  "stamp": null,
+  "purpose": null,
+  "prepared_by": "DEBBIESMITH",
+  "date_required": null,
+  "departmental": null,
+  "deliver_to": "DELIVER TO:See SHIP TO:",
+  "department": null,
+  "approval": {
+    "accounting_code": "CY3-/33330/1-L4E Approval",
+    "accounting_department": null,
+    "executive": null,
+    "approval_number": 3,
+    "approval_date": "2041867852"
+  },
+  "reference_number": null
+}

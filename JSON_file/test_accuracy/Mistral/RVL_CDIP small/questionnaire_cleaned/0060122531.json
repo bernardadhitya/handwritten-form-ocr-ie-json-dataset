@@ -1,0 +1,78 @@
+{
+  "questions": [
+    {
+      "question": "DRAW",
+      "options": [
+        "EXCELLENT",
+        "GOOD",
+        "FAIR",
+        "POOR"
+      ],
+      "answer": "",
+      "type": "rating"
+    },
+    {
+      "question": "TASTE",
+      "options": [
+        "EXCELLENT",
+        "GOOD",
+        "FAIR",
+        "POOR"
+      ],
+      "answer": "",
+      "type": "rating"
+    },
+    {
+      "question": "BURNING QUALITY",
+      "options": [
+        "EXCELLENT",
+        "GOOD",
+        "FAIR",
+        "POOR"
+      ],
+      "answer": "",
+      "type": "rating"
+    },
+    {
+      "question": "MILDNESS",
+      "options": [
+        "EXCELLENT",
+        "GOOD",
+        "FAIR",
+        "POOR"
+      ],
+      "answer": "",
+      "type": "rating"
+    },
+    {
+      "question": "If this cigarette was available, would you smoke it regularly?",
+      "options": [
+        "SHA",
+        "NO"
+      ],
+      "answer": "",
+      "type": "multiple_choice"
+    },
+    {
+      "question": "Why?",
+      "options": [],
+      "answer": "",
+      "type": "open_ended"
+    },
+    {
+      "question": "What brand of cigarettes do you currently smoke?",
+      "options": [],
+      "answer": "",
+      "type": "open_ended"
+    },
+    {
+      "question": "Gender",
+      "options": [
+        "MALE",
+        "FEMALE"
+      ],
+      "answer": "",
+      "type": "multiple_choice"
+    }
+  ]
+}

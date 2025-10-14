@@ -1,0 +1,64 @@
+{
+  "company": "Marketing Information Systems Inc.",
+  "contact": {
+    "name": "Nancy",
+    "address": "100.Sylvan Avenue, Englewood Cliffs 07632",
+    "phone": [
+      "1-800-631-1623",
+      "201-947-6900"
+    ]
+  },
+  "document": {
+    "title": "ART AD/FIVE PACK E.U.TEST",
+    "version": "#830289",
+    "date": "February,1989"
+  },
+  "survey": {
+    "respondent": {
+      "name": null,
+      "address": null,
+      "city_state": null,
+      "zip_code": null,
+      "telephone_number": null,
+      "date": null,
+      "interviewer_signature": null,
+      "regular_brand": null
+    },
+    "questions": [
+      {
+        "question": "How many packs of cigarettes did you smoke?",
+        "type": "number",
+        "options": {
+          "less_than_four_packs": false,
+          "continue_with_q3": false,
+          "skip_to_q5": false
+        }
+      },
+      {
+        "question": "Would you be willing to continue smoking the cigarettes a few more days?",
+        "type": "boolean",
+        "options": {
+          "yes": true,
+          "no": false
+        }
+      },
+      {
+        "question": "How long will it take you to finish smoking cigarettes we gave you?",
+        "type": "number",
+        "options": {
+          "callback_day": null
+        }
+      }
+    ],
+    "callback": {
+      "date": null,
+      "time": null,
+      "from_screener": null,
+      "from_first_callback": [
+        "1"
+      ],
+      "day": null,
+      "note": null
+    }
+  }
+}

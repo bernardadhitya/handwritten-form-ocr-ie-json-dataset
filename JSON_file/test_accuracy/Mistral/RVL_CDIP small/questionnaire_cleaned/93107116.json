@@ -1,0 +1,42 @@
+{
+  "bulletin": "BULLETIN OATA SURVEY",
+  "estimate_number": "PE#389",
+  "plant_operator_market": "MstLLiw/ WcUes - fwrre, PA",
+  "location": {
+    "street_address": "I-8o e/0 Jer. 33 + I09 F/E"
+  },
+  "questions": [
+    {
+      "question": "What is the current Daily Effective Circulation of this unit?",
+      "answer": "45.4"
+    },
+    {
+      "question": "How many lamps are used on this unit? What type and wattage are they?",
+      "answer": {
+        "#lamps": 38,
+        "type/wattage": [
+          {
+            "type": "HALOPHANe",
+            "wattage": "400N MH"
+          }
+        ]
+      }
+    },
+    {
+      "question": "How often is the face of this unit scraped?",
+      "answer": "9.*"
+    },
+    {
+      "question": "Is there any elementary school, junior high school, or high school or childrens playground within 500 ft. of the above location?",
+      "answer": "YES"
+    },
+    {
+      "question": "Is there any elementary school, junior high school, or high school or childrens playground between 500 ft. and 1000 ft. of the above location?",
+      "answer": "YES"
+    }
+  ],
+  "signature": {
+    "plant_manager": "93107116",
+    "signature_date": null
+  }
+}

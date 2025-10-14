@@ -1,0 +1,35 @@
+{
+  "Customer": {
+    "Name": "Mr. James Kapp",
+    "Address": {
+      "Street": [
+        "42 Candlestick Pk"
+      ],
+      "City": [
+        "Newburgh, NY"
+      ],
+      "State": [
+        "12550"
+      ],
+      "Zip": null
+    }
+  },
+  "Company": {
+    "Name": "R.J. Reynolds'Consumer Relations Department",
+    "Department": "Consumer Relations"
+  },
+  "Survey": {
+    "Date": null,
+    "Managers": [
+      {
+        "Name": "Mark Conrad",
+        "Position": "Consumer Satisfaction Research Manager",
+        "Contact": [
+          "518303236",
+          "21009075-95",
+          "371"
+        ]
+      }
+    ]
+  }
+}

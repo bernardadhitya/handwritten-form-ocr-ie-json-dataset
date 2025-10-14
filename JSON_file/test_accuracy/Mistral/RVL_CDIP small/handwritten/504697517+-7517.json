@@ -1,0 +1,66 @@
+{
+  "date": "MONTHLY",
+  "participants": [
+    "Billy_Reeves",
+    "Richard Craver"
+  ],
+  "activities": [
+    {
+      "type": "L-test",
+      "cigarettes": [
+        "Cigarettes"
+      ],
+      "evaluations": [
+        "multidraft",
+        "ITR"
+      ],
+      "tests": [
+        "factory tests",
+        "machine trials"
+      ]
+    },
+    {
+      "type": "Research",
+      "type_of_research": "Fuel ratio efficiency"
+    },
+    {
+      "type": "Training",
+      "participants": [
+        "Billy_Reeves",
+        "Richard Craver"
+      ],
+      "training_type": "Computer"
+    },
+    {
+      "type": "Completion",
+      "paper": "Wattens Tab 39.30O CIGT. Paper"
+    },
+    {
+      "type": "Assessment",
+      "paper_appearance": "The appearance of The. paper. .Seemed. .Obtect!onabLe."
+    }
+  ],
+  "results": {
+    "tar_levels": {
+      "Camel Lights KS": 9.1,
+      "Camel Filter": 20.6
+    },
+    "appearance_of_paper": "-14.712"
+  },
+  "cigarette_details": {
+    "Camel Lights KS": {
+      "tar": 9.1,
+      "nicotine": null,
+      "carbon_monoxide": 0.8,
+      "co/tar": null,
+      "yields": null
+    },
+    "Camel Filter": {
+      "tar": 20.6,
+      "nicotine": null,
+      "carbon_monoxide": 18.2,
+      "co/tar": 1.118,
+      "yields": null
+    }
+  }
+}

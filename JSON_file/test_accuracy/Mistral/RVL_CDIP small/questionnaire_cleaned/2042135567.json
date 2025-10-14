@@ -1,0 +1,66 @@
+{
+  "company": "WINONA MRB,INC.",
+  "project": [
+    "1602-00473/1602-00474"
+  ],
+  "address": "8200 HUMBOLDT AVENUE, NO.1602, Minneapolis, MN 55431",
+  "location": "Arizona, Tampa",
+  "role": "SCREENER",
+  "time_period": {
+    "start": "JUNE-1990",
+    "end": "DECEMBER-1990"
+  },
+  "markets": [
+    "Arizona"
+  ],
+  "introduction": "Hello, I'm calling long distance from WINONA RESEARCH. We are a national opinion research company and we would like to interview SOMEONE (A MAN or A WOMAN) in your household.",
+  "questions": [
+    {
+      "question": "Can you please tell me what county you live in?",
+      "type": "open",
+      "options": [
+        "Acceptable county",
+        "Other"
+      ],
+      "next": "2"
+    },
+    {
+      "question": "What is your age, please?",
+      "type": "numeric",
+      "options": [
+        "Under 18",
+        "18-24",
+        "25-29",
+        "30-34",
+        "35-39",
+        "40-44",
+        "45-49",
+        "50-54",
+        "55-59",
+        "60-64",
+        "65 and over",
+        "Refused"
+      ],
+      "next": "3"
+    },
+    {
+      "question": "Do you smoke cigarettes?",
+      "type": "binary",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "next": "3c"
+    }
+  ],
+  "codes": [
+    "1A",
+    "1213",
+    "35567",
+    "cz",
+    "9/27/90"
+  ],
+  "date": "9/27/90",
+  "initials": null,
+  "version": null
+}

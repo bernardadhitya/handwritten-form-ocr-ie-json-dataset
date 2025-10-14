@@ -1,0 +1,49 @@
+{
+  "title": "Identified Merit with PaperSelectTMInterview",
+  "location": "across from the cafeteria",
+  "code": null,
+  "format": "Employees are solicited to give their feedback",
+  "intent": "To interview any adult smoker who has tried or currently smokes Merit with PaperSelect TM",
+  "introduction": "Hi, My name is [Name], May I have a few minutes? Have you been interviewed the last few days concerning Merit with PaperSelect TM?",
+  "questions": [
+    {
+      "question": "Are you a cigarette smoker?",
+      "options": [
+        {
+          "option": "Yes",
+          "nextQuestion": {
+            "question": "What is the brand you currently smoke?",
+            "conditions": {
+              "brand": "Merit"
+            }
+          }
+        },
+        {
+          "option": "No",
+          "nextQuestion": null
+        }
+      ]
+    },
+    {
+      "question": "Have you ever tried the Merit with PaperSelect TM?",
+      "options": [
+        {
+          "option": "Yes",
+          "nextQuestion": {
+            "question": "Brand Name:",
+            "conditions": {
+              "questionnaire": "Tried Merit with PaperSelect TM questionnaire"
+            }
+          }
+        },
+        {
+          "option": "No",
+          "nextQuestion": null
+        }
+      ]
+    }
+  ],
+  "eligibility": "Only smokers 21 years of age or older are eligible to participate in this research",
+  "contact": null,
+  "requirements": "A valid, non-expired government-issued ID as proof of age and a signed registration form are required"
+}

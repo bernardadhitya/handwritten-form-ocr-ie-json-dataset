@@ -1,0 +1,50 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "BiA.N.C.",
+        "Prenom": null
+      },
+      "Adresse": ".....ue....la..c....",
+      "Tel": null,
+      "Scenario": {
+        "Categorie": "esad....",
+        "Objet": "......a.......as.ams....a.am",
+        "Complement": "....a..:a."
+      },
+      "Reference client eventuelle": null,
+      "Interlocuteur": null,
+      "Code postal": "57 7 00",
+      "Ville": "M.ARSPI.C",
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille"
+        ],
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le scenario traite": [
+          {
+            "Montant": 6,
+            "Description": "J'envoie mon courrier par voie postale a la date du .03/..09./06..."
+          },
+          {
+            "Montant": 2,
+            "Description": "Mon courrier contient une page de garde de fax."
+          },
+          {
+            "Montant": 1,
+            "Description": "Avant mon envoi postal, j'ai télécopié ma contribution le .03/..09../06..."
+          },
+          {
+            "Montant": 1,
+            "Description": "J'ai envoyé par courriel mon courrier numérisé le .03/..09../06..."
+          }
+        ],
+        "Marque et modele du scanner": null,
+        "Format": [],
+        "Resolution des images": null
+      }
+    }
+  }
+}

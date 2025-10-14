@@ -1,0 +1,37 @@
+{
+  "compoundPhysicalParameters": {
+    "rcfiNumber": "B164",
+    "description": "Brownish-gray powder",
+    "ph": {
+      "concentration": "50t",
+      "value": "4.82",
+      "temperature": "25c",
+      "method": "Dr. P. D. Schickedantz, Lorillard Research Center",
+      "accessionNumber": "1662"
+    },
+    "solubility": {
+      "biologicalSolutions": "See sop for Biological Solutions",
+      "oral": {
+        "reference": "BC20-48",
+        "description": "forms a suspension in corn oil at 0.5 g/l.5 ml, Triple dosing is required"
+      },
+      "acuteCardiovascular": {
+        "reference": "BC20-48",
+        "description": "insoluble"
+      }
+    },
+    "storageRecommendations": {
+      "temperature": "8c",
+      "container": "amber glass bottle",
+      "method": "Refrigerate"
+    },
+    "sensitivity": {
+      "heat": "r1IMOSTURE",
+      "moisture": "11 OT"
+    },
+    "safetyComments": {
+      "suggestedHandlingProcedure": "SNATUR",
+      "safetyNumber": "8283"
+    }
+  }
+}

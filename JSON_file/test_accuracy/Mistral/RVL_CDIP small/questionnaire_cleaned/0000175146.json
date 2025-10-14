@@ -1,0 +1,63 @@
+{
+  "company": "RENDSINC",
+  "address": {
+    "street": "4EAST 23rd STREET",
+    "city": "NEWYORK",
+    "state": "NEW YORK",
+    "zip": "10010"
+  },
+  "year": "2014",
+  "project_number": "219-3",
+  "survey": {
+    "introduction": "Noverter1982 Good morngarternooneveniog.ry naze i5 eare conduckng a pubTc cpsinson surveyin tnts mal and I would lke to ask ycu a few short quasttons.",
+    "questions": [
+      {
+        "question": "What is your age?",
+        "options": [
+          {
+            "option": "Under 21",
+            "answer": "No"
+          },
+          {
+            "option": "Between 21-35",
+            "answer": "Yes"
+          },
+          {
+            "option": "Over 35",
+            "answer": "No"
+          }
+        ]
+      },
+      {
+        "question": "Have you done any of the following in the past 2 days?",
+        "options": [
+          {
+            "option": "Drank a glass of wine?",
+            "answer": "Yes"
+          },
+          {
+            "option": "Had a glass of beer?",
+            "answer": null
+          },
+          {
+            "option": "Smoked a cigarette?",
+            "answer": "Yes"
+          }
+        ]
+      },
+      {
+        "question": "About how many cigarettes do you smoke in an average day?",
+        "options": [
+          {
+            "option": "Less than half a pack",
+            "answer": null
+          },
+          {
+            "option": "A half pack or more",
+            "answer": "22"
+          }
+        ]
+      }
+    ]
+  }
+}

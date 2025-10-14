@@ -1,0 +1,29 @@
+{
+  "WISCONSIN MARKET MONITOR": {
+    "Date": "August,1997",
+    "Questions": {
+      "Unaided Brand Awareness": {
+        "Question": "When you think of cigarettes, what brands come to mind? What others can you think of? (Ask until unproductive)",
+        "Follow-up": null
+      },
+      "Seen Advertised Brands": {
+        "Question": "Which cigarette brands have you seen advertised during the past four weeks, either in a newspaper or magazine, on a billboard, or on a display in a store? What others? (Ask until unproductive)",
+        "Follow-up": null
+      },
+      "Promotions": {
+        "Question": "Buy one, get one free offers. Free samples, free merchandise, instant rebate stickers that you tear off packs or cartons at the store, or money-off coupons in magazines. Newspapers or the mail. In the past four weeks, which cigarette brands have you seen promoted? What others? (Ask until unproductive)",
+        "Follow-up": null
+      },
+      "Received Promotional Materials": {
+        "Question": "Have you, or anyone in your household, received any advertising or promotional materials for cigarettes through the mail, or not? Ask Q3-D if Yes at Q3-C",
+        "Follow-up": null
+      },
+      "Featured Brands in Received Materials": {
+        "Question": null,
+        "Probes": [
+          "IS THAT AGPC PRODUCT OR A NON-GPC PRODUCT?"
+        ]
+      }
+    }
+  }
+}

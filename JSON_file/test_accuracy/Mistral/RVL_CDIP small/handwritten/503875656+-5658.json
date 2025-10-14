@@ -1,0 +1,34 @@
+{
+  "title": "Factors Influencing Filtration Efficiency: A Focus on Smoke",
+  "authors": [
+    "ecyD.PHs"
+  ],
+  "summary": "This text discusses several factors that influence filtration efficiency, specifically focusing on smoke. The physical processes of smoke filtration primarily occur through three mechanisms: direct interception, Brownian diffusion, and inertial impaction.",
+  "mechanisms": [
+    {
+      "mechanism": "Direct Interception",
+      "percentage": 3
+    },
+    {
+      "mechanism": "Brownian Diffusion",
+      "percentage": 66
+    },
+    {
+      "mechanism": "Inertial Impaction",
+      "percentage": 31
+    }
+  ],
+  "results": [
+    {
+      "smoke_velocity": null,
+      "fiber_orientation": "play a role in filtration efficiency",
+      "air_dilution": {
+        "cluno": "increases filtration efficiency by lowering smoke velocity"
+      },
+      "dpf": {
+        "low_dpf_filters": "have high filter efficiency due to an inverse relationship with the number of fibers"
+      }
+    }
+  ],
+  "conclusions": []
+}

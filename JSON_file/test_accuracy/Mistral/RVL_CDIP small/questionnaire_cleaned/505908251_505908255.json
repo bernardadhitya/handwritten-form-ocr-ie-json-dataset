@@ -1,0 +1,53 @@
+{
+  "title": "WINTON KNC TOP LAGUER. CFIL.",
+  "sections": [
+    {
+      "question": "Respondent available?",
+      "type": "yesno",
+      "answers": [
+        {
+          "text": "Respondent available",
+          "value": true
+        },
+        {
+          "text": "Respondent not available",
+          "value": false
+        }
+      ],
+      "questions": [
+        {
+          "question": "Why is respondent unable/unwilling to complete interview?",
+          "type": "open",
+          "instruction": "SKIPTO Q.999"
+        },
+        {
+          "question": "Did you have a chance to try some of each of the two packs of test cigarettes?",
+          "type": "yesno",
+          "instruction": "CALLBACK"
+        },
+        {
+          "question": "Which cigarettes did you try first?",
+          "type": "multiplechoice",
+          "options": [
+            {
+              "text": "Spee. (5C590 Instruction Jetter)",
+              "value": "3251"
+            },
+            {
+              "text": "Label on the cigarettes (Fespondent is not using instruction Jetter)",
+              "value": "Spee. (5C590 Instruction Jetter)"
+            },
+            {
+              "text": "Both the same",
+              "value": "FKE BOE SAMODOTATQ.3SIPTO Q.5"
+            }
+          ]
+        },
+        {
+          "question": "At which were your reasons for keeping Shock First/smoking Second?",
+          "type": "open"
+        }
+      ]
+    }
+  ]
+}

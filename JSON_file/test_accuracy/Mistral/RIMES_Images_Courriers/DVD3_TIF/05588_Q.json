@@ -1,0 +1,37 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "renc",
+        "Adresse": null,
+        "Code postal": "8.33.961",
+        "Ville": null
+      },
+      "Categorie": null,
+      "Objet": null,
+      "Complement": null,
+      "Reference client eventuelle": null,
+      "Adresse": null,
+      "Code postal": "446OO",
+      "Ville": "Ville Sauve",
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille",
+          "plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les elements de_votre contribution pour le scenario traite": {
+          "(6€) J'envoie mon courrier par voie postale a la date du Almai.": null,
+          "(+2€) Mon courrier contient une page de garde de fax": true,
+          "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le": true,
+          "(+1€) J'ai envoye par courriel mon courrier numerise le": true
+        },
+        "Marque et modele du scanner": "L",
+        "Resolution des images": "ddd/!dp"
+      }
+    }
+  }
+}

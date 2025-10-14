@@ -1,0 +1,32 @@
+{
+  "Address": {
+    "Street": [
+      "Rue St. Pierre",
+      "Rue de Colais"
+    ],
+    "Number": [
+      "42",
+      "3"
+    ]
+  },
+  "Client": {
+    "Name": null,
+    "Title": [
+      "Mme",
+      "Monsieur"
+    ],
+    "Request": "demande des achats de 150 CDs de Potrrk Samus, modificaton en une Voudyais 2007.",
+    "Purchase": {
+      "Item": "CDs de Potrrk Samus",
+      "Quantity": 150
+    }
+  },
+  "Modification": {
+    "Request": "une demande des achats de 150 CDs de Potrrk Samus, modificaton en une Voudyais 2007.",
+    "Date": "13 mars 2007",
+    "Item": "CDs de Potrrk Samus",
+    "Quantity": 150
+  },
+  "Response": "je vous presente m<s cle otre disting ue'es",
+  "Salutation": "Salutations 107 1037"
+}

@@ -1,0 +1,43 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "BEZA.RD",
+        "Adresse": {
+          "Code postal": "35254",
+          "Ville": "S...OX"
+        }
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Sitc6": {
+          "Objet": "asom.mt.....o.n...",
+          "Complement": null,
+          "Reference client eventuelle": null,
+          "Adresse": {
+            "Code postal": "Svile.....C"
+          },
+          "Redaction": {
+            "Type de stylo (noir) utilise": [
+              "bille"
+            ],
+            "Temps passe a traiter le scenario": null
+          },
+          "Contribution": {
+            "Cocher les_elements_de_votre contribution pour le_scenario traite": [
+              {
+                "Montant": "+2€",
+                "Description": "Mon courrier contient une page de garde de fax."
+              },
+              {
+                "Montant": "+1€",
+                "Description": "Avant mon envoi postal, j'ai télécopié ma contribution le"
+              }
+            ],
+            "Marque et modele du scanner": ".C.PSoN.."
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "renom",
+        "Adresse": "5753o ville...aa.&me?",
+        "Code postal": null,
+        "Ville": null,
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": null,
+        "Complement": "KpRRN9F",
+        "Reference client eventuelle": null,
+        "Interlocuteur": {
+          "Naf": null,
+          "Adresse": "vile......X.E.",
+          "Code postal": "1623o"
+        },
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+          ],
+          "Temps passe a traiter le scenario": "0.10... minutes"
+        },
+        "Contribution": {
+          "Cocher les elements de votre contribution pour le_scenario traite": [
+            "6€",
+            "+2€",
+            "+1€"
+          ]
+        }
+      }
+    }
+  }
+}

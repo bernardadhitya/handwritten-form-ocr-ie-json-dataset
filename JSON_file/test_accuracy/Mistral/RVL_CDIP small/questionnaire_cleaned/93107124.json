@@ -1,0 +1,20 @@
+{
+  "bulletinDataSurvey": {
+    "estimateNumber": "PEE AQ/1",
+    "plantOperatorMarket": "letTie, Rp.J + I @ Interolox",
+    "location": {
+      "dailyEffectiveCirculation": "48",
+      "# lamps": 1,
+      "lampTypeWattage": [
+        "type/wattage400 wt"
+      ],
+      "scrapingFrequency": "# times per year 'Aseede'",
+      "schoolOrPlaygroundNearby": {
+        "within500ft": true,
+        "between500ftAnd1000ft": true
+      }
+    },
+    "questions": [],
+    "plantManagerSignatureDate": "gnature/Date"
+  }
+}

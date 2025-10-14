@@ -1,0 +1,66 @@
+{
+  "areaCodeAndPhoneNumber": "713-481-185",
+  "company": "Kapuler Marketing Research",
+  "projectNumber": "88-2932",
+  "date": "March 21,1988",
+  "interview": {
+    "name": null,
+    "results": {
+      "CA": 1234,
+      "state": "WA",
+      "duration": "5 week",
+      "wave": "1",
+      "sex": "Male"
+    }
+  },
+  "brandsRated": [
+    {
+      "brand": "Virginie Slims",
+      "rating": 210
+    },
+    {
+      "brand": "Penal",
+      "rating": 6
+    },
+    {
+      "brand": "Capri",
+      "rating": 7
+    },
+    {
+      "brand": "Benson and Hedges",
+      "rating": null
+    }
+  ],
+  "survey": {
+    "introduction": "We are conducting a national study about consumers' opinions of same products you may use.",
+    "questions": [
+      {
+        "question": "How many people, 21 years of age or older, in your household...",
+        "options": [
+          {
+            "question": "Drink diet beverages?",
+            "answer": null
+          },
+          {
+            "question": "Smoke cigarettes?",
+            "answer": null
+          },
+          {
+            "question": "Eat Mexican food",
+            "answer": null
+          }
+        ]
+      },
+      {
+        "question": "Do you or does anyone in your immediate family work for...",
+        "options": [
+          {
+            "question": "a copany",
+            "answer": "466108074"
+          }
+        ]
+      }
+    ]
+  },
+  "companyCode": null
+}

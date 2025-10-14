@@ -1,0 +1,80 @@
+{
+  "header": {
+    "code": "AHFMAKKETINCKESEAKCH",
+    "id": "2165",
+    "title": "NATIONAL CONSENSUS SURVEYS",
+    "address": {
+      "street": "801 Second Avenue",
+      "suite": "#25077W",
+      "city": "New York",
+      "state": "New York",
+      "zip": "10017"
+    },
+    "date": "August,1977"
+  },
+  "questionnaire": {
+    "title": "SCKEENING CUESTIONNAIRE",
+    "sections": [
+      {
+        "title": "CIGAKETTE PORTFOL10",
+        "questions": [
+          {
+            "text": "Have you, yourself, participated in a market research survey in the last three months or so?",
+            "type": "boolean",
+            "answers": [
+              {
+                "text": "NO"
+              }
+            ]
+          },
+          {
+            "text": "Please tell me which letter on this card includes your age.",
+            "type": "age",
+            "answers": [
+              {
+                "text": "Under 21",
+                "values": [
+                  "Under 21"
+                ]
+              },
+              {
+                "text": "7",
+                "values": [
+                  "7"
+                ]
+              },
+              {
+                "text": "25",
+                "values": [
+                  "25"
+                ]
+              },
+              {
+                "text": "29",
+                "values": [
+                  "29"
+                ]
+              },
+              {
+                "text": "to",
+                "values": [
+                  "39",
+                  "44",
+                  "45",
+                  "49",
+                  "55"
+                ]
+              },
+              {
+                "text": "I.",
+                "values": [
+                  "Over 55"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

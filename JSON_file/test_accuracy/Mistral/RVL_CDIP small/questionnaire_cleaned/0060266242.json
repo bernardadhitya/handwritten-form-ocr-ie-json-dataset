@@ -1,0 +1,37 @@
+{
+  "company": "On-site TestirigInc",
+  "study_number": "40105",
+  "address": "42nd tree",
+  "date": "January1974",
+  "study_type": "CIGARETTE STUDY",
+  "interview": {
+    "main_questionnaire": {
+      "show_concept": "SHOW CONCET A3",
+      "question_1": {
+        "text": "What do you believe is the main point of this test ad?",
+        "probe": "5"
+      },
+      "question_2": {
+        "text": "What is the main point that the manufacturer is crying to communicate? ProeE)",
+        "options": {
+          "A": "Very favorable",
+          "B": "Somewhat favorable",
+          "C": "Somewhat unfavorable",
+          "D": "Very unfavorable"
+        }
+      },
+      "question_3": {
+        "text": "REMOYE CONCEPTA3",
+        "probe": null
+      },
+      "question_4": {
+        "text": "Why do you feel that way?PROBE",
+        "probe": "16"
+      },
+      "question_5": {
+        "text": "What,if anything,do you specifically like about this new product? PRoBE",
+        "probe": null
+      }
+    }
+  }
+}

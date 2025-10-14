@@ -1,0 +1,57 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "S.T.E.I.N.",
+        "Prenom": "....",
+        "Adresse": ".....de........",
+        "Code postal": "032523870&",
+        "Ville": "BAR.7.",
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": "caté gore",
+        "CEmmaade": {
+          "Objet_Lemaadg": "s.w.....e.....e..e...w.",
+          "Complement": "ZkkaHgG",
+          "Reference client eventuelle": "Interocuteu ..ne.s.oe...le....myot",
+          "Adresse": null,
+          "Code postal": null,
+          "Ville": null
+        },
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille"
+          ],
+          "Temps passe a traiter le scenario": null
+        },
+        "Contribution": {
+          "Cocher les_elements de_votre contribution pour le_scenario traite": [
+            {
+              "Courrier par voie postale à la date du .": 6
+            },
+            {
+              "Mon courrier contient une page de garde de fax.": 2
+            },
+            {
+              "Avant mon envoi postal, j'ai télécopié ma contribution le": 1
+            },
+            {
+              "J'ai envoyé par courriel mon courrier numérisé le": 1
+            }
+          ],
+          "Marque et modele du scanner": {
+            "Format": [
+              "PNG",
+              "GIF",
+              "TIFF"
+            ],
+            "Resolution des images": [
+              "dpi/ppp"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

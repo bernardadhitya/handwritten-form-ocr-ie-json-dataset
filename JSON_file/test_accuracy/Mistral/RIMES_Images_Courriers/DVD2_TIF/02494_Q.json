@@ -1,0 +1,55 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "....o.C.t..",
+        "Prenom": "Q..o..",
+        "Adresse": ".............",
+        "Code postal": "S hS go vill ...S..",
+        "Ville": "A..M..o.....",
+        "Categorie": "st...",
+        "Objet": "oet....a.........m.......s...o....",
+        "Complement": "ab.kah.....",
+        "Reference client eventuelle": null,
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+          ],
+          "Temps passe a traiter le scenario": null
+        },
+        "Contribution": {
+          "Cocher les elements de_votre contribution pour le scenario traite": [
+            {
+              "I": 6,
+              "J'envoie mon courrier par voie postale a la date du": "............"
+            },
+            {
+              "I": 6,
+              "J'envoie mon courrier par voie postale a la date du": null,
+              "+2€": true,
+              "Mon courrier contient une page de garde de fax.": true
+            },
+            {
+              "I": 6,
+              "J'ai télécopié ma contribution le": "............",
+              "+1$": true
+            },
+            {
+              "I": null,
+              "J'ai envoyé par courriel mon courrier numérisé le": "............"
+            }
+          ],
+          "Marque et modele du scanner": "....E.Sa.n....f.y.ws.....X....",
+          "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+          ],
+          "Resolution des images": "..3... dpi/ppp"
+        }
+      }
+    }
+  }
+}

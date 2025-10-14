@@ -1,0 +1,44 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "Vallet",
+        "Prenom": "Yves",
+        "Adresse": "9. Pi'ere..Demathieu",
+        "Code postal": "551",
+        "Ville": "Vdun"
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": null,
+        "Complement": "ne...wtr...hai'to.tion",
+        "Gende": null,
+        "Reference client eventuelle": {
+          "Adresse": "A.REN....Cu.E."
+        }
+      },
+      "Interlocuteur": {
+        "NNA ASsURANCES": {
+          "Adresse": null,
+          "Code postal": null,
+          "Ville": null
+        }
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille plume feutre"
+        ],
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les elements_de_votre contribution pour le_scenario traite": {
+          "(+2€) Mon courrier contient une page de garde de fax": true,
+          "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le": null
+        },
+        "Marque et modele du scanner": null,
+        "Format": [],
+        "Resolution des images": null
+      }
+    }
+  }
+}

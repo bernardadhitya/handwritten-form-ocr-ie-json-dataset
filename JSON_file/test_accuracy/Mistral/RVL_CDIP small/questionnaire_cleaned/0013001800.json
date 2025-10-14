@@ -1,0 +1,36 @@
+{
+  "Card": "-2",
+  "Questionnaire": null,
+  "Number": {
+    "Cigarettes": 2,
+    "Pack": 20
+  },
+  "Cigarettes": {
+    "Numbered": [
+      "DHCO-O",
+      "Dap-3"
+    ],
+    "Pack": null
+  },
+  "Terminate": {
+    "Record": [
+      "CALL BACK QUESTIONNAIRE",
+      "Za"
+    ],
+    "If": null
+  },
+  "Preference": {
+    "Cigarette": null,
+    "Comparison": "(BRAND FROM SCREENER)",
+    "Brand": "58"
+  },
+  "Opinions": {
+    "About": "cigarette characteristics",
+    "Characteristics": "strength",
+    "Comparison": "(BRAND FROM SCREENER)"
+  },
+  "Choice": {
+    "Cigarette": "cigarette#",
+    "Brand": "(BRAND FROM SCREENER)"
+  }
+}

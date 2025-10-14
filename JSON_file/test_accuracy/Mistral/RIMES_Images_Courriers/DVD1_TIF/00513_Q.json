@@ -1,0 +1,47 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "N....",
+        "Prenom": "ka.uy",
+        "Adresse": ".............G...t......",
+        "Code postal": "63o",
+        "Ville": "SAN"
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": ".Cetio...o....s...",
+        "Complement": "..u...ae...u...us...daca...d...au.",
+        "Reference client eventuelle": "FrocHgs",
+        "Interlocuteur": "N...An..aucs",
+        "Adresse": "......o.....",
+        "Code postal": "[OtSO]ville.A.o.Ct",
+        "Ville": null
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille",
+          "plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": null,
+        "Contribution": [
+          {
+            "Cocher les elements_de_votre_ contribution pour le_scenario traite _": {
+              "6": true,
+              "+2_": false,
+              "+1€": false
+            }
+          },
+          {
+            "6": false,
+            "+2_": false,
+            "+1€": false
+          }
+        ],
+        "Marque et modele du scanner": null,
+        "Resolution des images": ".. dpi/ppp"
+      }
+    }
+  }
+}

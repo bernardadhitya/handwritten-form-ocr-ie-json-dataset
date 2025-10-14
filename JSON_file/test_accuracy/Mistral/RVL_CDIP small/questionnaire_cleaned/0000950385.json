@@ -1,0 +1,49 @@
+{
+  "UG": "89",
+  "ROM_CONSUMER_RESEARCH": "PESEARCH",
+  "PAGE": "004",
+  "NAME": "DAUO",
+  "TRIAL": {
+    "TIME_PRIOR_TO_SMOKING": {
+      "AROMA": {
+        "TOO_MUCH": "9",
+        "UNPLEASANT": "UNPLEASANT"
+      },
+      "MOISTURE_LEVEL": {
+        "TOO_DRY": "TOO",
+        "TOO_MOIST": null
+      },
+      "PACKING": "ERSY"
+    },
+    "DURING_SMOKING": {
+      "LIGHT": "LITTLE",
+      "TASTE_FLAVOR": {
+        "TOO_MUCH": "MUCH",
+        "UNPLEASANT": "UNPLEASANT"
+      },
+      "MOUTHFEEL": {
+        "TOO_DRY": "TOO",
+        "ERSY": "ERSY"
+      }
+    },
+    "AFTER_SMOKING": {
+      "AFTERTASTE": {
+        "LITTLE": "LITTLE",
+        "JUST_RIGHT": null,
+        "TOO_MUCH": null,
+        "UNPLEASANT": "UNPLEASANT"
+      },
+      "LIKABILITY": {
+        "DISLIKE": null,
+        "LIKE": [
+          "LIKE",
+          "LIKE"
+        ],
+        "SAME": "SAME",
+        "OWN_BRAND": null,
+        "MORE": "MORE"
+      }
+    }
+  },
+  "ID": "570232781"
+}

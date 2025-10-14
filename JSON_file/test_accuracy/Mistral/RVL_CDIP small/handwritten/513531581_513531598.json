@@ -1,0 +1,36 @@
+{
+  "document": {
+    "id": null,
+    "company": "R.J.REYNOLDS TOBACCO COMPANY",
+    "department": "ENGINEERING DEPARTMENT",
+    "prepared_by": "MEH",
+    "date": "1992",
+    "subject": null,
+    "study_no": "Fom2872/70",
+    "checked_by": null,
+    "estimation": "Maximum",
+    "project_no": null,
+    "work_order_no": null,
+    "summary": {
+      "data_used": "PAGE NOS. 5 THROUGH 8",
+      "total_tobacco_processed": "18T153 L8S.",
+      "total_nh3_applied": "96 LBS.",
+      "total_operating_time": "8.75 Hrs.",
+      "total_downtime": "0.02HRS.",
+      "net_production_time": "8.3 Hrs.",
+      "check_net_production_time": "23155 LBS.Tob./HR.",
+      "nh3_application_rate": {
+        "value": "961LBSNH3.",
+        "unit": "L8S.NH3/HR."
+      },
+      "stack_test": {
+        "date": "5-8-92",
+        "performed_by": "ENTROPY ENVRONMENTALTSTS",
+        "results": {
+          "nh3_entered": "51353 LBS.NH3",
+          "nh3_applied": "691 LBS.NH3/HR."
+        }
+      }
+    }
+  }
+}

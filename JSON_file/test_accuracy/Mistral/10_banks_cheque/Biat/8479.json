@@ -1,0 +1,25 @@
+{
+  "transaction": {
+    "type": "VERSEMENT",
+    "bank": "VERSEMENTESPECES",
+    "account_number": "907043",
+    "transaction_id": "BIAT-907043",
+    "customer": {
+      "name": "Maria Kalb",
+      "additional_info": "Ntrucht"
+    },
+    "agent": {
+      "name": "Chelsea Watson",
+      "code": "R.1.B."
+    },
+    "amount": {
+      "written": "Six-HundredandThirtwMine",
+      "numeric": 639
+    },
+    "total": 639,
+    "date": "06/05122",
+    "signature": "Caisse Cocher ctvisa dela iAT",
+    "branch": null,
+    "verification": null
+  }
+}

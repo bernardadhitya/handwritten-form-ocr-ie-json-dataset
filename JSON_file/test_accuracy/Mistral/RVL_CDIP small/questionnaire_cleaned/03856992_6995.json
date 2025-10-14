@@ -1,0 +1,51 @@
+{
+  "company": "SE Surveys, Inc.",
+  "location": {
+    "city": "New York",
+    "state": "New York"
+  },
+  "codes": {
+    "5301": "861A"
+  },
+  "survey": {
+    "title": "C1GARETTE PRODUCT TEST SCREENING QUESTIONNAIRE",
+    "respondent": {
+      "name": null,
+      "telephone_area_code": null
+    },
+    "interviewer": null,
+    "address": {
+      "street": null,
+      "city": "New York",
+      "state": "New York",
+      "zip_code": null
+    },
+    "interview_time": {
+      "started": null,
+      "ended": null
+    }
+  },
+  "questions": [
+    {
+      "question": "Is there anyone in the household who smokes?",
+      "answer": "Yes"
+    },
+    {
+      "question": "How often do you or does any member of your household smoke cigarettes?",
+      "answer": "True"
+    },
+    {
+      "question": "Do you or does any member of your household work for any company which manufactures, distributes, or promotes consumer products?",
+      "answer": "Yes"
+    },
+    {
+      "question": "What product(s) does the company manufacture, distribute, or promote?",
+      "answer": null
+    }
+  ],
+  "notes": {
+    "if_tobacco_mentioned": "Yes",
+    "related_industry": "To be determined"
+  },
+  "reference_number": "03856992"
+}

@@ -1,0 +1,55 @@
+{
+  "organization": null,
+  "location": null,
+  "documents": [
+    {
+      "type": "DOCUMENT CONTROL PROJECT",
+      "description": "PHOTOCOPYING VARIANCE SHEET"
+    }
+  ],
+  "notations": [
+    {
+      "type": "SAME_SEQUENCE",
+      "status": "YES"
+    },
+    {
+      "type": "DUPLICATE_DOCUMENTS",
+      "status": "YES"
+    },
+    {
+      "type": "MISSING_PAGE_NUMBERS",
+      "status": "YES"
+    },
+    {
+      "type": "POOR_QUALITY_ORIGINAL",
+      "status": "YES"
+    },
+    {
+      "type": "OVERLAY_ITEM_DAMAGE",
+      "status": "YES"
+    },
+    {
+      "type": "NO_DOCUMENTS_FOUND",
+      "status": "NO"
+    }
+  ],
+  "details": {
+    "original": "PHOTOCOPYING VARIANCE SHEET",
+    "missing_pages": [
+      ""
+    ],
+    "quality": "POOR",
+    "overlay": "ITEM COULD NOT BE REMOVED"
+  },
+  "additional_items": [
+    "FILE FOLDER",
+    "REDROPE EXPANDASLE FILE",
+    "HANGING FILE",
+    "ENVELOPE",
+    "OTHERSPECIFY"
+  ],
+  "reproduction_details": {
+    "color": null,
+    "purpose": null
+  }
+}

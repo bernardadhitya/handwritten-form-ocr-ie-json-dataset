@@ -1,0 +1,36 @@
+{
+  "survey": {
+    "id": "SAdosKy",
+    "date": "Wed 9",
+    "user_id": null,
+    "reference_number": "031486/1",
+    "gender": "FEMALE",
+    "role": "SCREENER",
+    "product": "Menthol Cigarettes",
+    "introduction": "Hello,I'm We are conducting a brief survey on cigarettes and would like to include your opinions.",
+    "questions": [
+      {
+        "question": "in the sale, manufacture or distribution of tobacco products,. or market research, or advertising?",
+        "answer": "yes"
+      },
+      {
+        "question": "Is there a female living in your home between the ages of 18 and 34 who smokes at least 10 cigarettes per day?",
+        "answer": "Yes"
+      },
+      {
+        "question": "May I speak to that person?",
+        "answer": null,
+        "action": "SAVE SCREENER. GET NAME AND TELEPHONE NUMBER."
+      },
+      {
+        "question": "Is your regular brand of cigarettes a filter or non-filter cigarette?",
+        "answer": "Filter"
+      },
+      {
+        "question": "Is your regular brand of cigarettes menthol or non-menthol?",
+        "answer": "Menthol"
+      }
+    ],
+    "contact_number": null
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "ame",
+        "Prenom": null,
+        "Adresse": "dresse............ame.",
+        "Code postal": "s4 5o",
+        "Ville": "vill ...huGny....Godinange",
+        "Tel": null
+      },
+      "Categorie": null,
+      "Objet": "Scénario",
+      "Complement": "ES92",
+      "Type de stylo (noir) utilise": "bille plume feutre",
+      "Temps passe a traiter le scenario": "..AQ.... minutes",
+      "Contribution": {
+        "Cocher les elements de_votre contribution pour le scenario_traite": [
+          {
+            "Element": "(6e)",
+            "Contribution": "J'envoie mon courier par voie postale à la date du ......"
+          },
+          {
+            "Element": "+(2£)",
+            "Contribution": "Mon courrier contient une page de garde de fax."
+          },
+          {
+            "Element": "+(1€)",
+            "Contribution": "Avant mon envoi postal, j'ai télécopié ma contribution le"
+          },
+          {
+            "Element": "+(1€)",
+            "Contribution": "J'ai envoyé par courriel mon courrier numérisé le"
+          }
+        ],
+        "Marque et modele du scanner": "L"
+      }
+    }
+  }
+}

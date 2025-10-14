@@ -1,0 +1,56 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "Modi.cato.e.contrat.comwauc",
+        "Prenom": "ian.",
+        "Adresse": "..",
+        "Code postal": "3 3 4ya",
+        "Ville": "RoGNAC",
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": "Modi.cato...e..contrat..comwauc",
+        "d_Centat": "omman.......wo...a....kan.e...ek.",
+        "Objet": "..o.u.........",
+        "Complement": "aucu.",
+        "Interlocuteur": {
+          "Adresse": null,
+          "Code postal": null,
+          "Ville": null
+        },
+        "Type de stylo utilise": [
+          "l bille",
+          "plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": null,
+        "Contribution": [
+          {
+            "Element": "J'envoie mon courrier par voie postale à la date du",
+            "Coque": "(6€)"
+          },
+          {
+            "Element": "Mon courrier contient une page de garde de fax.",
+            "Coque": "+2€"
+          },
+          {
+            "Element": "Avant mon envoi postal, j'ai télécopié ma contribution le",
+            "Coque": "+1€"
+          },
+          {
+            "Element": "J'ai envoyé par courriel mon courrier numérisé le",
+            "Coque": "+1€"
+          }
+        ],
+        "Marque et modele du scanner": null,
+        "Format": [
+          "PNG",
+          "GIFIX",
+          "TIFF"
+        ],
+        "Resolution des images": null
+      }
+    }
+  }
+}

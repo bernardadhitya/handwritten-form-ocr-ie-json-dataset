@@ -1,0 +1,49 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Mlb": "QwLB",
+      "Nom": "e.....amea......ge.o.",
+      "Prenom": null,
+      "Adresse": null,
+      "Code postal": "524080723",
+      "Ville": "ville...N..."
+    },
+    "Scenario": {
+      "Categorie": "..o.m..a.....at.....o....i..e",
+      "Llommande": "Objet ....",
+      "Reference client eventuelle": ".a...gean.....A.moce",
+      "Adresse": "code postal 9dvile......CE",
+      "Malce": null,
+      "Redaction": {
+        "Type de stylo": [
+          "bille plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": [
+        {
+          "Element": "I (6e J'envoie mon courrier par voie postale a la date du .......O......",
+          "Coque": true,
+          "Prix": "+2€"
+        },
+        {
+          "Element": "(+1€) Mon courrier contient une page de garde de fax.",
+          "Coque": true,
+          "Prix": "+1€"
+        },
+        {
+          "Element": "(+1€) J'ai télécopié ma contribution le",
+          "Coque": false,
+          "Prix": null
+        },
+        {
+          "Element": "(+1€) J'ai envoyé par courriel mon courrier numérisé le",
+          "Coque": false,
+          "Prix": null
+        }
+      ],
+      "Marque et modele du scanner": null
+    }
+  }
+}

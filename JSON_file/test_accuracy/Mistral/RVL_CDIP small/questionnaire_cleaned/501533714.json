@@ -1,0 +1,40 @@
+{
+  "TR4": "TERY",
+  "EDITORS": "QMETE",
+  "State code": "578210",
+  "County code": null,
+  "Area code": "141516",
+  "Telephone number": "12131415162223242526272829",
+  "Date": null,
+  "KAVE": {
+    "KAVE I": {
+      "Circle": "1/27-2/2"
+    },
+    "KAVE II": {
+      "Circle": "2/10-2/16"
+    },
+    "KAVE III": {
+      "Circle": "2/24-3/2"
+    },
+    "KAVE_WLQQE BOX": null
+  },
+  "JJoSSwHSEHGTSN SEXesMrL": "MERIT 100S/SNEMLOWS LIGHTSVTAGE LONSS/IORAL",
+  "JNIRODKTICEX EIGIBILLIY": {
+    "Question": "Have you smoked any cigarettes in the past seven days, or not?",
+    "Options": {
+      "No": {
+        "Question": "Is there another person at home who smokes?",
+        "Options": {
+          "No": null,
+          "Yes": {
+            "Question": "May I speak with the smoker and repeat the question?"
+          }
+        }
+      },
+      "Yes": {
+        "Question": "May I speak with the smoker and repeat the question?"
+      },
+      "Not available": null
+    }
+  }
+}

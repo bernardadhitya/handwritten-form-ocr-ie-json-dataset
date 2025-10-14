@@ -1,0 +1,40 @@
+{
+  "store": "ALBERTSONS",
+  "address": {
+    "street": "bOPierAve#5",
+    "city": null,
+    "state": null,
+    "zip": "CA93H45"
+  },
+  "transaction": {
+    "number": "3075",
+    "terminal": "Tran",
+    "cashier": "000401",
+    "store_number": null,
+    "date": "ThuJun291995",
+    "time": "63ip"
+  },
+  "items": [
+    {
+      "name": "GTOARETTES",
+      "price": 13.89
+    },
+    {
+      "name": "TRIDENT",
+      "price": 0.79
+    },
+    {
+      "name": "TRIDENT",
+      "price": 0.79
+    }
+  ],
+  "totals": {
+    "subtotal": 15.47,
+    "tax_paid": 1.01,
+    "total": 17.0,
+    "cash": null,
+    "total_tender": 17.0,
+    "change": 0.52
+  },
+  "message": "THANK YOU"
+}

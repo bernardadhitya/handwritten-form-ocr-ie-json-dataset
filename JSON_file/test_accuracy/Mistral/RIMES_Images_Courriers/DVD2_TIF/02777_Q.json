@@ -1,0 +1,59 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "BouCHET",
+        "Prenom": "Estele",
+        "Adresse": "AN.HA...",
+        "Code postal": "U7OOOl",
+        "Ville": "LA....RQCH.E.LLE",
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": "Damanae....o.o..mtio.",
+        "Objet": "ensegneme.....u...es...ho.oau.es.....accuei.du...puhic..",
+        "Complement": "C..",
+        "Reference client eventuelle": null,
+        "Interlocuteur": "a..qwe...bi...yonnais",
+        "Adresse": "ce....ues....er..",
+        "Code postal": "[92A 2o]",
+        "Ville": "MON...RQU.GE..",
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+          ],
+          "Temps passe a traiter le scenario": "S.... minutes."
+        },
+        "Contribution": {
+          "Cocher les elements de_votre contribution pour le scenario traite": [
+            {
+              "Cocher": true,
+              "Prix": 6
+            },
+            {
+              "Cocher": true,
+              "Prix": 2
+            },
+            {
+              "Cocher": null,
+              "Prix": 1
+            },
+            {
+              "Cocher": null,
+              "Prix": 1
+            }
+          ],
+          "Marque et modele du scanner": "L.",
+          "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+          ],
+          "Resolution des images": null
+        }
+      }
+    }
+  }
+}

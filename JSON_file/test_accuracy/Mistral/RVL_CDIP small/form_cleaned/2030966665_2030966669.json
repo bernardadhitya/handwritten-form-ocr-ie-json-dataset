@@ -1,0 +1,30 @@
+{
+  "Originator": "B.Estes",
+  "Proposed Change": {
+    "to": "Parameters, Standards, C Control",
+    "Standard": null
+  },
+  "Problem Statement": "are causing us to shift the process level away from center in. reaction to special causes.",
+  "Evidence": "(See attached data)",
+  "Improvements": "Process will stay centered at target blend percentages for each component, blend integrity should improve.",
+  "Identify Probable Causes": "(See attachment)",
+  "Proposed System Change": {
+    "Change": "-Change Blending Feed Parameters (vsT, KST, Bright Scrap, Burley Scrap, Class) from Controllable to Tracking on current blending output and blend percentages.",
+    "Parameters": [
+      "vsT",
+      "KST",
+      "Bright Scrap",
+      "Burley Scrap",
+      "Class"
+    ],
+    "Establish Standards": "at 2300 on 1l/28/89.",
+    "Recommend Measurements": "-Leave current Blending Feed TQM's in place -x should be closer to target, variation should remain the same or decrease"
+  },
+  "Action Plan": "-Communicate to impacted personnel by 1l/28/89 -Convert controllable parameters to tracking and implement new standards.",
+  "Personnel Impacted": [
+    "LIII Blending Attendants",
+    "Blending Supervisors",
+    "LIII SPC Specialist",
+    "2030966665"
+  ]
+}

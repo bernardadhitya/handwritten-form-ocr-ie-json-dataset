@@ -1,0 +1,40 @@
+{
+  "form": {
+    "title": "QUALITY ACCEPTANCE FORM",
+    "product": "ALLIED CLARIFLOC C-331 POLYMER",
+    "objective": "To collect and analyze samples from the top and bottom of the tank truck upon arrival.",
+    "procedure": [
+      "Have the driver collect 600 ml or more of sample from the top of the tank truck and from the bottom of the tank truck.",
+      "Check the two samples for odor, color, trash, temperature, and reject as soon as possible if any of these parameters are out of spec.",
+      "Discard the rejected sample.",
+      "File Acceptance Form in Lab drawer file.",
+      "Attach to this form, any certificate of analysis that may be supplied by the vendor."
+    ],
+    "specifications": {
+      "analytical_results": {
+        "top": {
+          "odor": "Slight amine-like",
+          "color": "EK 6K",
+          "trash": "None",
+          "viscosity": "35-60 x10 cps",
+          "temperature": "34.5°C"
+        },
+        "bottom": {
+          "odor": null,
+          "color": null,
+          "trash": null,
+          "viscosity": "3050",
+          "temperature": "34.5°C"
+        }
+      },
+      "comments": "Viscosity-as is @ 25°C: 3425, 3050",
+      "color": "colorless, viscous liquid"
+    },
+    "acceptance": {
+      "circle_one": "Accepted by",
+      "waste_treatment": "t6-78-6",
+      "lab_technician": "Lab Technician",
+      "date": "2030141090"
+    }
+  }
+}
