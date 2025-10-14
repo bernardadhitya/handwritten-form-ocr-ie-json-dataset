@@ -1,15 +1,30 @@
 {
-  "document": "Télécopie/Facsimilé",
-  "scenario": null,
-  "writer": "Radame, Honsieue",
-  "sender_person": "LAFLEUR_Haho",
-  "sender_company": "BANQUE CREDiT POPULAIRE",
-  "sender_tel": "o3 89 37 &U oo",
-  "sender_fax": "oI 6of6 u3 33",
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": "Veuille3 tzowaz ci-joint une eolac dezesilato de mon contzat d'aueanc",
-  "date": null,
-  "place": "Institut national des télécommunications",
-  "box": "Page1/"
+  "Destinataire": {
+    "Nom": "LAFLEUR_Haho",
+    "Service/Entreprise/Department": "BANQUE CREDiT POPULAIRE"
+  },
+  "Telecopie/Facsimile": {
+    "TelecopieuriFax no": "oI 6of6 u3 33"
+  },
+  "Telephone": {
+    "TelephonefTelephone": "o3 89 37 &U oo",
+    "Telephone/Telephone": "o3 89 37 &U oo"
+  },
+  "Date": null,
+  "Page": "Page1/",
+  "Reference": "Référence/Reference",
+  "Copie(s)": "Copie(s)",
+  "Relance": "Relance R'aliation Contrat",
+  "Peliatioa ConLeal": null,
+  "Objet": "Radame, Honsieue",
+  "Institut national des telecommunications": {
+    "Adresse": "9 rue Charles Fourier 91011 Evry Cedex",
+    "Telephone": "01 60 76 40 40",
+    "Telecopie": "01 60 76 43 25",
+    "Serveur WWW": "http://www.int-evry.fr",
+    "E-mail": "contact@int-evry.fr"
+  },
+  "Groupe des Ecoles des Telecommunications": {
+    "Honxieur": "Groupe des Ecoles des Télécommunications"
+  }
 }

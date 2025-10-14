@@ -1,33 +1,43 @@
 {
-  "Code d'envoi": "ZZORTJ",
-  "Nom": null,
-  "Prénom": "Ophélie",
-  "Adresse": null,
-  "Code Postal": null,
-  "Ville": null,
-  "Téléphone": "0351541051",
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": "",
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": "200",
-  "Format PNG": null,
-  "Format GIF": "",
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": "ZZORTJ",
+    "Identite fictive": {
+      "Nom": "G.E..N.D.R.O.N.",
+      "Prenom": ".. reéom....O.....",
+      "Adresse": "...",
+      "Code postal": "L6t3 4nol ville...N.G..w.L...E.R",
+      "Tel": "0351541051"
+    },
+    "Scenario": {
+      "Categorie": ".",
+      "cle_CRLies_scns_LepRnse": ".Roanc...o.....es...scn&...ewm.s.",
+      "Objet": "a...cemcn.cd...l...esi..at.on...ou...ma..dans",
+      "Complement": "..............n..m.",
+      "Interlocuteur": "....",
+      "Adresse": "...",
+      "Code postal": "B 4 M 6 o] Ville...J.7.Q.N.T.AW..",
+      "Ville": "...J.7.Q.N.T.AW.."
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "bille",
+        "plume",
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": "0... minutes.",
+      "Contribution": {
+        "(GE) Jenvoie mon courrier par voie postale a la date du.Q.&./.1...7.": true,
+        "(+2e) Mon courrier contient une page de fax": true,
+        "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le": true,
+        "(+1€) Jai envoye par courriel mon courrier numerise le": true
+      },
+      "Marque et modele du scanner": "....E....S?",
+      "Format": [
+        "PNG",
+        "GIF",
+        "TIFF"
+      ],
+      "Resolution des images": "2.a.... dpi/ppp"
+    }
+  }
 }

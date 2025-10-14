@@ -1,13 +1,17 @@
 {
-  "document": null,
-  "scenario": null,
-  "writer": "Cossey Stlorent",
-  "sender_person": "Cossey Stlorent",
-  "sender_company": "Police Nationale",
-  "sender_tel": "54 96O",
-  "sender_fax": null,
-  "receiver_person": "Monsievr",
-  "receiver_company": null,
-  "date": null,
-  "place": "Place de ca mairie, 51490 Cuchery"
+  "address": {
+    "street": "Place de ca mairie",
+    "city": "Cuchery",
+    "postal_code": "51490"
+  },
+  "name": "Cossey Stlorent",
+  "residence": {
+    "street": "rue des coquelicots",
+    "city": "Mercy Le Bas",
+    "postal_code": null
+  },
+  "contact": {
+    "name": "Monsievr",
+    "phone": null
+  }
 }

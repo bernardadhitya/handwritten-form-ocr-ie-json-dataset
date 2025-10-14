@@ -1,39 +1,44 @@
 {
-  "ProjectNo": "776",
-  "QuestionNo": "1-5",
-  "File": "fil74-15",
-  "Study": "CIGARETTE STUDY - TEEEPIONE INTERVIEY",
-  "Interviewer": "Fied Staton",
-  "FieldStation": "Dale",
-  "Date": null,
-  "TimeBegan": "AM/PM",
-  "AM_PM": "AM/PM",
-  "RespondentDetails": {
-    "Name": "Hello,my na",
-    "Address": "I'm frcm Market Fasts, Iacorporated In Chlvago.",
-    "Phone": "(10 oge)"
-  },
-  "Introduction": "May 1 speak to.",
-  "Availability": "Unavailablo2 DETERMNE WCN BEST TO CALL BACK ANC ECORD TIME BELOW)",
-  "Callbacks": {
-    "Callback1": null,
-    "Callback2": null
-  },
-  "InterviewDetails": {
-    "PreviousInterview": "Soveral weeks ago we ir.terviawed yon and asked yon somo qucstions cbout your emoking cxorectoristice.",
-    "PacksSmoked": {
-      "Question": "about how many packs of cigarettes would yoa estimste you've snoked these past saanOn",
-      "NumberOfPacks": "26"
-    },
-    "BrandsSmoked": {
-      "Question": "Now, wculd you please oame all the brands of cigarettee you have smoked s pack or moreof dhess week?",
-      "Brands": [
-        "Viceroy",
-        "Viceroy Fich Lights",
-        "Rieh Lighte"
-      ],
-      "TotalMustAgree": null
+  "participants": [
+    {
+      "name": "Dale",
+      "address": "(10 oge)",
+      "phone": null
     }
+  ],
+  "interviewer": {
+    "name": "Fied Staton"
   },
-  "ThankYou": "AND THANK RESPON-DENT)"
+  "questions": [
+    {
+      "text": "about how many packs of cigarettes would yoa estimste you've snoked these past saanOn",
+      "answer": "26"
+    },
+    {
+      "text": "Now, wculd you please oame all the brands of cigarettee you have smoked s pack or moreof dhess week?",
+      "answer": null
+    },
+    {
+      "text": "IFMORETHAN ONE BRAND LSTED N CU. 2ASKQU.2c FOR EACH BAND LS",
+      "answer": null
+    },
+    {
+      "text": "arnbor cf packe",
+      "answer": null
+    }
+  ],
+  "brands": [
+    {
+      "name": "Viceroy",
+      "amount_smoked": "nambor cf packs"
+    },
+    {
+      "name": "Viceroy Fich Lights",
+      "amount_smoked": "number cf pack"
+    },
+    {
+      "name": "Rieh Lighte",
+      "amount_smoked": "number cf packs"
+    }
+  ]
 }

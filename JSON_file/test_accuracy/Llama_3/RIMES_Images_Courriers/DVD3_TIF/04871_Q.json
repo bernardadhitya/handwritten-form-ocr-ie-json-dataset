@@ -1,33 +1,48 @@
 {
-  "Code d'envoi": null,
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": "16 place de la Fontaine",
-  "Code Postal": null,
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "21430",
-  "Ville Interlocuteur": "SUSSEX",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": "x",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "",
-  "Date d'envoi par courriel": null,
-  "Résolution": "",
-  "Format PNG": null,
-  "Format GIF": "",
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "RI": "ZeRnxR",
+      "Nom": "Nom..",
+      "Prenom": "Ae",
+      "Adresse": "oso vil...en..o.Co.",
+      "Code postal": "1B9844346",
+      "Ville": null,
+      "IDAK-Gcx": {
+        "Tel": null,
+        "Scenario": {
+          "Idhesta": null,
+          "Objet": "..cgtoa..s..cmha..couwa.d",
+          "Complement": "kECDs9y",
+          "Reference client eventuelle": null,
+          "Adresse": {
+            "Code": null,
+            "Ville": null
+          }
+        }
+      }
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "bille",
+        "plume",
+        "feutre"
+      ],
+      "Temps a traiter le scenario": "..... minutes.",
+      "Contribution": {
+        "Cocher les elements de_votre contribution pour le_scenario_traite": [
+          "(6€) J'envoie mon courrier par voie postale á la date du.",
+          "X (+2£) Mon courrier contient une page de garde de fax.",
+          "K (+1€) Avant mon envoi postal, j'ai télécopié ma contribution le",
+          "+1€) J'ai envoyé par courriel mon courrier numérisé le."
+        ],
+        "Marque et modele du scanner": "L",
+        "Format": [
+          "PNG",
+          "GIF",
+          "TIFF"
+        ],
+        "Resolution des images": "dpi/ppp"
+      }
+    }
+  }
 }

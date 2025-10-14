@@ -1,15 +1,21 @@
 {
-  "document": "Télécopie/Facsimilé",
-  "scenario": null,
-  "writer": "FraNCE TELEPHONE",
-  "sender_person": "C Roc h eT",
-  "sender_company": "Service/Entreprise/Department/Company",
-  "sender_tel": "03 38 93 2593",
-  "sender_fax": "Télécopieur/Fax no",
-  "receiver_person": "Nom/Name",
-  "receiver_company": "Service /Department",
-  "subject": "RELAnCE DE COUrRiER SAnS",
-  "date": "2006-11-14",
-  "place": "Institut national des télécommunications",
-  "box": "AvD Su63"
+  "Destinataire": {
+    "Nom": "FraNCE TELEPHONE"
+  },
+  "Service": {
+    "Service /Department": "C Roc h eT"
+  },
+  "Telephone": "03 38 93 2593",
+  "Date": "2006-11-14",
+  "Page": "Page1/ 3",
+  "Reference": "AvD Su63",
+  "Objet": "RELAnCE DE COUrRiER SAnS",
+  "Institut national des telecommunications": {
+    "Adresse": "9 rue Charles Fourier 91011 Evry Cedex",
+    "Telephone": "01 60 76 40 40",
+    "Telecopie": "01 60 76 43 25",
+    "Serveur WWW": "http://www.int-evry.fr",
+    "E-mail": "contact@int-evry.fr"
+  },
+  "Groupe des Ecoles des Telecommunications": "Groupe des Ecoles des Télécommunications"
 }

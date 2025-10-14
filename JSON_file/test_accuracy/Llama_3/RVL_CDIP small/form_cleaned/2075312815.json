@@ -1,39 +1,26 @@
 {
   "date": "May 8, 1996",
-  "time": "19:36",
-  "fax_number": "2027896190",
-  "company": "Beyeridge & Diamond. P.C",
-  "address": "13501 STREET N.W. SUITE 700, WASHINGTON, D.C. 20005-3311",
-  "phone": "202789-6000",
-  "fax": "202789-6190",
   "from": {
     "name": "Alan Charles Raul",
     "direct_dial": "202)789-6021"
   },
   "to": [
     {
-      "name": "John Mulderig",
       "company": "Philip Morris",
-      "phone": "212-907-5979",
-      "fax": "212-880-3056"
+      "fax_no": "212-907-5979",
+      "phone_no": "212-880-3056"
     },
     {
-      "name": "Murrsy Garnick",
-      "company": "Arnold & Porter",
-      "phone": "202-942-5999",
-      "fax": "202-942-5716"
+      "company": "Amold & Porter",
+      "fax_no": "202-942-5999",
+      "phone_no": "202-942-5716"
     },
     {
-      "name": "Leo Dreyer/Karen Johnson/",
-      "company": "Shook, Hardy & Bacon",
-      "phone": "816-421-5547",
-      "fax": "816-474-6550"
-    },
-    {
-      "name": "Chris McDonald/Jim Hostetter",
-      "phone": "207-531-2815"
+      "company": "Shook, Hardy &Bacon",
+      "fax_no": "816-474-6550",
+      "phone_no": "816-421-5547"
     }
   ],
   "message": "Attached is a memo on this week's EPA briefing on the Agency's new, proposed risk assessment Guidelines.",
-  "confidentiality_note": "The information contained in this facsimile is confidential and may also contain privileged attorney-client information or work product..."
+  "number_of_pages": "Including Cover"
 }

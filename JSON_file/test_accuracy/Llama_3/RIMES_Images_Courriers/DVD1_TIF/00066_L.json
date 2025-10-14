@@ -1,14 +1,15 @@
 {
-  "document": "ALLAiN",
-  "scenario": "MagazineDe'o",
-  "writer": "Mi ceIle",
-  "sender_person": "Mi ceIle",
-  "sender_company": "Res Le Meridien",
-  "sender_tel": "03.38.36.77.85",
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
-  "date": "J2/o7/o5",
-  "place": "3 terasse des Vosge, 54520 LAXOu",
-  "box": "obje: abonnement"
+  "Name": "Res Le Meridien",
+  "Address": "3 terasse des Vosge, 54520 LAXOu",
+  "Tel": "03.38.36.77.85",
+  "Subscription": {
+    "Start Date": null,
+    "End Date": null,
+    "Type": "abonnement"
+  },
+  "Magazine": {
+    "Name": "MagazineDe'o",
+    "Content": "Je vous cite pou Qa qualire de vohr magazine, a la 8ois d'nshuckg ddivorhssanh.",
+    "Details": "obje: abonnement"
+  }
 }

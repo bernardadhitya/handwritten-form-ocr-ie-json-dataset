@@ -1,15 +1,19 @@
 {
-  "document": "LABORATOIRE",
-  "scenario": "TELECOPIE",
-  "writer": "BQMQUQ SOC@",
-  "sender_person": "mae",
-  "sender_company": "SOCIETE",
-  "sender_tel": "NUMERO DE TELEPHONE",
-  "sender_fax": "NUMERO DE TELECOPIE : 0R31396190",
-  "receiver_person": "mae",
-  "receiver_company": "LABORATOIRE D'INFORMATIQUE, SIGNAUX ET SYSTEMES DE SOPHIA ANTIPOLIS",
-  "subject": "VOTRE NUMERO DE REFERENCE : QURGENT",
-  "date": null,
-  "place": "SophiaAntipolisCedex-F",
-  "box": "BP121"
+  "LABORATOIRE": "LABORATOIRE D'INFORMATIQUE, SIGNAUX ET SYSTEMES DE SOPHIA ANTIPOLIS",
+  "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFQUE": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE",
+  "NUMERO DE TELECOPIE": "+33 04 92 94 28 98",
+  "NUMERO DE TELEPHONE": "+33 04 92 94 27 04",
+  "NUMERO DE REFERENCE EMETTEUR": "0R31396190",
+  "URGENT": "QURGENT",
+  "POUR AVIS": "POURAVIS",
+  "ADRESSE": {
+    "Batiment": "Batiment Euclide",
+    "Adresse": "2000 route des Lucioles",
+    "BP": "BP121",
+    "Ville": "SophiaAntipolisCedex-F"
+  },
+  "CONTACT": {
+    "Telecopie": "+33 04 92 94 28 98",
+    "Site Web": "http://www.i3s.unice.fr"
+  }
 }

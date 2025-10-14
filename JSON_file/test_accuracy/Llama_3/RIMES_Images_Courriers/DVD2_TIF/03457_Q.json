@@ -1,33 +1,46 @@
 {
-  "Code d'envoi": null,
-  "Nom": "LEMAN",
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "57130",
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": "¤{Resiliation/Résiliation}¤ de contrat : Relance",
-  "Objet Scénario": null,
-  "Complément Scénario": "\\n",
-  "Référence client": "WILOT22",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "x",
-  "Date d'envoi par courriel": null,
-  "Résolution": "300",
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "N.A.N.",
+        "Prenom": "E....i.e",
+        "Adresse": "a.m....doa..asaiea..",
+        "Code postal": "Sn Bo vill..A.s...aus...oxe..",
+        "Ville": null,
+        "Tel": null
+      }
+    },
+    "Scenario": {
+      "Categorie": "catéegorie..leo.i.a..ho......om........am..",
+      "Objet": "Ojet.emm.....mi....esne...as..ais..m..",
+      "Complement": "60022",
+      "Interlocuteur": "D.F.",
+      "Adresse": null,
+      "Code": null,
+      "Ville": "H..c.hat..Ra.m",
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille",
+          "plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": "?Q... minutes"
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le_scenario traite": {
+          "(6e) J'envoie mon courrier par voie postale a la date du": "w.2.1.0.3.2.?...",
+          "(+2e) Mon courrier contient une page de": "fax",
+          "(+1€) Avant mon envoi postal, jai telecopie ma contribution le": "4../03./.2.co.1.",
+          "(+1€) Jai envoye par courriel mon courrier numerise le": "?..3./.?.oo....",
+          "Marque et modele du scanner": "Nasku.mche.c...Sc.33",
+          "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+          ],
+          "Resolution des images": "3..... dpi/ppp"
+        }
+      }
+    }
+  }
 }

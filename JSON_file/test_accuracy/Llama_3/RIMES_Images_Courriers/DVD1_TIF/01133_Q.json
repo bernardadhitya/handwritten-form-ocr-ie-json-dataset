@@ -1,33 +1,47 @@
 {
-  "Code d'envoi": null,
-  "Nom": null,
-  "Prénom": "Soraya",
-  "Adresse": "4, allée du Bois des Peres",
-  "Code Postal": null,
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": "Augmentation (x2) des quantités de chaussettes\\ncommandées",
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": "Nanterre",
-  "Temps passé": "25",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": "",
-  "Format TIFF": "x",
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": "ozuBvG",
+    "Identite fictive": {
+      "Nom": "Neon",
+      "Prenom": "Soaya",
+      "Adresse": "aw....u...ois....o....",
+      "Code postal": "0z6t62y]52",
+      "Ville": "Cnauntepie",
+      "Tel": null
+    },
+    "Scenario": {
+      "Categorie": "odicaian......ontaa.command..",
+      "Objet": "ugmentation...(x..doa..guandtés...d...dhawsstl",
+      "Complement": "awcaum",
+      "Reference client eventuelle": "Adresse............ac...de.....ug.u.. Code postal [9 Z OOnO] Ville...Nanteu"
+    },
+    "Interlocuteur": {
+      "Nom": null,
+      "Adresse": null,
+      "Code postal": null,
+      "Ville": null
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "bille plume",
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": "5 minutes"
+    },
+    "Contribution": {
+      "Cocher les elements de votre contribution pour le scenario traite": [
+        "X (6€)",
+        "+2€",
+        "+1€",
+        "+1€"
+      ],
+      "Marque et modele du scanner": "hp.....SC....5.Q.",
+      "Format": [
+        "PNG",
+        "GIF",
+        "TIFF"
+      ],
+      "Resolution des images": "3Q.... dpi/ppp"
+    }
+  }
 }

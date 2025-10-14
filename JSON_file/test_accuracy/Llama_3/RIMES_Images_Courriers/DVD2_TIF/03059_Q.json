@@ -1,33 +1,45 @@
 {
-  "Code d'envoi": null,
-  "Nom": "MAZOYER",
-  "Prénom": "AUDE",
-  "Adresse": null,
-  "Code Postal": null,
-  "Ville": "EVENOS",
-  "Téléphone": "0418905146",
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "x",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": "",
-  "Format PNG": null,
-  "Format GIF": "",
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": "LCFXVF",
+  "Questionnaire": {
+    "Identite fictive": {
+      "Nom": "MAZOY.ER",
+      "Prenom": ".AUDE",
+      "Adresse": "2.9.5..C.H...D.E.LA..BERENGUiERE...ST.EANNE.D'EVENOS",
+      "Code postal": "83 330",
+      "Ville": ".EVENoS",
+      "Tel": "0418905146"
+    },
+    "Scenario": {
+      "Categorie": "Geten.de....Sins.te",
+      "Objet": "do...a...xespenabit...ciciee",
+      "Co": "iAyEL45",
+      "Aospensabilite_Cicsee": null,
+      "do": null,
+      "Reference client eventuelle": null,
+      "Interlocuteur": {
+        "Nom": ".NN.A....As..A.NCE",
+        "AssX": null,
+        "Adresse": ".u......S.....A..",
+        "Code postal": "06140",
+        "Ville": "TOURE.T..ES....UR...LOUP",
+        "SYb_LaSP": null
+      },
+      "Type de stylo (noir) utilise": [
+        "bille",
+        "plume",
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": "10 minutes",
+      "Contribution": {
+        "Cocher les lements de_votre contribution pour le scenario traite_": [
+          "(6€) J'envoie mon courrier par voie postale á la date du..2.1./.0.2../0....",
+          "+2€) Mon courrier contient une page de garde de fax.",
+          "+1€) Avant mon envoi postal, j'ai télécopié ma contribution le",
+          "+1€) J'ai envoyé par courriel mon courrier numérisé le"
+        ],
+        "Marque et modele du scanner": "L",
+        "Resolution des images": "dpi/ppp"
+      }
+    }
+  }
 }

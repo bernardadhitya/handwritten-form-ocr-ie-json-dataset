@@ -1,47 +1,34 @@
 {
-  "id": "106",
-  "gender": "Male",
-  "age": "50",
-  "location": "Milwaukee",
-  "company": "OMUNICUS,INC",
-  "survey": {
-    "interviewee_gender": "Female",
-    "interviewee_age": "-2",
-    "interviewee_location": "Syracuse",
-    "project_code": "LLD-6",
-    "project_location": "Omaha",
-    "project_code_2": "-3",
-    "project_date": "April,1978",
-    "group": "GROUP",
-    "name": "NAME",
-    "address": "ADDRESS",
-    "city_town": "_",
-    "telephone": "84460411",
-    "interviewed_by": "Eello,I'm from Communicus, a consumer opinion firm.",
-    "validated_by": null,
-    "introduction": "We are conducting a survey and would like to include you.",
-    "questions": [
-      {
-        "question": "la. Do you smoke filter, non-menthol cigarettes?",
-        "answer": "Yes"
-      },
-      {
-        "question": "b. DO NOTREAD LIST.",
-        "answer": "6-0"
-      },
-      {
-        "question": "Between 10 and 15",
-        "answer": "16to25"
-      },
-      {
-        "question": "2. Which of the following statements apply to you?",
-        "answer": "A. I eat dinner in a restaurant at least once a month."
-      },
-      {
-        "question": "Into which of the following age groups do you fall?",
-        "answer": "Between 10 and 15"
-      }
-    ],
-    "code": null
-  }
+  "Company": "OMUNICUS,INC",
+  "Date": "April,1978",
+  "Project": "Project LLD-6",
+  "Address": "ADDRESS:",
+  "City": "Omaha",
+  "Telephone": "84460411",
+  "Interviewed By": "Eello",
+  "Validated By": null,
+  "Survey Questions": [
+    {
+      "Question": "Do you smoke filter, non-menthol cigarettes?",
+      "Answer": "Yes"
+    },
+    {
+      "Question": "Which of the following statements apply to you?",
+      "Options": [
+        "A. I eat dinner in a restaurant at least once a month.",
+        "B. I read a daily newspaper.",
+        "C. I do most of the food shopping for myself and/or my family.",
+        "D. I have taken an airline trip on a scheduled commercial airline in the past 12 months."
+      ]
+    },
+    {
+      "Question": "Into which of the following age groups do you fall?",
+      "Options": [
+        "Under 21",
+        "Between 10 and 15",
+        "16to25",
+        "More than 25"
+      ]
+    }
+  ]
 }

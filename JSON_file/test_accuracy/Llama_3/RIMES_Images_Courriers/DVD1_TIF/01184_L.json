@@ -1,14 +1,9 @@
 {
-  "document": "Samt maain Naai",
-  "scenario": "aue deo PenBRo",
-  "writer": "OG4 x Ben.der0",
-  "sender_person": "Manie",
-  "sender_company": null,
-  "sender_tel": null,
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
-  "date": null,
-  "place": "1 2 Rue dOlano, 89466 Cravant",
-  "box": null
+  "locations": [
+    {
+      "street": "1 2 Rue dOlano",
+      "city": "Cravant",
+      "zip": "89466"
+    }
+  ]
 }

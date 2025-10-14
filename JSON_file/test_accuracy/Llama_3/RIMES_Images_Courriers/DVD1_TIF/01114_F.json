@@ -1,14 +1,12 @@
 {
-  "document": "LTM",
-  "scenario": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE",
-  "writer": "BaCHE2 yoauu",
-  "sender_person": "NA1F Assurawces",
-  "sender_company": "Laboratoire des Technologies de la Microélectronique",
-  "sender_tel": null,
-  "sender_fax": "(33) 0438 7858 92",
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": "De&araUov de gysm8",
-  "date": "24/04/2006",
-  "place": "17, rue des Martyrs (CEA-LETI) 38054 Grenoble cedex 09 France"
+  "DATE": "24/04/2006",
+  "OBJET": "De&araUov de gysm8",
+  "FROM": null,
+  "TO": null,
+  "N/FAX": null,
+  "V/FAX": "(33) 0438 7858 92",
+  "Laboratoire": {
+    "Nom": "Laboratoire des Technologies de la Microélectronique",
+    "Adresse": "17, rue des Martyrs (CEA-LETI), 38054 Grenoble cedex 09, France"
+  }
 }

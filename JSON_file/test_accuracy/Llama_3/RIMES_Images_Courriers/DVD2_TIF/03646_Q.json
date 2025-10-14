@@ -1,33 +1,47 @@
 {
-  "Code d'envoi": null,
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": null,
-  "Ville": null,
-  "Téléphone": "0315733602",
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "",
-  "Option envoi par fax": "",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": "",
-  "Marque et modèle scanner": ""
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "B.l.Z.E.T",
+        "Prenom": "So..n..",
+        "Adresse": "M.i.e.",
+        "Code postal": "MCO.il",
+        "Ville": "A.D.A.n.S..W.l.L.LR.",
+        "Tei": "0B15733602"
+      },
+      "Scenario": {
+        "Categorie": "u.oe.w.......a.m.p.",
+        "Objet": "as.c.....e..ww.w...Ruus..oa...t.em",
+        "fenk": null,
+        "Complement": "Rausaa",
+        "Interlocuteur": null,
+        "Adresse": null,
+        "Code postal": null,
+        "Ville": null
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille",
+          "plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": "..... minutes.",
+        "Contribution": {
+          "Cocher les elements de_votre contrbution pour le scenaro traite": [
+            "(6.  J'envoie mon courrier par voie postale a Ila date du.....4.3....2.00...7.",
+            "+2_) Mon courrier contient une page de garde de fax.",
+            "+1€) Avant mon envoi postal, j'ai télécopié ma contribution le",
+            "+1€) J'ai envoyé par courriel mon courrier numérisé le"
+          ],
+          "Marque et modele du scanner": "L",
+          "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+          ],
+          "Resolution des images": null
+        }
+      }
+    }
+  }
 }

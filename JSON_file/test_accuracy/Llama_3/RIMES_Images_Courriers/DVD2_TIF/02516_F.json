@@ -1,14 +1,16 @@
 {
-  "document": "LTM",
-  "scenario": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE",
-  "writer": "Forrer Nallote",
-  "sender_person": "Dauslewewt d Is",
-  "sender_company": "Laboratoire des Technologies de la Microélectronique",
-  "sender_tel": "(33) 0438 78 58 92",
-  "sender_fax": "3",
-  "receiver_person": null,
-  "receiver_company": "LYONNALS",
-  "subject": "Cemmauele",
-  "date": "1 fknw 2eo4",
-  "place": "17, rue des Martyrs (CEA-LETI) 38054 Grenoble cedex 09 France"
+  "sender": {
+    "name": "Forrer Nallote",
+    "fax": "(33) 0438 78 58 92",
+    "date": "1 fknw 2eo4"
+  },
+  "recipient": {
+    "name": "Dauslewewt d Is",
+    "fax": null
+  },
+  "content": {
+    "subject": "Cemmauele",
+    "number_of_pages": 3,
+    "location": "Laboratoire des Technologies de la Microélectronique, 17, rue des Martyrs (CEA-LETI), 38054 Grenoble cedex 09, France"
+  }
 }

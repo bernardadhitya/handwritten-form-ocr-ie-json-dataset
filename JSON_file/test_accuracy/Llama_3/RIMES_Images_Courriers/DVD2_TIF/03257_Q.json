@@ -1,33 +1,44 @@
 {
-  "Code d'envoi": null,
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": null,
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": "NRYWS26",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": "",
-  "Stylo feutre": "",
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "",
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": "02/03/07",
-  "Option envoi par courriel": "",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": "Ve.onigue",
+        "Adresse": "Adresse........ue...d....wa..",
+        "Code postal": "57S6o",
+        "Ville": "MElS&MTHA4",
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": "olhcalio...e.coh.s....command",
+        "CC": null,
+        "Objet": "gmeakatt......dea..uati...d.a.iaa..ha.si",
+        "Complement": ".NRy&36",
+        "Interlocuteur": "aag.u...Cociee....Ge.a",
+        "Adresse": "o..e....Ca...",
+        "Code postal": "B3So",
+        "Ville": "CH.R.s.a....P...BAE.",
+        "Pe_": null
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille"
+        ],
+        "Temps passe a traiter le scenario": "...o... minutes",
+        "Contribution": {
+          "Cocher les elements de_votre contribution pour le scenario traite": [
+            "(6€) J'envoie mon courrier par voie postale a la date du....3./3./.7",
+            "+2€) Mon courrier contient une page de garde de fax.",
+            "+1€) Avant mon envoi postal, j'ai télécopié ma contribution le.s2./0.3/.a....",
+            "+1€) J'ai envoyé par courriel mon courrier numérisé le"
+          ],
+          "Marque et modele du scanner": null,
+          "Format": [
+            "PNG"
+          ],
+          "Resolution des images": "dpi/ppp"
+        }
+      }
+    }
+  }
 }

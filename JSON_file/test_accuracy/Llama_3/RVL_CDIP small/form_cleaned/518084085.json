@@ -1,27 +1,20 @@
 {
-  "number": "71467797.3",
-  "from": "FROMRFnols Tob.",
-  "contact": "7145378352",
-  "date": "12-02-304870",
-  "page": "/1",
-  "sanis": "SANIS",
-  "code": "OLOB#",
-  "promotions": [
-    "PROMOTIONS",
-    "IST.OTR.1997",
-    "CAMEL$0.30OFF1PACK.#700077",
-    "DRA$0.3F1PACK#700074"
-  ],
-  "displayQuantities": "DISPLAY QUANTIIIES",
-  "generalManagerName": "GENERALMGRSNAME",
-  "salesRepName": "SALES REPSNAME",
-  "store": {
-    "name": "Sam's Club 18-6378",
-    "code": "6363",
-    "address": "6363 Vallcy Springs Pkwy, Riversidc,CA92507"
+  "store_number": "71467797.3",
+  "store_name": "SANIS",
+  "location": {
+    "address": "6363 Vallcy Springs Pkwy",
+    "city": "Riversidc",
+    "state": "CA",
+    "zip_code": "92507"
   },
-  "storeStamp": "STORESTAMP",
-  "dpcProgram": "NOTPARTICIPATINGINDPCPROGRAM",
-  "dpcCode": "51808",
-  "generalManagerCode": "4085"
+  "promotions": [
+    {
+      "description": "CAMEL$0.30OFF1PACK.#700077",
+      "display_quantities": "DRA$0.3F1PACK#700074"
+    }
+  ],
+  "general_manager": {
+    "name": "GENERALMGRNAME",
+    "sales_reps_name": "SALES REPSNAME"
+  }
 }

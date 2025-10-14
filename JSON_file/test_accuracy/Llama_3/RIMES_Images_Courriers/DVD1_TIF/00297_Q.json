@@ -1,33 +1,39 @@
 {
-  "Code d'envoi": "WQJPEH",
-  "Nom": "HERRER0",
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": null,
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": "25",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "",
-  "Date d'envoi par courriel": null,
-  "Résolution": "149",
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": "",
-  "Marque et modèle scanner": "canon pixma MP 110"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "H....RRe.o.",
+        "Prenom": "....alu",
+        "Adresse": "olglsl4  o",
+        "Code postal": "8&3 9rd",
+        "Ville": "...U..XE..G..NE.Y"
+      },
+      "Categorie": "oje...m.m.......mo...aiew.",
+      "Objet": "..i....osuieme.",
+      "Complement": null,
+      "Reference client eventuelle": "....Q...",
+      "Adresse": "Code postai LO6 3O ville..",
+      "Code": null,
+      "Ville": null,
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille",
+          "plume",
+          "feutre"
+        ],
+        "Terps passe a traiter le scenario": "....S... minutes"
+      },
+      "Contribution": {
+        "Cocher les elements de_votre contribution pour le scenario_traite": {
+          "(6e) J'envoie mon courrier par voie postale a la date du 22/esk": "....2&./..Q..",
+          "(+2e) Mon courrier contient une page de garde de fax": null,
+          "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le 28L09/26": "....am....p..ma.......o.",
+          "(+1€) Jai envoye par courriel mon courrier numerise le &_Llo9kek": "..."
+        },
+        "Marque et modele du scanner": ".",
+        "Format": [],
+        "Resolution des images": null
+      }
+    }
+  }
 }

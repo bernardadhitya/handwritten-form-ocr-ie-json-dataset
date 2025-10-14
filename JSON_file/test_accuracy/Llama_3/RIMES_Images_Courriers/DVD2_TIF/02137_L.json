@@ -1,15 +1,9 @@
 {
-  "document": "Soestat,9e 21 jamuiez 200F",
-  "scenario": "C",
-  "writer": "Mrmc G0BLET BriqiBte",
-  "sender_person": "23 wc St Mase aux Mimeb",
-  "sender_company": "6T600 SELESTAT",
-  "sender_tel": "03 63 58 73 92",
-  "sender_fax": null,
-  "receiver_person": "Reue de Bowdome",
-  "receiver_company": "789SO 6AMBAiS",
-  "subject": "R'9éemxe SomE : AVCTC0t",
-  "date": null,
-  "place": "Mestievsy",
-  "box": null
+  "Name": "Soestat",
+  "Address": {
+    "Street": "23 wc St Mase aux Mimeb",
+    "City": "SELESTAT",
+    "Postal Code": "6T600"
+  },
+  "Phone": "03 63 58 73 92"
 }

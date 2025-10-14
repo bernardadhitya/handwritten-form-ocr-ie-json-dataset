@@ -1,15 +1,15 @@
 {
-  "document": "2b rue des Jawvelle",
-  "scenario": "67 16O WlsseMBouR6",
-  "writer": "5 iamlr 2oot",
-  "sender_person": "0lj5: ma command m GYOJK55",
-  "sender_company": null,
-  "sender_tel": null,
-  "sender_fax": null,
-  "receiver_person": "Jais suik a ma tonmand en cown de co viuges.",
-  "receiver_company": null,
-  "subject": null,
-  "date": "20w0 mon",
-  "place": null,
-  "box": null
+  "structured_information": {
+    "name": null,
+    "age": null,
+    "location": "2b rue des Jawvelle, 67 16O WlsseMBouR6",
+    "address": "2b rue des Jawvelle",
+    "code": "GYOJK55",
+    "occupation": null,
+    "interests": [],
+    "hobbies": [
+      "ma command",
+      "ma tonmand en cown de co viuges"
+    ]
+  }
 }

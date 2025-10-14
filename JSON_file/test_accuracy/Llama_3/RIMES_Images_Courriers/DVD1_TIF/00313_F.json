@@ -1,15 +1,20 @@
 {
-  "document": "Télécopie/Facsimilé",
-  "scenario": "Destinataire",
-  "writer": "OLiVEi2",
-  "sender_person": "Nom/Name",
-  "sender_company": "Tre'sorerie",
-  "sender_tel": "0342.23.01.11",
-  "sender_fax": "Télécopieur/Fax na",
-  "receiver_person": "Nom/Name",
-  "receiver_company": "Service/Entreprise/Department/Company",
-  "subject": "Veilr trouver ci-joint une letre concernant ma olemomde",
-  "date": "Page1/",
-  "place": "Institut national des télécommunications",
-  "box": "9 rue Charles Fourier 91011Evry Cedex"
+  "Destinataire": {
+    "Nom": "OLiVEi2",
+    "Service/Entreprise/Department/Company": "Tre'sorerie",
+    "Telecopieur/Fax n": "0342.23.01.11",
+    "Telephone/Telephone": null
+  },
+  "Date": null,
+  "Reference/Reference": "Page1/",
+  "Demewd": "Demomde de memsualisa6in lo I'impQt swr do Aevenu",
+  "Objet": "Veilr trouver ci-joint une letre concernant ma olemomde",
+  "Institut national des telecommunications": {
+    "Adresse": "9 rue Charles Fourier 91011Evry Cedex",
+    "Telephone": "01 60 76 40 40",
+    "Telecopie": "01 60 76 43 25",
+    "Serveur WWW": "http://www.int-evry.fr",
+    "E-mail": "contact@int-evry.fr"
+  },
+  "Groupe des Ecoles des Telecommunications": "Groupe des Ecoles des Télécommunications"
 }

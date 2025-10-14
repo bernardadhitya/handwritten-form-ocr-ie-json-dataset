@@ -1,15 +1,14 @@
 {
-  "document": null,
-  "scenario": null,
-  "writer": "ANTVNES CRris",
-  "sender_person": "ANTVNES CRris",
-  "sender_company": "FRANCE TELEPHONE",
-  "sender_tel": "17v1d E",
-  "sender_fax": null,
-  "receiver_person": "Madami, Monsiun",
-  "receiver_company": null,
-  "subject": null,
-  "date": "le O1 aul z0OF",
-  "place": "48 RUE DV VIEUX CHAUMONT, 8820O ST NA8ORD",
-  "box": null
+  "Name": "ANTVNES CRris",
+  "Address": {
+    "Street": "48 RUE DV VIEUX CHAUMONT",
+    "City": "ST NA8ORD",
+    "Postal Code": "88200",
+    "Country": "FRANCE"
+  },
+  "Contact": {
+    "Phone": "17v1d E",
+    "Fax": null
+  },
+  "Date": "le O1 aul z0OF"
 }

@@ -1,15 +1,24 @@
 {
-  "document": "Y Saval",
-  "scenario": "A6 s2 roued Claka",
-  "writer": "O 6 39O RENDEJUN",
-  "sender_person": "olas",
-  "sender_company": "Cormro",
-  "sender_tel": "OBJET- Ouvr1uu d co",
-  "sender_fax": "peu clat",
-  "receiver_person": "luteha do",
-  "receiver_company": "Y rv",
-  "subject": "buouir w coupl dou Voto 1",
-  "date": "04.15.98.01.70",
-  "place": "Yous olouou d. ol",
-  "box": "Ko uac asw'u"
+  "locations": [
+    {
+      "name": "A6",
+      "street": "roued Claka",
+      "city": "RENDEJUN"
+    },
+    {
+      "name": "Y Saval",
+      "street": "",
+      "city": ""
+    },
+    {
+      "name": "Cormro",
+      "street": "",
+      "city": ""
+    },
+    {
+      "name": "Voto 1",
+      "street": "",
+      "city": ""
+    }
+  ]
 }

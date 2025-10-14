@@ -1,14 +1,16 @@
 {
-  "document": "Frux Domien",
-  "scenario": null,
-  "writer": null,
-  "sender_person": "Frux Domien",
-  "sender_company": null,
-  "sender_tel": null,
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
-  "date": "26 rue des FsuveHes",
-  "place": "6116O Wissembourg",
-  "box": "EUDAG 48"
+  "Client": {
+    "Name": "Frux Domien",
+    "Address": "26 rue des FsuveHes, 6116O Wissembourg",
+    "Date of Subscription": null
+  },
+  "Subscription": {
+    "Type": null,
+    "Price": null,
+    "Duration": "premler mois"
+  },
+  "Payment": {
+    "Amount": null,
+    "Date": null
+  }
 }

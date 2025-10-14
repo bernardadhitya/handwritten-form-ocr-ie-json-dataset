@@ -1,63 +1,23 @@
 {
-  "survey": {
-    "title": null,
-    "introduction": null,
-    "questions": [
-      {
-        "question": null,
-        "options": [
-          "Yes",
-          null
-        ]
-      },
-      {
-        "question": "Once you received the kit and materials, did you review them in detail?",
-        "options": [
-          "Yes",
-          null
-        ],
-        "response": null
-      },
-      {
-        "question": null,
-        "response": null
-      },
-      {
-        "question": null,
-        "options": [
-          null,
-          null
-        ],
-        "response": null,
-        "follow_up": {
-          "question": "If yes, who?",
-          "response": null
-        }
-      },
-      {
-        "question": null,
-        "options": [
-          null,
-          null
-        ],
-        "response": null,
-        "follow_up": {
-          "question": null,
-          "response": null
-        }
-      }
-    ],
-    "personal_information": {
-      "name": null,
-      "position": null,
-      "organization": null,
-      "mailing_address": "",
-      "city": null,
-      "state": null,
-      "zip": null,
-      "telephone_area_code": "",
-      "telephone_number": ""
+  "Support The Law Program": {
+    "Requested Information": "Yes",
+    "Received Kit and Materials": "Yes",
+    "Reviewed in Detail": "Yes",
+    "Impression": null,
+    "Shared Program": {
+      "With Department": "Yes",
+      "With Community": "No"
     },
-    "closing": null
+    "Suggestions for Improvement": null
+  },
+  "Contact Information": {
+    "Name": "Smilgr",
+    "Position": "Pregam",
+    "Organization": null,
+    "Mailing Address": "51255",
+    "City": "how",
+    "State": "Zip",
+    "Zip": "9350",
+    "Telephone": "532509"
   }
 }

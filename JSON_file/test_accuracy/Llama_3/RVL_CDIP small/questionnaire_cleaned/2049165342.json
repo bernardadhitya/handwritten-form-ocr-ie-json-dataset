@@ -1,74 +1,43 @@
 {
-  "conference_center": "NEW YORK CONFERENCE CENTER",
-  "group": "GROUPDATETIME",
-  "datetime": null,
-  "address": "240 MADISQN AVENUE.",
-  "survey": {
-    "title": "Social Networks Screener",
-    "job_number": "JOB04/359",
-    "location": {
-      "city": "NEW YORK",
-      "state": "NY",
-      "zip": "10016"
-    },
-    "respondent": {
-      "name": "AOBARD",
-      "phone": "2/8 373-8638",
-      "city": "BRQOy",
-      "zip": "223"
-    },
-    "questions": [
+  "Location": {
+    "Name": "NEW YORK CONFERENCE CENTER",
+    "Address": "240 MADISON AVENUE, NEW YORK,NY 10016"
+  },
+  "Respondent": {
+    "Name": "AOBARD",
+    "Phone": "2/8 373-8638",
+    "Address": "BRQOY, ZIP//223"
+  },
+  "Survey": {
+    "AgeRange": "18-24",
+    "Products": [
       {
-        "question": "Does anyone living in your household fit that description?",
-        "answer": "No"
+        "Type": "Packaged cookies"
       },
       {
-        "question": "First how old are you?",
-        "answer": "30 years"
+        "Type": "Diet or low-calorie soft drinks"
       },
       {
-        "question": "Please tell me whether you, yourself, use that type of product.",
-        "answers": [
-          {
-            "product": "Packaged cookies",
-            "answer": "X"
-          },
-          {
-            "product": "Diet or low-calorie soft drinks",
-            "answer": "X"
-          },
-          {
-            "product": "Regular soft drinks",
-            "answer": "X"
-          },
-          {
-            "product": "Decaffeinated coffee",
-            "answer": "X"
-          },
-          {
-            "product": "Regular coffee",
-            "answer": "X"
-          },
-          {
-            "product": "Cigarettes",
-            "answer": "X"
-          },
-          {
-            "product": "Paper towels",
-            "answer": "X"
-          },
-          {
-            "product": "Frozen vegetables",
-            "answer": "X"
-          },
-          {
-            "product": "Canned vegetables",
-            "answer": "X"
-          }
-        ]
+        "Type": "Regular soft drinks"
+      },
+      {
+        "Type": "Decaffeinated coffee"
+      },
+      {
+        "Type": "Regular coffee"
+      },
+      {
+        "Type": "Cigarettes"
+      },
+      {
+        "Type": "Paper towels"
+      },
+      {
+        "Type": "Frozen vegetables"
+      },
+      {
+        "Type": "Canned vegetables"
       }
     ]
-  },
-  "code": "9ewvP zE",
-  "id": "2049165342"
+  }
 }

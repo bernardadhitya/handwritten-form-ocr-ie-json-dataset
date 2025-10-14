@@ -1,33 +1,45 @@
 {
-  "Code d'envoi": null,
-  "Nom": "Robin",
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "67310",
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": "Modification de contrat / Commande",
-  "Objet Scénario": "Augmentation (x2) des quantités d'actions\\nboursières commandées",
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": "Nernier",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": "27/04/07",
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "x",
-  "Date d'envoi par courriel": "27/04/07",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": "XERCBF",
+  "Questionnaire": {
+    "Identite fictive": {
+      "Nom": "Re&im",
+      "Prenom": ".0."
+    },
+    "Adresse": {
+      "Numero": null,
+      "Rue": "...?.....u...da...A.ca..cia..",
+      "Ville": "Cnakatt"
+    },
+    "Tel": "03sys34z6",
+    "Scenario": {
+      "Categorie": "Ccatégorie...edipi.catim...da..cemtaat...emmamd",
+      "Objet": "cAmgmmkatiom.(x.)..daa..uamtiten..d.!l.ask'am..&.ownm.aa...cemmamdaao."
+    },
+    "Complement": "BE83",
+    "Reference client eventuelle": "Interlocuteur..Bomqua...a.di...epuaana.",
+    "Interlocuteur": {
+      "Banque": null,
+      "Nom": "Bomqua",
+      "Adresse": "Au...Bewng",
+      "Code postal": "4o",
+      "Ville": "Veuni.an"
+    },
+    "Redaction": {
+      "Type de stylo utilise": "bille",
+      "Temps passe a traiter le scenario": "2.?.... minutes."
+    },
+    "Contribution": {
+      "J'envoie mon courrier par voie postale a la date du": "2.lo?.(.a?",
+      "Mon courrier contient une page de": "fax",
+      "Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+      "Jai envoye par courriel mon courrier numerise le": "23.loul.o.3",
+      "Marque et modele du scanner": "c.aRumake.s....sC33.&.",
+      "Format": [
+        "PNG",
+        "GIF",
+        "TIFF"
+      ],
+      "Resolution des images": "3..... dpi/ppp"
+    }
+  }
 }

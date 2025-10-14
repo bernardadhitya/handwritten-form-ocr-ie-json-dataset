@@ -1,27 +1,13 @@
 {
-  "company": "INBIFO Institut fur biologische Forschung GmbH",
-  "department": "mBiFO",
-  "section": "Ablage",
-  "telefax_message_no": "TELEFAXMESSAGE NO.:",
-  "telephone": "0 22 03)3031",
-  "telefax": "0 22 03)303-302",
-  "document": "GNI_FAX.DOC",
-  "date": null,
-  "from": "Dr.W.Reininghaus",
-  "to": "Dr. Gerry Nixon",
-  "address": {
-    "company": "Philip Morris USA",
-    "research_center": "Research Center",
-    "po_box": "P.O.Box26583",
-    "city": "Richmond",
-    "state": "Va.",
-    "zip": "23261",
-    "country": "U.S.A."
+  "sender": {
+    "name": "Dr.W.Reininghaus",
+    "organization": "INBIFO Institut fur biologische Forschung GmbH",
+    "address": "EL",
+    "telefax": "0 22 03)303-302"
   },
-  "telefax_no": "001-804-274 38 90",
-  "number_of_following_pages": "2501778675",
-  "additional_info": {
-    "trade_register": "Trade ReglsterCologne HRB357",
-    "number": "2794"
-  }
+  "recipient": {
+    "name": "Dr. Gerry Nixon"
+  },
+  "date": "DATE:",
+  "pages": "NUMBEROFFOLLOWING PAGES For your information! 2501778675"
 }

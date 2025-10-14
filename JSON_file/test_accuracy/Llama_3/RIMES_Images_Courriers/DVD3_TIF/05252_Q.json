@@ -1,33 +1,36 @@
 {
-  "Code d'envoi": null,
-  "Nom": "FAY",
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": null,
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": "Relance de courrier sans réponse",
-  "Objet Scénario": null,
-  "Complément Scénario": "\\n",
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": "",
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": "",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": "23/04/07",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": "",
-  "Marque et modèle scanner": null
+  "Questionnaire": {
+    "Identite fictive": {
+      "Nom": "FAY",
+      "Prenom": "ased."
+    },
+    "Adresse": {
+      "Code postal": "L665o",
+      "Ville": "....iEFEENTHAL"
+    }
+  },
+  "Scenario": {
+    "Complement": "."
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [
+      "bille"
+    ],
+    "Temps passe a traiter le scenario": "...... minutes."
+  },
+  "Contribution": {
+    "Cocher les elements de votre contribution pour le_scenario traite": {
+      "Jenvoie mon courrier par voie postale a la date du 24.leuloz.": true,
+      "Mon courrier contient une page de garde de fax": true,
+      "Avant mon envoi postal, jai telecopie ma contribution le": true,
+      "Jai envoye par courriel mon courrier numerise le 23L.4L.10.1.": true
+    },
+    "Marque et modele du scanner": "6.00...Pr",
+    "Format": [
+      "PNG",
+      "XGIF",
+      "TIFF"
+    ],
+    "Resolution des images": "300"
+  }
 }

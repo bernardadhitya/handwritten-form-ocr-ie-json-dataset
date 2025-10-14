@@ -1,33 +1,45 @@
 {
-  "Code d'envoi": "YCMRXC",
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": "6 Route des Vosges",
-  "Code Postal": null,
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": "EWXFL14",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": "26 mars 2007",
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": "",
-  "Résolution": "",
-  "Format PNG": "",
-  "Format GIF": null,
-  "Format TIFF": "",
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": "yeMRxc",
+    "Identite fictive": {
+      "Nom": "BOI.O.NNE",
+      "Prenom": "alns.ce"
+    },
+    "Adresse": "o.ue...osa.es",
+    "Tel": null,
+    "Categorie": "Obiet...",
+    "SoxI~": null,
+    "Objet": "...u..c...",
+    "Complement": "EWxED",
+    "Reference client eventuelle": {
+      "Adresse": "...e...",
+      "Code postal": "8 H2n0",
+      "Ville": "ERN&S......FN..A.1NES"
+    },
+    "Code postal": "8 H2n0",
+    "Ville": "SEUA.NCE",
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "bille",
+        "plume",
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": "minutes"
+    },
+    "Contribution": {
+      "Cocher les elements_de_votre contribution pour le_scenario traite": [
+        "J'envoie mon courrier par voie postale a la date du..2..a...",
+        "+2€ Mon courrier contient une page de garde de fax.",
+        "+1e Avant mon envoi postal, j'ai télécopié ma contribution le &c...a.&o7",
+        "+1€ J'ai envoyé par courriel mon courrier numérisé le "
+      ]
+    },
+    "Marque et modele du scanner": {
+      "Format": [
+        "PNG",
+        "GIFTIFF"
+      ],
+      "Resolution des images": "dpi/ppp"
+    }
+  }
 }

@@ -1,14 +1,17 @@
 {
-  "document": "Bs",
-  "scenario": "Innover, embouteiller, maitriser.",
-  "writer": null,
-  "sender_person": "f0u9u",
-  "sender_company": "Pcvf",
-  "sender_tel": "04 67 51 87 87",
-  "sender_fax": "04 67 51 87 88",
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": null,
-  "date": "17-janv.-07",
-  "place": "villeveyrac, route de MONTAGNAC"
+  "structured_information": {
+    "destinataire": "f0u9u",
+    "expediteur": null,
+    "date": "17-janv.-07",
+    "numero_de_telecopie": "04 67 51 87 88",
+    "numero_de_telephone": "04 67 51 87 87",
+    "nombre_de_pages": "1ERE PAGE",
+    "objet": "Innover, embouteiller, maitriser.",
+    "reference": null,
+    "urgent": "DURGENT",
+    "pour_avis": "POUR AVIS",
+    "commentaires": "D COMMENTAIRES",
+    "reponse": "BREPONSE",
+    "confidentiel": "D CONFIDENTIEL"
+  }
 }

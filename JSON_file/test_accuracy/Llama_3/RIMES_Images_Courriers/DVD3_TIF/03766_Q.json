@@ -1,33 +1,45 @@
 {
-  "Code d'envoi": "OJYYHM",
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": "10 Rue LEO VALENTIN",
-  "Code Postal": null,
-  "Ville": "ST SAUVEUR",
-  "Téléphone": null,
-  "Catégorie Scénario": "Relance de courrier sans réponse",
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": "AVIGNON",
-  "Temps passé": "20",
-  "Stylo bille": null,
-  "Stylo plume": "",
-  "Stylo feutre": null,
-  "Contribution postale": "x",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "x",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": "Questionnaire",
+    "Identite fictive": {
+      "Nom": "A.G.E.O.RG.ES",
+      "Prenom": "Manys.e.",
+      "Adresse": "Rue...LEO....VAE.T.....",
+      "Code postal": "o3 a ville...ST...SAUVEUR",
+      "Tel": null,
+      "Ville": "ST...SAUVEUR"
+    },
+    "Scenario": {
+      "Categorie": "Relance.....awuie...sans...épos..",
+      "Objet Vehe": "oh..changemen..d...doan....pessonne.l..n'.o.pos..ek.",
+      "Complement": "auucu..",
+      "Reference client eventuelle": "EHR5",
+      "Interlocuteur BAAE_": "BAA...Asswnan.",
+      "Adresse": "u...S...Ex.u.e.RY..",
+      "Code postal": " [&4   a] VilleAV.l.GNQN.",
+      "Ville": "AV.l.GNQN."
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "billeplumefeutre"
+      ],
+      "Temps passe a traiter le scenario": "2.O.... minutes"
+    },
+    "Contribution": {
+      "Elements de contribution": [
+        "J'envoie mon courrier par voie postale a la date du..3...0.",
+        "+2€ Mon courrier contient une page de garde de fax.",
+        "+1€ Avant mon envoi postal, j'ai télécopié ma contribution le..ai...e...&.03.0",
+        "+1€ J'ai envoyé par courriel mon courrier numérisé le.....0.3...0..",
+        "HP"
+      ],
+      "Marque et modele du scanner": "HP",
+      "Format": [
+        "PNG",
+        "GIF",
+        "TIFF"
+      ],
+      "Resolution des images": "dpi. dpi/ppp"
+    }
+  }
 }

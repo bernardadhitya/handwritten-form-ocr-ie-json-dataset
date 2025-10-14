@@ -1,36 +1,25 @@
 {
-  "document_number": "21/1194",
+  "date": "21/1194",
   "time": "19:00",
-  "phone": "+492203303362",
-  "company": "INFIBO Koeln",
-  "reference": "GNI GPA RSO",
-  "page_number": "001/006",
-  "institute": "INBIFO Institut fur biologische Forschung GmbH",
-  "service": "Contract Research",
-  "telephone": "022 03)303-1",
-  "telefax": "02203303-362",
-  "address": "Puggerstrae 3D-51149 Cologne",
-  "department": "/BRA",
-  "fax_document": "GNI_FAXDOC",
-  "date": null,
-  "from": "Dr.W.Reininghaus",
-  "to": "Dr.Gerry Nixon",
-  "recipient_address": {
-    "company": "Phillp Morris USA",
-    "department": "Research Center",
-    "po_box": "P.O.Box26583",
-    "city": "Richmond",
-    "state": "Va.",
-    "zip": "23261",
-    "country": "U.S.A."
+  "numbers": {
+    "first": "+492203303362",
+    "second": "001/006",
+    "third": "022 03)303-1",
+    "fourth": "02203303-362"
   },
-  "recipient_telefax": "001-804-274 3055",
-  "number_of_following_pages": "For your information!",
-  "note": "ouncl roGi Nicotiu MfGoCjf",
-  "additional_info": {
-    "ouncl": "bg RJR",
-    "bg": "2050882651",
-    "trade_register": "Trade RegisterCologne HR8 357",
-    "general_manager": "Genera Mananer.Dr.Wo Reninghaus"
+  "company": "INBIFO Institut fur biologische Forschung GmbH",
+  "departments": [
+    "Contract Research"
+  ],
+  "reference": "GNI_FAXDOC",
+  "sender": {
+    "name": "Dr.W.Reininghaus",
+    "address": "Puggerstrae 3D-51149 Cologne",
+    "telefax": "02203303-362"
+  },
+  "recipient": {
+    "name": "Dr.Gerry Nixon",
+    "address": "Phillp Morris USA Research Center P.O.Box26583 Richmond,Va.23261 U.S.A.",
+    "telefax": "001-804-274 3055"
   }
 }

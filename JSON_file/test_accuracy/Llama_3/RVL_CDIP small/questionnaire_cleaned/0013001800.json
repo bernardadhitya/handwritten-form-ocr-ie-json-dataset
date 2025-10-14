@@ -1,34 +1,27 @@
 {
   "Card": "-2",
-  "DHCO": "DHCO-O",
-  "Rotation": "Rotation",
-  "CALL_BACK_QUESTIONNAIRE": {
-    "Numbr_Cr": "As you rcmember, I gave you two nunbered cigarettes to snoke.",
-    "Terminate_If_0": "5-6",
-    "Record": "(RECORD)",
-    "Terminate_If": "&-",
-    "Record_2": "(RECORD",
-    "Do_Not_Read": "No Preference",
-    "Skip_To_Qu_3a": null,
-    "Record_Verbatim": "RECORD VERBATIM: PRODE THROUGHLY",
-    "Compare_Cigarette": "cigarette#",
-    "Read_Choices_Record_Answer_Below": [
-      "Much better",
-      "Somewhat better",
-      "About the same",
-      "Not as good",
-      "Or, Much worse"
-    ],
-    "How_Does_Cigarette_Compare": "often",
-    "Read_Choices_Record_Answer_Above": null,
-    "Read_Choices_Record_Below": [
-      "A great deal stronger",
-      "Somewhat stronger",
-      "Exactly the same",
-      "Somewhat milder",
-      "Or, A great deal milder"
-    ],
-    "Compared_To_Brand_From_Screener": "27",
-    "Read_Choices_Record_Answer": null
+  "Questionnaire": "CALL BACK QUESTIONNAIRE",
+  "Number": "5-6",
+  "Cigarettes": {
+    "Numbered": "2",
+    "Pack": "20"
+  },
+  "Terminate": {
+    "Record": "RECORD",
+    "If": "O"
+  },
+  "Preference": {
+    "Cigarette": null,
+    "Comparison": null,
+    "Brand": "27"
+  },
+  "Opinions": {
+    "About": "strength",
+    "Characteristics": null,
+    "Comparison": "Much better"
+  },
+  "Choice": {
+    "Cigarette": null,
+    "Brand": "58"
   }
 }

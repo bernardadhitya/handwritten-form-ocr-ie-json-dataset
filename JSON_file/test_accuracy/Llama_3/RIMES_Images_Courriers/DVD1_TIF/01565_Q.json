@@ -1,33 +1,46 @@
 {
-  "Code d'envoi": null,
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": "19 RUE DE MORBACH",
-  "Code Postal": null,
-  "Ville": null,
-  "Téléphone": "0372008934",
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": "vous êtes insatisfaite du service\\n",
-  "Référence client": "RLAKJ47",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "59128",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "x",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": "",
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "A.V.P.ER.",
+        "Prenom": "O...",
+        "Adresse": "..............O...A.H..",
+        "Code postal": "L6n S3 Q ville...B.VHL",
+        "Tel": "03 It2po8s3g"
+      },
+      "Scenario": {
+        "Categorie": "u..cSam.atu.",
+        "Objet": "o......cm.a..",
+        "Complement": "wu...Aaa..as..",
+        "Reference client eventuelle": "Iinterlocuteu..........",
+        "Interlocuteur": "drese......w................",
+        "Adresse": null,
+        "Code postal": "S MZvill....UE.....E....E..CrE..U",
+        "Ville": null,
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+          ],
+          "Temps passe & traiter le scenario": "2 minutes"
+        },
+        "Contribution": {
+          "Cocher les_elements_de_votre contribution pour le_scenario_ traite": [
+            "J'envoie mon courrier par voie postale ä la date du.",
+            "+2€ Mon courrier contient une page de garde de fax.",
+            "+1€ Avant mon envoi postal, j'ai télécopié ma contribution le",
+            "+1€ J'ai envoyé par courriel mon courrier numérisé le"
+          ],
+          "Marque et modele du scanner": "Lo",
+          "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+          ],
+          "Resolution des images": null
+        }
+      }
+    }
+  }
 }

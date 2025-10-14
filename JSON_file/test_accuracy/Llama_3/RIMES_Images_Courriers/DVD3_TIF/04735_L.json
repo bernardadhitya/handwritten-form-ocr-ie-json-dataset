@@ -1,11 +1,21 @@
 {
-  "document": "83 31o",
-  "scenario": "BAAF cbswances",
-  "writer": "Hant de Jcchbonnieu",
-  ".he": null,
-  "PECH BONNiEG": null,
-  "TS KQO09": null,
-  "ma": "mtro",
-  "mon": "mon",
-  "Wtnc": "mchc"
+  "structured_information": {
+    "locations": [
+      "BAAF",
+      "PECH BONNiEG",
+      "mtro",
+      "mon",
+      "Wtnc",
+      "mchc"
+    ],
+    "coordinates": [
+      "83 31o",
+      "TS KQO09"
+    ],
+    "numbers": [
+      "83",
+      "31",
+      "09"
+    ]
+  }
 }

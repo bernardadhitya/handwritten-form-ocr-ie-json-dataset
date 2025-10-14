@@ -1,14 +1,19 @@
 {
-  "document": "BENAISSA",
-  "scenario": "Amois",
-  "writer": "BENAISSA",
-  "sender_person": "BENAISSA",
-  "sender_company": "Coisse Pimone dAsuuone vlaldi",
-  "sender_tel": "hmunvm aas o9",
-  "sender_fax": null,
-  "receiver_person": "Ilonsen",
-  "receiver_company": "Oan e but",
-  "subject": "canua, de vous motin meo mnvells usodonnee banuaino-",
-  "date": "08.03.07",
-  "place": "2 Avenue du 1auchal Jffne"
+  "organizations": [
+    {
+      "name": "BENAISSA",
+      "code": "JW1WUE"
+    }
+  ],
+  "addresses": [
+    {
+      "street": "2 Avenue du 1auchal Jffne",
+      "city": "Amois"
+    }
+  ],
+  "dates": [
+    {
+      "date": "08.03.07"
+    }
+  ]
 }

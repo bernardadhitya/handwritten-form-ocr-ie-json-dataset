@@ -1,28 +1,16 @@
 {
-  "fax": {
-    "header": {
-      "date": "FEB 1099",
-      "time": "0902AM",
-      "sender": "Philip Mors USA.R&D,Richmond.VA",
-      "page": "P.1"
-    },
-    "to": {
-      "name": "Dy. W.Reiuuehauo",
-      "company": "INBIFO",
-      "faxNo": "Eingeoangen",
-      "received": "1.FE8.1999"
-    },
-    "from": {
-      "name": "Semm",
-      "company": null,
-      "phone": "804/274",
-      "fax": "804/274",
-      "reference": "3",
-      "code": "PM 80310"
-    },
-    "date": "1.FE8.1999",
-    "pagesToFollow": "PAGESTOFOLLOW",
-    "confidentialityNotice": "This facsimile transmission (and/or the documents accompanying it) may contain confidential information belonging to the sender. The information is intended only for the use of the addressee or entity named above. If you are not the intended recipient, you are hereby notified that any disclosure, copying, distribution or the taking of any action in reliance of the contents of this information is strictly prohibited by law. If you have received this transmission in error,please immediately notify us by telephone to arrange for the returo of the documents.",
-    "message": "T4e DVe tig. tt.usc 2505364154"
-  }
+  "date": "1.FE8.1999",
+  "time": "0902AM",
+  "from": {
+    "name": "Philip Mors",
+    "company": "USA.R&D",
+    "address": "Richmond.VA",
+    "phone": "804/274",
+    "fax": "804/274"
+  },
+  "to": {
+    "name": "Dy. W.Reiuuehauo",
+    "fax": "Eingeoangen"
+  },
+  "message": "T4e DVe tig. tt.usc 2505364154"
 }

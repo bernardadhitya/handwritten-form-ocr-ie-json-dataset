@@ -1,62 +1,29 @@
 {
-  "company": null,
-  "address": {
-    "street": null,
-    "suite": null,
-    "city": null,
-    "state": null,
-    "zip": "10017"
-  },
-  "survey": {
-    "id": null,
-    "name": null,
-    "phone": null,
-    "instructions": null,
-    "questions": [
-      {
-        "id": 2,
-        "text": null,
-        "probe": null,
-        "categories": {
-          "general_ads": [
-            null,
-            null,
-            null,
-            null,
-            "Hilton Hotels",
-            null,
-            "Budweiser",
-            null,
-            "Kawasaki",
-            null,
-            null,
-            null,
-            null,
-            "Taster's Choice",
-            null,
-            null
-          ],
-          "cigarette_ads": [
-            null,
-            "Golden Lights",
-            "Kent Golden",
-            null,
-            null
-          ]
-        }
-      },
-      {
-        "id": null,
-        "text": "Do you remember any ads for cigarettes?",
-        "brands": [
-          "Luke",
-          null,
-          null,
-          null,
-          null
-        ],
-        "other_specify": ""
-      }
-    ]
-  }
+  "brand_names": [
+    "Amana Range",
+    "BankAmericard/VISA",
+    "Dole Pineapple",
+    "General Electric Washer",
+    "Bayer Aspirin",
+    "Hilton Rotels",
+    "Golden Lights",
+    "Bolens Lawn Mower",
+    "Budveiser",
+    "Old Spice Pocket Cologn",
+    "Kawasakf",
+    "Kent Colden",
+    "Canadian Club",
+    "Polaroid Canera",
+    "Singer Sewing Machines",
+    "Concord Watches",
+    "Taster's Choice",
+    "Crest toothpaste",
+    "Weight Watchers",
+    "Luke",
+    "Golden Uasp",
+    "Kent Golden",
+    "Kent Colden Light",
+    "Kent Lights",
+    "Kent Unsp"
+  ]
 }

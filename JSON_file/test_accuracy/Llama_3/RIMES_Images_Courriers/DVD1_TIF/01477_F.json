@@ -1,15 +1,18 @@
 {
-  "document": "anpe",
-  "scenario": "CALAIS THEATRE",
-  "writer": null,
-  "sender_person": "HEsSiNA BriqiHE",
-  "sender_company": "anpe",
-  "sender_tel": "03.21.46.57.0003.21.46.57.19",
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": "Demande de documanahon concornant les cauat d'assurance habirach on",
-  "date": "38150",
-  "place": "Senray",
-  "box": "B.P.349"
+  "Organization": "CALAIS THEATRE",
+  "Address": {
+    "Street": "37.rue Gustave Cuvelier",
+    "City": "CALAIS",
+    "Postal Code": "62107",
+    "CEDEX": "CEDEX"
+  },
+  "Contact": {
+    "Email": "ale.calais-theatre@anpe.fr",
+    "Phone": "03.21.46.57.0003.21.46.57.19",
+    "Fax": null
+  },
+  "Correspondence": {
+    "Recipient": "HEsSiNA BriqiHE",
+    "Subject": "Demande de documanahon concornant les cauat d'assurance habirach on"
+  }
 }

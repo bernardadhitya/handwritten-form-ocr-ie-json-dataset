@@ -1,15 +1,14 @@
 {
-  "document": "TÉLÉCOPIE",
-  "scenario": "Non protégéeDiffusion restreinte",
-  "writer": "routine",
-  "sender_person": "u8m",
-  "sender_company": "DGA",
-  "sender_tel": "01.42.31.92.39",
-  "sender_fax": "01.42.31.99.55",
-  "receiver_person": "DELEGATION GENERALE",
-  "receiver_company": "POURL'ARMEMENT",
-  "subject": "Fax01.42.31",
-  "date": "14",
-  "place": "Centre d'expertise parisien",
-  "box": "L 3"
+  "Organization": "REPUBLIQUE FRANCAISE",
+  "Ministry": "MINISTERE DE LA DEFENSE",
+  "Date": "14",
+  "Department": "DGA",
+  "Location": "Centre d'expertise parisien",
+  "Number of Pages": "3",
+  "Urgency": "immédiat",
+  "Fax": "Fax01.42.31",
+  "Email": null,
+  "Address": null,
+  "Telephone": "33 (0)1.42.31.92.39",
+  "Telecopie": "33 (0)1.42.31.99.55"
 }

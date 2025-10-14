@@ -1,15 +1,26 @@
 {
-  "document": "R",
-  "scenario": "INRIA",
-  "writer": "LEFEBVRE AGNES",
-  "sender_person": "LEFEBVRE AGNES",
-  "sender_company": "INRIA",
-  "sender_tel": "01 39 63",
-  "sender_fax": "01 39 63 58 82",
-  "receiver_person": "LES",
-  "receiver_company": "3 SV1FS",
-  "subject": "ugmentatun (xi] des quantit& de CS",
-  "date": "AUTOMATIQUE",
-  "place": "Unité de Recherche INRIA Rocquencourt : Domaine de Voluceau -Rocquencourt-B.P.105-78153 Le Chesnay Cedex France",
-  "box": "Téléphone : 01 39 63 55 11 - international : +33 1 39 63 55 11 -FAX : 01 39 63 53 30 - international : +33 1 39 63 53 30"
+  "expediteur": {
+    "nom": "LEFEBVRE AGNES",
+    "departement": "MACS",
+    "batiment": "16",
+    "telephone": "01 39 63",
+    "fax": "01 39 63 58 82",
+    "email": ""
+  },
+  "destinataire": {
+    "raison_sociale": "LES 3 SV1FS",
+    "adresse": "RN 2O4",
+    "fax": ""
+  },
+  "reference": "ugmentatun (xi] des quantit& de CS",
+  "nombre_pages": "Page 1 out / Nombres de pages (y compris celle-ci) :",
+  "date": "",
+  "institut": {
+    "nom": "INRIA",
+    "unite_recherche": "Unité de Recherche INRIA Rocquencourt",
+    "adresse": "Domaine de Voluceau -Rocquencourt-B.P.105-78153 Le Chesnay Cedex France",
+    "telephone": "01 39 63 55 11",
+    "fax": "01 39 63 53 30",
+    "decret": "Décret n° 85.831 du 2 aoüt 1985"
+  }
 }

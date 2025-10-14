@@ -1,15 +1,20 @@
 {
-  "document": "SCRiBEO",
-  "scenario": "Le site des Scripteurs du projet RiMES",
-  "writer": "SCRlBEO",
-  "sender_person": "Bryan Duarte",
-  "sender_company": "SCRlBEO",
-  "sender_tel": "03.51.55.68.66",
-  "sender_fax": null,
-  "receiver_person": "Les 3 Suifs",
-  "receiver_company": null,
-  "subject": "changeueut concernant votre client",
-  "date": "26 avril 2002",
-  "place": "GRENOBLE CEDEX 03",
-  "box": "BP 12345678"
+  "SCRIBEO": {
+    "address": "51 avenue des Petits ChampsBP 12345678 GRENOBLE CEDEX 03",
+    "Tel": "01 23 4567 89",
+    "Fax": "01 23 45 67 89",
+    "E-Mail": "secretariat@scribeo.fr",
+    "Website": "http://www.scribeo.com"
+  },
+  "EXPEDITEUR": {
+    "Telephone": "03.51.55.68.66"
+  },
+  "DESTINATAIRE": {
+    "Telephone": "01.23.45.67.89"
+  },
+  "DATE": "26 avril 2oo",
+  "Objet": "changeueut concernant votre client",
+  "Categorie": "uodificatiou de coutrat",
+  "Reference": "BTQUE57",
+  "Inteilbeuteur fictif": "Les 3 Suifs"
 }

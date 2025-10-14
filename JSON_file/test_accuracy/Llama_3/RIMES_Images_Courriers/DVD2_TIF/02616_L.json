@@ -1,15 +1,18 @@
 {
-  "document": "Heumersdorf1ie 3o jnvier 9oo7",
-  "scenario": "POVEDA Hara",
-  "writer": "Banque Sxété Géniale",
-  "sender_person": "Madame,Hor&eur",
-  "sender_company": "Banque Sxété Géniale",
-  "sender_tel": "03 1O A% 88 2S",
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": null,
-  "date": null,
-  "place": "t place de la répuhque",
-  "box": "37 37O St PATEQNE RACAN"
+  "Name": "POVEDA Hara",
+  "Address": {
+    "Street": "6, rue de FaHbach",
+    "City": "HEiHERSDORF",
+    "Postal Code": "68 56O"
+  },
+  "Bank": {
+    "Name": "Banque Sxété Géniale",
+    "Location": "t place de la répuhque"
+  },
+  "Contact": {
+    "Telephone": "03 1O A% 88 2S"
+  },
+  "Reference": {
+    "Code": "SJEWX 47"
+  }
 }

@@ -1,15 +1,17 @@
 {
-  "document": "SOBEF",
-  "scenario": "FAX",
-  "writer": null,
-  "sender_person": "De",
-  "sender_company": "SOBEA Auvergne",
-  "sender_tel": "03 31 46 79",
-  "sender_fax": "0473144879",
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": "Se Jou",
-  "date": "13/03/z0",
-  "place": "B.30450 LeelaniantFeirand Cadex1",
-  "box": null
+  "Company": "SOBEF",
+  "Contact": {
+    "Name": "SOBEF",
+    "Telephone": "03 31 46 79",
+    "Fax": "0473144879",
+    "Email": null
+  },
+  "Date": "13/03/z0",
+  "Objet": "Se Jou",
+  "Address": {
+    "Street": "B.30450",
+    "City": "LeelaniantFeirand Cadex1",
+    "Postal Code": null,
+    "Country": null
+  }
 }

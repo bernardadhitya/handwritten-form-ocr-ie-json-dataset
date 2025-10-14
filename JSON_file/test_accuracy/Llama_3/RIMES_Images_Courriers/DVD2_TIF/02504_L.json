@@ -1,14 +1,12 @@
 {
-  "document": "PorF",
-  "scenario": "svr Saone",
-  "writer": "Gardes Emeric",
-  "sender_person": "Monsieur",
-  "sender_company": "BAAF Assorances",
-  "sender_tel": "03.84.66.02.81",
-  "sender_fax": null,
-  "receiver_person": "Madame",
-  "receiver_company": "SF Carreuc",
-  "date": "04/02/0F",
-  "place": "de Bourg",
-  "box": "22150"
+  "name": "Gardes Emeric",
+  "address": "16 av du 6vi1lemeF, 22150 de Bourg",
+  "phone": "03.84.66.02.81",
+  "email": null,
+  "vehicle": {
+    "make": "PorF",
+    "model": "Saone"
+  },
+  "request": "montant de la prime d'assurance correspondanr á chacun de ces",
+  "signature": "Monsieur/Madame"
 }

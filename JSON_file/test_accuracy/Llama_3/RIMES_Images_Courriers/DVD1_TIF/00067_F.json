@@ -1,15 +1,10 @@
 {
-  "document": "Télécopie/Facsimilé",
-  "scenario": null,
-  "writer": null,
-  "sender_person": "Duloug",
-  "sender_company": "CAF",
-  "sender_tel": "03.10.32.54.87",
-  "sender_fax": "Télécopieur/Fax n°",
-  "receiver_person": "Alan",
-  "receiver_company": "Service/Department",
-  "subject": null,
-  "date": "Page1/",
-  "place": "Institut national des télécommunications",
-  "box": "A8/+/0 6"
+  "Destinataire": {
+    "Nom": "Duloug",
+    "Adresse": "9 rue Charles Fourier 91011 Evry Cedex",
+    "Téléphone": "01 60 76 40 40",
+    "Télécopie": "01 60 76 43 25",
+    "Site Web": "http://www.int-evry.fr",
+    "E-mail": "contact@int-evry.fr"
+  }
 }

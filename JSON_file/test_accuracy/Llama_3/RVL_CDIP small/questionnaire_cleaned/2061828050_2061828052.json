@@ -1,23 +1,9 @@
 {
-  "lcte": "lcte",
-  "permit_number": "1895",
-  "city": "SIOUX FALLS",
-  "state": "SD",
-  "zip_code": "57117-9657",
-  "business_reply_mail": {
-    "first_class_mail": "FIRST CLASS MAIL",
-    "postage_paid_by_addressee": "POSTAGE WILL BE PAID BY ADDRESSEE",
-    "no_postage_necessary_if_mailed_in_us": "NO POSTAGE NECESSARY IF MAILED IN THE UNITED STATES"
-  },
-  "addressee": {
-    "name": "MARLBORO",
-    "po_box": "P.O.BOX5503",
-    "city": "SIOUXFALLS",
-    "state": "SD",
-    "zip_code": "57117-9657"
-  },
-  "tracking_numbers": [
-    "2061828050",
-    "2061828051"
-  ]
+  "Company": "MARLBORO",
+  "Address": {
+    "Street": "P.O.BOX5503",
+    "City": "SIOUXFALLS",
+    "State": "SD",
+    "ZipCode": "57117-9657"
+  }
 }

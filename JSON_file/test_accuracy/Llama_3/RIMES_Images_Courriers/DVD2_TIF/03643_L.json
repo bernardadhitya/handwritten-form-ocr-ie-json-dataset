@@ -1,15 +1,23 @@
 {
-  "document": "RE1NA Seyge",
-  "scenario": null,
-  "writer": null,
-  "sender_person": "Madame, Monsieur",
-  "sender_company": "ns mh Db3",
-  "sender_tel": "03 61 21 31 95",
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": "Augmentatior des quantite's de CD",
-  "date": "13 mars 2007",
-  "place": "42 Rue St. Pierre, 15743O, le VaI de Guebbang",
-  "box": null
+  "Address": {
+    "Street": "42 Rue St. Pierre",
+    "Number": "15743O"
+  },
+  "Client": {
+    "Name": "ns mh Db3",
+    "Title": "Madame, Monsieuy",
+    "Request": "Augmentatior des quantite's de CD",
+    "Purchase": {
+      "Item": "150 du deyniey album de Potrrk Samus, e CDs",
+      "Quantity": null
+    }
+  },
+  "Modification": {
+    "Request": "modificaton en une",
+    "Date": "10 mars 2007",
+    "Item": null,
+    "Quantity": null
+  },
+  "Response": "ve'ponse agre'able",
+  "Salutation": "Salutations"
 }

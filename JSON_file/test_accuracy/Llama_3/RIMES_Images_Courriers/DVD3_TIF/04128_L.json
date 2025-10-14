@@ -1,15 +1,18 @@
 {
-  "document": "Bmestriel",
-  "scenario": "Chantr &ushido",
-  "writer": "MOvssA0vi Drder",
-  "sender_person": "AU BOURG",
-  "sender_company": "12 me de Dettwille",
-  "sender_tel": "33 L 60 ARSAC",
-  "sender_fax": "67490 WALDOLWisHEin",
-  "receiver_person": "A WadRnisem",
-  "receiver_company": "de 23 mas 2OO7",
-  "subject": "demande dabomnement",
-  "date": "23 mas 2OO7",
-  "place": "WALDOLWisHEin",
-  "box": null
+  "structured_information": {
+    "names": [
+      "Chantr",
+      "Monsieu"
+    ],
+    "dates": [
+      "23 mars 2007"
+    ],
+    "numbers": [
+      "12",
+      "33",
+      "60",
+      "67490",
+      "2"
+    ]
+  }
 }

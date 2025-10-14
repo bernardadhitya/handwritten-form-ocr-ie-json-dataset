@@ -1,14 +1,12 @@
 {
-  "document": "GENT1LHOMME R&9",
-  "scenario": null,
-  "writer": null,
-  "sender_person": "MAN iF Aswromc&",
-  "sender_company": "L48 no& saoe",
-  "sender_tel": "03.19.24.49.30",
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": "OBERDORF SPACH BACH",
-  "date": "1909.2003.",
-  "place": "SOUILLY",
-  "box": null
+  "Name": "GENT1LHOMME R&9",
+  "Address": {
+    "Street": "OBERDORF SPACH BACH",
+    "Number": "67 360",
+    "City": "SOUILLY",
+    "Country": null
+  },
+  "Phone": "03.19.24.49.30",
+  "Fax": null,
+  "Date": "1909.2003"
 }

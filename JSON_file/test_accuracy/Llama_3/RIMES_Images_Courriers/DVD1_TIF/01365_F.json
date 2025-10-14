@@ -1,15 +1,30 @@
 {
-  "document": "Télécopie/Facsimilé",
-  "scenario": null,
-  "writer": "Baudve God;t PopuI",
-  "sender_person": "Baudve God;t PopuI",
-  "sender_company": "Institut national des télécommunications",
-  "sender_tel": "03.29.44.72.62",
-  "sender_fax": "O1.60.46.43.33",
-  "receiver_person": "Sonn",
-  "receiver_company": "Co'c:le",
-  "subject": "Dim:nnt:on d, vssenats Oun Lon pilm Epuqne Loyans",
-  "date": "13/12/2006",
-  "place": "9 rue Charles Fourier 91011 Evry Cedex",
-  "box": "Page 1/1"
+  "Telecopie/Facsimile": {
+    "Destinataire": {
+      "Nom/Name": "Baudve God;t PopuI"
+    },
+    "Service/Entreprise/Department/Company": {
+      "Service/Department": "Institut national des télécommunications"
+    },
+    "Fax no": {
+      "Fax no": "O1.60.46.43.33"
+    },
+    "Telephone": {
+      "Telephone/Telephone": "03.29.44.72.62"
+    },
+    "Date": "13/12/2006",
+    "Objet": "Dim:nnt:on d, vssenats Oun Lon pilm Epuqne Loyans Ro Cuaf: YTAS1 13 Co& euug: FBRGTX Anouua c-joiw 2 puf+ lutat:ons ccile",
+    "Institut national des télécommunications": {
+      "Address": "9 rue Charles Fourier 91011 Evry Cedex",
+      "Telephone": "01 60 76 40 40",
+      "Telecopie": "01 60 76 43 25",
+      "Serveur WWW": "http : //www.int-evry.fr",
+      "E-mail": "contact@int-evry.fr"
+    },
+    "Groupe des Ecoles des Telecommunication": {
+      "Page": "Page 1/1",
+      "Ville": null,
+      "Website": null
+    }
+  }
 }

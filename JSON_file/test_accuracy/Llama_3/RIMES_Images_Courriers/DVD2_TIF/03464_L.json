@@ -1,15 +1,14 @@
 {
-  "document": "BOuTeT Zakaua",
-  "scenario": "&o sue de Qa Fonaune",
-  "writer": "SF46 o BoUSBAC",
-  "sender_person": "p sen F8",
-  "sender_company": "Banque d@hiF LyonnaiS",
-  "sender_tel": "0388410829",
-  "sender_fax": null,
-  "receiver_person": "Yadome, monseus?",
-  "receiver_company": null,
-  "subject": "Gbyer : Dimmuam das uousomams &u am0n PEL",
-  "date": "Bousbac, Qa 8 amaxs 2oo9",
-  "place": "34 placa du g&noxa &e Gavlle O24O ST 8imon",
-  "box": null
+  "locations": [
+    {
+      "street": "placa du g&noxa",
+      "city": "Gavlle",
+      "zip": "O24O ST 8imon"
+    }
+  ],
+  "phone_numbers": [
+    {
+      "number": "0388410829"
+    }
+  ]
 }

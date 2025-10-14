@@ -1,15 +1,17 @@
 {
-  "document": "GRTgaz",
-  "scenario": "RESEAUNORDEST",
-  "writer": "AGENCE EXPLOITATION LILLE-BETHUNE",
-  "sender_person": "Cucas Danill.",
-  "sender_company": "GRTgaz",
-  "sender_tel": "OMFUC 43",
-  "sender_fax": null,
-  "receiver_person": "Mensiews",
-  "receiver_company": "Ueuilay trounen ci-joumt la damande de quse em",
-  "subject": null,
-  "date": null,
-  "place": null,
-  "box": null
+  "RESEAU": "GRTgaz",
+  "COMPANY": "AGENCE EXPLOITATION LILLE-BETHUNE",
+  "AGENCY": "AGENCE EXPLOITATION LILLE-BETHUNE",
+  "REFERENCE": {
+    "VOS": "NAIF ASSURANCE",
+    "ASSURANCE": "NAIF ASSURANCE"
+  },
+  "CONTACT": {
+    "NAME": "Cucas Danill.",
+    "INTERLOCUTEUR": "OMFUC 43"
+  },
+  "DATE": "Ueuilay trounen ci-joumt la damande de quse em",
+  "PHONE": null,
+  "FAX": null,
+  "WEBSITE": null
 }

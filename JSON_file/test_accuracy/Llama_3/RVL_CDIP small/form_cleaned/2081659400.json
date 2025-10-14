@@ -1,37 +1,17 @@
 {
-  "communicationResultReport": {
-    "date": null,
-    "time": null,
-    "fileMode": null,
-    "option": "FILE MODE",
-    "addressGroup": null,
-    "result": null,
-    "page": null,
-    "memoryTx": "479",
-    "errorReason": [
-      {
-        "code": null,
-        "description": null
-      },
-      {
-        "code": null,
-        "description": null
-      }
-    ]
-  },
-  "sender": {
-    "company": null,
-    "department": null,
-    "address": null,
-    "fax": "(917) 663-5327"
-  },
-  "faxTransmittalSheet": {
-    "date": null,
-    "amount": null,
-    "name": null,
-    "title": null,
-    "company": null,
-    "faxNumber": "2081659400",
-    "fromName": "Name"
+  "COMMUNICATION RESULT REPORT": {
+    "DATE": "NOV.16.1996",
+    "TIME": "6:31AM",
+    "FILE MODE": "FILE MODE PITION",
+    "ADDRESS": {
+      "GROUP": "MARKETING, INFORMATION & PLANNING",
+      "DEPARTMENT": null,
+      "STREET": "100 Park Avenue",
+      "FLOOR": "Fourteenth Floor",
+      "CITY": "New York",
+      "STATE": "New York",
+      "ZIP CODE": "10017"
+    },
+    "FAX NUMBER": "917)663-5327"
   }
 }

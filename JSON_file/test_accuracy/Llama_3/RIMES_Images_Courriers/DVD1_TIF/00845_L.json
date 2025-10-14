@@ -1,15 +1,22 @@
 {
-  "document": "COGNET DANiEL",
-  "scenario": null,
-  "writer": null,
-  "sender_person": "COGNET DANiEL",
-  "sender_company": "BAAF ASSURAnCES",
-  "sender_tel": "03 84 49 85 5g",
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": null,
-  "date": "2oo6",
-  "place": "29 RUE DU CENERAL LECLERC",
-  "box": null
+  "Company": "COGNET DANiEL",
+  "Address": {
+    "Street": "29 RUE DU CENERAL LECLERC",
+    "City": "67&4o BirKeNWALd",
+    "Tel": "03 84 49 85 5g"
+  },
+  "Ref": "s30V39 3G1Ls!dY 3ON3Ay",
+  "Date": "4 movmbre 2oo6",
+  "Customer": {
+    "Name": null,
+    "Request": "inuse' pu vos ofre m matiêr dasuranee Rabihhon."
+  },
+  "Insurance": {
+    "Type": "BAAF ASSURAnCES",
+    "Details": "Oby Demcmde de documenha concermant ks conhahs d'aouran hakiaha Re7.elsub:CZYPRS2"
+  },
+  "Agent": {
+    "Name": "Madame  Monsieur",
+    "Position": "inuse' pu vos ofre m matiêr dasuranee Rabihhon."
+  }
 }

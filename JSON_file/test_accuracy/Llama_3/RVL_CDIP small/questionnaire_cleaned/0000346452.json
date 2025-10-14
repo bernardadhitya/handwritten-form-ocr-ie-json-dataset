@@ -1,30 +1,27 @@
 {
-  "questionnaire": "QUESTIONNAIRE ON BROWN & WILLIAMSON MAXNELL SEMINA",
-  "purpose": "to receive your personal response to the information presented by B&w at the l985 Maxwell Seminar. We would appreciate your comments through conpletion of this brief questionnaire.Your signature is cptional.",
-  "comments": "Your signature is cptional.",
-  "questions": [
-    {
-      "text": "The presentation clearly identifiedB&w's coporate strategy for the ne 12 to 18 months.",
-      "answers": [
-        "LowDegree"
-      ]
+  "questionnaire": {
+    "title": "QUESTIONNAIRE ON BROWN & WILLIAMSON MAXNELL SEMINA",
+    "purpose": "to receive your personal response to the information presented by B&w at the l985 Maxwell Seminar. We would appreciate your comments through conpletion of this brief questionnaire.Your signature is cptional.",
+    "signature": "optional"
+  },
+  "responses": {
+    "corporate_strategy": {
+      "Low_Degree": "Low",
+      "High_Degree": null
     },
-    {
-      "text": "Would you have need for BATUS and B.A.T.",
-      "answers": [
-        "LowDegree",
-        "Degree"
-      ]
+    "additional_financial_information": {
+      "Low_Degree": "BATUS and B.A.T.",
+      "High_Degree": null
     },
-    {
-      "text": "Do you feel the answers to quest responsive?",
-      "answers": [
-        "LowDegree"
-      ]
+    "answers_responsive": {
+      "Low_Degree": "Low",
+      "High_Degree": null
     },
-    {
-      "text": "ow do you IateB& cn com b1ectives",
-      "answers": []
+    "communication_rating": {
+      "Low_Degree": "IateB& cn com b1ectives",
+      "High_Degree": null
     }
-  ]
+  },
+  "general_comments": null,
+  "signature": null
 }

@@ -1,14 +1,20 @@
 {
-  "document": "AAnlF Assurances",
-  "scenario": "J hUE DES PRES",
-  "writer": "LE Bou RG",
-  "sender_person": null,
-  "sender_company": "AAnlF Assurances",
-  "sender_tel": "977I3S yn5 79DN0Y O&Z zS",
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
-  "date": null,
-  "place": "Comminges",
-  "box": null
+  "organizations": [
+    {
+      "name": "AAnlF Assurances"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Comminges"
+    },
+    {
+      "name": "MonreP-sor-iP,k 2Av 2oo"
+    }
+  ],
+  "dates": [
+    {
+      "date": "03.35.24.49,64"
+    }
+  ]
 }

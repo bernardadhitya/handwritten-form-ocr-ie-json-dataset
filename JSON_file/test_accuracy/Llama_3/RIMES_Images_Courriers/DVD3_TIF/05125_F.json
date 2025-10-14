@@ -1,15 +1,16 @@
 {
-  "document": null,
-  "scenario": null,
-  "writer": "ERNST Jean",
-  "sender_person": "ERNST Jean",
-  "sender_company": "SOCIETE",
-  "sender_tel": "Té03.23.03.43.14",
-  "sender_fax": "Télécopie",
-  "receiver_person": "Jea",
-  "receiver_company": null,
-  "subject": "Dmand de lemik",
-  "date": "19/04 (2007",
-  "place": "1 RUEDERUSTENHART, 68600 DESSENHEIM",
-  "box": null
+  "Name": "ERNST Jean",
+  "Address": {
+    "Street": "1 RUEDERUSTENHART",
+    "City": "DESSENHEIM",
+    "Postal Code": "68600"
+  },
+  "Telephone": "03.23.03.43.14",
+  "Fax": null,
+  "Pages": "19/04 (2007",
+  "Date": null,
+  "Subject": "Dmand de lemik",
+  "Urgency": "Urgent",
+  "Comments": "Salutations.",
+  "Confidential": "0"
 }

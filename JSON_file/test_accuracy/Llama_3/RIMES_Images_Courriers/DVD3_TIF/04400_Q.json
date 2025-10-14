@@ -1,33 +1,53 @@
 {
-  "Code d'envoi": null,
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "26110",
-  "Ville": null,
-  "Téléphone": "0427080723",
-  "Catégorie Scénario": null,
-  "Objet Scénario": "Demande de mensualisation de l'impôt sur\\nle revenu",
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": "RUGLES",
-  "Temps passé": "15",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "x",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": "",
-  "Format GIF": "",
-  "Format TIFF": "",
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "H.U.S.SON",
+        "Prenom": "A.le...e...a.mea.......ge.",
+        "Adresse": {
+          "Allee": null,
+          "Code postal": "027080723",
+          "Ville": "N.Q.M..S"
+        },
+        "Code postal": null,
+        "Ville": null
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": "Obje...emande...k...eoaoaiat.ia......i..p.......",
+        "Mea": null,
+        "Lim": null,
+        "Complement": "wc.u....",
+        "Reference client eventuelle": "QDHcs20",
+        "Interlocuteur": "eso...e..p.ts.",
+        "Adresse": null,
+        "Code postal": "Sd vile..R.GLES",
+        "Ville": null,
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+          ],
+          "Temps passe a traiter le scenario": "minutes.",
+          "Contribution": {
+            "Cocher les_elements de_votre contbution pour le_scenaro traite": [
+              "J'envoie mon courrier par voie postale a la date du.....w...20..",
+              "+2€ Mon courrier contient une page de garde de fax.",
+              "+1£ Avant mon envoi postal, j'a télécopié ma contribution le.2.aw....20...",
+              "+1€ J'ai envoyé par courriel mon courrier numérisé le"
+            ],
+            "Marque et modele du scanner": null,
+            "Format": [
+              "PNG",
+              "GIF",
+              "TIFF"
+            ],
+            "Resolution des images": "ddd/!dp",
+            "Rame": null
+          }
+        }
+      }
+    }
+  }
 }

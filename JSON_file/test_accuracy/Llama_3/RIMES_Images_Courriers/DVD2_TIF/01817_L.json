@@ -1,15 +1,16 @@
 {
-  "document": "Les 3 Suifs",
-  "scenario": null,
-  "writer": "LAFAYE E1isabeth",
-  "sender_person": "Madame ou Monsieur",
-  "sender_company": "6 RUE DE SYRACUSE",
-  "sender_tel": "02.97.67.33.39",
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": "Augmenation (x&) des quantites de CD vieges commandees",
-  "date": null,
-  "place": "RUE DU 8 MAl &780O BR1ONNE 4930o CHoLET",
-  "box": null
+  "First Name": "E1isabeth",
+  "Last Name": "LAFAYE",
+  "Address": {
+    "Street": "6 RUE DE SYRACUSE",
+    "City": "RUE DU 8 MAl",
+    "Postal Code": "4930o CHoLET"
+  },
+  "Phone Number": "02.97.67.33.39",
+  "Order Details": {
+    "Product": "CD vieges",
+    "Quantity": "Augmenation (x&)",
+    "Modification": null,
+    "Date": null
+  }
 }

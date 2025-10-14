@@ -1,8 +1,22 @@
 {
-  "school": null,
-  "address": null,
-  "date": null,
-  "recipient": null,
-  "message": null,
-  "contact": "508463514"
+  "address": {
+    "street": "Tocpsr Road",
+    "city": "Roleigh",
+    "postal_code": "610"
+  },
+  "contact": {
+    "phone": "508463514"
+  },
+  "children": {
+    "boys": 1,
+    "girls": 0
+  },
+  "adults": {
+    "male": 1,
+    "female": 0
+  },
+  "activities": [],
+  "education": {
+    "level": "Elementary"
+  }
 }

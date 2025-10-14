@@ -1,15 +1,21 @@
 {
-  "document": "Nel& AvBRUN Chouline",
-  "scenario": "J19 RuE Oes RoIA1Ns",
-  "writer": "Nel& AvBRUN Chouline",
-  "sender_person": "Nel& AvBRUN Chouline",
-  "sender_company": "GRANO RUE",
-  "sender_tel": "0351_47.60.76",
-  "sender_fax": null,
-  "receiver_person": "L A REBOUTE",
-  "receiver_company": null,
-  "subject": "ReF. CLenr: GRPUA l8",
-  "date": "20 FEvae2oo7",
-  "place": "864 40 LAvAUsSEAU",
-  "box": null
+  "locations": [
+    {
+      "street": "GRANO RUE",
+      "city": "LAvAUsSEAU",
+      "zip": "864 40"
+    }
+  ],
+  "coordinates": [
+    {
+      "latitude": "47.60.76",
+      "longitude": "0351"
+    }
+  ],
+  "references": [
+    {
+      "reference": "GRPUA l8",
+      "date": "20 FEvae2oo7"
+    }
+  ]
 }

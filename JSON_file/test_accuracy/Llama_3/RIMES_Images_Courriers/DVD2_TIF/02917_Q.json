@@ -1,33 +1,50 @@
 {
-  "Code d'envoi": null,
-  "Nom": null,
-  "Prénom": "Nicole",
-  "Adresse": null,
-  "Code Postal": null,
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": "Vous avez davantage de temps pour vos\\nloisirs",
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": "25 rue du Général Leclerc",
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": "",
-  "Stylo bille": null,
-  "Stylo plume": "",
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "",
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": "",
-  "Résolution": null,
-  "Format PNG": "",
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "UE...",
+        "Prenom": "Nicole"
+      },
+      "Adresse": {
+        "Gc": "O...ou.te....des...maquisasalo.",
+        "Code": "LO 66Ol",
+        "Ville": "S..fanhn..du..a"
+      },
+      "Tel": null
+    },
+    "Scenario": {
+      "Categorie": "Cuvertune... de...Cernpta.",
+      "Objet": "ows...ohaites...wuo...abommer..",
+      "LSBLD": null,
+      "Complement": "Su...oacs..daautaye...d.temps...ou...neo.",
+      "Reference client eventuelle": "Interlocuteur....uohden....e..Paum..",
+      "Interlocuteur": "Interlocuteur....uohden....e..Paum..",
+      "Adresse": "ue..du..eosa....clorc",
+      "Code postal": "[6tS50]",
+      "Ville": "Uenonh.etm"
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "X bille",
+        "plume",
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": ". minutes"
+    },
+    "Contribution": {
+      "Cocher les elements de_votre contribution pour le scenario traite": {
+        "Jenvoie mon courrier par voie postale a la date du Jql02 Jo0": "+2_",
+        "Mon courrier contient une page de garde de fax": "+1€",
+        "Avant mon envoi postal, j'ai telecopie ma contribution le": "+1€",
+        "Jai envoye par courriel mon courrier numerise le": null
+      },
+      "Marque et modele du scanner": "L.",
+      "Format": [
+        "PNG",
+        "GIF",
+        "TIFF"
+      ],
+      "Resolution des images": "\""
+    }
+  }
 }

@@ -1,15 +1,15 @@
 {
-  "document": null,
-  "scenario": null,
-  "writer": "M. mARCHAnd JeRemY",
-  "sender_person": "M. mARCHAnd JeRemY",
-  "sender_company": "BANQuE SOCtETE GeNIAiE",
-  "sender_tel": "O3 04 43 8052",
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": null,
-  "date": "14.12.06",
-  "place": "Place de 1`Hohe1de Ville",
-  "box": "6822O hA6eNTHAL Le BAs"
+  "Name": "M. mARCHAnd JeRemY",
+  "Address": {
+    "Street": "5 Rue EspeL",
+    "Postal Code": "68220 Hagenthal-le-Bas",
+    "City": "Hagenthal-le-Bas"
+  },
+  "Telephone": "03 04 43 8052",
+  "Reference": "Cl:enF: ELERs 76",
+  "Subject": "BANQuE SOCtETE GeNIAiE",
+  "Bank": {
+    "Name": "BANQuE SOCtETE GeNIAiE",
+    "Address": "Place de l'Hôtel de Ville, 8a 35O AcBIAs"
+  }
 }

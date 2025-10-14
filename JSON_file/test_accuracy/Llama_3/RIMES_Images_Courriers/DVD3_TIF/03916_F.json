@@ -1,15 +1,19 @@
 {
-  "document": null,
-  "scenario": null,
-  "writer": "RENOUF Florian",
-  "sender_person": "RENOUF Florian",
-  "sender_company": "SOCIETE",
-  "sender_tel": "Té03.87.72.60.08",
-  "sender_fax": "Télécopie",
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": "dnote",
-  "date": "l97ag %s",
-  "place": "6 RUE DE LA SEINE, 54860 ST CHARLES",
-  "box": null
+  "Name": "RENOUF Florian",
+  "Address": {
+    "Street": "6 RUE DE LA SEINE",
+    "City": "ST CHARLES"
+  },
+  "Telephone": "Té03.87.72.60.08",
+  "Fax": "Télécopie",
+  "Eptder": null,
+  "LKS": "23R7?&6X",
+  "Destrataie": null,
+  "JAS_S9S": "l97ag %s",
+  "Pages": null,
+  "Telephone2": null,
+  "Date": "l97ag %s",
+  "Subject": "dnote",
+  "Comments": "0 Cornmentaires:",
+  "AdditionalInfo": "Salutations.\n[Cliquez ici et entrez les informations sur l'entreprise : statut, capital, RCS...]"
 }

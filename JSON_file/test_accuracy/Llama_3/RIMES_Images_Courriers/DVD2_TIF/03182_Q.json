@@ -1,33 +1,46 @@
 {
-  "Code d'envoi": "SDTGBX",
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": "8 Chemin du Sahrain",
-  "Code Postal": "68140",
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": "Votre endettement est devenu trop important\\n",
-  "Référence client": null,
-  "Interlocuteur": "EDF",
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": "28/02/07",
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": "",
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": "",
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "..",
+        "Prenom": "......",
+        "Adresse": "......Cmi....u...sa.ha..",
+        "Code postal": "6&44O",
+        "Ville": "..."
+      }
+    },
+    "Scenario": {
+      "Categorie": ".",
+      "Objet": "w.........o.....emen",
+      "Complement": "comlment..o...n........o.......",
+      "Reference client eventuelle": "E.DF",
+      "Interlocuteur": ".",
+      "Adresse": "....a............",
+      "Code postal": "L89SGoVile.....N..",
+      "Ville": "..."
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "bille",
+        "plume",
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": ".....Q... minutes"
+    },
+    "Contribution": {
+      "Cocher les elements de votre contribution pour le_scenario traite": [
+        "(6€) J'envoie mon courrier par voie postale á la date du....",
+        "+2€) Mon courrier contient une page de garde de fax",
+        "+1€) Avant mon envoi postal, j'ai télécopié ma contribution le.",
+        "+1€) J'ai envoyé par courriel mon courrier numérisé le..."
+      ],
+      "Marque et modele du scanner": "...C.A......&.26.2.",
+      "Format": [
+        "XPNG",
+        "GIF",
+        "TIFF"
+      ],
+      "Resolution des images": "dpi/ppp"
+    }
+  }
 }

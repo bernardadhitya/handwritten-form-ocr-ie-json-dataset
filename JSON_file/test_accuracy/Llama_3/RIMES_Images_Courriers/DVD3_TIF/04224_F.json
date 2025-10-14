@@ -1,15 +1,17 @@
 {
-  "document": "CSKELAPOSTC",
-  "scenario": "TÉLÉCOPIE",
-  "writer": "Direction de La Poste Grand Public",
-  "sender_person": "gacquo Paost",
-  "sender_company": "dma3 sa mV h",
-  "sender_tel": "0318O Le BEu1L",
-  "sender_fax": "63 91 69 77 u1",
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": "wuportaute",
-  "date": "2t M ARS 2007",
-  "place": null,
-  "box": null
+  "Expediteur": "gacquo Paost",
+  "Destinataire": null,
+  "Telephone": "63 91 69 77 u1",
+  "Telecopie": "Télécopie :",
+  "Motifs de transmission": {
+    "Ref": "Ref",
+    "Pour information": "Pour information",
+    "Pour avis": "Pour avis",
+    "Pour suite a donner": "Pour suite á donner",
+    "Autres": "Autres"
+  },
+  "Message": {
+    "Objet": "wuportaute",
+    "Contenu": "Ausm eutarion c mmoum N sooilo daws ma fu&"
+  }
 }

@@ -1,33 +1,37 @@
 {
-  "Code d'envoi": null,
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": null,
-  "Ville": "MONTIGNY LE BRETONNEUX",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": "Renseignement sur les horaires d'accueil du\\npublic",
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": "x",
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": "9 avril 2007",
-  "Option envoi par courriel": "x",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": "",
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "EPSON STYLUS PHOTO R X 420"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "identite fictive": {
+        "Nom": "J.RAJER.s",
+        "Prenom": "Naelle",
+        "Adresse": "Beeuau...d...Aleubext",
+        "Code postal": "ou4o806AAA",
+        "Ville": "L31o1on",
+        "Tel": null,
+        "Categorie": "Ojet.eseigueueu...su...e.hoanes.....accue...",
+        "Objet": null,
+        "Complement": "Référence client éventuelle",
+        "Interlocuteur": "BAA.....Assusoce?",
+        "Adresse....ceusu...Tea.....Baloxo!": null,
+        "Code postal L31o1on Ville....ARSC..LE": null,
+        "Redaction": {
+          "Type de stylo (noir) utilisé": "bille",
+          "Temps passé a traiter ie scénario": "60 minutes."
+        },
+        "Contribution": {
+          "J'envoie mon courrier par voie postale a la date du _aacl_cca": "O.aua!...2cA....",
+          "Mon courrier contient une page de garde de fax": true,
+          "Avant mon envoi postal, j'ai telecopie ma contribution le 9aualzce": true,
+          "Jai envoye par courriel mon courrier numerise le 9.044_7653-": true
+        },
+        "Marque et modele du scanner": "E.s...s..Y.us...P.HS.O.....R.x.?O",
+        "Format": {
+          "PNG": null,
+          "GIF": null,
+          "TIFF": null
+        },
+        "Resolution des images": "3oO. dpi/ppp"
+      }
+    }
+  }
 }

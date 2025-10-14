@@ -1,20 +1,25 @@
 {
-  "department": "Department of Transportation",
-  "docket": "DOCKE i",
-  "address": "400 7th Strect,S.W.,Room PL-401, Washington,D.C.20590",
-  "in_re": "NPRM Smoking in Airports",
-  "comments": {
-    "path_only": {
-      "description": "guarantecing passengers sensitive to tobacco smoke a path of access from the terminal entrance to the aircraft free from exposure to tobacco smoke, perhaps by using an enclosed cart that took the passenger through the airport without exposure to smoke, would provide sufficient protection.",
-      "question": "Do you agree or disagree? Why?",
-      "response": null
-    },
-    "other_areas": {
-      "description": "Are there other areas of the airport terminal that passengers-including those sensitive to tobacco smoke - frequently must use while traveling, and where they therefore need protection from exposure to tobacco smoke (e.g., restrooms, telephones, eating areas, baggage claim, news stands and other stores, ticket counters, etc.)?",
-      "question": "If yes, explain why these areas are important to travelers, and what smoking restrictions (if any) should be adopted.",
-      "response": null
+  "Department": "Department of Transportation",
+  "Address": "400 7th Strect,S.W.,Room PL-401 Washington,D.C.20590",
+  "Docket No": "97JAN3",
+  "Notice No": null,
+  "Topic": "Smoking in Airports",
+  "Suggestions": {
+    "Guaranteeing passengers sensitive to tobacco smoke access free from exposure": {
+      "Suggested method": "an enclosed cart that took the passenger through the airport without exposure to smoke",
+      "Protection level": "suffcient"
     }
   },
-  "note": "TFCAC WAAAWWKACETCSLLS",
-  "comment_form_note": "BE SURE TO FILL OUT THE OTHER SIDE ALSO This comment form is provided as a public service, and may be freely duplicated."
+  "Other Areas": {
+    "Question": "Are there other areas of the airport terminal that passengers-including those sensitive to tobacco smoke - frequently must use while traveling, and where they therefore need protection from exposure to tobacco smoke (e.g., restrooms, telephones, eating areas, baggage claim, news stands and other stores, ticket counters, etc.)?",
+    "Areas": [
+      "restrooms",
+      "telephones",
+      "eating areas",
+      "baggage claim",
+      "news stands and other stores",
+      "ticket counters"
+    ],
+    "Importance": "If yes, explain why these areas are important to travelers, and what smoking restrictions (if any) should be adopted."
+  }
 }

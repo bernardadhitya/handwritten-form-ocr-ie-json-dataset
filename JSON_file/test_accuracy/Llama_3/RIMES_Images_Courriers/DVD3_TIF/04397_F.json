@@ -1,15 +1,14 @@
 {
-  "document": null,
-  "scenario": null,
-  "writer": "RAIMBAULT Pierre",
-  "sender_person": "RAIMBAULT Pierre",
-  "sender_company": "SOCIETE",
-  "sender_tel": "03-53.79.13.13",
-  "sender_fax": null,
-  "receiver_person": "NAF",
-  "receiver_company": null,
-  "subject": "Dernière délaisseur sur Ja Jemee",
-  "date": "31/03/107",
-  "place": "VILLE H0UDLEM0NT",
-  "box": null
+  "Name": "RAIMBAULT Pierre",
+  "Address": {
+    "Street": "7 RUE ST DENIS",
+    "City": "54730 VILLE H0UDLEM0NT"
+  },
+  "Telephone": "Té103.53.79.13.13",
+  "Fax": "Télécopie",
+  "Date": "31/03 107",
+  "Subject": "DernnDe dle lreusir swr Ja Jemee",
+  "Urgent": true,
+  "Comments": "Salutations.",
+  "Information": "Pour avis"
 }

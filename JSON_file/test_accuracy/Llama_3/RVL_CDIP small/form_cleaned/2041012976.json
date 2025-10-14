@@ -1,48 +1,46 @@
 {
-  "company": "A Paramount Communications Company",
-  "req_no": "7",
-  "requisition_type": "SEREQUISITION",
-  "company_affiliation": null,
-  "purchase_order": "#",
-  "requestor_name": null,
-  "budget_and_price_information": {
-    "prior_years_actual_cost": null,
-    "included_in_this_years_budget": "YES",
-    "if_yes_how_much": null,
-    "capital_appropriation_number": null,
-    "project_number": null
-  },
-  "renovation_information": {
-    "project": null,
-    "work_authorization_number": null,
-    "trade_number": null
-  },
-  "shipping": {
-    "ship_via": null,
-    "terms": null
-  },
-  "reason_for_request_comments": "YIRGINIA 0ims Hedia CentaR Charge.",
-  "work_order_number": "#5 2 q",
-  "requisition_information": {
-    "check_one": "PURCHASE",
-    "suggested_vendor": null,
-    "deliver_to": "VANOLO",
-    "location": null,
-    "attention": null
-  },
-  "items": [
-    {
-      "description": "copier",
-      "model_number": null,
-      "specifications": "8'%z x 11",
-      "unit_price": "49.3",
-      "quantity": "Cases"
+  "EREQUISITION": {
+    "REQ NO": "7",
+    "reQuestor'S NAME": "A Paramount Communications Company",
+    "PURCHASE ORDER #": null,
+    "BUDGET AND PRICE INFORMATION": {
+      "PRIOR YEAR'S ACTUAL COST": null,
+      "CAPITAL APPROPRIATION NuMber": null,
+      "PROJECT Nuber": null,
+      "YES": null,
+      "NO": null
+    },
+    "RENOVATION INFORMATION": {
+      "PROJECT": null,
+      "WORK AUTHORIZATION#": null,
+      "TRADE #": null,
+      "SHIP VuA": null,
+      "TeAMS": null,
+      "REASONFOR REQUESTICOMMENTS": null
+    },
+    "REQUISIION INFORMATION": {
+      "CHECK ONE": "PURCHASE",
+      "PURCHASE": null,
+      "BLANKET ORDFR D": null,
+      "LEASED": null,
+      "RENT D": null,
+      "PERIOD": "1-13-93",
+      "DELIVER TO": {
+        "LOCATION": "VANOLO",
+        "ATTENTION": null
+      },
+      "QUANIIY": "Cases",
+      "ITEM DESCRIPTION": "8'%z x 11 copier",
+      "MODEL NUMBER": "2041012976",
+      "SPECIFICATIONS": null,
+      "UNIT PRICE": "49.3",
+      "EXTENSION": null
+    },
+    "DATE": {
+      "GROUPIDEPARTMENT HEAD": null,
+      "Ymat": null,
+      "PRESIDENT": null,
+      "CNCE ECAN IS completed AND AuthCRIZED FORWAAD TO The CorporATE PUPCHASING DEPARTMENT": null
     }
-  ],
-  "attachments": null,
-  "requestor_date": null,
-  "group_department_head_date": null,
-  "en_date": null,
-  "president_date": null,
-  "note": null
+  }
 }

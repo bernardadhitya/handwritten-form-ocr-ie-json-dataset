@@ -1,15 +1,18 @@
 {
-  "document": "feralco",
-  "scenario": "ENVIRONNEMENT SAS",
-  "writer": null,
-  "sender_person": "M Gil& PiLLET",
-  "sender_company": "M ANiF Amac",
-  "sender_tel": null,
-  "sender_fax": null,
-  "receiver_person": "M ANiF Amac",
-  "receiver_company": "q wa sT Mati",
-  "subject": "1r A Vrme G aeGcu0b",
-  "date": "00.m",
-  "place": "awe",
-  "box": "sos Momtmonency"
+  "Expediteur": "ENVIRONNEMENT SAS",
+  "Destinataire": "M Gil& PiLLET",
+  "Adresse": {
+    "Rue": null,
+    "Ville": null,
+    "Code postal": null,
+    "Pays": null
+  },
+  "Contact": {
+    "Tel": null,
+    "Fax": null,
+    "Email": null
+  },
+  "Autres informations": {
+    "Nombre de pages incluant celle-ci": "2"
+  }
 }

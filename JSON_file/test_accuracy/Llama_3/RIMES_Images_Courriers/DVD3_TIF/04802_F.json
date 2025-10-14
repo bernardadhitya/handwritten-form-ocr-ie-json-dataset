@@ -1,15 +1,14 @@
 {
-  "document": null,
-  "scenario": null,
-  "writer": "RAIMBAULT Pierre",
-  "sender_person": "RAIMBAULT Pierre",
-  "sender_company": "SOCIETE",
-  "sender_tel": "03.53.79.13.13",
-  "sender_fax": null,
-  "receiver_person": "BT1P",
-  "receiver_company": "Banque Tlltuelle Ie lari",
-  "subject": "Jelance Cle courniei Sams Repmse",
-  "date": "06/04/10",
-  "place": "VILLE H0UDLEM0NT",
-  "box": null
+  "Name": "RAIMBAULT Pierre",
+  "Address": {
+    "Street": "7 RUE ST DENIS",
+    "City": "VILLE H0UDLEM0NT"
+  },
+  "Telephone": "03.53.79.13.13",
+  "Fax": null,
+  "Recipient": "BT1P",
+  "Subject": "Jelance Cle courniei Sams Repmse",
+  "Date": "06/04/10",
+  "Comments": "Salutations.",
+  "AdditionalInfo": "Confidentiel e Commentaires:"
 }

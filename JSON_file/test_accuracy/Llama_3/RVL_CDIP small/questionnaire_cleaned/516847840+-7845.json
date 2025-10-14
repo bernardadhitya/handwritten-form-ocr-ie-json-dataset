@@ -2,28 +2,28 @@
   "ID": "19107412308",
   "Date": "JAN 10'97",
   "Time": "15:22",
-  "No": "003",
-  "Page": "02",
-  "MonthYear": "January 97",
-  "Test": "Indy Test Inbound Script-APAC",
-  "Script": [
+  "Location": "APAC",
+  "Script": "Indy Test Inbound Script-APAC",
+  "Dialogue": [
     {
-      "Question": "1.",
-      "Text": "Thank you for calling the Eclipse information line.This is Hlow may I help you? Im calling abou your now cigarcttc.I want to find out more about it/try it for frec."
+      "Question": "Thank you for calling the Eclipse information line.This is Hlow may I help you?",
+      "Answer": "Im calling abou your now cigarcttc.I want to find out more about it/try it for frec."
     },
     {
-      "Question": "2.",
-      "Text": "11 be happy.to help you, maan/sir, but first may I have your zip code please? May I have your home phone number plcase? If consumers record is on fileconfirm address, smoking status and dob,then proceed to qucstion 9b and ask anly if necessary) If record is not on file proceed to question 3"
+      "Question": "May I have your zip code please?",
+      "Answer": null
     },
     {
-      "Question": "3.",
-      "Text": "All right, are you a smoker Yee continue with 4 No ask 4 and if 21 or olderrespond with We can talk with non-snokcrs ovcr thc age of21 and give out Jimited informationhoweveryou cannot participate in any of our promotions.If you'd likc, wc have a brochure of information that I can send you.finterested capture namo and address.APAC sends material.) Thank you for your intcrest. You should be receiving this information within 2-3 weeks. May I have your date of birth please? Datc of Birth: If a smoker age 21 or older,go to 5 funder21go to 4a (If objcction to age questionrespond with Mr/Ms. as a tobacco company,we want to ensure that we dont mail or talk to individuals undor the age of21.So,I'm surc you can undcrstand why wa'd like to know your date of birth. If refuses to give DOB,terninate the call"
-    }
-  ],
-  "Codes": [
+      "Question": "May I have your home phone number plcase?",
+      "Answer": null
+    },
     {
-      "Code": "51684",
-      "Code2": "7840"
+      "Question": "All right, are you a smoker",
+      "Answer": "Yee"
+    },
+    {
+      "Question": "May I have your date of birth please?",
+      "Answer": "51684"
     }
   ]
 }

@@ -1,33 +1,41 @@
 {
-  "Code d'envoi": null,
-  "Nom": "ROUSSY",
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": null,
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": "",
-  "Option envoi par courriel": "",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": "",
-  "Format GIF": null,
-  "Format TIFF": "",
-  "Marque et modèle scanner": ""
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "R.a.s...",
+        "Prenom": ".met.",
+        "Adresse": ".",
+        "Code postal": "08498",
+        "Ville": "C.....p......ae"
+      },
+      "Scenario": {
+        "Categorie": "Owex..",
+        "Objet": "..d.m....ae.u.",
+        "Complement": null,
+        "Interlocuteur": null,
+        "Adresse": null,
+        "Code postal": null,
+        "Ville": null,
+        "Pckzke": null
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille",
+          "plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": "...I S.... minutes."
+      },
+      "Contribution": {
+        "Cocher les elements de_votre contribution pour le scenario traite": [
+          "(6) J'envoie mon courrier par voie postale á la date du..../..7.",
+          "+2) Mon courrier contient une page de garde de fax",
+          "+1€) Avant mon envoi postal, j'ai télécopié ma contribution le",
+          "+1€) J'ai envoyé par courriel mon courrier numérisé le"
+        ],
+        "Marque et modele du scanner": "ddd/!dp",
+        "Resolution des images": "Format: PNG  GIF  TIFF"
+      }
+    }
+  }
 }

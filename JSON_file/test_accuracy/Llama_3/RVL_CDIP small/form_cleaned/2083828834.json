@@ -1,29 +1,25 @@
 {
-  "program": "2000 MARLBORO BAR PROGRAM",
-  "contractTopSheet": {
-    "gmmSsm": "JEANNINE DOERFLEL",
-    "location": "ATLANTA",
-    "market": "jlliE A THE lNAL1",
-    "venue": {
-      "name": "VENUE NAME",
-      "id": "ATL.CIOZ.LL"
-    },
-    "clubType": {
-      "visibility": "VISIBILITY",
-      "music": "MUSIC",
-      "rnb": "RNB"
-    },
-    "venueAdmissionPolicy": [
-      "AO18-P",
-      "A021-P",
-      "PAO-P",
-      "AO18-V",
-      "A021-V"
-    ],
-    "gmmSsmId": "2083828834",
-    "signature": "SELLIN",
-    "signatureDate": null,
-    "sellinApproval": "APPROVAL",
-    "sellinApprovalDate": null
+  "2000 MARLBORO BAR PROGRAM": {
+    "CONTRACT TOP SHEET": {
+      "GMMSSM": "JEANNINE DOERFLEL",
+      "DcEELes": "ATLANTA",
+      "VENUE NAME": "jlliE A THE lNAL1",
+      "VENUE ID": "ATL.CIOZ.LL",
+      "EVENT": null,
+      "MUSIC": [
+        "VISIBILITY",
+        "MUSIC",
+        "RNB"
+      ],
+      "VENUE ADMISSION POLICY": [
+        "AO18-P",
+        "A021-P",
+        "PAO-P",
+        "AO18-V",
+        "A021-V"
+      ],
+      "GMWSSM SIGNATURE DATE": null,
+      "APPROVAL DATE": null
+    }
   }
 }

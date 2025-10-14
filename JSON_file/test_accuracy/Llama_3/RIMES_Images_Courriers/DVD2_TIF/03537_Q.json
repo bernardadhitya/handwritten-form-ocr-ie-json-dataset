@@ -1,33 +1,36 @@
 {
-  "Code d'envoi": null,
-  "Nom": "PILLOT",
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": null,
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": "Vous êtes insatisfait(e) du service\\n",
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": "15",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": "",
-  "Contribution postale": null,
-  "Date d'envoi postal": "13/03/07",
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": "",
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": "AGukRD",
+  "Questionnaire": "Questionnaire",
+  "Identite fictive": {
+    "Nom": "Nom",
+    "Prenom": "Prénom",
+    "Adresse": "Adrese",
+    "Code postal": "040ss7687",
+    "Ville": "o......o...",
+    "Tel": null
+  },
+  "Categorie": "Scénario",
+  "Objet": "Ojet..esaad.......p.in.om.........oe...",
+  "Complement": "complment...a.......osaia.k.....seace.",
+  "Reference client eventuelle": "xTTwk0B",
+  "Redaction": {
+    "Type de stylo (noir) utilise": [
+      "billeplume",
+      "feutre"
+    ],
+    "Temps passe a traiter le scenario": "....S... minutes"
+  },
+  "Contribution": {
+    "Jenvoie mon courrier par voie postale a la date du": "3..03....0....",
+    "Mon courrier contient une page de garde de fax": true,
+    "Avant mon envoi postal, J'ai telecopie ma contribution le": true,
+    "J'ai envoye par courriel mon courrier numerise le": true,
+    "Marque et modele du scanner": null,
+    "Format": [
+      "PNG",
+      "GIF",
+      "TIFF"
+    ],
+    "Resolution des images": "dpi/ppp"
+  }
 }

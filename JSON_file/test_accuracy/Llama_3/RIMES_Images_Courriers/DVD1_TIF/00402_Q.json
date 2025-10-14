@@ -1,35 +1,42 @@
 {
-    "id": "1",
-    "name": "LHEUVRE U X Prénom BEPPRS",
-    "email": "2151210121 71931417",
-    "address": {
-        "codePostal": "ÉTESEZ 3,0",
-        "ville": "HARGATEN..AUX..ITINES...."
-    },
-    "scenario": "Scénario L",
-    "category": "Catégorie",
-    "contribution": {
-        "type": "bille L",
-        "stylo": "noir",
-        "format": "Di PNG",
-        "resolution": "32... dpi/ppp"
-    },
-    "timeSpent": "4.2 minutes",
-    "redaction": "Rédaction",
-    "typeStylo": "bille L",
-    "dt": "J'ai envoyé par courriel mon courrier numérisé le n- Se 9/.Zee6",
-    "contributionDetails": [
-        {
-            "value": "6€",
-            "description": "J'envoie mon courrier par voie postale à la date du..Z 3423 Z006"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "L.H.E.V.R.E....X",
+        "Prenom": "..",
+        "Code postal": "SSSol Ville...HA..G..A.N.....?.....N.E..",
+        "Ville": "...c....!.N.T...",
+        "Tel": "0353021941",
+        "Categorie": "...d...C.o.....",
+        "Comm": "...w..",
+        "Complement": "Vkpts6o",
+        "Reference client eventuelle": "...a...",
+        "Interlocuteur": "...RN 113",
+        "Adresse": "...c....!.N.T...",
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+          ],
+          "Temps passe a traiter le scenario": "....... minutes"
         },
-        {
-            "value": "2€",
-            "description": "Mon courrier contient une page de garde de fax"
-        }
-    ],
-    "scanner": {
-        "marque": "Er ee Shoes. CXK.LLCE....",
-        "modele": "CXK.LLCE...."
+        "Contribution": {
+          "Cocher les elements de votre contribution pour le_scenario_traite": [
+            "(6e) J'envoie mon courrier par voie postale á la date du..2.,....... 200.6.",
+            "+2€ Mon courrier contient une page de garde de fax.",
+            "+1€ Avant mon envoi postal, j'ai télécopié ma contribution le.2..2......26",
+            "+1€ J'ai envoyé par courriel mon courrier numérisé le....?....?...?..6..."
+          ]
+        },
+        "Marque et modele du scanner": "yyn...s...C.X..3.o.",
+        "Format": [
+          "PNG",
+          "GIF",
+          "TIFF"
+        ],
+        "Resolution des images": "3..... dpi/ppp"
+      }
     }
+  }
 }

@@ -1,33 +1,38 @@
 {
-  "Code d'envoi": null,
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "06700",
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": "BAAF Assurance",
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": "25",
-  "Stylo bille": "x",
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": "",
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": ""
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "awda",
+        "Adresse": "w...e...gnaoie.",
+        "Code postal": "LO6 vill.....a......w?",
+        "Ville": null,
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": "e.tom.......n...",
+        "Objet": "o...o.ae.........m.......",
+        "Complement.Uer 1A.": "wesy.Ram.ogm....sm..te...m..awm",
+        "Reference client eventuelle": {
+          "Adresse": "............",
+          "Code postal": "L6 5 2So] Ville.Ju...Bunxh..o&.M"
+        },
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille plume",
+            "feutre"
+          ],
+          "Temps passe a traiter le scenario": "..... minutes",
+          "Contribution": {
+            "Cocher les elements de_votre contrbution pour le scenario traite": [
+              "(6€) J'envoie mon courrier par voie postale á la date du.....1.2000",
+              "+2€ Mon courrier contient une page de garde de fax.",
+              "+1€ Avant mon envoi postal, j'ai télécopié ma contribution le..... ",
+              "+1€ J'ai envoyé par courriel mon courrier numérisé le"
+            ],
+            "Marque et modele du scanner": "Format:PNG GIFTIFFRésolution des images : ddd/!dp"
+          }
+        }
+      }
+    }
+  }
 }

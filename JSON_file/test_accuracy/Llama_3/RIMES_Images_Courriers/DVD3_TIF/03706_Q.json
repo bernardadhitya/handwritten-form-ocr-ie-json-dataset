@@ -1,33 +1,38 @@
 {
-  "Code d'envoi": null,
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "67490",
-  "Ville": null,
-  "Téléphone": "0367244869",
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": "changement de banque\\n",
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": "16-03-07",
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": "",
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": "",
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": "XDBETS",
+    "Identite fictive": {
+      "Nom": "F.RAnUC.ISC.O",
+      "Adresse": "e.......",
+      "Code postal": "674 90",
+      "Ville": "fEDOL$HE"
+    },
+    "Scenario": {
+      "Categorie": "aso.emem......onmo...wason.",
+      "Objet": "m.aun.e...caodomna...au..aas...Te..yoin.t.",
+      "Complement": "chamo&mem.t....co....cmqwe",
+      "Reference client eventuelle": "PQKHBB",
+      "Interlocuteur": "agaain......",
+      "Adresse": "yQMd....?..",
+      "Code postal": "Ovil..........AO....C....."
+    },
+    "Redaction de stylo (noir) utilise": [
+      "bille"
+    ],
+    "Temps passe a traiter le scenario": "....Q.... minutes.",
+    "Contribution": {
+      "J'envoie mon courrier par voie postale a la date du": "6....03......",
+      "Mon courrier contient une page de garde de fax": true,
+      "Avant mon envoi postal, j'ai telecopie ma contribution le": true,
+      "J'ai envoye par courriel mon courrier numerise le": true
+    },
+    "Marque et modele du scanner": {
+      "Format": [
+        "PNG",
+        "GIF",
+        "TIFF"
+      ],
+      "Resolution des images": "dpi/ppp"
+    }
+  }
 }

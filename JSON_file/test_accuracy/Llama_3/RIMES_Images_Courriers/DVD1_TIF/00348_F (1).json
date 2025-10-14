@@ -1,15 +1,16 @@
 {
-  "document": "GRTgaz",
-  "scenario": "RESEAUNORDEST",
-  "writer": "AGENCEEXPLOITATION LILLE-BETHUNE",
-  "sender_person": "nosREF GAUCHER Viviane",
-  "sender_company": "nosREF GAUCHER Viviane 35 Rua de 1oxloe 5732o He8RoH",
-  "sender_tel": "08.2164.79.30",
-  "sender_fax": "63.2164.79.49",
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": "Iexperhse da Ho vehicule. accidante.",
-  "date": null,
-  "place": null,
-  "box": null
+  "RESEAU": "GRTgaz",
+  "COMPANY": "AGENCEEXPLOITATION LILLE-BETHUNE",
+  "AGENCE": "nosREF GAUCHER Viviane 35",
+  "ADDRESS": {
+    "STREET": "Rua de 1oxloe",
+    "CITY": null,
+    "POSTAL_CODE": "5732o"
+  },
+  "CONTACT": {
+    "NAME": "GAUCHER Viviane 35",
+    "PHONE": "08.2164.79.30",
+    "FAX": "63.2164.79.49",
+    "WEBSITE": "www.gtgo.com"
+  }
 }

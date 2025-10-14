@@ -1,13 +1,8 @@
 {
-  "bank": "BANQUE",
-  "amount_in_words": "Eight Thousand Three Hundred",
-  "amount_in_numbers": "8381",
-  "payee": null,
-  "account_number": "1523600060070008545636-0000255",
-  "location": "LasVegar",
-  "signature": "M.MARTIN",
-  "address": "123RUE SPECIMEN, 75015PARIS",
-  "cheque_number": "C000036",
-  "code": "L06.105/22",
-  "date": "090000"
+  "structured_information": {
+    "Bank": "BANQUE",
+    "Address": "123RUE SPECIMEN, 75015PARIS",
+    "Amount": "Eight Thousand_Three Hundred",
+    "Signature": "M.MARTIN"
+  }
 }

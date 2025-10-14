@@ -1,35 +1,30 @@
 {
-  "company": "AMERICAN TOBACCO COMPANY",
-  "sellingAuthorization": "MAKE ANY CCINMIFMENT OR AUTHORIZE ANY EKPENDITU#E OT ANY KIND FOA ACCOUNT OF IHIS COUPANY UNTIL EXECUTIVE APPROVAL HAS QEEN OSTAINEDHERFON",
-  "originator": "Marketing Department",
-  "jobNo": "2/1/90",
-  "date": "2/1/90",
-  "brand": "MEOIUM",
-  "description": "Malibu Out-0f-Home Rotary Bulletins",
-  "received": "FEB221990",
-  "thru": "P.O.P..G.A.",
-  "periodFrom": "February 1990",
-  "remarks": "4 41 Rotary Bulletins $40.258.89 421 bulletins plus Est.Tax 2.616.82 5%overrun(21 Est. Freight 2.500.00 @$91.29 ea. $45.375.71 \"Tree Design\" TOTAL $ $45.375.7",
-  "total": "$45.375.71",
-  "approvals": {
-    "accountingDistribution": {
-      "January": "Agency",
-      "February": "$45.375.71",
-      "March": "Forecasting",
-      "April": "Marketing",
-      "May": "Sales",
-      "June": null,
-      "July": null,
-      "August": "Sales",
-      "September": null,
-      "October": null,
-      "November": "Sales",
-      "December": "Sales"
-    }
+  "JOBNO": "2/1/90",
+  "DATE": "2/1/90",
+  "BRAND": "MEOIUM",
+  "DESCRIPTION": "Malibu Out-0f-Home Rotary Bulletins",
+  "RECEIVED": "FEB221990",
+  "REMARKS": "4 41 Rotary Bulletins $40.258.89 421 bulletins plus Est.Tax 2.616.82 5%overrun(21 Est. Freight 2.500.00 @$91.29 ea. $45.375.71 \"Tree Design\" TOTAL $ 45.375.7",
+  "APPROVALS": {
+    "ACCOUNTING": "ACCOUNTING DISTRIBUTION",
+    "January": "Agency",
+    "February": "$45.375.71",
+    "March": "Forecasting",
+    "April": "Marketing",
+    "May": "Sales",
+    "June": null,
+    "July": null,
+    "August": "Sales",
+    "September": null,
+    "October": null,
+    "November": "Sales",
+    "December": "Sales"
   },
-  "accountCode": "10-",
-  "budgetCode": "JC2",
-  "presidentAuthNo": "M47",
-  "year": "1990",
-  "chairmanCEO": "Chairman/CEO"
+  "ACCOUNT": {
+    "Cudu": null,
+    "JC2": "JC2",
+    "Autti": null,
+    "4-47": "M47",
+    "Chairmans": "Chairman/CEO"
+  }
 }

@@ -1,33 +1,38 @@
 {
-  "Code d'envoi": "NSZAOL",
-  "Nom": "ALLART",
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": null,
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": "Difficulté de paiement",
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": "",
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "x",
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": "",
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "AGFA"
+  "Code d'envoi": {
+    "Questionnaire": "NSZAaL",
+    "Identite fictive": {
+      "Nom": "ALLART",
+      "Prenom": "Bernad",
+      "Adresse": "L6823 vill....E9ACH",
+      "Code postal": "030B86254",
+      "Ville": null,
+      "Tel": "9no837",
+      "Categorie": "Ccatégorie..l.cull...d.pasemeank",
+      "Objet": "Oemand...de.auie..gca.aee.",
+      "Complement": "kk..u dtlu...e...utuw..o..usponut.",
+      "Reference client eventuelle": null
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "bille"
+      ],
+      "Temps a traiter le scenario": "6 minutes",
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le scenario traite": [
+          "J'envoie mon courrier par voie postale a la date du..42/.2.",
+          "Mon courrier contient une page de garde de fax.",
+          "Avant mon envoi postal, j'ai télécopié ma contribution le.42.",
+          "J'ai envoyé par courriel mon courrier numérisé le...2.....2co..?"
+        ]
+      },
+      "Marque et modele du scanner": "A.G.f.",
+      "Format": [
+        "PNG",
+        "GIF",
+        "TIFF"
+      ],
+      "Resolution des images": "4SQ dpi/ppp"
+    }
+  }
 }

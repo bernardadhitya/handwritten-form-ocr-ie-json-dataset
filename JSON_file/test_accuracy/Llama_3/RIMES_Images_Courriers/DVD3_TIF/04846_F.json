@@ -1,15 +1,9 @@
 {
-  "document": "Télécopie",
-  "scenario": "Demande de 1emis gau'euse",
-  "writer": "Tresorerie deo Impoks",
-  "sender_person": "yadame, Tonsieur",
-  "sender_company": "Tresorerie deo Impoks",
-  "sender_tel": "o3 -61 :72 -21:21",
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": "Demande de 1emis gau'euse",
-  "date": "S avril loot",
-  "place": null,
-  "box": null
+  "Telecopie": {
+    "Objet": "Demande de 1emis gau'euse",
+    "Date": "S avril loot",
+    "A": "Tresorerie deo Impoks",
+    "Numero de telephone": "o3 -61 :72 -21:21",
+    "Numero de telecopie": null
+  }
 }

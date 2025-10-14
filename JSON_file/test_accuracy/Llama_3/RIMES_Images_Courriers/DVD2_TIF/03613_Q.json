@@ -1,33 +1,41 @@
 {
-  "Code d'envoi": null,
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "71230",
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": "Demande de documentation concernant\\nles contrats auto",
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "67210",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": "",
-  "Date d'envoi par fax": "",
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": "",
-  "Format PNG": null,
-  "Format GIF": "",
-  "Format TIFF": "",
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": ".HE.R..B.R.E..E.A.U",
+        "Prenom": ".A.U.D.R.EV",
+        "Adresse": null,
+        "Code postal": "Bl29l9l8 lGlql8 14",
+        "Tel": null
+      },
+      "Categorie": "catégorie..emond...d.Imamo",
+      "Objet Dkm": "coa.monlaeh.caco.nn",
+      "Complement": "MUBYRBB",
+      "Reference client eventuelle": "drese............ho.oa..",
+      "Interlocuteur": null,
+      "Adresse": null,
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille",
+          "plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": "...... minutes."
+      },
+      "Contribution": {
+        "Cocher les elements devotre contrbution pour le scenaro traite": [
+          "+2_",
+          "+1€",
+          "+1€"
+        ],
+        "Marque et modele du scanner": "L",
+        "Format": [
+          "PNG",
+          "GIF",
+          "TIFF"
+        ],
+        "Resolution des images": null
+      }
+    }
+  }
 }

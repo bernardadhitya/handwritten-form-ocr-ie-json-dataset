@@ -1,15 +1,14 @@
 {
-  "document": "INRIA",
-  "scenario": "TELECOPIE / FAX",
-  "writer": "M. le Mare",
-  "sender_person": "Mairie de Henan bihen",
-  "sender_company": "01-60-76 -43-33",
-  "sender_tel": "03- 6o-51 - F0-05",
-  "sender_fax": "03-60-51-70-05",
-  "receiver_person": null,
-  "receiver_company": "INSTITUT NATIONAL DE RECHERCHE EN INFORMATIQUE ET EN AUTOMATIQUE",
-  "subject": "MESSAGE",
-  "date": "6 odere 2oo6",
-  "place": "Unité de Recherche INRIA Rocquencourt : Dom ine de Voluceau-Rocquencourt -B.P.105-78153 Le Chesnay Cedex France",
-  "box": null
+  "Date": "6 octobre 2006",
+  "Destinataires": "Mairie de Henan bihen",
+  "Organisme": "INRIA",
+  "TelecopieFax": "01-60-76 -43-33",
+  "Nombre de pages": "+ 1 = 3",
+  "Expediteur": {
+    "From": "M. le Mare",
+    "TelecopieFax": "03- 6o-51 - F0-05",
+    "Telephone": "03-60-51-70-05"
+  },
+  "Objet": "MESSAGE",
+  "MESSAGE": "Re'clamakon povr nvisances sonores"
 }

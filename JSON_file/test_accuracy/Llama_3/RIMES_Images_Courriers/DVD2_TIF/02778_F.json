@@ -1,15 +1,25 @@
 {
-  "document": "Société du Fromage de Saverne",
-  "scenario": null,
-  "writer": "Corine Simard",
-  "sender_person": "Corine Simard",
-  "sender_company": "Société du Fromage de Saverne",
-  "sender_tel": "03.12.51.15.18",
-  "sender_fax": "03.12.51.15.20",
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": "Ilocllcatun ole Commandc",
-  "date": "13 Fvue 9oo7",
-  "place": "6 rue du Chemin Vert - 67700 Saverne",
-  "box": null
+  "Company": "Société du Fromage de Saverne",
+  "Contact": {
+    "Name": "Corine Simard",
+    "Gender": null,
+    "Position": "Responsable des ventes",
+    "Tel": "03.12.51.15.18",
+    "Fax": "03.12.51.15.20",
+    "Email": "csimard@goatcheese.com"
+  },
+  "Address": {
+    "Street": "6 rue du Chemin Vert",
+    "City": "Saverne",
+    "Postal Code": "67700"
+  },
+  "Company Details": {
+    "Legal Form": "SARL",
+    "Capital": "500800£"
+  },
+  "General Contact": {
+    "Tel": "03.12.51.15.15",
+    "Fax": "03.12.51.15.20",
+    "Email": "contact@goatcheese.com"
+  }
 }

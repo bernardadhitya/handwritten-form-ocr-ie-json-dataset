@@ -1,33 +1,44 @@
 {
-  "Code d'envoi": null,
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": null,
-  "Ville": "DOSSENHEIM SUR ZINSEL",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": "Place des Tilleuls",
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": "20",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "x",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": "",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": "x",
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": "XVEEGQ",
+    "E": "CE...Rvtic",
+    "Nom": "A...e...de...Aubp'ns",
+    "Prenom": null,
+    "XCHEL": null,
+    "42": null,
+    "Code postal": "6t3,3,0",
+    "Ville": "..",
+    "Tel": "0366MM3887"
+  },
+  "Scenario": {
+    "Categorie": "...oaon..ou..cmo's..decn.e....",
+    "Objet": "enc......Ce.i.e....An...onse.",
+    "Complement": "...Aucu&",
+    "Reference client eventuelle": "Interotee...AA...Asa.s...",
+    "Interlocuteur": null,
+    "Adresse": "..",
+    "Code postal": "0vil......G....S..GuiS.",
+    "Ville": null
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [
+      "bille",
+      "plume",
+      "feutre"
+    ],
+    "Temps passe a traiter le scenario": "L.O.... minutes"
+  },
+  "Contribution": {
+    "Cocher les elements de votre contribution pour le scenario traite": [
+      "( (6e) J'envoie mon courrier par voie postale a la date du....6...",
+      "+2€) Mon courrier contient une page de garde de fax.",
+      "+1€) Avant mon envoi postal, j'ai télécopié ma contribution le"
+    ]
+  },
+  "Marque et modele du scanner": {
+    "Marque": null,
+    "Modele": null,
+    "Format": [],
+    "Resolution des images": null
+  }
 }

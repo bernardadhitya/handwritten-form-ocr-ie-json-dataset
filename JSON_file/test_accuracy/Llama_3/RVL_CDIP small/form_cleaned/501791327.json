@@ -1,33 +1,49 @@
 {
-  "title": "Canol Filter",
-  "line": "Line Rcck Road Race Sou lirc B",
-  "insidePage": "Inside Page",
-  "lnField": "Regular Publication",
-  "tipIn": "Tip-In",
-  "purpose": [
-    "To determine the communicative efficiency of the above advertisement.",
-    "To determine awareness changes cr campaign wear-out.",
-    "Other"
-  ],
-  "background": [
-    "Standard day after recall study",
-    "Standard outdoor two week after recall study",
-    "Standard portfolio recall study",
-    "Other"
-  ],
-  "copyStrategy": "To_cenerate.amony consumers awareness of Camcl's assooiation with road racing, and indirectly reinforcing Cawel Filter's image of a no-nonsense cigarette for individualists.",
-  "testVehicle": {
-    "nameOfPublication": "Newspaper",
-    "issueDate": "Sept._31973"
+  "Publication": {
+    "Title": "Canol Filter",
+    "Sections": [
+      "Line Rcck Road Race Sou lirc B",
+      "Inside Page",
+      "Regular Publication",
+      "Ln Fiefd",
+      "Back Cover",
+      "Tip-In",
+      "Spread"
+    ]
   },
-  "location": "AlbanyN.Y.",
-  "quota": "150 nales (75 under 35;75 35 and over)",
-  "datesOfInterviewing": "Scpteber 41973",
-  "reportDate": "October 31,1973",
-  "estimatedCost": "$2,00",
-  "initials": "50179 1327",
-  "requestedBy": "C.C.Stanc",
-  "approvedBy": "J.F.iind",
-  "approvalDate": "8/20",
-  "concurrence": "H ConctrrenceT.P.Hal"
+  "Purpose": {
+    "Description": "(x) To determine the communicative efficiency of the above advertisement. (y) To determine awareness changes cr campaign wear-out. (z) Other"
+  },
+  "Background": {
+    "Standard": {
+      "after recall study": "Standard day after recall study",
+      "outdoor two weeks after recall study": "Standard outdoor two week after recall study",
+      "portfolio recall study": "Standard portfolio recall study"
+    }
+  },
+  "Copy Strategy": {
+    "Supplied by Brand Group": "To_cenerate.amony consumers awareness of Camcl's assooiation with road racing, and indirectly reinforcing Cawel Filter's image of a no-nonsense cigarette for individualists."
+  },
+  "Review Vehicle": {
+    "Name": "Newspaper",
+    "Issue Date": "September 31, 1973"
+  },
+  "Location": {
+    "City": "Albany",
+    "State": "N.Y.",
+    "Quota": {
+      "Sales": {
+        "Under 35": 75,
+        "35 and over": 75
+      }
+    }
+  },
+  "Dates of Reviewing": "September 4, 1973",
+  "Report Date": "October 31, 1973",
+  "Estimated Cost": "$2,00",
+  "Initials": {
+    "Requested by": "C.C.Stanc",
+    "Approved by": "J.F.ind",
+    "Concerns": null
+  }
 }

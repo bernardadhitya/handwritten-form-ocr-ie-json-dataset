@@ -1,15 +1,15 @@
 {
-  "document": "le Os Aun1 9oo7",
-  "scenario": "DElECRoIx 5eHe",
-  "writer": "ReP. Chen: scFKL82",
-  "sender_person": "A: la Rebate",
-  "sender_company": "QF Bolevasd & Cdanb'er",
-  "sender_tel": "03.05.53. 25. 59",
-  "sender_fax": null,
-  "receiver_person": "Honsi eur",
-  "receiver_company": "nouelle a&resx : 81, auenue de) Q'es",
-  "subject": "S lietle Delecvax",
-  "date": null,
-  "place": "6U00 PAU.",
-  "box": "Aransferer ma doser a uos edleques."
+  "structured_information": {
+    "addresses": [
+      {
+        "street": "38 rue des Ranans",
+        "city": "PAU",
+        "zip": "6U00"
+      }
+    ],
+    "personal_data": {
+      "data_release": "ReP. Chen: scFKL82",
+      "data_agreement": "A: la Rebate"
+    }
+  }
 }

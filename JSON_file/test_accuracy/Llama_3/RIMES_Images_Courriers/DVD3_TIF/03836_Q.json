@@ -1,33 +1,45 @@
 {
-  "Code d'envoi": null,
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": null,
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": "Vous souhaitez être couvert au titre\\nde la responsabilité civile",
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": "NNA Assurances",
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": "Villeneuve de Marc",
-  "Temps passé": null,
-  "Stylo bille": "x",
-  "Stylo plume": "",
-  "Stylo feutre": "",
-  "Contribution postale": null,
-  "Date d'envoi postal": "17/03/07",
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "x",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": ".3@U",
+        "Prenom": "Adresse....A....Oua.ts....atimome.",
+        "Adresse": {
+          "Code postal": "LO63GO",
+          "Ville": "....D.RQ"
+        },
+        "Tel": null
+      },
+      "Categorie": "Ceoh.on....de...s..n..s.he",
+      "Objet": "Vo.....so..n.a.le....e...coueR...u........",
+      "Au_htcce": "de...ca...es.oasnaoke...ciui.e.",
+      "Complement": ".....ot.....o.cs..n...",
+      "Reference client eventuelle": "saiis46",
+      "Interlocuteur": "....N.A....A....anc.es.",
+      "Adresse": {
+        "Code postal": "Bdville.....ew...d....a...",
+        "Ville": null
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "billeplume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": ".... minutes"
+      },
+      "Contribution": {
+        "Cocher les_elements de_votre contribution pour le_scenario traite": [
+          "(+2€) Mon courrier contient une page de garde de fax.",
+          "+1€) Avant mon envoi postal, j'ai télécopié ma contribution le"
+        ],
+        "Marque et modele du scanner": "..........3.S.O.",
+        "Format": [
+          "PNG",
+          "GIF",
+          "TIFF"
+        ],
+        "Resolution des images": "ddd/!dp"
+      }
+    }
+  }
 }

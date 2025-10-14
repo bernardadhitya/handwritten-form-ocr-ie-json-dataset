@@ -1,33 +1,46 @@
 {
-  "Code d'envoi": "TSSCWZ",
-  "Nom": "LAVENU",
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": null,
-  "Ville": "GUNSTETT",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": "Demande de rendez-vous avec conseiller\\n",
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": "rue Henri Merle",
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": "30",
-  "Stylo bille": null,
-  "Stylo plume": "x",
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": "",
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": "e1335144536",
+  "Questionnaire": "Questionnaire",
+  "Identite fictive": {
+    "Nom": ".LA.VE.N",
+    "Prenom": "..te",
+    "Adresse": "6t3 Go ville..&...N.....E.....T.",
+    "Code postal": "6t3",
+    "Ville": "Go ville..&...N.....E.....T.",
+    "Tel": null
+  },
+  "Scenario": {
+    "Categorie": "De.m.amo....'..m.omat.om.",
+    "Objet": null,
+    "Wer26": null,
+    "Complement": ".s...........p.......w......mp..o..",
+    "Reference client eventuelle": "6",
+    "Interlocuteur": "Adresse...w...?........",
+    "Adresse": "Ot 6Oo Ville.S...u&x..m",
+    "Code postal": "Ot 6Oo",
+    "Ville": "S...u&x..m"
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [
+      "bille",
+      "plume",
+      "feutre"
+    ],
+    "Temps passe a traiter le scenario": ".?..... minutes."
+  },
+  "Contribution": {
+    "Elements": {
+      "Jenvoie mon courrier par voie postale a la date du": "?.2.6....?...?..0..?",
+      "Mon courrier contient une page de garde de fax": "+2e",
+      "Avant mon envoi postal, j'ai telecopie ma contribution le": "+1€",
+      "Jai envoye par courriel mon courrier numerise le": "+1€"
+    },
+    "Marque et modele duscanner": "L.",
+    "Format": [
+      "PNG",
+      "GIF",
+      "TIFF"
+    ],
+    "Resolution des images": "ddd/!dp"
+  }
 }

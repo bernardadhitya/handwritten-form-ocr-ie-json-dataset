@@ -1,15 +1,18 @@
 {
-  "document": null,
-  "scenario": null,
-  "writer": "YovJo",
-  "sender_person": "hichard",
-  "sender_company": "P0 DauKe de Rapawnont",
-  "sender_tel": null,
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": "Obet : Came pa Couuer",
-  "date": null,
-  "place": "l'inyomahon",
-  "box": "MwY ukowx AYR cahon"
+  "structured_information": {
+    "address": null,
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "organization": "YovJo",
+    "contact": "P0 DauKe de Rapawnont",
+    "email": null,
+    "phone": null,
+    "department": "Obet",
+    "employees": null,
+    "products": null,
+    "services": null,
+    "question": "Came pa Couuer"
+  }
 }

@@ -1,15 +1,29 @@
 {
-  "document": "TELECOPIE",
-  "scenario": "DO",
-  "writer": "Christe 2`lleF",
-  "sender_person": "1ANiF AsseRacs",
-  "sender_company": "H Redu 1u jellet",
-  "sender_tel": "+33143133333",
-  "sender_fax": "+33143133330",
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": "Ceon dSAKe",
-  "date": "23.11.06",
-  "place": "55/57,rue Brillat Savarin, 75013 Paris, France",
-  "box": null
+  "TELECOPIE": {
+    "Adresse": "55/57,rue Brillat Savarin",
+    "Date": "23.11.06",
+    "Tel": "+33143133333",
+    "Fax": "+33143133330",
+    "Web": null,
+    "Email": "raymond@elda.org"
+  },
+  "Destinataire": {
+    "Nom": "Christe 2`lleF",
+    "Telephone": "+33143133333",
+    "Telecopie": "+33143133330",
+    "Autre Telecopie": null
+  },
+  "Objet": "Ceon dSAKe",
+  "Notes": "Urgent Pour information Réponse au plus Veuillez vite commenter Veeuller tewrer un ro wHloun 4noP-Y enofar al`amab)e Cmergant I'accudeht de LaRot we yai pouopue.",
+  "ELDA": {
+    "S.A": {
+      "Capital": "250000£",
+      "R.C.S": "PARIS B 402 781 876",
+      "EURO-ID": "FR-53402781876",
+      "Adresse": "55-57 rue Brillat Savarin 75013 Paris - France",
+      "Tel": "+33 1 43 13 33 33",
+      "Fax": "+33 1 43 13 33 30",
+      "Email": "raymond@elda.org"
+    }
+  }
 }

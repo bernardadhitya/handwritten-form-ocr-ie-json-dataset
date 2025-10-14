@@ -1,13 +1,56 @@
 {
-  "main_questionnaire": {
-    "1a": "Definitely would buy it",
-    "2a": "Please describe what you think cigarettes would be like. What other impressions do you have about what. cigarettes would be like?",
-    "2b": null,
-    "2c": null,
-    "2d": null,
-    "3a": null,
-    "3b": "More satisfying than most cigarettes",
-    "3c": "Excellent taste to me"
-  },
-  "identifier": "500691802"
+  "questions": [
+    {
+      "question": "How likely would you be to try this cigarette?",
+      "answers": [
+        "Definitely would buy it",
+        "Probably would buy it",
+        "Might or might not buy it",
+        "Probably would not buy it",
+        "Definitely would not buy it"
+      ]
+    },
+    {
+      "question": "What do you think cigarettes would be like?",
+      "answers": [
+        "Please describe what you think cigarettes would be like. What other impressions do you have about what cigarettes would be like?"
+      ]
+    },
+    {
+      "question": "Is there anything you particularly liked about cigarettes?",
+      "answers": [
+        "Is there anything you particularly liked about cigarettes as illustrated by this ad?"
+      ]
+    },
+    {
+      "question": "Is there anything you particularly dislike about cigarettes?",
+      "answers": [
+        "Is there anything you particularly dislike about cigarettes as illustrated by this ad?"
+      ]
+    },
+    {
+      "question": "What kind of person would smoke this brand?",
+      "answers": [
+        "Probe"
+      ]
+    },
+    {
+      "question": "How would you describe the satisfaction of cigarettes?",
+      "answers": [
+        "More satisfying than most cigarettes",
+        "As satisfying as most cigarettes",
+        "Somewhat less satisfying than most cigarettes",
+        "Much less satisfying than most cigarettes"
+      ]
+    },
+    {
+      "question": "How would you describe the taste of cigarettes?",
+      "answers": [
+        "Excellent taste to me",
+        "Good taste to me",
+        "Fair taste to me",
+        "Poor taste to me"
+      ]
+    }
+  ]
 }

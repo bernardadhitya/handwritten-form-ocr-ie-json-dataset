@@ -1,17 +1,27 @@
 {
-  "document": "Confidential document",
-  "scenario": "Fax",
-  "writer": "staphanie Xadet",
-  "sender_person": "staphanie Xadet",
-  "sender_company": "Societe Generale",
-  "sender_tel": "01.60.96.43.33",
-  "sender_fax": "Fax",
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": "Objet/Subject",
-  "date": null,
-  "place": "Tour Societe Genérale, 92972 Paris, La Defense Cedex, France",
-  "box": null,
-  "capital": "528 749 122,50 EUR",
-  "rcs": "RCS Paris B 552 120 222"
+  "Sender": {
+    "Name": "Societe Generale",
+    "Address": "Tour Societe Genérale, 92972 Paris, La Defense Cedex, France",
+    "Type": "Societé Anonyme au capital",
+    "Capital": "528 749 122,50 EUR",
+    "Registration": "RCS Paris B 552 120 222"
+  },
+  "Contact": {
+    "Fax": "01.60.96.43.33",
+    "Attention": "staphanie Xadet",
+    "Tel": "03,8I.19,35.69",
+    "From": null,
+    "Tel2": null,
+    "Phone number to call in case of page missing": "N° de téléphone a rappeler en cas de page manquante",
+    "Acknowledgement request": {
+      "Fax": null,
+      "Tel": null,
+      "courrier": null
+    }
+  },
+  "Document": {
+    "Type": "Document confidentiel / Confidential document",
+    "Confirmation follows": "Confirmation suit",
+    "Subject": "Objet/Subject"
+  }
 }

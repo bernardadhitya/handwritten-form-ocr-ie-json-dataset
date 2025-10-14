@@ -1,20 +1,24 @@
 {
-  "telephone": "4921",
-  "date": "Date:",
-  "location_of_records": "073900 - Maury Street Leaf Storages",
-  "cost_center_number": "073",
-  "department": "Record Code",
-  "record_code": "GO103C",
-  "record_category": "General Leaf Operating Files",
-  "medium_and_date_or_date_range": "uneral File 0i090 2054586319",
-  "file_title_or_file_group": "File",
-  "volume": "(MM/DD/YY)",
-  "form_received_by": "Records Coordinator",
-  "key_to_media_codes": {
-    "D": "Diskette",
-    "M": "Microfiche",
-    "P": "Paper",
-    "O": "Other (please specify"
-  },
-  "instructional_booklet": "Records Management Program 8"
+  "Records Inventory Form": {
+    "Prepared by": "Records Coordinator",
+    "Telephone": "4921",
+    "Date": null,
+    "Location of Record(s)": "073900 - Maury Street Leaf Storages",
+    "Cost Center #": "073",
+    "Department": "General Leaf Operating Files",
+    "Record Category": "General Leaf Operating Files",
+    "Date or Date Range": "uneral",
+    "File Title or File Group": "0i090",
+    "CODES": {
+      "Records Coordinator": "Records Coordinator",
+      "Diskette": "D",
+      "Microfiche": "M",
+      "Paper": "P",
+      "Microfilm Roll": "O",
+      "Other (please specify)": [
+        "Instructional Booklet",
+        "Records Management Program"
+      ]
+    }
+  }
 }

@@ -1,15 +1,20 @@
 {
-  "document": "TRANSPORTS ROBERT ET FILS",
-  "scenario": "TELECOPIE",
-  "writer": "Betty 6",
-  "sender_person": "Betty 6",
-  "sender_company": "TRANSPORTS ROBERT ET FILS",
-  "sender_tel": "05.75.28.36.52",
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": "Pour révision Pour commentaires Veuillez répondre",
-  "date": null,
-  "place": "Z.1.des 4 Vents Rue des Cigognes 20090 AJACCIO",
-  "box": null
+  "company_name": "TRANSPORTS ROBERT ET FILS",
+  "sender": "Betty 6",
+  "number_of_pages": "2",
+  "recipient": null,
+  "fax_number": "05.75.28.36.52",
+  "urgency": "Urgent",
+  "purpose": [
+    "Pour révision",
+    "Pour commentaires"
+  ],
+  "reply_requested": "Veuillez répondre",
+  "contact_information": {
+    "name": "Z.1.des 4 Vents",
+    "address": "Rue des Cigognes 20090 AJACCIO",
+    "phone": "04. 70: 87.51.00",
+    "fax": "04.70.87.51.01",
+    "email": "contact@transportsrobert.fr"
+  }
 }

@@ -1,14 +1,21 @@
 {
-  "document": "SNLAPOSTE",
-  "scenario": "TÉLÉCOPIE",
-  "writer": "Direction de La Poste Grand Public",
-  "sender_person": "Jaequeo faosr",
-  "sender_company": "Bauqw JeB1T L40NnA18",
-  "sender_tel": "0391 6977U1",
-  "sender_fax": "O160Yb U3 33",
-  "receiver_person": "l lue pe ErausE",
-  "receiver_company": "I%rue ne la Pste",
-  "subject": "DEMAJ DE",
-  "date": "02/ol/o1",
-  "place": "8t30 ZA foucheu T Mau1c"
+  "Laposte": {
+    "TELECOPIE": {
+      "Direction": "Direction de La Poste Grand Public",
+      "Date": "02/01/01",
+      "Nombre de pages": "1",
+      "Expediteur": "Jaequeo faosr",
+      "Destinataire": "Bauqw JeB1T L40NnA18",
+      "Adresse": "I%rue ne la Pste",
+      "Telephone": {
+        "Telephone": "0391 6977U1 T66",
+        "Telecopie": "O160Yb U3 33"
+      },
+      "Motifs de transmission": [
+        "Pour avis",
+        "Pour information"
+      ],
+      "Message": "0bjet: DEMAJ DE DE SF0A 236N9y AVEC CON 8e 1 LLE R"
+    }
+  }
 }

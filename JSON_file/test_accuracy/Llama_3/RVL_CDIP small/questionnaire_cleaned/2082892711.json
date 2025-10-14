@@ -1,5 +1,5 @@
 {
-  "respondent": "Ms.Jessie Williamson",
+  "name": "Ms.Jessie Williamson",
   "questions": [
     {
       "question": "I.What is the most important issue of concern to you?",
@@ -49,7 +49,9 @@
       ]
     }
   ],
-  "reference_numbers": [
-    "C026412066"
-  ]
+  "email_communication": {
+    "present": "No",
+    "future": "Yes"
+  },
+  "response_code": "C026412066"
 }

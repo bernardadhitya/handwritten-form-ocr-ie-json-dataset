@@ -1,14 +1,14 @@
 {
-  "document": "SoamaFlorenca",
-  "scenario": "Bisdham,9& lU.01.2coA",
-  "writer": "sua chaoabuand",
-  "sender_person": "Nadana.Nonxaur",
-  "sender_company": "de wta pank",
-  "sender_tel": "63.21.52.96.98",
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
-  "date": null,
-  "place": "Psiiem",
-  "box": "67800"
+  "locations": [
+    {
+      "name": "SoamaFlorenca",
+      "address": "Bisdham,9& lU.01.2coA",
+      "zip": "67800 Psiiem"
+    }
+  ],
+  "coordinates": [
+    {
+      "latitude": "63.21.52.96.98"
+    }
+  ]
 }

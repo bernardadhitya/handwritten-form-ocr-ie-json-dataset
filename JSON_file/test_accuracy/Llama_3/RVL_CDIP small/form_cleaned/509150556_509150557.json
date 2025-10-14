@@ -1,77 +1,29 @@
 {
-  "specificationChangeNotice": {
-    "id": null,
-    "date": "3/22/85",
-    "brand": null,
-    "arReferenceNumber": null,
-    "effectiveDateStartUpWithChange": "W/0 3/25/85",
-    "changePreparedBy": null,
-    "phase": "III",
-    "costChange": "NO",
-    "finalSpec": "X",
-    "subBrandNumber": {
-      "from": [
-        null,
-        null
-      ],
-      "to": [
-        null,
-        null
-      ]
+  "SPECIFICATION": {
+    "DATE": "3/22/85",
+    "BRAND": "VANTAGE ULTRA LT.85 Laser)",
+    "EFFECTIVE DATE START UP WITH CHANGE": "W/0 3/25/85",
+    "PACKAGE PREPARED BY": "James W.Davis",
+    "PHASE III": null,
+    "FINAL SPEC": null,
+    "SUB-BRAND NO.": {
+      "1980AM": "2228AJ",
+      "TYPE OF CHANGE": "Raise Dilution Target from 49% to 51%",
+      "OLD COLL_CODE": null,
+      "NEW COLL_CODE": null
     },
-    "typeOfChange": null,
-    "oldCommCode": {
-      "filterTow": "NA",
-      "plugWrapRefNo": "NA",
-      "cigtPaperRefNo": null,
-      "tippingRefNo": null
-    },
-    "basisForRecommendation": null,
-    "purposeOfChange": "To Lower Tar to Target",
-    "verbalConcurrence": [
-      null,
-      null,
-      null,
-      null,
-      null
+    "BASIS FOR RECOMMENDATION": "Since Apri1,1984vANTAGE UL.LT. 85 has averaged 5.5mg with a target of 5.3mg. Attached",
+    "PURPOSE OF CHANGE": "To Lower Tar to Target",
+    "VERBAL CONCURRENCE": [
+      "W.E.Alderman",
+      "S.H.Lane",
+      "S.E.Carter",
+      "C.L.Manning",
+      "D.R.Pugh"
     ],
-    "approval": {
-      "rAndD": null,
-      "bvhOrDesignateFromMarketing": null
-    },
-    "departments": {
-      "manufacturing": [
-        "B.V. Hardin",
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        "D.B. Self",
-        null,
-        null,
-        null,
-        null
-      ],
-      "brandMgr2": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
-      "comptrollers": [
-        null,
-        null
-      ],
-      "qaPlantManager": [
-        null,
-        null
-      ]
-    },
-    "code": null,
-    "additionalCode": "0556"
+    "APPROVAL REQUIRED": {
+      "Brand": "Brand R&D Manageryhas concurrence",
+      "Marketing": "from Marketing: R&D, Ae, MANUFACTURING, COMPTROLLERS, Q.A., PURCHASING, B.V.Hardin, D.K.Isbister, R.L. Willard, J.L.McKenzie, A.V.Dale, R.L.Morgan, D.L.Weller, D.B.Self, D.R.Pugh, W.E. Alderman, J.W.Mabe, R.L.McGee, Brand Mgr-2, S.T.McCollem, 0.K.Crouch, K.W.Smith, D.F.Beeson, J.R.Pegram, T.A.Hall, 50915, E.D. Arledge, Specification File G. L. Aldridge, QA Plant Manager -S.H. Lane, S.L.Reavis, 0556"
+    }
   }
 }

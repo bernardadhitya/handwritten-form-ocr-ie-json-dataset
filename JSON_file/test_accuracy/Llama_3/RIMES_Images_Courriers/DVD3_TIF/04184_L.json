@@ -1,15 +1,17 @@
 {
-  "document": "Lemam Emile",
-  "scenario": "4o sue deo Varaimlo",
-  "writer": "As. Emul Evellie",
-  "sender_person": "Nadame, Nomsieur",
-  "sender_company": "BAAF AssuranCos",
-  "sender_tel": "5713o Ass1 Nox1le",
-  "sender_fax": "7o:03. 16.11.30.61.",
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": "Ob'et. demamde d'informaho.",
-  "date": "6229o 6reziq la farnse",
-  "place": "Ars fNose1le la 27 Nas 27",
-  "box": null
+  "Name": "Lemam Emile",
+  "Age": "4o",
+  "Address": {
+    "Street": "5713o Ass1 Nox1le",
+    "City": null,
+    "Postal Code": null,
+    "Country": null
+  },
+  "Phone": "7o:03. 16.11.30.61.",
+  "Email": null,
+  "Other Information": {
+    "Code": "6229o 6reziq la farnse",
+    "Time": "Ars fNose1le la 27 Nas 27",
+    "Additional Info": "Ob'et. demamde d'informaho."
+  }
 }

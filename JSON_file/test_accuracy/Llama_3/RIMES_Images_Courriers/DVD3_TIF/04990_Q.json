@@ -1,33 +1,46 @@
 {
-  "Code d'envoi": null,
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": null,
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": "UBNHMR",
+  "Identite fictive": {
+    "Nom": "...a............o.....",
+    "Prenom": "Caen",
+    "Adresse": "...a............o.....",
+    "Code postal": "OtO",
+    "Ville": "E....T.U.E.E..O.N.T",
+    "Tel": "03313386"
+  },
+  "Scenario": {
+    "Categorie": ".chqen..e...o.nees...e.unee",
+    "Objet Ie": "asuekle..s.taon...anm.liase",
+    "Reference client eventuelle": null,
+    "Interlocuteur": {
+      "CAEeenss&": "Cesss...Me-atens.FounCe",
+      "Adresse": "c.d...u..",
+      "Code postal": "L t L 6 0",
+      "Ville": "C...A.C.N.t..S"
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "& bille plume",
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": "O.... minutes."
+    },
+    "Contribution": {
+      "Cocher les elements de_votre contrbution pour le scenario traite": [
+        "(6e) J'envoie mon courrier par voie postale a la date du",
+        "+2e) Mon courrier contient une page de garde de fax",
+        "+1€) Avant mon envoi postal, j'ai télécopié ma contribution le",
+        "+1e) J'ai envoyé par courriel mon courrier numérisé le...t.. It...c."
+      ],
+      "Marque et modele du scanner": "....esea....t.o.e.",
+      "RexdeehanZ4eg": {
+        "Format": [
+          "PNG",
+          "GIF",
+          "TIFF"
+        ],
+        "Resolution des images": "3...0.?.. dpi/ppp"
+      }
+    }
+  }
 }

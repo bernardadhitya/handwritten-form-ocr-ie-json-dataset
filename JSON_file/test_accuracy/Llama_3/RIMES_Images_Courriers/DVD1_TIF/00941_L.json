@@ -1,13 +1,14 @@
 {
-  "document": "Mme GV1C HARD aevu",
-  "scenario": null,
-  "writer": null,
-  "sender_person": "Mme GV1C",
-  "sender_company": "LA :TRESORERIE de TMIOTS",
-  "sender_tel": "11 22O",
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
-  "date": "12 Novtuhe 2Oo6",
-  "place": "5 Rue de Feuer, 57 y2O VERNY"
+  "name": "Mme GV1C HARD",
+  "address": {
+    "street": "5 Rue de Feuer",
+    "number": "57",
+    "city": "VERNY"
+  },
+  "phone": "11 22O",
+  "email": null,
+  "other": {
+    "amount": null,
+    "code": "cle ma"
+  }
 }

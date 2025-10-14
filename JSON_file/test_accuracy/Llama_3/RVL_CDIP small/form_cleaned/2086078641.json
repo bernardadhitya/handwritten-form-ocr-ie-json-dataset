@@ -2,31 +2,23 @@
   "ID": "212-503-4650",
   "Date": "APR 30'01",
   "Time": "15:40",
-  "No": "008P.04",
-  "Page": null,
-  "Title": "PHILIP MORRIS USA PRINT RECERTIFICATION FORM",
-  "Instructions": null,
-  "SectionA": {
-    "PublicationTitle": null,
-    "Certification": "I cortify that (title of publication) is not dirccted primarily to those under 21 years of age.",
-    "SignatureDate": null,
-    "Signature": null,
-    "Name": null
+  "Section": "No.008P.04",
+  "Publication": "PHILIP MORRIS USA PRINT RECERTIFICATION FORM",
+  "Certification": {
+    "Section": "SECTION A",
+    "Details": "I am the Exlecha Trors. I cortify that (title of publication) is not dirccted primarily to those under 21 years of age."
   },
-  "SectionB": {
-    "SubscriptionPercentage": "90%",
-    "Circulation": {
-      "NewsstandPercentage": null,
-      "CirculationAged21PlusPercentage": "97%",
-      "ReadershipAged21PlusPercentage": null
+  "Advertiser": "Philip Morris USA",
+  "PlacementAssessment": "Please complete both Section A and B below. Section A certifies that your publication is 'not directed primarily to those under 21 years of age. Section B details circulation, demographic and research data. Both sections must be completed to allow Philip Morris USA to assess the placement of tobacco advertising in your publication.",
+  "Sections": [
+    {
+      "Section": "SECTION A",
+      "Details": "Exbeha Frorels. I am the Exlecha Trors. I cortify that (title of publication) is not dirccted primarily to those under 21 years of age."
     },
-    "Research": {
-      "DateOfStudy": "2050 Sering",
-      "TypeOfStudy": "Mediamark Research Inc.",
-      "OtherTypeDescription": null,
-      "Methodology": "phone survey",
-      "TotalNumberOfRespondents": "2086078641"
+    {
+      "Section": "SECTION B",
+      "Details": "000'00h (000 #). %Subscription: 90%. CIRCULATION: %Newsstand: % 97%. AGE PROFILE: %Circulation aged 21+ % OR %Readershlp aged 21+. RESRARCH (PLEASEATTACH ALL NECESSARY DATATO SUPPORT THIS SUMMARY): Date of Study: 2050 Sering. Type of Study (please check one): Mediamark Research Inc. Media Audit Scarborough Simmons Other. If Other please describe the TYPE e.g. phone survey. blow-in cards. elc. METHODOLQGY. g questionaire within every nthissue) and provide the QTAL#OE RESPONnENTS in the apace below: 2086078641"
     }
-  },
+  ],
   "FaxNumber": "917-663-5313"
 }

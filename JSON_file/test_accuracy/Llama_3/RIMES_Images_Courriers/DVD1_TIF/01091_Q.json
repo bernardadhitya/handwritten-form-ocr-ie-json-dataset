@@ -1,47 +1,28 @@
 {
-    "identification": {
-        "fictiveIdentity": {
-            "name": "ZA nn Prénom … EE",
-            "address": {
-                "street": "Eh. AA. RE np tenace nié HSM ape",
-                "city": "SA CRRLTAIAI.LEL RS ARISEET..",
-                "postalCode": "Le 410",
-                "country": "FR"
-            },
-            "postalAddress": {
-                "street": "L£. POLE hÉmrensnneneaneseennanseseseneeneerersaneneeneremmnnntreninennataneee",
-                "city": "SPL 11 | VIS … 22040",
-                "postalCode": "SPL 11 | VIS … 22040",
-                "country": "FR"
-            }
-        }
-    },
-    "writing": {
-        "style": "F1 bille C] plume [] feutre",
-        "timeSpent": "2 minutes"
-    },
-    "contribution": {
-        "type": "J'envoie mon courrier par voie postale à la date du LM",
-        "value": "6€",
-        "additionalElements": [
-            {
-                "type": "Mon courrier contient une page de garde de fax",
-                "value": "+2€"
-            },
-            {
-                "type": "Avant mon envoi postal, j'ai télécopié ma contribution le ER Cl AAUE..",
-                "value": "+1€"
-            },
-            {
-                "type": "J'ai envoyé par courriel mon courrier numérisé le ……. LA LA AM OEe.",
-                "value": "+1€",
-                "scanner": {
-                    "brand": "Lab te Ê.-2a",
-                    "model": "scanner",
-                    "format": "PNG",
-                    "resolution": "dpi/ppp"
-                }
-            }
-        ]
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "A..N.",
+        "Prenom": "",
+        "Adresse": "....S.......R..........s.......e..",
+        "Code postal": null,
+        "Ville": "S.......R..........s.......e..",
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": "eson...dk...a'nss.",
+        "Objet": "kw..",
+        "Complement": "...w.....",
+        "Reference client eventuelle": null,
+        "Adresse": "d.......",
+        "Code postal": "S' Ville...Py.",
+        "Ville": null,
+        "Type de stylo (noir) utilise": "bille  plume feutre",
+        "Temps a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les elements de_votre contribution pour le scenario traite": "J'envoie mon courrier par voie postale a la date du.....d.\n (+2€) Mon courrier contient une page de garde de fax.\n (+1€) Avant mon envoi postal, j'ai télécopié ma contribution le..............\n (+1€) J'ai envoyé par courriel mon courrier numérisé le.........\n Margue et modele du scanner :.........t...o......... W....?..."
+      }
     }
+  }
 }

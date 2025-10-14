@@ -1,14 +1,8 @@
 {
-  "document": "Maue LAM",
-  "scenario": "Le8 fiurier2007 & Piqnans",
-  "writer": null,
-  "sender_person": "Maue LAM",
-  "sender_company": "PiGNANs",
-  "sender_tel": "83F90",
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": null,
-  "date": null,
-  "place": "14 rue Fontaime dudaime, 12000 RODEZ"
+  "name": "Maue LAM",
+  "address": {
+    "street": "14 rue Fontaime dudaime",
+    "city": "RODEZ",
+    "postal_code": "12000"
+  }
 }

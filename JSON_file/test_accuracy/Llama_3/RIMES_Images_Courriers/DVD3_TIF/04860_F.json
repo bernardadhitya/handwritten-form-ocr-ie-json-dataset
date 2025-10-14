@@ -1,15 +1,18 @@
 {
-  "document": "UPVD",
-  "scenario": "TELECOPIE",
-  "writer": "MoRi",
-  "sender_person": "mr gmsn",
-  "sender_company": "Université de PerpignanVia Domitia",
-  "sender_tel": "03-40-79-40-46",
-  "sender_fax": "04 68 66 00 44",
-  "receiver_person": "La Pol",
-  "receiver_company": "Ppace cle ta loske",
-  "subject": "RenseQnement su Ies hoaues",
-  "date": "le  J auP 2Oo7",
-  "place": "Perpignan",
-  "box": "5, ul de la welle Ka"
+  "Sender": {
+    "Name": "MoRi",
+    "Address": "5, ul de la welle Ka, 5u760 F A vCX",
+    "Telephone": "03-40-79-40-46",
+    "Fax": "04 68 66 00 44"
+  },
+  "Recipient": {
+    "Name": "La Pol",
+    "Fax": "Ppace cle ta loske"
+  },
+  "Subject": "RenseQnement su Ies hoaues",
+  "Message": {
+    "Address": "52, avenue Paul Alduy, 66860 Perpignan Cedex",
+    "Telephone": "00 33 (0)4 68 66 2155",
+    "Fax": "00. 33 (0)4 68 66 00 44"
+  }
 }

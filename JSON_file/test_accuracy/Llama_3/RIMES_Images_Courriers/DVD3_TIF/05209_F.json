@@ -1,14 +1,18 @@
 {
-  "document": "SCRiBEO",
-  "scenario": "Le site desScripteurs du projet RiMES",
-  "writer": "SCRlBEO",
-  "sender_person": "Bryan Duarte",
-  "sender_company": "SCRlBEO",
-  "sender_tel": "01 23 4567 89",
-  "sender_fax": "012345 6789",
-  "receiver_person": "343",
-  "receiver_company": "Au bourg",
-  "subject": "votre demande de resiliation du wois dernier n'a pas ete prise en compte",
-  "date": "11.04.07",
-  "place": "61400 Perrou"
+  "EXPEDITEUR": {
+    "Nom": "Bryan Duarte",
+    "Telephone": "03.51.$5.68.66",
+    "Fax": null,
+    "Nombres de pages": "2"
+  },
+  "DESTINATAIRE": {
+    "Nom": null,
+    "Telephone": "01.23.45.67.89",
+    "Fax": null,
+    "Categorie": "relance de courrier sans réponse",
+    "Objet": "votre demande de résiliation du woi dernier n'a pas été prise en compte",
+    "Complauent": "aucun",
+    "Ref": "XcAOR94",
+    "Interlocuteur": "EoF"
+  }
 }

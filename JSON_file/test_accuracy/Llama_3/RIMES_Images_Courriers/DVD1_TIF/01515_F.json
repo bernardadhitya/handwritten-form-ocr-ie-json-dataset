@@ -1,15 +1,19 @@
 {
-  "document": "Bordereau d'envoi",
-  "scenario": "ENTREPRISE URBAIN & fils",
-  "writer": "BoiviN MayW",
-  "sender_person": "BoiviN MayW",
-  "sender_company": "BOE..IeLECO!",
-  "sender_tel": null,
-  "sender_fax": "pau d pard fax",
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": null,
-  "date": "J9 nu du Sois",
-  "place": "S2.--sus--d-cosak..ele",
-  "box": "8 p 350 GrAn9"
+  "EXPEDITEUR": "BoiviN MayW",
+  "ENTREPRISE": "ENTREPRISE URBAIN & fils",
+  "Bordereau": "Bordereau d'envoi",
+  "Designation des pieces": [
+    {
+      "Nombre": "1",
+      "Observations": "pau d pard fax"
+    },
+    {
+      "Nombre": "1",
+      "Observations": "denod de calopy"
+    },
+    {
+      "Nombre": "1",
+      "Observations": "quetomai"
+    }
+  ]
 }

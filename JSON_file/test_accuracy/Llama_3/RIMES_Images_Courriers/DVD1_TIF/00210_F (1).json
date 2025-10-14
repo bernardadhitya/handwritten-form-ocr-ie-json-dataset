@@ -1,15 +1,12 @@
 {
-  "document": "Télécopie/Facsimilé",
-  "scenario": "Destinatair",
-  "writer": "Momaus",
-  "sender_person": "Nom/Näme",
-  "sender_company": "Service/Entreprise/Department/Company",
-  "sender_tel": "03-82-95-36-93",
-  "sender_fax": "03-82-95-36-93",
-  "receiver_person": "Obie",
-  "receiver_company": "Institut national des télécommunications",
-  "subject": "ECSTAY",
-  "date": "page(s)",
-  "place": "9.rue Charies-Fourier-91011-EvryCedex",
-  "box": "Reférence/Reference"
+  "Telecopie/Facsimile": {
+    "Destinataire": "Momaus",
+    "Nom/Name": null,
+    "Service/Entreprise/DepartmentCompany": "Institut national des télécommunications",
+    "TelecopieuriFax nf": "03-82-95-36-93",
+    "TelephonelTelephone": "90077678",
+    "Date": null,
+    "page(s)": "ECSTAY",
+    "Copiels)": "Obie"
+  }
 }

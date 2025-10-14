@@ -1,33 +1,40 @@
 {
-  "Code d'envoi": null,
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": "45 A Chemin des Prés",
-  "Code Postal": null,
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": "POUILLENAY",
-  "Temps passé": "30",
-  "Stylo bille": "x",
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "x",
-  "Date d'envoi postal": "1/12/2006",
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": "",
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": "ckfzT",
+    "Identite fictive": {
+      "Nom": ".",
+      "Prenom": "A.S.CA",
+      "Adresse": "...u.ER",
+      "Code postal": "0B6496659",
+      "Ville": "...u.ER",
+      "Tel": null
+    },
+    "Scenario": {
+      "Categorie": "Objet...otu...emas......mIo.m.to.",
+      "LQuces_fOm": "Reas...o...ou..e...pm...si.om",
+      "Objet": "MO.A",
+      "Complement": "nes......au...os...",
+      "Reference client eventuelle": null,
+      "Interlocuteur": ".ANCE....E..E..HoE",
+      "Adresse": "...o.m",
+      "Code postal": "Siovile..o....EN.",
+      "Ville": null
+    },
+    "Redaction": {
+      "Type de styio (noir) utilise": [
+        "bille plume feutre"
+      ],
+      "Temps passe & traiter le scenario": null
+    },
+    "Contribution": {
+      "Cocher les_elements de_votre contrbution pour le scenario traite": [
+        "(6€) J'envoie mon courrier par voie postale ä la date du......?..",
+        "+2€) Mon courrier contient une page de garde de fax.",
+        "+1€) Avant mon envoi postal,j'ai télécopié ma contribution le",
+        "+1€) J'ai envoyé par courriel mon courrier numérisé le"
+      ],
+      "Marque et model du scanner": ".",
+      "Resolution des images": "aaaiap"
+    }
+  }
 }

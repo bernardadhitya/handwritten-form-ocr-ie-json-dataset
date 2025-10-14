@@ -1,15 +1,10 @@
 {
-  "document": "eDF",
-  "scenario": "Nos ref",
-  "writer": "da Reboute.Ang& RU 6fO RO I 3T",
-  "sender_person": "Vos ref",
-  "sender_company": "33.2Lo",
-  "sender_tel": null,
-  "sender_fax": null,
-  "receiver_person": "cl'echelonnsn",
-  "receiver_company": "ma demande",
-  "subject": "nececw",
-  "date": null,
-  "place": "Les",
-  "box": "Cch"
+  "structured_information": {
+    "eDF": "eDF",
+    "Ammii R": "da Reboute.Ang& RU 6fO RO I 3T",
+    "Nos ref": "Nos ref:da Reboute.Ang& RU 6fO RO I 3T",
+    "Vos ref": "33.2Lo",
+    "mUA": "nececw",
+    "Aleu € Ceh": "cl'echelonnsn"
+  }
 }

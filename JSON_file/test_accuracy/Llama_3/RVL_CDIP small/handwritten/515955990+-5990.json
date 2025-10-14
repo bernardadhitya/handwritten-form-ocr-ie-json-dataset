@@ -1,53 +1,73 @@
 {
-    "questions": [
-        {
-            "id": 1,
-            "type": "select",
-            "label": "USUAL BRAND",
-            "options": [
-                "Menbit",
-                "Qt NeeMexbl",
-                "SURDES",
-                "4. hy SAL BRAND?"
-            ]
-        },
-        {
-            "id": 2,
-            "type": "select",
-            "label": "Brand",
-            "options": [
-                "1: Menbit",
-                "2: Qt NeeMexbl",
-                "3: SURDES",
-                "4: hy SAL BRAND?"
-            ]
-        },
-        {
-            "id": 3,
-            "type": "select",
-            "label": "How do you usually buy your USUAL BRAND?",
-            "options": [
-                "1: Online",
-                "2: In-store",
-                "3: Other (please specify)"
-            ]
-        },
-        {
-            "id": 4,
-            "type": "text",
-            "label": "Additional comments"
-        }
-    ],
-    "requirements": [
-        {
-            "id": 1,
-            "type": "signature",
-            "label": "Signature"
-        },
-        {
-            "id": 2,
-            "type": "birthdate",
-            "label": "Birthdate"
-        }
-    ]
+  "questions": [
+    {
+      "id": 2,
+      "text": "Is your USUAL BRAND?",
+      "answers": [
+        "Menthol",
+        "Non-Menthol"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Is your USUAL BRAND?",
+      "answers": [
+        "check(Vse",
+        "NonFir",
+        "Filter/King",
+        "100's",
+        "Long",
+        "120's Extrag"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Have you bought any rands gther PAST3MONTHS?",
+      "answers": [
+        "N",
+        "6445N",
+        "Joy",
+        "192414891"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "How do you usy purchase cigaretteChecoe?",
+      "answers": [
+        "By the pack",
+        "By the carton"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Which oth olowing est describes the way you use coupons to buy your USUALBRAND?",
+      "answers": [
+        "1 never se coupoos to buy my Usual Brand",
+        "2 Iuse coupons as often as I can to buy my Usual Brand",
+        "I only buy my Usual Brand with a coupon",
+        "I never get coupons for my Usual Brand"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Are you currny ng pcks proofs of purhase UPC codes oruny monyfor any cigarette bran?",
+      "answers": [
+        "Q1Yes",
+        "2No"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "In the past six months haveyou sn ay packsproosofurhasePcodesor Rd 51595",
+      "answers": [
+        "1 Yes",
+        "2No"
+      ]
+    }
+  ],
+  "requirements": [
+    {
+      "text": "RESPONSE WILL NOT BE PROCESSED WITHOUT SIGNATURE AND BIRTHDATE"
+    }
+  ]
 }

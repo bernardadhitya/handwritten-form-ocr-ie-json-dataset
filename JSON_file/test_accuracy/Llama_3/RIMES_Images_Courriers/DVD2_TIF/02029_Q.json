@@ -1,33 +1,23 @@
 {
-  "Code d'envoi": null,
-  "Nom": "BORDAGE",
-  "Prénom": null,
-  "Adresse": "12 rue de Froide Fontaine",
-  "Code Postal": null,
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": "Commande d'un lot de 50 CD vierges\\n¤{Ref/Réf}¤ du produit 010 - 25 - CDV",
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "18130",
-  "Ville Interlocuteur": "Dun sur Auron",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": "",
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "O...D..A..E.",
+        "Prenom": "...E......",
+        "Adresse": "..............o........u..",
+        "Code postal": "SO 4O Ville...C.HA.R.M.a.s",
+        "Tel": "Scénario"
+      },
+      "Categorie": "Catégorie....o.........d...o.a....m.m.m..",
+      "Objet": "Objet...Co..m................so.....sge",
+      "Complement": "Complément...c..Gu..",
+      "Reference client eventuelle": "Interlocuteur.",
+      "Type de stylo (noir) utilise": "bille",
+      "Temps passe a traiter le scenario": ".....Q... minutes",
+      "Contribution": {
+        "Cocher les elements de_votre contribution pour le_scenario traite": "(6€) J'envoie mon courrier par voie postale á la date du...&...1./2.o.. (+2€) Mon courrier contient une page de garde de fax. (+1€) Avant mon envoi postal, j'ai télécopié ma contribution le (+1€) J'ai envoyé par courriel mon courrier numérisé le",
+        "Marque et modele du scanner": "Format : PNG  GIF  TIFF Résolution des images : dpi/ppp"
+      }
+    }
+  }
 }

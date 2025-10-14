@@ -1,14 +1,20 @@
 {
-  "document": "2p1 Re d",
-  "scenario": "57A4o SAuLNY",
-  "writer": null,
-  "sender_person": null,
-  "sender_company": "BARCEloNNE nU GERS",
-  "sender_tel": "03.32.65.26.00",
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
-  "date": null,
-  "place": null,
-  "box": null
+  "structured_information": {
+    "values": [
+      {
+        "name": "phone_number",
+        "value": "03.32.65.26.00"
+      },
+      {
+        "name": "location",
+        "value": "BARCEloNNE nU GERS"
+      }
+    ],
+    "locations": [
+      {
+        "start": 14,
+        "end": 24
+      }
+    ]
+  }
 }

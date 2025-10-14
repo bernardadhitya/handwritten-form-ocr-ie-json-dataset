@@ -1,33 +1,38 @@
 {
-  "Code d'envoi": null,
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": null,
-  "Ville": "AUZAINVILLIERS",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": "Vous faites appel à votre assurance automobile\\n",
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "20220",
-  "Ville Interlocuteur": "AREGNO",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": "",
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": "",
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": "x",
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "EPSON Perfection 1200 photo"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "A.N.",
+        "Prenom": "Ds...",
+        "Adresse": "...A.u.ZA.!W..V.!..CuERs",
+        "Code postal": "...A.u.ZA.!W..V.!..CuERs",
+        "Ville": "...A.u.ZA.!W..V.!..CuERs",
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": "G.o........s...",
+        "Sx_tel": null,
+        "Objet": "...",
+        "Complement": "...o...wg.ns.",
+        "Reference client eventuelle": ">ysu]I4o",
+        "Interlocuteur": {
+          "Nom": null,
+          "AsskRANAE": null,
+          "Adresse": "...A.REGNo",
+          "Code": null,
+          "Ville": "..A.REGNo"
+        },
+        "Redaction": {
+          "Type de stylo (noir) utilise": "bille  plume feutre",
+          "Temps passe a traiter le scenario": "...... minutes"
+        },
+        "Contribution": {
+          "Cocher les elements de_votre contribution pour le scenario traite": "J'envoie mon courrier par voie postale a la date du...2....w....?.o?.... (+2€) Mon courrier contient une page de garde de fax. (+1€) Avant mon envoi postal, j'ai télécopié ma contribution le.. (+1£) J'ai envoyé par courriel mon courier numérisé le....?..a......?oo...",
+          "Marque et modele du scanner": "E.oN...&e.k.............",
+          "Format": "PNG GIF TIFF",
+          "Resolution des images": "3?0?..... dpi/ppp"
+        }
+      }
+    }
+  }
 }

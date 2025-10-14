@@ -1,27 +1,22 @@
 {
-  "formTitle": "Participation Verification Form.",
-  "instructions": "To indicate that you are participating in Ask First/lts the Law and doing your part to prevent tobacco sales to minors, please complete this form and send it in the enclosed postage-paid envelope or mail it to 1500 Ardmore Blvd., Suite 202, Pittsburgh, PA 15221.",
-  "fields": {
-    "managerName": null,
-    "signature": null,
-    "storeName": "Name of Store or Business",
-    "storeId": null,
-    "address": "Address",
-    "telephoneNo": "919-782-56XS",
-    "cityStateZip": "City,State,Zip",
-    "storeType": [
-      "Convenience",
-      "Gas/Service Station",
-      "Grocery",
-      "Drug Store/Pharmacy",
-      "Magazine/Newsstand",
-      "Mass Merchandiser",
-      "Wholesaler"
-    ],
-    "isPartOfChain": "Yes",
-    "locationsManaged": "2044057041",
-    "useStoreNameInPromotions": "Yes, you may use my store's name as an Ask First//t's the Law participant in. promotional materials and advertising with my prior knowledge.."
-  },
-  "program": "Supporting Responsible Tobacco Retailing",
-  "programCode": "85741"
+  "Manager Name": "Manager Name",
+  "Signature": "Signature",
+  "Name of Store or Business": "Supporting Responsible Tobacco Retailing",
+  "Address": "1500 Ardmore Blvd., Suite 202, Pittsburgh, PA 15221",
+  "City": "Pittsburgh",
+  "State": "PA",
+  "Zip": "15221",
+  "Telephone No": "919-782-56XS",
+  "Type of Store or Business": [
+    "Convenience",
+    "Gas/Service Station",
+    "Grocery",
+    "Drug Store/Pharmacy",
+    "Magazine/Newsstand",
+    "Mass Merchandiser",
+    "Wholesaler"
+  ],
+  "Is part of chain": "Yes",
+  "Number of locations managed": "2044057041",
+  "Use store's name in promotional materials": "Yes"
 }

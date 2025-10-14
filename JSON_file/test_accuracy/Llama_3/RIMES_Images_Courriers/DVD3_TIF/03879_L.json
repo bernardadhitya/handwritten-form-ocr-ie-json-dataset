@@ -1,14 +1,9 @@
 {
-  "document": null,
-  "scenario": "A ssuancs",
-  "writer": "LEVALlOis PERRE7",
-  "sender_person": "M BLANCHARD",
-  "sender_company": "4a6il",
-  "sender_tel": null,
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
-  "date": "PEVNR24",
-  "place": "77 Quai MiKt, Peniche Beved",
-  "box": "923 00"
+  "address": {
+    "street": "77 Quai MiKt",
+    "city": "Peniche Beved",
+    "postal_code": "923 00"
+  },
+  "name": "M BLANCHARD LEVALlOis PERRE7",
+  "phone_number": "4a6il"
 }

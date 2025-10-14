@@ -1,33 +1,41 @@
 {
-  "Code d'envoi": null,
-  "Nom": null,
-  "Prénom": "daniel",
-  "Adresse": null,
-  "Code Postal": null,
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": "votre endettement est devenu trop\\nimportant",
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "19160",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": "",
-  "Contribution postale": null,
-  "Date d'envoi postal": "22-01-07",
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": "300",
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "Canon piscma MP150"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "damet",
+        "Prenom": "emant",
+        "Adresse": "lac\no....\ne.chew.\n..kaommeo.",
+        "Code postal": "lZ6r1?oI",
+        "Ville": "s cm2",
+        "Tel": null
+      },
+      "Categorie": "demaamde....de....emuae...ga.cswse",
+      "Objet": "complment....u....nd.tmem.....ewnw....tus.",
+      "Complement": null,
+      "Reference client eventuelle": "EDF",
+      "Adresse": null,
+      "Code postal": null,
+      "Ville": null,
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille",
+          "plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": "..?.... minutes."
+      },
+      "Contribution": {
+        "Cocher les_elements de_votre contribution pour le_scenario traite": [
+          "22-01.07"
+        ],
+        "Marque et modele du scanner": null,
+        "Format": [
+          "PNG",
+          "GIF",
+          "TIFF"
+        ],
+        "Resolution des images": "..3g.... dpi/ppp"
+      }
+    }
+  }
 }

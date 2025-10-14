@@ -1,80 +1,59 @@
 {
-  "ClubName": "Cb",
-  "ScheduleA": {
-    "PermanentVisibilityItems": {
-      "Goods": [
-        {
-          "name": "Marlboro Neons",
-          "quantity": "o Napkins per month"
-        },
-        {
-          "name": "Marlboro Backlit Pack",
-          "quantity": "288"
-        },
-        {
-          "name": "Ashtrays",
-          "quantity": null
-        },
-        {
-          "name": "Marlboro Wall Graphics",
-          "quantity": null
-        },
-        {
-          "name": "Bar Organizers",
-          "quantity": "h1x8"
-        },
-        {
-          "name": "Garnish Trays",
-          "quantity": null
-        },
-        {
-          "name": "Match Caddies",
-          "quantity": null
-        },
-        {
-          "name": "Gutter Mats",
-          "quantity": "Style 3"
-        },
-        {
-          "name": "Bar Mats",
-          "quantity": "Style 3"
-        },
-        {
-          "name": "Chalk Boards",
-          "quantity": "Style E"
-        }
-      ],
-      "Style": {
-        "GutterMats": "3",
-        "BarMats": "3",
-        "ChalkBoards": "E"
+  "Club Name": "Cb",
+  "Permanent Visibility Items": {
+    "Goods": [
+      {
+        "Item": "Marlboro Neons",
+        "Quantity": "o Napkins per month"
+      },
+      {
+        "Item": "Marlboro Backlit Pack",
+        "Quantity": "288"
+      },
+      {
+        "Item": "Ashtrays",
+        "Quantity": null
+      },
+      {
+        "Item": "Marlboro Wall Graphics",
+        "Quantity": null
+      },
+      {
+        "Item": "Bar Organizers",
+        "Quantity": "h1x8"
+      },
+      {
+        "Item": "Garnish Trays",
+        "Quantity": null
+      },
+      {
+        "Item": "Match Caddies",
+        "Quantity": null
+      },
+      {
+        "Item": "Gutter Mats",
+        "Quantity": "Style 3"
+      },
+      {
+        "Item": "Bar Mats",
+        "Quantity": "Style 3"
+      },
+      {
+        "Item": "Chalk Boards",
+        "Quantity": "Style"
       }
-    },
-    "Media": {
-      "PrintMediaAdvertisements": "The placement publication, style and frequency of the media advertisements to be determined by Producer."
-    },
-    "OtherConsideration": {
-      "PerformancePayment": "s000",
-      "PaymentSchedule": [
-        {
-          "amount": "$S8",
-          "date": "within 45 days of the Club's execution and the Producer's receipt and acceptance of this Agreement"
-        },
-        {
-          "amount": "$5008",
-          "date": "July 1, 2000"
-        },
-        {
-          "amount": "$5008",
-          "date": "September 15, 2000"
-        },
-        {
-          "amount": "$5008",
-          "date": "December 1, 2000"
-        }
-      ]
+    ],
+    "Print Media Advertisements": {
+      "Other Consideration": "s000"
     }
   },
-  "ClubInitialHere": "AO-21-P",
-  "DocumentCode": "AO-21-P"
+  "Performance Payment": {
+    "Details": {
+      "1st Payment": "$S8",
+      "2nd Payment": "$S8",
+      "3rd Payment": "$S8",
+      "4th Payment": "$5008"
+    },
+    "Club Initial Here": "2083866340"
+  }
 }
