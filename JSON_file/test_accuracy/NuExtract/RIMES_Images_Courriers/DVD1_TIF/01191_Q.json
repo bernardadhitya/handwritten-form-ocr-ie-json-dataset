@@ -1,33 +1,35 @@
 {
-  "Code d'envoi": "ckfzT",
-  "Nom": null,
-  "Prénom": "A.S.CA",
-  "Adresse": null,
-  "Code Postal": "0B6496659",
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": "ANCE....E..E..HoE",
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "Siovile..o....EN",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": "ckfzT",
+    "Identite fictive": {
+      "Nom": null,
+      "Prenom": "A.S.CA",
+      "Adresse": null,
+      "Code postal": "0B6496659",
+      "Ville": null,
+      "Tel": null
+    },
+    "Scenario": {
+      "Categorie": null,
+      "LQuces_fOm": null,
+      "Objet": null,
+      "Complement": null,
+      "Reference client eventuelle": null,
+      "Interlocuteur": "ANCE....E..E..HoE",
+      "Adresse": null,
+      "Code postal": null,
+      "Ville": null
+    },
+    "Redaction": {
+      "Type de styio (noir) utilise": [
+        "bille plume feutre"
+      ],
+      "Temps passe & traiter le scenario": null
+    },
+    "Contribution": {
+      "Cocher les_elements de_votre contrbution pour le scenario traite": [],
+      "Marque et model du scanner": null,
+      "Resolution des images": null
+    }
+  }
 }

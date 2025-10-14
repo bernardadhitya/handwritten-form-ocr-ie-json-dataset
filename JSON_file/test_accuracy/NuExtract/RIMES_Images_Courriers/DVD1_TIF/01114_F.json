@@ -1,15 +1,12 @@
 {
-  "document": "TELECOPIE /FAX",
-  "scenario": null,
-  "writer": null,
-  "sender_person": null,
-  "sender_company": "LABORATOIRE DES TECHNOLOGIES DE LA MICROÉLECTRONIQUE",
-  "sender_tel": "(33) 0438 7858 92",
-  "sender_fax": null,
-  "receiver_person": "BaCHE2 yoauu",
-  "receiver_company": "NA1F Assurawces",
-  "subject": "De&araUov de gy5m8 N/Réf. V/Réf.",
-  "date": "24 /41/2006",
-  "place": "17, rue des Martyrs (CEA-LETI) 38054 Grenoble cedex 09 France",
-  "box": null
+  "DATE": "24 /41/2006",
+  "OBJET": "De&araUov de gy5m8",
+  "FROM": "BaCHE2 yoauu",
+  "TO": "NA1F Assurawces",
+  "N/FAX": "(33) 0438 7858 92",
+  "V/FAX": null,
+  "Laboratoire": {
+    "Nom": "Laboratoire des Technologies de la Microélectronique",
+    "Adresse": "17, rue des Martyrs (CEA-LETI) 38054 Grenoble cedex 09 France"
+  }
 }

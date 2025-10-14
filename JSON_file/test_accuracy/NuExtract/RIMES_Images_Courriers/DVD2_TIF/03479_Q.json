@@ -1,33 +1,33 @@
 {
-  "Code d'envoi": "LO6 6 6O",
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "BM3D",
-  "Ville": null,
-  "Téléphone": "045825843",
-  "Catégorie Scénario": "8",
-  "Objet Scénario": "M..w.....w...sc.",
-  "Complément Scénario": "V....",
-  "Référence client": "éventuelle",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier par voie postale",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": null,
+        "Adresse": null,
+        "Code postal": "LO6 6 6O",
+        "Ville": null,
+        "Tel": "045825843"
+      },
+      "Scenario": {
+        "Categorie": "8",
+        "Objet": "M..w.....w...sc.",
+        "Complement": "V....",
+        "Reference client eventuelle": null,
+        "Adresse": "BM3D vill......a",
+        "Code postal": "BM3D",
+        "Ville": null,
+        "Redaction": {
+          "Type de stylo (noir) utilise": [],
+          "Temps passe a traiter le scenario": null
+        },
+        "Contribution": {
+          "Cocher les_elements_de_votre contribution pour le_scenario traite": [],
+          "Marque et modele du scanner": null,
+          "Format": [],
+          "Resolution des images": null
+        }
+      }
+    }
+  }
 }

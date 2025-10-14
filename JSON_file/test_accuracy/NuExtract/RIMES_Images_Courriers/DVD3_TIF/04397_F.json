@@ -1,15 +1,14 @@
 {
-  "document": "Pour avis",
-  "scenario": "Urgent",
-  "writer": "RAIMBAULT Pierre",
-  "sender_person": "RniMBAuT PeRRe",
-  "sender_company": null,
-  "sender_tel": "03- 53_7g- 13.13",
-  "sender_fax": null,
-  "receiver_person": "NAF",
-  "receiver_company": null,
-  "subject": "DernnDe dle lreusir swr Ja Jemee",
-  "date": "31/03",
-  "place": "7 RUE ST DENIS",
-  "box": null
+  "Name": "RAIMBAULT Pierre",
+  "Address": {
+    "Street": "7 RUE ST DENIS",
+    "City": "VILLE H0UDLEM0NT"
+  },
+  "Telephone": "03- 53_7g- 13.13",
+  "Fax": null,
+  "Date": "31/03",
+  "Subject": "DernnDe dle lreusir swr Ja Jemee",
+  "Urgent": null,
+  "Comments": null,
+  "Information": null
 }

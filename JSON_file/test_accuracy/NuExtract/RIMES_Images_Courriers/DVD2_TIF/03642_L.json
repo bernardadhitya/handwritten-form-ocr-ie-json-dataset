@@ -1,15 +1,24 @@
 {
-  "document": "Demand de documental commençant &s contats d' assurance cule",
-  "scenario": null,
-  "writer": "Michel",
-  "sender_person": "V T V P Z 32",
-  "sender_company": "NAIF",
-  "sender_tel": "03 21 01 24 83",
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": "Demand de documental commençant &s contats d' assurance cule",
-  "date": "12 mau 2oo7",
-  "place": "Rue de la poste",
-  "box": "8054O, BOUGAINVILLE"
+  "address": {
+    "street": "Rue de la poste",
+    "number": "8054O",
+    "postal_code": "BOUGAINVILLE",
+    "city": null
+  },
+  "contact": {
+    "tel": "03 21 01 24 83"
+  },
+  "subject": "Demand de document commençant &s contats d' assurance cule",
+  "recipient": {
+    "title": "Madame/Monsieur",
+    "name": "V T V P Z 32"
+  },
+  "content": {
+    "items": [
+      "tous ge voudras auoir assuance maintenant.",
+      "le faire faire cmcemant ds condal d'assuranc auto.",
+      "les docmensaglealle , je us prsend ms uos nepene l'alen& dle Oistiguees salutatons"
+    ]
+  },
+  "date": "12 mau 2oo7"
 }

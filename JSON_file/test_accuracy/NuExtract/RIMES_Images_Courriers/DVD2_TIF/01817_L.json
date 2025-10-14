@@ -1,15 +1,17 @@
 {
-  "document": "Augmenation (x&) des quanfites de CD viesges commandees",
-  "scenario": null,
-  "writer": null,
-  "sender_person": null,
-  "sender_company": null,
-  "sender_tel": null,
-  "sender_fax": null,
-  "receiver_person": "LAFAYE E1isabeth",
-  "receiver_company": null,
-  "subject": "Augmenation (x&) des quanfites de CD viesges commandees",
-  "date": null,
-  "place": "6 RUE DE SYRACUSE",
-  "box": "RUE DU 8 MAl &780O BR1ONNE 4930o CHoLET 02.97.67.33.39"
+  "First Name": "LAFAYE",
+  "Last Name": "E1isabeth",
+  "Address": {
+    "Street": "6 RUE DE SYRACUSE",
+    "City": "BRONNE",
+    "Postal Code": "4930"
+  },
+  "Phone Number": "02.97.67.33.39",
+  "Email": null,
+  "Order Details": {
+    "Product": "CD vieges",
+    "Quantity": null,
+    "Modification": "Augmenation (x&) des quanfites de CD vieges",
+    "Date": null
+  }
 }

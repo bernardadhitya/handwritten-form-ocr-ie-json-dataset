@@ -1,33 +1,42 @@
 {
   "Code d'envoi": "ZkDvsk",
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": "C.H...N....D....BO.o.",
-  "Code Postal": "7O7O",
-  "Ville": "B...HELE.M.X.",
-  "Téléphone": "0345648824",
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "O!OVille...S..UNACQ.........",
-  "Ville Interlocuteur": null,
-  "Temps passé": "20 minutes",
-  "Stylo bille": "bille",
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier par voie postale",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": "4QO dpi/ppp",
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "HP...Lxese...9O0Q...Lm"
+  "Identite fictive": {
+    "Nom": "om........",
+    "Prenom": "A.......",
+    "Adresse": "C.H...N....D....BO.o....",
+    "Code postal": "7O7O",
+    "Ville": "B...HELE.M.X.",
+    "Tel": "0345648824"
+  },
+  "Scenario": {
+    "Categorie": "Ccomlmen...os....e...ovo.ap.....emp...co....",
+    "Objet": "VO.",
+    "Complement": null,
+    "Reference client eventuelle": "e.e.",
+    "Interlocuteur": "leas?",
+    "Adresse": "..o..e.......Bo....",
+    "Code postal": "O!OVille...S..UNACQ..........",
+    "Ville": "S..UNACQ.........."
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [
+      "bille",
+      "plume",
+      "feutre"
+    ],
+    "Temps passe a traiter le scenario": "..2O.... minutes.",
+    "Contribution": {
+      "J'envoie mon courrier par voie postale a la date du 1lo3lO.Z": "3..0.3..0.",
+      "Mon courrier contient une page de de fax": "+2€",
+      "Avant mon envoi postal, j'ai telecopie ma contribution le 131034.0.2": "13./.Q.3/...7",
+      "J'ai envoye par courriel mon courrier numerise le 131.0.3.0.7": "13.1.a..3./.Q.7"
+    },
+    "Marque et modele du scanner": "HP...Lxese...9O0Q...Lm",
+    "Format": [
+      "PNG",
+      "GIF",
+      "TIFF"
+    ],
+    "Resolution des images": "4QO.. dpi/ppp"
+  }
 }

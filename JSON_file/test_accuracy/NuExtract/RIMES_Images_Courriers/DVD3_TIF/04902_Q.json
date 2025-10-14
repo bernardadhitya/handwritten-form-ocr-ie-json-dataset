@@ -1,32 +1,41 @@
 {
-  "Code d'envoi": "ababnn",
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "L5433O",
-  "Ville": "KA..M..FCM",
-  "Téléphone": "03479452",
-  "Catégorie Scénario": null,
-  "Objet Scénario": "Olmanee",
-  "Complément Scénario": null,
-  "Référence client": "Itelocter",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "BS6n9",
-  "Ville Interlocuteur": "MACl.E..RAOU",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le .ei J'rai envoyé par couriel mon courier numeérisé",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "Avant mon envoi postal, j'ai télécopié ma contribution le .ei J'rai envoyé par couriel mon courier numeérisé",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": "ababnn",
+    "Identite fictive": {
+      "Nom": "Yemerle",
+      "Prenom": "Rou......omemonge",
+      "Adresse": null,
+      "Code postal": 5433,
+      "Ville": "KA..M..FCM",
+      "Tel": "03479452"
+    },
+    "Scenario": {
+      "Categorie": "Olmanee",
+      "dLitloemobion_": "con",
+      "Complement": "clrnant",
+      "Reference client eventuelle": "Itelocter",
+      "Interlocuteur": "Pots",
+      "Adresse": "MACl.E..RAOU",
+      "Code postal": "BS6n9",
+      "Ville": "MACl.E..RAOU"
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "bille",
+        "plume",
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": null,
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le_scenario traite": [
+          "Mon courrier contient une page de garde de fax",
+          "Avant mon envoi postal, j'ai télécopié ma contribution le",
+          "J'rai envoyé par couriel mon courier numérisé"
+        ],
+        "Marque et modele du scanner": null,
+        "Format": [],
+        "Resolution des images": null
+      }
+    }
+  }
 }

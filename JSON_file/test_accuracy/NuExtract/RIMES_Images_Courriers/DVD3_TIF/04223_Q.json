@@ -1,33 +1,32 @@
 {
-  "Code d'envoi": null,
-  "Nom": "A.R.O.",
-  "Prénom": null,
-  "Adresse": "6.......u.",
-  "Code Postal": "AAo",
-  "Ville": "R...",
-  "Téléphone": null,
-  "Catégorie Scénario": "Raanc....c.au....sw..néhonse",
-  "Objet Scénario": "al.e.cMam....e..eoao..wu..moos.aoms.mo",
-  "Complément Scénario": "O.c..",
-  "Référence client": "éventuelle",
-  "Interlocuteur": "muveu...Sa....Mobi",
-  "Adresse Interlocuteur": "us.......Re..o.",
-  "Code Postal Interlocuteur": "693Oo",
-  "Ville Interlocuteur": "N.",
-  "Temps passé": "0... minutes.",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "J'envoie mon courier par voie postale á la date du .....&.a......",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "F1/& Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Identite fictive": {
+    "Nom": "A.R.O.",
+    "Prenom": null,
+    "Adresse": "6u",
+    "Code postal": "AAo",
+    "Ville": "R...",
+    "Tel": null
+  },
+  "Categorie": "Raanc",
+  "Objet": "al.e.cMam....e..eoao..wu..moos.aoms.mo",
+  "Interlocuteur": {
+    "Nom": "muveu",
+    "Adresse": "us.......Re..o.",
+    "Code postal": "693Oo",
+    "Ville": "N."
+  },
+  "Redaction": {
+    "Type de stylo utilise": [
+      "bille",
+      "plume",
+      "feutre"
+    ],
+    "Temps passe a traiter le scenario": "0... minutes."
+  },
+  "Contribution": {
+    "Elements": [],
+    "Marque et modele du scanner": null,
+    "Format": [],
+    "Resolution des images": null
+  }
 }

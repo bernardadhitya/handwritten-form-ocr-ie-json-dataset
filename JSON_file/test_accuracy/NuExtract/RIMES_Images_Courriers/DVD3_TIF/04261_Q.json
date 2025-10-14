@@ -1,32 +1,45 @@
 {
-  "Code d'envoi": "R2OZEN",
-  "Nom": "MARY",
-  "Prénom": "L.A.U.R.E.N...",
-  "Adresse": "a....ww...a..busse...e..A..A...y.",
-  "Code Postal": "lO6 2 2o",
-  "Ville": "N.A.LkA.H.R.j.S",
-  "Téléphone": null,
-  "Catégorie Scénario": "Catégorie Hla.dficahan.&..cannakl.cnmomande",
-  "Objet Scénario": "Chamgmemt...com.asant..wa..ssin...sommasdk",
-  "Complément Scénario": "Vas...Sanhai.te..ammue...ot...cammand",
-  "Référence client": "éventuelle",
-  "Interlocuteur": "L.a...e.baut.",
-  "Adresse Interlocuteur": "awt...!.aan",
-  "Code Postal Interlocuteur": "56o",
-  "Ville Interlocuteur": ".t.H.i.las'a...t..ks.mm.",
-  "Temps passé": "S....",
-  "Stylo bille": "bille",
-  "Stylo plume": "plume",
-  "Stylo feutre": "feutre",
-  "Contribution postale": "Mon courrier par voie postale a la date du .&.mans...as...",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le 3..ma.&...",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le .",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "LO"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "MARY",
+        "Prenom": "L.A.U.R.E.N...",
+        "Adresse": "a....ww...a..busse...e..A..A...y.",
+        "Code postal": "lO6",
+        "Ville": "N.A.LkA.H.R.j.S",
+        "Tel": null
+      },
+      "Categorie": "Hla.dficahan.&..cannakl.cnmomande",
+      "Objet": "Chamgmemt...com.asant..wa..ssin...sommasdk",
+      "ConGanawaeAlkEc&": null,
+      "Complement": "Vas...Sanhai.te..ammue...ot...cammand",
+      "Caman": null,
+      "Interlocuteur": "L.a...e.baut.",
+      "Adresse": "awt...!.aan",
+      "Code postal": "56o",
+      "Ville": ".t.H.i.las'a...t..ks.mm.",
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le scenario traite": {
+          "(6e) J'envoie mon courrier par voie postale a la date du 23.mas_2oxl": null,
+          "(+2e) Mon courrier contient une page de garde de fax": null,
+          "(+1€) Avant mon envoi postal, J'ai telecopie ma contribution le 23.OaA": null,
+          "(+1€) J'ai envoye par courriel mon courrier numerise le": null
+        },
+        "Marque et modele du scanner": "LO",
+        "Format": [
+          "PNG",
+          "GIF",
+          "TIFF"
+        ],
+        "Resolution des images": null
+      }
+    }
+  }
 }

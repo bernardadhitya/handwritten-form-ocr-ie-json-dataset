@@ -14,7 +14,7 @@
     "interviewed_by": "N"
   },
   "instructions": {
-    "interview_women_only": null,
+    "interview_women_only": "Hello, I'm from (Your Company), an independent marketing research",
     "age_question": {
       "question": "Into which of the following age groups does your age belong?",
       "options": [
@@ -22,14 +22,16 @@
         "18-24",
         "25-3-2",
         "35-49",
-        "50+"
+        "50+",
+        "Refused"
       ],
       "terminate_if": [
         "Under 18",
         "18-24",
         "25-3-2",
         "35-49",
-        "50+"
+        "50+",
+        "Refused"
       ]
     },
     "product_usage_question": {
@@ -44,7 +46,9 @@
       "continue_if": [
         "Breathmints",
         "Mouthwash",
-        "Cigarettes"
+        "Cigarettes",
+        "Gel toothpaste",
+        "Cream toothpaste"
       ]
     },
     "brand_usage_question": {

@@ -1,17 +1,20 @@
 {
-  "company": "R.J. Reynolds",
-  "contact_number": "295521171",
-  "department": "Consumer Relations",
-  "location": "Winston-SalemN.C.27102",
-  "customer_name": "Lyonna Sharp",
-  "customer_address": "Rr2Box641 Ore CityTX 75683",
-  "greeting": "Dear Valued Customer",
-  "message": "Recently you contacted R.J. Reynolds'Consumer Relations Department and gave us the opportunity to respond to your request for assistance with either a promotion or product related issue.",
-  "manager_name": "Mark Conrad",
-  "manager_title": "Consumer Satisfaction Research Manager",
-  "codes": [
-    "WGZ95",
-    "4538"
-  ],
-  "slogan": "We work for smokers"
+  "Company": "R.J. Reynolds",
+  "Contact Information": {
+    "Address": "295521171",
+    "City": "Winston-Salem",
+    "State": "N.C.",
+    "Zip Code": "27102"
+  },
+  "Customer": {
+    "Name": "Lyonna Sharp",
+    "Address": "Rr2Box641",
+    "City": "Ore City",
+    "State": "TX",
+    "Zip Code": "75683"
+  },
+  "Date": null,
+  "Contact Number": null,
+  "Contact Person": "Mark Conrad",
+  "Position": "Consumer Satisfaction Research Manager"
 }

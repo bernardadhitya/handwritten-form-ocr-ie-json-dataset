@@ -1,15 +1,22 @@
 {
-  "document": "Changenent d' adresse",
-  "scenario": null,
-  "writer": "GALiN1ER Dqlan",
-  "sender_person": "Dylan",
-  "sender_company": null,
-  "sender_tel": "03 88 73 92 69",
-  "sender_fax": null,
-  "receiver_person": "Yonsieur",
-  "receiver_company": null,
-  "subject": "Changenent d' adresse",
-  "date": null,
-  "place": "i` atlent",
-  "box": "STOU JOS 8 joignablo sH"
+  "name": "GALiN1ER Dqlan",
+  "address": {
+    "street": "F rue dc 1a pap",
+    "city": "Dorli S Heim",
+    "country": "i` atlent"
+  },
+  "contact": {
+    "title": "Yonsieur",
+    "name": "demenagenent",
+    "email": null,
+    "phone": "03 88 73 92 69",
+    "code": "YPHRK69"
+  },
+  "signature": {
+    "text": "Dans i` atlent. de cs nodtcadions veuilz i &ppresston de mes senlments"
+  },
+  "additional_info": {
+    "twitters": null
+  },
+  "lang": null
 }

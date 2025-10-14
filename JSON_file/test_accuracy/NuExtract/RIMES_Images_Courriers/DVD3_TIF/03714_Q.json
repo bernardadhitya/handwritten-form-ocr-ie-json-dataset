@@ -1,32 +1,42 @@
 {
-  "Code d'envoi": "EGQHDE",
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "54A",
-  "Ville": "AAN.GVi.",
-  "Téléphone": "31353726",
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "AU",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "LO"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "l.a.",
+        "Prenom": "bec.v.e.llee",
+        "Adresse": null,
+        "Code postal": "54A",
+        "Ville": "AAN.GVi.",
+        "Tel": "31353726"
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": null,
+        "Complement": {
+          "Reference client eventuelle": null,
+          "Interlocuteur": "B.AA.",
+          "Adresse": null,
+          "Code postal": "AU",
+          "Ville": null
+        },
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille plume",
+            "feutre"
+          ],
+          "Temps passe a traiter le scenario": null
+        },
+        "Contribution": {
+          "Cocher les elements de votre contribution pour le scenario traite": [],
+          "Marque et modele du scanner": "LO",
+          "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+          ],
+          "Resolution des images": null
+        }
+      }
+    }
+  }
 }

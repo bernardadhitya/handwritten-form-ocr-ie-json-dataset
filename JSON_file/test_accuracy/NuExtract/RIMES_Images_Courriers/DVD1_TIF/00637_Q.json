@@ -1,32 +1,37 @@
 {
-  "Code d'envoi": "038324682",
-  "Nom": null,
-  "Prénom": "aumm",
-  "Adresse": "w........",
-  "Code Postal": "[6 7 3 5o]",
-  "Ville": "UBERACH",
-  "Téléphone": null,
-  "Catégorie Scénario": "hamgmnt",
-  "Objet Scénario": "stato",
-  "Complément Scénario": "us",
-  "Référence client": "As.wuom",
-  "Interlocuteur": "As.wuom",
-  "Adresse Interlocuteur": "asemu",
-  "Code Postal Interlocuteur": "[7Mn4 4]",
-  "Ville Interlocuteur": "GouA'X",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "6€",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": null,
+        "Adresse": null,
+        "Code postal": null,
+        "Ville": null,
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": null,
+        "Complement": null,
+        "Idus": null,
+        "Reference client eventuelle": null,
+        "Adresse": null,
+        "Code postal": null,
+        "Ville": null
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les elements_de_votre contribution pour le scenario traite": [],
+        "Marque et modele du scanner": null,
+        "Format": [],
+        "Resolution des images": null
+      }
+    }
+  }
 }

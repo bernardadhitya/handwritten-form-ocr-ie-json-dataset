@@ -1,14 +1,14 @@
 {
-  "document": "FAUX D&mien",
-  "scenario": "Nous simerions sroir commenY proceder : ceffe clöure",
-  "writer": null,
-  "sender_person": null,
-  "sender_company": "Banque Crd;K Populxire",
-  "sender_tel": "03 24 68 33 69",
-  "sender_fax": null,
-  "receiver_person": "AEUPD18",
-  "receiver_company": null,
-  "date": "17 Jsnvier 2oo7",
-  "place": "1 Wissembourg",
-  "box": "2Z rue du Commerce"
+  "Name": "Banque Crd;K Populxire",
+  "Address": {
+    "Street": "2Z rue du Commerce",
+    "Number": null,
+    "City": "Wissembourg",
+    "Postal Code": "9F414",
+    "Country": "EnFe Oeux"
+  },
+  "Reference": {
+    "Date": "17 Jsnvier 2oo7",
+    "Number": "AEUPD18"
+  }
 }

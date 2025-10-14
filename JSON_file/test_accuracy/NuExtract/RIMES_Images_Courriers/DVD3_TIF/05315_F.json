@@ -1,15 +1,18 @@
 {
-    "document": "Fax",
-    "scenario": "Modification de contrat / Commande",
-    "writer": "BARRET Jean-claude",
-    "sender_person": "BARRET Jean-claude",
-    "sender_company": "¤{QUINZE-VINGTS/CENTRE HOSPITALIER NATIONAL D'OPHTALMOLOGIE DES QUINZE-VINGTS}¤",
-    "sender_tel": "+33(0)1.40.02.13.04",
-    "sender_fax": "+33(0)1.40.02.13.99",
-    "receiver_person": "",
-    "receiver_company": "Trésorerie des impôts",
-    "subject": "",
-    "date": "27/04/2007",
-    "place": "",
-    "box": ""
+  "TELECOPIE": {
+    "DATE": null,
+    "NOMBRE DE PAGES": "1",
+    "URGENT": null,
+    "POUR AVIS": null,
+    "COMMENTAIRES": null,
+    "REPONSE": null,
+    "CONFIDENTIEL": null,
+    "NOTES/COMMENTAIRES": null,
+    "CENTRE HOSPITALIER NATIONAL D'OPHTALMOLOGIE DES QUINZE-VINGTS": {
+      "SERVICE": "SERVICE DU PROFESSEUR BAUDOUIN",
+      "ADRESSE": "28,RUEDECHARENTON-75012PARIS",
+      "TELEPHONE": "01 40021304",
+      "TELECOPIE": "0140021399"
+    }
+  }
 }

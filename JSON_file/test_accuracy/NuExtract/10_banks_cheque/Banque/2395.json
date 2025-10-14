@@ -1,12 +1,10 @@
 {
-  "bank": "BANQUE",
-  "account_holder": "Hasna Bahiyaa Amari",
-  "account_number": "0900001523600060070008545636-0000255",
-  "branch_code": "0.6.10.5/22",
-  "signature": "M.MARTIN",
-  "check_number": "88",
-  "reference": "123RUESPECIMEN",
-  "date": null,
-  "address": "75015 PARIS",
-  "authorized_person": null
+  "Bank": "BANQUE",
+  "Address": "123RUESPECIMEN 75015PARIS",
+  "Account Number": "0.6.10.5/22",
+  "Signature": "M.MARTIN",
+  "Phone Numbers": [
+    "090000",
+    "1523600060070008545636-0000255"
+  ]
 }

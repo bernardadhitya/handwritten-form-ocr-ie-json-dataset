@@ -1,32 +1,47 @@
 {
-  "Code d'envoi": "wkv",
-  "Nom": "S.AR.CK",
-  "Prénom": "lanigue",
-  "Adresse": "hemi....Noha...",
-  "Code Postal": "88t OO",
-  "Ville": "RA.M..EV.LLES",
-  "Téléphone": "1198184117",
-  "Catégorie Scénario": "a.. i caha.....ena....",
-  "Objet Scénario": "Augmen.takan....de...quaah....achn...bausie.s.",
-  "Complément Scénario": "aw.w...",
-  "Référence client": "nterocuteur..........Bangv.... ve.....ans.",
-  "Interlocuteur": "Bangv.... ve.....ans.",
-  "Adresse Interlocuteur": "adeloa..",
-  "Code Postal Interlocuteur": "6O 42 o",
-  "Ville Interlocuteur": "A..GNELA......o.N.T..G.N.Y.",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "X (6€) J'envoie mon courrier par voie postale ä la date du",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "L."
+  "Code d'envoi": {
+    "Questionnaire": {
+      "W": "wkv",
+      "R": "Tpv",
+      "T": null,
+      "p": null
+    },
+    "Identite fictive": {
+      "Nom": "S.AR.CK",
+      "Prenom": "Préenom..lanigue.",
+      "Adresse": "hemi....Noha...",
+      "Code postal": "[88t OO]",
+      "Ville": "RA.M..EV.LLES",
+      "Tel": "1198184117"
+    },
+    "Scenario": {
+      "Categorie": "a.. i caha.....ena....",
+      "Objet": "Augmen.takan....de...quaah....achn...bausie.s.",
+      "Complement": "aw.w...",
+      "Reference client eventuelle": "nterocuteur..........Bangv.... ve.....ans.",
+      "Interlocuteur": "Bangv.... ve.....ans.",
+      "Adresse": "adeloa..",
+      "Code postal": "[6O 42 o]",
+      "Ville": "A..GNELA......o.N.T..G.N.Y."
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "bille",
+        "plume",
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": null
+    },
+    "Contribution": {
+      "Cocher les elements de votre contribution pour le_scenario_traite": [],
+      "Marque et modele du scanner": "L.",
+      "Format": [
+        "PNG",
+        "GIF",
+        "TIFF"
+      ],
+      "Resolution des images": "dpi/ppp"
+    },
+    "Banqve": null
+  }
 }

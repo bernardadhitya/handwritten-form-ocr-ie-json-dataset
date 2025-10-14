@@ -1,33 +1,41 @@
 {
-  "Code d'envoi": "Questionnaire-gwyxep",
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "04720t0901",
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": "gwyxep"
+  },
+  "Identite fictive": {
+    "Nom": "C...C...E...T.",
+    "Prenom": "N.a.th.a....",
+    "Adresse": {
+      "Rue": null,
+      "Code postal": "04720t0901",
+      "Ville": "M.E.!l..H.A."
+    },
+    "Tel": null
+  },
+  "Scenario": {
+    "Categorie": "G..e..uem...o....u's...",
+    "Objet": "o...w.....o..o.........u.am....a..",
+    "Complement": "ma...au.....os.ee..jsdu.....a...",
+    "Lu-_Gcydent": null,
+    "Jeulilucua-dalcve_ed--jciudae": null,
+    "Reference client eventuelle": null,
+    "Interlocuteur": "A.....As..u...",
+    "Adresse": "te...uato.c.",
+    "Code postal": "nO4O0",
+    "Ville": "M.E.!l..H.A."
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [],
+    "Temps passe a traiter le scenario": null
+  },
+  "Contribution": {
+    "Cocher les_elements de_votre contribution pour le_scenario_ traite": [],
+    "Marque et modele du scanner": "S.Q.N.....u.S....&..?.S..O..",
+    "Format": [
+      "PNG",
+      "GIF",
+      "TIFF"
+    ],
+    "Resolution des images": ".3.O.... dpi/ppp"
+  }
 }

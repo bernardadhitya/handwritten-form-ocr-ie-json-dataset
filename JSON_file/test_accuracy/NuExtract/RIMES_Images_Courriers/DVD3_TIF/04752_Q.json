@@ -1,32 +1,38 @@
 {
   "Code d'envoi": "TRBEFX",
-  "Nom": "DELANNAY",
-  "Prénom": "N",
-  "Adresse": "An.e...H..NG.RA.Y.",
-  "Code Postal": "L5ondt& vile ..Banaulle..astesat",
+  "Identite fictive": {
+    "Nom": "DELANNAY",
+    "Prenom": null,
+    "Adresse": "An.e...H..NG.RA.Y.",
+    "Code postal": "0380642963",
+    "Ville": "Londt",
+    "Tel": null
+  },
+  "Categorie": "Demamd...namatin",
+  "Objet Dexnamcla": "Demamcl...d...enc..au..aus...coees",
+  "Conseil": null,
+  "Reference client eventuelie": "rese.........omoa.......a.",
+  "Adresse": "Banaulle..astesat",
+  "Code postal": "L5ondt",
   "Ville": "Banaulle",
-  "Téléphone": "0380642963",
-  "Catégorie Scénario": "Demamd...namatin",
-  "Objet Scénario": "Demamcl...d...enc..au..aus...coees",
-  "Complément Scénario": "avemu...top...npartant",
-  "Référence client": "omoa.......a.",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": "I.Q....",
-  "Stylo bille": "bille",
-  "Stylo plume": "plume",
-  "Stylo feutre": "feutre",
-  "Contribution postale": "Mon courrier par voie postale",
-  "Date d'envoi postal": "6./0lt/0.t.",
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Redaction": {
+    "Type de stylo (noir) utilise": [
+      "bille plume feutre"
+    ],
+    "Temps passe a traiter le scenario": "I.Q.... minutes."
+  },
+  "Contribution": {
+    "J'envoie mon courrier par voie postale à la date du": null,
+    "Mon courrier contient une page de garde de fax": "+2£",
+    "Avant mon envoi postal, J'ai telecopie ma contribution le": "+1€",
+    "Jai envoye par courriel mon courrier numerise le": "+1€"
+  },
+  "Marque et modele du scanner": {
+    "Format": [
+      "PNG",
+      "GIF",
+      "TIFF"
+    ],
+    "Resolution des images": null
+  }
 }

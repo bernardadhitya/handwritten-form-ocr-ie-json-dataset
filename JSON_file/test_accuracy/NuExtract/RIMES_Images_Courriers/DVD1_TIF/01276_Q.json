@@ -1,33 +1,42 @@
 {
-  "Code d'envoi": "YCHQvD",
-  "Nom": "Bewge",
-  "Prénom": "Da.m.wmqu",
-  "Adresse": "s...Saaad..Aende",
-  "Code Postal": "549 20",
-  "Ville": "entasma",
-  "Téléphone": "032342g333",
-  "Catégorie Scénario": "uvenw",
-  "Objet Scénario": "ew...ana t...ansath...",
-  "Complément Scénario": "aw.wwn.",
-  "Référence client": "éventuelle",
-  "Interlocuteur": "Banqw",
-  "Adresse Interlocuteur": "u.....o.a",
-  "Code Postal Interlocuteur": "4 11)",
-  "Ville Interlocuteur": "St...Ashien",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "J'envoie mon courrier par voie postale á la date du .061121/.2006",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le ..06./4.?.1.200.6",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "...H.P...$Q..1.3..1.5.."
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "Bewge",
+        "Prenom": "Da.m.wmqu",
+        "Adresse": "s...Saaad..Aende",
+        "Code postal": "549 20",
+        "Ville": "entasma",
+        "Tel": "032342g333"
+      },
+      "Scenario": {
+        "Categorie": "uvenw",
+        "Objet": "ana t...ansath...",
+        "Complement": "l.a..manche.....suvne...",
+        "Reference client eventuelle": null,
+        "Interlocuteur": "Banqw",
+        "Adresse": "u.....o.a",
+        "Code postal": "4 11",
+        "Ville": "St...Ashien",
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille plume",
+            "feutre"
+          ],
+          "Temps passe a traiter le scenario": null
+        },
+        "Contribution": {
+          "Cocher les elements de votre contribution pour le scenario traite": [
+            "J'envoie mon courrier par voie postale",
+            "Mon courrier contient une page de garde de fax",
+            "Avant mon envoi postal, j'ai télécopié ma contribution",
+            "J'ai envoyé par courriel mon courrier numérisé"
+          ],
+          "Marque et modele du scanner": "H.P$Q..1.3..1.5..",
+          "Format": [],
+          "Resolution des images": null
+        }
+      }
+    }
+  }
 }

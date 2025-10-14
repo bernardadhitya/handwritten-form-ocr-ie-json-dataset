@@ -1,32 +1,36 @@
 {
-  "Code d'envoi": "bTkpxO",
-  "Nom": "CoQ",
-  "Prénom": "Ho",
-  "Adresse": "..iesaoimw..ous...a.",
-  "Code Postal": "[6tBO]",
-  "Ville": "..",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": "..ous...u.aue...t....cu..es...a...tt...",
-  "Complément Scénario": "..a...a.s....ma.sc...o.....ouies...s...",
-  "Référence client": null,
-  "Interlocuteur": "N.M.A....A.w.Q.mco.s.",
-  "Adresse Interlocuteur": "...ac...o...ma...o.muo.o.",
-  "Code Postal Interlocuteur": "[74 42 O]",
-  "Ville Interlocuteur": "..BOEs.E",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "CoQ",
+        "Prenom": "m",
+        "Adresse": "..iesaoimw..ous...a.",
+        "Code postal": "[6tBO]",
+        "Ville": "..",
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": "e.es.tan...",
+        "Objet": "ous...u.aue...t....cu..es...a...tt...",
+        "Complement": "...o...a....eopomao..ite..ci.",
+        "Reference client eventuelle": "Interlocuteur ...N.M.A....A.w.Q.mco.s.",
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+          ],
+          "Temps a traiter le scenario": "AO... minutes"
+        },
+        "Contribution": {
+          "Cocher les elements de votre contribution pour_le_scenario traite": [
+            "J'envoie mon courrier par voie postale",
+            "Mon courrier contient une page de garde de fax",
+            "Avant mon envoi postal, j'ai télécopié ma contribution",
+            "J'ai envoyé par courriel mon courrier numérisé"
+          ]
+        }
+      }
+    }
+  }
 }

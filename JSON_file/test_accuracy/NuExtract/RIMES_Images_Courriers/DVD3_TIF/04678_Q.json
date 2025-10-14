@@ -1,33 +1,46 @@
 {
-  "Code d'envoi": null,
-  "Nom": "TERRi",
-  "Prénom": "Mawon",
-  "Adresse": "we....ChalonuiUaws",
-  "Code Postal": "91o3 S 1OVille...EvET.T.E...SALBcR",
-  "Ville": "EvET.T.E...SALBcR",
-  "Téléphone": null,
-  "Catégorie Scénario": "changement...de...danoees... euannelles",
-  "Objet Scénario": "w.eles....caodannees.....osales",
-  "Complément Scénario": "vas....emenagez.",
-  "Référence client": "éventuelle",
-  "Interlocuteur": "a....Peste",
-  "Adresse Interlocuteur": "baslevaud....e.....a....Puix.",
-  "Code Postal Interlocuteur": "E opVvlle..S...CeRnAl...Eu..A.E",
-  "Ville Interlocuteur": "CeRnAl...Eu..A.E",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "J'envoie mon courrier par voie postale a la date du ...o.S....Aul..?.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le ...S..Au&al...s?",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": ".3.... dpi/ppp",
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": ".spsca....Peetc.... ....phaho"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "TERRi",
+        "Prenom": "Mawon",
+        "Adresse": "we....ChalonuiUaws",
+        "Code postal": "91o3 S 1OVille...EvET.T.E...SALBcR",
+        "Ville": "EvET.T.E...SALBcR",
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": "changement...de...danoees... euannelles",
+        "Objet": ".w.eles....caodannees.....osales",
+        "Complement": ".vas....emenagez.",
+        "Reference client eventuelle": null,
+        "Interlocuteur": "a....Peste",
+        "Adresse": "baslevaud....e.....a....Puix",
+        "Code": "E opVvlle..S...CeRnAl...Eu..A.E",
+        "Ville": "E opVvlle..S...CeRnAl...Eu..A.E"
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille plume",
+          "feutre"
+        ],
+        "Temps a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le_scenario traite_": {
+          "J'envoie mon courrier par voie postale a la date du": null,
+          "Mon courrier contient une page de fax": "+2€",
+          "Avant mon envoi postal, j'ai telecopie ma contribution le": "+1€",
+          "J'ai envoye par courriel mon courrier numerise le": "+1€"
+        },
+        "Marque et modele du scanner": "spsca....Peetc.... ....phaho",
+        "Format": [
+          "PNG",
+          "GIF",
+          "TIFF"
+        ],
+        "Resolution des images": ".3.... dpi/ppp"
+      }
+    }
+  }
 }

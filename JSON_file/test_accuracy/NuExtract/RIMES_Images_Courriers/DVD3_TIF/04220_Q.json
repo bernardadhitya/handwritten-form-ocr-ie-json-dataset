@@ -1,33 +1,43 @@
 {
-  "Code d'envoi": "Questionnaire",
-  "Nom": "woho",
-  "Prénom": "3n...we...aaapal",
-  "Adresse": "L6&o ville..ECKEN",
-  "Code Postal": null,
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": "cchb...oe...msa",
-  "Objet Scénario": "comlmen...ous....oale..oho. x.....o.e.",
-  "Complément Scénario": null,
-  "Référence client": "LA...Rebaste",
-  "Interlocuteur": "os...nohanoe",
-  "Adresse Interlocuteur": "KsdVoIA p1S'r1Ql 9l 1esod opoo",
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": "noir",
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courier numérisé le",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": "50... dpj/ppp",
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "exmQ..K."
+  "Code d'envoi": {
+    "Questionnaire": null,
+    "Identite fictive": {
+      "Nom": "woho",
+      "Prenom": "3n...we...aaapal",
+      "Adresse": "L6&o ville..ECKEN",
+      "Code postal": null,
+      "Ville": null,
+      "Tel": null
+    },
+    "Scenario": {
+      "Categorie": "cchb...oe...msa",
+      "Objet": "comlmen...ous....oale..oho. x.....o.e.",
+      "Can": "RR5",
+      "Complement": null,
+      "CommQnde": null,
+      "Reference client eventuelle": "LA...Rebaste",
+      "Interlocuteur": "os...nohanoe",
+      "Adresse": "KsdVoIA p1S'r1Ql 9l 1esod opoo",
+      "Code postal": null,
+      "Ville": null
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "bille",
+        "plume",
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": null
+    },
+    "Contribution": {
+      "Cocher les elements de votre contribution pour le scenario traite": [],
+      "Marque et modele du scanner": "exmQ..K",
+      "Format": [
+        "PNG",
+        "GIF",
+        "TIFF"
+      ],
+      "Resolution des images": "50... dpj/ppp"
+    }
+  }
 }

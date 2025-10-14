@@ -1,32 +1,42 @@
 {
-  "Code d'envoi": "BPBMA3",
-  "Nom": "L.H.E.V.R.E.",
-  "Prénom": null,
-  "Adresse": "3...",
-  "Code Postal": "SSSol Ville...HA..G..A.N.....?.....N.E..",
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": "a...",
-  "Adresse Interlocuteur": "RN 113",
-  "Code Postal Interlocuteur": "1 5o] Vile ...c....!.N.T...",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le .2..2......26",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le ....?....?...?..6...",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "L.H.E.V.R.E.",
+        "Prenom": null,
+        "Code postal": "SSSol Ville...HA..G..A.N.....?.....N.E..",
+        "Ville": null,
+        "Tel": null,
+        "Categorie": null,
+        "Comm": null,
+        "Complement": null,
+        "Reference client eventuelle": null,
+        "Interlocuteur": null,
+        "Adresse": "3.......",
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+          ],
+          "Temps passe a traiter le scenario": null
+        },
+        "Contribution": {
+          "Cocher les elements de votre contribution pour le_scenario_ traite": [
+            "J'envoie mon courrier par voie postale",
+            "Mon courrier contient une page de garde de fax",
+            "Avant mon envoi postal, j'ai télécopié ma contribution",
+            "J'ai envoyé par courriel mon courrier numérisé"
+          ]
+        },
+        "Marque et modele du scanner": null,
+        "Format": [
+          "PNG",
+          "GIF",
+          "TIFF"
+        ],
+        "Resolution des images": "3..... dpi/ppp"
+      }
+    }
+  }
 }

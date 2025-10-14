@@ -1,32 +1,40 @@
 {
-  "Code d'envoi": "OSYYHM",
-  "Nom": "A.G.E.O.RG.ES",
-  "Prénom": "Manys.e.",
-  "Adresse": "Rue LEO VAE.T.",
-  "Code Postal": "o3",
-  "Ville": "ST SAUVEUR",
-  "Téléphone": "03077977",
-  "Catégorie Scénario": "Relance",
-  "Objet Scénario": "changemen..d..doan....pessonne.l..n'.o.pos..ek.",
-  "Complément Scénario": "auucu.",
-  "Référence client": "EHR5",
-  "Interlocuteur": "BAA Asswnan",
-  "Adresse Interlocuteur": "u S Exu.e.RY",
-  "Code Postal Interlocuteur": "&4",
-  "Ville Interlocuteur": "AV l GNQN",
-  "Temps passé": "20 minutes",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "J'envoie mon courrier par voie postale a la date du 30.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le 30 et 03.",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le 30 et 03.",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "HP"
+  "Code d'envoi": {
+    "Questionnaire": "OSYYHM",
+    "Identite fictive": {
+      "Nom": "A.G.E.O.RG.ES",
+      "Prenom": "Manys.e.",
+      "Adresse": "Rue LEO VAE.T.",
+      "Code postal": "o3",
+      "Ville": "ST SAUVEUR",
+      "Tel": null
+    },
+    "Scenario": {
+      "Categorie": "Relance",
+      "Objet Vehe": "changement de donnee de personne",
+      "Complement": "auucu",
+      "Reference client eventuelle": "EHR5",
+      "Interlocuteur BAAE_": "Asswnan",
+      "Adresse": "u S Exu.e.RY",
+      "Code postal": "&4",
+      "Ville": "AV l GNQN"
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "billeplume",
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": "20 minutes"
+    },
+    "Contribution": {
+      "Elements de contribution": [],
+      "Marque et modele du scanner": "HP",
+      "Format": [
+        "PNG",
+        "GIF",
+        "TIFF"
+      ],
+      "Resolution des images": null
+    }
+  }
 }

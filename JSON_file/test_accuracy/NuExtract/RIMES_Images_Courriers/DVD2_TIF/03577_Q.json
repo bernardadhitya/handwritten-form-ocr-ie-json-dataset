@@ -1,32 +1,31 @@
 {
-  "Code d'envoi": "ONLKTI",
-  "Nom": "GRA.E.N.",
-  "Prénom": "reenom",
-  "Adresse": "Schlierbach",
-  "Code Postal": "[6&44O]",
-  "Ville": "0323449704",
-  "Téléphone": null,
-  "Catégorie Scénario": "emand",
-  "Objet Scénario": "inomation",
-  "Complément Scénario": "ocanaan",
-  "Référence client": "N.....A.ssoran.cos",
-  "Interlocuteur": "N.....A.ssoran.cos",
-  "Adresse Interlocuteur": "u.....ut.",
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": "4",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": "ONLKTI"
+  },
+  "Identite fictive": {
+    "Nom": "GRA.E.N.",
+    "Prenom": "reenom",
+    "Adresse": "Schlierbach",
+    "Code postal": "[6&44O]",
+    "Ville": "0323449704",
+    "Tel": null
+  },
+  "Scenario": {
+    "Categorie": "mand...",
+    "Objet": "inomation",
+    "Complement": "ocanaan...",
+    "Reference client eventuelle": null,
+    "Interlocuteur": "N.....A.ssoran.cos",
+    "Adresse": "u.....ut.",
+    "Code postal": null,
+    "Ville": null,
+    "Awu_Owcq_": "habi.taki.on.",
+    "Type de stylo (noir) utilise": [],
+    "Temps passe a traiter le scenario": "4...",
+    "Contribution": null
+  },
+  "Marque et modele du scanner": {
+    "Format": [],
+    "Resolution des images": null
+  }
 }

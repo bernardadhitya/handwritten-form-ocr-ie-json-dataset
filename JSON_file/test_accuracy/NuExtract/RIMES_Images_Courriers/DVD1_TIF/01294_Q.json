@@ -1,33 +1,40 @@
 {
-  "Code d'envoi": "Questionnaire",
-  "Nom": "laoaa",
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "ss2La Ville",
-  "Ville": null,
-  "Téléphone": "Te03170408160",
-  "Catégorie Scénario": null,
-  "Objet Scénario": "w......o.o.tom.",
-  "Complément Scénario": "u.......mao",
-  "Référence client": "BAAC",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "M&S_Lo",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Cllulb": null,
+      "Nom": null,
+      "Prenom": null,
+      "Adresse": {
+        "Rac": null,
+        "Lc_a.": null,
+        "Code postal": "ss2La Ville",
+        "Ville": null
+      },
+      "Tel": "03170408160"
+    },
+    "Scenario": {
+      "Categorie": null,
+      "Objet": null,
+      "Complernent": null,
+      "Reierence clierit eventiella": null,
+      "Interlocuteur": {
+        "Raec": null,
+        "Adresse": null,
+        "Code postal": "M&S_Lo",
+        "Ville": null
+      },
+      "Redaction de stylo (noir) utilise": [],
+      "Temps passe a traiter le scenario": null
+    },
+    "Contribution": {
+      "Cocher les elements de votre contribution pour le scenario_traite": [],
+      "Marque et modele du scanner": {
+        "Cuman": null,
+        "HCia": null
+      },
+      "Format": [],
+      "Resolution des images": null,
+      "Type": null
+    }
+  }
 }

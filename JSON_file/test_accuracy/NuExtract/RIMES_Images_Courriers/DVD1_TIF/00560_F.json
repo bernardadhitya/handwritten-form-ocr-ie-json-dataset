@@ -1,15 +1,16 @@
 {
-  "document": "0sE0 bdpme -S.A.ä Directoire et Conseil de Surveillance au capital de 377.230.064 euros",
-  "scenario": null,
-  "writer": null,
-  "sender_person": null,
-  "sender_company": null,
-  "sender_tel": "0141798000",
-  "sender_fax": "0141798001",
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": null,
-  "date": null,
-  "place": null,
-  "box": null
+  "company": {
+    "name": "Société :SCRlBE o",
+    "address": "27-31,Avenue du Général Leclerc - 94710 Maisons-Alfort Cedex",
+    "contact": {
+      "tel": "0141798000",
+      "fax": "0141798001"
+    },
+    "registration": {
+      "capital": "377.230.064 euros",
+      "RCS": "320252489RCS Créteil",
+      "code_APE": "652C-NTVAFR27320252489",
+      "TVA": null
+    }
+  }
 }

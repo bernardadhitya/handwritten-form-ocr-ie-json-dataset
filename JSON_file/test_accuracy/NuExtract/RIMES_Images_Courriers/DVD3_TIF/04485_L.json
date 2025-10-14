@@ -1,15 +1,22 @@
 {
-  "document": "Dans l'atente de vot ripmse agrieallle , salutations ditinguees . puesent Vous mes",
-  "scenario": null,
-  "writer": null,
-  "sender_person": null,
-  "sender_company": null,
-  "sender_tel": "O3 21 O1 24 83",
-  "sender_fax": null,
-  "receiver_person": "Madame / Monsiwr",
-  "receiver_company": "E",
-  "subject": "Asswrance Automolul",
-  "date": "29 maus 2oo7",
-  "place": "16 Rue du Plone",
-  "box": "Villag de Rochepaul"
+  "Name": "Michel",
+  "Address": {
+    "Street": "16 Rue du Plone",
+    "City": "VERGAVILLE",
+    "Phone": "O3 21 O1 24 83"
+  },
+  "Insurance": {
+    "Company": "MANIF Assuances",
+    "Policy Number": "BwnLN 74",
+    "Type": "Asswrance Automolul",
+    "Client": "E"
+  },
+  "Details": {
+    "Claim Reason": null,
+    "Claim Description": null,
+    "Location": null,
+    "Claimant": null,
+    "Date": "29 maus 2oo7"
+  },
+  "Notes": null
 }

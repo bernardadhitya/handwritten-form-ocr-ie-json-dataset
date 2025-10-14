@@ -1,32 +1,38 @@
 {
-  "Code d'envoi": "HKyGiT",
-  "Nom": "A..A.",
-  "Prénom": "Besa..",
-  "Adresse": "uk....ue.m.",
-  "Code Postal": "682BoVille",
-  "Ville": "i.nnER3A.",
-  "Téléphone": "0303H86254",
-  "Catégorie Scénario": null,
-  "Objet Scénario": "omm.aud....ackaus...us.ta..o..u.uuo..e...o.",
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": "Bauqu...ait...y.ana",
-  "Adresse Interlocuteur": "ute......",
-  "Code Postal Interlocuteur": "oo] Vill...s......AfTu.in.",
-  "Ville Interlocuteur": "s......AfTu.in.",
-  "Temps passé": "3... minutes",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le...",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le...",
-  "Résolution": null,
-  "Format PNG": "2.Q.... dpi/pp",
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "A.G.f..."
+  "Code d'envoi": {
+    "Identite fictive": {
+      "Nom": "A..A.",
+      "Prenom": "Besa..",
+      "Adresse": "uk....ue.m.",
+      "Code postal": "682BoVille",
+      "Ville": "i.nnER3A.",
+      "Tel": "0303H86254"
+    },
+    "Scenario": {
+      "Categorie": null,
+      "Objet": "omm.aud....ackaus...us.ta..o..u.uuo..e...o.",
+      "Complement": null,
+      "Interlocuteur": "Bauqu...ait...y.ana",
+      "Adresse": "ute......",
+      "Code postal": "oo] Vill...s",
+      "Ville": "AfTu.in.",
+      "Redaction": null,
+      "Temps a traiter le scenario": "3... minutes"
+    },
+    "Contribution": {
+      "Cocher_les elements de votre contribution pour_le scenario traite_": {
+        "(6e) J'envoie mon courrier par voie postale a la date du 244e24e_": null,
+        "(+2e) Mon courrier contient une page de de fax": null,
+        "(+1€) Avant mon envoi postal, jai telecopie ma contribution le 23/ex2x_": null,
+        "(+1€) Jai envoye par courriel mon courrier numerise le 21/o2|": null
+      },
+      "Marque et modele du scanner": "A.G.f...",
+      "Format": [
+        "PNG",
+        "GIF",
+        "TIFF"
+      ],
+      "Resolution des images": "2.Q.... dpi/pp"
+    }
+  }
 }

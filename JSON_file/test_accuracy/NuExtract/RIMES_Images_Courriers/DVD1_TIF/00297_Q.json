@@ -1,33 +1,36 @@
 {
-  "Code d'envoi": "HESom",
-  "Nom": "H....RRe.o.",
-  "Prénom": "alu",
-  "Adresse": null,
-  "Code Postal": "8&3 9rd",
-  "Ville": "U..XE..G..NE.Y",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": "Q...",
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "LO6 3O",
-  "Ville Interlocuteur": null,
-  "Temps passé": "S... minutes",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "6€",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "Mon courrier numérisé le",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "H.RRe.o.",
+        "Prenom": "alu",
+        "Adresse": "8&3 9rd ville ...U..XE..G..NE.Y",
+        "Code postal": "8&3 9rd",
+        "Ville": "U..XE..G..NE.Y",
+        "Tel": null
+      },
+      "Categorie": null,
+      "Objet": null,
+      "Complement": null,
+      "Reference client eventuelle": null,
+      "Adresse": null,
+      "Code": null,
+      "Ville": null,
+      "Redaction": {
+        "Type de stylo (noir) utilise": [],
+        "Terps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le scenario_traite": {
+          "(6e) J'envoie mon courrier par voie postale a la date du 22/esk": null,
+          "(+2e) Mon courrier contient une page de garde de fax": null,
+          "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le 28L09/26": null,
+          "(+1€) Jai envoye par courriel mon courrier numerise le &Llo9kek": null
+        },
+        "Marque et modele du scanner": null,
+        "Format": [],
+        "Resolution des images": null
+      }
+    }
+  }
 }

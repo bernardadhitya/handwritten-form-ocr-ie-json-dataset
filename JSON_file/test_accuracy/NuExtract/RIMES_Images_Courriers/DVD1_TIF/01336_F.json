@@ -1,15 +1,17 @@
 {
-  "document": null,
-  "scenario": null,
-  "writer": null,
-  "sender_person": null,
-  "sender_company": null,
-  "sender_tel": null,
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": "Ca.w..n.de....d'actons....bouc.si&.res dams une Commande d'actions bours1eres . four c&oix du placement",
-  "date": null,
-  "place": "91 Rue De La Liberté",
-  "box": null
+  "Groupe": "RIGAUD GROUPE",
+  "Destinataire": {
+    "Nom": null,
+    "Prenom": null,
+    "No tel": null
+  },
+  "Expediteur": {
+    "Nom": "RIGAUD Jacques",
+    "Adresse": "91 Rue De La Liberté",
+    "Tel": "02.03.88.66.01"
+  },
+  "Reference": null,
+  "Objet": "Ca.w..n.de....d'actons....bouc.si&.res dams une Commande d'actions bours1eres . four c&oix du placement",
+  "Montant": null,
+  "No Fax": null
 }

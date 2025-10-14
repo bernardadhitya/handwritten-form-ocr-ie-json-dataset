@@ -1,32 +1,37 @@
 {
-  "Code d'envoi": "RVSCAD",
-  "Nom": "e....Gabue....Reo",
-  "Prénom": "ougee",
-  "Adresse": "LS 49o] ville.....ENES",
-  "Code Postal": "o3&382i",
-  "Ville": "ENES",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": "Ca.maua",
-  "Complément Scénario": "suek...ou.wuale...e.comnado",
-  "Référence client": "La...eb..uk",
-  "Interlocuteur": "Y..me...",
-  "Adresse Interlocuteur": "o...auk.naks",
-  "Code Postal Interlocuteur": "Sa.....u...a",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "X (+2€) Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "X (+2€) Avant mon envoi postal, j'ai télécopié ma contribution le ...v.&0o...",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "X (+1€) J'ai envoyé par courriel mon courrier numérisé le ...@.l.2oo...",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "CCama...Cam.cas..tde."
+  "Code d'envoi": "LS 49o",
+  "Identite fictive": {
+    "Nom": "Gabue",
+    "Prenom": "Reo",
+    "Adresse": "Code postai vill...Sa.....u...",
+    "Ville": "ENES",
+    "Tel": null
+  },
+  "Scenario": {
+    "Categorie": null,
+    "Objet": "Ca.maua",
+    "Complement": "suek...ou.wuale...e.comnado",
+    "Reference client éventuelle": "La...eb..uk",
+    "Interlocuteur": "Y..me...",
+    "Adresse": "Code postai vill...Sa.....u...",
+    "Code postal": "LS 49o",
+    "Ville": "ENES",
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "bille",
+        "plume",
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": null
+    },
+    "Contribution": {
+      "Cocher les elements de votre contribution pour le scenario traite": [],
+      "Marque et modele du scanner": [
+        "CCama",
+        "Cam.cas..tde. L-"
+      ],
+      "Format": [],
+      "Resolution des images": null
+    }
+  }
 }

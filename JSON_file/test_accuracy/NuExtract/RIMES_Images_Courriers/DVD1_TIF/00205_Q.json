@@ -1,32 +1,33 @@
 {
-  "Code d'envoi": "yGTsGN",
-  "Nom": "RE..G.NAULT.",
-  "Prénom": null,
-  "Adresse": "o.o...",
-  "Code Postal": "L548 7",
-  "Ville": "o.o......A...........",
-  "Téléphone": "0389902361",
-  "Catégorie Scénario": "o.....c..s.......",
-  "Objet Scénario": null,
-  "Complément Scénario": "o.ca.o.......s. dehe",
-  "Référence client": "ucs87",
-  "Interlocuteur": "...o..W...A",
-  "Adresse Interlocuteur": "...o.........",
-  "Code Postal Interlocuteur": "83840",
-  "Ville Interlocuteur": "i.....m...s.......h.",
-  "Temps passé": "25. minutes",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "6",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le ..",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courier numérisé le........pt..6",
-  "Résolution": null,
-  "Format PNG": "200 dpi/ppp",
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "E...&....E...E....oN..2o..."
+  "Code d'envoi": {
+    "Questionnaire": "yGTsGN",
+    "Identite fictive": {
+      "Nom": "RE..G.NAULT.",
+      "Prenom": null,
+      "Adresse": "o.o...",
+      "Code postal": "L548 7",
+      "Ville": null,
+      "Tel": "0389902361"
+    },
+    "Scenario": {
+      "Categorie": "o.....c..s.......",
+      "Objet": "e........o.ca.o.......s. dehe",
+      "Complement": "ucs87",
+      "Reference client eventuelle": null,
+      "Interlocuteur": "...o..W...A",
+      "Adresse": "83840 i.....m...s.......h.",
+      "Code postal": "83840",
+      "Ville": null
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": null,
+      "Temps passe a traiter le scenario": "25. minutes"
+    },
+    "Contribution": {
+      "Cocher les elements_de_votre contribution pour le_scenario traite": null,
+      "Marque et modele du scanner": "E...&....E...E....oN..2o...",
+      "Format": "PNG",
+      "Resolution des images": "200 dpi/ppp"
+    }
+  }
 }

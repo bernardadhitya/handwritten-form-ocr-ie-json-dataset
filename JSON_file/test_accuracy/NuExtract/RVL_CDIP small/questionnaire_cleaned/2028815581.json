@@ -1,48 +1,27 @@
 {
-  "study": "PREP STUDY",
-  "session": "NAES",
-  "brand": "REGULARBRAND",
-  "date": "O",
-  "code": "G1",
-  "group": null,
-  "product": "CIGARETTE",
-  "time": {
-    "deprivation": "2 HOURS",
-    "nicotine": "1 HOUR",
-    "caffeine": null,
-    "last_caffeine": "/C5"
+  "SESSION": "G1",
+  "DATE": null,
+  "CIGARETTE": {
+    "LAST CIGARETTE": "/C5",
+    "LAST CAFFEINE": null
   },
-  "attributes": {
-    "mouth_throat_impact": {
-      "low": null,
-      "high": null
-    },
-    "flavor": {
-      "unusual": null
-    },
-    "off_taste": {
-      "strong": null
-    },
-    "mouth_coating": {
-      "very": null
-    },
-    "satisfaction": {
-      "very": null
-    },
-    "preference": {
-      "extremely": null
-    }
+  "DEPRIVATION": {
+    "HOURS_NICOTINE": "2",
+    "HOUR_CAFEEINE": "1"
   },
-  "mentholated": {
-    "is_mentholated": null,
-    "menthol": {
-      "very_little": null,
-      "a_lot": null
-    },
-    "cooling": {
-      "very_little": null,
-      "a_lot": null
-    }
+  "LIKES": {
+    "mouth": "Has high mouth and throat impact",
+    "flavor": "unusual flavor",
+    "taste": "Does not have an unusual flavor",
+    "coating": "Has a strong off-taste",
+    "satisfying": "Is not satisfying"
   },
-  "id": "2028815581"
+  "DISLIKES": {
+    "taste": "Does not have an unusual flavor",
+    "menthol": "Has very little menthol"
+  },
+  "MENTHOL": {
+    "amount": "Has very little cooling",
+    "cooling": "Has very little cooling"
+  }
 }

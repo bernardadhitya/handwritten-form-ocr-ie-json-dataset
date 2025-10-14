@@ -1,14 +1,16 @@
 {
-  "document": "17.AvBiNCAV Ja17vel",
-  "scenario": null,
-  "writer": null,
-  "sender_person": null,
-  "sender_company": null,
-  "sender_tel": "0?77696 10",
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
-  "date": null,
-  "place": "17on 1iesa",
-  "box": "1udlane"
+  "Name": null,
+  "Address": "17on 1iesa",
+  "Date of Birth": null,
+  "Phone Number": "0?77696 10",
+  "Emergency Contact": {
+    "Name": null,
+    "Phone Number": null
+  },
+  "Medical Information": {
+    "Blood Type": null,
+    "Allergies": null,
+    "Medications": null,
+    "Medical Conditions": null
+  }
 }

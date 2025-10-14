@@ -1,15 +1,17 @@
 {
-  "document": "SOBEF",
-  "scenario": null,
-  "writer": null,
-  "sender_person": null,
-  "sender_company": null,
-  "sender_tel": "O3 3 I 6 Y&4S",
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": "Se Jou",
-  "date": null,
-  "place": "Auvergne",
-  "box": "B.30450 2elaniantFeirand Cadex1"
+  "Company": "SOBEF",
+  "Contact": {
+    "Name": null,
+    "Telephone": null,
+    "Fax": null,
+    "Email": null
+  },
+  "Date": null,
+  "Objet": null,
+  "Address": {
+    "Street": "1 de la Ferand",
+    "City": "B.30450",
+    "Postal Code": null,
+    "Country": "Auvergne"
+  }
 }

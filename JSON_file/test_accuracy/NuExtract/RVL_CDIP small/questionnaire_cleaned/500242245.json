@@ -20,7 +20,7 @@
   },
   "usual_brand": {
     "question": "what is your usual brand of cigarette?",
-    "winston": 2,
+    "winston": 2245,
     "marlboro": 2,
     "if_other_brands": "Is that the regular king size, or the extra-long 100 millimeter size?"
   },
@@ -34,14 +34,14 @@
   },
   "marlboro_type": {
     "question": "Is that the regular Marlboro in the red package, Marlboro Menthol in the green package, or the new low tar Marlboro Lights that comes in a gold package?",
-    "regular_marlboro": "Terminates and does not count towards quota",
-    "marlboro_menthol": "Terminates and does not count towards quota",
-    "marlboro_lights": "Terminates and does not count towards quota"
+    "regular_marlboro": "Terminates and does not count",
+    "marlboro_menthol": "Terminates and does not count",
+    "marlboro_lights": "Terminates and does not count"
   },
   "pack_type": {
     "question": "Do you usually buy Winstons) (Marlboros in the soft paper",
-    "soft_paper_pack": "Terminates and does not count towards quota",
-    "hard_box_pack": null
+    "soft_paper_pack": "SOFT PAPER PACK",
+    "hard_box_pack": "HARD BOX PACK"
   },
   "duration": {
     "question": "About how long has Winston) (Marlboro) been your usual brand of cigarette?",

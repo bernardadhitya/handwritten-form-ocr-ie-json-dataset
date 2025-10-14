@@ -1,32 +1,34 @@
 {
-  "Code d'envoi": "c326s6619",
-  "Nom": "Ra.b.w.rs",
-  "Prénom": "a.e...la",
-  "Adresse": "w.....ra..",
-  "Code Postal": "[S+ S6] ville....ca&.",
-  "Ville": "ca&.",
-  "Téléphone": null,
-  "Catégorie Scénario": "e.w.a....e...",
-  "Objet Scénario": "de.wou.s.......l.......acenra.s.oa...",
-  "Complément Scénario": "ccnceswamt...e",
-  "Référence client": "éventuelle",
-  "Interlocuteur": "N.M.A.....Ascwa....",
-  "Adresse Interlocuteur": "a.s.......a.'.e..",
-  "Code Postal Interlocuteur": "aha.w.....a.gan.",
-  "Ville Interlocuteur": "aha.w.....a.gan.",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier par voie postale",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé",
-  "Résolution": null,
-  "Format PNG": "PNG",
-  "Format GIF": "GlF",
-  "Format TIFF": "TIFF",
-  "Marque et modèle scanner": "L."
+  "Identite": {
+    "Nom": "Ra.b.w.rs",
+    "Prenom": "a.e...la",
+    "Adresse": "w.....ra..",
+    "Code postal": "[S+ S6] ville....ca&.",
+    "Ville": "ca&.",
+    "Tel": "c326s6619",
+    "Categorie": "e.w.a....e...",
+    "Andortal'mn": null,
+    "Complement": "ccnceswamt...e",
+    "Reference client eventuelle": "zRBYI4o",
+    "Interlocuteur": "N.M.A.....Ascwa....",
+    "Adresse2": "a.s.......a.'.e..",
+    "Code postal2": "aha.w.....a.gan.",
+    "Ville2": "aha.w.....a.gan."
+  },
+  "Redactic": {
+    "Type de stylo (noir) utilise": [
+      "bille",
+      "plume",
+      "feutre"
+    ],
+    "Temps passe a traiter le scenario": null,
+    "Contributii": [],
+    "Marque et modele du scanner": "L.",
+    "Format": [
+      "PNG",
+      "GlF",
+      "TIFF"
+    ],
+    "Resolution des images": null
+  }
 }

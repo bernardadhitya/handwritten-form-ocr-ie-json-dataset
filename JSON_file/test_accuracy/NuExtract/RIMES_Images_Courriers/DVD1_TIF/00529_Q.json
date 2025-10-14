@@ -1,32 +1,42 @@
 {
-  "Code d'envoi": null,
-  "Nom": "M.A.O.E.L.E.!.N.E",
-  "Prénom": null,
-  "Adresse": "u.......d...B.A....",
-  "Code Postal": "L6&O] vill...CH.AV.A.N.ES...Sw.....ET.A.W",
-  "Ville": "CH.AV.A.N.ES",
-  "Téléphone": null,
-  "Catégorie Scénario": "samaemenl......ommes...tsumme",
-  "Objet Scénario": "o.ueo...ua..o.....a...",
-  "Complément Scénario": "V.ous..di.as.s",
-  "Référence client": "DxIPAF7",
-  "Interlocuteur": "A.g&..Nau.....oo.",
-  "Adresse Interlocuteur": "MA...9y",
-  "Code Postal Interlocuteur": "Ccode postai [&3!4O]vill...X...o..s...ls..LA.E.S",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "6€",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "C.anom....Camos.cam.li.d&..2o"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "M.A.O.E.L.E.N.E",
+        "Prenom": "sm.w.",
+        "Adresse": "u.......d...B.A....",
+        "Code postal": "L6&O] vill...CH.AV.A.N.ES...Sw.....ET.A.W",
+        "Ville": "CH.AV.A.N.ES...Sw.....ET.A.W",
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": "samaemenl......ommes...tsumme",
+        "Objet": "o.ueo...ua..o.....a...",
+        "Complement": "V.ous..di.as.s",
+        "Reference client eventuelle": "DxIPAF7",
+        "Interlocuteur": "A.g&..Nau.....oo.",
+        "Adresse": "MA...9y",
+        "Code postal": "Ccode postai [&3!4O]vill...X...o..s...ls..LA.E.S",
+        "Ville": "MA...9y"
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille",
+          "plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le_scenario traite": [],
+        "Marque et modele du scanner": "C.anom....Camos.cam.li.d&..2o",
+        "Format": [
+          "PNG",
+          "GIF",
+          "TIFF"
+        ],
+        "Resolution des images": "3.00... dpi/ppp"
+      }
+    }
+  }
 }

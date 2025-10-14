@@ -1,33 +1,37 @@
 {
   "Code d'envoi": "0BFB B39o37",
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "SMoville",
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": "sUd3",
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "SMoville",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Identite fictive": {
+    "Nom": "I.?o.Y...",
+    "Prenom": null,
+    "Adresse": null,
+    "Code postal": "SMoville",
+    "Ville": null,
+    "Tel": null
+  },
+  "Scenario": {
+    "Categorie": null,
+    "Objet": null,
+    "Inn": null,
+    "Complement": null,
+    "Reference client eventuelle": null,
+    "Interlocuteur": "sUd3",
+    "Adresse": null,
+    "Code postal": "SMoville",
+    "Ville": null
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [],
+    "Temps passe a traiter le scenario": null
+  },
+  "Contribution": {
+    "Cocher les elements de votre contribution pour le scenario_traite": {
+      "(6€) Jenvoie mon courrier par voie postale a la date du": null,
+      "(+2e) Mon courrier contient une page de garde de fax": null,
+      "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+      "(+1€) J'ai envoye par courriel mon courrier numerise le": null
+    },
+    "Marque et modele du scanner": null,
+    "Format": [],
+    "Resolution des images": null
+  }
 }

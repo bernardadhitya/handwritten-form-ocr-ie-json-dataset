@@ -1,33 +1,38 @@
 {
-  "Code d'envoi": "MRDEAT",
-  "Nom": "P.Q.U.P..A.R.D",
-  "Prénom": "Naom",
-  "Adresse": null,
-  "Code Postal": "5H90",
-  "Ville": "BA.DEV.l",
-  "Téléphone": "03373g9M g",
-  "Catégorie Scénario": "mau......s.oma",
-  "Objet Scénario": "eaasd ...e..cataoge....psu...oose",
-  "Complément Scénario": "a&a7sb",
-  "Référence client": "ek...yemmaus.",
-  "Interlocuteur": "Baae.",
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": "...S... minutes",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, 'ai télécopié ma contribution",
-  "Date d'envoi par fax": "23./.3./.2o0.",
-  "Option envoi par courriel": "J'ai envoyé par couriel mon courier numérisé le",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": "...3.QQ.. dpi/pp",
-  "Format GIF": "...3.QQ.. dpi/pp",
-  "Format TIFF": "...3.QQ.. dpi/pp",
-  "Marque et modèle scanner": "XHAR.K....XA..9.Q"
+  "Code d'envoi": 5.0,
+  "Questionnaire": {
+    "Identite fictive": {
+      "Nom": "P.Q.U.P..A.R.D",
+      "Prenom": "Naom",
+      "Adresse": null,
+      "Code postal": "5H90",
+      "Ville": "BA.DEV.l",
+      "Tel": null
+    },
+    "Scenario": {
+      "Categorie": "mau",
+      "Objet": "eaasd ...e..cataoge....psu...oose",
+      "Complement": "a&a7sb"
+    },
+    "Interlocuteur": {
+      "Nom": "Baae",
+      "eMaLa_": null,
+      "Code postal": null,
+      "Ville": null
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "bille",
+        "plume",
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": null
+    },
+    "Contribution": {
+      "Elements de contribution": [],
+      "Marque et modele du scanner": "XHAR.K....XA..9.Q...",
+      "Format": [],
+      "Resolution des images": "...3.QQ.. dpi/pp"
+    }
+  }
 }

@@ -1,33 +1,34 @@
 {
-  "Code d'envoi": "Pvwmo",
-  "Nom": "Femom",
-  "Prénom": "A",
-  "Adresse": "w.e.e.",
-  "Code Postal": "6t40",
-  "Ville": "Munchu",
-  "Téléphone": null,
-  "Catégorie Scénario": "e.tom.de..mn.",
-  "Objet Scénario": "o..e....o.e..a..am....a.t.om.d...un...ar DERIA",
-  "Complément Scénario": null,
-  "Référence client": "éventuelle",
-  "Interlocuteur": "A.....A..n.",
-  "Adresse Interlocuteur": "............",
-  "Code Postal Interlocuteur": "3 O S 3 o] Vill ..CRam.anwqa.a",
-  "Ville Interlocuteur": "CRam.anwqa.a",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier par voie postale",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": ".H......P.S.C...1.3..$.?..."
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "Femom",
+        "Prenom": "A",
+        "Adresse": "w",
+        "Code postal": "6t40",
+        "Ville": "Munchu",
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": "e",
+        "Objet": "o",
+        "Complement": "a",
+        "Reference client eventuelle": "DERIA",
+        "Interlocuteur": "A",
+        "Adresse": "....",
+        "Code postal": "3 O S 3 o",
+        "Ville": "CRam.anwqa.a"
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": "bille plumefeutre",
+        "Temps passe a traiter le scenario": null,
+        "Contribution": {
+          "Cocher les_elements_de_votre contribution pour le_scenario_traite": null,
+          "Marque et modele du scanner": ".H......P.S.C...1.3..$.?",
+          "Format": "PNG",
+          "Resolution des images": "3.?..... dpi/ppp"
+        }
+      }
+    }
+  }
 }

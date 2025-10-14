@@ -1,33 +1,41 @@
 {
-  "Code d'envoi": "wwPwMN",
-  "Nom": "Mec.i.ss",
-  "Prénom": "Sri.gi.",
-  "Adresse": "SRECM&AC.H....LE...HAV.T..",
-  "Code Postal": "68",
-  "Ville": "SRECM&AC.H....LE...HAV.T..",
-  "Téléphone": "0 31512i l+1ilu lg5",
-  "Catégorie Scénario": "emam.d...nfo.mako.",
-  "Objet Scénario": "mamd.....umentah...oacesam.....saitrat...'a.uram.o..",
-  "Complément Scénario": "au...ou...i.atale...we...u....oon'an.",
-  "Référence client": "DscE8",
-  "Interlocuteur": "mAN.....Assuram..",
-  "Adresse Interlocuteur": "a.....oseh...ow.au..",
-  "Code Postal Interlocuteur": "[3t 32 p Vill ...ESV&ES.",
-  "Ville Interlocuteur": "ESV&ES.",
-  "Temps passé": "..... minutes",
-  "Stylo bille": "noir",
-  "Stylo plume": "noir",
-  "Stylo feutre": "noir",
-  "Contribution postale": "J'envoie mon courrier par voie postale a la date du ...30..o3.1.?o?",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le ...03/2a?",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "Kon..CA...i.No.TA....OT.254Q."
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "Mec.i.ss",
+        "Prenom": "Sri.gi",
+        "Adresse": "SRECM&AC.H....LE...HAV.T..",
+        "Code postal": "68",
+        "Ville": "SRECM&AC.H....LE...HAV.T..",
+        "Tel": "0 31512i l+1ilu lg5"
+      },
+      "Scenario": {
+        "Categorie": "emam.d...nfo.mako.",
+        "Objet": "mamd.....umentah...oacesam.....saitrat...'a.uram.o..",
+        "Complement": "au...ou...i.atale...we...u....oon'an.",
+        "Reference client eventuelle": "Interlocuteur....mAN.....Assuram..",
+        "Adresse": "a.....oseh...ow.au..",
+        "Code postal": "[3t 32 p Vill ...ESV&ES.",
+        "Ville": "ESV&ES.",
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+          ],
+          "Temps passe a traiter le scenario": null
+        },
+        "Contribution": {
+          "Cocher les elements de votre contribution pour le_scenario traite": [],
+          "Marque et modele du scanner": "Kon..CA...i.No.TA....OT.254Q.",
+          "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+          ],
+          "Resolution des images": "4.0.0... dpi/ppp"
+        }
+      }
+    }
+  }
 }

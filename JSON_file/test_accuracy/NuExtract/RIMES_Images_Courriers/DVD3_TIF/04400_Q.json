@@ -1,33 +1,43 @@
 {
-  "Code d'envoi": "SCCAD",
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "6sAO",
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": "QDHcs20",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "Sd",
-  "Ville Interlocuteur": "R.GLES",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": null,
+        "Adresse": {
+          "Allee": null,
+          "ayX_.d@AtveaE": null
+        },
+        "Code postal": "6sAO",
+        "Ville": "N.Q.M..S"
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": null,
+        "Mea": null,
+        "Lim": null,
+        "Complement": null,
+        "Reference client eventuelle": "QDHcs20",
+        "Interlocuteur": null,
+        "Adresse": null,
+        "Code postal": "Sd",
+        "Ville": "R.GLES",
+        "Redaction": {
+          "Type de stylo (noir) utilise": [],
+          "Temps passe a traiter le scenario": null,
+          "Contribution": {
+            "Cocher les_elements de_votre contbution pour le_scenaro traite": [],
+            "Marque et modele du scanner": null,
+            "Format": [
+              "PNG",
+              "GIF",
+              "TIFF"
+            ],
+            "Resolution des images": "ddd/!dp",
+            "Rame": null
+          }
+        }
+      }
+    }
+  }
 }

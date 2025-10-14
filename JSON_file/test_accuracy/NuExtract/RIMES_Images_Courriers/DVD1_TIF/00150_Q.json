@@ -1,33 +1,35 @@
 {
   "Code d'envoi": "SOVPk5",
-  "Nom": "S.A...S.S",
-  "Prénom": "r..whwop",
-  "Adresse": "0900",
-  "Code Postal": "0385533098",
-  "Ville": "FROIPS..T.E.RRE",
-  "Téléphone": null,
-  "Catégorie Scénario": "Chomemew...o....cmmx.a...poaom.etom",
-  "Objet Scénario": "Mn.eeeo...rodmmea..",
-  "Complément Scénario": "VTKEH2",
-  "Référence client": "eo....Saw...",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Identite fictive": {
+    "Nom": "S.A...S.S",
+    "Prenom": "r..whwop",
+    "Adresse": "0900",
+    "Code postal": "0385533098",
+    "Ville": "FROIPS..T.E.RRE",
+    "Tel": null
+  },
+  "Scenario": {
+    "Categorie": "Chomemew...o....cmmx.a...poaom.etom",
+    "Objet": "Mn.eeeo...rodmmea..",
+    "Pxnaie": "VTKEH2",
+    "Reference client eventuelle": "e.o....Saw...",
+    "Interlocuteur": null,
+    "Adresse": null,
+    "Code postal": null,
+    "Ville": null
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [],
+    "Temps passe a traiter le scenario": null
+  },
+  "Contribution": {
+    "Cocher les_elements de_votre contribution pour le scenario traite": []
+  },
+  "Marque et modele du scanner": "...Scy...........",
+  "Format": [
+    "PNG",
+    "GIF",
+    "TIFF"
+  ],
+  "Resolution des images": null
 }

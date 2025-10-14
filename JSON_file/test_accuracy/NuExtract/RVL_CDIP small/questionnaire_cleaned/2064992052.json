@@ -29,67 +29,34 @@
       "question": "I am going to read you some items. For each one, please tell me whether it is something you personally use. or not.",
       "items": {
         "Diet or lo-cal soft drinks": [
-          "Diet or lo-cal soft drinks",
-          "Regular soft drinks",
-          "Caffeinated coffee",
-          "Filtered cigarettes",
-          "Beer",
-          "Wine or wine coolers",
-          "Other alcoholic beverages"
+          "2",
+          "1",
+          "1",
+          "2",
+          "2"
         ],
         "Regular soft drinks": [
-          "Diet or lo-cal soft drinks",
-          "Regular soft drinks",
-          "Caffeinated coffee",
-          "Filtered cigarettes",
-          "Beer",
-          "Wine or wine coolers",
-          "Other alcoholic beverages"
+          "1",
+          "2"
         ],
         "Caffeinated coffee": [
-          "Diet or lo-cal soft drinks",
-          "Regular soft drinks",
-          "Caffeinated coffee",
-          "Filtered cigarettes",
-          "Beer",
-          "Wine or wine coolers",
-          "Other alcoholic beverages"
+          "1",
+          "2"
         ],
         "Filtered cigarettes": [
-          "Diet or lo-cal soft drinks",
-          "Regular soft drinks",
-          "Caffeinated coffee",
-          "Filtered cigarettes",
-          "Beer",
-          "Wine or wine coolers",
-          "Other alcoholic beverages"
+          "1",
+          "2"
         ],
         "Beer": [
-          "Diet or lo-cal soft drinks",
-          "Regular soft drinks",
-          "Caffeinated coffee",
-          "Filtered cigarettes",
-          "Beer",
-          "Wine or wine coolers",
-          "Other alcoholic beverages"
+          "-",
+          "2"
         ],
         "Wine or wine coolers": [
-          "Diet or lo-cal soft drinks",
-          "Regular soft drinks",
-          "Caffeinated coffee",
-          "Filtered cigarettes",
-          "Beer",
-          "Wine or wine coolers",
-          "Other alcoholic beverages"
+          "-",
+          "2"
         ],
         "Other alcoholic beverages": [
-          "Diet or lo-cal soft drinks",
-          "Regular soft drinks",
-          "Caffeinated coffee",
-          "Filtered cigarettes",
-          "Beer",
-          "Wine or wine coolers",
-          "Other alcoholic beverages"
+          "2"
         ]
       },
       "instructions": {
@@ -108,7 +75,7 @@
       ]
     },
     "E": {
-      "question": "Is the brand you smoke most often memthol ar non-menthol?",
+      "question": "Is the brand you smoke most often menthol ar non-menthol?",
       "options": [
         "Menthol",
         "Non-menthol"

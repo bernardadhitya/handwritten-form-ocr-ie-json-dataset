@@ -1,33 +1,44 @@
 {
-  "Code d'envoi": "BVESDQ",
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "9O &OC",
-  "Ville": "BanvilaxS",
-  "Téléphone": "036732975",
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "59&5s4",
-  "Ville Interlocuteur": "GKyveld",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "LO"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "Nom.4",
+        "Prenom": "n&.",
+        "Adresse": "mpsa...e...oupees",
+        "TeuyplieeA": "9O &OC ville.BanvilaxS 036732975"
+      },
+      "Scenario": {
+        "Categorie": "Reclamculor",
+        "Objet": null,
+        "Complement": "complment....clua.....ms..a.i.sr.as..o...to...uym.",
+        "Ma.hlA_eat": null,
+        "Reference client eventuelle": "Adresse ...Ru....Waanale",
+        "Interlocuteur": null,
+        "Adresse": "Ru....Waanale"
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille",
+          "plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": "s..O.... minutes",
+        "Contribution": {
+          "Cocher les elements de votre contribution pour le_scenario traite": {
+            "(6e) Jenvoie mon courrier par voie postale a la date du AAS_QG": null,
+            "(+2e) Mon courrier contient une page de garde de fax": null,
+            "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+            "(+1€) Jai envoye par courriel mon courrier numerise le": null,
+            "Marque et modele du scanner": "LO",
+            "Format": [
+              "PNG",
+              "GIF",
+              "TIFF"
+            ],
+            "Resolution des images": null
+          }
+        }
+      }
+    }
+  }
 }

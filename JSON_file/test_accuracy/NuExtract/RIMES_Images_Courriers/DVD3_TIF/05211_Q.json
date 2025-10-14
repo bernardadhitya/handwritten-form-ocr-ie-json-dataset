@@ -1,32 +1,33 @@
 {
-  "Code d'envoi": null,
-  "Nom": "A",
-  "Prénom": "Sy..L.i...",
-  "Adresse": "ue....dc.......CoR...s.aepe.",
-  "Code Postal": "5 S!15o",
-  "Ville": "Mki'LLeRs",
-  "Téléphone": "0336875623",
-  "Catégorie Scénario": "CGank.a.....Gsmmande.",
-  "Objet Scénario": "olemandle..de...mensua..salhic...de..mps",
-  "Complément Scénario": "Au. Cut..",
-  "Référence client": null,
-  "Interlocuteur": "Res.aRek!...des...mputs.",
-  "Adresse Interlocuteur": "R.u.......ihcen.",
-  "Code Postal Interlocuteur": "9jvie...aui....ae.Z.",
-  "Ville Interlocuteur": null,
-  "Temps passé": "minutes",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Identite fictive": {
+    "Nom": "A",
+    "Prenom": "Sy..L.i..."
+  },
+  "Adresse": {
+    "Que": "ue....dc.......CoR...s.aepe.",
+    "Ea": null,
+    "escaepe": null,
+    "Ville": "Mki'LLeRs"
+  },
+  "Scenario": {
+    "Categorie": "o.d.ca.li'on",
+    "Bonteal_|_Commande": "CGank.a.....Gsmmande.",
+    "Reueau_": "IOobjet....olemandle..de...mensua..salhic...de..mps"
+  },
+  "Interlocuteur": {
+    "L.ReseReeie_ des_tonpats": {
+      "Adresse": "R.u.......ihcen..",
+      "Code postal": "9jvie...aui....ae.Z.",
+      "Ville": null
+    }
+  },
+  "Radaction": {
+    "Tvpe de stvlo (noir) utilise": null,
+    "Temns passe & traiter le scenario": null,
+    "Contribution": {
+      "Cocher les elements_de_votre_contribution pour le scenario traite": [],
+      "Marque et modele du scanner": null,
+      "Resolution des images": null
+    }
+  }
 }

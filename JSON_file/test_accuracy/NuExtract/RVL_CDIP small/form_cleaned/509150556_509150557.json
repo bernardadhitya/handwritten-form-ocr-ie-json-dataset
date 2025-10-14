@@ -1,54 +1,55 @@
 {
-  "specificationChangeNotice": {
-    "id": "M251955",
-    "date": "3/22/85",
-    "brand": "VANTAGE ULTRA LT.85 Laser",
-    "arReferenceNumber": null,
-    "effectiveDateStartUpWithChange": "W/0 3/25/85",
-    "changePreparedBy": "James W.Davis",
-    "phase": "PHASE III",
-    "costChange": "YES",
-    "finalSpec": null,
-    "subBrandNumber": {
-      "from": [
-        "1980AM",
-        "2228AJ"
-      ],
-      "to": [
-        "1980AM",
-        "2228AJ"
-      ]
+  "SPECIFICATION": {
+    "DATE": "3/22/85",
+    "BRAND": "VANTAGE ULTRA LT.85 Laser",
+    "EFFECTIVE DATE START UP WITH CHANGE": "W/0 3/25/85",
+    "PACKAGE PREPARED BY": "James W.Davis",
+    "PHASE III": "COST CHANGE",
+    "FINAL SPEC": "FINALSPECX",
+    "SUB-BRAND NO.": {
+      "1980AM": "2228AJ",
+      "TYPE OF CHANGE": "Raise Dilution Target from 49% to 51%",
+      "OLD COLL_CODE": "Filter Tow",
+      "NEW COLL_CODE": "Plug Wrap Ref.No"
     },
-    "typeOfChange": "Raise Dilution Target from 49% to 51%",
-    "oldCommCode": {
-      "filterTow": "NA",
-      "plugWrapRefNo": "NA",
-      "cigtPaperRefNo": "NA",
-      "tippingRefNo": "NA"
-    },
-    "basisForRecommendation": "Since Apr1,1984vANTAGE UL.LT. 85 has averaged 5.5mg with a target of 5.3mg.",
-    "purposeOfChange": "To Lower Tar to Target",
-    "verbalConcurrence": [
+    "BASIS FOR RECOMMENDATION": "Since Apri1,1984vANTAGE UL.LT. 85 has averaged 5.5mg with a target of 5.3mg.",
+    "PURPOSE OF CHANGE": "To Lower Tar to Target",
+    "VERBAL CONCURRENCE": [
       "W.E.Alderman",
       "S.H.Lane",
       "S.E.Carter",
       "C.L.Manning",
       "D.R.Pugh"
     ],
-    "approval": {
-      "rAndD": "Brand R&D Managery",
-      "bvhOrDesignateFromMarketing": "R&D"
-    },
-    "departments": {
-      "manufacturing": [],
-      "brandMgr2": [],
-      "comptrollers": [],
-      "qaPlantManager": [
-        "S.H. Lane",
+    "APPROVAL REQUIRED": {
+      "Brand": "R&D",
+      "Marketing": "R&D",
+      "MANUFACTURING CONTROLLERS": [
+        "Q.A.",
+        "B.V.Hardin",
+        "D.K.Isbister",
+        "R.L. Willard",
+        "J.L.McKenzie",
+        "A.V.Dale",
+        "R.L.Morgan",
+        "D.L.Weller",
+        "D.B.Self",
+        "D.R.Pugh",
+        "W.E. Alderman",
+        "J.W.Mabe",
+        "R.L.McGee",
+        "Brand Mgr-2",
+        "S.T.McCollem",
+        "0.K.Crouch",
+        "K.W.Smith",
+        "D.F.Beeson",
+        "J.R.Pegram",
+        "T.A.Hall",
+        "E.D. Arledge",
+        "Specification File G. L. Aldridge",
+        "QA Plant Manager -S.H. Lane",
         "S.L.Reavis"
       ]
-    },
-    "code": "50915",
-    "additionalCode": "Specification File G. L. Aldridge"
+    }
   }
 }

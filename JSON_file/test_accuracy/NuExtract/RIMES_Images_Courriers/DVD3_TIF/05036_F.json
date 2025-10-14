@@ -1,15 +1,11 @@
 {
-  "document": "FAX",
-  "scenario": null,
-  "writer": null,
-  "sender_person": null,
-  "sender_company": "MONTSJURA AUTOCARS",
-  "sender_tel": "03 81 63 44 60",
-  "sender_fax": "03 81 80 98 61",
-  "receiver_person": "wu.ce",
-  "receiver_company": null,
-  "subject": "OBJET DUFAX",
-  "date": null,
-  "place": "4 Rue Berthelot 25000 BESANCON",
-  "box": null
+  "company": "MONTSJURA AUTOCARS",
+  "address": "4 Rue Berthelot 25000 BESANCON",
+  "phone": "03 81 63 44 60",
+  "fax": "03 81 80 98 61",
+  "email": "mjabesancon@keolis.com",
+  "registration": {
+    "RCS": "B 344 148 515",
+    "SIRET": "34414851500036"
+  }
 }

@@ -1,33 +1,45 @@
 {
   "Code d'envoi": "NAiuxC",
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "SnSn4 1oVille ...FE.N.NE.vLLiE",
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Identite fictive": {
+    "Nom": "X.av.ieR",
+    "Prenom": null,
+    "Adresse": "Ga..s.......",
+    "Code postal": "SnSn4 1oVille ...FE.N.NE.vLLiE",
+    "Ville": "FE.N.NE.vLLiE",
+    "Tel": "0B8O9c996"
+  },
+  "Scenario": {
+    "Categorie": "Getna...ak..ahst",
+    "Objet": "ous..souhuikes.....aousen...a....c..la..sesomai.t...avik.",
+    "Aexcaal,Ll_ful": "LQkHz3F",
+    "Lacse": null,
+    "ma4alv_ex": null,
+    "Reference client eventuelle": null,
+    "Interlocuteur": "AA....A.sutam.s",
+    "Assstanfes": {
+      "Adresse": "G&3o] Vill ...$tRVERETT.E.",
+      "Ville": "G&3o] Vill"
+    }
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [
+      "bille",
+      "plume",
+      "feutre"
+    ],
+    "Temps passe a traiter le scenario": "...4..... minutes",
+    "Contribution": {
+      "(6e) Jenvoie mon courrier par voie postale a la date du": null,
+      "(+2e) Mon courrier contient une page de garde de fax": null,
+      "(+1€) Avant mon envoi postal, jai télécopié ma contribution le": null,
+      "(+1€) J'ai envoye par courriel mon courrier numérisé le": null,
+      "Marque et modele du scanner": "XX.",
+      "Format": [
+        "PNG",
+        "GIF",
+        "TIFF"
+      ],
+      "Resolution des images": null
+    }
+  }
 }

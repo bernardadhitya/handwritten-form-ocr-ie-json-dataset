@@ -1,33 +1,44 @@
 {
-  "Code d'envoi": null,
-  "Nom": "MOURQ",
-  "Prénom": "Sy!",
-  "Adresse": "rout..d.ontramg",
-  "Code Postal": "[S L CO] ville....lLON.UiL(603853)",
-  "Ville": "LON.UiL",
-  "Téléphone": null,
-  "Catégorie Scénario": "emanc...c'..afarmatua",
-  "Objet Scénario": "Memane...c..enez.aas..aue...coselo",
-  "Complément Scénario": "O..or.Ce",
-  "Référence client": "nterlocuteur ...A...Casse....locams..Fami iab",
-  "Interlocuteur": "A...Casse....locams..Fami iab",
-  "Adresse Interlocuteur": "Cas.",
-  "Code Postal Interlocuteur": "D93OO",
-  "Ville Interlocuteur": "ALZEN",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "SQ!"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "MOURQ",
+        "Prenom": "Sy!u",
+        "Adresse": "...rout..d.ontramg",
+        "Code postal": "[S L CO] ville....lLON.UiL(6",
+        "Ville": "LON.UiL",
+        "Tel": null
+      },
+      "Categorie": "emanc",
+      "Objet": "Memane...c..enez.aas..aue...coselo",
+      "Conse llex": "Complément ...O..or.Ce",
+      "Duccce": "ABH33",
+      "Interlocuteur": "A...Casse....locams..Fami iab",
+      "Adresse": "..as......Cas.",
+      "Code postal": "D93OO",
+      "Ville": "ALZEN"
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "bille",
+        "plume",
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": null
+    },
+    "Contribution": {
+      "Cocher les elements_de_votre contribution pour le_scenario_traite": [
+        "J'envoie mon courrier par voie postale a la date du",
+        "Mon courrier contient une page de garde de fax",
+        "Avant mon envoi postal, j'ai télécopié ma contribution le",
+        "J'ai envoyé par couriel mon courier numérisé le",
+        "Mon courrier contient une page de garde de fax",
+        "Avant mon envoi postal, j'ai télécopié ma contribution le",
+        "J'ai envoyé par couriel mon courier numérisé le"
+      ],
+      "Marque et modele du scanner": "SQ!",
+      "Format": [],
+      "Resolution des images": []
+    }
+  }
 }

@@ -1,33 +1,46 @@
 {
-  "Code d'envoi": "VKNTHU",
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "B 51 35",
-  "Ville": "Chan.tepie",
-  "Téléphone": "026762452",
-  "Catégorie Scénario": null,
-  "Objet Scénario": "Demande de xesio.ns...ur...atxc...des.hiere..ad.wae",
-  "Complément Scénario": "manan.....ta...adun....k.o...leue",
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": "Baug",
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "y...o..u...is.......pexea.",
+        "Prenom": "Prénom ...o..aya",
+        "Adresse": "Adresse",
+        "Code postal": "[B 51 35]",
+        "Ville": "Chan.tepie",
+        "Tel": "026762452"
+      },
+      "Scenario": {
+        "Categorie": "Demand&...dnoumation",
+        "ObjetRemabde_de eisions": "Demande..de....xesio.ns...ur...atxc...des.hiere..ad.wae",
+        "Complement": "complément ....manan.....ta...adun....k.o...leue",
+        "Scuue_eat": "PVELxO",
+        "Reference client eventuelle": "Référence client éventuelle",
+        "Interlocuteur": null,
+        "Adresse": "Baug",
+        "Code postal": "Cde postal e viil ...ai.....aouge",
+        "Ville": null,
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille plume feutre"
+          ],
+          "Temps passe a traiter le scenario": null
+        }
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le scenario traite": [
+          "l (6€) J'envoie mon courrier par voie postale a la date du .../4%0..",
+          "(+2€) Mon courrier contient une page de garde de fax.",
+          "(+1€) Avant mon envoi postal, j'ai télécopié ma contribution le",
+          "(+1€) J'ai envoyé par courriel mon courrier numérisé le ..Q..400"
+        ]
+      },
+      "OHolob": {
+        "Marque et modele du scanner": "L",
+        "PNG": null,
+        "GIF": null,
+        "TIFF": null,
+        "Resolution des images": "OO..... dpi/ppp"
+      }
+    }
+  }
 }

@@ -1,33 +1,33 @@
 {
-  "Code d'envoi": "Bz0BBA",
-  "Nom": null,
-  "Prénom": "ka.uy",
-  "Adresse": "Gt",
-  "Code Postal": "63o",
-  "Ville": "SAN",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": "NAnaucs",
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "[OtSO]ville.A.o.Ct",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "N.",
+        "Prenom": "ka.uy",
+        "Adresse": "G...t......",
+        "Code postal": "63o",
+        "Ville": "SAN",
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": null,
+        "Complement": null,
+        "Reference client eventuelle": null,
+        "Interlocuteur": "N...An..aucs",
+        "Adresse": "o....",
+        "Code postal": "[OtSO]",
+        "Ville": "A.o.Ct"
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [],
+        "Temps passe a traiter le scenario": null,
+        "Contribution": {
+          "Cocher les elements_de_votre_ contribution pour le_scenario traite _": []
+        },
+        "Marque et modele du scanner": null,
+        "Resolution des images": null
+      }
+    }
+  }
 }

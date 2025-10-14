@@ -1,33 +1,41 @@
 {
   "Code d'envoi": "QDFEIH",
-  "Nom": "C..A.Re..",
-  "Prénom": null,
-  "Adresse": "6...ac",
-  "Code Postal": "SZoVille....A..c.ew.lf",
-  "Ville": "A..c.ew.lf",
-  "Téléphone": "03o6776sB",
-  "Catégorie Scénario": "Camams...o...cdam.ee....em..",
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": "N...A.......",
-  "Adresse Interlocuteur": "wsV.es..Caaras",
-  "Code Postal Interlocuteur": "wwin.s",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Identite fictive": {
+    "Nom": "C..A.Re..",
+    "Prenom": null,
+    "Adresse": "6...ac",
+    "Code postal": "SZoVille....A..c.ew.lf",
+    "Ville": "03o6776sB",
+    "Tel": null
+  },
+  "Scenario": {
+    "Categorie": "Camams...o...cdam.ee....em..",
+    "Objet": null,
+    "Complement": null,
+    "Reference client eventuelle": null,
+    "Interlocuteur": "N...A.......",
+    "Assueheea": {
+      "Adresse": "wsV.es..Caaras",
+      "Code postal": "&&no Vitle.....wwin.s",
+      "Ville": null
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "bille plume",
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": null
+    },
+    "Contribution": {
+      "Cocher les elements de votre contribution pour le scenario traite": [],
+      "Marque et modele du scanner": "?..........D.............w...",
+      "Format": [
+        "PNG",
+        "GIF",
+        "TIFF"
+      ],
+      "Resolution des images": "2.Q... dpi/ppp",
+      "Claxe": null
+    }
+  }
 }

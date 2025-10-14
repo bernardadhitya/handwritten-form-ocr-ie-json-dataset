@@ -1,32 +1,41 @@
 {
-  "Code d'envoi": "OSGEHB",
-  "Nom": null,
-  "Prénom": "F.A.Y.",
-  "Adresse": null,
-  "Code Postal": "L88 Ur4Cl",
-  "Ville": "NoM&X.Y",
-  "Téléphone": null,
-  "Catégorie Scénario": "Ohan.gemnt...c...oon..o...sesnn.les",
-  "Objet Scénario": null,
-  "Complément Scénario": "ous...han.....peaous..ephanue.",
-  "Référence client": "K503",
-  "Interlocuteur": "sswam..o.",
-  "Adresse Interlocuteur": "3S33] ville..ARi.S.NE",
-  "Code Postal Interlocuteur": "3S33]",
-  "Ville Interlocuteur": "ARi.S.NE",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": "PNG",
-  "Format GIF": "GlFTlFF",
-  "Format TIFF": "FF",
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "F.A.Y.",
+        "Prenom": null,
+        "Adresse": null,
+        "Code postal": "L88 Ur4Cl",
+        "Ville": "NoM&X.Y",
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": "Ohan.gemnt..c..oon..o..sesnn.les",
+        "Objet": "o..aa....eadanes...ho.u",
+        "Complement lous.": "complemet .ous..han.....peaous..ephanue.",
+        "Reference client eventuelle": null,
+        "Interlocuteur": "sswam..o..",
+        "Adresse": "3S33] ville..ARi.S.NE",
+        "Code postal": "3S33]",
+        "Ville": "ARi.S.NE",
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+          ],
+          "Temps passe a traiter le scenario": null
+        },
+        "Contribution": {
+          "Cocher les elements de votre contribution pour le_scenario traite": [],
+          "Marque et modele du scanner": "PNG GlFTlFF",
+          "Format": [
+            "PNG",
+            "GlFTlFF"
+          ],
+          "Resolution des images": "dpi/ppp"
+        }
+      }
+    }
+  }
 }

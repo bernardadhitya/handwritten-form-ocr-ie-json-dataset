@@ -1,33 +1,44 @@
 {
-  "Code d'envoi": null,
-  "Nom": "DESC.MA..P.",
-  "Prénom": "a..c.",
-  "Adresse": "A..re.v.er...",
-  "Code Postal": "0331493184",
-  "Ville": "0.BERHERGHE!M.",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": "Av..me..es...gv.mes......s...vea.",
-  "Complément Scénario": "awc....",
-  "Référence client": null,
-  "Interlocuteur": "BOU.RG.",
-  "Adresse Interlocuteur": "BOU.RG.",
-  "Code Postal Interlocuteur": "22 31",
-  "Ville Interlocuteur": "u.F.u.R",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "L."
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "DESC.MA..P.",
+        "Prenom": "a..c.",
+        "Adresse": null,
+        "Code postal": "0331493184",
+        "Ville": "BERHERGHE!M.",
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": "Av..me..",
+        "Ses": "es...gv.mes......s...vea.",
+        "Comm": null,
+        "Complement": "awc....",
+        "Reference client eventuelle": null,
+        "Interlocuteur": "BOU.RG.",
+        "Adresse": null,
+        "Code postal": "22 31",
+        "Ville": "u.F.u.R",
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+          ],
+          "Temps passe a traiter le scenario": null
+        },
+        "Contribution": {
+          "Cocher les elements de votre contribution pour le scenario_traite": [],
+          "Marque et modele du scanner": "L.",
+          "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+          ],
+          "Resolution des images": "ddd/!dp"
+        }
+      }
+    }
+  }
 }

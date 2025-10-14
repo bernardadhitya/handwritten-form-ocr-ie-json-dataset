@@ -1,33 +1,48 @@
 {
-  "Code d'envoi": "FRI20N",
-  "Nom": "EFEBVRE",
-  "Prénom": null,
-  "Adresse": "E/MRVEIL.Es...RN.2OH",
-  "Code Postal": "440",
-  "Ville": null,
-  "Téléphone": "0330461113",
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": "SU/Fs",
-  "Adresse Interlocuteur": "E/MRVEIL.Es...RN.2OH",
-  "Code Postal Interlocuteur": "430",
-  "Ville Interlocuteur": "E/DE",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "X (+2€) Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "X (+2€) Mon courrier contient une page de garde de fax.",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "X (+2€) Mon courrier contient une page de garde de fax.",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "H?..ScwW.......3.00.."
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "EFEBVRE",
+        "Prenom": null,
+        "Adresse": "E/MRVEIL.Es...RN.2OH",
+        "Code postal": "[&&440]",
+        "Ville": "E/DE",
+        "Tel": "0330461113"
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": null,
+        "CD": null,
+        "Complement": null,
+        "Interlocuteur": null,
+        "Suifs": null,
+        "Code postal": "[&&430]",
+        "Ville": "E/DE",
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+          ],
+          "Temps passe a traiter le scenario": null
+        },
+        "Contribution": {
+          "Elements de contribution": {
+            "J'envoie mon courrier par voie postale a la date du": null,
+            "Mon courrier contient une page de garde de fax": "+2€",
+            "Avant mon envoi postal, j'ai telecopie ma contribution le": "+1€",
+            "J'ai envoye par courriel mon courrier numerise le": "+1€"
+          },
+          "Marque et modele du scanner": "H?..ScwW.......3.00..",
+          "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+          ],
+          "Resolution des images": ".30.0 dpi/ppp",
+          "Quantbs": null
+        }
+      }
+    }
+  }
 }

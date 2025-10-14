@@ -1,33 +1,36 @@
 {
-  "Code d'envoi": "036057005",
-  "Nom": "AN.",
-  "Prénom": null,
-  "Adresse": "e.....e.tes.",
-  "Code Postal": "6 t16",
-  "Ville": "W.!S$s.E.M.60.R.6",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": "MANI.F...A.ssurances",
-  "Interlocuteur": "A...a.yen.w.......e.e..a......a.e.",
-  "Adresse Interlocuteur": "E.Y.R.A.G.V.ES",
-  "Code Postal Interlocuteur": "43 630",
-  "Ville Interlocuteur": "E.Y.R.A.G.V.ES",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "28 dha.ne.200.6",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'a télécopié ma contribution le ..crake .6...",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "AN.",
+        "Prenom": null,
+        "Adresse": null,
+        "Code postal": "6 t16",
+        "Ville": "W.!S$s.E.M.60.R.6",
+        "Tel": "036057005"
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": null,
+        "Complement": null,
+        "Reference client eventuelle": "MANI.F...A.ssurances",
+        "Interlocuteur": "A...a.yen.w.......e.e..a......a.e."
+      },
+      "Asserances": {
+        "Adresse": null,
+        "Code postal": "43 630",
+        "Ville": "E.Y.R.A.G.V.ES"
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": null,
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le_scenario_traite_": null,
+        "Marque et modele du scanner": null,
+        "Format": null,
+        "Resolution des images": null
+      }
+    }
+  }
 }

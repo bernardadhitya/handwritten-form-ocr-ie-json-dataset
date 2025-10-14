@@ -1,32 +1,37 @@
 {
   "Code d'envoi": "cTzvxx",
-  "Nom": "Ba.R.R.",
-  "Prénom": "aettc",
-  "Adresse": "Cai...es....an pi...s.......au.",
-  "Code Postal": "61",
-  "Ville": "...&..ov..",
-  "Téléphone": "043698K0",
-  "Catégorie Scénario": "snanad.....wo.m.nt.",
-  "Objet Scénario": "dem.ande...de...en.",
-  "Complément Scénario": "Ceneslex",
-  "Référence client": "HENG",
-  "Interlocuteur": "n....Bonque...Juelle..e...Pas",
-  "Adresse Interlocuteur": ".eo...K.a.e..lis",
-  "Code Postal Interlocuteur": "L3o",
-  "Ville Interlocuteur": "..en.Cchex....Albanne",
-  "Temps passé": "Jo.... minutes",
-  "Stylo bille": "bille",
-  "Stylo plume": "plume",
-  "Stylo feutre": "feutre",
-  "Contribution postale": "J'envoie mon courrier par voie postale á la date du ...S.. ma.....",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Identite fictive": {
+    "Nom": "Ba.R.R.",
+    "Prenom": "aettc",
+    "Adresse": "Cai...es....an pi...s.......au.",
+    "Code postal": "61Ville ...&..ov..",
+    "Ville": "043698K0",
+    "Tel": null
+  },
+  "Scenario": {
+    "Categorie": "snanad.....wo.m.nt.",
+    "Objet": "dem.ande...de...en.",
+    "Complement wt_ Leta_ manr": "HENG",
+    "Reference client eventuelle": null,
+    "Interlocuteur": "n....Bonque...Juelle..e...Pas",
+    "Pen Adresse Zeo-Karelli.": {
+      "Code postal": "L3o Ville ..en.Cchex....Albanne",
+      "Ville": "en.Cchex....Albanne"
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [],
+      "Temps passe a traiter le scenario": "Jo.... minutes"
+    },
+    "Contribution": {
+      "Cocher les elements de votre contribution pour le_scenario traite": [
+        "(6e) J'envoie mon courrier par voie postale á la date du ...S.. ma.....",
+        "(+2€) Mon courrier contient une page de garde de fax.",
+        "(+1€) Avant mon envoi postal, j'ai télécopié ma contribution le",
+        "(+1€) J'ai envoyé par courriel mon courrier numérisé le"
+      ],
+      "Marque et modele du scanner": null,
+      "Format": [],
+      "Resolution des images": null
+    }
+  }
 }

@@ -1,33 +1,43 @@
 {
-  "Code d'envoi": "vCB",
-  "Nom": "M.A.H.I.E.O",
-  "Prénom": "Cayd.",
-  "Adresse": "A...u&...an.u",
-  "Code Postal": "54& S",
-  "Ville": "T.&y...uR....NC",
-  "Téléphone": "O3go46&so2",
-  "Catégorie Scénario": null,
-  "Objet Scénario": "osgo..........o.ai......c.s......",
-  "Complément Scénario": "Au.w..",
-  "Référence client": "Maine",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": "L.au.DES",
-  "Code Postal Interlocuteur": "433&C",
-  "Ville Interlocuteur": "L.au.DES",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "L."
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "M.A.H.I.E.O",
+        "Prenom": "Cayd.",
+        "Adresse": {
+          "Rue": "A...u&...an.u",
+          "Code postal": "54& S",
+          "Ville": "T.&y...uR....NC"
+        },
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": "ntoumaam",
+        "Accue 2_du_tubec": null,
+        "Reference client eventuelle": "Maine",
+        "Adresse": {
+          "PLACC": "[433&C]",
+          "Code postal": "[433&C]",
+          "Ville": "L.au.DES"
+        },
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+          ],
+          "Temps passe a traiter le scenario": null
+        },
+        "Contribution": {
+          "Cocher les elements de votre contribution pour le scenario traite": {
+            "(6€) J'envoie mon courrier par voie postale a la date du 22/g:/2e2": null,
+            "(+2€) Mon courrier contient une page de garde de fax": null,
+            "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le ol '9007": null,
+            "(+1€) Jai envoye par courriel mon courrier numerise le Marque et modele du scanner Format PNG GIF TIFF Resolution des images dpilppp (02": null
+          }
+        }
+      }
+    }
+  }
 }

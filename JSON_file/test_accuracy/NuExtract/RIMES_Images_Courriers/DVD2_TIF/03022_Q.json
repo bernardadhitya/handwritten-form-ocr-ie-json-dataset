@@ -1,33 +1,46 @@
 {
-  "Code d'envoi": "DDGz",
-  "Nom": "G.!!LL.E.Mo.",
-  "Prénom": "Mickl",
-  "Adresse": "?.......tkch.",
-  "Code Postal": "6&3 5+o]",
-  "Ville": "B.RUN..S.X..",
-  "Téléphone": "03zz530854",
-  "Catégorie Scénario": "Dmond.....savm...",
-  "Objet Scénario": "Sem..an.d....oe...doowmmtoKa..",
-  "Complément Scénario": "....am..sm.am....es..ca.al....assnnanc...aaltat",
-  "Référence client": "éventuelle",
-  "Interlocuteur": "W..f....",
-  "Adresse Interlocuteur": "...a.......",
-  "Code Postal Interlocuteur": "Z49vile ..lAKoNl.....an..BL.A.N.",
-  "Ville Interlocuteur": "lAKoNl.....an..BL.A.N.",
-  "Temps passé": ".......... minutes",
-  "Stylo bille": "bille",
-  "Stylo plume": "plume",
-  "Stylo feutre": "feutre",
-  "Contribution postale": "Mon courrier par voie postale a la date du ..?.?!..7.....?.",
-  "Date d'envoi postal": "..?.?!..7.....?",
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": "..?.?!..7.....?",
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le ...?..?....2...0.7",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "?.m.t....33..o.",
-  "Type de stylo (noir) utilisé": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "G.!!LL.E.Mo.",
+        "Prenom": "Mickl"
+      },
+      "Adresse": "?.......tkch.",
+      "Code postal": "6&3 5+o] Ville...B.RUN..S.X..",
+      "Ville": "B.RUN..S.X..",
+      "Tel": "03zz530854"
+    },
+    "Scenario": {
+      "Categorie": "Dmond.....savm...",
+      "nlahal": "Sem..an.d....oe...doowmmtoKa..",
+      "Objet": "Sem..an.d....oe...doowmmtoKa..",
+      "Complement": "am..sm.am....es..ca.al....assnnanc...aaltat",
+      "Reference client eventuelle": "Interlocuteur ......W..f.....",
+      "Adresse": "...a.......",
+      "Code postal": "Z49vile ..lAKoNl.....an..BL.A.N.",
+      "Ville": "lAKoNl.....an..BL.A.N.",
+      "HenI_BLANG_": null,
+      "Type de stylo (noir) utilise": [
+        "bille",
+        "plume",
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": ".......... minutes",
+      "Contribution": {
+        "Cocher les elements de_votre contribution pour lescenario_traite": [
+          "J'envoie mon courrier par voie postale a la date du ..?.?!..7.....?.",
+          "+2€) Mon courrier contient une page de garde de fax.",
+          "+1€) Avant mon envoi postal, j'ai télécopié ma contribution le",
+          "+1@) J'ai envoyé par courriel mon courrier numérisé le ...?..?....2...0.7"
+        ]
+      },
+      "Marque et modele du scanner": "?.m.t....33..o.",
+      "Format": [
+        "PNG",
+        "GIF",
+        "TIFF"
+      ],
+      "Resolution des images": "..?..... dpi/ppp"
+    }
+  }
 }

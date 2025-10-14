@@ -1,15 +1,17 @@
 {
-  "document": "réclamation susrée sans ouita",
-  "scenario": null,
-  "writer": "lval",
-  "sender_person": "Viviane DELVAL",
-  "sender_company": null,
-  "sender_tel": "Q3 36 04 22 74",
-  "sender_fax": "BT GZL 18",
-  "receiver_person": "Madame, Nonsicu",
-  "receiver_company": null,
-  "subject": "réclamation susrée sans ouita",
-  "date": "2006-01-11",
-  "place": "QS rue du ginésal de Gaul.",
-  "box": "9O36O LACHAPELE SOUS R0UGEMDNT"
+  "name": "Viviane DELVAL",
+  "address": {
+    "street": "QS rue du ginésal de Gaul.",
+    "city": "LACHAPELE SOUS R0UGEMDNT",
+    "postal_code": "9O36O"
+  },
+  "phone": {
+    "Tel": "Q3 36 04 22 74"
+  },
+  "email": null,
+  "payment_method": "Francs Tephona",
+  "last_month_payment": null,
+  "amount_due": null,
+  "association": null,
+  "greeting": "Madame, Nonsicu,"
 }

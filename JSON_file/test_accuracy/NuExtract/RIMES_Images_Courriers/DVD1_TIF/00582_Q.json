@@ -1,33 +1,32 @@
 {
-  "Code d'envoi": "Questionnaire",
-  "Nom": "rénom",
-  "Prénom": null,
-  "Adresse": "5753o ville...aa.&me?",
-  "Code Postal": null,
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": "KpRRN9F",
-  "Interlocuteur": "Inteocuteur.......A....m.",
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "1623o] vile......X.E.",
-  "Ville Interlocuteur": null,
-  "Temps passé": "10... minutes",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "Mon courrier numérisé le",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "L"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "rénom",
+        "Prenom": null,
+        "Adresse": "5753o ville...aa.&me?",
+        "Code postal": null,
+        "Ville": null,
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": null,
+        "Complement": null,
+        "Reference client eventuelle": "KpRRN9F",
+        "Interlocuteur": {
+          "Naf": null,
+          "Adresse": "Inteocuteur.......A....m.",
+          "Code postal": "1623o] vile......X.E."
+        },
+        "Redaction": {
+          "Type de stylo (noir) utilise": [],
+          "Temps passe a traiter le scenario": "10... minutes"
+        },
+        "Contribution": {
+          "Cocher les elements de votre contribution pour le_scenario traite": []
+        }
+      }
+    }
+  }
 }

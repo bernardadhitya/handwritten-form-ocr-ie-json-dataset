@@ -1,15 +1,12 @@
 {
-  "document": "anpe",
-  "scenario": null,
-  "writer": null,
-  "sender_person": null,
-  "sender_company": null,
-  "sender_tel": "03.21.46.57.0003.21.46.57.19",
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": null,
-  "date": "7 /10/ 0 6",
-  "place": "CALAIS THEATRE",
-  "box": "37, rue Gustave Cuvelier B.P.349 62107 CALAIS CEDEX"
+  "address": {
+    "street": "37, rue Gustave Cuvelier",
+    "postalCode": "62107",
+    "city": "CALAIS",
+    "country": "CEDEX"
+  },
+  "email": "ale.calais-theatre@anpe.fr",
+  "phone": "03.21.46.57.0003.21.46.57.19",
+  "correspondant": "TLl$Ti ME }udhie",
+  "date": "7 /10/ 0 6"
 }

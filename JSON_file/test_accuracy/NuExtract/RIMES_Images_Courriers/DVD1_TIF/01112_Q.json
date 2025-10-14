@@ -1,33 +1,33 @@
 {
-  "Code d'envoi": "GSTLsx",
-  "Nom": "Ros`ER",
-  "Prénom": null,
-  "Adresse": "O6l vies...ae...de.",
-  "Code Postal": "OYM",
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": "ak.co.C.om..ole..so...a...co.m.o.",
-  "Objet Scénario": "ema...de.....measu.o..a.om...d.....o.",
-  "Complément Scénario": "@........e...",
-  "Référence client": "Rbst2",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "[6&O] vill...EU.!.",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "J'ai envoyé par courriel mon courrier numérisé le ...2../.4....0...6.",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "S.Can....SS.S.D...."
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "Ros`ER",
+        "Prenom": null,
+        "Adresse": "O6l vies...ae...de.",
+        "Code postal": "OYM",
+        "Ville": null,
+        "Tel": null
+      },
+      "Categorie": "no.ak.co.C.om..ole..so...a...co.m.o.",
+      "Co-ttfcolleyZe": null,
+      "Complement": "C.......",
+      "Reference client eventuelle": {
+        "Interlocuteur": null,
+        "Adresse": null,
+        "Code postal": "[6&O] vill...EU.!.",
+        "Ville": null
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [],
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le scenario traite": [],
+        "Marque et modele du scanner": "S.Can....SS.S.D.......",
+        "Format": [],
+        "Resolution des images": null
+      }
+    }
+  }
 }

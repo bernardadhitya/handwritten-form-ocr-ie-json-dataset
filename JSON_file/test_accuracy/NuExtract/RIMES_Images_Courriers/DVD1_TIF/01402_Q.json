@@ -1,31 +1,38 @@
 {
-  "Code d'envoi": "Questionnaire",
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "3n3s0] Vill",
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": "augmentatiom....2...d...quantités...e.....viege",
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": "2... minutes",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le ...1/1../0.6..",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": null,
+        "Adresse": null,
+        "Code postal": null,
+        "Ville": null,
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": "augmentatiom....2...d...quantités...e.....viege",
+        "Complement": null,
+        "Interlocuteur": null,
+        "Adresse": null,
+        "Code postal": null,
+        "Ville": null,
+        "Redaction": {
+          "Type de stylo (noir) utilise": [],
+          "Temps passe a traiter le scenario": null
+        }
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le scenario traite": {
+          "(6€) Jenvoie mon courrier par voie postale a la date du 41[AKok": null,
+          "(+2€) Mon courrier contient une page de de fax": null,
+          "(+1€) Avant mon envoi postal, jai telecopie ma contribution le Asalqe": null,
+          "(+16) Jai envoye par courriel mon courrier numerise le 02azlo6": null
+        },
+        "Marque et modele du scanner": null,
+        "Format": [],
+        "Resolution des images": null
+      }
+    }
+  }
 }

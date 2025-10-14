@@ -1,33 +1,39 @@
 {
   "Code d'envoi": "MNEHFA",
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "S464g",
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": "2yIn3 5wps",
-  "Objet Scénario": "Qeauc",
-  "Complément Scénario": "wn",
-  "Référence client": "Ga'ssc",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "9713",
-  "Ville Interlocuteur": "PEnT",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "L"
+  "Identite fictive": {
+    "Nom": "19.i.s.I..C.rausoe...Rve.",
+    "Prenom": null,
+    "Adresse": null,
+    "Code postal": "S464g",
+    "Ville": null,
+    "Tel": null
+  },
+  "Scenario": {
+    "Categorie": "2yIn3 5wps",
+    "Objet": "Qeauc......vuie.aurs..enu.se",
+    "Complement": "wn...",
+    "Reference client éventuelle": "Ga'ssc...'.ma'.......d.",
+    "Interlocuteur": null,
+    "Adresse": "9713 ve .PEnT.GNA",
+    "Code postal": null,
+    "Ville": null
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [
+      "bille",
+      "plume"
+    ],
+    "Temps passe a traiter le scenario": null
+  },
+  "Contribution": {
+    "Cocher les elements de votre contribution pour le_scenario traite": {
+      "J'envoie mon courrier par voie postale a la date du": null,
+      "Mon courrier contient une page de garde de fax": "+2€",
+      "Avant mon envoi postal, j'ai telecopie ma contribution le": "+1€",
+      "J'ai envoye par courriel mon courrier numerise le": "+1€"
+    },
+    "Marque et modele du scanner": null,
+    "Format": [],
+    "Resolution des images": null
+  }
 }

@@ -1,33 +1,47 @@
 {
-  "Code d'envoi": "DSDVPC",
-  "Nom": "LAF.LEUR",
-  "Prénom": "an",
-  "Adresse": "S..u.....Cene",
-  "Code Postal": "8onoVille",
-  "Ville": "A.N....ES...LuxE.Ui.",
-  "Téléphone": null,
-  "Catégorie Scénario": "ladp.catiom....onk.ea...comands..",
-  "Objet Scénario": "iminut.o..des..esement...sue...etr...lan.EpuRgn",
-  "Complément Scénario": "o.tz...sndottoment..est..dexnu...top.mo.ta",
-  "Référence client": "BANQU.E...E.....Y.ONN.A.S",
-  "Interlocuteur": "BANQU.E...E.....Y.ONN.A.S",
-  "Adresse Interlocuteur": "LE...uRE.",
-  "Code Postal Interlocuteur": "6 4n&Uno",
-  "Ville Interlocuteur": "MACA!Y.E",
-  "Temps passé": "..... minutes.",
-  "Stylo bille": "noir",
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi postal": "28.la.9.1.9..a.",
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le ..28.la.9.1.9..a.",
-  "Date d'envoi par fax": "28.la.9.1.9..a.",
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le ....9..l.a.9....a.6...",
-  "Date d'envoi par courriel": "9..l.a.9....a.6...",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "CA..O......N..6.o...U."
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "LAF.LEUR",
+        "Prenom": "an...",
+        "Adresse": "S..u.....Cene",
+        "Code postal": "8onoVille",
+        "Ville": "o...A.N....ES...LuxE.Ui.",
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": "ladp.catiom....onk.ea...comands..",
+        "Objet_Diminutie": "esement...sue...etr...lan.EpuRgn",
+        "Legemenl": "complément..o.tz...sndottoment..est..dexnu...top.mo.ta",
+        "Amaztaaf": "AO3",
+        "Reference client eventuelle": "BANQU.E...E.....Y.ONN.A.S",
+        "Interlocuteur": "BANQU.E...E.....Y.ONN.A.S",
+        "Adresse": "LE...uRE.",
+        "Code postal": "[6 4n&Uno]",
+        "Ville": "MACA!Y.E"
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "billeplumefeutre"
+        ],
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le scenario traite": {
+          "(6e) J'envoie mon courrier par voie postale a la date du _ 98": null,
+          "lo9aRa6": null,
+          "(+2e) Mon courrier contient une page de garde de fax": "Mon courrier contient une page de garde de fax",
+          "(+1e) Avant mon envoi postal, j'ai telecopie ma contribution le 98.lo91.90a.6": "Avant mon envoi postal, j'ai télécopié ma contribution le ..28.la.9.1.9..a.",
+          "(+1@) J'ai envoye par courriel mon courrier numerise le 92.1.0.9.4.202.6.-": "J'ai envoyé par courriel mon courrier numerisé le ....9..l.a.9....a.6..."
+        },
+        "Marque et modele du scanner": "CA..O......N..6.o...",
+        "Format": [
+          "PNG",
+          "GIF",
+          "TIFF"
+        ],
+        "Resolution des images": "&Q.... dpi/ppp"
+      }
+    }
+  }
 }

@@ -1,33 +1,49 @@
 {
-  "Code d'envoi": "XERCBF",
-  "Nom": "Re&im",
-  "Prénom": "burroe",
-  "Adresse": null,
-  "Code Postal": "G3o",
-  "Ville": "Cnakatt",
-  "Téléphone": null,
-  "Catégorie Scénario": "edipi.catim",
-  "Objet Scénario": "cAmgmmkatiom.(x.)..daa..uamtiten..d.!l.ask'am..",
-  "Complément Scénario": "BE83",
-  "Référence client": "Bomqua",
-  "Interlocuteur": "Bewng",
-  "Adresse Interlocuteur": "Au...Bewng",
-  "Code Postal Interlocuteur": "4o",
-  "Ville Interlocuteur": "Veuni",
-  "Temps passé": "2.?....",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le .",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le ...23.loul.o.3.",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "c.aRumake.s....sC33.&."
+  "Code d'envoi": {
+    "XERCBF": "XERCBF"
+  },
+  "Questionnaire": {
+    "Identite fictive": {
+      "Nom": "Re&im",
+      "Prenom": "burroe"
+    },
+    "Adresse": {
+      "Numero": null,
+      "Rue": null,
+      "Ville": null
+    },
+    "Tel": null,
+    "Scenario": {
+      "Categorie": "edipi.catim",
+      "Objet": "cAmgmmkatiom.(x.)..daa..uamtiten..d.!l.ask'am..&.ownm.aa...cemmamdaao."
+    },
+    "Complement": {
+      "BE83": null
+    },
+    "Reference client eventuelle": null,
+    "Interlocuteur": {
+      "Banque": null,
+      "Nom": "Bomqua",
+      "Adresse": "Au...Bewng",
+      "Code postal": "4o",
+      "Ville": "Veuni.an"
+    },
+    "Redaction": {
+      "Type de stylo utilise": "bille",
+      "Temps passe a traiter le scenario": "2.?.... minutes."
+    },
+    "Contribution": {
+      "J'envoie mon courrier par voie postale a la date du": "2.lo?.(.a?",
+      "Mon courrier contient une page de": "garde de fax",
+      "Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+      "Jai envoye par courriel mon courrier numerise le": "23.loul.o.3",
+      "Marque et modele du scanner": "c.aRumake.s....sC33.&.",
+      "Format": [
+        "PNG",
+        "GIF",
+        "TIFF"
+      ],
+      "Resolution des images": "3..... dpi/ppp"
+    }
+  }
 }

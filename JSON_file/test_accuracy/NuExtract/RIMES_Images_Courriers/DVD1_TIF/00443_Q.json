@@ -1,33 +1,36 @@
 {
-  "Code d'envoi": "6VRzyc",
-  "Nom": "M.IC.H.E.",
-  "Prénom": "y.0",
-  "Adresse": "d.....h.amp.s.",
-  "Code Postal": "5T4 eo",
-  "Ville": "ke...n....e...ro..ck",
-  "Téléphone": "0339699y5",
-  "Catégorie Scénario": "cd.w..e....d...e..pan.e..",
-  "Objet Scénario": "o.k....oha...ge..men......on..pe.r.d.neles.",
-  "Complément Scénario": "na0y8",
-  "Référence client": "éventuelle",
-  "Interlocuteur": "e.sore.......m.pof.s",
-  "Adresse Interlocuteur": "e....bod..g.",
-  "Code Postal Interlocuteur": "262p",
-  "Ville Interlocuteur": "onl.mey..an",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier par voie postale",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "avant mon envoi postal, 'ai télécopié ma contribution",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "M.IC.H.E.",
+        "Prenom": "y.0",
+        "Adresse": null,
+        "Code postal": "5T4",
+        "Ville": "ke...n....e...ro..ck",
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": "e da.na........cd.w..e....d...e..pan.e..",
+        "5ans": "o.k....oha...ge..men......on..pe.r.d.neles.",
+        "Objet": "o.k....oha...ge..men......on..pe.r.d.neles.",
+        "Complement": "na0y8",
+        "Reference client eventuelle": null,
+        "Interlocuteur": "e.sore.......m.pof.s",
+        "Adresse Le.": "..e....bod..g.",
+        "Code postal": "262p",
+        "Ville": "..onl.mey..an",
+        "Redaction": {
+          "Type de stylo (noir) utilise": null,
+          "Temps passe a traiter le scenario": null
+        },
+        "Contribution": {
+          "Cocher les elements de_votre contribution pour le_scenario traite_": null,
+          "Marque et modele du scanner": null,
+          "Format": null,
+          "Resolution des images": ".3...... dpi/ppp",
+          "Ease": null
+        }
+      }
+    }
+  }
 }

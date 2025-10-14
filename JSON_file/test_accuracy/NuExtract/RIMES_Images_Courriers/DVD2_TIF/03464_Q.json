@@ -1,32 +1,37 @@
 {
-  "Code d'envoi": "Questionnaire",
-  "Nom": "Bo.T...",
-  "Prénom": "Za.kasu.a",
-  "Adresse": "o...suue...a..a...Fanlaun.",
-  "Code Postal": "[S746o]",
-  "Ville": "BO.0..S.B.A.C",
-  "Téléphone": "0388410829",
-  "Catégorie Scénario": "a...aaluon.....conaa.....Cammand..",
-  "Objet Scénario": "o.goman....avs...aasa...pamo...o......y..ouo...monss.",
-  "Complément Scénario": "aa....omd..tenan....e...dosno...op",
-  "Référence client": "PSEF2F8",
-  "Interlocuteur": "Banqu....&.hit....Gyonas",
-  "Adresse Interlocuteur": "drese ....pa......noal....aue",
-  "Code Postal Interlocuteur": "[O Z 64O]",
-  "Ville Interlocuteur": "S.T...Si.ma.",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier par voie postale a la date du ...0S...3..7",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le .Q.9.a3.03",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le .....&..0.3.0..",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": ".CA.N.o.N....Pi.x..A.......So.O."
+  "Code d'envoi": {
+    "Questionnaire": null,
+    "Identite fictive": {
+      "Nom": "Bo.T...",
+      "Prenom": "Za.kasu.a",
+      "Adresse": "o...suue...a..a...Fanlaun.",
+      "Code postal": "[S746o]",
+      "Ville": "BO.0..S.B.A.C",
+      "Tel": "0388410829"
+    },
+    "Scenario": {
+      "Categorie": "a...aaluon.....conaa.....Cammand..",
+      "Objet": "o.goman....avs...aasa...pamo...o......y..ouo...monss.",
+      "Complement": "aa....omd..tenan....e...dosno...op padwr",
+      "Reference client eventuelle": null,
+      "Interlocuteur": "Banqu....&.hit....Gyonas",
+      "Adresse": "pa......noal....aue",
+      "Code postal": "[O Z 64O]",
+      "Ville": "S.T...Si.ma."
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "bille",
+        "plume",
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": null
+    },
+    "Contribution": {
+      "Cocher les elements de votre contribution pour le scenario traite": [],
+      "Marque et modele du scanner": ".CA.N.o.N....Pi.x..A.......So.O.",
+      "Format": [],
+      "Resolution des images": null
+    }
+  }
 }

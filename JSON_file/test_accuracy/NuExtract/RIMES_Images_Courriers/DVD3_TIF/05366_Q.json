@@ -1,32 +1,40 @@
 {
-  "Code d'envoi": null,
-  "Nom": "MEun",
-  "Prénom": null,
-  "Adresse": "bi.........t.at",
-  "Code Postal": "O116o] ville...FA&E.k.N.EX",
-  "Ville": "FA&E.k.N.EX",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": "S.NA...As.su.amce.",
-  "Adresse Interlocuteur": "o................",
-  "Code Postal Interlocuteur": "L6o.to vill .RiBE.CouRT....RE.SLinCoUR.",
-  "Ville Interlocuteur": "RiBE.CouRT....RE.SLinCoUR.",
-  "Temps passé": "0... minutes",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé.par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "EPSan...Shus...DX.38.So."
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "MEun",
+        "Prenom": null,
+        "Adresse": "bi.........t.at",
+        "Code postal": "O116o",
+        "Ville": "FA&E.k.N.EX",
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": "eamc",
+        "Reponl": {
+          "Objet": "et...omams",
+          "An": "aaiatm",
+          "Complement": "desuen..m....pas.h..pux......co.mte",
+          "Reference client eventuelle": "ERQVOt",
+          "Interlocuteur": "S.NA...As.su.amce",
+          "Adresse": "o................",
+          "Code": "L6o.to",
+          "Ville": "RiBE.CouRT....RE.SLinCoUR",
+          "Redaction": null,
+          "Temps passe a traiter le scenario": "0... minutes",
+          "Contribution": {
+            "Cocher les elements de votre contribution pour le scenario_traite": [
+              "6€",
+              "page de garde de fax",
+              "+1€ télécopié",
+              "+1€ courriel"
+            ]
+          }
+        }
+      },
+      "Marque et modele du scanner": "EPSan...Shus...DX.38.So",
+      "Format": "PNG GIF TIFF",
+      "Resolution des images": "........ dpi/ppp"
+    }
+  }
 }

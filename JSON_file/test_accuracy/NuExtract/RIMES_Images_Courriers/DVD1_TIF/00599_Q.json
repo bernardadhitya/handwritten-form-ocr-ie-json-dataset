@@ -1,32 +1,34 @@
 {
-  "Code d'envoi": "JBKBGW",
-  "Nom": "Ca..a.llks",
-  "Prénom": null,
-  "Adresse": "Rewe 0332743221",
-  "Code Postal": "0332743221",
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": "D.man....",
-  "Objet Scénario": "mam......cism...s...ma...demse...adu..facus...w....tap..we..",
-  "Complément Scénario": "a.......w....",
-  "Référence client": null,
-  "Interlocuteur": "l.agesi",
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "3] Vill ..TRuso...en...",
-  "Ville Interlocuteur": null,
-  "Temps passé": "20... minutes",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "L"
+  "Code d'envoi": {
+    "Identite fictive": {
+      "Nom": "Ca..a.llks",
+      "Prenom": null,
+      "Adresse": "Rewe",
+      "Code postal": "0332743221",
+      "Ville": null
+    },
+    "Tel": null,
+    "Scenario": {
+      "Categorie": "D.man....",
+      "Objet": "mam......cism...s...ma...demse...adu.",
+      "MA": "facus...w....tap..we..",
+      "duee": null,
+      "Complement _Le_.": "a.......w....",
+      "Reference client eventuelle": "Interlocuteur....l.agesi.",
+      "Adresse": "TRuso...en...",
+      "Ville": "en...a."
+    },
+    "Redaction": {
+      "de stylo (noir) utilise": [
+        "bille plume",
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": "20... minutes."
+    },
+    "Contribution": {
+      "Cocher les elements de votre contribution pour le scenario traite": [],
+      "Marque et modele du scanner": "L",
+      "Resolution des images": "ddd/!dp"
+    }
+  }
 }

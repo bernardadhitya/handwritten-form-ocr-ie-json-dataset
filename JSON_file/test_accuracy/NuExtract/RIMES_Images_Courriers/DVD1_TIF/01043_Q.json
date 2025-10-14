@@ -1,33 +1,47 @@
 {
-  "Code d'envoi": "HARDEB",
-  "Nom": "Ao&",
-  "Prénom": "Ma.",
-  "Adresse": "1.9,.u&.BowseI",
-  "Code Postal": "541110",
-  "Ville": "aaamq&u",
-  "Téléphone": "0364526+3",
-  "Catégorie Scénario": "adi.callian.....cona...Cammao",
-  "Objet Scénario": "Drmuu.tian...des.asamnts...swn.ude..Rlam.Epame..loqen.ant.",
-  "Complément Scénario": "oti...ndenan....at.deueru..i.ep.mp",
-  "Référence client": "éventuelle",
-  "Interlocuteur": "Banqu..Sact...ual.",
-  "Adresse Interlocuteur": "1..ue..Amd...Gsmom",
-  "Code Postal Interlocuteur": "5t5p",
-  "Ville Interlocuteur": "Canusy",
-  "Temps passé": "3.0",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le .2mushu.20of..",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le ...?.mabu.20.06...",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": ".30.0...",
-  "Format GIF": ".30.0...",
-  "Format TIFF": ".30.0...",
-  "Marque et modèle scanner": ".Kanuca...molta...CksQ."
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "Ao",
+        "Prenom": "Ma",
+        "Adresse": "1.9,.u&.BowseI",
+        "Code postal": "541110",
+        "Ville": "aaamq&u",
+        "Tel": "0364526+3"
+      },
+      "Scenario": {
+        "Categorie": "adi.callian.....cona...",
+        "Objet": "Drmuu.tian...des.asamnts...swn.ude..Rlam.Epame..loqen.ant.",
+        "Awude -Plan_": "Rlam.Epame..loqen.ant.",
+        "Souy habeada.CQ.a_L.S.excs_tenSuel_": "nasa...o.a..s.csas...memnsue",
+        "Reference client eventuelle": null,
+        "Interlocuteur": "Banqu..Sact...ual.",
+        "Adresse _ 2": "1..ue..Amd...Gsmom",
+        "Code postal": "5t5p",
+        "Ville": "Canusy"
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille",
+          "plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": "3.0..... minutes"
+      },
+      "Contribution": {
+        "Cocher les_ elements de_votre contribution pour le_scenario traite": [
+          "Mon courrier contient une page de garde de fax.",
+          "Avant mon envoi postal, j'ai télécopié ma contribution le .2mushu.20of..",
+          "J'ai envoyé par courriel mon courrier numérisé le ...?.mabu.20.06..."
+        ],
+        "Marque et modele du scanner": ".Kanuca...molta...CksQ.",
+        "Format": [
+          "PNG",
+          "GIF",
+          "TIFF"
+        ],
+        "Resolution des images": ".30.0.... dpi/ppp"
+      }
+    }
+  }
 }

@@ -1,33 +1,48 @@
 {
-  "Code d'envoi": "WEUNW]U",
-  "Nom": "HEmON.",
-  "Prénom": "Tocyn&............anrgsrite.",
-  "Adresse": null,
-  "Code Postal": "RAF.",
-  "Ville": null,
-  "Téléphone": "0328246181",
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": "Rebowe",
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "36",
-  "Ville Interlocuteur": "Ai.sS.",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "HEmON.",
+        "Prenom": "Tocyn&............anrgsrite.",
+        "Code postal": "RAF.",
+        "Ville": "Ai.sS.",
+        "Tel": "0328246181"
+      },
+      "Scenario": {
+        "Categorie": "ent.a......omm.as..d..",
+        "Commande": "comman.dkeo.",
+        "Objet": null,
+        "Clou Aeltee": null,
+        "Complement": "LkE5F84",
+        "Reference client eventuelle": null
+      },
+      "Interlocuteur": {
+        "Nom": "Rebowe",
+        "Adresse": "de...lo.....t.",
+        "Code postal": "S 3 6 o",
+        "Ville": "Ai.sS."
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille",
+          "plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "J'envoie mon courrier par voie postale a la date du": null,
+        "Mon courrier contient une page de fax": null,
+        "Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+        "J'ai envoye par courriel mon courrier numerise le": null,
+        "Marque et modele du scanner": "i..oH.....Af........?.?...C.",
+        "Format": [
+          "PNG",
+          "GIF",
+          "TIFF"
+        ],
+        "Resolution des images": "4Q0... dpi/ppp"
+      }
+    }
+  }
 }

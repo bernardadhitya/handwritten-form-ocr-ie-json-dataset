@@ -1,33 +1,37 @@
 {
-  "Code d'envoi": "POTQHX",
-  "Nom": "CAURON",
-  "Prénom": null,
-  "Adresse": "u.....G.......a.auu'.....a...",
-  "Code Postal": "L6 332o",
-  "Ville": "SAU.R.i.ER",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": "A... o.",
-  "Code Postal Interlocuteur": "L6 332o",
-  "Ville Interlocuteur": "SAU.R.i.ER",
-  "Temps passé": "3.. minutes",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier par voie postale",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax",
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "L"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "CAURON",
+        "Prenom": null,
+        "Adresse": "u.....G.......a.auu'.....a...",
+        "Code postal": "L6 332o",
+        "Ville": "SAU.R.i.ER",
+        "Tel": null
+      },
+      "Categorie": null,
+      "Objet": null,
+      "Complement": null,
+      "Reference client eventuelle": null,
+      "Interlocuteur": null,
+      "Adresse": "A... o..",
+      "Code postal": null,
+      "Ville": null,
+      "Redaction": {
+        "Type de stylo (noir) utilise": [],
+        "Temps passe a traiter le scenario": "3.. minutes."
+      },
+      "Contribution": {
+        "Elements de contribution": {
+          "Jenvoie mon courrier par voie postale a la date du 26. Ae.Q6_": null,
+          "Mon courrier contient une page de garde de fax": null,
+          "Avant mon envoi postal, j'ai telecopie ma contribution le 26.49.06": null,
+          "Jai envoye par courriel mon courrier numerise le 26.49.06": null
+        },
+        "Marque et modele du scanner": null,
+        "Format": [],
+        "Resolution des images": null
+      }
+    }
+  }
 }

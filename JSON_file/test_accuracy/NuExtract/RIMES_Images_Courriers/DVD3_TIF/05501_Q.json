@@ -1,33 +1,31 @@
 {
-  "Code d'envoi": null,
-  "Nom": null,
-  "Prénom": "Bettyt",
-  "Adresse": "A....a..Tuin..R's..ans...A........am....",
-  "Code Postal": "OnO9rol",
-  "Ville": "ATA.C.ciQ.",
-  "Téléphone": "046870482",
-  "Catégorie Scénario": "Demamde...d...m..sumatu",
-  "Objet Scénario": "enseignomam...s...le...haaie...d.accua.",
-  "Complément Scénario": "auowm..",
-  "Référence client": null,
-  "Interlocuteur": "A....Po..",
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "7Ln!2Q",
-  "Ville Interlocuteur": "O..o.LLEs",
-  "Temps passé": "1Q....",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "J'envoie mon courrier par voie postale á la date du .3/S.1.209.7.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le..3/a5..200.7.",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "Ohu....mo.d&le....9..&oC."
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "6RES01..E",
+        "Prenom": "Bettyt",
+        "Adresse": "A....a..Tuin..R's..ans...A........am....",
+        "Code postal": "OnO9rol",
+        "Ville": "ATA.C.ciQ.",
+        "Tel": "046870482"
+      },
+      "Scenario": {
+        "Categorie": "Demamde...d...m..sumatu",
+        "AL__omation": "enseignomam...s...le...haaie...d.accua.",
+        "Adresse": "d.u...pwbuis.",
+        "Code postal": "[7Ln!2Q]",
+        "Ville": "O..o.LLEs",
+        "Redaction": {
+          "Type de stylo (noir) utilise": "bille",
+          "Temps passe a traiter le scenario": "...1Q.... minutes"
+        }
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le scenario_traite": "1 (6€) J'envoie mon courrier par voie postale á la date du .3/S.1.209.7.",
+        "Marque et modele du scanner": "Ohu....mo.d&le....9..&oC.",
+        "Format": "PNG",
+        "Resolution des images": "3.... dpi/ppp"
+      }
+    }
+  }
 }

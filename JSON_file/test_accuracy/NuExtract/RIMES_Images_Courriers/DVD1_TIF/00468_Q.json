@@ -1,32 +1,32 @@
 {
-  "Code d'envoi": "RPEBYR",
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "6t 37O] vill .W......f.E...",
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": "Bang..o.....G.",
-  "Adresse Interlocuteur": "S....E.o.RGES....A.IA.GEAU.X",
-  "Code Postal Interlocuteur": "8 6 1 3O]Ville S....E.o.RGES....A.IA.GEAU.X",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé l",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "P.Sc..2?55"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "LO.V.S.T.A.Lo T",
+        "Prenom": null,
+        "Adresse": null,
+        "Code postal": "6t 37O] vill .W......f.E...",
+        "Ville": null,
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie Demans": null,
+        "Objet": null,
+        "Complement": null,
+        "Reference client eventuelle": null,
+        "Interlocuteur": "Bang..o.....G.",
+        "SexEh_GLah": null,
+        "Adresse": null,
+        "Code postal": "[8 6 1 3O]Ville S....E.o.RGES....A.IA.GEAU.X",
+        "Ville": null,
+        "Redaction": {
+          "Type de stylo (noir) utilise": null,
+          "Temps passe a traiter le scenario": null
+        },
+        "Contribution": {
+          "Cocher les elements de votre contribution pour le_scenario traite": null
+        }
+      }
+    }
+  }
 }

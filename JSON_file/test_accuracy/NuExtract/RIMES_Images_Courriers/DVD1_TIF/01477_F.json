@@ -1,15 +1,18 @@
 {
-  "document": "Demande de document",
-  "scenario": null,
-  "writer": null,
-  "sender_person": null,
-  "sender_company": null,
-  "sender_tel": null,
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": null,
-  "date": null,
-  "place": "Senray",
-  "box": null
+  "Organization": "CALAIS THEATRE",
+  "Address": {
+    "Street": "37.rue Gustave Cuvelier",
+    "City": "CALAIS",
+    "Postal Code": "62107",
+    "CEDEX": "CALAIS CEDEX"
+  },
+  "Contact": {
+    "Email": "ale.calais-theatre@anpe.fr",
+    "Phone": "03.21.46.57.0003.21.46.57.19",
+    "Fax": null
+  },
+  "Correspondence": {
+    "Recipient": "HEsSiNA BriqiHE",
+    "Subject": "Demande de documentation concernant les contraintes d'assurance"
+  }
 }

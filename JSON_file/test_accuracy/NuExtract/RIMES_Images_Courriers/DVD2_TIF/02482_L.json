@@ -1,15 +1,9 @@
 {
-  "document": "ETIENNE Simono",
-  "scenario": "demande d ouverture d",
-  "writer": "Nadame, Nanotewt",
-  "sender_person": "ETIENNE Simono",
-  "sender_company": null,
-  "sender_tel": "04 53o8o:18",
-  "sender_fax": null,
-  "receiver_person": "Nadame, Nanotewt",
-  "receiver_company": null,
-  "subject": "demande d ouverture d",
-  "date": "9oo7",
-  "place": "Cros de Cagnos,e 4 fevner",
-  "box": "Le Caslel du Cros"
+  "Name": "ETIENNE Simono",
+  "Location": {
+    "City": "Cros de Cagnos",
+    "Postal Code": "9oo7",
+    "Country": "France"
+  },
+  "Request": "demande d ouverture d. comphe"
 }

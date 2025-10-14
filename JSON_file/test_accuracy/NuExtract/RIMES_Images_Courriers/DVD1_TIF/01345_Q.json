@@ -1,32 +1,50 @@
 {
-  "Code d'envoi": "MhxICw",
-  "Nom": "Bu..A..O.",
-  "Prénom": "$&QhR",
-  "Adresse": "m.oas......o...a.e",
-  "Code Postal": "88o1o",
-  "Ville": "ai.n.tRu",
-  "Téléphone": "033244858",
-  "Catégorie Scénario": "D.p.sute...k...auemen",
-  "Objet Scénario": "m......omia..g.a..",
-  "Complément Scénario": null,
-  "Référence client": "G.DE",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "S S 4Sn4]",
-  "Ville Interlocuteur": "Pa.h.e...EoReX",
-  "Temps passé": "J.S....",
-  "Stylo bille": "noir",
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "Bu..A..O.",
+        "Prenom": "$&QhR",
+        "Adresse": "m.oas......o...a.e",
+        "Code postal": "88o1o",
+        "Ville": "ai.n.tRu",
+        "Tel": "033244858"
+      },
+      "Scenario": {
+        "Categorie": "D.p.sute...k...auemen",
+        "Objet": "m......omia..g.a..",
+        "Complement": "xHLB3g",
+        "Reference client eventuelle": "..G.DE",
+        "Interlocuteur": {
+          "Adresse": null,
+          "Code postal": "S S 4Sn4",
+          "Ville": "Pa.h.e...EoReX"
+        },
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille",
+            "plume (feutre)"
+          ],
+          "Temps passe a traiter le scenario": "J.S.... minutes"
+        },
+        "Contribution": {
+          "Cocher les elements de votre contribution pour le_scenario_traite": [
+            "J'envoie mon courrier par voie postale",
+            "Mon courrier contient une page de garde de fax",
+            "Avant mon envoi postal, j'ai télécopié ma contribution",
+            "J'ai envoyé par courriel mon courrier numérisé"
+          ],
+          "Marque et modele du scanner": null,
+          "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+          ],
+          "Resolution des images": [
+            "dpi",
+            "ppp"
+          ]
+        }
+      }
+    }
+  }
 }

@@ -1,32 +1,32 @@
 {
   "Code d'envoi": "ZHuNxG",
-  "Nom": "C.L.E..M.E.M..C.ON..",
-  "Prénom": "C..am.a",
-  "Adresse": "S.A.U....N.E.S",
-  "Code Postal": "546 5o",
-  "Ville": "S.A.U....N.E.S",
-  "Téléphone": "O370suu945",
-  "Catégorie Scénario": "..R.e.c.Po.mak.io.m",
-  "Objet Scénario": "..ows...ow..ai.em...owa.",
-  "Complément Scénario": "..aune....mhounses",
-  "Référence client": "S.pa..E...phi.",
-  "Interlocuteur": "..S.pa..E...phi.",
-  "Adresse Interlocuteur": "o...",
-  "Code Postal Interlocuteur": "3 3do",
-  "Ville Interlocuteur": "a........E.",
-  "Temps passé": "3.Q....",
-  "Stylo bille": "bille",
-  "Stylo plume": "plume",
-  "Stylo feutre": "feutre",
-  "Contribution postale": "J'envoie mon courrier par voie postale á la date du J..4.././.ca6.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Questionnaire": {
+    "Uln": null,
+    "Nom": null,
+    "Prenom": null,
+    "Adresse": null,
+    "Code postal": "546 5o",
+    "Ville": "S.A.U....N.E.S",
+    "Tel": null
+  },
+  "Scenario": {
+    "Categorie": "R.e.c.Po.mak.io.m",
+    "Objet": "ow..ai.em...owa.",
+    "NacL>": null,
+    "Complement": null,
+    "Reference client eventuelle": null,
+    "Interlocuteur": "S.pa..E...phi.",
+    "Adresse": "o...",
+    "Code postal": "3 3do",
+    "Ville": "a........E"
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [],
+    "Temps a traiter le scenario": "3.Q.... minutes."
+  },
+  "Contribution": {
+    "Elements de contribution": [],
+    "Marque et modele du scanner": null,
+    "Resolution des images": null
+  }
 }

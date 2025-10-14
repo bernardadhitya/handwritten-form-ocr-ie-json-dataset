@@ -1,32 +1,33 @@
 {
   "Code d'envoi": "PZAYUF",
-  "Nom": "WERNELT",
-  "Prénom": "Préenom",
-  "Adresse": "I LG8nS6d ville Hem&had",
-  "Code Postal": "036563g2",
-  "Ville": "Hem&had",
-  "Téléphone": null,
-  "Catégorie Scénario": "Dousaud..d..mfe.atio.m",
-  "Objet Scénario": "emaol...do...desumomtotien...Gsnenout...l..ce.nalss..d.auomce..ss",
-  "Complément Scénario": "@w...",
-  "Référence client": "éventuelle",
-  "Interlocuteur": "Acmw.ouCs.",
-  "Adresse Interlocuteur": "oe...Oesc....",
-  "Code Postal Interlocuteur": "33SKn6] Vill ..M.N.8EG.UR",
-  "Ville Interlocuteur": "M.N.8EG.UR",
-  "Temps passé": "0...0... minutes",
-  "Stylo bille": "noir",
-  "Stylo plume": "plume",
-  "Stylo feutre": "feutre",
-  "Contribution postale": "J'envoie mon courrier par voie postale a la date du ...S...&..",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Identite fictive": {
+    "Nom": "WERNELT",
+    "Prenom": "Préenom",
+    "Adresse": "I LG8nS6d ville....Hem&had",
+    "Code postal": "036563g2",
+    "Ville": "Hem&had",
+    "Tel": null
+  },
+  "Scenario": {
+    "Categorie": "Dousaud..d..mfe.atio.m",
+    "Objet": "emaol...do...desumomtotien...Gsnenout...l..ce.nalss..d.auomce..ss",
+    "VA A": null,
+    "QAoLCa__Afa": null,
+    "Reference client eventuelle": "Interlocuteur .......Acmw.ouCs.",
+    "Adresse": "oe...Oesc....",
+    "Code postal": "33SKn6] Vill ..M.N.8EG.UR",
+    "Ville": "M.N.8EG.UR"
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [],
+    "Temps passe a traiter le scenario": null,
+    "Contribution": {
+      "(6e) J'envoie mon courrier par voie postale a la date du _S.": null,
+      "(+2e) Mon courrier contient une page de de fax": null,
+      "(+1e) Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+      "(+1€) Jai envoye par courriel mon courrier numerise le": null
+    },
+    "Marque et modele du scanner": null,
+    "Resolution des images": null
+  }
 }

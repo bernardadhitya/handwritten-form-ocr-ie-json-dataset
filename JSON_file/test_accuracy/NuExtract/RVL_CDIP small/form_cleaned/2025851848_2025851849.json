@@ -1,12 +1,33 @@
 {
-  "proclamation": "PROCLAMATION OF THE COMMISSIONER OF PUBLIC HEALTH FOR THE STATE CITYTOWN OF",
-  "call_for": "ALL VICTIMS OF CIGARETTE AND TOBACCO INDUCED DISEASE TO INITIATE PERSONAL INJURY/PRODUCT LIABILITY LAWSUITS AGAINST THE TOBACCO INDUSTRY, FOR THE PROTECTION OF ALL CITIZENS AGAINST THE MOST LETHAL EPIDEMIC OF DISEASE, DEATH AND DISABILITY IN OUR NATION'S HISTORY.",
-  "whereas_statements": [
-    "epidemic cigarette and tobacco-induced disease causes 350,000 preventable American deaths a year and is the number one cause of premature death in the State (City, Town) of and the Nation",
-    "cigarettes cause heart attacks and heart failure, emphysema and chronic obstructive lung disease, bronchitis, pneumonia and upper respiratory infections as well as addiction, fetal injury, burn injury, allergic reactions, stroke, peripheral vascular disease, and cancers of the mouth, lips, tongue, larynx, lungs, pancreas, esophagus, bladder and other organs, resulting in the deaths of 350,000 Americans each year, leaving millions of others sick and disabled",
-    "prevention is the best and the least expensive medicine, and lethal epidemic agents such as tobacco require strong measures to protect the general population",
-    "proper legislative remedies are thwarted by the immense lobbying power of the tobacco industry and the self-censorship of much of the news media due to economic pressure from tobacco advertisers",
-    "established, legal, efficacious and appropriate means to curb the manufacture and sale of unreasonably dangerous and toxic products",
-    "cigarettes and tobacco products are addictive and contain substances which in normal use are highly dangerous and cause epidemic disease, death, and disability and therefore may be characterized as unreasonably unsafe and irresponsibly marketed products"
-  ]
+  "PROCLAMATION": {
+    "COMMISSIONER": null,
+    "STATE": null,
+    "CALL": "All victims of cigarette and tobacco-induced disease to initiate personal injury/product liability lawsuits against the tobacco industry, for the protection of all citizens against the most lethal epidemic of disease, death and disability in our nation's history.",
+    "INITIATE": "All victims of cigarette and tobacco-induced disease to initiate personal injury/product liability lawsuits against the tobacco industry, for the protection of all citizens against the most lethal epidemic of disease, death and disability in our nation's history.",
+    "FOR": "All citizens against the most lethal epidemic of disease, death and disability in our nation's history.",
+    "WHEREAS": {
+      "epidemic cigarette and tobacco-induced disease causes 350,000 preventable American deaths each year": {
+        "heart attacks": 350000,
+        "heart failure": 350000,
+        "emphysema": 350000,
+        "chronic obstructive lung disease": 350000,
+        "bronchitis": 350000,
+        "pneumonia": 350000,
+        "upper respiratory infections": 350000,
+        "addiction": 350000,
+        "injury": 350000,
+        "burn injury": 350000,
+        "allergic reactions": 350000,
+        "stroke": 350000,
+        "peripheral vascular disease": 350000,
+        "cancers of the mouth, lips, tongue, larynx, lungs, pancreas, esophagus, bladder, and others": 350000
+      },
+      "leaving millions of others sick and disabled": 35000000,
+      "prevention is the best and least expensive medicine against lethal epidemic agents like tobacco": 35000000,
+      "current educational and regulatory measures have failed to curb, contain, and eliminate tobacco and cigarette-related diseases": 35000000,
+      "proper legislative remedies are thwarted by the immense lobby power of the tobacco industry and self-censorship of the news media": 35000000,
+      "product liability/personal injury lawsuits are established legal means to curb the manufacture and sale of unreasonably dangerous and toxic products": 35000000,
+      "cigarettes and tobacco products are addictive, contain substances that are highly dangerous, and may be characterized as unreasonably unsafe and irresponsibly marketed products": 35000000
+    }
+  }
 }

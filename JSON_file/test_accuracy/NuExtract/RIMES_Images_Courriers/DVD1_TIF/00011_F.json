@@ -1,15 +1,15 @@
 {
-  "document": "RÉPUBLIQUE FRANCAISE",
-  "scenario": "Diffusion restreinte",
-  "writer": "Huie Gendon",
-  "sender_person": "Délégué général",
-  "sender_company": "Délégation générale pour l'armement",
-  "sender_tel": "03 5& 36 28 74",
-  "sender_fax": null,
-  "receiver_person": "Madame, Honew",
-  "receiver_company": "Armées",
-  "subject": "Fax :",
-  "date": null,
-  "place": null,
-  "box": null
+  "Ministère": "MINISTERE DE LA DEFENSE",
+  "Date": null,
+  "Destinataire": null,
+  "Nombre de pages": 3,
+  "Expéditeur": {
+    "Tél.": "03 5& 36 28 74",
+    "Adresse électronique": null
+  },
+  "Délégation générale pour l'armement": {
+    "Adresse": "Délégation générale pour l'armement - 00457 Armées",
+    "Téléphone": "01 45 52 73 10",
+    "Télécopie": "01 45 52 72 72"
+  }
 }

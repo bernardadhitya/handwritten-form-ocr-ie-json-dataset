@@ -1,33 +1,34 @@
 {
-  "Code d'envoi": "FOPSPC",
-  "Nom": "G.U.E.RA.RD",
-  "Prénom": "t.orves",
-  "Adresse": "we...o..",
-  "Code Postal": "L6&OOO",
-  "Ville": "Co&man",
-  "Téléphone": "035558783",
-  "Catégorie Scénario": null,
-  "Objet Scénario": "Naun.elles..saonlomsees..kleponmig",
-  "Complément Scénario": "s..lememaa",
-  "Référence client": "Qe2Rcg6",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": "..ux......te",
-  "Code Postal Interlocuteur": "[Z244a]",
-  "Ville Interlocuteur": "lau",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier par voie postale",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "CAnO....o..a..Scon......3..."
+  "Code d'envoi": {
+    "Code postal": "L6&OOO",
+    "Ville": "Co&man"
+  },
+  "Questionnaire": {
+    "Nom": "G.U.E.RA.RD",
+    "Prenom": "t.orves",
+    "Adresse": "we...o..",
+    "Code postal": "L6&OOO",
+    "Ville": "Co&man",
+    "Tel": "035558783"
+  },
+  "Scenario": {
+    "Categorie": null,
+    "Objet": "Naun.elles..saonlomsees..kleponmig",
+    "Complement": "s..lememaa",
+    "Reference client eventuelle": null,
+    "Interlocuteur": null,
+    "Adresse": "..ux......te",
+    "Code postal": "[Z244a]",
+    "Ville": "lau"
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [],
+    "Temps passe a traiter le scenario": null
+  },
+  "Contribution": {
+    "Elements de contribution": [],
+    "Marque et modele du scanner": "CAnO....o..a..Scon......3...",
+    "Format": [],
+    "Resolution des images": "...3QQ... dpi/ppp"
+  }
 }

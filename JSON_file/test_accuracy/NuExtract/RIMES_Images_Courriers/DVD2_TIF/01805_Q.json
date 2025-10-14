@@ -1,32 +1,44 @@
 {
-  "Code d'envoi": "SOZYFR",
-  "Nom": "ROGE",
-  "Prénom": "MART.JNE.",
-  "Adresse": "Rue Pincipsle",
-  "Code Postal": "E19&IO",
-  "Ville": "Ho.MBQURG...BUDANGE",
-  "Téléphone": "03582957",
-  "Catégorie Scénario": "ali.i.cai.an...d...o.ra..ommande.",
-  "Objet Scénario": "Augmenhatia(x..de..goanitas....D...ierge...cammandes",
-  "Complément Scénario": "zHxZQ&g",
-  "Référence client": "ebaule..",
-  "Interlocuteur": "u...u....Gnera....",
-  "Adresse Interlocuteur": "u...u....Gnera....",
-  "Code Postal Interlocuteur": "Lon&41o",
-  "Ville Interlocuteur": "kEMON.T.",
-  "Temps passé": "O.. minutes.",
-  "Stylo bille": "bille",
-  "Stylo plume": "plume",
-  "Stylo feutre": "feutre",
-  "Contribution postale": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "L"
+  "Code d'envoi": {
+    "Questionnaire": null,
+    "Identite fictive": {
+      "Nom": "ROGE",
+      "Prenom": "MART.JNE.",
+      "Adresse": "Rue Pincipsle",
+      "Code postal": "E19&IO",
+      "Ville": "Ho.MBQURG...BUDANGE",
+      "Tel": "03582957"
+    },
+    "Scenario": {
+      "Categorie": "ali.i.cai.an...d...o.ra..ommande.",
+      "cle_cenkal_Llemaacle": null,
+      "Objet": "Augmenhatia(x..de..goanitas....D...ierge...cammandes",
+      "Complement": "zHxZQ&g",
+      "Interlocuteur": "ebaule..",
+      "Adresse": "u...u....Gnera....",
+      "Code postal": "Lon&41o",
+      "Ville": "kEMON.T.",
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille",
+          "plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le_scenario traite": [],
+        "Marque et modele du scanner": "L",
+        "Format": [
+          "PNG",
+          "GIF",
+          "TIFF"
+        ],
+        "Resolution des images": [
+          "dpi",
+          "ppp"
+        ]
+      }
+    }
+  }
 }

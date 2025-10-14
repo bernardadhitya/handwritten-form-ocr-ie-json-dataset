@@ -1,33 +1,43 @@
 {
-  "Code d'envoi": "JxNxHZ",
-  "Nom": "E.LO.CH.",
-  "Prénom": "0A",
-  "Adresse": "S t33O vill...e...T.A.MGE..QRANDe",
-  "Code Postal": "S t33O",
-  "Ville": "T.A.MGE..QRANDe",
-  "Téléphone": "03560373",
-  "Catégorie Scénario": "ms.ccation...d..omtrat..o.mman.d.",
-  "Objet Scénario": "demud......menuais.atn......wye........eem....",
-  "Complément Scénario": "auCu.r..",
-  "Référence client": "éventuelle",
-  "Interlocuteur": "T..u....o...iy..s",
-  "Adresse Interlocuteur": "Ru...de......ois",
-  "Code Postal Interlocuteur": "M. 4 9,OI",
-  "Ville Interlocuteur": "e.A.U..V.A.!S...uu....A.T.H.A",
-  "Temps passé": "...... minutes",
-  "Stylo bille": "bille",
-  "Stylo plume": "plume",
-  "Stylo feutre": "feutre",
-  "Contribution postale": "J'envoie mon courrier par voie postale á la date du ..2...2..0..6",
-  "Date d'envoi postal": "..2...2..0..6",
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le .2.0...2...Q....",
-  "Date d'envoi par fax": ".2.0...2...Q....",
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le ..2Q...l.....6.",
-  "Date d'envoi par courriel": "..2Q...l.....6",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "SoN..?efe.ta...."
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "E.LO.CH.",
+        "Prenom": "0A",
+        "Adresse": "S t33O vill...e...T.A.MGE..QRANDe",
+        "Code postal": "S t33O",
+        "Ville": "e.A.U..V.A.!S...uu....A.T.H.A",
+        "Tel": "03560373"
+      },
+      "Scenario": {
+        "Categorie": "d..omtrat..o.mman.d.",
+        "Objet": "menuais.atn......wye..",
+        "De_Aeuemul": "menuais.atn......wye..",
+        "Reference client eventuelle": null,
+        "Interlocuteur": "T..u....o...iy..s",
+        "Adresse": "Ru...de......ois",
+        "Code postal": "M. 4 9,OI",
+        "Ville": "e.A.U..V.A!"
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille",
+          "plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Elements de contribution": {
+          "J'envoie mon courrier par voie postale a la date du 21-12..0.6": null,
+          "Mon courrier contient une page de garde de fax": null,
+          "Avant mon envoi postal, j'ai telecopie ma contribution le .20-(2_0.6": null,
+          "J'ai envoye par courriel mon courrier numerise le .20-1Z_Q.6": null
+        },
+        "Marque et modele du scanner": "SoN..?efe.ta..",
+        "Format": [],
+        "Resolution des images": null
+      }
+    }
+  }
 }

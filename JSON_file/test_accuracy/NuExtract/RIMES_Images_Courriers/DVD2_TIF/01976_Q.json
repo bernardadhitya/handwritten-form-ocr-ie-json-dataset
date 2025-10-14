@@ -1,33 +1,44 @@
 {
-  "Code d'envoi": "Questionnaire",
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "5P5O",
-  "Ville": "GRuND.V.i.uER",
-  "Téléphone": "0360986554",
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": "DRwvN53",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "65O",
-  "Ville Interlocuteur": "MO.N.T.Ma.",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le Janne..o.",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": null
+      },
+      "Adresse": null,
+      "Code postal": "5P5O",
+      "Ville": "GRuND.V.i.uER",
+      "Tel": "0360986554"
+    },
+    "Scenario": {
+      "Categorie": null,
+      "LAntat_Camn": null,
+      "Objet": null,
+      "Cinquanb": null,
+      "Complement": null,
+      "Reference client eventuelle": "DRwvN53",
+      "Adresse": null,
+      "Stuasbeug": null
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "bille",
+        "plume",
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": null
+    },
+    "Contribution": {
+      "Elements de contribution": [],
+      "Marque et modele du scanner": [
+        "CANo....Camcan....?5...."
+      ],
+      "Format": [
+        "PNG",
+        "GIF",
+        "TIFF"
+      ],
+      "Resolution des images": null
+    }
+  }
 }

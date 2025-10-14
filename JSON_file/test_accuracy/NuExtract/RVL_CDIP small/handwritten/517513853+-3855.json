@@ -1,17 +1,10 @@
 {
-  "name": "Bea Sir",
-  "address": {
-    "street": "54 RIMBERL lt. N.E rib",
-    "city": "Reno",
-    "state": null,
-    "postalCode": "517513853",
-    "additionalInfo": null
-  },
-  "contact": {
-    "phone": null,
-    "alternate": null,
-    "id": null
-  },
-  "location": null,
-  "homeOffice": "H/O 32Y"
+  "structured_information": {
+    "location": null,
+    "coordinates": null,
+    "date": null,
+    "address": "54 RIMBERL lt. N.E rib, 3 50/6 37 Reno Wuye",
+    "phone_number": "517513853",
+    "additional_info": "H/O 32Y"
+  }
 }

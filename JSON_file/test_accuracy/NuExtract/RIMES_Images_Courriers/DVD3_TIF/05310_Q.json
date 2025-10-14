@@ -1,33 +1,47 @@
 {
-  "Code d'envoi": "say5ac",
-  "Nom": "RoPARs",
-  "Prénom": null,
-  "Adresse": "u...n.p..",
-  "Code Postal": "032s9s02",
-  "Ville": "F.Bwrn..HAurt...CE...Hag",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": "Mn...u.....gum",
-  "Adresse Interlocuteur": "sa.....n",
-  "Code Postal Interlocuteur": "[9tY0oO]vill.....QENi.S.",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": "say5ac",
+    "Identite fictive": {
+      "Nom": "RoPARs",
+      "Prenom": "ea...aude"
+    },
+    "Adresse": "u...n.p..",
+    "Code": "68S2o",
+    "Ville": "F",
+    "Tel": null,
+    "Scenario": {
+      "Categorie": "a....... mato",
+      "G1r": "oet...e.nau.....pr.uia........o.me...",
+      "Nomige": "amyps",
+      "Complement": "cmle....m........a.....o....",
+      "Reference client eventuelle": "Référence client éventuelle",
+      "Interlocuteur": "Mn...u.....gum",
+      "Adresse": "sa.....n",
+      "Code postal": "[9tY0oO]vill.....QENi.S.",
+      "Ville": "QENi.S."
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "bille",
+        "plume",
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": null
+    },
+    "Contribution": {
+      "Cocher les elements devotre contribution pour le scenario_traite": {
+        "(6€) J'envoie mon courrier par voie postale a la date du J_Huil_loa": null,
+        "(+2€) Mon courrier contient une page de garde de fax": null,
+        "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+        "(+16) Jai envoye par courriel mon courrier numerise le 2AudL_~ox": null
+      },
+      "Marque et modele du scanner": null,
+      "Format": [
+        "PNG",
+        "GIF",
+        "TIFF"
+      ],
+      "Resolution des images": "&Q.... dpi/ppp"
+    }
+  }
 }

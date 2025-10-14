@@ -1,14 +1,14 @@
 {
-  "document": "Fait a Gun8heH",
-  "scenario": "accident",
-  "writer": null,
-  "sender_person": null,
-  "sender_company": null,
-  "sender_tel": null,
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
-  "date": null,
-  "place": null,
-  "box": null
+  "name": null,
+  "address": {
+    "street": "Rue du 1e Latailkn da CRoc",
+    "city": "Tebsheim",
+    "postal_code": "6832"
+  },
+  "phone": "03 2643 68",
+  "email": null,
+  "insurance": {
+    "company": "BA1F Assuran3",
+    "policy_number": null
+  }
 }

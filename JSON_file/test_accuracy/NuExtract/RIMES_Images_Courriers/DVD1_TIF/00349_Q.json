@@ -1,32 +1,44 @@
 {
-  "Code d'envoi": "xvpo5t",
-  "Nom": "P.AT.",
-  "Prénom": "i.s",
-  "Adresse": null,
-  "Code Postal": "26306s",
-  "Ville": "Gonsow",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": "aw...a..hau.....awa...abuw..",
-  "Complément Scénario": null,
-  "Référence client": "B.aus.s",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "[Q9nl7O] vill...PLsw",
-  "Ville Interlocuteur": "PLsw",
-  "Temps passé": "Q.. minutes",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "L"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "P.AT.",
+        "Prenom": "i.s",
+        "Adresse": null,
+        "Code": null,
+        "Ville": "Gonsow",
+        "Tel": null
+      }
+    },
+    "Categorie": null,
+    "Objet": null,
+    "Complement": null,
+    "Reference client eventuelle": "B.aus.s",
+    "Adresse": null,
+    "Code": "26306s",
+    "Ville": "PLsw",
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "bille",
+        "plume",
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": null
+    },
+    "Contribution": {
+      "Cocher les elements de votre contribution pour le_scenario traite": []
+    },
+    "Marque et modele du scanner": {
+      "Format": [
+        "PNG",
+        "GIF",
+        "TIFF"
+      ],
+      "Resolution des images": null
+    },
+    "Qu&postal": {
+      "Quueaticce": null,
+      "Lemps": null
+    }
+  }
 }

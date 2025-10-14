@@ -1,33 +1,35 @@
 {
-  "Code d'envoi": "vNDAQA",
-  "Nom": "ERA.",
-  "Prénom": "s Nj.ssP",
-  "Adresse": "w...prinua",
-  "Code Postal": "66'3o",
-  "Ville": "CQ.a&2",
-  "Téléphone": null,
-  "Catégorie Scénario": "a.ifi.cahi........on.k..a.....Com.mande",
-  "Objet Scénario": null,
-  "Complément Scénario": "nuTFz64",
-  "Référence client": "éventuelle",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": ".43.... minutes",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier par voie postale",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "avant mon envoi postal, 'ai télécopié ma contribution le ...22lo2.",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "ERA.",
+        "Prenom": "s Nj.ssP",
+        "Adresse": null,
+        "Code postal": "66'3o",
+        "Ville": "CQ.a&2",
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": "Com.mande",
+        "Objet": "Complément",
+        "Vous souhaitez": null,
+        "Complement": "nuTFz64",
+        "Reference client eventuelle": null,
+        "Interlocuteur": null,
+        "Adresse": "w...prinua",
+        "Code postal": "66'3o",
+        "Ville": "CQ.a&2"
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": null,
+        "Temps passe a traiter le scenario": ".43.... minutes",
+        "Contribution": {
+          "Cocher les_elements_de_votre contribution pour le scenario traite": null,
+          "Marque et modele du scanner": null,
+          "Format": null,
+          "Resolution des images": null
+        }
+      }
+    }
+  }
 }

@@ -1,33 +1,46 @@
 {
-  "Code d'envoi": "OUKCF",
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "6t26o",
-  "Ville": "H..c.hat..Ra.m",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": "D.F.",
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "6t26o",
-  "Ville Interlocuteur": "H..c.hat..Ra.m",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "X (+2€) Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "X (+2€) Mon courrier contient une page de garde de fax.",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "X (+1e) J'ai envoyé par courriel mon courrier numérisé le ...?..3./.?.oo....",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "Nasku.mche.c...Sc.33"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "E.n.A.N.",
+        "Prenom": "E.",
+        "Adresse": "a.m....doa..asaiea..",
+        "Code postal": "Sn Bo vill ..A.s...aus...oxe..",
+        "Ville": "A.s...aus...oxe..",
+        "Tel": null
+      }
+    },
+    "Scenario": {
+      "Categorie": "leo.i.a..ho......om........am..",
+      "Objet": "mi....esne...as..ais..m..",
+      "Complement": "omm.e.",
+      "Interlocuteur": "D.F.",
+      "Adresse": "[6t26o] ville...H..c.hat..Ra.m",
+      "Code": "60022",
+      "Ville": "H..c.hat..Ra.m",
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille",
+          "plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le_scenario traite": {
+          "(6e) J'envoie mon courrier par voie postale a la date du": null,
+          "(+2e) Mon courrier contient une page de": "garde de fax",
+          "(+1€) Avant mon envoi postal, jai telecopie ma contribution le": "4../03./.2.co.1",
+          "(+1€) Jai envoye par courriel mon courrier numerise le": null,
+          "Marque et modele du scanner": "Nasku.mche.c...Sc.33",
+          "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+          ],
+          "Resolution des images": "3..... dpi/ppp"
+        }
+      }
+    }
+  }
 }

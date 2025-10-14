@@ -1,33 +1,46 @@
 {
-  "Code d'envoi": "PyGHRH",
-  "Nom": "E.V.A.",
-  "Prénom": "awre",
-  "Adresse": "68230",
-  "Code Postal": "Ville",
-  "Ville": "..T.U.R.CK.HE....M",
-  "Téléphone": null,
-  "Catégorie Scénario": "aa.at.....omaa...",
-  "Objet Scénario": "Aumamatem....C...deo...guamti.t...e...austes commamee",
-  "Complément Scénario": "exAcP3",
-  "Référence client": "...su..s",
-  "Interlocuteur": "..Au....Bown.",
-  "Adresse Interlocuteur": "Code postal [862&aVville....O..yRE",
-  "Code Postal Interlocuteur": "Rédaction",
-  "Ville Interlocuteur": "Au....Bown.",
-  "Temps passé": "5.... minutes",
-  "Stylo bille": "bille",
-  "Stylo plume": "plume",
-  "Stylo feutre": "feutre",
-  "Contribution postale": "J'envoie mon courier par voie postale a la date du ......A.uul....&aa?...",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le .",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le ...5...Auu...&oo.?.",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "....H...."
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "E.V.A.",
+        "Prenom": "awre.."
+      },
+      "Adresse": {
+        "Rue": null,
+        "Code postal": "68230",
+        "Ville": "..T.U.R.CK.HE....M"
+      },
+      "Tel": null
+    },
+    "Scenario": {
+      "Categorie": "aa.at.....omaa...",
+      "Objet": "Aumamatem....C...deo...guamti.t...e...austes commamee",
+      "Cx2": "exAcP3",
+      "Complement": "commamee"
+    },
+    "Interlocuteur": {
+      "Les": "..Au....Bown.",
+      "Adresse": null,
+      "Code postal": "862&aVville....O..yRE",
+      "Ville": null
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "bille",
+        "plume",
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": "5.... minutes"
+    },
+    "Contribution": {
+      "Cocher les elements de votre contribution pour le scenario traite": {
+        "(6€) J'envoie mon courrier par voie postale a la date du": null,
+        "(+2€) Mon courrier contient une page de fax": null,
+        "(+1€) Jai envoye par courriel mon courrier numerise le": null
+      },
+      "Marque et modele du scanner": null,
+      "Format": [],
+      "Resolution des images": null
+    }
+  }
 }

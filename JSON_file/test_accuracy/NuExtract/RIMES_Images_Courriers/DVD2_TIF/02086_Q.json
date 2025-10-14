@@ -1,32 +1,47 @@
 {
   "Code d'envoi": null,
-  "Nom": "AN.DR.i.E.S",
-  "Prénom": "Rauymande",
-  "Adresse": null,
-  "Code Postal": "685nnO",
-  "Ville": "W.A.LT..EN.HEi.M",
-  "Téléphone": "0378285955",
-  "Catégorie Scénario": "adiicotom...d...omba...ommamdo",
-  "Objet Scénario": "ommamd....um..............onge..semco",
-  "Complément Scénario": "ous.um..",
-  "Référence client": null,
-  "Interlocuteur": "e.....Sui.",
-  "Adresse Interlocuteur": "GRA.NDE...RUE....Do..EU.X.",
-  "Code Postal Interlocuteur": "5Z 3OnC",
-  "Ville Interlocuteur": "DQM:EUX",
-  "Temps passé": "1.5.... minutes",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le .",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "LO"
+  "Questionnaire": {
+    "Identite fictive": {
+      "Nom": "AN.DR.i.E.S",
+      "Prenom": "Rauymande",
+      "Adresse": null,
+      "Code postal": "685nnO",
+      "Ville": "W.A.LT..EN.HEi.M",
+      "Tel": "0378285955"
+    },
+    "Scenario": {
+      "Categorie": "adiicotom...d...omba...ommamdo",
+      "Objet": "ommamd....um..............onge..semco",
+      "Ade": null,
+      "CD_AHAQeJ": null,
+      "ModuE": null,
+      "Complement": "ous.um.."
+    }
+  },
+  "Reference client eventuelle": null,
+  "Interlocuteur": {
+    "Nom": "e.....Sui.",
+    "Adresse": "GRA.NDE...RUE....Do..EU.X.",
+    "Code postal": "[5Z 3OnC]",
+    "Ville": "DQM:EUX"
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [],
+    "Temps passe & traiter le scenario": "1.5 minutes"
+  },
+  "Contribution": {
+    "Cocher les elements devotre contribution pour le_scenario traite": {
+      "(6€) J'envoie mon courrier par voie postale a la date du": null,
+      "(+28) Mon courrier contient une page de garde de fax": null,
+      "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+      "(+1€) J'ai envoye par courriel mon courrier numerise le": null
+    },
+    "Marque et modele du scanner": "LO",
+    "Format": [
+      "PNG",
+      "GIF",
+      "TIFF"
+    ],
+    "Resolution des imagee": "ddd/!dp"
+  }
 }

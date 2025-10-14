@@ -1,33 +1,38 @@
 {
-  "Code d'envoi": "Questionnaire RDVZNE",
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "49z938",
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": "ANR9",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "S4960",
-  "Ville Interlocuteur": "Merx",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "LO"
+  "Code d'envoi": {
+    "Nom": null,
+    "Prenom": null,
+    "Adresse": null,
+    "Code postal": null,
+    "Ville": null,
+    "Tel": null
+  },
+  "Scenario": {
+    "Categorie": null,
+    "Objet": null,
+    "Complement": null,
+    "Reference client eventuelle": null,
+    "Adresse": null,
+    "Code postal": "S4960",
+    "Ville": "Merx",
+    "Redaction de stylo (noir) utilise": [
+      "bille",
+      "plume",
+      "feutre"
+    ],
+    "Temps passe a traiter le scenario": null,
+    "Contribution": {
+      "Jenvoie mon courrier par voie postale a Ia date du": null,
+      "Mon courrier contient une page de garde de fax": null,
+      "Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+      "Jai envoye par courriel mon courrier numerise le": null,
+      "Marque et modele du scanner": "anacaoO.E5oanan",
+      "Format": [
+        "PNG",
+        "GIF",
+        "TIFF"
+      ],
+      "Resolution des images": "3O? dpi/ppp"
+    }
+  }
 }

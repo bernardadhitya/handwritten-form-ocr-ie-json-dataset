@@ -1,32 +1,42 @@
 {
-  "Code d'envoi": "VkxsRR",
-  "Nom": "S.T.E.I.N.",
-  "Prénom": null,
-  "Adresse": ".....de........",
-  "Code Postal": "032523870",
-  "Ville": "BAR.7",
-  "Téléphone": null,
-  "Catégorie Scénario": "ad.caiem....otra....ommanda.",
-  "Objet Scénario": "s.w.....e.....e..e...w.",
-  "Complément Scénario": "ZkkaHgG",
-  "Référence client": "Référence client éventuelle",
-  "Interlocuteur": "Interocuteu ..ne.s.oe...le....myot",
-  "Adresse Interlocuteur": "Pllomse'u.",
-  "Code Postal Interlocuteur": "OO",
-  "Ville Interlocuteur": "C.DQ",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "S.T.E.I.N.",
+        "Prenom": null,
+        "Adresse": null,
+        "Code postal": "032523870",
+        "Ville": "BAR",
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": "ad.caiem",
+        "CEmmaade": {
+          "Objet_Lemaadg": "s.w.....e.....e..e...w.",
+          "Complement": "ZkkaHgG",
+          "Reference client eventuelle": null,
+          "Interlocuteur": "Deman.d...d...menssais.a.ti.on......i.mp.t.",
+          "Adresse": null,
+          "Code postal": "OO",
+          "Ville": "C.DQ"
+        },
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+          ],
+          "Temps passe a traiter le scenario": null
+        },
+        "Contribution": {
+          "Cocher les_elements de_votre contribution pour le_scenario traite": [
+            "(6€) J'envoie mon courrier par voie postale á la date du .",
+            "(+2€) Mon courrier contient une page de garde de fax.",
+            "(+1€) Avant mon envoi postal, j'ai télécopié ma contribution le",
+            "(+1€) J'ai envoyé par courriel mon courrier numérisé le"
+          ]
+        }
+      }
+    }
+  }
 }

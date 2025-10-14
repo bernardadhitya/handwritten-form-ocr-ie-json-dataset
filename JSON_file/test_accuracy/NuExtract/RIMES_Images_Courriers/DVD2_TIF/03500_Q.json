@@ -1,32 +1,32 @@
 {
-  "Code d'envoi": "GOvBNG",
-  "Nom": "ARRERE",
-  "Prénom": "Cec",
-  "Adresse": null,
-  "Code Postal": "[6rt+ lt1o]",
-  "Ville": "Xinaersh.:eum",
-  "Téléphone": "0335&44497",
-  "Catégorie Scénario": "wueru....d...compta.",
-  "Objet Scénario": "ea...ahano....yws.abennos.",
-  "Complément Scénario": "ks.aue..dauanage...d..tamp..n....fou...io...lei.su...",
-  "Référence client": "éventuelle",
-  "Interlocuteur": "Qu.eblol.en.....Le.min",
-  "Adresse Interlocuteur": "os.g..",
-  "Code Postal Interlocuteur": "7t tqO]",
-  "Ville Interlocuteur": "AU.T.HQN.EAEaN",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier par voie postale",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "L"
+  "Code d'envoi": {
+    "Questionnaire": null
+  },
+  "Identite fictive": {
+    "Nom": "ARRERE",
+    "Prenom": "Cec",
+    "Adresse": null,
+    "Code postal": "[6rt+ lt1o]",
+    "Ville": "Xinaersh.:eum",
+    "Tel": "0335&44497"
+  },
+  "Scenario": {
+    "Categorie": "wueru....d...compta.",
+    "Objet": "ea...ahano....yws.abennos.",
+    "Complement": "ks.aue..dauanage...d..tamp..n....fou...io...lei.su...",
+    "Reference client eventuelle": "Qu.eblol.en.....Le.min",
+    "Adresse": "os.g..",
+    "Code postal": "7t tqO]",
+    "Ville": "AU.T.HQN.EAEaN"
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [],
+    "Temps passe a traiter le scenario": null
+  },
+  "Contribution": {
+    "Cocher les elements de votre contribution pour le_scenario traite": [],
+    "Marque et modele du scanner": null,
+    "Format": [],
+    "Resolution des images": null
+  }
 }

@@ -1,33 +1,41 @@
 {
-  "Code d'envoi": "LAGNTE",
-  "Nom": "E.O.S.T.A.GH.E.",
-  "Prénom": "ETIENN...",
-  "Adresse": "UE....A.........",
-  "Code Postal": "33L9 O",
-  "Ville": "M.QN.GAU.Z.Y",
-  "Téléphone": "0338771089",
-  "Catégorie Scénario": null,
-  "Objet Scénario": "ug.mestato...)..des..uom.ti le...d....co...yiesges..commandes.",
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": "L.a...R.ebau.e",
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "33L9 O",
-  "Ville Interlocuteur": "M.QN.GAU.Z.Y",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "H.P....Scam.&t....3oo"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "E.O.S.T.A.GH.E.",
+        "Prenom": "ETIENN...",
+        "Adresse": "UE....A.........",
+        "Code postal": "9#WOY73ol!A 0`0z`0'bl Iesod opo3",
+        "Ville": "0338771089",
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": "odi i.aa..d...omta.....commamde",
+        "Objet": "ug.mestato...)..des..uom.ti le...d....co...yiesges..commandes.",
+        "Complement": "aucon..",
+        "Reference client eventuelle": "0267",
+        "Interlocuteur": "L.a...R.ebau.e",
+        "Adresse": null,
+        "Code postal": "33L9 O",
+        "Ville": "M.QN.GAU.Z.Y",
+        "Redaction de stylo (noir) utilise": "bille plume feutre",
+        "Temps passe a traiter le scenario": null,
+        "Contribution": {
+          "Cocher les elements_de_votre contribution pour le scenario traite": [
+            "I (6€)",
+            "Mon courrier contient une page de garde de fax.",
+            "Avant mon envoi postal, 'ai télécopié ma contribution le....o.9/0...",
+            "J'ai envoyé par courriel mon courrier numérisé le.......0.9.206."
+          ],
+          "Marque et modele du scanner": "H.P....Scam.&t....3oo",
+          "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+          ],
+          "Resolution des images": "3Q0.... dpi/ppp"
+        }
+      }
+    }
+  }
 }

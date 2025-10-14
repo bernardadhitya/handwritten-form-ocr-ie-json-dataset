@@ -1,33 +1,52 @@
 {
-  "Code d'envoi": "TESSRB",
-  "Nom": "Ma.gal",
-  "Prénom": null,
-  "Adresse": "19..nu&...Bauva",
-  "Code Postal": "5q4 n! rC]",
-  "Ville": "Voaamqp&",
-  "Téléphone": "03645263",
-  "Catégorie Scénario": "Chamgnnt.....onnea..esammel",
-  "Objet Scénario": "auve...coad.onnee...oe piamqu",
-  "Complément Scénario": "aux...man.gg",
-  "Référence client": "éventuelle",
-  "Interlocuteur": "Bamq...ehk...yonna",
-  "Adresse Interlocuteur": "..&..a....aulve",
-  "Code Postal Interlocuteur": "[t+63t0] Vill ..Gaifantaume",
-  "Ville Interlocuteur": "Gaifantaume",
-  "Temps passé": "3.... minutes",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "J'envoie mon courrier par voie postale a la date du .30.actab..26.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, 'ai télécopié ma contribution le .30.catabne.200...",
-  "Date d'envoi par fax": "30.catabne.200...",
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le .30c.tona.200.6",
-  "Date d'envoi par courriel": "30c.tona.200.6",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "Koica...umoQ...4.a."
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "Ma.gal",
+        "Prenom": null,
+        "Adresse": "19..nu&..Bauva",
+        "Code postal": "5q4 n! rC] ville..Voaamqp&",
+        "Ville": "Voaamqp&",
+        "Tel": "03645263"
+      },
+      "Scenario": {
+        "Categorie": "Chamgnnt.....onnea..esammel",
+        "ChangnL_de_dene_Aesonozll": null,
+        "Objet": "auve...coad.onnee...oe piamqu",
+        "LQadoueg": null,
+        "Lde pionques": null,
+        "Complement": "aux...man.gg",
+        "Voe.dewon": null,
+        "Reference client eventuelle": null,
+        "Interlocuteur": "Bamq...ehk...yonna",
+        "Reak": null,
+        "Adresse": "u&..&..a....aulve",
+        "Code postal": "[t+63t0] Vill ..Gaifantaume",
+        "Ville": "Gaifantaume"
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille",
+          "plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": "3.... minutes"
+      },
+      "Contribution": {
+        "Cocher les elements_de_votre contribution pour le_scenario traite": [
+          "J'envoie mon courrier par voie postale",
+          "Mon courrier contient une page de garde de fax",
+          "Avant mon envoi postal, 'ai télécopié ma contribution",
+          "J'ai envoyé par courriel mon courrier numérisé"
+        ]
+      },
+      "Marque et modele du scanner": "Koica...umoQ...4.a.",
+      "Format": [
+        "PNG",
+        "GIF",
+        "TIFF"
+      ],
+      "Resolution des images": "3. Q.... dpi/ppp"
+    }
+  }
 }

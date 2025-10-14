@@ -1,33 +1,42 @@
 {
-  "Code d'envoi": "cR2QB",
-  "Nom": "Ed",
-  "Prénom": "se",
-  "Adresse": "EReamumem",
-  "Code Postal": "8&+46",
-  "Ville": "EReamumem",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": "clmc",
-  "Complément Scénario": "amw",
-  "Référence client": "amyn...osaet...gkm",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": ".Camam... ma...M.."
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "Ed",
+        "Prenom": "se........an"
+      },
+      "Adresse": "EReamumem",
+      "Code postal": "8&+46no",
+      "Ville": "EReamumem",
+      "Tel": null
+    },
+    "Scenario": {
+      "Categorie": "oam....nsw",
+      "Objet": "clmc",
+      "Complement": "a.ke...oan",
+      "Reference client eventuelle": "amyn...osaet...gkm",
+      "Interlocuteur": {
+        "Diel": null,
+        "Code postal": "L2Sn&+2s6]",
+        "Ville": null
+      },
+      "Type de stylo (noir) utilise": [],
+      "Temps passe a traiter le scenario": null,
+      "Contribution": {
+        "Jenvoie mon courrier par voie postale a la date du A8.LALaec": null,
+        "Mon courrier contient une page de garde de fax": null,
+        "Avant mon envoi postal, j'ai telecopie ma contribution le 48}44uk": null,
+        "Jai envoye par courriel mon courrier numerise le A544/a.6._": null
+      },
+      "Marque et modele du scanner": [
+        "Camam... ma...M.."
+      ],
+      "Format": [
+        "PNG",
+        "GIF",
+        "TIFF"
+      ],
+      "Resolution des images": null
+    }
+  }
 }

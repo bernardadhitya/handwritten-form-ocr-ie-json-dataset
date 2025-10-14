@@ -1,32 +1,38 @@
 {
-  "Code d'envoi": "WHNWG",
-  "Nom": "Ch.ampa.am",
-  "Prénom": "Prénom....&phum",
-  "Adresse": "..ds..",
-  "Code Postal": "035102592",
-  "Ville": "Sn4+S0l ville.",
-  "Téléphone": null,
-  "Catégorie Scénario": "..Demamd....mfa..m.atiom..",
-  "Objet Scénario": "..Demam.d...de....ec.a....su....ma...d.omoaa..",
-  "Complément Scénario": "..compl.men...o.....te.....sa.t.sate.......c.",
-  "Référence client": "B..am.gu....a.t...aena.",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": "..POuRG.",
-  "Code Postal Interlocuteur": "6ovil...S...O.ue...d....e.",
-  "Ville Interlocuteur": null,
-  "Temps passé": "S.... minutes.",
-  "Stylo bille": "bille",
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "X (6€) J'envoie mon courrier par voie postale á la date du ....S..J&.&oQ.6...",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le ..&...1..Q&...",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le...&Q...Q....O.6...",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "E.So......s..en&sa..a"
+  "Code d'envoi": null,
+  "Questionnaire": {
+    "Identite fictive": {
+      "Nom": "ENSH wON",
+      "Prenom": "Ch.ampa.am",
+      "Adresse": ".....ds..",
+      "Code postal": "035102592",
+      "Ville": "xngraw",
+      "Tel": null
+    },
+    "Categorie": null,
+    "Objet": null,
+    "Complement": null,
+    "Reference client eventuelle": "B..am.gu....a.t...aena.",
+    "Interlocuteur": null,
+    "Adresse": "..POuRG.",
+    "Code postal": "6ovil...S...O.ue...d....e",
+    "Ville": null,
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "bille",
+        "plume",
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": "S.... minutes."
+    },
+    "Contribution": {
+      "IA (6e)": null,
+      "0(+2e)": "+2€",
+      "Er+1e": "+1€",
+      "+1€": null,
+      "Marque et modele du scanner": "E.So......s..en&sa..a",
+      "Format": [],
+      "Resolution des images": null
+    }
+  }
 }

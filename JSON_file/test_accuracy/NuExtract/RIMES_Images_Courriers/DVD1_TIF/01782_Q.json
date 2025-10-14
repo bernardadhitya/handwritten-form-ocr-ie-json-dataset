@@ -1,33 +1,39 @@
 {
-  "Code d'envoi": "46o ville ...W.!S$E.M.6o.y.R.6",
-  "Nom": "MA.N.Y.E.",
-  "Prénom": null,
-  "Adresse": "u...e...a..e.te.s.",
-  "Code Postal": "46o",
-  "Ville": "W.!S$E.M.6o.y.R.6",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": "Av.gme..a.on......es...va...e...d....verges...mmade..",
-  "Complément Scénario": "AuCv.n...",
-  "Référence client": "es........",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": "RA.CH.A..X.",
-  "Code Postal Interlocuteur": "RA.CH.A..X.",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "MA.N.Y.E.",
+        "Prenom": null,
+        "Adresse": null,
+        "Code postal": "46o",
+        "Ville": "W.!S$E.M.6o.y.R.6",
+        "Tel": "036051F005"
+      },
+      "Scenario": {
+        "Categorie": null,
+        "LCemmande": null,
+        "Complement": null,
+        "Reference client eventuelle": null
+      },
+      "Interlocuteur": {
+        "Les_": null,
+        "Adresse": "RA.CH.A..X.",
+        "Code postal": null,
+        "Ville": null
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": null,
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le scenario traite": null,
+        "(+2e) Mon courrier contient une page de garde de fax": null,
+        "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le 5jahviek_!oc}": null,
+        "(+1€) Jai envoye par courriel mon courrier numerise le": null,
+        "Marque et modele du scanner": null,
+        "Format": null,
+        "Resolution des images": null
+      }
+    }
+  }
 }

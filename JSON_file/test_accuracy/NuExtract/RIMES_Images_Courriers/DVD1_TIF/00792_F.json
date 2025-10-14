@@ -1,15 +1,14 @@
 {
-  "document": "TELECOPIE",
-  "scenario": "Modification de commande",
-  "writer": "Estelle FRANCOIS",
-  "sender_person": "Estelle FRANCOIS",
-  "sender_company": "La Redoute",
-  "sender_tel": "0304544986",
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": null,
-  "date": "20 Octobre 2006",
-  "place": "Le Bourg",
-  "box": "6 rue René Mouchotte"
+  "company": "La Redoute",
+  "contact": {
+    "name": "Estelle FRANCOIS",
+    "address": "6 rue René Mouchotte",
+    "city": "Le Bourg",
+    "phone": "0304544986",
+    "customer_number": "PJSJB80"
+  },
+  "subject": "Modification de commande",
+  "date_sent": "20 Octobre 2006",
+  "number_of_pages": 2,
+  "message": "Bonjour,\n\nVous trouverez ci-joint ma modification de commande\nMerci de bien vouloir la prendre en compte.\n\nCordialement,\n\nEstelle FRANCOIS"
 }

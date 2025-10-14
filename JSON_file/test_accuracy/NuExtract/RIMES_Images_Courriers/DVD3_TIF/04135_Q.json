@@ -1,32 +1,46 @@
 {
-  "Code d'envoi": "BFDUMR",
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": "K8 S 49 ville..B.Q.LL.w.LLER",
-  "Code Postal": "3s400",
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": "d.amu.co.c...hs.a.tah",
-  "Complément Scénario": null,
-  "Référence client": "BAA....Assuc.S.",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": "L.w..o...o.d...ou",
-  "Code Postal Interlocuteur": "LC6G&.Ovile ..O..EU...E...B.AS.",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "L"
+  "Code d'envoi": 3.4,
+  "Questionnaire": {
+    "Identite fictive": {
+      "Nom": null,
+      "Prenom": null,
+      "Adresse": "K8 S 49 ville..B.Q.LL.w.LLER",
+      "Code postal": "3s400",
+      "Ville": null,
+      "Tei": null
+    },
+    "Scenario": {
+      "Categorie": null,
+      "Objet": "d.amu.co.c...hs.a.tah",
+      "Complement": "ou...o....",
+      "Reference client eventuelle": "BAA....Assuc.S.",
+      "Interlocuteur": "L.w..o...o.d...ou",
+      "Adresse": "code postai LC6G&.Ovile ..O..EU...E...B.AS.",
+      "Code postal": null,
+      "Ville": null
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "bille",
+        "plume",
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": null
+    },
+    "Contribution": {
+      "Cocher les elements de votre contribution pour le_scenario_traite": {
+        "(6e) Jenvoie mon courrier par voie postale a la date du 2Al.s (2oo": null,
+        "(+2e) Mon courrier contient une page de garde de fax": null,
+        "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+        "(+1€) Jai envoye par courriel mon courrier numerise le": null
+      },
+      "Marque et modele du scanner": "L",
+      "Format": [
+        "PNG",
+        "GIF",
+        "TIFF"
+      ],
+      "Resolution des images": null
+    }
+  }
 }

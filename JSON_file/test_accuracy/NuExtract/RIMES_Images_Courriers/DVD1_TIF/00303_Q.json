@@ -1,33 +1,36 @@
 {
-  "Code d'envoi": "KTNkRE",
-  "Nom": "HERARD",
-  "Prénom": "Yammck",
-  "Adresse": "[&237oville....Cobaue",
-  "Code Postal": "0547?47865",
-  "Ville": "Cobaue",
-  "Téléphone": null,
-  "Catégorie Scénario": "Chang.emem......amee...pers.amm.e.es.",
-  "Objet Scénario": "o........s........",
-  "Complément Scénario": "ameal",
-  "Référence client": "HRPEH72",
-  "Interlocuteur": "A...",
-  "Adresse Interlocuteur": "[6266o] Vile...Bewxwy",
-  "Code Postal Interlocuteur": "6266o",
-  "Ville Interlocuteur": "Bewxwy",
-  "Temps passé": "...o... minutes.",
-  "Stylo bille": "l bille",
-  "Stylo plume": "plume",
-  "Stylo feutre": "feutre",
-  "Contribution postale": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi postal": "...25....9./2a..6",
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'a télécopié ma contribution le ..25...?..Za.6",
-  "Date d'envoi par fax": "...25...?..Za.6",
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "HERARD",
+        "Prenom": "Yammck",
+        "Adresse": null,
+        "Code postal": "0547?47865",
+        "Ville": "Cobaue",
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": "Chang.emem......amee...pers.amm.e.es.",
+        "Objet": "o........s.........",
+        "Sckuate_fax-eaE&": "ameal",
+        "Reference client eventuelle": null,
+        "Interlocuteur": "A...",
+        "Adresse": null,
+        "Code postal": "6266o",
+        "Ville": "Bewxwy",
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+          ],
+          "Temps passe a traiter le scenario": null
+        },
+        "Contribution": {
+          "Cocher les_elements de_votre contribution pour le_scenario traite": "(6) J'envoie mon courrier par voie postale á la date du ...25....9./2a..6.",
+          "Marque et modele du scanner": null
+        }
+      }
+    }
+  }
 }

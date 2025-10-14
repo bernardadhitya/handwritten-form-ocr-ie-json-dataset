@@ -1,32 +1,42 @@
 {
-  "Code d'envoi": "BGAAGY",
-  "Nom": "A",
-  "Prénom": "Coym",
-  "Adresse": "o.o.",
-  "Code Postal": "6 2 6",
-  "Ville": "o...",
-  "Téléphone": null,
-  "Catégorie Scénario": "ome",
-  "Objet Scénario": "emm...w.....am....",
-  "Complément Scénario": "bamca",
-  "Référence client": "yMezE60",
-  "Interlocuteur": "an..w...Gei...",
-  "Adresse Interlocuteur": "DANN.E.!ARl.E..",
-  "Code Postal Interlocuteur": "6 824",
-  "Ville Interlocuteur": "DANN.E.!ARl.E..",
-  "Temps passé": "5... minutes",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": null,
+    "Identite fictive": {
+      "Nom": "A Coym",
+      "Prenom": "Coym",
+      "Adresse": "o.o.",
+      "Code postal": "6 2 6",
+      "Ville": "o...",
+      "Tel": null
+    },
+    "Scenario": {
+      "Categorie": "ome",
+      "Objet": "amm w am",
+      "celgk": "bamca",
+      "Complement": "ucu",
+      "Interlocuteur": "an w Gei e",
+      "Adresse": "DANN.E.!ARl.E.",
+      "Code postal": "6 824",
+      "Ville": "DANN.E.!ARl.E.",
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille",
+          "plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": "...5... minutes."
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le_scenario traite": [
+          "(6e) J'envoie mon courrier par voie postale a la date du ..&..mam....7.",
+          "(+2€) Mon courrier contient une page de garde de fax.",
+          "(+1€) Avant mon envoi postal, j'ai télécopié ma contribution le",
+          "(+1€) J'ai envoyé par courriel mon courrier numérisé le"
+        ],
+        "Marque et modele du scanner": null,
+        "Format": [],
+        "Resolution des images": null
+      }
+    }
+  }
 }

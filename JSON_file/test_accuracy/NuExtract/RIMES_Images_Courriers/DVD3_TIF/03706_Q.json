@@ -1,32 +1,35 @@
 {
-  "Code d'envoi": "XDBETS",
-  "Nom": "F.RAnUC.ISC.O",
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "674 90",
-  "Ville": "fEDOL$HE",
-  "Téléphone": null,
-  "Catégorie Scénario": "aso.emem",
-  "Objet Scénario": "m.aun.e...caodomna...au..aas...Te..yoin.t",
-  "Complément Scénario": "chamo&mem.t....co....cmqwe",
-  "Référence client": null,
-  "Interlocuteur": "agaain",
-  "Adresse Interlocuteur": "yQMd....?..",
-  "Code Postal Interlocuteur": "Ovil",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "X (6€) J'envoie mon courrier par voie postale a la date du .....6....03......",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": "XDBETS",
+    "Identite fictive": {
+      "Nom": "F.RAnUC.ISC.O",
+      "Prenom": null,
+      "Adresse": null,
+      "Code postal": "674 90",
+      "Ville": "fEDOL$HE",
+      "Tel": null
+    },
+    "Scenario": {
+      "Categorie": "aso.emem",
+      "Objet": "m.aun.e...caodomna...au..aas...Te..yoin.t",
+      "Complement": "chamo&mem.t....co....cmqwe",
+      "Reference client eventuelle": null,
+      "Interlocuteur": "agaain",
+      "Adresse": "yQMd....?..",
+      "Code postal": "Ovil",
+      "Ville": null
+    },
+    "Redaction de stylo (noir) utilise": [],
+    "Temps passe a traiter le scenario": null,
+    "Contribution": {
+      "J'envoie mon courrier par voie postale a la date du": null,
+      "Mon courrier contient une page de garde de fax": null,
+      "Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+      "Jai envoye par courriel mon courrier numerise le": null
+    },
+    "Marque et modele du scanner": {
+      "Format": [],
+      "Resolution des images": null
+    }
+  }
 }

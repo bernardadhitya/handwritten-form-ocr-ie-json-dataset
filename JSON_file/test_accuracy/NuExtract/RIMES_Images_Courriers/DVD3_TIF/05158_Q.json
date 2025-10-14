@@ -1,33 +1,37 @@
 {
   "Code d'envoi": "XSBHMB",
-  "Nom": "WABGN.ER",
-  "Prénom": null,
-  "Adresse": "EOUA...N.O..",
-  "Code Postal": "lB8W3Ol",
-  "Ville": "A.LT.KRCM",
-  "Téléphone": "03990698",
-  "Catégorie Scénario": "lodi.caam...Camoa...",
-  "Objet Scénario": "Auqommfah.om..(x.2.).doe..owamo...a..CD..v.geo.commamb",
-  "Complément Scénario": "CwCum.",
-  "Référence client": "oo.3....us",
+  "Identite fictive": {
+    "Nom": "WABGN.ER",
+    "Prenom": null,
+    "Adresse": "EOUA...N.O..",
+    "Code postal": "lB8W3Ol",
+    "Ville": "A.LT.KRCM",
+    "Tel": "03990698"
+  },
+  "Categorie": "lodi.caam...Camoa...",
+  "Objet": "Auqommfah.om..(x.2.).doe..owamo...a..CD..v.geo.commamb",
+  "Complement": "CwCum.",
+  "Reference client éventuelle": "oo.3....us",
   "Interlocuteur": "D6 OOl",
-  "Adresse Interlocuteur": "..N..C",
-  "Code Postal Interlocuteur": "D6 OOl",
-  "Ville Interlocuteur": "..N..C",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "Cmo....c...."
+  "Adresse": "..N..C",
+  "Code postal": "D6 OOl",
+  "Ville": "..N..C",
+  "Redaction": {
+    "Type de stylo (noir) utilise": [
+      "bille",
+      "plume",
+      "feutre"
+    ],
+    "Temps passe a traiter le scenario": null
+  },
+  "Contribution": {
+    "Cocher les_elements_de_votre contribution pour le_scenario traite": [],
+    "Marque et modele du scanner": "Cmo....c.",
+    "Format": [
+      "PNG",
+      "GIF",
+      "TIFF"
+    ],
+    "Resolution des images": null
+  }
 }

@@ -1,32 +1,40 @@
 {
   "Code d'envoi": "WzxTmG",
-  "Nom": "S.E.P.H.A.N.",
-  "Prénom": "L.I.N.DA.",
-  "Adresse": "Q.UAR......CO.S......ANA....ES....GEN.ET.",
-  "Code Postal": "1710",
-  "Ville": "O32Oville....CA......A.",
-  "Téléphone": null,
-  "Catégorie Scénario": "Changement",
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": "PARDWO2",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": "Outseau",
-  "Code Postal Interlocuteur": "62230",
-  "Ville Interlocuteur": null,
-  "Temps passé": "40... minutes",
-  "Stylo bille": "bille",
-  "Stylo plume": "plume",
-  "Stylo feutre": "feutre",
-  "Contribution postale": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le 26..M_.",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le .2.50407",
-  "Résolution": null,
-  "Format PNG": "Zco.",
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "HP...PS.C...161.."
+  "Identite fictive": {
+    "Nom": "S.E.P.H.A.N.",
+    "Prenom": "L.I.N.DA.",
+    "Adresse": "Q.UAR......CO.S......ANA....ES....GEN.ET.",
+    "Code postal": "1710",
+    "Ville": "CA",
+    "Tel": null
+  },
+  "Scenario": {
+    "Categorie": "Changement",
+    "Objet_.ou": "mme...ynsonme.",
+    "Complement .Voue. de_": "change....d...as",
+    "Reference client eventuelle": "PARDWO2",
+    "Interlocuteur": "DeO.",
+    "Adresse": "Outseau",
+    "Code postal": "62230",
+    "Ville": null,
+    "Redaction": {
+      "Type de stylo": "bille plumefeutre",
+      "Utilise": [],
+      "Temps passe a traiter le scenario": "40... minutes"
+    },
+    "Contribution": {
+      "Jenvoie mon courrier par voie postale a la date du 23_0.0.3": null,
+      "Mon courrier contient une page de garde de fax": null,
+      "Avant mon envoi postal, j'ai telecopie ma contribution le 2L0_03": null,
+      "J'ai envoye par courriel mon courrier numerise le 2S_oa_03": null
+    },
+    "Marque et modele du scanner": "HP...PS.C...161.",
+    "Format": [
+      "PNG",
+      "GIF",
+      "TIFF"
+    ],
+    "Resolution des images": "Zco."
+  },
+  "Banqt": null
 }

@@ -1,33 +1,47 @@
 {
-  "Code d'envoi": "DEGVRY",
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "54&4",
-  "Ville": "V........SE",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": "B.ow.y",
-  "Code Postal Interlocuteur": "[o327]",
-  "Ville Interlocuteur": "B.V..s.S.E.",
-  "Temps passé": "5.... minutes",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "RE..N0v",
+        "Prenom": "eph..",
+        "Adresse": "w....Tou.",
+        "Code postal": "54&4",
+        "Ville": "V........SE",
+        "Tel": "2788"
+      },
+      "Scenario": {
+        "Categorie": "ema......fm.a.e",
+        "Anboxken": "mam......oumo.ta.ko...omcemam.....om.t....",
+        "Complement": "A.uwm",
+        "Reference client eventuelle": "76a7E",
+        "Interlocuteur": "V.A........w....w.",
+        "Adresse": "B.ow.y",
+        "Code postal": "[o327]",
+        "Ville": "B.V..s.S.E."
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille",
+          "plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": "5.... minutes"
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le scenario traite": {
+          "(6e) J'envoie mon courrier par voie postale a la date du 13Le2Z1": null,
+          "(+2e) Mon courrier contient une page de de fax": null,
+          "(+1e) Avant mon envoi postal, j'ai telecopie ma contribution le 13.L.q2.": null,
+          "(+1€) Jai envoye par courriel mon courrier numerise le": null
+        },
+        "Marque et modele du scanner": null,
+        "Format": [
+          "PNG",
+          "GIF",
+          "TIFF"
+        ],
+        "Resolution des images": null
+      }
+    }
+  }
 }

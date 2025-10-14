@@ -1,32 +1,45 @@
 {
-  "Code d'envoi": "LTa",
-  "Nom": "Reim",
-  "Prénom": "D.am.m",
-  "Adresse": "Rs...da...Acacaa.",
-  "Code Postal": "Ga 34o",
-  "Ville": "antakt",
-  "Téléphone": "035532",
-  "Catégorie Scénario": "Reamca",
-  "Objet Scénario": "Setmwmamda.imenmatien...du...mmmi...danmurn.",
-  "Complément Scénario": "BG73",
-  "Référence client": "Iterocutee",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": "3...Rout...catiemaa.",
-  "Code Postal Interlocuteur": "[o121512]",
-  "Ville Interlocuteur": "Raxiamfaas",
-  "Temps passé": "29.... minutes.",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "23.lol.3.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": "3oa.... dpi/ppp",
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "Camen.....1...."
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "Reim",
+        "Prenom": "D.am.m"
+      },
+      "Adresse": {
+        "Rue": "Rs...da...",
+        "Code": "Ga 34o",
+        "Ville": "antakt"
+      },
+      "Tel": "035532",
+      "Scenario": {
+        "Categorie": "Reamca",
+        "Objet": "Setmwmamda.imenmatien",
+        "Aana": "mmmi",
+        "Complement": "dans fget",
+        "Reference client eventuelle": "Iterocutee",
+        "Interlocuteur": "Seta",
+        "Adresse": "3...Rout...catiemaa",
+        "Code postal": "[o121512]",
+        "Ville": "Raxiamfaas",
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+          ],
+          "Temps passe a traiter le scenario": "29 minutes"
+        },
+        "Contribution": {
+          "Elements": [],
+          "Marque et modele du scanner": "Camen1",
+          "Format": [
+            "PNG",
+            "GIF",
+            "XTIFF"
+          ],
+          "Resolution des images": "300dpi"
+        }
+      }
+    }
+  }
 }

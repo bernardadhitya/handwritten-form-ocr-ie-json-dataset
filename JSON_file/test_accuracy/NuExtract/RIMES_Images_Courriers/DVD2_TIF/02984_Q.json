@@ -1,33 +1,35 @@
 {
-  "Code d'envoi": "L.E.R.O.Y.",
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "D 4 6 6 0",
-  "Ville": "C.H.A.M.P..T.ERC.i.E.R",
-  "Téléphone": "049009816",
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": "A....Asu.a..s.",
-  "Adresse Interlocuteur": "G.N.......GAU..",
-  "Code Postal Interlocuteur": "761ovil...UNERAY..",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "Lo"
+  "Code d'envoi": null,
+  "Identite fictive": {
+    "Nom": "L.E.R.O.Y.",
+    "Prenom": null,
+    "Adresse": null,
+    "Code postal": "D 4 6 6 0",
+    "Ville": "C.H.A.M.P..T.ERC.i.E.R",
+    "Tel": "049009816"
+  },
+  "Scenario": {
+    "Categorie": null,
+    "Objet": null,
+    "Complement": null,
+    "Reference client eventuelle": null,
+    "Interlocuteur": "A....Asu.a..s.",
+    "Adresse": "G.N.......GAU..",
+    "Code postal": "761ovil...UNERAY..",
+    "Ville": null
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [],
+    "Temps passe a traiter le scenario": null
+  },
+  "Contribution": {
+    "Cocher les elements de votre contribution pour le_scenario traite": [],
+    "Marque et modele du scanner": "Lo",
+    "Format": [
+      "PNG",
+      "GIF",
+      "TIFF"
+    ],
+    "Resolution des images": "ddd/!dp"
+  }
 }

@@ -1,33 +1,35 @@
 {
-  "Code d'envoi": null,
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": null,
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code denvoi": {
+    "Questionnaire": {
+      "K": null,
+      "Identité fictive": {
+        "Nom": null,
+        "Prénom": null,
+        "Adresse": null,
+        "Code postal": null,
+        "Ville": null,
+        "Tél": null
+      },
+      "Scénario": {
+        "Catégorie": null,
+        "Objet": null,
+        "Complément": null,
+        "Référence client éventuelle": null,
+        "Interlocuteur": null,
+        "Adresse": null,
+        "Code postal": null,
+        "Ville": null
+      },
+      "Rédaction": {
+        "Type de stylo (noir) utilisé": [],
+        "Temps passé à traiter le scénario": null
+      },
+      "Contribution": {
+        "Cocher_ les éléments de votre_contribution pour le scénario_traité": [],
+        "Marque et modèle du scanner": null,
+        "Format": [],
+        "Résolution des images": null
+      }
+    }
+  }
 }

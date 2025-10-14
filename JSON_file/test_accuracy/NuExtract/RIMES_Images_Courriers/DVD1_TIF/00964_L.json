@@ -1,14 +1,16 @@
 {
-  "document": "mme",
-  "scenario": "darneu cibarqoh",
-  "writer": "accc mmw hras enaB",
-  "sender_person": "dladame",
-  "sender_company": "Bionuilb",
-  "sender_tel": null,
-  "sender_fax": null,
-  "receiver_person": "dlxnscaursma Scnceres SaIufarims",
-  "receiver_company": null,
-  "date": "Nouembrc 2oo 6",
-  "place": "Rue ols L'eqlse",
-  "box": "Ref:RwWIL SS"
+  "address": {
+    "street": "Rue ols L'eqlse",
+    "number": null,
+    "city": "A Bionuilb",
+    "postal_code": null
+  },
+  "insurance": {
+    "company": "Asseolic",
+    "policy_number": "Ref:RwWIL SS"
+  },
+  "contact": {
+    "email": null,
+    "phone": null
+  }
 }

@@ -1,33 +1,35 @@
 {
-  "Code d'envoi": "H]B!sB",
-  "Nom": "CO.K.N.4L.",
-  "Prénom": "Sha",
-  "Adresse": null,
-  "Code Postal": null,
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": "wa...it...a....vah...ama...a.onae.",
-  "Complément Scénario": "w..a..aam...u..aud..d.a..sa",
-  "Référence client": "wyzyA4g",
-  "Interlocuteur": "B.AA...A..w.",
-  "Adresse Interlocuteur": "as....Ge.....d....ut.",
-  "Code Postal Interlocuteur": "[Ou 2 9a] Ville ...a{av",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "E.P..N.S.Y..U....4..O.."
+  "Code d'envoi": {
+    "7": "H]B!sB",
+    "3": "B.AA...A..w..",
+    "8": "as....Ge.....d....ut."
+  },
+  "Identite fictive": {
+    "Nom": "CO.K.N.4L.",
+    "Prenom": "Sha",
+    "Adresse": {
+      "Code postal": null,
+      "Ville": null
+    },
+    "Tel": null
+  },
+  "Scenario": {
+    "Categorie": null,
+    "Objet": null,
+    "Complement": null,
+    "Reference client eventuelle": null,
+    "Adresse": null,
+    "Code postal": null,
+    "Ville": null
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [],
+    "Temps passe a traiter le scenario": null
+  },
+  "Contribution": {
+    "Cocher les elements de votre contribution pour le scenario traite": [],
+    "Marque et modele du scanner": "E.P..N.S.Y..U....4..O.",
+    "Format": [],
+    "Resolution des images": null
+  }
 }

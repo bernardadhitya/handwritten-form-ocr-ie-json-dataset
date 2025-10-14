@@ -1,33 +1,33 @@
 {
   "Code d'envoi": "IHZAPX",
-  "Nom": "S.",
-  "Prénom": "i..N.",
-  "Adresse": "u........A...A...",
-  "Code Postal": "L.ovil............E",
-  "Ville": null,
-  "Téléphone": "0361638142",
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "ddd/!dp"
+  "Questionnaire": null,
+  "Identite fictive": {
+    "Nom": "S.",
+    "Prenom": "i..N.",
+    "Adresse": "u........A...A...",
+    "Code postal": "L.ovil............E",
+    "Ville": null,
+    "Tel": "0361638142"
+  },
+  "Scenario": {
+    "Categorie": null,
+    "ComMAnde_": {
+      "Objet": null,
+      "Complement": null
+    },
+    "Reference client eventuelle": "9XPM",
+    "Interlocuteur": null,
+    "Adresse": null,
+    "Ville": null
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [],
+    "Temps a traiter le scenario": null
+  },
+  "Contribution": {
+    "Cocher les elements de votre contribution pour_le_scenario traite": [],
+    "Marque et modele du scanner": "ddd/!dp",
+    "Format": [],
+    "Resolution des images": []
+  }
 }

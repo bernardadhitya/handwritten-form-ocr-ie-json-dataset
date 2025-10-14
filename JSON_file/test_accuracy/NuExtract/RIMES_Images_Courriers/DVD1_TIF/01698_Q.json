@@ -1,33 +1,43 @@
 {
-  "Code d'envoi": "Syx>NH",
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": "M..Co.S.l.ts",
-  "Code Postal": null,
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "rénom",
+        "Prenom": null,
+        "Adresse": "M..Co.S.l.ts",
+        "Code postal": null,
+        "Ville": null,
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": "oehaihcs",
+        "Siaiske": "e'tie",
+        "La Lcxpansahalil": "Obiet.C.ves",
+        "Complement": "Voo.....aws...",
+        "Reference client eventuelle": "Ioe......",
+        "Adresse": "A.ssur.ance.",
+        "Code postal": null,
+        "Ville": null
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": null,
+        "Contribution": {
+          "Cocher les elements_de_votre contribution pour le scenario_traite": [
+            "(6€) J'envoie mon courrier par voie postale á la date du",
+            "(+2€) Mon courrier contient une page de garde de fax.",
+            "(+1€) Avant mon envoi postal, j'ai télécopié ma contribution le",
+            "(+1€) J'ai envoyé par courriel mon courrier numérisé le",
+            "Marque et modéle du scanner : L.",
+            "Format PNG GIF TIFF"
+          ],
+          "Marque et modele du scanner": null,
+          "Resolution des images": "ddd/!dp"
+        }
+      }
+    }
+  }
 }

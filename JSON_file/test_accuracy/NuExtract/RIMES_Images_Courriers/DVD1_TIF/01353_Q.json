@@ -1,33 +1,44 @@
 {
-  "Code d'envoi": "LLRRNN",
-  "Nom": "TOANINES",
-  "Prénom": "Sy Rs.",
-  "Adresse": "Gen....e...Gcw...",
-  "Code Postal": "[GO]",
-  "Ville": "Baixc",
-  "Téléphone": "0365686806",
-  "Catégorie Scénario": null,
-  "Objet Scénario": "anck....de....pocuoana...an..wtae...demiéne....",
-  "Complément Scénario": "Vau...ete...matiafatle)...cu...ascs.",
-  "Référence client": "QQHJTg0",
-  "Interlocuteur": "G.0.F",
-  "Adresse Interlocuteur": "a.enw...c...a...eoo.",
-  "Code Postal Interlocuteur": "[O3OOO]",
-  "Ville Interlocuteur": "Mcufixo",
-  "Temps passé": "O.... minutes.",
-  "Stylo bille": "bille",
-  "Stylo plume": "plume",
-  "Stylo feutre": "feutre",
-  "Contribution postale": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le .",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le .",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": "PNG",
-  "Format GIF": "GIF",
-  "Format TIFF": "TIFF",
-  "Marque et modèle scanner": "H.?...Sco..jet...y 4cac"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "TOANINES",
+        "Prenom": "Sy Rs.",
+        "Adresse": "?....ow....d...Gen....e...Gcw...",
+        "Code postal": "[GO]",
+        "Ville": "Baixc",
+        "Tel": "0365686806"
+      },
+      "Scenario": {
+        "Categorie": "emde......faa'en.",
+        "Objet": "em.anck....de....pocuoana...an..wtae...demiéne....",
+        "Tecb-nc": "QQHJTg0",
+        "Reference client eventuelle": "Interlocuteur ....G.0.F",
+        "Adresse": "a.enw...c...a...eoo.",
+        "Code postal": "[O3OOO]",
+        "Ville": "Mcufixo",
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille plumefeutre"
+          ],
+          "Temps passe a traiter le scenario": "O.... minutes."
+        },
+        "Contribution": {
+          "Cocher les elements de votre contribution pour le scenaro traite": {
+            "(6€) J'envoie mon courrier par voie postale a la date du 09/.1242806.": 0.91422,
+            "(+2€) Mon courrier contient une page de garde de fax": 0.91422,
+            "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le": 0.91422,
+            "(+1€) J'ai envoye par courriel mon courrier numerise le 091.2/2C56": 0.91422
+          },
+          "Marque et modele du scanner": "H.?...Sco..jet...y 4cac",
+          "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+          ],
+          "Resolution des images": "3c...."
+        }
+      }
+    }
+  }
 }

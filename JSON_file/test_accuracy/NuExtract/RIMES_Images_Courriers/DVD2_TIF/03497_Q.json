@@ -1,32 +1,39 @@
 {
-  "Code d'envoi": "PNHACZ",
-  "Nom": "Moniqu@",
-  "Prénom": "Moniqu@",
-  "Adresse": "mpasse...e...eupiers",
-  "Code Postal": "[9O&Q:O] vie Ban.vi.asus",
-  "Ville": "Ban",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": "demande..de..docmanatio..conceRnant..os",
-  "Complément Scénario": "en...lawa...un...enfan.",
-  "Référence client": "AlH[Hlk]5g.",
-  "Interlocuteur": "anu...ssoanceo.",
-  "Adresse Interlocuteur": "Rédaction",
-  "Code Postal Interlocuteur": "9LSQg] vile Saus4",
-  "Ville Interlocuteur": "Saus4",
-  "Temps passé": "lO... ninutes.",
-  "Stylo bille": "bille",
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier par voie postale",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "L"
+  "Code d'envoi": {
+    "Pl": null,
+    "Alc": null
+  },
+  "Questionnaire": {
+    "Jdlentite fictive": {
+      "Nom": "Moniqu@",
+      "Prenom": null,
+      "Adresse": "mpasse...e...eupiers",
+      "Code postal": "[9O&Q:O] vie Ban.vi.asus",
+      "Ville": null,
+      "Tel": null
+    },
+    "Scenario": {
+      "Categorie": null,
+      "Objet": "demande..de..docmanatio..conceRnant..os",
+      "Cclceb clloxurance": null,
+      "Complemert": null,
+      "dlava_sun": null,
+      "Jent": null,
+      "Hki5": null,
+      "Assurcncee": {
+        "Adresse": null,
+        "Code postal": null
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": null,
+        "Temps passe & traiter le scenaric": null,
+        "Conitribution": null
+      },
+      "Marque et rnodele du scanrer": {
+        "Format": null,
+        "GIF": null,
+        "Resullion des imegues": null
+      }
+    }
+  }
 }

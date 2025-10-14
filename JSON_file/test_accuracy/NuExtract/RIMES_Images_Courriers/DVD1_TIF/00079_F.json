@@ -1,15 +1,24 @@
 {
-    "document": "Fax",
-    "scenario": "Demande d'information",
-    "writer": "PIETTE Jean-philippe",
-    "sender_person": "PIETTE",
-    "sender_company": "¤{INT/Institut national des télécommunications}¤",
-    "sender_tel": "+33(0)3.97.03.44.85",
-    "sender_fax": "+33(0)1.60.76.43.25",
-    "receiver_person": "",
-    "receiver_company": "Trésorerie des impots",
-    "subject": "lettre de demande de rendez-vous Demande de rendez-vous avec un conseiller",
-    "date": "19/07/2006",
-    "place": "",
-    "box": ""
+  "Destinataire": {
+    "Nom": "PTTE",
+    "Service/Entreprise/Department/Compahy": null,
+    "Telecopieur/Fax n": null
+  },
+  "TelephonelTelephone": {
+    "TelephonelTelephone": "01607640 40"
+  },
+  "Date": "19/04/200",
+  "Reference/Reference": null,
+  "Copie(s)": null,
+  "Objet": null,
+  "Adresse": {
+    "Rue": "9 rue Charles Fourier",
+    "Ville": "Evry",
+    "Code postal": "91011"
+  },
+  "Telephone": "01607640 40",
+  "Telecopie": "0160 764325",
+  "Serveur WWW": "http://www.int-evry.fr",
+  "E-mail": "contact@int-evry.fr",
+  "Groupe des Ecoles des Telecommunications": null
 }

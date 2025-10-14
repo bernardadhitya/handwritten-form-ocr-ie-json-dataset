@@ -1,14 +1,26 @@
 {
-  "document": "2Uund uo ypq2 3punwwo7 op ?p)n osyn",
-  "scenario": null,
-  "writer": null,
-  "sender_person": null,
-  "sender_company": null,
-  "sender_tel": "03.67.9o.u5.08",
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
+  "name": null,
+  "address": {
+    "street": null,
+    "city": null,
+    "country": null
+  },
+  "phone": "03.67.90.08",
+  "email": null,
   "date": null,
-  "place": null,
-  "box": null
+  "message": null,
+  "signature": null,
+  "letter": {
+    "to": null,
+    "from": null,
+    "subject": null
+  },
+  "letterContent": {
+    "content": "Les 3 &uifs"
+  },
+  "command": {
+    "commande": "conmande eF conae",
+    "commandeDetails": "TaKuré>",
+    "commandeDetails2": null
+  }
 }

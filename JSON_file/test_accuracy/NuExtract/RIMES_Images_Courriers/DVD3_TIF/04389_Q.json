@@ -1,33 +1,44 @@
 {
-  "Code d'envoi": "WEKC",
-  "Nom": "A.n.S.awe.r.",
-  "Prénom": "h.COna.s...",
-  "Adresse": "a...",
-  "Code Postal": "L687",
-  "Ville": "SpeshbA.ch",
-  "Téléphone": "0352043025",
-  "Catégorie Scénario": "demanc",
-  "Objet Scénario": "d..m.a..n.d........c....o.o.",
-  "Complément Scénario": "s.........e..",
-  "Référence client": "CBA68",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "LS6ZQ",
-  "Ville Interlocuteur": "DazAy",
-  "Temps passé": ".2.... minutes.",
-  "Stylo bille": "bille",
-  "Stylo plume": "plume",
-  "Stylo feutre": "feutre",
-  "Contribution postale": "Mon courrier par voie postale",
-  "Date d'envoi postal": "..2...A...",
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution",
-  "Date d'envoi par fax": "..2...a..",
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé",
-  "Date d'envoi par courriel": "..2...a..",
-  "Résolution": null,
-  "Format PNG": "3c0.... dpi/ppp",
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": ".E.Q.S.C...."
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "A.n.S.awe.r.",
+        "Prenom": "h.COna.s...",
+        "Adresse": "a...",
+        "Code postal": "L687",
+        "Ville": "SpeshbA.ch",
+        "Tel": "0352043025"
+      },
+      "Categorie": "demanc",
+      "Objet": "d..m.a..n.d........c....o.o.",
+      "Complement": "s.........e..",
+      "Reference client eventuelle": "CBA68",
+      "Interlocuteur": null,
+      "Adresse": "LS6ZQ",
+      "Code postal": "LS6ZQ",
+      "Ville": "DazAy"
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "bille",
+        "plume",
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": ".2.... minutes."
+    },
+    "Contribution": {
+      "Cocher les elements de votre contribution pour le scenario_traite": {
+        "6e": "J'envoie mon courrier par voie postale á la date du ..2...A...",
+        "+2e": "Mon courrier contient une page de garde de fax.",
+        "+1€": "Avant mon envoi postal, j'ai télécopié ma contribution le",
+        "2_AuriP_": "J'ai envoyé par courriel mon courrier numérisé le",
+        "Format": [
+          "PNG",
+          "GIF",
+          "TIFF"
+        ],
+        "Resolution des images": "3c0.... dpi/ppp"
+      }
+    }
+  }
 }

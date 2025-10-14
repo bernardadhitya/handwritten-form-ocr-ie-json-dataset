@@ -1,33 +1,39 @@
 {
   "Code d'envoi": "Oshyak",
-  "Nom": "S.O.IN.",
-  "Prénom": "u.ie.l.re",
-  "Adresse": "s...ru.m.i..cae",
-  "Code Postal": "L 727O",
-  "Ville": "H.o.H.F.KA.N.KE.N..H.....!.7..",
-  "Téléphone": null,
-  "Catégorie Scénario": "D.tm.sm.de",
-  "Objet Scénario": "oemcx.de...a..ou&mema..o...c.m.c.enm.am.",
-  "Complément Scénario": null,
-  "Référence client": "s5spimss tt g nenooueui",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "J'envoie mon courrier par voie postale a la date du ...3...a....2........",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postat, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'a envoyeé par courriel mon courrier numérisé le....man...Z...",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "E..Sso!N...Pt.f.e.i'an...1"
+  "Identite fictive": {
+    "Nom": "S.O.IN.",
+    "Prenom": "u.ie.l.re",
+    "Adresse": "s...ru.m.i..cae",
+    "Code postal": "L 727O",
+    "Ville": "H.o.H.F.KA.N.KE.N..H.....!.7..",
+    "Tel": "03384g74s0"
+  },
+  "Scenario": {
+    "Categorie": "D.tm.sm.de",
+    "Objet": "oemcx.de...a..ou&mema..o...c.m.c.enm.am.",
+    "Complement": "EIYENE",
+    "Reference client eventuelle": "s5spimss tt g nenooueui",
+    "Interlocuteur": null,
+    "Adresse": null,
+    "Code postal": null,
+    "Ville": null
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [
+      "bille",
+      "plume",
+      "feutre"
+    ],
+    "Temps passe a traiter le scenario": null
+  },
+  "Contribution": {
+    "Cocher les elements_de_votre contribution pour le_scenario_traite": [],
+    "Marque et modele du scanner": "E..Sso!N...Pt.f.e.i'an...",
+    "Format": [
+      "PNG",
+      "GIF",
+      "TIFF"
+    ],
+    "Resolution des images": "3Q0... dpi/ppp"
+  }
 }

@@ -1,33 +1,42 @@
 {
-  "Code d'envoi": "HEPACT",
-  "Nom": "H.E.V.E.N.E.Y.",
-  "Prénom": null,
-  "Adresse": "Ce...ehumede",
-  "Code Postal": "LO66O",
-  "Ville": "LAN...DU...V.AR",
-  "Téléphone": "104167148038",
-  "Catégorie Scénario": "carégoriescue..d..aemnt",
-  "Objet Scénario": "semade..de...e'm.x...Qaueuse...",
-  "Complément Scénario": "Endelkmnt...top..mpaaxt",
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "L633O",
-  "Ville Interlocuteur": "NESCH.ERS",
-  "Temps passé": "G. minutes.",
-  "Stylo bille": "bille",
-  "Stylo plume": "plume",
-  "Stylo feutre": "feutre",
-  "Contribution postale": "Mon courrier par voie postale",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "E.X.M.A.R.K"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "H.E.V.E.N.E.Y.",
+        "Prenom": null,
+        "Adresse": "Ce...ehumede",
+        "Code postal": "LO66O",
+        "Ville": "LAN...DU...V.AR",
+        "Tel": "104167148038"
+      },
+      "Scenario": {
+        "Categorie": "cue..d..aemnt",
+        "Objet": "semade..de...e'm.x...Qaueuse...",
+        "Complement": "Endelkmnt...top..mpaaxt",
+        "Reference client eventuelle": "tnterocuteur...resnue...es...s.Im.pt",
+        "Interlocuteur": "tnterocuteur...resnue...es...s.Im.pt"
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "billeplume",
+          "feutre"
+        ],
+        "Temps passe & traiter le scenario": "G. minutes"
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour Je scenario traite": {
+          "(0€)": null,
+          "(+2€)": null,
+          "(+1€)": null
+        }
+      },
+      "Marque et modele du scanner": "E.X.M.A.R.K",
+      "Format": [
+        "PNG",
+        "GIF",
+        "TIFF"
+      ],
+      "Resolution des images": "dpi/ppp"
+    }
+  }
 }

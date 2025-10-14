@@ -1,33 +1,44 @@
 {
-  "Code d'envoi": null,
-  "Nom": null,
-  "Prénom": "el",
-  "Adresse": null,
-  "Code Postal": null,
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": "auwef.le..c.oa.tcmg.ees...ke.Ceph.omgsues.cus.co&derere..ohe..tepage.fclt.camme..aahemowau..ttphaqe",
-  "Complément Scénario": "hamga....anatus...eepkauqu",
-  "Référence client": null,
-  "Interlocuteur": "M......A..&am..c..",
-  "Adresse Interlocuteur": "c....e...g.se.",
-  "Code Postal Interlocuteur": "Cangui.e",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "Canam...Camasa..ide...e"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "Justune",
+        "Prenom": "el"
+      },
+      "Adresse": null,
+      "Code postal": "037155008",
+      "Ville": "Cangui",
+      "Tel": null
+    },
+    "Scenario": {
+      "Categorie": "amgem.mt..de..d.anm.es..ersanm.e",
+      "Objet": "auwef.le..c.oa.tcmg.ees...ke.Ceph.omgsues.cus",
+      "ZC": "co&derere..ohe..tepage.fclt.camme..aahemowau..ttphaqe",
+      "RlephoquesCsbua": null,
+      "Complement Laua_e_": "hamga....anatus...eepkauqu",
+      "Leakzuque": null,
+      "Interlocuteur": "M......A..&am..c..",
+      "Adresse": "c....e...g.se.",
+      "Code postal": "S3&ro vile",
+      "Ville": "Cangui"
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "bille plume",
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": null
+    },
+    "Contribution": {
+      "Elements": []
+    },
+    "Marque et modele du scanner": "Canam...Camasa..ide...",
+    "Format": [
+      "PNG",
+      "GIF",
+      "TIFF"
+    ],
+    "Resolution des images": "3o.. dpi/ppp",
+    "Rcbl": null
+  }
 }

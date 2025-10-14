@@ -1,33 +1,42 @@
 {
-  "Code d'envoi": "TRCoeM",
-  "Nom": "E.RA.N.C.I.S.C.O",
-  "Prénom": "A.",
-  "Adresse": "u.o...c...A..FeuRow",
-  "Code Postal": "67 49oville",
-  "Ville": "FR.Eo.LSHE....",
-  "Téléphone": "6636724469",
-  "Catégorie Scénario": null,
-  "Objet Scénario": "oomas........omuo....o.ccoo..",
-  "Complément Scénario": "s.otemeu...ta...ma.a..",
-  "Référence client": null,
-  "Interlocuteur": "eo.....o....w...",
-  "Adresse Interlocuteur": "eo....................",
-  "Code Postal Interlocuteur": "D7 83 vile...COSS....eAuBGO&...",
-  "Ville Interlocuteur": "COSS....eAuBGO&...",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "Lo"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "E.R.A.N.C.I.S.C.O",
+        "Prenom": "A.",
+        "Adresse": "u.o...c...A..FeuRow",
+        "Code postal": "67 49oville",
+        "Ville": "FR.Eo.LSHE....",
+        "Tel": "6636724469"
+      },
+      "Scenario": {
+        "Categorie": "u..l......oimo.",
+        "Objet": "oomas........omuo....o.ccoo..",
+        "Complement": "complemet...s.otemeu...ta...ma.a..",
+        "Reference client eventuelle": "eo.....o....w...",
+        "Seo": "eo....................",
+        "Adresse": "D7 83 vile...COSS....eAuBGO&...",
+        "Code postal": "D7 83",
+        "Ville": "COSS....eAuBGO&...",
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+          ],
+          "Temps passe a traiter le scenario": null
+        },
+        "Contribution": {
+          "Cocher les elements de votre contribution pour le_scenario_traite": [],
+          "Marque et modele du scanner": "Lo",
+          "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+          ],
+          "Resolution des images": "dpi/ppp"
+        }
+      }
+    }
+  }
 }

@@ -1,33 +1,49 @@
 {
-  "Code d'envoi": "JQQAUO",
-  "Nom": "LE..TALLE.C",
-  "Prénom": "aagais",
-  "Adresse": "us....u....T...",
-  "Code Postal": "O3g1440125",
-  "Ville": "&aqutt",
-  "Téléphone": null,
-  "Catégorie Scénario": "Demamd",
-  "Objet Scénario": "mand.......dacu.m.entatam....camcenman....e.",
-  "Complément Scénario": "IIRTs2G",
-  "Référence client": "éventuelle",
-  "Interlocuteur": "NN.A.....Assu.a.cea.",
-  "Adresse Interlocuteur": "u....eam...Jau..es.",
-  "Code Postal Interlocuteur": "5 OO",
-  "Ville Interlocuteur": "Amauv....o...Gamass.",
-  "Temps passé": "...... minutes",
-  "Stylo bille": "bille",
-  "Stylo plume": "plume",
-  "Stylo feutre": "feutre",
-  "Contribution postale": "J'envoie mon courrier par voie postale ä la date du ...34./10./.a6",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le .30./40/.06",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le ...&/.10/.&6",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": "96 dpi/ppp",
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "Counam.....SmatBas....PC...9."
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "LE..TALLE.C",
+        "Prenom": "aagais",
+        "Adresse": "us....u....T...",
+        "Code postal": "O3g1440125",
+        "Ville": "Amauv....o...Gamass",
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": "Demamd",
+        "Objet": "mand.......dacu.m.entatam....camcenman....e",
+        "Concermant": "s.am.s...auto",
+        "Complement": "IIRTs2G"
+      },
+      "Interlocuteur": {
+        "Nom": "NN.A.....Assu.a.cea.",
+        "Adresse": "u....eam...Jau..es.",
+        "Code postal": "[ 5 OO]",
+        "Ville": "Amauv....o...Gamass"
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille",
+          "plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le scenario traite": {
+          "(6€) J'envoie mon courrier par voie postale a la date du _34{o/c6": null,
+          "(+2€) Mon courrier contient une page de garde de fax": null,
+          "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le 2c[Aolcl_": null,
+          "(+1€) Jai envoye par courriel mon courrier numerise le Ze/uc/06": null
+        },
+        "Marque et modele du scanner": "Counam.....SmatBas....PC...9.",
+        "Format": [
+          "PNG",
+          "GIF",
+          "TIFF"
+        ],
+        "Resolution des images": "96 dpi/ppp"
+      }
+    }
+  }
 }

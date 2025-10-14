@@ -1,39 +1,27 @@
 {
-  "materialEvaluationRequest": {
-    "date": "7-26-92",
-    "catalogueNoModel": null,
-    "supplier": {
-      "name": "YAmAdA",
-      "address": "567 ni5t Gee Xerd",
-      "phoneNo": "8ooZ35188",
-      "contactPerson": "ARuNGToN, ItSGHI3, LL. bo005"
-    },
-    "requester": {
-      "name": "Ntu Burc t uz",
-      "phoneNo": "741-2904",
-      "mailingAddress": "Pls"
-    },
-    "useOfMaterial": {
-      "location": "RJRT example Make-Pack areaShlppingReceivingetc.",
-      "proposedUse": "cleanerlubricant conveyor belt etc.",
-      "quantity": null,
-      "usageDetails": "Does it come into contact with tobacco products? Where? Is product contamination possible? How likely?"
-    },
-    "additionalInformation": {
-      "literatureRequest": "Name(s) of RJRT employee(s) that can be contacted if we have questions regarding the proposed use of this product."
-    },
-    "rjrtContacts": [
-      "Ms.Carolyn A.Rahn",
-      "741-2809",
-      "BGTC/Scientific Affairs",
-      "1128",
-      "611-12/204H"
+  "MATERIAL EVALUATION REQUEST": {
+    "Date": "7-26-92",
+    "Name of Material": null,
+    "Supplier": "YAmAdA",
+    "Address": "567 ni5t Gee Xerd",
+    "Person from Supplier to Contact": "JoN PEL&CANeS",
+    "Name of Requester": "Ntu Burc t uz",
+    "Phone No": "741-2904",
+    "Mailing Address": "Pls",
+    "Use of Material": "Where w t be used at RJRT example Make-Pack areaShlppingReceivingetc.",
+    "Proposed use": "example: cleanerlubricant conveyor belt etc.",
+    "Quantity or amount of product used": "Attncted Hsst",
+    "How will be used": "Does it come into contact with tobacco products? Where? Is product contamination possible? How likely?",
+    "Literature Requested": "Name(s) of RJRT employee(s) that can be contacted if we have questions regarding the proposed use of this product.",
+    "RJRT employees contact information": [
+      "Ntu",
+      "741-2904"
     ],
-    "sendMaterialRequestsTo": {
-      "name": "Ms.Carolyn A.Rahn",
-      "telephoneNo": "741-2809",
-      "department": "BGTC/Scientific Affairs",
-      "address": "1128"
+    "Send Material Requests to": {
+      "Name": "Ms.Carolyn A.Rahn",
+      "Phone": "741-2809",
+      "Department": "BGTC/Scientific Affairs",
+      "Room": "1128"
     }
   }
 }

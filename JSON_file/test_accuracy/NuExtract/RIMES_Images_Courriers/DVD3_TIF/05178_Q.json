@@ -1,32 +1,42 @@
 {
-  "Code d'envoi": "WZRESN",
-  "Nom": "A..HA..",
-  "Prénom": "h.ase.",
-  "Adresse": "BA3] ville",
-  "Code Postal": "0u396803s",
-  "Ville": "A..",
-  "Téléphone": null,
-  "Catégorie Scénario": "Geshoo....",
-  "Objet Scénario": "Saa",
-  "Complément Scénario": "c...e.......a...",
-  "Référence client": "GGcH42",
-  "Interlocuteur": "M..M.A....",
-  "Adresse Interlocuteur": "Assuaa.nce..",
-  "Code Postal Interlocuteur": "S&2Mol.",
-  "Ville Interlocuteur": "fEAau.",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "J'envoie mon courrier par voie postale ä la date du",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "LO"
+  "Code d'envoi": {
+    "Questionnaire": null,
+    "Identite fictive": {
+      "Nom": "A..HA..",
+      "Prenom": "h.ase."
+    },
+    "Adresse": {
+      "L-ALI": null,
+      "Code postal": "BA3",
+      "Ville": "A.."
+    },
+    "Tel": null
+  },
+  "Scenario": {
+    "Categorie": "Geshoo....",
+    "Objet": null,
+    "Complement": null,
+    "Reference client eventuelle": null
+  },
+  "Interlocuteur": {
+    "Nom": "M..M.A....",
+    "Adresse": null,
+    "Code postal": "S&2Mol",
+    "Ville": "fEAau"
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [],
+    "Temps passe a traiter le scenario": null
+  },
+  "Contribution": {
+    "Elements de contribution": [],
+    "Marque et modele du scanner": {
+      "Format": [
+        "PNG",
+        "GIF",
+        "TIFF"
+      ],
+      "Resolution des images": null
+    }
+  }
 }

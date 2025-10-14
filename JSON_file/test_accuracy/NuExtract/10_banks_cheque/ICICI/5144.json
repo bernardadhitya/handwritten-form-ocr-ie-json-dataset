@@ -1,13 +1,11 @@
 {
-  "date": "060522",
-  "location": "FORTPEEMONTISOMY",
-  "transaction_code": "AAAAWWGG",
-  "payee": "David Howard",
-  "amount_in_words": "Seven Thouoand One Hundred and Siply Thnee Alco.",
-  "amount_in_numbers": "711",
-  "account_number": "05 838250590159448908",
-  "bank": "NAL BAN",
-  "account_type": "NEWSAVINOSACCOUNT",
-  "card_type": "VISACARO",
-  "card_number": "515560062200571500"
+  "structured_information": {
+    "names": [
+      "David Howard"
+    ],
+    "numbers": [
+      "05 83825059",
+      "0159448908"
+    ]
+  }
 }

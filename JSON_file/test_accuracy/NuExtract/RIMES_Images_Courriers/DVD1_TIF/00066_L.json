@@ -1,14 +1,15 @@
 {
-  "document": "MagazineDe'o",
-  "scenario": "abonnement",
-  "writer": null,
-  "sender_person": null,
-  "sender_company": null,
-  "sender_tel": "03.38.36.77.85",
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
-  "date": "J2/o7/o5",
-  "place": "3 terasse des Vosge",
-  "box": "Le Meridien"
+  "Name": null,
+  "Address": "3 terasse des Vosge",
+  "Tel": "03.38.36.77.85",
+  "Subscription": {
+    "Start Date": null,
+    "End Date": null,
+    "Type": "abonnement"
+  },
+  "Magazine": {
+    "Name": "MagazineDe'o",
+    "Content": "J ruo des Pres",
+    "Details": "Disposant desomais de davantage de demps deque en neglement de Qo premic`ro d' abonnement"
+  }
 }

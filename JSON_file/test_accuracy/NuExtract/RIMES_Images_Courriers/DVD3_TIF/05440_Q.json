@@ -1,33 +1,44 @@
 {
-  "Code d'envoi": "kEowM",
-  "Nom": "Sw",
-  "Prénom": "A.um",
-  "Adresse": "k....",
-  "Code Postal": "[8&32jo]",
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": "Reancs..",
-  "Objet Scénario": "uet...clemcd....iamatisn...du...enie..mois....es...et.ee.",
-  "Complément Scénario": null,
-  "Référence client": "Assanse",
-  "Interlocuteur": "u.s",
-  "Adresse Interlocuteur": "A.en.e......m......",
-  "Code Postal Interlocuteur": "Lu2SsSo",
-  "Ville Interlocuteur": "CauRiAG",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "e.pn..........ee.e"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "Sw",
+        "Prenom": "A.um",
+        "Adresse": "k....",
+        "Code postal": "[8&32jo]",
+        "Ville": null,
+        "Tel": null
+      }
+    }
+  },
+  "Scenario": {
+    "Categorie": "Reancs..",
+    "Complement": {
+      "Reference client eventuelle": "Assanse"
+    },
+    "Interlocuteur": {
+      "akup": {
+        "d_eanceA": {
+          "Adresse": "A.en.e......m......",
+          "Auene:_Rasn": "Lu2SsSo",
+          "Code postal": "Lu2SsSo",
+          "Ville": "CauRiAG"
+        }
+      }
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [],
+      "Temps passe a traiter le scenario": null,
+      "Contribution": {
+        "Cocher les_elements de_votre contribution pour le scenario _traite": []
+      },
+      "Marque et modele du scanner": "e.pn..........ee.e",
+      "Format": [
+        "PNG",
+        "GIF",
+        "TIFF"
+      ],
+      "Resolution des images": "..3... dpi/ppp"
+    }
+  }
 }

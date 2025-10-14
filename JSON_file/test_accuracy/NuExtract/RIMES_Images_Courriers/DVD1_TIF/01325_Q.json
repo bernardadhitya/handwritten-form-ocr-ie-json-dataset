@@ -1,32 +1,43 @@
 {
   "Code d'envoi": "LVCNRK",
-  "Nom": "TRAORE",
-  "Prénom": "eunife",
-  "Adresse": "22..ue..G.4ulo",
-  "Code Postal": "[O23Oo]",
-  "Ville": "CHAuNy",
-  "Téléphone": "038247334",
-  "Catégorie Scénario": "emnd..dinfomatien",
-  "Objet Scénario": "eusnd....documeutsiou.conccinsu.s.cakas d'ssursmce...hsbitshion",
-  "Complément Scénario": "éuasgemeutt.",
-  "Référence client": "By+AR5",
-  "Interlocuteur": "N.AI...Assucanes",
-  "Adresse Interlocuteur": "Plce..De.Gaule",
-  "Code Postal Interlocuteur": "[420]",
-  "Ville Interlocuteur": "VRECY",
-  "Temps passé": "........ minutes",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi postal": "..6..de'cembre",
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "avant mon envoi postal, j'ai télécopié ma contribution le...",
-  "Date d'envoi par fax": "..6dtcewae.oo",
-  "Option envoi par courriel": "ai envoyé par couriel mon courier numérisé l ...d.cewsbre...",
-  "Résolution": null,
-  "Format PNG": "3QQ.... dpi/ppp",
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": ".p..psc...5..0"
+  "Identite fictive": {
+    "Nom": "TRAORE",
+    "Prenom": "eunife",
+    "Adresse": "22..ue...G.4ulo",
+    "Code postal": "[O23Oo]",
+    "Ville": "CHAuNy",
+    "Tel": "038247334"
+  },
+  "Scenario": {
+    "Categorie": "emnd..dinfomatien",
+    "Objet": "eusnd....documeutsiou.conccinsu.s.cakas d'ssursmce...hsbitshion",
+    "Esursnce_habilshm": null,
+    "Reference client eventuelle": null
+  },
+  "Interlocuteur": {
+    "NAiF_Asudnces": {
+      "Adresse": "Plce..De.Gaule",
+      "Code postal": "[420]",
+      "Ville": "VRECY"
+    }
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [],
+    "Temps passe a traiter le scenario": null
+  },
+  "Contribution": {
+    "Cocher les elements de votre contribution pour le_scenario traite": {
+      "(6€) Jenvoie mon courrier par voie postale a la date du _6. dcemke_XobL": null,
+      "(+2e) Mon courrier contient une page de garde de fax": null,
+      "(+1€) Avant mon envoi postal, jai telecopie ma contribution le 6duHekea": null,
+      "(+1€) Jai envoye par couriel mon courrier numerise le 6deceubie_~eec_": null
+    },
+    "Marque et modele du scanner": ".p..psc...5..0",
+    "Format": [
+      "PNG",
+      "GIF",
+      "TIFF"
+    ],
+    "Resolution des images": "..3QQ.... dpi/ppp"
+  }
 }

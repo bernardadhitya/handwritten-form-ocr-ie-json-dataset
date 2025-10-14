@@ -1,32 +1,28 @@
 {
   "Code d'envoi": "TvuBYD",
-  "Nom": null,
-  "Prénom": "T.aha.",
-  "Adresse": null,
-  "Code Postal": "6q828 qOVille..SU.N.DH.oFF.EN 034go06 B6",
-  "Ville": "SU.N.DH.oFF.EN",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": "auamamkax.om...x...d..qsmk.i.a...d.ad.sm.kcwna.enwa..ccmma.mdaeo.",
-  "Complément Scénario": "cw..",
-  "Référence client": null,
-  "Interlocuteur": "aqu...ndi...cpuu",
-  "Adresse Interlocuteur": "OE....AO..H.N.",
-  "Code Postal Interlocuteur": "[J 24 0]",
-  "Ville Interlocuteur": "Bo...!E.R",
-  "Temps passé": "3..... minutes.",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "J'envoie mon courrier par voie postale a la date du ....?.......?&o.....",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "L-"
+  "Identite fictive": {
+    "Nom": "Boy",
+    "Prenom": "T.aha.",
+    "Adresse": "o..........o.......o..",
+    "Code postal": "6q828 qOVille..SU.N.DH.oFF.EN 034go06 B6",
+    "Ville": "SU.N.DH.oFF.EN",
+    "Tel": null
+  },
+  "Categorie": "mca.m...e...camkat.....cmmmd",
+  "Objet": "auamamkax.om...x...d..qsmk.i.a...d.ad.sm.kcwna.enwa..ccmma.mdaeo.",
+  "Complement": "cw..xoM2",
+  "Reference client éventuelle": "Interocuteur....aqu...ndi...cpuu",
+  "Redaction": {
+    "Type de stylo (noir) utilise": [
+      "M bille",
+      "plume",
+      "feutre"
+    ],
+    "Temps passe a traiter le scenario": "3..... minutes."
+  },
+  "Contribution": {
+    "Cocher les_elements_de_votre contribution pour le_scenario traite": [],
+    "Marque et modele du scanner": "L-",
+    "Resolution des images": "dpi/ppp"
+  }
 }

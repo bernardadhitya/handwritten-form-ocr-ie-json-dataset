@@ -1,33 +1,31 @@
 {
   "Code d'envoi": "2Pe2Y",
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "733O",
-  "Ville": null,
-  "Téléphone": "04890286",
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "LG332O",
-  "Ville Interlocuteur": null,
-  "Temps passé": "10 minutes",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax",
-  "Option envoi par fax": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "L"
+  "Identite fictive": {
+    "Nom": null,
+    "Prenom": null,
+    "Adresse": null,
+    "Code postal": "733O",
+    "Ville": null
+  },
+  "Scenario": {
+    "Categorie": null,
+    "Objet": null,
+    "Qoxtt?e_": null,
+    "Complement": null,
+    "AeYRLLAA": null,
+    "Reference client eventuelle": null,
+    "Interlocuteur": null,
+    "Adresse": "LG332O",
+    "Code postal": "733O",
+    "Ville": null
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [],
+    "Temps passe a traiter le scenario": "1O... minutes"
+  },
+  "Contribution": {
+    "Cocher les elements_de_votre contribution pour le scenario_ traite": [],
+    "Marque et modele du scanner": null,
+    "Resolution des images": null
+  }
 }

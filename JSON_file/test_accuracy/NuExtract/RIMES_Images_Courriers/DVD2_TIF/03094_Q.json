@@ -1,32 +1,35 @@
 {
-  "Code d'envoi": "TCRRMK",
-  "Nom": "N..",
-  "Prénom": "es",
-  "Adresse": "we..es.",
-  "Code Postal": "0314522748",
-  "Ville": "i.B.AcH.Z.",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": "eman..",
-  "Complément Scénario": "e..rence",
-  "Référence client": "éventuelle",
-  "Interlocuteur": "A.....s..an.c'...",
-  "Adresse Interlocuteur": "pla.....h....",
-  "Code Postal Interlocuteur": "3S3O]",
-  "Ville Interlocuteur": "CN.T.R.E",
-  "Temps passé": "CO... minutes.",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": "ddd/!dp",
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "LO"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": null,
+        "Adresse": null,
+        "Code postal": null,
+        "Ville": null,
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": null,
+        "Complement": null,
+        "Reference client eventuelle": null,
+        "Interlocuteur": null,
+        "AssutaceA": {
+          "Adresse": null,
+          "Code postal": null,
+          "Ville": null
+        },
+        "Redaction": {
+          "Type de stylo (noir) utilise": [],
+          "Temps passe a traiter le scenario": null
+        },
+        "Contribution": {
+          "Cocher les elements de votre contribution pour le scenario traite": [],
+          "Marque et modele du scanner": "LO",
+          "Resolution des images": null
+        }
+      }
+    }
+  }
 }

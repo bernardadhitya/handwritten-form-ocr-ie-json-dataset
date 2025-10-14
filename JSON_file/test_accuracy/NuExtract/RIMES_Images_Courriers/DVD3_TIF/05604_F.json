@@ -1,15 +1,18 @@
 {
-  "document": "TELECOPIE",
-  "scenario": null,
-  "writer": null,
-  "sender_person": null,
-  "sender_company": null,
-  "sender_tel": null,
-  "sender_fax": null,
-  "receiver_person": "BAA F Amwances",
-  "receiver_company": null,
-  "subject": "Vows leo san m owePPes cencanankP.J. : P'exjehise devotuveRicle accident",
-  "date": null,
-  "place": "5,me de la vull un",
-  "box": "S476O FAU CX"
+  "Expediteur": {
+    "Nom": "UPVD",
+    "Adresse": "Université de Perpignan. Via Domitia Faculté des Lettres et Sciences Humaines",
+    "Fax": "00 33 (0)4 68 66 00 44"
+  },
+  "Destinataire": {
+    "Nom": "BAA F Amwances",
+    "Fax": null
+  },
+  "Objet": "Vows leo san m owePPes cencanankP.J. : P'exjehise devotuveRicle accident",
+  "PJ": null,
+  "Message": {
+    "Adresse": "52, avenue Paul Alduy",
+    "Tel": "00 33 (0)4 68 66 2155",
+    "Fax": "00. 33 (0)4 68 66 00 44"
+  }
 }

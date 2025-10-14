@@ -1,15 +1,21 @@
 {
-  "document": "Fax",
-  "scenario": null,
-  "writer": null,
-  "sender_person": null,
-  "sender_company": null,
-  "sender_tel": null,
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": "Dammde dinformalion",
-  "date": null,
-  "place": "Tour Société Générale",
-  "box": "92972 Paris La Defense Cédex France"
+  "Sender": {
+    "Name": "Société Générale",
+    "Address": "Tour Société Générale",
+    "Type": "Societé Anonyme",
+    "Capital": "528 749 122,50 EUR",
+    "Registration": "RCS Paris B 552 120 222"
+  },
+  "Contact Information": {
+    "Fax": "Fax 1.6.76.63.33",
+    "Tel": "Tel 01.40.16.00.08",
+    "Fax Attention": "Attention",
+    "Tel Attention": "Attention",
+    "Phone Number to Call in Case of Missing Page": null,
+    "Acknowledgement Request": "Demande d'accusé de réception",
+    "Confidential Document": "Document confidentiel",
+    "Confirmation Follows": "Confirmation suit"
+  },
+  "Subject": "Dammde dinformalion",
+  "Date": null
 }

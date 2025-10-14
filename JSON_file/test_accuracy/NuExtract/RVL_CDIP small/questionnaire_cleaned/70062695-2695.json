@@ -1,8 +1,7 @@
 {
-  "No": "02",
-  "Question": "Do you believe that cigarette smoking causes lung cancer?",
-  "Response": "Yes",
-  "RequestCopyOfResults": "If you would like a copy of the results of this poll, check here.",
-  "ThankYouNote": "Again, thank you for your cooperation.",
-  "ID": "70062695"
+  "belief": "cigarette smoking causes lung cancer",
+  "response": "Yes",
+  "additional_information": {
+    "poll_results": "If you would like a copy of the results of this poll, check here."
+  }
 }

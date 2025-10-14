@@ -1,32 +1,47 @@
 {
-  "Code d'envoi": "DzBszv",
-  "Nom": "MAXIME",
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "L6 8 510J",
-  "Ville": "H.E.L.FRANT.2.K.iR CH",
-  "Téléphone": "036550541",
-  "Catégorie Scénario": "CemoA.om.",
-  "Objet Scénario": "mme",
-  "Complément Scénario": "ous...",
-  "Référence client": "B....AwM.",
-  "Interlocuteur": "L...E..B.O...R..G.",
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": "3.0... minutes.",
-  "Stylo bille": "bille",
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "J'envoie mon courrier par voie postale ä la date du ...fus...00",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le X (+1£) J'ai envoyé par courriel mon courrier numérisé le ..wes...20o.t",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le ..wes...20o.t",
-  "Résolution": null,
-  "Format PNG": ".3.0..0... dpi/ppp",
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": ".H.......F..w......"
+  "Code d'envoi": 3.0,
+  "Questionnaire": null,
+  "Identite fictive": {
+    "Nom": "MAXIME",
+    "Prenom": null,
+    "Adresse": {
+      "Mue": null,
+      "VieNES": null,
+      "Code postal": 8510,
+      "Ville": "H.E.L.FRANT.2.K.iR CH"
+    },
+    "Tel": "036550541"
+  },
+  "Scenario": {
+    "Categorie": "CemoA.om.",
+    "Objet": "9u AWC",
+    "Complement": "Hy0vg75",
+    "Reference client éventuelle": null,
+    "Interlocuteur": {
+      "BAAE": "L...E..B.O...R..G.",
+      "Adresse": null,
+      "Code postal": null,
+      "Ville": null
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "bille plume",
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": "3.0",
+      "Contribution": {
+        "(6e) J'envoie mon courrier par voie postale à la date du kuuu_?ool": 0,
+        "(+2e) Mon courrier contient une page de garde de fax": 0,
+        "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le 8_|iwuu.2002|": 0,
+        "(+1€) Jai envoye par courriel mon courrier numerise le uuu_2Lo!": 0
+      },
+      "Marque et modele du scanner": ".H.......F..w......",
+      "Format": [
+        "PNG",
+        "GIF",
+        "TIFF"
+      ],
+      "Resolution des images": ".3.0..0... dpi/ppp"
+    }
+  }
 }

@@ -1,33 +1,33 @@
 {
-  "Code d'envoi": "BBGDSG",
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "C730",
-  "Ville": "ADAMS",
-  "Téléphone": "0302880899",
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": "BOURG",
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "M.O",
-  "Ville Interlocuteur": "S....A.R.o..X",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": null,
+        "Adresse": null,
+        "Code postal": "C730",
+        "Ville": "ADAMS",
+        "Tel": "0302880899"
+      },
+      "Categorie": null,
+      "Objet": null,
+      "Lentesmant": null,
+      "Complement": null,
+      "Reference client eventuelle": null,
+      "Interlocuteur": "BOURG",
+      "Adresse": "M.O]vill...S....A.R.o..X",
+      "Code postal": "M.O]vill...S....A.R.o..X",
+      "Ville": null,
+      "Redaction": {
+        "Type de stylo (noir) utilise": [],
+        "Temps passe & traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les_elements_de_votre contribution pour le_scenario traite": [],
+        "Marque et modele du scanner": "H.P...Sc.A.N..S.....3....o.",
+        "Format": [],
+        "Resolution des images": null
+      }
+    }
+  }
 }

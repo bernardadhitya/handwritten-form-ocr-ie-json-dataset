@@ -1,33 +1,46 @@
 {
-  "Code d'envoi": "QTw",
-  "Nom": "CAROINA",
-  "Prénom": "Calat",
-  "Adresse": null,
-  "Code Postal": "8& &tOVville",
-  "Ville": "V.A.o...A.....SAu..es",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": "emamde...de...acumemk.a.h'sm...sem.ceamamt....amkak....",
-  "Complément Scénario": "V.ou..d.em.smage.",
-  "Référence client": "KGx25",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "6 S2p",
-  "Ville Interlocuteur": "BooS",
-  "Temps passé": "1.S... minutes",
-  "Stylo bille": "bille plume",
-  "Stylo plume": "plume",
-  "Stylo feutre": "feutre",
-  "Contribution postale": "Mon courrier par voie postale",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "tos:.lsoomm..XERaX...?&4.o.."
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "CAROINA",
+        "Prenom": "Calat",
+        "Adresse": null,
+        "Kadm": null,
+        "Ville": null,
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": null,
+        "Relotahan": null,
+        "Reference client eventuelle": null,
+        "Interlocuteur": null,
+        "Adresse": null,
+        "Code postal": "8& &tOVville",
+        "Ville": "BooS",
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille plume",
+            "feutre"
+          ],
+          "Temps passe & traiter le scenario": "1.S... minutes"
+        },
+        "Contribution": {
+          "Cocher les elements de votre contribution pour le scenario traite": {
+            "(6e) J'envoie mon courrier par voie postale a la date du 24[AA(.2096": null,
+            "(+2e) Mon courrier contient une page de garde de fax": null,
+            "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le 23/aa?026.": null,
+            "(+1€) J'ai envoye par courriel mon courrier numerise le 23/44.1286_": null
+          },
+          "Marque et modele du scanner": "tos:.lsoomm..XERaX...?&4.o..",
+          "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+          ],
+          "Resolution des images": null
+        }
+      }
+    }
+  }
 }

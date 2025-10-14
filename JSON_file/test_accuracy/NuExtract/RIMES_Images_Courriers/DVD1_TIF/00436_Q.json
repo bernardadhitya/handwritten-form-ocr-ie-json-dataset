@@ -1,33 +1,36 @@
 {
-  "Code d'envoi": null,
-  "Nom": "Eréom",
-  "Prénom": "wew.e",
-  "Adresse": "u....riactaa..",
-  "Code Postal": "03g5oQ",
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": "oem.a..o.....s.",
-  "Complément Scénario": "ojet....e..aa.o......co.emae.a.t",
-  "Référence client": "PAUQPOB",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Option envoi par fax": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Identite fictive": {
+    "Nom": "Eréom",
+    "Prenom": "wew.e",
+    "Adresse": "u....riactaa..",
+    "Code postal": "03g5oQ",
+    "Ville": null,
+    "Tel": null
+  },
+  "Scenario": {
+    "Categorie": null,
+    "Objet": null,
+    "CemxCexak_Qea": null,
+    "Complement": null,
+    "Reference client eventuelle": null
+  },
+  "Interlocuteur": {
+    "Adresse": null,
+    "Code postal": null,
+    "Ville": null
+  },
+  "Type de stylo (noir) utilise": {
+    "bille": null,
+    "plume": null,
+    "feutre": null
+  },
+  "Temps passe a traiter le scenario": null,
+  "Contribution": {
+    "J'envoie mon courrier par voie postale a la date du": null,
+    "Mon courrier contient une page de garde de fax": null,
+    "Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+    "Jai envoye par courriel mon courrier numerise le": null,
+    "Format": null,
+    "Resolution des": null
+  }
 }

@@ -1,33 +1,38 @@
 {
-  "Code d'envoi": "Questionnaire",
-  "Nom": "ALHTE",
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "L6t4n3rol vile",
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": "A.E.......AEN...",
-  "Code Postal Interlocuteur": "L64 4n Yn o] Vile...EVX...Bn.NE",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "ALHTE",
+        "Prenom": null,
+        "Adresse": null,
+        "Code postal": "L6t4n3rol",
+        "Ville": "Ak.w.i.u",
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Ce-bk": null,
+        "C91": null,
+        "Complement": null,
+        "Reference client eventuelle": null,
+        "Interlocuteur": null,
+        "Adresse": "A.E.......AEN...",
+        "Code postal": "L64 4n Yn",
+        "Ville": "EVX...Bn.NE"
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [],
+        "Temps passe & traiter le scenario": null,
+        "Contribution": {
+          "Cocher les_ elements de_votre contribution pour le_scenario traite": [],
+          "Marque et modele du scanner": null,
+          "Format": [
+            "PNG",
+            "GlFTlFF"
+          ],
+          "Resolution des images": null
+        }
+      }
+    }
+  }
 }

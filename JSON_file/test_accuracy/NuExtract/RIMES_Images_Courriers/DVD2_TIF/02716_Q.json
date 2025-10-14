@@ -1,33 +1,46 @@
 {
-  "Code d'envoi": "AQNYDU",
-  "Nom": "C.Aa.",
-  "Prénom": "Ae.naud",
-  "Adresse": "us....lewue",
-  "Code Postal": "57 33 0]",
-  "Ville": "o.LM.ERANGE....E.S...n.N.E.S.",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": "Cammand....tm...a'rea....cawse....ese....",
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": "e....Suif.",
-  "Adresse Interlocuteur": "da......lepu.",
-  "Code Postal Interlocuteur": "o]vill.......A..i..",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "SNAP.. SCA.....u..S....A.G..A."
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "C.Aa.",
+        "Prenom": "Ae.naud",
+        "Adresse": "us....lewue",
+        "Code postal": "57 33 0] Ville .o.LM.ERANGE....E.S...n.N.E.S.",
+        "Ville": "o.LM.ERANGE....E.S...n.N.E.S.",
+        "Tel": "03s5gz3z65"
+      },
+      "Scenario": {
+        "Categorie": "o.d.satam...de....ca.tra.t...",
+        "Objet": "Cammand....tm...a'rea....cawse....ese....",
+        "Complement": "G[uc3z",
+        "Reference client eventuelle": null,
+        "Interlocuteur": "e....Suif.",
+        "Adresse": "da......lepu.",
+        "Code postal": "o]vill.......A..i.",
+        "Ville": "o]vill.......A..i.",
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille plume",
+            "feutre"
+          ],
+          "Temps passe a traiter le scenario": "minutes."
+        },
+        "Contribution": {
+          "Cocher les elements_de_votre contribution pOur le_scenario traite": [
+            "(6e) J'envoie mon courrier par voie postale á la date du .....4./....:....",
+            "(+2€) Mon courrier contient une page de garde de fax.",
+            "(+1€) Avant mon envoi postal, j'ai télécopié ma contribution le",
+            "(+1e) 'a envoyé par couriel mon courer numérisé le.....a/o.2/..."
+          ],
+          "Marque et modele du scanner": "SNAP.. SCA.....u..S....A.G..A.",
+          "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+          ],
+          "Resolution des images": "dpi/ppp"
+        }
+      }
+    }
+  }
 }

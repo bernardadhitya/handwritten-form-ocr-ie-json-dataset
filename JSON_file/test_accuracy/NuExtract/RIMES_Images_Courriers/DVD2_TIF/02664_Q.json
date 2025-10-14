@@ -1,33 +1,46 @@
 {
-  "Code d'envoi": "ALAszB",
-  "Nom": "COU.D..A.Y.",
-  "Prénom": "R.ande.",
-  "Adresse": "u....d....tc.",
-  "Code Postal": "L54436",
-  "Ville": "Baux.e.es",
-  "Téléphone": "6B53b0",
-  "Catégorie Scénario": "Mo.fcation...de....on.hat..co.mman.e..",
-  "Objet Scénario": ".Co.mamand....da.como...aw.sieo...ow...n.manvs.ank.d",
-  "Complément Scénario": ".Quu.cuu",
-  "Référence client": "nterocuteur...B.....Banque........d...",
-  "Interlocuteur": "B.....Banque........d...",
-  "Adresse Interlocuteur": "es..far.q&s",
-  "Code Postal Interlocuteur": "88389O",
-  "Ville Interlocuteur": "es..far.q&s",
-  "Temps passé": "20... minutes.",
-  "Stylo bille": "noir",
-  "Stylo plume": "noir",
-  "Stylo feutre": "noir",
-  "Contribution postale": "9./.2./7.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le .",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le ...8....",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "E.pso....Sty.&ua....CX.6..Q.Q."
+  "Code d'envoi": null,
+  "Questionnaire": {
+    "AlS": null,
+    "R": null,
+    "Nom": null,
+    "Prenom": null,
+    "Adresse": null,
+    "Code postal": null,
+    "Ville": null,
+    "Tel": null
+  },
+  "Scenario": {
+    "Categorie": null,
+    "Cankakkcommande": {
+      "Objet Commande": null,
+      "Dolr": null,
+      "monkaatde": null,
+      "Vole baruiea c choisickdaceneah": null,
+      "Reference client eventuelle": null
+    }
+  },
+  "Interlocuteur": {
+    "BMR": null,
+    "Adresse": null,
+    "Code postal": null,
+    "Ville": null
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [],
+    "Temps passe a traiter le scenario": null,
+    "Contribution": {
+      "J'envoie mon courrier par voie postale a la date du": null,
+      "Mon courrier contient une page de garde de fax": null,
+      "Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+      "Jai envoye par courriel mon courrier numerise le": null
+    },
+    "Marque et modele du scanner": "E.pso..Sty.&ua..CX.6..Q.Q.",
+    "Format": [
+      "PNG",
+      "GIF",
+      "TIFF"
+    ],
+    "Resolution des images": "300 dpi/ppp"
+  }
 }

@@ -1,33 +1,46 @@
 {
-  "Code d'envoi": "BGPQN",
-  "Nom": "Toui.",
-  "Prénom": "Sa.r...",
-  "Adresse": "ne........e.",
-  "Code Postal": "0326435800",
-  "Ville": "G.un&te.tt.",
-  "Téléphone": "0326435800",
-  "Catégorie Scénario": "e.eur....o....comot.",
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": "AM....Ass.u..a.ce.s.",
-  "Adresse Interlocuteur": "o...",
-  "Code Postal Interlocuteur": "3i3o]Vill...!o. he..Ra",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "Sap$can....?!.."
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "Toui.",
+        "Prenom": "Sa.r."
+      },
+      "Adresse": "3i3o]Vill...!o. he..Ra",
+      "Code postal": "636o",
+      "Ville": "G.un&te.tt.",
+      "Tel": "0326435800"
+    },
+    "Scenario": {
+      "Categorie": "e.eur....o....comot.",
+      "Objet": "Complément...au....e.........auisan...",
+      "PaLitalion": "BGPQN",
+      "Reference client eventuelle": null,
+      "Interlocuteur": "AM....Ass.u..a.ce.s.",
+      "Adresse": "3i3o]Vill...!o. he..Ra",
+      "Code postal": "3i3o",
+      "Ville": null,
+      "Redaction de stylo (noir) utilise": {
+        "bille": null,
+        "plume": null,
+        "feutre": null
+      },
+      "Temps a traiter le scenario": null,
+      "Contribution": {
+        "J'envoie mon courrier par voie postale a la date du 6.L.o210": null,
+        "Mon courrier contient une page de garde de fax": null,
+        "Avant mon envoi postal, jai telecopie ma contribution le": null,
+        "Jai envoye par courriel mon courrier numerise le": null
+      },
+      "Marque et modele du scanner": "Sap$can....?!..",
+      "Format": [
+        "PNG",
+        "GIF",
+        "TIFF"
+      ],
+      "Resolution des images": "3.99 dpi/ppp",
+      "Sompte": null,
+      "Type": null,
+      "Snap": null
+    }
+  }
 }

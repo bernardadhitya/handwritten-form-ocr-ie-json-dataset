@@ -1,32 +1,38 @@
 {
-  "Code d'envoi": "RRAynY",
-  "Nom": "RERDY.",
-  "Prénom": "ge'oue",
+  "Code d'envoi": null,
+  "Questionnaire": null,
+  "RIA": null,
+  "Nom": "RERDY",
+  "Prenom": "nge'oue",
   "Adresse": "4 due 903 &0ville..ROP.P.E",
-  "Code Postal": "e",
+  "Code postal": null,
   "Ville": "ROP.P.E",
-  "Téléphone": null,
-  "Catégorie Scénario": "Demamd.....mamatam.",
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": "BFPVF55",
-  "Interlocuteur": "leo.......s...",
-  "Adresse Interlocuteur": "AM.SA......",
-  "Code Postal Interlocuteur": "2 O&o] Ville ...AM.SA......",
-  "Ville Interlocuteur": "AM.SA......",
-  "Temps passé": "A..O....",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "L."
+  "Tel": null,
+  "Scenario": {
+    "Categorie": "Demamd.....mamatam.",
+    "Objet": null,
+    "Complement ant dle acline_ed": null,
+    "Reference client eventuelle": null
+  },
+  "Interlocuteur": {
+    "Nom": "leo.......s...",
+    "SUES": null,
+    "Adresse": null,
+    "Ville": "AM.SA......"
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [],
+    "Temps passe a traiter le scenario": null
+  },
+  "Contribution": {
+    "Cocher les elements de votre contribution pour le scenario traite": {
+      "(6e) J'envoie mon courrier par voie postale a la date du": null,
+      "(+2e) Mon courrier contient une page de garde de fax": null,
+      "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+      "(+1€) J'ai envoye par courriel mon courrier numerise le": null
+    },
+    "Marque et modele du scanner": null,
+    "Format": [],
+    "Resolution des images": null
+  }
 }

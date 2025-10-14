@@ -1,15 +1,14 @@
 {
-  "document": "Calmcutier,de 07/02/o7",
-  "scenario": "Plan Epaxg ne logement",
-  "writer": "cladame , olonsiawt",
-  "sender_person": "cladame , olonsiawt",
-  "sender_company": null,
-  "sender_tel": "O3 # 97 84 63",
-  "sender_fax": null,
-  "receiver_person": "Antoine",
-  "receiver_company": "Banque Socicle Geniale",
-  "subject": "Plan Epaxg ne logement",
-  "date": "07/02/o7",
-  "place": "Rue de la vignoHe",
-  "box": "FO&4O CALHOUtier"
+  "Name": "Antoine",
+  "Address": {
+    "Street": "Rue de la vignoHe",
+    "Number": "FO&4O CALHOUtier",
+    "City": "MONNAE"
+  },
+  "Telephone": "O3 # 97 84 63",
+  "Bank": "Banque Socicle Geniale",
+  "Plan": {
+    "Type": "Plan Epaxg ne logement",
+    "Description": "Je vous psue de bien vou1oir piendu ma demamd Jladame, clon sieu, '& pussion de mes salutations dis timgues."
+  }
 }

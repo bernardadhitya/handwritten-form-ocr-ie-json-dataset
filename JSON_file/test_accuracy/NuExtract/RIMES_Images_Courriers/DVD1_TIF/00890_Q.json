@@ -1,32 +1,32 @@
 {
-  "Code d'envoi": "AN5",
-  "Nom": "BY...E",
-  "Prénom": "A...",
-  "Adresse": "us....gcs....",
-  "Code Postal": "S &OO] ville....A.N%.",
-  "Ville": "A.N%",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": "au...a..wOa..am.......aws....m..",
-  "Complément Scénario": "en....o...aw......o...ouas",
-  "Référence client": null,
-  "Interlocuteur": "e...ada...",
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "V&Oville..C...A...u.....N.A...X.",
-  "Ville Interlocuteur": "C...A...u.....N.A...X.",
-  "Temps passé": "Q. minutes.",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Option envoi par courriel": null,
-  "Date d'envoi par fax": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Identite fictive": {
+      "Nom": "BY",
+      "Prenom": "A",
+      "Adresse": "us",
+      "Code postal": "S &OO",
+      "Ville": "A.N",
+      "Tel": null
+    },
+    "Scenario": {
+      "Categorie": null,
+      "Objet": null,
+      "Complement": null,
+      "Reference client eventuelle": null,
+      "Actasle": {
+        "Adresse": null,
+        "Code postal": null,
+        "Ville": null
+      }
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [],
+      "Temps passe a traiter le scenario": null
+    },
+    "Contribution": {
+      "Cocher les elements de votre contribution pour le scenario traite": [],
+      "Marque et modele du scanner": null,
+      "Resolution des images": null
+    }
+  }
 }

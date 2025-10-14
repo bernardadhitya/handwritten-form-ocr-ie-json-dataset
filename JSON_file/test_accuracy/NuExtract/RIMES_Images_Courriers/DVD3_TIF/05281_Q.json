@@ -1,33 +1,24 @@
 {
-  "Code d'envoi": "IVVXF",
-  "Nom": "A.",
-  "Prénom": "ak..e.",
-  "Adresse": "Vo...KSEG 452345",
-  "Code Postal": "LG 729",
-  "Ville": "Vo...KSEG",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": "M.o..C.EV.A",
-  "Code Postal Interlocuteur": "LZ6 Z8J",
-  "Ville Interlocuteur": "M.o..C.EV.A",
-  "Temps passé": "4.... minutes",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Prenom": "A.",
+        "Nom": "A.",
+        "Adresse": "Vo...KSEG",
+        "Code": "452345",
+        "Ville": "Vo...KSEG",
+        "Tel": null,
+        "Categorie": null,
+        "K": null,
+        "Objet": null,
+        "Complement": null,
+        "Interlocuteur": null,
+        "Code postal": "LG 729",
+        "Redaction": null,
+        "bille": null,
+        "feutre": null,
+        "Contribution": null
+      }
+    }
+  }
 }

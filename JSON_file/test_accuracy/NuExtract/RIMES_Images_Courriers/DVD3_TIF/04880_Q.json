@@ -1,32 +1,44 @@
 {
-  "Code d'envoi": "O2OqO",
-  "Nom": "REI.G.N..ER",
-  "Prénom": "ichele",
-  "Adresse": "bis...ue...oe..a..Naye...o...B.ao",
-  "Code Postal": "O2OqO",
-  "Ville": "MAG.NY..V.ERNAIS",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": "AA...A.ss..a.nce..",
-  "Adresse Interlocuteur": "e......ie.",
-  "Code Postal Interlocuteur": "[b Z 23p]",
-  "Ville Interlocuteur": "QU.TRGAU",
-  "Temps passé": "2.... minutes.",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "1.0.4",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le ..6.117",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "REI.G.N..ER",
+        "Prenom": "ichele",
+        "Adresse": "bis...ue...oe..a..Naye...o...B.ao",
+        "Code postal": "O2OqO]",
+        "Ville": "MAG.NY..V.ERNAIS",
+        "Tel": null
+      }
+    },
+    "Scenario": {
+      "Categorie": ".m.e",
+      "Objet": "Noy.ve.",
+      "Xm": "Now.s..aus...n.sta.lez..a.ye...voe...",
+      "Complement": "con.",
+      "Reference client eventuelle": null,
+      "Interlocuteur": "AA...A.ss..a.nce..",
+      "Adresse": "e......ie.",
+      "Code postal": "[b Z 23p]",
+      "Ville": "QU.TRGAU"
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "bille",
+        "plume",
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": "2.... minutes",
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le scenario traite": {
+          "(6e) J'envoie mon courrier par voie postale a la date du AL.la41oz": 1.0,
+          "(+2e) Mon courrier contient une page de garde de fax": 1.0,
+          "(+1e) Avant mon envoi postal, j'ai telecopie ma contribution le ALlaln+": 1.0,
+          "(+1€) Jai envoye par courriel mon courrier numerise le": 1.0
+        },
+        "Marque et modele du scanner": null,
+        "Format": [],
+        "Resolution des images": null
+      }
+    }
+  }
 }

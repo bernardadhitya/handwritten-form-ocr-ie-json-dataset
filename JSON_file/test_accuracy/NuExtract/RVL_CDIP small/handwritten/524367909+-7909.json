@@ -1,10 +1,15 @@
 {
-  "date": "12-2-0",
-  "text": [],
-  "contact": {
-    "name": "Joan P. Kelley",
-    "address": "3498.Rada Lane",
-    "phone": "3588-387",
-    "alternate_phone": "52436 7909"
+  "structured_information": {
+    "names": [
+      "Joan P. Kelley"
+    ],
+    "addresses": [
+      "3498.Rada Lane, Spring Hill, FL. 34604"
+    ],
+    "phone_numbers": [
+      "3588-387",
+      "52436 7909"
+    ],
+    "other_details": []
   }
 }

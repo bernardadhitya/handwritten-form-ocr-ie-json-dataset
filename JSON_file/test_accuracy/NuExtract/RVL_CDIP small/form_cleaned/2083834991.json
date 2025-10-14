@@ -1,27 +1,18 @@
 {
-  "program": "2000 MARLBORO BAR PROGRAM",
-  "contractTopSheet": {
-    "gmmSsm": "GMM/SSM",
-    "market": null,
-    "venueName": null,
-    "venueId": "xjAL.0144.04",
-    "clubType": {
-      "event": null,
-      "visibility": null,
-      "music": null,
-      "rnb": null
-    },
-    "admissionPolicy": {
-      "A018-P": null,
-      "A021-P": null,
-      "PAO-P": null,
-      "A018-V": null,
-      "A021-V": null
-    },
-    "gmmSsmSignature": null,
-    "sellin": "2083834991",
-    "approval": null,
-    "date": "6",
-    "bmnin": "BMnin"
+  "2000 MARLBORO BAR PROGRAM": {
+    "CONTRACT TOP SHEET": {
+      "GMMiSSM": "GMM/SSM",
+      "MARKET": null,
+      "VENUE NAME": null,
+      "VENUE ID": "xjAL.0144.04",
+      "CLUB TYPE": null,
+      "CONTRACT TYPE": null,
+      "MUSIC GENRE": "RNB",
+      "ADMISSION POLICY": [],
+      "SIGNATURE": null,
+      "DATE": null,
+      "SELLING APPROVAL RATE": null,
+      "OTHER": null
+    }
   }
 }

@@ -1,33 +1,40 @@
 {
-  "Code d'envoi": null,
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "Stt12o] vill....O.rn&R5QaR",
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": "C.hangament..da...detes..personnea",
-  "Objet Scénario": "MouoeeQas.....ceeRoetncgs",
-  "Complément Scénario": "ws.....da.mane..",
-  "Référence client": "GMVM68",
-  "Interlocuteur": "AM.PE",
-  "Adresse Interlocuteur": "E...bcs...Ru....du...Paubaug.Benunefeu",
-  "Code Postal Interlocuteur": "3r5OD",
-  "Ville Interlocuteur": "Toau",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "6€",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le .",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "6abRiaQ",
+        "Prenom": null,
+        "Adresse": null,
+        "Code postal": "Stt12o] vill....O.rn&R5QaR",
+        "Ville": "0354g68",
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": "C.hangament..da...detes..personnea",
+        "Objet": "MouoeeQas.....ceeRoetncgs",
+        "Complement": "ws.....da.mane..",
+        "Reference client eventuelle": "GMVM68",
+        "Interlocuteur": "AM.PE",
+        "Adresse": "E...bcs...Ru....du...Paubaug.Benunefeu",
+        "Code postal": "[3r5OD]",
+        "Ville": "Toau",
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille plume feutre"
+          ],
+          "Temps passe a traiter le scenario": null
+        },
+        "Contribution": {
+          "Cocher les_elements de_votre_ contribution pour le_scenario_ traite": [],
+          "Marque et modele du scanner": "Ca.e(...Canescan..Liea...3",
+          "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+          ],
+          "Resolution des images": "GCO... dpi/ppp"
+        }
+      }
+    }
+  }
 }

@@ -1,15 +1,17 @@
 {
-  "document": "Ceestir",
-  "scenario": null,
-  "writer": null,
-  "sender_person": null,
-  "sender_company": "Pcvf",
-  "sender_tel": "04 67 51 87 87",
-  "sender_fax": "04 67 51 87 88",
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": null,
-  "date": "17-janv.-07",
-  "place": "route de MONTAGNAC",
-  "box": "755"
+  "structured_information": {
+    "destinataire": null,
+    "expediteur": null,
+    "date": null,
+    "numero_de_telecopie": "04 67 51 87 88",
+    "numero_de_telephone": null,
+    "nombre_de_pages": null,
+    "objet": null,
+    "reference": null,
+    "urgent": null,
+    "pour_avis": null,
+    "commentaires": null,
+    "reponse": null,
+    "confidentiel": null
+  }
 }

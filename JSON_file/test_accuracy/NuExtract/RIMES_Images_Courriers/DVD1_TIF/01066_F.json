@@ -1,15 +1,29 @@
 {
-  "document": "TELECOPIE",
-  "scenario": null,
-  "writer": "Christe 2`lleF",
-  "sender_person": "Christe 2`lleF",
-  "sender_company": "ELDA S.A",
-  "sender_tel": "+33 1 43 13 33 33",
-  "sender_fax": "+33 1 43 13 33 30",
-  "receiver_person": "H Redu 1u jellet",
-  "receiver_company": null,
-  "subject": "Ceon dSAKe",
-  "date": "23.11.06",
-  "place": "55/57,rue Brillat Savarin",
-  "box": "55-57,rue Brillat Savarin 75013 Paris - France"
+  "TELECOPIE": {
+    "Adresse": "55-57 rue Brillat Savarin 75013 Paris",
+    "Date": "23.11.06",
+    "Tel": "0143133333",
+    "Fax": "0143 13 33 30",
+    "Web": null,
+    "Email": "raymond@elda.0rg"
+  },
+  "Destinataire": {
+    "Nom": "Christe 2`lleF",
+    "Telephone": "+331431333.33",
+    "Telecopie": "Ol 6 o 7 6 43 33",
+    "Autre Telecopie": "O3 23 88 o3 u 2"
+  },
+  "Objet": "Ceon dSAKe",
+  "Notes": "Urgent",
+  "ELDA": {
+    "S.A": {
+      "Capital": "250000£",
+      "R.C.S": "PARIS B 402 781 876",
+      "EURO-ID": "FR-53402781876",
+      "Adresse": "55-57 rue Brillat Savarin 75013 Paris",
+      "Tel": "+33 1 43 13 33 33",
+      "Fax": "+33 1 43 13 33 30",
+      "Email": "raymond@elda.0rg"
+    }
+  }
 }

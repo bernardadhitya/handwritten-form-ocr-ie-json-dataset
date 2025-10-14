@@ -1,33 +1,39 @@
 {
-  "Code d'envoi": "FTULBI",
-  "Nom": "LE...TALL..EC",
-  "Prénom": "FRansais",
-  "Adresse": "u....u....tuon.e.",
-  "Code Postal": "67570",
-  "Ville": "La....Claq.uette",
-  "Téléphone": "0391440125",
-  "Catégorie Scénario": "OuvR.tus....e...compte",
-  "Objet Scénario": "ous.....sa.ate....aus.....abanne..",
-  "Complément Scénario": "aus...e....a.vantag.....temps...pou...a...oisiks....",
-  "Référence client": "Magazine..Deo",
-  "Interlocuteur": "Magazine..Deo",
-  "Adresse Interlocuteur": "Baure",
-  "Code Postal Interlocuteur": "87190",
-  "Ville Interlocuteur": "DROuX",
-  "Temps passé": "20.... minutes.",
-  "Stylo bille": "bille",
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier par voie postale",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé",
-  "Date d'envoi par courriel": "24..09..06",
-  "Résolution": null,
-  "Format PNG": "74..... dpi/ppp",
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "Canon...S.mank.Bas&....MP..c...19."
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "LE...TALL..EC",
+        "Prenom": "FRansais"
+      },
+      "Adresse": {
+        "Rue": "u....u....tuon.e.",
+        "Code postal": "[67570]",
+        "Ville": "La....Claq.uette"
+      },
+      "Tel": "0391440125",
+      "Scenario": {
+        "Categorie": "OuvR.tus....e",
+        "Veuus": "a.vantag.....temps...pou...a...oisiks....",
+        "Complement": "auss...e....a.vantag.....temps...pou...a...oisiks....",
+        "Paue": "Magazine..Deo.",
+        "Reference client eventuelle": null,
+        "Interlocuteur": "Interlocuteur....Magazine..Deo.",
+        "Adresse": "Baure",
+        "Code postal": "[87190]",
+        "Ville": "DROuX",
+        "Redaction de stylo (noir) utilise": [
+          "bille",
+          "plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": "20.... minutes.",
+        "Contribution": {
+          "Jenvoie mon courrier par voie postale a la date du 95./.0210c": null,
+          "Mon courrier contient une page de garde de fax": null,
+          "Avant mon envoi postal, j'ai telecopie ma contribution le Elog[ok": null,
+          "Jai envoye par courriel mon courrier numerise le 4ulo9/ob": null
+        }
+      }
+    }
+  }
 }

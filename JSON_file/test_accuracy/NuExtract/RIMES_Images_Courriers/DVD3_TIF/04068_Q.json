@@ -1,33 +1,45 @@
 {
-    "Code d'envoi": "SEZFAI",
-    "Nom": "RINALDI",
-    "Prénom": "Severine",
-    "Adresse": "7 Rue de La Chambre",
-    "Code Postal": "88700",
-    "Ville": "DOMPTAIL",
-    "Téléphone": "0343179640",
-    "Catégorie Scénario": "Gestion de sinistre",
-    "Objet Scénario": "Vous faites appel à votre assurance habitation\\n",
-    "Complément Scénario": "Le toit a été endommagé par la\\nChute d'un arbre",
-    "Référence client": "BMDFD60",
-    "Interlocuteur": "NAIF ASSURANCES",
-    "Adresse Interlocuteur": "2 SQUARE ALBAN SATRAGNE",
-    "Code Postal Interlocuteur": "75010",
-    "Ville Interlocuteur": "PARIS",
-    "Temps passé": "45",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "24 mars 2007",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "23 Mars 2007",
-    "Résolution": "300",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "x",
-    "Marque et modèle scanner": "EPSON Perfection 2480"
+  "Code d'envoi": {
+    "Questionnaire": null,
+    "Identite fictive": {
+      "Nom": "R.i.N.A.L.D.",
+      "Prenom": null,
+      "Adresse": null,
+      "Code postal": "03439640",
+      "Ville": null,
+      "Tel": null
+    },
+    "Scenario": {
+      "Categorie": "Geshi.on....de.....ou's.a..",
+      "Objet": null,
+      "Complement": "e..to.....ndoo.ag....ehu......n...w.kre",
+      "Reference client eventuelle": null,
+      "Interlocuteur": "N..A......Assu.BA.N.c..S",
+      "Adresse": "SO...A.RE....A.A....SA.PAG..N.",
+      "Code postal": "75oo",
+      "Ville": "P.ARi`S"
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "bille",
+        "plume",
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": "4..... minutes"
+    },
+    "Contribution": {
+      "Cocher les elements de votre contribution pour le scenario traite": [
+        "J'envoie mon courrier par voie postale a la date du ....2...u..oo...",
+        "Mon courrier contient une page de garde de fax",
+        "Avant mon envoi postal, j'ai télécopié ma contribution le",
+        "J'ai envoyé par courriel mon courrier numérisé le ....?......2...."
+      ],
+      "Marque et modele du scanner": "C87?"
+    },
+    "Format": [
+      "PNG",
+      "GIF",
+      "TIFF"
+    ]
+  }
 }

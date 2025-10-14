@@ -1,33 +1,36 @@
 {
-  "Code d'envoi": "EAQPOE",
-  "Nom": "ReIGNIER",
-  "Prénom": null,
-  "Adresse": "bis..u...d...a...oye..ak...Sa",
-  "Code Postal": "2OO",
-  "Ville": "NASN%...N.eRNOl$",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": "Nous..souhai..e.z..vous..aire...emboues.",
-  "Complément Scénario": "e..n..p..oo.iue",
-  "Référence client": "Univers...Sal..asile",
-  "Interlocuteur": "Les..Ca..rie.es",
-  "Adresse Interlocuteur": "Le...Boug...sk...eme...",
-  "Code Postal Interlocuteur": "2]",
-  "Ville Interlocuteur": "T...emme...",
-  "Temps passé": "2..... minutes",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "J'envoie mon courrier par voie postale a la date du ...Z]..3",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le . 2%.1031?.",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le :",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identito fictive": {
+        "Nom": "ReIGNIER",
+        "Prenom": null,
+        "Adresse": "bis..u...d...a...oye..ak...Sa",
+        "Code postal": "2OO",
+        "Ville": "NASN%...N.eRNOl$",
+        "Tei": null
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": "Nous..souhai..e.z..vous..aire...emboues.",
+        "Complement": "coml.me......e...n..p..oo.iue",
+        "Reference client eventuelle": null,
+        "Interlocuteur": "Univers...Sal..asile",
+        "Adresse": "Le...Boug...sk...eme...Les..Ca..rie.es",
+        "Code postal": "b t 2]",
+        "Ville": "T...emme...Les..a..ienas"
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": null,
+        "Temps passe a traiter le scenario": "2..... minutes"
+      },
+      "Contribution": {
+        "Kl (6e)": null,
+        "(+2e)": "Mon courrier contient une page de garde de fax.",
+        "(+1€)": "J'ai envoyé par courriel mon courrier numérisé le :",
+        "@": null,
+        "Marque et modele du scanner": null,
+        "Resolution des images": null
+      }
+    }
+  }
 }

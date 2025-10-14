@@ -1,33 +1,39 @@
 {
   "Code d'envoi": "VzQtw",
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "G 7 So",
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": "Anma.kaom....2...d..omom.ro...oca.m...bounao",
-  "Complément Scénario": "Qucu.",
-  "Référence client": "nuGwNB",
-  "Interlocuteur": "mca......maMaoi.o",
-  "Adresse Interlocuteur": "poce...Ac'emo....mha.s",
-  "Code Postal Interlocuteur": "[33o]",
-  "Ville Interlocuteur": "a...X",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Identite fictive": {
+    "Nom": "Q.t.",
+    "Prenom": "Prénom ..Se/my",
+    "Adresse": "do...A...",
+    "Code postal": "G 7 So",
+    "Ville": "6ms",
+    "Tel": null,
+    "Categorie": "adcok.om...de...cmu.....ommm",
+    "Objet": "Anma.kaom....2...d..omom.ro...oca.m...bounao",
+    "Commessleo": "Qucu.",
+    "Reference client eventuelle": "nuGwNB",
+    "DDk_krzi": {
+      "Adresse": "poce...Ac'emo....mha.s",
+      "Ville": "[33o]Ville..o...a...X."
+    }
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [
+      "bille",
+      "plume",
+      "feutre"
+    ],
+    "Temps passe a traiter le scenario": "minutes."
+  },
+  "Contribution": {
+    "J'envoie mon courrier par voie postale a la date du": null,
+    "Mon courrier contient une page de garde de fax": "+2€",
+    "Avant mon envoi postal, j'ai telecopie ma contribution le": "+1£",
+    "J'ai envoye par courriel mon courrier numerise le": "+1£",
+    "Format": [
+      "PNG",
+      "GIF",
+      "TIFF"
+    ],
+    "Resolution des images": "ddd/!dp"
+  }
 }

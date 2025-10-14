@@ -1,32 +1,46 @@
 {
-  "Code d'envoi": "Questionnaire-MNEPCY",
-  "Nom": "LEBRETON",
-  "Prénom": "o.ENCE.",
-  "Adresse": "36.wo...anet",
-  "Code Postal": "lS4 4 7 Ol",
-  "Ville": "T.H1.AU.COoR.T..REGNiEViWE",
-  "Téléphone": "037663853",
-  "Catégorie Scénario": "exmotus&...d&..Compto",
-  "Objet Scénario": "losiation...d..assunanc..Jabiatian.",
-  "Complément Scénario": "vreua..ales..insatisPae)..d..eica",
-  "Référence client": "N.A.I.F...Assuancoo.",
-  "Interlocuteur": "N.A.I.F...Assuancoo.",
-  "Adresse Interlocuteur": "AU...OUR.G",
-  "Code Postal Interlocuteur": "3 38 6 O",
-  "Ville Interlocuteur": "&T...CAPRA1&...DE..BoRQ.EAUX",
-  "Temps passé": "1.S... minutes",
-  "Stylo bille": "bille",
-  "Stylo plume": "plume",
-  "Stylo feutre": "feutre",
-  "Contribution postale": "J'envoie mon courrier par voie postale ä la date du",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "LEBRETON",
+        "Prenom": "o.ENCE.",
+        "Adresse": "36.wo...anet",
+        "Code postal": "lS4 4 7 Ol",
+        "Ville": "T.H1.AU.COoR.T..REGNiEViWE",
+        "Tel": "037663853"
+      },
+      "Scenario": {
+        "Categorie": "exmotus&...d&..Compto",
+        "Objet": "losiation...d..assunanc..Jabiatian.",
+        "Complement": "vreua..ales..insatisPae)..d..eica",
+        "Reference client eventuelle": null,
+        "Interlocuteur": {
+          "NAIE_Assuancon_": {
+            "Adresse": "AU...OUR.G",
+            "Code postal": "3 38 6 O",
+            "Ville": "&T...CAPRA1&...DE..BoRQ.EAUX."
+          }
+        },
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille plume",
+            "feutre"
+          ],
+          "Temps passe a traiter le scenario": "1.S... minutes"
+        },
+        "Contribution": {
+          "Cocher les_elements_de_votre contribution pour le_scenario_traite": [
+            "X (6€) J'envoie mon courrier par voie postale ä la date du",
+            "(+2€) Mon courrier contient une page de garde de fax.",
+            "(+1€) Avant mon envoi postal, j'ai télécopié ma contribution le",
+            "(+1€) J'ai envoyé par courriel mon courrier numérisé le",
+            "Marque et modéle du scanner :"
+          ],
+          "Marque et modele du scanner": null,
+          "Format": [],
+          "Resolution des images": null
+        }
+      }
+    }
+  }
 }

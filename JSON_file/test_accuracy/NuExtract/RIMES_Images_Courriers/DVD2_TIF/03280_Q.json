@@ -1,33 +1,36 @@
 {
   "Code d'envoi": null,
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": null,
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Identite fictive": {
+    "Nom": "MAa.w!",
+    "Prenom": "chens.",
+    "Adresse": null,
+    "Code postal": "B &tO vil....v...le.....sh..",
+    "Ville": null,
+    "Tel": null
+  },
+  "Scenario": {
+    "Categorie": "ad..c.om.......ad",
+    "Objet": "ay.sww.....es...aIies..a...w.ssek",
+    "Complement": "d.mm.mdecs.",
+    "Reference client eventuelle": null,
+    "Interlocuteur": null,
+    "Adresse": null,
+    "Code postal": "3 uO] Ville...sau...uw",
+    "Ville": null
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [],
+    "Temps passe a traiter le scenario": null
+  },
+  "Contribution": {
+    "Elements de contribution": {
+      "(6€) J'envoie mon courrier par voie postale a la date du 05/23421": null,
+      "(+2e) Mon courrier contient une page de de fax": null,
+      "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le 05/oz/ex": null,
+      "(+1€) Jai envoye par courriel mon courrier numerise le OS/oi/2x": null
+    },
+    "Marque et modele du scanner": null,
+    "Format": [],
+    "Resolution des images": null
+  }
 }

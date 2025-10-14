@@ -1,33 +1,40 @@
 {
-  "Code d'envoi": "FRQnu",
-  "Nom": "D.URo.G",
-  "Prénom": "maxs.s",
-  "Adresse": "16t29.0",
-  "Code Postal": "vie.....'s.Meen.",
-  "Ville": "g3g2956E2",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": "kMGM9",
-  "Interlocuteur": "ANiF...ASu!...",
-  "Adresse Interlocuteur": "o....",
-  "Code Postal Interlocuteur": "6 36 4o",
-  "Ville Interlocuteur": "CUA.RESAT.",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "A&.A..."
+  "Code d'envoi": {
+    "Questionnaire": "FRQnu",
+    "Identite fictive": {
+      "Nom": "D.URo.G",
+      "Prenom": "maxs.s"
+    },
+    "Adresse": "16t29.0",
+    "Code postal": "vie.....'s.Meen.",
+    "Tel": "g3g2956E2",
+    "Scenario": {
+      "Categorie": "...tm.......uei..",
+      "Objet": [
+        "uw......A.....A.ss..aw....t..a.."
+      ],
+      "Complement": "o..m...o.ou.a......s........vos."
+    },
+    "Reference client eventuelle": "dr e id.....no.",
+    "Interlocuteur": "ANiF...ASu!...",
+    "Ville": "CUA.RESAT."
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [
+      "bille",
+      "plume",
+      "feutre"
+    ],
+    "Temps passe a traiter le scenario": null
+  },
+  "Contribution": {
+    "Cocher les_elements_de_votre contribution pour le scenario traite": [],
+    "Marque et modele du scanner": ".A&.A...",
+    "Format": [
+      "PNG",
+      "GIF",
+      "TIFF"
+    ],
+    "Resolution des images": ".2.... dpi/pp"
+  }
 }

@@ -1,32 +1,51 @@
 {
-  "Code d'envoi": "CHkOO",
-  "Nom": "H....",
-  "Prénom": "Caci.oe",
-  "Adresse": "B.l.B.l.CH.E.",
-  "Code Postal": "5  32o]",
-  "Ville": "B.l.B.l.CH.E.",
-  "Téléphone": "0360908909",
-  "Catégorie Scénario": "g.es..an...de..inis.tae..",
-  "Objet Scénario": "ous...whai.....te...couest....au...t...de...a",
-  "Complément Scénario": "ou...ave...pooxou......usdit...un.",
-  "Référence client": "NFyxp77",
-  "Interlocuteur": "MM.A....",
-  "Adresse Interlocuteur": "Rouan",
-  "Code Postal Interlocuteur": "2So] vile..ev.ill..l...Rouan",
-  "Ville Interlocuteur": "Rouan",
-  "Temps passé": "2.Q... minutes",
-  "Stylo bille": "noir",
-  "Stylo plume": "noir",
-  "Stylo feutre": "noir",
-  "Contribution postale": "X (6€) J'envoie mon courrier par voie postale a la date du ..0.&....0.3....2QQ...",
-  "Date d'envoi postal": "..0.&....0.3....2QQ...",
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": "..0.?...03...200.7...",
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le ..0.?...03...200.7...",
-  "Résolution": null,
-  "Format PNG": "3.0O... dpi/pp",
-  "Format GIF": "3.0O... dpi/pp",
-  "Format TIFF": "3.0O... dpi/pp",
-  "Marque et modèle scanner": "H.P...PSC.....S.."
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "H....",
+        "Prenom": "Caci.oe",
+        "Adresse": "B.l.B.l.CH.E.",
+        "Code postal": "5  32o",
+        "Ville": "B.l.B.l.CH.E.",
+        "Tel": "0360908909"
+      },
+      "Scenario": {
+        "Categorie": "g.es..an...de..inis.tae..",
+        "Objet": "ous...whai.....te...couest....au...t...de...a",
+        "Complement": "sanoabité...civi.le.",
+        "Reference client eventuelle": "MM.A....",
+        "Interlocuteur": {
+          "NNA": "MM.A....",
+          "Adresse": "Rouan",
+          "Code postal": "2So",
+          "Ville": "Rouan"
+        },
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+          ],
+          "Temps passe a traiter le scenario": "2.Q... minutes"
+        },
+        "Contribution": {
+          "Cocher les_elements de votre contribution pour le_scenario_ traite": [
+            "X (6€)",
+            "Mon courrier contient une page de garde de fax.",
+            "Avant mon envoi postal, j'ai télécopié ma contribution le",
+            "J'ai envoyé par courriel mon courrier numérisé le"
+          ]
+        },
+        "Marque et modele du scanner": [
+          "H.P...PSC.....S.."
+        ],
+        "Format": [
+          "PNG",
+          "GIF",
+          "TIFF"
+        ],
+        "Resolution des images": "3.0O... dpi/pp"
+      }
+    }
+  }
 }

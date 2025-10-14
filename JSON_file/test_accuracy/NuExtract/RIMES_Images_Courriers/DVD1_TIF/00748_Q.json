@@ -1,33 +1,41 @@
 {
-    "Code d'envoi": "WBJKYM",
-    "Nom": "LANDREAU",
-    "Prénom": "KARIN",
-    "Adresse": "4 rue de Chambren",
-    "Code Postal": "54180",
-    "Ville": "HOUDEMONT",
-    "Téléphone": "0308260646",
-    "Catégorie Scénario": "Modification de contrat / Commande",
-    "Objet Scénario": "Commande d'un lot de cinquante CD vierges\\n",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "ZRXMS41",
-    "Interlocuteur": "Les 3 Suifs",
-    "Adresse Interlocuteur": "15 rue Jules FERRY",
-    "Code Postal Interlocuteur": "09100",
-    "Ville Interlocuteur": "ST JEAN DU FALGA",
-    "Temps passé": "15",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "30/10/2006",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "29/10/2006",
-    "Résolution": "400",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "x",
-    "Marque et modèle scanner": "EPSON CX6400"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "LANDREAU",
+        "Prenom": "K.A.",
+        "Adresse": "u.wx..u..Cham/r.n",
+        "Code postal": "Snn!&O] ville ...o.uD6AON",
+        "Ville": null,
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": "acp.calicn.cu..conhral../.cammac",
+        "Objet": "conmoand...d.u...d...cquau....ces",
+        "Complement": "awwr.",
+        "Reference client eventuelle": null,
+        "Adresse": null,
+        "Code postal": null,
+        "Ville": null
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille",
+          "plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le scenario traite": [],
+        "Marque et modele du scanner": "EsQN....C..Gu.o.",
+        "Format": [
+          "PNG",
+          "GIF",
+          "TIFF"
+        ],
+        "Resolution des images": "4.Q0.... dpi/ppp"
+      }
+    }
+  }
 }

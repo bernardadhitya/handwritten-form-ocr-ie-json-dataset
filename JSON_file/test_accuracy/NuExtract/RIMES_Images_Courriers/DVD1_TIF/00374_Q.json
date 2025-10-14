@@ -1,33 +1,53 @@
 {
-  "Code d'envoi": "DAWETD",
-  "Nom": "Xusa",
-  "Prénom": "Daniell",
-  "Adresse": "u...das...Beguot",
-  "Code Postal": "LG819nO",
-  "Ville": "&muR&um",
-  "Téléphone": "032895g4",
-  "Catégorie Scénario": "esia.....s mist.e..",
-  "Objet Scénario": null,
-  "Complément Scénario": "o...as...su..um...kgat....auo",
-  "Référence client": "0mFuc4B",
-  "Interlocuteur": "NA.F....A.ssurans",
-  "Adresse Interlocuteur": "Le...Bau",
-  "Code Postal Interlocuteur": "[4444O]",
-  "Ville Interlocuteur": "ROQuEFfQR....DE...SAUL.T",
-  "Temps passé": "2.Q... minutes.",
-  "Stylo bille": "noir",
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "J'envoie mon courrier par voie postale á la date du ...29.../.09...06.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal. j'a télécopié ma contribution le ..29...0.9./.06.",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le ..98../.09....06.",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": "1!4.9..... dpi/pp",
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "Can.o....ix.....MP...Q"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "Xusa",
+        "Prenom": "Daniell"
+      },
+      "Adresse": {
+        "Adresse": "u...das...Beguot",
+        "Code postal": "LG819nO",
+        "Ville": "032895g4"
+      },
+      "Tel": null
+    },
+    "Scenario": {
+      "Categorie": "esia.....s mist.e..",
+      "Anubie": null,
+      "Isu_!aitia": null,
+      "AAwonce": null,
+      "Complement": ".o...as...su..um...kgat....auo",
+      "Qau": null,
+      "Interlocuteur": "NA.F....A.ssurans",
+      "Assurance": {
+        "Adresse": "Le...Bau",
+        "Code postal": "[4444O]",
+        "Ville": "ROQuEFfQR....DE...SAUL.T"
+      }
+    },
+    "Redaction": {
+      "Type de styio (noir) utilise": [
+        "bille",
+        "piume",
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": "2.Q... minutes."
+    },
+    "Contribution": {
+      "Cocher _les elements de votre contribution pour le scenario traite": [
+        "(6e) J'envoie mon courrier par voie postale á la date du ...29.../.09...06.",
+        "+2€) Mon courrier contient une page de garde de fax.",
+        "+18) Avant mon envoi postal. j'a télécopié ma contribution le ..29...0.9./.06.",
+        "+1e) J'ai envoyé par courriel mon courrier numérisé le ..98../.09....06."
+      ],
+      "Marque et modele du scanner": "Can.o....ix.....MP...Q",
+      "Format": [
+        "PNG",
+        "GIF",
+        "TIFF"
+      ],
+      "Resolution des images": "1!4.9..... dpi/pp"
+    }
+  }
 }

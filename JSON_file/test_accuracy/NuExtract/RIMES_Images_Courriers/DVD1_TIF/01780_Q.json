@@ -1,33 +1,39 @@
 {
   "Code d'envoi": "AZFPSO",
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "34s] vill ..d..",
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": "K7x45",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": "Adrese...A...wnne....ean...ues.",
-  "Code Postal Interlocuteur": "42b]vill .....asguc...ak..",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "ddd/!dp"
+  "Questionnaire": null,
+  "Identite fictive": {
+    "Nom": null,
+    "Prenom": null,
+    "Adresse": null,
+    "Ville": null,
+    "Code": null,
+    "Tel": null
+  },
+  "Categorie": null,
+  "Objet": null,
+  "Complement": null,
+  "Reference client eventuelle": "2",
+  "Interlocuteur": "Adrese...A...wnne....ean...ues.",
+  "Redaction": {
+    "Type de stylo (noir) utilise": [
+      "bille",
+      "plume",
+      "feutre"
+    ],
+    "a traiter le scenario": null,
+    "Temps": null
+  },
+  "Contribution": null,
+  "Cocher": {
+    "courrier par voie": null,
+    "Jenvoie mon": null,
+    "Mon courrier contient une page de": "garde de fax",
+    "Avant mon envoi postal; jai telecopie ma contribution le": null,
+    "Jai par courriel mon courrier numerise le": null,
+    "Marque et modele du scanner": [
+      "ddd/!dp"
+    ],
+    "Resolution des images": null,
+    "Format": null
+  }
 }

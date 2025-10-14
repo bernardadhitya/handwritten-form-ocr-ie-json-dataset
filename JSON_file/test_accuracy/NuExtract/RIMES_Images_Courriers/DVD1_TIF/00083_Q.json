@@ -1,33 +1,33 @@
 {
-  "Code d'envoi": "GYGwLIT",
-  "Nom": "....aaume.",
-  "Prénom": null,
-  "Adresse": "18 834n6 ville",
-  "Code Postal": null,
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": "ao..ctn..",
-  "Complément Scénario": "wrrg",
-  "Référence client": "llolcl",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "16'+o]",
-  "Ville Interlocuteur": "HA.",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": "GYGwLIT",
+    "Identite fictive": {
+      "Nom": null,
+      "Prenom": null,
+      "Adresse": "18 834n6 ville",
+      "Code postal": null,
+      "Ville": null,
+      "Tel": null
+    },
+    "Scenario": {
+      "Categorie": null,
+      "Objet": null,
+      "Complement": null,
+      "Reference client eventuelle": null,
+      "Adresse": null,
+      "Code postal": null,
+      "Ville": null,
+      "Redaction": {
+        "Type de stylo (noir) utilise": [],
+        "Temps passe a traiter le scenario": null,
+        "Contribution": {
+          "Cocher les elements de_votre contribution pour le_scenario traite": []
+        }
+      },
+      "Marque et modele du scanner": null,
+      "Format": [],
+      "Resolution des images": null,
+      "Hopauume": null
+    }
+  }
 }

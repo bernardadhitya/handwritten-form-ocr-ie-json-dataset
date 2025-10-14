@@ -1,33 +1,36 @@
 {
-  "Code d'envoi": "3o vile....u.dw......ich.e",
-  "Nom": "M.O.N.O.R.E",
-  "Prénom": "Pppe",
-  "Adresse": null,
-  "Code Postal": "03870F6g5",
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": "es.mu.....amp",
-  "Objet Scénario": "h....a.......a...o.",
-  "Complément Scénario": "QDBQx26",
-  "Référence client": "BA.....A.w..e.ce.",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": "Vill....adgyaan",
-  "Code Postal Interlocuteur": "331 7 O] Vill....adgyaan",
-  "Ville Interlocuteur": null,
-  "Temps passé": "2..0.... minutes",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier par voie postale a la date du ...././.2..",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le ../...?...",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le....S...2a....",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "M.O.N.O.R.E",
+        "Prenom": "Pppe",
+        "Adresse": null,
+        "Code postal": "30870F6g5",
+        "Ville": null,
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": "es.mu.....amp",
+        "Objet": "h....a.......a...o.",
+        "Complement": "QDBQx26",
+        "Reference client eventuelle": null
+      },
+      "Interlocuteur": {
+        "Nom": "BA.....A.w..e.ce.",
+        "Adresse": "Vill....adgyaan",
+        "Code postal": "331 7 O] Vill....adgyaan",
+        "Ville": null
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [],
+        "Temps passe a traiter le scenario": "...2..0.... minutes."
+      },
+      "Contribution": {
+        "Elements de contribution": [],
+        "Marque et modele du scanner": null,
+        "Format": [],
+        "Resolution des images": null
+      }
+    }
+  }
 }

@@ -1,33 +1,31 @@
 {
   "Code d'envoi": "FRDAEO",
-  "Nom": "ash'ne",
-  "Prénom": "e",
-  "Adresse": "Be ville...A6....",
-  "Code Postal": "0394324256",
-  "Ville": "KeaG.shen",
-  "Téléphone": null,
-  "Catégorie Scénario": "m.di.co.h..a...o...co.",
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": "...y.mn.a..",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "L"
+  "Identite fictive": {
+    "Nom": "ash'ne",
+    "Prenom": "e",
+    "Adresse": "Be ville...A6....",
+    "Code postal": "0394324256",
+    "Ville": "KeaG.shen",
+    "Tel": null
+  },
+  "Scenario": {
+    "Categorie": "m.di.co.h..a...o...co.",
+    "Objet": null,
+    "Comna^Xees": null,
+    "Complement": null,
+    "Reference client eventuelle": "...y.mn.a..",
+    "Interlocuteur": null,
+    "Adresse": null,
+    "Code postal": null,
+    "Ville": null
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [],
+    "Temps passe a traiter le scenario": null
+  },
+  "Contribution": {
+    "Elements de contribution": [],
+    "Marque et modele du scanner": null,
+    "Resolution des images": null
+  }
 }

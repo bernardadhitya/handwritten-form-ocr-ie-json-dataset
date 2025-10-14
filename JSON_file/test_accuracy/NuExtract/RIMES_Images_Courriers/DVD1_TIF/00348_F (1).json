@@ -1,15 +1,16 @@
 {
-  "document": "GRTgaz",
-  "scenario": "RESEAUNORDEST",
-  "writer": "AGENCEEXPLOITATION LILLE-BETHUNE",
-  "sender_person": "Viviane GAUCHER",
-  "sender_company": "AGENCEEXPLOITATION LILLE-BETHUNE",
-  "sender_tel": "08.2164.79.30",
-  "sender_fax": "63.2164.79.49",
-  "receiver_person": "Viviane GAUCHER",
-  "receiver_company": "AGENCEEXPLOITATION LILLE-BETHUNE",
-  "subject": "accidante",
-  "date": null,
-  "place": null,
-  "box": null
+  "RESEAU": "GR1goz",
+  "COMPANY": "GRTgaz",
+  "AGENCE": "EXPLOITATION LILLE-BETHUNE",
+  "ADDRESS": {
+    "STREET": "35 Rua de I'olore",
+    "CITY": "Lille",
+    "POSTAL_CODE": "57 32"
+  },
+  "CONTACT": {
+    "NAME": "Viviane GAUCHER",
+    "PHONE": "08.2164.79.30",
+    "FAX": "63.2164.79.49",
+    "WEBSITE": "www.gtgo.com"
+  }
 }

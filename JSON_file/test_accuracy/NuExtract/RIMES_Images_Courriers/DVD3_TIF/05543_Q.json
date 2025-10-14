@@ -1,33 +1,39 @@
 {
-  "Code d'envoi": "Edentité fictive",
-  "Nom": "eS.He.",
-  "Prénom": "a.deSeioe..",
-  "Adresse": "a.gmon....u..aeau..",
-  "Code Postal": "3o ville...s...&.....au..Gl.",
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "Le t, 4 2o Vill ...Baus...u.cHe.",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon anvai postal, 'al taléaa ma contributian iu",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai cnvoyé par courriel mon courrier numérisé le",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "eS.He.",
+        "Prenom": "a.deSeioe..",
+        "Adresse": "a.gmon....u..aeau..",
+        "Code postal": "3o ville...s...&.....au..Gl.",
+        "Ville": null,
+        "Tel": null
+      }
+    },
+    "Scenario": {
+      "Categorie": "e.mcu.c.....am.",
+      "Objet": "és..as.an.....au.ance...aat?",
+      "Oa": null,
+      "Complement": "s.e...a...h...e",
+      "Reference client ouverture": null,
+      "Interlocuteur": null,
+      "Adresse": null,
+      "Code postal": "Le t, 4 2o Vill ...Baus...u.cHe.",
+      "Ville": null,
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille",
+          "plume",
+          "feutre"
+        ],
+        "Temps passe & traiter le scenario": null,
+        "Contribution": {
+          "Cutimer": null,
+          "Contribution pour le scenario traite": null,
+          "Marque et modele du scanner": [],
+          "Resolution des images": null
+        }
+      }
+    }
+  }
 }

@@ -1,32 +1,33 @@
 {
-  "Code d'envoi": "TYAWJR",
-  "Nom": "B.E.LLEC",
-  "Prénom": "C..H.R.I.S.I.A.N.E",
-  "Adresse": "R....N..A..E",
-  "Code Postal": "6 vill..t.ens.boung",
-  "Ville": null,
-  "Téléphone": "Te036983403",
-  "Catégorie Scénario": "Chengemesk.....omnkes..gessonnell",
-  "Objet Scénario": "Nowue.",
-  "Complément Scénario": "ou...c.lauge.al...amqu",
-  "Référence client": "NSt674",
-  "Interlocuteur": "D..",
-  "Adresse Interlocuteur": "RU........AVI..NON",
-  "Code Postal Interlocuteur": "68OS 2",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "J'envoie mon courrier par voie postale á la date du . &i..4.4.0.6.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le .&I./4../..k..",
-  "Résolution": null,
-  "Format PNG": "3Q dpi/ppp",
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "Canom....Camo.Scan....&.3.s."
+  "Code d'envoi": null,
+  "Questionnaire": null,
+  "Identite fictive": {
+    "Nom": "B.E.LLEC",
+    "Prenom": "C..H.R.I.S.I.A.N.E",
+    "Adresse": "R....N..A..E",
+    "Code postal": "6 vill..t.ens.boung",
+    "Ville": null,
+    "Tel": "Te036983403"
+  },
+  "Scenario": {
+    "Categorie": "Chengemesk.....omnkes..gessonnell",
+    "Objet": "Nowue.",
+    "Complement": "ou...c.lauge.al...amqu"
+  },
+  "Reference client eventuelle": {
+    "Interlocuteur": "D..",
+    "Adresse": "RU........AVI..NON",
+    "Code postal": "68OS 2",
+    "Ville": null
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [],
+    "Temps passe a traiter le scenario": null
+  },
+  "Contribution": {
+    "Cocher les elements de votre contribution pour le scenario traite": [],
+    "Marque et modele du scanner": ".Canom....Camo.Scan....&.3.s.",
+    "Format": [],
+    "Resolution des images": "3Q dpi/ppp"
+  }
 }

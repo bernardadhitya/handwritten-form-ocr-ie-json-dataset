@@ -1,33 +1,44 @@
 {
-  "Code d'envoi": "BESGAD",
-  "Nom": "ELAyE",
-  "Prénom": "Hagadi",
-  "Adresse": "A...RU....BEUE.uE",
-  "Code Postal": "3s056uoF",
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": "uaw..aus..alaiqmet..a.muusamcos..aanoa",
-  "Complément Scénario": "a..d.em..da..uco..waowm.cat...cp..ouyamt",
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": "O.sus...do..noos...umie.o",
-  "Code Postal Interlocuteur": "70 OO",
-  "Ville Interlocuteur": "LA.R0cH6K",
-  "Temps passé": "Q... minutes.",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "X (+2€)",
-  "Option envoi par fax": "X (+2€)",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "X (+1€)",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "ELAyE",
+        "Prenom": "Hagadi",
+        "Adresse": "A...RU....BEUE.uE",
+        "Code postal": "3s056uoF",
+        "Ville": null,
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie Reckulian": null,
+        "Naigmez_d tuiscvncea.Aciaa": null,
+        "Jhuuyamt": null,
+        "Interlocuteur": null,
+        "Adresse": "O.sus...do..noos...umie.o",
+        "Code": "70 OO",
+        "Ville": "LA.R0cH6K"
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille plume feutre"
+        ],
+        "Temps passe a traiter le scenario": "Q... minutes."
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le_scenario_traite": {
+          "(6e) J'envoie mon courrier par voie postale à la date du": "4..dömbR.",
+          "(+2e) Mon courrier contient une page de garde de fax": "Mon courrier contient une page de garde de fax.",
+          "(+1C) Avant mon envoi postal, j'ai telecopie ma contribution le A?._dctombia.Ib.": "Avant mon envoi postal, j'ai telecopie ma contribution le A?._dctombia.Ib.",
+          "(+1€) Jai envoye par courriel mon courrier numerise le": "J'ai envoyé par courriel mon courrier numerisé le."
+        },
+        "Marque et modele du scanner": "L.",
+        "Format": [
+          "PNG",
+          "GIF",
+          "RIFF"
+        ],
+        "Resolution des images": "ppp"
+      }
+    }
+  }
 }

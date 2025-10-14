@@ -1,15 +1,46 @@
 {
-  "document": "reclamalior",
-  "scenario": null,
-  "writer": "Franane GuiNE",
-  "sender_person": "Hadane",
-  "sender_company": null,
-  "sender_tel": "03.60.59.93.47",
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": null,
-  "date": "2006-12-14",
-  "place": "83 8oO T6u1on-Naval",
-  "box": null
+  "address": {
+    "street": "4 grand rue",
+    "city": "Bacourt",
+    "country": "Bacourt",
+    "postal_code": "5759o"
+  },
+  "phone": {
+    "number": "03.60.59.93.47"
+  },
+  "email": {
+    "address": "HA wGY o"
+  },
+  "modem": {
+    "provider": null,
+    "address": null
+  },
+  "bank": {
+    "account": null,
+    "account_number": null
+  },
+  "services": {
+    "type": "reclamalior",
+    "provider": null
+  },
+  "security": {
+    "type": null,
+    "provider": null
+  },
+  "multi": {
+    "type": "TV multi",
+    "provider": null
+  },
+  "investment": {
+    "type": null,
+    "provider": null
+  },
+  "reference": {
+    "number": "cUent=HA wGY o",
+    "date": "14 dmbre 2006"
+  },
+  "contact": {
+    "name": "Hadane",
+    "title": "Honsiur"
+  }
 }

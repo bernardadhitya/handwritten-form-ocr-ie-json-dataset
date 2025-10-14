@@ -1,14 +1,16 @@
 {
-  "document": "Cordialemenf",
-  "scenario": null,
-  "writer": "Damien",
-  "sender_person": "Frux Domien",
-  "sender_company": null,
-  "sender_tel": null,
-  "sender_fax": null,
-  "receiver_person": "Coe Clen",
-  "receiver_company": "EUDAG",
-  "date": null,
-  "place": "26 rue des FsuveHes",
-  "box": "48"
+  "Client": {
+    "Name": "Damien",
+    "Address": "26 rue des FsuveHes",
+    "Date of Subscription": null
+  },
+  "Subscription": {
+    "Type": null,
+    "Price": null,
+    "Duration": null
+  },
+  "Payment": {
+    "Amount": null,
+    "Date": null
+  }
 }

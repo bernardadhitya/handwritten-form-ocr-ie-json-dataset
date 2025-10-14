@@ -1,33 +1,33 @@
 {
-  "Code d'envoi": "VMXEUM",
-  "Nom": null,
-  "Prénom": "te.o.Rane",
-  "Adresse": null,
-  "Code Postal": "6t53 0",
-  "Ville": null,
-  "Téléphone": "0343543372",
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": "La...e.boute",
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "3874O",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "Cano....Canocan....de"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "P.ER.RAU..",
+        "Prenom": "te.o.Rane",
+        "Adresse": null,
+        "Code postal": "[6t53 0]",
+        "Ville": "o.T.T.R.o.T.T.",
+        "Tel": "0343543372"
+      },
+      "Scenario": {
+        "Categorie": "cangemen....oncernan....o....eni",
+        "Objet": "com.m.asce",
+        "Complement": "commade",
+        "Reference client eventuelle": null,
+        "Interlocuteur": "La...e.boute",
+        "Adresse": null,
+        "Ville": null
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": null,
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les elements de_votre contribution pour le_scenario traite": null,
+        "Marque et modele du scanner": "Cano....Canocan....de",
+        "Format": "PNG GIF TIFF",
+        "Resolution des images": "3...9... dpi/ppp"
+      }
+    }
+  }
 }

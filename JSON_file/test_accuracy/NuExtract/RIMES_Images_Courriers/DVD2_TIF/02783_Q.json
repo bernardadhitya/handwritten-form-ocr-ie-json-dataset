@@ -1,32 +1,49 @@
 {
-  "Code d'envoi": "Questionnaire-OCNENZ",
-  "Nom": "HA.E.",
-  "Prénom": "IsABEUE",
-  "Adresse": "CGrand...ue..",
-  "Code Postal": "68Z9d",
-  "Ville": "&WEN",
-  "Téléphone": "03527463",
-  "Catégorie Scénario": "Changement.....doannéeo...er.someles",
-  "Objet Scénario": "bue...tuahan...amiua.e",
-  "Complément Scénario": "/aus...uow....an'e?",
-  "Référence client": "Reférence client éventuelle",
-  "Interlocuteur": "N.ANI.F.....ASSURAN.CES",
-  "Adresse Interlocuteur": "Rue...Joliue..",
-  "Code Postal Interlocuteur": "[5:6;23o] ville.noLAC",
-  "Ville Interlocuteur": "noLAC",
-  "Temps passé": null,
-  "Stylo bille": "Xl bille",
-  "Stylo plume": "plume feutre",
-  "Stylo feutre": null,
-  "Contribution postale": "J'envoie mon courrier par voie postale a la date du",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai telécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'al envoyé par courriei mon courrier numérisé le 3..02...0.",
-  "Résolution": null,
-  "Format PNG": "2eo... dpi/pp",
-  "Format GIF": "2eo... dpi/pp",
-  "Format TIFF": "2eo... dpi/pp",
-  "Marque et modèle scanner": "BRoTHER.....MFC..322o..C"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "HA.E.",
+        "Pranom": "IsABEUE.",
+        "Adresse": {
+          "Grand": "CGrand",
+          "Code postal": 68.0,
+          "Ville": "&WEN",
+          "Tel": "03527463"
+        }
+      },
+      "Scenario": {
+        "Categorie": "Changement",
+        "Objet": "bue tuahan amiua",
+        "Complement": "/aus uow an'e?",
+        "Reference client eventuelle": "Reférence client éventuelle",
+        "Interlocuteur": "N.ANI.F ASSURAN.CES",
+        "Adresse": {
+          "Que": "Rue Joliue",
+          "Code postal": 5.0,
+          "Ville": "noLAC"
+        },
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "Xl bille",
+            "plume",
+            "feutre"
+          ],
+          "Temps passe & traiter le scenario": null,
+          "Contribution": {
+            "Secher les elemente de vetre centribution peur le ecenarig treite": null,
+            "(+2E) Mon courricr contient une page de garde de fax": "Mon courrier contient une page de garde de fax.",
+            "(+1€) Avant mon envoi postal; /'ai telecopie ma contribution le E": "J'ai telecopié ma contribution le E.",
+            "(+1€) Jai envoye par courriel mon courrier numerise le 43.02": "J'ai envoyé par courriel mon courrier numerisé le 43.02."
+          },
+          "Marque et modele du scanner": "BRoTHER MFC 322",
+          "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+          ],
+          "Resolution des images": "200 dpi/pp"
+        }
+      }
+    }
+  }
 }

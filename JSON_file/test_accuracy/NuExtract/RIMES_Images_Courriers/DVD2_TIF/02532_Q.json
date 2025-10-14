@@ -1,32 +1,33 @@
 {
-  "Code d'envoi": null,
-  "Nom": null,
-  "Prénom": "A.R.",
-  "Adresse": "3w.....H..w.U",
-  "Code Postal": "L64o",
-  "Ville": "ZN.SwI.LLER",
-  "Téléphone": null,
-  "Catégorie Scénario": "no.d.fml.o.n..de..con.tnak/cammmn.d.",
-  "Objet Scénario": "A.ugm.enbatiom..x.a..da..quanHle..de.chaussotle..anmahole",
-  "Complément Scénario": "HBANE7",
-  "Référence client": null,
-  "Interlocuteur": "e.....u.s.",
-  "Adresse Interlocuteur": "laco......ach..",
-  "Code Postal Interlocuteur": "6 96 7o",
-  "Ville Interlocuteur": "VAu.G.N.ER.AY",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "A.R.",
+        "Prenom": null,
+        "Adresse": "3w.Hw.U",
+        "Code": "L64o",
+        "Ville": "ZN.SwI.LLER",
+        "Tei": null,
+        "Categorie ledl": null,
+        "Objet": "A.ugm.enbatiom..x.a..da..quanHle..de.chaussotle..anmahole",
+        "Complement": "HBANE7",
+        "Interlocuteur": "e.....u.s.",
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+          ],
+          "Temps passe a traiter le scenario": null
+        },
+        "Contribution": {
+          "Cocher les elements de votre_contribution pour le_scenario _traite": [
+            "Mon courrier contient une page de garde de fax",
+            "Avant mon envoi postal, j'ai télécopié ma contribution le",
+            "J'ai envoyé par courriel mon courrier numérisé le"
+          ]
+        }
+      }
+    }
+  }
 }

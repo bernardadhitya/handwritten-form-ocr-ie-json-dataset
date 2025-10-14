@@ -1,33 +1,45 @@
 {
-  "Code d'envoi": "FYxvz",
-  "Nom": "Baunge",
-  "Prénom": "a.mmuque",
-  "Adresse": "u...a.s.ado...Aende",
-  "Code Postal": "54920",
-  "Ville": "omta",
-  "Téléphone": "0323429333",
-  "Catégorie Scénario": "afisatim.....conhat....ommamd",
-  "Objet Scénario": "Augmkatio.. x..es..guamtire...e.ckawsete..commamd",
-  "Complément Scénario": "a.u...",
-  "Référence client": "MQCMQO?",
-  "Interlocuteur": "La.. Rebowte",
-  "Adresse Interlocuteur": "Av&w...Gambetta",
-  "Code Postal Interlocuteur": "[80O;0]",
-  "Ville Interlocuteur": "Auxen",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "X (6€) J'envoie mon courrier par voie postale ä la date du ..42/12./2006",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Xl (+2€) Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Xl (+2€) Mon courrier contient une page de garde de fax.",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "Xl (+2€) Mon courrier contient une page de garde de fax.",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": "200 dpi/ppp",
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "H?..?SC..1315"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "Baunge",
+        "Prenom": "a.mmuque",
+        "Adresse": "u...a.s.ado...Aende",
+        "Code postal": "54920",
+        "Ville": "omta",
+        "Tel": "0323429333"
+      },
+      "Scenario": {
+        "Categorie": "afisatim",
+        "Objet": "Augmkatio",
+        "Complement": "a.u...",
+        "Reference client eventuelle": "MQCMQO?",
+        "Interlocuteur": "La.. Rebowte",
+        "Adresse": "Av&w...Gambetta",
+        "Code postal": "[80O;0]",
+        "Ville": "Auxen",
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille plume",
+            "feutre"
+          ],
+          "Temps passe a traiter le scenario": null
+        },
+        "Contribution": {
+          "Cocher les elements de votre contribution pour le scenario traite": [
+            "X (6€)",
+            "Xl (+2€)",
+            "Avant mon envoi postal, j'ai télécopié ma contribution le"
+          ],
+          "Marque et modele du scanner": "H?..?SC..1315",
+          "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+          ],
+          "Resolution des images": "200 dpi/ppp"
+        }
+      }
+    }
+  }
 }

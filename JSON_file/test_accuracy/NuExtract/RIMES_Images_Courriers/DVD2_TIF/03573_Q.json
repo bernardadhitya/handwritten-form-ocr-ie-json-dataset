@@ -1,33 +1,39 @@
 {
   "Code d'envoi": "FNNCHY",
-  "Nom": "A...EE",
-  "Prénom": "abienoe",
-  "Adresse": "A...w....ou....sE.E",
-  "Code Postal": "5 9n54",
-  "Ville": "CkEs.t.iN.",
-  "Téléphone": "0338455060",
-  "Catégorie Scénario": null,
-  "Objet Scénario": "changemen...d...donae....pes.a....'.",
-  "Complément Scénario": "Au.wm.",
-  "Référence client": "Iinterlocuteu ..Q.uot.e.....an....",
-  "Interlocuteur": "Q.uot.e.....an....",
-  "Adresse Interlocuteur": "A....us..d....pot",
-  "Code Postal Interlocuteur": "5 9n54",
-  "Ville Interlocuteur": "CkEs.t.iN.",
-  "Temps passé": "45..... minutes",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, 'ai télécopié ma contribution le ...0..nau...co.7",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "HP..Scowy&t...22.00..c"
+  "Identite fictive": {
+    "Nom": "A...EE",
+    "Prenom": "abienoe.",
+    "Adresse": "A...w....ou....sE.E",
+    "Code postal": "5 9n54",
+    "Ville": "CkEs.t.iN.",
+    "Tel": "0338455060"
+  },
+  "Scenario": {
+    "Categorie": null,
+    "Objet": "changemen...d...donae....pes.a....'.",
+    "Complement": "Au.wm.",
+    "Reference client eventuelle": "Iinterlocuteu ..Q.uot.e.....an....",
+    "Adresse": "A....us..d....pot",
+    "Code postal": "5 9n54",
+    "Ville": "CkEs.t.iN."
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [
+      "bille",
+      "plume",
+      "feutre"
+    ],
+    "Temps passe a traiter le scenario": "45..... minutes"
+  },
+  "Contribution": {
+    "Cechoukos": null
+  },
+  "Envoi": {
+    "Jenvoie mon courrier par voie postale a la date du": null,
+    "Mon courrier contient une page de garde de fax": "+2€",
+    "Jai envoye par courriel mon courrier numerise le": "+1@"
+  },
+  "Marque et modele du scan": "HP..Scowy&t...22.00..c",
+  "Format": [],
+  "Resolution des images": null
 }

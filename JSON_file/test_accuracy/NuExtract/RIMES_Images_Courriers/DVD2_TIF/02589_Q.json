@@ -1,32 +1,29 @@
 {
   "Code d'envoi": "uankp",
-  "Nom": "Quou..",
-  "Prénom": "Sulue",
-  "Adresse": "o..",
-  "Code Postal": "S t n  O",
-  "Ville": "N.ussev.ues...S...NAsors",
-  "Téléphone": "1s 611 861",
-  "Catégorie Scénario": "as.....us.e....sw....pas",
-  "Objet Scénario": "gns....u.....ows.p.t",
-  "Complément Scénario": "cwown.",
-  "Référence client": "casse.....A.o.ca.towo....as.a..",
-  "Interlocuteur": "C.A....",
-  "Adresse Interlocuteur": "s.......og",
-  "Code Postal Interlocuteur": "L24r 4 0nO",
-  "Ville Interlocuteur": null,
-  "Temps passé": "SQ... minutes",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier par voie postale",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Identite fictive": {
+    "Nom": "Quou..",
+    "Prenom": "Sulue",
+    "Adresse": "o..",
+    "Code postal": "S t n  O",
+    "Ville": "N.ussev.ues...S...NAsors",
+    "Tel": "1s 611 861 01"
+  },
+  "Scenario": {
+    "Categorie": "as.....us.e....sw....pas",
+    "Objet": "gn.s....u.....ows.p.t",
+    "Complement": "cwown.",
+    "Reference client éventuelle": "casse.....A.o.ca.towo....as.a..",
+    "Adresse": "og",
+    "Code postal": "L24r 4 0nO",
+    "Ville": null
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [],
+    "Temps passe a traiter le scenario": null
+  },
+  "Contribution": {
+    "Cocher les_elements de_votre contribution pour le scenario traite": [],
+    "Marque et modele du scanner": null,
+    "Resolution des images": null
+  }
 }

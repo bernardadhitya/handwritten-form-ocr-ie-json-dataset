@@ -1,32 +1,37 @@
 {
-  "Code d'envoi": "SxuHOM",
-  "Nom": "Sc.H.H..!",
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "L&387p",
-  "Ville": "Si.GMES",
-  "Téléphone": "047948&6",
-  "Catégorie Scénario": null,
-  "Objet Scénario": ".c.m.dww......wm...ban.cam",
-  "Complément Scénario": "s...a....per..mpa",
-  "Référence client": "DRcE8O",
-  "Interlocuteur": "Bana...Cds.pli",
-  "Adresse Interlocuteur": "96oo ville..hM.A&n...3...CAn",
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": "hM.A&n...3...CAn",
-  "Temps passé": ".L....",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "L."
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "Sc.H.H.",
+        "Prenom": "Ohem..........as...da.w...wW....",
+        "Adresse": null,
+        "Code postal": "L&387p",
+        "Ville": "Si.GMES",
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": ".c.m.dww......wm...ban.cam",
+        "Complement": "s...a....per..mpa",
+        "Reference client eventuelle": null,
+        "Interlocuteur": "Bana...Cds.pli",
+        "Adresse": "96oo ville..hM.A&n...3...CAn",
+        "Code postal": null,
+        "Ville": "hM.A&n...3...CAn",
+        "Redaction de stylo (noir) utilise": [
+          "bille",
+          "plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le scenario traite": [],
+        "Marque et modele du scanner": [
+          "L."
+        ],
+        "Resolution des images": "dpi/ppp"
+      }
+    }
+  }
 }

@@ -1,32 +1,32 @@
 {
-  "Code d'envoi": "k5NQm",
-  "Nom": "T.QU.CHE.T.",
-  "Prénom": "EM...uf..",
-  "Adresse": "Rve....oe.s.....G.AN.T...s",
-  "Code Postal": "6 3a",
-  "Ville": "af.F...HE.l.M",
-  "Téléphone": "030q5q55u3",
-  "Catégorie Scénario": "Gestu...de...sniska.",
-  "Objet Scénario": "sus....fai.te...appe...a...tae...ausan....auramo.bi..",
-  "Complément Scénario": "au...aue...fueoogu......as...den...k...a..aata...ysus..",
-  "Référence client": "N.A..F.....Assw.an.co",
-  "Interlocuteur": "N.A..F.....Assw.an.co",
-  "Adresse Interlocuteur": "2.!....Va&.....Rm....",
-  "Code Postal Interlocuteur": "8,4olVille ..$ST...M.iCHEL...SuB....MtO..T..E.",
-  "Ville Interlocuteur": "$ST...M.iCHEL...SuB....MtO..T..E.",
-  "Temps passé": "..... minutes.",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier par voie postale a la date du ...Q.t..1..Q2..1.0",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "IdEntite fictiv": "T.QU.CHE.T..",
+      "Nom": "T.QU.CHE.T..",
+      "Prenom": "EM...uf..",
+      "Enuie": null,
+      "Adresse": "Rve....oe.s.....G.AN.T...s",
+      "Code postal": "6 3a",
+      "Ville": "af.F...HE.l.M",
+      "Tel": "030q5q55u3",
+      "Scenario": "Gestu...de...sniska.",
+      "Objet": "sus....fai.te...appe...a...tae...ausan....auramo.bi..",
+      "Complement": "au...aue...fueoogu......as...den...k...a..aata...ysus..",
+      "Reference client eventuelle": null,
+      "Interlocuteur": "N.A..F.....Assw.an.co",
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille",
+          "plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "CochLT ILs elemDts dDvotrE contribution pour Oscenario traite": null,
+        "Marque et modele du scanner": null,
+        "Resolution des images": null
+      }
+    }
+  }
 }

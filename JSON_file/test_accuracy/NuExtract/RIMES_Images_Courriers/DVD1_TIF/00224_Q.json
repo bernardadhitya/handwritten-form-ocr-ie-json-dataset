@@ -1,33 +1,29 @@
 {
-  "Code d'envoi": "GGHOM!",
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "LO6SOd",
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "84MO",
-  "Ville Interlocuteur": "ME",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le /0.1k",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": ".3.QQ dpi/pp",
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": ".UYA?X...As.....&O..S"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Mlv": null,
+      "Nom": null,
+      "Prenom": null,
+      "Adresse": null,
+      "Code postal": "LO6SOd",
+      "Ville": null,
+      "Tel": null,
+      "Categorie": null,
+      "Rulekmaten": null,
+      "Je#A/ble_ele_eebh": null,
+      "Complement": null,
+      "Flu": null,
+      "Ls": null,
+      "Redaction": {
+        "Type de stylo (noir) utilise": [],
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le scenario traite": [],
+        "Marque et modele du scanner": "UYA?X...As.....&O..S",
+        "Format": [],
+        "Resolution des images": ".3.QQ... dpi/pp"
+      }
+    }
+  }
 }

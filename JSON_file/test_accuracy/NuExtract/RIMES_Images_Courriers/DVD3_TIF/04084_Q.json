@@ -1,32 +1,44 @@
 {
-  "Code d'envoi": "NRSNTU",
-  "Nom": "O.R.y.",
-  "Prénom": "A.C.AL",
-  "Adresse": "Chn",
-  "Code Postal": "6753ol",
-  "Ville": "N.C.EN..H.A.",
-  "Téléphone": null,
-  "Catégorie Scénario": "Geatamn...de.unuotes.",
-  "Objet Scénario": "s...a..te...aye...a...o.ts....ra.n.c...halita.tn.",
-  "Complément Scénario": "compl.men...t...to.......dom..ao.a......chu.to",
-  "Référence client": "EnDBG23",
-  "Interlocuteur": "suranceo.",
-  "Adresse Interlocuteur": "uai......ondus.",
-  "Code Postal Interlocuteur": "55rOrO",
-  "Ville Interlocuteur": "NERQu.N.",
-  "Temps passé": "16... minutes",
-  "Stylo bille": "noir",
-  "Stylo plume": "noir",
-  "Stylo feutre": "noir",
-  "Contribution postale": "J'envoie mon courier par voie postale á la date du 2...ar...",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Nlr": "NRSNTU",
+      "Identite fictive": {
+        "Nom": "O.R.y.",
+        "Prenom": "A.C.AL",
+        "Adresse": "Chn",
+        "Code postal": "6753ol",
+        "Ville": "N.C.EN..H.A.",
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": "Geatamn...de.unuotes.",
+        "Objet": "s...a..te...aye...a...o.ts....ra.n.c...halita.tn.",
+        "Complement": "compl.men...t...to.......dom..ao.a......chu.to ...un....oasbre..",
+        "Reference client eventuelle": "EnDBG23",
+        "Interlocuteur": {
+          "naniE": "suranceo.",
+          "Adresse": "uai......ondus.",
+          "Code postal": "55rOrO",
+          "Ville": "NERQu.N."
+        },
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+          ],
+          "Temps passe a traiter le scenario": "16 minutes",
+          "Contribution": {
+            "Cocher les elements de votre contribution pour le_scenario traite": [
+              "J'envoie mon courier par voie postale",
+              "Mon courrier contient une page de garde de fax",
+              "Avant mon envoi postal, j'ai télécopié ma contribution",
+              "J'ai envoyé par courriel mon courrier numérisé"
+            ]
+          },
+          "Resolution des images": null
+        }
+      }
+    }
+  }
 }

@@ -1,32 +1,47 @@
 {
-  "Code d'envoi": "RTNBEZ",
-  "Nom": "ABORQE",
-  "Prénom": null,
-  "Adresse": "a.u...laul.mot",
-  "Code Postal": "Sr 36O",
-  "Ville": "0.A.r.1.E.CE.viERE.$",
-  "Téléphone": null,
-  "Catégorie Scénario": "Cuvstuse..de.comak",
-  "Objet Scénario": "auo.souate.conrato.k.cmace...s.ir.gou..uen...",
-  "Complément Scénario": "ucu..",
-  "Référence client": "ea....Sw.i.fs",
-  "Interlocuteur": "ea....Sw.i.fs",
-  "Adresse Interlocuteur": "eace..o....Eo..",
-  "Code Postal Interlocuteur": "S3eO",
-  "Ville Interlocuteur": "CouRci.T.E.",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier par voie postale a la date du ..&/Q4.1.2ca7",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "L."
+  "Code denvoi": "RTNBEZ",
+  "RI": {
+    "Identite fictive": {
+      "Nom": "ABORQE",
+      "Prenom": "laudune",
+      "Adresse": "a.u...laul.mot",
+      "Code postal": "S36O",
+      "Ville": "0.A.r.1.E.CE.viERE.$",
+      "Tel": "0B9p33iiz"
+    },
+    "Scenario": {
+      "Categorie": "Cuvstuse..de.comak",
+      "Objet_AOuo_": "auo.souate.conrato.k.cmace...s.ir.gou..uen...",
+      "Swil_ MUL.deau.": {
+        "Complement": "ucu..",
+        "Reference client eventuelle": "ea....Sw.i.fs",
+        "Adresse": "eace..o....Eo..",
+        "Code postal": "S3eO",
+        "Ville": "CouRci.T.E."
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille",
+          "plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le scenario traite": [
+          "(6e) J'envoie mon courrier par voie postale a la date du &/Q4.1.2ca7",
+          "(+2€) Mon courrier contient une page de garde de fax",
+          "(+1£) Avant mon envoi postal, j'ai télécopié ma contribution le",
+          "(+1€) J'ai envoyé par courriel mon courrier numérisé le",
+          "(6e) J'envoie mon courrier par voie postale a la date du &/Q4.1.2ca7",
+          "(+2€) Mon courrier contient une page de garde de fax",
+          "(+1£) Avant mon envoi postal, j'ai télécopié ma contribution le",
+          "(+1€) J'ai envoyé par courriel mon courrier numérisé le"
+        ],
+        "Marque et modele du scanner": null,
+        "Format": [],
+        "Resolution des images": null
+      }
+    }
+  }
 }

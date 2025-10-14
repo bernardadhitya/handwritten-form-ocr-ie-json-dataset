@@ -1,15 +1,13 @@
 {
-  "document": "Demade de remis qiacieuse",
-  "scenario": null,
-  "writer": null,
-  "sender_person": null,
-  "sender_company": null,
-  "sender_tel": "03 21 01 24 83",
-  "sender_fax": null,
-  "receiver_person": "Maclame / Monsicur",
-  "receiver_company": null,
-  "subject": "Demade de remis qiacieuse",
-  "date": null,
-  "place": "16 Rue du Plon",
-  "box": "2o Auenue Tous Rovcoules"
+  "name": null,
+  "address": {
+    "street": "16 Rue du Plon",
+    "city": "VERGAViLLE",
+    "zip": "5726O"
+  },
+  "phone": "03 21 01 24 83",
+  "email": null,
+  "client_reference": "Maclame / Monsicur",
+  "description": "Objet: Demade de remis qiacieuse",
+  "amount_due": null
 }

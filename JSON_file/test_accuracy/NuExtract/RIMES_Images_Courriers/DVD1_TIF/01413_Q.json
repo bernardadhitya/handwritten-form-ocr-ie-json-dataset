@@ -1,33 +1,39 @@
 {
-  "Code d'envoi": "ZSPGOT",
-  "Nom": "awda",
-  "Prénom": null,
-  "Adresse": "w...e...gnaoie",
-  "Code Postal": "LO6",
-  "Ville": "Ju...Bunxh..o&.M",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "L6 5 2So",
-  "Ville Interlocuteur": "Ju...Bunxh..o&.M",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "awda",
+        "Prenom": null,
+        "Adresse": null,
+        "Code postal": "LO6",
+        "Ville": null,
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": null,
+        "Complement .Uer 1A.": null,
+        "Reference client eventuelle": null,
+        "Adresse": null,
+        "Code postal": "L6 5 2So",
+        "Ville": "Ju...Bunxh..o&.M",
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille plume",
+            "feutre"
+          ],
+          "Temps passe a traiter le scenario": null,
+          "Contribution": {
+            "Cocher les elements de_votre contrbution pour le scenario traite": [
+              "Mon courrier contient une page de garde de fax",
+              "Avant mon envoi postal, j'ai télécopié ma contribution",
+              "J'ai envoyé par courriel mon courrier numérisé"
+            ],
+            "Marque et modele du scanner": null,
+            "Resolution des images": null
+          }
+        }
+      }
+    }
+  }
 }

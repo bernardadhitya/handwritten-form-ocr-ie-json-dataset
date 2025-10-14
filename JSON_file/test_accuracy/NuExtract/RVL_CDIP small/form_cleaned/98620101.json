@@ -3,11 +3,11 @@
   "Range": "00-129 TO 00-136",
   "Description": null,
   "Mechanicals": {
-    "ToProduction": "MECHANICALS FROM BRAND:",
-    "FromBrand": null
+    "ToProduction": "MECHANICALS TO PRODUCTION",
+    "FromBrand": "MECHANICALS FROM BRAND"
   },
-  "QuantitiesToProduction": "QUANTITIES TO PRCOUCTION:",
-  "Quarter": "APR",
+  "QuantitiesToProduction": "QUANTITIES TO PRCOUCTION",
+  "Quarter": "APRMAY C",
   "Carton": {
     "Tern": "4-00",
     "Price": "$06-00",
@@ -15,15 +15,14 @@
     "Terrl": "TERRL"
   },
   "PurchaseRequisition": {
-    "AOY": "1999",
-    "TER": "1999",
-    "SOd": "1999",
-    "AAo": "1999",
-    "1EEE": 100
+    "AOY": "100",
+    "TER": "161616113883331511",
+    "SOd": null,
+    "AAo": null,
+    "1EEE": "100"
   },
   "Distribution": [
-    "BHINEG.BAROODY",
-    "LLAMSG.OVERONM.AHASEBS.RAGU"
+    "BHINEG.BAROODY, LLAMSG.OVERONM.AHASEBS.RAGU"
   ],
   "Code": "98620101",
   "MIYACN": "GM, SAVE 4Q/NO VALUI",
@@ -38,7 +37,7 @@
     "WIDE EXCEL RISER CARD SPANISH ER CARD GMUC C",
     "NEWPORT"
   ],
-  "Date": "1999-12-17",
+  "Date": "130",
   "EBURST2": "LG CTN FLOOR",
   "ROGRAN#S": null,
   "SpecialNotes": "BRAND:",

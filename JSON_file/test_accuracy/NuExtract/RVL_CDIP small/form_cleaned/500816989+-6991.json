@@ -1,26 +1,14 @@
 {
-  "sender": "Comple ms1.2.and3.",
-  "returnTo": "reverxe",
-  "serviceRequested": [
-    "Show to whom and date delivered.",
-    "Show to whom date, and address of delivery."
-  ],
-  "consultPostmasterForFees": "CONSULT POSTMASTER FOR FEES",
-  "articleAddressedTo": "Roolnclo .CA",
-  "articleDescription": {
-    "registeredNo": "1799",
-    "certifiedNo": null,
-    "insuredNo": null,
-    "vNumber": null
+  "Article": {
+    "Description": "REGISTERED NO. CERTEFIED NO INSURED NO",
+    "Addressed To": "Roolnclo .CA",
+    "Certified": null,
+    "Insured": null
   },
-  "signature": {
-    "receivedBy": null,
-    "addressee": null,
-    "authorized": null
-  },
-  "dateOfDelivery": "6989",
-  "address": "5008",
-  "unableToDeliverBecause": "CLERA'S",
-  "clerks": null,
-  "ma": null
+  "Delivery": {
+    "Date": null,
+    "Signature": null,
+    "Address": null,
+    "Reason": "UNABLE TO DELIVER BECAUSE CLERA'S"
+  }
 }

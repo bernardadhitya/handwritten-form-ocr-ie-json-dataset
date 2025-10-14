@@ -1,33 +1,46 @@
 {
-  "Code d'envoi": "Questionnaire-AMMRVE",
-  "Nom": "!.LAN",
-  "Prénom": "Jeam...Noe..",
-  "Adresse": "Ru....OEs PecHEves",
-  "Code Postal": "L6nn6n0q0]",
-  "Ville": "B!BS!E!M",
-  "Téléphone": "0388336",
-  "Catégorie Scénario": "Scénario",
-  "Objet Scénario": "hie.....o...s io..s..tnop....",
-  "Complément Scénario": "Référence client éventuelle",
-  "Référence client": null,
-  "Interlocuteur": "Interlocuteur Maiie",
-  "Adresse Interlocuteur": "RooTE...NATioNAl6",
-  "Code Postal Interlocuteur": "[n5oo]",
-  "Ville Interlocuteur": "S.E.V.REs.",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "J'envoie mon courrier par voie postale á la date du ..9.1./208.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le .1%1/2o...",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le .",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "!.LAN",
+        "NiLev": "Jeam...Noe..",
+        "Prenom": null,
+        "Adresse": "Ru....OEs PecHEves",
+        "Code postal": "L6nn6n0q0",
+        "Ville": "B!BS!E!M",
+        "Tel": "0388336"
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": null,
+        "Complement": null,
+        "shiea": null,
+        "Vos. Ne.isins": null,
+        "Reference client eventuelle": null,
+        "Interlocuteur": "Maiie",
+        "Adresse 2": "RooTE...NATioNAl6",
+        "Code postal": "[n5oo]",
+        "Ville": "S.E.V.REs"
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille",
+          "plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le_scenario traite": {
+          "(6e)": null,
+          "(+28)": null,
+          "(+1e)": null,
+          "(+1€)": null
+        },
+        "Marque et modele du scanner": null,
+        "Format": [],
+        "Resolution des images": null
+      }
+    }
+  }
 }

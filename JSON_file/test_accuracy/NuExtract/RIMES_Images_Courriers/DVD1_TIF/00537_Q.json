@@ -1,32 +1,37 @@
 {
-  "Code d'envoi": "NwFTwS",
-  "Nom": "GE.sH.CU.JE.R.E",
-  "Prénom": "Ni.ca.",
-  "Adresse": "g.s.",
-  "Code Postal": "L6&a",
-  "Ville": "N.E.D.e.RH.Au.S.B.E.N.G.EM",
-  "Téléphone": null,
-  "Catégorie Scénario": "adi.ca.s.on....mbah...comma.ncd",
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": "T...su...w.pats",
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "LS4So] vill..........E.u..AN..E.s",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "J'envoie mon courrier par voie postale a la date du ...G6.acko.ka&.&cc6.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "L."
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "GE.sH.CU.JE.R.E",
+        "Prenom": "Ni.ca.",
+        "Adresse": "g.s.",
+        "Code postal": "L6&a",
+        "Ville": "N.E.D.e.RH.Au.S.B.E.N.G.EM",
+        "Tel": null
+      },
+      "Categorie": "adi.ca.s.on....mbah...comma.ncd",
+      "Objet": null,
+      "Q2": null,
+      "Complement": "uc.u.",
+      "Reference client eventuelle": null,
+      "Interlocuteur": "T...su...w.pats",
+      "Adresse": null,
+      "Code postal": "LS4So] vill..........E.u..AN..E.s",
+      "Ville": null,
+      "Redaction": {
+        "Type de stylo (noir) utilise": [],
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le scenario traite": [],
+        "Marque et modele du scanner": "L.",
+        "Format": [
+          "PNG",
+          "GIF",
+          "TIFF"
+        ],
+        "Resolution des images": "ddd/!dp"
+      }
+    }
+  }
 }

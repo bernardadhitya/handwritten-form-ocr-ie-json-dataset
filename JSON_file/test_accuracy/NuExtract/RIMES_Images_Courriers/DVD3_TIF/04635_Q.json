@@ -1,33 +1,39 @@
 {
-  "Code d'envoi": "FvvEB",
-  "Nom": "S.",
-  "Prénom": "Au.",
-  "Adresse": null,
-  "Code Postal": "8q8 n32o",
-  "Ville": "03494348",
-  "Téléphone": null,
-  "Catégorie Scénario": "h.angeme....d...oanéea..pc.sonel",
-  "Objet Scénario": "naves....adans.ee...aephoq...ua.a..omm.dk.",
-  "Complément Scénario": "wos...change...pesa.te...ta.phanio",
-  "Référence client": "GUES",
-  "Interlocuteur": "le.....a.",
-  "Adresse Interlocuteur": "we....es.....We.",
-  "Code Postal Interlocuteur": "52 3ro",
-  "Ville Interlocuteur": "Macn.ui.l",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "c!l.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "X)(+2€) Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "X)(+2€) Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "X)(+1€) J'ai envoyé par courriel mon courrier numérisé le",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "epf.......wechi.en"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "S.",
+        "Prenom": "Au."
+      },
+      "Adresse": null,
+      "Code postal": "8q8 n32o",
+      "Ville": "03494348",
+      "Tel": null
+    },
+    "Scenario": {
+      "Categorie": "h.angeme....d...oanéea..pc.sonel",
+      "dc__kaneea": null,
+      "Objet": "naves....adans.ee...aephoq...ua.a..omm.dk.",
+      "ccCdnnees_al": null,
+      "Complement": "wos...change...pesa.te...ta.phanio",
+      "Reference client eventuelle": null,
+      "Adresse": "we....es.....We.",
+      "Code postal": "52 3ro",
+      "Ville": "Macn.ui.l"
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [],
+      "Temps passe & traiter le scenario": null,
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le_scenario traite": [],
+        "Marque et modele du scanner": "epf.......wechi.en",
+        "Format": [
+          "PNG",
+          "GIF",
+          "TIFF"
+        ],
+        "Resolution des images": "3ow.... dpi/ppp"
+      }
+    }
+  }
 }

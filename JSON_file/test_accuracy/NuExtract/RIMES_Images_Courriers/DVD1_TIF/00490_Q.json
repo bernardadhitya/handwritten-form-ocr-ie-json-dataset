@@ -1,32 +1,37 @@
 {
   "Code d'envoi": "HvsqBQ",
-  "Nom": "Leo",
-  "Prénom": "alestm",
-  "Adresse": "Ao....aue",
-  "Code Postal": "t9 391",
-  "Ville": "Souut...Souulova",
-  "Téléphone": "o351z!8072",
-  "Catégorie Scénario": null,
-  "Objet Scénario": "...au.ao.ts....ssu.au....",
-  "Complément Scénario": "IQIR4",
-  "Référence client": "B.AA....A.ssu.a...a",
-  "Interlocuteur": ".aaa......hot.",
-  "Adresse Interlocuteur": "Ccode postal Le.l.ts o il...........Awou..",
-  "Code Postal Interlocuteur": "Le.l.ts",
-  "Ville Interlocuteur": null,
-  "Temps passé": "2 minutes",
-  "Stylo bille": "noir",
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "J'envoie mon courrier par voie postale ä la date du ...S...b...aG.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Identite fictive": {
+    "Nom": "Leo",
+    "Prenom": "alestm",
+    "Adresse": "Laua",
+    "Code postal": "t9 391",
+    "Ville": "Souut",
+    "Tel": "o351z!8072"
+  },
+  "Scenario": {
+    "Categorie": null,
+    "Objet": "au.ao.ts....ssu.au....",
+    "Complement": "IQIR4",
+    "Interlocuteur": {
+      "Nom": "hot",
+      "Adresse": "Ccode postal Le.l.ts o il...........Awou..",
+      "Code postal": "Le.l.ts",
+      "Ville": null
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "bille",
+        "plume",
+        "X",
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": "$/..2 minutes"
+    },
+    "Contribution": {
+      "Elements de contribution": [],
+      "Marque et modele du scanner": null,
+      "Format": [],
+      "Resolution des images": null
+    }
+  }
 }

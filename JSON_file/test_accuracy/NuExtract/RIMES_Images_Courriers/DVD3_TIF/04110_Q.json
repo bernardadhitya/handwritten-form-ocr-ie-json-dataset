@@ -1,33 +1,34 @@
 {
-  "Code d'envoi": "Questionnaire",
-  "Nom": "Pc.Paux",
-  "Prénom": "abst.ce",
-  "Adresse": "Rowe......Aubeave.",
-  "Code Postal": "[7 3Oo]",
-  "Ville": "Cuoe",
-  "Téléphone": "0438767767",
-  "Catégorie Scénario": "eus",
-  "Objet Scénario": "oclahn...amusamc...habdaho",
-  "Complément Scénario": "comlé.men...au...h...inaahsa......eu..ce",
-  "Référence client": "5W25",
-  "Interlocuteur": "N...Assw..mc...",
-  "Adresse Interlocuteur": "Rowe......Aubeave.",
-  "Code Postal Interlocuteur": "[522o]",
-  "Ville Interlocuteur": "h....Lu...Sua...Auam",
-  "Temps passé": "0",
-  "Stylo bille": "bille",
-  "Stylo plume": "plume",
-  "Stylo feutre": "feutre",
-  "Contribution postale": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi postal": "2023-03-02",
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "Pc.Paux",
+        "Prenom": "abst.ce",
+        "Adresse": null,
+        "Code postal": "[7 3Oo]",
+        "Ville": "Cuoe",
+        "Tel": "0438767767"
+      },
+      "Scenario": {
+        "Categorie": "e...eus.......Cm",
+        "Objet": "oclahn...amusamc...habdaho comlé.men...au...h...inaahsa......eu..ce",
+        "Complement": null,
+        "Reference client eventuelle": null,
+        "Interlocuteur": "N...Assw..mc...",
+        "Adresse": "Rowe......Aubeave.",
+        "Code postal": "[522o]",
+        "Ville": "h....Lu...Sua...Auam"
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": null,
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les_ elements de_votre contribution pour le scenario traite": null,
+        "Marque et modele du scanner": null,
+        "Format": null,
+        "Resolution des images": null
+      }
+    }
+  }
 }

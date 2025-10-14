@@ -1,33 +1,47 @@
 {
-  "Code d'envoi": "BGXJCE",
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "l9 41&OsO",
-  "Ville": "I.V.R.y",
-  "Téléphone": "033468956",
-  "Catégorie Scénario": "D.emamae...o...ma..aws.",
-  "Objet Scénario": "o..m.a.....e..a..ea...o..aw..",
-  "Complément Scénario": "o.......ma..e...",
-  "Référence client": "QE58",
-  "Interlocuteur": "..A.G.G...o.mesa.k..om...M.cte",
-  "Adresse Interlocuteur": "31Sa",
-  "Code Postal Interlocuteur": "Maeshes",
-  "Ville Interlocuteur": null,
-  "Temps passé": "GQO..",
-  "Stylo bille": "noir",
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "J'envoie mon courier par voie postale a la date du...",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par couriel mon courier numérise le............",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "caxj.e....a.do"
+  "Code d'envoi": {
+    "Nom": null,
+    "Prenom": null,
+    "Adresse": {
+      "Rue": null,
+      "Code postal": "l9 41&OsO",
+      "Ville": "I.V.R.y"
+    },
+    "Tel": "033468956"
+  },
+  "Scenario": {
+    "Categorie": "D.emamae...o...ma..aws.",
+    "Objet": "o..m.a.....e..a..ea...o..aw..",
+    "Complement": "o.......ma..e...",
+    "Interlocuteur": {
+      "Nom": "A.G.G...o.mesa.k..om...M.cte",
+      "ASSURANee^": {
+        "Adresse": "31Sa",
+        "Code postal": "Maeshes",
+        "Ville": null
+      }
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "bille",
+        "plume",
+        "feutre"
+      ],
+      "traiter le scenario": "GQO.. minutes.",
+      "Contribution": {
+        "Gocher les elemants_do_yotre_contrbution pour le scenario traiti": [
+          "(6) J'envoie mon courier par voie postale a la date du...",
+          "(+2) Mon courrier contient une page de garde de fax.",
+          "(+1D) Avant mon envoi postal,  ai télécopié ma contribution le .&.",
+          "(.1 J'ai envoyé par couriel mon courier numérise le............",
+          "Marque et modele du scanner",
+          "caxj.e....a.do..."
+        ],
+        "Marque et modele du scanner": null,
+        "Format": [],
+        "Resolution": null
+      },
+      "Temps": "GQO.. minutes."
+    }
+  }
 }

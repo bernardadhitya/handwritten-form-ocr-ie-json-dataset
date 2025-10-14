@@ -1,32 +1,46 @@
 {
-  "Code d'envoi": "HRBNEE",
-  "Nom": "P.ES.QUE..",
-  "Prénom": "y..",
-  "Adresse": null,
-  "Code Postal": "5436jO",
-  "Ville": "Eawawx",
-  "Téléphone": "035400678",
-  "Catégorie Scénario": "odt.akom...ds..sowrat/.eouwawd",
-  "Objet Scénario": "Duoud......wwaaiso.......pt..u...sn...",
-  "Complément Scénario": "ue",
-  "Référence client": "25255",
-  "Interlocuteur": "ro........w.o.",
-  "Adresse Interlocuteur": "V.EAuCHE",
-  "Code Postal Interlocuteur": "4 23 4qO",
-  "Ville Interlocuteur": "V.EAuCHE",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "LO ddd/!dp"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "P.ES.QUE..",
+        "Prenom": null,
+        "Adresse": null,
+        "Code postal": "5436jO",
+        "Ville": "Eawawx",
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": "odt.akom...ds..sowrat/.eouwawd",
+        "Objet": "Duoud......wwaaiso.......pt..u...sn...",
+        "Complement": "ue",
+        "Reference client eventuelle": null,
+        "Interlocuteur": "ro........w.o.",
+        "Adresse": "V.EAuCHE",
+        "Ville": "V.EAuCHE"
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille",
+          "plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour _le_scenario_traite": {
+          "J'envoie mon courrier par voie postale a la date du": null,
+          "Mon courrier contient une page de de fax": "+2€",
+          "Avant mon envoi postal, j'ai telecopie ma contribution le": "+1€",
+          "J'ai envoye par courriel mon courrier numerise le": "+1€"
+        },
+        "Marque et modele du scanner": "LO ddd/!dp",
+        "Format": [
+          "PNG",
+          "GIF",
+          "TIFF"
+        ],
+        "Resolution des images": null
+      }
+    }
+  }
 }

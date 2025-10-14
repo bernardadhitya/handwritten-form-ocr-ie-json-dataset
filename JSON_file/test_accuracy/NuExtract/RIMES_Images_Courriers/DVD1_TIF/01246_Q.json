@@ -1,32 +1,33 @@
 {
-  "Code d'envoi": "Questionnaire",
-  "Nom": "CATARA.",
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "S76Q",
-  "Ville": "Hentce",
-  "Téléphone": "O3796728z6",
-  "Catégorie Scénario": "changemnl...de...onneesfesonne",
-  "Objet Scénario": "c atégorie ..changemnl...de...onneesfesonne",
-  "Complément Scénario": "c sjet cueles...coodannees...ot",
-  "Référence client": "Z0MBG9",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": "bille",
-  "Stylo plume": "plume",
-  "Stylo feutre": "feutre",
-  "Contribution postale": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": "O3796728z6",
+  "Identite fictive": {
+    "Nom": "CATARA.",
+    "Prenom": "Deat..ce",
+    "Adresse": "mtan",
+    "Code postal": "S76Q",
+    "Ville": "Hentce"
+  },
+  "Scenario": {
+    "Categorie": "changemnl...de...onneesfesonne",
+    "Cpjet": "cueles...coodannees...ot",
+    "Complement": "Z0MBG9",
+    "Reference client eventuelle": "Ir terlocuteur .magaxime..",
+    "Interlocuteur": "cemue....du",
+    "Adresse": "owte",
+    "Code postal": "S76Q",
+    "Ville": "Hentce"
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [
+      "bille",
+      "plume",
+      "feutre"
+    ],
+    "Temps passe a traiter le scenario": null
+  },
+  "Contribution": {
+    "Elements de contribution": [],
+    "Marque et modele du scanner": [],
+    "Resolution des images": null
+  }
 }

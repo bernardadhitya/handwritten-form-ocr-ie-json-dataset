@@ -1,32 +1,32 @@
 {
-  "Code d'envoi": "Questionnaire",
-  "Nom": "C.",
-  "Prénom": "as..",
-  "Adresse": null,
-  "Code Postal": "64 25O",
-  "Ville": "S.T.",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": "REBvu84",
-  "Interlocuteur": "A.........s...",
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "8To3 3",
-  "Ville Interlocuteur": "LT.Ho.G&S",
-  "Temps passé": "4Q... minutes",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "C.",
+        "Prenom": "as.",
+        "Adresse": null,
+        "Code postal": "64 25O",
+        "Ville": "S.T.",
+        "~ILLE": "U.N.D."
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": null,
+        "Complement": null,
+        "Reference client eventuelle": null,
+        "Interlocuteur": "A",
+        "Adresse": null,
+        "Code postal": "[8To3 3]",
+        "Ville": "LT.Ho.G&S"
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": "bille",
+        "Temps passe a traiter le scenario": ".4Q... minutes",
+        "Contribution": {
+          "Cocher les_elements de_votre_contribution pour le_scenario traite": null,
+          "Marque et medlele dlu scanner": null
+        }
+      }
+    }
+  }
 }

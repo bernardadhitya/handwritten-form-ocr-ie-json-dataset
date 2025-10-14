@@ -1,32 +1,39 @@
 {
-  "Code d'envoi": "zz",
-  "Nom": "A.G.M.A.M.",
-  "Prénom": "a",
-  "Adresse": "N.OUSS.E.Y.i.uE.R....ES...j.T.c..E",
-  "Code Postal": "s2oville",
-  "Ville": "N.OUSS.E.Y.i.uE.R....ES...j.T.c..E",
-  "Téléphone": "033283L8u",
-  "Catégorie Scénario": "k...o.i...a....po.a.",
-  "Objet Scénario": "changmen...d...onneea...ersoaneu...a'...",
-  "Complément Scénario": "a....e..pns..en..coml.",
-  "Référence client": "éventuelle",
-  "Interlocuteur": "a.an se.....",
-  "Adresse Interlocuteur": "U....ue....ambaa..",
-  "Code Postal Interlocuteur": "L6ovile",
-  "Ville Interlocuteur": "U....ue....ambaa..",
-  "Temps passé": "S.... minutes",
-  "Stylo bille": "noir",
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "J'envoie mon courrier par voie postale a la date du ...2.....ar...2.0...",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": "ddd/!dp",
-  "Format GIF": "ddd/!dp",
-  "Format TIFF": "ddd/!dp",
-  "Marque et modèle scanner": "L"
+  "Code d'envoi": {
+    "Questionnaire": null,
+    "Identite fictive": {
+      "Nom": "A.G.M.A.M.",
+      "Prenom": "a",
+      "Adresse": "N.OUSS.E.Y.i.uE.R....ES...j.T.c..E",
+      "Code postal": "s2oville",
+      "Ville": "L8u",
+      "Tel": "O33283L8u"
+    },
+    "Scenario": {
+      "Categorie": "ean....k...o.i...a....po.a.",
+      "Objet": "oh...changmen...d...onneea...ersoaneu...a'...",
+      "Complement": "sw...",
+      "Reference client eventuelle": null,
+      "Interlocuteur": "a.an se.....",
+      "Adresse": "LA....ER.......&Q.u...A.OUARE",
+      "Code postal": "L6ovile",
+      "Ville": "LA"
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "bille plume feutre"
+      ],
+      "Temps passe a traiter le scenario": null
+    },
+    "Contribution": {
+      "Cocher les elements_de_votre contrbution pour le_scenario traite": [],
+      "Marque et modele du scanner": "L",
+      "Format": [
+        "PNG",
+        "GIF",
+        "TIFF"
+      ],
+      "Resolution des images": "ddd/!dp"
+    }
+  }
 }

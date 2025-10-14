@@ -1,14 +1,10 @@
 {
-  "document": "SosPeL,111021",
-  "scenario": null,
-  "writer": "LANi",
-  "sender_person": null,
-  "sender_company": null,
-  "sender_tel": "04.22.68.40.88",
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
-  "date": null,
-  "place": "106 Rue de la gare",
-  "box": "106 Rue de la gare"
+  "company": "SosPeL",
+  "address": "111021",
+  "phone": "04.22.68.40.88",
+  "email": null,
+  "contact_person": {
+    "title": null,
+    "name": "Yadame"
+  }
 }

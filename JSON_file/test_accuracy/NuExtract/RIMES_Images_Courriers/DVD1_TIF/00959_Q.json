@@ -1,33 +1,32 @@
 {
   "Code d'envoi": "RNWSPZ",
-  "Nom": "Damed",
-  "Prénom": "Damed",
-  "Adresse": "57 ls ville MONTBRONN",
-  "Code Postal": "03355766",
-  "Ville": "MONTBRONN",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": "ew...s..o.e..a.a",
-  "Complément Scénario": "e.w.e.uaa",
-  "Référence client": "QAAN4",
+  "Identite fictive": {
+    "Nom": "Damed",
+    "Prenom": null,
+    "X&-": null,
+    "Code postal": "57 ls ville",
+    "Ville": "MONTBRONN"
+  },
   "Interlocuteur": "E..F.",
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "L47161",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "J'ai envoyé par couriel mon courrier numerise le....oo......",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "A.G.A.....M&.p..c.a...E...o.."
+  "Adresse": null,
+  "Code postal": "03355766",
+  "Ville": null,
+  "Redaction": {
+    "Type de stylo (noir) utilise": [],
+    "Temps passe a traiter le scenario": null
+  },
+  "Contribution": {
+    "Cocher les elements de votre contribution pour le scenario traite": {
+      "(6€)": null,
+      "(+2€)": null,
+      "(+1€)": null
+    }
+  },
+  "Marque et modele du scanner": "A.G.A.....M&.p..c.a...E...o..",
+  "Format": [
+    "PNG",
+    "GIF",
+    "TIFF"
+  ],
+  "Resolution des images": "...&.7... dpi/ppp"
 }

@@ -1,15 +1,14 @@
 {
-  "document": "BRULERIE ROYALE",
-  "scenario": null,
-  "writer": null,
-  "sender_person": null,
-  "sender_company": null,
-  "sender_tel": "05.59.30.51.21",
-  "sender_fax": "05.59.11.01.61",
-  "receiver_person": "L",
-  "receiver_company": null,
-  "subject": "MOvT0n Elod",
-  "date": "03/05/107",
-  "place": "3",
-  "box": "Fias"
+  "Company": "BRULERIE ROYALE",
+  "Address": "26, Rue Carnot",
+  "Contact": {
+    "Telephone": "05.59.30.51.21",
+    "Fax": "05.59.11.01.61"
+  },
+  "Recipient": "L",
+  "Sender": "Elod",
+  "Date": "03/05/107",
+  "Number of Pages": 3,
+  "Subject": "MOvT0n Elod",
+  "Code d'envoi": "NRPBTB"
 }

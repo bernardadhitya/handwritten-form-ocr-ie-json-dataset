@@ -1,33 +1,47 @@
 {
-  "Code d'envoi": "KxyCUH",
-  "Nom": "L.....Ro.uX.",
-  "Prénom": "A...",
-  "Adresse": "t.",
-  "Code Postal": "03536410790",
-  "Ville": "H.E....(Ou.R..",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": "NFBQD5",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": "L9A 8Oo] Ville...B.R.u.A.Y.",
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": "B.R.u.A.Y.",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": "KxyCUH",
+    "Identite fictive": {
+      "Nom": "L.....Ro.uX.",
+      "Prenom": "A...",
+      "Adresse": "t.",
+      "Code postal": "03536410790",
+      "Ville": "H.E....(Ou.R..",
+      "Tel": null
+    },
+    "Scenario": {
+      "Categorie": "Comwmom.d.",
+      "Objet": "ce.mmasd......tim...ou....d....ou.ntes.",
+      "Huua_de_ckouneltes": "Complément ......cw.w.",
+      "Reference client eventuelle": "nterocuteur .......bo.t.",
+      "Interlocuteur": "bo.t.",
+      "Adresse": "L9A 8Oo] Ville...B.R.u.A.Y.",
+      "Code postal": "L9A 8Oo]",
+      "Ville": "B.R.u.A.Y.",
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille",
+          "plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": "...Q... minutes"
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le scenario_traite": [
+          "(6e) J'envoie mon courrier par voie postale á la date du ...9..mQ...2.....",
+          "(+2€) Mon courrier contient une page de garde de fax.",
+          "(+1€) Avant mon envoi postal, j'ai télécopié ma contribution le",
+          "(+1€) J'ai envoyé par courriel mon courrier numérisé le",
+          "Marque et modéle du scanner :"
+        ],
+        "Marque et modele du scanner": "ddd/!dp",
+        "Format": [
+          "PNG",
+          "GIF",
+          "TIFF"
+        ],
+        "Resolution des images": null
+      }
+    }
+  }
 }

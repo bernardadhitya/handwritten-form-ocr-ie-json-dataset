@@ -1,15 +1,10 @@
 {
-  "document": "Télécopie",
-  "scenario": "Demande de rendez-vous",
-  "writer": "Valérie ROTA",
-  "sender_person": null,
-  "sender_company": "NAIF ASSURANCES",
-  "sender_tel": "03.91.64.93.53",
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": "Demande de rendez-vous",
-  "date": "4 décembre 2006",
-  "place": null,
-  "box": null
+  "From": "Valérie ROTA",
+  "Sender": "NAIF ASSURANCES",
+  "Date": "4 décembre 2006",
+  "Telephone": "03.91.64.93.53",
+  "Pages": 2,
+  "Subject": "Demande de rendez-vous",
+  "Urgency": "Urgent",
+  "Confidentiality": "Confidentiel"
 }

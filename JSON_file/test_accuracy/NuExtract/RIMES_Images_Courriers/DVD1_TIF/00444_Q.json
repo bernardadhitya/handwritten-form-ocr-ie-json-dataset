@@ -1,33 +1,42 @@
 {
-  "Code d'envoi": "QAZEKG",
-  "Nom": "T.ACQ",
-  "Prénom": "Jaryee",
-  "Adresse": null,
-  "Code Postal": "684SO",
-  "Ville": "Q.T.TAR8HE7",
-  "Téléphone": "0333673632",
-  "Catégorie Scénario": null,
-  "Objet Scénario": "xxe..adomnees...kephongs...",
-  "Complément Scénario": ".ao.change.gporal.e...etephenigx",
-  "Référence client": "GxX55",
-  "Interlocuteur": "A...suaces.",
-  "Adresse Interlocuteur": "...u...e......D..E...",
-  "Code Postal Interlocuteur": "VSdO",
-  "Ville Interlocuteur": "..OnES.T.i.ER...PRT..DxE..",
-  "Temps passé": "S....",
-  "Stylo bille": "bille",
-  "Stylo plume": "plume",
-  "Stylo feutre": "feutre",
-  "Contribution postale": "J'envoie mon courrier par voie postale á la date du ..3/.0/06",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le 3l1!.",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le ...l.0/.6",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": ".Cancn....Cancocan.....S...."
+  "Code d'envoi": null,
+  "Questionnaire": {
+    "Identite fictive": {
+      "Nom": "T.ACQ",
+      "Prenom": "Jaryee",
+      "Adresse": null,
+      "Code postal": "684SO",
+      "Ville": "Q.T.TAR8HE7",
+      "Tel": "0333673632"
+    },
+    "Scenario": {
+      "Categorie": null,
+      "Objet": "adomnees kephongs",
+      "Complement": ".ao.change.gporal.e...etephenigx",
+      "Reference client eventuelle": "GxX55",
+      "Interlocuteur": "Inerlocteu ..A...suaces.",
+      "Adresse": "D..E...",
+      "Code postal": "VSdO",
+      "Ville": "7OnES.T.i.ER...PRT..DxE.."
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "bille plume feutre"
+      ],
+      "Temps passe a traiter le scenario": "S.... minutes",
+      "Contribution": {
+        "Cocher_les elements de votre contribution pour le scenario traite": {
+          "(6e) Jenvoie mon courrier par voie postale a la date du 3140126": null,
+          "(+2e) Mon courrier contient une page de garde de fax": null,
+          "(+1C) Avant mon envoi postal, j'ai telecopie ma contribution le 3/e106": null,
+          "(+16) Jai envoye par courriel mon courrier numerise le 3l-0L.26": null
+        },
+        "Marque et modele du scanner": [
+          "Cancn....Cancocan.....S...."
+        ],
+        "Format": [],
+        "Resolution des images": null
+      }
+    }
+  }
 }

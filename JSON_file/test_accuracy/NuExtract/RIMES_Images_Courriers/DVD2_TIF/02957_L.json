@@ -1,14 +1,21 @@
 {
-  "document": "sospe, 191c Z107",
-  "scenario": null,
-  "writer": null,
-  "sender_person": null,
-  "sender_company": null,
-  "sender_tel": null,
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": "NAIF ASSURANCES",
-  "date": null,
-  "place": "111 Ru cu Pawe de grugnon",
-  "box": "943ZC THiAiS"
+  "name": "sospe",
+  "address": {
+    "street": "191c Z107",
+    "city": "LAN6",
+    "country": "R'pubique",
+    "phone": "06386 SOSPEL"
+  },
+  "insurance": {
+    "company": "NAIF ASSURANCES",
+    "address": {
+      "street": "111 Ru cu Pawe de grugnon",
+      "city": "943ZC THiAiS",
+      "country": "THiAiS"
+    },
+    "contact": {
+      "name": "Hadame, Aonsies",
+      "company": null
+    }
+  }
 }

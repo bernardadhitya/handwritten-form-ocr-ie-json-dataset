@@ -1,15 +1,16 @@
 {
-  "document": "This fax is for the addressee only and may contain confidential and/or proprietary information",
-  "scenario": null,
-  "writer": "Plvquet Chrlsflne",
-  "sender_person": "Plvquet Chrlsflne",
-  "sender_company": "ALCATEL",
-  "sender_tel": null,
-  "sender_fax": null,
-  "receiver_person": "Banque Soadtc Geniale",
-  "receiver_company": "Banque Soadtc Geniale",
-  "subject": "Rnsagnement sur &a horurs d'saeuil clw puls",
-  "date": "24llu1o6",
-  "place": null,
-  "box": null
+  "Sender": {
+    "Name": "Plvquet Chrlsflne",
+    "Fax number": null
+  },
+  "Recipient": {
+    "Name": "Banque Soadtc Geniale",
+    "Tel. number": null
+  },
+  "Date": "24llu1o6",
+  "Total pages": 3,
+  "Content": "This fax is for the addressee only and may contain confidential and/or proprietary information If it has reached you in error please inform us immediately.",
+  "Note": "Type your text",
+  "Cc": null,
+  "Additional Information": "ALCATEL FAX"
 }

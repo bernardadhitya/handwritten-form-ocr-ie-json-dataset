@@ -1,33 +1,32 @@
 {
-  "Code d'envoi": "PJPzK",
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "03A93k",
-  "Ville": "ARS",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "2S& 9C",
-  "Ville Interlocuteur": "BR",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "H.R.",
+        "Prenom": "V.esaai.",
+        "Adresse": "...C..AM.?..S...D.U...P.R.E..",
+        "Code postal": "03A93k",
+        "Ville": "ARS....S..u....ECo..",
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": "o..icca...e....o.a....mauo.",
+        "Objet": "A.uogm.euka.a........d....sa.kes....oa.",
+        "Me": "chaussetes",
+        "Complement": "Com.am.dees",
+        "Interlocuteur": null,
+        "Code postal": "[2S& 9C]",
+        "Ville": "BR.6no6A.N...PL..6.E.",
+        "Redaction": {
+          "Type de stylo (noir) utilise": "bille plume",
+          "Temps passe a traiter le scenario": null
+        },
+        "Contribution": {
+          "Cocher les_elements_de_votre contrbution pour lescenario traite": "X] (6€) J'envoie mon courrier par voie postale a la date du ...&.....3../..2..6 (+2€) Mon courrier contient une page de garde de fax. (+1€) Avant mon envoi postal, j'ai télécopié ma contribution le (+1€) J'ai envoyé par courriel mon courrier numérisé le",
+          "Marque et modele du scanner": null,
+          "Resolution des images": "ddd/!dp"
+        }
+      }
+    }
+  }
 }

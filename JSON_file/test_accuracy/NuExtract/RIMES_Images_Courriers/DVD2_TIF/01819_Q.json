@@ -1,32 +1,32 @@
 {
-  "Code d'envoi": "VRPET",
-  "Nom": "T..A..P...",
-  "Prénom": "Jemwy..",
-  "Adresse": null,
-  "Code Postal": "5 5 6",
-  "Ville": "Ro.",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": "Peb..",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "6€",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "(+2€ Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "(+1@) Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "T..A..P...E",
+        "Prenom": "Jemwy..",
+        "Adresse": null,
+        "Code postal": "5 5 6",
+        "Ville": "Ro.",
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": null,
+        "Complement": null,
+        "Reference client eventuelle": "Peb..",
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille plume",
+            "feutre"
+          ],
+          "Temps passe a traiter le scenario": null
+        },
+        "Contribution": {
+          "Cocher les elements de votre contribution pour le scenario traite": [],
+          "Marque et modele du scanner": null,
+          "Resolution des images": null
+        }
+      }
+    }
+  }
 }

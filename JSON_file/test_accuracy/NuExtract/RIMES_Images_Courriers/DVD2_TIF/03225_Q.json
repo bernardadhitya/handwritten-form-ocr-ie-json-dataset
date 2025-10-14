@@ -1,32 +1,43 @@
 {
-  "Code d'envoi": "AUEFRV",
-  "Nom": "A.V.ALL.E.E.",
-  "Prénom": null,
-  "Adresse": "o..u......o......te.",
-  "Code Postal": "[& S!4no] Ville..E.BA.M.BQW.H.A.N.S",
-  "Ville": "E.BA.M.BQW.H.A.N.S",
-  "Téléphone": "o3ag3o8!47",
-  "Catégorie Scénario": "es.im........",
-  "Objet Scénario": "u...o.haieo...s..ouau...u...ti.e.....",
-  "Complément Scénario": "a....aw.o..psooq.....di....m",
-  "Référence client": "N...A........Ass.am.C...",
-  "Interlocuteur": "N...A........Ass.am.C...",
-  "Adresse Interlocuteur": "s.",
-  "Code Postal Interlocuteur": "[o1A 2o] Ville..D.AG.n.6.u.X",
-  "Ville Interlocuteur": "D.AG.n.6.u.X",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "L"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "A.V.All.E.E.",
+        "Prenom": null,
+        "Adresse": "o..u......o......te.",
+        "Code postal": "[& S!4no]",
+        "Ville": "E.BA.M.BQW.H.A.N.S",
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": "es.im",
+        "Objet": "u...o.haieo...s..ouau...u...ti.e....",
+        "Complement": "a....aw.o..psooq.....di....m",
+        "Prquoqle": "wewpa.nsali..te...w.le",
+        "Reference client eventuelle": "N...A........Ass.am.C...",
+        "Adresse": "s.",
+        "Code postal": "[o1A 2o]",
+        "Ville": "D.AG.n.6.u.X"
+      },
+      "Redaction de stylo (noir) utilise": {
+        "bille": null,
+        "plume": null,
+        "feutre": null
+      },
+      "Temps passe a traiter le scenario": null,
+      "Contribution": {
+        "J'envoie mon courrier par voie postale a la date du 85_(o3.L.22E": null,
+        "Mon courrier contient une page de garde de fax": null,
+        "Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+        "Jai envoye par courriel mon courrier numerise le": null
+      },
+      "Marque et modele du scanner": "L",
+      "Format": [
+        "PNG",
+        "GIF",
+        "TIFF"
+      ],
+      "Resolution des images": null
+    }
+  }
 }

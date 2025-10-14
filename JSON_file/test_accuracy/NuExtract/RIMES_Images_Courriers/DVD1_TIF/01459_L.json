@@ -1,15 +1,16 @@
 {
-  "document": "Relance modificatien donneer pessonnelles.",
-  "scenario": null,
-  "writer": "LE BAiL SAndRA",
-  "sender_person": "LE BAiL SAndRA",
-  "sender_company": "BoF Teecom",
-  "sender_tel": "03.87.46.18.94",
-  "sender_fax": null,
-  "receiver_person": "Hadlaue, Housieur",
-  "receiver_company": null,
-  "subject": "Relance modificatien donneer pessonnelles.",
-  "date": "2006-12-12",
-  "place": "ALBESTROFF, Ie 12 deceubre 2006.",
-  "box": "15,ve DWTSC H DE LA HEURT HE"
+  "company": {
+    "name": "LE BAiL SAndRA",
+    "address": "2o kue des pavillonS.5767oALBESTROFF",
+    "phone": "03.87.46.18.94"
+  },
+  "client": {
+    "name": "Hadlaue, Housieur",
+    "object": "Relance modificatien donneer pessonnelles.",
+    "data": "12 deceubre 2006"
+  },
+  "billing_address": {
+    "name": "LE BAiL SAndRA",
+    "address": "2o kue des pavillonS.5767oALBESTROFF"
+  }
 }

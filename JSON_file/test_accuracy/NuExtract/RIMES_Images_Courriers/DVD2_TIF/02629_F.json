@@ -1,15 +1,17 @@
 {
-  "document": "SUPMÉCA",
-  "scenario": null,
-  "writer": null,
-  "sender_person": null,
-  "sender_company": "SUPMÉCA",
-  "sender_tel": "0176480010",
-  "sender_fax": "0176 23 47 20",
-  "receiver_person": "HANIE ASSURANCES",
-  "receiver_company": "DE:BARDOT YVON",
-  "subject": "Pour révisionPour commentaires",
-  "date": "02.02.00",
-  "place": "1 Boulevard de l'Aiguillette",
-  "box": "OBIET:Nouv Cle si`tuatou"
+  "organization": {
+    "name": "SUPMECA",
+    "full_name": "Institut Supérieur de Mécanique de Paris",
+    "address": "1 Boulevard de l'Aiguillette",
+    "phone": "0176480010",
+    "fax": "0176 23 47 20"
+  },
+  "sender": {
+    "name": "HANIE ASSURANCES",
+    "phone": "0333 6 oH q5",
+    "date": "02.02.00"
+  },
+  "subject": "Nouv Cle si`tuatou",
+  "cc": "UrgentPour révisionPour commentaires",
+  "comments": "Veulley tnurer ci-jont ma mot chon Biem loroiale"
 }

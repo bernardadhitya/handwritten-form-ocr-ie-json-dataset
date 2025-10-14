@@ -1,33 +1,41 @@
 {
-  "Code d'envoi": "HNNCWH",
-  "Nom": "wo..",
-  "Prénom": "wo..",
-  "Adresse": null,
-  "Code Postal": "SSO",
-  "Ville": "A..ATC.N...",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": "An...B.om.",
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "[Zo3]ville........A",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "woo..",
+        "Prenom": null,
+        "Adresse": {
+          "Code postal": "SSO",
+          "Ville": "A..ATC.N...Adx...!.NE"
+        },
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Cot": null,
+        "Complement": null,
+        "Reference client eventuelle": null,
+        "Interlocuteur": null,
+        "Adresse": {
+          "An": "B.om.",
+          "Code": "[Zo3]ville........A",
+          "Ville": null
+        },
+        "Redaction": {
+          "Type de stylo (noir) utilise": [],
+          "Temps passe a traiter le scenario": null
+        },
+        "Contribution": {
+          "Cocher les_elements de_votre contribution pour le scenario traite": [],
+          "Marque et modele du scanner": "p....y.........oo.",
+          "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+          ],
+          "Resolution des images": "3.0.0... dpi/ppp"
+        }
+      }
+    }
+  }
 }

@@ -1,30 +1,22 @@
 {
-  "company": "Tobacco Company",
-  "contact": {
-    "name": "Mr. James Kapp",
-    "position": "Consumer Relations",
-    "address": {
-      "street": "42 Candlestick Pk",
-      "city": "Newburgh",
-      "state": "NY",
-      "zip": "12550"
+  "Customer": {
+    "Name": null,
+    "Address": {
+      "Street": "42 Candlestick Pk",
+      "City": "Newburgh",
+      "State": "NY",
+      "Zip": "12550"
     }
   },
-  "headquarters": {
-    "city": "Winston-Salem",
-    "state": "N.C.",
-    "zip": "27102"
+  "Company": {
+    "Name": "R.J. Reynolds",
+    "Department": "Consumer Relations"
   },
-  "letter": {
-    "greeting": "Dear Valued Customer",
-    "body": "Recently you contacted R.J. Reynolds'Consumer Relations Department and gave us the opportunity to respond to your request for assistance with either a promotion or product related issue\nIn an effort to better serve our customers,we are asking you to please take a few minutes to complete a guestionnaire about how well you were treated by our company representative.\nAfter completing the survey on the reverse side of this letter, please return it in the enclosed postage-paid envelope.\nThank you for taking the time to let us know how our staff met your expectations\nWe value your opinion and appreciate your business.",
-    "closing": "ese",
-    "position": "Consumer Satisfaction Research Manager"
-  },
-  "contact_numbers": [
-    "518303236",
-    "21009075-95",
-    "371"
-  ],
-  "slogan": "We work for smokers."
+  "Survey": {
+    "Date": null,
+    "Managers": [
+      "Mark Conrad",
+      "James Kapp"
+    ]
+  }
 }

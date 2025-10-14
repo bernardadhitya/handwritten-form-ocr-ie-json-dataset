@@ -1,33 +1,40 @@
 {
-  "Code d'envoi": "Questionnaire",
-  "Nom": "Nia.w...",
-  "Prénom": "Nia",
-  "Adresse": "u......Beu.",
-  "Code Postal": "88 440",
-  "Ville": "FRiZON",
-  "Téléphone": "0369903238",
-  "Catégorie Scénario": "Identité fictive",
-  "Objet Scénario": "oano...d...a.alogu....e..o...",
-  "Complément Scénario": "ZQu",
-  "Référence client": "éventuelle",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": "Gi.RaN.V.i.UE...&u.R:ESP.ONNE",
-  "Code Postal Interlocuteur": "91720",
-  "Ville Interlocuteur": "Gi.RaN.V.i.UE...&u.R:ESP.ONNE",
-  "Temps passé": "20.. minutes.",
-  "Stylo bille": "noir",
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier par voie postale",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "avant mon envoi postal, j'a télécopié ma contribution",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par couriel mon courier numeérisé",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": ".400. dpi/ppp",
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "o....GT.?...?"
+  "Code d'envoi": "88 440",
+  "Identite fictive": {
+    "Nom": "Nia.w...",
+    "Prenom": "Prénom ..Nia.w...",
+    "Adresse": "u......Beu.",
+    "Code postal [X,Xityte]": "88 440",
+    "Tel": "0369903238"
+  },
+  "Scenario": {
+    "Categorie": null,
+    "Objet": "oano...d...a.alogu....e..o...",
+    "Complement": "ZQu",
+    "Interlocuteur": "Gi.RaN.V.i.UE...&u.R:ESP.ONNE",
+    "Adresse": "91720",
+    "Code postal": "91720",
+    "Ville": "Gi.RaN.V.i.UE...&u.R:ESP.ONNE"
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [
+      "bille",
+      "plume",
+      "feutre"
+    ],
+    "Temps passe a traiter le scenario": "20.. minutes."
+  },
+  "Contribution": {
+    "(6e) J'envoie mon courrier par voie postale a la date du 02[Aelee": null,
+    "(+2e) Mon courrier contient une page de garde de fax": null,
+    "(+18) Avant mon envoi postal, j'ai telecopie ma contribution le Q2 {As(os.": null,
+    "(+1€) J'ai envoye par courriel mon courrier numerise le 02-(aeko6": null,
+    "Marque et modele du scanner": "o....GT.?...",
+    "Format": [
+      "PNG",
+      "GIF",
+      "XTIFF"
+    ],
+    "Resolution des images": ".400. dpi/ppp"
+  }
 }

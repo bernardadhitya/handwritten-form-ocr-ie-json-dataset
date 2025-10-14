@@ -1,33 +1,37 @@
 {
-  "Code d'envoi": "DOGYT",
-  "Nom": "D.U.C..a.C.Q",
-  "Prénom": null,
-  "Adresse": "bo.o",
-  "Code Postal": "03F860395",
-  "Ville": "St...Blai.se...a...Rocte",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": "au....u...p.aignao......nuisa.oa...sono.as.",
-  "Complément Scénario": "an.............eme.",
-  "Référence client": null,
-  "Interlocuteur": "Ma'e..",
-  "Adresse Interlocuteur": "ue....c..cipale",
-  "Code Postal Interlocuteur": "6 4 2",
-  "Ville Interlocuteur": "St...Blai.se...a...Rocte",
-  "Temps passé": "2..Q... minutes",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "J'envoie mon courrier par voie postale a la date du ....Q3J...?",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le .",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le ...?",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "G.A.....n.apSca...e.?..."
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "D.U.C..a.C.Q",
+        "Prenom": null,
+        "Adresse": "bo.o",
+        "Code postal": "03F860395",
+        "Ville": "St...Blai.se...a...Rocte",
+        "Tel": null
+      }
+    },
+    "Scenario": {
+      "Categorie": null,
+      "Objet": "au....u...p.a.ignao......nuisa.oa...sono.as.",
+      "Complement": "an.............eme.",
+      "Reference client eventuelle": null,
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": "2..Q... minutes"
+      },
+      "Contribution": {
+        "Cocher les elements de votre contbution pour le scenaro traite": [],
+        "Marque et modele du scanner": "G.A.....n.apSca...e.",
+        "Format": [
+          "PNG",
+          "GIF",
+          "TIFF"
+        ],
+        "Resolution des images": "S.. dpi/pp"
+      }
+    }
+  }
 }

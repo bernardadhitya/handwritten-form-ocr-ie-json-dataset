@@ -1,28 +1,15 @@
 {
-  "form": "RTFrm 8201Rv.5/86",
-  "copy": "COPY",
-  "advertising": "BRAND MARKETING ADVERTISING",
-  "brand": "DORAL",
-  "brands": "BRAND(S)",
-  "item": "LEGAL APPROVAL NO. 11x48TH CRPRATE EXTENSTO POSTO TAPPEARMAr1995",
-  "description": "DESCRIPTION OF USE",
-  "description_of_use": "ITEM",
-  "initials": "J.7.0",
-  "date": "3/24/95",
-  "comments": "MARY ONES",
-  "originator": "J.7.0",
-  "approvals": {
-    "brand_manager": null,
-    "marketing_director": null,
-    "law_department": null,
-    "vice_president_brand_marketing": null,
-    "senior_vice_president": null,
-    "executive_vice_president": null
+  "Form Number": "8201Rv.5/86",
+  "Department": "BRAND MARKETING",
+  "Approvals": {
+    "Brand Manager": 3,
+    "Marketing Director": 3,
+    "Law Department": 1
   },
-  "approval_requirements": {
-    "advertising_comp": "A",
-    "advertising_legal_stats": "B"
-  },
-  "return_completed_form_to_originator": "RETURN COMPLETED FORM TO ORIGINATOR.",
-  "originator_routing": "51418 2307 ORIGINATOR (ROUTING)"
+  "Date": null,
+  "Originator": null,
+  "Approval Requirements": {
+    "Advertising Company": 1,
+    "Advertising Legal Stats": 1
+  }
 }

@@ -1,33 +1,42 @@
 {
-  "Code d'envoi": "Questionnaire-AiEPTx",
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "6711121",
-  "Ville": "w...x....M",
-  "Téléphone": "0363742s7",
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": "A.N.....A.w.am.ee.",
-  "Adresse Interlocuteur": "o........e..",
-  "Code Postal Interlocuteur": "231 51o",
-  "Ville Interlocuteur": "A.H.U.N",
-  "Temps passé": "3..... minutes.",
-  "Stylo bille": "bille",
-  "Stylo plume": "plume",
-  "Stylo feutre": "feutre",
-  "Contribution postale": "J'envoie mon courrier par voie postale á la date du ...../..4.l..2.o....",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le ..1le.4.0.2oa.?..",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le ..A...l...4....2.ao...",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": "2...... dpi/ppp",
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "Ca.......D.R..S..."
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": null,
+        "Adresse": null,
+        "Code postal": null,
+        "Ville": null,
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": null,
+        "Complement": null,
+        "Reference client eventuelle": null,
+        "Interlocuteur": null,
+        "Adresse": null,
+        "Code postal": null,
+        "Ville": null,
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+          ],
+          "Temps passe a traiter le scenario": "3 minutes"
+        },
+        "Contribution": {
+          "Cocher les elements_de_votre contribution pour le scenario traite": []
+        },
+        "Marque et modele du scanner": "CaDRS",
+        "Format": [
+          "PNG",
+          "GIF",
+          "TIFF"
+        ],
+        "Resolution des images": "200 dpi"
+      }
+    }
+  }
 }

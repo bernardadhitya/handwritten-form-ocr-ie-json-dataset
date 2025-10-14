@@ -1,33 +1,38 @@
 {
-  "Code d'envoi": "HYSTOR",
-  "Nom": null,
-  "Prénom": "atha.",
-  "Adresse": null,
-  "Code Postal": "SO",
-  "Ville": "A...",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": "hangemnt...con.ceanant....o....enue...ommad..",
-  "Complément Scénario": "ous...ouhaiteu...hang.....oue......od.",
-  "Référence client": "AWEUMO2",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "33 $Vil.......AG.",
-  "Ville Interlocuteur": "AG.",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "GRAN",
+        "Prenom": "U",
+        "Adresse": {
+          "CRAn?E": null,
+          "Code postal": "33",
+          "Ville": "AG"
+        }
+      },
+      "Scenario": {
+        "Categorie": "con.ceanant",
+        "de_cotal_LCemmande": null,
+        "Chanqemeat_Conceanank_vqkg_deunieke": null,
+        "Complement": null,
+        "Caquvelbe_ecence": null,
+        "Reference client eventuelle": null,
+        "Adresse": {
+          "Ae. BourG": {
+            "Code postal": "33",
+            "Ville": "AG"
+          }
+        }
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [],
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le_scenario_traite": [],
+        "Marque et modele du scanner": null,
+        "Resolution des images": null
+      }
+    }
+  }
 }

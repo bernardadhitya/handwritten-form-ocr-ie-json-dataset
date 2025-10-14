@@ -1,15 +1,14 @@
 {
-  "document": "TÉLECOPIE",
-  "scenario": null,
-  "writer": "V1GOURoUX PE",
-  "sender_person": "PHILIPPE",
-  "sender_company": "GDF",
-  "sender_tel": "03.21.68.79.86",
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": "Rlan : Rembeuesemeut",
-  "date": "23.02.07",
-  "place": "L 7 A rue du Marechal Joffre",
-  "box": "68920 WINTZENHEIM"
+  "Address": "L 7 A rue du Marechal Joffre",
+  "City": "WINTZENHEIM",
+  "Postal Code": "68920",
+  "Telephone": "03.21.68.79.86",
+  "Fax": null,
+  "Date": "23.02.07",
+  "Sender": {
+    "Name": "V1GOURoUX PE",
+    "Company": "GDF"
+  },
+  "Subject": "Rlan : Rembeuesemeut",
+  "Comments": "eP cPeF: E8 9dtSO RePance & counnensans Repoust."
 }

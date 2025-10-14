@@ -1,28 +1,15 @@
 {
-  "form_no": "1507",
-  "revision": "PMINC.REV.4/80",
-  "document_type": "PURCHASE REQUISITION",
-  "po_no": null,
-  "order_from": "Per Purchasing",
-  "date": null,
-  "req_no": null,
-  "ship_to": null,
-  "terms": "F.O.B.",
-  "fob": "F.O.B.",
-  "quantity": 1000.0,
-  "item": "Hispanic Poster - Fiesta de las Flores",
-  "unit_price": null,
-  "total": null,
-  "colors": "Red, white and green",
-  "must_be_delivered_by": "August 28, 1984",
-  "purpose": "M. Miranda",
-  "prepared_by": "Sull",
-  "date_required": "8/28/84",
-  "approval": null,
-  "departmental": null,
-  "deliver_to": null,
-  "dept": null,
-  "acctg_code": "APFROVAEPT.",
-  "approval_dept": null,
-  "executive_approval": null
+  "Form No": "1507",
+  "Purchase Requisition Order": "PMINC.REV.4/80",
+  "Date": null,
+  "Ship To": {
+    "Name": "Tom Brewington",
+    "Address": "Philip Morris USA Viscount Mini Warehouse",
+    "Warehouse": "C-14",
+    "Must be delivered by": "August 28, 1984"
+  },
+  "Items": [
+    "Hispanic Poster - Fiesta de las Flores",
+    "Marlboro Hispanic Festival Program"
+  ]
 }

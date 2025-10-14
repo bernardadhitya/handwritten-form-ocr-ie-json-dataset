@@ -1,33 +1,37 @@
 {
-  "Code d'envoi": "HkREgB",
-  "Nom": "c.A.S.",
-  "Prénom": "o.u...",
-  "Adresse": "u'.n.coa..",
-  "Code Postal": "Sr&O",
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": "o..a.tom......Cento...Commond.",
-  "Complément Scénario": "oet...guonlt...o.",
-  "Référence client": "Sekout",
-  "Interlocuteur": "Au....Bomse",
-  "Adresse Interlocuteur": "B32SO]vill...ST...UU.EN...BEY.CHE.EUE...",
-  "Code Postal Interlocuteur": "B32SO]vill...ST...UU.EN...BEY.CHE.EUE...",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "c.A.S.",
+        "Prenom": "o.u...",
+        "Adresse": "u'.n.coa..",
+        "Code postal": "Sr&O",
+        "Ville": null,
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": null,
+        "Complement": null,
+        "Interlocuteur": "Au....Bomse",
+        "Adresse": "B32SO]vill...ST...UU.EN...BEY.CHE.EUE...",
+        "Code postal": "B32SO]vill...ST...UU.EN...BEY.CHE.EUE...",
+        "Ville": null,
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille plumefeutre"
+          ],
+          "Temps passe a traiter le scenario": null
+        },
+        "Contribution": {
+          "Elements": [
+            "J'envoie mon courrier par voie postale",
+            "Mon courrier contient une page de garde de fax",
+            "Avant mon envoi postal, j'ai télécopié ma contribution",
+            "J'ai envoyé par courriel mon courrier numérisé"
+          ]
+        }
+      }
+    }
+  }
 }

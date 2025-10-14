@@ -1,32 +1,18 @@
 {
   "ID": "212-503-4650",
-  "Date": "APR 30'01",
+  "Date": "2001-04-30",
   "Time": "15:40",
-  "No": "008",
-  "Page": "P.04",
-  "Title": "PHILIP MORRIS USA PRINT RECERTIFICATION FORM",
-  "Instructions": "Please complete both Section A and B below. Section A certifics that your publication is \"not directed primarily to those under 21 years of age.\" Section B dctalis circulation,demognaphic and research data. Both sections must bc completed to allow Philip Morris USA to assess the placcmcnt oftobacco advertising in your publication.",
-  "SectionA": {
-    "PublicationTitle": "Exbeha Frorels",
-    "Certification": "I am the Exlecha Trors I cortify that (title of publication) is not dirccted primarily to thpso under 21 years of agc.",
-    "SignatureDate": null,
-    "Signature": null,
-    "Name": null
+  "Section": "PHILIP MORRIS USA PRINT RECERTIFICATION FORM",
+  "Publication": null,
+  "Certification": {
+    "Section": "SECTIONA",
+    "Details": "I am the Exlecha Trors I cortify that (title of publication) is not dirccted primarily to thpso under 21 years of agc."
   },
-  "SectionB": {
-    "SubscriptionPercentage": "90%",
-    "Circulation": {
-      "NewsstandPercentage": "97.0%",
-      "CirculationAged21PlusPercentage": null,
-      "ReadershipAged21PlusPercentage": null
-    },
-    "Research": {
-      "DateOfStudy": "2050 Sering",
-      "TypeOfStudy": "Other",
-      "OtherTypeDescription": null,
-      "Methodology": null,
-      "TotalNumberOfRespondents": "2086078641"
-    }
-  },
+  "Advertiser": "Philip Morris USA",
+  "PlacementAssessment": "Both sections must bc completed to allow Philip Morris USA to assess the placcmcnt oftobacco advertising in your publication.",
+  "Sections": [
+    "Exbeha Frorels",
+    "I am the Exlecha Trors I cortify that (title of publication) is not dirccted primarily to thpso under 21 years of agc."
+  ],
   "FaxNumber": "917-663-5313"
 }

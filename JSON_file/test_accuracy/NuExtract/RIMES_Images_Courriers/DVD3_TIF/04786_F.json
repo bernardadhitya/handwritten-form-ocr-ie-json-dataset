@@ -1,15 +1,12 @@
 {
-  "document": "FAX",
-  "scenario": null,
-  "writer": null,
-  "sender_person": "Melle DENIZOT",
-  "sender_company": null,
-  "sender_tel": "0346783088",
-  "sender_fax": null,
-  "receiver_person": "NAiF DWLanCe",
-  "receiver_company": null,
-  "subject": null,
+  "sender": {
+    "name": "Melle DENIZOT Aurore",
+    "address": "69 rue d'or",
+    "phone": "0346783088"
+  },
+  "recipient": "NAiF DWLanCe",
   "date": "Jo 1o512co4",
-  "place": "69 rue d'or",
-  "box": "68500BERRWILLER"
+  "reference": "OZUT Z3O",
+  "subject": null,
+  "attention": "a du paenenh deo ne"
 }

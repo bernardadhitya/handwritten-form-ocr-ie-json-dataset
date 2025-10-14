@@ -1,20 +1,9 @@
 {
-  "lcte": "N0 mmal",
-  "permit_number": "1895",
-  "city": "SIOUX FALLS",
-  "state": "SD",
-  "zip_code": "57117-9657",
-  "business_reply_mail": {
-    "first_class_mail": null,
-    "postage_paid_by_addressee": null,
-    "no_postage_necessary_if_mailed_in_us": null
-  },
-  "addressee": {
-    "name": null,
-    "po_box": "5503",
-    "city": "MARLBORO",
-    "state": "SD",
-    "zip_code": null
-  },
-  "tracking_numbers": []
+  "Company": "lcte",
+  "Address": {
+    "Street": "P.O.BOX5503",
+    "City": "SIOUXFALLS",
+    "State": "SD",
+    "ZipCode": "57117-9657"
+  }
 }

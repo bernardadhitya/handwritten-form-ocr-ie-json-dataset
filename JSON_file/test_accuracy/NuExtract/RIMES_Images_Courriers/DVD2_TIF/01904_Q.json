@@ -1,33 +1,40 @@
 {
-  "Code d'envoi": "Questionnaire",
-  "Nom": "BEA.L",
-  "Prénom": null,
-  "Adresse": "3.c.S...M.AUT.A.C",
-  "Code Postal": "l6oo",
-  "Ville": "oEMHE",
-  "Téléphone": null,
-  "Catégorie Scénario": "a.mash.",
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": "ar",
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "LoMovile SA",
-  "Ville Interlocuteur": "AMRA",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": null,
+  "Questionnaire": {
+    "Identite fictive": {
+      "Nom": "BEA.L",
+      "Prenom": null,
+      "Adresse": "3.c.S...M.AUT.A.C",
+      "Code postal": "l6oo",
+      "Ville": "oEMHE",
+      "Tel": "036053"
+    },
+    "Scenario": {
+      "Categorie": "a.mash.",
+      "Objet": null,
+      "Complement": null,
+      "Reference client eventuelle": null,
+      "Adresse": null,
+      "Code postal": "LoMovile SA",
+      "Ville": "AMRA",
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille",
+          "plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les elements devotre contribution pour le scenario traite": [],
+        "Marque et modele du scanner": "?...as..o....9.a..",
+        "Format": [
+          "NG",
+          "GIF",
+          "TIFF"
+        ],
+        "Resolution des images": "Q... dpi/p"
+      }
+    }
+  }
 }

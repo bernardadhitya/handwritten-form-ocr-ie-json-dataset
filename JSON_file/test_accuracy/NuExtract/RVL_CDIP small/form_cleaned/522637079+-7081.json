@@ -1,41 +1,28 @@
 {
-  "company": "Thhacco Company",
-  "id": "433186474",
-  "contact_number": "562642533",
-  "additional_id": "840683",
-  "location": {
-    "lake": "Stewart Lake",
-    "po_box": "PO80x3742",
-    "city": "Winston-Salem",
-    "state": "NC",
-    "zip_code": "27102"
+  "Company Name": "Thhacco Company",
+  "Address": {
+    "Street": "PO80x3742",
+    "City": "Stewart Lake",
+    "State": "N.C.",
+    "Zip Code": "27102"
   },
-  "consumer_relations": {
-    "address": {
-      "city": "Winston-Salem",
-      "state": "NC",
-      "zip_code": "27102"
-    }
-  },
-  "contact_info": {
-    "phone": "1-800-777-2695",
-    "hours": "Monday through Friday from 8:00 a.m.to 6:00 p.m.EST"
-  },
-  "instructions": {
-    "step_1": "Check to make sure the mailing address above is correct. Print any corrections in the box below on the right. Any corrections must match your ID",
-    "step_2": "Your signature and date of birth are required to determine your eligibility.",
-    "step_3": "Attach a copy of your identification. Required to determine your eligibility.",
-    "step_4": "Send form and copy of ID in the enclosed self-addressed envelope, or mail to: Attn: Consumer RelationsP.O.Box 2959,Winston-SalemNC 27102"
-  },
-  "requirements": {
-    "age": "21 years of age or older",
-    "identification": [
+  "Phone Number": "1-800-777-2695",
+  "Operating Hours": "Monday through Friday from 8:00 a.m.to 6:00 p.m.EST",
+  "Age Verification Instructions": {
+    "Requirements": "verify that every smoker on our mailing list is 21 years of age or older.",
+    "Accepted IDs": [
       "driver's license",
       "sporting license",
       "MEDICAID Voucher",
       "State ID"
     ],
-    "brand_of_cigarettes": null
+    "Contact for Questions": "1-800-777-2695"
   },
-  "disclaimer": "Offer Restricted to Smokers 21 Years of Age or Older. We do not sell the names on our lists to anyone."
+  "Additional Information": {
+    "Brand of Cigarettes": "DO RAL 52263",
+    "Mailing Address Correction Instructions": "Check to make sure the mailing address above is correct. Print any corrections in the box below on the right. Any corrections must match your ID.",
+    "Signature and Date of Birth Required": 57,
+    "Mail Form and ID to": "P.O.Box 2959,Winston-SalemNC 27102",
+    "Offer Restrictions": "Offer Restricted to Smokers 21 Years of Age or Older."
+  }
 }

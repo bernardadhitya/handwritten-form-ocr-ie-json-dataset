@@ -1,33 +1,51 @@
 {
-  "Code d'envoi": null,
-  "Nom": "BA..y.",
-  "Prénom": "Ques.",
-  "Adresse": "[5 45p] Ville...SAuLNs",
-  "Code Postal": "0334062371",
-  "Ville": "SAuLNs",
-  "Téléphone": null,
-  "Catégorie Scénario": "ChasGun...d.'adtuns",
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": "QNEF09",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": "Rou.sE...iowt.",
-  "Code Postal Interlocuteur": "6t60l vill...vei7",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "BAy",
+        "Prenom": "Ques",
+        "Adresse": "I [5 45p] Ville...SAuLNs",
+        "Code postal": "0334062371",
+        "Ville": "SAuLNs",
+        "Tei": null
+      },
+      "Scenario": {
+        "Categorie": "ChasGun...d.'adtuns",
+        "Objet": null,
+        "Complement": null,
+        "Reference client eventuelle": null,
+        "Intertocuteur": "f..",
+        "Adresse": "Rou.sE...iowt.",
+        "Code postal": "6t60l vill...vei7",
+        "Ville": null,
+        "Redaction": {
+          "Type de-stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+          ],
+          "Temps passe a traiter le scenario": null
+        },
+        "Contribution": {
+          "Cocher les elements de votre contribution pour le scenario traite": [
+            "J'envoie mon courrier par voie postale à la date du",
+            "+2e",
+            "Mon courrier contient une page de garde de fax",
+            "+1€",
+            "Avant mon envoi postal,j'ai télécopié ma contribution le",
+            "+1€",
+            "J'ai envoyé par courriel mon courrier numérisé le"
+          ]
+        },
+        "Marque et modele du scanner": {
+          "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+          ],
+          "Resolution des images": "ddd/!dp"
+        }
+      }
+    }
+  }
 }

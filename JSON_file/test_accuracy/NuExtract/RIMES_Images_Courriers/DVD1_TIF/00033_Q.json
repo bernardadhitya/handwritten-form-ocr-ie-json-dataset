@@ -1,33 +1,46 @@
 {
-  "Code d'envoi": "XBBHKa",
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "5t39o",
-  "Ville": "R&dam.9",
-  "Téléphone": "034951309",
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "3&6",
-  "Ville Interlocuteur": "o.wt......oyana",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "Ax."
+  "Code d'envoi": {
+    "Questionnaire": null,
+    "Identité fictive": {
+      "Nom": null,
+      "Prénom": null,
+      "Adresse": null,
+      "Code postal": "5t39o",
+      "Ville": "R&dam.9"
+    },
+    "Scénario": {
+      "Catégorie": null,
+      "Objet": null,
+      "Complément": null,
+      "Référence client éventuelle": null,
+      "Interlocuteur": null,
+      "Adresse": "Gasal...wu...",
+      "Code postal": "3&6",
+      "Ville": "o.wt......oyana."
+    },
+    "Rédaction": {
+      "Type de stylo utilisé": [
+        "bille",
+        "plume",
+        "feutre"
+      ],
+      "Temps passé à traiter le scénario": null
+    },
+    "Contribution": {
+      "Éléments de contribution": {
+        "J'envoie mon courrier par voie postale à la date du 03/4/20": null,
+        "Mon courrier contient une page de fax": null,
+        "Avant mon envoi postal, j'ai télécopié ma contribution le 2.3./.e.{.l20.6": null,
+        "J'ai envoyé par courriel mon courrier numérisé le Q40812006": null,
+        "Marque et modèle du scanner": "Ax.",
+        "Format": [
+          "PNG",
+          "GIF",
+          "TIFF"
+        ],
+        "Résolution des images": null
+      },
+      "Coût total de la contribution": null
+    }
+  }
 }

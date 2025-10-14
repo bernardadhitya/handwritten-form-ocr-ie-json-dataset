@@ -1,32 +1,31 @@
 {
-  "Code d'envoi": "Questionnaire",
-  "Nom": "R.",
-  "Prénom": "n.nie",
-  "Adresse": "UE.. HECkEN",
-  "Code Postal": "L6&90",
-  "Ville": "K7RcHBERG",
-  "Téléphone": "0382675487",
-  "Catégorie Scénario": "Eer.metur...e...Compte",
-  "Objet Scénario": "Eeme.twr......pte. bancaire",
-  "Complément Scénario": "au.cun",
-  "Référence client": "KFG22",
-  "Interlocuteur": "Baue... bi...ynnas",
-  "Adresse Interlocuteur": "Bo..G",
-  "Code Postal Interlocuteur": "l44Z 90",
-  "Ville Interlocuteur": "MA.SSERAC",
-  "Temps passé": "minutes",
-  "Stylo bille": "noir",
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "cejo.....o....'e."
+  "Code d'envoi": {
+    "Identite fictive": {
+      "Nom": "R.",
+      "Prenom": "n.nie",
+      "Adresse": "UE.. HECkEN",
+      "Code postal": "L6&90",
+      "Ville": "K7RcHBERG",
+      "Tel": "0382675487"
+    },
+    "Scenario": {
+      "Categorie": "Eer.metur...e...Compte",
+      "Objet": "Eeme.twr......pte. bancaire",
+      "Complement au Cun": "KFG22",
+      "Interlocuteur": "Baue... bi...ynnas",
+      "Debit nals": null,
+      "Code postal": "l44Z 90",
+      "Ville": "MA.SSERAC"
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": "bille plume feutre",
+      "Temps passe a traiter le scenario": "minutes"
+    },
+    "Contribution": {
+      "Cocher les elements de votre contribution pour le_scenario traite": "(6e) J'envoie mon courrier par voie postale á la date du ...&..?/.2o. 6. (+2€) Mon courrier contient une page de garde de fax. (+1€) Avant mon envoi postal, j'ai télécopié ma contribution le (+1€) J'ai envoyé par courriel mon courrier numérisé le ...&....",
+      "Marque et modele du scanner": null,
+      "Format": null,
+      "Resolution des images": null
+    }
+  }
 }

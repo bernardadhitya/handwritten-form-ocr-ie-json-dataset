@@ -1,33 +1,46 @@
 {
-  "Code d'envoi": null,
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "3 h sSo",
-  "Ville": "AL",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": "BA.A....swrances",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "E....",
+        "Prenom": "E.fod",
+        "Adresse": "AL..?....",
+        "Ville": "AL..",
+        "Code": "3 h sSo",
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": "oet...s...wo...ouue..con.cae.no.n...epes....",
+        "Stiiskxe": "oa....weh.ue.",
+        "CbMCLI_h.": null,
+        "Objet": null,
+        "Vehicul": null,
+        "Complement": "ucu.",
+        "Reference client eventuelle": "BA.A....swrances.",
+        "Adresse": "aut..v.Anv..s.",
+        "Code": "Ltol ",
+        "Ville": "aut..v.Anv..s."
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille",
+          "plume",
+          "feutre"
+        ],
+        "a traiter le scenario": null
+      },
+      "Contribution": {
+        "les elementsde votre contribution pour_le_scenario traite": null
+      },
+      "Envoi": {
+        "J'envoie mon courrier par": null,
+        "Mon courrier contient une page de": null,
+        "Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+        "Jai par courriel mon courrier numerise le": null,
+        "Marque et modele du scanner": null,
+        "Resolution des images": null,
+        "Format": null
+      }
+    }
+  }
 }

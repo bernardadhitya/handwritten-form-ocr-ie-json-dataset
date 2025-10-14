@@ -1,33 +1,45 @@
 {
-    "Code d'envoi": "YHLSYY",
-    "Nom": "Touchard",
-    "Prénom": "Roseline",
-    "Adresse": "20 rue Pasteur",
-    "Code Postal": "54150",
-    "Ville": "NORROY LE SEC",
-    "Téléphone": "0327006519",
-    "Catégorie Scénario": "modification de contrat / commande",
-    "Objet Scénario": "commande d'actions boursières pour un montant de 1500\\neuros (vous chargez votre banquier de choisir le placement)",
-    "Complément Scénario": "\\n",
-    "Référence client": "UJZYH53",
-    "Interlocuteur": "Banque débit lyonnais",
-    "Adresse Interlocuteur": "1 rue de la poste",
-    "Code Postal Interlocuteur": "85410",
-    "Ville Interlocuteur": "La caillère St Hilaire",
-    "Temps passé": "10",
-    "Stylo bille": "",
-    "Stylo plume": "",
-    "Stylo feutre": "x",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "4 avril 2007",
-    "Option Page de garde de fax": "x",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "4 Avril 2007",
-    "Résolution": "300",
-    "Format PNG": "",
-    "Format GIF": "x",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "epson perfection 4490 photo"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "Tauchau.d",
+        "Prenom": "Roseline",
+        "Adresse": "Soue.....Pasteun",
+        "Code postal": "54SVille ..aRRoy...Le...sEC 03200c5",
+        "Ville": "aRRoy...Le...sEC",
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": "modipicat.cn...de...cont.at..commande..",
+        "Objet": "a.mmande....!.actions...basieue...aur...un...motank...d..Soo..wos....vass...chaugez....vate...bangste...de...choisu.....placement",
+        "Complement": "3",
+        "Interlocuteur": {
+          "Janque": "angue....elhi...yenais.",
+          "Adresse": "ue...de........pste",
+          "Code postal": "&S !o] Vill.....caiUee...s...ulause",
+          "Ville": "caiUee...s...ulause"
+        },
+        "Redaction de stylo (noir) utilise": {
+          "bille": 0,
+          "plume": 0,
+          "feutre": 0
+        },
+        "Temps passe a traiter le scenario": "JO.... minutes.",
+        "Contribution": {
+          "Jenvoie mon courrier par voie postale a la date du ausnil....": 6,
+          "Mon courrier contient une page de garde de fax": 2,
+          "Avant mon envoi postal, j'ai telecopie ma contribution le": 1,
+          "J'ai envoye par courriel mon courrier numerise le": 1
+        },
+        "Marque et modele du scanner": "ep..weechi....a...phdo",
+        "Format": [
+          "PNG",
+          "GIF",
+          "TIFF"
+        ],
+        "Resolution des images": "&... dpi/ppp",
+        "Type": null
+      }
+    }
+  }
 }

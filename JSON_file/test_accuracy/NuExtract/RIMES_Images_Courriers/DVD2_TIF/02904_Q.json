@@ -1,32 +1,41 @@
 {
-  "Code d'envoi": "Taxkuk",
-  "Nom": "F.OU.SHE.R",
-  "Prénom": "Conste..s...",
-  "Adresse": null,
-  "Code Postal": "33zg8ycc0",
-  "Ville": "RouT.RoiE",
-  "Téléphone": null,
-  "Catégorie Scénario": "od.&sa.ian..a..a..w..k...l.sommod",
-  "Objet Scénario": "am.ma..s........pa..a.....hammo.ao....a....",
-  "Complément Scénario": null,
-  "Référence client": "JnAmuo7",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": "baus..",
-  "Code Postal Interlocuteur": "3] ile......SH..i.sR",
-  "Ville Interlocuteur": null,
-  "Temps passé": "3... minutes.",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "J'envoie mon courrier par voie postale á la date du ......o?...",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le ...",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le ....I.o?..t..",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "Cooscaw...D.2so..u2"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "F.OU.SHE.R",
+        "Prenom": "Conste..s...",
+        "Adresse": null,
+        "Code postal": "[6 8 6 S oVille ...RouT.RoiE o33zg8ycc0",
+        "Ville": "RouT.RoiE",
+        "Peutreie": null
+      },
+      "Scenario": {
+        "Categorie": "od.&sa.ian..a..a..w..k...l.sommod",
+        "Objet": "am.ma..s........pa..a.....hammo.ao....a....",
+        "Complement": "Référence client éventuelle",
+        "Interlocuteur": "e...?",
+        "Adresse": "baus..",
+        "Code postal": "[3] ile......SH..i.sR",
+        "Ville": "SH..i.sR",
+        "ChArtier": null,
+        "Type de stylo (noir) utilise": [
+          "bille",
+          "plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": "3... minutes.",
+        "Contribution": {
+          "Cocher les elements de votre contribution pour le_scenario traite": [
+            "J'envoie mon courrier par voie postale",
+            "Mon courrier contient une page de garde de fax",
+            "Avant mon envoi postal, j'ai télécopié ma contribution",
+            "J'ai envoyé par courriel mon courrier numérisé"
+          ]
+        },
+        "Marque et modele du scanner": "Cooscaw...D.2so..u2",
+        "Format": [],
+        "Resolution des images": null
+      }
+    }
+  }
 }

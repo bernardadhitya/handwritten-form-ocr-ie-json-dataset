@@ -1,33 +1,43 @@
 {
-  "Code d'envoi": "cosbT",
-  "Nom": null,
-  "Prénom": "NONVUYO",
-  "Adresse": "SYYY",
-  "Code Postal": "l6B L4 Y e]",
-  "Ville": "Q&2T.AQ",
-  "Téléphone": "03so8hgRi",
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "NONVUYO",
+        "Prenom": "A?CE.L.E",
+        "Adresse": "SYYY",
+        "Code postal": "l6B L4 Y e] ville..Q&2T.AQ",
+        "Ville": "03so8hgRi",
+        "Tel": null
+      },
+      "Categorie": "cw...t....a..ow...",
+      "QuueL": {
+        "Objet": "Compl'met...l.a....i.o.a",
+        "QAetrvc": "sHxxxk",
+        "Sqw.As": "Interocuteur....auqu....et....u.a.a..",
+        "Reference client eventuelle": "Adresse",
+        "Adresse": "CuX",
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+          ],
+          "Temps passe a traiter le scenario": null
+        },
+        "Contribution": {
+          "Cocher les elements de votre contribution pour le scenario traite": [
+            "(6€) J'envoie mon courrier par voie postale a la date du",
+            "(+2€) Mon courrier contient une page de garde de fax.",
+            "(+1€) Avant mon envoi postal, j'ai télécopié ma contribution le",
+            "(+1€) J'ai envoyé par courriel mon courrier numérisé le"
+          ]
+        },
+        "Format": [
+          "PNG",
+          "GIF",
+          "TIFF"
+        ]
+      }
+    }
+  }
 }

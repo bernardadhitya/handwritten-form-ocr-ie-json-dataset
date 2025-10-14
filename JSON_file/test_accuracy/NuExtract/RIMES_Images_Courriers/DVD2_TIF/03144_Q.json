@@ -1,33 +1,34 @@
 {
   "Code d'envoi": "GZLFTS",
-  "Nom": "C.ROC.H.E.M.O.R.",
-  "Prénom": "An...",
-  "Adresse": "E..N....",
-  "Code Postal": "54 36",
-  "Ville": "R&...V",
-  "Téléphone": "0325083776",
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": "e.hou.re",
-  "Adresse Interlocuteur": "drese",
-  "Code Postal Interlocuteur": "44522",
-  "Ville Interlocuteur": "E.S.A.N.G.E.R",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "E.P.O.N.....R.E..E.C..O.M....?O..U.."
+  "Identite fictive": {
+    "Nom": "C.ROC.H.E.M.O.R.",
+    "Prenom": "An...",
+    "Adresse": "E..N....",
+    "Code": "54 36",
+    "Ville": "R&...V",
+    "Tel": "0325083776"
+  },
+  "Scenario": {
+    "Categorie": null,
+    "Objet": null,
+    "Complement": null,
+    "Reference client eventuelle": null,
+    "Interlocuteur": "e.hou.re",
+    "Adresse": "E.S.A.N.G.E.R",
+    "Code": "44522",
+    "Ville": "E.S.A.N.G.E.R"
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [],
+    "Temps passe a traiter le scenario": null,
+    "Contribution": {
+      "Jenvoie mon courrier par voie postale a la date du 24/e2k2": null,
+      "Mon courrier contient une page de de fax": null,
+      "Avant mon envoi postal, jai telecopie ma contribution le": null,
+      "Jai envoye par courriel mon courrier numerise le 23/ez/zqq3": null,
+      "Marque et modele du scanner": "E.P.O.N.....R.E..E.C..O.M....?O..U..",
+      "Format": [],
+      "Resolution des images": null
+    }
+  }
 }

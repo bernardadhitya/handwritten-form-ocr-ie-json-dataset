@@ -1,15 +1,9 @@
 {
-  "document": "CAIS",
-  "scenario": null,
-  "writer": null,
-  "sender_person": null,
-  "sender_company": "CAISSE D'EPARGNE DES PAYS-DE-LA-LOIRE",
-  "sender_tel": "02.51.68.0Z.32",
-  "sender_fax": "02.51.49.89.84",
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": "Geho d simihe",
-  "date": null,
-  "place": "CHALLANS",
-  "box": "1A r IlANiF"
+  "CAISSE D'EPARGNE": {
+    "Name": "CAISSE D'EPARGNE DES PAYS-DE-LA-LOIRE",
+    "Agence": "Agence de CHALLANS",
+    "Address": "7 Rue Bonne Fontaine",
+    "Phone": "02.51.68.0Z.32",
+    "Fax": "02.51.49.89.84"
+  }
 }

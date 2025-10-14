@@ -1,32 +1,47 @@
 {
-  "Code d'envoi": "PDNk0U",
-  "Nom": "BoO.LAN.P",
-  "Prénom": "Malux",
-  "Adresse": "u....Samt....Nako..",
-  "Code Postal": "St9 9 o",
-  "Ville": "HUNDLiNs",
-  "Téléphone": "032605366",
-  "Catégorie Scénario": "Geton",
-  "Objet Scénario": "bowo.....sas...awee...oncanant..expatix...de.te.sisue accident..lo...mas...danen.",
-  "Complément Scénario": "@uc...",
-  "Référence client": "Mman'f...Asusanco.",
-  "Interlocuteur": "Mman'f...Asusanco.",
-  "Adresse Interlocuteur": "avenue...da..att..d...Targm",
-  "Code Postal Interlocuteur": "33 4 o",
-  "Ville Interlocuteur": "GU.AN....MEs.T&AS",
-  "Temps passé": "Ao....",
-  "Stylo bille": "bille",
-  "Stylo plume": "plume",
-  "Stylo feutre": "feutre",
-  "Contribution postale": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi postal": "23ao?",
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": "2l34.ao?",
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le ..2l34.ao?",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "Epson..eafactan...660"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "BoO.LAN.P",
+        "Prenom": "Malux",
+        "Adresse": "u....Samt....Nako..",
+        "Code postal": "St9 9 o",
+        "Ville": "HUNDLiNs",
+        "Tel": "032605366"
+      },
+      "Scenario": {
+        "Categorie": "Geton.....ou.",
+        "Objet": "bowo.....sas...awee...oncanant..expatix...de.te.sisue accid...lo...mas...danen.",
+        "Complement": "@uc...",
+        "Reference client eventuelle": "Mman'f...Asusanco.",
+        "Interlocuteur": "Mman'f...Asusanco.",
+        "Adresse": "avenue...da..att..d...Targm",
+        "Code postal": "33 4 o",
+        "Ville": "GU.AN....MEs.T&AS"
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille",
+          "plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": "...Ao.... minutes."
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le scenario traite": {
+          "(6€) J'envoie mon courrier par voie postale a la date du P9lahsx1:.": null,
+          "(+2€) Mon courrier contient une page de garde de fax:": null,
+          "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+          "(+1€) Jai envoye par courriel mon courrier numerise le . 2Al23/9o87:.": null
+        },
+        "Marque et modele du scanner": "Epson..eafactan...660.",
+        "Format": [
+          "PNG",
+          "GIF",
+          "TIFF"
+        ],
+        "Resolution des images": null
+      }
+    }
+  }
 }

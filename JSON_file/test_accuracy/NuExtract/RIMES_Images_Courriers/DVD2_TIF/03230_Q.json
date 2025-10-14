@@ -1,33 +1,32 @@
 {
-  "Code d'envoi": "EyZskf",
-  "Nom": null,
-  "Prénom": "oni.",
-  "Adresse": "o.......o..eo...A...",
-  "Code Postal": "[9l1OO]",
-  "Ville": "Ev.&",
-  "Téléphone": null,
-  "Catégorie Scénario": "Bemaoa...inf.cossati.c...",
-  "Objet Scénario": "eomo..d......ames.tatoo...ca..eao....s co.tors....d.osranc...aoo.oh.e",
-  "Complément Scénario": "kCapo6",
-  "Référence client": "éventuelle",
-  "Interlocuteur": "aw.....A.ssRA.oce",
-  "Adresse Interlocuteur": "u........a.ha...ecR",
-  "Code Postal Interlocuteur": "[39pqO O]",
-  "Ville Interlocuteur": "DQ.LE",
-  "Temps passé": ".-?..Q... minutes.",
-  "Stylo bille": "noir",
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "J'envoie mon courrier par voie postale a la date du ....al.l.Q3..2.co?..",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le ..... I.3../2co,..",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le ...!.I &..2c..",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "sao...Sc.o....ylx...ohdo..x..y...."
+  "Code d'envoi": null,
+  "Questionnaire": {
+    "Identite fictive": {
+      "Nom": "onii@E",
+      "Prenom": null,
+      "Adresse": "o.......o..eo...A...",
+      "Code postal": "[9l1OO]",
+      "Ville": "Ev.&",
+      "Tel": null
+    },
+    "Scenario": {
+      "Categorie": "Bemaoa...inf.cossati.c...",
+      "Objet": "eomo..d......ames.tatoo...ca..eao....s co.tors....d.osranc...aoo.oh.e",
+      "Lextots_d osssBonc_-axemeHile": null,
+      "Reference client eventuelle": "Interlocuteur ....aw.....A.ssRA.oce",
+      "Adresse": "u........a.ha...ecR",
+      "Code postal": "[39pqO O]",
+      "Ville": "DQ.LE"
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [],
+      "Temps passe a traiter le scenario": null
+    },
+    "Contribution": {
+      "Cocher les elements_de_votre contribution _pour le_scenario_traite": [],
+      "Marque et modele du scanner": "sao...Sc.o....ylx...ohdo..x..y...",
+      "Format": [],
+      "Resolution des images": null
+    }
+  }
 }

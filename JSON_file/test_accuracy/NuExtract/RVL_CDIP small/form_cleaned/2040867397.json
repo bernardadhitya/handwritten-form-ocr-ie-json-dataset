@@ -1,37 +1,18 @@
 {
-  "date": "JAN16'92",
-  "time": "0308PM",
-  "location": "KANSAS CITYPLACE",
-  "page": "P.1/13",
-  "law_office": {
-    "name": "SHOOK.HARDY&BACON",
-    "address": "14214547",
-    "contact": {
-      "phone": "1200MAIN STREET",
-      "telecopy_number_for_tobacco_matters": "816) 421-2708"
-    },
-    "other_offices": [
-      "W.U.,TELE1SHKSC",
-      "OYERLANOPARK,KANSAS",
-      "CORPCRATIONS",
-      "19BUCKNSMAMGATE"
-    ]
+  "Date": "JAN16'92",
+  "Time": "0308PM",
+  "Location": "KANSAS CITY PLACE",
+  "Company": "SHOOK.HARDY&BACON",
+  "Address": "14214547",
+  "Phone": {
+    "Law Offices": "1200MAIN STREET",
+    "Tobacco Matters": "816) 421-2708"
   },
-  "telecopy_transmission": {
-    "pages_including_cover": "Pages (Including This Cover Page)",
-    "confidentiality_notice": "The docunents accompanying this telecopy.transmission contain confidenrial information belonging to the sender which is Legally privileged. The information is intended only for the use of the individuals) or entityies named below. If you are not the intended recipient, you are hereby notified that sny disclosure, copying, distribution or the taking of any action in reliance on the contents of this telecopied information is strictly prohibited.. If you have received this telecopy in error, please immediately notify us by telephone to arrange for return of the originel documents to us."
-  },
-  "delivery_instructions": {
-    "to": "ms Hhamk Bahl",
-    "recipient": "ine stenx Assil",
-    "from": "Frome",
-    "date": "Please Deliver",
-    "additional_copies_to": "2040867397",
-    "additional_delivery_instructions": "RUSH Please call to discuss immediately after review"
-  },
-  "transmission_details": {
-    "device": "RICOH RAPICOM 83O GROUP III)",
-    "contact_for_issues": "816 474-6550EXT"
-  },
-  "operator": "OPERATOR:"
+  "Delivery Instructions": {
+    "To": "ms Hhamk Bahl",
+    "Additional Copies": "2040867397",
+    "Additional Delivery Instructions": "RUSH Please call to discuss immediately after review WE ARE TRANSMITTING FROM A RICOH RAPICOM 83O GROUP III) IFYOU EXPERIENCE ANY PROBLEMS IN RECEIVING ANY OF THESE PAGES PLEASE CALL US AS SOON AS POSSIBLE AT 816 474-6550EXT.",
+    "Transmitting From": "A PARTNERSHIP INCLUDING PROFESSIONAL KANSASCITY,MISSOURI64105 OYERLANOPARK,KANSAS CORPCRATIONS",
+    "Contact in Case of Problems": "816 474-6550EXT."
+  }
 }

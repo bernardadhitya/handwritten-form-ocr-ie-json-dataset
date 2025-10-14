@@ -1,32 +1,45 @@
 {
-  "Code d'envoi": "XDLB",
-  "Nom": "C.RR..e.",
-  "Prénom": null,
-  "Adresse": "6&4 p] ville..R..a`s.h%....",
-  "Code Postal": "038432425",
-  "Ville": "R..a`s.h%....",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": "B...A.....A.s.......",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "SUQO] vll...M..A.RA.i...U..E",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "ddd/!dp"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "C.R.R.e.",
+        "Prenom": null
+      },
+      "Adresse": {
+        "Code": "6&4",
+        "Ville": "R..a`s.h%...."
+      },
+      "Tel": "038432425",
+      "Scenario": {
+        "Categorie": null,
+        "Objet": null,
+        "Reference client eventuelle": "B...A.....A.s.......",
+        "Interlocuteur": null,
+        "Adresse": {
+          "S": null,
+          "Code postal": "SUQO",
+          "Ville": "M..A.RA.i...U..E"
+        },
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "eutre"
+          ],
+          "Temps a traiter le scenario": null
+        },
+        "Contribution": {
+          "Cocher les elements de votre contribution pour le_scenario traite": []
+        },
+        "Marque et modele du scanner": {
+          "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+          ],
+          "Resolution des images": null
+        }
+      }
+    }
+  }
 }

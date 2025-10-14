@@ -1,32 +1,28 @@
 {
   "Code d'envoi": "XHANX",
-  "Nom": "A.C",
-  "Prénom": "A",
-  "Adresse": null,
-  "Code Postal": "6Ao",
-  "Ville": "A.S",
-  "Téléphone": null,
-  "Catégorie Scénario": "mam",
-  "Objet Scénario": "m.o",
-  "Complément Scénario": "M..C",
-  "Référence client": "JcAQ1v63",
-  "Interlocuteur": "a.n",
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "o]ville",
-  "Ville Interlocuteur": null,
-  "Temps passé": "S....",
-  "Stylo bille": "bille",
-  "Stylo plume": "plume",
-  "Stylo feutre": "feutre",
-  "Contribution postale": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "...S.oN...eschon...3...to"
+  "Identite fictive": {
+    "Nom": "A.",
+    "Prenom": "A.C.",
+    "Adresse": null,
+    "Code postal": "6Ao",
+    "Ville": "A.S.",
+    "Tel": null
+  },
+  "Categorie": "mam",
+  "Objet": "m.o",
+  "Complement": "M..C...",
+  "Reference client eventuelle": "Inteocuter.....a.n..........a.",
+  "Redaction": {
+    "Type de stylo (noir) utilise": [],
+    "Temps passe a traiter le scenario": null
+  },
+  "Contribution": {
+    "Jenvoie mon courrier par voie postale a la date du JA. JAL": null,
+    "Mon courrier contient une page de garde de fax": null,
+    "Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+    "J'ai envoye par courriel mon courrier numerise le": null
+  },
+  "Marque et modele du scanner": "...S.oN...eschon...3...",
+  "Format": [],
+  "Resolution des images": null
 }

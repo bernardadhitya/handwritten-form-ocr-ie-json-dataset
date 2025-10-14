@@ -1,32 +1,36 @@
 {
-  "Code d'envoi": "RDyxLB",
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": "C.H.U..BOU..E..",
-  "Code Postal": "7O27",
-  "Ville": "sT....B.AR.T.HE..E.M.X.",
-  "Téléphone": "0345648824",
-  "Catégorie Scénario": null,
-  "Objet Scénario": "Demood....",
-  "Complément Scénario": "LIvM34",
-  "Référence client": null,
-  "Interlocuteur": "RE..SO..ER!.....DES......PO.T.",
-  "Adresse Interlocuteur": "PL..ACE....DU...EO..RA...",
-  "Code Postal Interlocuteur": "B38O",
-  "Ville Interlocuteur": "CL.A.R.",
-  "Temps passé": "aO..... minutes.",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier par voie postale",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "avant mon envoi postal, 'ai télécopié ma contribution le .20./03/.0.7.",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le ..?Q....3..Q.7.",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": null,
+        "Adresse": null,
+        "Code postal": null,
+        "Ville": null,
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": null,
+        "Complement": {
+          "Reference client eventuelle": null
+        },
+        "Interlocuteur": null,
+        "Adresse": null,
+        "Code postal": null,
+        "Ville": null
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [],
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le_scenario traite": [],
+        "Marque et modele du scanner": null,
+        "Liae": null,
+        "Format": [],
+        "Resolution des images": null
+      }
+    }
+  }
 }

@@ -1,33 +1,38 @@
 {
-  "Code d'envoi": "Questionnaire",
-  "Nom": "E.",
-  "Prénom": null,
-  "Adresse": "o..h.",
-  "Code Postal": "[6+ ur2o] ville..Mo.hN",
-  "Ville": "Mo.hN",
-  "Téléphone": null,
-  "Catégorie Scénario": "amand....`n.tormaon",
-  "Objet Scénario": "ma.......on..w..aur..w.n.son.e.",
-  "Complément Scénario": "wens....a.u......un..an.",
-  "Référence client": "éventuelle",
-  "Interlocuteur": "N..N..A....AsSo.aN.&S",
-  "Adresse Interlocuteur": "..e....di......Bo.s.",
-  "Code Postal Interlocuteur": "L43sSO",
-  "Ville Interlocuteur": "Lo..&&R&..H.RuN9",
-  "Temps passé": "O.... minutes.",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "J'envoie mon courrier par voie postale á la date du ...?3.....Q..6.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, 'a téléecopié ma contributio le ....0.6.",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "Chrisal",
+        "Prenom": "E.",
+        "Adresse": "o..h.",
+        "Code postal": "[6+ ur2o]",
+        "Ville": "Mo.hN",
+        "Tel": "032388o34R"
+      },
+      "Scenario": {
+        "Categorie": "amand",
+        "Objet": "ma.......on..w..aur..w.n.son.e.",
+        "SenAealleD": {
+          "Complement": "wens....a.u......un..an.",
+          "Reference client eventuelle": null,
+          "Interlocuteur": "N..N..A....AsSo.aN.&S",
+          "Adresse": "e....di......Bo.s.",
+          "Code postal": "L43sSO",
+          "Ville": "Lo..&&R&..H.RuN9",
+          "HeRang": null
+        },
+        "Type de stylo (noir) utilise": [
+          "bille",
+          "plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le scenario traite": [],
+        "Marque et modele du scanner": null,
+        "Resolution des images": null
+      }
+    }
+  }
 }

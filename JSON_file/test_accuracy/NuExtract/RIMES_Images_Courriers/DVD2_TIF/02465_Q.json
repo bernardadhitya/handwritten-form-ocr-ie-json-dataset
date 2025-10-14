@@ -1,33 +1,36 @@
 {
   "Code d'envoi": "AWLDVO",
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": "hampa.y.e",
-  "Code Postal": "S47SO",
-  "Ville": "EuX",
-  "Téléphone": "0351702592",
-  "Catégorie Scénario": "Maduotion",
-  "Objet Scénario": "Chamsememt",
-  "Complément Scénario": "ouhat",
-  "Référence client": "3so",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Identite fictive": {
+    "Nom": "Oep.him.",
+    "Prenom": null,
+    "Adresse": "hampa.y.e",
+    "Code postal": 47.0,
+    "Ville": "EuX",
+    "Tel": "0351702592"
+  },
+  "Scenario": {
+    "Categorie": "Maduotion",
+    "Objet": "Chamsememt",
+    "Madameie": "cammaxae",
+    "Complement": "ouhat...mpac....mado...commandk",
+    "Aa_modala": "mode...onomg...n...ch.s..o.",
+    "mmanda": "LTQHR66",
+    "Reference client eventuelle": "3so......montag.o.",
+    "Interlocuteur": null,
+    "Adresse": null,
+    "Code postal": null,
+    "Ville": null,
+    "Redaction": {
+      "Type de stylo (noir) utilise": [],
+      "Temps passe a traiter le scenario": null
+    },
+    "Contribution": {
+      "J'envoie mon courrier par voie postale a la date du": null,
+      "Mon courrier contient une page de garde de fax": "+2€",
+      "Avant mon envoi postal, j'ai telecopie ma contribution le": "@..f.z.l.",
+      "J'ai envoye par courriel mon courrier numerise le": null,
+      "Format": [],
+      "Resolution des images": null
+    }
+  }
 }

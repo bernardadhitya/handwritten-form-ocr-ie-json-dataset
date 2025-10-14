@@ -1,33 +1,34 @@
 {
   "Code d'envoi": "xzAuIN",
-  "Nom": "f.O.u.ZE..",
-  "Prénom": "My.ia",
-  "Adresse": null,
-  "Code Postal": "689 q60",
-  "Ville": "ObeRdoRf",
-  "Téléphone": null,
-  "Catégorie Scénario": "elauc",
-  "Objet Scénario": "oh....eclauaho....d....o...douo....eo..wooe",
-  "Complément Scénario": "@ucu.",
-  "Référence client": "esa.eRia...oo.uupab.",
-  "Interlocuteur": "esa.eRia...oo.uupab.",
-  "Adresse Interlocuteur": "placo...d....Ua...aRa...",
-  "Code Postal Interlocuteur": "O6  3 o",
-  "Ville Interlocuteur": "I.ed",
-  "Temps passé": "AO... minutes.",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier par voie postale",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "CANQN....Suaet.BaE...M..3.6.Q."
+  "Identite fictive": {
+    "Nom": "f.O.u.ZE..",
+    "Prenom": "u..e...taugs"
+  },
+  "Adresse": {
+    "Rue": null,
+    "Code postal": "689 q60",
+    "Ville": "ObeRdoRf"
+  },
+  "Tel": null,
+  "Scenario": {
+    "Categorie": "elauc",
+    "Objet": "oh....eclauaho....d....o...douo....eo..wooe",
+    "Complement": "@ucu."
+  },
+  "Reference client eventuelle": null,
+  "Interlocuteur": {
+    "IeesoreRi_donlupob": "esa.eRia...oo.uupab.",
+    "Code postal": "O6 3 o",
+    "Ville": "I.ed"
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [],
+    "Temps passe a traiter le scenario": "AO... minutes."
+  },
+  "Contribution": {
+    "Cocher les elements de votre contribution pour le_scenario traite": [],
+    "Marque et modele du scanner": "CANQN....Suaet.BaE...M..3.6.Q.",
+    "Format": [],
+    "Resolution des images": "..&QQ... dpi/pp"
+  }
 }

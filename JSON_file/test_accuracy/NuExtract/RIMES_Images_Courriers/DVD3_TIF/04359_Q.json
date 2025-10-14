@@ -1,33 +1,44 @@
 {
-  "Code d'envoi": "TPRFDQ",
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "6O",
-  "Ville": "ANG",
-  "Téléphone": "05938955",
-  "Catégorie Scénario": "e.mand",
-  "Objet Scénario": "ao...d...a..e.mamttom...conc..m...o..",
-  "Complément Scénario": "C...C....",
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "3Sd",
-  "Ville Interlocuteur": "Vill",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "LO"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": null,
+        "Adresse": null,
+        "Code postal": null,
+        "Ville": null,
+        "Tel": null
+      }
+    },
+    "Categorie": null,
+    "Objet": null,
+    "Joncene": {
+      "Nor": null,
+      "Deblatyon": null,
+      "Reference client eventuelle": null
+    },
+    "Interlocuteur": null,
+    "Adresse": null,
+    "Code postal": null,
+    "Ville": null,
+    "Redaction": {
+      "Type de stylo (noir) utilise": [],
+      "Temps passe a traiter le scenario": null
+    },
+    "Contribution": {
+      "Cocher les elements de votre contribution pour lescenario_traite": {
+        "(6€) Jenvoie mon courrier par voie postale a Ia date du 30.4312": null,
+        "(+2e) Mon courrier contient une page de de fax.": null,
+        "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+        "(+1€) Jai envoye par courriel mon courrier numerise le": null
+      },
+      "Marque et modele du scanner": "LO",
+      "Format": [
+        "PNG",
+        "GIF",
+        "TIFF"
+      ],
+      "Resolution des images": "ddd/!dp"
+    }
+  }
 }

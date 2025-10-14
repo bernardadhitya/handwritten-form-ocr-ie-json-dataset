@@ -1,32 +1,32 @@
 {
-  "Code d'envoi": "A5",
-  "Nom": "BALLON",
-  "Prénom": "JON AT.HAN",
-  "Adresse": "U.....E...LUn..VlLE....",
-  "Code Postal": "LSL43O.0' vile....",
-  "Ville": "Bon.ViLLER",
-  "Téléphone": null,
-  "Catégorie Scénario": "MOD..FCATIR..DE..CONTRAT..",
-  "Objet Scénario": "N..TI...OE....Rc.... YERsEnEN.....SR...VOR..LAN...EPA.E..",
-  "Complément Scénario": "A..Cyo...",
-  "Référence client": "éventuella",
-  "Interlocuteur": "Bw.Qu....SoceTe.....Gen.Ae.",
-  "Adresse Interlocuteur": "Coors VOLTAIRE",
-  "Code Postal Interlocuteur": "LL6! Ve...CA.DEN&..",
-  "Ville Interlocuteur": null,
-  "Temps passé": "2.Q.... minutes",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier contient u!  page de garde de fax.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient u!  page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi po tai, j'ai télécopié rna contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoye par ccurrial rron courr ier numérisé le",
-  "Résolution": null,
-  "Format PNG": "L PNG",
-  "Format GIF": "L GIF",
-  "Format TIFF": "L TIFF",
-  "Marque et modèle scanner": null
+  "Code d'envoi": null,
+  "Identite fictive": {
+    "Nom": "BALLON",
+    "Prenom": "JON AT.HAN"
+  },
+  "Adresse": {
+    "K.Rue": "U.....E...LUn..VlLE....",
+    "Ville": "Bon.VILLER",
+    "Code postal": "LSL43O.0"
+  },
+  "Tel": null,
+  "Scenario": {
+    "Categorie": "MOD..FCATIR..DE..CONTRAT..",
+    "Objet": "N..TI...OE....Rc.... YERsEnEN.....SR...VOR..LAN...EPA.E..",
+    "Reference client evertuelle": null
+  },
+  "Interlocuteur": {
+    "Re": "Bw.Qu....SoceTe.....Gen.Ae.",
+    "Societe": "Gen.Ae.",
+    "Adresse": "Coors VOLTAIRE",
+    "Code postal": "LL6! Ve...CA.DEN&",
+    "Ville": null
+  },
+  "Redaction de stylo (noir) utilise": "bili a  I plume feut re",
+  "Temps passe a traiter le scon Iric": "2.Q.... minutes",
+  "Contribution": {
+    "Cocher les & 4us_Yevetre eeutribution pour le_scenario traite": null
+  },
+  "Format": "PNG L G1F LTFF",
+  "Type": null
 }

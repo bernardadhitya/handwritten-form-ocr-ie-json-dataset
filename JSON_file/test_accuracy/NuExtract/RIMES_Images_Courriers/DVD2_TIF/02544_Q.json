@@ -1,33 +1,38 @@
 {
   "Code d'envoi": "MFDEMC",
-  "Nom": "RA",
-  "Prénom": "G.u.",
-  "Adresse": null,
-  "Code Postal": "L67311",
-  "Ville": "o.w....k",
-  "Téléphone": "79588557",
-  "Catégorie Scénario": null,
-  "Objet Scénario": "cla.a.tio..oi...d.mw...e...e.te.......w.he..",
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "66O]",
-  "Ville Interlocuteur": "ou...E..h.aS",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": "220.... dpi/pp",
-  "Format GIF": "220.... dpi/pp",
-  "Format TIFF": "220.... dpi/pp",
-  "Marque et modèle scanner": "AG.A....SNAP.SCA..N.....T.QUCH"
+  "Identite fictive": {
+    "Nom": "RA",
+    "Prenom": "G.u.",
+    "Adresse": null,
+    "Code postal": "L67311",
+    "Ville": "o.w....k",
+    "Tel": "79588557"
+  },
+  "Scenario": {
+    "Categorie": null,
+    "Objet": null,
+    "Complement": null,
+    "Reference client eventuelle": null,
+    "Interlocuteur": null,
+    "Adresse": null,
+    "Code postal": "66O",
+    "Ville": "ou...E..h.aS",
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "bille plume",
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": null
+    },
+    "Contribution": {
+      "Cocher les elements de votre contribution pour le scenario traite": []
+    }
+  },
+  "Marque et modele du scanner": "AG.A....SNAP.SCA..N.....T.QUCH",
+  "Format": [
+    "PNG",
+    "GIF",
+    "TIFF"
+  ],
+  "Resolution des images": "220 dpi"
 }

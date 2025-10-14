@@ -1,32 +1,52 @@
 {
-  "Code d'envoi": "XLAVBF",
-  "Nom": "Gougnas",
-  "Prénom": "Bénédicte",
-  "Adresse": "ue...d.....Cha.otte",
-  "Code Postal": "9ron Jr1o",
-  "Ville": "ATQut.E.7",
-  "Téléphone": null,
-  "Catégorie Scénario": "Reckamatic",
-  "Objet Scénario": "oua...souRaite...aus....",
-  "Complément Scénario": "ussanoqwa*src",
-  "Référence client": "UMi.VER...SALE....foBiL.E",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "[on3io1o]",
-  "Ville Interlocuteur": "Ci:T.ER.S",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier par voie postale",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "L"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "Gougnas",
+        "Prenom": "Bénédicte",
+        "Adresse": {
+          "Rue": null,
+          "Code postal": "9ron Jr1o",
+          "Ville": "ATQut.E.7"
+        },
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": "Reckamatic",
+        "Objet": "oua...souRaite...aus....",
+        "Vous": "ussanoqwa*src",
+        "Complement": "aus....es...nsa.i.a...du...ae.i.so",
+        "SECV cg": null,
+        "Interlocuteur": "UMi.VER...SALE....foBiL.E",
+        "Adresse": {
+          "Reute": null,
+          "Code postal": "[on3io1o]",
+          "Ville": "Ci:T.ER.S"
+        },
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+          ],
+          "Temps passe a traiter le scenario": null
+        },
+        "Contribution": {
+          "Cocher les elements de votre contribution pour le scenario traite": [
+            "J'envoie mon courrier par voie postale",
+            "Mon courrier contient une page de garde de fax",
+            "Avant mon envoi postal, j'ai télécopié ma contribution",
+            "J'ai envoyé par courriel mon courrier numérisé"
+          ],
+          "Marque et modele du scanner": "L",
+          "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+          ],
+          "Resolution des images": null
+        }
+      }
+    }
+  }
 }

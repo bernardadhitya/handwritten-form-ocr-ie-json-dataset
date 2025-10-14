@@ -1,15 +1,36 @@
 {
-  "document": "Obiek: modyficalion de conhal",
-  "scenario": null,
-  "writer": null,
-  "sender_person": null,
-  "sender_company": "Banque SouEle GEniale",
-  "sender_tel": "03.86.44.59.36",
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": null,
-  "date": null,
-  "place": null,
-  "box": null
+  "name": "BAUER Pauinc",
+  "address": {
+    "street": "I4,rve de I`ecluse",
+    "number": 4,
+    "city": "ALLENTOie",
+    "tel": "03.86.44.59.36",
+    "postal_code": 2440
+  },
+  "date_of_membership": null,
+  "resources": null,
+  "investment": {
+    "type": null,
+    "amount": null
+  },
+  "commission": {
+    "type": null,
+    "amount": null
+  },
+  "sales": {
+    "type": null,
+    "amount": null
+  },
+  "expenses": {
+    "type": null,
+    "amount": null
+  },
+  "revenue": {
+    "type": null,
+    "amount": null
+  },
+  "expenditures": {
+    "type": null,
+    "amount": null
+  }
 }

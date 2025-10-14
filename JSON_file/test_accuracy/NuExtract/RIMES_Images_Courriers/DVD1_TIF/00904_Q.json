@@ -1,33 +1,38 @@
 {
-  "Code d'envoi": "BcCHA",
-  "Nom": "eilesk",
-  "Prénom": null,
-  "Adresse": "S 73a d ville..",
-  "Code Postal": null,
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": "L4r52&d vile..Batcu&mac",
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "eilesk",
+        "Prenom": null,
+        "Adresse": "S 73a d ville.."
+      },
+      "Tei": "BcCHA",
+      "Scenario": {
+        "Categorie": "aciaalim.....soma....ommamo",
+        "Objet": "cmagmemt...com.eamamt.....o...am..",
+        "CdxC": "pwowruoy",
+        "Cuxand": "Compléement....nu...a.hait...ammu........commanl.",
+        "Reference client eventuelle": "BXBCESS",
+        "Interlocuteur": {
+          "Adresse": "L4r52&d vile..Batcu&mac",
+          "Code postal": "Rédaction",
+          "Ville": "Batcu&mac"
+        }
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille",
+          "plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les_elements_de_votre contribution pour le_scenario traite": [],
+        "Marque et modele du scanner": null,
+        "Format": [],
+        "Resolution des images": null
+      }
+    }
+  }
 }

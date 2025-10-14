@@ -1,33 +1,45 @@
 {
-  "Code d'envoi": null,
-  "Nom": null,
-  "Prénom": "ased",
-  "Adresse": null,
-  "Code Postal": "L665o",
-  "Ville": "iEFEENTHAL",
-  "Téléphone": "039892821",
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": "XcIMsg4",
-  "Interlocuteur": "ru...elecom",
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "3 3 0] Vill ..o.UE....ES...o.uRs.",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": "XGIF TIFF",
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "6.00"
+  "Questionnaire": {
+    "Identite fictive": {
+      "Nom": "FAY",
+      "Prenom": "ased."
+    },
+    "Adresse": {
+      "Cue_Extise": "L665o] Ville....iEFEENTHAL",
+      "Code postal": "039892821",
+      "Ville": "iEFEENTHAL",
+      "Tel": "039892821"
+    }
+  },
+  "Scenario": {
+    "Categorie": null,
+    "Objet": null,
+    "Complement": null,
+    "Interlocuteur": {
+      "Broullke": {
+        "Adresse": null,
+        "Code postal": null,
+        "Ville": null
+      }
+    }
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [],
+    "Temps passe a traiter le scenario": null
+  },
+  "Contribution": {
+    "Cocher les elements de votre contribution pour le_scenario traite": {
+      "Jenvoie mon courrier par voie postale a la date du 24.leuloz.": null,
+      "Mon courrier contient une page de garde de fax": null,
+      "Avant mon envoi postal, jai telecopie ma contribution le": null,
+      "Jai envoye par courriel mon courrier numerise le 23L.4L.10.1.": null
+    },
+    "Marque et modele du scanner": "6.00...Pr",
+    "Format": [
+      "PNG",
+      "XGIF",
+      "TIFF"
+    ],
+    "Resolution des images": "300pp"
+  }
 }

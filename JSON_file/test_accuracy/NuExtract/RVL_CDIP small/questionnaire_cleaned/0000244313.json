@@ -1,16 +1,18 @@
 {
-  "documentControlProject": "PHOTOCOPYING VARIANCE SHEET",
-  "notations": [
-    "DCCUMENT COPIES ARE IN THE SAME SEQUENCE AS THEY APPEARED IN THE ORICINAL.",
-    "DUPLICATE DOCUMENTS APPEARED IN THE ORIGINAL.",
-    "PAGE NUMBERS) MISSING IN THE ORICINAL.",
-    "POOR QUALITY ORIGINAL.",
-    "QVERLAY ITEM COULD NOT BE REMOVED WITHOUT DAMACE TO THE ORIGINAL.",
-    "NO DOCUMENTS WERE FOUND WITHIN THE ORIGINAL:",
-    "REDROPE EXPANDASLE FILE.",
-    "HANGING FILE.",
-    "ENVELOPE."
-  ],
-  "fileTypes": [],
-  "interpretation": "INTERPRETATION."
+  "organization": null,
+  "location": null,
+  "documents": [],
+  "notations": "DCCUMENT COPIES ARE IN THE SAME SEQUENCE AS THEY APPEARED IN THE ORICINAL.",
+  "details": {
+    "original": "POOR QUALITY ORIGINAL.",
+    "missing_pages": "PAGE NUMBERS) MISSING IN THE ORICINAL.",
+    "quality": "POOR QUALITY ORIGINAL.",
+    "overlay": "QVERLAY ITEM COULD NOT BE REMOVED WITHOUT DAMACE TO THE ORIGINAL.",
+    "no_documents_found": "NO DOCUMENTS WERE FOUND WITHIN THE ORIGINAL:"
+  },
+  "additional_items": [],
+  "reproduction_details": {
+    "color": null,
+    "purpose": null
+  }
 }

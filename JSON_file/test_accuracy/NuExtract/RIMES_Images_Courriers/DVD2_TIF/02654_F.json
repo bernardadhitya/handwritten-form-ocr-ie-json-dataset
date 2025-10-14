@@ -1,15 +1,26 @@
 {
-  "document": "FAX - TELECOPIE",
-  "scenario": null,
-  "writer": "LEFEBVRE AGNES",
-  "sender_person": "AGNES LEFEBVRE",
-  "sender_company": "INRIA",
-  "sender_tel": "01 39 63",
-  "sender_fax": "01 39 63 58 82",
-  "receiver_person": "LES 3 SV1FS",
-  "receiver_company": "537 MERVEILLES 0643O TENOE",
-  "subject": "ugmentatun (xi] des quantit& de CS Dergs tmmaudess",
+  "expediteur": {
+    "nom": "LEFEBVRE AGNES",
+    "departement": "MACS",
+    "batiment": "16",
+    "telephone": "01 39 63",
+    "fax": "01 39 63 58 82",
+    "email": null
+  },
+  "destinataire": {
+    "raison_sociale": "MERVEILLES",
+    "adresse": "537 : RN 2O4",
+    "fax": "0643O TENOE"
+  },
+  "reference": "ugmentatun (xi] des quantit& de CS",
+  "nombre_pages": "1",
   "date": null,
-  "place": "Rocquencourt-B.P.105-78153 Le Chesnay Cedex France",
-  "box": null
+  "institut": {
+    "nom": "INRIA",
+    "unite_recherche": "Domaine de Voluceau -Rocquencourt-B.P.105-78153 Le Chesnay Cedex France",
+    "adresse": "Rocquencourt-B.P.105-78153 Le Chesnay Cedex France",
+    "telephone": "01 39 63 55 11",
+    "fax": "01 39 63 53 30",
+    "decret": "Décret n° 85.831 du 2 aoüt 1985"
+  }
 }

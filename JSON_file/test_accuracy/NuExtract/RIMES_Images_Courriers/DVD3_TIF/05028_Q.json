@@ -1,32 +1,47 @@
 {
-  "Code d'envoi": "Questionnaire",
-  "Nom": "D.A.E",
-  "Prénom": "Re. i.",
-  "Adresse": null,
-  "Code Postal": "6F4ol vill .ROESC.H..WQ..O6...",
-  "Ville": "ROESC.H..WQ..O6...",
-  "Téléphone": "032570727",
-  "Catégorie Scénario": "m.tu........om.",
-  "Objet Scénario": "L.QK",
-  "Complément Scénario": "u.a.",
-  "Référence client": "Inerocuteu .....A..A....A..s....e.",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "4aao",
-  "Ville Interlocuteur": "Saiu't...i.re..a.t.limax",
-  "Temps passé": "5... minutes.",
-  "Stylo bille": "bille",
-  "Stylo plume": "plume",
-  "Stylo feutre": "feutre",
-  "Contribution postale": "Mon courrier par voie postale",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "L."
+  "Code d'envoi": {
+    "Questionnaire": "SWECPD",
+    "Identite fictive": {
+      "Nom": "D.A.E",
+      "Prenom": "Re. i.."
+    },
+    "Adresse": {
+      "Ab_Kue_ dESFd 2": {
+        "Code postal": "6F4ol vill .ROESC.H..WQ..O6...",
+        "Ville": "ROESC.H..WQ..O6..."
+      }
+    },
+    "Tel": "032570727"
+  },
+  "Scenario": {
+    "Categorie": "m.tu........om.",
+    "Objet": "L.QK",
+    "Complement": "u.a.",
+    "Reference client eventuelle": "A..A....A..s....e.",
+    "Interlocuteur": "A..A....A..s....e.",
+    "Axurance": {
+      "Adresse": "4aao ville Saiu't...i.re..a.t.limax",
+      "Code postal": "4aao",
+      "Ville": "Saiu't...i.re..a.t.limax"
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "bille",
+        "plume",
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": "...5... minutes."
+    },
+    "Contribution": {
+      "Elements_de_votre contribution": [],
+      "Marque et modele du scanner": {
+        "Format": [
+          "PNG",
+          "GIF",
+          "TIFF"
+        ],
+        "Resolution des images": null
+      }
+    }
+  }
 }

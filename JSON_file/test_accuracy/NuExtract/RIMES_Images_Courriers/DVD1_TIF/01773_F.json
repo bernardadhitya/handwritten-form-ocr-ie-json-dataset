@@ -1,15 +1,23 @@
 {
-  "document": "TELECOPIE",
-  "scenario": null,
-  "writer": "Virgx P.rL",
-  "sender_person": "Virgx P.rL",
-  "sender_company": "SARCO",
-  "sender_tel": "05 57 77 96 27",
-  "sender_fax": "05 57 77 96 26",
-  "receiver_person": "La RSsh",
-  "receiver_company": null,
-  "subject": "nodHcahon &e com",
-  "date": null,
-  "place": "B.P. 40 - 33015 BORDEAUX CEDEX",
-  "box": "Z.A.LAJACQUOTTE-RUEARISTIDE BERGES-33270FLOIRAC"
+  "company_name": "SARCO",
+  "company_type": null,
+  "address": {
+    "head_office": {
+      "street_address": "B.P. 40",
+      "city": "BORDEAUX",
+      "postal_code": "33015",
+      "country": "CEDEX"
+    },
+    "laboratory": {
+      "street_address": "Z.A.LAJACQUOTTE-RUEARISTIDE BERGES",
+      "city": "FLOIRAC",
+      "postal_code": "33270",
+      "country": "FLOIRAC"
+    }
+  },
+  "contact": {
+    "telephone": "05 57 77 96 27",
+    "fax": "05 57 77 96 26",
+    "email": "info@sarco.fr"
+  }
 }

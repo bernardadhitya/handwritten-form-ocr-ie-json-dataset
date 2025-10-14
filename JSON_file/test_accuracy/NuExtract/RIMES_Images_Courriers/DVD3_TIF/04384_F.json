@@ -1,15 +1,22 @@
 {
-  "document": "TELECOPIE",
-  "scenario": null,
-  "writer": null,
-  "sender_person": null,
-  "sender_company": null,
-  "sender_tel": "04-78-45-84-84",
-  "sender_fax": "04-78-45-96-55",
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": null,
-  "date": null,
-  "place": "6 Place du Marché - Boite postale 10 - 69670 VAUGNERAY",
-  "box": "10"
+  "Notary": {
+    "Name": "S.C.P. Jean-Edouard LAURENT - Denis SIBILLE - Emmanuelle SPENNATO - Emilie LAURENT",
+    "Associates": [
+      "Denis SIBILLE",
+      "Emmanuelle SPENNATO",
+      "Emilie LAURENT"
+    ],
+    "Address": {
+      "Street": "6 Place du Marché",
+      "PostalCode": "69670",
+      "City": "VAUGNERAY"
+    },
+    "Contact": {
+      "Tel": "04-78-45-84-84",
+      "Fax": "04-78-45-96-55",
+      "Email": "scp.laurent.sibille@notaires.fr"
+    },
+    "OfficeHours": "Réception du LUNDI au VENDREDI de 10h a 12h et de 14h a 18h, sur rendez-vous",
+    "AdditionalInfo": "Membre d'une association agréée, le réglement des honoraires par chéque est accepté."
+  }
 }

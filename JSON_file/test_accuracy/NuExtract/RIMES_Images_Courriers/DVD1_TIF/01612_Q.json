@@ -1,33 +1,46 @@
 {
-  "Code d'envoi": "yDyAsF",
-  "Nom": "Desgiangu",
-  "Prénom": "&mmt.",
-  "Adresse": "ue..de...estao.",
-  "Code Postal": "3310101o",
-  "Ville": "ardea",
-  "Téléphone": "0524366gg5",
-  "Catégorie Scénario": "Oificult...e..paiement.",
-  "Objet Scénario": "Oemamde...de...semise...gsaciesse",
-  "Complément Scénario": "u..ery...e..ywdne...wote.mplai",
-  "Référence client": "MvuBa4",
-  "Interlocuteur": "E...",
-  "Adresse Interlocuteur": "...&u...dus..a.tea",
-  "Code Postal Interlocuteur": "852Ono",
-  "Ville Interlocuteur": "..awm&au",
-  "Temps passé": "25.... minutes.",
-  "Stylo bille": "bille",
-  "Stylo plume": "plume",
-  "Stylo feutre": "feutre",
-  "Contribution postale": "Mon courrier par voie postale a la date du ..20./12/.200.6",
-  "Date d'envoi postal": "2006-12-20",
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le ..20.142./2.a0...",
-  "Date d'envoi par fax": "2006-12-20",
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le ....4.8.1/12.1.2o06",
-  "Date d'envoi par courriel": "2006-12-04",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "Desgiangu",
+        "Prenom": "&mmt.",
+        "Adresse": "ue..de...estao.",
+        "Code postal": "3310101o",
+        "Ville": "ardea",
+        "Tel": "0524366gg5"
+      },
+      "Scenario": {
+        "Categorie": "Oificult...e..paiement.",
+        "Objet": "Oemamde...de...semise...gsaciesse",
+        "Complement": "u..ery...e..ywdne...wote.mplai",
+        "Reference client eventuelle": "MvuBa4"
+      },
+      "Interlocuteur": {
+        "EDE": {
+          "Adresse": "...&u...dus..a.tea",
+          "Code postal": "[852Ono]",
+          "Ville": "..awm&au"
+        },
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+          ],
+          "Temps passe a traiter le scenario": "25 minutes"
+        }
+      },
+      "Contribution": {
+        "Cocher les elements devotre contribution pour le scenario traite": [
+          "(6€) J'envoie mon courrier par voie postale a la date du ..20./12/.200.6",
+          "(+2€) Mon courrier contient une page de garde de fax.",
+          "(+1@) Avant mon envoi postal, j'ai télécopié ma contribution le ..20.142./2.a0...",
+          "(+1€) J'ai envoyé par courriel mon courrier numérisé le ....4.8.1/12.1.2o06"
+        ],
+        "Marque et modele du scanner": [],
+        "Format": [],
+        "Resolution des images": null
+      }
+    }
+  }
 }

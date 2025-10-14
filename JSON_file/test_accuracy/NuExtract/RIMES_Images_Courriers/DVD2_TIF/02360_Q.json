@@ -1,33 +1,35 @@
 {
-  "Code d'envoi": "FXECAN",
-  "Nom": "PELLE6RjN",
-  "Prénom": null,
-  "Adresse": "w....nvK.",
-  "Code Postal": "L68S2nol",
-  "Ville": "6u&UUP.T...E...AS",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": "E..b..!...",
-  "Code Postal Interlocuteur": "E",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": 0.035,
+  "Questionnaire": {
+    "Identite fictive": {
+      "Nom": "PELLE6RjN",
+      "Prenom": null,
+      "Adresse": "w....nvK.",
+      "Code postal": "L68S2nol",
+      "Ville": "6u&UUP.T...E...AS",
+      "Tel": null
+    },
+    "Scenario": {
+      "Categorie": null,
+      "Objet": null,
+      "QalAd": null,
+      "Aum L MstbAtL.": null
+    }
+  },
+  "Reference client eventuelle": {
+    "Interlocuteur": "o.u.......",
+    "Adresse": "E..b..!...",
+    "Code postal": null,
+    "Ville": null
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [],
+    "Temps passe a traiter le scenario": null
+  },
+  "Contribution": {
+    "Cocher les_elements de_votre contribution pour le_scenario traite": [],
+    "Marque et modele du scanner": null,
+    "Format": [],
+    "Resolution des images": null
+  }
 }

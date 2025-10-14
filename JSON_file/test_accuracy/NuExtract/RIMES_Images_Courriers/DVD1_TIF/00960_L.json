@@ -1,15 +1,22 @@
 {
-    "document": "Lettre manuscrite",
-    "scenario": "Demande d'information",
-    "writer": "SANCHES Charlotte",
-    "sender_person": "Charlotte SANCHES",
-    "sender_company": "",
-    "sender_tel": "+33(0)3.65.95.09.08",
-    "sender_fax": "",
-    "receiver_person": "",
-    "receiver_company": "La Reboute",
-    "subject": "Objet : Demande de précisions sur ma dernière facture",
-    "date": "18/10/2006",
-    "place": "Petite Roselle",
-    "box": ""
+  "name": "Charlotte SANCHES",
+  "address": {
+    "street": "34 rue PincpaIe",
+    "city": "PET1TE ROSSELLE",
+    "zip": "57 54O"
+  },
+  "contact": {
+    "phone": "03.65.95.09.08",
+    "email": null
+  },
+  "order": {
+    "orderNumber": null,
+    "orderDate": null,
+    "items": []
+  },
+  "letter": {
+    "greeting": "Madame, Monsieur",
+    "body": "J'ai effectue derniérement une commande dans uotre soaiete : ammpef Restaxt & vctre dispoition ije vaus prie d'sgréer Madame Monsieur , ll expres8ion de mas Salutatiens distinqusas.",
+    "signature": "SANCHE"
+  }
 }

@@ -1,15 +1,13 @@
 {
-  "document": "TELEFAX",
-  "scenario": null,
-  "writer": "MOREAUX David",
-  "sender_person": "MOREAUX David",
-  "sender_company": "NNA Assurances",
-  "sender_tel": "+33 (0) 3 87 66 57 60",
-  "sender_fax": "0160764333",
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": "appel a assurance habitation",
-  "date": "lundi 23 octobre 2006",
-  "place": null,
-  "box": null
+  "TELEFAX": {
+    "date": "lundi 23 octobre 2006",
+    "fax": "0160764333",
+    "societe": "NNA Assurances",
+    "de": "MOREAUX David",
+    "tel": "+33 (0) 3 87 66 57 60",
+    "objet": "appel a assurance habitation",
+    "ref_client": "VBITJ51",
+    "message": "Madame, Moo3ieuruir a 1a Femp}e ayGnY sex Ce tor.",
+    "nombre_de_pages": null
+  }
 }

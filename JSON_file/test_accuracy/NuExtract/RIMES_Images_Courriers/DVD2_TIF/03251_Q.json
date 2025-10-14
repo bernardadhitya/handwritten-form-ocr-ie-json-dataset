@@ -1,32 +1,31 @@
 {
-  "Code d'envoi": "Questionnaire",
-  "Nom": "M.O.L..C.T.E.R",
-  "Prénom": "e.ph",
-  "Adresse": "H..E....",
-  "Code Postal": "5433 O",
-  "Ville": "H..E....",
-  "Téléphone": "0B23660",
-  "Catégorie Scénario": null,
-  "Objet Scénario": "s...ha.e...e.oe..wst..........ak...e...eapmwki....au",
-  "Complément Scénario": "..eapmwki....au",
-  "Référence client": "éventuelle",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": "M oville...C..a..........s.",
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": "M oville...C..a..........s.",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le...",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "L"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "M.O.L.C.T.E.R",
+        "Prenom": "e.ph",
+        "Adresse": "M oville...C..a..........s.",
+        "Code postal": "5433",
+        "Ville": "H..E....",
+        "Tel": "0B23660"
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": "s...ha.e...e.oe..wst..........ak...e...",
+        "Complement": "cewo.a.u...w.u.ag.....und..memsm....",
+        "Reference client eventuelle": "X..e..",
+        "Interlocuteur": null,
+        "Adresse": null,
+        "Redaction": {
+          "Type de stylo (noir) utilise": [],
+          "Temps passe a traiter le scenario": null
+        },
+        "Contribution": {
+          "Cocher les_elements_de_votre_contribution pour le_scenario traite": [],
+          "Marque et modele du scanner": "L",
+          "Resolution des images": "dpi/ppp"
+        }
+      }
+    }
+  }
 }

@@ -1,33 +1,44 @@
 {
-  "Code d'envoi": "ON&MQL",
-  "Nom": null,
-  "Prénom": "k..m.",
-  "Adresse": null,
-  "Code Postal": "345239y58",
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": "eclamal.a.",
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": null,
-  "Option envoi par fax": null,
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "L"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "a..in.s.",
+        "Prenom": "k..m.",
+        "Adresse": "Vo..KSBEsG 345239y58",
+        "Code postal": "345239y58",
+        "Ville": null,
+        "Tel": null
+      },
+      "Categorie": "eclamal.a.",
+      "Objet": null,
+      "Complement": null,
+      "Reference client eventuelle": null,
+      "Interlocuteur": null,
+      "Adresse": "S.O.y...",
+      "Code": "F0 3 0o ville..Rks&1Re",
+      "Ville": null,
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le scenario_traite": [
+          "(6e) J'envoie mon courrier par voie postale a la date du ..3.......200.",
+          "(+2€) Mon courrier contient une page de garde de fax.",
+          "(+1€) Avant mon envoi postal, j'ai télécopié ma contribution le",
+          "(+1.) J'ai envoyé par courriel mon courrier numérisé le ........2...auosca...N.o....."
+        ]
+      },
+      "Marque et modele du scanner": "L",
+      "Format": [
+        "PNG",
+        "GIF",
+        "TIFF"
+      ],
+      "Resolution des images": ".2oR:... dpi/ppp"
+    }
+  }
 }

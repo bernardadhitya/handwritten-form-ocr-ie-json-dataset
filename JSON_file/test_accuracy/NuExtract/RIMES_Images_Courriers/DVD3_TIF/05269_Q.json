@@ -1,33 +1,42 @@
 {
-  "Code d'envoi": "Questionnaire",
-  "Nom": "HARDOUIN",
-  "Prénom": "Cadu",
-  "Adresse": "a..",
-  "Code Postal": "S Z 8iZo",
-  "Ville": "HQ.MM.ER.3",
-  "Téléphone": "03z7g27677",
-  "Catégorie Scénario": "adaaxa...d...sawak......ow.mad",
-  "Objet Scénario": "ancgemew...sencaanaw......mw....am..mand....",
-  "Complément Scénario": "uus...sa..cs.es..sempace.......mo.a..awmas....",
-  "Référence client": "a..........m.oma..",
-  "Interlocuteur": "a....Re.ca..t.",
-  "Adresse Interlocuteur": "a....a..",
-  "Code Postal Interlocuteur": "B34dVile .ILLENA.E....D...OR.u.aN",
-  "Ville Interlocuteur": "ILLENA.E....D...OR.u.aN",
-  "Temps passé": "...... minutes.",
-  "Stylo bille": "bille",
-  "Stylo plume": "plume",
-  "Stylo feutre": "feutre",
-  "Contribution postale": "9........?",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le ..A.......2.o",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "LO"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "HARDOUIN",
+        "Prenom": "Cadu"
+      },
+      "Adresse": {
+        "Numero": null,
+        "Rue": null,
+        "Code postal": "S Z 8iZo",
+        "Ville": "HQ.MM.ER.3"
+      },
+      "Tel": null,
+      "Scenario": {
+        "Categorie": "adaaxa...d...sawak......ow.mad",
+        "Objet": "ancgemew...sencaanaw......mw....am..mand....",
+        "Complement": "uus...sa..cs.es..sempace.......mo.a..awmas...."
+      },
+      "Reference client eventuelle": null,
+      "Interlocuteur": "a....Re.ca..t.",
+      "Adresse interlocuteur": {
+        "Numero": null,
+        "Rue": null,
+        "Code postal": "B34dVile .ILLENA.E....D...OR.u.aN",
+        "Ville": "ILLENA.E....D...OR.u.aN"
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [],
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "J'envoie mon courrier par voie postale a la date du": null,
+        "Mon courrier contient une page de": null,
+        "Avant mon envoi postal, j'ai telecopie ma contribution le": "A.......2.o",
+        "J'ai envoye par courriel mon courrier numerise le": null,
+        "Format": [],
+        "Resolution des images": null
+      }
+    }
+  }
 }

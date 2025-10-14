@@ -1,33 +1,44 @@
 {
-  "Code d'envoi": "SFRERO",
-  "Nom": "BDNNE.H0iS0N",
-  "Prénom": ".l:sma",
-  "Adresse": "Arese .........ne",
-  "Code Postal": "03082",
-  "Ville": "MORSCH.WillER..LE..BAS",
-  "Téléphone": "21",
-  "Catégorie Scénario": "esu.....snsh.",
-  "Objet Scénario": "..ccidenl...mois..ow.e",
-  "Complément Scénario": "oxkz82",
-  "Référence client": "référence client éventuelle",
-  "Interlocuteur": "swon..",
-  "Adresse Interlocuteur": "DRO",
-  "Code Postal Interlocuteur": "3]vill..Eis.RES......OUE",
-  "Ville Interlocuteur": null,
-  "Temps passé": "minutes",
-  "Stylo bille": "noir",
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "J'ai envoyé par couriel mon courrier numérisé le ..0......?",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": "300 dpi/ppp",
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "BDNNE.H0iS0N",
+        "Prenom": ".l:sma",
+        "Adresse": "Arese .........ne",
+        "Code postal": "bd tSo",
+        "Ville": "MORSCH.WillER..LE..BAS",
+        "Tel": "03082"
+      },
+      "Scenario": {
+        "Categorie": "esu.....snsh.",
+        "Objet": "..ccidenl...mois..ow.e",
+        "Complement": "oxkz82",
+        "Reference client eventuelle": "référence client éventuelle",
+        "Interlocuteur": "swon..",
+        "Adresse": "DRO",
+        "Code postal": "3]vill..Eis.RES......OUE",
+        "Ville": "Rédaction"
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille plume",
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": "minutes"
+      },
+      "Contribution": {
+        "Cocher les_elements_de_votre contribution pour Je_scenario traite": [
+          "Mon courrier contient une page de garde de fax.",
+          "J'ai envoyé par couriel mon courrier numérisé le ..0......?"
+        ],
+        "Marque et modele du scanner": null,
+        "Format": [
+          "PNG",
+          "GIF",
+          "TIFF"
+        ],
+        "Resolution des images": "300 dpi/ppp"
+      }
+    }
+  }
 }

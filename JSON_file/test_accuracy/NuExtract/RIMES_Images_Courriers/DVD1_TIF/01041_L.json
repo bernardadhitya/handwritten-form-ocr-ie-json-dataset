@@ -1,15 +1,27 @@
 {
-  "document": "Je vous infome par la presute lettre de l'annnlakion de Ma dernee Commamde.",
-  "scenario": "Changement concernmt ma derniere commomde",
-  "writer": "Madame Mansieur",
-  "sender_person": "Madame Mansieur",
-  "sender_company": null,
-  "sender_tel": "03 YQ G9 95 59",
-  "sender_fax": null,
-  "receiver_person": "TJS OQ00",
-  "receiver_company": "Rebruhe",
-  "subject": "Changement concernmt ma derniere commomde",
-  "date": "2o06-11-22",
-  "place": "Birkenwald, &e",
-  "box": null
+  "Company": "CObNET Danel",
+  "Contact": {
+    "Name": "Madame Mansieur",
+    "Age": null,
+    "Title": null
+  },
+  "Address": {
+    "Street": "29 eVE DV RENERAL LECiERC",
+    "City": "Birkenwald",
+    "Postal Code": "6744 0 girKen W ALd"
+  },
+  "Telephone": "03 YQ G9 95 59",
+  "Products": [
+    "Samourat 3oT",
+    "Rebruhe"
+  ],
+  "Order": {
+    "Date": "2o06-11-22",
+    "Customer": "TJS OQ00",
+    "Details": "Je vous infome par la presute lettre de l'annnlakion de Ma dernee Commomde.",
+    "Expectation": "Je vins tn eft de voa les couteaux Samourat 3oT. man cher cher votre concurreni la Rebruhe . greer Madame, Mansisu, l'expressim de mes sentimehs bs meilleurs."
+  },
+  "AdditionalInfo": {
+    "Note": "Chamgement concernmt ma derniere commomde"
+  }
 }

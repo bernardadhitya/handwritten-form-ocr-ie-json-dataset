@@ -1,14 +1,16 @@
 {
-  "document": "RIGAUD Jacques",
-  "scenario": "En IHeufe de vofre r@ponse vuuiRez",
-  "writer": "Sule a Ja teup&te",
-  "sender_person": "RIGAUD Jacques",
-  "sender_company": "NNA Assurances",
-  "sender_tel": "02.03.&2.62.01",
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
-  "date": null,
-  "place": "Rue Dx la F5ntaine",
-  "box": "457TO .SARAN"
+  "Name": "RIGAUD Jacques",
+  "Address": {
+    "Street": "g3 Rue Dx la F5ntaine",
+    "City": "SARAN",
+    "Postal Code": "457"
+  },
+  "Telephone": "02.03.&2.62.01",
+  "Company": "NNA Assurances",
+  "Additional Information": {
+    "PL": "Marthyrs De char&vaf",
+    "Location": "138&o ENSUES LA REDONNE",
+    "Title": "Cher monsieur",
+    "Notes": "Sule a Ja teup&te de ce weekend, Ln arbre 44 tombe sur ma maison . Pur ceHe Suite a cel accident."
+  }
 }

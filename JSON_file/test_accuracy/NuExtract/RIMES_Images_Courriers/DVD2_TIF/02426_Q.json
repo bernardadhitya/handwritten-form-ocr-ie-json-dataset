@@ -1,32 +1,36 @@
 {
-  "Code d'envoi": "6 7 16 o] Ville....W.1..s.E.M.6.o.vR.6 036051F005",
-  "Nom": "A",
-  "Prénom": "y",
-  "Adresse": "ue...de....a.e.tes.",
-  "Code Postal": "6 7 16 o] Ville....W.1..s.E.M.6.o.vR.6 036051F005",
-  "Ville": "W.1..s.E.M.6.o.vR.6 036051F005",
-  "Téléphone": null,
-  "Catégorie Scénario": "Fer..me.vr...d...o.m..te",
-  "Objet Scénario": "Complément ....a..cv...",
-  "Complément Scénario": "a..cv...",
-  "Référence client": "nterlocuteur .........C.e......a.e",
-  "Interlocuteur": "C.e......a.e",
-  "Adresse Interlocuteur": "A..........u.",
-  "Code Postal Interlocuteur": "35o]Vville....A..........u.",
-  "Ville Interlocuteur": "A..........u.",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "J'envoie mon courrier par voie postale á la date du ...3...anvie.20o.t.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le ..3... ja.n.vier..o.t.",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le .",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "A",
+        "Prenom": "y",
+        "Adresse": "ue...de....a.e.tes.",
+        "Code postal": "6 7 16 o] Ville....W.1..s.E.M.6.o.vR.6 036051F005",
+        "Ville": "W.1..s.E.M.6.o.vR.6 036051F005",
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": "Fer..me.vr...d...o.m..te..e.r.me.......om..te..an..a..e.",
+        "Objet": "Complément ....a..cv...",
+        "Complement": "a..cv...",
+        "Reference client eventuelle": null,
+        "Interlocuteur": {
+          "Banque": null,
+          "Adresse": null,
+          "Code postal": null,
+          "Ville": null
+        },
+        "Redaction": {
+          "Type de stylo (noir) utilise": [],
+          "Temps passe a traiter le scenario": null
+        },
+        "Contribution": {
+          "Elements": [],
+          "Marque et modele du scanner": null,
+          "Format": [],
+          "Resolution des images": null
+        }
+      }
+    }
+  }
 }

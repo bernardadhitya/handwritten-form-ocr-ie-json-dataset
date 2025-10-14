@@ -1,15 +1,12 @@
 {
-  "document": "La REBOUTE",
-  "scenario": null,
-  "writer": null,
-  "sender_person": "Mr sH MIDT Mathieu",
-  "sender_company": null,
-  "sender_tel": "TeP8 03.B4.25.J8.56",
-  "sender_fax": null,
-  "receiver_person": "Madame, Mon&eur)",
-  "receiver_company": null,
-  "subject": null,
-  "date": "26 Mars 2oo7",
-  "place": "Entrange",
-  "box": "17cue de Pa pra&r9e"
+  "Name": "Mr sH MIDT Mathieu",
+  "Address": {
+    "Street": "17cue de Pa pra&r9e",
+    "City": "Entrange",
+    "Postal Code": "5733O"
+  },
+  "Phone": "TeP8 03.B4.25.J8.56",
+  "Date": "2007-03-26",
+  "Reference": "Madame, Mon&eur)",
+  "Signatories": []
 }

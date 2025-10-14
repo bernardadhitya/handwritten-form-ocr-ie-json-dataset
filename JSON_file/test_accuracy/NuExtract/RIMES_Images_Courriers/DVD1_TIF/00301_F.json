@@ -1,15 +1,11 @@
 {
-  "document": "Télécopie",
-  "scenario": "Auqmentatia deo quonHeo da cD vierq&o command&",
-  "writer": "Corinne Dele",
-  "sender_person": "tO H H 1bh :1P IC",
-  "sender_company": null,
-  "sender_tel": "0669o Goud0n",
-  "sender_fax": null,
-  "receiver_person": "La R&douk",
-  "receiver_company": null,
-  "subject": "Auqmentatia deo quonHeo da cD vierq&o command&",
-  "date": "25.09.2oo6",
-  "place": "32o rouke ancen Ch&min d& fer",
-  "box": null
+  "Expediteur": {
+    "Nom": "Corinne Dele",
+    "Adresse": "32o rouke ancen Ch&min d& fer",
+    "Telephone": "0669o Goud0n"
+  },
+  "Destinataire": "La R&douk",
+  "Date": "25.09.2oo6",
+  "OBJET": "Auqmentatia deo quonHeo da cD vierq&o command&",
+  "Commande": "command&"
 }

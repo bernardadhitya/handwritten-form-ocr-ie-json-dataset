@@ -1,32 +1,37 @@
 {
-  "Code d'envoi": "KFEGRA",
-  "Nom": "C.H.A.P.P.U..S.",
-  "Prénom": "aue...Naele",
-  "Adresse": "w....u...O...wm.",
-  "Code Postal": "L5t614",
-  "Ville": "a&.Oaad",
-  "Téléphone": "036522943",
-  "Catégorie Scénario": "command.",
-  "Objet Scénario": "wfeuinc....u...poau.....o..o....c..o.",
-  "Complément Scénario": "au.cw.",
-  "Référence client": "ou...e...Mon......a.sam.",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "oovill.....Maut.....On",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": "bille",
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "J'envoie mon courrier par voie postale a la date du ..2..Q/..1.2...Q6",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "C.H.A.P.P.U..S.",
+        "Prenom": "aue...Naele",
+        "Adresse": "w....u...O...wm.",
+        "Code postal": "L5t614",
+        "Ville": "a&.Oaad",
+        "Tel": "036522943"
+      },
+      "Categorie": "ad..cato.....ana...command..",
+      "Cemnmande": {
+        "Objet": "wfeuinc....u...poau.....o..o....c..o.",
+        "Complement": "au.cw..",
+        "Reference client eventuelle": "ou...e...Mon......a.sam.",
+        "Adresse": "ou...e...Mon......a.sam.",
+        "Code postal": "oovill.....Maut.....On",
+        "Ville": "Mon......a.sam."
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille",
+          "plume",
+          "feutre"
+        ],
+        "passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher_les elements de_votre_contributionpour le scenario traite": [],
+        "Marque et modele du scanner": null,
+        "Resolution des images": null
+      },
+      "Cemmare": null
+    }
+  }
 }

@@ -1,15 +1,23 @@
 {
-  "document": "FAX- TELECOPIE",
-  "scenario": null,
-  "writer": "R",
-  "sender_person": "AGNES",
-  "sender_company": "INRIA",
-  "sender_tel": "01 39 63",
-  "sender_fax": "0139 63 58 82",
-  "receiver_person": "Rue de l MAIRIE",
-  "receiver_company": "coDOgnAU",
-  "subject": "rel asourane Labitaln pouqustim de smishe brve",
-  "date": "19.01.200",
-  "place": "Rocquencourt",
-  "box": "B.P. 105 - 78153 Le Chesnay Cedex France"
+  "expediteur": {
+    "department": "MACS",
+    "building": "16",
+    "telephone_number": "01 39 63",
+    "fax_number": "0139 63 58 82",
+    "email": "MANIF Assuranus"
+  },
+  "destinataire": {
+    "firm": "coDOgnAU",
+    "fax_number": "0160 46 43 33"
+  },
+  "reference": {
+    "objet": "rel asourane Labitaln pouqustim de smishe brve"
+  },
+  "institut": {
+    "name": "INRIA",
+    "unite_de_recherche": "Unité de Recherche INRIA Rocquencourt",
+    "address": "Domaine de Voluceau - Rocquencourt - B.P. 105 - 78153 Le Chesnay Cedex France",
+    "telephone": "01 396355 11",
+    "fax": "01 3963 53 30"
+  }
 }

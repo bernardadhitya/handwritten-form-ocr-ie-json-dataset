@@ -1,32 +1,38 @@
 {
-  "Code d'envoi": "QFEMZN",
-  "Nom": "Ov.A..I.",
-  "Prénom": "Er.au.u's",
-  "Adresse": "u...de.......s....",
-  "Code Postal": "512",
-  "Ville": "K.o.haue",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": null,
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "[O23O]Vill ...N..E.s.",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par couriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "CANoN....i.X.MA...M...3.O."
+  "Code d'envoi": null,
+  "Questionnaire": {
+    "Identite fictive": {
+      "Nom": "Ov.A..I.",
+      "Prenom": "Er.au.u's",
+      "Adresse": "u...de.......s....",
+      "Code postal": "512",
+      "Ville": "K.o.haue",
+      "Tel": null
+    },
+    "Scenario": {
+      "Categorie": null,
+      "Se": null,
+      "Objet": null,
+      "Complement _Uc4ys_": null,
+      "UCA_": null,
+      "Mat^": null,
+      "Interlocuteur": null,
+      "Le_hix_": {
+        "Adresse": null,
+        "Code postal": "[O23O]Vill ...N..E.s.",
+        "Ville": null
+      }
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [],
+      "passe a traiter le scenario": null
+    },
+    "Contribution": {
+      "Cocher_les elaments devotre_contribution pour le scenario": [],
+      "Marque et modele du scanner": "CANoN....i.X.MA...M...3.O.",
+      "Format": [],
+      "Resolution des images": null,
+      "Temps": null
+    }
+  }
 }

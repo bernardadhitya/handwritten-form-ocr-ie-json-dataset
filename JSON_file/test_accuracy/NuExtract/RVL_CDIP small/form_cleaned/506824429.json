@@ -1,41 +1,38 @@
 {
-  "department": "RJRT",
-  "formType": "PRESENTATION/PUBLICATION APPROVAL FORM",
-  "logNumber": "88-134",
-  "attached": {
-    "abstract": "The attached Abstract:",
-    "manuscript": "Manuscript:",
-    "other": "Oral Present"
-  },
-  "title": "status of Flavor-Related Compounds in the National Toxicology Program Carcinogenesis Bioassay",
-  "authors": [
+  "Title": "status of Flavor-Related Compounds in the National Toxicology Program Carcinogenesis Bioassay",
+  "Author": [
     "Scott Appleton"
   ],
-  "approvalStatus": "Was Approved",
-  "disapprovalReason": null,
-  "chairmanPPRC": {
-    "name": null,
-    "date": "1988-10-21"
-  },
-  "RALloyd": {
-    "date": "1988-10-07"
-  },
-  "newProductTechnologiesRD": null,
-  "rjrtLaw": {
-    "date": "1984-10-18"
-  },
-  "rjriLegalPatent": {
-    "date": null
-  },
-  "vpRD": {
-    "date": null
-  },
-  "srVpRD": {
-    "date": "1988-10-31"
-  },
-  "additionalInfo": {
-    "code": "50682 4429",
-    "note": "etl naxkowit of RJRT Public Relation",
-    "by": "Chairman'PPRC"
+  "Approval": {
+    "Chairman_PPRC": "Chairman, PPRC",
+    "Date": "10/21/88",
+    "Lloyd": {
+      "Date": "10/7/88"
+    },
+    "lix": {
+      "Date": null
+    },
+    "Law": {
+      "Date": "10-18-84"
+    },
+    "RJRI": {
+      "Legal": {
+        "Patent": {
+          "Date": null
+        }
+      }
+    },
+    "VP_RED": {
+      "Date": null
+    },
+    "s_kuwy": {
+      "of_RJRT": {
+        "Public_Relations": {
+          "and": {
+            "the_author": "etl naxkowit"
+          }
+        }
+      }
+    }
   }
 }

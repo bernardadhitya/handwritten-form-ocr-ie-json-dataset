@@ -1,25 +1,19 @@
 {
-  "number": 71467797.3,
-  "from": "FROMRFnols Tob.",
-  "contact": 7145378352,
-  "date": "12-02-304870",
-  "page": "/1",
-  "sanis": "SANIS",
-  "code": 6376,
+  "store_number": "71467797.3",
+  "store_name": "FROMRFnols Tob.",
+  "location": {
+    "address": "6376",
+    "city": "Riversidc",
+    "state": "CA",
+    "zip_code": "92507"
+  },
   "promotions": [
     "IST.OTR.1997",
-    "CAMEL$0.30OFF1PACK.#700077"
+    "CAMEL$0.30OFF1PACK.#700077",
+    "DISPLAYQUANTITIES DRA$0.3F1PACK#700074"
   ],
-  "displayQuantities": "DRA$0.3F1PACK#700074",
-  "generalManagerName": "GENERALMGRSNAME",
-  "salesRepName": "SALES REPSNAME",
-  "store": {
+  "general_manager": {
     "name": "Sam's Club",
-    "code": "18-6378",
-    "address": "6363 Vallcy Springs Pkwy, Riverside, CA92507"
-  },
-  "storeStamp": "NOTPARTICIPATINGINDPCPROGRAM",
-  "dpcProgram": "51808",
-  "dpcCode": 51808,
-  "generalManagerCode": 4085
+    "sales_reps_name": "4085"
+  }
 }

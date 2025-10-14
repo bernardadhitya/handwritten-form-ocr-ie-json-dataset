@@ -1,33 +1,35 @@
 {
   "Code d'envoi": "D5XUHO",
-  "Nom": "CaiL.EMAi.",
-  "Prénom": "AJf>ME",
-  "Adresse": "RUE DE ROS.EM.tA.R.T.",
-  "Code Postal": "l686OOl",
-  "Ville": "DESEMt.Ei.M",
-  "Téléphone": "o3oB68h6",
-  "Catégorie Scénario": "DiFF.iCUCTE.DE...MEMEM",
-  "Objet Scénario": "JEMAMDE...E..REMiSE..GRAC.EUSE",
-  "Complément Scénario": "UoT.RE.EM.D>ET!.EMEM...ES...DEVEMO",
-  "Référence client": "JQMHORO",
-  "Interlocuteur": "RESORERiE.DES...MRoTS",
-  "Adresse Interlocuteur": "RUE R.i.MCi.ALE",
-  "Code Postal Interlocuteur": "[5253O]",
-  "Ville Interlocuteur": "CQRCELLES",
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": null,
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": " (+2€)",
-  "Option envoi par fax": " (+1€)",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": " (+1€)",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "L."
+  "Identite fictive": {
+    "Nom": "CaiL.EMAi.",
+    "Prenom": "AJf>ME",
+    "Adresse": "RUE...DE....ROS.EM.tA.R.T.",
+    "Code postal": "l686OOl",
+    "Ville": "DESEMt.Ei.M",
+    "Tel": "030686h6"
+  },
+  "Scenario": {
+    "Categorie": "DiFF.iCUCTE.DE...",
+    "Objet": "JEMAMDE...E..REMiSE..GRAC.EUSE",
+    "Complement": "UoT.RE.EM.D>ET!.EMEM...ES...DEVEMO",
+    "TROPiMPOGTANT": "JQMHORO",
+    "Interlocuteur": "RESORERiE.DES...MRoTS",
+    "Adresse": "RUE...Ri.MCi.ALE",
+    "Code postal": "[5253O]",
+    "Ville": "CQRCELLES"
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [
+      "bille",
+      "plume",
+      "feutre"
+    ],
+    "Temps passe a traiter le scenario": null
+  },
+  "Contribution": {
+    "Elements de contribution": [],
+    "Marque et modele du scanner": null,
+    "Format": [],
+    "Resolution des images": null
+  }
 }

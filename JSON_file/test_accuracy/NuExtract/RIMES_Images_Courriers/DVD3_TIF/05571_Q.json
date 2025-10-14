@@ -1,32 +1,37 @@
 {
-  "Code d'envoi": "UMPFKK",
-  "Nom": "RENAUDi.N",
-  "Prénom": "FRE.DERi.C",
-  "Adresse": "MO...Jw.&..A.BB.E.....$C.H.uL.T.",
-  "Code Postal": "5t4nSo",
-  "Ville": "EARSCA.uiU&k",
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": "Geatien...de...sims.t",
-  "Complément Scénario": null,
-  "Référence client": "kHTRv&9",
-  "Interlocuteur": "AN....ASS.UAN.CE.",
-  "Adresse Interlocuteur": "S...GR.E",
-  "Code Postal Interlocuteur": null,
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "RENAUDi.N",
+        "Prenom": "FRE.DERi.C"
+      },
+      "Adrresse": {
+        "Je_": "MO...Jw.&..A.BB.E.....$C.H.uL.T.",
+        "Code postal": "5t4nSo",
+        "Ville": "EARSCA.uiU&k",
+        "Tel": null
+      }
+    },
+    "Scenario": {
+      "Categorie": null,
+      "Objet": "de...sims.t",
+      "Complement": null,
+      "Reference client eventuelle": "KHTRv&9",
+      "Rlvieig": null,
+      "Adresse": {
+        "Rue": null,
+        "Code postal": null,
+        "Ville": null
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [],
+        "Terps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le scenario traite": [],
+        "Marque et mmodele du scanner": null,
+        "Resolution des images": []
+      }
+    }
+  }
 }

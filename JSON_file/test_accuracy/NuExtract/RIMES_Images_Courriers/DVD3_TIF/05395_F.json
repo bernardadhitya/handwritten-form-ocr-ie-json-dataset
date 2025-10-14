@@ -1,15 +1,21 @@
 {
-  "document": "SCRiBEO",
-  "scenario": "uodificatiou de coutrat",
-  "writer": "Les 3 Suifs",
-  "sender_person": "Bryan Duarte",
-  "sender_company": null,
-  "sender_tel": "03.51.55.68.66",
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": "changeueut concernaut votre cleruiere",
-  "date": "26 avril 2oo",
-  "place": "1t3b rue du FaubourgSt Deuis s010 Paris",
-  "box": null
+  "SCRIBEO": {
+    "address": "51 avenue des Petits Champs",
+    "Tel": "01 23 4567 89",
+    "Fax": "01 23 45 67 89",
+    "E-Mail": "secretariat@scribeo.fr",
+    "Website": "http://www.scribeo.com"
+  },
+  "EXPEDITEUR": {
+    "Telephone": "03.51.55.68.66",
+    "Nombres de pages": 2
+  },
+  "DESTINATAIRE": {
+    "Telephone": "01.23.45.67.89"
+  },
+  "DATE": "26 avril 200",
+  "Objet": "changeueut concernaut votre cleruiere",
+  "Categorie": "uodificatiou de coutrat",
+  "Reference": "BTQUE57",
+  "Inteilbeuteur Jietif": "Les 3 Suifs"
 }

@@ -1,33 +1,53 @@
 {
-  "Code d'envoi": "7.oo",
-  "Nom": "Y.....D..I.R...",
-  "Prénom": "l.aw.u.cet.l.",
-  "Adresse": "w...",
-  "Code Postal": "3iovill....gay........",
-  "Ville": "RE..Y.....E.R..E...B.ACH.",
-  "Téléphone": null,
-  "Catégorie Scénario": "hcmagmm.......o.ankea...peman.o",
-  "Objet Scénario": "w.e...o.vMuah.o....",
-  "Complément Scénario": "x.ws...n..ceo",
-  "Référence client": "Iinterouteur.............o...o....a...o...",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": "a.....e.....a.q",
-  "Code Postal Interlocuteur": "3iovill....gay........",
-  "Ville Interlocuteur": null,
-  "Temps passé": null,
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "J'envoie mon courrier par voie postale ä la date du ....&Q..mav.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le ..&..mauv...",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le .....?...mw",
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": ".3o..0... dpi/ppp",
-  "Format GIF": ".3o..0... dpi/ppp",
-  "Format TIFF": ".3o..0... dpi/ppp",
-  "Marque et modèle scanner": "..P.So.N....Peec.Ko........a..o..."
+  "Code d'envoi": {
+    "Questionnaire": {
+      "XEI": {
+        "Identite fictive": {
+          "Nom": "Y..D..I.R..",
+          "Prenom": "l.aw.u.cet.l.",
+          "Adresse": "w...",
+          "Code postal": "7.oo",
+          "Ville": "RE..Y.....E.R..E...B.ACH.",
+          "Tel": "037530620"
+        },
+        "Scenario": {
+          "Categorie": "hcmagmm.......o.ankea...",
+          "Objet": "w.e...o.vMuah.o....",
+          "Complement": "x.ws...n..ceo",
+          "Reference client eventuelle": "Iinterouteur.............o...o....a...o...",
+          "Interlocuteur": {
+            "CaR": "a.....e.....a.q",
+            "Yami?e lea.": {
+              "Adresse": "a.....e.....a.q",
+              "Code postal": "3iovill....gay........",
+              "Ville": "gay........"
+            }
+          },
+          "Redaction": {
+            "Type de stylo (noir) utilise": [
+              "bille",
+              "plume",
+              "feutre"
+            ],
+            "Temps passe a traiter le scenario": "minutes."
+          },
+          "Contribution": {
+            "Cocher les elements de votre contribution pour le_scenario traite": {
+              "(6€) J'envoie mon courrier par voie postale a la date du 20.": 20.0,
+              "(+2e) Mon courrier contient une page de garde de fax": 2.0,
+              "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le .26._mcuxo-2": 26.0,
+              "(+1e) Jai envoye par courriel mon courrier numerise le 0_ mca": 0.0
+            },
+            "Marque et modele du scanner": "P.So.N....Peec.Ko........a..o...",
+            "Format": [
+              "PNG",
+              "GIF",
+              "TIFF"
+            ],
+            "Resolution des images": ".3o..0... dpi/ppp"
+          }
+        }
+      }
+    }
+  }
 }

@@ -1,32 +1,43 @@
 {
   "Code d'envoi": "YECOWN",
-  "Nom": null,
-  "Prénom": null,
-  "Adresse": null,
-  "Code Postal": "54n&O",
-  "Ville": null,
-  "Téléphone": null,
-  "Catégorie Scénario": null,
-  "Objet Scénario": null,
-  "Complément Scénario": null,
-  "Référence client": "RAN..U....C.ED....O.P...AiR.",
-  "Interlocuteur": null,
-  "Adresse Interlocuteur": null,
-  "Code Postal Interlocuteur": "L2 OM 3nOvill ..C..A.RG.ESf",
-  "Ville Interlocuteur": null,
-  "Temps passé": "45 minutes",
-  "Stylo bille": "noir",
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "ai envoyé par couriel mon courier numérisé l",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "E PQ. CX.365. LO"
+  "Identite fictive": {
+    "Nom": null,
+    "Prenom": null,
+    "Adresse": null,
+    "Code postal": "54n&O",
+    "Ville": null,
+    "Tel": null
+  },
+  "Scenario": {
+    "Categorie": "Complément",
+    "Objet": "Mon courrier contient une page de garde de fax.",
+    "LoGElonnas__EEE": null,
+    "Lomrleleiot": null,
+    "Zlhenc_EclEo": null,
+    "atehib_OTcyL uclle": null,
+    "Reference client eventuelle": "RAN..U....C.ED....O.P...AiR.",
+    "Interlocuteur": "Adrese...RA.V.ER...E.P.HA.N.O..O......C..OM..N..",
+    "Adresse": "Adrese...RA.V.ER...E.P.HA.N.O..O......C..OM..N..",
+    "Code postal": "L2 OM 3nOvill ..C..A.RG.ESf",
+    "Ville": null,
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "bille",
+        "plume",
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": "45.... minutes"
+    },
+    "Contribution": {
+      "Cocher les elements_de_votre contribution pour le scenario traite": [
+        "(6e) J'envoie mon courrier par voie postale a la date du ......m@...Q...",
+        "(+2€) Mon courrier contient une page de garde de fax.",
+        "(+1€) Avant mon envoi postal, j'ai télécopié ma contribution le",
+        "(+1e) 'ai envoyé par couriel mon courier numérisé l ...&...ma..2a...."
+      ],
+      "Marque et modele du scanner": "E PQ.",
+      "Format": [],
+      "Resolution des images": null
+    }
+  }
 }

@@ -1,14 +1,27 @@
 {
-  "letter": {
-    "greeting": "DeAR..Sir",
-    "body": "I'm writing this letter to inform you that I've been smoking Winston cigarettes for a very long time. Just recently, I purchased a carton of Winston Select cigarettes, and every pack in the carton was stale. Up until now, I must say that was one of your better customers. I hope this does not happen anymore. I would appreciate it if the company would try to take care of this problem.",
-    "closing": "Thank you for your time.",
-    "signature": "Margaret Lanuto",
-    "additional_note": "I would appreciate it if the company would try to take care of this problem.",
-    "contact_info": {
-      "name": "Margaret Lanuto",
-      "phone": "518-300-546",
-      "address": "76-16b9Rond mi dd|e vilnge QueNs New.yoRk 13.79"
-    }
-  }
+  "customerName": "Margaret Lanuto",
+  "customerAddress": {
+    "street": "76-16b9Rond mi dd|e vilnge QueNs",
+    "city": "New.yoRk",
+    "state": "13",
+    "zip": "79",
+    "country": "New.yoRk"
+  },
+  "customerContact": {
+    "phoneNumber": "518300546",
+    "email": null
+  },
+  "complaint": {
+    "product": "Cigacetfes",
+    "issue": "every pacK in the carton was stale",
+    "reason": "I've been smoking Winstoncioacettes for a very long time",
+    "consequence": "I wased mooey that weRk very.haed",
+    "request": "the companywowkd tRy to.take.care. oF this..prahlem."
+  },
+  "customerHistory": {
+    "loyalty": "I'm ushst you. might csl]. a... LlinstoN. woman.",
+    "previousComplaints": "I would. apereciate it if the companywowkd tRy to.take.care. oF this..prahlem."
+  },
+  "date": null,
+  "sentiment": "I would appreciate.o. replyuponreview oF_thisletter"
 }

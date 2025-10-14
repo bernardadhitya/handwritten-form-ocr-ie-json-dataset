@@ -1,32 +1,39 @@
 {
-  "Code d'envoi": "Questionnaire",
-  "Nom": "R.E..N.A.U.Di.N",
-  "Prénom": "F..REDERc",
-  "Adresse": "AO....w....ABE...C....",
-  "Code Postal": "5tn4n5no",
-  "Ville": "FARS.CH..ViLER",
-  "Téléphone": null,
-  "Catégorie Scénario": "odco.ion...cma....om.mome",
-  "Objet Scénario": "commamdu...ol..auos...owweus....ssoo",
-  "Complément Scénario": "a..",
-  "Référence client": "GF58",
-  "Interlocuteur": "Bam....uucle..o...am",
-  "Adresse Interlocuteur": "44....u....a..oao...omeu.m",
-  "Code Postal Interlocuteur": "M 9O",
-  "Ville Interlocuteur": "DAMMARE...4E&...4Y..S",
-  "Temps passé": "6o.... minutes",
-  "Stylo bille": "noir",
-  "Stylo plume": "noir",
-  "Stylo feutre": "noir",
-  "Contribution postale": "J'envoie mon courrier par voie postale á la date du ...o.S..&...o.t.",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrior nurnérisé le",
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": null,
+  "Identite fictive": {
+    "Nom": "R.E..N.A.U.Di.N",
+    "Prenom": "F..REDERc",
+    "Adresse": "AO....w....ABE...C....",
+    "Code postal": "5tn4n5no",
+    "Ville": "FARS.CH..ViLER",
+    "Tel": null
+  },
+  "Scenario": {
+    "Categorie": "odco.ion...cma....om.mome",
+    "Objet": "commamdu...ol..auos...owweus....ssoo",
+    "Complement": "bamguer...charger...d.chsis....pmmt",
+    "Reference client eventuelle": "GF58"
+  },
+  "Interlocuteur": {
+    "Mubielle_ &_Poxia": {
+      "Adresse": "44....u....a..oao...omeu.m",
+      "Code postal": "M 9O",
+      "Ville": "DAMMARE...4E&...4Y..S"
+    }
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [],
+    "Temps passe a traiter le scenario": null
+  },
+  "Contribution": {
+    "Cocher les elements de votre contribution pour le scenario traite": []
+  },
+  "Marque et modele du scanner": {
+    "Format": [
+      "PNG",
+      "GIF",
+      "TIFF"
+    ],
+    "Resolution des images": null
+  }
 }

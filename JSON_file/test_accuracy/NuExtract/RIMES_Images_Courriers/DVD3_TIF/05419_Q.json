@@ -1,32 +1,50 @@
 {
-  "Code d'envoi": "DTTZT",
-  "Nom": "Blandi.av.x",
-  "Prénom": "Sandrine",
-  "Adresse": "&...Aw...a.maw.am.",
-  "Code Postal": "041540]81435",
-  "Ville": "5..au",
-  "Téléphone": null,
-  "Catégorie Scénario": "fuk......mmm",
-  "Objet Scénario": "mam.d....homnwmem",
-  "Complément Scénario": "o....w.temm...as...mm...a..mpata",
-  "Référence client": "cEvZY43",
-  "Interlocuteur": "A...Aw.",
-  "Adresse Interlocuteur": "p.a........",
-  "Code Postal Interlocuteur": "L36vile..Ana..a.",
-  "Ville Interlocuteur": "Ana..a.",
-  "Temps passé": "2.... minutes.",
-  "Stylo bille": "bille",
-  "Stylo plume": "plume",
-  "Stylo feutre": "feutre",
-  "Contribution postale": "Mon courrier contient une page de garde de fax.",
-  "Date d'envoi postal": "2.4...04",
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax.",
-  "Option envoi par fax": "Avant mon envoi postal, j'ai télécopié ma contribution le",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": "J'ai envoyé par courriel mon courrier numérisé le",
-  "Résolution": null,
-  "Format PNG": "ddd/!dp",
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": "L"
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "Blandi.av.x",
+        "Prenom": "Sandrine"
+      },
+      "Adresse": "&...Aw...a.maw.am.",
+      "Code postal": "041540]81435",
+      "Ville": "5..au",
+      "Tel": null
+    },
+    "Categorie": "fuk......mmm",
+    "Akxemin": null,
+    "DumankA_Rskllonnkm": {
+      "Complement": "w.temm...as...mm...a..mpata",
+      "Altemn": null,
+      "Asnn": null
+    },
+    "Reference client eventuelle": null,
+    "Interlocuteur": "A...Aw.",
+    "Adresse": "p.a........",
+    "Code postal": "L36vile..Ana..a.",
+    "Ville": "Ana..a.",
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "bille",
+        "plume",
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": "2.... minutes."
+    },
+    "Contribution": {
+      "Elements": {
+        "Jenvoie mon courrier par voie postale a la date du 24104.": null,
+        "Mon courrier contient une page de garde de fax.": null,
+        "Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+        "J'ai envoye par courriel mon courrier numerise le": null
+      },
+      "Marque et modele du scanner": {
+        "Format": [
+          "PNG",
+          "GIF",
+          "TIFF"
+        ],
+        "Resolution des images": "ddd/!dp"
+      }
+    }
+  }
 }

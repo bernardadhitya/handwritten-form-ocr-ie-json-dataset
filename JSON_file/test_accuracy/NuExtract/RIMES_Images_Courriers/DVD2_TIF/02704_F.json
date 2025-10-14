@@ -1,15 +1,23 @@
 {
-  "document": "TRANSMISSION DE FAX",
-  "scenario": null,
-  "writer": "BENETEAU",
-  "sender_person": "Mithael",
-  "sender_company": "Tutosinfo Corporation",
-  "sender_tel": "03 31 12 30 09",
-  "sender_fax": "01 60 F6 43 33",
-  "receiver_person": "Société",
-  "receiver_company": "NAiF",
-  "subject": "Fermetwre de Com",
-  "date": "10/02/0 F",
-  "place": "7 Place Saint François - 02203 Bellic",
-  "box": null
+  "transmission": {
+    "sender": {
+      "name": "BENETEAU",
+      "address": "7 Place Saint François - 02203 Bellic",
+      "phone": "03 31 12 30 09",
+      "fax": null
+    },
+    "recipient": {
+      "name": "Société",
+      "address": null,
+      "phone": null,
+      "fax": null
+    },
+    "date": "10/02/0",
+    "time": "3/3",
+    "pages_sent": null,
+    "subject": "Fermetwre de Com",
+    "comments": "Resiliotion d'aswouce habitato",
+    "sender_comment": null,
+    "copyright": "Tutosinfo Corporation est une marque fictive"
+  }
 }

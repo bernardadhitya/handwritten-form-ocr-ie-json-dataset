@@ -1,15 +1,17 @@
 {
-  "document": "CSKELAPOSTC",
-  "scenario": null,
-  "writer": "gacquo Paost",
-  "sender_person": null,
-  "sender_company": null,
-  "sender_tel": "63 91 69 77",
-  "sender_fax": null,
-  "receiver_person": null,
-  "receiver_company": null,
-  "subject": "wuportaute",
-  "date": "2t M ARS 2007",
-  "place": null,
-  "box": null
+  "Expediteur": "gacquo Paost",
+  "Destinataire": "Direction de La Poste Grand Public",
+  "Telephone": "63 91 69 77",
+  "Telecopie": "Télécopie",
+  "Motifs de transmission": {
+    "Ref": null,
+    "Pour information": null,
+    "Pour avis": null,
+    "Pour suite a donner": null,
+    "Autres": null
+  },
+  "Message": {
+    "Objet": "wuportaute",
+    "Contenu": "Ausm eutarion"
+  }
 }

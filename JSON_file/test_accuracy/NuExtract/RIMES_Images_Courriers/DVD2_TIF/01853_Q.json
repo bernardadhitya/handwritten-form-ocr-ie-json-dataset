@@ -1,33 +1,41 @@
 {
-  "Code d'envoi": "FDsuwc",
-  "Nom": "HERB&E.T.EAO...",
-  "Prénom": "escillia",
-  "Adresse": "B..ue......eeaay.",
-  "Code Postal": "038050345",
-  "Ville": "BontAue.......s",
-  "Téléphone": null,
-  "Catégorie Scénario": "ecauatiom",
-  "Objet Scénario": "bus...wous...aiguog...k...uisauc...soun.",
-  "Complément Scénario": "lueu...e...os...oins..et...top beuyaut",
-  "Référence client": "a.&e",
-  "Interlocuteur": "a.&e",
-  "Adresse Interlocuteur": "Rou.te...no.tiouala",
-  "Code Postal Interlocuteur": "59AOO]vill ..T...&N)",
-  "Ville Interlocuteur": null,
-  "Temps passé": "3O... minutes",
-  "Stylo bille": null,
-  "Stylo plume": null,
-  "Stylo feutre": null,
-  "Contribution postale": "Mon courrier par voie postale",
-  "Date d'envoi postal": null,
-  "Option Page de garde de fax": "Mon courrier contient une page de garde de fax",
-  "Option envoi par fax": "J'ai envoyé par courriel mon courrier numériseé",
-  "Date d'envoi par fax": null,
-  "Option envoi par courriel": null,
-  "Date d'envoi par courriel": null,
-  "Résolution": null,
-  "Format PNG": null,
-  "Format GIF": null,
-  "Format TIFF": null,
-  "Marque et modèle scanner": null
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "HERB&E.T.EAO...",
+        "Prenom": "escillia",
+        "Adresse": "B..ue......eeaay.",
+        "Que cle Ceeaay": null,
+        "Code postal": "BontAue.......s",
+        "Ville": "BontAue",
+        "LE Bas Tel": null
+      },
+      "Scenario": {
+        "Categorie": "ecauatiom",
+        "Objet": "bus...wous...aiguog...k...uisauc...soun.",
+        "Complement": "lueu...e...os...oins..et...top beuyaut",
+        "Reference client eventuelle": {
+          "Intedocuteur": "a.&e",
+          "Adresse": "Rou.te...no.tiouala",
+          "Code postal": "59AOO]vill ..T...&N)",
+          "Ville": "T...&N"
+        }
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [],
+        "Temps passe a traiter le scenario": "3O... minutes"
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le_scenario traite": {
+          "(6€) J'envoie mon courrier par voie postale a la date du": null,
+          "(+2E) Mon courrier contient une page de garde de fax.": null,
+          "(+1€) Avant mon envoi postal, Jai telecopie ma contribution le": null,
+          "(+1€) Jai envoye par courriel mon courrier numerise le": null,
+          "Marque et modele du scanner": null,
+          "Format": [],
+          "Resolution des images": null
+        }
+      }
+    }
+  }
 }
