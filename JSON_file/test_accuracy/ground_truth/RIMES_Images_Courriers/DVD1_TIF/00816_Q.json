@@ -1,33 +1,50 @@
 {
-    "Code d'envoi": "QHQLJO",
-    "Nom": "DELCROIX",
-    "Prénom": "Ana",
-    "Adresse": "41 rue de Metz",
-    "Code Postal": "57140",
-    "Ville": "SAULNY",
-    "Téléphone": "0386527653",
-    "Catégorie Scénario": "Fermeture de compte",
-    "Objet Scénario": "Résiliation d'assurance habitation\\n",
-    "Complément Scénario": "Vous vendez votre habitation\\n",
-    "Référence client": "IRSJD38",
-    "Interlocuteur": "MANIF Assurances",
-    "Adresse Interlocuteur": "16 Place Raphaël Elize",
-    "Code Postal Interlocuteur": "72300",
-    "Ville Interlocuteur": "SABLE SUR SARTHE",
-    "Temps passé": "15",
-    "Stylo bille": "",
-    "Stylo plume": "",
-    "Stylo feutre": "x",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "07/11/2006",
-    "Option Page de garde de fax": "x",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "07/11/2006",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "07/11/2006",
-    "Résolution": "200",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "x",
-    "Marque et modèle scanner": "AFICIO 32 24 C"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "DeLcroix",
+                "Prenom": "Ana",
+                "Adresse": "4Atu de Mekz",
+                "Code postal": "517141410",
+                "Ville": "SAulNY",
+                "Tel": "038553"
+            },
+            "Scenario": {
+                "Categorie": "evmetur_do_capb",
+                "Objet": "Retilaboa_&l",
+                "Complement": "Vous_Veadez_uokg_hxbyabe_",
+                "Reference client eventuelle": "RSJ38",
+                "Interlocuteur": {
+                    "Nom": "MGNiE_Aesut)nlea",
+                    "Adresse": "16_Pleco",
+                    "Prenom": "Rephael",
+                    "Code postal": "+18 B1o",
+                    "Ville": "ShecE Sue SartHe"
+                },
+                "Redaction": {
+                    "Type de stylo (noir) utilise": [
+                        "bille",
+                        "plume",
+                        "feutre"
+                    ],
+                    "Temps passe a traiter le scenario": "15 minutes",
+                    "Contribution": {
+                        "Cocher les_elements_de_votre_contribution pour le_scenario traite": [
+                            "(6e) Jenvoie mon courrier par voie postale a la date du 01/44l2o6",
+                            "(+2e) Mon courrier contient une page de garde de fax",
+                            "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le 0+/44l.zeeG_",
+                            "(+1€) Jai envoye par courriel mon courrier numerise le otlulgg"
+                        ],
+                        "Marque et modele du scanner": "AEco_32.24@",
+                        "Format": [
+                            "PNG",
+                            "GIF",
+                            "TIFF"
+                        ],
+                        "Resolution des images": "200 dpilppp"
+                    }
+                }
+            }
+        }
+    }
 }

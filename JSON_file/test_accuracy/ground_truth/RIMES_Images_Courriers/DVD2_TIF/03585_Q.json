@@ -1,33 +1,51 @@
 {
-    "Code d'envoi": "TJEYWB",
-    "Nom": "SAISON",
-    "Prénom": "Christopher",
-    "Adresse": "7, rue St DENIS",
-    "Code Postal": "54730",
-    "Ville": "VILLE HOUDLEMONT",
-    "Téléphone": "0349957972",
-    "Catégorie Scénario": "Ouverture de compte",
-    "Objet Scénario": "Je souhaite connaître la marche à suivre\\npour devenir client",
-    "Complément Scénario": "\\n",
-    "Référence client": "",
-    "Interlocuteur": "BMP - Banque Mutuelle de Paris",
-    "Adresse Interlocuteur": "LE BOURG",
-    "Code Postal Interlocuteur": "22150",
-    "Ville Interlocuteur": "GAUSSON",
-    "Temps passé": "10",
-    "Stylo bille": "",
-    "Stylo plume": "",
-    "Stylo feutre": "x",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "14.03.07",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "14.03.07",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "14.03.07",
-    "Résolution": "600",
-    "Format PNG": "x",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "BELL 810"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "Saison",
+                "Prenom": "Cixbfzhen"
+            },
+            "Adresse": {
+                "Mee": "PE_Dems",
+                "Code postal": "54,+3,0",
+                "Ville": "HOVDLEMONT",
+                "Tel": "9132"
+            },
+            "Scenario": {
+                "Categorie": "luveatzu",
+                "Objet": "de_tuhaltz",
+                "Complement": {
+                    "Reference client eventuelle": "Interlocuteur",
+                    "BMp __Banque_Mudzll": {
+                        "Adresse": "LE_bouee",
+                        "Code postal": "122,450",
+                        "Ville": "@AVSSoN"
+                    }
+                },
+                "Redaction": {
+                    "de stylo (noir) utilise": [
+                        "bille",
+                        "plume",
+                        "feutre"
+                    ],
+                    "Temps passe a traiter le scenario": "0 minutes"
+                },
+                "Contribution": {
+                    "Cocher les elements devotre contribution pour le scenario traite": [
+                        "(6e) J'envoie mon courrier par voie postale a la date du 44.03 07",
+                        "(+2e) Mon courrier contient une page de garde de fax",
+                        "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le AL 03.02",
+                        "(+1€) J'ai envoye par courriel mon courrier numerise le 44 03.0.3"
+                    ],
+                    "Marque et modele du scanner": "DelL",
+                    "Format": [
+                        "PNG",
+                        "GIF",
+                        "TIFF"
+                    ],
+                    "Resolution des images": "800 dpilppp"
+                }
+            }
+        }
+    }
 }

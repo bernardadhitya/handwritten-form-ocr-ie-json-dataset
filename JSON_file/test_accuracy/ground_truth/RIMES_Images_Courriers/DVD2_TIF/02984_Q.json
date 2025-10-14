@@ -1,33 +1,44 @@
 {
-    "Code d'envoi": "OTFLJV",
-    "Nom": "LEROY",
-    "Prénom": "Félix",
-    "Adresse": "L'HUBAC DE CHANDOURENE",
-    "Code Postal": "04660",
-    "Ville": "CHAMPTERCIER",
-    "Téléphone": "0490109816",
-    "Catégorie Scénario": "Demande d'information",
-    "Objet Scénario": "Demande de catalogue des produits proposés\\n",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "SGOPI60",
-    "Interlocuteur": "NAIF Assurances",
-    "Adresse Interlocuteur": "RUE DU GENERAL DE GAULLE",
-    "Code Postal Interlocuteur": "76810",
-    "Ville Interlocuteur": "LUNERAY",
-    "Temps passé": "",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": "Questionnaire",
+    "Identite fictive": {
+        "Nom": "LERox",
+        "Prenom": "Eelix",
+        "Adresse": "HUBac DE. ChANDOURENE",
+        "Code postal": "416161",
+        "Ville": "CHALEIERSIER-",
+        "Tel": "9"
+    },
+    "Scenario": {
+        "Categorie": "Eemand",
+        "Objet": "Demanc. de d_",
+        "Complement": "(lMCun:",
+        "Reference client eventuelle": "S",
+        "Interlocuteur": "NAIE Assuaneea",
+        "Adresse": "RuE DU: GENERAL REJ GAULLE",
+        "Code postal": "136840",
+        "Ville": "LUNERAY"
+    },
+    "Redaction": {
+        "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+        ],
+        "Temps passe a traiter le scenario": "minutes."
+    },
+    "Contribution": {
+        "Cocher les elements de votre contribution pour le_scenario traite": [
+            "(6e) Jenvoie mon courrier par voie postale a la date du",
+            "(+2e) Mon courrier contient une page de garde de fax:",
+            "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+            "(+1€) J'ai envoye par courriel mon courrier numerise le"
+        ],
+        "Marque et modele du scanner": null,
+        "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+        ],
+        "Resolution des images": "dpilppp"
+    }
 }

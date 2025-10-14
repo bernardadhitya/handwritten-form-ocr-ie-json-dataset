@@ -1,33 +1,41 @@
 {
-    "Code d'envoi": "RMFJYV",
-    "Nom": "TALBI",
-    "Prénom": "Hugo",
-    "Adresse": "Chemin des Champs sur la baye",
-    "Code Postal": "70200",
-    "Ville": "FROIDETERRE",
-    "Téléphone": "0352939187",
-    "Catégorie Scénario": "Relance de courrier sans réponse",
-    "Objet Scénario": "Votre demande d'information du mois dernier est restée\\nsans effet.",
-    "Complément Scénario": "\\n",
-    "Référence client": "ZMFAP57",
-    "Interlocuteur": "ASSEDIC - Assurance Chômage",
-    "Adresse Interlocuteur": "LE VILLAGE",
-    "Code Postal Interlocuteur": "04140",
-    "Ville Interlocuteur": "SELONNET",
-    "Temps passé": "15",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "03/05/07",
-    "Option Page de garde de fax": "x",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "03/05/07",
-    "Résolution": "2000",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "x",
-    "Marque et modèle scanner": "HP C 4180"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "TALBI",
+                "Prenom": "",
+                "Adresse": "Chenun_dlea_",
+                "Suala": "",
+                "Code": "[9Bod",
+                "Ville": "TROALETERRE",
+                "Tel": "359938"
+            },
+            "Scenario": {
+                "Categorie": "Rekcede_ccguxier_sanA _xopx",
+                "Objet": "Vabe_demende__d_upxmhon__duMocA doue_ext_jextee_",
+                "SQAA": "",
+                "elet": "",
+                "Complement": "",
+                "Reference client eventuelle": "25",
+                "Interlocuteur": "ASSEDC.",
+                "Assuance_Chsmage": "",
+                "Adresse": "_LE;",
+                "illage": "",
+                "Code postal": "[041L4dl",
+                "Ville": "SELONNEI"
+            },
+            "Redaction": {
+                "Type de stylo (noir) utilise": "bille",
+                "plume": "",
+                "feutre": "",
+                "Temps passe a traiter le scenario": "S_ minutes"
+            },
+            "Contribution": {
+                "Cocher les elements de_votre contribution pour le scenario_traite": "(6e) J'envoie mon courrier par voie postale a la date du ezkeskl (+2e) Mon courrier contient une page de garde de fax: +1€) Avant mon envoi postal, j'ai telecopie ma contribution le (+1€) J'ai envoye par courriel mon courrier numerise le o3/er kl",
+                "Marque et modele du scanner": "He_<.48",
+                "Format": "PNG GIF TIFF",
+                "Resolution des images": "Jao_ dpilppp HHugo chaps. bar _ postal"
+            }
+        }
+    }
 }

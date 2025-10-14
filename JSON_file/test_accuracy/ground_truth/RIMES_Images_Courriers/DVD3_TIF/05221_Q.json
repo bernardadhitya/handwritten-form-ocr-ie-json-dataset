@@ -1,33 +1,39 @@
 {
-    "Code d'envoi": "VOSSBU",
-    "Nom": "LEFRANC",
-    "Prénom": "Sylvette",
-    "Adresse": "12 quartier Patrimoine",
-    "Code Postal": "06340",
-    "Ville": "DRAP",
-    "Téléphone": "0409255585",
-    "Catégorie Scénario": "Relance de courrier sans réponse",
-    "Objet Scénario": "Votre changement de données personnelles\\nn'a pas été pris en compte",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "CEPDN59",
-    "Interlocuteur": "Banque DEBIT Lyonnais",
-    "Adresse Interlocuteur": "PL DE L'EGLISE",
-    "Code Postal Interlocuteur": "58370",
-    "Ville Interlocuteur": "LA ROCHE MILLAY",
-    "Temps passé": "5",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "23 avril 2007",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": "Questionnaire",
+    "Identite fictive": {
+        "Nom": "LEERANC",
+        "Prenom": "Axaxette",
+        "Adresse": "Guahui Qahuau e",
+        "Code postal": "bxIud",
+        "Ville": "_LRA_",
+        "Tel": "Scenario"
+    },
+    "Categorie": "Qelau Ls. d_Calalea ~faua_Lckquae",
+    "Objet": "~Uak_kaueieEd_dhneez _RAAMZl 0= J&ta_ JxA_ A. @QW",
+    "Complement": "@UcLUA",
+    "Reference client eventuelle": "Interlocuteur _ Zeuq LLa; Ra_ Yanuaia: Adresse ?L; Ae_LESLLSE Code postal [1k21d Ville La cHelli",
+    "Redaction": {
+        "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+        ],
+        "Temps passe a traiter le scenario": "minutes"
+    },
+    "Contribution": {
+        "Cocher les elements de_votre contribution pour le scenario traite": [
+            "(6e) Jenvoie mon courrier par voie postale a la date du 43.aluQ_Qq.Z",
+            "(+2e) Mon courrier contient une page de garde de fax",
+            "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+            "(+1e) Jai envoye par courriel mon courrier numerise le"
+        ]
+    },
+    "Marque et modele du scanner": {
+        "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+        ],
+        "Resolution des images": "dpilppp {OA. 3 Rq"
+    }
 }

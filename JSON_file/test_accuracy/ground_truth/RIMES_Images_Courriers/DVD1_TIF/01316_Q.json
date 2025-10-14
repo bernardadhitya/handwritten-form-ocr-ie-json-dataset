@@ -1,33 +1,39 @@
 {
-    "Code d'envoi": "NIWJNA",
-    "Nom": "ROTA",
-    "Prénom": "Valérie",
-    "Adresse": "25 Grande rue",
-    "Code Postal": "54800",
-    "Ville": "PUXIEUX",
-    "Téléphone": "0391649353",
-    "Catégorie Scénario": "Demande d'information",
-    "Objet Scénario": "Demande de rendez vous avec conseiller\\n",
-    "Complément Scénario": "Insatisfaction du service\\n",
-    "Référence client": "YIOOJ12",
-    "Interlocuteur": "NAIF Assurances",
-    "Adresse Interlocuteur": "32 Hert Kerfran",
-    "Code Postal Interlocuteur": "29700",
-    "Ville Interlocuteur": "PLOMELIN",
-    "Temps passé": "20",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "05/12/06",
-    "Option Page de garde de fax": "x",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "05/12/06",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "RQLa",
+                "Prenom": "Va",
+                "Adresse": "GI Au",
+                "Code postal": "Lidhed",
+                "Ville": "LLQlEuAl",
+                "Tel": "Scenario",
+                "Categorie": "JaQAQL",
+                "Aternoke": "Objet dl xJsouh_JueC_Lolla",
+                "Complement": "~qhs_fos Jn",
+                "Reference client eventuelle": "Al2",
+                "Interlocuteur": "Aif SSQanu}",
+                "Adresse 2": "HeaE Keckcam",
+                "Redaction": {
+                    "Type de stylo (noir) utilise": [
+                        "bille",
+                        "plume",
+                        "feutre"
+                    ],
+                    "Temps passe a traiter le scenario": "minutes."
+                },
+                "Contribution": {
+                    "Cocher les elements de votre contribution pour le_scenario traite": [
+                        "(6e) Jenvoie mon courrier par voie postale a la date du @SLizlek",
+                        "(+2e) Mon courrier contient une page de de fax",
+                        "(+1€) Avant mon envoi postal, jai telecopie ma contribution le 0S_IZ_2k",
+                        "(+1€) Jai envoye par courriel mon courrier numerise le",
+                        "Marque et modele du scanner",
+                        "Format PNG GIF TIFF",
+                        "Resolution des images dpilppp Mdoo garde"
+                    ]
+                }
+            }
+        }
+    }
 }

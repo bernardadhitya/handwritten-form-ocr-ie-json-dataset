@@ -1,15 +1,21 @@
 {
-    "document": "Fax",
-    "scenario": "Modification de contrat / Commande",
-    "writer": "DUARTE Bryan",
-    "sender_person": "Bryan Duarte",
-    "sender_company": "¤{SCRIBEO/SCRIBEO\\nLe site de Scripteurs du projet RIMES}¤",
-    "sender_tel": "+33(0)1.23.45.67.89",
-    "sender_fax": "+33(0)1.23.45.67.89",
-    "receiver_person": "",
-    "receiver_company": "¤{Les 3 Suifs/Les 3 Suifs}¤",
-    "subject": "Catégorie : modification de contrat\\nObjet : changement concernant votre dernière\\ncommande\\nComplément : vous souhaitez remplacer le\\nmodèle commandé, par le modèle\\néconomique de référence CH45.02",
-    "date": "26/04/2007",
-    "place": "",
-    "box": ""
+    "SCRIBEO": {
+        "address": "51 avenue des Petits Champs BP 123 < 45678 GRENOBLE CEDEX 03",
+        "Tel": "01 23 45 67 89",
+        "Fax": "01 23 45 67 89",
+        "E-Mail": "secretariat@scribeo fr",
+        "Website": "http:Ilwww.scribeo.com"
+    },
+    "EXPEDITEUR": {
+        "Telephone": "03.5t.SS.68.66",
+        "Nombres de pages": 2
+    },
+    "DESTINATAIRE": {
+        "Telephone": "01.23.45.67.89"
+    },
+    "DATE": "26 avril 2oo?",
+    "Objet": "coucernaut",
+    "Categorie": "uodifcatiou de Coutrat",
+    "Reference": "CH445.02",
+    "Inteilbeuteur Jietif": "Les 3 Suiks (136 rue du Faubourg St beuis) #50t0 Paris Bryan reuplacer Souhaitey"
 }

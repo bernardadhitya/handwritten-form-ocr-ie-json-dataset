@@ -1,15 +1,11 @@
 {
-    "document": "Lettre manuscrite",
-    "scenario": "Ouverture de compte",
-    "writer": "AUTRET Mounir",
-    "sender_person": "AUTRET Mounir",
-    "sender_company": "",
-    "sender_tel": "",
-    "sender_fax": "",
-    "receiver_person": "",
-    "receiver_company": "NAIF Assurances",
-    "subject": "OBJET : ouverture de compte",
-    "date": "",
-    "place": "",
-    "box": ""
+    "address": {
+        "street": "487 &dl du Sevuers",
+        "city": "GiLette",
+        "postal_code": "83490"
+    },
+    "name": "LE MU Y",
+    "contact": {
+        "phone": "06 %30"
+    }
 }

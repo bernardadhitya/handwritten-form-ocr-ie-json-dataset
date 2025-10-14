@@ -1,33 +1,45 @@
 {
-    "Code d'envoi": "HVSQBQ",
-    "Nom": "MAUGARD",
-    "Prénom": "Laura",
-    "Adresse": "10 rue Léo Valentin",
-    "Code Postal": "70300",
-    "Ville": "Saint Sauveur",
-    "Téléphone": "0351218072",
-    "Catégorie Scénario": "Demande d'informations",
-    "Objet Scénario": "Demande de documentation concernant\\nles contrats d'assurances auto",
-    "Complément Scénario": "\\n",
-    "Référence client": "HIQIR40",
-    "Interlocuteur": "BAAF Assurances",
-    "Adresse Interlocuteur": "4 Canner Dels hauts",
-    "Code Postal Interlocuteur": "66170",
-    "Ville Interlocuteur": "St Feliu d'Amont",
-    "Temps passé": "15/20",
-    "Stylo bille": "",
-    "Stylo plume": "",
-    "Stylo feutre": "x",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "05.10.06",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": "HVIsk",
+    "Identite fictive": {
+        "Nom": "Au6ard_",
+        "Prenom": "Lalua.",
+        "Adresse": "1 Aue Leo_Valeukm",
+        "Code postal": "9Keel",
+        "Ville": "Saiut_Sauleva",
+        "Tel": "3832"
+    },
+    "Scenario": {
+        "Categorie": "Aemand_dLin/oalas",
+        "Objet": "Jeaaxcke. de stumel _ Jehiax (ale_Ma 1 lg. (as Fets_d'esSuaau&9L#_",
+        "Complement": "Reference client eventuelle AII I R L 0",
+        "Interlocuteur": {
+            "Nom": "Gaaf Assuaatta_",
+            "Adresse": "(Anael_ Aks_ hats:",
+            "Code postal": "G,6,LuZzel",
+            "Ville": "SL_feliu_d'_Amo:"
+        },
+        "Redaction": {
+            "Type de stylo (noir) utilise": [
+                "bille",
+                "plume",
+                "feutre"
+            ],
+            "Temps passe a traiter le scenario": "IfLzo minutes."
+        },
+        "Contribution": {
+            "Elements de contribution": [
+                "(6e) J'envoie mon courrier par voie postale a la date du 9C, b.06",
+                "(+2e) Mon courrier contient une page de garde de fax",
+                "(+1e) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                "(+1e) J'ai envoye par courriel mon courrier numerise le"
+            ],
+            "Marque et modele du scanner": "",
+            "Format": [
+                "PNG",
+                "GIF",
+                "TIFF"
+            ],
+            "Resolution des images": "dpilppp"
+        }
+    }
 }

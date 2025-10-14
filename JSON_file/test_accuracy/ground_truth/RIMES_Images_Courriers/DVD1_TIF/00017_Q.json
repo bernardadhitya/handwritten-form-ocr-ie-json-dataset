@@ -1,33 +1,52 @@
 {
-    "Code d'envoi": "CAAOOA",
-    "Nom": "LEGLISE",
-    "Prénom": "Benjamin",
-    "Adresse": "18 Rue du Vallon",
-    "Code Postal": "68720",
-    "Ville": "TAGOLSHEIM",
-    "Téléphone": "0314627972",
-    "Catégorie Scénario": "Modification de contrat/Commande",
-    "Objet Scénario": "Changement concernant votre dernière commande",
-    "Complément Scénario": "Vous souhaitez remplacer le modèle commandé par le\\nmodèle économique",
-    "Référence client": "PKNKI89",
-    "Interlocuteur": "La Reboute",
-    "Adresse Interlocuteur": "15 Grande Rue",
-    "Code Postal Interlocuteur": "31410",
-    "Ville Interlocuteur": "¤Longages¤",
-    "Temps passé": "20",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "",
-    "Résolution": "300",
-    "Format PNG": "x",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "HP Scanjet 4890"
+    "Questionnaire": {
+        "Code d'envoi": "C",
+        "Identite fictive": {
+            "Nom": "LeeY(Se.",
+            "Prenom": "6eJa.min",
+            "Adresse": "4X QL&. A-Vale_",
+            "Code postal": "L6181412191",
+            "Ville": "IAke Sha",
+            "Tel": "O3L462139,kU"
+        },
+        "Scenario": {
+            "Categorie": "Oeeli fcahnda_ka-Esk/lenn",
+            "Objet": "Lan-Kr_t_ScAnaExtr_elenlut_",
+            "Cer": "kans&",
+            "Complement": "Vecs Lbovfaks-ArHeun-ka mealil_Co Am 444ts",
+            "Reference client eventuelle": "PLkMKL)] mscl <onomi{u",
+            "Interlocuteur": "La. RLenk",
+            "Adresse": "AS. 69 @n.",
+            "Code postal": "344LLZ",
+            "Ville": "lex3232"
+        },
+        "Redaction": {
+            "Temps passe a rediger ce courrier": "20 minutes.",
+            "Type de stylo utilise": [
+                "bille",
+                "plume",
+                "feutre"
+            ]
+        },
+        "Contribution & Retribution": {
+            "Elements de contribution": [
+                {
+                    "Montant": "6€",
+                    "Description": "J'envoie ma contribution par voie postale a la date du"
+                },
+                {
+                    "Montant": "+2€",
+                    "Description": "En plus de la lettre manuscrite et du present questionnaire (obligatoires), ma contribution contient une page de garde de fax"
+                },
+                {
+                    "Montant": "+1€",
+                    "Description": "Avant mon envoi postal, j'ai faxe ma contribution le"
+                },
+                {
+                    "Montant": "+1€",
+                    "Description": "Jai envoye une version numerisee de ma contribution le par courriel: La resolution de mon fichier image est 3p. dpilppp, et son format est PNG GIF TIFF. La marque et le modele de mon scanner sont Hp #L4&ge_ ehel Seeh"
+                }
+            ]
+        }
+    }
 }

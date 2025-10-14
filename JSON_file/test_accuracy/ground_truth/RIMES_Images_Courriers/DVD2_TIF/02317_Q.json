@@ -1,33 +1,46 @@
 {
-    "Code d'envoi": "FVBPNA",
-    "Nom": "NADAU",
-    "Prénom": "Josiane",
-    "Adresse": "97 Rue St Jean",
-    "Code Postal": "21270",
-    "Ville": "Pontailler sur Saone",
-    "Téléphone": "0309646580",
-    "Catégorie Scénario": "Modification de Contrat / Commande",
-    "Objet Scénario": "Commande Actions Boursières pour un montant\\nde 1500 euros",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "LELHW88",
-    "Interlocuteur": "Banque Débit Lyonnais",
-    "Adresse Interlocuteur": "Galerie Commerciale Geant Casino",
-    "Code Postal Interlocuteur": "16430",
-    "Ville Interlocuteur": "CHAMPNIERS",
-    "Temps passé": "50",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "25 Janvier 2007",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": 6,
+        "Identite fictive": {
+            "Nom": "NADAv",
+            "Prenom": "Siaae:",
+            "Adresse": "Rur. SL \"Kn",
+            "Code postal": "RLZLel",
+            "Ville": "c",
+            "Tel": 3
+        },
+        "Scenario": {
+            "Categorie": "Holck salex.",
+            "Objet": "eue-4",
+            "Rguwaeixa": "g4",
+            "Letaak": "alee_exss:",
+            "Complement": "Reference client eventuelle",
+            "Interlocuteur": "kua",
+            "Adresse": "abue_-",
+            "Cquwacsic": "SGeut_",
+            "Code postal": "6LLp",
+            "Ville": "Cha~PNLCRS_"
+        },
+        "Redaction": {
+            "Type de stylo (noir) utilise": [
+                "bille",
+                "plume",
+                "feutre"
+            ],
+            "Temps passe a traiter le scenario": "So minutes.",
+            "Contribution": {
+                "Jenvoie mon courrier par voie postale a la date du": "2S_Jar_An}",
+                "Mon courrier contient une page de": "de fax.",
+                "Avant mon envoi postal, j'ai telecopie ma contribution le": "+1e",
+                "Jai envoye par courriel mon courrier numerise le": "+1e",
+                "Marque et modele du scanner": null,
+                "Format": [
+                    "PNG",
+                    "GIF",
+                    "TIFF"
+                ],
+                "Resolution des images": "dpilppp"
+            }
+        }
+    }
 }

@@ -1,33 +1,47 @@
 {
-    "Code d'envoi": "JRJMOA",
-    "Nom": "Pillon",
-    "Prénom": "Jeanne",
-    "Adresse": "23 rue Basse",
-    "Code Postal": "57100",
-    "Ville": "¤Koeling¤",
-    "Téléphone": "0382104652",
-    "Catégorie Scénario": "relance de courrier sans réponse",
-    "Objet Scénario": "réclamation du mois dernier sans suite\\n",
-    "Complément Scénario": "\\n",
-    "Référence client": "ALKEL28",
-    "Interlocuteur": "MANIF Assurances",
-    "Adresse Interlocuteur": "6 rue de la Poste",
-    "Code Postal Interlocuteur": "76260",
-    "Ville Interlocuteur": "EU",
-    "Temps passé": "15",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "30.01.07",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "30 janvier 07",
-    "Résolution": "300",
-    "Format PNG": "x",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "Canon Canoscan N1 2404"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "L_llez7L",
+                "Prenom": "Jamne",
+                "Adresse": "3n4 Ba4e",
+                "Code postal": "bxkx1Os",
+                "Ville": ".Kre_Lima",
+                "Tei": "35"
+            },
+            "Scenario": {
+                "Categorie": "helue_de cvuALx__AG _",
+                "Objet": "J.C famalux",
+                "Complement": "dum.duu__fbamA-aull.le",
+                "Reference client eventuelle": "4",
+                "Interlocuteur": "MALE",
+                "Adresse": "Guuush_aQoata",
+                "Code postal": "L75:j",
+                "Ville": "EX"
+            },
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "A5 minutes"
+            },
+            "Contribution": {
+                "Cocher les elements de_votre contribution pour le_scenario traite": [
+                    "(6€) J'envoie mon courrier par voie postale a la date du ,3.0_",
+                    "(+2e) Mon courrier contient une page de garde de fax",
+                    "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                    "(+1€) Jai envoye par courriel mon courrier numerise le 30[ziex-04"
+                ],
+                "Marque et modele du scanner": "Laman_Camo-Bcaa NARhbl_",
+                "Format": [
+                    "PNG",
+                    "GIF",
+                    "TIFF"
+                ],
+                "Resolution des images": "384 dpilppp Ie hema& AacuhamuA"
+            }
+        }
+    }
 }

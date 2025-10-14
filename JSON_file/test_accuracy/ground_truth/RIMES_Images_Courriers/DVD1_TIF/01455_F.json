@@ -1,15 +1,16 @@
 {
-    "document": "Fax",
-    "scenario": "Changement de données personnelles",
-    "writer": "CAZENAVE Marie",
-    "sender_person": "Marie CAZENAVE",
-    "sender_company": "¤{UNIVERSITÉ René Descartes\\nPARIS5/Institut de Psychologie - Centre Henri Piéron}¤",
-    "sender_tel": "+33(0)1.55.20.57.04",
-    "sender_fax": "+33(0)1.55.20.54.19",
-    "receiver_person": "",
-    "receiver_company": "Les 3 Suifs",
-    "subject": "",
-    "date": "06/12/2006",
-    "place": "",
-    "box": ""
+    "Name": "Rene Descartes",
+    "Institution": "Institut de Psychologie",
+    "Department": "Centre Henri Pieron",
+    "Address": "1 ZibveateirecdeaPaychologie Sociale, avenue Edouard Vaillant, PARIS, 92774 Boulogne CEDEX",
+    "Director": "Ewa Drozda-Senkowska",
+    "Director Contact": {
+        "Phone": "01 55 20 58.70",
+        "Email": "ewa.drozda-senkowska@univ-paris5.fr"
+    },
+    "Secretariat Contact": {
+        "Phone": "01 55 20 57 04",
+        "Fax": "01 55.20 54 19",
+        "Email": "christine.cheysson@univ-paris5.fr"
+    }
 }

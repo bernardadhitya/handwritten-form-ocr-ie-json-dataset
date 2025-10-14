@@ -1,33 +1,47 @@
 {
-    "Code d'envoi": "UMCWER",
-    "Nom": "MOYON",
-    "Prénom": "Marie-Noëlle",
-    "Adresse": "33 rue Abbé Watrin , Apt 3",
-    "Code Postal": "57730",
-    "Ville": "MACHEREN",
-    "Téléphone": "0397691835",
-    "Catégorie Scénario": "Modification de contrat / Commande",
-    "Objet Scénario": "Demande de mensualisation de l'impôt sur\\nle revenu",
-    "Complément Scénario": "Aucun\\n",
-    "Référence client": "BNAXK31",
-    "Interlocuteur": "Trésorerie des Impôts",
-    "Adresse Interlocuteur": "Centre commercial Le Boulidou",
-    "Code Postal Interlocuteur": "34980",
-    "Ville Interlocuteur": "ST CLEMENT DE RIVIERE",
-    "Temps passé": "20",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "11/12/2006",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "HoloN.",
+                "Prenom": "Han Q_",
+                "Alelle": "33_xe Abbe_Wakia_Aet3",
+                "Adresse": "Code postal [S1111pl",
+                "Ville": "#AcHEREn",
+                "Tel": "835"
+            },
+            "Scenario": {
+                "Categorie": "Icclfcakox do cen kekACemmaude",
+                "Objet": "LemaAdo da mon SnlisseLox-Ale_LL~m_ ASx le ceJo",
+                "Complement": "Avc",
+                "Reference client eventuelle": "NlA",
+                "Interlocuteur": "Icesacen0 dex_Lm",
+                "Adresse": "Ceuke cemQfccal_le Balale,.",
+                "Code postal": "[3149,810l",
+                "Ville": "SI__CEIENI 0s RiERE"
+            },
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "minutes."
+            },
+            "Contribution": {
+                "Cocher les elements de_votre contribution pour le scenario traite": {
+                    "(6€) J'envoie mon courrier par voie postale a la date du": null,
+                    "(+2e) Mon courrier contient une page de garde de fax": null,
+                    "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+                    "(+1€) Jai envoye par courriel mon courrier numerise le": null
+                },
+                "Marque et modele du scanner": null,
+                "Format": [
+                    "PNG",
+                    "GIF",
+                    "TIFF"
+                ],
+                "Resolution des images": "dpilppp Asf pake_"
+            }
+        }
+    }
 }

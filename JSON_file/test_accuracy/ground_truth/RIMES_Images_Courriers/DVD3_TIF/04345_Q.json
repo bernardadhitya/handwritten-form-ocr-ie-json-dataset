@@ -1,33 +1,43 @@
 {
-    "Code d'envoi": "ETFILQ",
-    "Nom": "HULIN",
-    "Prénom": "Pierrette",
-    "Adresse": "Maison forestière Mendes",
-    "Code Postal": "57170",
-    "Ville": "MORVILLE LES VIC",
-    "Téléphone": "0312788633",
-    "Catégorie Scénario": "Modification de contrat / commande",
-    "Objet Scénario": "Changement concernant votre dernière commande\\n",
-    "Complément Scénario": "Vous souhaitez remplacer le modèle commandé\\npar le modèle économique (nouvelle référence CH45-02)",
-    "Référence client": "TBIFO46",
-    "Interlocuteur": "La Reboute",
-    "Adresse Interlocuteur": "Place Benjamin Gaillard",
-    "Code Postal Interlocuteur": "83248",
-    "Ville Interlocuteur": "CAVALAIRE SUR MER",
-    "Temps passé": "7",
-    "Stylo bille": "",
-    "Stylo plume": "x",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "26 mars 2007",
-    "Option Page de garde de fax": "x",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "26 mars 2007",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "25 mars 2007",
-    "Résolution": "200",
-    "Format PNG": "x",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "BROTHER DCP-110C"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "Huin",
+                "Prenom": "Pxenetk",
+                "Adresse": "Hcxem_ {nntze_ Henda",
+                "Code postal": "51714zol",
+                "Ville": "HQakiLLe",
+                "Tel": "88633"
+            },
+            "Scenario": {
+                "Categorie": "He 'dlicatian: cle CmhuL /uumande",
+                "Objet": "changnAL Un_ Notic. dleme Umonbe Complement _ Viwa OmlaaEo Atlac cu E_mmadzl__Cummandi madzle__lLmnameus_(aenwll_nlau__ch45_o2)",
+                "Reference client eventuelle": "LL",
+                "Interlocuteur": "La. Acbmntx. Adresse PQacc. PenAamum bu Qaxd Code postal [8,32148 Ville CAUALAIRE Suk HER",
+                "Redaction": {
+                    "Type de stylo (noir) utilise": [
+                        "bille",
+                        "plume",
+                        "feutre"
+                    ],
+                    "Temps passe a traiter le scenario": "minutes",
+                    "Contribution": {
+                        "Cocher les_elements de_votre contribution pour le_scenario traite": [
+                            "(6e) J'envoie mon courrier par voie postale a la date du 26. Maud: 2oox:",
+                            "(+2e) Mon courrier contient une page de de fax",
+                            "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le 2b.muus2oot",
+                            "(+1€) J'ai envoye par courriel mon courrier numerise le 2S__muo 2oox:"
+                        ],
+                        "Marque et modele du scanner": "BRDIHER DCP MO.C",
+                        "Format": [
+                            "PNG",
+                            "GIF",
+                            "TIFF"
+                        ],
+                        "Resolution des images": "2oQ. dpilppp eununL Nvu & . garde"
+                    }
+                }
+            }
+        }
+    }
 }

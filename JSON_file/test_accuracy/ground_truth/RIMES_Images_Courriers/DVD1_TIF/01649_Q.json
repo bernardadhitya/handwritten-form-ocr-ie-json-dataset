@@ -1,33 +1,46 @@
 {
-    "Code d'envoi": "BESGAD",
-    "Nom": "DELAYE",
-    "Prénom": "Magali",
-    "Adresse": "1 A Rue BELLE VUE",
-    "Code Postal": "67150",
-    "Ville": "SCHAEFFERSHEIM",
-    "Téléphone": "0350564207",
-    "Catégorie Scénario": "Réclamation",
-    "Objet Scénario": "Vous vous plaignez de nuisances sonores\\n",
-    "Complément Scénario": "Le chien de vos voisins est trop bruyant\\n",
-    "Référence client": "",
-    "Interlocuteur": "Mairie",
-    "Adresse Interlocuteur": "8 rue de Frères Lumières",
-    "Code Postal Interlocuteur": "17000",
-    "Ville Interlocuteur": "LA ROCHELLE",
-    "Temps passé": "20",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "18 décembre 2006",
-    "Option Page de garde de fax": "x",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "17 décembre 2006",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "DLAyE _",
+                "Prenom": "A Quo _",
+                "Adresse": "BEWE_QuE.",
+                "Code postal": "DAAS p",
+                "Ville": "Sc+tAEFEERSHAN",
+                "Tel": "Q 9"
+            },
+            "Scenario": {
+                "Categorie Reckulian": "Objet _ Iowx.AQ_",
+                "Naigmez_d tuiscvncea.Aciaa": "Complement .lachum.ch.UCD_Il.@Ak.",
+                "Jhuuyamt": "Reference client eventuelle",
+                "Interlocuteur": "tauue.",
+                "Adresse": "I_doaFnors_Lumiexo.",
+                "Code": "Wzb,60",
+                "Ville": "(fROchcUe."
+            },
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "minutes"
+            },
+            "Contribution": {
+                "Cocher les elements de_votre contribution pour le_scenario_traite": {
+                    "(6e) J'envoie mon courrier par voie postale a la date du": "A8_decmkeo8xl.",
+                    "(+2e) Mon courrier contient une page de garde de fax": null,
+                    "(+1C) Avant mon envoi postal, j'ai telecopie ma contribution le A?._dctombia.Ib.": null,
+                    "(+1€) Jai envoye par courriel mon courrier numerise le": null
+                },
+                "Marque et modele du scanner": "1Ut",
+                "Format": [
+                    "PNG",
+                    "GIF",
+                    "TIFF"
+                ],
+                "Resolution des images": "Ippp Hagali li:"
+            }
+        }
+    }
 }

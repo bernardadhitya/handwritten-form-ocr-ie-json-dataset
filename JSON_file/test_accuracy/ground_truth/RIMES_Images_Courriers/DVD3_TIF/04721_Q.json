@@ -1,33 +1,44 @@
 {
-    "Code d'envoi": "NWMACE",
-    "Nom": "CASSARD",
-    "Prénom": "Edouard",
-    "Adresse": "94 impasse du HAF",
-    "Code Postal": "57480",
-    "Ville": "HUNTING",
-    "Téléphone": "0331289136",
-    "Catégorie Scénario": "Gestion de sinistre",
-    "Objet Scénario": "Vous souhaitez être couvert au titre de la responsabilité\\ncivile.",
-    "Complément Scénario": "Vous avez marché sur le chien de votre\\nvoisine",
-    "Référence client": "YPRLG74",
-    "Interlocuteur": "MANIF Assurances",
-    "Adresse Interlocuteur": "2, rue du Canal",
-    "Code Postal Interlocuteur": "53440",
-    "Ville Interlocuteur": "ARON",
-    "Temps passé": "10",
-    "Stylo bille": "",
-    "Stylo plume": "",
-    "Stylo feutre": "x",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "07/04/07",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": "N",
+    "Questionnaire": {
+        "Identite fictive": {
+            "Nom": "CAGARD",
+            "Prenom": "Eelanard",
+            "Adresse": "3 -impate 41 KAE",
+            "Code postal": "134819",
+            "Ville": "#UNLING",
+            "Tel": "33283283"
+        },
+        "Scenario": {
+            "Categorie": "Ggstien. J Smistze.",
+            "Objet": "Uaus___. Sauhalez-etce-couxect au. tlre: de [a_TesAea: abilik_ ciile",
+            "Complement": "Qws. Eve? MmA Ecke So__k_chen A.Kekre Valne;.",
+            "Reference client eventuelle": "Pp",
+            "Interlocuteur": "MANIE A.ss.w n.4gs_",
+            "Adresse": "_21he_eA Camal",
+            "Code postal": "543144L9",
+            "Ville": "ARQN"
+        },
+        "Redaction": {
+            "Type de stylo (noir) utilise": [
+                "bille",
+                "plume",
+                "feutre"
+            ],
+            "Temps passe a traiter le scenario": "40 minutes",
+            "Contribution": {
+                "J'envoie mon courrier par voie postale a la date du": "2.2ko4loz",
+                "Mon courrier contient une page de garde de fax": "+2€",
+                "Avant mon envoi postal, j'ai telecopie ma contribution le": "+1€",
+                "J'ai envoye par courriel mon courrier numerise le": "+1€"
+            },
+            "Marque et modele du scanner": "Not specified",
+            "Format": [
+                "PNG",
+                "GIF",
+                "TIFF"
+            ],
+            "Resolution des images": "dpilppp"
+        }
+    }
 }

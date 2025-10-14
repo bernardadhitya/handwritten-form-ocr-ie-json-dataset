@@ -1,33 +1,51 @@
 {
-    "Code d'envoi": "TRGJNK",
-    "Nom": "POUZET",
-    "Prénom": "Myriam",
-    "Adresse": "4, rue des Etangs",
-    "Code Postal": "68960",
-    "Ville": "OBERDORF",
-    "Téléphone": "0332414868",
-    "Catégorie Scénario": "demande d'information",
-    "Objet Scénario": "demande de documentation concernant les\\ncontrats d'assurance habitation",
-    "Complément Scénario": "vous vous installez avec votre conjoint\\n",
-    "Référence client": "DXDVD57",
-    "Interlocuteur": "NAIF ASSURANCES",
-    "Adresse Interlocuteur": "12 place Constant Gallot",
-    "Code Postal Interlocuteur": "77510",
-    "Ville Interlocuteur": "VILLENEUVE SUR BELLOT",
-    "Temps passé": "20",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "20/11/2006",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "19/11/2006",
-    "Résolution": "200",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "x",
-    "Marque et modèle scanner": "CANON Smartbase MP 360"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "POLzEI",
+                "Prenom": "_Hyeiak",
+                "Adresse": "t\"que_do_Etaues",
+                "Code postal": "1{96d",
+                "Ville": "@berdozf",
+                "Tel": "3328"
+            },
+            "Scenario": {
+                "Categorie": "duauda dL_ilceuotiau",
+                "Objet": "dquuauda",
+                "Complement": "VALA VDux_lwhallez_avec_dee;Calyjolut_",
+                "Reference client eventuelle": "5",
+                "Interlocuteur": {
+                    "Nom": "NAJE",
+                    "ASSUPANCES": {
+                        "Adresse": "1S place Cokshouk Gallol",
+                        "Code postal": "bUS4e",
+                        "Ville": "Villekeue_Suue Bellek"
+                    }
+                },
+                "Redaction": {
+                    "Type de stylo (noir) utilise": [
+                        "bille",
+                        "plume",
+                        "feutre"
+                    ],
+                    "Temps passe a traiter le scenario": "20 minutes"
+                },
+                "Contribution": {
+                    "Elements de contribution": [
+                        "Jenvoie mon courrier par voie postale a la date du \"a-|n] 9cc6",
+                        "Mon courrier contient une page de garde de fax",
+                        "Avant mon envoi postal, j'ai telecopie ma contribution le",
+                        "Jai envoye par courriel mon courrier numerise le A9/ML.3cc6"
+                    ]
+                }
+            }
+        },
+        "Marque et modele du scanner": "CANON Slacklag_Mp36o",
+        "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+        ],
+        "Resolution des images": "Jca dpilppp"
+    }
 }

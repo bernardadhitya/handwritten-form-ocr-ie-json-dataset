@@ -1,33 +1,43 @@
 {
-    "Code d'envoi": "QGJIIX",
-    "Nom": "BOU",
-    "Prénom": "Tahar",
-    "Adresse": "10 rue des mesanges",
-    "Code Postal": "68280",
-    "Ville": "SUNDITOFFEN",
-    "Téléphone": "0349600656",
-    "Catégorie Scénario": "Changement de données personnelles",
-    "Objet Scénario": "nouvelles coordonnées téléphoniques\\n",
-    "Complément Scénario": "Vous changez d'opérateur téléphonique\\n",
-    "Référence client": "CKAEM28",
-    "Interlocuteur": "La Reboute",
-    "Adresse Interlocuteur": "rue de la mairie",
-    "Code Postal Interlocuteur": "34570",
-    "Ville Interlocuteur": "SAUSSAN",
-    "Temps passé": "30",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "6/02/2007",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "Iahca",
+                "Prenom": "q"
+            },
+            "Adresse": "Ae J dA. meandeA",
+            "Code postal": "L61 821840",
+            "Ville": "SUN_bito_EEEN",
+            "Tel": "Scenario",
+            "Categorie": "enk_ so_dqeex_peaxamall",
+            "Objet": "I Aele_ Cacacsxnies_ _kel. 44A",
+            "Complement": "NVcu d Aeliphanuquus",
+            "Reference client eventuelle": "M 2",
+            "Interlocuteur": {
+                "La_Rekaula": {
+                    "Adresse": "1Uq_da.(a . malale",
+                    "Code postal": "4451pl",
+                    "Ville": "Sa.U.SSAN"
+                }
+            },
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "minutes"
+            },
+            "Contribution": {
+                "Cocher les elements de votre contribution pour le_scenario traite": [
+                    "(6e) J'envoie mon courrier par voie postale a la date du 6.L22.L2",
+                    "(+2e) Mon courrier contient une page de garde de fax",
+                    "(+1€) Avant mon envoi postal, jai telecopie ma contribution le",
+                    "(+1€) Jai envoye par courriel mon courrier numerise le"
+                ],
+                "Marque et modele du scanner": "Format PNG GIF TIFF",
+                "Resolution des images": "dpilppp Ghangzmn ~kknyu; = cbeaaleu smAA @21"
+            }
+        }
+    }
 }

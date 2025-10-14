@@ -1,33 +1,49 @@
 {
-    "Code d'envoi": "RVUVBM",
-    "Nom": "MARLIN",
-    "Prénom": "Henriette",
-    "Adresse": "16 rue du Stade",
-    "Code Postal": "67480",
-    "Ville": "ROESCHWOOG",
-    "Téléphone": "0397727371",
-    "Catégorie Scénario": "Chargement de données personnelles",
-    "Objet Scénario": "Nouvelles coordonnées postales\\n",
-    "Complément Scénario": "Vous déménagez\\n",
-    "Référence client": "SSYNT05",
-    "Interlocuteur": "Brouille Telecom",
-    "Adresse Interlocuteur": "PLACE DE LA MAIRIE",
-    "Code Postal Interlocuteur": "80780",
-    "Ville Interlocuteur": "ST LEGER LES DOMART",
-    "Temps passé": "15",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "16/01/07",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "16/01/07",
-    "Résolution": "300",
-    "Format PNG": "",
-    "Format GIF": "x",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "Canon N670U"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "MARLIAJ",
+                "Prenom": "Henaeke",
+                "Adresse": "6_^g du. Stade",
+                "Code postal": "01LL!sol",
+                "Ville": "ReESCHke",
+                "Tel": "3"
+            },
+            "Scenario": {
+                "Categorie": "ChangeneaE",
+                "donneea onnellea": {
+                    "Objet": "Nquuell",
+                    "CQQdonKaea alea": "Complement daM.e.nage}",
+                    "Reference client eventuelle": "S",
+                    "Interlocuteur": "Bcou lle",
+                    "Telecem_ Adresse": "PLACE. DE_LA_MALRLLE_",
+                    "Code postal": "180H80",
+                    "Ville": "~_LEGe. LES: DMAe"
+                },
+                "Redaction": {
+                    "Type de stylo (noir) utilise": [
+                        "bille",
+                        "plume",
+                        "feutre"
+                    ],
+                    "Temps passe a traiter le scenario": "45 minutes."
+                },
+                "Contribution": {
+                    "Cocher les elements de_votre contribution pour le_scenario_traite": {
+                        "(6e) J'envoie mon courrier par voie postale a la date du": "X6e.ALQ.",
+                        "(+2e) Mon courrier contient une page de garde de fax": null,
+                        "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+                        "(+1€) Jai envoye par courriel mon courrier numerise le": "_blaL"
+                    },
+                    "Marque et modele du scanner": "Caneu_",
+                    "N6:q Format": [
+                        "PNG",
+                        "GIF",
+                        "TIFF"
+                    ],
+                    "Resolution des images": "L0.0 dpilppp"
+                }
+            }
+        }
+    }
 }

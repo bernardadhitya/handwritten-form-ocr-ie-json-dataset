@@ -1,14 +1,20 @@
 {
     "company": "Forsyth Tobacco Products",
-    "address": "401 North Main Street, Winston-Salem, N.C. 27102",
+    "address": "401 North Main Street, Winston-Salem, N.C 27102",
     "date": "June 8, 1995",
-    "recipient": {
-        "name": "Ms. Hannah Sampson",
+    "customer": {
+        "name": "Hannah Sampgon",
         "address": "4210 Carmen St, Torrance, CA 90503"
     },
-    "body": "Dear Ms. Sampson: Thank you for letting us know about the problem you had with your purchase of Cavalier Lights 100s Menthol. Because we make every effort to ensure the quality of our products, we share your disappointment. Should you again have a problem with any of our products, please send all remaining cigarettes and packaging to us to examine. We will gladly replace all product returned to us. Again, Ms. Sampson, thank you for contacting us about your experience. Your taking the time to tell us will help us improve our product in the future. Best wishes from all of us at Forsyth Tobacco.",
-    "closing": "Sincerely,",
-    "signature": "R.L. Johnson",
-    "title": "Consumer Relations Representative",
+    "product": {
+        "name": "Cavalier Lighte 1008 Menthol",
+        "issue": "problem with purchase",
+        "action": "replace all products returned"
+    },
+    "message": "Thank you for contacting us about your experience. Your feedback will help us improve our products in the future.",
+    "sender": {
+        "name": "Qd Balnab",
+        "title": "Consumer Relations Representative"
+    },
     "reference": "#2179054"
 }

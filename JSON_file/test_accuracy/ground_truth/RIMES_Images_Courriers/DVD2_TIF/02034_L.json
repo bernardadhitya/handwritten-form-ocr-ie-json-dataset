@@ -1,15 +1,14 @@
 {
-    "document": "Lettre manuscrite",
-    "scenario": "Demande d'information",
-    "writer": "ROSSET Angelique",
-    "sender_person": "Angélique ROSSET",
-    "sender_company": "",
-    "sender_tel": "+33(0)3.52.98.17.30",
-    "sender_fax": "",
-    "receiver_person": "",
-    "receiver_company": "MANIF ASSURANCES",
-    "subject": "Objet : Demande d'informations sur les contrats d'assurance auto.",
-    "date": "15/04/2005",
-    "place": "",
-    "box": ""
+    "Name": "Angelique Rosset",
+    "Address": {
+        "Street": "Ru des Jadin",
+        "City": "Pela",
+        "Postal Code": "67230"
+    },
+    "Phone Number": "03 52 98A730",
+    "Request": "Demande d'Assurances",
+    "Auto": {
+        "Type": "Auto",
+        "Model": "Modoma"
+    }
 }

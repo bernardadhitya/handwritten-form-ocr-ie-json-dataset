@@ -1,33 +1,50 @@
 {
-    "Code d'envoi": "NILYBB",
-    "Nom": "BISMUTH",
-    "Prénom": "Thomas",
-    "Adresse": "21 RUE DU GEN DE GAULLE",
-    "Code Postal": "90360",
-    "Ville": "LACHAPELLE SOUS ROUGEMONT",
-    "Téléphone": "0397624109",
-    "Catégorie Scénario": "Relance de courrier sans réponse",
-    "Objet Scénario": "Votre demande de résiliation du mois dernier n'a\\npas été prise en compte",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "FWMXN12",
-    "Interlocuteur": "SépaFR Téléphonie",
-    "Adresse Interlocuteur": "LE BOURG",
-    "Code Postal Interlocuteur": "24640",
-    "Ville Interlocuteur": "CUBJAC",
-    "Temps passé": "20",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "16 octobre 2006",
-    "Option Page de garde de fax": "x",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "16 octobre 2006",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "16 octobre 2006",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "BSMVIH",
+                "Prenom": "Zlomar"
+            },
+            "Adresse": {
+                "Rue": "2 1",
+                "Code": "03160",
+                "Ville": "Lachaelle"
+            },
+            "Tei": {
+                "Scenario": {
+                    "Categorie": "Relante",
+                    "Objet": "Nole_drand_do_tiatiom_du_tou_dqcea"
+                }
+            },
+            "Interlocuteur": {
+                "Nom": "~JepaEA",
+                "Adresse": "Le_Bauak",
+                "Code postal": "1241640",
+                "Ville": "-C4bAc"
+            },
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps a traiter le scenario": "10 minutes"
+            },
+            "Contribution": {
+                "Elements": [
+                    "Jenvoie mon courrier par voie postale a la date du Ac.",
+                    "Mon courrier contient une page de de fax",
+                    "Avant mon envoi postal, j'ai telecopie ma contribution le J6_ockobs.2oj6.",
+                    "Jai envoye par courriel mon courrier numerise le A6 sckr_226."
+                ],
+                "Marque et modele du scanner": "Unknown",
+                "Format": [
+                    "PNG",
+                    "GIF",
+                    "TIFF"
+                ],
+                "Resolution des images": "dpilppp"
+            }
+        }
+    }
 }

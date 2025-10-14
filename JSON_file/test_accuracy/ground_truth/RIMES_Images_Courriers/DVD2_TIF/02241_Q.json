@@ -1,33 +1,44 @@
 {
-    "Code d'envoi": "KCYVDI",
-    "Nom": "LOEUILLET",
-    "Prénom": "Frederic",
-    "Adresse": "1 rue de la gare",
-    "Code Postal": "68127",
-    "Ville": "NIEDERHERGHEIM",
-    "Téléphone": "0390740394",
-    "Catégorie Scénario": "Réclamation",
-    "Objet Scénario": "Vous souhaitez vous faire rembourser\\n",
-    "Complément Scénario": "le produit livré est défectueux\\n",
-    "Référence client": "NHDQW94",
-    "Interlocuteur": "Brouille Telecom",
-    "Adresse Interlocuteur": "Rue de Belgique",
-    "Code Postal Interlocuteur": "81220",
-    "Ville Interlocuteur": "St Paul Cap de Joux",
-    "Temps passé": "10",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "24/01/07",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "~LOEUILLET",
+                "Prenom": "Fcederic",
+                "Adresse": "rue. dek_Qecs e",
+                "Code postal": "61844123Z",
+                "Ville": "NIEDERHERGHEIZ",
+                "Tel": "Scenario"
+            },
+            "Categorie": "ResPamoFien",
+            "Objet": "Vous_Aouhaclex Noua",
+            "Complement": "_/e_RtocF Lxze 0A Les-Eueuk",
+            "Reference client eventuelle": "Interlocuteur Broule_TeReeo=",
+            "Adresse": "Aue. LBelgitue",
+            "Code postal": "844222",
+            "Ville": "sk fou oux"
+        },
+        "Redaction": {
+            "Type de stylo (noir) utilise": [
+                "bille",
+                "plume",
+                "feutre"
+            ],
+            "Temps passe a traiter le scenario": "minutes",
+            "Contribution": {
+                "Cocher les elements de_votre contribution pour le scenario traite": {
+                    "(6e) J'envoie mon courrier par voie postale a la date du": "24ol/oz",
+                    "(+28) Mon courrier contient une page de garde de fax": true,
+                    "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le": true,
+                    "(+18) J'ai envoye par courriel mon courrier numerise le": true
+                },
+                "Marque et modele du scanner": null,
+                "Format": [
+                    "PNG",
+                    "GIF",
+                    "TIFF"
+                ],
+                "Resolution des images": "dpilppp"
+            }
+        }
+    }
 }

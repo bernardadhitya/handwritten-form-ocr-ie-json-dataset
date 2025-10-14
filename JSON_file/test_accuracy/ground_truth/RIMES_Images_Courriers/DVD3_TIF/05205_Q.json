@@ -1,33 +1,50 @@
 {
-    "Code d'envoi": "QXPTHI",
-    "Nom": "MAZOYER",
-    "Prénom": "AUDE",
-    "Adresse": "295 Ch. de la BERENGUIERE STE ANNE D'EVENOS",
-    "Code Postal": "83330",
-    "Ville": "EVENOS",
-    "Téléphone": "0418905146",
-    "Catégorie Scénario": "Demande d'information",
-    "Objet Scénario": "Demande de documentation concernant\\nles contrats d'assurance vie",
-    "Complément Scénario": "Vous vous mariez\\n",
-    "Référence client": "UPOMI90",
-    "Interlocuteur": "NNA Assurance",
-    "Adresse Interlocuteur": "Place RENE CASSIN",
-    "Code Postal Interlocuteur": "79100",
-    "Ville Interlocuteur": "OIRON",
-    "Temps passé": "10",
-    "Stylo bille": "",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "22.04.07",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "HAzOVBR",
+                "Prenom": "AU@E",
+                "Adresse": "J9s_Ch:de_Qo_BGRENGuieRE SEAAIE DEMANdS",
+                "Code postal": "K33e",
+                "Ville": "EvENQS",
+                "Tel": "Scenario"
+            }
+        },
+        "Categorie": "Demoudeduimfenatien",
+        "Objet": "DeMOOle_de_dlecumentatienCeconaut",
+        "~lea_centato_d_asueanco-Siq": {
+            "Complement": "Qeus_",
+            "CeU_maxs": "",
+            "Reference client eventuelle": "P",
+            "Interlocuteur": "NNJA_Aeiuuonce",
+            "Adresse": "Peaco_RENIE",
+            "CAsSiN": {
+                "Code postal": "[9Lopl",
+                "Ville": "oieon"
+            }
+        },
+        "Redaction": {
+            "Type de stylo (noir) utilise": [
+                "bille",
+                "plume",
+                "feutre"
+            ],
+            "Temps passe a traiter le scenario": "minutes_",
+            "Contribution": {
+                "Cocher les_ elements de_votre contribution pour le_scenario traite": {
+                    "(6e) J'envoie mon courrier par voie postale a Ia date du": "22.04-03",
+                    "(+2€) Mon courrier contient une page de garde de fax": "",
+                    "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le": "",
+                    "(+1€) Jai envoye par courriel mon courrier numerise le": "",
+                    "Marque et modele du scanner": "",
+                    "Format": [
+                        "PNG",
+                        "GIF",
+                        "TIFF"
+                    ],
+                    "Resolution des images": "dpilppp"
+                }
+            }
+        }
+    }
 }

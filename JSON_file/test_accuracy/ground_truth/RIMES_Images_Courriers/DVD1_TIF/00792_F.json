@@ -1,15 +1,14 @@
 {
-    "document": "Fax",
-    "scenario": "Modification de contrat / Commande",
-    "writer": "FRANCOIS Estelle",
-    "sender_person": "Estelle FRANCOIS",
-    "sender_company": "",
-    "sender_tel": "+33(0)3.04.54.49.86",
-    "sender_fax": "",
-    "receiver_person": "",
-    "receiver_company": "La Redoute",
-    "subject": "Objet : Modification de commande",
-    "date": "",
-    "place": "",
-    "box": ""
+    "company": "La Redoute",
+    "contact": {
+        "name": "Estelle FRANCOIS",
+        "address": "6 rue Rene Mouchotte, 63640 BIOLLET",
+        "city": "La Chapelle Saint Luc",
+        "phone": "0304544986",
+        "customer_number": "Client_PJSJB8O"
+    },
+    "subject": "Modiication de commande",
+    "date_sent": "20 Octobre 2006",
+    "number_of_pages": 2,
+    "message": "Bonjour; Vous brouverez ci-joint ma modification de commande: Merci de bien wouloir la prendre en compte. Cordialement; Estelle FRANCOIS"
 }

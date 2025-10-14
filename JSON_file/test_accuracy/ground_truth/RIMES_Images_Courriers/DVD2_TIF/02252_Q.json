@@ -1,33 +1,49 @@
 {
-    "Code d'envoi": "KHWQUP",
-    "Nom": "GUTIERREZ",
-    "Prénom": "Mireille",
-    "Adresse": "68 rue Herzog",
-    "Code Postal": "68920",
-    "Ville": "WETTOLSHEIM",
-    "Téléphone": "0386758810",
-    "Catégorie Scénario": "Demande d'information",
-    "Objet Scénario": "Demande de rendez-vous avec conseiller\\n",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "DBNKW75",
-    "Interlocuteur": "Trésorerie des impôts",
-    "Adresse Interlocuteur": "Les Poulivets PCE Felix Autard",
-    "Code Postal Interlocuteur": "84580",
-    "Ville Interlocuteur": "OPPEDE",
-    "Temps passé": "15",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "27 janvier 2007",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": "P",
+    "Questionnaire": {
+        "Identite fictive": {
+            "Nom": "GLIIERREZ",
+            "Prenom": "AiReille_",
+            "Adresse": "6.8 Jule Hevsea",
+            "Code postal": "L6,819,20",
+            "Ville": "WETIeLs.HEA",
+            "Tel": "3888"
+        },
+        "Scenario": {
+            "Categorie": "emende_ d'n ~Actmal",
+            "Objet": "em Amde de Mys quuec. Cmsel Cee",
+            "Complement": "alsu_",
+            "Reference client eventuelle": "B7S",
+            "Interlocuteur": "Ineschet& des _mLa_",
+            "Adresse": "Z-G tela PCE: FeCx_Ata L_",
+            "Code postal": "81411819",
+            "Ville": "oERERE"
+        },
+        "Redaction": {
+            "Type de stylo (noir) utilise": [
+                "bille",
+                "plume",
+                "feutre"
+            ],
+            "Temps passe a traiter le scenario": "AS minutes"
+        },
+        "Contribution": {
+            "Cocher les elements de_votre contribution pour _le scenario traite": [
+                "(6e) J'envoie mon courrier par voie postale a la date du 24-ganuzch_Roa",
+                "(+26) Mon courrier contient une page de garde de fax",
+                "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                "(+1€) J'ai envoye par courriel mon courrier numerise le"
+            ],
+            "Marque et modele du scanner": "",
+            "Format": [
+                "PNG",
+                "GIF",
+                "TIFF"
+            ],
+            "Resolution des images": [
+                "dpilppp",
+                "herdeta"
+            ]
+        }
+    }
 }

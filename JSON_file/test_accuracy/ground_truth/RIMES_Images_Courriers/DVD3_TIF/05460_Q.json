@@ -1,33 +1,47 @@
 {
-    "Code d'envoi": "QEKRRQ",
-    "Nom": "CLABAUT",
-    "Prénom": "NELLY",
-    "Adresse": "13 Rue de la SOURCE",
-    "Code Postal": "57720",
-    "Ville": "OBERGAILBACH",
-    "Téléphone": "0313621601",
-    "Catégorie Scénario": "Changement de données personnelles",
-    "Objet Scénario": "Nouvelles coordonnées postales\\n(soit mon adresse fictive)",
-    "Complément Scénario": "Vous vous installez avec votre conjoint\\n",
-    "Référence client": "ZXSXC18",
-    "Interlocuteur": "Mensuel \"Fleurs & Merguez\"",
-    "Adresse Interlocuteur": "36 Avenue Jacques Simon",
-    "Code Postal Interlocuteur": "51470",
-    "Ville Interlocuteur": "MEMMIE",
-    "Temps passé": "4",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "30 Avril 2007",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "30 Avril 2007",
-    "Résolution": "200",
-    "Format PNG": "x",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "HP Scanjet 4470 C"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "LLABAUz",
+                "Prenom": "A3_lnx_k",
+                "Adresse": "Ja Sqvrlc",
+                "Code postal": "L5,3,32g]",
+                "Ville": "QBERgaiLBalH",
+                "Tel": "3"
+            },
+            "Scenario": {
+                "Categorie": "Ch",
+                "Objet": "Nmlulb_ (%o1 dagcveus: opkalu Sik Mqa ~ndkp_6 9481",
+                "Complement": "Vawu. Jan_ ilalLz aLS ~dok__teryont",
+                "Reference client eventuelle": "S 8 6",
+                "Interlocuteur": "Oxakcl. 'fljr) .J ~ludeb\"",
+                "Adresse": "34 A.leausJ4% Simqn",
+                "Code postal": "L544hd",
+                "Ville": "MeAMiE"
+            },
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "minutes"
+            },
+            "Contribution": {
+                "Cocher les_elements_de_votre contrbution pour le_scenario traite": [
+                    "(6e) J'envoie mon courrier par voie postale a la date du 32_AnL_laal",
+                    "(+2€) Mon courrier contient une page de garde de fax",
+                    "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                    "(+1€) Jai envoye par courriel mon courrier numerise le 3q_AsilZox}"
+                ],
+                "Marque et modele du scanner": "He_ScenjLE kla",
+                "Format": [
+                    "PNG",
+                    "GIF",
+                    "TIFF"
+                ],
+                "Resolution des images": "29a_ dpilppp ELLY ga"
+            }
+        }
+    }
 }

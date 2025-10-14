@@ -1,33 +1,38 @@
 {
-    "Code d'envoi": "UGMRTP",
-    "Nom": "Boudou",
-    "Prénom": "Sylvie",
-    "Adresse": "18, rue des roses",
-    "Code Postal": "57990",
-    "Ville": "NOUSSEVILLER ST NABOR",
-    "Téléphone": "0315618687",
-    "Catégorie Scénario": "Relance de courrier sans réponse",
-    "Objet Scénario": "Mon changement de données personnelles n'a pas été\\npris en compte",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "MOXKS62",
-    "Interlocuteur": "CAF - Caisse d'Allocations Familiales",
-    "Adresse Interlocuteur": "Lieu dit Le Bourg",
-    "Code Postal Interlocuteur": "24400",
-    "Ville Interlocuteur": "St Laurent des Hommes",
-    "Temps passé": "30",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": "Questionnaire",
+    "Identite fictive": {
+        "Nom": "Rouz",
+        "Prenom": "~Sylue",
+        "Adresse": "AS. MQ A?",
+        "Code postal": "Luilol",
+        "Ville": "N.uSSEV_iLLex_",
+        "Tel": "NaBor"
+    },
+    "Scenario": {
+        "Categorie": "Leloucs. 4 ceuleA. sau3,__A pole_",
+        "Objet": "{ou_chauqeuneul: d. dou&_ ~Qeacuwally 1.4_}as @_ LauA",
+        "Complement": "Cu_",
+        "Reference client eventuelle": "Interlocuteur ACAE Gisse. dL4lleaala famLa",
+        "Adresse": "Lien-dE_Le_kowq",
+        "Code postal": "[2L4L4LOo]",
+        "Ville": "< Laucenk. dx. Howms"
+    },
+    "Redaction": {
+        "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+        ],
+        "Temps passe a traiter le scenario": "minutes."
+    },
+    "Contribution": {
+        "Cocher les_elements de_votre contribution pour le scenario traite": [
+            "(6e) Jenvoie mon courrier par voie postale a la date du",
+            "(+2€) Mon courrier contient une page de garde de fax.",
+            "(+1€) Avant mon envoi postal, jai telecopie ma contribution le",
+            "(+1e) Jai envoye par courriel mon courrier numerise le"
+        ],
+        "Marque et modele du scanner": "Format PNG GIF TIFF",
+        "Resolution des images": "dpilppp 'Pa?"
+    }
 }

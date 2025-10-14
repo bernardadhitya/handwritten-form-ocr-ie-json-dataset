@@ -1,68 +1,55 @@
 {
-    "company": "READS.INC",
-    "address": "44 EAST 23rd STREET, NEW YORK, NY 10010",
-    "project_number": "Z19-3",
-    "form": "SCREENING QUESTIONNAIRE",
-    "questions": [
+    "Project": "MAFXET TRETDS",
+    "Address": "EAS7 23rd STRCCT, hek YcrK, NEW WJR< ICd1D 4048",
+    "Date": "aovemder 1ubZ",
+    "Questions": [
         {
-            "question": "What is your age?",
-            "options": [
-                {
-                    "text": "Younger than 21",
-                    "action": "TERMINATE"
-                },
-                {
-                    "text": "Between 21 and 35",
-                    "action": "CONTINUE"
-                },
-                {
-                    "text": "Older than 35",
-                    "action": "TERMINATE"
-                }
+            "Question": "Aotnino",
+            "Answer": "Fartemoji"
+        },
+        {
+            "Question": "ere ? Ing",
+            "Answer": "Kurke"
+        },
+        {
+            "Question": "Cantr sur imJiate f nily wrk for",
+            "Choices": [
+                "dvertising army",
+                "maeket",
+                "Tcanrco",
+                "cordeny",
+                "coan",
+                "Ilndnaccn",
+                "Wmg",
+                "distribut (0",
+                "TeRaIn4T 2",
+                "cobclic",
+                "beyerages",
+                "cONini",
+                "Ifacelr Itg",
+                "se] Wx",
+                "Ulser",
+                "Ibuc ing",
+                "tObJcCC Vrc cts",
+                "#Tzs",
+                "PbovE",
+                "TerTiT",
+                "GI3cE"
             ]
         },
         {
-            "question": "Does any member of your immediate family work for:",
-            "options": [
-                {
-                    "text": "Advertising agency",
-                    "action": "TERMINATE"
-                },
-                {
-                    "text": "Company manufacturing, selling or distributing beer, wine or other alcoholic beverages",
-                    "action": "TERMINATE"
-                },
-                {
-                    "text": "Company manufacturing, selling or distributing tobacco products",
-                    "action": "TERMINATE"
-                }
+            "Question": "Did You",
+            "Choices": [
+                "00 IoJT"
             ]
         },
         {
-            "question": "Which of the following did you do in the past 2 days?",
-            "options": [
-                {
-                    "text": "Drink a glass of wine",
-                    "action": "CONTINUE"
-                },
-                {
-                    "text": "Drink beer",
-                    "action": "CONTINUE"
-                }
-            ]
+            "Question": "Dely c igarettes",
+            "Answer": "yioke"
         },
         {
-            "question": "About how many cigarettes do you smoke in an average day?",
-            "options": [
-                {
-                    "text": "Less than 1 pack",
-                    "action": "CONTINUE"
-                },
-                {
-                    "text": "1 pack or more",
-                    "action": "TERMINATE"
-                }
-            ]
+            "Question": "Kovu] Yoi",
+            "Answer": "041zsy"
         }
     ]
 }

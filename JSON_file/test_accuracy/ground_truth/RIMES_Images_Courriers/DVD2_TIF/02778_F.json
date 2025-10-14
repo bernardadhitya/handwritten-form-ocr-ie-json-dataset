@@ -1,15 +1,25 @@
 {
-    "document": "Fax",
-    "scenario": "Modification de contrat / Commande",
-    "writer": "SIMARD Corine",
-    "sender_person": "Corine Simard",
-    "sender_company": "¤{Société du Fromagde de Saverne/Société du Fromagde de Saverne}¤",
-    "sender_tel": "+33(0)3.12.51.15.18",
-    "sender_fax": "+33(0)3.12.51.15.20",
-    "receiver_person": "",
-    "receiver_company": "Les 3 Suif",
-    "subject": "Objet : Modification de commande",
-    "date": "13/02/2007",
-    "place": "",
-    "box": ""
+    "Company": "Societe du Fromage de Saverne",
+    "Contact": {
+        "Name": "Corine Simard",
+        "Gender": "M",
+        "Position": "Responsable des ventes",
+        "Tel": "03.12.51.15.18",
+        "Fax": "03.12.51.15.20",
+        "Email": "csimard@goatcheese.com"
+    },
+    "Address": {
+        "Street": "6 rue du Chemin Vert",
+        "City": "Saverne",
+        "Postal Code": "67700"
+    },
+    "Company Details": {
+        "Legal Form": "SARL",
+        "Capital": "500800€"
+    },
+    "General Contact": {
+        "Tel": "03.12.51.15.15",
+        "Fax": "03.12.51.15.20",
+        "Email": "contact@goatcheese.com"
+    }
 }

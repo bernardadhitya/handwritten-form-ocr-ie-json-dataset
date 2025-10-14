@@ -1,33 +1,38 @@
 {
-    "Code d'envoi": "",
-    "Nom": "Beauvais",
-    "Prénom": "Josiane",
-    "Adresse": "37 Rue principale",
-    "Code Postal": "68210",
-    "Ville": "Hecken",
-    "Téléphone": "0322929352",
-    "Catégorie Scénario": "Fermeture de Compte",
-    "Objet Scénario": "¤{Résilation/Résiliation}¤ d'Assurance habitation\\n",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "CSIOG18",
-    "Interlocuteur": "Manif Assurance",
-    "Adresse Interlocuteur": "17 rue Jean Pierre Jean",
-    "Code Postal Interlocuteur": "57070",
-    "Ville Interlocuteur": "Metz",
-    "Temps passé": "10",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "Bezaucuo",
+                "Prenom": "SeSAcO",
+                "Adresse": "^a. Q_ Jeao_ Rer8s",
+                "Code": "LeLQLLso",
+                "Ville": "Redaction",
+                "Tel": "Scenario",
+                "Categorie": "feraakure",
+                "Aq.": "Csmn:",
+                "Objet": "Qaaxahm d-_Asa1&_ heklahma",
+                "Complement": "auc",
+                "Reference client eventuelle": "Interlocuteur",
+                "Naif": "Acsu.2cACs",
+                "Code postal": "LSQodol",
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "AR. minutes.",
+                "Contribution": {
+                    "J'envoie mon courrier par voie postale a la date du": 6,
+                    "Mon courrier contient une page de garde de fax": 2,
+                    "Avant mon envoi postal, Jai telecopie ma contribution le": 1,
+                    "J'ai envoye par courriel mon courrier numerise le": 1
+                },
+                "Marque et modele du scanner": "Format",
+                "PNG": true,
+                "GIF": true,
+                "TIFF": true,
+                "Resolution des images": "dpilppp"
+            }
+        }
+    }
 }

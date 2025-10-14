@@ -1,33 +1,45 @@
 {
-    "Code d'envoi": "MZUTQB",
-    "Nom": "PAULY",
-    "Prénom": "Gwenaelle",
-    "Adresse": "13 rue des Vosges",
-    "Code Postal": "67870",
-    "Ville": "Griesheim Pres Molsheim",
-    "Téléphone": "0375578157",
-    "Catégorie Scénario": "Difficulté de paiement",
-    "Objet Scénario": "Demande d'¤{echelonnement/échelonnement¤{\\n",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "VMGXC48",
-    "Interlocuteur": "BAAF Assurances",
-    "Adresse Interlocuteur": "Les Portes d'Avermermes",
-    "Code Postal Interlocuteur": "03000",
-    "Ville Interlocuteur": "Avermes",
-    "Temps passé": "20",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "26/03/2007",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "26/03/2007",
-    "Résolution": "",
-    "Format PNG": "x",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "HP PSC 1350"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "LLY_",
+                "Prenom": "Cwlenc e",
+                "Adresse": "43 Aue:. des_Vesgex",
+                "Code postal": "I6&xaal",
+                "Ville": "Crieshesm",
+                "Rex": "Aolshex_",
+                "Tel": "Scenario"
+            },
+            "Categorie": "Dlliculte_clo_pcueanen",
+            "Objet_Derande": "dL_echeCennemeal",
+            "Complement": "Qcua",
+            "Reference client eventuelle": "Interlocuteur PAAf Asuances",
+            "Adresse": "Qex_Peltes_~__Aelmexm",
+            "Code postal": "[OB1119",
+            "Ville": "Avehme4",
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "minutes"
+            },
+            "Contribution": {
+                "Cocher les elements de votre contribution pour le scenario traite": [
+                    "(6e) J'envoie mon courrier par voie postale a la date du 26./2.3_/ox}",
+                    "(+2e) Mon courrier contient une page de garde de fax",
+                    "(+18) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                    "(+1€) J'ai envoye par courriel mon courrier numerise le 26./23/1231"
+                ],
+                "Marque et modele du scanner": "HP_PSC A351",
+                "Format": [
+                    "PNG",
+                    "GIF",
+                    "TIFF"
+                ],
+                "Resolution des images": "dpilppp"
+            }
+        }
+    }
 }

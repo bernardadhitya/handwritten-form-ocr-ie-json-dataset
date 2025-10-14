@@ -1,15 +1,26 @@
 {
-    "document": "Fax",
-    "scenario": "Modification de contrat / Commande",
-    "writer": "LEFEBVRE Agnes",
-    "sender_person": "LEFEBVRE AGNES",
-    "sender_company": "¤{MACS/INRIA\\nROCQUENCOURT/INSTITUT NATIONAL DE RECHERCHE EN INFORMATIQUE ET EN\\nAUTOMATIQUE}¤",
-    "sender_tel": "+33(3)3.13.96.35.51",
-    "sender_fax": "+33(3)3.13.96.35.33",
-    "receiver_person": "",
-    "receiver_company": "LES 3 SUIFS",
-    "subject": "REFERENCE / OBJET :",
+    "expediteur": {
+        "nom": "AGNES",
+        "departement": "Service MACS",
+        "batiment": "Batiment 16",
+        "telephone": "01 39 63",
+        "fax": "01 39 63 58 82",
+        "email": ""
+    },
+    "destinataire": {
+        "raison_sociale": "Les i € RVEILLES",
+        "adresse": "204 06 450 TENDE",
+        "fax": ""
+    },
+    "reference": "mbat fxa ) dtes de CJ tegus kxMau olees",
+    "nombre_pages": "Page 1 out",
     "date": "",
-    "place": "",
-    "box": ""
+    "institut": {
+        "nom": "INSTITUT NATIONAL DE RECHERCHE EN INFORMATIQUE ET EN AUTOMATIQUE",
+        "unite_recherche": "Unite de Recherche INRIA Rocquencourt",
+        "adresse": "Domaine de Voluceau Rocquencourt BP 105 78153 Le Chesnay Cedex France",
+        "telephone": "01 39 63 55 1",
+        "fax": "01 39 63 53 30",
+        "decret": "Decret n\" 85.831 du 2 aout 1985"
+    }
 }

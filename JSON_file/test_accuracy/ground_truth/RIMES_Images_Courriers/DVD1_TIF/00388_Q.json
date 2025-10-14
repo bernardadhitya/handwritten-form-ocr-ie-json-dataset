@@ -1,33 +1,46 @@
 {
-    "Code d'envoi": "DRSCTU",
-    "Nom": "Neveux",
-    "Prénom": "Bernard",
-    "Adresse": "19 B rue de Cernay",
-    "Code Postal": "68520",
-    "Ville": "Burnhaupt le Bas",
-    "Téléphone": "0341252672",
-    "Catégorie Scénario": "Fermeture de compte",
-    "Objet Scénario": "¤{Résilation/Résiliation}¤ d'assurance habitation\\n",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "YWIIX06",
-    "Interlocuteur": "MNA Assurance",
-    "Adresse Interlocuteur": "11 rue de la Poste",
-    "Code Postal Interlocuteur": "11300",
-    "Ville Interlocuteur": "Malvies",
-    "Temps passé": "20",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "02/10/2006",
-    "Option Page de garde de fax": "x",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "02/10/2006",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "01/10/2006",
-    "Résolution": "300",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "x",
-    "Marque et modèle scanner": "Canon MPC 200"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "Neeu_",
+                "Prenom": "Beaul",
+                "Adresse": "ALB~._ 6anwy",
+                "Code postal": "1k5su2el",
+                "Ville": "EnzJFZZ us",
+                "Tel": "o? Li 2 5 7"
+            },
+            "Scenario": {
+                "Categorie_lxmeLxe__Gestl": "Objet penbLe 4n4anc:",
+                "DateLx:_Complement": "04",
+                "Reference client eventuelle": "Ylu/",
+                "Interlocuteur": "MKA lmlun",
+                "Adresse": "44ane-LeLe_kle:",
+                "Code postal": "Luosel",
+                "Ville": "Ll:1ez"
+            },
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "2e minutes."
+            },
+            "Contribution": {
+                "Cocher les_elements de_votre contribution pour le_scenario_traite": [
+                    "(6€) Jenvoie mon courrier par voie postale a la date du 02 [tefzee",
+                    "(+26) Mon courrier contient une page de garde de fax",
+                    "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le 22/19/2ees",
+                    "(+1€) J'ai envoye par courriel mon courrier numerise le 21/19[222"
+                ],
+                "Marque et modele du scanner": "CAuxn -HfC_!cc",
+                "Format": [
+                    "PNG",
+                    "GIF",
+                    "TIFF"
+                ],
+                "Resolution des images": "30 dpilppp"
+            }
+        }
+    }
 }

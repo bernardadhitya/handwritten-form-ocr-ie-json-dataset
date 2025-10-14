@@ -1,33 +1,50 @@
 {
-    "Code d'envoi": "SNGKCZ",
-    "Nom": "BAZIN",
-    "Prénom": "COLETTE",
-    "Adresse": "15 rue Drusus",
-    "Code Postal": "67410",
-    "Ville": "DRUSENHEIM",
-    "Téléphone": "0331852837",
-    "Catégorie Scénario": "Fermeture de compte",
-    "Objet Scénario": "Fermeture de compte bancaire\\n",
-    "Complément Scénario": "\\n",
-    "Référence client": "UGPLD53",
-    "Interlocuteur": "Banque Débit Lyonnais",
-    "Adresse Interlocuteur": "LA PLAGNE CENTRE",
-    "Code Postal Interlocuteur": "73214",
-    "Ville Interlocuteur": "AIME",
-    "Temps passé": "10",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "9 avril 2007",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "BAZLN",
+                "Prenom": "CeLCILe"
+            },
+            "Adresse": {
+                "Code postal": "[64dl",
+                "Ville": "LRLSeNHcl",
+                "Tel": "313"
+            }
+        },
+        "Scenario": {
+            "Categorie": "Jeamn&kux_",
+            "Objet": "Feaxe",
+            "Ccrfhe": "RanCcuAR_",
+            "Complement": {
+                "Reference client eventuelle": "S1",
+                "Interlocuteur": "DelE Lyennala",
+                "Adresse": "LA PLA6Ne CeNLPe",
+                "Code postal": "438kyy",
+                "Ville": "ALJ€_"
+            },
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "0 minutes"
+            },
+            "Contribution": {
+                "Cocher les_elements_de_votre contribution pour le scenario trite": [
+                    "(6€) Jenvoie mon courrier par voie postale a Ia date du",
+                    "(+2€) Mon courrier contient une page de garde de fax",
+                    "(+1€) Avant mon envoi postal, jai telecopie ma contribution le",
+                    "(+1€) Jai envoye par courriel mon courrier numerise le"
+                ],
+                "Marque et modele du scanner": null,
+                "Format": [
+                    "PNG",
+                    "GIF",
+                    "TIFF"
+                ],
+                "Resolution des images": "dpilppp"
+            }
+        }
+    }
 }

@@ -1,38 +1,36 @@
 {
-    "monthly": {
-        "an_l_test": "written",
-        "cigarettes": "hand selected for multidraft + ITR evaluations",
-        "factory_tests": 5,
-        "research": "filtration efficiency",
-        "machine_trials": 7.2,
-        "new_plug_wraps": "run at 6y filter",
-        "computer_training": [
-            "Billy Reeves",
-            "Richard Craver"
-        ],
-        "wattens_tab": {
-            "cigt_paper": 39300,
-            "status": "completed",
-            "further_testing": "not planned",
-            "appearance": "objectionable"
-        }
-    },
-    "data": [
-        {
-            "id": "A",
-            "brand": "Camel Lights KS",
-            "tar": 7.8,
-            "co": 7.9,
-            "coatar": 1.013
-        },
-        {
-            "id": "B",
-            "brand": "Camel Filter",
-            "tar": 19.3,
-            "co": 18.2,
-            "coatar": 1.0
-        }
+    "date": "7-9-80",
+    "participants": [
+        "Reeves",
+        "Richard Craver"
     ],
-    "x_value": 14713,
-    "mik_bo": 504697517
+    "activities": [
+        "Written test",
+        "Cigarettes selected",
+        "Multidraft ITR evaluations",
+        "Factory tests submitted to research for filtration efficiency",
+        "Machining trials",
+        "New plug wraps run at 64 feet",
+        "Computer training on Wattens tab",
+        "Cigarette paper completed",
+        "No further testing planned"
+    ],
+    "results": {
+        "tar_levels": "increased",
+        "appearance_of_paper": "objectionable"
+    },
+    "cigarette_details": {
+        "Camel Lights KS": {
+            "tar": "7.8",
+            "nicotine": "0.7",
+            "carbon_monoxide": "10.8"
+        },
+        "Camel Filter": {
+            "tar": "20.6",
+            "nicotine": "1.3",
+            "carbon_monoxide": "20.6",
+            "co/tar": "943",
+            "yields": "1000"
+        }
+    }
 }

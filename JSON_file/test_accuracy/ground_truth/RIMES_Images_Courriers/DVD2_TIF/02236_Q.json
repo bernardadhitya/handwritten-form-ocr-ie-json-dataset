@@ -1,33 +1,43 @@
 {
-    "Code d'envoi": "RRKPOL",
-    "Nom": "Cossard",
-    "Prénom": "Celine",
-    "Adresse": "46 bis rue de Brest",
-    "Code Postal": "36300",
-    "Ville": "LE BLANC",
-    "Téléphone": "0290699809",
-    "Catégorie Scénario": "Demande d'information",
-    "Objet Scénario": "Demande de documentation concernant les\\ncontrats et assurance et habitation",
-    "Complément Scénario": "Aucun\\n",
-    "Référence client": "VMCRQ22",
-    "Interlocuteur": "BAAF Assurances",
-    "Adresse Interlocuteur": "35 Place de la Commune",
-    "Code Postal Interlocuteur": "53000",
-    "Ville Interlocuteur": "LAVAL",
-    "Temps passé": "10",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "26 janvier 07",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": "Questionnaire",
+    "Identite fictive": {
+        "Nom": "Oss.Cc_",
+        "Prenom": "Clne",
+        "Adresse": "46. bls sLle_de Q.res",
+        "Code postal": "31613100",
+        "Ville": "LERLAIC",
+        "Tel": "Scenario"
+    },
+    "Categorie": "De: _8 dinFatm_ @ AL",
+    "Objet": "Demanal '6. ~_la= Gimen_ C. 1. 6-concecnan coksols_ assuIcnG 0 fa_ Lcn",
+    "Complement": "Aucun",
+    "Reference client eventuelle": "V 2 2",
+    "Interlocuteur": "_LAAE_Assurances",
+    "Adresse": "3SPlaz Le de La_ ommung",
+    "Code postal": "543OOs0",
+    "Ville": "LAUAL",
+    "Redaction": {
+        "Type de stylo utilise": [
+            "bille",
+            "plume",
+            "feutre"
+        ],
+        "Temps passe a traiter le scenario": "J minutes."
+    },
+    "Contribution": {
+        "Cocher les_elements de_votre contribution pour le_scenario traite": [
+            "(+6e) J'envoie mon courrier par voie postale a la date du",
+            "(+2e) Mon courrier contient une page de garde de fax",
+            "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+            "(+1e) J'ai envoye par courriel mon courrier numerise le"
+        ]
+    },
+    "Marque et modele du scanner": {
+        "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+        ],
+        "Resolution des images": "dpilppp"
+    }
 }

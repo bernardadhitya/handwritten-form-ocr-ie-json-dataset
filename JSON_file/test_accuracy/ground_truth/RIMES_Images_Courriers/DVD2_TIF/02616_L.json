@@ -1,15 +1,18 @@
 {
-    "document": "Lettre manuscrite",
-    "scenario": "Changement de données personnelles",
-    "writer": "POVEDA Marina",
-    "sender_person": "POVEDA Marina",
-    "sender_company": "",
-    "sender_tel": "+33(0)3.70.78.88.25",
-    "sender_fax": "",
-    "receiver_person": "",
-    "receiver_company": "Banque Société Géniale",
-    "subject": "Objet : Nouvelles coordonnées téléphoniques.",
-    "date": "30/01/2007",
-    "place": "Heimersdorf",
-    "box": ""
+    "Name": "POVEDA Harra",
+    "Address": {
+        "Street": "61 Rue de Hebach",
+        "City": "St CAeln RACAN",
+        "Postal Code": "33310"
+    },
+    "Bank": {
+        "Name": "Banque Socete",
+        "Location": "Place de la republique"
+    },
+    "Contact": {
+        "Telephone": "03 18 58 25"
+    },
+    "Reference": {
+        "Code": "SJEwX 44"
+    }
 }

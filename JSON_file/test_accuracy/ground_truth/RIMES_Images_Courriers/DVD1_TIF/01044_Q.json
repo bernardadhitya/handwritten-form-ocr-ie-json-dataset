@@ -1,33 +1,48 @@
 {
-    "Code d'envoi": "EXHVAR",
-    "Nom": "DOUCOURE",
-    "Prénom": "MICKAEL",
-    "Adresse": "MAISON FORESTIERE MENDES",
-    "Code Postal": "57170",
-    "Ville": "MORVILLE LES VIC",
-    "Téléphone": "0333207613",
-    "Catégorie Scénario": "DIFFICULTES DE ¤{PAIEMENT/PAIEMENT}¤",
-    "Objet Scénario": "demande de remise gracieuse\\n",
-    "Complément Scénario": "votre endettement est devenu trop\\nimportant",
-    "Référence client": "NVBDU80",
-    "Interlocuteur": "EDF",
-    "Adresse Interlocuteur": "RTE DE BAZOLLES",
-    "Code Postal Interlocuteur": "58230",
-    "Ville Interlocuteur": "ALLIGNY EN MORVAN",
-    "Temps passé": "15",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "22/11/2006",
-    "Résolution": "200",
-    "Format PNG": "x",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "HP PSC 1210"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "DGucaC.f",
+                "Prenom": "_MickAEC",
+                "Adresse": "MAjSQN FQGESIIEQE",
+                "MEL": "PES",
+                "Code postal": "[517Luol",
+                "Ville": "MeaLiZLES LES",
+                "Tel": "3333"
+            },
+            "Scenario": {
+                "Categorie": "DiFEICOLIES DE PAiNEXI",
+                "Objet": "PLa.CUA nora 48_ ~A8ha_cieaaoe",
+                "Complement": "nuae emda Detsnes Qeleml _mnoal QC",
+                "Reference client eventuelle": "8",
+                "Interlocuteur": "ELE",
+                "Adresse": "AtE LE. RAoLLES",
+                "Code postal": "158123",
+                "Ville": "Axd_Gu2 EN NQRVaU"
+            },
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "45 minutes"
+            },
+            "Contribution": {
+                "Cocher les elements de votre contribution pour le scenaro traite": [
+                    "(6€) Jenvoie mon courrier par voie postale a la date du",
+                    "(+2€) Mon courrier contient une page de garde de fax:",
+                    "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                    "(+1€) Jai envoye par courriel mon courrier numerise le 22L--L2O06"
+                ],
+                "Marque et modele du scanner": "HP PSc A2A0_",
+                "Format": [
+                    "PNG",
+                    "GIF",
+                    "TIFF"
+                ],
+                "Resolution des images": "2OQsppilppp Snl-ed"
+            }
+        }
+    }
 }

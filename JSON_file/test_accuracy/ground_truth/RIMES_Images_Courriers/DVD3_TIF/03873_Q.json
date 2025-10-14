@@ -1,33 +1,51 @@
 {
-    "Code d'envoi": "QDABRT",
-    "Nom": "Fèbre",
-    "Prénom": "Marie-Thérèse",
-    "Adresse": "17 Rue des cheminots",
-    "Code Postal": "67770",
-    "Ville": "Sessenheim",
-    "Téléphone": "0378494908",
-    "Catégorie Scénario": "Demande d'information",
-    "Objet Scénario": "Demande de documentation concernant les\\ncontrats d'assurance habitation",
-    "Complément Scénario": "Vous vous installez avec votre conjoint\\n",
-    "Référence client": "TCJCW53",
-    "Interlocuteur": "NAIF Assurances",
-    "Adresse Interlocuteur": "22 Rue de l'aunette",
-    "Code Postal Interlocuteur": "91610",
-    "Ville Interlocuteur": "Ballancourt sur Essone",
-    "Temps passé": "10",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "20 Mars 2007",
-    "Option Page de garde de fax": "x",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "tehee",
+                "Prenom": "Marie_Thecese_",
+                "Adresse": {
+                    "Rue": "des cheninats",
+                    "Code postal": "6114e",
+                    "Ville": "Sessenhem_"
+                },
+                "Tel": "384l98"
+            },
+            "Scenario": {
+                "Categorie": "Dnance_d'_h fematon",
+                "Objet": "Demnde cle;- deccsmatatn emcernaak les: Con kats; dlaseuraace habilataa",
+                "Complement": "Vaus. VsisS unsta @Lec solee_ CD1",
+                "Reference client eventuelle": "W53",
+                "Interlocuteur": "NAIE_AssuRances",
+                "Adresse": {
+                    "Rue": "22. Rue:_ de. LLouele",
+                    "Code postal": "91A6Aol",
+                    "Ville": "Ballancouc"
+                },
+                "Redaction": {
+                    "Type de stylo (noir) utilise": [
+                        "bille",
+                        "plume",
+                        "feutre"
+                    ],
+                    "Temps passe a traiter le scenario": "Aq minutes"
+                },
+                "Contribution": {
+                    "Cocher les elements de votre contribution pour le scenario traite": [
+                        "J'envoie mon courrier par voie postale a la date du",
+                        "Mon courrier contient une page de garde de fax",
+                        "Avant mon envoi postal, j'ai telecopie ma contribution le",
+                        "J'ai envoye par courriel mon courrier numerise le"
+                    ],
+                    "Marque et modele du scanner": null,
+                    "Format": [
+                        "PNG",
+                        "GIF",
+                        "TIFF"
+                    ],
+                    "Resolution des images": "dpilppp tecak ses"
+                }
+            }
+        }
+    }
 }

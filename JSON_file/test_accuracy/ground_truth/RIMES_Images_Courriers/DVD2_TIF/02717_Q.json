@@ -1,33 +1,48 @@
 {
-    "Code d'envoi": "",
-    "Nom": "",
-    "Prénom": "JACQUES",
-    "Adresse": "1 ALLEE DES PIVOINES",
-    "Code Postal": "54650",
-    "Ville": "SAULNES",
-    "Téléphone": "0334062371",
-    "Catégorie Scénario": "Changement d'adresse",
-    "Objet Scénario": "Nouvelles coordonnées postales\\n",
-    "Complément Scénario": "Vous vous installez avec votre conjoint\\n",
-    "Référence client": "QNZFZ02",
-    "Interlocuteur": "EDF",
-    "Adresse Interlocuteur": "9 ROUTE NATIONALE 20",
-    "Code Postal Interlocuteur": "66760",
-    "Ville Interlocuteur": "ENVEIGT",
-    "Temps passé": "10",
-    "Stylo bille": "",
-    "Stylo plume": "x",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "12-02.07",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "Tam4",
+                "Prenom": "Jiequas_",
+                "Adresse": "Auee DeS pivoNs",
+                "Code postal": "LSLULLL?e",
+                "Ville": "S Aulnes",
+                "Tei": "3 a6"
+            },
+            "Scenario": {
+                "Categorie": "Chanaus_dalrens",
+                "Objet": "Nesvll_ aeyi",
+                "Complement": "New:_ ^: L4",
+                "Reference client eventuelle": "F 2 9",
+                "Intertocuteur": "EDC",
+                "Adresse": "Pex= Nan Wil 2,",
+                "Code postal": "Lbitibidl",
+                "Ville": "Cnvei CT",
+                "Redaction": {
+                    "Type de-stylo (noir) utilise": [
+                        "bille",
+                        "plume",
+                        "feutre"
+                    ],
+                    "Temps passe a traiter le scenario": "minutes."
+                },
+                "Contribution": {
+                    "Cocher les elements de votre contribution pour le scenario traite": [
+                        "(6e) J'envoie mon courrier par voie postale a la date du AL.22-",
+                        "(+28) Mon courrier contient une page de garde de fax",
+                        "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                        "(+1€) J'ai envoye par courriel mon courrier numerise le"
+                    ]
+                },
+                "Marque et modele du scanner": {
+                    "Format": [
+                        "PNG",
+                        "GIF",
+                        "TIFF"
+                    ],
+                    "Resolution des images": "dpilppp k4_ 46"
+                }
+            }
+        }
+    }
 }

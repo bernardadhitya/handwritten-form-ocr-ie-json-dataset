@@ -1,33 +1,51 @@
 {
-    "Code d'envoi": "UTKUIU",
-    "Nom": "BIDET",
-    "Prénom": "NANCY",
-    "Adresse": "1 A Rue PRINCIPALE",
-    "Code Postal": "57480",
-    "Ville": "RITZING",
-    "Téléphone": "0355596233",
-    "Catégorie Scénario": "MODIFICATION DE CONTRAT/COMMANDE",
-    "Objet Scénario": "AUGMENTATION (x2) des quantités d'Actions\\nboursieres commandées",
-    "Complément Scénario": "AUCUN\\n",
-    "Référence client": "OVYQE25",
-    "Interlocuteur": "BANQUE SOCIETE GENIALE",
-    "Adresse Interlocuteur": "15 ROUTE NATIONALE",
-    "Code Postal Interlocuteur": "08140",
-    "Ville Interlocuteur": "DOUZY",
-    "Temps passé": "15",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "5/12/06",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "UlikluEl",
+                "Prenom": "NAN."
+            },
+            "Adresse": {
+                "A": "Que",
+                "Cenc.LCALS": "Code postal",
+                "[Stxdl": "Ville",
+                "KAIZLS": "Tel"
+            },
+            "Scenario": {
+                "Categorie": "MeolECAIQA_ReCea_ka_",
+                "Objet": "Augne_LZADAA",
+                "X": "2) &koRuaalka.LAchaas",
+                "~auSEnES": "C caadeea",
+                "Complement": "Au.c.L",
+                "Reference client eventuelle": "Interlocuteur",
+                "RAnaus": "SocCZE GENLALE",
+                "Adresse": "AS Ros_C LA_ANALE",
+                "Code postal": "bSLy",
+                "Ville": "Daxz"
+            },
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe & traiter le scenario": "AS minutes."
+            },
+            "Contribution": {
+                "Cocher les elements de_votre contribution pour le scenario traite": {
+                    "(6e) J'envoie mon courrier par voie postale a la date du": "Shz-loe",
+                    "(+2e) Mon courrier contient une page de garde de fax": null,
+                    "(+1e) Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+                    "(+1e) J'ai envoye par courriel mon courrier numerise le": null
+                },
+                "Marque et modele du scanner": null,
+                "Format": [
+                    "PNG",
+                    "GIF",
+                    "TIFF"
+                ],
+                "Resolution des images": "dpilppp RLAE SY"
+            }
+        }
+    }
 }

@@ -1,15 +1,29 @@
 {
-    "document": "Fax",
-    "scenario": "Gestion de sinistre",
-    "writer": "MILLET Christele",
-    "sender_person": "Christèle Millet",
-    "sender_company": "¤{el\\Da/Agence pour la Distribution des\\nressources Linguistiques et l'Evaluation/ELDA S.A}¤",
-    "sender_tel": "+33(0)1.43.13.33.33",
-    "sender_fax": "+33(0)3.23.88.03.42",
-    "receiver_person": "",
-    "receiver_company": "MANIF ASSURANCES",
-    "subject": "Objet : Gestion de sinistre",
-    "date": "23/11/2006",
-    "place": "",
-    "box": ""
+    "TELECOPIE": {
+        "Adresse": "56/67, rue Brillat Savarin, 75013 Paris",
+        "Date": "23-4L26",
+        "Tel": "01 43 13 33 33",
+        "Fax": "01 43 13 33 30",
+        "Web": "www.elda.org",
+        "Email": "info@elda.org"
+    },
+    "Destinataire": {
+        "Nom": "Gelkon d Akke",
+        "Telephone": "01 43 13 33 33",
+        "Telecopie": "01 60 16 43 33",
+        "Autre Telecopie": "+331 4313 33 30"
+    },
+    "Objet": "Urgent",
+    "Notes": "Pour information. Reponse au Veuillez vite commenter. Veuu (Pez ~esurer ex-j Oun t Uno le Hee Jn enotal a) amb)e Cemeqk Cah} | eceedeh | &q_ la Euo J ai pou 0 0: Ile +",
+    "ELDA": {
+        "S.A": {
+            "Capital": "250000€",
+            "R.C.S": "PARIS 402 781 876 (95B14795)",
+            "EURO-ID": "No FR-53402781876",
+            "Adresse": "55-57 rue Brillat Savarin, 75013 Paris, France",
+            "Tel": "+33 1 43 13 33 33",
+            "Fax": "+33 1 43 13 33 30",
+            "Email": "raymond@elda.org"
+        }
+    }
 }

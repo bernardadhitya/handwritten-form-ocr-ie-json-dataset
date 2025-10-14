@@ -1,33 +1,46 @@
 {
-    "Code d'envoi": "YVSEST",
-    "Nom": "Rocchi",
-    "Prénom": "Jean-Pierre",
-    "Adresse": "2 Rue du Four",
-    "Code Postal": "06420",
-    "Ville": "CLANS",
-    "Téléphone": "0462849373",
-    "Catégorie Scénario": "Demande d'information",
-    "Objet Scénario": "Renseignement sur les horaires d'accueil du public\\n",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "",
-    "Interlocuteur": "Mairie",
-    "Adresse Interlocuteur": "Le Bourg",
-    "Code Postal Interlocuteur": "70000",
-    "Ville Interlocuteur": "Noroy-le-Bourg",
-    "Temps passé": "15",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "30/01/2007",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "29/01/2007",
-    "Résolution": "200",
-    "Format PNG": "x",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "Canon Lide 30"
+    "Code d'envoi": {
+        "Questionnaire": 5,
+        "Identite fictive": {
+            "Nom": "Rocch",
+            "Prenom": "Jean-Pierre",
+            "Adresse": "2 Rue cuisteu.",
+            "Code postal": "L6luZLoll",
+            "Ville": "LANS",
+            "Tel": "233"
+        },
+        "Scenario": {
+            "Categorie": "Demande_LLS?euabtn_",
+            "Objet": "RoeBnemenE; Al.= ~Bea_henalhea",
+            "Complement": "LCL",
+            "Reference client eventuelle": "",
+            "Interlocuteur": "Alalze:",
+            "Adresse": "Le_Bewsa_",
+            "Code postal": "I7000",
+            "Ville": "{sLcli",
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "45 minutes",
+                "Contribution": {
+                    "Cocher les elements de_votre contribution pour le_scenario traite": [
+                        "(6e) Jenvoie mon courrier par voie postale a la date du 30LQA20.",
+                        "(+2e) Mon courrier contient une page de garde de fax:",
+                        "(+1e) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                        "(+1e) J'ai envoye par courriel mon courrier numerise le 29./04.2Q0.1"
+                    ]
+                }
+            },
+            "Marque et modele du scanner": "Canen_ Lude 30",
+            "Format": [
+                "PNG",
+                "GIF",
+                "TIFF"
+            ],
+            "Resolution des images": "20Q. dpilppp"
+        }
+    }
 }

@@ -1,33 +1,41 @@
 {
-    "Code d'envoi": "LMENWN",
-    "Nom": "DECOCK",
-    "Prénom": "Sonia",
-    "Adresse": "8 Place du Château Fort",
-    "Code Postal": "57530",
-    "Ville": "Laquenexy",
-    "Téléphone": "0342418190",
-    "Catégorie Scénario": "Gestion de Sinistre",
-    "Objet Scénario": "J'ai provoqué la surdité d'un\\npassant",
-    "Complément Scénario": "Responsabilité Civile\\n",
-    "Référence client": "KRRRN97",
-    "Interlocuteur": "NAIF Assurances",
-    "Adresse Interlocuteur": "La gare",
-    "Code Postal Interlocuteur": "16230",
-    "Ville Interlocuteur": "LUXE",
-    "Temps passé": "10",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "10.10.2006",
-    "Option Page de garde de fax": "x",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "10.10.2006",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "DEcock",
+                "Prenom": "Gkas",
+                "Adresse": "Ce Sb:ZEEE",
+                "Code postal": "[1521",
+                "Ville": "QA-emex",
+                "Tel": "8"
+            },
+            "Scenario": {
+                "Categorie": "akonde_S-be",
+                "Objet": "RAUoA4& ILZZI",
+                "Complement": "C",
+                "Reference client eventuelle": "R",
+                "Interlocuteur": {
+                    "Naf": "224",
+                    "Adresse": "Q2-",
+                    "Code postal": "Ville ~XE"
+                },
+                "Redaction": {
+                    "Type de stylo (noir) utilise": [
+                        "bille",
+                        "plume",
+                        "feutre"
+                    ],
+                    "Temps passe a traiter le scenario": "A0 minutes."
+                },
+                "Contribution": {
+                    "Cocher les elements de votre contribution pour le_scenario traite": [
+                        "(6e) J'envoie mon courrier par voie postale a Ia date du Ao_. JQ.",
+                        "(+2e) Mon courrier contient une page de garde de fax.",
+                        "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le Ae lo_ J 2q6,",
+                        "(+1€) Jai envoye par courriel mon courrier numerise le Marque et modele du scanner Format PNG GIF TIFF Resolution des images dpilppp K Oko-"
+                    ]
+                }
+            }
+        }
+    }
 }

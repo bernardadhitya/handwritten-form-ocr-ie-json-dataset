@@ -1,40 +1,30 @@
 {
-    "institution": "INBIFO Institut fur biologische Forschung GmbH Koln",
-    "form": "34.KW96 -/MWO XMWO\\PCST.DOC",
-    "projectControlSheet": "PQ2.......S",
-    "title": "Conmoits or. \" Cstnblirhirimt f r joyrlrAier, Cmcmr dit ond discoroant conplls ? pronokt",
-    "author": "Rylander, Jrnni",
-    "date": "1.nov.96",
-    "shortTitle": "Conmant: Prepoal, Qi'etoy Habi's ank E7S",
-    "objective": "Comm to cicrtgak",
-    "type1": "OZ",
-    "type2": "",
-    "type3": "",
-    "projectManagement": {
-        "studyDirectorCoordinator": "JOE",
-        "studyCodirectorB": ""
+    "Company": "INBIFO Institut tur biologische Forschung GmbH",
+    "Location": "Koln",
+    "Form": "34.KW 96",
+    "Title": "Com",
+    "Short Title": "Zomn man f :",
+    "Objective": "Com~2 6",
+    "Type": [
+        "Type 2",
+        "Type 3"
+    ],
+    "Project Management": {
+        "Study Director/Coordinator": "Joe",
+        "Study Co-Director": "Closure of Project"
     },
-    "closureOfProject": {
-        "rawDataPrepared": true,
-        "glpRegulations": true,
-        "projectShutdown": "M3.Dic s",
-        "dateSignSD": "",
-        "materialsHandedOver": true,
-        "dateSignArchivist": "M."
+    "Closure Details": {
+        "Description": "The raw data and other materials of the project have been properly prepared for storage according to GLP regulations. The project can be shut down in the BA computer.",
+        "Date/Sign SD": "11/96",
+        "Handover to Archivist": "All GLP relevant materials were handed over to the archivist",
+        "Date/Sign Archivist": "datelsign archivist"
     },
-    "qa": "2 1.Aug. 1996",
-    "projectNumber": "2505114102",
-    "distribution": {
-        "original": "PMF",
-        "copies": [
+    "Distribution": {
+        "Original": "PMF",
+        "Copies": [
             "AP",
-            "QA"
+            "BRZM"
         ]
     },
-    "completion": {
-        "completedBy": "BR2M",
-        "date": "10. KW 94"
-    },
-    "glpRelevant": true,
-    "gel": "GEL8"
+    "Additional Information": "Required by all means if the study is GLP relevant"
 }

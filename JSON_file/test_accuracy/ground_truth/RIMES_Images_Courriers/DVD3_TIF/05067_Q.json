@@ -1,33 +1,48 @@
 {
-    "Code d'envoi": "QINRMX",
-    "Nom": "SCHMITT",
-    "Prénom": "Martine",
-    "Adresse": "6 rue des alliés",
-    "Code Postal": "57300",
-    "Ville": "MONDELANGE",
-    "Téléphone": "0341685810",
-    "Catégorie Scénario": "Modification de Contrat / Commande",
-    "Objet Scénario": "Commande d'actions ¤{boursieres/boursières}¤ pour un montant\\nde 1500 euros (vous chargez votre banquier de choisir le placement)",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "GUARF20",
-    "Interlocuteur": "Banque Crédit Populaire",
-    "Adresse Interlocuteur": "BOURG",
-    "Code Postal Interlocuteur": "23700",
-    "Ville Interlocuteur": "ROUGNAT",
-    "Temps passé": "20",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "19/04/07",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "18/04/07",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "x",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "Epson stylus CX6600"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "S_kniII",
+                "Prenom": "Lastiaa.",
+                "Adresse": "IlQ_ dex. C",
+                "Code postal": "51313405",
+                "Ville": "QNDELAAGE",
+                "Tel": "3"
+            },
+            "Scenario": {
+                "Categorie": "IedKala",
+                "Objet": "Csxnda.",
+                "Lladma_ Lsouaienea": "~Pau - Au anotank_ &. Sqq R4cQS (uas_ ~atsbamqpui-ck_asis&_pkir L)",
+                "Complement": "Q4 Cxl",
+                "Reference client eventuelle": "2",
+                "Interlocuteur": "Ran94ss_ Gu4diE_ Potulauh",
+                "Adresse": "Geuk",
+                "Code postal": "L23t0o",
+                "Ville": "ReuGNAI",
+                "Redaction": {
+                    "Type de stylo (noir) utilise": [
+                        "bille",
+                        "plume",
+                        "feutre"
+                    ],
+                    "Temps passe a traiter le scenario": "20 minutes"
+                },
+                "Contribution": {
+                    "Cocher les elements de votre contribution pour le_scenario traite": {
+                        "(6e) J'envoie mon courrier par voie postale a la date du": "491oulo3",
+                        "(+2e) Mon courrier contient une page de": "de fax",
+                        "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le": "",
+                        "(+1€) Jai envoye courriel mon courrier numerise le": "A2.(24.Lox"
+                    },
+                    "Marque et modele du scanner": "Epsensyes CxGGoq",
+                    "Format": [
+                        "PNG",
+                        "GIF",
+                        "TIFF"
+                    ],
+                    "Resolution des images": "dpilppp ~ange\"s\" garde"
+                }
+            }
+        }
+    }
 }

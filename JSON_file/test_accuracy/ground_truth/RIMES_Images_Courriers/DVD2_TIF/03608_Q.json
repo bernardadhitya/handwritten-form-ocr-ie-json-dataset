@@ -1,33 +1,46 @@
 {
-    "Code d'envoi": "QEKDXP",
-    "Nom": "PAYA",
-    "Prénom": "Valentin",
-    "Adresse": "3 chemin de Chenesieux",
-    "Code Postal": "54122",
-    "Ville": "VATHIMENIL",
-    "Téléphone": "0358126961",
-    "Catégorie Scénario": "Modification de contrat/Commande",
-    "Objet Scénario": "Commande d'un lot de 50 CD vierges\\n(¤{reference/référence}¤ du produit 010-25-CDV)",
-    "Complément Scénario": "\\n",
-    "Référence client": "WCRCZ41",
-    "Interlocuteur": "La Reboute",
-    "Adresse Interlocuteur": "9 rue Gambetta",
-    "Code Postal Interlocuteur": "59540",
-    "Ville Interlocuteur": "Bethencourt",
-    "Temps passé": "30",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "12 mars 2007",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "12 mars 2007",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "11 mars",
-    "Résolution": "300",
-    "Format PNG": "x",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "HP Photosmart C3180"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "RAXA_",
+                "Prenom": "Lelet",
+                "Adresse": "Chem_in Chenescesx",
+                "Code postal": "L544:U",
+                "Ville": "IENLL",
+                "Tel": "Scenario"
+            },
+            "Categorie": "2.",
+            "Qickeri": "4",
+            "S2.1": "0",
+            "Gmnez de Objet": "2x2-ud4 Ly2 el_A 52 SDa ~erses cexen L2 \"Axe 0 0_2S_S0",
+            "Complement": "Reference client eventuelle",
+            "Interlocuteur": "L& L&bezle",
+            "Adresse": "XLe Semkela",
+            "Code postal": "L2ELhg]",
+            "Ville": "Belhe\" 624",
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "minutes"
+            },
+            "Contribution": {
+                "Cocher les_elements de_votre contrbution pour le scenario traite": [
+                    "(6€) J'envoie mon courrier par voie postale a la date du IAS &223",
+                    "(+2€) Mon courrier contient une page de garde de fax",
+                    "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le Az_moxszea: 2",
+                    "(+1€) Jai envoye par courriel mon courrier numerise le ~k_Mov <"
+                ],
+                "Marque et modele du scanner": "Hp_Phele_smaz: C3Lxq_",
+                "Format": [
+                    "PNG",
+                    "GIF",
+                    "TIFF"
+                ],
+                "Resolution des images": "329 dpilppp di"
+            }
+        }
+    }
 }

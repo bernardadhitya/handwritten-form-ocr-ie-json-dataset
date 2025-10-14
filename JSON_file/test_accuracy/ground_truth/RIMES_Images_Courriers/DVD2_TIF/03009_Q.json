@@ -1,33 +1,44 @@
 {
-    "Code d'envoi": "FDKUAT",
-    "Nom": "GUERARD",
-    "Prénom": "Agnès",
-    "Adresse": "6 rue Kalb",
-    "Code Postal": "68000",
-    "Ville": "COLMAR",
-    "Téléphone": "0355587873",
-    "Catégorie Scénario": "Modification de contrat / Commande",
-    "Objet Scénario": "Diminution des versement sur mon plan epargne\\nlogement",
-    "Complément Scénario": "Je viens de perdre mon emploi\\n",
-    "Référence client": "SRGGU03",
-    "Interlocuteur": "Banque Société Géniale",
-    "Adresse Interlocuteur": "4 rue de la poste",
-    "Code Postal Interlocuteur": "76110",
-    "Ville Interlocuteur": "GODERVILLE",
-    "Temps passé": "15",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "21/02/07",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "21/02/07",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "",
-    "Résolution": "200",
-    "Format PNG": "",
-    "Format GIF": "x",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "Canon Cano Scan LIDE 35"
+    "Code d'envoi": "Questionnaire",
+    "Identite fictive": {
+        "Nom": "EU.ERAR3",
+        "Prenom": "~Acsnes'",
+        "Adresse": "6. Jhle SSalE",
+        "Code postal": "|GJS",
+        "Ville": "CaL^",
+        "Tel": "3"
+    },
+    "Scenario": {
+        "Categorie": "ccalic de_ccmbal_LPamman",
+        "Objet Guimiuulvn dea.eraemaenl": "Au 04 efalqne Keremevk",
+        "Complement": "Je_ ARem- d MNML em Cr",
+        "Reference client eventuelle": "S",
+        "Interlocuteur": "Ycele_4emale",
+        "Adresse": "4.we_ Ae_l",
+        "Code postal": "LZ6l",
+        "Ville": "GODERAVILLE"
+    },
+    "Redaction": {
+        "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+        ],
+        "Temps passe a traiter le scenario": "45 minutes"
+    },
+    "Contribution": {
+        "Elements de_votre contribution": {
+            "(6€) J'envoie mon courrier par voie postale a la date du 2.102L.0.": true,
+            "(+2€) Mon courrier contient une page de garde de fax": true,
+            "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le 244/0240.2": true,
+            "(+16) Jai envoye par courriel mon courrier numerise le": true
+        },
+        "Marque et modele du scanner": "Eancn: ana CcVM LIRE_3S",
+        "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+        ],
+        "Resolution des images": "200 dpi/ppp"
+    }
 }

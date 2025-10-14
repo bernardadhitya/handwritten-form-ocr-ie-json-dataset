@@ -1,33 +1,32 @@
 {
-    "Code d'envoi": "UPPLGP",
-    "Nom": "AUGUSTIN",
-    "Prénom": "Mandy",
-    "Adresse": "69 rue d'or",
-    "Code Postal": "68500",
-    "Ville": "Berrwiller",
-    "Téléphone": "0377399700",
-    "Catégorie Scénario": "Relance de courrier sans réponse",
-    "Objet Scénario": "Votre demande d'information du mois dernier\\nest restée sans effet",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "RZFOM83",
-    "Interlocuteur": "Univers Sale Mobile",
-    "Adresse Interlocuteur": "5 place de la 4e République",
-    "Code Postal Interlocuteur": "62590",
-    "Ville Interlocuteur": "Oignies",
-    "Temps passé": "20",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "1/02/07",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "ALGeSLN",
+                "Prenom": "9n",
+                "Adresse": "Ce_",
+                "Code postal": "[64815L010",
+                "Ville": "Gexcwill",
+                "Tel": "3173"
+            },
+            "Scenario": {
+                "Categorie": "Relanc: de CeH{cses",
+                "Sen__rePense": "Objet Vatce. demande. d_ Em.a Hex _ d m21f. Aerai.&5 &t_ Cex ter. G&ease lbet Complement",
+                "Reference client eventuelle": "R23",
+                "interlocuteur": "Uavecs Sel& Ilalul&",
+                "Adresse": "5, lex_ sg . ls 4 blige_",
+                "Code postal": "[62u5.9Lol",
+                "Ville": "Jes"
+            },
+            "Redaction": {
+                "Type de stylo (noir) utilise": "bille plume feutre",
+                "Temps passe a traiter le scenario": "20 minutes",
+                "Contribution": {
+                    "Cocher les elements_de_votre contribution pour le_scenario_ traite": "(6€) J'envoie mon courrier par voie postale a la date du 4/ex le.# (+2e) Mon courrier contient une page de garde de fax: +1€) Avant mon envoi postal, j'ai telecopie ma contribution le (+1e) J'ai envoye par courriel mon courrier numerise le",
+                    "Marque et modele du scanner": "Format PNG GIF TIFF",
+                    "Resolution des images": "dpilppp Jok_ Ce:<_ Repx R Qign"
+                }
+            }
+        }
+    }
 }

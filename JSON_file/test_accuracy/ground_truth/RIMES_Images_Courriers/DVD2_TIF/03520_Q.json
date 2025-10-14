@@ -1,33 +1,53 @@
 {
-    "Code d'envoi": "MADHHH",
-    "Nom": "LEFEVRE",
-    "Prénom": "Cyril",
-    "Adresse": "ECLUSE N 1",
-    "Code Postal": "57830",
-    "Ville": "KERPRICH AUX BOIS",
-    "Téléphone": "0383272234",
-    "Catégorie Scénario": "Modification de contrat/Commande",
-    "Objet Scénario": "Augmentation (x2) des quantités de CD\\n¤{vierges/vièrges}¤ commandées",
-    "Complément Scénario": "Aucun\\n",
-    "Référence client": "BWKQY25",
-    "Interlocuteur": "Les 3 Suifs",
-    "Adresse Interlocuteur": "22 RUE ZUBER",
-    "Code Postal Interlocuteur": "68170",
-    "Ville Interlocuteur": "RIXHEIM",
-    "Temps passé": "15",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "13/03/2007",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "12/03/2007",
-    "Résolution": "300",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "x",
-    "Marque et modèle scanner": "CANON SmartBase MP 360"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "LEEELRE_",
+                "Prenom": "Cye",
+                "Adresse": "ESLLSE",
+                "Code postal": "S#LLd",
+                "Ville": "Kekfeilu",
+                "Avx": "Zeis_",
+                "Tel": "Y2223"
+            },
+            "Scenario": {
+                "Categorie": "fediccka",
+                "Objet": "eth",
+                "Iohb": "k",
+                "Vieaaea": "Comman(ea.",
+                "Complement": "Aucwn_",
+                "Reference client eventuelle": "BW25",
+                "Interlocuteur": {
+                    "Nom": "Lex",
+                    "Prenom": "Sy",
+                    "Adresse": "22_kLs",
+                    "Ville": "RaxHEiH",
+                    "Code postal": "LLSAHu"
+                },
+                "Redaction": {
+                    "Type de stylo (noir) utilise": [
+                        "bille",
+                        "plume",
+                        "feutre"
+                    ],
+                    "Temps passe a traiter le scenario": "Ls. minutes"
+                },
+                "Contribution": {
+                    "Cocher les elements de_votre contribution pour le scenario traite": {
+                        "(6e) J'envoie mon courrier par voie postale a la date du": "42Le3.|2",
+                        "(+2e) Mon courrier contient une page de garde de fax": null,
+                        "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+                        "(+1€) J'ai envoye par courriel mon courrier numerise le": "4La3.L2e1"
+                    },
+                    "Marque et modele du scanner": "LANon_",
+                    "Format": [
+                        "PNG",
+                        "GIF",
+                        "TIFF"
+                    ],
+                    "Resolution des images": "3e2 dpilppp"
+                }
+            }
+        }
+    }
 }

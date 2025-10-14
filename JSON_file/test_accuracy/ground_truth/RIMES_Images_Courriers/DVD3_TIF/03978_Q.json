@@ -1,33 +1,36 @@
 {
-    "Code d'envoi": "VQMJBQ",
-    "Nom": "DUARTE",
-    "Prénom": "Danielle",
-    "Adresse": "40 rue des Frères Herberth",
-    "Code Postal": "57430",
-    "Ville": "SARRALBE",
-    "Téléphone": "0351692452",
-    "Catégorie Scénario": "Modification de Contrat / Commande",
-    "Objet Scénario": "demande de mensualisation ¤{impot/impôt}¤\\nsur le revenu",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "MZATN64",
-    "Interlocuteur": "¤{Tresorerie/Trésorerie}¤ des ¤{impots/impôts}¤",
-    "Adresse Interlocuteur": "24 B rue de la libération",
-    "Code Postal Interlocuteur": "74240",
-    "Ville Interlocuteur": "GAILLARD",
-    "Temps passé": "10",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "23/3/07",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": "Questionnaire7",
+    "Identite fictive": {
+        "Nom": "ARIS",
+        "Prenom": "Lele_R",
+        "Adresse": "LQ M",
+        "Code postal": "LhBc",
+        "Ville": "SARRALB_",
+        "Tel": "Scenario",
+        "Categorie": "AcLle"
+    },
+    "Objet": "Oklm",
+    "Complement": "Mucun",
+    "Reference client eventuelle": "Interlocuteur Nocky RMeL",
+    "Adresse": "Aue 0 O",
+    "Code postal": "L4zLo",
+    "Ville": "GALLLAA",
+    "Redaction": {
+        "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+        ],
+        "Temps passe & traiter le scenario": "minutes_"
+    },
+    "Contribution": {
+        "Cocher les elements de_votre contribution pour le scenario traite": [
+            "(6€) Jenvoie mon courrier par voie postale a la date du 2Z13/01",
+            "(+2e) Mon courrier contient une page de garde de fax",
+            "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+            "(+1€) Jai envoye par courriel mon courrier numerise le"
+        ],
+        "Marque et modele du scanner": "Format PNG GIF TIFF",
+        "Resolution des images": "dpilppp 6eiee Cal and ~A_"
+    }
 }

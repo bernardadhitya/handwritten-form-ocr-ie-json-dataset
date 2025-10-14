@@ -1,33 +1,50 @@
 {
-    "Code d'envoi": "YHADCE",
-    "Nom": "FABBRI",
-    "Prénom": "Jocelyne",
-    "Adresse": "22 Rue de la Rosière",
-    "Code Postal": "54119",
-    "Ville": "DOMGERMAIN",
-    "Téléphone": "0340625804",
-    "Catégorie Scénario": "gestion de sinistre",
-    "Objet Scénario": "vous êtes sans nouvelle concernant l'expertise\\nde votre véhicule accidenté le mois dernier",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "NGZWG03",
-    "Interlocuteur": "NNA Assurances",
-    "Adresse Interlocuteur": "26 Rue Principale",
-    "Code Postal Interlocuteur": "49370",
-    "Ville Interlocuteur": "LA POUEZE",
-    "Temps passé": "10",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "16.10.2006",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "16.10.2006",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "16.10.2006",
-    "Résolution": "200",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "x",
-    "Marque et modèle scanner": "HP Scanjet 555 c"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "FaBbei",
+                "Prenom": "Jocelthe",
+                "Adresse": "Rue . d Ia",
+                "Code postal": "SiyLU",
+                "Ville": "RMGERAAN_",
+                "Tel": "3"
+            },
+            "Scenario": {
+                "Categorie": "de_hnishe",
+                "Objet": "AuuA. _els. mtaxelle_",
+                "Con lechank": "LIexpecbx. de-brtie_Azhicule_ Acadente_e Ml- decnie",
+                "Complement": "__Qulln _",
+                "Reference client eventuelle": "3"
+            },
+            "Interlocuteur": {
+                "NNA": "#saanle",
+                "Adresse": "2G. Due. YunG:",
+                "Code postal": "L493ikpl",
+                "Ville": "LA BEZE:"
+            },
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "Ko minutes.",
+                "Contribution": {
+                    "Cocher les elements de_votre contribution pour le scenario traite": [
+                        "(6e) Jenvoie mon courrier par voie postale a la date du Ab_ko_!aak",
+                        "(+2e) Mon courrier contient une page de garde de fax:",
+                        "(+1e) Avant mon envoi postal, j'ai telecopie ma contribution le _b_ R._ 4",
+                        "(+1€) Jai envoye par courriel mon courrier numerise le R._ Jeal"
+                    ],
+                    "Marque et modele du scanner": "He_Scensh SS.+6",
+                    "Format": [
+                        "PNG",
+                        "GIF",
+                        "TIFF"
+                    ],
+                    "Resolution des images": "J9x. dpilppp Dehe'ce Jubim\" ~xan- PeLe_ ~JAL."
+                }
+            }
+        }
+    }
 }

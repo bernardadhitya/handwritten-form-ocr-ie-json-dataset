@@ -1,33 +1,44 @@
 {
-    "Code d'envoi": "QTUKNT",
-    "Nom": "RENOUF",
-    "Prénom": "FLORIAN",
-    "Adresse": "6 rue de la SEINE",
-    "Code Postal": "54860",
-    "Ville": "ST CHARLES",
-    "Téléphone": "0387726008",
-    "Catégorie Scénario": "Ouverture de compte",
-    "Objet Scénario": "Vous souhaitez vous abonner\\n",
-    "Complément Scénario": "Vous avez davantage de Temps pour\\nvos loisirs",
-    "Référence client": "",
-    "Interlocuteur": "IMM FERRACCI",
-    "Adresse Interlocuteur": "¤Bimestriel Charité Bushido\"¤",
-    "Code Postal Interlocuteur": "20000",
-    "Ville Interlocuteur": "AJACCIO",
-    "Temps passé": "20",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "06 Avril 07",
-    "Option Page de garde de fax": "x",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "06 Avril 07",
-    "Résolution": "200",
-    "Format PNG": "x",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "Dece 810"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "_QENos",
+                "Prenom": "LA.",
+                "Adresse": "JX ala EE",
+                "Code postal": "bi46p",
+                "Ville": "eHAe=s",
+                "Tel": "Scenario"
+            },
+            "Categorie": "LAEeLhys_F",
+            "Objet": "Xeo",
+            "Complement": "34.0s Alexa 8 . 9 42; 1? Lll 3 Cs_ 4.A",
+            "Reference client eventuelle": "Interlocuteur",
+            "Adresse": "Tti K< C0mi2__ SoaO_tAl&",
+            "Code postal": "LelkeJ",
+            "Ville": "J=A_ee.A",
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "23 minutes."
+            },
+            "Contribution": {
+                "Cocher les_elements_de_votre contribution pour le_scenario_traite": [
+                    "(6e) J'envoie mon courrier par voie postale a la date du 8",
+                    "(+2e) Mon courrier contient une page de garde de fax:",
+                    "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                    "(+1€) Jai envoye par courriel mon courrier numerise le 2.6 Kwa:kR"
+                ]
+            },
+            "Marque et modele du scanner": "2 2_",
+            "Format": [
+                "PNG",
+                "GIF",
+                "TIFF"
+            ],
+            "Resolution des images": "22 dpilppp 1e. C7"
+        }
+    }
 }

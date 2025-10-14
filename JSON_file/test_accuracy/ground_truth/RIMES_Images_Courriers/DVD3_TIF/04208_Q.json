@@ -1,33 +1,50 @@
 {
-    "Code d'envoi": "XDJLNB",
-    "Nom": "LE BERRE",
-    "Prénom": "Faustine",
-    "Adresse": "21 rue de la Paix",
-    "Code Postal": "68400",
-    "Ville": "Riedisheim",
-    "Téléphone": "0384324256",
-    "Catégorie Scénario": "Fermeture de compte",
-    "Objet Scénario": "Resiliation d'assurance auto\\n",
-    "Complément Scénario": "vous vendez votre vehicule\\n",
-    "Référence client": "RARQG93",
-    "Interlocuteur": "BAAF Assurances",
-    "Adresse Interlocuteur": "5 rue de la poste",
-    "Code Postal Interlocuteur": "54300",
-    "Ville Interlocuteur": "MARAINVILLER",
-    "Temps passé": "8",
-    "Stylo bille": "",
-    "Stylo plume": "",
-    "Stylo feutre": "x",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "28/03/07",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "LE_Berke",
+                "Prenom": "Reakas"
+            },
+            "Adresse": {
+                "Code": "Lelule",
+                "Ville": "Rieeshe"
+            },
+            "Tel": "822",
+            "Scenario": {
+                "Categorie": "EcneLe",
+                "Objet": "Complement UJuls",
+                "Reference client eventuelle": "RERIshs",
+                "Interlocuteur": "GAAe",
+                "Adresse": {
+                    "S": "LLe",
+                    "Code postal": "KLSodl",
+                    "Ville": "mArAiuLER"
+                },
+                "Redaction": {
+                    "Type de stylo (noir) utilise": [
+                        "bille",
+                        "plume",
+                        "Neutre"
+                    ],
+                    "Temps a traiter le scenario": "minutes."
+                },
+                "Contribution": {
+                    "Cocher les elements de votre contribution pour le_scenario traite": [
+                        "(6€) Jenvoie mon courrier par voie postale a la date du",
+                        "(+2E) Mon courrier contient une page de garde de fax",
+                        "(+16) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                        "(+16) Jai envoye par courriel mon courrier numerise le"
+                    ]
+                },
+                "Marque et modele du scanner": {
+                    "Format": [
+                        "PNG",
+                        "GIF",
+                        "TIFF"
+                    ],
+                    "Resolution des images": "dpilppp"
+                }
+            }
+        }
+    }
 }

@@ -1,15 +1,23 @@
 {
-    "document": "Fax",
-    "scenario": "Changement de données personnelles",
-    "writer": "COLLET Corine",
-    "sender_person": "¤{Corine Collet/Jean-Edouard LAURENT - Denis SIBILLE  -Annie VIEILLE - Emmanuelle SPENNATO - Emilie LAURENT}¤",
-    "sender_company": "¤{NOTAIRES DE VAUGNERAY/SCP Jean-Edouard LAURENT - Denis SIBILLE  -Annie VIEILLE - Emmanuelle SPENNATO - Emilie LAURENT}¤",
-    "sender_tel": "+33(0)4.78.45.84.84",
-    "sender_fax": "+33(0)4.78.45.96.55",
-    "receiver_person": "",
-    "receiver_company": "Banque Mutuelle de Paris",
-    "subject": "Objet : nouvelles coordonnées téléphoniques",
-    "date": "30/04/2007",
-    "place": "",
-    "box": ""
+    "Notary": {
+        "Name": "Jean-Edouard LAURENT",
+        "Associates": [
+            "Denis SIBILLE",
+            "Annie VIEILLE",
+            "Emmanuelle SPENNATO",
+            "Emilie LAURENT"
+        ],
+        "Address": {
+            "Street": "6 Place du Marche",
+            "PostalCode": "69670",
+            "City": "VAUGNERAY"
+        },
+        "Contact": {
+            "Tel": "04-78-45-84-84",
+            "Fax": "04-78-45-96-55",
+            "Email": "scp.laurent sibille@notaires fr"
+        },
+        "OfficeHours": "Reception du LUNDI au VENDREDI de I0h @ 12h et de 14h & 18h, sur rendez-vous",
+        "AdditionalInfo": "Societe titulaire d'un Office Notarial Membre d' une association agreee, le reglement des honoraires par cheque est accepte."
+    }
 }

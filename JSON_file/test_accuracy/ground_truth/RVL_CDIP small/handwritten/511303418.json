@@ -1,59 +1,33 @@
 {
-    "company": "RJR Industries, Inc.",
-    "proposalType": "PROPOSAL FOR PROFIT, EXPENDITURE, OR POLICY CHANGE",
-    "subject": "",
-    "departmentDivision": "",
-    "precedingPEPs": {
-        "relativeToSubject": "",
-        "number": ""
-    },
-    "checkAsAppropriate": {
-        "estimatedStudyDevelopmentProposal": "",
-        "longRangeImpact": "",
-        "capitalExpenditures": "",
-        "annualPreTaxProfitEffect": {
-            "afterImplementation": "",
-            "year": "19_",
-            "nextYear": "19_",
-            "futureYears": ""
-        }
-    },
-    "profitProposal": {
-        "preTaxProfitLossEffect": "",
-        "isPLBudgetChange": "",
-        "howMuch": ""
-    },
-    "capitalExpenditureProposal": {
-        "disbursementOfFunds": {
-            "totalRequest": "",
-            "timing": ""
+    "Company": "RJR Industries, Inc",
+    "Proposal": {
+        "Type": "Profit, Expenditure, or Policy Change",
+        "Profit Proposal": {
+            "Pre-Tax Profit & Loss Effect": {
+                "Budget Change": {
+                    "Yes": true,
+                    "Amount": "Unknown"
+                }
+            }
         },
-        "isBudgetChange": "",
-        "howMuchInTotal": "",
-        "timing": ""
-    },
-    "estimatedBy": {
-        "rjReyTobEng": "",
-        "engCoord": ""
-    },
-    "projectNo": "",
-    "policyChangeProposal": {
-        "literatureToBeChanged": "",
-        "descriptionOfOpportunityOrProblem": "",
-        "background": "",
-        "proposedActionAndAlternatives": "",
-        "resultsOfProposedAction": ""
-    },
-    "routing": {
-        "comments": "",
-        "date": ""
-    },
-    "originator": "",
-    "approvedCopyTo": "",
-    "datePlannedToStart": "",
-    "dateStarted": "",
-    "datePlannedToComplete": "",
-    "dateCompleted": "",
-    "personResponsibleForImplementing": "",
-    "disapprovedExplanation": ""
+        "Capital Expenditure Proposal": {
+            "Disbursement of Funds": {
+                "Total Request": "Unknown",
+                "Timing": "Unknown"
+            }
+        },
+        "Policy Change Proposal": {
+            "Literature to be Changed": "Unknown",
+            "Description": "Opportunity or Problem Description",
+            "Background": "Substantiating References and Facts",
+            "Proposed Action and Alternatives": {
+                "Scope": "Unknown",
+                "Method": "Unknown"
+            },
+            "Results": {
+                "Profit Effect": "Unknown",
+                "Return on Investment": "Unknown"
+            }
+        }
+    }
 }

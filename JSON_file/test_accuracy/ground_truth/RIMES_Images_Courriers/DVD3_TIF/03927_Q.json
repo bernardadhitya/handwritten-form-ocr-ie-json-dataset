@@ -1,33 +1,41 @@
 {
-    "Code d'envoi": "LFNJBO",
-    "Nom": "VANHILLE",
-    "Prénom": "Valérie",
-    "Adresse": "8 rue des Tilleuls",
-    "Code Postal": "67340",
-    "Ville": "WEITERSWILLER",
-    "Téléphone": "0313978569",
-    "Catégorie Scénario": "Modification contrat / commande",
-    "Objet Scénario": "Changement concernant la dernière commande\\n",
-    "Complément Scénario": "changer couleur du modèle commandé\\n",
-    "Référence client": "GZZSN17",
-    "Interlocuteur": "Les 3 Suifs",
-    "Adresse Interlocuteur": "LE BOURG",
-    "Code Postal Interlocuteur": "35540",
-    "Ville Interlocuteur": "LE TRONCHET",
-    "Temps passé": "3",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "20 mars 2007",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "VANHALLE",
+                "Prenom": "Valeie"
+            },
+            "Adresse": "8. AL&__Aes- Ilula.",
+            "Code postal": "611ZLLLO",
+            "Ville": "WELTERALILER",
+            "Tel": "339"
+        },
+        "Scenario": {
+            "Categorie": "Cotsu",
+            "Suhat-|carewsaxdkk": "Objet CLauretueah cALlSuAAultt:. la_deukuc ClUWblaAL",
+            "Complement": "Cqulldu_ Mos SomsA",
+            "Reference client eventuelle": "Interlocuteur les . 23. -Suih",
+            "Adresse": "LE LoxkG_",
+            "Code postal": "ZLSLSLUql",
+            "Ville": "UE IkoASEL",
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "minutes."
+            },
+            "Contribution": {
+                "Cocher les elements_de_votre contribution pour le_scenario traite": [
+                    "(6e) J'envoie mon courrier par voie postale a la date du 28.4ue+2_2eat",
+                    "(+2e) Mon courrier contient une page de de fax",
+                    "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                    "(+1€) Jai envoye par courriel mon courrier numerise le"
+                ],
+                "Marque et modele du scanner": "Format PNG GIF TIFF",
+                "Resolution des images": "dpilppp Neclg duak: Qa. garde"
+            }
+        }
+    }
 }

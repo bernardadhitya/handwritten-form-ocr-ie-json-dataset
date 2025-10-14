@@ -1,33 +1,50 @@
 {
-    "Code d'envoi": "XXFZBX",
-    "Nom": "HAYE",
-    "Prénom": "ISABELLE",
-    "Adresse": "26 GRAND RUE",
-    "Code Postal": "68290",
-    "Ville": "SEWEN",
-    "Téléphone": "0351274681",
-    "Catégorie Scénario": "Modification de contrat / Commande",
-    "Objet Scénario": "Demande de mensualisation de l'impôt sur\\nle revenu",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "SYFWD56",
-    "Interlocuteur": "Trésorerie des impôts",
-    "Adresse Interlocuteur": "37, Rue Louis Appraille",
-    "Code Postal Interlocuteur": "85370",
-    "Ville Interlocuteur": "MOUZEUIL ST MARTIN",
-    "Temps passé": "3",
-    "Stylo bille": "",
-    "Stylo plume": "",
-    "Stylo feutre": "x",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "17.02.07",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "16.02.07",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "16.02.07",
-    "Résolution": "300",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "x",
-    "Marque et modèle scanner": "BROTHER - MPC 3220C"
+    "Code d'envoi": "XKIFIzX",
+    "Identite fictive": {
+        "Nom": "HayE",
+        "Prenom": "iSABEUE",
+        "Adresse": {
+            "RUE": "@rAND",
+            "Code postal": "681280",
+            "Ville": "SEan_"
+        }
+    },
+    "Scenario": {
+        "Categorie": "Iodilicahen",
+        "Objet": "Jeuaada",
+        "Complement": "aua"
+    },
+    "Reference client eventuelle": "Ylelulols",
+    "Interlocuteur": "Tcepocecia",
+    "Adresse": {
+        "Que": "leuin _Afpraille",
+        "Code postal": "85330",
+        "Ville": "nazeuil"
+    },
+    "Radaction": {
+        "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+        ],
+        "Temps passe a traiter le scenario": "3 minutes"
+    },
+    "Contribution": {
+        "Cecher les elemente de_Yetre centributien peur Je ecenarig treite": {
+            "Xl (6€)": "J'envoie mon courrier par voie postale a la date du #fooz",
+            "(+2€)": "Mon courrier contient une page de garde de fax.",
+            "(+1€)": "Avant mon envoi postal, Jai telecopie ma contribution le Joz.ot",
+            "(+16€)": "Jai envoye par courriel mon courrier numerise le"
+        }
+    },
+    "Marque et modele du scanner": {
+        "Marque": "BROTHER",
+        "Modele": "ncc 327"
+    },
+    "Format": [
+        "PNG",
+        "GIF",
+        "TIFF"
+    ],
+    "Resolution des images": "380 dpilppp"
 }

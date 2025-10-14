@@ -1,15 +1,16 @@
 {
-    "document": "Fax",
-    "scenario": "Demande d'information",
-    "writer": "BLOCH Genevieve",
-    "sender_person": "",
-    "sender_company": "¤{oséo bdpme\\nLorraine/OSEO bdpme}¤",
-    "sender_tel": "+33(0)3.83.67.46.74",
-    "sender_fax": "+33(0)3.83.67.46.70",
-    "receiver_person": "",
-    "receiver_company": "¤{France Telephone/SCRIBEO}¤",
-    "subject": "",
-    "date": "11/10/2006",
-    "place": "",
-    "box": ""
+    "company": {
+        "name": "OSEO bdpme SA",
+        "address": "27-31, Avenue du General Leclerc, 94710 Maisons-Alfort Cedex",
+        "contact": {
+            "tel": "01 41 79 80 00",
+            "fax": "01 41 79 80 01"
+        },
+        "registration": {
+            "capital": "377.230.064 euros",
+            "RCS": "320 252 489 RCS Creteil",
+            "code_APE": "652 C",
+            "TVA": "FR 27 320 252 489"
+        }
+    }
 }

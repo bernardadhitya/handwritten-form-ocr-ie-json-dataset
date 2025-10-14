@@ -1,33 +1,47 @@
 {
-    "Code d'envoi": "RWDFPB",
-    "Nom": "Rebours",
-    "Prénom": "Marie-Laure",
-    "Adresse": "13 rue du Stade",
-    "Code Postal": "57565",
-    "Ville": "¤Broudendorff¤",
-    "Téléphone": "0326566194",
-    "Catégorie Scénario": "Relance de courrier sans réponse",
-    "Objet Scénario": "mon changement de ¤{donées/données}¤ ¤{personelles/personnelles}¤ n'a pas\\nété pris en compte",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "ILQNM68",
-    "Interlocuteur": "Univers Sale Mobile",
-    "Adresse Interlocuteur": "Boulevard national",
-    "Code Postal Interlocuteur": "66600",
-    "Ville Interlocuteur": "Peyrestortes",
-    "Temps passé": "10",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "Rebac",
+                "Prenom": "_te_lale",
+                "Adresse": "13. (4& 4_ Sta.-e",
+                "Code postal": "Ls1ZSLGy]",
+                "Ville": "Rceu Jeadesll",
+                "Tel": "39"
+            },
+            "Scenario": {
+                "Categorie": "Rekuce . le Ceurcie Qela (epassr",
+                "Objet": "Ven_ ohas&euten Je ALonees pelsamvele 4a_ pu j6 e4 cem~-p",
+                "Complement": "aucyn",
+                "Reference client eventuelle": "I L 8",
+                "Interlocuteur": {
+                    "Oniecs": "&4l",
+                    "Adresse": "Baleras 4 nhcal",
+                    "Code postal": "[6L6L61019]",
+                    "Ville": "Gesteakas_"
+                },
+                "Redaction": {
+                    "Type de stylo (noir) utilise": [
+                        "bille",
+                        "plume",
+                        "feutre"
+                    ],
+                    "Temps passe a traiter le scenario": "(o minutes",
+                    "Contribution": {
+                        "(6e) J'envoie mon courrier par voie postale a la date du": true,
+                        "(+2e) Mon courrier contient une page de garde de fax": true,
+                        "(+1e) Avant mon envoi postal, j'ai telecopie ma contribution le": true,
+                        "(+1€) Jai envoye par courriel mon courrier numerise le": true
+                    },
+                    "Marque et modele du scanner": null,
+                    "Format": [
+                        "PNG",
+                        "GIF",
+                        "TIFF"
+                    ],
+                    "Resolution des images": "dpilppp"
+                }
+            }
+        }
+    }
 }

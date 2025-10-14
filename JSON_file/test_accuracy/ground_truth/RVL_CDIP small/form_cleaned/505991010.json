@@ -1,32 +1,34 @@
 {
-    "report_number": 292,
-    "date": "23-SEP-1986",
-    "material_tested": "FUEL SOURCES",
-    "supplier": "SSI",
-    "lot_or_sample_number": "500347887",
-    "quantity_received": 36086,
-    "date_received": "9-22-86",
-    "status": "ACCEPTED",
-    "rejected_reason": "Following physical/visual properties out of specifications: INNER AND OUTER WEBS OF OF SPECIFICATIONS. WEB RANGE .008 -.016 IN. SPECS. .006-.010 IN.",
-    "comments": "ACCEPTED FOR BOSCH MACHINE TESTING ONLY.",
-    "reference": "5C599",
-    "technologist": {
-        "name": "Kenneth W. Smith",
-        "title": "Technologist - QA",
-        "telephone": 6926
+    "Report": {
+        "Number": 292,
+        "Date": "23-SEP-1986"
     },
-    "company": "RJR",
-    "code": 1010,
-    "distribution": [
-        "Mr. Lucien L. Bass, III",
-        "Dr. L. H. O'Conner",
-        "SECRET",
-        "Mr. L. W. Peterson",
-        "Mr. W. B. Scantland",
-        "Ms. R. deLacy",
-        "ADDRESSEE ONLY",
-        "Mr. M. D. Shannon",
-        "No. 436 By Kh",
-        "Mr. R. L. McGee"
-    ]
+    "Material": {
+        "Tested": "FUEL SOURCES",
+        "Supplier": "SSI",
+        "Lot": "50034 7887",
+        "Quantity": "36,086",
+        "Date Received": "9-22-86"
+    },
+    "Physical/Visual Properties": {
+        "Specifications": "INNER AND OUTER WEBS OF SPECIFICATIONS",
+        "Web Range": "008-016 IN. (SPECS 006-010 IN.)",
+        "Comments": "ACCEPTED FOR BOSCH MACHINE TESTING ONLY"
+    },
+    "Technologist": {
+        "Name": "Kenneth Smith",
+        "Title": "QA Technologist",
+        "Telephone": "6926"
+    },
+    "Distribution": {
+        "Recipients": [
+            "Mr. Lucien Bass III",
+            "Mr. L.k O'Conner",
+            "Mr. L.u. Peterson",
+            "Mr. W.B. Scantland",
+            "Ms. deLacy",
+            "Mr. M.D. Shannon",
+            "Mr. R.L. McGee"
+        ]
+    }
 }

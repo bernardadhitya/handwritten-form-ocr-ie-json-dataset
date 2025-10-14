@@ -1,51 +1,31 @@
 {
-    "CigaretteDivisionQualityAssuranceForeignMatterEvaluationForm": {
-        "Section1": {
-            "ToBeCompletedBy": "Cigarette Division QA",
-            "QACentralLogNo": null,
-            "Requester": "REECE",
-            "ChargeNo": "0800",
-            "Location": "W",
-            "Signature": "DA",
-            "Brand": "WP BRANDS",
-            "DateDetected": "-9",
-            "TypeForeignMatter": "O",
-            "DateReported": null
+    "CIGARETTE DIVISION QUALITY ASSURANCE": {
+        "Foreign Matter Evaluation Form": {
+            "QA Central Log No": "92_93",
+            "Requester": "UNE Reeces",
+            "Charge No": "QB00",
+            "Location": "Signalure",
+            "Brand": "BLL",
+            "Date Detected": "QLL",
+            "Date Reported": "1L40_2Z"
         },
-        "Section2": {
-            "ToBeCompletedBy": "Applied Analytical Research Division, Applied R&D",
-            "AnalyticalMethodsEmployed": "FTIR",
-            "CompoundsIdentified": "Could not detect",
-            "SignatureAndDate": "noor 1-20-97"
+        "SECTION II": {
+            "Analytical Methods Employed": "MSDS Sheets used",
+            "Compounds Identified": "ZL LAddafau 21 Aia desL #4LALlL MLL e 4041 ALon",
+            "Signature and Date": "ZMer 7227@ 141+01"
         },
-        "Section3": {
-            "ToBeCompletedBy": "Scientific Affairs, Bio/Bio, R&D",
-            "Assessment": null,
-            "SignatureAndDate": null
+        "SECTION III": {
+            "Assessment": "Signature and Date"
         },
-        "Section4": {
-            "ToBeCompletedBy": "Manufacturing Practices Review Committee, Sec.",
-            "Additional": null,
-            "Ship": null,
-            "UseAsShorts": "G-7",
-            "Landfill": null,
-            "Other": null,
-            "TestingRequired": null,
-            "FollowDispositionInstructionsMemo": "L.S.Jordan",
-            "ApprovedByTheManufacturingPracticesReviewCommitteeOn": null,
-            "QADirectorSignatureAndDate": null,
-            "SignatureBrandManager": null,
-            "SignatureQACigtDivAndDate": null
+        "SECTION IV": {
+            "Additional": "Ship Use &s Shorts 6.7 Landlil Other Testing Required? Follow disposition Instructions memo S. Jordan dated",
+            "Approved by the Manufacturing Practices Review Committee on": "QA Director Signature and Date Signature Brand Manager Signature QA Cigt Div. Date"
         },
-        "Section5": {
-            "ToBeCompletedBy": "QC Mgr.",
-            "ActionTaken": null,
-            "SignatureAndDate": null
+        "SECTION V": {
+            "Action Taken": "Signature and Date"
         },
-        "Section6": {
-            "ToBeCompletedBy": "Plant Director",
-            "CorrectiveActionTaken": "51400 6834",
-            "SignatureAndDate": null
+        "SECTION VI": {
+            "Corrective Action Taken": "Signature and Date"
         }
     }
 }

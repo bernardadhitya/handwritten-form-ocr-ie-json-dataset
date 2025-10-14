@@ -1,33 +1,48 @@
 {
-    "Code d'envoi": "JSTCDW",
-    "Nom": "Boursier",
-    "Prénom": "Annick",
-    "Adresse": "6 rue de Biches",
-    "Code Postal": "67340",
-    "Ville": "Reipertswiller",
-    "Téléphone": "0351423313",
-    "Catégorie Scénario": "demande d'information",
-    "Objet Scénario": "Demande de documentation concernant\\nles contrats d'assurance",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "CFANN90",
-    "Interlocuteur": "naif assurances",
-    "Adresse Interlocuteur": "Avenue de la Marne",
-    "Code Postal Interlocuteur": "47520",
-    "Ville Interlocuteur": "Le Passage",
-    "Temps passé": "40",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "19 2 07",
-    "Option Page de garde de fax": "x",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "19 02 07",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "18 02 07",
-    "Résolution": "300",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "x",
-    "Marque et modèle scanner": "HPC 4100"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "16.UAALLA_",
+                "Prenom": "clx_",
+                "Adresse": "u.hes.",
+                "Code postal": "Ll2YLD",
+                "Ville": "RexhenEwilln",
+                "Tel": "3433333"
+            },
+            "Scenario": {
+                "Categorie": "cl_",
+                "Objet": "Deaaadc eL< de.eurzemLalaa-62neel:?y @etaak",
+                "U_aALfce": "Cuulz_",
+                "Complement": "CSLLS",
+                "Reference client eventuelle": "M",
+                "Interlocuteur": "AL4l",
+                "Adresse": "~MLLS el C Maxne",
+                "Code postal": "L152 1",
+                "Ville": "3e. 49",
+                "Redaction": {
+                    "Type de stylo (noir) utilise": [
+                        "bille",
+                        "plume",
+                        "feutre"
+                    ],
+                    "Temps passe a traiter le scenario": "Lv D. minutes."
+                },
+                "Contribution": {
+                    "Cocher les elements de_votre contribution pour le scenario_ traite": [
+                        "(6€) J'envoie mon courrier par voie postale a la date du 9",
+                        "(+2€) Mon courrier contient une page de garde de fax",
+                        "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le AS_az_br_",
+                        "(+1€) Jai envoye par courriel mon courrier numerise le _.E."
+                    ],
+                    "Marque et modele du scanner": "#_ E_C L_ae_",
+                    "Format": [
+                        "PNG",
+                        "GIF",
+                        "TIFF"
+                    ],
+                    "Resolution des images": "3-0..0. dpilppp ezanc les 4ax"
+                }
+            }
+        }
+    }
 }

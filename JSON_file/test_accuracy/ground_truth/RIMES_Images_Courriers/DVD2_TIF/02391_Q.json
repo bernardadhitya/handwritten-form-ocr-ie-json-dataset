@@ -1,33 +1,48 @@
 {
-    "Code d'envoi": "TZZAIY",
-    "Nom": "CARILIO",
-    "Prénom": "Christiane",
-    "Adresse": "2 rue du Tilleul",
-    "Code Postal": "64480",
-    "Ville": "FISLIS",
-    "Téléphone": "0319195407",
-    "Catégorie Scénario": "Demande d'informations",
-    "Objet Scénario": "demande de documentation concernant les\\ncontrats d'assurance habitation",
-    "Complément Scénario": "vous vous installez avec votre conjoint\\n",
-    "Référence client": "JLVTL54",
-    "Interlocuteur": "BAAF Assurances",
-    "Adresse Interlocuteur": "Place de la mairie",
-    "Code Postal Interlocuteur": "30290",
-    "Ville Interlocuteur": "ST VICTOR la COSTE",
-    "Temps passé": "",
-    "Stylo bille": "",
-    "Stylo plume": "",
-    "Stylo feutre": "x",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "26/01/07",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "26/01/07",
-    "Résolution": "150",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "x",
-    "Marque et modèle scanner": "CANON PIXMA MP170"
+    "Code d'envoi": {
+        "Questionnaire": 2,
+        "Identite fictive": {
+            "Nom": "CAkuo",
+            "Prenom": "Ckcishane",
+            "Adresse": "4q du_Tllel",
+            "Code postal": "L6144u8ol",
+            "Ville": "6sLis",
+            "Tel": 5
+        },
+        "Scenario": {
+            "Categorie": "Deanaad_d'Jamatiena",
+            "Objet": "dommando_de_doaymmeataliorLenonank_lsa_Centuts_d'_QpeuRa^__hellalon",
+            "Complement": "Joae. xS unttalls-axec_whecRreht.",
+            "Reference client eventuelle": "Vit LIsly",
+            "Interlocuteur": "Baaf",
+            "Aseuranfee": {
+                "Adresse": "Plac_&_la_laiae",
+                "Code postal": "[1o29ol",
+                "Ville": "St_W'ctoe_la_Cos TE"
+            }
+        },
+        "Redaction": {
+            "Type de stylo (noir) utilise": [
+                "bille",
+                "plume",
+                "feutre"
+            ],
+            "Temps passe a traiter le scenario": "minutes."
+        },
+        "Contribution": {
+            "Cocher les elements_de_votre contribution pour le_scenario traito": [
+                "(+2e) Jenvoie mon courrier par voie postale a la date du 26/o4-1.",
+                "(+2e) Mon courrier contient une page de garde de fax:",
+                "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                "(+1€) J'ai envoye par courriel mon courrier numerise le 26(o4lol"
+            ],
+            "Marque et modele du scanner": "CANON PlxaaIPAa.",
+            "Format": [
+                "PNG",
+                "GIF",
+                "VXTIFF"
+            ],
+            "Resolution des images": "~ASQ dpilppp"
+        }
+    }
 }

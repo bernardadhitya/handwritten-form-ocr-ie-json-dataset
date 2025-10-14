@@ -1,33 +1,37 @@
 {
-    "Code d'envoi": "GEYDCI",
-    "Nom": "MAIRE",
-    "Prénom": "Charlene",
-    "Adresse": "11b rue du Mal LYAUTEY",
-    "Code Postal": "55700",
-    "Ville": "STENAY",
-    "Téléphone": "0338874001",
-    "Catégorie Scénario": "Gestion de sinistre",
-    "Objet Scénario": "Vous souhaitez être couvert au titre de la\\nresponsabilité civile",
-    "Complément Scénario": "Vous avez brisé la porte vitrée d'un\\nmagasin en passant au travers",
-    "Référence client": "NVHFI49",
-    "Interlocuteur": "MANIF Assurances",
-    "Adresse Interlocuteur": "AU BOURG",
-    "Code Postal Interlocuteur": "26120",
-    "Ville Interlocuteur": "LA BAUME CORNILLANE",
-    "Temps passé": "40",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "lundi 2 avril 2007",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "Naire",
+                "Prenom": "Ckanlem&",
+                "Adresse": "A_b: m du. +sl_ L4auTey",
+                "Code postal": "LSLS1ZLael",
+                "Ville": "STENAY",
+                "Tel": "338"
+            },
+            "Scenario": {
+                "Categorie": "Gealti de Simzl",
+                "Objet": "SoL et cauleuE DA hlx_&ke Aqs. {oab:Lck ceul",
+                "Complement": "Lbua_ bae ttiee MASASlrv_ n laxsan a tiaveaa_",
+                "Reference client eventuelle": "F I a",
+                "Interlocuteur": "MANLE Assman c04",
+                "Adresse": "A4_ Gours",
+                "Code postal": "LSuL29",
+                "Ville": "LLA:- Ba4ce CRNiLlaQE_"
+            },
+            "Redaction": {
+                "Type de stylo (noir) utilise": "bille plume feutre",
+                "Temps passe a traiter le scenario": "40 minutes."
+            },
+            "Contribution": {
+                "Cocher les elements de_votre contrbution pour le scenaro traite": "(6e) J'envoie mon courrier par voie postale a la date du Amc_2_anil_?a?.",
+                "(+2€) Mon courrier contient une page de garde de fax": "",
+                "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le": "",
+                "(+1€) Jai envoye par courriel mon courrier numerise le": "",
+                "Marque et modele du scanner": "",
+                "Format": "PNG GIF TIFF",
+                "Resolution des images": "dpilppp ,oua bbz Qal aec-"
+            }
+        }
+    }
 }

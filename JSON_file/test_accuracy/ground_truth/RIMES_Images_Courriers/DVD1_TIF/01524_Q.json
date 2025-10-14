@@ -1,33 +1,43 @@
 {
-    "Code d'envoi": "NFGPBT",
-    "Nom": "ISRAEL",
-    "Prénom": "SOFIANE",
-    "Adresse": "43 RUE DE LA CHENEVIERE",
-    "Code Postal": "57320",
-    "Ville": "MENSKIRCH",
-    "Téléphone": "0303836000",
-    "Catégorie Scénario": "Relance de courrier sans réponse",
-    "Objet Scénario": "Votre changement de données personelles n'a pas\\nété pris en compte",
-    "Complément Scénario": "Aucun\\n",
-    "Référence client": "SDQGB82",
-    "Interlocuteur": "Mensuel \"Fleurs & Merguez\"",
-    "Adresse Interlocuteur": "BOURG CRUGUEL",
-    "Code Postal Interlocuteur": "56420",
-    "Ville Interlocuteur": "CRUGUEL",
-    "Temps passé": "20",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "18 décembre 2006",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "18 décembre 2006",
-    "Résolution": "300",
-    "Format PNG": "x",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "Hewlett-Packard - HP PSC 750"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "ZSCaEL",
+                "Prenom": "So€iAE",
+                "Adresse": "3. Rue_ @e_ LA_ CHENEMIERE",
+                "Code postal": "LS1kkLdso]",
+                "Ville": "DeNSK Kck:",
+                "Tel": "3 3 3"
+            },
+            "Scenario": {
+                "Categorie": "Qelance_ de COuraek_ Sau? ~epowoe",
+                "Objet Vote": "ek de donneea-pexqnellea.",
+                "Complement": "huum",
+                "Reference client eventuelle": "S 6",
+                "Interlocuteur": "_enuel Fers:",
+                "Adresse": "Baueo_CRyGkeL",
+                "Code postal": "L5,64420",
+                "Ville": "CeuGUcL",
+                "Redaction": {
+                    "Type de stylo (noir) utilise": [
+                        "bille",
+                        "plume",
+                        "feutre"
+                    ],
+                    "Temps passe a traiter le scenario": "2q_ minutes"
+                },
+                "Contribution": {
+                    "Cocher les elements_de_votre contrbution pour le_scenario traite": [
+                        "(6e) Jenvoie mon courrier par voie postale a la date du (&deceubre.9ox6_",
+                        "(+2€) Mon courrier contient une page de garde de fax:",
+                        "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                        "(+1€) J'ai envoye par courriel mon courrier numerise le IK_decewbte_%ee _"
+                    ],
+                    "Marque et modele du scanner": "Heull_ Qackad",
+                    "He_PscISo": "Format PNG GIF TIFF",
+                    "Resolution des images": "3oo. dpilppp chan?ewe Leuxple"
+                }
+            }
+        }
+    }
 }

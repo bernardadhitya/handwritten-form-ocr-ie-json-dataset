@@ -1,15 +1,20 @@
 {
-    "document": "Fax",
-    "scenario": "Modification de contrat / Commande",
-    "writer": "ANQUETIL Lise",
-    "sender_person": "",
-    "sender_company": "¤{CN\\nRS\\nCENTRE NATIONAL\\nDE LA RECHERCHE\\nSCIENTIFIQUE/Banque Société\\nGéniale/LABORATOIRE\\nI3S/LABORATOIRE D'INFORMATIQUE, SIGNAUX ET SYSTÈMES DE SOPHIA ANTIPOLIS/}¤",
-    "sender_tel": "+33(3)3.04.92.94.27",
-    "sender_fax": "+33(3)3.04.92.94.28",
-    "receiver_person": "Anquetil\\nLise",
-    "receiver_company": "",
-    "subject": "",
-    "date": "17/04/2007",
-    "place": "",
-    "box": ""
+    "LABORATOIRE": "LABORATOIRE D'INFORMATIQUE, SIGNAUX ET SYSTEMES DE SOPHIA ANTIPOLIS",
+    "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFQUE": "UNSA /CNRS",
+    "NUMERO DE TELECOPIE": "8234296490",
+    "NUMERO DE TELEPHONE": "(+33) 04 92 94 27 04",
+    "NUMERO DE REFERENCE EMETTEUR": "ordno",
+    "URGENT": true,
+    "POUR AVIS": true,
+    "CONFIDENTIEL": true,
+    "ADRESSE": {
+        "Batiment": "Euclide",
+        "Adresse": "2000 route des Lucioles",
+        "BP": "121",
+        "Ville": "06903 Sophia Antipolis Cedex"
+    },
+    "CONTACT": {
+        "Telecopie": "(+33) 04 92 94 28 98",
+        "Site Web": "http://www.i3s.unice.fr"
+    }
 }

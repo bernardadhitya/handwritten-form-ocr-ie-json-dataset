@@ -1,33 +1,45 @@
 {
-    "Code d'envoi": "CRCLFI",
-    "Nom": "DUBUISSON",
-    "Prénom": "Enzo",
-    "Adresse": "45 rue du Haut Bourg",
-    "Code Postal": "88100",
-    "Ville": "Neuvillers sur Fave",
-    "Téléphone": "0370351665",
-    "Catégorie Scénario": "Changement de données personnelles",
-    "Objet Scénario": "Nouvelle situation familiale\\n",
-    "Complément Scénario": "Vous venez d'avoir un enfant\\n",
-    "Référence client": "MMMVAJO",
-    "Interlocuteur": "ANPE - Agence Nationale pour l'Emploi",
-    "Adresse Interlocuteur": "Lieu dit le Bourg",
-    "Code Postal Interlocuteur": "33570",
-    "Ville Interlocuteur": "Montagne",
-    "Temps passé": "20",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "29/09/2006",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "29/09/2006",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "29/09/2006",
-    "Résolution": "300",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "x",
-    "Marque et modèle scanner": "Canon MP780"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "DLBLASSON",
+                "Prenom": "Emc",
+                "Adresse": "4S axue. cau",
+                "Code postal": "LEZ AOd",
+                "Ville": "Nes_Rlkens",
+                "Tel": "3"
+            },
+            "Scenario": {
+                "Categorie": "Che1 de Qeles",
+                "Objet": "Nanueele; Mlaskai cLaeLcx Ve",
+                "Complement": "LyA. ~e d @es:",
+                "Reference client eventuelle": "HdIm VIA S",
+                "Interlocuteur": "ANPE-Aqence_AJab_cule hanQ__Zit !ct:",
+                "Adresse": "Ll: ct 0",
+                "Code postal": "33S1310",
+                "Ville": "Afel Hcn. 4ne"
+            },
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "2.0 minutes",
+                "Contribution": {
+                    "(6e) J'envoie mon courrier par voie postale a la date du .29/.09.1.200.6.": "",
+                    "(+2e) Mon courrier contient une page de garde de fax": "",
+                    "(+1e) Avant mon envoi postal, j'ai telecopie ma contribution le .2.9/.04/.2006": "",
+                    "(+1e) Jai envoye par courriel mon courrier numerise le ~29.10.9/2.006.": ""
+                },
+                "Marque et modele du scanner": "Cawn HERZO",
+                "Format": [
+                    "PNG",
+                    "GIF",
+                    "TIFF"
+                ],
+                "Resolution des images": "300 dpilppp"
+            }
+        }
+    }
 }

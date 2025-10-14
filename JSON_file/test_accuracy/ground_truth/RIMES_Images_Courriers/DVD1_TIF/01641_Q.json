@@ -1,33 +1,46 @@
 {
-    "Code d'envoi": "UTHRVX",
-    "Nom": "PRUVOT",
-    "Prénom": "Eliane",
-    "Adresse": "69 rue du Fenouil Les Barjaquets",
-    "Code Postal": "13340",
-    "Ville": "ROGNAC",
-    "Téléphone": "0436134260",
-    "Catégorie Scénario": "Modification de contrat/commande",
-    "Objet Scénario": "Commande de trois paires de chaussettes (référence du\\nproduit : CH45-12)",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "BXNMO93",
-    "Interlocuteur": "Les 3 Suifs",
-    "Adresse Interlocuteur": "1 rue du Bas-Noyer",
-    "Code Postal Interlocuteur": "95610",
-    "Ville Interlocuteur": "ERAGNY-SUR-OISE",
-    "Temps passé": "5",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "",
-    "Option Page de garde de fax": "x",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "21.12.2006",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "x",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "Pruvot",
+                "Prenom": "leo",
+                "Adresse": "63 rve du Feno l leo Bajaguts",
+                "Code postal": "13121412",
+                "Ville": "ROGNAC",
+                "Tel": "332"
+            },
+            "Scenario": {
+                "Categorie": "Hedkcatew",
+                "d_Centat": "CoMim",
+                "Objet": "au4 _ d d2 claun & (ny. 4 du -Anedut C4ss_42): Qu cun",
+                "Complement": "Reference client eventuelle 6 M 933",
+                "Interlocuteur": {
+                    "Adresse": "A aue du Bas Noyer Eragny - Sue- 0i SE",
+                    "Code postal": "4516Le",
+                    "Ville": "Redaction"
+                },
+                "Type de stylo utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "S minutes.",
+                "Contribution": {
+                    "Cocher les elements de votre contribution pour le scenario traite": [
+                        "(6€) J'envoie mon courrier par voie postale a la date du",
+                        "(+2e) Mon courrier contient une page de garde de fax:",
+                        "(+1e) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                        "(+1e) Jai envoye par courriel mon courrier numerise le"
+                    ]
+                },
+                "Marque et modele du scanner": "24412 222k",
+                "Format": [
+                    "PNG",
+                    "GIF",
+                    "TIFF"
+                ],
+                "Resolution des images": "dpilppp eliak_ aucke Cowm: +oa #ee. 2ar_ 4x"
+            }
+        }
+    }
 }

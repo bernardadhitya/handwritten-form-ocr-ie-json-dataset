@@ -1,14 +1,8 @@
 {
-    "bank": "BANQUE",
-    "amount_in_words": "Eight Thousand Three Hundred and Eighty Nine",
-    "amount_in_numbers": 8381,
-    "payee": "Transoise Len",
-    "account_number": "1523600060070008545636-0000255",
-    "location": "Las Vegas",
-    "signature": "M. MARTIN",
-    "address": "123 RUE SPECIMEN, 75015 PARIS",
-    "cheque_number": "C000036",
-    "code": "090000",
-    "date": "L06.105/22",
-    "cheque_out_number": 88
+    "structured_information": {
+        "Bank": "BANQUE",
+        "Address": "123 RUE SPECIHEN, 75 015 Paris",
+        "Amount": "Eight_Thousand_Three Hundred",
+        "Signature": "Hzza"
+    }
 }

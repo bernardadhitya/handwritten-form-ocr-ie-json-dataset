@@ -1,33 +1,50 @@
 {
-    "Code d'envoi": "ZKIHIU",
-    "Nom": "LADET",
-    "Prénom": "Stéphanie",
-    "Adresse": "55 Grande Rue",
-    "Code Postal": "25430",
-    "Ville": "Sancey Le Long",
-    "Téléphone": "0388798589",
-    "Catégorie Scénario": "Difficulté de paiement",
-    "Objet Scénario": "Demande d'échelonnement\\n",
-    "Complément Scénario": "Le montant de votre facture est trop\\nélevé",
-    "Référence client": "BPPAS22",
-    "Interlocuteur": "BAAF Assurances",
-    "Adresse Interlocuteur": "Centre Commercial Montconseil",
-    "Code Postal Interlocuteur": "91100",
-    "Ville Interlocuteur": "Corbeil Essonnes",
-    "Temps passé": "15",
-    "Stylo bille": "",
-    "Stylo plume": "",
-    "Stylo feutre": "x",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "15/01/07",
-    "Option Page de garde de fax": "x",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "15/01/07",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": 7,
+        "Identite fictive": {
+            "Nom": "LADET",
+            "Prenom": "stphanie",
+            "Adresse": "Gnande_Rue_",
+            "Code postal": "[S4119",
+            "Ville": "Tel"
+        },
+        "Scenario": {
+            "Categorie": 31,
+            "Objet": "Demande_d_icheloonemen_",
+            "Complement": "Ke. Moalanl d_sm_}aebuna e alex",
+            "Reference client eventuelle": "ppAS22"
+        },
+        "Interlocuteur": {
+            "GAAF": {
+                "Assurance": "^",
+                "Adresse": "Cenlea Commeaaal Qonlcensel",
+                "Code postal": "@uedl",
+                "Ville": "Coabel"
+            }
+        },
+        "Redaction": {
+            "Type de stylo (noir) utilise": [
+                "bille",
+                "plume",
+                "feutre"
+            ],
+            "Temps passe & traiter le scenario": "AS minutes."
+        },
+        "Contribution": {
+            "Cocher les_elements_de_votre contribution pour le_scenario traite": {
+                "M (6€)": "Jenvoie mon courrier par voie postale a la date du ASIo4loz",
+                "M (+2€)": "Mon courrier contient une page de garde de fax",
+                "F (+1€)": "Avant mon envoi postal, j'ai telecopie ma contribution le Aslonlea",
+                "": "Jai envoye par courriel mon courrier numerise le",
+                "Marque et modele du scanner": {
+                    "Format": [
+                        "PNG",
+                        "GIF",
+                        "TIFF"
+                    ],
+                    "Resolution des images": "dpilppp 5S. Rooal Sancey Faemeak taap"
+                }
+            }
+        }
+    }
 }

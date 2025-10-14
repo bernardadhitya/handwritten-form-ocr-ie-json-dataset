@@ -1,15 +1,10 @@
 {
-    "document": "Lettre manuscrite",
-    "scenario": "Relance de courrier sans réponse",
-    "writer": "",
-    "sender_person": "Catherine ARNOULT",
-    "sender_company": "",
-    "sender_tel": "+33(0)3.36.59.93.12",
-    "sender_fax": "",
-    "receiver_person": "",
-    "receiver_company": "Univers Sale Mobile",
-    "subject": "Objet : Non prise en compte d'un changement de données personnelles\\nRéférence client : WLFWJ30",
-    "date": "02/02/2007",
-    "place": "Rimling",
-    "box": ""
+    "Name": "Catherine Arnoult",
+    "Address": {
+        "Street": "5 Grand rue",
+        "City": "Rinling",
+        "Postal Code": "57720"
+    },
+    "Phone": "03369393",
+    "Email": "catherine.arnoult@example.com"
 }

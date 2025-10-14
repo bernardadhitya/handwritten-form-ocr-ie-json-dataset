@@ -1,33 +1,45 @@
 {
-    "Code d'envoi": "RSQRRD",
-    "Nom": "Fery",
-    "Prénom": "Claudine",
-    "Adresse": "334 Rte de la Croix Blanche",
-    "Code Postal": "74330",
-    "Ville": "SILLINGY",
-    "Téléphone": "0489028619",
-    "Catégorie Scénario": "Gestion de ¤D¤inistre",
-    "Objet Scénario": "Je fa¤u¤appel à mon assurance\\nautomobile",
-    "Complément Scénario": "Je déclare avoir provoqué un\\naccident de la route et joins un constat",
-    "Référence client": "YHHOK81",
-    "Interlocuteur": "NAIF Assurances",
-    "Adresse Interlocuteur": "18, rue de Strasbourg",
-    "Code Postal Interlocuteur": "14240",
-    "Ville Interlocuteur": "CAUMONT L'EVENTE",
-    "Temps passé": "10",
-    "Stylo bille": "",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "23 Mars 2007",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "23 Mars 2007",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": "Questionnaire",
+    "Identite fictive": {
+        "Nom": "=24",
+        "Prenom": "CLAumNE",
+        "Adresse": "334_lL_~La",
+        "CA SR": "Bla+cq",
+        "Code postal": "[Z413130",
+        "Ville": "Giccia6s:",
+        "Tel": "8"
+    },
+    "Scenario": {
+        "Categorie": "Bezts~",
+        "Objet": "Q",
+        "Complement": "clae"
+    },
+    "Reference client eventuelle": "MHH",
+    "Interlocuteur": "_NAE",
+    "AgxunnNce": "Adresse 8 4CLQ sla Q TT",
+    "Qual_SX": "T",
+    "Code postal": "Llu2Ld",
+    "Ville": "CaueVI JCAIS",
+    "Redaction": {
+        "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+        ],
+        "Temps passe a traiter le scenario": "~ minutes."
+    },
+    "Contribution": {
+        "J'envoie mon courrier par voie postale a la date du 23Nark_Ys?": "(6€)",
+        "Mon courrier contient une page de garde de fax": "(+2€)",
+        "Avant mon envoi postal, j'ai telecopie ma contribution le 23 2q": "(+1€)",
+        "Jai envoye par courriel mon courrier numerise le": "(+1€)"
+    },
+    "Marque et modele du scanner": {
+        "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+        ],
+        "Resolution des images": "dpilppp"
+    }
 }

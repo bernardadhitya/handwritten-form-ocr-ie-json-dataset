@@ -1,33 +1,47 @@
 {
-    "Code d'envoi": "YIIVYF",
-    "Nom": "TESSIER",
-    "Prénom": "XAVIER",
-    "Adresse": "39, rue Maurice de Pange",
-    "Code Postal": "57530",
-    "Ville": "PANGE",
-    "Téléphone": "0341059160",
-    "Catégorie Scénario": "Gestion de sinistre",
-    "Objet Scénario": "Vous faites appel à votre assurance habitations\\n",
-    "Complément Scénario": "Votre toit a été endommagé par la chute d'un\\narbre",
-    "Référence client": "EJYVL22",
-    "Interlocuteur": "MANIF Assurances",
-    "Adresse Interlocuteur": "29 rue Nationale",
-    "Code Postal Interlocuteur": "36700",
-    "Ville Interlocuteur": "FLERE LA RIVIERE",
-    "Temps passé": "7",
-    "Stylo bille": "",
-    "Stylo plume": "",
-    "Stylo feutre": "x",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "07/03/2007",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "06/03/2007",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "06/03/2007",
-    "Résolution": "300",
-    "Format PNG": "x",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "HP Scanjet 6 300 C"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "TESsIER",
+                "Prenom": "AVLex",
+                "Adresse": "3 # De.e . Kawsce_ Jn 'Se",
+                "Code postal": "L518154312",
+                "Ville": "Rans",
+                "Tel": "35"
+            },
+            "Scenario": {
+                "Categorie": "Geateen & Mxyshe_",
+                "Objet": "~aus. Habz a__Ao ke QMQACkLS hskiIa t",
+                "Complement": "~Vale_keik 4&. eudotam.9,92 (m_ aslble",
+                "Reference client eventuelle": "E",
+                "Interlocuteur": "MANlE SSLakscea.",
+                "Adresse": "Iue Nafaens",
+                "Code postal": "[161tLop",
+                "Ville": "FLere _LA Gv."
+            },
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "minutes",
+                "Contribution": {
+                    "Cocher les elements de_votre contribution pour le scenario traite": [
+                        "(6e) J'envoie mon courrier par voie postale a la date du e_lo3.l.2ea3",
+                        "(+2e) Mon courrier contient une page de garde de fax",
+                        "Avant mon envoi postal, j'ai telecopie ma contribution le G6._L.e3L.zce:.",
+                        "(+1e) Jai envoye par courriel mon courrier numerise le Obl.oz. |Zoq.3"
+                    ],
+                    "Marque et modele du scanner": "hp",
+                    "Format": [
+                        "PNG",
+                        "GIF",
+                        "TIFF"
+                    ],
+                    "Resolution des images": "3CX_ dpilppp ~Hkl KeGe (+1e) 4Fet"
+                }
+            }
+        }
+    }
 }

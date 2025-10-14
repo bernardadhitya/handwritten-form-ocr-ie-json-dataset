@@ -1,14 +1,11 @@
 {
-    "document": "Lettre manuscrite",
-    "scenario": "Gestion de sinistre",
-    "writer": "WARGNIER Jordan",
-    "sender_person": "WARGNIER Jordan",
-    "sender_company": "",
-    "sender_tel": "+33(0)3.09.91.06.98",
-    "sender_fax": "",
-    "receiver_person": "",
-    "receiver_company": "NNA ASSURANCES",
-    "date": "",
-    "place": "",
-    "box": ""
+    "location": {
+        "city": "KlKi",
+        "street": "AVENVE n06 R*(N",
+        "postal_code": "66430"
+    },
+    "accident_details": {
+        "type": "car accident",
+        "description": "accidomt do Qa noute"
+    }
 }

@@ -1,33 +1,45 @@
 {
-    "Code d'envoi": "LLPSGG",
-    "Nom": "¤OTMANI¤",
-    "Prénom": "JEREMY",
-    "Adresse": "17 RUE DES AULNES",
-    "Code Postal": "67500",
-    "Ville": "BATZENDORF",
-    "Téléphone": "0394847543",
-    "Catégorie Scénario": "Difficulté de paiement",
-    "Objet Scénario": "Demande d'échelonnement\\n",
-    "Complément Scénario": "Le montant de votre facture est trop élevé\\n",
-    "Référence client": "NEUSQ01",
-    "Interlocuteur": "MANIF Assurances",
-    "Adresse Interlocuteur": "PL MAURICE SEGUNOS",
-    "Code Postal Interlocuteur": "60930",
-    "Ville Interlocuteur": "BAILLEUL SUR THERAIN",
-    "Temps passé": "25",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "17/04/07",
-    "Option Page de garde de fax": "x",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "17/04/07",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "QMni",
+                "Prenom": "EQEn_",
+                "Adresse": "AN. 0e4 CS AYLNE.",
+                "Code postal": "LGLLTLekel",
+                "Ville": "QAT.ZE+ARLE",
+                "Tel": "83"
+            },
+            "Scenario": {
+                "Categorie": "D{gclz_&k",
+                "Objet": "@dedelanene -|",
+                "Complement": "La Imakok_ake",
+                "Axe": "Aocbasne__sV_hxt_ebx_",
+                "Reference client eventuelle": "29",
+                "Interlocuteur": "XlA_ E. Asarcec",
+                "Adresse": "LIAc.0'4 SEGenes.",
+                "Code postal": "LeLgLsn)el",
+                "Ville": "A.i Llekl",
+                "Sel TlsAin": "Redaction",
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "20 minutes.",
+                "Contribution": {
+                    "Jenvoie mon courrier par voie postale a la date du ZAAl.e4(.ex": "(+6€)",
+                    "Mon courrier contient une page de garde de fax": "(+2€)",
+                    "Avant mon envoi postal, j'ai telecopie ma contribution le .Alokle]": "(+1€)",
+                    "Jai envoye par courriel mon courrier numerise le": "(+1€)"
+                },
+                "Marque et modele du scanner": "N/A",
+                "Format": [
+                    "PNG",
+                    "GIF",
+                    "TIFF"
+                ],
+                "Resolution des images": "dpilppp"
+            }
+        }
+    }
 }

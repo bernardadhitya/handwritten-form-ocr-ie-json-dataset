@@ -1,33 +1,45 @@
 {
-    "Code d'envoi": "ZRMSIE",
-    "Nom": "Brisset",
-    "Prénom": "ERIC",
-    "Adresse": "192 chemin du descaus ¤{inferieur/inférieur}¤",
-    "Code Postal": "06670",
-    "Ville": "Castagniers",
-    "Téléphone": "0462694233",
-    "Catégorie Scénario": "Modification de contrat/commande",
-    "Objet Scénario": "Augmentation (x2) des quantités de\\nchaussettes commandées",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "GDDFG89",
-    "Interlocuteur": "La Reboute",
-    "Adresse Interlocuteur": "18 Route des Alpes",
-    "Code Postal Interlocuteur": "04700",
-    "Ville Interlocuteur": "La Brillanne",
-    "Temps passé": "20",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "17/03/07",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "17/03/07",
-    "Résolution": "",
-    "Format PNG": "x",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "hp psc 1350"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "Gassek",
+                "Prenom": "Ces",
+                "Adresse": "chem.^ d. desccus o",
+                "Code postal": "bLG6ta",
+                "Ville": "CaS",
+                "Tel": "3"
+            },
+            "Scenario": {
+                "Categorie": "Hledhcahca de CC kak Lcemmande",
+                "Objet": "menkahca_Cx:Ldea_-quQualtes: de chacul_ReHes_ CC mcsadeleo",
+                "Complement": "CLucye",
+                "Reference client eventuelle": "Interlocuteur La Qeleca} Adresse Ak_acuke des_ Aepes",
+                "Code postal": "LaLutAd",
+                "Ville": "La-ReUanae",
+                "Redaction": {
+                    "Type de stylo (noir) utilise": [
+                        "bille",
+                        "plume",
+                        "feutre"
+                    ],
+                    "Temps passe a traiter le scenario": "minutes_"
+                },
+                "Contribution": {
+                    "Cocher les_elements_de_votre contribution pour le_scenario traite": [
+                        "(6e) J'envoie mon courrier par voie postale a la date du A1Lo3hc.",
+                        "(+2e) Mon courrier contient une page de garde de fax",
+                        "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                        "(+1€) Jai envoye par courriel mon courrier numerise le 41/03"
+                    ],
+                    "Marque et modele du scanner": "he PsS (3SQ_",
+                    "Format": [
+                        "PNG",
+                        "GIF",
+                        "TIFF"
+                    ],
+                    "Resolution des images": "dpilppp Geaeur (ay' ug"
+                }
+            }
+        }
+    }
 }

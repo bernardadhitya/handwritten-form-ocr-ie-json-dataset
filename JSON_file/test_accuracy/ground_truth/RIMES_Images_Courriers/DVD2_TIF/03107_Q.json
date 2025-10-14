@@ -1,33 +1,48 @@
 {
-    "Code d'envoi": "QHXNLG",
-    "Nom": "CAVALLI",
-    "Prénom": "DENISE",
-    "Adresse": "7 rue de la Chambre",
-    "Code Postal": "88700",
-    "Ville": "DOMPTAIL",
-    "Téléphone": "0343682629",
-    "Catégorie Scénario": "Modification de contrat / commande",
-    "Objet Scénario": "Augmentation (x2) des quantités\\nde chaussettes commandées",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "TETSQ49",
-    "Interlocuteur": "La Redoute",
-    "Adresse Interlocuteur": "2 place de la Mairie",
-    "Code Postal Interlocuteur": "51170",
-    "Ville Interlocuteur": "FAVEROLLES ET COEMY",
-    "Temps passé": "10",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "26/02/2007",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "26/02/2007",
-    "Résolution": "200",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "x",
-    "Marque et modèle scanner": "HP ScanJet"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "ALALLL",
+                "Prenom": "CNLSE",
+                "Adresse": "Ne-4 Chmber _",
+                "Code postal": "L818141219",
+                "Ville": "DetEIAIL",
+                "Tel": "33"
+            },
+            "Scenario": {
+                "Categorie": "2.4: La. Loa ce_ LRD ksLL_",
+                "Comanda": {
+                    "Objet": "Auine= a. kaLea: XZ_Xdea-4e Ghe--neltea.",
+                    "Complement": "Cxkk4",
+                    "Reference client eventuelle": "Interlocuteur La: Resecx",
+                    "Adresse": "LLase. dg_ le CleuLie",
+                    "Code postal": "L5144}Ld",
+                    "Ville": "EAYEReLEs EI_ CeEAX_"
+                },
+                "Redaction": {
+                    "Type de stylo (noir) utilise": [
+                        "bille",
+                        "plume",
+                        "feutre"
+                    ],
+                    "Temps passe a traiter le scenario": "1.0 minutes",
+                    "Contribution": {
+                        "Cocher les_elements de_votre contribution pour le_scenario traite": [
+                            "(6e) J'envoie mon courrier par voie postale a la date du 26.lez_Lzee",
+                            "(+2e) Mon courrier contient une page de garde de fax",
+                            "(+1e) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                            "(+1€) J'ai envoye par courriel mon courrier numerise le ZeLezLzeel"
+                        ]
+                    },
+                    "Marque et modele du scanner": "HP SseTes",
+                    "Format": [
+                        "PNG",
+                        "GIF",
+                        "TIFF"
+                    ],
+                    "Resolution des images": "200 dpilppp"
+                }
+            }
+        }
+    }
 }

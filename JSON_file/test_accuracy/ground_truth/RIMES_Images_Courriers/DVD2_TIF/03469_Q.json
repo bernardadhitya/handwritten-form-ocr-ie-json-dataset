@@ -1,33 +1,53 @@
 {
-    "Code d'envoi": "KAUAZD",
-    "Nom": "NEVEU",
-    "Prénom": "Adeline",
-    "Adresse": "3 rue du Meunier",
-    "Code Postal": "67520",
-    "Ville": "Kuttolsheim",
-    "Téléphone": "0374568754",
-    "Catégorie Scénario": "difficulté de paiement",
-    "Objet Scénario": "Demande d'échelonnement\\n",
-    "Complément Scénario": "Vous venez de perdre votre emploi.\\n",
-    "Référence client": "FAULP69",
-    "Interlocuteur": "NNA Assurances",
-    "Adresse Interlocuteur": "2 place de la Libération",
-    "Code Postal Interlocuteur": "76270",
-    "Ville Interlocuteur": "Neufchatel en buray",
-    "Temps passé": "30",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "12-03-07",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": "KAlA29",
+    "Questionnaire": {
+        "Identite fictive": {
+            "Nom": "NEeU",
+            "Prenom": "Adeline",
+            "Adresse": "3 ~ue du Meuncez",
+            "Code postal": "L6t52@",
+            "Ville": "KuHielshei",
+            "Tel": "8"
+        },
+        "Scenario": {
+            "Categorie de paiement": "~dlilkicuelte",
+            "Objet": "Demancle_d_echelonpemesE",
+            "Complement": "-ous ene3-cle ~pezdbe Yetx @",
+            "Reference client eventuelle": "FA6",
+            "Interlocuteur _NNA": {
+                "Assuances": {
+                    "Adresse": "poce_de Le Libezaticx",
+                    "Code postal": "L+62dl",
+                    "Ville": "Nexfchatel"
+                }
+            }
+        },
+        "Redaction": {
+            "Type de stylo (noir) utilise": [
+                "bille",
+                "plume",
+                "feutre"
+            ],
+            "Temps passe a traiter le scenaria": "minutes"
+        },
+        "Contribution": {
+            "Cocher les elements de_votre contribution pour le scenario traite": [
+                "(6e) Jenvoie mon courrier par voie postale a la date du .~4.2.33.e3",
+                "(+28) Mon courrier contient une page de garde de fax",
+                "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                "(+1€) Jai envoye par courriel mon courrier numerise le"
+            ],
+            "Marque et modele du scanner": null,
+            "Format": [
+                "PNG",
+                "GIF",
+                "TIFF"
+            ],
+            "Resolution des images": [
+                "dpilppp",
+                "-malcl",
+                "bxnny"
+            ]
+        }
+    }
 }

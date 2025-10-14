@@ -1,33 +1,47 @@
 {
-    "Code d'envoi": "OEEYYA",
-    "Nom": "MADELEINE",
-    "Prénom": "Amar",
-    "Adresse": "1 rue VAL de BAULIEU",
-    "Code Postal": "68210",
-    "Ville": "CHAVANNES sur L'ETANG",
-    "Téléphone": "0367036723",
-    "Catégorie Scénario": "Changement de ¤{donnés/données}¤ personnelles",
-    "Objet Scénario": "Nouvelle situation familiale\\n",
-    "Complément Scénario": "Vous divorcez\\n",
-    "Référence client": "DXIPA77",
-    "Interlocuteur": "ANPE Agence ¤{National/Nationale}¤ Pour l'EMPLOI",
-    "Adresse Interlocuteur": "rue du 8 MAI 1945",
-    "Code Postal Interlocuteur": "83140",
-    "Ville Interlocuteur": "SIX FOURS LES PLAGES",
-    "Temps passé": "12",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "25.10.2006",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "25.10.2006",
-    "Résolution": "300",
-    "Format PNG": "",
-    "Format GIF": "x",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "Canon Canoscan lide 20"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "NAOELEINE",
+                "Prenom": "M.c",
+                "Adresse": "Au&. VL_de_BA VLLEu",
+                "Code postal": "Lo {Llo",
+                "Ville": "CHAVANNES_SnL EIANG",
+                "Tel": "1 2"
+            },
+            "Scenario": {
+                "Categorie": "lAaMe dedonnes-#even-ely",
+                "Objet": "N Aituddcn-{amLalx",
+                "Complement": "Vows_diax",
+                "Reference client eventuelle": "T",
+                "Interlocuteur": "4NPF Agg Nlig_bw.2'EALe_",
+                "Adresse": "Ak_de_B_HAt 1945",
+                "Code postal": "[z144o",
+                "Ville": "Sux_Fqves_les_PLAGEC"
+            },
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "42 minutes."
+            },
+            "Contribution": {
+                "Cocher les elements de_votre contribution pour le_scenario traite": [
+                    "(6e) Jenvoie mon courrier par voie postale a la date du._25.1Q. 8 2e0k.",
+                    "(+2e) Mon courrier contient une page de garde de fax:",
+                    "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                    "(+1€) Jai envoye par courriel mon courrier numerise le 2S_A:ool"
+                ],
+                "Marque et modele du scanner": "Camom Caoscalide_Lo",
+                "Format": [
+                    "PNG",
+                    "GIF",
+                    "TIFF"
+                ],
+                "Resolution des images": "3.00. dpilppp oxdlle g"
+            }
+        }
+    }
 }

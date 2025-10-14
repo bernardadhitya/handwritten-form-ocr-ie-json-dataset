@@ -1,33 +1,45 @@
 {
-    "Code d'envoi": "ZTIOLK",
-    "Nom": "Bourgeon",
-    "Prénom": "Alexandra",
-    "Adresse": "20 rue Pasteur",
-    "Code Postal": "54150",
-    "Ville": "Noiray le Sec",
-    "Téléphone": "0373419656",
-    "Catégorie Scénario": "Ouverture de compte",
-    "Objet Scénario": "Vous souhaitez vous abonner\\n",
-    "Complément Scénario": "vous avez d'avantage de temps pour vos loisirs\\n",
-    "Référence client": "",
-    "Interlocuteur": "Bimestriel \"Charité Bushido\"",
-    "Adresse Interlocuteur": "Place du champ de foire",
-    "Code Postal Interlocuteur": "79170",
-    "Ville Interlocuteur": "Brioux sur ¤Boutonne¤",
-    "Temps passé": "20",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "21 ¤{Decembre/Décembre}¤ 2006",
-    "Option Page de garde de fax": "x",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "21 Décembre 2006",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "20 Décembre 2006",
-    "Résolution": "300",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "x",
-    "Marque et modèle scanner": "Canon MP 80"
+    "Code d'envoi": {
+        "Questionnaire": 2,
+        "Identite fictive": {
+            "Nom": "Saxrgecn",
+            "Prenom": "cblexon",
+            "Adresse": "R0_ 74e_Raoteux",
+            "Code postal": "54u459",
+            "Ville": "sKasxct _ fe._",
+            "Tel": "3 5"
+        },
+        "Scenario": {
+            "Categorie": "Quueebve _ Ae_Samtte",
+            "Objet": "Uax._ ~baloiteb\" 2946.. eh0nner",
+            "Complement": "29 . Qlao de--ermp . Pxn _ Vc_ Qaesto.",
+            "Reference client eventuelle": "Interlocuteur Sinenliee_ Botle_ Saushude",
+            "Adresse": "Slose _ du. ckamp_sa {aze.",
+            "Code postal": "Ld9LLdol",
+            "Ville": "Bxicx 2 Boene_"
+        },
+        "Redaction": {
+            "Type de stylo (noir) utilise": [
+                "bille",
+                "plume",
+                "feutre"
+            ],
+            "Temps passe a traiter le scenario": "90 minutes.",
+            "Contribution": {
+                "Cocher les elements de_votre contribution pour le scenaro traite": [
+                    "(6€) J'envoie mon courrier par voie postale a la date du 24_ Pecenbe",
+                    "(+2€) Mon courrier contient une page de garde de fax",
+                    "(+1€) Avant mon envoi postal, jai telecopie ma contribution le .9._Bcenbae .2c4G",
+                    "(+1€) J'ai envoye par courriel mon courrier numerise le _ R0_ ~Decerakte_2clk_"
+                ]
+            },
+            "Marque et modele du scanner": "Gna . He Zo.",
+            "Format": [
+                "PNG",
+                "GIF",
+                "TIFF"
+            ],
+            "Resolution des images": "300. dpilppp Ltasx _ 4123"
+        }
+    }
 }

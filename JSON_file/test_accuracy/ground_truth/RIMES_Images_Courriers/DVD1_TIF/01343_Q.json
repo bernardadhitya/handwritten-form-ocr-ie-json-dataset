@@ -1,33 +1,41 @@
 {
-    "Code d'envoi": "CKFVYP",
-    "Nom": "BADGE",
-    "Prénom": "ARLETTE",
-    "Adresse": "31 rue d'¤Hwiwiller¤",
-    "Code Postal": "67110",
-    "Ville": "Zins willer",
-    "Téléphone": "0358098958",
-    "Catégorie Scénario": "Changement de données personnelles",
-    "Objet Scénario": "Nouvelles coordonnées bancaires\\n",
-    "Complément Scénario": "Changement de banque\\n",
-    "Référence client": "PTCHG40",
-    "Interlocuteur": "CPAM",
-    "Adresse Interlocuteur": "Place Paul Stephan Ploare",
-    "Code Postal Interlocuteur": "29100",
-    "Ville Interlocuteur": "Douarnenez",
-    "Temps passé": "15",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "11/12/06",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "GARC E",
+                "Prenom": "ARLEI",
+                "Adresse": "3.4_81440.d.__4.4_3wlo",
+                "Code postal": "L6Lk14LLeJ",
+                "Ville": "Zun.s_Ullaz",
+                "Tel": ""
+            },
+            "Scenario": {
+                "Categorie": "ChangeAnE_de_delnees_Peronnellas",
+                "Objet": "_Nexxelles_coxadenna__S.CencDOQ",
+                "Complement": "ChangemenE_cle .",
+                "LamqUo": "",
+                "Reference client eventuelle": "",
+                "Interlocuteur": "C444._",
+                "Adresse": "Plese_. fosl. Sleehan-Ileas",
+                "Code postal": "L8ALOol",
+                "Ville": "Muoane nex"
+            },
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "45 minutes",
+                "Contribution": {
+                    "Cocher les_elements de_votre contribution pour le_scenario traite": [
+                        "(6e) J'envoie mon courrier par voie postale a la date du 4414?LQG.",
+                        "(+2e) Mon courrier contient une page de garde de fax:",
+                        "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                        "(+1€) J'ai envoye par courriel mon courrier numerise le"
+                    ]
+                }
+            }
+        }
+    }
 }

@@ -1,33 +1,47 @@
 {
-    "Code d'envoi": "QDFBIH",
-    "Nom": "GARET",
-    "Prénom": "Léon",
-    "Adresse": "64 Rue Paquot",
-    "Code Postal": "55170",
-    "Ville": "Ancerville",
-    "Téléphone": "0306776513",
-    "Catégorie Scénario": "Changement de données personnelles",
-    "Objet Scénario": "Nouvelle situation familiale\\n",
-    "Complément Scénario": "Vous vous mariez\\n",
-    "Référence client": "LMDRZ26",
-    "Interlocuteur": "NAIF Assurances",
-    "Adresse Interlocuteur": "7 Rue Gaston Tomain",
-    "Code Postal Interlocuteur": "28140",
-    "Ville Interlocuteur": "Terminiers",
-    "Temps passé": "5",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "30-mars 07",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "29-mars-07",
-    "Résolution": "250",
-    "Format PNG": "",
-    "Format GIF": "x",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "BROTHER DCP - 340 CW"
+    "Code d'envoi": "Questionnaire",
+    "Identite fictive": {
+        "Nom": "GArEZ",
+        "Prenom": "an",
+        "Adresse": "Ale",
+        "Code postal": "LsLLAZsol",
+        "Ville": "A_neec+",
+        "Tel": "IRa"
+    },
+    "Scenario": {
+        "Categorie": "eerKol&_Asee",
+        "Objet": "Meere_Aslokz:ta_",
+        "Complement": "fa+~fial",
+        "Reference client eventuelle": "26",
+        "Interlocuteur": "KALE",
+        "Assueheea": {
+            "Adresse": "Re_Akex Samelis-",
+            "Code postal": "LSulhuol",
+            "Ville": "@exmi-terA"
+        },
+        "Redaction": {
+            "Type de stylo (noir) utilise": [
+                "bille",
+                "plume",
+                "feutre"
+            ],
+            "Temps passe a traiter le scenario": "minutes"
+        },
+        "Contribution": {
+            "Cocher les elements de_votre contribution pour le scenario traite": [
+                "(6€) Jenvoie mon courrier par voie postale & la date du",
+                "(+2e) Mon courrier contient une page de garde de fax",
+                "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                "(+1€) Jai envoye par courriel mon courrier numerise le"
+            ],
+            "Marque et modele du scanner": "BReIHsA_DAEL3AAGkV_",
+            "Format": [
+                "PNG",
+                "GIF",
+                "TIFF"
+            ],
+            "Resolution des images": "224o dpilppp",
+            "Claxe": "ULL"
+        }
+    }
 }

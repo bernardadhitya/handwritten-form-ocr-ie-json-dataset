@@ -1,33 +1,51 @@
 {
-    "Code d'envoi": "BLELOV",
-    "Nom": "ABID",
-    "Prénom": "Josette",
-    "Adresse": "231 Rue du Grand Jardin",
-    "Code Postal": "54330",
-    "Ville": "THELOD",
-    "Téléphone": "0349156545",
-    "Catégorie Scénario": "relance de courrier sans réponse",
-    "Objet Scénario": "Demande d'information du mois dernier\\nest restée sans effet.",
-    "Complément Scénario": "Aucun\\n",
-    "Référence client": "PZLMA19",
-    "Interlocuteur": "Sépa FR Téléphonie",
-    "Adresse Interlocuteur": "Le Bourg",
-    "Code Postal Interlocuteur": "16120",
-    "Ville Interlocuteur": "St Simon",
-    "Temps passé": "10",
-    "Stylo bille": "",
-    "Stylo plume": "",
-    "Stylo feutre": "x",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "BIE": {
+                "Identite fictive": {
+                    "Nom": "ABi^",
+                    "Prenom": null,
+                    "Adresse": "3.A_RRue-clu_Gaud",
+                    "Code postal": "L5LLLB13ol",
+                    "Ville": "HELob",
+                    "Tel": "3"
+                }
+            },
+            "Scenario": {
+                "Categorie": "_Alane& de_Callaiet -Aaus-Aqhuuwae_",
+                "Objet": "Denande_ol'inkcuueHanaluhna_cukkat estA_tee_palla",
+                "Complement": "Axssln",
+                "Reference client eventuelle": "p",
+                "Interlocuteur": "Sete ER_",
+                "Hele(henia": {
+                    "Adresse": "da_",
+                    "Code postal": "L6il",
+                    "Ville": "mon"
+                }
+            },
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "Q minutes",
+                "Contribution": {
+                    "Cocher les_elements de_votre contribution pour le_scenario traite": [
+                        "(6e) Jenvoie mon courrier par voie postale a la date du",
+                        "(+2e) Mon courrier contient une page de garde de fax:",
+                        "(+1e) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                        "(+1e) J'ai envoye par courriel mon ccurrier numerise le"
+                    ],
+                    "Marque et modele du scanner": null,
+                    "Format": [
+                        "PNG",
+                        "GIF",
+                        "TIFF"
+                    ],
+                    "Resolution des images": "dpilppp LPo4r-"
+                }
+            }
+        }
+    }
 }

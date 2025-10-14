@@ -1,33 +1,45 @@
 {
-    "Code d'envoi": "MPKXZW",
-    "Nom": "Odile",
-    "Prénom": "LAFFONT",
-    "Adresse": "80 route de Rapaumont",
-    "Code Postal": "88340",
-    "Ville": "Le Val d'Ajol",
-    "Téléphone": "0316425938",
-    "Catégorie Scénario": "Changement de données personnelles",
-    "Objet Scénario": "Nouvelles coordonnées postales\\n",
-    "Complément Scénario": "Vous vous installez avec votre conjoint\\n",
-    "Référence client": "XDRTJ28",
-    "Interlocuteur": "Bimestriel \"Charité Bushido\"",
-    "Adresse Interlocuteur": "9 rue de la Mairie",
-    "Code Postal Interlocuteur": "01200",
-    "Ville Interlocuteur": "BILLIAT",
-    "Temps passé": "10",
-    "Stylo bille": "",
-    "Stylo plume": "x",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "29.01.07",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": 2,
+        "Identite fictive": {
+            "Nom": "Ode",
+            "Prenom": "ZAFFen_",
+            "Adresse": "RQ ceske de (aPsma",
+            "Code postal": "8,kglel",
+            "Ville": "~Val_d_AjeL",
+            "Tel": 33
+        },
+        "Scenario": {
+            "Categorie": "s",
+            "Objet": "Nexelles Coe{sQiNco. Rosheles",
+            "Complement": "Oxs..Urls inskllas",
+            "Vol": "ke: CMA =",
+            "Reference client eventuelle": "",
+            "Interlocuteur": "Dyimeshel Chaszke . Buxkide",
+            "Adresse": "Te. Jlaiie",
+            "Code postal": "[OL4LXL21e]",
+            "Ville": "Billial"
+        },
+        "Redaction": {
+            "Type de stylo (noir) utilise": [
+                "bille",
+                "plume",
+                "feutre"
+            ],
+            "Temps passe a traiter le scenario": "minutes",
+            "Contribution": {
+                "J'envoie mon courrier par voie postale a la date du 25..0.4.": 6,
+                "Mon courrier contient une page de garde de fax": 2,
+                "Avant mon envoi postal, j'ai telecopie ma contribution le": 1,
+                "J'ai envoye par courriel mon courrier numerise le": 1
+            },
+            "Marque et modele du scanner": "",
+            "Format": [
+                "PNG",
+                "GIF",
+                "TIFF"
+            ],
+            "Resolution des images": "dpilppp"
+        }
+    }
 }

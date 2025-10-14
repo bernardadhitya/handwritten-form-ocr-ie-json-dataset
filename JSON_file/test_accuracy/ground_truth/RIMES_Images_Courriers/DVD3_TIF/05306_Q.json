@@ -1,33 +1,47 @@
 {
-    "Code d'envoi": "BNEMIF",
-    "Nom": "ROGUET",
-    "Prénom": "Daniel",
-    "Adresse": "9 rue Jean Jaurès",
-    "Code Postal": "83890",
-    "Ville": "Besse sur Isole",
-    "Téléphone": "0470232795",
-    "Catégorie Scénario": "Difficulté de paiement",
-    "Objet Scénario": "Demande d'échelonnement\\n",
-    "Complément Scénario": "Vous venez de perdre votre emploi\\n",
-    "Référence client": "VPFAX21",
-    "Interlocuteur": "Banque Société Géniale",
-    "Adresse Interlocuteur": "RN193",
-    "Code Postal Interlocuteur": "20213",
-    "Ville Interlocuteur": "Penta di Casinca",
-    "Temps passé": "21",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "24 avril 2007",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "24 avril 2007",
-    "Résolution": "200",
-    "Format PNG": "x",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "Epson Stylus Scan 2000"
+    "Code d'envoi": 7,
+    "Questionnaire": "BJNem",
+    "Identite fictive": {
+        "Nom": "RGUET",
+        "Prenom": "Daniel_",
+        "Adresse": "9.e_ ea",
+        "Code postal": "843418190",
+        "Ville": "Rese Sur_Iscle",
+        "Tel": "29/5"
+    },
+    "Scenario": {
+        "Categorie": "Dffalle_&k_feiergL",
+        "Objet": "eande_ dlechelameienk",
+        "Complement": "_Vaus .erc &_pxde_ake",
+        "Reference client eventuelle": "P",
+        "Interlocuteur": "Sasiele_Seniale",
+        "Adresse": "RNgR",
+        "Code postal": "[2102LLi]",
+        "Ville": "Rzntadi_Casica"
+    },
+    "Redaction": {
+        "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+        ],
+        "Temps passe a traiter le scenario": "21 minutes."
+    },
+    "Contribution": {
+        "Elements de contribution": {
+            "(6€) Jenvoie mon courrier par voie postale a la date du": "2.Ail ?cl_",
+            "(+2€) Mon courrier contient une page de garde de fax": null,
+            "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+            "(+1€) Jai envoye par courriel mon courrier numerise le": "2 ."
+        }
+    },
+    "QacQ": {
+        "Marque et modele du scanner": "~Pon_Stycs_Scan",
+        "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+        ],
+        "Resolution des images": "24 dpilppp"
+    }
 }

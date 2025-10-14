@@ -1,33 +1,41 @@
 {
-    "Code d'envoi": "GBKEHK",
-    "Nom": "Alba",
-    "Prénom": "Françoise",
-    "Adresse": "5 Bis rue HOHL",
-    "Code Postal": "67290",
-    "Ville": "ROSTEIG",
-    "Téléphone": "0394578912",
-    "Catégorie Scénario": "demande d'information",
-    "Objet Scénario": "demande de documentation contrat d'assurance vie\\n",
-    "Complément Scénario": "vous venez d'avoir un enfant\\n",
-    "Référence client": "LKRQO52",
-    "Interlocuteur": "MANIF Assurances",
-    "Adresse Interlocuteur": "Place Benjamin Gaillard",
-    "Code Postal Interlocuteur": "83240",
-    "Ville Interlocuteur": "CAVALAIRE SUR MER",
-    "Temps passé": "26",
-    "Stylo bille": "",
-    "Stylo plume": "",
-    "Stylo feutre": "x",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "26 mars 2007",
-    "Option Page de garde de fax": "x",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": 8,
+        "Identite fictive": {
+            "Nom": "ALba",
+            "Prenom": "22",
+            "Adresse": "S As (Je AL",
+            "Code postal": "[62adl",
+            "Ville": "RaSTEiG",
+            "Tel": "3 $S } 8 1 2"
+        },
+        "Scenario": {
+            "Categorie": "deman de . dlkocmatra",
+            "Objet": "demande k:dowmentatio contrat_ d'AsSvrance_ vie",
+            "Complement": "Vous ~ened avc Va eaaat",
+            "Reference client eventuelle": "K S 2",
+            "Interlocuteur": "MA E (mvrances",
+            "Adresse": "Placs_Besjamin QJa: llacd.",
+            "Code postal": "L81312140l",
+            "Ville": "cAvalaike Svr__MER",
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "2.6 minutes."
+            }
+        },
+        "Contribution": {
+            "Cocher les elements de votre contribution pour le scenario traite": [
+                "7(6e) Jenvoie mon courrier par voie postale a la date du",
+                "(+2e) Mon courrier contient une page de garde de fax:",
+                "(+1e) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                "(+1€) J'ai envoye par courriel mon courrier numerise le"
+            ],
+            "Marque et modele du scanner": "Format PNG GIF TIFF",
+            "Resolution des images": "dpilppp faascoi HO"
+        }
+    }
 }

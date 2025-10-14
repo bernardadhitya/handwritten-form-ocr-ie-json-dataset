@@ -1,15 +1,17 @@
 {
-    "document": "Lettre manuscrite",
-    "scenario": "Modification de contrat / Commande",
-    "writer": "LAFAYE Elisabeth",
-    "sender_person": "LAFAYE Elisabeth",
-    "sender_company": "",
-    "sender_tel": "+33(0)2.87.67.33.39",
-    "sender_fax": "",
-    "receiver_person": "",
-    "receiver_company": "Les 3 Suifs",
-    "subject": "Objet : Augmentation (x2) des quantités de CD vierges commandées",
-    "date": "",
-    "place": "",
-    "box": ""
+    "First Name": "Elisabeth",
+    "Last Name": "LaFAYE",
+    "Address": {
+        "Street": "6 Rue DE SYRACUSE",
+        "City": "CHOLET",
+        "Postal Code": "49300"
+    },
+    "Phone Number": "01 . 37. 64 33.39",
+    "Email": "Okjee",
+    "Order Details": {
+        "Product": "CD V",
+        "Quantity": 500,
+        "Modification": "Augmentation (x2)",
+        "Date": "5 December 2006"
+    }
 }

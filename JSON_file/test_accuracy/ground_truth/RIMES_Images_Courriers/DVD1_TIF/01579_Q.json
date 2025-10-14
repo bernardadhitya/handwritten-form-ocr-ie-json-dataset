@@ -1,33 +1,46 @@
 {
-    "Code d'envoi": "FSZIRE",
-    "Nom": "FRANCK",
-    "Prénom": "GAUDRY",
-    "Adresse": "80, Grand Rue",
-    "Code Postal": "68130",
-    "Ville": "WALHEIM",
-    "Téléphone": "0388849823",
-    "Catégorie Scénario": "Réclamation",
-    "Objet Scénario": "Vous vous plaignez de nuisances sonores\\n",
-    "Complément Scénario": "Le chien de votre voisin est trop bruyant\\n",
-    "Référence client": "",
-    "Interlocuteur": "Police Nationale",
-    "Adresse Interlocuteur": "RN 91",
-    "Code Postal Interlocuteur": "38142",
-    "Ville Interlocuteur": "Le Freney d'Oisans",
-    "Temps passé": "30",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "13 décembre 2006",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": 2,
+        "Identite fictive": {
+            "Nom": "FRANcK",
+            "Prenom": "GAuney",
+            "Adresse": "Rae",
+            "Code postal": "Li44",
+            "Ville": "WALHEIM",
+            "Tel": "38822"
+        },
+        "Scenario": {
+            "Categorie": "eclanako",
+            "Objet": "Veua",
+            "Vocu": "Pastes & ~Ausatce^ aneleA",
+            "Complement": "Le__clien-cl_efe",
+            "Reference client eventuelle": "Interlocuteur Pkice_Na-Esnat",
+            "Adresse": "0n.94.",
+            "Code postal": "L&uulu2l",
+            "Ville": "Le_fcecey"
+        },
+        "Redaction": {
+            "Type de stylo (noir) utilise": [
+                "bille",
+                "plume",
+                "feutre"
+            ],
+            "Temps passe a traiter le scenario": "minutes"
+        },
+        "Contribution": {
+            "Cocher les_elements de_votre contribution pour le_scenario traite": {
+                "(6€) J'envoie mon courrier par voie postale a la date du Az.decent 2oos.": true,
+                "(+2e) Mon courrier contient une page de garde de fax": true,
+                "(+1e) Avant mon envoi postal, j'ai telecopie ma contribution le": true,
+                "(+1€) J'ai envoye par courriel mon courrier numerise le": true
+            },
+            "Marque et modele du scanner": null,
+            "Format": [
+                "PNG",
+                "GIF",
+                "TIFF"
+            ],
+            "Resolution des images": "dpilppp Qav bfe"
+        }
+    }
 }

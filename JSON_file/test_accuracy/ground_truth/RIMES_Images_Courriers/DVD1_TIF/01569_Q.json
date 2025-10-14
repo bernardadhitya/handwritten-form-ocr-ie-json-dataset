@@ -1,33 +1,42 @@
 {
-    "Code d'envoi": "WHNWGI",
-    "Nom": "CHESNEL",
-    "Prénom": "Delphine",
-    "Adresse": "31 rue de Champagne",
-    "Code Postal": "54750",
-    "Ville": "TRIEUX",
-    "Téléphone": "0351702592",
-    "Catégorie Scénario": "Demande d'information",
-    "Objet Scénario": "Demande de ¤{precisions/précisions}¤sur ma dernière\\nfacture",
-    "Complément Scénario": "Vous êtes insatisfait(e) du service\\n",
-    "Référence client": "NAPDT36",
-    "Interlocuteur": "Banque société géniale",
-    "Adresse Interlocuteur": "LE BOURG",
-    "Code Postal Interlocuteur": "76890",
-    "Ville Interlocuteur": "St Ouen du Breuil",
-    "Temps passé": "15",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "25/12/2006",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "21/12/2006",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "20/12/06",
-    "Résolution": "300",
-    "Format PNG": "x",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "EPSON Stylus Perfection 1250"
+    "Code d'envoi": "HNI",
+    "Questionnaire": {
+        "Identite fictive": {
+            "Nom": "CHESAEL",
+            "Prenom": "~Zelphua",
+            "Adresse": "31 AUL Champagnx",
+            "Code postal": "54850",
+            "Ville": "@ix",
+            "Tel": "Scenario"
+        },
+        "Categorie": "Demands",
+        "Objet": "Demanse . de_ ~ULbteMo_Sul Ja cqanlaaa _ \"SacEuua.",
+        "Complement": "UD Ztex. \"AnSa tsSatle)&kut: AAUice",
+        "Reference client eventuelle": "Alplbt",
+        "Interlocuteur": "Bamn quu_soLiate . Aeniala",
+        "Adresse": "PeuRg",
+        "Code postal": "6890",
+        "Ville": "St Leg-du_BreuL",
+        "Redaction": {
+            "Type de stylo (noir) utilise": [
+                "bille",
+                "plume",
+                "feutre"
+            ],
+            "Temps passe a traiter le scenario": "Is_ minutes."
+        },
+        "Contribution": {
+            "IA (6e)": "Jenvoie mon courrier par voie postale a la date du RSigzoaf",
+            "0(+2e)": "Mon courrier contient une page de garde de fax",
+            "Er+1e": "Avant mon envoi postal; jai telecopie ma contribution le .2.4/.+la6.",
+            "+1€": "Jai envoye par courriel mon courrier numerise le 8o4.124o.6",
+            "Marque et modele du scanner": "EeSon StylusRkchog-/?8",
+            "Format": [
+                "PNG",
+                "GIF",
+                "TIFF"
+            ],
+            "Resolution des images": "3aa dpilppp"
+        }
+    }
 }

@@ -1,33 +1,51 @@
 {
-    "Code d'envoi": "XPFHXK",
-    "Nom": "CONSTANT",
-    "Prénom": "Sylvie",
-    "Adresse": "14 rue de la Forêt",
-    "Code Postal": "57990",
-    "Ville": "IPPLING",
-    "Téléphone": "0347824416",
-    "Catégorie Scénario": "Fermeture de Compte",
-    "Objet Scénario": "Résiliation d'Assurance auto\\n",
-    "Complément Scénario": "vous vendez votre véhicule\\n",
-    "Référence client": "NDCPH75",
-    "Interlocuteur": "NNA Assurances",
-    "Adresse Interlocuteur": "10 rue Irène et Frédéric Joliot Curie",
-    "Code Postal Interlocuteur": "01200",
-    "Ville Interlocuteur": "BELLEGARDE SUR VALSERINE",
-    "Temps passé": "15",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "29/03/07",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "CanSIANI",
+                "Prenom": "SyLyie"
+            },
+            "Adresse": {
+                "Numero": "40",
+                "Rue": "Exszt",
+                "Code postal": "S19gudl",
+                "Ville": "IALLING"
+            },
+            "Tel": "86"
+        },
+        "Scenario": {
+            "Categorie": "Eefmetuse",
+            "Objet": "Resiliatien d'Assufaase",
+            "Complement": "Vou_ Vecaz_ otce_",
+            "Vehicule": "",
+            "Reference client eventuelle": "",
+            "Interlocuteur": "~NNA suanc",
+            "Adresse": ".ue ce.ae 0 ce deric_Teliat -Gnx.",
+            "Code postal": "loLl2Lool",
+            "Ville": "_GELLEGARDG"
+        },
+        "Redaction": {
+            "Type de stylo (noir) utilise": [
+                "bille",
+                "plume",
+                "feutre"
+            ],
+            "Temps passe a traiter le scenario": "AS minutes."
+        },
+        "Contribution": {
+            "Elements": {
+                "J'envoie mon courrier par voie postale a la date du": "2 ag_Lol",
+                "Mon courrier contient une page de garde de fax": "+2€",
+                "Avant mon envoi postal, j'ai telecopie ma contribution le": "+1€",
+                "J'ai envoye par courriel mon courrier numerise le": "+1€"
+            },
+            "Marque et modele du scanner": "",
+            "Format": [
+                "PNG",
+                "GIF",
+                "TIFF"
+            ],
+            "Resolution des images": "dpilppp"
+        }
+    }
 }

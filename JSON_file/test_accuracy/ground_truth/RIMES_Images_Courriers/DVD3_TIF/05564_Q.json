@@ -1,33 +1,52 @@
 {
-    "Code d'envoi": "RLQYLH",
-    "Nom": "CASSARD",
-    "Prénom": "Édouard",
-    "Adresse": "94, impasse du HaF",
-    "Code Postal": "57480",
-    "Ville": "HUNTING",
-    "Téléphone": "0331289136",
-    "Catégorie Scénario": "Relance de courrier sans réponse",
-    "Objet Scénario": "Votre demande d'information du mois dernier est restée sans effet\\nest restée sans effet",
-    "Complément Scénario": "\\n",
-    "Référence client": "NRVLH33",
-    "Interlocuteur": "Magazine \"Déo\"",
-    "Adresse Interlocuteur": "Place de l'Eglise",
-    "Code Postal Interlocuteur": "58260",
-    "Ville Interlocuteur": "TROIS VEVRES",
-    "Temps passé": "15",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "07/05/2007",
-    "Option Page de garde de fax": "x",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "CASSARD",
+                "Prenom": "Lde-4d",
+                "Adresse": "3",
+                "Passe": "do_",
+                "Code postal": "[53480_",
+                "Ville": "HuNLING",
+                "Tel": "3338"
+            },
+            "Scenario": {
+                "Categorie": "Relaac.",
+                "Code": "C24CO",
+                "Koms_": "~epeg?",
+                "Objet": "Aem d_ircmahen",
+                "A.": "Iei_Lecas",
+                "Est": "Geate&",
+                "Sens": "Rlef_",
+                "Complement": "Reference client eventuelle",
+                "Interlocuteur": "Maqasint",
+                "Adresse": "Llax& 4e E4x",
+                "Code postal": "[518121619]",
+                "Ville": "IRqLS VeVRes_"
+            },
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "^S minutes."
+            },
+            "Contribution": {
+                "Cocher les elements de_votre contribution pour le_scenario traite": [
+                    "(6e) J'envoie mon courrier par voie postale a la date du",
+                    "(+2€) Mon courrier contient une page de garde de fax:",
+                    "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                    "(+1€) J'ai envoye par courriel mon courrier numerise le"
+                ],
+                "Marque et modele du scanner": null,
+                "Format": [
+                    "PNG",
+                    "GIF",
+                    "TIFF"
+                ],
+                "Resolution des images": "dpilppp #-im Vetce m_"
+            }
+        }
+    }
 }

@@ -1,33 +1,51 @@
 {
-    "Code d'envoi": "VEAKHI",
-    "Nom": "BOUCHET",
-    "Prénom": "Estelle",
-    "Adresse": "20 Rue J.P. Blanchard",
-    "Code Postal": "17000",
-    "Ville": "LA ROCHELLE",
-    "Téléphone": "0553202301",
-    "Catégorie Scénario": "Gestion de sinistre",
-    "Objet Scénario": "Vous faites appel à votre assurance automobile\\n",
-    "Complément Scénario": "Vous avez provoqué un accident de la\\nroute (vous déclarez joindre le contrat)",
-    "Référence client": "WPTYC08",
-    "Interlocuteur": "NAIF Assurances",
-    "Adresse Interlocuteur": "ALLEE DE LA GRANGE MAGNIEN",
-    "Code Postal Interlocuteur": "01960",
-    "Ville Interlocuteur": "PERONNAS",
-    "Temps passé": "15",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "19/03/07",
-    "Option Page de garde de fax": "x",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "19/03/07",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "BoiKHET",
+                "Prenom": "Eskale",
+                "Adresse": {
+                    "Rue": "ZP Rlarchara",
+                    "Code postal": "LLLJOK",
+                    "Ville": "LA ROXHJE"
+                },
+                "Tel": "3"
+            }
+        },
+        "Scenario": {
+            "Categorie": "Gieshan",
+            "Objet": "Nas_taibes_aAFel a_tre_asSurance_autamobiule_",
+            "Complement": "kus avZ ~prOveque ~n_Zecknt Ck Coute VE ckclrez_iaxcre_k CensaE)",
+            "Reference client eventuelle": "Interlocuteur NAIE Assurances",
+            "Adresse": {
+                "ALEE DE_A @RAnGE AGNiE": {
+                    "Code postal": "Jo149eiql",
+                    "Ville": "LERONNAS"
+                }
+            },
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "4s minutes."
+            },
+            "Contribution": {
+                "Cocher les elements de_votre contribution pour le_scenario_traite": [
+                    "(6€) J'envoie mon courrier par voie postale a la date du Agkozkex",
+                    "(+2€) Mon courrier contient une page de garde de fax.",
+                    "(+1e) Avant mon envoi postal, Jai telecopie ma contribution le _ASlexlot",
+                    "(+1€) J'aai envoye par courriel mon courrier numerise le"
+                ],
+                "Marque et modele du scanner": null,
+                "Format": [
+                    "PNG",
+                    "GIF",
+                    "TIFF"
+                ],
+                "Resolution des images": "dpilppp"
+            }
+        }
+    }
 }

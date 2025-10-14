@@ -1,54 +1,42 @@
 {
-    "id": 106,
-    "gender": "Male",
-    "age": 50,
-    "location": "Milwaukee",
-    "company": "OMUNICUS, INC",
-    "survey": {
-        "interviewee_gender": "Female",
-        "interviewee_age": -2,
-        "interviewee_location": "Syracuse",
-        "project_code": "Project LLD-6",
-        "project_location": "Omaha",
-        "project_code_2": -3,
-        "project_date": "April, 1978",
-        "group": "B",
-        "name": "4-",
-        "address": "",
-        "city_town": "",
-        "telephone": "",
-        "interviewed_by": "",
-        "validated_by": "",
-        "introduction": "Hello, I'm from Communicus, a consumer opinion firm. We are conducting a survey and would like to include you.",
-        "questions": [
-            {
-                "question": "Do you smoke filter, non-menthol cigarettes?",
-                "answers": [
-                    "Yes",
-                    "CONTINUE",
-                    "TERMINATE"
-                ]
-            },
-            {
-                "question": "Which of the following statements apply to you?",
-                "options": [
-                    "I eat dinner in a restaurant at least once a month.",
-                    "I read a daily newspaper.",
-                    "I do most of the food shopping for myself and/or my family.",
-                    "I have taken an airline trip on a scheduled commercial airline in the past 12 months."
-                ]
-            },
-            {
-                "question": "Into which of the following age groups do you fall?",
-                "options": [
-                    "Under 21",
-                    "TERMINATE",
-                    "-34",
-                    "CONTINUE",
-                    "TERMINATE"
-                ]
-            }
-        ],
-        "code": 84460411
-    }
+    "Company": "Communicus",
+    "Date": "AprLL , 1978",
+    "Project": "Project LLD-6",
+    "Address": "34z",
+    "City": "Omaha",
+    "Telephone": "XMSUNICUS _",
+    "Interviewed By": "Bello",
+    "Validated By": "MLIDATED BY",
+    "Survey Questions": [
+        {
+            "Question": "Do you smoke filter, non-menthol cigarettes?",
+            "Options": [
+                "CONTINUE",
+                "TERMINATE"
+            ]
+        },
+        {
+            "Question": "How many cigarettes do you usually smoke per day? (DO NOT READ LIST-)",
+            "Options": [
+                "TERMINATE"
+            ]
+        },
+        {
+            "Question": "Which of the following statements apply to you?",
+            "Options": [
+                "I eat dinner at a restaurant at least once a month.",
+                "I read a daily newspaper.",
+                "I do most of the food shopping for myself and/or family.",
+                "I have taken an airline trip on a scheduled commercial airline in the past 12 months."
+            ]
+        },
+        {
+            "Question": "Into which of the following age groups do you fall? (READ LIST)",
+            "Options": [
+                "Under",
+                "CONTINUE",
+                "TERMINATE"
+            ]
+        }
+    ]
 }

@@ -1,33 +1,50 @@
 {
-    "Code d'envoi": "JNUVNO",
-    "Nom": "Winterstein",
-    "Prénom": "Patrick",
-    "Adresse": "51 rue du Val",
-    "Code Postal": "54200",
-    "Ville": "Pierre la Treiche",
-    "Téléphone": "0395223778",
-    "Catégorie Scénario": "modification de contrat / Commande",
-    "Objet Scénario": "Augmentation (X2) des ¤{quantites/quantités¤{ de CD vierge\\ncommandées",
-    "Complément Scénario": "\\n",
-    "Référence client": "LRTCR43",
-    "Interlocuteur": "Les 3 Suifs",
-    "Adresse Interlocuteur": "8 rue Pierre Civel",
-    "Code Postal Interlocuteur": "44130",
-    "Ville Interlocuteur": "Notre Dame des Landes",
-    "Temps passé": "15",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "05/01/07",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "AXhintesstein",
+                "Prenom": "Lbick",
+                "Adresse": "541 Aes 7 dx L}",
+                "Code postal": "bk? pol",
+                "Ville": "Leue",
+                "Tel": "523"
+            },
+            "Scenario": {
+                "Categorie": "ndikicclaen ce",
+                "SanbaL / Commnde": {
+                    "Objet": "ftugmentckan (x2) Aex",
+                    "Quantite": "Len_a"
+                },
+                "Complement": "",
+                "Reference client eventuelle": "42",
+                "Interlocuteur": "lex_! Suk",
+                "Adresse": "3 Jue Lieue Ciwel",
+                "Code postal": "Lu4uLgp",
+                "Ville": "cebe_Dne"
+            },
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe & traiter le scenario": "13 minutes."
+            },
+            "Contribution": {
+                "Cocher les_elements de_votre contribution pour le_scenario traite": [
+                    "(6e) J'envoie mon courrier par voie postale a la date du 05 Jex-az",
+                    "(+2€) Mon courrier contient une page de garde de fax",
+                    "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                    "(+1€) Jai envoye par courriel mon courrier numerise le"
+                ],
+                "Marque et modele du scanner": "",
+                "Format": [
+                    "PNG",
+                    "GIF",
+                    "TIFF"
+                ],
+                "Resolution des images": "dpilppp"
+            }
+        }
+    }
 }

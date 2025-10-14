@@ -1,33 +1,48 @@
 {
-    "Code d'envoi": "HTPMKZ",
-    "Nom": "ABDALLAH",
-    "Prénom": "Sandy",
-    "Adresse": "19 rue du haut du chêne",
-    "Code Postal": "54300",
-    "Ville": "FRAIMBOIS",
-    "Téléphone": "0390563373",
-    "Catégorie Scénario": "Gestion de sinistre",
-    "Objet Scénario": "vous êtes sans nouvelles concernant l'expertise\\nde votre ¤{vehicule/véhicule}¤ accidenté le mois dernier.",
-    "Complément Scénario": "Aucun\\n",
-    "Référence client": "IBOYE85",
-    "Interlocuteur": "NNA Assurances",
-    "Adresse Interlocuteur": "13 rue d'¤{Orleans/Orléans}¤",
-    "Code Postal Interlocuteur": "89220",
-    "Ville Interlocuteur": "BLENEAU",
-    "Temps passé": "8",
-    "Stylo bille": "",
-    "Stylo plume": "",
-    "Stylo feutre": "x",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "10/01/2007",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "09/01/2007",
-    "Résolution": "300",
-    "Format PNG": "",
-    "Format GIF": "x",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "Hewlett Packart Scanjet 2200C"
+    "Code d'envoi": {
+        "Questionnaire": 2,
+        "Identite fictive": {
+            "Nom": "ABDALLAH",
+            "Prenom": "S",
+            "Adresse": "AS_rue_ duhauk du_chena_",
+            "Code postal": "[5143LQo]",
+            "Ville": "ERAiMBois",
+            "Tel": "57"
+        },
+        "Scenario": {
+            "Categorie": "Gestion de_Siniskre",
+            "Objet": "Vou3. 2tes_sans_neavelles_concernaot_Vexperkise devotre_vehicule_accldenke_ke_mois_dernier",
+            "Complement": "Aucuo",
+            "Reference client eventuelle": 8
+        },
+        "Interlocuteur": {
+            "Assurances_": {
+                "Adresse": "A3_rue_ d'Qcleans",
+                "Code postal": "[89220",
+                "Ville": "BLe.NCAU."
+            }
+        },
+        "Redaction": {
+            "Type de stylo (noir) utilise": [
+                "bille",
+                "plume",
+                "feutre"
+            ],
+            "Temps passe a traiter le scenario": "8 minutes"
+        },
+        "Contribution": {
+            "Cocher les_ elements de_votre contrbution pour le_scenario traite": [
+                "(6e) J'envoie mon courrier par voie postale a la date du AoloALIoz",
+                "(+2C) Mon courrier contient une page de garde de fax",
+                "(+1€) Jai envoye par courriel mon courrier numerise le O9/0AL9007:-"
+            ],
+            "Marque et modele du scanner": "#ewlelt_Packart_Scanje",
+            "Format": [
+                "PNG",
+                "GIF",
+                "TIFF"
+            ],
+            "Resolution des images": "3a8 dpilppp andy (+1E) 21068."
+        }
+    }
 }

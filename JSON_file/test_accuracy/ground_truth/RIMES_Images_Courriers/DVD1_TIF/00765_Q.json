@@ -1,33 +1,49 @@
 {
-    "Code d'envoi": "JQQAUO",
-    "Nom": "LE TALLEC",
-    "Prénom": "François",
-    "Adresse": "6 Rue du Tunnel",
-    "Code Postal": "67570",
-    "Ville": "La Claquette",
-    "Téléphone": "0391440125",
-    "Catégorie Scénario": "Demande d'information",
-    "Objet Scénario": "Demande de documentation concernant les\\ncontrats d'assurance auto",
-    "Complément Scénario": "\\n",
-    "Référence client": "IIRIJ26",
-    "Interlocuteur": "NNA Assurances",
-    "Adresse Interlocuteur": "87 Rue Jean Jaurès",
-    "Code Postal Interlocuteur": "95400",
-    "Ville Interlocuteur": "Arnouville les Gonesse",
-    "Temps passé": "15",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "31/10/06",
-    "Option Page de garde de fax": "x",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "30/10/06",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "28/10/06",
-    "Résolution": "96",
-    "Format PNG": "",
-    "Format GIF": "x",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "Canon Smart Base MPC 190"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "LE_TALLEC",
+                "Prenom": "Fean",
+                "Adresse": "Rua. du. WMAU",
+                "Code postal": "L641S1dO",
+                "Ville": "la_ Claqultz",
+                "Tel": "325"
+            },
+            "Scenario": {
+                "Categorie": "Demande d'ixleanatien",
+                "Objet": "Demande de dacumeatalam",
+                "Concermant": "les comteats dyaSsuuamse auto",
+                "Complement": "Reference client eventuelle"
+            },
+            "Interlocuteur": {
+                "Nom": "NN.A Assueauces",
+                "Adresse": "%3_Ruc. Jean Jauees",
+                "Code postal": "19,514Od",
+                "Ville": "Acmaulle Aea. Gamexe"
+            },
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "45 minutes"
+            },
+            "Contribution": {
+                "Cocher les elements de votre contribution pour le scenario traite": {
+                    "(6€) J'envoie mon courrier par voie postale a la date du _34{o/c6": true,
+                    "(+2€) Mon courrier contient une page de garde de fax": true,
+                    "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le 2c[Aolcl_": true,
+                    "(+1€) Jai envoye par courriel mon courrier numerise le Ze/uc/06": true
+                },
+                "Marque et modele du scanner": "Cavnom Smalbase HPC_A9a",
+                "Format": [
+                    "PNG",
+                    "GIF",
+                    "TIFF"
+                ],
+                "Resolution des images": "96 dpilppp"
+            }
+        }
+    }
 }

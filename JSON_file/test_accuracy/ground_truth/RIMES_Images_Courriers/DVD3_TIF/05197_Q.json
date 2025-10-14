@@ -1,33 +1,50 @@
 {
-    "Code d'envoi": "SBUKKD",
-    "Nom": "Gautheron",
-    "Prénom": "Marie",
-    "Adresse": "683 Chemin du Spitzimberg",
-    "Code Postal": "88100",
-    "Ville": "Nayemont les fosses",
-    "Téléphone": "0368139370",
-    "Catégorie Scénario": "Gestion de sinistre",
-    "Objet Scénario": "Vous faites appel à votre assurance automobile\\n",
-    "Complément Scénario": "Vous avez provoqué un accident de la\\nroute (vous déclarerez joindre le constat)",
-    "Référence client": "FNXIG93",
-    "Interlocuteur": "Naif Assurances",
-    "Adresse Interlocuteur": "Avenue Jean Lartigau",
-    "Code Postal Interlocuteur": "40530",
-    "Ville Interlocuteur": "Labenne",
-    "Temps passé": "20",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "22/04/07",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "22/04/07",
-    "Résolution": "",
-    "Format PNG": "x",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "HP PSC 1350"
+    "Code d'envoi": {
+        "Questionnaire": 8,
+        "Identite fictive": {
+            "Nom": "Gauthesen",
+            "Prenom": "Mafe",
+            "Adresse": "6.83 chenn du_Spitznbexs",
+            "Code postal": "Busordl",
+            "Ville": "9nt",
+            "Tel": 2
+        },
+        "Scenario": {
+            "Categorie": "Gesticn",
+            "Objet.Veus_Jautes": "~ke",
+            "aSSLhonce_auutenebule": "Complement Vcus",
+            "aVez": "PeVCQLle",
+            "X": "acaiclent cle Jeute_(wcus clecleexez e Geastaz",
+            "Reference client eventuelle": 3,
+            "Interlocuteur": "Ncl",
+            "Assusances": {
+                "Adresse": "Avene jea Loxtigaul",
+                "Code postal": "L40,513",
+                "Ville": "Labenne"
+            }
+        },
+        "Redaction": {
+            "Type de stylo (noir) utilise": [
+                "bille",
+                "plume",
+                "feutre"
+            ],
+            "Temps passe & traiter le scenario": "minutes."
+        },
+        "Contribution": {
+            "Cocher les_ elements_de_votre contribution pour le_scenario_ traite": {
+                "(6e) J'envoie mon courrier par voie postale a la date du": "s2kulel",
+                "(+2e) Mon courrier contient une page de garde de fax": null,
+                "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+                "(+1€) Jai envoye par courriel mon courrier numerise le": "R2leyLe",
+                "Marque et modele du scanner": "LIP TSC 435.2",
+                "Format": [
+                    "PNG",
+                    "GIF",
+                    "TIFF"
+                ],
+                "Resolution des images": "dpilppp Nayam -Apel ~jeucle"
+            }
+        }
+    }
 }

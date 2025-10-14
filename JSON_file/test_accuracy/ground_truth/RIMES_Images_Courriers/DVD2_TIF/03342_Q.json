@@ -1,33 +1,52 @@
 {
-    "Code d'envoi": "CHKOOV",
-    "Nom": "MACHET",
-    "Prénom": "Carine",
-    "Adresse": "19 rue des Alouettes RODLACH",
-    "Code Postal": "57320",
-    "Ville": "BIBICHE",
-    "Téléphone": "0360908909",
-    "Catégorie Scénario": "gestion de Sinistre",
-    "Objet Scénario": "vous souhaitez être couvert au titre de la\\nresponsabilité civile",
-    "Complément Scénario": "vous avez provoqué la surdité d'un\\npassant en lui éternuant à proximité de l'oreille",
-    "Référence client": "NFYXP77",
-    "Interlocuteur": "NNA Assurances",
-    "Adresse Interlocuteur": "293 route de Dieppe",
-    "Code Postal Interlocuteur": "76250",
-    "Ville Interlocuteur": "Deville les Rouen",
-    "Temps passé": "20",
-    "Stylo bille": "",
-    "Stylo plume": "",
-    "Stylo feutre": "x",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "08-03-2007",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "07-03-2007",
-    "Résolution": "300",
-    "Format PNG": "",
-    "Format GIF": "x",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "HP PSC 1215"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "nachet",
+                "Prenom": "Cacioe_",
+                "Adresse": "we_des Alougttos. RoDLACH",
+                "Code postal": "654t134210",
+                "Ville": "BLBI.CHe",
+                "Tel": "3"
+            },
+            "Scenario": {
+                "Categorie": "geaticn.de_dinistae",
+                "Objet": "WW_@te_Couleae au_fitae . de_ D0 'ponoobilte_civile",
+                "Complement": "wla. nle3-powque_Qa_iditi_dLun: faexne ea_lui_etnuonk. 0_ poximite_de_QLaeille_",
+                "Reference client eventuelle": "C P 2 3",
+                "Interlocuteur": {
+                    "NNA": "ACTuoncea",
+                    "Adresse": "2.93_ noule_do Diecpe",
+                    "Code postal": "1362Siol",
+                    "Ville": "Dekille_ les_Reuon"
+                },
+                "Redaction": {
+                    "Type de stylo (noir) utilise": [
+                        "bille",
+                        "plume",
+                        "feutre"
+                    ],
+                    "Temps passe a traiter le scenario": "Z0_ minutes"
+                },
+                "Contribution": {
+                    "Cocher les_elements de votre contribution pour le_scenario_ traite": [
+                        "(6e) J'envoie mon courrier par voie postale a la date du 08..0.3..2003",
+                        "(+2e) Mon courrier contient une page de garde de fax",
+                        "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                        "(+1€) Jai envoye par courriel mon courrier numerise le 03.03.2o0.3."
+                    ]
+                },
+                "Marque et modele du scanner": [
+                    "Hr",
+                    "PSC [2/S"
+                ],
+                "Format": [
+                    "PNG",
+                    "GIF",
+                    "TIFF"
+                ],
+                "Resolution des images": "300 dpilppp fuhaikes"
+            }
+        }
+    }
 }

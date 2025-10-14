@@ -1,33 +1,43 @@
 {
-    "Code d'envoi": "TWVXLU",
-    "Nom": "BEUREL",
-    "Prénom": "Claudine",
-    "Adresse": "20 rue de la Gare",
-    "Code Postal": "70200",
-    "Ville": "LYOFFANS",
-    "Téléphone": "0338959908",
-    "Catégorie Scénario": "Difficulté de paiement",
-    "Objet Scénario": "Demande de remise gracieuse\\n",
-    "Complément Scénario": "Votre endettement est devenu trop important\\n",
-    "Référence client": "EXRDY30",
-    "Interlocuteur": "Trésorerie des ¤{Impots/Impôts}¤",
-    "Adresse Interlocuteur": "1 rue de Crèvecoeur",
-    "Code Postal Interlocuteur": "60480",
-    "Ville Interlocuteur": "FROISSY",
-    "Temps passé": "10",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "04/05/2007",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": "Xlulu",
+        "Identite fictive": {
+            "Nom": "BEuREl",
+            "Prenom": "Cbudu2",
+            "Adresse": "XlQ",
+            "Code postal": "+Ozo",
+            "Ville": "LVQFFAns",
+            "Tel": "Scenario"
+        },
+        "Categorie": "Dilkculle se picnE",
+        "Objet": "Dallke_de ?ilse_Oaciuae",
+        "Complement": "Okettem",
+        "E Odeugnu [xep impet": "E",
+        "Reference client eventuelle": "EXRRDI 3",
+        "Interlocuteur": "Teselerieden_mpals",
+        "Adresse": "Eud_Creu Ceguye",
+        "Code postal": "Ko04zo",
+        "Ville": "ERQiSSu.",
+        "Redaction": {
+            "Type de stylo (noir) utilise": [
+                "bille",
+                "plume",
+                "feutre"
+            ],
+            "Temps passe a traiter le scenario": "minutes",
+            "Contribution": {
+                "(6€) J'envoie mon courrier par voie postale a la date du 04skaos+": true,
+                "(+2€) Mon courrier contient une page de garde de fax": true,
+                "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le": true,
+                "(+1€) Jai envoye par courriel mon courrier numerise le": true
+            },
+            "Marque et modele du scanner": null,
+            "Format": [
+                "PNG",
+                "GIF",
+                "TIFF"
+            ],
+            "Resolution des images": "dpilppp"
+        }
+    }
 }

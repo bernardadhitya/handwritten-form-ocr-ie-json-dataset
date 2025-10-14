@@ -1,33 +1,37 @@
 {
-    "Code d'envoi": "YOSBPK",
-    "Nom": "COTTIN",
-    "Prénom": "Sandrine",
-    "Adresse": "3983 av Lou Mistraou",
-    "Code Postal": "83230",
-    "Ville": "BORMES LES MIMOSAS",
-    "Téléphone": "0479754258",
-    "Catégorie Scénario": "Réclamation",
-    "Objet Scénario": "Vous vous plaignez de nuisances sonores\\n",
-    "Complément Scénario": "Le chien de mes voisins est trop\\nbruyant",
-    "Référence client": "",
-    "Interlocuteur": "Maire",
-    "Adresse Interlocuteur": "Mairie Le Bourg",
-    "Code Postal Interlocuteur": "19270",
-    "Ville Interlocuteur": "USSAC",
-    "Temps passé": "10",
-    "Stylo bille": "",
-    "Stylo plume": "",
-    "Stylo feutre": "x",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "6 décembre 2006",
-    "Option Page de garde de fax": "x",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "CeILiA",
+                "Prenom": "Sandu4e",
+                "Adresse": "3983. A. Lou. Histaau_",
+                "Code postal": "8131213el",
+                "Ville": "Rekdes LES HHe*4S",
+                "Tel": "S 2 S"
+            },
+            "Scenario": {
+                "Categorie": "Keclamat en",
+                "Objet": "Maus aulp_ blauigaet_ d- AuS@MCQe Sehera Complement le chen_ daMpa. Qisha 2 bxuuga :",
+                "Reference client eventuelle": "Interlocuteur Haice Adresse Had:g_ Lx. Code postal W92d Ville USSA",
+                "Redaction": {
+                    "Type de stylo (noir) utilise": [
+                        "bille",
+                        "plume",
+                        "feutre"
+                    ],
+                    "Temps passe a traiter le scenario": "Ao_ minutes_",
+                    "Contribution": {
+                        "Cocher les elements de votre contribution pour le scenario traite": [
+                            "[A (6e) Jenvoie mon courrier par voie postale a Ia date du 6.Alicembre. 2ok6.",
+                            "(+2e) Mon courrier contient une page de fax:",
+                            "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                            "(+1€) Jai envoye par courriel mon courrier numerise le"
+                        ],
+                        "Marque et modele du scanner": "Format PNG GIF TIFF",
+                        "Resolution des images": "dpilppp haR_ Bouu;: garde"
+                    }
+                }
+            }
+        }
+    }
 }

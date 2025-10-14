@@ -1,33 +1,49 @@
 {
-    "Code d'envoi": "FCRTIA",
-    "Nom": "HERBERT",
-    "Prénom": "Martine",
-    "Adresse": "3 rue des Marronniers",
-    "Code Postal": "57420",
-    "Ville": "BUCHY",
-    "Téléphone": "0340721227",
-    "Catégorie Scénario": "relance de courrier sans réponse",
-    "Objet Scénario": "votre réclamation du mois dernier est restée sans\\nsuite",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "RDISW33",
-    "Interlocuteur": "NAIF Assurances",
-    "Adresse Interlocuteur": "28 rue Roger Furge",
-    "Code Postal Interlocuteur": "86210",
-    "Ville Interlocuteur": "ARCHIGNY",
-    "Temps passé": "20",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "07/12/2006",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "HERBEeL",
+                "Prenom": "Merhco",
+                "Adresse": "3 nwe_dex nemaers",
+                "Code postal": "54LHL21_",
+                "Ville": "BuCkY",
+                "Tel": "322"
+            },
+            "Scenario": {
+                "Categorie": "Selacecle caurier",
+                "Objet": "Wc_rcloehtn_ du_nis_ deeaec es.xdee S2) sule",
+                "Complement": "aucun",
+                "Reference client eventuelle": "RSW33",
+                "Interlocuteur": {
+                    "NAIE": "-Assuronoa",
+                    "Adresse": "28 Aue",
+                    "Code postal": "L8612LLel",
+                    "Ville": "ARCHQNY"
+                },
+                "Redaction": {
+                    "Type de stylo (noir) utilise": [
+                        "bille",
+                        "plume",
+                        "feutre"
+                    ],
+                    "Temps passe a traiter le scenario": "minutes."
+                },
+                "Contribution": {
+                    "Cocher les_elements de_votre contribution pour le_ scenario traite": {
+                        "(6€) Jenvoie mon courrier par voie postale a la date du": "~HIyRLRcG.",
+                        "(+2e) Mon courrier contient une page de garde de fax": null,
+                        "(+1e) Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+                        "(+1€) J'ai envoye par courriel mon courrier numerise le": null
+                    },
+                    "Marque et modele du scanner": null,
+                    "Format": [
+                        "PNG",
+                        "GIF",
+                        "TIFF"
+                    ],
+                    "Resolution des images": "dpilppp Rsec; fese."
+                }
+            }
+        }
+    }
 }

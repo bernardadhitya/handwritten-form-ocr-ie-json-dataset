@@ -1,33 +1,48 @@
 {
-    "Code d'envoi": "",
-    "Nom": "JOUENNE",
-    "Prénom": "Colette",
-    "Adresse": "16 rue de la Paix",
-    "Code Postal": "67240",
-    "Ville": "KALTENHOUSE",
-    "Téléphone": "0357538495",
-    "Catégorie Scénario": "Demande d'information",
-    "Objet Scénario": "Demande de documentation concernant les\\ncontrats d'assurance habitation",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "ZOACN01",
-    "Interlocuteur": "MANIF ASSURANCES",
-    "Adresse Interlocuteur": "13 place de l'¤{eglise/église}¤",
-    "Code Postal Interlocuteur": "80860",
-    "Ville Interlocuteur": "Noyelles sur Mer",
-    "Temps passé": "5",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "02/10/06",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "02/10/06",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "_JOUENNE",
+                "Prenom": "Calettc",
+                "Adresse": "~A6_qu&_cla_ la _ Ruixx_",
+                "Code postal": "J6Ll2Lyol",
+                "Ville": "_KALIENHOUSE_",
+                "Tel": "338"
+            }
+        },
+        "Scenario": {
+            "Categorie": "Imanda _~d'_iafmatien",
+            "Objet": "Eeanda",
+            "Document": "dodcumontaten_ceconant",
+            "Centra": "camLuauce_ kktatie",
+            "Complement": ".@uCu",
+            "Reference client eventuelle": "A",
+            "Interlocuteur": "nAniE__ASSLQAACES",
+            "Adresse": "43 . ~placade__eglise",
+            "Code postal": "[8408160]",
+            "Ville": "MAL."
+        },
+        "Redaction": {
+            "Type de stylo (noir) utilise": [
+                "bille",
+                "plume",
+                "feutre"
+            ],
+            "Temps passe a traiter le scenario": "minutes"
+        },
+        "Contribution": {
+            "Cocher les elements de_votre contribution pour le scenario traite": {
+                "(6e) Jenvoie mon courrier par voie postale a la date du": "02 . ~Ja-lo6__",
+                "(+2e) Mon courrier contient une page de garde de fax": true,
+                "(+1€) Avant mon envoi postal, J'ai telecopie ma contribution le": "02 (4qlo_",
+                "(+1e) Jai envoye par courriel mon courrier numerise le": "Marque et modele du scanner",
+                "Format": [
+                    "PNG",
+                    "GIF",
+                    "TIFF"
+                ],
+                "Resolution des images": "dpilppp"
+            }
+        }
+    }
 }

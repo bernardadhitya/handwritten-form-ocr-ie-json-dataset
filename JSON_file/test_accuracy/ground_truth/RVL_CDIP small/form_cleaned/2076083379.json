@@ -1,41 +1,26 @@
 {
-    "form": "TESTING REQUEST FORM",
-    "part": "Part2",
-    "sampleDesign": "Sample Design",
-    "note": "A Complete Testing Request consists of Parts I (Test Request),2 (Sample Design) 3 (Sample Release),4(Protocols),and5 (Testing Status)",
-    "date": "9/26/96",
-    "requestCode": "AM",
-    "requestorContactName": "G.Patskan",
-    "phoneNumber": "5991",
-    "activityCode": "2A13",
-    "sampleInformation": {
-        "sampleCodes": {
-            "control": [
-                "96.KJ.128",
-                "129",
-                "130",
-                "131",
-                "132",
-                "133"
-            ],
-            "test": [
-                "96.KI.136",
-                "137",
-                "138",
-                "139",
-                "140",
-                "141"
-            ]
+    "Testing Request Form": {
+        "Part": "Complete Testing Request",
+        "Sample Design": "(Test Request)",
+        "Note": "Complete Testing Request consists of Parts (Test Request), (Sample Design), (Sample Release), (Protocols), and 5 (Testing Status)",
+        "Date": "926/26",
+        "Request Code": "2443",
+        "Requestor Contact Name": "Patskan",
+        "Phone Number": "5921",
+        "Activity Code": "2443",
+        "Sample Information": {
+            "Sample Codes": {
+                "Control": "96.KJ.128,129,130,131,132,133",
+                "Test": "96.KL.136,137,138,139,140,141"
+            },
+            "Manufacturing Location": "Semiworks OIC",
+            "Components": "BBOSL supplied by E Patterson",
+            "Construction Parameters": "See Semiworks Request 96-0837"
+        },
+        "Approval of Sample Design": {
+            "Name": "Patskan",
+            "Signature": "Before tis tS r&n Ieks mke S4re everslhits chocks oct for RL-2230",
+            "Date": "10/7/96"
         }
-    },
-    "manufacturingLocation": "Semiworks O/C",
-    "components": "BBOSL supplied by E.Patterson",
-    "constructionParameters": "See Semiworks Request 96-08376-83",
-    "approvalOfSampleDesign": {
-        "name": "G.Patskan",
-        "date": "OcK,Z./S96"
-    },
-    "gerrs": "Before this is run 1ets make sure euergfhiuy",
-    "sor": "RL-2230",
-    "number": "2076083379"
+    }
 }

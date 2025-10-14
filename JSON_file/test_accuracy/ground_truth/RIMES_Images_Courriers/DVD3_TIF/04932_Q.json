@@ -1,33 +1,36 @@
 {
-    "Code d'envoi": "WGQTGX",
-    "Nom": "COLLET",
-    "Prénom": "Josette",
-    "Adresse": "6 rue du Caire",
-    "Code Postal": "83440",
-    "Ville": "SEILLANS",
-    "Téléphone": "0414731281",
-    "Catégorie Scénario": "Ouverture de compte",
-    "Objet Scénario": "Vous souhaitez vous abonner\\n",
-    "Complément Scénario": "Vous avez d'avantage de temps pour\\nvos loisirs",
-    "Référence client": "",
-    "Interlocuteur": "Bimestriel \"Charité Bushido\"",
-    "Adresse Interlocuteur": "LE BOURG",
-    "Code Postal Interlocuteur": "55320",
-    "Ville Interlocuteur": "SOMMEDIEVE",
-    "Temps passé": "11",
-    "Stylo bille": "",
-    "Stylo plume": "",
-    "Stylo feutre": "x",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "16/04/07",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "16/04/07",
-    "Résolution": "200",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "x",
-    "Marque et modèle scanner": "AGFA"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "CoLLeI",
+                "Prenom": "AoSele",
+                "Adresse": "Aue du. Ceuye",
+                "Code postal": "Eslld",
+                "Ville": "SELLLANS",
+                "Tel": "413 2"
+            },
+            "Scenario": {
+                "Categorie": "OuUeuie_ &e. LSuple_",
+                "Objet": "Moua. Sou:h KouA QEonne",
+                "Complement": "'2Neuleq Teucbs_-pqul Vas_eoimAS",
+                "Reference client eventuelle": "",
+                "Interlocuteur": "Pa.mealalel N Chzlue Buhido [L_",
+                "Adresse": "LE BoU.R",
+                "Code postal": "[SS42l",
+                "Ville": "SoHHEDLEUE",
+                "Redaction": {
+                    "Type de stylo (noir) utilise": "bille plume feutre",
+                    "Temps passe a traiter le scenario": "XAA minutes"
+                },
+                "Contribution": {
+                    "Cocher les elements de_votre contribution pour le scenario traite": "(6e) J'envoie mon courrier par voie postale a la date du 4L/o4/27, (+2e) Mon courrier contient une page de garde de fax, +1€) Avant mon envoi postal, j'ai telecopie ma contribution le, (+1€) Jai envoye par courriel mon courrier numerise le"
+                },
+                "Ableslel": {
+                    "Marque et modele du scanner": "AkA",
+                    "Format": "PNG GIF TIFF",
+                    "Resolution des images": "ZRR dpilppp 2Itx al Jol @VeAs"
+                }
+            }
+        }
+    }
 }

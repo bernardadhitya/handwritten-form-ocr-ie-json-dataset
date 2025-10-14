@@ -1,33 +1,53 @@
 {
-    "Code d'envoi": "JKXJQU",
-    "Nom": "GAIGNARD",
-    "Prénom": "Bénédicte",
-    "Adresse": "2, rue de la Charmatte",
-    "Code Postal": "90170",
-    "Ville": "ANJOUTEY",
-    "Téléphone": "0344320550",
-    "Catégorie Scénario": "Fermeture de compte",
-    "Objet Scénario": "Fermeture de compte bancaire\\n",
-    "Complément Scénario": "Vous changez de banque\\n",
-    "Référence client": "MTAXW93",
-    "Interlocuteur": "Banque Société Géniale",
-    "Adresse Interlocuteur": "Rue des Soupirs",
-    "Code Postal Interlocuteur": "34460",
-    "Ville Interlocuteur": "CESSENON SUR ORB",
-    "Temps passé": "5",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "26/01/07",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "GAiGNAR",
+                "Prenom": "Benedicte"
+            },
+            "Adresse": "2, Que d_ coa He",
+            "Code postal": "L9LoLlLduol",
+            "Ville": "AnJQUTEZ",
+            "Tel": "9"
+        },
+        "Scenario": {
+            "Categorie": "Jecmeture de canple",
+            "Objet": "Semeture c cmnb boncete",
+            "Complement": "lus 00 de beaq",
+            "Reference client eventuelle": "W"
+        },
+        "Interlocuteur": {
+            "Aciete_Gea": {
+                "Adresse": "Rye: dex",
+                "Code postal": "|344Ll6Le",
+                "Ville": "CCSSCKOR.S4.P6"
+            }
+        },
+        "Redaction": {
+            "Type de stylo (noir) utilise": [
+                "bille",
+                "plume",
+                "feutre"
+            ],
+            "Temps passe a traiter le scenario": "minutes."
+        },
+        "Contribution": {
+            "Cocher les_elements de_votre contribution pour le_scenario traite": {
+                "(6e) Jenvoie mon courrier par voie postale a la date du J6_lol.lez": true,
+                "(+2e) Mon courrier contient une page de garde de fax": true,
+                "(+1e) Avant mon envoi postal, j'ai telecopie ma contribution le": true,
+                "(+1€) J'ai envoye par courriel mon courrier numerise le": true
+            },
+            "Marque et modele du scanner": null,
+            "Format": [
+                "PNG",
+                "GIF",
+                "TIFF"
+            ],
+            "Resolution des images": [
+                "dpilppp",
+                "ds"
+            ]
+        }
+    }
 }

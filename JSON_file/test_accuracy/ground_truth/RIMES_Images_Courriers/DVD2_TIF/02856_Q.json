@@ -1,33 +1,53 @@
 {
-    "Code d'envoi": "NODSEZ",
-    "Nom": "PUJO",
-    "Prénom": "ESTELLE",
-    "Adresse": "26 rue des Prés",
-    "Code Postal": "68290",
-    "Ville": "Dollern",
-    "Téléphone": "0388532102",
-    "Catégorie Scénario": "Demande d'information",
-    "Objet Scénario": "Demande de précisions sur votre dernière\\nfacture",
-    "Complément Scénario": "Le montant est trop élevé\\n",
-    "Référence client": "ZKJHT85",
-    "Interlocuteur": "Banque Société Géniale",
-    "Adresse Interlocuteur": "Le Village",
-    "Code Postal Interlocuteur": "26600",
-    "Ville Interlocuteur": "Pont de l'isère",
-    "Temps passé": "10",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "16/02/07",
-    "Option Page de garde de fax": "x",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "16/02/07",
-    "Résolution": "300",
-    "Format PNG": "x",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "Canon Pixma MP 170"
+    "Code d'envoi": {
+        "Questionnaire": "eiz"
+    },
+    "Identite fictive": {
+        "Nom": "Rzie",
+        "Prenom": "Eskely",
+        "Adresse": "ke",
+        "Code postal": "L6tUiel",
+        "Ville": "Alle",
+        "Tel": "Scenario"
+    },
+    "Categorie": "dalcRnehex",
+    "Objet": "PEecAgy_Szc_Lse_",
+    "Qe.": "cure",
+    "Complement": {
+        "k": "maxkank",
+        "p": "exe"
+    },
+    "Reference client eventuelle": {
+        "Interlocuteur": "Suzle",
+        "den": "Adresse",
+        "Le.": {
+            "Code postal": "LZ6s6sorc]",
+            "Ville": "(621"
+        }
+    },
+    "Redaction": {
+        "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+        ],
+        "Temps passe a traiter le scenario": "o minutes."
+    },
+    "Contribution": {
+        "Cocher les elements de_votre contribution pOur lescenario traite": [
+            "(6e) Jenvoie mon courrier par voie postale a la date du",
+            "lelezle+",
+            "4 (+2e) Mon courrier contient une page de garde de fax",
+            "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+            "(+1€) Jai envoye par courriel mon courrier numerise le",
+            "~eleklex"
+        ],
+        "Marque et modele du scanner": "np",
+        "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+        ],
+        "Resolution des images": "dpilppp"
+    }
 }

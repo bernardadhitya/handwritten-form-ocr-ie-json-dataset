@@ -1,33 +1,46 @@
 {
-    "Code d'envoi": "KXYLUH",
-    "Nom": "LEGROUX",
-    "Prénom": "Alisson",
-    "Adresse": "41 FG de Belfort",
-    "Code Postal": "70400",
-    "Ville": "HERICOURT",
-    "Téléphone": "0353640790",
-    "Catégorie Scénario": "Commande",
-    "Objet Scénario": "Commande de trois paire de chaussettes\\n",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "NFBQB95",
-    "Interlocuteur": "La Reboute",
-    "Adresse Interlocuteur": "Rue des Mardelles",
-    "Code Postal Interlocuteur": "91800",
-    "Ville Interlocuteur": "BRUNOY",
-    "Temps passé": "10",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "9 mars 2007",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": "X",
+        "Identite fictive": {
+            "Nom": "LLEG Rollx",
+            "Prenom": "AlSSon_",
+            "Adresse": "4. Eg. d_ felae",
+            "Code postal": "Lzluqol",
+            "Ville": "HERukou&:",
+            "Tel": "253"
+        },
+        "Scenario": {
+            "Categorie": "Coxwmamce",
+            "Objet": "Cemadx_dx_hix",
+            "Huua_de_ckouneltes": "Complement",
+            "Reference client eventuelle": "NFR",
+            "Interlocuteur": "La Qoboute.",
+            "Adresse": "Rua; dua Maxdeltel.",
+            "Code postal": "LLAZodl",
+            "Ville": "BRuNeY",
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "4 minutes."
+            },
+            "Contribution": {
+                "Cocher les elements de_votre contribution pour le scenario_traite": [
+                    "(6€) J'envoie mon courrier par voie postale a la date du 9mmo_Axx +",
+                    "(+2e) Mon courrier contient une page de garde de fax:",
+                    "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                    "(+1€) Jai envoye par courriel mon courrier numerise le"
+                ],
+                "Marque et modele du scanner": null,
+                "Format": [
+                    "PNG",
+                    "GIF",
+                    "TIFF"
+                ],
+                "Resolution des images": "dpilppp"
+            }
+        }
+    }
 }

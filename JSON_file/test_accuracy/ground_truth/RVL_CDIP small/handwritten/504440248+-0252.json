@@ -1,34 +1,54 @@
 {
-    "year": 1978,
-    "accomplishments": [
+  "year": 1978,
+  "accomplishments": [
+    {
+      "description": "FITR A",
+      "results": [
         {
-            "id": "DETABN",
-            "details": [
-                {
-                    "type": "FITR Analysis",
-                    "description": "Evaluated foliar addition. Evaluated NaBi on aO3, SiQ, Siow, Suju, MqO. Evaluated ascorbic acid on Carbon, QlO, tow. Identified usage of additives (preliminary).",
-                    "ratios": {
-                        "[7/5]": 0.73,
-                        "[Cu]/[Sn]": 6.0
-                    },
-                    "compounds": [
-                        "Cu, Sn, Fe",
-                        "Sn, Cu, Pd"
-                    ]
-                },
-                {
-                    "type": "Evaluation",
-                    "description": "Evaluated AgMOy, Ql, preliminary experiments. Evaluated sucrose and saccharin on Carbon, SiO2, butyl, tow. Evaluated salicylic acid on Carbon, SiO2 (preserve). Evaluated poly N,N'-phenylurea (synthesized methyl bis salicylideneimine) cobalt complex.",
-                    "compounds": [
-                        "J3, sl, cn, lawite, sP"
-                    ]
-                },
-                {
-                    "type": "Catalyst Evaluation",
-                    "description": "Evaluated two Pd/Cu catalysts based on the legal form of Rowe FormTs (or Ql03, SiO2-Ql, os).",
-                    "code": 504440248
-                }
-            ]
+          "parameter": "Esinadsohents",
+          "value": "bott.fe.h..aged"
+        },
+        {
+          "parameter": "Evaatd Fol.hrtr additie.",
+          "value": ".Eyaluae....NaBi.on...aO3..-.Si.Q...Siow.Suju"
+        },
+        {
+          "parameter": "Evaluatrd ascubic acid.on Carbon,QlO,tow.",
+          "value": "lde..u.fS..ge...eaddis (preiniyyp."
+        },
+        {
+          "parameter": "Cu/Sn",
+          "value": "06.0"
+        },
+        {
+          "parameter": "ng.nCuz.s.o",
+          "value": "Sn.q.g.Cu.Fe"
+        },
+        {
+          "parameter": "Sn.3.o.Cu.Pdo.06",
+          "value": ""
+        },
+        {
+          "parameter": "Evxlua/d..AgMOy...Ql....pre.imiaycxpts).",
+          "value": "Elacd...sucomn.and..sa/ninne.on"
+        },
+        {
+          "parameter": "Ca.bon..l.03..Sioral03.,-buuxile,.tow.",
+          "value": "Evaluatcd..salcuwir....on..Ca.bou..!O,Si:.a03."
+        },
+        {
+          "parameter": "presere",
+          "value": "Ealuated.poly..N,n'.,. phouylc ue (.,s..nethy!em.bis."
+        },
+        {
+          "parameter": "salicylidereinio.).cobat.cn.alDt.ca ben",
+          "value": "J.3..a.sl..cn..lawite.sP.."
+        },
+        {
+          "parameter": "Evantcd.two.Pd/Cu Calclysts bosrd",
+          "value": "Yhe l1eg1 f, Rowc FoTnTs (or. Ql03 # Sior-Ql,os)"
         }
-    ]
+      ]
+    }
+  ]
 }

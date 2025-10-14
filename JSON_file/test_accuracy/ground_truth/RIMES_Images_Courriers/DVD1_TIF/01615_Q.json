@@ -1,33 +1,46 @@
 {
-    "Code d'envoi": "TWOHSI",
-    "Nom": "VIOLETTE",
-    "Prénom": "Eugène",
-    "Adresse": "1992 QUARTIER BAS GUIRANS",
-    "Code Postal": "83210",
-    "Ville": "SOLLIES TOUCAS",
-    "Téléphone": "0486709364",
-    "Catégorie Scénario": "Fermeture de compte",
-    "Objet Scénario": "Fermeture de compte bancaire\\n",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "ORGCB41",
-    "Interlocuteur": "Banque Crédit Populaire",
-    "Adresse Interlocuteur": "Centre Commercial CHAMPFLEURI",
-    "Code Postal Interlocuteur": "38300",
-    "Ville Interlocuteur": "BOURGOIN JALLIEU",
-    "Temps passé": "10",
-    "Stylo bille": "",
-    "Stylo plume": "",
-    "Stylo feutre": "x",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "22.12.2006",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "22.12.2006",
-    "Résolution": "300",
-    "Format PNG": "",
-    "Format GIF": "x",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "Canon Canoscan Lide 20"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "VieLETIE",
+                "Prenom": "ee",
+                "Adresse": "493.2 QAR_er GAS GLilANs",
+                "Code postal": "181212IAO",
+                "Ville": "SQLLLES",
+                "Tel": "83"
+            },
+            "Scenario": {
+                "Categorie": "fexnekne . 8e",
+                "Objet": "fexnekyz_ 8_ kenscLe",
+                "Complement": "9xm",
+                "Reference client eventuelle": "Interlocuteur Benque. CLsk_Rse-la&.",
+                "Adresse": "Cenbe Commedal CHAMAELEUR",
+                "Code postal": "13,8,3 1010",
+                "Ville": "BourGoiN IALLIEQ",
+                "Redaction": {
+                    "Type de stylo (noir) utilise": [
+                        "bille",
+                        "plume",
+                        "feutre"
+                    ],
+                    "Temps passe a traiter le scenario": "JO minutes"
+                },
+                "Contribution": {
+                    "Cocher les elements de votre contribution pour le_scenario_traite": {
+                        "(6e) J'envoie mon courrier par voie postale a la date du": "22 42 Zoo6",
+                        "(+2e) Mon courrier contient une page de garde de fax": null,
+                        "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+                        "(+1€) Jai envoye par courriel mon courrier numerise le": "22 A2 ` 2ee6",
+                        "Marque et modele du scanner": "Canc Ceneecon Li& 20",
+                        "Format": [
+                            "PNG",
+                            "GIF",
+                            "TIFF"
+                        ],
+                        "Resolution des images": "32e2 dpilppp 2298 semte Sers_"
+                    }
+                }
+            }
+        }
+    }
 }

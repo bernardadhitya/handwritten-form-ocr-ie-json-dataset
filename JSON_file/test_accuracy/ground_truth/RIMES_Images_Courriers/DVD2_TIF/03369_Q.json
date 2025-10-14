@@ -1,33 +1,53 @@
 {
-    "Code d'envoi": "CZZAQI",
-    "Nom": "VERMERSCH",
-    "Prénom": "MATHIAS",
-    "Adresse": "408 rue de Xonvillers",
-    "Code Postal": "88200",
-    "Ville": "DOMMARTIN LES REMIREMONT",
-    "Téléphone": "0388734815",
-    "Catégorie Scénario": "Modification de contrat / Commande",
-    "Objet Scénario": "Diminution des versements sur votre Plan d'Epargne Logement\\n(vous souhaitez passer de 60 à 45 euros mensuels)",
-    "Complément Scénario": "Vous venez de perdre votre emploi\\n",
-    "Référence client": "QYDLT99",
-    "Interlocuteur": "Banque Société Géniale",
-    "Adresse Interlocuteur": "",
-    "Code Postal Interlocuteur": "88160",
-    "Ville Interlocuteur": "LE MENIL",
-    "Temps passé": "10",
-    "Stylo bille": "",
-    "Stylo plume": "",
-    "Stylo feutre": "x",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "7/03/2007",
-    "Option Page de garde de fax": "x",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "7/03/2007",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Date": "9/3",
+    "Code d'envoi": "Questionnaire",
+    "Identite fictive": {
+        "Nom": ".VERMERSCH.",
+        "Prenom": "MAthias_",
+        "Adresse": ".Le.& Lne.de_ Xenx i llecs",
+        "Code postal": "81812L010]",
+        "Ville": "Doraartin",
+        "Tel": "0388385"
+    },
+    "Scenario": {
+        "Categorie": "Ae",
+        "Commande": {
+            "Objet": "Diminkhon_des_kersemenb_Sm vekis",
+            "Lan-d_Gpaxsnk-VD.KA Ses;": "62.4.55.",
+            "cmds": "menell(es)"
+        },
+        "Complement": "Vona: krkcs_",
+        "Reference client eventuelle": "9",
+        "Interlocuteur": "Banaws Secce ke Ceaiak.",
+        "Adresse": {
+            "Code postal": "18,8441640",
+            "Ville": "Le. [enil"
+        },
+        "Redaction": {
+            "Type de stylo (noir) utilise": [
+                "bille",
+                "plume",
+                "feutre"
+            ],
+            "Temps passe a traiter le scenario": "Iq. minutes_"
+        },
+        "Contribution": {
+            "Cocher les elements de votre contribution pour le_scenario traite": {
+                "(6€) J'envoie mon courrier par voie postale a la date du": "",
+                "(+2€) Mon courrier contient une page de garde de fax": "",
+                "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le": "tlex[zee.z:",
+                "(+1€) Jai envoye par courriel mon courrier numerise le": ""
+            },
+            "Marque et modele du scanner": "",
+            "Format": [
+                "PNG",
+                "GIF",
+                "TIFF"
+            ],
+            "Resolution des images": [
+                "dpilppp",
+                "dlicahen_"
+            ]
+        }
+    }
 }

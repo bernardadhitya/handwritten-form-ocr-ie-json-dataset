@@ -1,15 +1,18 @@
 {
-    "document": "Fax",
-    "scenario": "Demande d'information",
-    "writer": "PILLET Gilles",
-    "sender_person": "Mr Gilles PILLET",
-    "sender_company": "feralco\\nENVIRONNEMENT SAS",
-    "sender_tel": "",
-    "sender_fax": "",
-    "receiver_person": "",
-    "receiver_company": "MANIF Assurances",
-    "subject": "Objet : demande d'information assurance auto\\nRéf client : OWDZF37\\nDemande d'envoi de documentation.",
-    "date": "",
-    "place": "",
-    "box": ""
+    "Expediteur": "feralco",
+    "Destinataire": "ENVIRONNEMENT SAS",
+    "Adresse": {
+        "Rue": "M^ (iee PiLlet",
+        "Ville": "Ettviller",
+        "Code postal": "95130",
+        "Pays": "Aqus"
+    },
+    "Contact": {
+        "Tel": "",
+        "Fax": "",
+        "Email": ""
+    },
+    "Autres informations": {
+        "Nombre de pages incluant celle-ci": 2
+    }
 }

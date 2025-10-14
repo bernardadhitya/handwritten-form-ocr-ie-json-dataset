@@ -1,33 +1,47 @@
 {
-    "Code d'envoi": "QLTIJW",
-    "Nom": "CARDINAL",
-    "Prénom": "Colette",
-    "Adresse": "96 rue du Madon",
-    "Code Postal": "88270",
-    "Ville": "VALLEROY AUX SAULES",
-    "Téléphone": "0381201603",
-    "Catégorie Scénario": "Demande d'information",
-    "Objet Scénario": "Demande de documentation concernant les contrats\\nd'assurance habitation",
-    "Complément Scénario": "Vous déménagez\\n",
-    "Référence client": "KGPGX25",
-    "Interlocuteur": "BAAF Assurances",
-    "Adresse Interlocuteur": "172 rue d'Uelzen",
-    "Code Postal Interlocuteur": "76520",
-    "Ville Interlocuteur": "BOOS",
-    "Temps passé": "15",
-    "Stylo bille": "",
-    "Stylo plume": "",
-    "Stylo feutre": "x",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "24/11/2006",
-    "Option Page de garde de fax": "x",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "23/11/2006",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": ".23/11/2006",
-    "Résolution": "?",
-    "Format PNG": "",
-    "Format GIF": "x",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "Photocopieur/scanner XEROX 2240"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "CARpINAL",
+                "Prenom": "Cseettz_",
+                "Adresse": "96_ue..Am_",
+                "Kadm": "8842td",
+                "Ville": "Vaulerey",
+                "Tel": "389"
+            },
+            "Scenario": {
+                "Categorie": "emamA& . ~Amifrrakg:",
+                "Objet": "ememde_de_dacumenkahsn cexcesmemk__heo.Cenbab ~A_momc&.",
+                "Relotahan": "Complement -Veua-dems",
+                "Reference client eventuelle": "25",
+                "Interlocuteur": "BAAE_Aeewsnce",
+                "Adresse": "412 X A_Ueesem;",
+                "Code postal": "06454422J",
+                "Ville": "Goos",
+                "Redaction": {
+                    "Type de stylo (noir) utilise": [
+                        "bille",
+                        "plume",
+                        "feutre"
+                    ],
+                    "Temps passe & traiter le scenario": "45 minutes."
+                },
+                "Contribution": {
+                    "Cocher les elements de_votre contribution pour le scenario traite": {
+                        "(6e) J'envoie mon courrier par voie postale a la date du 24[AA(.2096": true,
+                        "(+2e) Mon courrier contient une page de garde de fax": true,
+                        "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le 23/aa?026.": true,
+                        "(+1€) J'ai envoye par courriel mon courrier numerise le 23/44.1286_": true
+                    },
+                    "Marque et modele du scanner": "RRstecee:gu [soomeXeReX_2248",
+                    "Format": [
+                        "PNG",
+                        "GIF",
+                        "TIFF"
+                    ],
+                    "Resolution des images": "dpilppp A4x emag"
+                }
+            }
+        }
+    }
 }

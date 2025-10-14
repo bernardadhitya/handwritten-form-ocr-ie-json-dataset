@@ -1,33 +1,39 @@
 {
-    "Code d'envoi": "CLCTAT",
-    "Nom": "BONTEMPS",
-    "Prénom": "SARAH",
-    "Adresse": "35 A RUE DU VILLAGE",
-    "Code Postal": "67240",
-    "Ville": "KURTZENHOUSE",
-    "Téléphone": "0335243755",
-    "Catégorie Scénario": "Difficulté de paiement",
-    "Objet Scénario": "Demande de remise gracieuse\\n",
-    "Complément Scénario": "Votre endettement est devenu trop\\nimportant",
-    "Référence client": "HGMKQ81",
-    "Interlocuteur": "Trésorerie des Impôts",
-    "Adresse Interlocuteur": "7 avenue Parmentier",
-    "Code Postal Interlocuteur": "75011",
-    "Ville Interlocuteur": "PARIS",
-    "Temps passé": "14",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "10.02.2007",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": "Zdi",
+    "Identite fictive": {
+        "Nom": "BoNTEKRS",
+        "Prenom": "SAAH",
+        "Adresse": "2_A Kue Dz VILLAGE",
+        "Code postal": "63Zhl",
+        "Ville": "KuKIZ ENHOUSE",
+        "Tel": "22 5241113155"
+    },
+    "Scenario": {
+        "Categorie": "Da#iaetz _o__paewau€_",
+        "Objet": "dluaudl de keuae_",
+        "Cause": "Complement Vole. ludeleiuk &8L_xeucuy IX potawE",
+        "Reference client eventuelle": "#IG",
+        "Interlocuteur": "TiSbze5zie de: dS",
+        "Adresse": "Deuup Faul&uhkA",
+        "Code postal": "LSeLU",
+        "Ville": "PAAs",
+        "Redaction": {
+            "Type de stylo (noir) utilise": [
+                "bille",
+                "plume",
+                "feutre"
+            ],
+            "Temps passe a traiter le scenario": "minutes."
+        },
+        "Contribution": {
+            "Elements": [
+                "(6e) J'envoie mon courrier par voie postale a la date du Q. 02.",
+                "(+2e) Mon courrier contient une page de garde de fax.",
+                "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                "(+1€) J'ai envoye par courriel mon courrier numerise le"
+            ],
+            "Marque et modele du scanner": "Format PNG GIF TIFF",
+            "Resolution des images": "dpilppp 74"
+        }
+    }
 }

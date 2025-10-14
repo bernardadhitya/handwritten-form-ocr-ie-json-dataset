@@ -1,33 +1,40 @@
 {
-    "Code d'envoi": "ABUWXN",
-    "Nom": "HERBIN",
-    "Prénom": "ISABELLE",
-    "Adresse": "24 RUE de l'Eglise",
-    "Code Postal": "68210",
-    "Ville": "MANSPACH",
-    "Téléphone": "0316054888",
-    "Catégorie Scénario": "GESTION DE SINISTRE",
-    "Objet Scénario": "Vous souhaitez être couvert au titre\\nde la responsabilité civile",
-    "Complément Scénario": "Vous avez marché sur le chien de\\nvotre voisine",
-    "Référence client": "TVSUZ98",
-    "Interlocuteur": "NNA Assurances",
-    "Adresse Interlocuteur": "PTT Ile du Levant",
-    "Code Postal Interlocuteur": "83400",
-    "Ville Interlocuteur": "Hyéres",
-    "Temps passé": "45",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "9-03-07",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": "Questionnaire",
+    "Identite fictive": {
+        "Nom": "HeRBin",
+        "Prenom": "ISABELL",
+        "Adresse": "RUE se Eslse",
+        "Code postal": "L68121410",
+        "Ville": "Ans PAcH",
+        "Tel": "8"
+    },
+    "Scenario": {
+        "Categorie": "3",
+        "Objet": "Voce> Sohaatay",
+        "Temps passe a traiter le scenario": "45 minutes."
+    },
+    "Contribution": {
+        "Cocher les elements de votre contribution pour_le_scenario traite": {
+            "(6e) J'envoie mon courrier par voie postale a Ia date du": "0",
+            "(+2e) Mon courrier contient une page de fax": "",
+            "(+1€) Avant mon envoi postal, jai telecopie ma contribution le": "",
+            "(+1e) Jai envoye par courriel mon courrier numerise le": ""
+        }
+    },
+    "Redaction": {
+        "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+        ]
+    },
+    "Marque et modele du scanner": "",
+    "Format": [
+        "PNG",
+        "GIF",
+        "TIFF"
+    ],
+    "Resolution des images": "dpilppp",
+    "Code": "B3440s",
+    "Ville": "Hyeres"
 }

@@ -1,33 +1,51 @@
 {
-    "Code d'envoi": "DVEUXC",
-    "Nom": "LEBEAU",
-    "Prénom": "Françoise",
-    "Adresse": "17 rue de la prairie",
-    "Code Postal": "57330",
-    "Ville": "ENTRANGE",
-    "Téléphone": "0325612917",
-    "Catégorie Scénario": "Gestion de sinistre",
-    "Objet Scénario": "Vous souhaitez être couvert au titre de la\\nresponsabilité civile.",
-    "Complément Scénario": "Vous avez brisé la porte vitrée d'un\\nmagasin en passant à travers",
-    "Référence client": "JPONA05",
-    "Interlocuteur": "BAAF Assurances",
-    "Adresse Interlocuteur": "3 rue de l'Eglise",
-    "Code Postal Interlocuteur": "62145",
-    "Ville Interlocuteur": "ESTREE BLANCHE",
-    "Temps passé": "5",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "29.01.07",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "27.01.07",
-    "Résolution": "200",
-    "Format PNG": "x",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "HP 1510 Tout en un"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "LElEau",
+                "Prenom": "Ehangoise",
+                "Adresse": "4}_hue. de_la _paue",
+                "Code postal": "L5433nl",
+                "Ville": "ENIRANGE",
+                "Tel": "35"
+            },
+            "Scenario": {
+                "Categorie": "LAEEEXE_Geohi_de Sinigha",
+                "Objet": "Vous; Scuha; [ez-eh Cowel_au tlie_de_la ~Juestonsakiliti_Cinle.",
+                "Complement _Vcic": "basEla_paxle_uiheeclluu",
+                "magesinen": "Lbassanka_biacee-",
+                "Reference client eventuelle": "P",
+                "Interlocuteur": "BAAE",
+                "Assuaance": {
+                    "Adresse": "3 Jue. da. QLEgluoe",
+                    "Code postal": "161244u5",
+                    "Ville": "ESIREE",
+                    "AlaNekE": null
+                }
+            },
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "minutes"
+            },
+            "Contribution": {
+                "Cocher les_elements de_votre contribution pour le_scenario traite": [
+                    "(6e) Jenvoie mon courrier par voie postale a la date du 94.",
+                    "+2e) Mon courrier contient une page de garde de fax:",
+                    "+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                    "(+1€) Jai envoye par courriel mon courrier numerise le 21_0l_91"
+                ],
+                "Marque et modele du scanner": "HP",
+                "Format": [
+                    "PNG",
+                    "GIF",
+                    "TIFF"
+                ],
+                "Resolution des images": "Zoq dpilppp 0e3\""
+            }
+        }
+    }
 }

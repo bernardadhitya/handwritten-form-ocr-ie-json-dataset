@@ -1,15 +1,11 @@
 {
-    "document": "Fax",
-    "scenario": "Réclamation",
-    "writer": "ANNE Maryse",
-    "sender_person": "Mme ANNE Maryse",
-    "sender_company": "¤{MONTS JURA AUTOCARS/MONTS JURA AUTOCARS}¤",
-    "sender_tel": "+33(0)3.81.63.44.60",
-    "sender_fax": "+33(0)3.81.80.98.61",
-    "receiver_person": "",
-    "receiver_company": "Mairie,",
-    "subject": "OBJET DU FAX : Plainte",
-    "date": "",
-    "place": "",
-    "box": ""
+    "company": "MONTS JURA AUTOCARS",
+    "address": "4 Rue Berthelot 25000 BESANCON",
+    "phone": "03 81 63 44 60",
+    "fax": "03 81 80 98 61",
+    "email": "miabesancon@keolis.com",
+    "registration": {
+        "RCS": "Besancon B 344 148 515",
+        "SIRET": "34414851500036"
+    }
 }

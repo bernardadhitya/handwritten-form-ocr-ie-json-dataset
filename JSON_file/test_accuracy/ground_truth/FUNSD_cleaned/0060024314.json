@@ -1,37 +1,25 @@
 {
-    "city": "Reidsville",
-    "plan": "Chemical Management Plan",
-    "year": 1993,
-    "inventory": {
-        "chemicalUsageFactSheet": {
-            "processChemicalsUsedInExcessOf100PoundsPerDay": {
-                "categories": [
-                    "Water Treatment Chemicals",
-                    "Cleaning Compounds"
-                ],
-                "facility": {
-                    "name": "The American Tobacco Company",
-                    "permitNumber": "0001"
+    "CHEMICAL MANAGEMENT PLAN": {
+        "INVENTORY": {
+            "CHEMICAL USAGE FACT SHEET": {
+                "Facility": "The American Tobacco Company",
+                "CHEMICAL DESCRIPTION": {
+                    "PRODUCT (CHEMICAL) NAME": "Fuller G231S DC",
+                    "DESCRIPTION": "Liquid Adhesive",
+                    "PRODUCT CLASSIFICATION": "Organic Inorganic",
+                    "CHEMICAL FORMULA": "Vinyl Acetate",
+                    "CAS": "05-4",
+                    "PERCENT ACTIVES (Non-water)": ".58",
+                    "MANUFACTURER": "PEONE Fuller Company",
+                    "MSDS ON FILE?": "Yes"
                 },
-                "chemicalDescription": {
-                    "productName": "FullerG2315 DC",
-                    "description": "Liquid Adhesive",
-                    "productClassification": "Inorganic",
-                    "chemicalFormula": "Vinyl Acetate",
-                    "casNumber": "108-05-4",
-                    "percentActives": "Non-water",
-                    "manufacturer": "H.B. Fuller Company",
-                    "msdsOnFile": "No"
-                },
-                "chemicalUsage": {
-                    "annualUsageLbs": 74880,
-                    "averageMonthlyUsageLbs": 6240,
-                    "application": {
-                        "type": "Production Process",
-                        "description": "label adhesive"
-                    }
-                },
-                "referenceNumber": "ATX02 0132045"
+                "CHEMICAL USAGE": {
+                    "1993 ANNUAL USAGE (LBS)": 74880,
+                    "1993 AVG MONTHLY USAGE (LBS)": 6240,
+                    "APPLICATION": "Label adhesive",
+                    "Production Process": "Water Treatment",
+                    "Housekeeping Cleaning": "Yes"
+                }
             }
         }
     }

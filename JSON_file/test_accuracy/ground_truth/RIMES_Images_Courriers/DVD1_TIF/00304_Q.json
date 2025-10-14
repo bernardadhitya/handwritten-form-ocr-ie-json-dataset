@@ -1,33 +1,47 @@
 {
-    "Code d'envoi": "FTULBI",
-    "Nom": "LE TALLEC",
-    "Prénom": "François",
-    "Adresse": "6 Rue du tunnel",
-    "Code Postal": "67570",
-    "Ville": "La claquette",
-    "Téléphone": "0391440125",
-    "Catégorie Scénario": "Ouverture de compte",
-    "Objet Scénario": "vous souhaitez vous abonner\\n",
-    "Complément Scénario": "vous avez davantage de temps pour vos loisirs\\n",
-    "Référence client": "",
-    "Interlocuteur": "Magazine \"Déo\"",
-    "Adresse Interlocuteur": "Le Bourg",
-    "Code Postal Interlocuteur": "87190",
-    "Ville Interlocuteur": "DROUX",
-    "Temps passé": "20",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "25/09/06",
-    "Option Page de garde de fax": "x",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "25/09/06",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "24/09/06",
-    "Résolution": "74",
-    "Format PNG": "",
-    "Format GIF": "x",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "Canon SmartBase MPC 190"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "LE",
+                "Prenom": "fransci"
+            },
+            "Adresse": {
+                "Rue": "Au_tunne",
+                "Code postal": "6154Do",
+                "Ville": "La_claqutte"
+            },
+            "Tel": "395",
+            "Scenario": {
+                "Categorie": "Quverture_de_Objet",
+                "Veuus": "SauRaitez vaus abenneR",
+                "Complement": "Vows davaatoox_dle",
+                "Paue": "Vas oisirs",
+                "Reference client eventuelle": "",
+                "Interlocuteur": "Hagazine Dee",
+                "Adresse": "k",
+                "Code postal": "L4k49o",
+                "Ville": "JRoux",
+                "Redaction de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "J0 minutes.",
+                "Contribution": {
+                    "Jenvoie mon courrier par voie postale a la date du 95./.0210c": "(6€)",
+                    "Mon courrier contient une page de garde de fax": "(+2e)",
+                    "Avant mon envoi postal, j'ai telecopie ma contribution le Elog[ok": "(+1e)",
+                    "Jai envoye par courriel mon courrier numerise le 4ulo9/ob": "(+1e)"
+                },
+                "Marque et modele du scanner": "Canca_ SmalkBasz_ MPC.ga_",
+                "Format": [
+                    "PNG",
+                    "GIF",
+                    "TIFF"
+                ],
+                "Resolution des images": "4 dpilppp",
+                "Compte temps": "Boury - Type"
+            }
+        }
+    }
 }

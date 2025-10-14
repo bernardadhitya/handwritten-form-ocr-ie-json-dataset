@@ -1,33 +1,51 @@
 {
-    "Code d'envoi": "CYAXIT",
-    "Nom": "LETANG",
-    "Prénom": "Thierry",
-    "Adresse": "16, Rue des Bleuets",
-    "Code Postal": "68490",
-    "Ville": "OTTMARSHEIM",
-    "Téléphone": "0330872523",
-    "Catégorie Scénario": "ouverture de compte",
-    "Objet Scénario": "vous souhaitez vous abonner\\n",
-    "Complément Scénario": "vous avez davantage de temps pour vos loisirs\\n",
-    "Référence client": "",
-    "Interlocuteur": "Bimestriel \"Charité Bushido\"",
-    "Adresse Interlocuteur": "Rue de la FORET",
-    "Code Postal Interlocuteur": "85480",
-    "Ville Interlocuteur": "FOUGERE",
-    "Temps passé": "45",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "LEIANS",
+                "Prenom": "Ihierug",
+                "Adresse": "Ruz deR_Bleuel",
+                "Code postal": "618LALYLO",
+                "Ville": "OIIMAKSIELM",
+                "Tel": "3825252"
+            },
+            "Scenario": {
+                "Categorie": "Guekuue__d",
+                "Objet": "vouR",
+                "Poj": "kail",
+                "Joup": "aldanez",
+                "Complement": "Vaud: oues-dowu.an de poub vQ36iinn",
+                "Reference client eventuelle": "",
+                "Interlocuteur": "B;m enhcel___Chanite",
+                "Bumitlo": {
+                    "Adresse": "Rug__de: k. EQRET",
+                    "Code postal": "845L4LO",
+                    "Ville": "FQUGERE"
+                }
+            },
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "Ls minutes"
+            },
+            "Contribution": {
+                "Cocher les elements de_votre contribution pour le_scenario_traite": [
+                    "(6e) Jenvoie mon courrier par voie postale a la date du",
+                    "(+2e) Mon courrier contient une page de garde de fax",
+                    "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                    "J'ai envoye par courriel mon courrier numerise le"
+                ],
+                "Marque et modele du scanner": "",
+                "Format": [
+                    "PNG",
+                    "GIF",
+                    "TIFF"
+                ],
+                "Resolution des images": "dpilppp 46r. confte bera Loge Lemmap"
+            }
+        }
+    }
 }

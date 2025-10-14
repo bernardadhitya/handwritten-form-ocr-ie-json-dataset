@@ -1,33 +1,34 @@
 {
-    "Code d'envoi": "QWWCWP",
-    "Nom": "HUMBERT",
-    "Prénom": "ANTOINE",
-    "Adresse": "26, rue du Château",
-    "Code Postal": "54680",
-    "Ville": "ERROUVILLE",
-    "Téléphone": "0385542962",
-    "Catégorie Scénario": "Relance de courrier sans réponse",
-    "Objet Scénario": "Votre réclamation du mois dernier est restée sans\\nsuite",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "YTFWA33",
-    "Interlocuteur": "Quotidien \" LE PAIN \"",
-    "Adresse Interlocuteur": "Place du marché",
-    "Code Postal Interlocuteur": "14260",
-    "Ville Interlocuteur": "AUNAY sur ODON",
-    "Temps passé": "10",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "27 Juillet 2006",
-    "Option Page de garde de fax": "x",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "27 Juillet 06",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "27 Juillet 2006",
-    "Résolution": "200",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "x",
-    "Marque et modèle scanner": "HP 9100 C"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "HuMBERL",
+                "Prenom": "ANIoiNE",
+                "Adresse": "26 'Y Mg. 4. Aeeu",
+                "Code postal": "[51416180",
+                "Ville": "ERReliLLE",
+                "Tel": "8 S S 1"
+            },
+            "Scenario": {
+                "Categorie": "@ELAN.CE",
+                "d_CounaiER": "SANS_ EECNSE",
+                "Objet": "Vctie_nclam &hen L_msss. cenea__x_esee Bw. ~n Complement Gus_ M:",
+                "Reference client eventuelle": "F A 3 3",
+                "Interlocuteur": "Mex LE RaiN_",
+                "Adresse": "Plac C&_ d4.",
+                "Code postal": "Lububsel",
+                "Ville": "@NAX A4 02"
+            },
+            "Redaction": {
+                "Type de stylo (noir) utilise": "bille plume feutre",
+                "Temps passe a traiter le scenario": "0 minutes."
+            },
+            "Contribution": {
+                "Cocher les_elements de_votre contribution pour le_scenario traite": "(6€) Jenvoie mon courrier par voie postale a la date du Lz_~ulk2ea.6_ (+2e) Mon courrier contient une page de garde de fax +1€) Avant mon envoi postal, j'ai telecopie ma contribution le JzIullkoq_ (+1€) Jai envoye par courriel mon courrier numerise le . 4.7 Jullk_2eq.6.",
+                "Marque et modele du scanner": "HP J1.Q.a.",
+                "Format": "PNG GIF TIFF",
+                "Resolution des images": "2eo- dpilppp CQ Quah.c Melcke"
+            }
+        }
+    }
 }

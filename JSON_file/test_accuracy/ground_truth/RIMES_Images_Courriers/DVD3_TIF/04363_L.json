@@ -1,15 +1,12 @@
 {
-    "document": "Lettre manuscrite",
-    "scenario": "Changement de données personnelles",
-    "writer": "PILLOT Aurore",
-    "sender_person": "Aurore PILLOT",
-    "sender_company": "",
-    "sender_tel": "",
-    "sender_fax": "",
-    "receiver_person": "",
-    "receiver_company": "Mensuel \"Fleurs et  Merguez\"",
-    "subject": "Objet : changement d'adresse",
-    "date": "29/03/2007",
-    "place": "St Antonin",
-    "box": ""
+    "address": {
+        "street": "Avenue de la Malakoff",
+        "number": "30",
+        "city": "Nice",
+        "postal_code": "06260"
+    },
+    "name": "Antonin",
+    "date_of_birth": "29/03",
+    "phone_number": "06260",
+    "monthly_subscription": true
 }

@@ -1,33 +1,40 @@
 {
-    "Code d'envoi": "ILZOUZ",
-    "Nom": "DOUILLARD",
-    "Prénom": "Christiane",
-    "Adresse": "12 rue des alouettes",
-    "Code Postal": "68190",
-    "Ville": "RAEDERSHEIM",
-    "Téléphone": "0396641519",
-    "Catégorie Scénario": "Gestion de sinistre",
-    "Objet Scénario": "Vous faites appel à votre assurance\\nautomobile",
-    "Complément Scénario": "Vous avez provoqué un accident de la\\nroute (vous déclarez joindre le constat)",
-    "Référence client": "TXGEJ04",
-    "Interlocuteur": "NAIF ASSURANCES",
-    "Adresse Interlocuteur": "16 rue du Général Charette",
-    "Code Postal Interlocuteur": "44650",
-    "Ville Interlocuteur": "TOUVOIS",
-    "Temps passé": "15",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "17/01/2007",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": 2,
+        "Identite fictive": {
+            "Nom": "DOUL",
+            "Prenom": "Chashaao",
+            "Adresse": "2 e des aloveltes",
+            "Code postal": "L6RLLBol",
+            "Ville": "R.AEDERSHeld",
+            "Tei": "Ash"
+        },
+        "Scenario": {
+            "Categorie": "Geshqo de Sniskre",
+            "Objet": "Veus Auks a uekre asSurc ay lomohl",
+            "Complement": "Meua_arez froycake Jin. accidleaL_d__b_ f. ulc voy? declarez_findce_La Co nskl",
+            "Reference client eventuelle": "Interlocuteur NALE AsSuraaces",
+            "Adresse": "6..2 du_ Genqca l Chaele",
+            "Code postal": "L446Sal",
+            "Ville": "ouVQ1S"
+        },
+        "Redaction": {
+            "Type de stylo (noir) utilise": [
+                "bille",
+                "plume",
+                "feutre"
+            ],
+            "Temps passe a traiter le scenario": "5 minutes"
+        },
+        "Contribution": {
+            "Cocher les elements de votre contribution pour le scenario traite": [
+                "(6e) J'envoie mon courrier par voie postale & la date du A1le-/2ce1",
+                "(+2e) Mon courrier contient une page de garde de fax",
+                "(+1€) Avant mon envoi postal, Jai telecopie ma contribution le",
+                "(+1€) J'ai envoye par courriel mon courrier numerise le"
+            ],
+            "Marque et modele du scanner": "Format PNG GIF TIFF",
+            "Resolution des images": "dpilppp"
+        }
+    }
 }

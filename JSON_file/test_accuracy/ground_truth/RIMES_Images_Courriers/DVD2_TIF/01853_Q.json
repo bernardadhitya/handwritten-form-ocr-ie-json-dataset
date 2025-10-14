@@ -1,33 +1,49 @@
 {
-    "Code d'envoi": "FDSUWC",
-    "Nom": "HERBRETEAU",
-    "Prénom": "Prescillia",
-    "Adresse": "19 B Rue de Cernay",
-    "Code Postal": "68520",
-    "Ville": "BURNHAUPT LE BAS",
-    "Téléphone": "0380503425",
-    "Catégorie Scénario": "Réclamation",
-    "Objet Scénario": "Vous vous plaignez de nisances sonores\\n",
-    "Complément Scénario": "Le chien de vos voisins est trop\\nbeuyaut",
-    "Référence client": "",
-    "Interlocuteur": "Mairie",
-    "Adresse Interlocuteur": "Route nationale",
-    "Code Postal Interlocuteur": "52700",
-    "Ville Interlocuteur": "ST BLIN",
-    "Temps passé": "30",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "11.01.2007",
-    "Option Page de garde de fax": "x",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "11.01.2007",
-    "Résolution": "300",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "x",
-    "Marque et modèle scanner": "EPSON Stylus DX3850"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "HERRRETedu",
+                "Prenom": "#escila",
+                "Adresse": "J9B",
+                "Que cle Ceeaay": true,
+                "Code postal": "e859d",
+                "Ville": "Bueaitauet",
+                "LE Bas Tel": 335
+            },
+            "Scenario": {
+                "Categorie": "Recfuuazen",
+                "Objet": "lbug_Vaus. ~Plagu3 lUlcSQU.Co SOlgkQe",
+                "Complement": "Oeelueu . de_Uos_.3ig @€ beuyeut",
+                "Reference client eventuelle": {
+                    "Intedocuteur": "Hcu&ie",
+                    "Adresse": "Raute_na tiouala",
+                    "Code postal": "5 2H80/",
+                    "Ville": "3' Run"
+                },
+                "Redaction": {
+                    "Type de stylo (noir) utilise": [
+                        "bille",
+                        "plume",
+                        "feutre"
+                    ],
+                    "Temps passe a traiter le scenario": "30 minutes"
+                },
+                "Contribution": {
+                    "Cocher les elements de_votre contribution pour le_scenario traite": {
+                        "(6€) J'envoie mon courrier par voie postale a la date du": "0(.",
+                        "(+2E) Mon courrier contient une page de garde de fax.": true,
+                        "(+1€) Avant mon envoi postal, Jai telecopie ma contribution le": true,
+                        "(+1€) Jai envoye par courriel mon courrier numerise le": "a.1 22sl",
+                        "Marque et modele du scanner": "Epzon zty4s Dx3gSO",
+                        "Format": [
+                            "PNG",
+                            "GIF",
+                            "TIFF"
+                        ],
+                        "Resolution des images": "300 dpilppp"
+                    }
+                }
+            }
+        }
+    }
 }

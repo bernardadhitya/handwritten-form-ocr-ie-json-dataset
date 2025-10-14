@@ -1,33 +1,49 @@
 {
-    "Code d'envoi": "VTJTLS",
-    "Nom": "SCHMITT",
-    "Prénom": "Maryse",
-    "Adresse": "Ferme de Marionbois",
-    "Code Postal": "54470",
-    "Ville": "¤Dampvitoux¤",
-    "Téléphone": "0347256741",
-    "Catégorie Scénario": "Gestion de sinistre",
-    "Objet Scénario": "Vous êtes sans nouvelles concernant l'expertise\\nde votre véhicule accidenté le mois dernier",
-    "Complément Scénario": "Aucun\\n",
-    "Référence client": "KATCS16",
-    "Interlocuteur": "BAAF Assurances",
-    "Adresse Interlocuteur": "9 Place Emile Bourgeois",
-    "Code Postal Interlocuteur": "27330",
-    "Ville Interlocuteur": "La Neuve ¤Lyre¤",
-    "Temps passé": "30",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "23/01/07",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "SckLITI",
+                "Prenom": "Ilcyse",
+                "Adresse": "de_Hlor_~boss.",
+                "Code postal": "5444D",
+                "Ville": "2m",
+                "Tel": "3"
+            },
+            "Scenario": {
+                "Categorie": "Gesex_ale-sass&",
+                "Objet": "Vab~s_eles_Saxas.",
+                "Complement": "Asna",
+                "Reference client eventuelle": "V",
+                "Interlocuteur": "GAa€",
+                "Asswince": {
+                    "Adresse": "Plce_@h~l",
+                    "Code postal": "2+34310",
+                    "Ville": "Ra_Keaaye"
+                },
+                "Redaction": {
+                    "Type de stylo (noir) utilise": [
+                        "bille",
+                        "plume",
+                        "feutre"
+                    ],
+                    "Temps passe a traiter le scenario": "minutes."
+                },
+                "Contribution": {
+                    "Cocher les_elements de_votre contribution pour le scenario_traite": [
+                        "(6e) J'envoie mon courrier par voie postale a la date du 23to1/9",
+                        "+2e) Mon courrier contient une page de garde de fax",
+                        "+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                        "+1€) Jai envoye par courriel mon courrier numerise le"
+                    ],
+                    "Marque et modele du scanner": null,
+                    "Format": [
+                        "PNG",
+                        "GIF",
+                        "TIFF"
+                    ],
+                    "Resolution des images": "dpilppp"
+                }
+            }
+        }
+    }
 }

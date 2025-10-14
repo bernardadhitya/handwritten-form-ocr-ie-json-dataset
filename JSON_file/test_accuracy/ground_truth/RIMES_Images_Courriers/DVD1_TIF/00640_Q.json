@@ -1,33 +1,49 @@
 {
-    "Code d'envoi": "GJYIYT",
-    "Nom": "PALACIOS",
-    "Prénom": "Armelle",
-    "Adresse": "91, rue du Wenheck",
-    "Code Postal": "57730",
-    "Ville": "Petit Ebersviller",
-    "Téléphone": "0388365256",
-    "Catégorie Scénario": "Gestion de Sinistre",
-    "Objet Scénario": "¤{Rapel/Rappel}¤ de l'expertise d'un véhicule accidenté\\n",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "TBEHE83",
-    "Interlocuteur": "Manif Assurances",
-    "Adresse Interlocuteur": "Maison Lacoste",
-    "Code Postal Interlocuteur": "40390",
-    "Ville Interlocuteur": "Ste Marie de Gosse",
-    "Temps passé": "20",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "16.10.06",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "16.10.06",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "16.10.06",
-    "Résolution": "300",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "x",
-    "Marque et modèle scanner": "Hp Scan Jet 4470 C"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "PALACIOS",
+                "Prenom": "Axmelle",
+                "Adresse": "91 J Me:_ du Wenheck",
+                "Code postal": "5111340",
+                "Ville": "Pll Ebe__ViMe~",
+                "Tel": "28335256"
+            },
+            "Scenario": {
+                "Categorie": "Geslan_de Ginustke",
+                "Objet": "Roqel: de_Llexpelige.dlw_Vehicule_accidule",
+                "Complement": "euyeyyn_",
+                "Reference client eventuelle": "TBHIE83"
+            },
+            "Interlocuteur": {
+                "Manit": "Assuancez",
+                "Adresse": "Haisen",
+                "Code postal": "L0340",
+                "Ville": "Ste_Mawie_de_Gosse"
+            },
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "20 minutes",
+                "Contribution": {
+                    "Cocher les elements de_votre contribution pour le_scenario traite": [
+                        "(6e) J'envoie mon courrier par voie postale a Ia date du .Ik:AQ:Dl:",
+                        "(+2e) Mon courrier contient une page de garde de fax:",
+                        "(+1€) Avant mon envoi postal, jai telecopie ma contribution le :Ak.:Ao_Ql_",
+                        "(+1e) J'ai envoye par courriel mon courrier numerise le Ak:IQ:"
+                    ],
+                    "Marque et modele du scanner": "Hp_Srou_ek: 44+0.C.",
+                    "Format": [
+                        "PNG",
+                        "GIF",
+                        "TIFF"
+                    ],
+                    "Resolution des images": "300 dpilppp"
+                }
+            }
+        }
+    }
 }

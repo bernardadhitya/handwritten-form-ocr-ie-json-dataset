@@ -1,15 +1,16 @@
 {
-    "document": "Fax",
-    "scenario": "Gestion de sinistre",
-    "writer": "GAUCHER Viviane",
-    "sender_person": "¤{GAUCHER Viviane/GAUCHER Viviane}¤",
-    "sender_company": "¤{GRTgaz/GT gaz/RESEAU NORD EST\\nAGENCE EXPLOITATION LILLE-BETHUNE}¤",
-    "sender_tel": "+33(0)3.21.64.79.30",
-    "sender_fax": "+33(0)3.21.64.79.49",
-    "receiver_person": "",
-    "receiver_company": "NAIF Assurances",
-    "subject": "",
-    "date": "",
-    "place": "",
-    "box": ""
+    "RESEAU": "NORD EST",
+    "COMPANY": "GRTgaz",
+    "AGENCE": "Exploitation LILLE-BETHUNE",
+    "ADDRESS": {
+        "STREET": "43 Alfred de Musset",
+        "CITY": "Heg eell",
+        "POSTAL_CODE": "54390"
+    },
+    "CONTACT": {
+        "NAME": "GAUCHER Viviane",
+        "PHONE": "05.71.6.70.30",
+        "FAX": "03 '|64.1049",
+        "WEBSITE": "www.ngzam.com"
+    }
 }

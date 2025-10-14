@@ -1,65 +1,53 @@
 {
-    "offer_restricted_to_smokers": "21 years of age or older",
-    "survey_deadline": "6/30/9",
-    "instructions": "Be sure to include your birthdate and signature.",
     "questions": [
         {
-            "question": "Is your USUAL BRAND?",
+            "id": 1,
+            "type": "select",
+            "label": "USUAL BRAND",
             "options": [
-                "Menthol",
-                "Non-Menthol"
+                "Menbit",
+                "Qt NeeMexbl",
+                "SURDES",
+                "4. hy SAL BRAND?"
             ]
         },
         {
-            "question": "Is your USUAL BRAND check (Use)",
+            "id": 2,
+            "type": "select",
+            "label": "Brand",
             "options": [
-                "Non-Filter",
-                "Filter/King",
-                "100's Long",
-                "120's Extra"
+                "1: Menbit",
+                "2: Qt NeeMexbl",
+                "3: SURDES",
+                "4: hy SAL BRAND?"
             ]
         },
         {
-            "question": "Have you bought any brands other than your usual in the PAST 3 MONTHS?",
+            "id": 3,
+            "type": "select",
+            "label": "How do you usually buy your USUAL BRAND?",
             "options": [
-                "Yes",
-                "No"
+                "1: Online",
+                "2: In-store",
+                "3: Other (please specify)"
             ]
         },
         {
-            "question": "How do you usually purchase cigarettes?",
-            "options": [
-                "By the pack",
-                "By the carton"
-            ]
-        },
-        {
-            "question": "Which of the following best describes the way you use coupons to buy your USUAL BRAND of cigarettes?",
-            "options": [
-                "I never use coupons to buy my Usual Brand",
-                "I use coupons as often as I can to buy my Usual Brand",
-                "I only buy my Usual Brand with a coupon",
-                "I never get coupons for my Usual Brand"
-            ]
-        },
-        {
-            "question": "Are you currently saving packs, proofs of purchase, UPC codes, or 'funny money' for any cigarette brand?",
-            "options": [
-                "Yes",
-                "No"
-            ]
-        },
-        {
-            "question": "In the past six months, have you sent any packs, proofs of purchase, UPC codes, or 'funny money' to get merchandise?",
-            "options": [
-                "Yes",
-                "No"
-            ]
+            "id": 4,
+            "type": "text",
+            "label": "Additional comments"
         }
     ],
-    "response_note": "RESPONSE WILL NOT BE PROCESSED WITHOUT SIGNATURE AND BIRTHDATE",
-    "birthdate_prompt": "What is your birthdate?",
-    "todays_date_prompt": "Today's date",
-    "legal_note": "I understand that giving false information in order to accept these offers may constitute a violation of law.",
-    "signature_prompt": "Signature"
+    "requirements": [
+        {
+            "id": 1,
+            "type": "signature",
+            "label": "Signature"
+        },
+        {
+            "id": 2,
+            "type": "birthdate",
+            "label": "Birthdate"
+        }
+    ]
 }

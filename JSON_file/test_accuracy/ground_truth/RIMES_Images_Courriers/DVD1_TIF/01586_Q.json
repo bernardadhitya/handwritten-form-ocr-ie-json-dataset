@@ -1,33 +1,42 @@
 {
-    "Code d'envoi": "KFLGRA",
-    "Nom": "CHAPPUIS",
-    "Prénom": "Marie Noelle",
-    "Adresse": "14 rue du 10 juin",
-    "Code Postal": "57640",
-    "Ville": "Charly Oradour",
-    "Téléphone": "0365229431",
-    "Catégorie Scénario": "Modification de contrat / Commande",
-    "Objet Scénario": "Commande d'un lot de cinquante CD vierges\\nréférence du produit 010-25-CDV",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "KLBFS46",
-    "Interlocuteur": "Les 3 Suifs",
-    "Adresse Interlocuteur": "Route de Mont de Marsan",
-    "Code Postal Interlocuteur": "40090",
-    "Ville Interlocuteur": "St Martin d'Oney",
-    "Temps passé": "15",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "20/12/06",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "ACPus_",
+                "Prenom": "claie_ Naelle _",
+                "Adresse": "L.4ee. d_o_xuin.",
+                "Code postal": "EGLLpJl",
+                "Ville": "Oxadey",
+                "Tel": "Scenario"
+            },
+            "Categorie": "Mocu{scalian - dx_centak_L",
+            "Cemnmande": {
+                "Objet": "de. dun_at_ske_ unquante_SD_ e Jeuace. d_Aoduik Q1e_ZE_SDK AL&Acge^",
+                "Complement": "ocum",
+                "Reference client eventuelle": "Interlocuteur X 3_Su4",
+                "Adresse": "Qculz_. ele_Monk_de Alaulan:",
+                "Code postal": "L10101810",
+                "Ville": "S.t Mlautin. 4"
+            },
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "passe a traiter le scenario": "45 minutes."
+            },
+            "Contribution": {
+                "Cocher_les elements de_votre_contributionpour le scenario traite": [
+                    "(G€) J'envoie mon courrier par voie postale & la date du.20/.-2106",
+                    "(+2€) Mon courrier contient une page de garde de fax",
+                    "(+1€) Avant mon envoi postal, jai telecopie ma contribution le",
+                    "(+1€) Jai envoye par courriel mon courrier numerise le"
+                ],
+                "Marque et modele du scanner": "Format PNG GIF TIFF",
+                "Resolution des images": "dpilppp ch_ 2lal-s"
+            },
+            "Cemmare": "Qnes Temps"
+        }
+    }
 }

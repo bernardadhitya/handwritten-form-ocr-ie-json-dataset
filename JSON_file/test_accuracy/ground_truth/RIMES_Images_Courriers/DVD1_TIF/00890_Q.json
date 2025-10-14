@@ -1,33 +1,41 @@
 {
-    "Code d'envoi": "ABJNJH",
-    "Nom": "BRULE",
-    "Prénom": "Ambre",
-    "Adresse": "5 rue Edgard DEGAS",
-    "Code Postal": "54800",
-    "Ville": "JARNY",
-    "Téléphone": "0318918942",
-    "Catégorie Scénario": "Réclamation",
-    "Objet Scénario": "vous vous plaignez de nuisances sonores\\n",
-    "Complément Scénario": "Le chien de vos voisins est trop bruyant\\n",
-    "Référence client": "",
-    "Interlocuteur": "Police Nationale",
-    "Adresse Interlocuteur": "Le Bourg",
-    "Code Postal Interlocuteur": "19140",
-    "Ville Interlocuteur": "CONDAT SUR GANAVEIX",
-    "Temps passé": "20",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "07/11/2006",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Identite fictive": {
+            "Nom": "pRu_LE",
+            "Prenom": "Auks",
+            "Adresse": "Saue Aesh €",
+            "Code postal": "EiKoq",
+            "Ville": "2AENL",
+            "Tel": "8"
+        },
+        "Scenario": {
+            "Categorie": "ReZlakescn_",
+            "Objet": "4oa ~Qz9s a 4s.Q_ 299103",
+            "Complement": "slsen 848u2- buyax",
+            "Reference client eventuelle": "Interlocuteur Pelize.",
+            "Actasle": {
+                "Adresse": "6sn}",
+                "Code postal": "L2Ud",
+                "Ville": "CQNAAI_sun CANASE"
+            }
+        },
+        "Redaction": {
+            "Type de stylo (noir) utilise": [
+                "bille",
+                "plume",
+                "feutre"
+            ],
+            "Temps passe a traiter le scenario": "9 minutes."
+        },
+        "Contribution": {
+            "Cocher les elements de_votre contribution pour le scenario traite": [
+                "(6e) Jenvoie mon courrier par voie postale a la date du 93.LL(2o2s.",
+                "(+2e) Mon courrier contient une page de garde de fax:",
+                "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                "(+1€) J'ai envoye par courriel mon courrier numerise le"
+            ],
+            "Marque et modele du scanner": "Format PNG GIF TIFF",
+            "Resolution des images": "dpilppp 2aqat."
+        }
+    }
 }

@@ -1,33 +1,50 @@
 {
-    "Code d'envoi": "KNATAT",
-    "Nom": "CASANOVA",
-    "Prénom": "ANNE",
-    "Adresse": "7 rue de l'Ile",
-    "Code Postal": "60100",
-    "Ville": "CREIL",
-    "Téléphone": "0300639968",
-    "Catégorie Scénario": "Difficulté de paiement",
-    "Objet Scénario": "Demande d'échelonnement\\n",
-    "Complément Scénario": "Votre endettement est devenu trop\\nimportant",
-    "Référence client": "PWGJA83",
-    "Interlocuteur": "Trésorerie des ¤{impots/impôts}¤",
-    "Adresse Interlocuteur": "BOURG",
-    "Code Postal Interlocuteur": "35480",
-    "Ville Interlocuteur": "GUIPRY",
-    "Temps passé": "6",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "28.04.07",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "28.04.07",
-    "Résolution": "300",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "x",
-    "Marque et modèle scanner": "EPSON CX 3200"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "Cas.aNrka",
+                "Prenom": "Aene",
+                "Adresse": {
+                    "Adresse": "&_CIls",
+                    "Code postal": "LGieLLorel",
+                    "Ville": "CREL",
+                    "Tel": "3"
+                }
+            },
+            "Scenario": {
+                "Categorie": "4",
+                "Objet": "TX 0X4&. Ae__Ralenxemewe",
+                "Complement": "Gele_ UX AcKemem &skAeeens unfetaxt",
+                "Reference client eventuelle": "& 3",
+                "Interlocuteur": "Ieseen&&. 44-U",
+                "Adresse": {
+                    "Adresse": "KoRk",
+                    "Code postal": "LSz 480l",
+                    "Ville": "G_LRRV"
+                }
+            },
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "minutes",
+                "Contribution": {
+                    "Jenvoie mon courrier par voie postale a la date du 28.04.0.1": "(+2€)",
+                    "Mon courrier contient une page de garde de fax": "(+1€)",
+                    "Avant mon envoi postal, j'ai telecopie ma contribution le": "(+1€)",
+                    "J'ai envoye par courriel mon courrier numerise le 28_ oe_87": {
+                        "Marque et modele du scanner": "E.RSe.4_ Ck 3.222",
+                        "Format": [
+                            "PNG",
+                            "GIF",
+                            "XTIFF"
+                        ],
+                        "Resolution des images": "300 dpilppp"
+                    }
+                }
+            }
+        }
+    }
 }

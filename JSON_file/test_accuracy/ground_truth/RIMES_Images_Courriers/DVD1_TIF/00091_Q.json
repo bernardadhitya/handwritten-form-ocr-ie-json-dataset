@@ -1,33 +1,52 @@
 {
-    "Code d'envoi": "NPAJDV",
-    "Nom": "HENRIQUES",
-    "Prénom": "Joan",
-    "Adresse": "29 rue des Moutons",
-    "Code Postal": "67270",
-    "Ville": "MELSHEIM",
-    "Téléphone": "0377283097",
-    "Catégorie Scénario": "Modification de contrat / Commande",
-    "Objet Scénario": "Changement concernant votre dernière commande\\n",
-    "Complément Scénario": "Vous souhaitez annuler votre commande\\n",
-    "Référence client": "GLZHE18",
-    "Interlocuteur": "Les 3 Suifs",
-    "Adresse Interlocuteur": "56 RUE SARTORIS",
-    "Code Postal Interlocuteur": "92250",
-    "Ville Interlocuteur": "LA GARENNE COLOMBES",
-    "Temps passé": "8",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "26/07/06",
-    "Option Page de garde de fax": "x",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "26/07/06",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "26/07/06",
-    "Résolution": "300",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "x",
-    "Marque et modèle scanner": "HP 9100 C"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "PIA": {
+                "Identite fictive": {
+                    "Nom": "Henke",
+                    "Prenom": "Jun",
+                    "Adresse": "2.9 (ue des_Lwutewa _",
+                    "Code postal": "[61t2LtOF",
+                    "Ville": "HELSHEIM",
+                    "Tel": "8 2"
+                }
+            },
+            "Scenario": {
+                "Categorie": "Leddcaken de_wnhat",
+                "Commande": {
+                    "Objet": "en COnLLEhank_Ihg_dexheo_Commande",
+                    "Complement": "Acuha e2 Qnu Ve: Vs maale",
+                    "Reference client eventuelle": "Interlocuteur lex.2. Swfs",
+                    "Adresse": "5.6 Ru5 SAQTe<S",
+                    "Code postal": "[2242p]",
+                    "Ville": "LA_GARENIE",
+                    "CoLOcr gES": {
+                        "Redaction": {
+                            "Type de stylo (noir) utilise": [
+                                "bille",
+                                "plume",
+                                "feutre"
+                            ],
+                            "Temps passe a traiter le scenario": "minutes.",
+                            "Contribution": {
+                                "Cocher les_elements de_votre contribution pour le_scenario traite": [
+                                    "(6e) J'envoie mon courrier par voie postale a la date du 26(2.7.L0.8",
+                                    "(+2e) Mon courrier contient une page de garde de fax",
+                                    "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le 2.e.le.7 Lde",
+                                    "(+1€) Jai envoye par courriel mon courrier numerise le 2LLo.Lec_"
+                                ],
+                                "Marque et modele du scanner": "Hp 9.10.2",
+                                "Format": [
+                                    "PNG",
+                                    "GIF",
+                                    "TIFF"
+                                ],
+                                "Resolution des images": "302 dpilppp"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
 }

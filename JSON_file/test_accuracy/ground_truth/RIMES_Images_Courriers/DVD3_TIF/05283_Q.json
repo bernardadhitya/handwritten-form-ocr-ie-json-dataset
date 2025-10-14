@@ -1,33 +1,37 @@
 {
-    "Code d'envoi": "UNOSOD",
-    "Nom": "DOSREIS",
-    "Prénom": "Chantal",
-    "Adresse": "67 ROUTE DE POMPEY",
-    "Code Postal": "54460",
-    "Ville": "LIVERDUN",
-    "Téléphone": "0323724156",
-    "Catégorie Scénario": "Ouverture de compte",
-    "Objet Scénario": "Vous souhaitez connaître la marche à suivre pour devenir\\nclient",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "",
-    "Interlocuteur": "BMP Banque Mutuelle de Paris",
-    "Adresse Interlocuteur": "113 GRAND RUE",
-    "Code Postal Interlocuteur": "11290",
-    "Ville Interlocuteur": "ARZENS",
-    "Temps passé": "5",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "25 Avril 2007",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "25 Avril 2007",
-    "Résolution": "300",
-    "Format PNG": "",
-    "Format GIF": "x",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "HP PSC 1110"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "DOSRETS",
+                "Prenom": "Chenlal",
+                "Adresse": "RexIE Re; ReleeX",
+                "Code postal": "LLLu6Lol",
+                "Ville": "LINERRUN",
+                "Tei": "3 3 4 2 5"
+            },
+            "Scenario": {
+                "Categorie": "Qu ertue.",
+                "Objet": "Voxs Scubaitez Cenna he_ I4 mache:.",
+                "Sulule": "evenic clienk",
+                "Complement": "9t.",
+                "Reference client eventuelle": "Interlocuteur BMP_ 6. Mcctelle&. Razi.s",
+                "Adresse": "443 eranR",
+                "Rue": "Code postal LAALZL 9g",
+                "Ville": "ARZENS"
+            },
+            "Redaction": {
+                "Type de stylo (noir) utilise": "bille plume feutre",
+                "Temps passe a traiter le scenario": "5 minutes",
+                "Contribution": {
+                    "(6€) J'envoie mon courrier par voie postale a la date du 25_Aval_ke": true,
+                    "(+2e) Mon courrier contient une page de garde de fax": true,
+                    "(+1e) Avant mon envoi postal, j'ai telecopie ma contribution le": true,
+                    "(+1€) J'ai envoye par courriel mon courrier numerise le 2S_Ava::I": true
+                },
+                "Marque et modele du scanner": "He_ PSC AMa.",
+                "Format": "PNG GIF TIFF",
+                "Resolution des images": "300-dpilppp Gempke Rae Bcnq:"
+            }
+        }
+    }
 }

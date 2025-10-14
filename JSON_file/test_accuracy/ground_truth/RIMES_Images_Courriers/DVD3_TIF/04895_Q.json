@@ -1,33 +1,47 @@
 {
-    "Code d'envoi": "EUNKZY",
-    "Nom": "VIGOUROUX",
-    "Prénom": "Philippe",
-    "Adresse": "L7A Rue du Mal Joffre",
-    "Code Postal": "68920",
-    "Ville": "WINTZENHEIM",
-    "Téléphone": "0321687986",
-    "Catégorie Scénario": "Modification de contrat/commande",
-    "Objet Scénario": "Commande d'un lot de cinquante CD vierges\\n(Réference du produit : 010-25-CDU)",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "WVFYK07",
-    "Interlocuteur": "La Reboute",
-    "Adresse Interlocuteur": "Place Marche",
-    "Code Postal Interlocuteur": "27820",
-    "Ville Interlocuteur": "Chennebrun",
-    "Temps passé": "10",
-    "Stylo bille": "",
-    "Stylo plume": "",
-    "Stylo feutre": "x",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "11.04.07",
-    "Option Page de garde de fax": "x",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "11.04.07",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "400",
-    "Format PNG": "",
-    "Format GIF": "x",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "HP Deskjet f380"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "_Vcoulaux",
+                "Prenom": "",
+                "Adresse": "LIA Que du Hae_teffee",
+                "Code postal": "L68,i20l",
+                "Ville": "WINTZeN#EIH:",
+                "Tel": "386"
+            },
+            "Scenario": {
+                "Categorie": "Mod Licahia",
+                "d_ontpat/cemmande": "Objet Cemmand. Lu &k_da_ciiquant_CDefes Miuente du(lodul 3 0lo_2S_cu)",
+                "Complement": "Aucun",
+                "Reference client eventuelle": "",
+                "Interlocuteur": "La_Robeuta",
+                "Adresse": "Place_Harchc",
+                "Code postal": "121181219",
+                "Ville": "cRenuekrun",
+                "Redaction": {
+                    "Type de stylo (noir) utilise": [
+                        "bille",
+                        "plume",
+                        "feutre"
+                    ],
+                    "Temps passe a traiter le scenario": "do minutes."
+                },
+                "Contribution": {
+                    "Cocher_les elements de_votre contribution pour le scenaro traite": [
+                        "(6e) Jenvoie mon courrier par voie postale a la date du 4_0l_0z",
+                        "(+20) Mon courrier contient une page de garde de fax",
+                        "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le AL04-03",
+                        "(+10) Jai envoye par courriel mon courrier numerise le"
+                    ],
+                    "Marque et modele du scanner": "#P eliek fzg0",
+                    "Fommat": [
+                        "PNG",
+                        "GIF",
+                        "TIFF"
+                    ],
+                    "Resolution des images": "400 dpilppp"
+                }
+            }
+        }
+    }
 }

@@ -1,33 +1,47 @@
 {
-    "Code d'envoi": "LJDCCM",
-    "Nom": "CROCHEMORE",
-    "Prénom": "Aline",
-    "Adresse": "2 RUE DU VIEUX CHENE",
-    "Code Postal": "54360",
-    "Ville": "ROMAIN",
-    "Téléphone": "0325089776",
-    "Catégorie Scénario": "Demande d'information",
-    "Objet Scénario": "Demande de documentation concernant les\\ncontrats d'assurance ¤{habitacion/habitation}¤",
-    "Complément Scénario": "Vous déménagez\\n",
-    "Référence client": "SWQIO78",
-    "Interlocuteur": "NAIF Assurances",
-    "Adresse Interlocuteur": "7 AVENUE LOUIS PASTEUR",
-    "Code Postal Interlocuteur": "24430",
-    "Ville Interlocuteur": "RAZAC SUR L'ISLE",
-    "Temps passé": "20",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "27/04/2007",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "26/04/2007",
-    "Résolution": "300",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "x",
-    "Marque et modèle scanner": "Canon CanoScan LIDE 20"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": ".GROCHEIGRE_",
+                "Prenom": "",
+                "Adresse": "2RUE. D_ VEUX: CHENE",
+                "Code postal": "51443610L",
+                "Ville": "RaNfn;",
+                "Tel": "3"
+            },
+            "Scenario": {
+                "Categorie": "Dmande_",
+                "Lan?maksen": "Objet Demande_ de_docasmentakan cancernan",
+                "Ca kxats euceance_hakilacmn": "Complement laxh dmenas",
+                "Reference client eventuelle": "S",
+                "Interlocuteur": "AILE Auxwancex",
+                "Adresse": "AAVENQE. Louis PASTEUR",
+                "Code postal": "21414310",
+                "Ville": "Razac Sua_LISLE"
+            },
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "20 minutes",
+                "Contribution": {
+                    "Cocher les elements de votre contribution pour le scenario traite": {
+                        "(6e) J'envoie mon courrier par voie postale a la date du 2.3.lo4_Izco": "",
+                        "(+2e) Mon courrier contient une page de garde de fax": "",
+                        "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le": "",
+                        "(+1e) J'ai envoye par courriel mon courrier numerise le": "26.ak_|zoo1"
+                    },
+                    "Marque et modele du scanner": "Conan CanaScah LiDE&G",
+                    "Format": [
+                        "PNG",
+                        "GIF",
+                        "TIFF"
+                    ],
+                    "Resolution des images": "300 dpi/ppp"
+                }
+            }
+        }
+    }
 }

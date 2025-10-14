@@ -1,33 +1,46 @@
 {
-    "Code d'envoi": "GPNZZU",
-    "Nom": "HENNEQUIN",
-    "Prénom": "Adeline",
-    "Adresse": "16 Rue Sommer",
-    "Code Postal": "57350",
-    "Ville": "St Pring Wendel",
-    "Téléphone": "0384218003",
-    "Catégorie Scénario": "Modification de contrat / commande",
-    "Objet Scénario": "Demande de mensualisation de l'impôt sur le\\nRevenu",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "LITUK95",
-    "Interlocuteur": "Trésorerie des ¤{impots/impôts}¤",
-    "Adresse Interlocuteur": "20 Rue Arthur Hannequin",
-    "Code Postal Interlocuteur": "51340",
-    "Ville Interlocuteur": "Pargny sur Saulx",
-    "Temps passé": "5",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "28 mars 2007",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "27 mars 2007",
-    "Résolution": "300",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "x",
-    "Marque et modèle scanner": "Agfa Snapscan e20"
+    "Code d'envoi": "Questionnaire",
+    "Identite fictive": {
+        "Nom": "HENNEQUN",
+        "Prenom": "ddelene",
+        "Adresse": "6.RUg",
+        "Code postal": "51444S 0I",
+        "Ville": "lendel",
+        "Tel": "33"
+    },
+    "Scenario": {
+        "Categorie": "_Hodefecalton",
+        "de.conkkakLcommande": "Objet Demcude_Ae_mnsclisalEonce-ILimpa.ksue_le",
+        "Revenu": "Complement",
+        "Reference client eventuelle": "2|",
+        "Interlocuteur": "TeesoRenke_des.",
+        "Adresse": "2Q.RLO",
+        "cleHhun_Hanneqcn": {
+            "Code postal": "51314cl",
+            "Ville": "0"
+        }
+    },
+    "Redaction": {
+        "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+        ],
+        "Temps passe a traiter le scenario": "5 minutes.",
+        "Contribution": {
+            "Cocher les_elements de_votre contribution pour le_scenario traite": [
+                "(6e) Jenvoie mon courrier par voie postale a la date du .28_maes2QOX",
+                "(+2€) Mon courrier contient une page de garde de fax",
+                "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                "(+1€) Jai envoye par courriel mon courrier numerise le .2.ZmaRs"
+            ],
+            "Marque et modele du scanner": "Snapsca n: e20",
+            "Format": [
+                "PNG",
+                "GIF",
+                "TIFF"
+            ],
+            "Resolution des images": "302. dpilppp"
+        }
+    }
 }

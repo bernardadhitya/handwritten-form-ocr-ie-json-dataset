@@ -1,33 +1,44 @@
 {
-    "Code d'envoi": "UKUDII",
-    "Nom": "DUCLAUX",
-    "Prénom": "Jean-Charles",
-    "Adresse": "9 rue du Kattenbach",
-    "Code Postal": "68800",
-    "Ville": "RODEREN",
-    "Téléphone": "0368989284",
-    "Catégorie Scénario": "Changement de données personnelles",
-    "Objet Scénario": "Nouvelles coordonnées bancaires (Vous déclarez\\njoindre un RIB)",
-    "Complément Scénario": "Vous changez de banque\\n",
-    "Référence client": "ZUJHL34",
-    "Interlocuteur": "SépaFR Téléphonie",
-    "Adresse Interlocuteur": "2 rue de l'Eglise",
-    "Code Postal Interlocuteur": "88580",
-    "Ville Interlocuteur": "SAULCY SUR MEURTHE",
-    "Temps passé": "20",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "05/01/2007",
-    "Option Page de garde de fax": "x",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "04/01/2007",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "05/01/2007",
-    "Résolution": "200",
-    "Format PNG": "x",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "Canon Lida 60"
+    "Code d'envoi": "Questionnaire",
+    "Identite fictive": {
+        "Nom": "Dusleux",
+        "Prenom": "Jaen"
+    },
+    "Adresse": "lx_sLs-kltm }mA",
+    "Code postal": "L6n818121el",
+    "Ville": "@erer_EN_",
+    "Tel": "3838",
+    "Scenario": {
+        "Categorie": "LRomsimet_dy_dmnea-taanmallee",
+        "Objet": "Nonz?ka.",
+        "Complement": "Mi Lm",
+        "Reference client eventuelle": "243",
+        "Interlocuteur": "_S+ES_Tilyfnie.",
+        "Adresse": "2 DxkRL Fglc:.",
+        "Code postal": "L812S181el",
+        "Ville": "_AULcX_ur MfUkHE",
+        "Redaction": {
+            "Type de stylo (noir) utilise": [
+                "bille",
+                "plume",
+                "feutre"
+            ],
+            "Temps passe a traiter le scenario": "20 minutes"
+        }
+    },
+    "Contribution": {
+        "Cocher les elements de_votre contribution pour le_scenario traite": [
+            "(6e) J'envoie mon courrier par voie postale a la date du AS/e1/_1exZ",
+            "(+2e) Mon courrier contient une page de garde de fax:",
+            "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le 24 /e.1./2egz:",
+            "(+1€) Jai envoye par courriel mon courrier numerise le 2S/e.1/zo1"
+        ],
+        "Marque et modele du scanner": "Lem Lie-6.a.",
+        "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+        ],
+        "Resolution des images": "200 dpilppp"
+    }
 }

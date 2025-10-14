@@ -1,33 +1,46 @@
 {
-    "Code d'envoi": "HIAPCI",
-    "Nom": "THIRIOT",
-    "Prénom": "Astrid",
-    "Adresse": "Route de la Pisseure",
-    "Code Postal": "70800",
-    "Ville": "Plainemont",
-    "Téléphone": "0332373675",
-    "Catégorie Scénario": "Demande d'information",
-    "Objet Scénario": "Demande de documentation concernant les\\ncontrats d'assurance auto",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "QNGAR09",
-    "Interlocuteur": "NAIF Assurances",
-    "Adresse Interlocuteur": "Place de l'Eglise",
-    "Code Postal Interlocuteur": "66300",
-    "Ville Interlocuteur": "Passa",
-    "Temps passé": "10",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "26/04/2007",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "IhiriQI",
+                "Prenom": "Askficl",
+                "Adresse": "SsexCe",
+                "Code postal": "Deep",
+                "Ville": "PlaingmoE",
+                "Tel": "3"
+            },
+            "Scenario": {
+                "Categorie": "Tmande_cliaQesmaken",
+                "Objet": "gmand&_Ag,deCunaalqhen_QRaCefNaal_kee.",
+                "Contacts": "Aassyfonle",
+                "Complement": "OUSAN",
+                "Reference client eventuelle": "",
+                "Interlocuteur": "NAi€_Asssrnee}",
+                "Adresse": "Elac_Ae,Eglis_",
+                "Code postal": "|6161ol",
+                "Ville": "Redaction",
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "minutes.",
+                "Contribution": {
+                    "Cocher les_elements de_votre contribution pour le_scenario_traite": [
+                        "(6e) J'envoie mon courrier par voie postale a la date du RG.lol-Ioxk_",
+                        "(+2e) Mon courrier contient une page de garde de fax",
+                        "Avant mon envoi postal, j'ai telecopie ma contribution le",
+                        "(+1€) J'ai envoye par courriel mon courrier numerise le"
+                    ],
+                    "Marque et modele du scanner": "",
+                    "Format": [
+                        "PNG",
+                        "GIF",
+                        "TIFF"
+                    ],
+                    "Resolution des images": "dpilppp"
+                }
+            }
+        }
+    }
 }

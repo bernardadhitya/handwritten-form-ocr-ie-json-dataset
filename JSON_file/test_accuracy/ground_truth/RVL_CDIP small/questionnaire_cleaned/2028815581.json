@@ -1,48 +1,27 @@
 {
-    "study": "PREP STUDY",
-    "session": "REGULAR",
-    "brand": "NAES",
-    "date": "DATEO",
-    "code": "ZZ",
-    "group": "G1",
-    "product": "CIGARETTE",
-    "time": {
-        "deprivation": "2 HOURS",
-        "nicotine": "1 HOUR",
-        "caffeine": "LAST CIGARETTE /C5",
-        "last_caffeine": "LAST CAFFEINE"
+    "SESSION": "REGULARBRAND",
+    "DATE": "@",
+    "CIGARETTE": {
+        "LAST CIGARETTE": "LC:SQ",
+        "LAST CAFFEINE": "1 &:OC"
     },
-    "attributes": {
-        "mouth_throat_impact": {
-            "low": true,
-            "high": false
-        },
-        "flavor": {
-            "unusual": false
-        },
-        "off_taste": {
-            "strong": false
-        },
-        "mouth_coating": {
-            "very": false
-        },
-        "satisfaction": {
-            "very": false
-        },
-        "preference": {
-            "extremely": false
-        }
+    "DEPRIVATION": {
+        "HOURS_NICOTINE": "HQURS_NICOTINE",
+        "HOUR_CAFEEINE": "HOUR_CAFEEINE"
     },
-    "mentholated": {
-        "is_mentholated": true,
-        "menthol": {
-            "very_little": false,
-            "a_lot": false
-        },
-        "cooling": {
-            "very_little": false,
-            "a_lot": false
-        }
+    "LIKES": {
+        "mouth": "Has high mouth and throat impact",
+        "flavor": "Has unusual flavor",
+        "taste": "Strong off-taste",
+        "coating": "Very mouthcoating",
+        "satisfying": "Satisfying"
     },
-    "id": "2028815581"
+    "DISLIKES": {
+        "taste": "Off-taste",
+        "menthol": "Extremely mentholated"
+    },
+    "MENTHOL": {
+        "amount": "Very little",
+        "cooling": "Cooling"
+    }
 }

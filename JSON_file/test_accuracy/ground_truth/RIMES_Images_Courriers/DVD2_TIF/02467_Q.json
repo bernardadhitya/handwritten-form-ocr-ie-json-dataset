@@ -1,33 +1,48 @@
 {
-    "Code d'envoi": "GBEDRV",
-    "Nom": "LEUX",
-    "Prénom": "Brigitte",
-    "Adresse": "4, lot des Cerisiers",
-    "Code Postal": "67930",
-    "Ville": "Kesseldorf",
-    "Téléphone": "0343518436",
-    "Catégorie Scénario": "Relance de courrier sans réponse",
-    "Objet Scénario": "Votre demande de résiliation du mois dernier\\nn'a pas été pris en compte",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "ZDRPW53",
-    "Interlocuteur": "Banque Crédit Populaire",
-    "Adresse Interlocuteur": "32, rue du Languedoc",
-    "Code Postal Interlocuteur": "31000",
-    "Ville Interlocuteur": "Toulouse",
-    "Temps passé": "5",
-    "Stylo bille": "",
-    "Stylo plume": "",
-    "Stylo feutre": "x",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "2 février 2007",
-    "Option Page de garde de fax": "x",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "2 ¤{fevrier/février}¤ 2007",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "2 février 2007",
-    "Résolution": "150",
-    "Format PNG": "",
-    "Format GIF": "x",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "Wak Center Pro 35 (Xerox)"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "LaX",
+                "Prenom": "Sasitte",
+                "Adresse": "Lek C Cenhrs_",
+                "Code postal": "Lutlel",
+                "Ville": "ISeEAelderf",
+                "Tel": "32"
+            },
+            "Scenario": {
+                "Categorie": "(elanc; d. LRkcaKA, 8906. _ponsc",
+                "Objet": "Uekx_dmaadx_&_UsEraha dym^s . A4nu I. 9. .ea:: Lm pt",
+                "Complement": "Aa5a",
+                "Reference client eventuelle": "2S3",
+                "Interlocuteur": {
+                    "Kaaa": "Cre&ih Populeix",
+                    "Adresse": "3.2 Au_angus Aoc",
+                    "Code postal": "[314Le1eLd",
+                    "Ville": "Redaction"
+                },
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "minutes.",
+                "Contribution": {
+                    "Cocher les elements de votre contribution pour le scenario_traite": [
+                        "(6e) J'envoie mon courrier par voie postale a Ia date du .2 _",
+                        "eua~Leet: 6",
+                        "Mon courrier contient une page de de fax",
+                        "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le Zfesstokas",
+                        "(+1e) Jai envoye par courriel mon courrier numerise le Pev"
+                    ]
+                },
+                "Marque et modele du scanner": "LJaL_Geak_legS_(Xerex",
+                "Format": [
+                    "PNG",
+                    "GIF",
+                    "TIFF"
+                ],
+                "Resolution des images": "AQ dpilppp ~kax_At psi y#. garde"
+            }
+        }
+    }
 }

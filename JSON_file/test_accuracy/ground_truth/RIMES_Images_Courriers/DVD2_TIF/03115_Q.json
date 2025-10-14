@@ -1,33 +1,51 @@
 {
-    "Code d'envoi": "WXXPTL",
-    "Nom": "CHAILLOUX",
-    "Prénom": "LINDA",
-    "Adresse": "18 Rue du Vallon",
-    "Code Postal": "68720",
-    "Ville": "TAGOLSHEIM",
-    "Téléphone": "0376033797",
-    "Catégorie Scénario": "Demande d'information",
-    "Objet Scénario": "Renseignement sur les horaires d'accueil du public\\n",
-    "Complément Scénario": "\\n",
-    "Référence client": "",
-    "Interlocuteur": "Trésorerie des ¤{impots/impôts}¤",
-    "Adresse Interlocuteur": "13 & 15 Bd charles Moretti",
-    "Code Postal Interlocuteur": "13014",
-    "Ville Interlocuteur": "Marseille",
-    "Temps passé": "15",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "26 février 2007",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "CHaiucqux",
+                "Prenom": "Unda_",
+                "Adresse": "AS_eue_du_Vallaa",
+                "Code postal": "16,8,4120",
+                "Ville": "TG0LSHEIA.",
+                "Tel": {
+                    "1": "3",
+                    "2": "2"
+                }
+            },
+            "Scenario": {
+                "Categorie": "Demaack_d_infbeation_",
+                "Objet": "Rezagnenent_suc_lehenizex daccueldu PuHlie",
+                "Complement": {
+                    "Reference client eventuelle": "",
+                    "Interlocuteur": "Resokeeie_dexicfeb",
+                    "Adresse": "~Ba._Ba_chaulen_Qeath\"",
+                    "Code postal": "L3QLL",
+                    "Ville": "axeille_"
+                },
+                "Redaction": {
+                    "Type de stylo (noir) utilise": [
+                        "bille",
+                        "plume",
+                        "feutre"
+                    ],
+                    "Temps passe a traiter le scenario": "minutes."
+                },
+                "Contribution": {
+                    "Cocher les elements de_votre contribution pour le_scenario traite": {
+                        "(6e) J'envoie mon courrier par voie postale a la date du": "26_eorie?_.a2",
+                        "Mon courrier contient une page de": "de fax",
+                        "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le": "",
+                        "(+1€) Jai envoye par courriel mon courrier numerise le": "",
+                        "Marque et modele du scanner": "L",
+                        "Format": [
+                            "PNG",
+                            "GIF",
+                            "TIFF"
+                        ],
+                        "Resolution des images": "dpilppp"
+                    }
+                }
+            }
+        }
+    }
 }

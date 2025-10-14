@@ -1,33 +1,46 @@
 {
-    "Code d'envoi": "FRQNIU",
-    "Nom": "DUBOC",
-    "Prénom": "Dominique",
-    "Adresse": "21 Rue Principale",
-    "Code Postal": "67290",
-    "Ville": "WEISLINGEN",
-    "Téléphone": "0342956172",
-    "Catégorie Scénario": "Gestion de Sinistre",
-    "Objet Scénario": "Vous faites Appel A votre Assurance Automobile\\n",
-    "Complément Scénario": "Vous avez provoqué un accident de la route (vous\\ndéclarerez joindre le constat)",
-    "Référence client": "KMHGM49",
-    "Interlocuteur": "MANIF Assurances",
-    "Adresse Interlocuteur": "LE BOURG",
-    "Code Postal Interlocuteur": "63640",
-    "Ville Interlocuteur": "CHARENSAT",
-    "Temps passé": "11",
-    "Stylo bille": "",
-    "Stylo plume": "",
-    "Stylo feutre": "x",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "09/04/07",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "08/04/07",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "08/04/07",
-    "Résolution": "200",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "x",
-    "Marque et modèle scanner": "AGFA"
+    "Code d'envoi": {
+        "Questionnaire": "R",
+        "Identite fictive": {
+            "Nom": "DaGae",
+            "Prenom": "QemhSeke"
+        },
+        "Adresse": "LE_Geurk:",
+        "Code postal": "[636,42]",
+        "Tel": "2",
+        "Scenario": {
+            "Categorie": "Gbmn_~z_Skakx_",
+            "Objet": [
+                "Vavs__uxke_Apal",
+                "AVakz_Axlxals"
+            ],
+            "Complement": "24"
+        },
+        "Reference client eventuelle": "4 9",
+        "Interlocuteur": "MANiE_Auia 4ea",
+        "Ville": "CARENIAT"
+    },
+    "Redaction": {
+        "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+        ],
+        "Temps passe a traiter le scenario": "M minutes"
+    },
+    "Contribution": {
+        "Cocher les_elements_de_votre contribution pour le scenario traite": [
+            "(6e) J'envoie mon courrier par voie postale a la date du og/eyez",
+            "+2€) Mon courrier contient une page de garde de fax",
+            "+1€) Avant mon envoi postal, j'ai telecopie ma contribution le @xeY27.",
+            "(+1e) Jai envoye par courriel mon courrier numerise le 0"
+        ],
+        "Marque et modele du scanner": "AtKA",
+        "Format": [
+            "PNG",
+            "GIF",
+            "DTIFF"
+        ],
+        "Resolution des images": "Zee dpilppp 24- dears"
+    }
 }

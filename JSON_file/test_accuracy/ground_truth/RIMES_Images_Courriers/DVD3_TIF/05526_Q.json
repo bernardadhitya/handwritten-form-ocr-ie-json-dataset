@@ -1,33 +1,48 @@
 {
-    "Code d'envoi": "QNAGNT",
-    "Nom": "PAUL",
-    "Prénom": "Sophie",
-    "Adresse": "4 rue des PRES",
-    "Code Postal": "67330",
-    "Ville": "KIRRWILLER BOSSELSHAUSEN",
-    "Téléphone": "0349476230",
-    "Catégorie Scénario": "Changement de données personnelles",
-    "Objet Scénario": "Nouvelles coordonnées bancaires (vous décla-\\nrerez joindre un RIB)\\nrerez joindre un RIB)",
-    "Complément Scénario": "Vous changez de banque\\n",
-    "Référence client": "VXYYG63",
-    "Interlocuteur": "Quotidien \"Le Pain\"",
-    "Adresse Interlocuteur": "La Begude",
-    "Code Postal Interlocuteur": "04270",
-    "Ville Interlocuteur": "BRAS D'ASSE",
-    "Temps passé": "10",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "5 mai 2007",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "PAcL",
+                "Prenom": "fue",
+                "Adresse": "&sREs",
+                "Code postal": "6d330",
+                "Ville": "KiQrwiLLEQCAsSELSHAUSEA;",
+                "Tel": "Scenario"
+            },
+            "Categorie": "Changemeat",
+            "cb": "cannecs",
+            "fersenaelles": "Objet",
+            "Ncuuelles_ccorclonaees": "bancaices",
+            "Lvcus_ckcla": "Jerez",
+            "Joundu_La.Qio": "Complement",
+            "Vcus_changex debanqi": "Reference client eventuelle",
+            "XMY": "Interlocuteur",
+            "~Quabiduan_": "&_Raim_",
+            "Adresse": "La_Begude",
+            "Code postal": "L04219",
+            "Ville": "BrasD_AsS",
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "minutes."
+            },
+            "Contribution": {
+                "Cocher les elements de_votre contribution pour le scenario traite": {
+                    "(6e) Jenvoie mon courrier par voie postale a la date du": "Smai_9esl",
+                    "(+2e) Mon courrier contient une page de garde de fax": true,
+                    "(+16) Avant mon envoi postal, j'ai telecopie ma contribution le": true,
+                    "(+1C) J'ai envoye par courriel mon courrier numerise le": "Marque et modele du scanner",
+                    "Format": [
+                        "PNG",
+                        "GIF",
+                        "TIFF"
+                    ],
+                    "Resolution des images": "dpilppp"
+                }
+            }
+        }
+    }
 }

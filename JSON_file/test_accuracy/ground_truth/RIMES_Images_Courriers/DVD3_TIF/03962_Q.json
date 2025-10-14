@@ -1,33 +1,47 @@
 {
-    "Code d'envoi": "UQGSBU",
-    "Nom": "CHOQUET",
-    "Prénom": "Marie-Ange",
-    "Adresse": "3 rue de LUNEVILLE",
-    "Code Postal": "54300",
-    "Ville": "BONVILLER",
-    "Téléphone": "0398351234",
-    "Catégorie Scénario": "Ouverture de Compte",
-    "Objet Scénario": "Vous souhaitez connaître la marche à\\nsuivre pour devenir client",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "",
-    "Interlocuteur": "Banque Société Géniale",
-    "Adresse Interlocuteur": "70 RUE JEAN JAURES",
-    "Code Postal Interlocuteur": "59970",
-    "Ville Interlocuteur": "FRESNES SUR ESCAUT",
-    "Temps passé": "10",
-    "Stylo bille": "",
-    "Stylo plume": "",
-    "Stylo feutre": "x",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "22 Mars 2007",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "21 Mars 2007",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "Choque",
+                "Prenom": "Me="
+            },
+            "Adresse": {
+                "3 Alk dde LuNEVilce": {
+                    "Code postal": "[51k121910",
+                    "Ville": "BoNVILLEr"
+                },
+                "Tel": "853"
+            },
+            "Scenario": {
+                "Categorie": "wcakurs_de",
+                "Objet": "Vow",
+                "Complement": "~ud_",
+                "Reference client eventuelle": "Interlocuteur",
+                "Banque": {
+                    "Socel-": "Gemuals",
+                    "Adresse": "ru€ SE_An SAunes_",
+                    "Code postal": "[5994",
+                    "Ville": "Fresne_ ESCAL)"
+                },
+                "Redaction": {
+                    "Type de stylo (noir) utilise": [
+                        "bille",
+                        "plume",
+                        "feutre"
+                    ],
+                    "Temps passe a traiter le scenario": "Ao minutes."
+                },
+                "Contribution": {
+                    "Cocher les_elements_de_votre contribution pour le_scenario traite": [
+                        "(6€) J'envoie mon courrier par voie postale a la date du 22-ars_bot",
+                        "(+2€) Mon courrier contient une page de garde de fax",
+                        "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le 2Ajars_?ovt",
+                        "(+16) Jai envoye par courriel mon courrier numerise le"
+                    ],
+                    "Marque et modele du scanner": "Format PNG GIF TIFF",
+                    "Resolution des images": "dpilppp Amge boulouterolucax Svk"
+                }
+            }
+        }
+    }
 }

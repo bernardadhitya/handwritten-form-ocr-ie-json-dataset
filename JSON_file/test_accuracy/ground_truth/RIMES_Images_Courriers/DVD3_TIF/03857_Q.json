@@ -1,33 +1,45 @@
 {
-    "Code d'envoi": "NBFTBH",
-    "Nom": "BERTHON",
-    "Prénom": "Jocelyne",
-    "Adresse": "9 rue d'Aubigy",
-    "Code Postal": "88440",
-    "Ville": "NOMEXY",
-    "Téléphone": "0322572945",
-    "Catégorie Scénario": "Demande d'information",
-    "Objet Scénario": "Demande de documentation concernant les contrats\\nd'assurance auto",
-    "Complément Scénario": "\\n",
-    "Référence client": "DEFRV59",
-    "Interlocuteur": "NAIF Assurances",
-    "Adresse Interlocuteur": "46 rue du mal Rochambeau",
-    "Code Postal Interlocuteur": "41100",
-    "Ville Interlocuteur": "THORE LA ROCHETTE",
-    "Temps passé": "10",
-    "Stylo bille": "",
-    "Stylo plume": "",
-    "Stylo feutre": "x",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "19/03/07",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "18/03/07",
-    "Résolution": "300",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "x",
-    "Marque et modèle scanner": "Canon Canoscan N1220 U"
+    "Code d'envoi": "Questionnaire",
+    "Identite fictive": {
+        "Nom": "BERTKON",
+        "Prenom": "Tib",
+        "Adresse": "9 Aule . dl",
+        "Code postal": "B8LLLLO",
+        "Ville": "NOrIEXY",
+        "Tel": "32S9S"
+    },
+    "Scenario": {
+        "Categorie": "Dewauds d'inleruahen",
+        "Objet": "Deuude d_decumenlatieu leuerhaut__bus cuttak d'asutahle aule .",
+        "Complement": "Reference client eventuelle"
+    },
+    "Interlocuteur": {
+        "NAiE": "Assuah(ef",
+        "Adresse": "46_nu du_mal Rechaubeou",
+        "Code postal": "LAAosol",
+        "Ville": "tKoRE:U EocKETIE"
+    },
+    "Redaction": {
+        "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+        ],
+        "Temps passe a traiter le scenario": "Ao: minutes."
+    },
+    "Contribution": {
+        "Elements de_votre contribution": {
+            "J'envoie mon courrier par voie postale a la date du": "A9 [ozJoa",
+            "Mon courrier contient une page de garde de fax": "+2€",
+            "Avant mon envoi postal, j'ai telecopie ma contribution le": "+1€",
+            "J'ai envoye par courriel mon courrier numerise le": "A&.(o3/o3"
+        },
+        "Marque et modele du scanner": "Cauew Cenesan NA2Zo.A",
+        "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+        ],
+        "Resolution des images": "300. dpilppp"
+    }
 }

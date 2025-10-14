@@ -1,48 +1,46 @@
 {
-    "company": "AMADSUNSUUAREGARDENS",
-    "req_no": 7,
-    "requisition_type": "SEREQUISITION",
-    "company_affiliation": "A Paramount Communications Company",
-    "purchase_order": "",
-    "requestor_name": "",
-    "budget_and_price_information": {
-        "prior_years_actual_cost": "",
-        "included_in_this_years_budget": "",
-        "if_yes_how_much": "",
-        "capital_appropriation_number": "",
-        "project_number": ""
-    },
-    "renovation_information": {
-        "project": "",
-        "work_authorization_number": "",
-        "trade_number": ""
-    },
-    "shipping": {
-        "ship_via": "",
-        "terms": ""
-    },
-    "reason_for_request_comments": "YIRGINIA 0ims Hedia CentaR Charge.",
-    "work_order_number": "5 2 q",
-    "requisition_information": {
-        "check_one": "PURCHASE",
-        "suggested_vendor": "",
-        "deliver_to": "VANOLO",
-        "location": "",
-        "attention": "OFFICE"
-    },
-    "items": [
-        {
-            "quantity": "Cases",
-            "description": "8'%z x 11 copier D.ey",
-            "model_number": "2041012976",
-            "unit_price": "",
-            "extension": ""
+    "EREQUISITION": {
+        "REQ NO": 5871,
+        "reQuestor'S NAME": "Ja_zeHLe",
+        "PURCHASE ORDER #": "lal3",
+        "BUDGET AND PRICE INFORMATION": {
+            "PRIOR YEAR'S ACTUAL COST": "INCLUDED IN ThIs YEARS budOeT:",
+            "CAPITAL APPROPRIATION NuMber": "",
+            "PROJECT Nuber": "",
+            "YES": true,
+            "NO": false
+        },
+        "RENOVATION INFORMATION": {
+            "PROJECT": "",
+            "WORK AUTHORIZATION#": "",
+            "TRADE #": "",
+            "SHIP VuA": "",
+            "TeAMS": "",
+            "REASONFOR REQUESTICOMMENTS": "ViRSINA ims HEDI4 QENTk CHARG2 WORK_oRezr#329"
+        },
+        "REQUISIION INFORMATION": {
+            "CHECK ONE": "PURCHASE",
+            "PURCHASE": true,
+            "BLANKET ORDFR D": false,
+            "LEASED": false,
+            "RENT D": false,
+            "PERIOD": "SUGGESTED VENDOR Tcinnt Cci ITEn' TR!r T-16-13",
+            "DELIVER TO": {
+                "LOCATION": "RoTunpA 5+6 flooRs",
+                "ATTENTION": "offiq8"
+            },
+            "QUANIIY": 1,
+            "ITEM DESCRIPTION": "Copier Paper",
+            "MODEL NUMBER": "",
+            "SPECIFICATIONS": "",
+            "UNIT PRICE": 8.2,
+            "EXTENSION": 1
+        },
+        "DATE": {
+            "GROUPIDEPARTMENT HEAD": "[243",
+            "Ymat": "TCE",
+            "PRESIDENT": "DATE",
+            "CNCE ECAN IS completed AND AuthCRIZED FORWAAD TO The CorporATE PUPCHASING DEPARTMENT": ""
         }
-    ],
-    "attachments": "ATTACYALLSPECIFICATION SHEETS TO THE BACK",
-    "requestor_date": "",
-    "group_department_head_date": "",
-    "en_date": "",
-    "president_date": "",
-    "note": "ONCE ECRM IS COMPLETED AND AUTHORIZED FORWARD TO THE CORPORATE PURCHASING DEPARTMENT"
+    }
 }

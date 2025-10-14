@@ -1,33 +1,48 @@
 {
-    "Code d'envoi": "FDXJFM",
-    "Nom": "REINA",
-    "Prénom": "Serge",
-    "Adresse": "42 Rue St Pierre",
-    "Code Postal": "57430",
-    "Ville": "Le Val de Gueblange",
-    "Téléphone": "0361213195",
-    "Catégorie Scénario": "Relance de courrier sans réponse",
-    "Objet Scénario": "Réclamation du mois dernier est restée sans\\nsuite",
-    "Complément Scénario": "Aucun\\n",
-    "Référence client": "LXAKTOO",
-    "Interlocuteur": "Bof Telecom",
-    "Adresse Interlocuteur": "Rue de l'hippodrome",
-    "Code Postal Interlocuteur": "61140",
-    "Ville Interlocuteur": "Bagnoles de l'orne",
-    "Temps passé": "15",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "31/03/07",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "31/03/07",
-    "Résolution": "300",
-    "Format PNG": "x",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "Lexmark"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "REne_",
+                "Prenom": "Serge"
+            },
+            "Adresse": "42 Rus. Piexxe.",
+            "Code postal": "547141340",
+            "Ville": "ke Val_ de. Gueb:",
+            "Tel": "239"
+        },
+        "Scenario": {
+            "Categorie": "Relancs. de. couxricx ans",
+            "Reponse": "Objet RecQamation: du. 2014. deiniex est_ Yestee_ Son Suite.",
+            "Complement": "Hucux",
+            "Reference client eventuelle": "A k",
+            "Interlocuteur": "BcE",
+            "Teleco": "M1",
+            "Adresse": "Zux_ de. L__tppedrame",
+            "Code postal": "6414421",
+            "Ville": "Bagmales_de (orne."
+        },
+        "Redaction": {
+            "Type de stylo (noir) utilise": [
+                "bille",
+                "plume",
+                "feutre"
+            ],
+            "Temps passe a traiter le scenario": "(S minutes."
+        },
+        "Contribution": {
+            "Cocher les elements de_votre contribution pour le scenario traite_": {
+                "(6€) Jenvoie mon courrier par voie postale a la date du": "3L Aeekez",
+                "(+2e) Mon courrier contient une page de garde de fax": "",
+                "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le": "",
+                "(+1€) Jai envoye par courriel mon courrier numerise le": "31 Ug:koz"
+            },
+            "Marque et modele du scanner": "kexmark.",
+            "Format": [
+                "PNG",
+                "GIF",
+                "TIFF"
+            ],
+            "Resolution des images": "802 dpilppp lange:"
+        }
+    }
 }

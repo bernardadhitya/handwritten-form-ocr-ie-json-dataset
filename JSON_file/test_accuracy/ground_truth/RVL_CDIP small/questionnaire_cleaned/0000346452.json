@@ -1,23 +1,27 @@
 {
-    "questionnaire": "Brown & Williamson Maxwell Seminar",
-    "purpose": "To receive personal responses to the information presented by B&W at the 1985 Maxwell Seminar.",
-    "comments": "Completion of this brief questionnaire is appreciated. Signature is optional.",
-    "questions": [
-        {
-            "question": "The presentation clearly identified B&W's corporate strategy for the next 12 to 18 months.",
-            "response_scale": "Low Degree to High Degree"
+    "questionnaire": {
+        "title": "WILLINSON MAXNELL_SEMINAR",
+        "purpose": "The purpose of this questionnaire is to receive your personal response to the information presented by BxW at the 1985 Kaxwell Seminar. We would appreciate your comments through completion of this brief questionnaire.",
+        "signature": "Your signature (optional)"
+    },
+    "responses": {
+        "corporate_strategy": {
+            "Low_Degree": "to 18 months",
+            "High_Degree": "to 18 months"
         },
-        {
-            "question": "Would you have need for BATUS and B.A.T.",
-            "response_scale": "Low Degree to High Degree"
+        "additional_financial_information": {
+            "Low_Degree": "BAW, BATUS, and B.A.T.",
+            "High_Degree": "BAW, BATUS, and B.A.T."
         },
-        {
-            "question": "Do you feel the answers to questions were responsive?",
-            "response_scale": "Low Degree to High Degree"
+        "answers_responsive": {
+            "Low_Degree": "responsive",
+            "High_Degree": "responsive"
         },
-        {
-            "question": "How do you rate B&W on company objectives?",
-            "response_scale": "Low Degree to High Degree"
+        "communication_rating": {
+            "Low_Degree": "communicating information & business goals and objectives",
+            "High_Degree": "communicating information & business goals and objectives"
         }
-    ]
+    },
+    "general_comments": "AeX 7uL X07 ZB Eh",
+    "signature": "Signature (optional)"
 }

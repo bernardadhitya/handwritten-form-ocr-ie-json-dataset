@@ -1,57 +1,44 @@
 {
-    "title": "Post Test",
-    "subtitle": "Interim Requirements for Quality Records Training",
-    "instructions": "Remember: For multiple choice questions, there may be multiple selections to answer the question correctly.",
-    "questions": [
+    "Questions": [
         {
-            "question": "When creating a Quality Record you may use which of the following?",
-            "options": [
-                "Ink",
-                "Pencil",
-                "Permanent Marker",
-                "None of the above"
-            ]
-        },
-        {
-            "question": "When should you begin using the training covered in this course?",
-            "options": [
+            "Question": "When should you begin using the training covered in this course?",
+            "Options": [
                 "Immediately after this training is completed",
-                "When you have been trained on and requested to implement PPIF's that generate Quality Records.",
-                "None of the above."
+                "When you have been trained and requested to implement PPIF that generate Quality Records"
             ]
         },
         {
-            "question": "The only way to correct an electronic Quality Record is to document the appropriate information about the correction in a log, sign and date the log entry, and make the correction in the electronic system."
-        },
-        {
-            "question": "Quality Records may be filed:",
-            "options": [
-                "In a department central file area",
-                "At individual desks",
-                "Only with Records Management personnel"
+            "Question": "The only way to correct an electronic Quality Record is to:",
+            "Options": [
+                "Document the appropriate information about the correction",
+                "Log, sign and date the log entry, and make the correction in the electronic system"
             ]
         },
         {
-            "question": "Quality Records are",
-            "options": [
-                "The historical proof that demonstrate the execution of activities typically described by Quality System documents.",
-                "All Philip Morris records generated after the implementation of the Quality System."
+            "Question": "Quality Records may be filed in the following locations:",
+            "Options": [
+                "Department central file area",
+                "At individual desks only with Records Management personnel"
             ]
         },
         {
-            "question": "True or False: When correcting a Quality Record you may erase the incorrect information and write the correct information on the record."
+            "Question": "Quality Records are:",
+            "Answer": "The historical records that demonstrate the execution of activities typically described by Quality System"
         },
         {
-            "question": "True or False: If no information is required in a particular space on a Quality System form, you may leave it blank."
-        },
-        {
-            "question": "When creating a Quality Record you must comply with:",
-            "options": [
-                "The training described in this course.",
-                "All instructions, procedures, and training requirements associated with the record.",
-                "All of the above"
+            "Question": "When correcting a Quality Record, you may erase the incorrect information and write the corrected information on the record.",
+            "Options": [
+                "True",
+                "False"
             ]
+        },
+        {
+            "Question": "If no information is required in a particular space on a Quality System form, you may leave it blank.",
+            "Answer": "True"
+        },
+        {
+            "Question": "When creating a Quality Record, you must comply with:",
+            "Answer": "The training described in this course, instructions, procedures, and training requirements associated with the record"
         }
-    ],
-    "identifier": "2084033471"
+    ]
 }

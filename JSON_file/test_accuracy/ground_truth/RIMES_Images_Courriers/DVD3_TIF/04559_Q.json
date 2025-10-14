@@ -1,33 +1,42 @@
 {
-    "Code d'envoi": "YWYBEG",
-    "Nom": "LARUE",
-    "Prénom": "Celine",
-    "Adresse": "13 RUE ANTONIN DAUM",
-    "Code Postal": "54690",
-    "Ville": "LAY ST CHRISTOPHE",
-    "Téléphone": "0395064778",
-    "Catégorie Scénario": "Gestion de sinistre",
-    "Objet Scénario": "Vous êtes sans nouvelles concernant l'expertise\\nde votre véhicule accidenté le mois dernier",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "ROHXN81",
-    "Interlocuteur": "NAIF Assurances",
-    "Adresse Interlocuteur": "48 RUE PRINCIPALE",
-    "Code Postal Interlocuteur": "71530",
-    "Ville Interlocuteur": "CRISSEY",
-    "Temps passé": "35",
-    "Stylo bille": "",
-    "Stylo plume": "",
-    "Stylo feutre": "x",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "03/04/07",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": 7,
+    "Questionnaire": "BIEIG",
+    "Identite fictive": {
+        "Nom": "Zarue_",
+        "Prenom": "Gle",
+        "Adresse": "43. AQE_ AN_ToNiN SAUH",
+        "Code postal": "65,4,64o]",
+        "Ville": "Zax_ SCHRi STQPHE.",
+        "Tel": "5 6l4# #8"
+    },
+    "Scenario": {
+        "Categorie": "Gzhion_ de; Sinishe",
+        "Objet": "Vao_ekes; Son (oxeel CTDCQf nak pS da Vole_ehucbe_accidmntz @os deraec_",
+        "Complement": "dUcl",
+        "Reference client eventuelle": "R 0 8"
+    },
+    "Interlocuteur": {
+        "Nom": "NALE Assucccas",
+        "Adresse": "48 AvE_ PAiNciPALE",
+        "Code postal": "[5izol",
+        "Ville": "CRissEx"
+    },
+    "Redaction": {
+        "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+        ],
+        "Temps passe a traiter le scenario": "35 minutes."
+    },
+    "Contribution": {
+        "Cocher les elements de_votre contribution pour le scenario traite": [
+            "[ree] Jenvoie mon courrier par voie postale a la date du .03",
+            "(+2e) Mon courrier contient une page de garde de fax",
+            "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+            "(+1€) J'ai envoye par courriel mon courrier numerise le"
+        ],
+        "Marque et modele du scanner": "Format PNG GIF TIFF",
+        "Resolution des images": "dpilppp exeechk"
+    }
 }

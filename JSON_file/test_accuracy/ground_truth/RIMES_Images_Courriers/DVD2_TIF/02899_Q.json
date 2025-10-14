@@ -1,33 +1,36 @@
 {
-    "Code d'envoi": "FLICVR",
-    "Nom": "Winterstein",
-    "Prénom": "Patrick",
-    "Adresse": "51 du Val",
-    "Code Postal": "54200",
-    "Ville": "Pierre la Treiche",
-    "Téléphone": "0395223778",
-    "Catégorie Scénario": "Demande d'information",
-    "Objet Scénario": "Demande de documentation concernant les contrats\\nd'assurance habitation",
-    "Complément Scénario": "Vous vous êtes installez avec votre conjoint\\n",
-    "Référence client": "MPAXJ95",
-    "Interlocuteur": "NNA Assurance",
-    "Adresse Interlocuteur": "Avenue de la gare",
-    "Code Postal Interlocuteur": "63780",
-    "Ville Interlocuteur": "Les Martres de Veyre",
-    "Temps passé": "",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "14-02-2001",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "Lintexlein",
+                "Prenom": "Sah",
+                "Adresse": "35-d",
+                "Code postal": "5.42ual",
+                "Ville": "Rew& Sa Seshe",
+                "Tel": "3223+<"
+            },
+            "Scenario": {
+                "Categorie": "demaurde",
+                "Ainlexe": "Cl",
+                "Objet": "excAnde A. deunentalax Soncex Yex dayxlucvce Rolikaben_",
+                "Complement": "Laus_ :r elea ~sxkalleg oic :alie_",
+                "Sexeink": "",
+                "Reference client eventuelle": "",
+                "Interlocuteur": "NNA Ankio",
+                "Adresse": "aeuue_ Ae_Ai-gcue_",
+                "Code postal": "[0Lgl",
+                "Ville": "le_ cNales 4e",
+                "Redaction": {
+                    "Type de stylo (noir) utilise": "bille plume feutre",
+                    "Temps passe a traiter le scenario": "minutes"
+                },
+                "Contribution": {
+                    "Cocher les elements de votre contribution pour le scenario traite": "(6e) J'envoie mon courrier par voie postale a la date du _ Lk_eZ 8 2. +2e) Mon courrier contient une page de garde de fax. +1€) Avant mon envoi postal, j'ai telecopie ma contribution le (+18) J'ai envoye par courriel mon courrier numerise le",
+                    "Marque et modele du scanner": "",
+                    "Format": "PNG GIF TIFF",
+                    "Resolution des images": "dpilppp Lex conh Lexe"
+                }
+            }
+        }
+    }
 }

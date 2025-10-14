@@ -1,33 +1,47 @@
 {
-    "Code d'envoi": "JBCLHA",
-    "Nom": "Gallier",
-    "Prénom": "Gilbert",
-    "Adresse": "16 rue du Moulin",
-    "Code Postal": "57300",
-    "Ville": "Ay sur Moselle",
-    "Téléphone": "0346875020",
-    "Catégorie Scénario": "Modification de contrat / commande",
-    "Objet Scénario": "changement concernant votre dernière\\ncommande",
-    "Complément Scénario": "Vous ¤{souhaiter/souhaitez}¤ votre commande\\n",
-    "Référence client": "BXBCW59",
-    "Interlocuteur": "le reboute",
-    "Adresse Interlocuteur": "place du ¤{chateau/château}¤",
-    "Code Postal Interlocuteur": "45220",
-    "Ville Interlocuteur": "Chateaurenard",
-    "Temps passé": "25",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "13/11/06",
-    "Option Page de garde de fax": "x",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "13/11/06",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "12/11/06",
-    "Résolution": "96",
-    "Format PNG": "",
-    "Format GIF": "x",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "canon MPC 190"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "clLa",
+                "Prenom": "ILle_ducHaxkun_",
+                "Adresse": "51Z21 d ville 4-Ol.allsoze'"
+            },
+            "Tei": "8",
+            "Scenario": {
+                "Categorie": "dledgi-caliom_da_Smntak_(camnamdLs_",
+                "Objet": "AangumemL",
+                "CdxC": "Ceamamb_n-taa__dMUA&",
+                "Cuxand": "Quo_Qauhoitek: amulll_ qule CcMmONG",
+                "Reference client eventuelle": "Ra_alub",
+                "Interlocuteur": {
+                    "Adresse": "d__clatanw",
+                    "Code postal": "L45212d",
+                    "Ville": "kakauuaamcd"
+                }
+            },
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "2.5 minutes"
+            },
+            "Contribution": {
+                "Cocher les_elements_de_votre contribution pour le_scenario traite": [
+                    "(6e) J'envoie mon courrier par voie postale a la date du 43.LlLla.",
+                    "+2€) Mon courrier contient une page de garde de fax",
+                    "+1€) Avant mon envoi postal, j'ai telecopie ma contribution le _13_ nks.",
+                    "Jai envoye par courriel mon courrier numerise le Ullylo_"
+                ],
+                "Marque et modele du scanner": "Lan",
+                "Format": [
+                    "PNG",
+                    "GIF",
+                    "TIFF"
+                ],
+                "Resolution des images": "J< dpilppp %lrak ~Pas"
+            }
+        }
+    }
 }

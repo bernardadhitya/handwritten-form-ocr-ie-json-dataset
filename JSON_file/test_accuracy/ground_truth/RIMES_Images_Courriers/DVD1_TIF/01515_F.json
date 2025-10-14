@@ -1,15 +1,25 @@
 {
-    "document": "Fax",
-    "scenario": "Demande d'information",
-    "writer": "BOIVIN Maylis",
-    "sender_person": "BOIVIN Maylis",
-    "sender_company": "ENTREPRISE URBAIN & fils",
-    "sender_tel": "",
-    "sender_fax": "",
-    "receiver_person": "",
-    "receiver_company": "BOF TELECOM",
-    "subject": "",
-    "date": "18/12/2006",
-    "place": "",
-    "box": ""
+    "EXPEDITEUR": "Goivin tlayby",
+    "ENTREPRISE": "URBAIN & fils",
+    "Bordereau": "d'envoi",
+    "Designation des pieces": [
+        {
+            "Nombre": "pek & faxc"
+        },
+        {
+            "Nombre": "dleno_c"
+        },
+        {
+            "Nombre": "cdle"
+        },
+        {
+            "Nombre": "eaSalofx"
+        },
+        {
+            "Nombre": "Mauc"
+        },
+        {
+            "Nombre": "qusko1"
+        }
+    ]
 }

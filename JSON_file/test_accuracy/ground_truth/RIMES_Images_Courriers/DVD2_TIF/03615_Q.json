@@ -1,33 +1,44 @@
 {
-    "Code d'envoi": "OSHYAK",
-    "Nom": "SORIN",
-    "Prénom": "Juliette",
-    "Adresse": "26 rue Principale",
-    "Code Postal": "67270",
-    "Ville": "HOHFRANKENHEIM",
-    "Téléphone": "0338497490",
-    "Catégorie Scénario": "Demande d'information",
-    "Objet Scénario": "Demande de documentation concernant\\nles contrats d'assurance auto",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "EIYEN92",
-    "Interlocuteur": "BAAF Assurances",
-    "Adresse Interlocuteur": "Place Alexandre BERARD",
-    "Code Postal Interlocuteur": "01500",
-    "Ville Interlocuteur": "St Denis en Bugey",
-    "Temps passé": "40",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "13 mars 2007",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "12 mars 2007",
-    "Résolution": "300",
-    "Format PNG": "",
-    "Format GIF": "x",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "EPSON Perfection 610"
+    "Code d'envoi": "Questionnaire",
+    "Identite fictive": {
+        "Nom": "SQRin",
+        "Prenom": "Juliekte",
+        "Adresse": "26_e Eziacipale_",
+        "Code postal": "L67220l",
+        "Ville": "HeHERANKENHELL",
+        "Tel": "3"
+    },
+    "Scenario": {
+        "Categorie": "Demdmde d_inkxaaken",
+        "Objet": "de lz_deusmemtakx Cacean Rs_Lexadks_ d_UISuinc__Mlle",
+        "Complement": "lLukn",
+        "Reference client eventuelle": "Elzriem",
+        "Interlocuteur": "BAAE_ HSSuiaces",
+        "Adresse": "Place nEexdndze Berarl",
+        "Code postal": "[OsASLDd",
+        "Ville": "St_Deaus_em: Bugey"
+    },
+    "Redaction": {
+        "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+        ],
+        "Temps passe a traiter le scenario": "LQ minutes"
+    },
+    "Contribution": {
+        "Cocher les elements_de_votre contribution pour le_scenario_traite": [
+            "(6€) J'envoie mon courrier par voie postale a la date du I3_mna_20eZ",
+            "(+2e) Mon courrier contient une page de garde de fax",
+            "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le Q",
+            "(+1e) Jai envoye par courriel mon courrier numerise le 12m4 Z2lz_"
+        ],
+        "Marque et modele du scanner": "EPseM_Resfeche_61L",
+        "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+        ],
+        "Resolution des images": "302 dpilppp eh Deadn"
+    }
 }

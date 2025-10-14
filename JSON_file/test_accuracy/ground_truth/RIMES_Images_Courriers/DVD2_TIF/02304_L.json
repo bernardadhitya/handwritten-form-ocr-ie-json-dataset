@@ -1,15 +1,22 @@
 {
-    "document": "Lettre manuscrite",
-    "scenario": "Fermeture de compte",
-    "writer": "POUPON Manon",
-    "sender_person": "Poupon Manon",
-    "sender_company": "",
-    "sender_tel": "",
-    "sender_fax": "",
-    "receiver_person": "",
-    "receiver_company": "Banque Société Géniale",
-    "subject": "Objet : Fermeture de compte Bancaire",
-    "date": "28/01/2007",
-    "place": "Altrippe",
-    "box": ""
+    "sender": {
+        "name": "Banque de France",
+        "address": "4, 530, Larche, Bordeaux",
+        "phone_number": "06123456789"
+    },
+    "recipient": {
+        "name": "Monsieur",
+        "address": "Not specified"
+    },
+    "transaction": {
+        "type": "Fermehure de compre Bancaire",
+        "date": "2 January 2004",
+        "amount": "Not specified"
+    },
+    "request": {
+        "reason": "Not satisfied with the current account and seeking a better interest rate"
+    },
+    "response": {
+        "reason": "Not satisfied with the current account and seeking a better interest rate"
+    }
 }

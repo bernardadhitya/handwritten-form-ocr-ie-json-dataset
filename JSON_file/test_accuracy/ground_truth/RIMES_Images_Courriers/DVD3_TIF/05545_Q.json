@@ -1,33 +1,56 @@
 {
-    "Code d'envoi": "YZHYZO",
-    "Nom": "DA SILVA",
-    "Prénom": "Guy",
-    "Adresse": "1 allée des Pivoines",
-    "Code Postal": "54650",
-    "Ville": "Saulnes",
-    "Téléphone": "0334912931",
-    "Catégorie Scénario": "Modification de contrat / Commande",
-    "Objet Scénario": "Augmentation (x2) des quantités de\\nchaussettes commandées",
-    "Complément Scénario": "\\n",
-    "Référence client": "JSSVL63",
-    "Interlocuteur": "Les 3 Suifs",
-    "Adresse Interlocuteur": "23 rue Paul Vaillant Couturier",
-    "Code Postal Interlocuteur": "95100",
-    "Ville Interlocuteur": "Argenteuil",
-    "Temps passé": "5",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "10/05/2007",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "A",
+                "Prenom": "3iLVA:",
+                "Adresse": "llee des fAeoxhes:",
+                "Code postal": "[51464512]",
+                "Ville": "Sulbes",
+                "Tel": "28"
+            },
+            "Scenario": {
+                "Categorie": "Medifictieh:",
+                "Cel tvat": "[Eewmande:",
+                "Objet": "A mxhfaGxzh:",
+                "Rles Guahltes": "d.e chalc ssalle:s",
+                "Cexanclees": "Complement",
+                "Reference client eventuelle": "63"
+            },
+            "Interlocuteur": {
+                "Les": "'4s:",
+                "Adresse": "kue lul. Ullant Cestuu:tek",
+                "Code postal": "[4SxLegl",
+                "Ville": "Avaenteacl."
+            },
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "minutes."
+            },
+            "Contribution": {
+                "Cocher les elements de_votre contribution pour le scenario traite": [
+                    "(6e) J'envoie mon courrier par voie postale a la date du",
+                    "Ackas /&e.",
+                    "(+2e) Mon courrier contient une page de garde de fax",
+                    "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                    "(+1€) Jai envoye par courriel mon courrier numerise le"
+                ],
+                "Marque et modele du scanner": null,
+                "Format": [
+                    "PNG",
+                    "GIF",
+                    "TIFF"
+                ],
+                "Resolution des images": [
+                    "dpilppp",
+                    "6x4",
+                    "04"
+                ]
+            }
+        }
+    }
 }

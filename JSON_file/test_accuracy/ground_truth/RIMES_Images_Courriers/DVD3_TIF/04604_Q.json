@@ -1,33 +1,46 @@
 {
-    "Code d'envoi": "CUSZOS",
-    "Nom": "BRISSET",
-    "Prénom": "ELODIE",
-    "Adresse": "13 GRAND RUE",
-    "Code Postal": "57370",
-    "Ville": "Danne et Quatre Vents",
-    "Téléphone": "0352560919",
-    "Catégorie Scénario": "Demande d'information",
-    "Objet Scénario": "Renseignement sur les horaires d'accueil du public\\n",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "",
-    "Interlocuteur": "BMP - Banque Mutuelle de Paris",
-    "Adresse Interlocuteur": "Le Bourg",
-    "Code Postal Interlocuteur": "87150",
-    "Ville Interlocuteur": "CUSSAC",
-    "Temps passé": "60",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "3/04/07",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "2/04/07",
-    "Résolution": "300",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "x",
-    "Marque et modèle scanner": "CANON CANOSCAN D1250 42"
+    "Code d'envoi": {
+        "Questionnaire": 2,
+        "Identite fictive": {
+            "Nom": "ReisE",
+            "Prenom": "ELo_.DE",
+            "Adresse": "R.6RmNA_Rue",
+            "Code postal": "[5+3d1d",
+            "Ville": "Danax_ek_Qval_Vewb",
+            "Tel": 3
+        },
+        "Scenario": {
+            "Categorie": "Demawdu_dtm kraahe:",
+            "Objet": "RemXagmnluk_Auc",
+            "Complement": "CuLCUA .",
+            "Reference client eventuelle": null,
+            "Interlocuteur": "BME_Baqng_Huhvelb_dx_%ria",
+            "Adresse": "Le_ Beu_",
+            "Code postal": "[8481454o]",
+            "Ville": "CScAC:"
+        },
+        "Redaction": {
+            "Type de stylo (noir) utilise": [
+                "bille",
+                "plume",
+                "feutre"
+            ],
+            "Temps passe a traiter le scenario": 6.0,
+            "Contribution": {
+                "Cocher les_elements de_votre contribution pour le_scenario traite_": {
+                    "(6€) J'envoie mon courrier par voie postale a la date du 3lo4.le": true,
+                    "(+2e) Mon courrier contient une page de garde de fax": true,
+                    "(+1€) Avant mon envoi postal, jai telecopie ma contribution le": true,
+                    "(+1€) Jai envoye par courriel mon courrier numerise le 2ldy_kox__": true
+                },
+                "Marque et modele du scanner": "QrNon_CANo (CAN 014e_",
+                "Format": [
+                    "PNG",
+                    "GIF",
+                    "TIFF"
+                ],
+                "Resolution des images": "3q0_ dpilppp"
+            }
+        }
+    }
 }

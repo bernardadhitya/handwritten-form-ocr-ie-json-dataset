@@ -1,33 +1,43 @@
 {
-    "Code d'envoi": "QFWUMY",
-    "Nom": "Clemencon",
-    "Prénom": "Chaima",
-    "Adresse": "1 Allée des Pivoines",
-    "Code Postal": "54650",
-    "Ville": "Saulnes",
-    "Téléphone": "0370911945",
-    "Catégorie Scénario": "Modification de contrat / commande",
-    "Objet Scénario": "Augmentation (x2) des quantités de\\nchaussettes commandées.",
-    "Complément Scénario": "aucun.\\n",
-    "Référence client": "CCZZZ41",
-    "Interlocuteur": "La Redoute",
-    "Adresse Interlocuteur": "",
-    "Code Postal Interlocuteur": "97311",
-    "Ville Interlocuteur": "ROURA",
-    "Temps passé": "20",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "30/01/2007",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": 7,
+    "Questionnaire": {
+        "Identite fictive": {
+            "Nom": "CPem=",
+            "Prenom": "CRaima",
+            "Adresse": "AFRe& aes_ Pinxr.aea-",
+            "Code postal": "[514L6_S1ol",
+            "Ville": "Socfm.es",
+            "Tel": 3
+        },
+        "Scenario": {
+            "Categorie": "HedRsokic de selaskL camman",
+            "Objet": "lKome alic on (x2)dex quAnkkex cRauseltea_ Cemman 8ee4",
+            "Complement": "SKSsn",
+            "Reference client eventuelle": "Interlocuteur La_Redek&",
+            "Adresse": "Code postal [8173L4J Ville RaUla",
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "minutes"
+            }
+        },
+        "Contribution": {
+            "Cocher les elements de votre contribution pour le scenario traite_": {
+                "(6e) J'envoie mon courrier par voie postale a la date du 3ol1L.9.7": "+2€",
+                "Mon courrier contient une page de de fax": "+1€",
+                "Avant mon envoi postal, j'ai telecopie ma contribution le": "+1€",
+                "Jai envoye par courriel mon courrier numerise le": "+1€"
+            },
+            "Marque et modele du scanner": null,
+            "Format": [
+                "PNG",
+                "GIF",
+                "TIFF"
+            ],
+            "Resolution des images": "dpilppp garde"
+        }
+    }
 }

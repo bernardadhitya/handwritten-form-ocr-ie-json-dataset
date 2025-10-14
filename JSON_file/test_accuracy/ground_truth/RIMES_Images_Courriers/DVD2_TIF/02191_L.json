@@ -1,15 +1,13 @@
 {
-    "document": "Lettre manuscrite",
-    "scenario": "Réclamation",
-    "writer": "COUDRAY Rolande",
-    "sender_person": "Rolande Coudray",
-    "sender_company": "",
-    "sender_tel": "+33(0)3.17.53.60.01",
-    "sender_fax": "",
-    "receiver_person": "",
-    "receiver_company": "BOF Telecom",
-    "subject": "objet : réclamation",
-    "date": "24/01/2007",
-    "place": "Bouxières aux dames",
-    "box": ""
+    "Address": {
+        "Street": "3 rue de Jericho",
+        "City": "Bouxiefed aux",
+        "Postal Code": "54436"
+    },
+    "Date": "24/04/0",
+    "Reference": "client",
+    "Object": "reclamation",
+    "Name": "Monsieur Coudray",
+    "Telephone": "38 860",
+    "Message": "Je demande donc qu'on arrête de me faire des prélèvements sur mon abonnement."
 }

@@ -1,33 +1,44 @@
 {
-    "Code d'envoi": "QGXWGP",
-    "Nom": "ferrante",
-    "Prénom": "daniel",
-    "Adresse": "2 place frères precheurs",
-    "Code Postal": "26170",
-    "Ville": "buis les baronnies",
-    "Téléphone": "0487015110",
-    "Catégorie Scénario": "difficulté de paiement",
-    "Objet Scénario": "demande de remise gracieuse\\n",
-    "Complément Scénario": "votre endettement est devenu trop\\nimportant",
-    "Référence client": "ZPMDH54",
-    "Interlocuteur": "EDF",
-    "Adresse Interlocuteur": "place henri quercille",
-    "Code Postal Interlocuteur": "19160",
-    "Ville Interlocuteur": "neuvic",
-    "Temps passé": "20",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "22-01-07",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "22-01-07",
-    "Résolution": "300",
-    "Format PNG": "x",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "Canon piscma MP150"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "Jeanantz",
+                "Prenom": "daniel",
+                "Adresse": "4 en mecheues.",
+                "Code postal": "216L4zo_",
+                "Ville": "Lzix_ Lznenniea",
+                "Tel": "Scenario"
+            },
+            "Categorie": "clifhculte de_hawmemk",
+            "Objet": "demade_ (e. Aen e_ ~9LALClexkxe _",
+            "Complement": "Lue_ Qndeltemerk Ox_ckecy_ bus Ampatank",
+            "Reference client eventuelle": "Interlocuteur E",
+            "Adresse": "G_ hemu:",
+            "Code postal": "Lsulael",
+            "Ville": "eu",
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "2.2 minutes."
+            },
+            "Contribution": {
+                "Cocher les_elements de_votre contribution pour le_scenario traite": [
+                    "(6e) J'envoie mon courrier par voie postale a la date du 22 07 0+",
+                    "(+2e) Mon courrier contient une page de garde de fax",
+                    "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                    "(+1e) J'ai envoye par courriel mon courrier numerise le 22.21_23"
+                ],
+                "Marque et modele du scanner": "4uma.",
+                "Format": [
+                    "PNG",
+                    "GIF",
+                    "TIFF"
+                ],
+                "Resolution des images": "398 dpilppp nlas Q 2F Lylwaille Ala:s Cavem"
+            }
+        }
+    }
 }

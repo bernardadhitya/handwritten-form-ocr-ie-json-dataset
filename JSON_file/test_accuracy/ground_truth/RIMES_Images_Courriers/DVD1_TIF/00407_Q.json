@@ -1,33 +1,33 @@
 {
-    "Code d'envoi": "PFIAXC",
-    "Nom": "LAFLEUR",
-    "Prénom": "Manon",
-    "Adresse": "25 rue des ¤{Genets/Genêts}¤",
-    "Code Postal": "70800",
-    "Ville": "FONTAINE LES LUXEUIL",
-    "Téléphone": "0389372400",
-    "Catégorie Scénario": "Difficulté de paiement",
-    "Objet Scénario": "Demande de remise gracieuse\\n",
-    "Complément Scénario": "Votre endettement est devenu trop\\nimportant",
-    "Référence client": "FSJAE68",
-    "Interlocuteur": "TRESORERIE DES IMPOTS",
-    "Adresse Interlocuteur": "Place de l'Eglise",
-    "Code Postal Interlocuteur": "31100",
-    "Ville Interlocuteur": "TOULOUSE",
-    "Temps passé": "15",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "03/10/2006",
-    "Option Page de garde de fax": "x",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "03/10/2006",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "03/10/2006",
-    "Résolution": "200",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "x",
-    "Marque et modèle scanner": "CANON N670 U"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "LAELEUR_",
+                "Prenom": "Nanoc",
+                "Adresse": "S. Rue_dA. Cea E",
+                "Code postal": "LoBLool",
+                "Ville": "foNTAINE_les uuxcuis",
+                "Tel": "383"
+            },
+            "Scenario": {
+                "Categorie": "Dillicults__do_paiemenk",
+                "Objet Demaade_dx_remla.e_": "~8rcciealae",
+                "Complement ,Lole.endkkemenk_exk_doueay.": "~Lmpoekaak",
+                "Reference client eventuelle": "",
+                "Interlocuteur": "IeESQQEEE_QES_",
+                "Adresse": "Elacos_L_Eelae",
+                "Code postal": "[14AAozd",
+                "Ville": "IelLQlEe",
+                "Redaction de stylo (noir) utilise": "bille",
+                "Temps passe a traiter le scenario": "~AS_ minutes.",
+                "Contribution": {
+                    "Cocher les elements de_votre contribution pour le_scenario traite": "(6e) J'envoie mon courrier par voie postale a la date du .~3.LAollons (+2e) Mon courrier contient une page de garde de fax: (+1e) Avant mon envoi postal, j'ai telecopie ma contribution le .03/-Aq. Jaon6 (+1€) J'ai envoye par courriel mon courrier numerise le 0. 3u-lo.(.8006.",
+                    "Marque et modele du scanner": "CANON_ A6ao.U.",
+                    "Format": "PNG GIF TIFF",
+                    "Resolution des images": "doQ. dpilppp ~Leap",
+                    "Type": ""
+                }
+            }
+        }
+    }
 }

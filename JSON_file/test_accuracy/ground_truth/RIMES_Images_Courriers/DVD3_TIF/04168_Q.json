@@ -1,33 +1,46 @@
 {
-    "Code d'envoi": "YUXWKG",
-    "Nom": "BOUHIER",
-    "Prénom": "MATHILDE",
-    "Adresse": "LE GRAND CHAMPS",
-    "Code Postal": "06660",
-    "Ville": "AURON",
-    "Téléphone": "0466512312",
-    "Catégorie Scénario": "RECLAMATION",
-    "Objet Scénario": "PLAINTE DE NUISANCES SONORES\\n",
-    "Complément Scénario": "LE CHIEN DES VOISINS EST TROP BRUYANT\\n",
-    "Référence client": "",
-    "Interlocuteur": "MAIRIE",
-    "Adresse Interlocuteur": "5 place du PAYS DE FRANCE",
-    "Code Postal Interlocuteur": "95700",
-    "Ville Interlocuteur": "ROISSY EN FRANCE",
-    "Temps passé": "20",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "25/03/2007",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {},
+    "Questionnaire": {
+        "Identite fictive": {
+            "Nom": "BouHiek",
+            "Prenom": "HAIHiLDE",
+            "Adresse": "LE_kRAND CHAres",
+            "Code postal": "[016166ol",
+            "Ville": "AuRon",
+            "Tel": "5 213"
+        },
+        "Scenario": {
+            "Categorie": "RECLArJATiON",
+            "Objet": "PLAiNTE DE NUISANCES SONORES",
+            "Complement": "LE CHiEn DE.S. VaiSiNS ESI_IRoe_BRUYANI",
+            "Reference client eventuelle": "",
+            "Interlocuteur": "LaiRiE",
+            "Adresse": "5_ Place: du_ PAys_DE_CRANCE_",
+            "Code postal": "95,3100",
+            "Ville": "RoissY_EN_KRANCE"
+        },
+        "Redaction": {
+            "Type de stylo (noir) utilise": [
+                "bille",
+                "plume",
+                "feutre"
+            ],
+            "Temps passe a traiter le scenario": "Q0 minutes"
+        },
+        "Contribution": {
+            "Cocher les_elements de_votre contribution pour le_scenario traite": [
+                "(6e) J'envoie mon courrier par voie postale a la date du 25.lo3L201",
+                "(+2e) Mon courrier contient une page de garde de fax",
+                "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                "(+1€) J'ai envoye par courriel mon courrier numerise le"
+            ],
+            "Marque et modele du scanner": "",
+            "Format": [
+                "PNG",
+                "GIF",
+                "TIFF"
+            ],
+            "Resolution des images": "dpilppp"
+        }
+    }
 }

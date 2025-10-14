@@ -1,33 +1,49 @@
 {
-    "Code d'envoi": "QSOMGF",
-    "Nom": "VINSON",
-    "Prénom": "Fernande",
-    "Adresse": "7 rue des sapins",
-    "Code Postal": "25210",
-    "Ville": "Bonnetage",
-    "Téléphone": "0358459253",
-    "Catégorie Scénario": "Demande d'information",
-    "Objet Scénario": "Demande de catalogue des produits proposés\\n",
-    "Complément Scénario": "Aucun\\n",
-    "Référence client": "GRKNN12",
-    "Interlocuteur": "MANIF Assurances",
-    "Adresse Interlocuteur": "Av de la justice",
-    "Code Postal Interlocuteur": "34032",
-    "Ville Interlocuteur": "Montpellier",
-    "Temps passé": "5",
-    "Stylo bille": "",
-    "Stylo plume": "",
-    "Stylo feutre": "x",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "7 octobre 2006",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "VNSON",
+                "Prenom": "keraade",
+                "Adresse": "Qy2 82.Aapis",
+                "Code postal": "215121410",
+                "Ville": "Bomeleae",
+                "Tel": "2 3"
+            },
+            "Scenario": {
+                "Categorie": "Demande_d'_alaRmatien",
+                "Objet": "Demanda_dle_cata d-feoduuks_pRepien",
+                "Complement": "Aucun_",
+                "Reference client eventuelle": "R K N",
+                "Interlocuteur": "OANIE",
+                "Asscancea": {
+                    "Adresse": "_de_ le-iukce",
+                    "Code postal": "314123421",
+                    "Ville": "Omt Fpellier"
+                },
+                "Redaction": {
+                    "Type de stylo (noir) utilise": [
+                        "bille",
+                        "plume",
+                        "feutre"
+                    ],
+                    "Temps passe a traiter le scenario": "5 minutes."
+                },
+                "Contribution": {
+                    "Cocher les elements de votre contribution pour le_scenario traite": [
+                        "(6e) J'envoie mon courrier par voie postale a la date du.7.alobee_ 2o06.",
+                        "(+2e) Mon courrier contient une page de garde de fax",
+                        "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                        "(+1€) Jai envoye par courriel mon courrier numerise le"
+                    ],
+                    "Marque et modele du scanner": null,
+                    "Format": [
+                        "PNG",
+                        "GIF",
+                        "TIFF"
+                    ],
+                    "Resolution des images": "dpilppp loue"
+                }
+            }
+        }
+    }
 }

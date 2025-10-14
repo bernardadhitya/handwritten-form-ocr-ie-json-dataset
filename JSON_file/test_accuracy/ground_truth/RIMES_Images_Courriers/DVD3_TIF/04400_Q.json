@@ -1,33 +1,52 @@
 {
-    "Code d'envoi": "SCCAND",
-    "Nom": "HUSSON",
-    "Prénom": "Claire",
-    "Adresse": "Allée des Rameaux d'Argent",
-    "Code Postal": "26110",
-    "Ville": "NYONS",
-    "Téléphone": "0427080723",
-    "Catégorie Scénario": "Modification de contrat/Commande",
-    "Objet Scénario": "Demande de mensualisation de l'impôt sur\\nle revenu",
-    "Complément Scénario": "aucun\\n",
-    "Référence client": "QDHCS20",
-    "Interlocuteur": "Trésorerie des impôts",
-    "Adresse Interlocuteur": "1 rue du Général de Gaulle",
-    "Code Postal Interlocuteur": "27250",
-    "Ville Interlocuteur": "RUGLES",
-    "Temps passé": "15",
-    "Stylo bille": "",
-    "Stylo plume": "",
-    "Stylo feutre": "x",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "2 avril 2007",
-    "Option Page de garde de fax": "x",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "2 avril 2007",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "U.SSON",
+                "Prenom": "Claite",
+                "Adresse": {
+                    "Allee": "Cea",
+                    "ayX_.d@AtveaE": ""
+                },
+                "Code postal": "LZbsdasdo",
+                "Ville": "NYons"
+            },
+            "Scenario": {
+                "Categorie": "Hodification",
+                "Objet": "Demaade",
+                "Mea": "Jualilaliaa-de",
+                "Lim": "Juc",
+                "Complement": "@+cu^",
+                "Reference client eventuelle": "2",
+                "Interlocuteur": "llejterie",
+                "Adresse": "Atx du_CznraLdc_Gaulle",
+                "Code postal": "Lk2S",
+                "Ville": "RLGLES",
+                "Redaction": {
+                    "Type de stylo (noir) utilise": [
+                        "bille",
+                        "plume",
+                        "feutre"
+                    ],
+                    "Temps passe a traiter le scenario": "AS. minutes.",
+                    "Contribution": {
+                        "Cocher les_elements de_votre contbution pour le_scenaro traite": [
+                            "(6e) Jenvoie mon courrier par voie postale a la date du R_aunL_oox",
+                            "(+2€) Mon courrier contient une page de garde de fax",
+                            "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le.9 .auAL.2o2.",
+                            "(+1€) Jai envoye par courriel mon courrier numerise le"
+                        ],
+                        "Marque et modele du scanner": "",
+                        "Format": [
+                            "PNG",
+                            "GIF",
+                            "TIFF"
+                        ],
+                        "Resolution des images": "dpilppp",
+                        "Rame": "p8+"
+                    }
+                }
+            }
+        }
+    }
 }

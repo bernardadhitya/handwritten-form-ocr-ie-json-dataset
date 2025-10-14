@@ -1,33 +1,48 @@
 {
-    "Code d'envoi": "EGQHDE",
-    "Nom": "Lachaud",
-    "Prénom": "Hamza",
-    "Adresse": "19, Rue Berveiller",
-    "Code Postal": "54110",
-    "Ville": "VARANGEVILLE",
-    "Téléphone": "0313537286",
-    "Catégorie Scénario": "Gestion de sinistre",
-    "Objet Scénario": "Vous ¤{etes/êtes}¤ sans nouvelles concernant l'expertise\\nde votre vehicule accidenté le mois dernier",
-    "Complément Scénario": "\\n",
-    "Référence client": "TDQC¤P¤12",
-    "Interlocuteur": "BAAF Assurances",
-    "Adresse Interlocuteur": "AV BOURG",
-    "Code Postal Interlocuteur": "17490",
-    "Ville Interlocuteur": "NEUVICQ LE CHATEAU",
-    "Temps passé": "30",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "13/03/07",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "13/03/07",
-    "Résolution": "200",
-    "Format PNG": "",
-    "Format GIF": "x",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "Ladkuud",
+                "Prenom": "Eecvzillek_",
+                "Adresse": "93 kve",
+                "Code postal": "[54nAub",
+                "Ville": "VmAueuiLLe",
+                "Tel": "35i3"
+            },
+            "Scenario": {
+                "Categorie": "82_ SA_ ALle_",
+                "Objet": "-o. eles 5A4 < -AANEle LaLecaach_ 16 'exbeckss Je_ VA hz. Velicelz AL.A&4tz kx Mais dcc^ie",
+                "Complement": {
+                    "Reference client eventuelle": "Mz",
+                    "Interlocuteur": "BAKE SLHCAaCe S",
+                    "Adresse": "#v Bdyr C",
+                    "Code postal": "Lt4sU",
+                    "Ville": "NEVucQ_LE CilAzau"
+                },
+                "Redaction": {
+                    "Type de stylo (noir) utilise": [
+                        "bille",
+                        "plume",
+                        "feutre"
+                    ],
+                    "Temps passe a traiter le scenario": "34 minutes"
+                },
+                "Contribution": {
+                    "Cocher les elements de votre contribution pour le scenario traite": [
+                        "(6€) J'envoie mon courrier par voie postale a la date du 134o3",
+                        "(+2e) Mon courrier contient une page de garde de fax",
+                        "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                        "(+1C) Jai envoye par courriel mon courrier numerise le"
+                    ],
+                    "Marque et modele du scanner": "AsaBla.t",
+                    "Format": [
+                        "PNG",
+                        "GIF",
+                        "TIFF"
+                    ],
+                    "Resolution des images": "2ec dpilppp Mauxa Caka"
+                }
+            }
+        }
+    }
 }

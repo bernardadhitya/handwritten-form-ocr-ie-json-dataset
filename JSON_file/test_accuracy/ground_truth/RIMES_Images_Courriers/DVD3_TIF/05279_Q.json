@@ -1,33 +1,50 @@
 {
-    "Code d'envoi": "YAOYWT",
-    "Nom": "PENE",
-    "Prénom": "Marie-Claude",
-    "Adresse": "11 rue de l'Ancien Moulin",
-    "Code Postal": "57570",
-    "Ville": "GAVISSE",
-    "Téléphone": "0344855719",
-    "Catégorie Scénario": "Fermeture de compte",
-    "Objet Scénario": "Fermeture de compte bancaire\\n",
-    "Complément Scénario": "Vous changez de banque\\n",
-    "Référence client": "PJQHN72",
-    "Interlocuteur": "Banque Société Géniale",
-    "Adresse Interlocuteur": "Cours de la République",
-    "Code Postal Interlocuteur": "76600",
-    "Ville Interlocuteur": "LE HAVRE",
-    "Temps passé": "5",
-    "Stylo bille": "",
-    "Stylo plume": "",
-    "Stylo feutre": "x",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "25-4-07",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Identite fictive": {
+        "Nom": "Pene",
+        "Prenom": "Je",
+        "Qauzle": "AX",
+        "Adresse": "J Gucleue",
+        "Code postal": "Iz",
+        "Ville": "GAUISSE",
+        "Tel": "8"
+    },
+    "Scenario": {
+        "Categorie": "Fexloliue",
+        "Objet": "fzywuetrue",
+        "Complement": "Vouz",
+        "Reference client eventuelle": "2"
+    },
+    "Interlocuteur": {
+        "Banqhus_": "Seca ke:",
+        "Geulala": {
+            "Adresse": "Csuus.",
+            "Code": "Abbersl",
+            "Ville": "LE",
+            "Kaure": "Redaction"
+        }
+    },
+    "Redaction": {
+        "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+        ],
+        "Temps passe & traiter le scenario": "minutes."
+    },
+    "Contribution": {
+        "Cocher les elements de votre contribution pour le_scenario_traite": {
+            "(6D) J'envoie mon courrier par voie postale a la date du": "BS_4.8",
+            "(+2D) Mon courrier contient une page de garde de fax.": null,
+            "(+1D) Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+            "(+1D) J'ai envoye par courriel mon courrier numerise le": null
+        },
+        "Marque et modele du scanner": null,
+        "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+        ],
+        "Resolution des images": "dpilppp",
+        "Canypt": "postal"
+    }
 }

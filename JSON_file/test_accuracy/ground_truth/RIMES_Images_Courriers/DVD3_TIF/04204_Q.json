@@ -1,33 +1,34 @@
 {
-    "Code d'envoi": "XBBLYU",
-    "Nom": "BARRET",
-    "Prénom": "Françoise",
-    "Adresse": "Place de la Casette",
-    "Code Postal": "06710",
-    "Ville": "MASSOINS",
-    "Téléphone": "0498543355",
-    "Catégorie Scénario": "Modification de contrat / commande",
-    "Objet Scénario": "Commande de trois paires de chaussettes (référence\\ndu produit : CH45 - 12)",
-    "Complément Scénario": "\\n",
-    "Référence client": "RAWFP87",
-    "Interlocuteur": "La Reboute",
-    "Adresse Interlocuteur": "Au Bourg",
-    "Code Postal Interlocuteur": "86240",
-    "Ville Interlocuteur": "CROUTELLE",
-    "Temps passé": "10",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "29/03/07",
-    "Option Page de garde de fax": "x",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "28/03/07",
-    "Résolution": "200",
-    "Format PNG": "",
-    "Format GIF": "x",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "Scan Jet 3670"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "BARRE",
+                "Prenom": "",
+                "Adresse": "Zla Ll &. 9 CaSett&",
+                "Code postal": "lobtAo",
+                "Ville": "AsseNS",
+                "Tel": "743"
+            },
+            "Scenario": {
+                "Categorie": "Nad{calc 4 e Santak / cne=s",
+                "Objet": "Cammaacx_ck_Efais_ de_chauett (ackzcensx",
+                "Complement": "",
+                "Reference client eventuelle": "",
+                "Interlocuteur": "da_Kebakk",
+                "Adresse": "Au_Kass_",
+                "Code postal": "[b4yupl",
+                "Ville": "GQUIELLE"
+            },
+            "Redaction": {
+                "Type de stylo (noir) utilise": "bille plume feutre",
+                "Temps passe a traiter le scenario": "05 minutes",
+                "Contribution": {
+                    "Cocher les_elements de_votre contribution pour le_scenario traite": "(6e) J'envoie mon courrier par voie postale a la date du 29/s3/e1 (+2e) Mon courrier contient une page de garde de fax (+1€) Avant mon envoi postal, j'ai telecopie ma contribution le (+1€) J'ai envoye par courriel mon courrier numerise le 2&yesfe",
+                    "Marque et modele du scanner": "Sen 310",
+                    "Format": "PNG GIF TIFF",
+                    "Resolution des images": "dpilppp"
+                }
+            }
+        }
+    }
 }

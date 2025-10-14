@@ -1,15 +1,8 @@
 {
-    "document": "Fax",
-    "scenario": "Demande d'information",
-    "writer": "ATMANI Gilbert",
-    "sender_person": "ATMANI Gilbert",
-    "sender_company": "¤{GRTgaz/GT gaz/RESEAU NORD EST\\nAGENCE EXPLOITATION LILLE-BETHUNE}¤",
-    "sender_tel": "+33(0)3.21.64.79.30",
-    "sender_fax": "+33(0)3.21.64.79.49",
-    "receiver_person": "",
-    "receiver_company": "Banque ¤{Credit/Crédit}¤Populaire",
-    "subject": "",
-    "date": "",
-    "place": "",
-    "box": ""
+    "Company": "GRTgaz",
+    "Agency": "AGENCE ExplOMATiON Lillc-BETHUNE",
+    "Contact": {
+        "Name": "Bonane Gedik",
+        "Phone": "03.21.04.70.30"
+    }
 }

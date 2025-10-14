@@ -1,33 +1,47 @@
 {
-    "Code d'envoi": "TQXNXC",
-    "Nom": "BOSSARD",
-    "Prénom": "Pascaline",
-    "Adresse": "26 rue du Muguet",
-    "Code Postal": "67590",
-    "Ville": "OHLUNGEN",
-    "Téléphone": "0394647465",
-    "Catégorie Scénario": "Changement de données personnelles",
-    "Objet Scénario": "Nouvelle situation familiale\\n",
-    "Complément Scénario": "Vous divorcez\\n",
-    "Référence client": "PWVIC79",
-    "Interlocuteur": "ASSEDIC - Assurance chômage",
-    "Adresse Interlocuteur": "Rue du Parc",
-    "Code Postal Interlocuteur": "14540",
-    "Ville Interlocuteur": "SOLIERS",
-    "Temps passé": "3",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "17 octobre 2006",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "17 octobre 2006",
-    "Option envoi par courriel": "x",
-    "Date d'envoi par courriel": "17 octobre 2006",
-    "Résolution": "300",
-    "Format PNG": "",
-    "Format GIF": "x",
-    "Format TIFF": "",
-    "Marque et modèle scanner": "HP psc 2110"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "RoSsArD",
+                "Prenom": "LaSCa",
+                "Adresse": "6_ Rve_ cu _-tlugck",
+                "Code postal": "1o14S91o",
+                "Ville": "QHLenGEN",
+                "Tel": "Scenario",
+                "Categorie": "Lhangaenk_&edcnaees-Aeeseller",
+                "Objet": "Alcuvelle_Shuaha Qamliale",
+                "Complement": "Usus_Siuerc",
+                "Reference client eventuelle": "W",
+                "Interlocuteur": "ASSEQiC"
+            }
+        }
+    },
+    "Axgeoo_CLSmo": {
+        "Adresse": "Rve_Su feec",
+        "Code": "MluSikudl",
+        "Ville": "SeLiees",
+        "Redaction": {
+            "Type de stylo (noir) utilise": [
+                "bille",
+                "plume",
+                "feutre"
+            ],
+            "Temps passe a traiter le scenario": "3 minutes",
+            "Contribution": {
+                "Cocher les elements de votre contribution pour le_scenario traite": {
+                    "(6€) Jenvoie mon courrier par voie postale a la date du Aockebe_Zece": true,
+                    "(+2e) Mon courrier contient une page de garde de fax": true,
+                    "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le Akecldeg_2ocs": true,
+                    "(+1€) Jai envoye par courriel mon courrier numerise le ~Alalake_Zxla": true
+                }
+            },
+            "Marque et modele du scanner": "#e.",
+            "Format": [
+                "PNG",
+                "GIF",
+                "TIFF"
+            ],
+            "Resolution des images": "3ce dpilppp"
+        }
+    }
 }

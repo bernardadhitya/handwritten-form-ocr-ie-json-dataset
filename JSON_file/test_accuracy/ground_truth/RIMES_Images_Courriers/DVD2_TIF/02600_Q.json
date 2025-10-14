@@ -1,33 +1,51 @@
 {
-    "Code d'envoi": "CQOFKX",
-    "Nom": "SCHMITT",
-    "Prénom": "Maryse",
-    "Adresse": "Ferme de Marimbois",
-    "Code Postal": "54470",
-    "Ville": "DAMPVITOUX",
-    "Téléphone": "0347256741",
-    "Catégorie Scénario": "Ouverture de compte",
-    "Objet Scénario": "Vous souhaitez connaître la marche à suivre\\npour devenir client",
-    "Complément Scénario": "Aucun\\n",
-    "Référence client": "",
-    "Interlocuteur": "NAIF Assurances",
-    "Adresse Interlocuteur": "11 Route Nationale 43",
-    "Code Postal Interlocuteur": "62890",
-    "Ville Interlocuteur": "ZOUAFQUES",
-    "Temps passé": "25",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "7 février 2007",
-    "Option Page de garde de fax": "",
-    "Option envoi par fax": "",
-    "Date d'envoi par fax": "",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "SCACII",
+                "Prenom": "Llaryse",
+                "Adresse": "esnede_Hloakkais",
+                "Code postal": "L+4o",
+                "Ville": "DAtPUKTOQX",
+                "Tel": "3"
+            },
+            "Scenario": {
+                "Categorie": "_@uveslre_Aa.",
+                "Com": "Objet _Vex-s_Ichon(ex _Canehela mArshea",
+                "Sy": "Po ~desec-Eele /",
+                "Complement": "494",
+                "Reference client eventuelle": "Interlocuteur NAC",
+                "Ass {fnfee": {
+                    "Adresse": "A_QRoLsMJak_aalz_43",
+                    "Code postal": "|6,218,940",
+                    "Ville": "_ZQUAEQUE"
+                }
+            },
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "25 minutes"
+            },
+            "Contribution": {
+                "Cocher les elements de_votre contribution pour le_scenario traite": [
+                    "(6e) Jenvoie mon courrier par voie postale a la date du .1",
+                    "RAries_ZQQ1",
+                    "(+2e) Mon courrier contient une page de garde de fax",
+                    "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                    "(+1€) J'ai envoye par courriel mon courrier numerise le"
+                ],
+                "Marque et modele du scanner": {
+                    "Format": [
+                        "PNG",
+                        "GIF",
+                        "TIFF"
+                    ],
+                    "Resolution des images": "dpilppp"
+                }
+            }
+        }
+    }
 }

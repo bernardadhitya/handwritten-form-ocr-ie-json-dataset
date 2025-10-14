@@ -1,33 +1,46 @@
 {
-    "Code d'envoi": "",
-    "Nom": "JOLY",
-    "Prénom": "Guylaine",
-    "Adresse": "4, rue des Périchésses",
-    "Code Postal": "25190",
-    "Ville": "MONTE CHEROUX",
-    "Téléphone": "0363803880",
-    "Catégorie Scénario": "Modification de contrat / commande",
-    "Objet Scénario": "Demande de mensualisation de l'impôt sur\\nle revenu",
-    "Complément Scénario": "\\n",
-    "Référence client": "DXEZN89",
-    "Interlocuteur": "Tresorerie des impôts",
-    "Adresse Interlocuteur": "Agglomération MONDAVEZAN",
-    "Code Postal Interlocuteur": "31220",
-    "Ville Interlocuteur": "MONDAVEZAN",
-    "Temps passé": "15",
-    "Stylo bille": "x",
-    "Stylo plume": "",
-    "Stylo feutre": "",
-    "Contribution postale": "x",
-    "Date d'envoi postal": "13.03.2007",
-    "Option Page de garde de fax": "x",
-    "Option envoi par fax": "x",
-    "Date d'envoi par fax": "13.03.2007",
-    "Option envoi par courriel": "",
-    "Date d'envoi par courriel": "",
-    "Résolution": "",
-    "Format PNG": "",
-    "Format GIF": "",
-    "Format TIFF": "",
-    "Marque et modèle scanner": ""
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "JoLX",
+                "Prenom": "Adresse",
+                "LUe_clee": "Dauslemen",
+                "Code postal": "[251h91d",
+                "Ville": "LLeNIE_CHEeexx",
+                "Tel": "3383"
+            },
+            "Scenario": {
+                "Categorie": "de_GonlaE",
+                "CemxPde": "Objet",
+                "SaDookdachza": "ck.",
+                "exaebaxkgn_": "dq",
+                "~Esmfsl_awn": "uues",
+                "Complement": "Reference client eventuelle",
+                "Interlocuteur": "ZuSezese_c.kmts",
+                "Adresse": "A_ LB8neaaben",
+                "Code postal": "[31442L29l",
+                "Ville": "(eSA.ERAAA",
+                "Redaction": {
+                    "Type de stylo (noir) utilise": [
+                        "bille",
+                        "plume",
+                        "feutre"
+                    ],
+                    "Temps passe a traiter le scenario": "S minutes."
+                },
+                "Contribution": {
+                    "Cocher les_elements de_votre contribution pour le_scenario traite": [
+                        "(6e) J'envoie mon courrier par voie postale a la date du A3.8.3.582..2",
+                        "(+2e) Mon courrier contient une page de garde de fax",
+                        "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le 43.23.,.2e2.2.",
+                        "(+1€) J'ai envoye par courriel mon courrier numerise le"
+                    ],
+                    "Marque et modele du scanner": "Format",
+                    "PNG": "GIF",
+                    "TIFF": "Resolution des images",
+                    "dpilppp": "Guylee"
+                }
+            }
+        }
+    }
 }
