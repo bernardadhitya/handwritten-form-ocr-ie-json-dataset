@@ -1,81 +1,33 @@
-Philip Moris USA
-Industrial Hygiene
-STRESS CHARACTERIZATION
-I.IDENTIFICATION
-City
-Plant
-Exposure Zone
-Location:
-BC
-1
-4
-8
-Year
-Month
-Day
-Identification #
-Omit
-Sample
-89
-1688
-Number:
-16
-18
-20
-22
-80
-II.JOBCLASS REPRESENTATION
-CARD
-1
-Employee's Name:
-Last
-First
-MI
-SS#
-28
-Job Code
-37
-Representation:
-RepresentativeRUnusual-U
-R
-42
-If R, other representative job codes:
-43
-47
-51
-55
-59
-Shifts:DayAEvenings-B.Graveyard-C.Novel-N
-A
-B
-64
-Confidential
-Aorrisv.
-exposure zone specified.Unusual monitoring results will only be assigned to individuals speci-
-fied.For representative monitoring all appropriate shifts will be specified.
-III.JOB CHARACTERIZATION
-CARD
-26
-Job Type:
-Routine/Normal
-Infrequent/Variable-V
-Start-Up
--S
-Upset/Abnormal
-R
-Batch
--B
-28
-Job Frequency:
-Times/Month
-Minutes/Time
-(lf Appropriate,EG:Batch.Variable)
-29
-32
-Job Description: (Include Machines)
-BPSExn
-Anm
-35-79
-40-050-1
-2031536200
-9/81
+Philip Moris USA  
+Industrial Hygiene  
+
+STRESS CHARACTERIZATION  
+
+I. IDENTIFICATION  
+City	Plant	Exposure Zone  
+R L CI	MC	PR-AREA #5  
+Location:	1	4	8  
+Year	Month	Day	Identification #	Omit  
+89	05	25	289	80  
+Sample Number:	16	18	20	22  
+
+II. JOB CLASS REPRESENTATION	CARD 0 1  
+Employee's Name:	Last		First		MI  
+SS #:	28		Job Code	37	-  
+Representation:	Representative - R	Unusual - U	R 42  
+If R, other representative job codes:	43		47		51		55		59  
+Shifts: Day - A	Evenings - B	Graveyard - C	Novel - N  
+A	B	C	N  
+[ ]		64  
+Note – Representative monitoring will be assigned to all individuals with the job code and the exposure zone specified. Unusual monitoring results will only be assigned to individuals specified. For representative monitoring all appropriate shifts will be specified.  
+
+III. JOB CHARACTERIZATION	CARD 0 2  
+Job Type:	Routine/Normal - R	Infrequent/Variable - V  
+Start-Up - S	Upset/Abnormal - A  
+Batch - B		R 28  
+Job Frequency:	Times/Month	Minutes/Time  
+29		32  
+(If Appropriate, EG: Batch, Variable)  
+Job Description: (Include Machines)  
+B Process Furnace Room - Area #5  
+35 - 79

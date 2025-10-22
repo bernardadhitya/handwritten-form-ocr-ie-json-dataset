@@ -1,46 +1,36 @@
-NEBRASKA PROJECT
-QUESTIONNAIRE
-Srouer questionnaire
-INTERVIEWER
-STUDY#
-PERSONAL/CONFIDENTIAL
-TIME STARTED
-V.LANCE TARRANCE & ASSOCIATES
-TIME ENDED
-FINANCE
-HelloI'm
-of V.Lance Tarrance & Associatesa
-national public opinion research firm located in Houston. Today, we are talking
-to people in Nebraska about cigarette smoking and I would like to ask you some
-questions.
-A.Are you 18 years of age or older?
-Yes CONTINUE
-No GO TO C.
-B.
-Do you yourself usually smoke at
-least one cigarette a day?
-Yes GO TO Q.1
-No GO TO C.
-C.
-Is there anyone in your house-
-hold who 1s 18 years or older
-who usually smokes at least one
-cigarette a day?
-Yes ASK TO SPEAK TO THAT
-PERSONREPEAT INTRO
-AND GOTO B.
-No THANK AND TERMINATE
-Now, I'd like to read you some statements about cigarette smoking and ask you
-whether you agree or disagree with each statement.
-Fewer people seem to be smoking
-cigarettes nowadays?
-Agree/strongly.
-IF ANSWEREDASK
-And do you
-Agree..
-feel strongly about that?
-Undecided DO NOT READ.
-Disagree..
-01sagree/strongly
-50000
-1423
+NEBRASKA PROJECT  
+QUESTIONNAIRE  
+Smoker Questionnaire  
+
+INTERVIEWER  
+PERSONAL/CONFIDENTIAL  
+V. LANCE TARRANCE & ASSOCIATES  
+
+STUDY #  
+TIME STARTED  
+TIME ENDED  
+FINANCE  
+
+Hello, I'm		of V. Lance Tarrance & Associates, a national public opinion research firm located in Houston. Today, we are talking to people in Nebraska about cigarette smoking and I would like to ask you some questions.  
+
+A.	Are you 18 years of age or older?  
+	Yes (CONTINUE)	1  
+	No (GO TO C)	2  
+
+B.	Do you yourself usually smoke at least one cigarette a day?  
+	Yes (GO TO Q. 1)	1  
+	No (GO TO C)	2  
+
+C.	Is there anyone in your household who is 18 years or older who usually smokes at least one cigarette a day?  
+	Yes (ASK TO SPEAK TO THAT PERSON, REPEAT INTRO, AND GO TO B)	1  
+	No (THANK AND TERMINATE)	2  
+
+Now, I'd like to read you some statements about cigarette smoking and ask you whether you agree or disagree with each statement.  
+
+1.	Fewer people seem to be smoking cigarettes nowadays?  
+IF ANSWERED, ASK:	And do you feel strongly about that?  
+	Agree/strongly	1  
+	Agree	2  
+	Undecided (DO NOT READ)	3  
+	Disagree	4  
+	Disagree/strongly	5

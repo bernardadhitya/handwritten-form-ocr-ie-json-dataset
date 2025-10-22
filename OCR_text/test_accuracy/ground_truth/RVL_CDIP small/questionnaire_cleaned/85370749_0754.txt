@@ -1,104 +1,63 @@
-Newman-Ste!n.Inc
-902 Broadway
-03C0
-November,1986
-Job#2946B
-IRCLE QUOTA
-Blue
-Green
-5-
-CIRCLE CITY:
-Ye11ow
-(7)
-(7)
-(7)
-Minneapolis
-(6)
-Male
-18-34
-S
-90
-Phoenix
-35-59
-Female
--RT
-7
-35-59
-8
-CIGARETTE ATTITUDE STUDYE
+CIRCLE QUOTA:	Blue (7)	Green (7)	Yellow (7)
+Male	1	5	9
+18-34	1	5	9
+35-59	2	6	0
+Female	3	7	(X)
+18-34	3	7	(X)
+35-59	4	8	y
+
+5-1	CIRCLE CITY:
+		(6)
+Minneapolis	(6)
+Phoenix	(2)
+
+CIGARETTE ATTITUDE STUDY
 (Screener)
-RESPONDENT'S NAME
-AREA CODE2TELEPHONE97-//3
-CITYTSTATE
-ZIP CODE<2
-INTERVIEWER'S NAME
-me
-1.D.
-TIME BEGAN
-DATE:
-945
-8-11
-TIME ENDED:
-AM/PM
-SK TO SPEAK TO PERSON ON LIST
-12-15
-Hello,Im
-from Newman-Stein,Inc.,a national market research firm.
-we're conducting a survey n this area, and I would like to ask you some questions.
-la.
-First, are you currently a cigarette smoker?
-Yes
-(CONTINUE)
-No
-TERMINATERECORD ON TALLY SHEETERASE ANO RE-USE
-1b.
-Have you, yourself, participated in a market research survey in the past year?
-Yes
-TERMINATERECORD ON TALLY SHEETERASE AND RE-USE
-No
-2
-CONTNUE
-1c.
-And which of the following age groups best describes your age? (READ LIST)
-(16)
-Under18
-TERMINATE.RECORD ON TALLY SHEETERASE AND RE-USE
-85370749
-18-20
-21-24
-2
-25-29
-QUALIFIES FOR 18-34 YEAR OLD QUOTA
-35-39
-40-49
-50-54
-QUALIFIES FOR 35-59 YEAR OLD QUOTA
-55-59
-60 and over
-TERMINATERECORD ON TALLY SHEET.ERASE AND RE-USE
-2
-IFANSWER FALLS BETWEEN2 CATEGORIESRECORD AS HIGHER AMCUNT-EXAMPLE
-1OR
-#Cigarettes
-Packs
-Q70
-1-9
-Less than 1/2 pack
-(17)
-TERMNATE.RECORD
-ON TALLY SHEET
-10-19
-1/2 pack,but less than 1 pack
-ERASE AND RE-USE
-20-29
-1 pack,but less than 1-1/2 packs
-3
-30-39
-1-1/2 packs,but less than 2 packs
-CONTINUE)
-40-49
-2 packs,but less than 2-1/2 packs
-5
-+09
-2-1/2 packs or more
-6
+
+RESPONDENT'S NAME	Linda Ragge
+AREA CODE	602
+TELEPHONE	897-1138
+ADDRESS	1960 W. Sterling
+CITY	Phoenix
+STATE	Ariz
+ZIP CODE	85020
+INTERVIEWER'S NAME	J. McIlveen
+I.D.	21
+TIME BEGAN	9:30 AM (8-11)
+DATE	11/6/86
+TIME ENDED	9:45 AM (12-15)
+
+ASK TO SPEAK TO PERSON ON LIST
+
+Hello, I'm ______ from Newman-Stein, Inc., a national market research firm.
+We're conducting a survey in this area, and I would like to ask you some questions.
+
+1a.	First, are you currently a cigarette smoker?
+Yes	(1) (CONTINUE)
+No	2	(TERMINATE, RECORD ON TALLY SHEET, ERASE AND RE-USE)
+
+1b.	Have you, yourself, participated in a market research survey in the past year?
+Yes	1	(TERMINATE, RECORD ON TALLY SHEET, ERASE AND RE-USE)
+No	(2) (CONTINUE)
+
+1c.	And which of the following age groups best describes your age? (READ LIST) (16)
+Under 18	1	(TERMINATE, RECORD ON TALLY SHEET, ERASE AND RE-USE)
+18-20	2
+21-24	3
+25-29	4	(QUALIFIES FOR 18-34 YEAR OLD QUOTA)
+30-34	6
+35-39	6
+40-49	7	(QUALIFIES FOR 35-59 YEAR OLD QUOTA)
+50-54	8
+55-59	9
+60 and over	0	(TERMINATE, RECORD ON TALLY SHEET, ERASE AND RE-USE)
+
+2.	About how many cigarettes do you smoke in an average day? (DO NOT READ LIST. IF ANSWER FALLS BETWEEN 2 CATEGORIES, RECORD AS HIGHER AMOUNT - EXAMPLE: "1 OR 2 PACKS" = CIRCLE "4")
+
+# Cigarettes	# Packs
+1-9	Less than 1/2 pack	(17) 210 (TERMINATE, RECORD ON TALLY SHEET, ERASE AND RE-USE)
+10-19	1/2 pack, but less than 1 pack	(2)
+20-29	1 pack, but less than 1-1/2 packs	3
+30-39	1-1/2 packs, but less than 2 packs	4	(CONTINUE)
+40-49	2 packs, but less than 2-1/2 packs	5
+50+	2-1/2 packs or more	6
