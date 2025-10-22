@@ -1,39 +1,29 @@
-SAdosKy Wed 9
+SAdosky Wed 8
 U-126
 031486/1
 FEMALE
+
 SCREENER
 Menthol Cigarettes
-Hello,I'm
-We are conducting a brief survey on cigarettes and would like to
-include your opinions.
-in the sale, manufacture or distribution of tobacco products,.
-or market research, or advertising?
-yes
-(TERMINATE)
-No
-2. Is there a female living in your home between the ages of
-18 and 34 who smokes at least 10 cigarettes
-per day?
-Yes
-No
-(TERMINATE)
+
+Hello, I'm _______________ of ________________.
+We are conducting a brief survey on cigarettes and would like to include your opinions.
+
+1. First, is there anyone living in your household who is employed in the sale, manufacture or distribution of tobacco products, or market research, or advertising?
+Yes _____ (TERMINATE)
+No [X]
+
+2. Is there a female living in your home between the ages of 18 and 34 who smokes at least 10 cigarettes per day?
+Yes [X]
+No _____ (TERMINATE)
+
 3. May I speak to that person?
-(IF NOT AVAILABLE,MAKE APPOINTMENT
-TO CALLLATER.
-SAVE SCREENER.
-GET
-NAME AND TELEPHONE NUMBER.)
-t.
-Is your regular brand of cigarettes a filter or non-filter
-85369824
-cigarette?
-Filter
-X
-Non-filter
-(TERMINATE)
+(IF NOT AVAILABLE, MAKE APPOINTMENT TO CALL LATER. SAVE SCREENER. GET NAME AND TELEPHONE NUMBER.)
+
+4. Is your regular brand of cigarettes a filter or non-filter cigarette?
+Filter [X]
+Non-filter _____ (TERMINATE)
+
 5. Is your regular brand of cigarettes menthol or non-menthol?
-Menthol
-X
-Non-menthol
-(TERMINATE)
+Menthol [X]
+Non-menthol _____ (TERMINATE)

@@ -1,78 +1,47 @@
-Card.-2
-DHCO-O
-Rotation
-Dap-3
-CALL BACK QUESTIONNAORE
-Numbr Cr
-As you rcmember, I gave you two nunbered cigarettes to snoke.
-You know that
-there are20 ciyaretics to a pack. Hov/ many cigarettes of
-did you smoke?
-cigarottes-
-TERMINATE IF O
-5-6
-(RECORD)
-And how many cigarettcs of
-did you smoke?
-cigarettes
-TERMINATE IF
-&-
-(RECORD
-Za.
-Well, as I said. before, thc numbers were used just so you can tell one ciearelte
-from the other.
-You've smoked both nunbered cigarettes.
-All things considered,
-which cigarette do you prefer?
-DONOT READ
-No Preference
-SKIP TO QU.3a
-2b.
-Why do you prefer those?
-(RECORD VERBATIM:PRODE THROUGHLY)
-Now Id like you to compare cigarette#
-to the (BRAND FROM SCREENER)
-27
-58
-you smoke most often on an everal! bels.
-Compared to (BRAND FROM SCRFENER),
-would you say that cigarette 
-READ CHOICES &RECORDANSWER
-BELOW)
-Much better
-Sonewhat better
-About the samc
-Not as good
-Or,
-Much worse
-5
-5
-3b.
-How does cigarette 
-often? Would you say cigarette 
-compare to the (BRAND FROM SCREENER) you smcke most
-is...(READ CHOICES & RECORD ANSWER
-ABOVE)
-We want to learn more about your opinions of cigarctte 
-characteristics. Let's start with strength. As you know,sane people claim cor-
-and.oh specific
-tain cigarettes are strong while other peoplc claim the'same cigarettes are mild.
-We want to learn more about what you think of the cigarettes you've tried foretting
-about which one you prefer over-all.
-Conpared to your (BRAND FROM SCREENER)
-would you say that cigarette 
-(READ CHOICES & RECORD BELOW)
-2
-A_great deal stronge
-Somewhat stronge
-Exactly.the_same
-3
-Somewhat milder
-4
-Or.
-A gxcat deal nilder
-5
-5
-Compared to your (BRAND FROM SCRENER),would you say that cigarelle 
-RFADCHOKESRORDAWV
-464520819
+UNIDENTIFIED HEAD-ON  
+CALL BACK QUESTIONNAIRE  
+
+Number of Order  4  
+Number of Cigarettes  
+
+1a.  As you remember, I gave you two numbered cigarettes to smoke. You know that there are 20 cigarettes to a pack. How many cigarettes of # did you smoke?  
+cigarettes  →  TERMINATE IF 0  (5-6)  
+(RECORD)  
+
+1b.  And how many cigarettes of # did you smoke?  
+cigarettes  →  TERMINATE IF 0  (7-8)  
+(RECORD)  
+
+2a.  Well, as I said before, the numbers were used just so you can tell one cigarette from the other. You’ve smoked both numbered cigarettes. All things considered, which cigarette do you prefer?  
+(DO NOT READ)  →  #  #  No Preference  3  (SKIP TO QU. 3a)  9  
+
+2b.  Why do you prefer those? (RECORD VERBATIM: PROBE THOROUGHLY)  
+10  16  
+[ ]  
+[ ]  
+[ ]  
+[ ]  
+[ ]  
+[ ]  
+
+3a.  Now I’d like you to compare cigarette # to the (BRAND FROM SCREENER) you smoke most often on an overall basis. Compared to (BRAND FROM SCREENER), would you say that cigarette # is... (READ CHOICES & RECORD ANSWER BELOW)  
+
+# (22)  # (23)  
+Much better  1  1  
+Somewhat better  2  2  
+About the same  3  3  
+Not as good  4  4  
+Or, Much worse  5  5  
+
+3b.  How does cigarette # compare to the (BRAND FROM SCREENER) you smoke most often? Would you say cigarette # is... (READ CHOICES & RECORD ANSWER ABOVE)  
+
+4a.  We want to learn more about your opinions of cigarette # and # on specific characteristics. Let’s start with strength. As you know, some people claim certain cigarettes are strong while other people claim the same cigarettes are mild. We want to learn more about what you think of the cigarettes you’ve tried forgetting about which one you prefer over-all. Compared to your (BRAND FROM SCREENER), would you say that cigarette # is... (READ CHOICES & RECORD BELOW)  
+
+# (22)  # (23)  
+A great deal stronger  1  1  
+Somewhat stronger  2  2  
+Exactly the same  3  3  
+Somewhat milder  4  4  
+Or, A great deal milder  5  5  
+
+4b.  Compared to your (BRAND FROM SCREENER), would you say that cigarette # is... (READ CHOICES & RECORD ANSWER)
