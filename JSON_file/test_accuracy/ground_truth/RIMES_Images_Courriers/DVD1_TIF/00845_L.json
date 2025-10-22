@@ -1,22 +1,15 @@
 {
-    "Company": "cOgNet",
-    "Address": {
-        "Street": "Avenue Aristide Berces",
-        "City": "Birkenwald",
-        "Tel": "03 84 49 % 59"
-    },
-    "Ref": "eul",
-    "Date": "G moembre 2o66",
-    "Customer": {
-        "Name": "Madame Sute",
-        "Request": "Demande de decuwenbha"
-    },
-    "Insurance": {
-        "Type": "Assurances",
-        "Details": "matiire datsuf ance labihahen"
-    },
-    "Agent": {
-        "Name": "Daniel Gocel",
-        "Position": "Coup Inimnes"
-    }
+  "document": "Lettre manuscrite",
+  "scenario": "Demande d'information",
+  "writer": "COGNET Daniel",
+  "sender_person": "COGNET DANIEL",
+  "sender_company": "",
+  "sender_tel": "03 84 49 85 59",
+  "sender_fax": "",
+  "receiver_person": "",
+  "receiver_company": "BAAF ASSURANCES",
+  "subject": "Demande de documentation concernant les contrats d’assurance habitation",
+  "date": "4 novembre 2006",
+  "place": "Birkenwald",
+  "box": ""
 }

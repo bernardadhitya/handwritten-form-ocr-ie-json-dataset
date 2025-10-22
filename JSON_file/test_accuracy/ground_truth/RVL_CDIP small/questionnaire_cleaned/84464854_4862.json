@@ -1,100 +1,204 @@
 {
-    "header": {
-        "code": "AHFMAKKETINCKESEAKCH",
-        "id": 2165,
-        "title": "NATIONAL CONSENSUS SURVEYS",
-        "address": {
-            "street": "801 Second Avenue",
-            "suite": "#25077W",
-            "city": "New York",
-            "state": "New York",
-            "zip": 10017
-        },
-        "date": "August, 1977"
+  "header": {
+    "code": "AHFMAKKETINCKESEAKCH",
+    "id": 2165,
+    "title": "NATIONAL CONSENSUS SURVEYS",
+    "address": {
+      "street": "",
+      "suite": "",
+      "city": "",
+      "state": "",
+      "zip": ""
     },
-    "questionnaire": {
-        "title": "SCREENING QUESTIONNAIRE",
-        "sections": [
-            {
-                "title": "CIGARETTE PORTFOLIO",
-                "time_interview": {
-                    "started": "",
-                    "ended": ""
-                },
-                "respondent": {
-                    "address": "",
-                    "interviewer": "",
-                    "metro_area": "",
-                    "date": "",
-                    "validated_by": ""
-                },
-                "indicate_city": [
-                    "Des Moines",
-                    "Boston",
-                    "Detroit",
-                    "Lincoln",
-                    "New Orleans",
-                    "Omaha"
-                ],
-                "initial_refusal": {
-                    "circle_next_highest_number": [
-                        10,
-                        18,
-                        20,
-                        21,
-                        22,
-                        25,
-                        26,
-                        27,
-                        30,
-                        32,
-                        47,
-                        47,
-                        50,
-                        31,
-                        58,
-                        116,
-                        117,
-                        118,
-                        119,
-                        120
-                    ]
-                },
-                "market_research_survey": {
-                    "question": "Have you, yourself, participated in a market research survey in the last three months or so?",
-                    "terminate_and_circle_next_highest_number": "Yes",
-                    "continue": "No"
-                },
-                "participated_in": {
-                    "adults": [
-                        2,
-                        3,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        10,
-                        11,
-                        12
-                    ]
-                },
-                "show_age_card": {
-                    "question": "Please tell me which letter on this card includes your age.",
-                    "terminate_and_circle_next_highest_number": [
-                        "Under 21",
-                        7,
-                        25,
-                        "29 to",
-                        "39 to",
-                        "44 to",
-                        "49 to",
-                        "55 to",
-                        "Over 55"
-                    ],
-                    "continue": "AGE: UNDER 1/2 3 5 7 8 10 1 12"
-                }
-            }
-        ]
-    }
+    "date": "8-23-77"
+  },
+  "questionnaire": {
+    "title": "SCREENING QUESTIONNAIRE",
+    "sections": [
+      {
+        "title": "CIGARETTE PORTFOLIO",
+        "time_interview": {
+          "started": "3:15",
+          "ended": "3:25"
+        },
+        "respondent": {
+          "address": "Rte 2",
+          "interviewer": "Harold Blecha",
+          "metro_area": "4",
+          "date": "8-23-77",
+          "validated_by": "C"
+        },
+        "indicate_city": [
+          "Boston",
+          "Des Moines",
+          "Detroit",
+          "Lincoln",
+          "New Orleans",
+          "Omaha",
+          "San Francisco"
+        ],
+        "initial_refusal": {
+          "circle_next_highest_number": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120
+          ]
+        },
+        "market_research_survey": {
+          "question": "Have you, yourself, participated in a market research survey in the past three months or so?",
+          "terminate_and_circle_next_highest_number": "Yes",
+          "continue": "No"
+        },
+        "participated_in": {
+          "adults": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        "show_age_card": {
+          "question": "Please tell me which letter on this card includes your age.",
+          "terminate_and_circle_next_highest_number": [
+            "Under 21",
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            "Over 55"
+          ],
+          "continue": "CONTINUE",
+          "under_or_over_age": "1 (Over 55)"
+        }
+      }
+    ]
+  }
 }

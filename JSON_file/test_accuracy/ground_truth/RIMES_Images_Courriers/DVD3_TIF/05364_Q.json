@@ -1,48 +1,33 @@
 {
-    "Code d'envoi": {
-        "N": "E",
-        "R": "R",
-        "E": "Questionnaire"
-    },
-    "Identite fictive": {
-        "Nom": "Reina",
-        "Prenom": "Sexa",
-        "Adresse": "42. Rue. Gt Piexte",
-        "Code postal": "[5,714138]",
-        "Ville": "ka. Val de_ Gueblange",
-        "Tel": "329"
-    },
-    "Scenario": {
-        "Categorie": "Madification",
-        "Objet": "mentabo cles.",
-        "quantit d_'acfians bouraicres_ command": "Complement Aucun",
-        "Reference client eventuelle": "F12",
-        "Interlocuteur": "Bongvus_ ociek: Gcniale.",
-        "Adresse": "Rug: du Gcncta L. Lca_lexs.",
-        "Code postal": "[955,45004,281",
-        "Ville": "Vigny"
-    },
-    "Redaction": {
-        "Type de stylo (noir) utilise": [
-            "bille",
-            "plume",
-            "feutre"
-        ],
-        "Temps passe a traiter le scenario": "20 minutes."
-    },
-    "Contribution": {
-        "Cocher les elements_de_votre contribution pour le scenario traite": [
-            "(6e) Jenvoie mon courrier par voie postale a la date du 23/4/01_",
-            "(+2e) Mon courrier contient une page de garde de fax:",
-            "(+1e) Avant mon envoi postal, j'ai telecopie ma contribution le 23/4/01_",
-            "(+1€) J'ai envoye par courriel mon courrier numerise le 23 /4/.e1"
-        ],
-        "Marque et modele du scanner": "Lexmavl",
-        "Format": [
-            "PNG",
-            "GIF",
-            "TIFF"
-        ],
-        "Resolution des images": "3,40 dpilppp"
-    }
+  "Code d'envoi": "NEVRRE",
+  "Nom": "REINA",
+  "Prénom": "Serge",
+  "Adresse": "42 Rue St-Pierre",
+  "Code Postal": "67430",
+  "Ville": "le Val de Queblange",
+  "Téléphone": "0361213195",
+  "Catégorie Scénario": "Modification de contrat / Commande",
+  "Objet Scénario": "Augmentation des quantités d’actions boursières commandées",
+  "Complément Scénario": "Aucun",
+  "Référence client": "EIYZ071",
+  "Interlocuteur": "Banque Société Générale",
+  "Adresse Interlocuteur": "1 Rue du General Leclerc",
+  "Code Postal Interlocuteur": "95450",
+  "Ville Interlocuteur": "Vigny",
+  "Temps passé": "20",
+  "Stylo bille": "x",
+  "Stylo plume": "",
+  "Stylo feutre": "",
+  "Contribution postale": "x",
+  "Date d'envoi postal": "23/4/07",
+  "Option Page de garde de fax": "x",
+  "Option envoi par fax": "x",
+  "Date d'envoi par fax": "23/4/07",
+  "Option envoi par courriel": "x",
+  "Date d'envoi par courriel": "23/4/07",
+  "Résolution": "300",
+  "Format PNG": "x",
+  "Format GIF": "",
+  "Format TIFF": "",
+  "Marque et modèle scanner": "Lexmark"
 }

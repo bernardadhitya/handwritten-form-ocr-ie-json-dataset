@@ -1,28 +1,28 @@
 {
-    "company": {
-        "name": "NEWCOMPANY",
-        "type": "VNLIMITET",
-        "head": "HEADCUNEAACABLE"
+  "company": {
+    "name": "New Company",
+    "type": "Unlimited Resources",
+    "head": "Head Count Available"
+  },
+  "programs": {
+    "new": "New Programs Too Initiate?",
+    "current": {
+      "status": "Current Prog/Pros Continue?",
+      "old": "Old Tomato - marriage of 1st pr.",
+      "social_acceptance": "Social Acceptability (Low Sidesstream, VRP Gori type cig)",
+      "reduced_biological": "reduced biological activity; TE, FAT, STT"
     },
-    "programs": {
-        "new": "NEWPROGRAMSTOOTE",
-        "current": {
-            "status": "Pros. Constinue?",
-            "old": "Old Temato - marrae",
-            "social_acceptance": "Low Sdestream, VRP Gori +ype cg",
-            "reduced_biological": "Neducedbuiogicalastiih; TE,FAT, STT"
-        },
-        "current_pros": {
-            "status": "Pros...Dis continue ?",
-            "code": 50646
-        },
-        "additional_info": {
-            "code": 6277,
-            "remarks": "whichiwmtsulstannatd",
-            "realistic": "imreakstic trnetall",
-            "new": "Ne- YAs",
-            "extra": "Egtudrht- H/3 Swo%cay",
-            "year": 1940
-        }
+    "current_pros": {
+      "status": "Current Pros/Projs Discontinue?",
+      "code": 50646
+    },
+    "additional_info": {
+      "code": 6277,
+      "remarks": "Thinking of PJs which is not substantiated by sound scientific approach/unrealistic timetable",
+      "realistic": "unrealistic timetable",
+      "new": "New - YAS α",
+      "extra": "2/3 smokers 1990",
+      "year": "1990"
     }
+  }
 }

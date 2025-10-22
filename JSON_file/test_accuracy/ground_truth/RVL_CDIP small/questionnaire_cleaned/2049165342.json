@@ -1,48 +1,81 @@
 {
-    "Location": {
-        "Name": "NEW YORK CONFERENCE CENTER",
-        "Address": "58 MADISON AVENUE, NEW YORK, 10916"
+  "conference_center": "NEW YORK CONFERENCE CENTER",
+  "group": "GROUP DATE: 12/8",
+  "datetime": "TIME: 5:30",
+  "address": "240 MADISON AVENUE",
+  "survey": {
+    "title": "Social Networks Screener",
+    "job_number": "JOB #: 04/359",
+    "location": {
+      "city": "NEW YORK",
+      "state": "NY",
+      "zip": "10016"
     },
-    "Respondent": {
-        "Name": "A~ztuy LoHBHRDL",
-        "Phone": "218.213-5638",
-        "Address": "2 0Y, BRdoLLLyh, ZIP: 123"
+    "respondent": {
+      "name": "ANTHONY LOMBARDI",
+      "phone": "718 373-8638",
+      "city": "BROOKLYN",
+      "zip": "11223"
     },
-    "Survey": {
-        "AgeRange": "18-24",
-        "Products": [
-            {
-                "Name": "Packaged cookies",
-                "Usage": "Yes"
-            },
-            {
-                "Name": "Diet or low-calorie soft drinks",
-                "Usage": "No"
-            },
-            {
-                "Name": "Regular soft drinks",
-                "Usage": "No"
-            },
-            {
-                "Name": "Regalie coteee coffee",
-                "Usage": "No"
-            },
-            {
-                "Name": "Cigarettes",
-                "Usage": "No"
-            },
-            {
-                "Name": "Paper towels",
-                "Usage": "Yes"
-            },
-            {
-                "Name": "Frozen vegetables",
-                "Usage": "Yes"
-            },
-            {
-                "Name": "Canned vegetables",
-                "Usage": "No"
-            }
+    "questions": [
+      {
+        "question": "Does anyone living in your household fit that description?",
+        "options": [
+          "No",
+          "Yes - May I speak to him?",
+          "Not at home (ARRANGE TO CALL BACK LATER.)",
+          "No, refused (THANK AND TERMINATE)"
         ]
-    }
+      },
+      {
+        "question": "First, how old are you?",
+        "response": "20 years",
+        "note": "if fewer than 18 or greater than 24, terminate"
+      },
+      {
+        "question": "I'm going to read a list of different types of products. For each product I mention please tell me whether you, yourself, use that type of product.",
+        "products": [
+          {
+            "name": "Packaged cookies",
+            "response": "Yes"
+          },
+          {
+            "name": "Diet or low-calorie soft drinks",
+            "response": "Yes"
+          },
+          {
+            "name": "Regular soft drinks",
+            "response": "No"
+          },
+          {
+            "name": "Decaffeinated coffee",
+            "response": "No"
+          },
+          {
+            "name": "Regular coffee",
+            "response": "Yes"
+          },
+          {
+            "name": "Cigarettes",
+            "response": "Yes",
+            "note": "If answered \"no\" to cigarettes, THANK AND TERMINATE."
+          },
+          {
+            "name": "Paper towels",
+            "response": "Yes"
+          },
+          {
+            "name": "Frozen vegetables",
+            "response": "No"
+          },
+          {
+            "name": "Canned vegetables",
+            "response": "No"
+          }
+        ]
+      }
+    ]
+  },
+  "code": "9ewvP zE",
+  "id": "2049165342"
 }

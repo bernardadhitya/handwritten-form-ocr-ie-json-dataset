@@ -1,69 +1,74 @@
 {
-    "title": "ATICNAL CONSENSUS SURVEYS",
-    "address": {
-        "street": "4423184-S01 Secend Avenue",
-        "city": "Esw York",
-        "state": "New York",
-        "zip": "10017"
+  "title": "NATIONAL CONSENSUS SURVEYS",
+  "address": {
+    "street": "801 Second Avenue",
+    "city": "New York",
+    "state": "New York",
+    "zip": "10017"
+  },
+  "instructions": "Please take a few minutes to go through the advertisements in this book. Please take as much time with each ad as you care to. If you ordinarily wear reading glasses, you'll need them.",
+  "questions": [
+    {
+      "text": "Now, I'd like to ask you a few questions about the ads in the book.",
+      "ads": [
+        "GENERAL ADS",
+        "CIGARETTE ADS",
+        "Amana Range",
+        "Dole-Pineapple",
+        "BankAmericard/VISA",
+        "General Electric Washer",
+        "Golden Lights",
+        "Bayer-Aspirin",
+        "Hilton Hotels",
+        "Golden (Unsp.)",
+        "Bolens Lawn Mower",
+        "Kawasaki",
+        "Kent Golden",
+        "Budweiser",
+        "Old Spice Pocket Cologne",
+        "Polaroid Camera",
+        "Kent Golden Lights",
+        "Canadian Club",
+        "Singer Sewing Machines",
+        "Kent Lights",
+        "Coca Cola",
+        "Teeter's Choice",
+        "Kent (Unsp.)",
+        "Concord Watches",
+        "Weight Watchers",
+        "Lights (Unsp.)",
+        "Other (SPECIFY):"
+      ]
     },
-    "instructions": "Please take a few minutes to go through the advertisements in this book. Please take as much time with each ad as you need to. If you require reading glasses, you'll need them.",
-    "questions": [
-        {
-            "text": "Now I'd like to ask you a few questions about the ads in the book.",
-            "ads": [
-                "GENERAL",
-                "CEGARETTE ADS",
-                "Amaca Range",
-                "Dole-Pineapple",
-                "BenkAsrscard/VISA",
-                "Ganerel Elactric Vesber",
-                "Coldea-Lighte",
-                "Bayer-Aepirin",
-                "Hilton doteis",
-                "Colden",
-                "Bolens Lawo Move",
-                "Kevasaks",
-                "Keat Golden",
-                "Budweiser",
-                "Old Spice Pocket Cologn",
-                "Polaroid Cessre",
-                "Kent",
-                "Lighte",
-                "Cocs Cols",
-                "Canaln Cl",
-                "Singe Seving Hechineg",
-                "Uasp",
-                "Coucord Wetchan",
-                "Teeter's Choice",
-                "Lighte Vay",
-                "Weight Wetchere",
-                "Other SPECIFY"
-            ]
-        },
-        {
-            "text": "Do you remember any ads for cigarettes?",
-            "options": [
-                "Goldsn insp.",
-                "Goldan Ligbts",
-                "Lent.Coldsn Lighta",
-                "nt Col",
-                "XntDosp.",
-                "Lent.Lighte",
-                "Other SPECIFY"
-            ]
-        },
-        {
-            "text": "Do you remember any ads for any other brands of cigarettes?",
-            "options": [
-                "Coldes Lighte",
-                "Gelden Unsp.",
-                "Kent Golden.Lighee",
-                "Kent Coldsn",
-                "Kent Lighte",
-                "Keat (Unsp.)",
-                "True",
-                "Other SPECIFY"
-            ]
-        }
-    ]
+    {
+      "text": "Do you remember any ads for cigarettes?",
+      "options": [
+        "Luke",
+        "Golden Lights",
+        "Golden (Unsp.)",
+        "Kent Golden",
+        "Kent Golden Lights",
+        "Kent Lights",
+        "Kent (Unsp.)",
+        "Lights (Unsp.)",
+        "True",
+        "Other (SPECIFY):"
+      ]
+    },
+    {
+      "text": "Do you remember any ads for any other brands of cigarettes?",
+      "options": [
+        "Luke",
+        "Golden Lights",
+        "Golden (Unsp.)",
+        "Kent Golden",
+        "Kent Golden Lights",
+        "Kent Lights",
+        "Kent (Unsp.)",
+        "Lights (Unsp.)",
+        "True",
+        "Other (SPECIFY):"
+      ]
+    }
+  ]
 }

@@ -1,55 +1,76 @@
 {
-    "Project": "MAFXET TRETDS",
-    "Address": "EAS7 23rd STRCCT, hek YcrK, NEW WJR< ICd1D 4048",
-    "Date": "aovemder 1ubZ",
-    "Questions": [
+  "company": "Market Trends, Inc.",
+  "address": "",
+  "project_number": "",
+  "form": "SCREENING QUESTIONNAIRE",
+  "questions": [
+    {
+      "question": "What is your age? Are you between the ages of 21 and 35, younger or older?",
+      "options": [
         {
-            "Question": "Aotnino",
-            "Answer": "Fartemoji"
+          "text": "Younger than 21",
+          "action": "TERMINATE"
         },
         {
-            "Question": "ere ? Ing",
-            "Answer": "Kurke"
+          "text": "Between 21 - 35",
+          "action": "CONTINUE"
         },
         {
-            "Question": "Cantr sur imJiate f nily wrk for",
-            "Choices": [
-                "dvertising army",
-                "maeket",
-                "Tcanrco",
-                "cordeny",
-                "coan",
-                "Ilndnaccn",
-                "Wmg",
-                "distribut (0",
-                "TeRaIn4T 2",
-                "cobclic",
-                "beyerages",
-                "cONini",
-                "Ifacelr Itg",
-                "se] Wx",
-                "Ulser",
-                "Ibuc ing",
-                "tObJcCC Vrc cts",
-                "#Tzs",
-                "PbovE",
-                "TerTiT",
-                "GI3cE"
-            ]
-        },
-        {
-            "Question": "Did You",
-            "Choices": [
-                "00 IoJT"
-            ]
-        },
-        {
-            "Question": "Dely c igarettes",
-            "Answer": "yioke"
-        },
-        {
-            "Question": "Kovu] Yoi",
-            "Answer": "041zsy"
+          "text": "Older than 35",
+          "action": "TERMINATE"
         }
-    ]
+      ]
+    },
+    {
+      "question": "Do you or does any member of your immediate family work for:",
+      "options": [
+        {
+          "text": "an advertising agency",
+          "action": ""
+        },
+        {
+          "text": "a market research company",
+          "action": ""
+        },
+        {
+          "text": "a company manufacturing, selling or distributing beer, wine or other alcoholic beverages",
+          "action": ""
+        },
+        {
+          "text": "a company manufacturing, selling or distributing tobacco products",
+          "action": ""
+        }
+      ]
+    },
+    {
+      "question": "Which of the following did you do in the past 2 days? Did you:",
+      "options": [
+        {
+          "text": "Drink a glass of wine?",
+          "action": ""
+        },
+        {
+          "text": "Have a glass of beer?",
+          "action": ""
+        },
+        {
+          "text": "Smoke a cigarette?",
+          "action": "TERMINATE"
+        }
+      ]
+    },
+    {
+      "question": "About how many cigarettes do you smoke in an average day? Would you say:",
+      "options": [
+        {
+          "text": "Less than half a pack",
+          "action": "TERMINATE"
+        },
+        {
+          "text": "Half a pack or more?",
+          "action": "CONTINUE"
+        }
+      ]
+    }
+  ]
 }

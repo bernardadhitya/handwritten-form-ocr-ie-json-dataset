@@ -1,38 +1,58 @@
 {
   "ResponsibleRecordsManagementGroupApproval": {
-    "AuthorizedSignature": "WELLIAMS",
-    "NameOfDepartment": "RESPONSIBLE RECORDS MANAGEMENT GROUP"
+    "AuthorizedSignature": "[X] (signature)",
+    "NameOfDepartment": "York Engineering ERO 05EROp25"
   },
   "LegalCounselApproval": {
-    "From": "N6recds",
-    "To": "De1"
+    "From": "",
+    "To": ""
   },
-  "Description": "You must attach a description of records in each new category requested and reasons for any suggested retention period",
-  "Note": "Frances Everington",
+  "Description": "You must attach a description of records in each new category requested and reasons for any suggested retention period changes.",
+  "Note": "You will receive a separate memorandum providing you with any new record category codes or with reasons for denial of requested additions or changes.",
   "RecordsManagementDepartment": "Records Management Department",
   "Inventory": [
-    "E0265",
-    "E0259",
-    "C0510",
-    "C0509",
-    "A0294"
+    {
+      "Code": "A0294",
+      "Category": "",
+      "Record": "Awards"
+    },
+    {
+      "Code": "C0509",
+      "Category": "",
+      "Record": "Christmas Club Savings Fund"
+    },
+    {
+      "Code": "C0510",
+      "Category": "",
+      "Record": "Communications - General"
+    },
+    {
+      "Code": "E0259",
+      "Category": "",
+      "Record": "EEOC Reports & Legal Documents"
+    },
+    {
+      "Code": "E0265",
+      "Category": "",
+      "Record": "Employee Relations Operations"
+    }
   ],
   "RetentionScheduleMaintenanceForm": {
-    "RecordCategory": "RETENTION SCHEDULE MAINTENANCE FORM",
+    "RecordCategory": "",
     "ForRecordsManagementUse": {
-      "Add": "ADD = Add to the records retention schedule",
+      "Add": "Add to the records retention schedule",
       "RequestedRevisionCodes": {
-        "CRP": "CRP",
-        "CRC": "CRC",
-        "OEL": "OEL"
+        "CRP": "Change the retention period for a category",
+        "CRC": "Change the record category description",
+        "OEL": "Delete from the records retention schedule"
       }
     }
   },
   "ResponsibleRecordsManagementGroup": {
-    "InDept": "In Dept.",
-    "RecordsCoordinator": null,
-    "DepartmentHead": "DEPARTMENT HEAD",
+    "InDept": "",
+    "RecordsCoordinator": "",
+    "DepartmentHead": "",
     "Date": "5-28-92",
-    "Total": "Total"
+    "Total": ""
   }
 }

@@ -2,51 +2,71 @@
   "departmentExpenseBudgetSummary": {
     "company": "LORILLARD, DIVISION OF LOEW'S CORP.",
     "department": {
-      "division": "DivisionSales",
+      "division": "Sales",
       "domesticTaxFree": {
         "projectedCurrentYearBudget": {
-          "expenses": 25500,
-          "account": "WALI",
+          "expenses": 19,
+          "account": "",
           "budget": {
             "currentYear": 17000,
             "actual": 8500,
             "projectedTotal": 25500,
-            "increaseDecrease": 4050
+            "increaseDecrease": 6450
           }
         },
         "items": [
           {
-            "name": "Consumer Sampling 4's",
-            "budget": 30000,
-            "actual": 4500,
-            "increaseDecrease": 8000
+            "codeNo": 6450,
+            "description": "Consumer Sampling 4's",
+            "projectedCurrentYearBudget": {
+              "budget": 30000,
+              "currentYear": 17000,
+              "actual": 8500,
+              "projectedTotal": 25500,
+              "increaseDecrease": -4500
+            }
           },
           {
-            "name": "Consumer Sampling 20's",
-            "budget": 28000,
-            "actual": 10000,
-            "increaseDecrease": 16000
+            "codeNo": 6460,
+            "description": "Consumer Sampling 20's",
+            "projectedCurrentYearBudget": {
+              "budget": 28000,
+              "currentYear": 8000,
+              "actual": 10000,
+              "projectedTotal": 18000,
+              "increaseDecrease": -10000
+            }
           },
           {
-            "name": "Consumer Offer Items",
-            "budget": 20000,
-            "actual": 19000,
-            "increaseDecrease": 10000
+            "codeNo": 6470,
+            "description": "Consumer Offer Items",
+            "projectedCurrentYearBudget": {
+              "budget": 20000,
+              "currentYear": 16000,
+              "actual": 4000,
+              "projectedTotal": 20000,
+              "increaseDecrease": 0
+            }
           },
           {
-            "name": "Special Promotion Cost",
-            "budget": 42000,
-            "actual": 13000,
-            "increaseDecrease": 29000
+            "codeNo": 6560,
+            "description": "Special Promotion Cost",
+            "projectedCurrentYearBudget": {
+              "budget": 42000,
+              "currentYear": 19000,
+              "actual": 10000,
+              "projectedTotal": 29000,
+              "increaseDecrease": -13000
+            }
           }
         ],
         "total": {
           "budget": 120000,
-          "currentYear": 27500
+          "currentYear": 60000
         }
       }
     },
-    "dateSubmitted": "AND DEPT. MANAGER",
-    "departmentManager": "DEPT. MANAGER"
+    "dateSubmitted": "10/10/75",
+    "departmentManager": "APPROVAL"
   }
 }

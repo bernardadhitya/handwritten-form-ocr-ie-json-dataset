@@ -1,25 +1,15 @@
 {
-    "Company": "Societe du Fromage de Saverne",
-    "Contact": {
-        "Name": "Corine Simard",
-        "Gender": "M",
-        "Position": "Responsable des ventes",
-        "Tel": "03.12.51.15.18",
-        "Fax": "03.12.51.15.20",
-        "Email": "csimard@goatcheese.com"
-    },
-    "Address": {
-        "Street": "6 rue du Chemin Vert",
-        "City": "Saverne",
-        "Postal Code": "67700"
-    },
-    "Company Details": {
-        "Legal Form": "SARL",
-        "Capital": "500800€"
-    },
-    "General Contact": {
-        "Tel": "03.12.51.15.15",
-        "Fax": "03.12.51.15.20",
-        "Email": "contact@goatcheese.com"
-    }
+  "document": "Fax",
+  "scenario": "Modification de contrat / Commande",
+  "writer": "C Simard",
+  "sender_person": "C Simard",
+  "sender_company": "",
+  "sender_tel": "",
+  "sender_fax": "01.60.76.43.33",
+  "receiver_person": "",
+  "receiver_company": "Le 3 Suifs",
+  "subject": "Modification de commande",
+  "date": "13 Février 2007",
+  "place": "",
+  "box": ""
 }

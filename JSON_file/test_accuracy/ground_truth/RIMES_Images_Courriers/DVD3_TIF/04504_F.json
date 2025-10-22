@@ -1,22 +1,15 @@
 {
-    "Laposte": {
-        "TELECOPIE": {
-            "Direction": "Direction de La Poste Grand Public",
-            "Date": "01/10",
-            "Nombre de pages": "6",
-            "Expediteur": "Jaeques",
-            "Destinataire": "Qaozh Gauque Jelit lYonu/s",
-            "Adresse": "L9 Cuc la Qsste 6 8960",
-            "Telephone": {
-                "Telephone": "0394 69 72 01",
-                "Telecopie": "04 10 43 33"
-            },
-            "Motifs de transmission": "Li Fun 2 4",
-            "Pour information": true,
-            "Pour avis": false,
-            "Pour suite a donner": false,
-            "Autres": false,
-            "Message": "Objet: DzMAn DE DE RENDEz U033 Avec Un Con CE | LLE 1 _ n6"
-        }
-    }
+  "document": "Fax",
+  "scenario": "Demande d'information",
+  "writer": "Jacques Prost",
+  "sender_person": "Jacques Prost",
+  "sender_company": "",
+  "sender_tel": "",
+  "sender_fax": "0391 697741",
+  "receiver_person": "",
+  "receiver_company": "Banque DEBIT LYONNAIS",
+  "subject": "DEMANDE DE RENDEZ VOUS AVEC UN CONSEILLER.",
+  "date": "02/04/07",
+  "place": "",
+  "box": ""
 }

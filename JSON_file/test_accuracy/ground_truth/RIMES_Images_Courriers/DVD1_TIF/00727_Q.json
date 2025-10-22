@@ -1,51 +1,33 @@
 {
-    "Code d'envoi": {
-        "Questionnaire": {
-            "Identite fictive": {
-                "Nom": "SAYAC+",
-                "Prenom": "",
-                "Adresse": "2h2",
-                "Code": "l1Lk",
-                "Ville": "sex",
-                "Tel": "",
-                "Scenario": {
-                    "Categorie": "S",
-                    "Objet_Valke": {
-                        "C": "",
-                        "L": "",
-                        "Complement": "",
-                        "Acc": "",
-                        "Reference client eventuelle": "9."
-                    },
-                    "Interlocuteur": "As_sSS AALCDe Sxxge",
-                    "Adresse": "Rae. 291",
-                    "Code postal": "LL2ad",
-                    "Ville": "SacA",
-                    "Redaction": {
-                        "Type de stylo (noir) utilise": [
-                            "bille",
-                            "plume",
-                            "feutre"
-                        ],
-                        "Temps passe a traiter le scenario": "minutes."
-                    },
-                    "Contribution": {
-                        "Cocher les elements de votre contribution pour le_scenario traite": [
-                            "(6€) J'envoie mon courrier par voie postale a la date du",
-                            "(+2€) Mon courrier contient une page de garde de fax:",
-                            "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
-                            "(+1€) Jai envoye par courriel mon courrier numerise le"
-                        ],
-                        "Marque et modele du scanner": "",
-                        "Format": [
-                            "PNG",
-                            "GIF",
-                            "TIFF"
-                        ],
-                        "Resolution des images": "dpilppp"
-                    }
-                }
-            }
-        }
-    }
+  "Code d'envoi": "KSOXGE",
+  "Nom": "Bouard",
+  "Prénom": "Amandine",
+  "Adresse": "9 rue de Colmar",
+  "Code Postal": "67118",
+  "Ville": "Geispolsheim",
+  "Téléphone": "0369340690",
+  "Catégorie Scénario": "Refus de mettre sans réponse",
+  "Objet Scénario": "Volte Rangement de données personnelles\nn’a pas été pris en compte",
+  "Complément Scénario": "Aucun",
+  "Référence client": "DFWSVL9",
+  "Interlocuteur": "ADSEDIC Assistance chômage",
+  "Adresse Interlocuteur": "Rue de Colmar",
+  "Code Postal Interlocuteur": "411230",
+  "Ville Interlocuteur": "Sainges en Sologne",
+  "Temps passé": "10",
+  "Stylo bille": "x",
+  "Stylo plume": "",
+  "Stylo feutre": "",
+  "Contribution postale": "x",
+  "Date d'envoi postal": "24.10.06",
+  "Option Page de garde de fax": "",
+  "Option envoi par fax": "",
+  "Date d'envoi par fax": "",
+  "Option envoi par courriel": "",
+  "Date d'envoi par courriel": "",
+  "Résolution": "",
+  "Format PNG": "",
+  "Format GIF": "",
+  "Format TIFF": "",
+  "Marque et modèle scanner": ""
 }

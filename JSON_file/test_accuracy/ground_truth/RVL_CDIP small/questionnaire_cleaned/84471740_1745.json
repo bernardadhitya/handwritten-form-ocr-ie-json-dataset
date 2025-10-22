@@ -1,5 +1,5 @@
 {
-  "company": "COMUNICUSINC.",
+  "company": "COMUNICUS, INC.",
   "gender": [
     "Male",
     "Female"
@@ -7,56 +7,55 @@
   "locations": [
     "Chicago",
     "New York",
-    "San Fyancisco"
+    "San Francisco"
   ],
   "project": "Project LLD-7",
-  "date": "April1978",
-  "group": "GROUP",
+  "date": "April, 1978",
+  "group": "GROUP D 4-4",
   "time": [
+    "AM",
+    "PM",
     "AM",
     "PM"
   ],
   "survey": {
-    "introduction": "Hello,I'm from Communicus, a consumer opinion firm. We are conducting a survey and would like to include you.",
+    "introduction": "Hello, I'm from Communicus, a consumer opinion firm. We are conducting a survey and would like to include you.",
     "questions": [
       {
         "question": "Do you smoke filter, non-menthol cigarettes?",
-        "answers": [
-          "Yes",
-          "No"
-        ]
+        "answers": {
+          "Yes": "CONTINUE",
+          "No": "TERMINATE"
+        }
       },
       {
         "question": "How many cigarettes do you usually smoke per day?",
         "answers": [
-          "6-0",
+          "0 - 9",
           "Between 10 and 15",
-          "16to25",
+          "16 to 25",
           "More than 25"
         ]
       },
       {
         "question": "What is your regular brand of cigarettes, that is, the one brand you smoke most often?",
-        "answers": [
-          "-2",
-          "-1"
-        ]
+        "note": "PROBE FOR SPECIFIC STYLE"
       },
       {
         "question": "Which of the following statements apply to you?",
-        "answers": [
-          "A.",
-          "B.",
-          "C.",
-          "D."
+        "statements": [
+          "I eat dinner in a restaurant at least once a month.",
+          "I read a daily newspaper.",
+          "I do most of the food shopping for myself and/or my family.",
+          "I have taken an airline trip on a scheduled commercial airline in the past 12 months."
         ]
       },
       {
         "question": "Into which of the following age groups do you fall?",
-        "answers": [
+        "age_groups": [
           "Under 21",
-          "21-34",
-          "35-65",
+          "21 - 34",
+          "35 - 65",
           "65+"
         ]
       }

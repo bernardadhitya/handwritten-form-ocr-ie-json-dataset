@@ -1,18 +1,39 @@
 {
-    "NOTICE OF DISPOSAL SUSPENSION": {
-        "Date": "until further notice"
+  "notice": "DISPOSAL SUSPENSION",
+  "message": "The disposal of the records described below is hereby suspended until further notice.",
+  "release": "DISPOSAL SUSPENSION RELEASE",
+  "release_message": "The disposal suspension of the records described below is hereby released.",
+  "to": [
+    {
+      "name": "William F. Lynch, III",
+      "role": "records management group"
     },
-    "DISPOSAL SUSPENSION RELEASE": {
-        "Date": "97/18/91",
-        "Records Coordinator": "Xaureen McDermott",
-        "Department Head": "William Campbell",
-        "Initiated By": "Philip Morris Corporate Tax Department",
-        "Philip Morris USA Legal Department Representative": "Arthur DeBaugh",
-        "Others": "HUNZON WILLIAMS",
-        "General Description of Records": {
-            "Location": "Carlstadt Records Center",
-            "Carton Number": "3w25396",
-            "Received Date": "Jul 19 1991"
-        }
+    {
+      "name": "Maureen McDermott",
+      "role": "Records Coordinator"
+    },
+    {
+      "name": "William I. Campbell",
+      "role": "Department Head"
+    },
+    {
+      "name": "",
+      "role": "Others"
     }
+  ],
+  "initiated_by": {
+    "name": "Philip Morris",
+    "department": "Corporate Tax Department"
+  },
+  "legal_department_representative": {
+    "name": "Arthur J. DeBaugh",
+    "firm": "HUNTON & WILLIAMS"
+  },
+  "general_description_of_records": "Carlstadt Records Center carton no. BW25396",
+  "received": {
+    "number": "",
+    "date": "JUL 29 1991",
+    "supervisor": "BILL LYNCH",
+    "role": "SUPERVISOR RECORDS MANAGEMENT"
+  }
 }

@@ -1,23 +1,48 @@
 {
-    "TR4": "artITE",
-    "EDITOIs": 10,
-    "State code": "118421",
-    "County code": "1",
-    "Area code": "15",
-    "Telephone number": "26",
-    "Date": "Qal. 19.09",
-    "KAVE": {
-        "KAVE I": {
-            "Circle": "corresponding"
-        },
-        "KAVE II": {
-            "Circle": "current"
-        },
-        "KAVE III": {
-            "Circle": "310"
-        },
-        "KAVE_WLQQE BOX": "EERLL"
-    },
-    "JJoSSwHSEHGTSN SEXesMrL": "(FRD 0427)",
-    "JNIRODKTICEX EIGIBILLIY": "Hello, 1'm with WNRIC Oonsuer Rescarch, Independent resoarch 0T Fpuy @ing @ong distarce Ke're condirtirg BYE peoples use of congeor products and tould Like t0 include srieone In your houschoid arg the people Le are Intervitwing nation-wide_ You Ekod ay cigarettes in the past Eae duy8, mot? Ino' ask if there 10 ar ther Person at ane Uho doce E7or8 YES X Iyes' ask to vith Bmoker repeat ( If 'not cuailable' callback: ) (0 Jf 'no crskere in tore' terminate.) I' cigarettes & You usually Eloke per dsy? (33) tar cigarctte Per aek i therc 1 anther 1-5 pcrton ct tore 3707e8 If 'ves' ask %0 Dith 16-25 Btoker ard repcat 4. La.) over 25 DK/ ( If 'rot augilablc' set 17 callback: ( Jf Tro other Enokera in tcne teminate._ doy W 8 1 caxd xeocd.d Cacl QU Zuaf coe 18. Iare speal am Eanj 'Lcu' dy epeak {Suek Iiuf Gqanli"
+  "TER": "_________",
+  "QMETE": "",
+  "EDITORS": "ID",
+  "INIV": "_________",
+  "TDME": "_________",
+  "NO": "MIN",
+  "KEYPUNCH": "Code 7-10. Punch",
+  "Samo": "Same #'s on Card 2",
+  "Rcep": "(6 Recp. #)",
+  "Card": "(6 Card #)",
+  "5": "7 7 10 4 2 7",
+  "1": {
+    "INTRODUCTION_AND_ELIGIBILITY": "Hello, I'm __________ with M/V/R/C Consumer Research, an independent research company, calling long distance.",
+    "use_of_consumer_products": "We're conducting a survey on peoples use of consumer products and would like to include someone in your household among the people we are interviewing nation-wide.",
+    "la": "Have you smoked any cigarettes in the past seven days, or not?",
+    "If_no": "ask if there is another person at home who does smoke.",
+    "If_yes": "ask to speak with smoker and repeat qu. 1a.)",
+    "If_not_available": "set up callback.)",
+    "NO": "If no smokers in home terminate.)",
+    "lb": "How many cigarettes do you usually smoke per day?",
+    "Less_than_1_cigarette_per_day": "ask if there is another person at home who smokes. If yes ask to speak with the smoker and repeat qu. 1a.)",
+    "1-5": "... 1",
+    "16-25": "... 2",
+    "Over_25": "... 3",
+    "DKN": "If no other smokers in home terminate."
+  },
+  "State_code": "(6 State code)",
+  "County_code": "(6 County code)",
+  "Reg_cty_size": "(6 Reg/cty size)",
+  "Area_code": "(6 Area code)",
+  "Telephone_number": "(6 Telephone number)",
+  "Blank": "(29) Blank",
+  "Wave_1D": "(6 Wave ID)",
+  "Circle_code_corresponding": "Wave ID must be used",
+  "WAVE": {
+    "I": "1/27 - 2/2",
+    "II": "2/10 - 2/16",
+    "III": "2/24 - 3/2",
+    "IV": "3/10 - 3/16"
+  },
+  "WAVE_CODE_BOOK": "WAVE II CODE BOOK",
+  "MERIT": "MERIT 100'S/SNEMLOWS LIGHTS/VITAGE LONGS/IORAL",
+  "OIS": "LIMITORS AWARENESS STUDY",
+  "MRD": "(MRD # 77 - 0427)",
+  "50153": "",
+  "3714": ""
 }

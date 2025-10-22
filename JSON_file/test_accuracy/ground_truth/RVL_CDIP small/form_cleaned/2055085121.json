@@ -1,17 +1,22 @@
 {
-    "Company": "Philip Morris",
-    "Document Type": "Facsimile Transmission",
-    "Address": {
-        "Street": "P.o Box 26583",
-        "City": "Richmond",
-        "State": "VA",
-        "Zip Code": "23261"
-    },
-    "Date": "6 - [$-93",
-    "Recipient": {
-        "Name": "bo{ 644/",
-        "Extension": "Ps6"
-    },
-    "Total Number of Pages": 20,
-    "Fax Number": "804-152-5600"
+  "company": "",
+  "type": "Facsimile Transmission",
+  "address": "",
+  "date": "6-15-93",
+  "recipient": {
+    "name": "Bob Gault",
+    "extension": "Extension"
+  },
+  "sender": {
+    "notes": "Card Drawing NY 54"
+  },
+  "total_pages": "2",
+  "contact": {
+    "if_not_received": "2055085121",
+    "fax_number": "804-752-5600"
+  },
+  "additional_info": {
+    "slogan": "Building Our Business You make the difference!",
+    "reference": ""
+  }
 }

@@ -1,41 +1,35 @@
 {
-    "Symposium": {
-        "Name": "7th International Symposium on Particle Toxicology",
-        "Location": "Maastricht, the Netherlands",
-        "Date": "October 12 - 15, 1999",
-        "Organizer": "Conference Agency G7x5AI"
-    },
-    "AbstractSubmission": {
-        "Deadline": "April 1st, 1999",
-        "Instructions": "Abstracts received after the deadline will not be considered for inclusion in the programme"
-    },
-    "Presenter": {
-        "Name": "Walter Stinn",
-        "Institution": "INDIFO Institut fur biologische Forschung",
-        "Department": "Inhalation",
-        "PostalCode": "51149",
-        "City": "Koln",
-        "Country": "Germany",
-        "Telephone": "0049-2203-3031",
-        "Telefax": "9-2203-303362"
-    },
-    "TechnicalInstructions": {
-        "Submission": "Abstract form must be submitted with registration form and payment for the symposium",
-        "Acceptance": "Abstract form will not be accepted without payment and no refund will be made",
-        "Topics": [
-            "Physical & Chemical properties relation to particle toxicity",
-            "Genotoxicity",
-            "Carcinogenicity of particles and fibres",
-            "Non-neoplastic health effects of particles",
-            "Signalling pathways",
-            "Gene expression",
-            "Inflammatory and immune responses"
-        ]
-    },
-    "PresentationPreference": {
-        "PreferredChoice": "Oral",
-        "Submission": "Original abstract and two copies must be mailed to organizing secretariat along with abstract on floppy disk",
-        "WordProcessor": "WordPerfect or Word 6.0, printed in CG (12 pts)",
-        "VirusCheck": "Please double check whether the document is free of viruses"
-    }
+  "symposium": "7th International Symposium on Particle Toxicology",
+  "conference_agency": "",
+  "address": "",
+  "telephone": "",
+  "telefax": [],
+  "email": "",
+  "location": "",
+  "dates": "",
+  "abstract_deadline": "April 1st, 1999",
+  "institution": "INBIFO Institut für biologische Forschung",
+  "postal_code_and_city": "51149 Köln",
+  "country": "Germany",
+  "institution_telephone": "0049-2203-3031",
+  "institution_telefax": "0049-2203-303362",
+  "abstract_topics": [
+    "Physical & Chemical properties in relation to particle toxicity",
+    "Genotoxicity & Carcinogenicity of particles and fibres",
+    "Non-neoplastic health effects of particles",
+    "Signalling pathways & Gene expression",
+    "Inflammatory and immune responses"
+  ],
+  "presentation_preference": "Poster",
+  "abstract_submission": {
+    "original_abstract": "required",
+    "photocopies": 2,
+    "format": "WordPerfect minimal 5.1 or Word 6.0",
+    "font": "CG Times (12 pts)",
+    "submission_method": [
+      "mail",
+      "email attachment"
+    ],
+    "disk_format": "floppydisk (3,5”)"
+  }
 }

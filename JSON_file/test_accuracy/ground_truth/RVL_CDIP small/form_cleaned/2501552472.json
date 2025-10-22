@@ -2,52 +2,53 @@
   "research_center": "PHILIP MORRIS RESEARCH CENTER",
   "status": {
     "CR": "New",
-    "Known": "ILL"
+    "Known": ""
   },
-  "empirical_formula": "C3H0",
-  "molecular_weight": "a04.31",
-  "literature_reference": "Lit. Ref",
-  "name": "s-5-soprpniHn",
-  "structure": "STRUCTURE:",
-  "method_of_preparation": "HOHO",
-  "NC": "NC",
-  "LL": "LL",
-  "page": "19",
-  "solubility": "04",
+  "empirical_formula": "C13 H20 N2",
+  "molecular_weight": "304.31",
+  "literature_reference": "",
+  "name": "(R,S)-5-Isopropylnicotine",
+  "structure": "",
+  "method_of_preparation": "HCHO NaCNBH3 CH3CN CR-1771",
+  "NC": "7359",
+  "LL": "NB# 7359",
+  "page": "61",
+  "solubility": "Eto, CH2Cl2",
   "sample_number": "7359-61-1a",
-  "melting_point": "To be tested for amounts supplied",
-  "boiling_point": "To be tested for amounts supplied",
+  "melting_point": "",
+  "boiling_point": "",
   "testing": {
-    "amounts_supplied": "To be tested for amounts supplied",
-    "number": null,
-    "date": "09-",
-    "solvent": null,
-    "IR": null,
-    "UV": null,
-    "NMR": null,
-    "derivatives": "MS",
-    "analytical": "Anal."
+    "amounts_supplied": "",
+    "number": "",
+    "date": "",
+    "solvent": "",
+    "IR": "",
+    "UV": "",
+    "NMR": "",
+    "derivatives": "... adipinate",
+    "MS": "",
+    "analytical": "≈ I-6041"
   },
-  "from": "Glsyih",
-  "date": "10--79",
-  "diyoigrnt": "diyoigrnt.H0",
-  "recrystallization": "Recrystallization, GC.TLC Data",
+  "from": "Gelbsmith",
+  "date": "10-25-79",
+  "diyoigrnt": "Adipinate·H2O",
+  "recrystallization": "",
   "GC_TLC_data": {
     "calculated": {
-      "C": "4412",
-      "H": "4-12",
+      "C": "44.12",
+      "H": "4.12",
       "N": "16.47"
     },
     "found": {
       "C": "43.65",
-      "H": "4-03",
-      "N": "16-2"
+      "H": "4.03",
+      "N": "16.26"
     }
   },
   "comments": {
-    "date": "3-10",
-    "submitter": "D.Ams",
-    "project_number": "so",
+    "date": "3-12-80",
+    "submitter": "D. Armstrong / C. Chadrikian",
+    "project_number": "25000",
     "approved": "2501552472"
   }
 }

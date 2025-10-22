@@ -1,16 +1,15 @@
 {
-    "University": "UPVD",
-    "Name": "Universite de Perpignan Via Domitia",
-    "Faculty": "Faculte des Lettres et Sciences Humaines",
-    "Fax": "04 68 66 00 44",
-    "Address": {
-        "Street": "52, avenue Paul Alduy",
-        "PostalCode": "66860",
-        "City": "Perpignan",
-        "Country": "France"
-    },
-    "Contact": {
-        "Telephone": "00 33 (0)4 68 66 21 55",
-        "Fax": "00 33 (0)4 68 66 00 44"
-    }
+  "document": "Fax",
+  "scenario": "Changement de données personnelles",
+  "writer": "Robert LOISEAU",
+  "sender_person": "Robert LOISEAU",
+  "sender_company": "",
+  "sender_tel": "00 33 (0)4 68 66 21 55",
+  "sender_fax": "00 33 (0)4 68 66 00 44",
+  "receiver_person": "",
+  "receiver_company": "Brouille Telecom",
+  "subject": "Nouvelles coordonnées bancaires (CRIB joint)",
+  "date": "",
+  "place": "Perpignan",
+  "box": ""
 }

@@ -1,23 +1,15 @@
 {
-    "company_name": "SARCO",
-    "company_type": "Laboratoire d Analyses Oenologiques",
-    "address": {
-        "head_office": {
-            "street_address": "BP. 40",
-            "city": "BORDEAUX",
-            "postal_code": "33015",
-            "country": "FRANCE"
-        },
-        "laboratory": {
-            "street_address": "ZA: LA JACQUOTTE, RUE ARISTIDE BERGES",
-            "city": "FLOIRAC",
-            "postal_code": "33270",
-            "country": "FRANCE"
-        }
-    },
-    "contact": {
-        "telephone": "05 57 77 96 27",
-        "fax": "05 57 77 96 26",
-        "email": "info@sarco.fr"
-    }
+  "document": "Fax",
+  "scenario": "Modification de contrat / Commande",
+  "writer": "V Porte",
+  "sender_person": "Virgine Porte",
+  "sender_company": "",
+  "sender_tel": "",
+  "sender_fax": "",
+  "receiver_person": "",
+  "receiver_company": "La Reboule",
+  "subject": "Modification de commande",
+  "date": "11/12/06",
+  "place": "",
+  "box": ""
 }

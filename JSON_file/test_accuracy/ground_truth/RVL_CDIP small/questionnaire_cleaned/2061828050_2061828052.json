@@ -1,9 +1,20 @@
 {
-    "Company": "Confeel",
-    "Address": {
-        "Street": "BOX 5503",
-        "City": "SIOUX FALLS",
-        "State": "SD",
-        "ZipCode": "57117-9657"
-    }
+  "lcte": "NO mail",
+  "permit_number": "",
+  "city": "",
+  "state": "",
+  "zip_code": "",
+  "business_reply_mail": {
+    "first_class_mail": false,
+    "postage_paid_by_addressee": false,
+    "no_postage_necessary_if_mailed_in_us": false
+  },
+  "addressee": {
+    "name": "Screamers",
+    "po_box": "",
+    "city": "",
+    "state": "",
+    "zip_code": ""
+  },
+  "tracking_numbers": []
 }

@@ -1,0 +1,53 @@
+{
+  "form": "AT 135-M (3-90)",
+  "company": "American Tobacco Company",
+  "location": "Stamford, CT",
+  "authorization_no": "",
+  "date_of_requisition": "January 3, 1995",
+  "requisitioner": "Mr. G. Schumacher",
+  "budget_no": "",
+  "supplier": "WEBCRAFT TECHNOLOGIES, INC.",
+  "ship_to": {
+    "attention": "Mr. Steven Katz",
+    "address": "Route-1-and-Adams-Station North Brunswick, NJ 08901-0623"
+  },
+  "shipment_to_arrive_not_later_than": "NO SHIPPING REQUIRED.",
+  "via": "Net 30 Days",
+  "fob": "",
+  "items": [
+    {
+      "quantity": "42,000 lbs.",
+      "description": "80 lb. Sterling C/2/S - 36-1/2\" roll",
+      "price": "$20,580.00"
+    },
+    {
+      "quantity": "31,000 lbs.",
+      "description": "80 lb. Sterling C/2/S - 26-1/2\" roll",
+      "price": "$15,190.00"
+    },
+    {
+      "quantity": "",
+      "description": "Prep. (line negatives, paper prints, camera/stripping)",
+      "price": "$431.25"
+    },
+    {
+      "quantity": "",
+      "description": "Federal Express Charges",
+      "price": "$48.75"
+    }
+  ],
+  "note": "ALL MATERIALS HAVE BEEN CANCELLED.",
+  "department_charged": "Brand Operations",
+  "accounting_charge_no": "Adv. Expense",
+  "extra_copies_to": "D. Barcia",
+  "state_tax_status": "NOT TO BE CHARGED BY SUPPLIER",
+  "local_approval": {
+    "date": "",
+    "local_po_release_no": ""
+  },
+  "admin_ctr_mgmt_ctr_purchase_order_no": "M14789",
+  "admin_ctr_mgmt_ctr_as_required": {
+    "date": "January 3, 1995"
+  },
+  "other_date": ""
+}

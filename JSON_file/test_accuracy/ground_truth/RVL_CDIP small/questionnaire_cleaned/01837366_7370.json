@@ -1,77 +1,80 @@
 {
-    "address": {
-        "street": "801 Second Avenue",
-        "city": "New York",
-        "state": "New York",
-        "zip": "10017"
+  "address": {
+    "street": "801 Second Avenue",
+    "city": "New York",
+    "state": "New York",
+    "zip": "10017"
+  },
+  "instructions": "Please take a few minutes to go through the advertisements in this book. Please take as much time with each ad as you care to. If you ordinarily wear reading glasses, you'll need these.",
+  "note": "(HAND RESPONDENT PORTFOLIO AND TAKE IT BACK BEFORE CONTINUING.)",
+  "brands": {
+    "cigarette_ads": [
+      "Anana Benge",
+      "Dole Pineapple",
+      "Luke",
+      "BeakAmwrcard/VISA",
+      "General Electric Washer",
+      "Golden Lights",
+      "Bayer Aspirin",
+      "Kilton Eotele",
+      "Golden (Unsp.)",
+      "Bolans Lawn Mower",
+      "Kawasaki",
+      "Kent Golden",
+      "Sudueler",
+      "Old-Spice Pocket Cologne",
+      "Canadian Club",
+      "Polaroid Camera",
+      "Kent Golden Lights",
+      "Core Cola",
+      "Singer Sewing Machines",
+      "Kent Lights",
+      "Concord Watches",
+      "Toter's Choice",
+      "Kent (Unsp.)",
+      "Great toothpaste",
+      "Weight Watchers",
+      "Lights (Unsp.)",
+      "True",
+      "Other (SPECIFY)"
+    ]
+  },
+  "questions": {
+    "Q3a": "IF NO CIGARETTE BRANDS MENTIONED ABOVE, ASK:",
+    "Q3b": "IF \"ONE\" OR \"TWO\" CIGARETTE BRANDS MENTIONED, ASK:",
+    "Q4": "IF ALL THREE CIGARETTE BRANDS MENTIONED, SKIP TO Q.4.",
+    "Q15": {
+      "question": "Do you remember any ads for cigarettes?",
+      "response": "Yes (15)",
+      "follow_up": "What brands do you remember seeing ads for?",
+      "options": [
+        "Luke 3",
+        "Golden Lights 4",
+        "Golden (Unsp.) 5",
+        "Kent Golden 6",
+        "Kent Golden Lights 7",
+        "Kent Lights 8",
+        "Kent (Unsp.) 9",
+        "Lights (Unsp.) 0",
+        "True [ ]",
+        "Other (SPECIFY)"
+      ]
     },
-    "instructions": "Please take a few minutes to go through the advertisements in this book.",
-    "note": "ASD RESPONDENT PORTFOLIO AND TAKE IT BACK BEFORE CONTINUING.",
-    "brands": {
-        "cigarette_ads": [
-            "Anana Benge",
-            "Dole Pineapple",
-            "Beak Amwrcard/VISA",
-            "General Electric Washer",
-            "Golden Light",
-            "Bayer Aspirin",
-            "Kilcon Eotele",
-            "Golden (Unsp.)",
-            "Bolans Lawn Mower",
-            "Old Spice Pocket Cologne",
-            "Kawasaki",
-            "Kent Golden",
-            "Sudueleer",
-            "Celdes Light",
-            "Canadian Club",
-            "Polaroid Camera",
-            "Kent",
-            "Light",
-            "Core Cola",
-            "Singer Sewing Machines",
-            "Kest",
-            "Unsp.",
-            "Concord Watches",
-            "Toter's Choice",
-            "Craet",
-            "ceothpaete",
-            "Weight Watchers",
-            "Other (SPECIFY)"
-        ]
-    },
-    "questions": {
-        "Q3a": "IF NO CIGARETTE BRANDS MENTIONED ABOVE ASK",
-        "Q3b": "IF ONLY ONE OR TWO CIGARETTE BRANDS MENTIONED SKIP TO Q.3b.",
-        "Q4": "IF ALL THREE CIGARETTE BRANDS MENTIONED SKIP TO Q.4.",
-        "Q15": {
-            "question": "Do you remember any ads for cigarettes?",
-            "response": "Yes",
-            "follow_up": "What brands do you remember seeing ads for?",
-            "options": [
-                "Suke",
-                "Golden (Unsp.)",
-                "Leat",
-                "Golden",
-                "Kent Golden Lights",
-                "Kent (Unsp.)",
-                "Kent Light",
-                "Light (Unsp.)",
-                "Other (SPECIFY)"
-            ]
-        },
-        "Q16": {
-            "question": "Do you remember any ads for any other brands of cigarettes?",
-            "response": "What",
-            "options": [
-                "Golden (Unsp.)",
-                "Golden Lights",
-                "Kent Golden Lights",
-                "Kent Golden",
-                "Kent Light",
-                "Kent (Unsp.)",
-                "Lights (Unsp.)",
-                "Other (SPECIFY)"
-            ]
-        }
+    "Q16": {
+      "question": "Do you remember any ads for any other brands of cigarettes?",
+      "response": "Yes (16)",
+      "options": [
+        "Luke 3",
+        "Golden Lights 4",
+        "Golden (Unsp.) 5",
+        "Kent Golden 6",
+        "Kent Golden Lights 7",
+        "Kent Lights 8",
+        "Kent (Unsp.) 9",
+        "Lights (Unsp.) 0",
+        "True [ ]",
+        "Other (SPECIFY)"
+      ]
     }
+  }
 }

@@ -1,35 +1,33 @@
 {
-  "company": "Bellomy-Carrigg,Inc.",
+  "company": "Bellomy-Carrigg, Inc.",
   "job_number": "0906",
-  "address": "5UNIVERSITYPARKWAY",
+  "address": "2915 UNIVERSITY PARKWAY WINSTON-SALEM, N.C. 27106",
   "date": "October, 1984",
   "project": "AA EXTENDED USE CONCEPT/PRODUCT TEST",
-  "document_type": "RESPONDENT'S NAME:",
+  "document_type": "SCREENER",
   "respondent": {
-    "name": "BE172",
-    "state": "N.C.",
-    "area_code": "3/3",
-    "phone": "3/",
-    "date": "10i",
-    "interviewed_by": "N"
+    "name": "BE172 Hunter",
+    "state": "MI",
+    "area_code": "313",
+    "phone": "531-2784",
+    "date": "10/11",
+    "interviewed_by": "MN"
   },
   "instructions": {
-    "interview_women_only": null,
+    "interview_women_only": true,
     "age_question": {
       "question": "Into which of the following age groups does your age belong?",
       "options": [
         "Under 18",
         "18-24",
-        "25-3-2",
+        "25-34",
         "35-49",
-        "50+"
+        "50+",
+        "Refused"
       ],
       "terminate_if": [
         "Under 18",
-        "18-24",
-        "25-3-2",
-        "35-49",
-        "50+"
+        "Refused"
       ]
     },
     "product_usage_question": {
@@ -42,8 +40,6 @@
         "Cream toothpaste"
       ],
       "continue_if": [
-        "Breathmints",
-        "Mouthwash",
         "Cigarettes"
       ]
     },
@@ -51,17 +47,6 @@
       "question": "Which of the following brands have you used in the past week?",
       "options": [
         "Certs breathmints",
-        "50552",
-        "Clorets breathmints",
-        "Topal toothpaste",
-        "Aqua Fresh toothpaste",
-        "Clinomint",
-        "Scope",
-        "Listerine"
-      ],
-      "continue_if": [
-        "Certs breathmints",
-        "50552",
         "Clorets breathmints",
         "Topal toothpaste",
         "Aqua Fresh toothpaste",

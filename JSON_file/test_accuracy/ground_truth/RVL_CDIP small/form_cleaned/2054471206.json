@@ -1,46 +1,49 @@
 {
-    "Records Management Manual": {
-        "NOTICE OF DISPOSAL SUSPENSION": {
-            "Records": "Tecords described below",
-            "Suspension": "until further notice"
-        },
-        "DISPOSAL SUSPENSION RELEASE": {
-            "Records": "described below",
-            "Action": "released"
-        },
-        "Records to be maintained": {
-            "Instructions": "according to the applicable records retention schedule(s)"
-        },
-        "Date": "14",
-        "Responsible Records Management Group": {
-            "Records Coordinator": "Rcse",
-            "Head of Operating Department": "524 @pe",
-            "Others": [
-                "4SE",
-                "MA~AbeLENT",
-                "AAZt/Istt"
-            ]
-        },
-        "Initiated By": {
-            "Philip Morris Corporate Tax": "Philip Morris Corporate Legal",
-            "Philip Morris Corporate Legal": "Cula Poece"
-        },
-        "General Description of Records": {
-            "Pr": "Gr.FN",
-            "Pii": "AU",
-            "Reccos": "REltN 0",
-            "Or": "Reuitliosth?",
-            "W": "D 'JEEP 46lezs",
-            "GErel+": "Cl6h2",
-            "Sile": "1987",
-            "Including": "5 Dding info",
-            "Purchase": "Ores",
-            "ETZ": "eelplos of Aix Cctms 50i73 02",
-            "Complaints": "PRlor (o / ss 'NUOuii^ 6",
-            "Letters Received": "SEP 10 1992",
-            "BILL LYNCH": "Icco",
-            "Records Management Issued": "10/89",
-            "Records Management Refused": "06/92 87 62"
-        }
+  "title": "Records Management Manual",
+  "notice": {
+    "disposalSuspension": "The disposal of the records described below is hereby suspended until further notice.",
+    "disposalSuspensionRelease": "The Disposal Suspension of the records described below is hereby released. These records should now be maintained according to the applicable records retention schedule(s)."
+  },
+  "to": [
+    {
+      "name": "WM LYNCH",
+      "role": "Responsible Records Management Group"
+    },
+    {
+      "name": "ROSE FALZONE",
+      "role": "Records Coordinator"
+    },
+    {
+      "name": "FRAN GOEHL",
+      "role": "Head of Operating Department"
+    },
+    {
+      "name": "RISK MANAGEMENT - E. DINUZZI / J. STANU",
+      "role": "Others"
     }
+  ],
+  "initiatedBy": [
+    {
+      "name": "Philip Morris Corporate Tax",
+      "role": ""
+    },
+    {
+      "name": "CLARE PURCEL",
+      "role": "Philip Morris Corporate Legal"
+    }
+  ],
+  "generalDescriptionOfRecords": [
+    "FOR GRIFFIN / PM -",
+    "ALL RECORDS RELATED TO OUR RELATIONSHIP W/ DISPOSABLE LIGHTERS OR GENERAL CIGAR SINCE 1987 INCLUDING BIDDING INFO, PURCHASE ORDERS ETC.",
+    "RECORDS OF",
+    "ALL CLAIMS, SUITS OR COMPLAINTS PRIOR TO 10/85, INVOLVING LIGHTERS."
+  ],
+  "referenceNumber": "",
+  "receivedDate": "",
+  "issuedBy": "",
+  "issuedDate": "",
+  "recordManagement": {
+    "revision": "",
+    "revisedDate": ""
+  }
 }

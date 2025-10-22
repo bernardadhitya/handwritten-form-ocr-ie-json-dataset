@@ -2,51 +2,29 @@
   "year": 1978,
   "accomplishments": [
     {
-      "description": "FITR A",
-      "results": [
+      "id": "DETABN",
+      "details": [
         {
-          "parameter": "Esinadsohents",
-          "value": "bott.fe.h..aged"
+          "type": "FITR Analysis",
+          "description": "Evaluated Ambersorb XE-340 & XE-318. Pyridylized ion-exchange resin adsorbents, both fresh & aged. Evaluated NaBiO3 on Al2O3, SiO2, SiO2 w/sugar & MgO. Evaluated ascorbic acid on Carbon, Al2O3, tow. Evaluated Cu/Sn gel filter additives (preliminary expts).",
+          "ratios": {
+            "[Cu]/[Sn]": 0.73
+          },
+          "compounds": [
+            "Cu, Sn, Co",
+            "Sn, Cu, Fe",
+            "Sn, Cu, Pd"
+          ]
         },
         {
-          "parameter": "Evaatd Fol.hrtr additie.",
-          "value": ".Eyaluae....NaBi.on...aO3..-.Si.Q...Siow.Suju"
+          "type": "Evaluation",
+          "description": "Evaluated Ag/MoO4/Al2O3 (preliminary expts). Evaluated salcomine and salminine on carbon, Al2O3, SiO2-Al2O3, bauxite, tow. Evaluated salcomine on carbon, Al2O3, SiO2-Al2O3 (in progress). Evaluated poly-N,N'-1,2-phenylene (5,5'-methylenebis (salicylideneiminato)), cobalt (II) on Al2O3 & carbon.",
+          "compounds": []
         },
         {
-          "parameter": "Evaluatrd ascubic acid.on Carbon,QlO,tow.",
-          "value": "lde..u.fS..ge...eaddis (preiniyyp."
-        },
-        {
-          "parameter": "Cu/Sn",
-          "value": "06.0"
-        },
-        {
-          "parameter": "ng.nCuz.s.o",
-          "value": "Sn.q.g.Cu.Fe"
-        },
-        {
-          "parameter": "Sn.3.o.Cu.Pdo.06",
-          "value": ""
-        },
-        {
-          "parameter": "Evxlua/d..AgMOy...Ql....pre.imiaycxpts).",
-          "value": "Elacd...sucomn.and..sa/ninne.on"
-        },
-        {
-          "parameter": "Ca.bon..l.03..Sioral03.,-buuxile,.tow.",
-          "value": "Evaluatcd..salcuwir....on..Ca.bou..!O,Si:.a03."
-        },
-        {
-          "parameter": "presere",
-          "value": "Ealuated.poly..N,n'.,. phouylc ue (.,s..nethy!em.bis."
-        },
-        {
-          "parameter": "salicylidereinio.).cobat.cn.alDt.ca ben",
-          "value": "J.3..a.sl..cn..lawite.sP.."
-        },
-        {
-          "parameter": "Evantcd.two.Pd/Cu Calclysts bosrd",
-          "value": "Yhe l1eg1 f, Rowc FoTnTs (or. Ql03 # Sior-Ql,os)"
+          "type": "Catalyst Evaluation",
+          "description": "Made 4 attempts at Al2O3 coating of supports (Al2O3 (pH 1) & 3.0 wt% on bauxite SRC). Evaluated two Pd/Cu catalysts based on the Lloyd & Rowe patents (on Al2O3 & SiO2-Al2O3).",
+          "code": ""
         }
       ]
     }

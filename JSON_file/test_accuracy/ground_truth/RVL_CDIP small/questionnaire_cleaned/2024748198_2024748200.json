@@ -1,17 +1,130 @@
 {
-    "Smoking Preferences": {
-        "Regular Brand": "Riizh Extn",
-        "King Size": "Regular King Size",
-        "Menthol": "Yes",
-        "Superlites": "No",
-        "Fillter": "Non-Fillter",
-        "Tar Level": "Low mg Tar",
-        "Length": "Regular",
-        "Birthdate": "Not provided",
-        "Coupons Usage": "No",
-        "Special Offers Interest": "Yes",
-        "Receive Information": "Yes",
-        "Age": "Not provided",
-        "Protect Right to Smoke": "Yes"
+  "survey": {
+    "certification": "I certify that I am a cigarette smoker 21 years of age or older. I am also willing to receive free samples of cigarettes and incentive items in the mail, subject to applicable state and federal law.",
+    "birthdate": "",
+    "questions": [
+      {
+        "question": "What is your regular brand of cigarettes?",
+        "options": []
+      },
+      {
+        "question": "If your regular brand were not available, what other brands would you consider buying?",
+        "options": [
+          "Alpine",
+          "Basic",
+          "Benson & Hedges",
+          "Best",
+          "Bristol",
+          "Camel",
+          "Doral",
+          "GPC",
+          "Kent",
+          "Kool",
+          "Magna",
+          "Marlboro",
+          "Merit",
+          "Misty",
+          "Monarch",
+          "Monteclair",
+          "Now",
+          "Parliament",
+          "Pyramid",
+          "Raleigh Extra",
+          "Salem",
+          "Store Brand/Other",
+          "Superslims",
+          "True",
+          "Vantage",
+          "Viceroy",
+          "Winston",
+          "Other"
+        ]
+      },
+      {
+        "question": "Is your regular brand Regular/King Size or Superslims?",
+        "options": [
+          "Regular/King Size",
+          "100s"
+        ]
+      },
+      {
+        "question": "Is your regular brand Menthol or Non-Menthol?",
+        "options": [
+          "Menthol",
+          "Non-Menthol"
+        ]
+      },
+      {
+        "question": "Is your regular brand Filter or Non-Filter?",
+        "options": [
+          "Filter",
+          "Non-Filter"
+        ]
+      },
+      {
+        "question": "Is your regular brand Lowest/1 mg Tar, Ultra/Extra Low Tar, Light/Mild, Medium, or Full Flavor?",
+        "options": [
+          "Lowest/1 mg Tar",
+          "Medium",
+          "Ultra/Extra Low Tar",
+          "Full Flavor",
+          "Light/Mild"
+        ]
+      },
+      {
+        "question": "Do you usually buy by the carton or by the pack?",
+        "options": [
+          "Pack",
+          "Carton",
+          "Both Ways"
+        ]
+      },
+      {
+        "question": "How long have you been using this brand?",
+        "options": [
+          "Less than 1 year",
+          "2 to 3 years",
+          "3 to 5 years",
+          "Over 5 years"
+        ]
+      },
+      {
+        "question": "The next time you go to the store and your regular brand were not available, what would you do?",
+        "options": [
+          "Go to another store to buy my regular brand",
+          "Buy another type or length of my regular brand",
+          "Wait until the store has my regular brand",
+          "Buy a different brand entirely"
+        ]
+      },
+      {
+        "question": "How often do you use special in-store cigarette offers, such as a gift with purchase or 2-for-1?",
+        "options": [
+          "I look for special offers for my regular brand",
+          "I take advantage of special offers for brands other than my regular brand"
+        ]
+      },
+      {
+        "question": "Would you be interested in receiving information about special offers that affect smokers?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "question": "Would you be interested in joining a smokers' panel?",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      }
+    ],
+    "personal_info": {
+      "first_name": "",
+      "middle_initial": "",
+      "last_name": "",
+      "birthdate": "",
+      "regular_brand": ""
     }
+  }
 }

@@ -1,76 +1,207 @@
 {
-    "container_condition": {
-        "bands": {
-            "date": "8-a-87",
-            "locations": [
-                {
-                    "location": "Dub1ell Ky",
-                    "types": {
-                        "type1": null,
-                        "type2": null,
-                        "type3": null,
-                        "type4": null,
-                        "type5": null,
-                        "type6": null
-                    },
-                    "trucks": [
-                        {
-                            "truck_number": 89,
-                            "details": [
-                                "CquR a3",
-                                11,
-                                1,
-                                1,
-                                "Mawyck +2198",
-                                "-",
-                                "1L",
-                                1,
-                                "LL",
-                                11,
-                                "(ommed",
-                                1111
-                            ]
-                        },
-                        {
-                            "truck_number": 47,
-                            "details": [
-                                "omm",
-                                "TaRh",
-                                11,
-                                "LL",
-                                "Comn"
-                            ]
-                        },
-                        {
-                            "truck_number": 443,
-                            "details": [
-                                "(ommRd",
-                                1,
-                                "LLLL",
-                                111
-                            ]
-                        }
-                    ]
-                }
-            ],
-            "additional_truck_numbers": [
-                "TRUCK#",
-                "TRUCK#",
-                "TRUCK#",
-                "TRUCK#",
-                "TRUCK#",
-                "TRUCK#",
-                "TRUCK#",
-                "TRUCK#",
-                "TRUCK#",
-                "TRUCK#",
-                "TRUCK#",
-                "TRUCK#",
-                "TRUCK#",
-                "TRUCK#",
-                "TRUCK#",
-                2030981974
-            ]
+  "container_condition": {
+    "bands": {
+      "date": "8-2-87",
+      "locations": [
+        {
+          "location": "Dubrell Ky",
+          "types": {
+            "type1": "",
+            "type2": "",
+            "type3": "",
+            "type4": "",
+            "type5": "",
+            "type6": ""
+          },
+          "trucks": [
+            {
+              "truck_number": 8920,
+              "details": [
+                11,
+                11,
+                111
+              ]
+            }
+          ]
+        },
+        {
+          "location": "Cafco Rd",
+          "types": {
+            "type1": "",
+            "type2": "",
+            "type3": "",
+            "type4": "",
+            "type5": "",
+            "type6": ""
+          },
+          "trucks": [
+            {
+              "truck_number": 23,
+              "details": [
+                1,
+                1,
+                "1(1)1"
+              ]
+            }
+          ]
+        },
+        {
+          "location": "PSO use",
+          "types": {
+            "type1": "",
+            "type2": "",
+            "type3": "",
+            "type4": "",
+            "type5": "",
+            "type6": ""
+          },
+          "trucks": [
+            {
+              "truck_number": 31,
+              "details": [
+                111,
+                111
+              ]
+            }
+          ]
+        },
+        {
+          "location": "Maury St",
+          "types": {
+            "type1": "",
+            "type2": "",
+            "type3": "",
+            "type4": "",
+            "type5": "",
+            "type6": ""
+          },
+          "trucks": [
+            {
+              "truck_number": 2198,
+              "details": [
+                11,
+                1,
+                1111
+              ]
+            }
+          ]
+        },
+        {
+          "location": "Commed",
+          "types": {
+            "type1": "",
+            "type2": "",
+            "type3": "",
+            "type4": "",
+            "type5": "",
+            "type6": ""
+          },
+          "trucks": [
+            {
+              "truck_number": 427,
+              "details": [
+                1,
+                1,
+                1,
+                "(111)"
+              ]
+            },
+            {
+              "truck_number": 2144,
+              "details": [
+                1,
+                11,
+                11,
+                11
+              ]
+            }
+          ]
+        },
+        {
+          "location": "Comml",
+          "types": {
+            "type1": "",
+            "type2": "",
+            "type3": "",
+            "type4": "",
+            "type5": "",
+            "type6": ""
+          },
+          "trucks": [
+            {
+              "truck_number": 443,
+              "details": [
+                "\\\\\\",
+                1,
+                11,
+                11
+              ]
+            }
+          ]
+        },
+        {
+          "location": "Commod",
+          "types": {
+            "type1": "",
+            "type2": "",
+            "type3": "",
+            "type4": "",
+            "type5": "",
+            "type6": ""
+          },
+          "trucks": [
+            {
+              "truck_number": 428,
+              "details": [
+                "\\\\\\\\",
+                1,
+                1,
+                "1(1)"
+              ]
+            }
+          ]
+        },
+        {
+          "location": "Maury St",
+          "types": {
+            "type1": "",
+            "type2": "",
+            "type3": "",
+            "type4": "",
+            "type5": "",
+            "type6": ""
+          },
+          "trucks": [
+            {
+              "truck_number": 2155,
+              "details": [
+                1,
+                "\\\\\\\\\\",
+                1
+              ]
+            }
+          ]
         }
+      ],
+      "additional_truck_numbers": [
+        "TRUCK #",
+        "TRUCK #",
+        "TRUCK #",
+        "TRUCK #",
+        "TRUCK #",
+        "TRUCK #",
+        "TRUCK #",
+        "TRUCK #",
+        "TRUCK #",
+        "TRUCK #",
+        "TRUCK #",
+        "TRUCK #",
+        "TRUCK #",
+        "TRUCK #",
+        "TRUCK #",
+        "TRUCK #",
+        "2030981974"
+      ]
     }
+  }
 }

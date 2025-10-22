@@ -1,17 +1,37 @@
 {
-    "COMMUNICATION RESULT REPORT": {
-        "DATE": "NOV. 16, 1935",
-        "TIME": "6:30 AM",
-        "FILE MODE": "OPTION",
-        "ADDRESS": {
-            "GROUP": "PHILIP MORRIS USA",
-            "DEPARTMENT": "Marketing, Information & Planning",
-            "STREET": "100 Park Avenue",
-            "FLOOR": "Fourteenth Floor",
-            "CITY": "New York",
-            "STATE": "New York",
-            "ZIP CODE": "10017"
-        },
-        "FAX NUMBER": "(917) 663-5327"
-    }
+  "communicationResultReport": {
+    "date": "03/13/00",
+    "time": "",
+    "fileMode": "",
+    "option": "",
+    "addressGroup": "",
+    "result": "",
+    "page": "",
+    "memoryTx": "",
+    "errorReason": [
+      {
+        "code": "",
+        "description": ""
+      },
+      {
+        "code": "",
+        "description": ""
+      }
+    ]
+  },
+  "sender": {
+    "company": "PM-USA",
+    "department": "",
+    "address": "",
+    "fax": "3-5978"
+  },
+  "faxTransmittalSheet": {
+    "date": "03/13/00",
+    "amount": "Two (2) Senior Team Boards",
+    "name": "Anthony Beale, Esq",
+    "title": "",
+    "company": "PM-USA",
+    "faxNumber": "3-5978",
+    "fromName": "Marge Ormsby"
+  }
 }

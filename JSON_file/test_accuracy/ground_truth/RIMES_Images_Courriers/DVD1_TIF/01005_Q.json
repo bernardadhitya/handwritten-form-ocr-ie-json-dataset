@@ -1,45 +1,33 @@
 {
-    "Code d'envoi": {
-        "Questionnaire": {
-            "Identite fictive": {
-                "Nom": "GAR4.4",
-                "Prenom": "Alexandra _",
-                "Adresse": "cee le (a Se.ae",
-                "Code": "Is14816 J9",
-                "Ville": "St. char les",
-                "Tel": "33 3 S 7"
-            },
-            "Scenario": {
-                "Categorie": "Changemen_ se_Le44e2:.",
-                "Objet": "Neevelles eerdennres. pRs-tales",
-                "Complement": "es _ WQS_ snstallez. aves Nlve. SRn",
-                "Reference client eventuelle": "S R",
-                "Interlocuteur": "FQ f_ lephsiue",
-                "Adresse": "24 cY_ 8_ Elysques",
-                "Code postal": "L1u4Lokel",
-                "Ville": "Redaction",
-                "Type de stylo (noir) utilise": [
-                    "bille",
-                    "plume",
-                    "feutre"
-                ],
-                "Temps passe a traiter le scenario": "20 minutes.",
-                "Contribution": {
-                    "Cocher les elements de_votre contribution pour le scenario traite": [
-                        "(6e) J'envoie mon courrier par voie postale a la date du _ el.AAlzcee",
-                        "(+28) Mon courrier contient une page de garde de fax",
-                        "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
-                        "(+1€) Jai envoye par courriel mon courrier numerise le _A#lalzess"
-                    ]
-                },
-                "Marque et modele du scanner": "HA RSC 315",
-                "Format": [
-                    "PNG",
-                    "GIF",
-                    "TIFF"
-                ],
-                "Resolution des images": "299 dpilppp"
-            }
-        }
-    }
+  "Code d'envoi": "PREDG4",
+  "Nom": "GARCA",
+  "Prénom": "Alexandra",
+  "Adresse": "6 rue de la Seine",
+  "Code Postal": "514860",
+  "Ville": "St. Charles",
+  "Téléphone": "0319340571",
+  "Catégorie Scénario": "changement de données personnelles",
+  "Objet Scénario": "Nouvelles coordonnées postales",
+  "Complément Scénario": "vous vous installez avec votre conjoint",
+  "Référence client": "SRUGF74",
+  "Interlocuteur": "SépaFR Téléphonie",
+  "Adresse Interlocuteur": "24 rue des Elysique",
+  "Code Postal Interlocuteur": "17111010",
+  "Ville Interlocuteur": "Bages",
+  "Temps passé": "20",
+  "Stylo bille": "x",
+  "Stylo plume": "",
+  "Stylo feutre": "",
+  "Contribution postale": "x",
+  "Date d'envoi postal": "18/11/2006",
+  "Option Page de garde de fax": "x",
+  "Option envoi par fax": "",
+  "Date d'envoi par fax": "",
+  "Option envoi par courriel": "x",
+  "Date d'envoi par courriel": "17/11/2006",
+  "Résolution": "200",
+  "Format PNG": "x",
+  "Format GIF": "",
+  "Format TIFF": "",
+  "Marque et modèle scanner": "HP PSC 1375"
 }

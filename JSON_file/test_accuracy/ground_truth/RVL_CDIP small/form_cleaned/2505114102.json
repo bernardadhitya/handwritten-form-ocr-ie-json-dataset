@@ -1,30 +1,40 @@
 {
-    "Company": "INBIFO Institut tur biologische Forschung GmbH",
-    "Location": "Koln",
-    "Form": "34.KW 96",
-    "Title": "Com",
-    "Short Title": "Zomn man f :",
-    "Objective": "Com~2 6",
-    "Type": [
-        "Type 2",
-        "Type 3"
-    ],
-    "Project Management": {
-        "Study Director/Coordinator": "Joe",
-        "Study Co-Director": "Closure of Project"
-    },
-    "Closure Details": {
-        "Description": "The raw data and other materials of the project have been properly prepared for storage according to GLP regulations. The project can be shut down in the BA computer.",
-        "Date/Sign SD": "11/96",
-        "Handover to Archivist": "All GLP relevant materials were handed over to the archivist",
-        "Date/Sign Archivist": "datelsign archivist"
-    },
-    "Distribution": {
-        "Original": "PMF",
-        "Copies": [
-            "AP",
-            "BRZM"
-        ]
-    },
-    "Additional Information": "Required by all means if the study is GLP relevant"
+  "institution": "INBIFO Institut fur biologische Forschung GmbH Koln",
+  "form": "34.KW96 -/MWO XMWO\\PCST.DOC",
+  "projectControlSheet": "P 0268.1.6572",
+  "title": "Comments on \"Establishment of a population data base for investigations of dietary habits among smoking, concurrent and discordant couples\" proposed by R. Rylander, Vernin 15. Nov. 96",
+  "author": "R. Rylander",
+  "date": "15. Nov. 96",
+  "shortTitle": "Comment: Proposal, Dietary Habits and ETS",
+  "objective": "Comments on a proposal of Prof. Rylander to investigate dietary habits among smoking and nonsmoking couples",
+  "type1": "20",
+  "type2": "19",
+  "type3": "2",
+  "projectManagement": {
+    "studyDirectorCoordinator": "JOE",
+    "studyCodirectorB": "/"
+  },
+  "closureOfProject": {
+    "rawDataPrepared": true,
+    "glpRegulations": true,
+    "projectShutdown": "12. Dec. 96",
+    "dateSignSD": "[signature]",
+    "materialsHandedOver": true,
+    "dateSignArchivist": "12. Dec. 96"
+  },
+  "qa": "",
+  "projectNumber": "",
+  "distribution": {
+    "original": "PMF",
+    "copies": [
+      "AP",
+      "QA"
+    ]
+  },
+  "completion": {
+    "completedBy": "BR2M",
+    "date": ""
+  },
+  "glpRelevant": true,
+  "gel": ""
 }

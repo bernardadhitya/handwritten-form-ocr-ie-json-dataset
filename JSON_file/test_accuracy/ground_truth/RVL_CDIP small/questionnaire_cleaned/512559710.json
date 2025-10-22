@@ -1,23 +1,68 @@
 {
-    "Support The Law Program": {
-        "Requested Information": "Yes",
-        "Received Kit and Materials": "Yes",
-        "Reviewed in Detail": "Yes",
-        "Impression": "Mixed feelings",
-        "Shared Program": {
-            "With Department": "Yes",
-            "With Community": "Yes"
-        },
-        "Suggestions for Improvement": "Not provided"
+  "survey": {
+    "title": "SUPPORT THE LAW -- POLICE SURVEY",
+    "introduction": "Dear Sir or Madam:\n\nRecently your department requested information about the \"Support The Law\" program from R.J. Reynolds Tobacco. This program is aimed at helping retailers keep cigarettes out of the hands of kids. Your thoughts and suggestions on this program can be very valuable to retail compliance.\n\nWould you please take a moment and complete this questionnaire about the materials you received. Your assistance is greatly appreciated.",
+    "questions": [
+      {
+        "question": "Did you receive the 'Support The Law' information kit and material samples which you requested?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "response": "Yes"
+      },
+      {
+        "question": "Once you received the kit and materials, did you review them in detail?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "response": "Yes",
+        "follow_up": {
+          "question": "If yes, what was your impression?",
+          "response": "We implemented a similar program"
+        }
+      },
+      {
+        "question": "According to our records, you did not request any additional information. If you did, please let us know and we'll follow-up with your order. Otherwise, would you mind telling us why you didn't feel the need to order additional information?",
+        "response": "What you sent was more than adequate for our town."
+      },
+      {
+        "question": "Did you share the program with anyone else in: Your department?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "response": "Yes",
+        "follow_up": {
+          "question": "If yes, who?",
+          "response": "Jeff Hanson"
+        }
+      },
+      {
+        "question": "Did you share the program with anyone else in: The community?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "response": "Yes",
+        "follow_up": {
+          "question": "If yes, who?",
+          "response": "School system"
+        }
+      }
+    ],
+    "personal_information": {
+      "name": "John F. Garrett",
+      "position": "Lieutenant",
+      "organization": "Show Low Police Dept.",
+      "mailing_address": "P.O. Box 1897",
+      "city": "Show Low",
+      "state": "AZ",
+      "zip": "85901",
+      "telephone_area_code": "602",
+      "telephone_number": "532-5081"
     },
-    "Contact Information": {
-        "Name": "ZLZZ",
-        "Position": "SLLLHeEEn",
-        "Organization": "2Z4 629",
-        "Mailing Address": "132 189",
-        "City": "Skou)how",
-        "State": "Ez",
-        "Zip": "8",
-        "Telephone": "Area Code 821 232229"
-    }
+    "closing": "Thank you very much for your time."
+  }
 }

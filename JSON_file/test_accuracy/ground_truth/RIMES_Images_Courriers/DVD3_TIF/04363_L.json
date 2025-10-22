@@ -1,12 +1,15 @@
 {
-    "address": {
-        "street": "Avenue de la Malakoff",
-        "number": "30",
-        "city": "Nice",
-        "postal_code": "06260"
-    },
-    "name": "Antonin",
-    "date_of_birth": "29/03",
-    "phone_number": "06260",
-    "monthly_subscription": true
+  "document": "Lettre manuscrite",
+  "scenario": "Changement de données personnelles",
+  "writer": "Aurore Pillot",
+  "sender_person": "Aurore Pillot",
+  "sender_company": "",
+  "sender_tel": "",
+  "sender_fax": "",
+  "receiver_person": "",
+  "receiver_company": "Mensuel \"Fleurs et Marquy\"",
+  "subject": "changement d'adresse",
+  "date": "29/03/07",
+  "place": "St Antonin",
+  "box": ""
 }

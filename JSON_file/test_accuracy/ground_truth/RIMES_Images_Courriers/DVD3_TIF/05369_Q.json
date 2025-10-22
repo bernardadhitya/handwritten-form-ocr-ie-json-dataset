@@ -1,52 +1,33 @@
 {
-    "Code d'envoi": {
-        "Questionnaire": {
-            "Identite fictive": {
-                "Nom": "NPR.ade",
-                "Prenom": "DomLIiLle",
-                "Adresse": "Res La_Passe_ e",
-                "Code postal": "15326aol",
-                "Ville": "Pieuze:",
-                "Tel": "353"
-            },
-            "Scenario": {
-                "Categorie": "Madteicatiam",
-                "Objet": "CommaNDe",
-                "Dum": "Lt",
-                "dc": "Sa",
-                "CP": "uierges:",
-                "Complement": "Alcin",
-                "Reference client eventuelle": "Interlocuteur La: rebduIe",
-                "Adresse": "Au BolrG",
-                "Code postal": "4+38el",
-                "Ville": "MDeze"
-            },
-            "Redaction": {
-                "Type de stylo (noir) utilise": [
-                    "bille",
-                    "plume",
-                    "feutre"
-                ],
-                "Temps passe a traiter le scenario": "20 minutes."
-            },
-            "Contribution": {
-                "Cocher les_elements de_votre contribution pour le scenario traite": [
-                    "(6e) J'envoie mon courrier par voie postale a la date du 26_axeil_7adt",
-                    "(+2€) Mon courrier contient une page de garde de fax:",
-                    "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
-                    "(+1€) J'ai envoye par courriel mon courrier numerise le 26 AVRic 2ee;7."
-                ],
-                "Marque et modele du scanner": [
-                    "Canon",
-                    "R66.0..4: Sawdscan"
-                ],
-                "Format": [
-                    "PNG",
-                    "GIF",
-                    "TIFF"
-                ],
-                "Resolution des images": "25.0. dpilppp"
-            }
-        }
-    }
+  "Code d'envoi": "TATDEP",
+  "Nom": "ANDRADE",
+  "Prénom": "DOMITILLE",
+  "Adresse": "7 rés. la passe pierre",
+  "Code Postal": "57260",
+  "Ville": "DIEUZE",
+  "Téléphone": "0395196443",
+  "Catégorie Scénario": "modification contrat / commande",
+  "Objet Scénario": "commande d'un lot de 50 CD vierges (référence du produit 010-25 CDU)",
+  "Complément Scénario": "Aucun",
+  "Référence client": "EPGCTS6",
+  "Interlocuteur": "LA REBOUTE",
+  "Adresse Interlocuteur": "AU BOURG",
+  "Code Postal Interlocuteur": "171810",
+  "Ville Interlocuteur": "MOEZE",
+  "Temps passé": "20",
+  "Stylo bille": "",
+  "Stylo plume": "x",
+  "Stylo feutre": "",
+  "Contribution postale": "x",
+  "Date d'envoi postal": "26 avril 2007",
+  "Option Page de garde de fax": "x",
+  "Option envoi par fax": "",
+  "Date d'envoi par fax": "",
+  "Option envoi par courriel": "x",
+  "Date d'envoi par courriel": "26 avril 2007",
+  "Résolution": "720",
+  "Format PNG": "",
+  "Format GIF": "",
+  "Format TIFF": "x",
+  "Marque et modèle scanner": "CANON D660U CANOSCAN"
 }

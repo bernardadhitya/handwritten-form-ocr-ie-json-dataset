@@ -1,58 +1,127 @@
 {
   "contractResearchCenter": "CRCCONTRACT RESEARCH CENTER",
   "formNumber": "11",
-  "code": "5",
+  "code": "05 CW 98",
   "reference": "KMH/MCM",
-  "formApproval": "Form approved:",
+  "formApproval": "Form approved",
   "observations": {
-    "type": "Group and Individual In-Life Observations",
-    "projectNumber": "3276",
-    "groupCode": "9ro",
-    "dayOfStudy": 5,
-    "date": "3Ap98",
+    "type": "GROUP AND INDIVIDUAL IN-LIFE OBSERVATIONS",
+    "projectNumber": "B 3276",
+    "groupCode": "016",
+    "dayOfStudy": 59,
+    "date": "3 Apr 98",
     "group": {
-      "males": null,
-      "females": null,
-      "time": "4.08",
-      "totalNumberOfAnimals": null,
-      "decreasedSpontaneousActivity": null,
-      "trembling": null,
-      "partiallyOrFullyClosedEyelids": null,
-      "harderianGlandSecretion": null,
-      "initials": null,
-      "partiallyOrFullyWetOrMoistFur": null,
-      "abnormalBreathing": null
+      "males": {
+        "time": "14:08",
+        "totalNumberOfAnimals": 10,
+        "decreasedSpontaneousActivity": 0,
+        "trembling": 0,
+        "partiallyOrFullyClosedEyelids": 0,
+        "harderianGlandSecretion": 2,
+        "partiallyOrFullyWetOrMoistFur": 10,
+        "abnormalBreathing": 0
+      },
+      "females": {
+        "time": "14:17",
+        "totalNumberOfAnimals": 41,
+        "decreasedSpontaneousActivity": 0,
+        "trembling": 0,
+        "partiallyOrFullyClosedEyelids": 0,
+        "harderianGlandSecretion": 6,
+        "partiallyOrFullyWetOrMoistFur": 10,
+        "abnormalBreathing": 0
+      }
     },
     "individual": {
-      "animalNumber": "6o rYO",
-      "sex": null,
-      "time": "44.52",
+      "animalNumber": [
+        "01109",
+        "01140"
+      ],
+      "sex": [
+        "M",
+        "M"
+      ],
+      "time": [
+        "14:52",
+        "14:57"
+      ],
       "codes": {
-        "spontaneousActivity": "0f0",
-        "irritability": 20,
-        "turningReflex": "A",
-        "grippingAbility": 35,
-        "closedEyelids": 45,
-        "trembling": 50,
-        "highLeggedGait": 55,
-        "abnormalBreathing": 60,
-        "harderianGlandSecretion": 65,
+        "spontaneousActivity": "",
+        "irritability": [
+          0,
+          0
+        ],
+        "turningReflex": [
+          -1,
+          ""
+        ],
+        "grippingAbility": [
+          0,
+          ""
+        ],
+        "closedEyelids": [
+          "",
+          ""
+        ],
+        "trembling": [
+          "",
+          ""
+        ],
+        "highLeggedGait": [
+          "",
+          ""
+        ],
+        "abnormalBreathing": [
+          "",
+          ""
+        ],
+        "harderianGlandSecretion": [
+          "",
+          ""
+        ],
         "hairChanges": {
-          "rough": 70,
-          "moistWetPercentage": "603",
-          "discoloration": "e.g..yellow/brown)",
-          "hairlossPercentage": "2505154033"
+          "rough": [
+            0,
+            0
+          ],
+          "moistWetPercentage": [
+            "60%",
+            "100%"
+          ],
+          "discoloration": [
+            "+",
+            "+"
+          ],
+          "hairlossPercentage": [
+            0,
+            0
+          ]
         },
-        "skinChanges": 100,
-        "incisors": 105,
-        "injuries": null
+        "skinChanges": [
+          "",
+          ""
+        ],
+        "incisors": [
+          "",
+          ""
+        ],
+        "injuries": [
+          0,
+          0
+        ]
       }
     }
   },
-  "remarks": "Oracle",
+  "remarks": "Oracle input",
   "dates": [
-    "1998-03-05",
-    "1999-04-09"
+    {
+      "date": "7 APR 98",
+      "initials": ""
+    },
+    {
+      "date": "09 APR 1999",
+      "initials": "SD"
+    }
   ],
   "grades": {
     "0": "normal",
@@ -60,7 +129,7 @@
     "-2": "marked decrease",
     "+1": "slight increase",
     "+2": "marked increase",
-    "x": "finding, describe if necessary."
+    "x": "finding, describe if necessary"
   },
   "errorCodes": {
     "A": "writing",
@@ -68,7 +137,7 @@
     "C": "mixing up",
     "D": "reading",
     "E": "copy",
-    "F": "other with expianation"
+    "F": "other with explanation"
   },
-  "errorCodeNumber": "0992"
+  "errorCodeNumber": "004223"
 }

@@ -1,125 +1,125 @@
 {
-    "organization": {
-        "de": "Europaisches Patentamt",
-        "en": "European Patent Office",
-        "fr": "Office europeen des brevets"
-    },
-    "department": "GD2",
-    "consultation": {
+  "organization": {
+    "de": "Europäisches Patentamt",
+    "en": "European Patent Office",
+    "fr": "Office européen des brevets"
+  },
+  "department": "DG 2",
+  "consultation": {
+    "options": [
+      "Telefonische Rücksprache",
+      "Persönliche Rücksprache"
+    ],
+    "with": "mit dem Anmelder/Vertreter",
+    "translations": {
+      "en": {
         "options": [
-            "Telefonische Rucksprache",
-            "Personliche Ricksprache"
+          "Consultation by telephone",
+          "Personal consultation (B 51)"
         ],
-        "with": "mit dem Anmelder/Vertreter",
-        "translations": {
-            "en": {
-                "options": [
-                    "Consultation by telephone",
-                    "Personal consultation"
-                ],
-                "with": "with applicant/representative"
-            },
-            "fr": {
-                "options": [
-                    "Entretien telephonique",
-                    "Entretien de vive voix"
-                ],
-                "with": "avec le demandeur/le mandataire"
-            }
-        }
+        "with": "with applicant/representative"
+      },
+      "fr": {
+        "options": [
+          "Entretien téléphonique",
+          "Entretien de vive voix"
+        ],
+        "with": "avec le demandeur/le mandataire"
+      }
+    }
+  },
+  "application": {
+    "number": "83308033.6",
+    "participant": {
+      "applicant": {
+        "de": "Anmelder",
+        "en": "Applicant",
+        "fr": "Demandeur"
+      },
+      "authorization_checked": {
+        "de": "Vollmacht überprüft",
+        "en": "authorization checked",
+        "fr": "autorisation contrôlée"
+      },
+      "representative": {
+        "de": "Vertreter",
+        "en": "Representative",
+        "fr": "Mandataire"
+      },
+      "identity_checked": {
+        "de": "Identität überprüft",
+        "en": "identity checked",
+        "fr": "identité contrôlée"
+      }
+    }
+  },
+  "examining_division": {
+    "members": "C. LOCCHESI PACLI",
+    "personally_known": {
+      "de": "persönlich bekannt",
+      "en": "personally known",
+      "fr": "connu personnellement"
+    }
+  },
+  "consultation_result": "In order to clarify claim 1, circa 15.10.16, and to orthogonalize the method clearly from the one known from CA-A- 951201, it is appropriate to specify that the temperature (broadened) curve causing the foaming increase during the length of the extruder barrel to a maximum just before the die within the range of from about 15 to 300 °C. (See the description of the present application page 11, line 22-25). The form of claim 1 should be revised or suggested in the letter dated 12.02.1987.\n\nThe description must be brought into conformity with claim 1.\nGB-A-105555 should be acknowledged in the description (clauses 27(2)).\nThe representative asked for a two months limit in order to discuss the above described amendments with the applicant.",
+  "additional_text": "(weiterer Text gegebenenfalls auf Beiblatt)/(where necessary continue on attached sheet)/(le cas échéant, suite sur une feuille supplémentaire)",
+  "form": {
+    "to_examiners_clerk": "I. An/To Examiners’ Clerk/Au commis assistant des examinateurs",
+    "coding": {
+      "de": "Codierung von",
+      "en": "Coding",
+      "fr": "Codage de"
     },
-    "application": {
-        "number": "83308033.60",
-        "participant": {
-            "applicant": {
-                "de": "Anmelder",
-                "en": "Applicant",
-                "fr": "Demandeur"
-            },
-            "authorization_checked": {
-                "de": "Vollmacht uberpruft",
-                "en": "authorization checked",
-                "fr": "autorisation controlee"
-            },
-            "representative": {
-                "de": "Vertreter",
-                "en": "Representative",
-                "fr": "Mandataire"
-            },
-            "identity_checked": {
-                "de": "Identitat uberpruft",
-                "en": "identity checked",
-                "fr": "identite controlee"
-            }
-        }
+    "dispatch": {
+      "de": "Obersendung zur Kenntnisnahme (Form 2049 Ziff. I.) und Rückgabe an 1. Prüfer",
+      "en": "Despatch for information (Form 2049 Section I) and return to Primary Examiner",
+      "fr": "Transmission pour information (formulaire 2049 point I) et renvoi à l’examinateur qui instruit la demande"
     },
-    "examining_division": {
-        "members": "C.LOCCHCSI PACL",
-        "personally_known": {
-            "de": "personlich bekannt",
-            "en": "personally known",
-            "fr": "connu personnellement"
-        }
+    "to_formalities_officer": "II. An Formalsachbearbeiter/To the Formalities Officer/A l’agent des formalités",
+    "extension_of_time_limit": {
+      "de": "Verlängerung der Frist um",
+      "en": "Extension of time limit by",
+      "fr": "Prolongation du délai de"
     },
-    "consultation_result": "CA-A-45piti tacn12...",
-    "additional_text": "The,rcprahtve,aske!fol a tws morts luit 1i sn!e h ol'scu, Kc",
-    "form": {
-        "to_examiners_clerk": "1.An/To Examiners'Clerk/Au commis assistant des examinateurs",
-        "coding": {
-            "de": "Codierung von",
-            "en": "Coding",
-            "fr": "Codage de"
-        },
-        "dispatch": {
-            "de": "Obersendung zur Kenntnisnahme (Form 2049 Ziff.1.) nd-Rickgabe-en-1Profer",
-            "en": "Despatch for information (Form 2049 Section 1 and return to Primary Examiner",
-            "fr": "Transmission pour information (formulaire 2049 point l) et renvoi a I'examinateur qui instruit la demande"
-        },
-        "to_formalities_officer": "An FormalsachbearbeiterTo the Formalities Officer/A I'agent des formalites",
-        "extension_of_time_limit": {
-            "de": "Verlangerung der Frist um Monate (Form 2017)",
-            "en": "Extension of time limit by months Form 2017",
-            "fr": "Prolongation du delai de m0isForm2017)"
-        },
-        "cancellation_of_time_limit": {
-            "de": "Loschung der Frist ExRE 3) und Vorlage der Akte an 1.Prufer",
-            "en": "Cancellation of time limit (ExRE 3 Coding and submit file to Primary Examiner",
-            "fr": "Suppression du delai (ExRE 3) et presentation du dossier a I'examinateur*"
-        },
-        "dispatch_with_time_limit": {
-            "de": "Obersendung mit Fristsetzung(Form 2049 Ziff..) von Monaten",
-            "en": "Despatch with time limit (Form 2049 Section of months",
-            "fr": "Transmission avec fixation d'un delai (formulaire 2049 point l de"
-        },
-        "not_applicable": {
-            "telephone_consultation": {
-                "de": "nicht anwenden bai telefonischer Rickspracha",
-                "en": "not applicable to telephone consultation",
-                "fr": "a ne pes utiliser pour les entretiens tel6phoniques"
-            },
-            "before_first_communication": {
-                "de": "nicht anwendbarvoreinem Erstbescheid",
-                "en": "not applicable before a first communication",
-                "fr": "a ne pes utiliser avant une premiere notification"
-            }
-        }
+    "cancellation_of_time_limit": {
+      "de": "Löschung der Frist (EXRE 3) und Vorlage der Akte an 1. Prüfer*",
+      "en": "Cancellation of time limit (EXRE 3 Coding) and submit file to Primary Examiner*",
+      "fr": "Suppression du délai (EXRE 3) et présentation du dossier à l’examinateur*"
     },
-    "signatures": {
-        "applicant_representative": {
-            "de": "Unterschrift Anmelder/Vertreter",
-            "en": "Signature of applicant/representative",
-            "fr": "Signature du demandeur/du mendataire"
-        },
-        "primary_examiner_formalities_officer": {
-            "de": "Datum/Date",
-            "en": "Signature of Primary Examiner/Formalities Officer",
-            "fr": "Signature du demandeur/du mendataire"
-        },
-        "authorized_examiner": {
-            "de": "terschwift beauftragtor Prufer/Formelprufer",
-            "en": "Signature of applicant/representative",
-            "fr": "Signature du demandeur/du mendataire"
-        }
+    "dispatch_with_time_limit": {
+      "de": "Obersendung mit Fristsetzung (Form 2049 Ziff. II.) von",
+      "en": "Despatch with time limit (Form 2049 Section II) of",
+      "fr": "Transmission avec fixation d’un délai (formulaire 2049 point II) de"
     },
-    "contact_number": "2026536967"
+    "not_applicable": {
+      "telephone_consultation": {
+        "de": "nicht anwenden bei telefonischer Rücksprache",
+        "en": "not applicable to telephone consultation",
+        "fr": "à ne pas utiliser pour les entretiens téléphoniques"
+      },
+      "before_first_communication": {
+        "de": "nicht anwendbar vor einem Erstbescheid",
+        "en": "not applicable before a first communication",
+        "fr": "à ne pas utiliser avant une première notification"
+      }
+    }
+  },
+  "signatures": {
+    "applicant_representative": {
+      "de": "Unterschrift Anmelder/Vertreter",
+      "en": "Signature of applicant/representative",
+      "fr": ""
+    },
+    "primary_examiner_formalities_officer": {
+      "de": "Datum/Date",
+      "en": "16/10/87",
+      "fr": ""
+    },
+    "authorized_examiner": {
+      "de": "Unterschrift beauftragter Prüfer/Formelprüfer",
+      "en": "",
+      "fr": ""
+    }
+  },
+  "contact_number": "2026536967"
 }

@@ -1,14 +1,15 @@
 {
-    "Address": "L7A rue du Marechal Joffre",
-    "City": "WINTZENHEIM",
-    "Postal Code": "68920",
-    "Telephone": "03.21.68.79.86",
-    "Fax": "63716849",
-    "Date": "23.04.04",
-    "Sender": {
-        "Name": "VIGOUROU PHILIPPE",
-        "Company": "TEEcoPE"
-    },
-    "Subject": "Rlante",
-    "Comments": "Commentaires"
+  "document": "Fax",
+  "scenario": "Relance de courrier sans réponse",
+  "writer": "VIGOUROUX Philippe",
+  "sender_person": "VIGOUROUX Philippe",
+  "sender_company": "VIGOUROUX Philippe",
+  "sender_tel": "03.21.68.79.86",
+  "sender_fax": "",
+  "receiver_person": "",
+  "receiver_company": "GDF",
+  "subject": "Relance : Remboursement",
+  "date": "23.04.07",
+  "place": "68920 WINTZENHEIM",
+  "box": ""
 }

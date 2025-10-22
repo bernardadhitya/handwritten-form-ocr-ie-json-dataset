@@ -1,26 +1,15 @@
 {
-    "Telecopie/Facsimile": {
-        "Destinataire": {
-            "Nom/Name": "DEBiT LYonnAiS"
-        },
-        "Service/Entreprise/DepartmentCompany": {
-            "Service /Department": "LAELEUR"
-        },
-        "TelecopieuriFax n": "6936",
-        "TelephonefTelephone": "33",
-        "Date": "98/09 /2026",
-        "Reference/Reference": "G6C",
-        "Copie(s)": "1",
-        "Objet": "demande de continuation des versements oue mon PEL"
-    },
-    "Institut national des telecommunications": {
-        "Adresse": "9 rue Charles Fourier 91011 Cedex",
-        "Telephone": "01 60 76 40 40",
-        "Telecopie": "01 60 76 43 25",
-        "Serveur WWW": "http://WWW.int-evry.fr",
-        "E-mail": "contact@int-evry.fr"
-    },
-    "Groupe des Ecoles des Telecommunications": {
-        "Adresse": "Hanoa 43 Eeouere3 Evry"
-    }
+  "document": "Fax",
+  "scenario": "Modification de contrat / Commande",
+  "writer": "LAFLEUR Manon",
+  "sender_person": "LAFLEUR Manon",
+  "sender_company": "",
+  "sender_tel": "03 89 37 24 00",
+  "sender_fax": "01 60 76 43 33",
+  "receiver_person": "",
+  "receiver_company": "DEBIT LYONNAIS",
+  "subject": "",
+  "date": "28/09/2006",
+  "place": "",
+  "box": ""
 }

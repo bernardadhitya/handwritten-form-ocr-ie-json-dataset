@@ -1,63 +1,63 @@
 {
-    "Revised": "6/18/96",
-    "ChainVoucherRequest": {
-        "To": "Joyce Doucete-PC1110",
-        "PleaseAttachDocumentation": "5s923",
-        "AccountName": "CBBS OL",
-        "Voucher": {
-            "Payee": "ROU",
-            "RequestedBy": "Lbh",
-            "Date": "SUYDOWNS-VPR-DISPLAYPAYMENTS",
-            "OnIts": {
-                "Rate": 2.4,
-                "Total": 158,
-                "HHTPSCode": "REO/MEN KAM S.",
-                "Units": 20,
-                "Camz": "PRSAOTON",
-                "C180": 20,
-                "236": 18,
-                "980": 70,
-                "196": "MONAh"
-            },
-            "TPSExplanation": "ZL-C KEDAME DiS F NDECSAN S2222FB ST S03yCA Bs.OiN CO-MARKETING.QTRLYPAYMENTS",
-            "Units": {
-                "Rate": 1.0,
-                "HHTPSCode": "W96 RAC DISC",
-                "Total": "QTR.",
-                "Circle": "DIS OR NON-DISC"
-            },
-            "AdditionalUnits": [
-                {
-                    "Rate": 1.0,
-                    "HHTPSCode": "C96RAC",
-                    "Circle": "DIS OR NON-OISC"
-                },
-                {
-                    "Rate": 1.0,
-                    "HHTPSCode": "V98RAC",
-                    "Circle": "DIS OR NON-DISC"
-                },
-                {
-                    "Rate": 1.0,
-                    "HHTPSCode": "S86RAC",
-                    "Circle": "DIS OR NON-DISC"
-                },
-                {
-                    "Rate": 1.0,
-                    "HHTPSCode": "M96RAC",
-                    "Circle": "DIS OR NON-OISC"
-                },
-                {
-                    "Rate": 1.0,
-                    "HHTPSCode": "NRAC",
-                    "Circle": "DIS OR NON-DISC"
-                }
-            ],
-            "TPSExplanation2": "518769204",
-            "ROUToComplete": {
-                "VoucherNumber": "1534-3.518",
-                "DateRequested": ""
-            }
+  "Revised": "6/18/96",
+  "ChainVoucherRequest": {
+    "To": "JOYCE DOUCETTE - PC 1110",
+    "PleaseAttachDocumentation": "",
+    "AccountName": "GIBBS OIL",
+    "Voucher": {
+      "Payee": "ROU",
+      "RequestedBy": "[signature]",
+      "Date": "2/14/97",
+      "OnIts": {
+        "Rate": 1.5,
+        "Total": 264.0,
+        "HHTPSCode": "REO/MEN KAM S.",
+        "Units": 176,
+        "Camz": "CAMEZ 20% PRICE REDUCTION",
+        "C180": 3016,
+        "236": 1236,
+        "980": 176,
+        "196": "MONAH"
+      },
+      "TPSExplanation": "2640- For RED KAM DISPLAY FOR NOV, DEC + JAN.\n2222- For RUNNING FOR STONES SUPPLIED BY CHARTER BROS. DISPLAY FOR NOV, DEC + JAN.",
+      "Units": {
+        "Rate": 1.0,
+        "HHTPSCode": "W 96 RAC",
+        "Total": "",
+        "Circle": "DISC NON-DISC (CIRCLE DIS OR NON-DISC)"
+      },
+      "AdditionalUnits": [
+        {
+          "Rate": 1.0,
+          "HHTPSCode": "C 96 RAC",
+          "Circle": "DISC NON-DISC (CIRCLE DIS OR NON-DISC)"
+        },
+        {
+          "Rate": 1.0,
+          "HHTPSCode": "V 96 RAC",
+          "Circle": "DISC NON-DISC (CIRCLE DIS OR NON-DISC)"
+        },
+        {
+          "Rate": 1.0,
+          "HHTPSCode": "S 96 RAC",
+          "Circle": "DISC NON-DISC (CIRCLE DIS OR NON-DISC)"
+        },
+        {
+          "Rate": 1.0,
+          "HHTPSCode": "M 96 RAC",
+          "Circle": "DISC NON-DISC (CIRCLE DIS OR NON-DISC)"
+        },
+        {
+          "Rate": 1.0,
+          "HHTPSCode": "N 96 RAC",
+          "Circle": "DISC NON-DISC (CIRCLE DIS OR NON-DISC)"
         }
+      ],
+      "TPSExplanation2": "",
+      "ROUToComplete": {
+        "VoucherNumber": "1534-3518",
+        "DateRequested": ""
+      }
     }
+  }
 }

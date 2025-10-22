@@ -7,18 +7,18 @@
           "Rate": 0.12
         },
         "Females": {
-          "Count": 12,
-          "Rate": null
+          "Count": 15,
+          "Rate": 0.04
         }
       },
       "35+": {
         "Males": {
           "Count": 23,
-          "Rate": 0.02
+          "Rate": 0.05
         },
         "Females": {
           "Count": 12,
-          "Rate": null
+          "Rate": 0.02
         }
       }
     },
@@ -26,7 +26,7 @@
       "18-34": {
         "Males": {
           "Count": 13,
-          "Rate": 0.04
+          "Rate": 0.05
         }
       },
       "35+": {
@@ -36,7 +36,7 @@
         },
         "Females": {
           "Count": 12,
-          "Rate": null
+          "Rate": 0.02
         }
       }
     },
@@ -44,13 +44,13 @@
       "18-34": {
         "Males": {
           "Count": 11,
-          "Rate": null
+          "Rate": 0.03
         }
       },
       "35+": {
         "Females": {
           "Count": 12,
-          "Rate": null
+          "Rate": 0.02
         }
       }
     }
@@ -60,7 +60,7 @@
     "Percentage": 59
   },
   "Full Flawon LowTor": {
-    "Total": 89,
+    "Total": 51,
     "Males": {
       "Count": 75,
       "Percentage": 60
@@ -70,10 +70,11 @@
     }
   },
   "tE-81": {
-    "Total": 89,
-    "Percentage": "89%"
+    "Total": "",
+    "Percentage": ""
   },
   "35+": {
     "Total": 62
-  }
+  },
+  "Critical incidence": ""
 }

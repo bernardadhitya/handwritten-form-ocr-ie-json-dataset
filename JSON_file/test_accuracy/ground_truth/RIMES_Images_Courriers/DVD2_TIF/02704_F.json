@@ -1,23 +1,15 @@
 {
-    "transmission": {
-        "sender": {
-            "name": "Tutoslnfo Corporation",
-            "address": "7 Place Saint Francois - 02203 Bellic",
-            "phone": "01 60 F6 43 33",
-            "fax": "Télécopie"
-        },
-        "recipient": {
-            "name": "BENETEAU",
-            "address": "Mithael",
-            "phone": "03 31 12 30 09",
-            "fax": "Téléphone"
-        },
-        "date": "10/02/00",
-        "time": "3/3",
-        "pages_sent": "Pages envoyées",
-        "subject": "Fermeture de Com",
-        "comments": "Resiliation d'assurance",
-        "sender_comment": "Tous droits réservés",
-        "copyright": "Copyright @ Tutosinfo Corporation"
-    }
+  "document": "Fax",
+  "scenario": "Fermeture de compte",
+  "writer": "BENETEAU Michael",
+  "sender_person": "BENETEAU Michael",
+  "sender_company": "",
+  "sender_tel": "03 31 12 30 09",
+  "sender_fax": "01 60 76 43 33",
+  "receiver_person": "",
+  "receiver_company": "NAIF Assurances",
+  "subject": "Fermeture de compte",
+  "date": "10/02/07",
+  "place": "",
+  "box": ""
 }

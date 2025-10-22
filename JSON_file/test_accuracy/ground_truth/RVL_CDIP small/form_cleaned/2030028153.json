@@ -1,83 +1,93 @@
 {
-    "confidential": true,
-    "stockScreenDataSheet": {
-        "date": "1/14/89",
-        "shift": "11-7-4",
-        "time": "5",
-        "flowTo": "10013",
-        "hs": "210",
-        "iny": "407",
-        "h81": "180",
-        "machine": "chest",
-        "freenessAfterRefinerFeed": [
-            344,
-            33,
-            39
-        ],
-        "mcRoomFreeness": [
-            315,
-            271,
-            276,
-            344
-        ],
-        "accept": null,
-        "inletPressureToStockScreen": [
-            49,
-            32,
-            92
-        ],
-        "outletPressureToStockScreen": [
-            57,
-            35,
-            32
-        ],
-        "acceptValve": [
-            93,
-            64,
-            70
-        ],
-        "nollisonRejectValvePosition": [
-            35,
-            35,
-            39
-        ],
-        "stockScreen": [
-            133,
-            132,
-            133,
-            133
-        ],
-        "motorLoad": "d",
-        "threadsOn": 8,
-        "ceramicValveInletPressureTo1stRefiner": [
-            54,
-            51,
-            51,
-            54
-        ],
-        "outletPressureToLastRefiner": [
-            75,
-            77,
-            78,
-            70
-        ],
-        "kwOnRefiner": 190,
-        "refinerData": {
-            "#1": [
-                147,
-                151,
-                150,
-                144
-            ],
-            "#2": null,
-            "#3": [
-                154,
-                161,
-                140,
-                140
-            ],
-            "#4": null
-        },
-        "remarks": "/file a2.001.rkg 10/89 2030028153"
-    }
+  "confidential": true,
+  "stockScreenDataSheet": {
+    "date": "11-14-89",
+    "shift": "11-7-A",
+    "time": "0015 210 420 605",
+    "flowTo": "184 180 184 176",
+    "hs": "210",
+    "iny": "420",
+    "h81": "176",
+    "machine": "chest",
+    "freenessAfterRefinerFeed": [
+      344,
+      294,
+      236,
+      384
+    ],
+    "mcRoomFreeness": [
+      315,
+      271,
+      236,
+      342
+    ],
+    "accept": "",
+    "inletPressureToStockScreen": [
+      29,
+      34,
+      32,
+      32
+    ],
+    "outletPressureToStockScreen": [
+      27,
+      35,
+      32,
+      27
+    ],
+    "acceptValve": [
+      93,
+      64,
+      70,
+      85
+    ],
+    "nollisonRejectValvePosition": [
+      35,
+      35,
+      35,
+      30
+    ],
+    "stockScreen": [
+      133,
+      132,
+      133,
+      133
+    ],
+    "motorLoad": "",
+    "threadsOn": 8,
+    "ceramicValveInletPressureTo1stRefiner": [
+      56,
+      56,
+      57,
+      54
+    ],
+    "outletPressureToLastRefiner": [
+      75,
+      77,
+      78,
+      72
+    ],
+    "kwOnRefiner": 190,
+    "refinerData": {
+      "#1": [
+        190,
+        193,
+        193,
+        175
+      ],
+      "#2": [
+        147,
+        151,
+        150,
+        146
+      ],
+      "#3": [
+        166,
+        161,
+        140,
+        140
+      ],
+      "#4": ""
+    },
+    "remarks": "/file a2.001.rkg 10/89"
+  }
 }

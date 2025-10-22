@@ -1,27 +1,47 @@
 {
-    "Organization": "HOXZ TESTING INSTITUTE",
-    "Address": "Box 9200, Hashington, 4 11050",
-    "Interviewer": {
-        "Name": "Timo",
-        "Started": "11:21",
-        "Ended": "16:15"
+  "product": "Ciggt",
+  "location": {
+    "city": "",
+    "state": "",
+    "zip": "",
+    "po_box": ""
+  },
+  "screener": {
+    "time_started": "",
+    "time_ended": "",
+    "interviewers_name": "",
+    "date": "7/19"
+  },
+  "questions": {
+    "TQ1": {
+      "did_not_receive_product": false,
+      "disconnected": false,
+      "stopped_smoking": false,
+      "other_tester": false,
+      "respondent_not_available": false,
+      "could_not_participate": false,
+      "no_answer": false,
+      "refused_to_be_interviewed": false,
+      "completed_interview": false,
+      "not_stopped_smoking": false,
+      "no_such_person": false,
+      "non_usable": false
     },
-    "Respondent": {
-        "Name": "Janet Hall",
-        "Organization": "Hole Testing Institute"
+    "interviewer_id": "(23-26)",
+    "intro": "Hello, I'm ______ calling for Janet Hall of Home Testing Institute. May I speak to (NAME OF PERSON ON LABEL)? (IF RESPONDENT NOT AVAILABLE, MAKE CALLBACK ARRANGEMENT. IF RESPONDENT AVAILABLE, REINTRODUCE YOURSELF)",
+    "la": {
+      "received_cigarettes": "",
+      "verify_address": ""
     },
-    "Questions": [
-        {
-            "Question": "Did you receive Pack cartons Cigarettes mailed (ASK Q.1b)",
-            "Response": "Yes"
-        },
-        {
-            "Question": "Did You receive any mail with the cigarettes?",
-            "Response": "Yes"
-        },
-        {
-            "Question": "How many packs do you smoke?",
-            "Response": "3"
-        }
-    ]
+    "1c": {
+      "packs_superslims": 29,
+      "packs_capri": 30
+    },
+    "1d": {
+      "has_report_form": ""
+    },
+    "1e": {
+      "can_find_form": ""
+    }
+  }
 }

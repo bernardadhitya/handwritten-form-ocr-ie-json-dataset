@@ -1,18 +1,15 @@
 {
-    "Company": "SOCIETE GENERALE",
-    "Division": "Corporate & Investment Banking",
-    "Contact": {
-        "Fax": "A F attention NAif Assvratte",
-        "Tel": "0 X Go. 76.L 3.33"
-    },
-    "Sender": {
-        "Name": "PERre FASQUEL",
-        "Tel": "0 35 92 3 2. ? 3"
-    },
-    "Date": "2 6 (6 2 | 260",
-    "Phone number to call in case of page missing": "Tel :",
-    "Subject": "Objet",
-    "Address": "Societe Generale Tour Kupka B 92800 Puteaux Societe Anonyme",
-    "RCS": "RCS Paris B 552 120 222",
-    "Note": "If this document does not concern you, please destroy it promptly, keep it secret, and inform the sender; thank you"
+  "document": "Fax",
+  "scenario": "Demande d'information",
+  "writer": "PIERRE FASQUEL",
+  "sender_person": "PIERRE FASQUEL",
+  "sender_company": "",
+  "sender_tel": "03.35.98.38.73",
+  "sender_fax": "",
+  "receiver_person": "",
+  "receiver_company": "NAIF Assurances",
+  "subject": "Demande de documentation concernant\nles contrats d’assurance vie.",
+  "date": "26/02/2007",
+  "place": "",
+  "box": ""
 }

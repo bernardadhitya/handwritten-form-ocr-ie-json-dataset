@@ -1,41 +1,41 @@
 {
-    "form": {
-        "title": "PARK 500 QUALITY ACCEPTANCE FORM",
-        "product": "ALLIED CLARIFLOC C-331 POLYMER",
-        "objective": "Confidential",
-        "procedure": [
-            "Have the driver collect 600 ml or more of sample from the top of the tank truck and from the bottom of the tank truck.",
-            "Check the two samples for odor, color, trash, temperature.",
-            "Rejected as soon as possible.",
-            "Discard the sample.",
-            "File Acceptance Form in Lab drawer file.",
-            "Attach to this form, any certificate of analysis that may be supplied by the vendor."
-        ],
-        "specifications": {
-            "analytical_results": {
-                "top": {
-                    "odor": "Slight amine-like",
-                    "color": "EK",
-                    "trash": "None",
-                    "viscosity": "3425",
-                    "temperature": "34.5"
-                },
-                "bottom": {
-                    "odor": "Slight amine-like",
-                    "color": "6K",
-                    "trash": "None",
-                    "viscosity": "3050",
-                    "temperature": "34.5"
-                }
-            },
-            "comments": "Viscosity-as is @ 25c 35-60 x10 cps",
-            "color": "colorless, viscous liquid"
+  "form": {
+    "title": "PARK 500 QUALITY ACCEPTANCE FORM",
+    "product": "ALLIED CLARIFLOC C-331 POLYMER",
+    "objective": "Determine the properties of CLARIFLOC C-331 polymer each time a shipment arrives. Upon arrival of the shipment, a bottom sample and top sample will be collected from the tank truck and the Waste Treatment Specialist personnel will perform the analysis.",
+    "procedure": [
+      "Have the driver collect 600 ml or more of sample from the top of the tank truck and from the bottom of the tank truck.",
+      "Check the two samples for odor, color, trash, temperature, and viscosity. NOTE: for viscosities greater than 40,000 cps, use the #4 spindle on the 6 rpm setting and multiply the viscometer reading by 700; then return the spindle rpm setting back to 12 rpm for future tests.",
+      "Notify the supervisor in charge whether the shipment is accepted or rejected as soon as possible.",
+      "Discard the sample.",
+      "File Acceptance Form in Lab drawer file.",
+      "Attach to this form, any certificate of analysis that may be supplied by the vendor."
+    ],
+    "specifications": {
+      "analytical_results": {
+        "top": {
+          "odor": "OK",
+          "color": "Cloudy",
+          "trash": "None",
+          "viscosity": "3425",
+          "temperature": "34.5"
         },
-        "acceptance": {
-            "circle_one": "Accepted by",
-            "waste_treatment": "t6-78-6",
-            "lab_technician": "Date",
-            "date": "2030141090"
+        "bottom": {
+          "odor": "OK",
+          "color": "Cloudy",
+          "trash": "None",
+          "viscosity": "3050",
+          "temperature": "34.5"
         }
+      },
+      "comments": "Viscosity - as is @ 25°C 35-60 x 10³ cps",
+      "color": "colorless, viscous liquid"
+    },
+    "acceptance": {
+      "circle_one": "Accepted by:",
+      "waste_treatment": "Waste Treatment",
+      "lab_technician": "9c",
+      "date": "9-26-92"
     }
+  }
 }

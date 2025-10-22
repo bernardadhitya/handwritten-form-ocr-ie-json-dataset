@@ -1,17 +1,15 @@
 {
-    "Expediteur": "Jacques",
-    "Destinataire": "Pass+",
-    "Telephone": "Jo391 6944W",
-    "Telecopie": "Telecopie",
-    "Motifs de transmission": {
-        "Ref": "002",
-        "Pour information": "Nouveau",
-        "Pour avis": "Auc",
-        "Pour suite a donner": "Auc",
-        "Autres": "Auc"
-    },
-    "Message": {
-        "Objet": "EuFa-kiem",
-        "Contenu": "Pokaut"
-    }
+  "document": "Fax",
+  "scenario": "Réclamation",
+  "writer": "Jacques Prost",
+  "sender_person": "Jacques Prost",
+  "sender_company": "",
+  "sender_tel": "0391697741",
+  "sender_fax": "",
+  "receiver_person": "",
+  "receiver_company": "POLICE NATIONALE",
+  "subject": "Augmentation importante des nuisances sonores dans ma rue.",
+  "date": "27 MARS 2007",
+  "place": "",
+  "box": ""
 }

@@ -1,28 +1,28 @@
 {
-    "date": "MAY-30-96",
-    "day": "THU",
-    "time": "17:04",
-    "location": "OUTDOOR EAST",
-    "fax_number": "8037793241",
-    "P.U": "9961423",
-    "page": "3",
-    "survey": {
-        "title": "POSTRR DATASURVEY",
-        "role": "PLANT OPERATOR/MARKET",
-        "inventory": {
-            "total_plan_inventory": "#too",
-            "cleared_for_tobacco_use": {
-                "illuminated": 398,
-                "regular": null
-            },
-            "proximity_to_schools_or_playgrounds": {
-                "regular": null,
-                "illuminated": null
-            }
-        },
-        "methods_used": "NI"
+  "date": "5-30-96",
+  "day": "",
+  "time": "",
+  "location": "Outdoor East | Columbia, SC",
+  "fax_number": "",
+  "P.U": "",
+  "page": "",
+  "survey": {
+    "title": "POSTER DATA SURVEY",
+    "role": "PLANT OPERATOR/MARKET",
+    "inventory": {
+      "total_plan_inventory": "",
+      "cleared_for_tobacco_use": {
+        "illuminated": 398,
+        "regular": 44
+      },
+      "proximity_to_schools_or_playgrounds": {
+        "regular": 0,
+        "illuminated": 0
+      }
     },
-    "plant_manager": {
-        "signature_date": "6/6/8/8/5/5"
-    }
+    "methods_used": "NISA system / Measuring Wheel / District Center"
+  },
+  "plant_manager": {
+    "signature_date": "5-30-96"
+  }
 }

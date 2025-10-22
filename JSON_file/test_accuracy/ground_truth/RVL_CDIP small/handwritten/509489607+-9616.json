@@ -1,105 +1,162 @@
 {
-    "Salen": {
-        "t.85": {
-            "BLEND_FORMULATION": {
-                "Seho": {
-                    "tL00": "JunKS",
-                    "TOTAL_%": 44,
-                    "GROUP_%": 4,
-                    "K19": {
-                        "TOTAL_%": 1.0,
-                        "GROUP_%": 15.0
-                    },
-                    "C30": {
-                        "TOTAL_%": 24.75,
-                        "GROUP_%": 25.5
-                    },
-                    "TR": {
-                        "TOTAL_%": 19.0,
-                        "GROUP_%": 15.59
-                    },
-                    "TB": {
-                        "TOTAL_%": 20.7,
-                        "GROUP_%": 15.38
-                    },
-                    "bbb1": {
-                        "TOTAL_%": 5,
-                        "GROUP_%": 25.7
-                    },
-                    "7A": {
-                        "TOTAL_%": 6.67,
-                        "GROUP_%": 24.75
-                    },
-                    "L": {
-                        "TOTAL_%": 13.18,
-                        "GROUP_%": 15.0
-                    },
-                    "3-23": {
-                        "TOTAL_%": 8,
-                        "GROUP_%": 15.0
-                    },
-                    "13-1": {
-                        "TOTAL_%": 15.0
-                    }
-                }
-            }
+  "Salen": {
+    "t.85": {
+      "BLEND_FORMULATION": {
+        "Seho": {
+          "tL00": "",
+          "TOTAL_%": "",
+          "GROUP_%": "",
+          "K19": {
+            "TOTAL_%": 15.0,
+            "GROUP_%": 24.0
+          },
+          "C30": {
+            "TOTAL_%": 24.75,
+            "GROUP_%": 19.01
+          },
+          "TR": {
+            "TOTAL_%": "",
+            "GROUP_%": ""
+          },
+          "TB": {
+            "TOTAL_%": 15.59,
+            "GROUP_%": 15.38
+          },
+          "bbb1": {
+            "TOTAL_%": "",
+            "GROUP_%": ""
+          },
+          "7A": {
+            "TOTAL_%": 6.67,
+            "GROUP_%": 24.75
+          },
+          "L": {
+            "TOTAL_%": "",
+            "GROUP_%": ""
+          },
+          "3-23": {
+            "TOTAL_%": 18.0,
+            "GROUP_%": ""
+          },
+          "13-1": {
+            "TOTAL_%": 15.0,
+            "GROUP_%": ""
+          }
         }
-    },
-    "Test_Parts_AZ": {
-        "Casing": {
-            "Case_For": [
-                "Materials",
-                "Cutting",
-                "Cut/Dry",
-                "Cutting",
-                "Cut/Dry",
-                "Cutting",
-                "CutyTC"
-            ],
-            "B4": {
-                "1": "I1"
-            },
-            "289": 208,
-            "35": 144,
-            "208": "B2",
-            "56": "Ha",
-            "18": 74,
-            "5": 14,
-            "CL": 3,
-            "54": 9,
-            "47": 47,
-            "60": 9,
-            "72": "by",
-            "0": 0,
-            "B3": 30,
-            "147": 169,
-            "15": 6,
-            "100": 105,
-            "34": 101,
-            "TOTAL": 701,
-            "671": "Casing For Cutting"
-        }
+      }
+    }
+  },
+  "Test_Parts_AZ": {
+    "Casing": {
+      "Case_For": [
+        "Cutting",
+        "Case For Cutting",
+        "Case For Cut/Dry",
+        "Case For Cutting",
+        "Case For Cut/Dry",
+        "Case For Cutting",
+        "TB-20",
+        "Case For Cut/Dry",
+        "TB-20"
+      ],
+      "B4": {
+        "1": 171,
+        "2": 289,
+        "3": 45,
+        "4": 208,
+        "5": 38,
+        "6": 171,
+        "7": 208
+      },
+      "B2": {
+        "1": 56,
+        "2": 74,
+        "3": 19,
+        "4": 74,
+        "5": 15,
+        "6": 74,
+        "7": 74
+      },
+      "E1": {
+        "1": 28,
+        "2": 54,
+        "3": 9,
+        "4": 47,
+        "5": 8,
+        "6": 20,
+        "7": 47
+      },
+      "F1": {
+        "1": 56,
+        "2": 60,
+        "3": 9,
+        "4": 72,
+        "5": 8,
+        "6": 46,
+        "7": 72
+      },
+      "B9": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0
+      },
+      "B3": {
+        "1": 30,
+        "2": 147,
+        "3": 19,
+        "4": 169,
+        "5": 15,
+        "6": 132,
+        "7": 169
+      },
+      "W1": {
+        "1": 180,
+        "2": 105,
+        "3": 36,
+        "4": 181,
+        "5": 30,
+        "6": 100,
+        "7": 101
+      },
+      "TOTAL": {
+        "1": 441,
+        "2": 701,
+        "3": 135,
+        "4": 671,
+        "5": 114,
+        "6": 441,
+        "7": 671
+      }
     },
     "Casing_For_Cutting": {
-        "Type": "App. Rate %",
-        "Aging_Hrs": "Strip",
-        "Cut_Filler": {
-            "Test_Parts_AZ": "T.D.For G13",
-            "Type": "N/A",
-            "Application_Rate_Lbs_1000": "Shorts(Y/N"
-        },
-        "Final_T.D.For_Casing_&_Cutting": {
-            "Type": "Application Rate(/1000)",
-            "-164": 4,
-            "m-133": "Target % Moisture:Cut Filler"
-        },
-        "Target_%_Moisture_Cut_Filler": "4.4/4",
-        "9.8.2": "Pack",
-        "2.75": "Target % Menthol:Cut Filler",
-        "Pack": 45,
-        "Steam_Flotation_Temp_F": 1500,
-        "15": 0,
-        "50948": 9607,
-        "RJRT_Form": "8647 6/84"
+      "Type": "",
+      "App. Rate %": "",
+      "Aging_Hrs": "",
+      "Strip": 0,
+      "Cut_Filler": 0
+    },
+    "T.D._For_G-13": {
+      "Type": "n/a",
+      "Application_Rate_(Lbs/1000)": "",
+      "Shorts_(Y/N)": ""
+    },
+    "Final_T.D._For_Casing_&_Cutting": {
+      "Type": "",
+      "Application_Rate_(/1000)": 5.104,
+      "-164": "",
+      "m-133": "",
+      "Target_%_Moisture:Cut_Filler": "",
+      "9.8.2": "",
+      "2.75": "",
+      "Pack": "",
+      "Steam_Flotation_Temp_F": "",
+      "15": "",
+      "50948": "",
+      "RJRT_Form": ""
     }
+  }
 }

@@ -1,35 +1,35 @@
 {
-    "form_number": "1507",
-    "revision": "PMINC REV4/80",
-    "compd": "COMPD/466A/A142",
-    "purchase_order_number": null,
-    "purchase_requisition": "PURCHASEREQUISTION",
-    "order_from": "SPECTRA",
-    "date": "FEB.23,1993",
-    "requisition_number": null,
-    "ship_to": null,
-    "terms": "N30",
-    "fob": "CHATTANOOGA,TN",
-    "items": [
-        {
-            "quantity": 42000,
-            "item": "B&H TANK TOP",
-            "unit_price": 0.05,
-            "total": 2100
-        }
-    ],
-    "stamp": "ADULTON LABEL",
-    "purpose": null,
-    "prepared_by": "DEBBIESMITH",
-    "date_required": null,
-    "departmental": null,
-    "deliver_to": "See SHIP TO:",
-    "department": null,
-    "approval": {
-        "accounting_code": "ACCTG.CODE",
-        "accounting_department": null,
-        "executive": "CY3-/33330/1-L4E",
-        "approval_number": 3
-    },
-    "reference_number": "2041867852"
+  "form_number": "1507",
+  "revision": "PMINC REV4/80",
+  "compd": "COMPD/466A/A142",
+  "purchase_order_number": "",
+  "purchase_requisition": "",
+  "order_from": "SPECTRA",
+  "date": "FEB. 23, 1993",
+  "requisition_number": "",
+  "ship_to": "TBD",
+  "terms": "N 30",
+  "fob": "CHATTANOOGA, TN",
+  "items": [
+    {
+      "quantity": 42000,
+      "item": "B&H TANK TOP",
+      "unit_price": 0.05,
+      "total": 2100
+    }
+  ],
+  "stamp": "ADULT ON LABEL",
+  "purpose": "",
+  "prepared_by": "DEBBIE SMITH",
+  "date_required": "",
+  "departmental": "",
+  "deliver_to": "See SHIP TO:",
+  "department": "",
+  "approval": {
+    "accounting_code": "043-133 330/12 L4E",
+    "accounting_department": "",
+    "executive": "",
+    "approval_number": 0
+  },
+  "reference_number": ""
 }

@@ -1,22 +1,13 @@
 {
-    "STP Pilot PAnT": {
-        "Participants": [
-            "G,J' Simm"
-        ],
-        "Reference": "F7696/0",
-        "Description": "Process flow line for New Src,lly_",
-        "Purpose": "To describe the process flow for New Src,lly_",
-        "Bleeds": {
-            "From": [
-                "Fac No.",
-                "No. 6 0"
-            ],
-            "Description": "May be bled from Bleeding, or may be bled to No. 8"
-        },
-        "Flow": {
-            "Metal": "252ULh",
-            "Scepe": "Scee",
-            "Avx Predvc": "6umo~t ki~n kaji~; drsanm strp lerY 64m"
-        }
-    }
+  "title": "STP Pilot Plant",
+  "author": "MR. G.J. Simmons",
+  "narrative": "Special Tobacco Products Pilot Plant Facilities",
+  "facilities": "Pilot Plant Facilities",
+  "reference": [
+    "(1) For Engineering Study No. 8705610",
+    "(2) Initial Scope Narrative (Attachment #1)"
+  ],
+  "note": "Any additions or changes in scope will be transmitted as addendums to this Narrative",
+  "scope": "It is proposed to equip a new pilot plant facility in the R&D complex for Specialty Tobacco Products. The pilot operation is to produce test products for both current and new new brands of smoking tobaccos, chewing tobaccos, and wet snuff.",
+  "processFlowDescription": "The process flow diagram (see Attachment I) describes the proposed flow lines for a new facility. The proposed operation is described as follows: Strip blends may be obtained from Factory No. 8 or No. 60 Blending, or may be blended in the Pilot Plant. The blending system begins with two 500 lb (max) feeders (normal 250 lb/hr rate) each"
 }

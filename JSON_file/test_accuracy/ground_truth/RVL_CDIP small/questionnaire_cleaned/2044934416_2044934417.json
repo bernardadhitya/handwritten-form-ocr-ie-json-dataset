@@ -1,5 +1,76 @@
 {
-    "structured_information": {
-        "text": "7H1]4111}81Jwd;LH180MUH451i#u#J80443CCCE1Wl1JW11#6di71YijpwiNlik4?L342111'011Wlk#Kjaj1Im##Nwtj9JHL1IL81J10]#I88#14LkHUKH##116#3h#m11Hu01313CC25292=3;112311J092110l341HBH4121LeJi%}070Hu#u11LH11#4L9113DQJYD1[1131JJL1131R111111F"
-    }
+  "survey": {
+    "questions": [
+      {
+        "id": 14,
+        "question": "How often do you use special in-store promotions?",
+        "options": [
+          "Always",
+          "Often",
+          "Sometimes",
+          "Rarely",
+          "Never"
+        ]
+      },
+      {
+        "id": 10,
+        "question": "Which of the following statements best describes you?",
+        "options": [
+          "I never use coupons to buy cigarettes.",
+          "I sometimes use coupons.",
+          "I always use coupons.",
+          "Even if they are only one-cent coupons, I never use coupons to buy cigarettes."
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Is your regular brand... (Check one.)",
+        "options": [
+          "Light/Mild",
+          "Full Flavor"
+        ]
+      }
+    ],
+    "demographics": {
+      "ethnicity": [
+        "African-American",
+        "American Indian",
+        "Asian",
+        "Caucasian",
+        "White"
+      ],
+      "age": "FOR SMOKERS AGE 21 OR OVER"
+    },
+    "brands": [
+      "Alpine",
+      "Belmont",
+      "Basic",
+      "Capri",
+      "Carlton",
+      "Chesterfield",
+      "Classic",
+      "Doral",
+      "Eldorado",
+      "GPC",
+      "Kool",
+      "Lark",
+      "Marlboro",
+      "Misty",
+      "Newport",
+      "Pall Mall",
+      "Parliament",
+      "Salem",
+      "Silk Cut",
+      "State Express 555",
+      "True",
+      "Vantage",
+      "Virginia Slims",
+      "Winston"
+    ],
+    "locations": [
+      "Eldorado, Ill. 62930-1862"
+    ],
+    "consumer_survey_associates": "",
+    "signature": ""
+  }
 }

@@ -6,59 +6,59 @@
   "formApproved": "05.96",
   "groupAndIndividualInLifeObservations": {
     "projectNumber": "3271",
-    "groupCode": "S3",
-    "dayOfStudy": "S3",
-    "date": "6eel7",
+    "groupCode": "041",
+    "dayOfStudy": "53",
+    "date": "26 Jul 97",
     "group": {
-      "males": "eo",
-      "females": "eo",
-      "time": "22h",
-      "totalNumberOfRats": "eo",
+      "males": "",
+      "females": "",
+      "time": "21.12",
+      "totalNumberOfRats": "20",
       "decreasedSpontaneousActivity": 0,
       "trembling": 0,
-      "partiallyOrFullyClosedEyelids": "O.",
-      "harderianGlandSecretion": null,
-      "initials": "3271",
-      "partiallyOrFullyWetOrMoistFur": null,
-      "abnormalBreathing": null
+      "partiallyOrFullyClosedEyelids": 0,
+      "harderianGlandSecretion": 3,
+      "initials": "[signature]",
+      "partiallyOrFullyWetOrMoistFur": 9,
+      "abnormalBreathing": 0
     },
     "individual": {
-      "ratNumber": "10118041",
-      "sex": "10118041",
-      "time": "3.31",
+      "ratNumber": "04117, 04118, 04119",
+      "sex": "M, M, F",
+      "time": "21.29, 21.30, 21.31",
       "score": {
-        "spontaneousActivity": "Q",
-        "reactionToSoundTouch": "Decreased turning reflex",
-        "decreasedTurningReflex": "Decreased turning reflex",
-        "decreasedGrippingAbility": "Decreased gripping ability",
-        "closedEyelids": "Closed eyelids",
-        "harderianGlandSecretion": "Harderian gland secretion",
-        "trembling": "Trembling"
+        "spontaneousActivity": "0, 0, 0",
+        "reactionToSoundTouch": "0, 0, 0",
+        "decreasedTurningReflex": "",
+        "decreasedGrippingAbility": "",
+        "closedEyelids": "",
+        "harderianGlandSecretion": "",
+        "trembling": ""
       },
       "check": {
-        "0": "Abnormal breathing",
-        "x": "Hair changes:"
+        "0": "normal",
+        "x": "finding, describe if necessary"
       },
-      "remarks": "Yelourclicaleuot i excyr i, 1!",
+      "remarks": "04117 yellow discoloration except in the neck that has a green discoloration; 04118, 04119 yellow discoloration",
       "errorCodes": {
         "A": "writing",
         "B": "calculation",
-        "C": "mixing",
+        "C": "mixing up",
         "D": "reading",
         "E": "copy",
         "F": "other with explanation"
       },
-      "initials": "2505146300",
-      "date": "28JUL1997",
-      "initialsSD": "29JUL 1997",
+      "initials": "[signature]",
+      "date": "28 JUL 1997",
+      "initialsSD": "[signature]",
       "grades": {
         "0": "normal",
         "-1": "slight decrease",
         "-2": "marked decrease",
         "-3": "strong decrease",
-        "+1": "slight increase",
-        "+2": "marked increase",
-        "+3": "strong increase"
+        "+1": "slight",
+        "+2": "marked",
+        "+3": "severe"
       }
     }
   }

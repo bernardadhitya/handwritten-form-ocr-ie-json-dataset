@@ -3,35 +3,42 @@
     "rcfiNumber": "B164",
     "description": "Brownish-gray powder",
     "ph": {
-      "concentration": "50t",
+      "concentration": "50%",
       "value": 4.82,
-      "temperature": 25,
+      "temperature": "25°C",
       "method": "extrapolation procedures by Dr. P. D. Schickedantz",
       "researchCenter": "Lorillard Research Center",
-      "accessionNumber": "1662"
+      "accessionNumber": 1662
     },
     "solubility": {
-      "biologicalSolutions": "See sop for Biological Solutions",
+      "biologicalSolutions": "See SOP for Biological Solutions",
       "oral": {
         "reference": "BC20-48",
-        "description": "B164 forms a suspension in corn oil at 0.5 g/l.5 ml Triple dosing is required"
+        "description": "B164 forms a suspension in corn oil at 0.5 g/1.5 ml",
+        "dosing": "Triple dosing is required"
       },
       "acuteCardiovascular": {
         "reference": "BC20-48",
-        "description": "B164 is insoluble according to this procedure"
+        "description": "B164 is insoluble according to this procedure",
+        "note": "See SOP for Determination of Solubility of Materials for Acute Cardiovascular and Respiratory Effects Study in Beagle Dogs"
       }
     },
     "storageRecommendations": {
-      "temperature": "no more than 8c",
+      "temperature": "no more than 8°C",
       "container": "amber glass bottle",
       "method": "Refrigerate"
     },
     "sensitivity": {
-      "heat": "ARJ HEAT",
-      "moisture": "11 OT"
+      "heat": false,
+      "moisture": false,
+      "air": false,
+      "other": false
     },
     "safetyComments": {
-      "suggestedHandlingProcedure": "SNATUR 8283 182"
+      "suggestedHandlingProcedure": "",
+      "signature": "Amelia Poole",
+      "code": "8/22/83"
     }
-  }
+  },
+  "identifier": 865872
 }

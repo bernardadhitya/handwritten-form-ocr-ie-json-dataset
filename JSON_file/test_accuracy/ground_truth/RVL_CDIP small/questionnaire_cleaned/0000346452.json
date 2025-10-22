@@ -1,27 +1,23 @@
 {
-    "questionnaire": {
-        "title": "WILLINSON MAXNELL_SEMINAR",
-        "purpose": "The purpose of this questionnaire is to receive your personal response to the information presented by BxW at the 1985 Kaxwell Seminar. We would appreciate your comments through completion of this brief questionnaire.",
-        "signature": "Your signature (optional)"
+  "questionnaire": "Brown & Williamson Maxwell Seminar",
+  "purpose": "The purpose of this questionnaire is to receive your personal response to the information presented by B&W at the 1985 Maxwell Seminar.",
+  "comments": "We would appreciate your comments through completion of this brief questionnaire. Your signature is optional.",
+  "questions": [
+    {
+      "question": "The presentation clearly identified B&W's corporate strategy for the next 12 to 18 months.",
+      "response_scale": "Low Degree 1 2 3 4 5 6 7 8 High Degree 9"
     },
-    "responses": {
-        "corporate_strategy": {
-            "Low_Degree": "to 18 months",
-            "High_Degree": "to 18 months"
-        },
-        "additional_financial_information": {
-            "Low_Degree": "BAW, BATUS, and B.A.T.",
-            "High_Degree": "BAW, BATUS, and B.A.T."
-        },
-        "answers_responsive": {
-            "Low_Degree": "responsive",
-            "High_Degree": "responsive"
-        },
-        "communication_rating": {
-            "Low_Degree": "communicating information & business goals and objectives",
-            "High_Degree": "communicating information & business goals and objectives"
-        }
+    {
+      "question": "Would you have need for additional financial information about B&W, BATUS, and B.A.T.?",
+      "response_scale": "Low Degree 1 2 3 4 5 6 7 8 9 High Degree"
     },
-    "general_comments": "AeX 7uL X07 ZB Eh",
-    "signature": "Signature (optional)"
+    {
+      "question": "Do you feel the answers to questions raised in the Q&A session were responsive?",
+      "response_scale": "Low Degree 1 2 3 4 5 6 7 8 High Degree 9"
+    },
+    {
+      "question": "How do you rate B&W on communicating information and business goals and objectives?",
+      "response_scale": "Low Degree 1 2 3 4 5 6 7 8 High Degree 9"
+    }
+  ]
 }

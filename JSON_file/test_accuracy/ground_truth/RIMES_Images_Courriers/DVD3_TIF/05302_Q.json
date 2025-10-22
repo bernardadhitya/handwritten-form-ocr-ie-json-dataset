@@ -1,48 +1,33 @@
 {
-    "Code d'envoi": {
-        "Questionnaire": {
-            "Identite fictive": {
-                "Nom": "PLLLET",
-                "Prenom": "GiQoa.",
-                "Adresse": "4. A& Saink MlaAken.",
-                "Code postal": "SiZi hke",
-                "Ville": "BETILILLER",
-                "Tel": "3892"
-            },
-            "Scenario": {
-                "Categorie": "MrdLisakien",
-                "Objet": "Kuamental-m 621& ;ke",
-                "Ladea": "Iolsaie : cemmandee",
-                "Complement": "aucn",
-                "Reference client eventuelle": "N",
-                "Interlocuteur": "Ban-Aae. Cne eLik Aapulzine",
-                "Adresse": "k9. Q2 Iern Zaunk",
-                "Code postal": "LS,9L4, tol",
-                "Ville": "CAeIX",
-                "Redaction": {
-                    "Type de stylo (noir) utilise": [
-                        "bille",
-                        "plume",
-                        "feutre"
-                    ],
-                    "Temps passe a traiter le scenario": "20 minutes"
-                },
-                "Contribution": {
-                    "Cocher les elements de_votre contribution pour le_scenario traite_": {
-                        "(6€) Jenvoie mon courrier par voie postale a la date du 2S./a.h.L.o3.": true,
-                        "(+2e) Mon courrier contient une page de garde de fax": true,
-                        "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le": true,
-                        "(+1e) J'ai envoye par courriel mon courrier numerise le": true
-                    },
-                    "Marque et modele du scanner": "Aalo LSa. 3 (0",
-                    "Format": [
-                        "PNG",
-                        "GIF",
-                        "TIFF"
-                    ],
-                    "Resolution des images": "300 dpilppp"
-                }
-            }
-        }
-    }
+  "Code d'envoi": "VJTGLK",
+  "Nom": "PILLET",
+  "Prénom": "Gilles",
+  "Adresse": "4 rue Saint Martin",
+  "Code Postal": "57410",
+  "Ville": "BETTIVILLER",
+  "Téléphone": "0358216207",
+  "Catégorie Scénario": "Modification de contrat / commande",
+  "Objet Scénario": "Augmentation (x2) des quantités d’anciens bousiers commandées",
+  "Complément Scénario": "aucun",
+  "Référence client": "NNOBL57",
+  "Interlocuteur": "Banque Crédit Populaire",
+  "Adresse Interlocuteur": "79 rue Jean Jaurès",
+  "Code Postal Interlocuteur": "59170",
+  "Ville Interlocuteur": "CROIX",
+  "Temps passé": "20",
+  "Stylo bille": "",
+  "Stylo plume": "x",
+  "Stylo feutre": "",
+  "Contribution postale": "x",
+  "Date d'envoi postal": "25/04/07",
+  "Option Page de garde de fax": "x",
+  "Option envoi par fax": "",
+  "Date d'envoi par fax": "",
+  "Option envoi par courriel": "x",
+  "Date d'envoi par courriel": "",
+  "Résolution": "300",
+  "Format PNG": "",
+  "Format GIF": "",
+  "Format TIFF": "x",
+  "Marque et modèle scanner": "Agfa Snapscan 310"
 }

@@ -1,34 +1,29 @@
 {
-    "Report": {
-        "Number": 292,
-        "Date": "23-SEP-1986"
-    },
-    "Material": {
-        "Tested": "FUEL SOURCES",
-        "Supplier": "SSI",
-        "Lot": "50034 7887",
-        "Quantity": "36,086",
-        "Date Received": "9-22-86"
-    },
-    "Physical/Visual Properties": {
-        "Specifications": "INNER AND OUTER WEBS OF SPECIFICATIONS",
-        "Web Range": "008-016 IN. (SPECS 006-010 IN.)",
-        "Comments": "ACCEPTED FOR BOSCH MACHINE TESTING ONLY"
-    },
-    "Technologist": {
-        "Name": "Kenneth Smith",
-        "Title": "QA Technologist",
-        "Telephone": "6926"
-    },
-    "Distribution": {
-        "Recipients": [
-            "Mr. Lucien Bass III",
-            "Mr. L.k O'Conner",
-            "Mr. L.u. Peterson",
-            "Mr. W.B. Scantland",
-            "Ms. deLacy",
-            "Mr. M.D. Shannon",
-            "Mr. R.L. McGee"
-        ]
-    }
+  "report_number": 292,
+  "date": "23-SEP-1986",
+  "material_tested": "FUEL SOURCES",
+  "supplier": "SSI",
+  "lot_or_sample_number": "50034 7887",
+  "quantity_received": 36086,
+  "date_received": "9-22-86",
+  "status": "ACCEPTED",
+  "rejected_reason": "Following physical/visual properties out of specifications: INNER AND OUTER WEBS OF SPECIFICATIONS. WEB RANGE .008 - .016 IN. (SPECS. .006 - .010 IN.).",
+  "comments": "ACCEPTED FOR BOSCH MACHINE TESTING ONLY.",
+  "reference": "",
+  "technologist": {
+    "name": "Kenneth W. Smith",
+    "title": "Technologist - QA",
+    "telephone": "6926"
+  },
+  "company": "",
+  "code": "",
+  "distribution": [
+    "Mr. Lucien L. Bass, III",
+    "Dr. L.H. O’Conner",
+    "Mr. L.W. Peterson",
+    "Mr. W.B. Scantland",
+    "Ms. R. deLacy",
+    "Mr. M.D. Shannon",
+    "Mr. R.L. McGee"
+  ]
 }

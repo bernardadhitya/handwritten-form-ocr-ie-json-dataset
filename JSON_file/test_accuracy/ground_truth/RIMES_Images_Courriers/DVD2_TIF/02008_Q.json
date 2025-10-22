@@ -1,47 +1,33 @@
 {
-    "Code d'envoi": {
-        "Questionnaire": {
-            "Identite fictive": {
-                "Nom": "@onte",
-                "Prenom": "Chaesne",
-                "Adresse": "3qe_du.telshicc",
-                "Code postal": "61351219",
-                "Ville": "Kuttelsheic",
-                "Tel": "8938"
-            },
-            "Scenario": {
-                "Categorie": "Dilieulla_de-Palemeat",
-                "Objet": "Demande_de_fomise_graclesse",
-                "Complement": "Vors_Varz_c",
-                "Reference client eventuelle": "1E05",
-                "Interlocuteur": "Trisoerie_das",
-                "Adresse": "Place_de.le.Ubdabe",
-                "Code postal": "IB4l14uel",
-                "Ville": "LoueiAN",
-                "Redaction": {
-                    "Type de stylo (noir) utilise": [
-                        "bille",
-                        "plume",
-                        "feutre"
-                    ],
-                    "Temps passe a traiter le scenario": "25 minutes"
-                },
-                "Contribution": {
-                    "Cocher les elements de votre contribution pour le_scenario traite": {
-                        "(6€) J'envoie mon courrier par voie postale a la date du": "48 |oAl.Jei",
-                        "(+2€) Mon courrier contient une page de garde de fax": true,
-                        "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le": true,
-                        "(+16) J'ai envoye par courriel mon courrier numerise le": true
-                    },
-                    "Marque et modele du scanner": null,
-                    "Format": [
-                        "PNG",
-                        "GIF",
-                        "TIFF"
-                    ],
-                    "Resolution des images": "dpilppp"
-                }
-            }
-        }
-    }
+  "Code d'envoi": "GHJWDR",
+  "Nom": "BONTE",
+  "Prénom": "Charline",
+  "Adresse": "3 rue du Meunier",
+  "Code Postal": "67520",
+  "Ville": "KUTTOLSHEIM",
+  "Téléphone": "0389389557",
+  "Catégorie Scénario": "Difficulté de paiement",
+  "Objet Scénario": "Demande de remise gracieuse",
+  "Complément Scénario": "Vous venez de perdre votre emploi",
+  "Référence client": "DEWEES1",
+  "Interlocuteur": "Trésorerie des impôts",
+  "Adresse Interlocuteur": "Place de la Libération",
+  "Code Postal Interlocuteur": "34140",
+  "Ville Interlocuteur": "LOUPIAN",
+  "Temps passé": "25",
+  "Stylo bille": "",
+  "Stylo plume": "",
+  "Stylo feutre": "x",
+  "Contribution postale": "x",
+  "Date d'envoi postal": "18/01/2007",
+  "Option Page de garde de fax": "",
+  "Option envoi par fax": "",
+  "Date d'envoi par fax": "",
+  "Option envoi par courriel": "",
+  "Date d'envoi par courriel": "",
+  "Résolution": "",
+  "Format PNG": "",
+  "Format GIF": "",
+  "Format TIFF": "",
+  "Marque et modèle scanner": ""
 }

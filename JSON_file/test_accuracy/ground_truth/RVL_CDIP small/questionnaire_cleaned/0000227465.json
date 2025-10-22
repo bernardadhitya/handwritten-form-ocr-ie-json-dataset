@@ -1,38 +1,48 @@
 {
-    "participants": [
-        {
-            "name": "Nicio"
-        },
-        {
-            "name": "Roipondeni"
-        },
-        {
-            "name": "Filor"
-        }
-    ],
-    "interviewer": {
-        "name": "HuiE 7"
+  "ProjectNo": "776",
+  "QuestionNo": "1-5",
+  "File": "fil74-15",
+  "Study": "CIGARETTE STUDY - TELEPHONE INTERVIEW",
+  "Interviewer": "",
+  "FieldStation": "",
+  "Date": "",
+  "TimeBegan": "",
+  "AM_PM": "",
+  "RespondentDetails": {
+    "Name": "",
+    "Address": "",
+    "Phone": "(10 oge)"
+  },
+  "Introduction": "Hello, my name is . . . . . . . I’m from Market Facts, Incorporated in Chicago. May I speak to . . . . . . [READ RESPONDENT’S NAME FROM ABOVE]?",
+  "Availability": "Unavailable . . 2 (DETERMINE WHEN BEST TO CALL BACK AND RECORD TIME BELOW)",
+  "Callbacks": {
+    "Callback1": "",
+    "Callback2": ""
+  },
+  "InterviewDetails": {
+    "PreviousInterview": "Several weeks ago we interviewed you and asked you some questions about your smoking characteristics. We’d like to ask you just a few more questions that are similar to ones you’ve answered before. But now we’re interested in your smoking characteristics at this specific time.",
+    "PacksSmoked": {
+      "Question": "Now think about all the PACKS of cigarettes you’ve smoked these past TWO weeks. About how many packs of cigarettes would you estimate you’ve smoked these past TWO weeks?",
+      "NumberOfPacks": "11"
     },
-    "questions": [
+    "BrandsSmoked": {
+      "Question": "Now, would you please name all the brands of cigarettes you have smoked a pack or more of these past 2 weeks? Any others? (CIRCLE PRE-LISTED BRANDS MENTIONED BELOW ON GRID, WRITE IN ALL OTHERS)",
+      "Brands": [
         {
-            "question": "INTRODUCE YOURSELF IF NECESSARY AND SKIP TO NEXT."
+          "BrandName": "Viceroy",
+          "AmountSmoked": ""
         },
         {
-            "question": "WHEN BEST CALL BACK"
+          "BrandName": "Viceroy Rich Lights",
+          "AmountSmoked": ""
         },
         {
-            "question": "Doconr"
-        },
-        {
-            "question": "BELOW"
-        },
-        {
-            "question": "MENTIONED BELOW"
+          "BrandName": "Rich Lights",
+          "AmountSmoked": ""
         }
-    ],
-    "brands": [
-        {
-            "name": "NTECUY BRAND FROX Qu.2#18"
-        }
-    ]
+      ],
+      "TotalMustAgree": "TOTAL MUST AGREE TO TOTAL IN QU. 2a"
+    }
+  },
+  "ThankYou": "Thank respondent"
 }

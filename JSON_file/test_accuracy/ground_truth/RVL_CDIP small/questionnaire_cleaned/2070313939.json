@@ -1,25 +1,28 @@
 {
-  "name": "Mr.Randy Pennington",
+  "name": "Mr. Randy Pennington",
   "questions": [
     {
-      "question": "I.Are you a registered voter?",
-      "answer": "No"
+      "question": "Are you a registered voter?",
+      "answer": "Yes"
     },
     {
-      "question": "On which one of the following topics would you be most likely to express your vicws to elected officials?",
+      "question": "On which one of the following topics would you be most likely to express your views to elected officials?",
       "answer": "Government restriction on the sale and marketing of tobacco products"
     },
     {
-      "question": "Do you receive the Smoker's Advocate Newsletter about issues concerning smokers'rights?",
-      "answer": "Ys"
+      "question": "Do you receive the Smoker's Advocate Newsletter about issues concerning smokers' rights?",
+      "answer": "Yes"
     },
     {
       "question": "If so, which topics do you most like to read about?",
-      "answer": "Legislative news"
+      "answer": [
+        "Businesses that accommodate smokers",
+        "Legislative news"
+      ]
     },
     {
-      "question": "You have taken the time to make your views known on issucs related to tobacco,what do you think would encourage other people to take the time to let their views be known?",
-      "answer": "NENKSGETDRE"
+      "question": "You have taken the time to make your views known on issues related to tobacco, what do you think would encourage other people to take the time to let their views be known?",
+      "answer": "This method works great - direct mailings!"
     }
   ],
   "contact": {

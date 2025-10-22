@@ -1,21 +1,30 @@
 {
-    "2000 MARLBORO BAR PROGRAM": {
-        "CONTRACT TOP SHEET": {
-            "GMMSSM": "JEANNWE",
-            "DcEELes": "MARKET: ATL#NIA",
-            "VENUE NAME": "LliLL",
-            "VENUE ID": "AzLLLE-LL",
-            "EVENT": "VISIBILITY",
-            "MUSIC": "RNB",
-            "VENUE ADMISSION POLICY": [
-                "AO18-P",
-                "FAoz1-P",
-                "PAO-P",
-                "AO18-V",
-                "AO21-V"
-            ],
-            "GMWSSM SIGNATURE DATE": "SELLAN",
-            "APPROVAL DATE": "I2s"
-        }
-    }
+  "program": "2000 Marlboro Bar Program",
+  "contractTopSheet": {
+    "gmmSsm": "JEANNINE DOERFLER",
+    "location": "ATLANTA",
+    "market": "ATLANTA",
+    "venue": {
+      "name": "HOLE IN THE WALL",
+      "id": "ATL.C102.LL"
+    },
+    "clubType": {
+      "visibility": false,
+      "music": false,
+      "rnb": false,
+      "event": true
+    },
+    "venueAdmissionPolicy": [
+      "AO18-P",
+      "AO21-P",
+      "PAO-P",
+      "AO18-V",
+      "AO21-V"
+    ],
+    "gmmSsmId": "",
+    "signature": "[signature]",
+    "signatureDate": "2/11/00",
+    "sellinApproval": "[signature]",
+    "sellinApprovalDate": "2/15/00"
+  }
 }

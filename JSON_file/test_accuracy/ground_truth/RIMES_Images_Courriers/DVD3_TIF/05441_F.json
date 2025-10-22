@@ -1,13 +1,15 @@
 {
-    "Sender": "Tochard",
-    "Recipient": "ROSELiNE",
-    "Date": "03.27.00.65.19",
-    "Fax": "pestinatalre",
-    "Company": "BoP Tekcon",
-    "PageCount": "5",
-    "Subject": "PAsTE1R",
-    "Reference": "Jsloylo2",
-    "Urgency": "urgent",
-    "Comments": "Pour qvls",
-    "Response": "confidentiel"
+  "document": "Fax",
+  "scenario": "Réclamation",
+  "writer": "TOUCHARD ROSELINE",
+  "sender_person": "TOUCHARD",
+  "sender_company": "",
+  "sender_tel": "03.27.00.65.19",
+  "sender_fax": "",
+  "receiver_person": "",
+  "receiver_company": "BoP Telecom",
+  "subject": "remboursement",
+  "date": "15/04/02",
+  "place": "",
+  "box": ""
 }

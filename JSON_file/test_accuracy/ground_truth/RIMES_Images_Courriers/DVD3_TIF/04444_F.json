@@ -1,20 +1,15 @@
 {
-    "company_name": "TRANSPORTS ROBERT ET FILS",
-    "sender": "GRE63 QE",
-    "number_of_pages": 2,
-    "recipient": "EDF",
-    "fax_number": "05.+5.28.36.52",
-    "urgency": "Urgent",
-    "purpose": [
-        "Pour revision",
-        "Pour commentaires"
-    ],
-    "reply_requested": true,
-    "contact_information": {
-        "name": "Betty",
-        "address": "ZI. des 4 Vents Rue des Cigognes 20090 AJACCIO",
-        "phone": "04. 70. 87.51.00",
-        "fax": "04.70.87.51.01",
-        "email": "contact@transportsrobert.fr"
-    }
+  "document": "Fax",
+  "scenario": "Difficulté de paiement",
+  "writer": "Betty GREGGIRE",
+  "sender_person": "Betty GREGGIRE",
+  "sender_company": "TRANSPORTS ROBERT ET FILS",
+  "sender_tel": "04.70.87.51.00",
+  "sender_fax": "05.75.28.36.52",
+  "receiver_person": "",
+  "receiver_company": "EDF",
+  "subject": "",
+  "date": "",
+  "place": "Z.1. des 4 Vents Rue des Cigognes 20090 AJACCIO",
+  "box": ""
 }

@@ -1,13 +1,15 @@
 {
-    "Address": {
-        "Street": "3 rue de Jericho",
-        "City": "Bouxiefed aux",
-        "Postal Code": "54436"
-    },
-    "Date": "24/04/0",
-    "Reference": "client",
-    "Object": "reclamation",
-    "Name": "Monsieur Coudray",
-    "Telephone": "38 860",
-    "Message": "Je demande donc qu'on arrête de me faire des prélèvements sur mon abonnement."
+  "document": "Lettre manuscrite",
+  "scenario": "Réclamation",
+  "writer": "Rolande Coudray",
+  "sender_person": "Rolande Coudray",
+  "sender_company": "",
+  "sender_tel": "03.17.53.60.01",
+  "sender_fax": "",
+  "receiver_person": "Monsieur",
+  "receiver_company": "BoF Telecom",
+  "subject": "réclamation",
+  "date": "24/01/07",
+  "place": "Bouxières aux dames",
+  "box": ""
 }

@@ -1,26 +1,32 @@
 {
-    "Company": "INBIFO Institut fur blologlsche Forschung GmbH",
-    "Abbreviation": "InBio",
-    "Service": "Contract Research",
-    "Fax Message No": "32",
-    "Address": {
-        "Street": "Fuocsrd",
-        "City": "Colzor",
-        "Postal Code": "51149",
-        "Country": "Germany"
+  "company": "",
+  "department": "",
+  "telefax_message_no": 3232,
+  "telephone": "",
+  "fax": "",
+  "address": {
+    "street": "",
+    "postal_code": "",
+    "city": ""
+  },
+  "document": "",
+  "date": "",
+  "from": "Dr. W. Reininghaus",
+  "to": {
+    "name": "Dr. Gerry Nixon",
+    "title": "Manager, External Studies",
+    "company": "Philip Morris USA",
+    "address": {
+      "street": "Research Center",
+      "po_box": "P.O. Box 26583",
+      "city": "Richmond",
+      "state": "Va.",
+      "postal_code": "23261",
+      "country": "U.S.A."
     },
-    "Date": "GNI_FAXDOC",
-    "From": "Dr. W Reininghaus",
-    "To": "Dr. Gorry Nixon",
-    "Recipient Title": "Manager, External Studies",
-    "Recipient Company": "Philip Morris USA Research Center",
-    "Recipient Address": {
-        "Street": "P.o Box 26583",
-        "City": "Richmond",
-        "State": "Va.",
-        "Postal Code": "23261",
-        "Country": "USA"
-    },
-    "Recipient Fax No": "001-804-274 38 90",
-    "Number of Pages": 1
+    "telefax_no": "001-804-274 38 90"
+  },
+  "number_of_following_pages": 7,
+  "note": "For your information! Please forward to Ken!  regards  W. Reininghaus",
+  "reference_number": ""
 }

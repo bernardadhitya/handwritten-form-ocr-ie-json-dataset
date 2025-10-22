@@ -1,22 +1,15 @@
 {
-    "Name": "Michel Pa rDon",
-    "Address": {
-        "Street": "1 Rue du PUone",
-        "City": "VERGAVIlLE",
-        "Phone": "03 21 01 24 83"
-    },
-    "Insurance": {
-        "Company": "MANIF Assuramces",
-        "Policy Number": "07320",
-        "Type": "Automobile",
-        "Client": "RochE PAULE"
-    },
-    "Details": {
-        "Claim Reason": "Damage",
-        "Claim Description": "Accident involving two vehicles",
-        "Location": "Vciluie",
-        "Claimant": "Madame Monstet",
-        "Date": "19 Je mla s"
-    },
-    "Notes": "Claimant is seeking compensation for damages incurred in the accident"
+  "document": "Lettre manuscrite",
+  "scenario": "Gestion de sinistre",
+  "writer": "PARDON Michel",
+  "sender_person": "PARDON Michel",
+  "sender_company": "",
+  "sender_tel": "03 21 01 24 83",
+  "sender_fax": "",
+  "receiver_person": "",
+  "receiver_company": "MANIF Assurances",
+  "subject": "Assurance Automobile",
+  "date": "29/03/2007",
+  "place": "",
+  "box": ""
 }

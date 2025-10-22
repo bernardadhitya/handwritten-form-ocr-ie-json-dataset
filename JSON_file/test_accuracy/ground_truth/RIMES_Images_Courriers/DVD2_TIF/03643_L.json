@@ -1,23 +1,15 @@
 {
-    "Address": {
-        "Street": "Rue St Pieyre",
-        "Number": 157430
-    },
-    "Client": {
-        "Name": "NS Mhd33",
-        "Title": "Madame",
-        "Request": "demande des achats",
-        "Purchase": {
-            "Item": "CDs",
-            "Quantity": 150
-        }
-    },
-    "Modification": {
-        "Request": "Je voudrais une modification",
-        "Date": "0 mars",
-        "Item": "CDs",
-        "Quantity": 300
-    },
-    "Response": "Dans l'attente de doubler mes Uous je cle Ycponse ue< $",
-    "Salutation": "Salutctionf 13 Seyge blange numbye present< agreabre , Uotye distinq (Reim '/o3/o7"
+  "document": "Lettre manuscrite",
+  "scenario": "Modification de contrat / Commande",
+  "writer": "REINA Serge",
+  "sender_person": "REINA Serge",
+  "sender_company": "",
+  "sender_tel": "03 61 21 31 95",
+  "sender_fax": "",
+  "receiver_person": "",
+  "receiver_company": "La Reboute",
+  "subject": "Augmentation des quantités de CD",
+  "date": "13/03/2007",
+  "place": "le Val de Gueblange",
+  "box": ""
 }

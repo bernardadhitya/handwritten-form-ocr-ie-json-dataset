@@ -1,18 +1,15 @@
 {
-    "EXPEDITEUR": {
-        "Nom": "Bryan Duarte",
-        "Telephone": "03 51 55 68 66",
-        "Fax": "01 23 45 67 89",
-        "Nombres de pages": 2
-    },
-    "DESTINATAIRE": {
-        "Nom": "Edf",
-        "Telephone": "01 23 45 67 89",
-        "Fax": "04.07",
-        "Categorie": "relance de courtier",
-        "Objet": "Votre demande de reailiation du mois dernier n'a ete en compte",
-        "Complauent": "aucun",
-        "Re": "Xctok94",
-        "Interlocuteur": "Epf"
-    }
+  "document": "Fax",
+  "scenario": "relance de courrier sans réponse",
+  "writer": "Bryan Duarte",
+  "sender_person": "Bryan Duarte",
+  "sender_company": "",
+  "sender_tel": "03.51.55.68.66",
+  "sender_fax": "",
+  "receiver_person": "EDF",
+  "receiver_company": "EDF",
+  "subject": "votre demande de résiliation\ndu mois dernier n'a pas été\nprise en compte",
+  "date": "11.04.07",
+  "place": "Au bourg\n61700 Perrou",
+  "box": ""
 }

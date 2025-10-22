@@ -1,27 +1,48 @@
 {
-    "SESSION": "REGULARBRAND",
-    "DATE": "@",
-    "CIGARETTE": {
-        "LAST CIGARETTE": "LC:SQ",
-        "LAST CAFFEINE": "1 &:OC"
+  "study": "PREP STUDY",
+  "session": "2",
+  "brand": "Superior Menthol",
+  "date": "Oct 22 91",
+  "code": "E",
+  "group": "",
+  "product": "CIGARETTE",
+  "time": {
+    "deprivation": "2 HOURS",
+    "nicotine": "NICOTINE 1 HOUR",
+    "caffeine": "1 HOUR",
+    "last_caffeine": "12:00"
+  },
+  "attributes": {
+    "mouth_throat_impact": {
+      "low": true,
+      "high": false
     },
-    "DEPRIVATION": {
-        "HOURS_NICOTINE": "HQURS_NICOTINE",
-        "HOUR_CAFEEINE": "HOUR_CAFEEINE"
+    "flavor": {
+      "unusual": true
     },
-    "LIKES": {
-        "mouth": "Has high mouth and throat impact",
-        "flavor": "Has unusual flavor",
-        "taste": "Strong off-taste",
-        "coating": "Very mouthcoating",
-        "satisfying": "Satisfying"
+    "off_taste": {
+      "strong": true
     },
-    "DISLIKES": {
-        "taste": "Off-taste",
-        "menthol": "Extremely mentholated"
+    "mouth_coating": {
+      "very": false
     },
-    "MENTHOL": {
-        "amount": "Very little",
-        "cooling": "Cooling"
+    "satisfaction": {
+      "very": false
+    },
+    "preference": {
+      "extremely": false
     }
+  },
+  "mentholated": {
+    "is_mentholated": false,
+    "menthol": {
+      "very_little": false,
+      "a_lot": false
+    },
+    "cooling": {
+      "very_little": false,
+      "a_lot": true
+    }
+  },
+  "id": "2028815581"
 }

@@ -1,18 +1,20 @@
 {
-    "organization": {
-        "name": "NATIONAL LICENSED BEVERAGE ASSOCIATION",
-        "affiliate": "MiO LKTUD bcvtrGe"
-    },
-    "contact": {
-        "name": "Philip Craig",
-        "title": "Executive Director",
-        "address": "37 West Broad Street, Suitc 480, Columbus, Ohio 43215",
-        "phone": "(614) 224-3840, (800) 678-5995",
-        "fax": "(614) 241-2215"
-    },
-    "fax_transmission": {
-        "from": "Dibvy Vui",
-        "date": "11-16-94",
-        "message": "Please contact our office with any problems at (614) 224-3840"
-    }
+  "organization": "",
+  "affiliate": "",
+  "executive_director": "Philip Craig",
+  "address": "",
+  "phone_numbers": [
+    "(614) 224-3840"
+  ],
+  "fax": "",
+  "fax_transmission": {
+    "to": "Scott Fisher",
+    "from": "Philip Craig",
+    "date": "11-16-94",
+    "message": "Columbus field\n\nPlease contact our office with any problems at (614) 224-3840",
+    "thank_you": true,
+    "additional_numbers": [],
+    "group": "",
+    "timestamp": ""
+  }
 }

@@ -1,46 +1,38 @@
 {
-    "Product & Process Control": {
-        "Product/Process Test Request": {
-            "Secret": "Address Fee Only",
-            "No": "413",
-            "By": "Brand",
-            "Eyelena LC Capsules": {
-                "Item ID": "TEST",
-                "B22-L_OOB": {
-                    "Change Order": "Dept.",
-                    "Charge": "SKU",
-                    "Type of Test": {
-                        "Material Test": "Filter Test"
-                    },
-                    "Info": {
-                        "Primary Processing": {
-                            "Phase": {
-                                "Equipment": "Phase ii"
-                            }
-                        },
-                        "Other": {
-                            "Test Description": "Replace the Brass Track Cover at the bottom of the upper capsule track with track cover made of plywood"
-                        }
-                    },
-                    "Purpose of Test": "Determine whether the Brass Track Cover contributes static electricity buildup in the capsules",
-                    "Product Disposition": {
-                        "R & D Contact": "LD Jennings",
-                        "Date": "242/82",
-                        "Plant Contact": "Hest",
-                        "Requestor": "LD Jennings",
-                        "Phone": "5893",
-                        "Product Standards Conference": {
-                            "Date": "Approvals",
-                            "M & MGr": "LSz",
-                            "Plant QA MGr": "Primary Proc MGr",
-                            "PLT": "Prod ENGR",
-                            "Shift Prod MGr": "MGr INf. Ser",
-                            "Plant Manager": "Shift Prod Mgr"
-                        },
-                        "Return To": "Product Change Coordinator"
-                    }
-                }
-            }
-        }
-    }
+  "product": "Eyelematic Capsules",
+  "item_id": "B-22-7-008",
+  "change_order_number": "",
+  "department": "",
+  "charge_number": "",
+  "sku_number": "",
+  "type_of_test": [
+    "Material Test",
+    "Filter Test"
+  ],
+  "info": "Primary Processing",
+  "phase": "Phase II",
+  "equipment": "X",
+  "other": "",
+  "test_description": "Replace the Brass Track Cover at the bottom of the upper capsule track with a track cover made of plywood.",
+  "purpose_of_test": "To determine whether the Brass Track Cover contributes to static electricity buildup in the capsules.",
+  "product_disposition": "",
+  "r_and_d_contact": "",
+  "date": "7/2/87",
+  "plant_contact": "I. A. West",
+  "requestor": "A. D. Jennings",
+  "phone_number": "5893",
+  "product_standards_concurrence_date": "",
+  "approvals": {
+    "m_and_p_manager": "(signature)",
+    "plant_qa_manager": "",
+    "primary_proc_manager": "",
+    "manager_plt_prod_engr": "",
+    "7_shift_prod_manager": "",
+    "manager_inf_ser_p_p": "",
+    "8_shift_prod_manager": "",
+    "plant_manager": "",
+    "9_shift_prod_manager": ""
+  },
+  "return_to": "PRODUCT CHANGE COORDINATOR",
+  "form_number": ""
 }

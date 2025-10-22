@@ -1,42 +1,41 @@
 {
-    "PurchasedFilterRequestForm": {
-        "Supplier": null,
-        "DateOrdered": "9-29-94",
-        "SupplierSampleID": null,
-        "PONo": null,
-        "FilterDescription": {
-            "SAF": null,
-            "CavityLengthStudy": "[14soud+",
-            "13Cavity": null,
-            "MonoFilter": null,
-            "Charcoal": null,
-            "DualFilterType": null,
-            "TripleSolid": null,
-            "Quantity": null,
-            "Cavity": null,
-            "Other": null
-        },
-        "FilterRodDimensions": "108 X 24.43",
-        "NonPorous": "t4-6",
-        "FilterRodPlugwrap": null,
-        "FilterRodPD": 320,
-        "TipPD": 0.8,
-        "PlasticizerTypeAndLevel": "TR/ACET",
-        "Quantity": "5hv 07",
-        "DeliveryDate": "ASAP",
-        "ProjectLeader": "BANERTEE",
-        "RelatedTestNo": null,
-        "ANNumber": "AN 2784",
-        "DateReceived": null,
-        "SamplingProgram": null,
-        "SampledBy": "T1LLEy",
-        "NumberOfPoints": "Rer",
-        "TestedBy": "YC",
-        "AdditionalInfo": {
-            "Uungm9J": null,
-            "521084915": null,
-            "SkueKikman": null,
-            "RennieTilley": null
-        }
+  "PurchasedFilterRequestForm": {
+    "Supplier": "FIL",
+    "DateOrdered": "9-29-94",
+    "SupplierSampleID": "",
+    "PONo": "",
+    "FilterDescription": {
+      "SAF": "",
+      "CavityLengthStudy": "[14 SOLID + 13 CAVITY]",
+      "MonoFilter": "X",
+      "Charcoal": "",
+      "DualFilterType": "Charcoal",
+      "TripleSolid": "",
+      "Quantity": "",
+      "Cavity": "",
+      "Other": ""
+    },
+    "FilterRodDimensions": "108 X 24.43",
+    "NonPorous": "",
+    "FilterRodPlugwrap": "NON-POROUS",
+    "FilterRodPD": 320,
+    "TipPD": 80,
+    "PlasticizerTypeAndLevel": "TRIACETIN",
+    "Quantity": "10 TRAYS",
+    "DeliveryDate": "ASAP",
+    "ProjectLeader": "BANERJEE",
+    "RelatedTestNo": "",
+    "ANNumber": "AN 27841",
+    "DateReceived": "",
+    "SamplingProgram": "",
+    "SampledBy": "TILLEY",
+    "NumberOfPoints": "",
+    "TestedBy": "TILLEY",
+    "AdditionalInfo": {
+      "Uungm9J": "Becky Dunn",
+      "521084915": "Steve Kirkman",
+      "SkueKikman": "",
+      "RennieTilley": "Rennie Tilley"
     }
+  }
 }

@@ -1,33 +1,59 @@
 {
-    "Company": "RJR Industries, Inc",
-    "Proposal": {
-        "Type": "Profit, Expenditure, or Policy Change",
-        "Profit Proposal": {
-            "Pre-Tax Profit & Loss Effect": {
-                "Budget Change": {
-                    "Yes": true,
-                    "Amount": "Unknown"
-                }
-            }
-        },
-        "Capital Expenditure Proposal": {
-            "Disbursement of Funds": {
-                "Total Request": "Unknown",
-                "Timing": "Unknown"
-            }
-        },
-        "Policy Change Proposal": {
-            "Literature to be Changed": "Unknown",
-            "Description": "Opportunity or Problem Description",
-            "Background": "Substantiating References and Facts",
-            "Proposed Action and Alternatives": {
-                "Scope": "Unknown",
-                "Method": "Unknown"
-            },
-            "Results": {
-                "Profit Effect": "Unknown",
-                "Return on Investment": "Unknown"
-            }
-        }
+  "company": "RJR Industries, Inc.",
+  "proposalType": "PROPOSAL FOR PROFIT, EXPENDITURE, OR POLICY CHANGE",
+  "subject": "The source of desirable flavorants in Turkish, flue-cured, and burley tobaccos should be determined to determine whether they are innate or such in the subject is toxic in any product grown or processed with tobacco during the smoking process.",
+  "departmentDivision": "",
+  "precedingPEPs": {
+    "relativeToSubject": "",
+    "number": ""
+  },
+  "checkAsAppropriate": {
+    "estimatedStudyDevelopmentProposal": "",
+    "longRangeImpact": "",
+    "capitalExpenditures": "",
+    "annualPreTaxProfitEffect": {
+      "afterImplementation": "",
+      "year": "19_",
+      "nextYear": "19_",
+      "futureYears": ""
     }
+  },
+  "profitProposal": {
+    "preTaxProfitLossEffect": "",
+    "isPLBudgetChange": "",
+    "howMuch": ""
+  },
+  "capitalExpenditureProposal": {
+    "disbursementOfFunds": {
+      "totalRequest": "",
+      "timing": ""
+    },
+    "isBudgetChange": "",
+    "howMuchInTotal": "",
+    "timing": ""
+  },
+  "estimatedBy": {
+    "rjReyTobEng": "",
+    "engCoord": ""
+  },
+  "projectNo": "",
+  "policyChangeProposal": {
+    "literatureToBeChanged": "",
+    "descriptionOfOpportunityOrProblem": "",
+    "background": "Studies by the F.T. Smith Co. on virginia and pipe tobaccos, essentially the commodity sold in American smoke. The flavorful components of the smoke are of minor influence on the smoker. There is also evidence that more than about 10% of flavor is unnecessary in the flavor processing of tobacco.",
+    "proposedActionAndAlternatives": "To determine the nature of the comprehensive content of volatile smoke, the desirable flavorants in Turkish, flue-cured, and burley tobacco mainly the differences in smoke profiles of high flavored Turkish or low flavored Turkish, high flavored flue-cured or low flavored flue-cured, high flavored burley or low flavored burley in the hope that the flavor levels of the low flavored tobaccos may be augmented by addition of flavorants and/or flavored precursors.",
+    "resultsOfProposedAction": ""
+  },
+  "routing": {
+    "comments": "",
+    "date": ""
+  },
+  "originator": "",
+  "approvedCopyTo": "",
+  "datePlannedToStart": "",
+  "dateStarted": "",
+  "datePlannedToComplete": "",
+  "dateCompleted": "",
+  "personResponsibleForImplementing": "",
+  "disapprovedExplanation": ""
 }

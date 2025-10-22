@@ -1,33 +1,33 @@
 {
-    "process": {
-        "steps": [
-            "BLENDING",
-            "EXTRACTION (BARN)",
-            "CRITICAL STEP",
-            "CENTRIFUGE (SOLID REMOVAL)",
-            "SPRAY DRY",
-            "STORAGE/PACKAGING"
-        ],
-        "criticalStep": 4,
-        "notes": "Cans produce only if finished material (extraction/spray dry same day). Two separate quotes have been ordered (ET 2-3 weeks delivery) [small scale]."
-    },
-    "questions": [
-        "Why spray-dried material different small scale to current equipment?",
-        "Material stability (shelf life, etc.)",
-        "Space requirements for spray dry equipment"
+  "process": {
+    "steps": [
+      "BLENDING",
+      "GRINDING",
+      "EXTRACTION (BATCH) 5 STEPS",
+      "CENTRIFUGE (SOLID REMOVAL)",
+      "CONCENTRATE",
+      "SPRAY DRY",
+      "STORAGE/PACKAGING"
     ],
-    "budget": {
-        "includes": [
-            "Design",
-            "Operators",
-            "Installation",
-            "Start-up equipment"
-        ],
-        "location": "Temporary location, install, start-up equipment",
-        "additionalPersonnel": "Add personnel to operate to supply spray-dried material",
-        "timeline": "1QTR '86 - For development plant phase"
-    },
-    "ongoing": {
-        "notes": "Boma budget has been confirmed, current to text! Oct TS ongoing. Copy quantities supplied to lots of equipment. Attention for project phase may have to count before production equipment."
-    }
+    "criticalStep": 3,
+    "notes": "Can produce 2#/day of finished material (extraction/spray dry same day). 2nd spray dryer has been ordered (est 2-3 wk delivery) [small scale]."
+  },
+  "questions": [
+    "Why spray-dried material different small scale to current equipment",
+    "Material stability (shelf life, etc)",
+    "Space (1500 sq. ft.) needs for 50#/day equipment"
+  ],
+  "budget": {
+    "includes": [
+      "Engineers",
+      "Designers & Technicians",
+      "Operators"
+    ],
+    "location": "Identify location, install, start up equipment",
+    "additionalPersonnel": "Add personnel to operate to supply S.D. material for development plant phase",
+    "timeline": "1st Qtr '85 (10/85 & 1st Qtr '86) (1st Qtr '86) (2nd Qtr '86)"
+  },
+  "ongoing": {
+    "notes": "Follow PT&D development budget/headcount (engineers, etc) to 4th Qtr '86 Oct '75. Identify equipment suppliers, determine lead times of equip ongoing for pilot plant phase (may have to count before PT&D 1st Qtr '86 equip installed)."
+  }
 }

@@ -1,19 +1,37 @@
 {
-    "company": "Doral & Co",
-    "offers": [
-        {
-            "title": "FREE publication for Doral smokers",
-            "description": "Doral & Co. contains lots of exclusive offers",
-            "special_offers": [
-                "G4Frc Caros For Only T Pad",
-                "Seala Through Our Frt Carton Olar",
-                "Smaktn' Rizhbs"
-            ]
-        }
+  "promotion": {
+    "title": "",
+    "message": "Want Doral & Co. delivered to you? Just send in this card and you'll be eligible!",
+    "signature": ""
+  },
+  "offer": {
+    "title": "",
+    "eligibility": "OFFER RESTRICTED TO SMOKERS 21 YEARS OF AGE OR OLDER.",
+    "instructions": "Want delivered to you? Just send in this card and you'll be eligible!",
+    "warning": ""
+  },
+  "survey": {
+    "instructions": "",
+    "questions": [
+      {
+        "question": "Is your usual brand Menthol?",
+        "options": [
+          "Menthol",
+          "Non-Menthol"
+        ]
+      },
+      {
+        "question": "How do you usually purchase?",
+        "options": [
+          "By the pack",
+          "By the carton"
+        ]
+      }
     ],
-    "contact_information": {
-        "address": "44314-2352 Mlubrzusleu",
-        "phone": "21206430n",
-        "email": "JorES XaPES 3740 IMrh MEAOR"
-    }
+    "note": "SURVEYS WILL NOT BE PROCESSED WITHOUT SIGNATURE AND BIRTHDATE"
+  },
+  "recipient": {
+    "name": "JAMES XAPES",
+    "address": "2248 10TH ST SW, AKRON OH 44314-2352"
+  }
 }

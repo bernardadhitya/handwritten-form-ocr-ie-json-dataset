@@ -1,63 +1,29 @@
 {
-    "Location": {
-        "State": "rural"
-    },
-    "Music": {
-        "Importance": "major",
-        "Materials": [
-            "Instruments",
-            "Brands",
-            "Guitars",
-            "Stereo Equipment",
-            "Amplifiers"
-        ]
-    },
-    "Education": {
-        "High School": "yes",
-        "College": "yes"
-    },
-    "Activities": [
-        "Jika actibo",
-        "Con Yhe fast pace",
-        "Like to be entertained (with music shows)",
-        "Horror movies",
-        "Conducts etc.",
-        "Tika Ilmikd ecl #on",
-        "Rik immed iak jspon",
-        "Follow group",
-        "Easily influenced"
-    ],
-    "Food": {
-        "Places": [
-            "Bennijan",
-            "Pizza places"
-        ],
-        "Like to drink": "excess"
-    },
-    "Personality": {
-        "Sensitive": "yes",
-        "Pressure": "16",
-        "Loose talk, their money": "yes",
-        "Julu Y @hha on@": "yes",
-        "Why haul blamed their piy": "yes",
-        "They Gu Alad1 /ax": "yes",
-        "Ha meyt @shallung": "yes",
-        "Pursuing goals and dreams": "yes"
-    },
-    "Music Preferences": [
-        "Roach",
-        "Rock",
-        "Alloyhas",
-        "Pop",
-        "Games"
-    ],
-    "Health": {
-        "Conscious": "yes",
-        "Jocs n & hody e+<": "yes"
-    },
-    "Races": [
-        "City",
-        "Country"
-    ],
-    "Supplies": "4ey"
+  "id": "he-81",
+  "factors": {
+    "education": "High school, drop out, college etc.",
+    "location": "city, state, rural, country etc.",
+    "interests": {
+      "music": "music is important",
+      "appearance": "Name brands, Cars, Stereo equipment, Clothes, hair, Jewelry etc. (they like to make a statement)",
+      "entertainment": "like action (on the go) fast pace, like to be entertained (without thought), Horror movies, Races, Concerts etc.",
+      "anticipation": "like Anticipation (Supply + demand) like limited editions",
+      "immediacy": "like immediate response (when they want it - they want it Now)",
+      "groupInfluence": "follow a group image (easily influenced)",
+      "preferences": "They have grown away from fast food burger places - they like Bennigan’s, Darryl’s and Pizza places.",
+      "drinking": "like to drink to excess (for fun)",
+      "riskTaking": "Risk takers (live for today)",
+      "peerPressure": "Sensitive to peer pressure",
+      "spending": "loose with their money",
+      "challenge": "Sex: they like the challenge - once they have obtained their prey - they are ready for the next challenge."
+    }
+  },
+  "demographics": {
+    "zipCode": "",
+    "pursuingCollege": "Those pursuing college degrees",
+    "musicPreference": "music may vary slightly: Beach, Rock",
+    "clothing": "Prep / Jeans",
+    "health": "may be slightly more health conscious (Jogging, body building etc.)",
+    "body": ""
+  }
 }

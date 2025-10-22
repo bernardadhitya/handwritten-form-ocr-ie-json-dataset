@@ -2,58 +2,40 @@
   "procedure_note": {
     "note_number": "91-42",
     "date": "6/4/91",
-    "temporary": "Temporary",
+    "temporary": false,
     "effective_date": "6/4/91",
-    "termination_date": null,
-    "permanent": "Permanent_X",
+    "termination_date": "",
+    "permanent": true,
     "type": [
-      "Product",
+      "",
       "Process",
-      "Packaging",
-      "Flavor",
-      "Tobacco",
-      "Material",
-      "Other"
+      "",
+      "",
+      "",
+      "",
+      ""
     ],
     "subject": "G7 Broke Addition Specifications",
     "brief_summary": "Previously, G7 production which was out of specification or physically damaged was destroyed. Tobacco Processing now has in place a system which can reclaim this G7 broke.",
     "recommendation": "Tobacco Processing should be allowed to reprocess broke material according to the specifications attached.",
     "recommended_for_authorization": [
-      "lace",
-      "ha",
-      "McKenz",
-      "Dr.M.E.Stowe",
-      "C.E.Tm",
-      "C.E.",
-      "Tinsley",
-      "Lockamy",
-      "A",
-      "D",
-      "AlTer",
-      "A",
-      "F.Balo",
-      "F.Bailey"
+      "G. W. Wallace",
+      "D. N. McClanahan"
     ],
     "product_standards_authorization": {
       "authorized": [
-        "McKenz",
-        "Dr.M.E.Stowe",
-        "C.E.Tm",
-        "C.E.",
-        "Tinsley",
-        "Lockamy",
-        "A",
-        "D",
-        "AlTer",
-        "A",
-        "F.Balo",
-        "F.Bailey"
+        "J. L. McKenzie",
+        "Dr. M. E. Stowe",
+        "C. E. Tinsley, III",
+        "F. M. Lockamy",
+        "W. D. Allen",
+        "T. F. Bailey"
       ],
-      "date": null
+      "date": ""
     },
     "distribution": {
       "product_standards_file": "Ann Niten",
-      "code": "8708"
+      "code": ""
     }
   }
 }

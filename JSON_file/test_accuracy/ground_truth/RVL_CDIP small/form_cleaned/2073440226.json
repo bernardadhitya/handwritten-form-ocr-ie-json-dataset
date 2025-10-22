@@ -1,25 +1,34 @@
 {
-    "company": "SIS INTERNATIONAL, INC",
-    "fax_transmission": {
-        "date": "DEC: 16.1993",
-        "from": "Kenaekb",
-        "pages": "(excluding cover pege)",
-        "notes": "FYI"
+  "company": "SIS INTERNATIONAL, INC",
+  "fax_transmission": {
+    "date": "12/16",
+    "time": "",
+    "to": {
+      "name": "Mr. AR Padato",
+      "fax_no": "(212) 907-5396"
     },
-    "contact_information": {
-        "phone": "914 633 6936",
-        "fax": "914 839/8936",
-        "address": "Po Box 490, New Now Yark 10958-0490",
-        "other_locations": [
-            "London",
-            "Brussels",
-            "Munich",
-            "Rlo de Jenolro",
-            "Budapost",
-            "Warbaw",
-            "Tokyo",
-            "Sooul",
-            "Singapore"
-        ]
-    }
+    "from": {
+      "name": "Kennetha Kass"
+    },
+    "re": "3rd Quarter Report",
+    "pages": "1 (excluding cover page)",
+    "notes": "FYI on R.J.R’s"
+  },
+  "contact": {
+    "tel": "(914) 639-1934",
+    "fax": "",
+    "error_contact": "(914) 639-1934"
+  },
+  "locations": [
+    "New York",
+    "London",
+    "Brussels",
+    "Munich",
+    "Rio de Janeiro",
+    "Budapest",
+    "Warsaw",
+    "Tokyo",
+    "Seoul",
+    "Singapore"
+  ]
 }

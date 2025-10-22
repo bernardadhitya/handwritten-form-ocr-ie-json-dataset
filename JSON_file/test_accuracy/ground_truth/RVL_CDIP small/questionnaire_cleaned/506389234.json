@@ -1,72 +1,76 @@
 {
   "ALPHA_RECOGNITION_THRESHOLD_ATTRIBUTE_PROFILE_ARTAP": {
     "NAME": "Mgate",
-    "DATE9": null,
-    "FEMA_NO": null,
-    "CODE_NO": null,
-    "AROMA_RAW_MATERIAL": "Meuthgne",
+    "DATE9": "5/29 (1)",
+    "FEMA_NO": "",
+    "CODE_NO": "",
+    "AROMA_RAW_MATERIAL": "Meuthone",
     "THRESHOLD": {
-      "Min": 2,
-      "Max": 7,
+      "Min": "1",
+      "Max": "100",
       "Unit": "ppm"
     },
     "ATTRIBUTE_PROFILE": {
       "Cigarette_like_taste": "Yes",
-      "Artificial_taste": "No",
-      "Fresh_tobacco_like_taste": "NO",
-      "Smoke_like_taste": null,
-      "Background_mask": "Increase",
-      "Dry_puff_character": "100",
+      "Artificial_taste": "Yes",
+      "Fresh_tobacco_like_taste": "Yes",
+      "Smoke_like_taste": "Yes",
+      "Background_mask": "1, 2, 3",
+      "Dry_puff_character": "100 sl bit",
       "Aftertaste": {
         "Yes_No": "Yes",
-        "Agreeable": null,
-        "Disagreeable": null,
-        "clean": null,
-        "Tingering": null,
-        "sweet": null,
-        "coating": null,
-        "sour": null,
-        "oily": null
+        "Agreeable": "",
+        "Disagreeable": "",
+        "clean": "clean",
+        "Tingering": "tingering",
+        "sweet": "sweet",
+        "coating": "coating",
+        "sour": "sour",
+        "oily": "oily"
       },
       "Trigeminal_sensation": [
         "nasal sting",
         "tongue bite",
-        "coo7ing",
+        "cooling",
         "throat scratch",
         "astringent",
         "heating",
-        "peppery (tingly) soothing",
-        "salivating"
+        "peppery (tingly)",
+        "soothing",
+        "salivating",
+        "drying"
       ],
       "Categorization_of_flavor": [
-        "artificial chocolate/cocoa flue-cured",
+        "artificial",
+        "chocolate/cocoa",
+        "flue-cured",
         "metallic",
         "nutty/pyrazine",
         "burley",
-        "wyy",
-        "nice mutk fe",
         "phenolic",
         "roasted",
-        "flora7",
+        "floral",
         "green",
         "honey",
         "fruity/wine",
-        "sour/acidic woody",
-        "spicy",
-        "4",
+        "sour/acidic",
+        "woody",
+        "spicy 4",
         "sweet",
-        "carame7",
-        "bitter"
+        "caramel",
+        "bitter",
+        "waxy",
+        "nice mouth feel",
+        "smooth"
       ],
-      "Major_character_description": null,
+      "Major_character_description": "sweet waxy woody floral Same 1-4 Of sweet wax bit",
       "Recommendations": [
-        "50638",
-        "NM",
-        "9234"
+        "Good up to 3 mouth feel",
+        "NM"
       ]
     },
     "ADDITIONAL_COMMENTS": {
-      "ranf+8d #rns": null
+      "ranf+8d #rns": ""
     }
   }
 }

@@ -1,15 +1,28 @@
 {
-    "Form Number": "8201",
-    "Department": "BRAND MARKETING",
-    "Approvals": {
-        "Brand Manager": true,
-        "Marketing Director": true,
-        "Law Department": true
-    },
-    "Date": "Mar 1995",
-    "Originator": "Originator (routine)",
-    "Approval Requirements": {
-        "Advertising Company": 12468,
-        "Advertising Legal Stats": 432
-    }
+  "form": "RTFrm 8201Rv.5/86",
+  "copy": "BRAND MARKETING",
+  "advertising": "MATERIALS APPROVALS",
+  "brand": "DORAL",
+  "brands": "\"OORAL GUARANTEES PREMIUM TASTE\" OOH",
+  "item": "LEGAL APPROVAL NO.",
+  "description": "14\" X 48\" WITH CORPORATE EXTENSION; POSTING TO APPEAR MAY 1, 1995",
+  "description_of_use": "",
+  "initials": "MARY ONES",
+  "date": "3/24/95",
+  "comments": "J.A.O",
+  "originator": "APPROVALS",
+  "approvals": {
+    "brand_manager": "C.W.S 3/27",
+    "marketing_director": "",
+    "law_department": "Z.R",
+    "vice_president_brand_marketing": "PRIVILEGED MATERIAL REDACTED",
+    "senior_vice_president": "",
+    "executive_vice_president": ""
+  },
+  "approval_requirements": {
+    "advertising_comp": "1,2,4,5,6",
+    "advertising_legal_stats": "1,2,3"
+  },
+  "return_completed_form_to_originator": "RETURN COMPLETED FORM TO ORIGINATOR.",
+  "originator_routing": ""
 }

@@ -1,58 +1,56 @@
 {
   "document": {
     "type": "OFFICIAL",
-    "location": "LOCATION",
+    "location": "USA",
     "date": "March 21, 1991",
     "file": {
-      "FIN": "8-4-95",
+      "FIN": "",
       "SI": "HR",
-      "code": "9bL8",
+      "code": "",
       "1OF": {
-        "date": null,
-        "total": "$860"
+        "date": "C+1",
+        "total": "10"
       }
     },
     "retention_period": {
-      "issued": "ISSUED",
-      "in_storage": "W",
-      "department_code": "01 MSP-103",
-      "responsible_records_management_group": "OIIO",
-      "department_head": "C+10",
-      "legal_counsel": "PhIlIp",
-      "production_planning_control": "RETE",
+      "issued": "",
+      "in_storage": "",
+      "department_code": "",
+      "responsible_records_management_group": "IN DEPT.",
+      "department_head": "C+1",
+      "legal_counsel": "",
+      "production_planning_control": "",
       "authorization": {
-        "record_category": "INFORMATION & PERSONNEL/EMPLOYEE FILES",
+        "record_category": "",
         "records": {
-          "computer_information": "2074741416",
-          "cost_information": "151995",
-          "cigarette_orders": "CIGARETTE ORDERS",
-          "correspondence": "COMMUNICATIONS",
-          "equipment": "EQUIPMENT",
-          "packaging": "PACKAGING",
-          "budgets": "BUDGETS"
+          "computer_information": "",
+          "cost_information": "",
+          "cigarette_orders": "",
+          "correspondence": "",
+          "equipment": "",
+          "packaging": "",
+          "budgets": ""
         }
       },
       "key_to_retentions": {
-        "until_terminated": "Until Superseded",
-        "current_month": "Current Month",
-        "permanently": "Permanently"
+        "until_terminated": "",
+        "current_month": "",
+        "permanently": ""
       }
     },
     "manufacturing_record": {
       "category": {
-        "B0133": "-",
-        "C2232": "-",
-        "C2233": "-",
-        "DO114": "-",
-        "PO011": "-",
-        "C0400": "-",
-        "C0177": "-",
-        "C0178": "="
+        "B0133": "",
+        "C2233": "",
+        "DO114": "",
+        "PO011": "",
+        "C0400": "",
+        "C0177": ""
       },
       "code": {
-        "ACT": "W",
-        "Q": "SUP",
-        "TER": "TER"
+        "ACT": "",
+        "Q": "",
+        "TER": ""
       }
     }
   }

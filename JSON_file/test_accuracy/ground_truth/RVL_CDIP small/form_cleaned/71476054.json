@@ -1,33 +1,68 @@
 {
-    "Project Information": {
-        "Export Jfk Code": "5'E-57",
-        "Summary": "GRALD",
-        "Launch #": "Pktut Mark ONE o thx (clbriot: JeoLyetEZaKS €OX",
-        "Brand Name": "Na brend kancb",
-        "Brand #": "Brod #k",
-        "Brand Type": "brad ,tyk",
-        "Brand Description": "(corpbte Kpanle krr lor &ch nt5 clt\"dt = abtlet PacLaent",
-        "Brand Style": "Bnnd wyk",
-        "Government Regulation Change": "Jutiacatlod/rtionak",
-        "Manufacturing Source": "CbAegt @xueftcturidg sourcc",
-        "Market Company": "chha",
-        "Market Qualification": "chuilikation",
-        "Duty Status": "Duty Paid",
-        "Market Type": "Obxt",
-        "Destination": "SE2",
-        "Export Type": "Expont",
-        "Container Type": "Conta",
-        "Packaging Type": "Lkas",
-        "In-Market Arrival Date": "Jslik (andsrx)",
-        "Production Timing Requirements": "Peooncno",
-        "Total Quantity Required": "VOLLMERTBA",
-        "Initial Order Quantity": "0135",
-        "On-Going Monthly Order Quantity": "Gocuct",
-        "Additional Product Quantity Required": "Prodect Qutatity Required: LAcT Helonnd hucoa",
-        "Order Details": "Cese (For BLW Export brabd: niiwn 40 c4s OIdrT Initial Ortkr 0135 par brnd syk par &dkt = rcquired)",
-        "Sourcing Changes": "Gocuct sourcing chanee, uch lixt of Toquuenknu lo I packare c benge exbting Mno sk",
-        "Completed Form": "NEW BRAND LAUNCH: Contiaut with sEcTION n",
-        "Source": "Skip",
-        "Change to Existing Products/Manufacturing": "01784448652 FACE. E21 FEB 22 12:08 835017978 PRODUCED EROM BEN WEB SITE Actual elthy"
+  "form": "INTERNATIONAL PROJECT INFORMATION FORM",
+  "form_number": "96-047",
+  "project_code": "AP46006",
+  "project_reference": "Export SFR Code: SPE-57",
+  "section": "I",
+  "project_information": {
+    "project_name": "",
+    "project_purpose_summary": "REBRAND LAUNCH",
+    "project_type": {
+      "new_brand_launch": {
+        "brand_name": "VICTORY LIGHTS KS BOX",
+        "note": "complete separate form for each new brand style"
+      },
+      "change_to_existing_packaging": {
+        "brand_style": "",
+        "attachments": [
+          "Attach list for multiple styles",
+          "Attach justification/rationale"
+        ],
+        "reason": {
+          "government_regulation_change": "",
+          "other": "Specify"
+        }
+      },
+      "change_manufacturing_source": {
+        "from": "",
+        "to": "",
+        "brand_style": "Attach list for multiple styles and rationale for change"
+      }
+    },
+    "country_code": {
+      "duty_free": false,
+      "other": true
+    },
+    "classification": "Other SEZ",
+    "business_type": [
+      "Export",
+      "",
+      ""
+    ],
+    "production": "PRODUCTION APRIL 1996",
+    "timing_requirement": {
+      "in_market_arrival_date": "11/5/96",
+      "market_launch_date": "11/6/96",
+      "note": "For B&W Exports: Please reference timetable standards for dates above. An actual timetable will be issued upon IPIF approval. Any change to an approved IPIF will result in a delay of the in-market arrival date and/or additional costs."
+    },
+    "product_quantity_required": {
+      "new_brand_launch": {
+        "initial_order": "cases",
+        "minimum_order": "For B&W Export brands: a minimum 40 case order",
+        "ongoing_monthly": "cases per brand style per order is required"
+      },
+      "package_change_or_sourcing_change": "attach list of quantity requirements for each brand style"
     }
+  },
+  "form_completion": {
+    "new_brand_launch": "Continue with SECTION II.",
+    "change_to_existing_products_or_change_to_manufacturing_source": "Skip to SECTION III and continue."
+  },
+  "contact": {
+    "phone": "",
+    "fax": ""
+  },
+  "page": "",
+  "date": "",
+  "source": ""
 }

@@ -1,39 +1,33 @@
 {
-    "Code d'envoi": {
-        "Questionnaire": {
-            "Identite fictive": {
-                "Nom": "Duarte_",
-                "Prenom": "",
-                "Adresse": "I8_ bis_rue de la de 6",
-                "Code postal": "212121212",
-                "Ville": "Magny."
-            },
-            "Tel": "35586",
-            "Scenario": {
-                "Categorie": "Difliculte de paiement",
-                "Objet": "emande d'echelennement",
-                "Complement": "Vous_ Venez d lelce emploc",
-                "Reference client eventuelle": "S F",
-                "Interlocuteur": "Znesorerie des. impats_",
-                "Adresse": "20 chemin des Longeses",
-                "Code postal": "917181319",
-                "Ville": "Le Tempen."
-            },
-            "Redaction": {
-                "Type de stylo (noir) utilise": "bille plume feutre",
-                "Temps passe a traiter le scenario": "20 minutes."
-            },
-            "Contribution": {
-                "Cocher les elements de votre contribution pour le scenario traite": [
-                    "(6€) Jenvoie mon courrier par voie postale a la date du 12..04:97",
-                    "(+2€) Mon courrier contient une page de garde de fax",
-                    "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
-                    "(+1€) J'ai envoye par courriel mon courrier numerise le 12.04.07"
-                ],
-                "Marque et modele du scanner": "Hp PSC 7510",
-                "Format": "PNG GIF TIFF",
-                "Resolution des images": "300 dpilppp"
-            }
-        }
-    }
+  "Code d'envoi": "ZOJFNK",
+  "Nom": "Duarte",
+  "Prénom": "Bryan",
+  "Adresse": "18 bis rue de la Noye de Bout",
+  "Code Postal": "702010",
+  "Ville": "Magny Vernois",
+  "Téléphone": "0351556866",
+  "Catégorie Scénario": "Difficulté de paiement",
+  "Objet Scénario": "Demande d'échelonnement",
+  "Complément Scénario": "Vous venez de perdre votre emploi",
+  "Référence client": "SFYXP16",
+  "Interlocuteur": "Trésorerie des impôts",
+  "Adresse Interlocuteur": "20 chemin des Longoses",
+  "Code Postal Interlocuteur": "97839",
+  "Ville Interlocuteur": "Le Tampon",
+  "Temps passé": "20",
+  "Stylo bille": "",
+  "Stylo plume": "",
+  "Stylo feutre": "x",
+  "Contribution postale": "x",
+  "Date d'envoi postal": "12.04.07",
+  "Option Page de garde de fax": "x",
+  "Option envoi par fax": "",
+  "Date d'envoi par fax": "",
+  "Option envoi par courriel": "x",
+  "Date d'envoi par courriel": "12.04.07",
+  "Résolution": "300",
+  "Format PNG": "",
+  "Format GIF": "",
+  "Format TIFF": "x",
+  "Marque et modèle scanner": "HP PSC 1510"
 }

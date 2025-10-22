@@ -1,59 +1,68 @@
 {
-    "documentClearanceSheet": {
-        "dateRouted": "Apx118.1991",
-        "contract": {
-            "subject": "Company",
-            "companyName": "Promotionsl Marketing Inc.",
-            "contractNumber": "4603/859",
-            "brands": "3403/859",
-            "totalCost": 8529.56,
-            "currentYearEF0": 529.56,
-            "briefDescription": "Promotionsl Marketing to provide services described in Attachments 1-12.",
-            "implementor": "Deborah L. Jones",
-            "glCode": [
-                "04-73-4603-8390-859",
-                "04-73-3403-8360-859"
-            ],
-            "rc": "t1002"
-        },
-        "reviewRouting": [
-            {
-                "department": "Asset & Risk",
-                "initials": "",
-                "signature": "",
-                "date": ""
-            },
-            {
-                "department": "Fin. Services",
-                "initials": "JEL",
-                "signature": "",
-                "date": ""
-            },
-            {
-                "department": "Fin. Ser. Marketing",
-                "initials": "JKA",
-                "signature": "",
-                "date": ""
-            },
-            {
-                "department": "Finance",
-                "initials": "",
-                "signature": "",
-                "date": "51326"
-            },
-            {
-                "department": "Brand Marketing",
-                "initials": "MLp",
-                "signature": "",
-                "date": "9332"
-            }
-        ],
-        "approvedBy": "E.M. Blackmer",
-        "returnTo": {
-            "name": "Jayne K. Appleyard",
-            "department": "Fin. Sery.-Marketing",
-            "location": "6th Floor Rey Bldg"
-        },
-        "note": "The Document Originator must maintain on file a copy of the signed document clearance sheet in accordance with established Company records retention schedules."
-    }
+  "documentClearanceSheet": {
+    "dateRouted": "April 18, 1991",
+    "contract": {
+      "subject": "",
+      "companyName": "Promotional Marketing, Inc.",
+      "contractNumber": "",
+      "brands": [
+        "4603/859",
+        "3403/859"
+      ],
+      "totalCost": "$529,560",
+      "currentYearEF0": "($529,560)",
+      "briefDescription": "Promotional Marketing to provide services described in Attachments 1 - 12.",
+      "implementor": "Deborah L. Jones",
+      "glCode": [
+        "04-73-4603-8390-859",
+        "04-73-3403-8360-859"
+      ],
+      "rc": "Contract 1002-23-00"
+    },
+    "reviewRouting": [
+      {
+        "department": "Asset & Risk",
+        "initials": "",
+        "signature": "",
+        "date": ""
+      },
+      {
+        "department": "Asset Finance",
+        "initials": "S. Sorrell",
+        "signature": "",
+        "date": "4/24"
+      },
+      {
+        "department": "Fin. Services",
+        "initials": "JEL/JKA/RS",
+        "signature": "RS",
+        "date": "5/2"
+      },
+      {
+        "department": "Fin. Ser. Marketing",
+        "initials": "JKA",
+        "signature": "JKA",
+        "date": "4/23"
+      },
+      {
+        "department": "Finance",
+        "initials": "",
+        "signature": "",
+        "date": ""
+      },
+      {
+        "department": "Brand Marketing",
+        "initials": "MLP",
+        "signature": "",
+        "date": ""
+      }
+    ],
+    "approvedBy": "E. M. Blackmer",
+    "returnTo": {
+      "name": "Jayne K. Appleyard",
+      "department": "Fin. Serv.-Marketing",
+      "location": "6th Floor Rey Bldg."
+    },
+    "note": "The Document Originator must maintain on file a copy of the signed document clearance sheet in accordance with established Company records retention schedules."
+  }
 }

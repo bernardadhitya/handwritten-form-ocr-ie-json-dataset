@@ -1,18 +1,34 @@
 {
-    "Date": "JAN 16",
-    "Time": "03:23PM",
-    "Location": "KANSAS City",
-    "Company": "SHOOK,HARDY &BACON",
-    "Address": "ONe KANSAS City PLACE",
-    "Phone": {
-        "Law Offices": "(318) 474.3530",
-        "Tobacco Matters": "(816) 421-2708"
+  "date": "1-16-92",
+  "time": "",
+  "location": "",
+  "page": "",
+  "law_office": {
+    "name": "",
+    "address": "",
+    "contact": {
+      "phone": "",
+      "telecopy_number_for_tobacco_matters": ""
     },
-    "Delivery Instructions": {
-        "To": "InmuL ([otaneL/ dhamat_ESabsll: bamnL_Eblut bbuLl one EdelasaL Gzur EusLL ~Efek Fron: Zoa Lhbth Date: LLh-9z_",
-        "Additional Copies": "RUSH 03",
-        "Additional Delivery Instructions": "Please call to discuss immediately after review",
-        "Transmitting From": "RICOH RAPICOH 830 (GROUP III)",
-        "Contact in Case of Problems": "(816) 474-6550"
-    }
+    "other_offices": [
+      ""
+    ]
+  },
+  "telecopy_transmission": {
+    "pages_including_cover": "",
+    "confidentiality_notice": ""
+  },
+  "delivery_instructions": {
+    "to": "James Roland, John Thomas Borrell, Thomas Humber, Denise Keane, Mr. Robert Paget, Steve Cabrillo, Patricia Tyson",
+    "recipient": "",
+    "from": "Zoe Almeyer",
+    "date": "1-16-92",
+    "additional_copies_to": "",
+    "additional_delivery_instructions": "RUSH\n[ ] Please call to discuss immediately after review"
+  },
+  "transmission_details": {
+    "device": "",
+    "contact_for_issues": ""
+  },
+  "operator": ""
 }

@@ -1,56 +1,33 @@
 {
-    "Code d'envoi": {
-        "Questionnaire": {
-            "Identite fictive": {
-                "Nom": "Jac4Es;",
-                "Prenom": "RoNAcd",
-                "Adresse": "CHETN DE. L4 UALETTE.",
-                "Code postal": "[83451903",
-                "Ville": "Brune Sur: ARGENs:",
-                "Tel": "4 3"
-            },
-            "Scenario": {
-                "Categorie": "~ReLANCE: DE CAurrcer Sans RePonSE",
-                "Objet": "VOTRE D.EHANDE DINFORDATEON. DU_ILOCS_O.ERNIER LSI RESIEE SANS:_EEEET",
-                "Complement": "Auc",
-                "Reference client eventuelle": "Interlocuteur La_ REBALTE",
-                "Adresse": {
-                    "Rue": "GranDe Rve",
-                    "Code postal": "15,8440",
-                    "Ville": "N.OHaiN"
-                }
-            },
-            "Redaction": {
-                "Type de stylo (noir) utilise": [
-                    "bille",
-                    "plume",
-                    "feutre"
-                ],
-                "Temps passe a traiter le scenario": "60 minutes."
-            },
-            "Contribution": {
-                "Elements": [
-                    {
-                        "(6€) Jenvoie mon courrier par voie postale a la date du": "03.L.0.9/.28.1"
-                    },
-                    {
-                        "(+2e) Mon courrier contient une page de garde de fax": null
-                    },
-                    {
-                        "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le": null
-                    },
-                    {
-                        "(+1e) Jai envoye par courriel mon courrier numerise le": null
-                    }
-                ],
-                "Marque et modele du scanner": null,
-                "Format": [
-                    "PNG",
-                    "GIF",
-                    "TIFF"
-                ],
-                "Resolution des images": "dpilppp JRO C Que."
-            }
-        }
-    }
+  "Code d'envoi": "SRL6YR",
+  "Nom": "JACQUES",
+  "Prénom": "RONALD",
+  "Adresse": "CHEMIN DE LA VALETTE",
+  "Code Postal": "83520",
+  "Ville": "ROQUEBRUNE SUR ARGENS",
+  "Téléphone": "0714782347",
+  "Catégorie Scénario": "RELANCE DE COURRIER SANS RÉPONSE",
+  "Objet Scénario": "VOTRE DEMANDE D’INFORMATION DU MOIS DERNIER EST RESTÉE SANS EFFET",
+  "Complément Scénario": "AUCUN",
+  "Référence client": "IXQ0D86",
+  "Interlocuteur": "LA REBOUTE",
+  "Adresse Interlocuteur": "RUE GRANDE RUE",
+  "Code Postal Interlocuteur": "58410",
+  "Ville Interlocuteur": "NOHAIN",
+  "Temps passé": "60",
+  "Stylo bille": "x",
+  "Stylo plume": "",
+  "Stylo feutre": "",
+  "Contribution postale": "x",
+  "Date d'envoi postal": "07/02/2007",
+  "Option Page de garde de fax": "",
+  "Option envoi par fax": "",
+  "Date d'envoi par fax": "",
+  "Option envoi par courriel": "",
+  "Date d'envoi par courriel": "",
+  "Résolution": "",
+  "Format PNG": "",
+  "Format GIF": "",
+  "Format TIFF": "",
+  "Marque et modèle scanner": ""
 }

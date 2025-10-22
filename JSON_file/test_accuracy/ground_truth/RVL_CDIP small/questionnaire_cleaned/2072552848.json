@@ -1,86 +1,43 @@
 {
+  "survey": {
+    "title": "Survey Form",
     "questions": [
-        {
-            "id": 1,
-            "text": "Have you seen advertisements placed by the Tobacco Institute concerning suokers and nonsuokers?"
-        },
-        {
-            "id": 2,
-            "text": "How many of such ads have you seen?"
-        },
-        {
-            "id": 3,
-            "text": "Do you think the ads present a fair and accurate picture?"
-        },
-        {
-            "id": 4,
-            "text": "Do you think the ads are unfair and deceptive?"
-        },
-        {
-            "id": 5,
-            "text": "Have the ads affected the views of smokers concerning the issue of their relationship with nonsmokers?"
-        },
-        {
-            "id": 6,
-            "text": "Have the ads affected the views of nonsmokers concerning the issue of their relationship with smokers?"
-        },
-        {
-            "id": 7,
-            "text": "Should the Tobacco Institute be prohibited from continuing to fund these advertisements?"
-        },
-        {
-            "id": 8,
-            "text": "Should the Tobacco Institute be required to present corrective statements to the public in future ads?"
-        },
-        {
-            "id": 9,
-            "text": "Are you a smoker?"
-        },
-        {
-            "id": 20,
-            "text": "Do you have any other comments or suggestions concerning this matter?"
-        }
-    ],
-    "answers": [
-        {
-            "id": 1,
-            "answer": "Yes"
-        },
-        {
-            "id": 2,
-            "answer": "89%"
-        },
-        {
-            "id": 3,
-            "answer": "No"
-        },
-        {
-            "id": 4,
-            "answer": "Yes"
-        },
-        {
-            "id": 5,
-            "answer": "Yes"
-        },
-        {
-            "id": 6,
-            "answer": "Yes"
-        },
-        {
-            "id": 7,
-            "answer": "Yes"
-        },
-        {
-            "id": 8,
-            "answer": "Yes"
-        },
-        {
-            "id": 9,
-            "answer": "Yes"
-        },
-        {
-            "id": 20,
-            "answer": "If so, please state"
-        }
+      {
+        "question": "Have you seen advertisements placed by the Tobacco Institute concerning smokers and nonsmokers?",
+        "response": "Yes 88% 127"
+      },
+      {
+        "question": "Based upon your own knowledge and experience, do you think the ads present a fair and accurate picture?",
+        "response": "Yes 62% 117 No 30% 37"
+      },
+      {
+        "question": "Based upon your own knowledge and experience, do you think the ads are unfair and deceptive?",
+        "response": "Yes 95% 82 No 47%"
+      },
+      {
+        "question": "Based upon your own knowledge and experience, do you think the ads have affected the views of smokers concerning the issue of their relationship with nonsmokers?",
+        "response": "Yes 44% 217 No 24% 17%"
+      },
+      {
+        "question": "Based upon your own knowledge and experience, do you think the ads have affected the views of nonsmokers concerning the issue of their relationship with smokers?",
+        "response": "Yes 77% 45% No 33%"
+      },
+      {
+        "question": "Do you think the Tobacco Institute should be prohibited from continuing to run these ads?",
+        "response": "Yes 19% 25% 5%"
+      },
+      {
+        "question": "Do you think the Tobacco Institute should be required to present corrective statements to the public in future ads?",
+        "response": "Yes 38% 6% 5%"
+      },
+      {
+        "question": "Are you a smoker?",
+        "response": "Yes 17% No 99%"
+      },
+      {
+        "question": "Do you have any other comments or suggestions concerning this matter? If so, please state it:",
+        "response": "...  THE CF ...  THE"
+      }
     ]
+  }
 }

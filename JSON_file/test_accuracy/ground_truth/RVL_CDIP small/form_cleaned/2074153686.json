@@ -1,12 +1,15 @@
 {
-    "Company": "GoLD AND LIEBENGOOD",
-    "Address": "SUIte 950, 1455 PENNSYLVANIA AvENUE_, N,w, WASHINGTON, 20004",
-    "Phone": "(202) 639 8899",
-    "Fax": "(202) 639-8972",
-    "Recipient": "Ykx",
-    "Sender": "lloeZN",
-    "Date": "DATE",
-    "FaxNumber": "FAX NUMBER",
-    "NumberOfPages": "NUMBER OF PAGES",
-    "Message": "If you do not receive tha entira fax, please contact us at (202) 639-8899"
+  "company": "GOLD AND LIEBENGOOD",
+  "suite": "950",
+  "address": "455 PENNSYLVANIA AVENUE, N.W., WASHINGTON, D.C. 20004",
+  "phone": "(202) 639-8899",
+  "fax": "(202) 639-8972",
+  "fax_cover_sheet": {
+    "please_deliver_to": "D. Durkin",
+    "from": "MK Morin",
+    "date": "12/8",
+    "fax_number": "",
+    "number_of_pages": "11 (Including Cover)",
+    "message": ""
+  }
 }

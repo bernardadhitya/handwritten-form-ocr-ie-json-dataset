@@ -1,8 +1,14 @@
 {
-    "structured_information": {
-        "Bank": "BANQUE",
-        "Address": "123 RUE SPECIHEN, 75 015 Paris",
-        "Amount": "Eight_Thousand_Three Hundred",
-        "Signature": "Hzza"
-    }
+  "bank": "",
+  "amount_in_words": "Eight Thousand Three Hundred and Eighty Nine",
+  "amount_in_numbers": 8389,
+  "payee": "Françoise Lapierre",
+  "account_number": "1523600060070008545636-0000256",
+  "location": "Las Vegas",
+  "signature": "M. MARTIN",
+  "address": "123 RUE SPECIMEN, 75015 PARIS",
+  "cheque_number": "000036",
+  "code": "000060",
+  "date": "06/05/22",
+  "cheque_out_number": ""
 }

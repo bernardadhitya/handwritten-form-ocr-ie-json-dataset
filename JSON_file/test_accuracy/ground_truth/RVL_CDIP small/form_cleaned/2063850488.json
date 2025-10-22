@@ -1,19 +1,26 @@
 {
-  "instructions": "You will be given two coded cigarettes. 1. Which cigarette has the most mouth fullness? 3. Which cigarette has the most cigarette taste? ONLY ONE cigarette per question. 2. Which cigarette is the harshest? AROyn",
-  "test_type": "CHOICE TEST",
-  "date": "th/01/L",
+  "instructions": "You will be given two coded cigarettes. Smoke both cigarettes in the order coded below. Then answer each question below by marking an X in the appropriate box. You MUST choose ONE and ONLY ONE cigarette per question.",
+  "test_type": "BETA 2-ALTERNATIVE FORCED CHOICE TEST",
+  "date": "7/10/97",
   "questions": [
     {
-      "question": "Which cigarette has the most mouth fullness?"
+      "question": "Which cigarette has the most mouth fullness?",
+      "answer": "96"
     },
     {
-      "question": "Which cigarette is the harshest?"
+      "question": "Which cigarette is the harshest?",
+      "answer": "46"
     },
     {
-      "question": "Which cigarette has the most cigarette taste?"
+      "question": "Which cigarette has the most cigarette taste?",
+      "answer": "46"
+    },
+    {
+      "question": "Which cigarette do you like the best?",
+      "answer": "46"
     }
   ],
   "thank_you_note": "THANK YOU FOR YOUR PARTICIPATION.",
-  "name": "NAME:",
+  "name": "Carolyn Keene",
   "id": "2063850488"
 }

@@ -1,14 +1,30 @@
 {
-    "Article": {
-        "Description": "REGISTERED",
-        "Addressed To": "Recondu Ccur Yan lwtlty_C4",
-        "Certified": "No",
-        "Insured": "No"
-    },
-    "Delivery": {
-        "Date": "5a80144",
-        "Signature": "JCLNazd",
-        "Address": "Comeldle oalt Tioven UHALE",
-        "Reason": "DELIVER BECAUSE"
-    }
+  "sender": "Complete items 1, 2, and 3.",
+  "returnTo": "Add your address in the RETURN TO space on reverse",
+  "serviceRequested": [
+    "Show to whom and date delivered",
+    "Show to whom, date, and address of delivery",
+    "RESTRICTED DELIVERY",
+    "Show to whom and date delivered",
+    "RESTRICTED DELIVERY",
+    "Show to whom, date, and address of delivery"
+  ],
+  "consultPostmasterForFees": "(CONSULT POSTMASTER FOR FEES)",
+  "articleAddressedTo": "Registrar - Recorder of Los Angeles County Los Angeles, CA",
+  "articleDescription": {
+    "registeredNo": "REGISTERED NO.",
+    "certifiedNo": "CERTIFIED NO.",
+    "insuredNo": "INSURED NO.",
+    "vNumber": "V1799"
+  },
+  "signature": {
+    "receivedBy": "I have received the article described above",
+    "addressee": "",
+    "authorized": ""
+  },
+  "dateOfDelivery": "",
+  "address": "Complete only if required",
+  "unableToDeliverBecause": "",
+  "clerks": "CLERK'S INITIALS",
+  "ma": ""
 }

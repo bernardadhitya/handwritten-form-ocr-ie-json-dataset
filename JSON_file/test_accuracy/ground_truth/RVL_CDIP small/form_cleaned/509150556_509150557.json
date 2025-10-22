@@ -1,62 +1,77 @@
 {
-    "SPECIFICATION": {
-        "DATE": "3/22/85",
-        "BRAND": "VANTAGE ULTRA 85 (Laser)",
-        "EFFECTIVE DATE START UP WITH CHANGE": "w/o 3/25/85",
-        "PACKAGE PREPARED BY": "James W. Davis",
-        "PHASE III": "COST CHANGE: YES",
-        "FINAL SPEC": "YES",
-        "SUB-BRAND NO.": {
-            "1980AM": "FRO 2228AJ",
-            "TYPE OF CHANGE": "Raise Dilution Target from 49% to 51%",
-            "OLD COLL_CODE": "Filter Tow",
-            "NEW COLL_CODE": "Wrap"
-        },
-        "BASIS FOR RECOMMENDATION": "Since April 1984 VANTAGE UL. LT. 85 has averaged 5 with target of 5",
-        "PURPOSE OF CHANGE": "To Lower Tar to Target",
-        "VERBAL CONCURRENCE": [
-            "E. Alderman",
-            "S.H. Lane",
-            "Carter",
-            "Manning",
-            "Pugh"
-        ],
-        "APPROVAL REQUIRED": {
-            "Brand": "Brand Manager (BVH or Designate)",
-            "Marketing": "ALL",
-            "MANUFACTURING CONTROLLERS": [
-                "B.V. Hardin",
-                "Isbister",
-                "R. L. Willard",
-                "McKenzie",
-                "Dale",
-                "Morgan",
-                "D.B. Self",
-                "Pugh",
-                "Alderman",
-                "Weller",
-                "Mabe",
-                "L. McGee",
-                "Brand Mgr-2",
-                "McCollem",
-                "Crouch",
-                "Smith",
-                "Plant Manager",
-                "J. S. Davis",
-                "Beeson",
-                "Pegram",
-                "Arledge",
-                "Hall",
-                "Specification File",
-                "Aldridge",
-                "QA Plant Manager",
-                "Lane",
-                "Reavis",
-                "Mik 26",
-                "LT. Plug",
-                "Sng",
-                "3mg"
-            ]
-        }
-    }
+  "specificationChangeNotice": {
+    "id": "",
+    "date": "3/22/85",
+    "brand": "VANTAGE ULTRA LT. 85 (Laser)",
+    "arReferenceNumber": "",
+    "effectiveDateStartUpWithChange": "W/O 3/25/85",
+    "changePreparedBy": "James W. Davis",
+    "phase": "",
+    "costChange": "NO",
+    "finalSpec": "X",
+    "subBrandNumber": {
+      "from": [
+        "1980AM",
+        "2228AJ"
+      ],
+      "to": [
+        "1980AM",
+        "2228AJ"
+      ]
+    },
+    "typeOfChange": "Raise Dilution Target from 49% to 51%",
+    "oldCommCode": {
+      "filterTow": "NA",
+      "plugWrapRefNo": "NA",
+      "cigtPaperRefNo": "NA",
+      "tippingRefNo": "NA"
+    },
+    "basisForRecommendation": "Since April, 1984, VANTAGE UL. LT. 85 has averaged 5.5mg with a target of 5.3mg. Attached is a plot that shows the tar since April, 1984. In order to reduce the number of samples that would be reported at 6.0mg, it is recommended to raise the dilution target.",
+    "purposeOfChange": "To Lower Tar to Target",
+    "verbalConcurrence": [
+      "W. E. Alderman",
+      "S. H. Lane",
+      "S. E. Carter",
+      "C. L. Manning",
+      "D. R. Pugh"
+    ],
+    "approval": {
+      "rAndD": "",
+      "bvhOrDesignateFromMarketing": ""
+    },
+    "departments": {
+      "manufacturing": [
+        "B.V. Hardin",
+        "D. K. Isbister",
+        "R. L. Willard",
+        "J. L. McKenzie",
+        "A. V. Dale",
+        "R. L. Morgan",
+        "D. L. Weller",
+        "D.B. Self",
+        "D. R. Pugh",
+        "W. E. Alderman",
+        "J. W. Mabe",
+        "R. L. McGee"
+      ],
+      "brandMgr2": [
+        "S. T. McCollem",
+        "J. S. Davis, Jr.",
+        "K. W. Smith",
+        "D. F. Beeson",
+        "J. R. Pegram",
+        "T. A. Hall"
+      ],
+      "comptrollers": [
+        "E. D. Arledge",
+        "G. L. Aldridge"
+      ],
+      "qaPlantManager": [
+        "S. H. Lane",
+        "S. L. Reavis"
+      ]
+    },
+    "code": "",
+    "additionalCode": ""
+  }
 }
