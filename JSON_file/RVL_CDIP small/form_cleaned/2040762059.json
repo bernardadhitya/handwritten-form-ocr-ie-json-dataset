@@ -1,0 +1,57 @@
+{
+  "contract": {
+    "contract_number": "",
+    "title": "TDI Advertising Contract",
+    "year": 1981,
+    "advertiser": "PHILIP MORRIS U.S.A.",
+    "medium": [
+      "Kiosk",
+      "Car Cards",
+      "Posters",
+      "Timetables",
+      "Dioramas",
+      "Exhibits",
+      "Island: Showcase",
+      "Other",
+      "Clocks"
+    ],
+    "display_size": "20\" x 45\"",
+    "showing_size": "Twenty (20) Locations",
+    "locations": 20,
+    "term": {
+      "start_date": "January 1, 1982",
+      "duration": "Three Years",
+      "rate": {
+        "first_year": 1701.0,
+        "second_year": 1786.0,
+        "third_year": 1875.0
+      },
+      "rate_increase_limit": 5
+    },
+    "payment": {
+      "amount": 1701.0,
+      "frequency": "Per Month",
+      "advance": true
+    },
+    "copy_changes": "Monthly or less frequently at the advertiser discretion",
+    "service_charges": "When applicable, will be billed separately",
+    "agency_commission": 15,
+    "remarks": "SUBJECT TO 15% AGENCY COMMISSION only. All costs of copy and production at the advertisers expense. See Attachment \"A\"",
+    "conditions": ""
+  },
+  "agency": {
+    "name": "Leo Burnett Company U.S.A.",
+    "accepted_by": "TRANSPORTATION DISPLAYS, INC.",
+    "address": {
+      "street": "Prudential Plaza",
+      "city": "Chicago",
+      "state": "Illinois",
+      "zip": "60601"
+    },
+    "sales_representative": "Pamela J. Richards",
+    "telephone_number": "(312) 565 - 5959",
+    "sales_office": "New York",
+    "contract_no": "",
+    "advertiser_agency_copy": true
+  }
+}

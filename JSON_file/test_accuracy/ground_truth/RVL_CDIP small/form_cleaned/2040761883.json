@@ -10,63 +10,44 @@
         "name": "Foster & Kleiser",
         "address": "120 Interstate No. Pkwy.-East, Suite 200, Atlanta, GA 30339"
       },
-      "contract_no": "CAPITAL 15-3",
-      "advertiser": {
-        "name": "Philip Morris, Inc.",
-        "referred_as": "Company"
-      },
+      "contract_no": "CAPITAL 45-3",
+      "advertiser": "Philip Morris, Inc.",
       "product": "TOBACCO - 6th Pool",
-      "initial_renewal": "Initial",
-      "trading_area": "360",
+      "initial_renewal": "INITIAL",
       "market": "ATLANTA, GA",
       "location": "1184 CAPITAL",
       "size": "14' X 42'",
-      "illumination": "Yes",
+      "illumination": "NO",
       "contract_period": {
         "start": "1/1/82",
-        "end": "12/31/84",
-        "rate_information": [
-          {
-            "period": "1/1/82 THRU 12/31/82",
-            "rate": "$1,800.00"
-          },
-          {
-            "period": "1/1/83 THRU 12/31/83",
-            "rate": "$1,962.00"
-          },
-          {
-            "period": "1/1/84 THRU 12/31/84",
-            "rate": "$2,138.58"
-          }
-        ],
-        "gross_monthly_cost": "SEE",
-        "annual_anniversary_date": "JANUARY 1"
+        "end": "12/31/84"
       },
-      "cancellation_privileges": {
-        "notice_period": "60 DAYS",
-        "penalty": "WITHOUT PENALTY"
+      "rate_information": {
+        "1982": "$1,800.00",
+        "1983": "$1,962.00",
+        "1984": "$2,138.58"
       },
+      "gross_monthly_cost": "",
+      "cancellation_privileges": "ON ANY JANUARY 1 ANNIVERSARY DATE, UPON 60 DAYS ADVANCE NOTICE FROM AGENCY, WITHOUT PENALTY.",
+      "discounted_monthly_cost": "",
       "copy_changes": {
-        "complete_painting": "3 complete paintings, including the initial, annually",
-        "partial_posting": "6 posting of posted portion and 3 paintings of painted portion, including the initial, annually",
-        "complete_posting": "6 posting, including the initial, annually"
+        "complete_painting": "If this bulletin is to be completely painted there will be 3 complete paintings, including the initial, annually, or;",
+        "partial_posting": "If this bulletin is to be partially posted there will be 6 posting of posted portion and 3 paintings of painted portion, including the initial, annually, or;",
+        "complete_posting": "If this bulletin is to be completely posted, there will be 6 posting, including the initial, annually."
       },
       "extensions": {
         "above": "51 Ft.",
         "below": "",
         "each_side": ""
       },
-      "special_instructions": "THE ABOVE UNIT IS SUBJECT TO THE APPROVAL OF AGENCY REPRESENTATIVE UPON ITS COMPLETION. ALSO, TREES OBSTRUCTING UNIT MUST BE REMOVED."
-    },
-    "accepted": {
-      "agency": "LEO BURNETT COMPANY, INC.",
-      "representative": "",
-      "company": ""
-    },
-    "shipping_address": "SA AS ABOVE",
-    "billing_information": {
-      "send_invoices_to": "ACCOUNTING DEPT. SECT. B"
-    },
-    "client_copy": ""
+      "special_instructions": "THE ABOVE UNIT IS SUBJECT TO THE APPROVAL OF AGENCY REPRESENTATIVE UPON ITS COMPLETION. ALSO, TREES OBSTRUCTING UNIT MUST BE REMOVED.",
+      "accepted": {
+        "agency": "LEO BURNETT COMPANY, INC.",
+        "representative": "",
+        "company": ""
+      },
+      "shipping_address": "SA AS ABOVE",
+      "billing_information": "SEND INVOICES ONLY TO ACCOUNTING DEPT. SECT. B"
+    }
   }
 }
