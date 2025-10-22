@@ -1,0 +1,48 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": null,
+        "Adresse": "Que_Delackoix",
+        "Code postal": null,
+        "Ville": null,
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": null,
+        "Vo": null,
+        "Complement": null,
+        "Reference client eventuelle": "Interlocuteur",
+        "Debit_Lyonncs_": {
+          "Adresse": null,
+          "Code postal": null,
+          "Ville": "VERDES"
+        },
+        "Redaction de stylo (noir) utilise": {
+          "bille": null,
+          "plume": false,
+          "feutre": false
+        },
+        "Temps passe a traiter le scenario": "15 minutes.",
+        "Contribution": {
+          "Jenvoie mon courrier par voie postale a la date du": null,
+          "Mon courrier contient une page de garde de fax": null,
+          "Avant mon envoi postal, j'ai telecopie ma contribution le": true,
+          "J'ai envoye par courriel mon courrier numerise le": null
+        },
+        "Marque et modele du scanner": null,
+        "Format": [
+          null,
+          null,
+          null
+        ],
+        "Resolution des images": null,
+        "facture": null,
+        "Bonque": null,
+        "Type": null
+      }
+    }
+  }
+}

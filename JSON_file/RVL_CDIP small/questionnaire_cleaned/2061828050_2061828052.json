@@ -1,23 +1,20 @@
 {
-    "lcte": "N0 mmal",
-    "permit_number": "1895",
-    "city": "Sioux Falls",
-    "state": "SD",
-    "zip_code": "57117-9657",
-    "business_reply_mail": {
-        "first_class_mail": true,
-        "postage_paid_by_addressee": true,
-        "no_postage_necessary_if_mailed_in_us": true
-    },
-    "addressee": {
-        "name": "Marlboro",
-        "po_box": "5503",
-        "city": "Sioux Falls",
-        "state": "SD",
-        "zip_code": "57117-9657"
-    },
-    "tracking_numbers": [
-        "2061828050",
-        "2061828051"
-    ]
+  "lcte": "NO mail",
+  "permit_number": "",
+  "city": "",
+  "state": "",
+  "zip_code": "",
+  "business_reply_mail": {
+    "first_class_mail": false,
+    "postage_paid_by_addressee": false,
+    "no_postage_necessary_if_mailed_in_us": false
+  },
+  "addressee": {
+    "name": "Screamers",
+    "po_box": "",
+    "city": "",
+    "state": "",
+    "zip_code": ""
+  },
+  "tracking_numbers": []
 }

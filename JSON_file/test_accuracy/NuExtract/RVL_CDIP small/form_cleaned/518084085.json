@@ -1,19 +1,28 @@
 {
-  "store_number": "71467797.3",
-  "store_name": "FROMRFnols Tob.",
-  "location": {
-    "address": "6376",
-    "city": "Riversidc",
-    "state": "CA",
-    "zip_code": "92507"
-  },
-  "promotions": [
-    "IST.OTR.1997",
-    "CAMEL$0.30OFF1PACK.#700077",
-    "DISPLAYQUANTITIES DRA$0.3F1PACK#700074"
-  ],
-  "general_manager": {
-    "name": "Sam's Club",
-    "sales_reps_name": "4085"
-  }
+    "store_number": "7443X",
+    "store_name": "SAMS CLUB",
+    "location": {
+        "address": "6363 Valley Springs",
+        "city": "Riverside",
+        "state": "CA",
+        "zip_code": "92507"
+    },
+    "promotions": [
+        {
+            "product": "CAMEL",
+            "discount_amount": "$0.30",
+            "pack_number": "700077",
+            "display_quantities": "50"
+        },
+        {
+            "product": "DORAL",
+            "discount_amount": "$0.30",
+            "pack_number": "700074",
+            "display_quantities": "50"
+        }
+    ],
+    "general_manager": {
+        "name": "Trick",
+        "sales_reps_name": "Omar"
+    }
 }

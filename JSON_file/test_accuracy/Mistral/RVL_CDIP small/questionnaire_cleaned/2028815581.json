@@ -1,27 +1,27 @@
 {
-  "SESSION": "PREP STUDY",
-  "DATE": "NAES",
-  "CIGARETTE": {
-    "LAST CIGARETTE": "/C5",
-    "LAST CAFFEINE": "Has low mouth and throat impact, Has an unusual flavor, Is not at all satisfying, I dislike"
-  },
-  "DEPRIVATION": {
-    "HOURS_NICOTINE": "2 HOURS",
-    "HOUR_CAFEEINE": "1 HOUR"
-  },
-  "LIKES": {
-    "mouth": "Is very satisfying",
-    "flavor": null,
-    "taste": null,
-    "coating": "Is very satisfying",
-    "satisfying": "I like extremely"
-  },
-  "DISLIKES": {
-    "taste": "[ 'throat impact', 'off-taste' ]",
-    "menthol": "[ 'Has very little menthol' ]"
-  },
-  "MENTHOL": {
-    "amount": "[ 'Has a lot of menthol' ]",
-    "cooling": "[ 'Has a lot of cooling' ]"
-  }
+    "SESSION": "REGULARBRAND",
+    "DATE": "@",
+    "CIGARETTE": {
+        "LAST CIGARETTE": "LC:SQ",
+        "LAST CAFFEINE": "1 &:OC"
+    },
+    "DEPRIVATION": {
+        "HOURS_NICOTINE": "HQURS_NICOTINE",
+        "HOUR_CAFEEINE": "HOUR_CAFEEINE"
+    },
+    "LIKES": {
+        "mouth": "Has high mouth and throat impact",
+        "flavor": "Has unusual flavor",
+        "taste": "Strong off-taste",
+        "coating": "Very mouthcoating",
+        "satisfying": "Satisfying"
+    },
+    "DISLIKES": {
+        "taste": "Off-taste",
+        "menthol": "Extremely mentholated"
+    },
+    "MENTHOL": {
+        "amount": "Very little",
+        "cooling": "Cooling"
+    }
 }

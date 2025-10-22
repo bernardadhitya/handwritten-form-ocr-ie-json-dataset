@@ -1,46 +1,48 @@
 {
-  "Code d'envoi": {
-    "Questionnaire": {
-      "Identite fictive": {
-        "Nom": "ASSON",
-        "Prenom": null,
-        "Adresse": null,
-        "Code postal": "L83Jn7O",
-        "Ville": "0400349758",
-        "Tel": null
-      },
-      "Scenario": {
-        "Categorie": "tr...kc.amatiom...d...m...oenue..es.",
-        "de_celpuien_san_Rioene": "neste...ams....swbe.",
-        "cleex": "GB>ws60"
-      },
-      "Jeatee": null,
-      "Complement": "O...Ccm..",
-      "Reference client eventuelle": null,
-      "Adresse": "Interlocuteur ..e.dom.a.das...o...Cou....",
-      "Code postal": "LO38O",
-      "Ville": "S...C.Y.&..su...ME.N.T.HOM"
-    },
-    "Redaction": {
-      "Type de stylo (noir) utilise": [
-        "bille plume feutre"
-      ],
-      "Temps passe a traiter le scenario": null
-    },
-    "Contribution": {
-      "Cocher les elements de votre contribution pour le scenario traite": {
-        "(6€) J'envoie mon courrier par voie postale a la date du 2AIAol eos": null,
-        "(+2€) Mon courrier contient une page de garde de fax": null,
-        "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le": null,
-        "(+1€) Jai envoye par courriel mon courrier numerise le": null
-      },
-      "Marque et modele du scanner": "LO",
-      "Format": [
-        "PNG",
-        "GIF",
-        "TIFF"
-      ],
-      "Resolution des images": "ddd!dp"
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "HASSON",
+                "Prenom": "Zadi&",
+                "Adresse": "quantien_de;_Le_RIBLE",
+                "Code postal": "83470",
+                "Ville": "LA CELLEL",
+                "Tel": "8"
+            },
+            "Scenario": {
+                "Categorie": "Relance.",
+                "de_celpuien_san_Rioene": "Objet_Vtne_RcQamalen_dx__msus_",
+                "cleex": "2"
+            },
+            "Jeatee": "Sn",
+            "Complement": "QuCun",
+            "Reference client eventuelle": "Interlocuteur Hekdemadouure_ CeeCe.",
+            "Adresse": "LE__ Boure",
+            "Code postal": "014,3.80",
+            "Ville": "S_CXR 3k. HENIHQN"
+        },
+        "Redaction": {
+            "Type de stylo (noir) utilise": [
+                "bille",
+                "plume",
+                "feutre"
+            ],
+            "Temps passe a traiter le scenario": "20 minutes"
+        },
+        "Contribution": {
+            "Cocher les elements de_votre contribution pour le scenario traite": {
+                "(6€) J'envoie mon courrier par voie postale a la date du 2AIAol eos": true,
+                "(+2€) Mon courrier contient une page de garde de fax": true,
+                "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le": true,
+                "(+1€) Jai envoye par courriel mon courrier numerise le": true
+            },
+            "Marque et modele du scanner": null,
+            "Format": [
+                "PNG",
+                "GIF",
+                "TIFF"
+            ],
+            "Resolution des images": "dpilppp"
+        }
     }
-  }
 }

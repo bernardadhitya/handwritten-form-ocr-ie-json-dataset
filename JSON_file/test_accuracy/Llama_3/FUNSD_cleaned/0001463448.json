@@ -1,21 +1,21 @@
 {
-  "company": "BROWN & WILLIAMSON",
-  "year": "1994",
-  "collection": "COLLECTION",
-  "bates_id": "670805266",
-  "notations": {
-    "page_numbers_missing": "PAGE NUMBER(S) WERE MISSING IN THE ORIGINAL.",
-    "poor_quality_original": "POOR QUALITY ORIGINAL.",
-    "overlay_item_damage": "OVERLAY ITEM COULD NOT BE REMOVED WITHOUT DAMAGE TO THE ORIGINAL.",
-    "no_documents_found": {
-      "file_folder": "FILE FOLDER (.).",
-      "redrope_expandable_file": "REDROPE EXPANDABLE FILE (.).",
-      "hanging_file": "HANGING FILE (.).",
-      "envelope": "ENVELOPE (.).",
-      "other": "OTHER (SPECIFY) (.)."
-    },
-    "color_reproduction": "DOCUMENT COPIES WERE REPRODUCED IN COLOR TO PERMIT CORRECTION INTERPRETATION.",
-    "bates_number_not_used": "BATES NUMBER NOT USED.",
-    "other_variance": "OTHER VARIANCE (EXPLAIN)."
-  }
+    "company": "BROWN & WILLIAMSON",
+    "year": 1994,
+    "collection": "PHOTOCOPYING VARIANCE FORM",
+    "bates_id": "ID_7",
+    "notations": {
+        "page_numbers_missing": false,
+        "poor_quality_original": false,
+        "overlay_item_damage": false,
+        "no_documents_found": {
+            "file_folder": false,
+            "redrope_expandable_file": false,
+            "hanging_file": false,
+            "envelope": false,
+            "other": false
+        },
+        "color_reproduction": false,
+        "bates_number_not_used": false,
+        "other_variance": false
+    }
 }

@@ -1,0 +1,80 @@
+{
+    "survey": {
+        "id": "hn-c9",
+        "phone_number": "8123810000",
+        "code": "3290020",
+        "hours": "8-17",
+        "name": "NAME/AD SURVEY",
+        "type": "SCREENER",
+        "respondent": {
+            "id": "1819",
+            "name": "ALI",
+            "state": "",
+            "address": "",
+            "area_code": "2",
+            "phone_number": "",
+            "date": "",
+            "interviewed_by": ""
+        },
+        "introduction": "Hello, I'm from a local marketing research company. We're conducting a survey today and I'd like to ask you a few questions.",
+        "questions": [
+            {
+                "id": 1,
+                "text": "First, do you or does any member of your family work for",
+                "options": [
+                    "An automobile manufacturer",
+                    "A food processing company",
+                    "An advertising agency",
+                    "A newspaper or magazine",
+                    "A tobacco manufacturer",
+                    "An insurance company",
+                    "A marketing research company"
+                ],
+                "terminate_if_checked": [
+                    "A newspaper or magazine",
+                    "A tobacco manufacturer"
+                ]
+            },
+            {
+                "id": 2,
+                "text": "Have you participated in a marketing research study in the past 6 months involving..",
+                "options": [
+                    "Beer",
+                    "Soft drinks",
+                    "Cigarettes"
+                ],
+                "terminate_if_checked": [
+                    "Cigarettes"
+                ]
+            },
+            {
+                "id": 3,
+                "text": "Which of the following products do you, yourself, use? Just tell me yes or no as I read them.",
+                "options": [
+                    "Soft drinks",
+                    "Wine",
+                    "Beer",
+                    "Pipe tobacco",
+                    "Cigarettes"
+                ],
+                "continue_if_checked": [
+                    "Soft drinks",
+                    "Wine",
+                    "Beer",
+                    "Pipe tobacco",
+                    "Cigarettes"
+                ]
+            }
+        ],
+        "additional_info": {
+            "code": "50608",
+            "less_than_10": "TERMINATEERASE &RE-USE",
+            "code_2": "8863",
+            "10_or_more": "",
+            "respondent_sex": {
+                "male": "20",
+                "female": ""
+            }
+        }
+    }
+}

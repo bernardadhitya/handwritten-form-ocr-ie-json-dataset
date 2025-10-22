@@ -1,0 +1,57 @@
+{
+  "Code denvoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": "Lquolmne",
+        "Adresse": {
+          "Code": 33,
+          "Ville": null,
+          "Tel": 38
+        }
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": null,
+        "ConCeAMQn": null,
+        "pKAluon": null,
+        "Complement": null,
+        "Reference client eventuelle": null
+      },
+      "Interlocuteur": {
+        "Qnle_": null,
+        "Loo": {
+          "Adresse": {
+            "Code": null,
+            "Ville": null,
+            "Tel": null
+          }
+        }
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          null,
+          "plume",
+          "feutre"
+        ],
+        "Temps a traiter le scenario": "10 minutes"
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le scenaro traite": {
+          "(6E)": null,
+          "(2_/22.)": null,
+          "+2C": "Avant mon envoi postal, j'ai telecopie ma contribution le",
+          "Ao loz ll": null,
+          "(+1€)": null,
+          "Marque et modele du scanner": null,
+          "Format": [
+            null,
+            null,
+            null
+          ],
+          "Resolution des images": "dpilppp"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": "Merhco",
+        "Adresse": null,
+        "Code postal": "54LHL21_",
+        "Ville": null,
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": "Selacecle caurier",
+        "Objet": null,
+        "Complement": null,
+        "Reference client eventuelle": null,
+        "Interlocuteur": {
+          "NAIE": "-Assuronoa",
+          "Adresse": null,
+          "Code postal": null,
+          "Ville": null
+        },
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            null,
+            "plume",
+            null
+          ],
+          "Temps passe a traiter le scenario": null
+        },
+        "Contribution": {
+          "Cocher les_elements de_votre contribution pour le_ scenario traite": {
+            "(6€) Jenvoie mon courrier par voie postale a la date du": null,
+            "(+2e) Mon courrier contient une page de garde de fax": null,
+            "(+1e) Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+            "(+1€) J'ai envoye par courriel mon courrier numerise le": null
+          },
+          "Marque et modele du scanner": null,
+          "Format": [
+            "PNG",
+            null,
+            null
+          ],
+          "Resolution des images": null
+        }
+      }
+    }
+  }
+}

@@ -1,40 +1,47 @@
 {
-  "Code d'envoi": {
-    "Questionnaire": "psuses",
-    "Identite fictive": {
-      "Nom": "REV.i.LLE",
-      "Prenom": "BRoMo",
-      "Adresse": "SA3&oVille ....F..E.1..S..ROfC",
-      "Code postal": "4 4 4 8o",
-      "Ville": "GES",
-      "Tel": null
-    },
-    "Scenario": {
-      "Categorie": "ff.cwti..co...paemnt",
-      "Objet": "em.ance.......Remi....gracose",
-      "Complement": "a.t...en.etem....s...ee....wo..mpa.as.t....",
-      "Reference client eventuelle": null,
-      "Interlocuteur": "aee.......mft",
-      "Adresse": null,
-      "Code postal": "4 4 4 8o",
-      "Ville": "GES"
-    },
-    "Redaction": {
-      "Type de stylo (noir) utilise": [
-        "bille plume feutre"
-      ],
-      "Temps passe a traiter le scenario": "...S... minutes"
-    },
-    "Contribution": {
-      "Cocher les elements de votre contribution pour le_scenario traite": [
-        "6ei J'envoie mon courier par voie postale a la date du .......... (+2€) Mon courrier contient une page de garde de fax.",
-        "Avant mon envoi postal, j'ai télécopié ma contribution le .. (+1€) Avant mon envoi postal, j'ai télécopié ma contribution le ..",
-        "J'ai envoyé par couriel mon courier numérisé le .......... (+1e J'ai envoyé par couriel mon courier numérisé le .........."
-      ]
-    },
-    "Marque et modele du scanner": null,
-    "Format": [],
-    "Resolution des images": null,
-    "Paiemeut": null
-  }
+    "Code d'envoi": {
+        "Questionnaire": "€",
+        "Identite fictive": {
+            "Nom": "ErEviLe",
+            "Prenom": "3ROA",
+            "Adresse": "J+ Cienix DE . G E_LNG.",
+            "Code postal": "[5j431dl",
+            "Ville": "FRE._SYROFE",
+            "Tel": "3 4 414 sls 9"
+        },
+        "Scenario": {
+            "Categorie": "D_ Pgcslti .",
+            "Objet": "Qemaace de Qem?e gracieos",
+            "Complement": "Vob edettenut deem_ -Por.Jaut_",
+            "Reference client eventuelle": "44",
+            "Interlocuteur": "es2e2e 444. MAQL",
+            "Adresse": "Aue Vice Amical_",
+            "Code postal": "[44u48Lel",
+            "Ville": "DoalGes"
+        },
+        "Redaction": {
+            "Type de stylo (noir) utilise": [
+                "bille",
+                "plume",
+                "feutre"
+            ],
+            "Temps passe a traiter le scenario": "As: minutes."
+        },
+        "Contribution": {
+            "Cocher les elements de_votre contribution pour le_scenario traite": [
+                "(6€) Jenvoie mon courrier par voie postale a la date du 102 _",
+                "(+2€) Mon courrier contient une page de garde de fax:",
+                "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le 21_02.03",
+                "(+1€) Jai envoye par courriel mon courrier numerise le 46_0.2"
+            ]
+        },
+        "Marque et modele du scanner": "Canon 7P3e",
+        "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+        ],
+        "Resolution des images": "dpilppp",
+        "Paiemeut": "hap: ~eak Halgao\" Geo"
+    }
 }

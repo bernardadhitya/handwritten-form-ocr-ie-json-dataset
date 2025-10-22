@@ -1,0 +1,46 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": "SimaNg",
+        "Adresse": "Hmpale_des",
+        "Code postal": null,
+        "Ville": null,
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": null,
+        "Complement au": null,
+        "Interlocuteur": null,
+        "Adresse": null,
+        "Code postal": null,
+        "Ville": null,
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            null,
+            "plume",
+            null
+          ],
+          "Temps passe a traiter le scenario": null
+        },
+        "Contribution": {
+          "Cocher les elements de_votre contribution pour le scenario traite": [
+            "(6€) Jenvoie mon courrier par voie postale a la date du",
+            null,
+            "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+            null
+          ],
+          "Marque et modele du scanner": null,
+          "Format": [
+            null,
+            "GIF",
+            null
+          ],
+          "Resolution des images": "dpilppp"
+        }
+      }
+    }
+  }
+}

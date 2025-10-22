@@ -1,22 +1,22 @@
 {
-  "transaction": {
-    "type": null,
-    "bank": null,
-    "transaction_id": null,
-    "recipient": null,
-    "location": null,
-    "account": null,
-    "payer": null,
-    "reference": null,
-    "description": null,
-    "total_amount": 468,
-    "note": null,
-    "client_signature": null,
-    "cashier": null,
-    "approval": null,
-    "date": null,
-    "code": null,
-    "extra": null,
-    "number": 114
-  }
+    "transaction": {
+        "type": "VERSEMENTESPECES",
+        "bank": "BIAT",
+        "transaction_id": "907043",
+        "recipient": "Mancel Achen",
+        "location": "Ntrucht",
+        "account": "NeturelarCwa",
+        "payer": "Abdut Qais Khovri",
+        "reference": "R.1.B.",
+        "description": "FoaHundaedand Sipk Eig",
+        "total_amount": 468,
+        "note": "Nate deloptrotion",
+        "client_signature": "Signaturc du clicnt",
+        "cashier": "Caisse",
+        "approval": "Cocher ct visa de la AT",
+        "date": "06/05/22",
+        "code": "Vrad",
+        "extra": "es",
+        "number": 114
+    }
 }

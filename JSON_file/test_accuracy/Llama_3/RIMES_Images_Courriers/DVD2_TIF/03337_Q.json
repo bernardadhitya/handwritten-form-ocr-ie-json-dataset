@@ -1,0 +1,47 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": null,
+        "Adresse": null,
+        "Code": null,
+        "Ville": null,
+        "Tel": "3335"
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": null,
+        "Complement": null,
+        "Reference client eventuelle": "Interlocuteur.BAAE_ Assuranses",
+        "Adresse": "4-Rue:. ST_ALYRE_",
+        "Code": null,
+        "Ville": null
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          null,
+          null,
+          null
+        ],
+        "Temps passe a traiter le scenario": null,
+        "Contribution": {
+          "(GE) Jenvoie mon courrier par voie postale a la date du 03. mar?": null,
+          "(+2C) Mon courrier contient une page de de fax": null,
+          "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+          "(+1e) Jai envoye par courriel mon courrier numerise le": null,
+          "(GE) Jenvoie mon courrier par voie postale a la date du 03": {
+            " mar?": null
+          }
+        },
+        "Marque et modele du scanner": null,
+        "Format": [
+          "PNG",
+          null,
+          null
+        ],
+        "Resolution des images": null
+      }
+    }
+  }
+}

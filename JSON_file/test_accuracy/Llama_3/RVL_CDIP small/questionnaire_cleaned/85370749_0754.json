@@ -1,0 +1,154 @@
+{
+  "company": null,
+  "address": null,
+  "suite": null,
+  "date": "November, 1986",
+  "job_number": null,
+  "circle_quota": {
+    "colors": [
+      null,
+      "Green",
+      null
+    ],
+    "cities": [
+      {
+        "name": null,
+        "quota": null,
+        "gender": null,
+        "age_group": null,
+        "quota_number": null,
+        "quota_value": null
+      },
+      {
+        "name": null,
+        "quota": "(7)",
+        "gender": null,
+        "age_group": "35-59",
+        "quota_number": "RT",
+        "quota_value": null
+      }
+    ]
+  },
+  "study": null,
+  "screener": {
+    "respondent_name": null,
+    "area_code": null,
+    "telephone": "97-//3",
+    "city": "",
+    "state": null,
+    "zip_code": null,
+    "interviewer_name": null,
+    "interviewer_id": "",
+    "time_began": null,
+    "date": null,
+    "time_ended": null,
+    "am_pm": null,
+    "instructions": null,
+    "time_range": "12-15"
+  },
+  "introduction": null,
+  "questions": [
+    {
+      "question": null,
+      "answers": [
+        {
+          "response": "Yes",
+          "action": null
+        },
+        {
+          "response": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "question": "Have you, yourself, participated in a market research survey in the past year?",
+      "answers": [
+        {
+          "response": "Yes",
+          "action": "TERMINATE RECORD ON TALLY SHEET ERASE AND RE-USE"
+        },
+        {
+          "response": null,
+          "action": null
+        }
+      ]
+    },
+    {
+      "question": null,
+      "answers": [
+        {
+          "age_group": null,
+          "action": null
+        },
+        {
+          "age_group": null,
+          "action": null
+        },
+        {
+          "age_group": null,
+          "action": null
+        },
+        {
+          "age_group": null,
+          "action": null
+        },
+        {
+          "age_group": null,
+          "action": "QUALIFIES FOR 35-59 YEAR OLD QUOTA"
+        },
+        {
+          "age_group": null,
+          "action": null
+        },
+        {
+          "age_group": null,
+          "action": "QUALIFIES FOR 35-59 YEAR OLD QUOTA"
+        },
+        {
+          "age_group": null,
+          "action": "QUALIFIES FOR 35-59 YEAR OLD QUOTA"
+        },
+        {
+          "age_group": null,
+          "action": null
+        }
+      ]
+    }
+  ],
+  "cigarette_consumption": {
+    "instruction": null,
+    "categories": [
+      {
+        "cigarettes": "1-9",
+        "packs": "Less than 1/2 pack",
+        "action": null
+      },
+      {
+        "cigarettes": null,
+        "packs": "1/2 pack, but less than 1 pack",
+        "action": "ERASE AND RE-USE"
+      },
+      {
+        "cigarettes": null,
+        "packs": "1 pack, but less than 1-1/2 packs",
+        "action": "CONTINUE"
+      },
+      {
+        "cigarettes": null,
+        "packs": null,
+        "action": null
+      },
+      {
+        "cigarettes": null,
+        "packs": null,
+        "action": null
+      },
+      {
+        "cigarettes": null,
+        "packs": null,
+        "action": "CONTINUE"
+      }
+    ]
+  }
+}

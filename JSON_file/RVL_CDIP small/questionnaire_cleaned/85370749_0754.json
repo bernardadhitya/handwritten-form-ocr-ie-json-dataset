@@ -1,154 +1,158 @@
 {
-    "company": "Newman-Ste!n.Inc",
-    "address": "902 Broadway",
-    "suite": "03C0",
-    "date": "November, 1986",
-    "job_number": "2946B",
-    "circle_quota": {
-        "colors": [
-            "Blue",
-            "Green",
-            "Yellow"
-        ],
-        "cities": [
-            {
-                "name": "Minneapolis",
-                "quota": "(6)",
-                "gender": "Male",
-                "age_group": "18-34",
-                "quota_number": "S",
-                "quota_value": 90
-            },
-            {
-                "name": "Phoenix",
-                "quota": "(7)",
-                "gender": "Female",
-                "age_group": "35-59",
-                "quota_number": "RT",
-                "quota_value": 7
-            }
-        ]
-    },
-    "study": "CIGARETTE ATTITUDE STUDY",
-    "screener": {
-        "respondent_name": "",
-        "area_code": "",
-        "telephone": "97-//3",
-        "city": "",
-        "state": "",
-        "zip_code": "<2",
-        "interviewer_name": "",
-        "interviewer_id": "",
-        "time_began": "945",
-        "date": "8-11",
-        "time_ended": "",
-        "am_pm": "",
-        "instructions": "SK TO SPEAK TO PERSON ON LIST",
-        "time_range": "12-15"
-    },
-    "introduction": "Hello, I'm from Newman-Stein, Inc., a national market research firm. We're conducting a survey in this area, and I would like to ask you some questions.",
-    "questions": [
-        {
-            "question": "Are you currently a cigarette smoker?",
-            "answers": [
-                {
-                    "response": "Yes",
-                    "action": "CONTINUE"
-                },
-                {
-                    "response": "No",
-                    "action": "TERMINATE RECORD ON TALLY SHEET ERASE AND RE-USE"
-                }
-            ]
-        },
-        {
-            "question": "Have you, yourself, participated in a market research survey in the past year?",
-            "answers": [
-                {
-                    "response": "Yes",
-                    "action": "TERMINATE RECORD ON TALLY SHEET ERASE AND RE-USE"
-                },
-                {
-                    "response": "No",
-                    "action": "CONTINUE"
-                }
-            ]
-        },
-        {
-            "question": "And which of the following age groups best describes your age?",
-            "answers": [
-                {
-                    "age_group": "Under 18",
-                    "action": "TERMINATE RECORD ON TALLY SHEET ERASE AND RE-USE"
-                },
-                {
-                    "age_group": "18-20",
-                    "action": "QUALIFIES FOR 18-34 YEAR OLD QUOTA"
-                },
-                {
-                    "age_group": "21-24",
-                    "action": "QUALIFIES FOR 18-34 YEAR OLD QUOTA"
-                },
-                {
-                    "age_group": "25-29",
-                    "action": "QUALIFIES FOR 18-34 YEAR OLD QUOTA"
-                },
-                {
-                    "age_group": "35-39",
-                    "action": "QUALIFIES FOR 35-59 YEAR OLD QUOTA"
-                },
-                {
-                    "age_group": "40-49",
-                    "action": "QUALIFIES FOR 35-59 YEAR OLD QUOTA"
-                },
-                {
-                    "age_group": "50-54",
-                    "action": "QUALIFIES FOR 35-59 YEAR OLD QUOTA"
-                },
-                {
-                    "age_group": "55-59",
-                    "action": "QUALIFIES FOR 35-59 YEAR OLD QUOTA"
-                },
-                {
-                    "age_group": "60 and over",
-                    "action": "TERMINATE RECORD ON TALLY SHEET ERASE AND RE-USE"
-                }
-            ]
-        }
+  "company": "Newman-Stein, Inc.",
+  "address": "",
+  "suite": "",
+  "date": "11/6/86",
+  "job_number": "",
+  "circle_quota": {
+    "colors": [
+      "Blue",
+      "Green",
+      "Yellow"
     ],
-    "cigarette_consumption": {
-        "instruction": "IF ANSWER FALLS BETWEEN 2 CATEGORIES RECORD AS HIGHER AMOUNT",
-        "categories": [
-            {
-                "cigarettes": "1-9",
-                "packs": "Less than 1/2 pack",
-                "action": "TERMINATE RECORD ON TALLY SHEET"
-            },
-            {
-                "cigarettes": "10-19",
-                "packs": "1/2 pack, but less than 1 pack",
-                "action": "ERASE AND RE-USE"
-            },
-            {
-                "cigarettes": "20-29",
-                "packs": "1 pack, but less than 1-1/2 packs",
-                "action": "CONTINUE"
-            },
-            {
-                "cigarettes": "30-39",
-                "packs": "1-1/2 packs, but less than 2 packs",
-                "action": "CONTINUE"
-            },
-            {
-                "cigarettes": "40-49",
-                "packs": "2 packs, but less than 2-1/2 packs",
-                "action": "CONTINUE"
-            },
-            {
-                "cigarettes": "+09",
-                "packs": "2-1/2 packs or more",
-                "action": "CONTINUE"
-            }
-        ]
+    "cities": [
+      {
+        "name": "Minneapolis",
+        "quota": "(6)",
+        "gender": "",
+        "age_group": "",
+        "quota_number": "",
+        "quota_value": ""
+      },
+      {
+        "name": "Phoenix",
+        "quota": "(2)",
+        "gender": "",
+        "age_group": "",
+        "quota_number": "",
+        "quota_value": ""
+      }
+    ]
+  },
+  "study": "CIGARETTE ATTITUDE STUDY",
+  "screener": {
+    "respondent_name": "Linda Ragge",
+    "area_code": "602",
+    "telephone": "897-1138",
+    "city": "Phoenix",
+    "state": "Ariz",
+    "zip_code": "85020",
+    "interviewer_name": "J. McIlveen",
+    "interviewer_id": "21",
+    "time_began": "9:30 AM",
+    "date": "11/6/86",
+    "time_ended": "9:45 AM",
+    "am_pm": "",
+    "instructions": "ASK TO SPEAK TO PERSON ON LIST",
+    "time_range": "8-11"
+  },
+  "introduction": "Hello, I'm ______ from Newman-Stein, Inc., a national market research firm. We're conducting a survey in this area, and I would like to ask you some questions.",
+  "questions": [
+    {
+      "question": "Are you currently a cigarette smoker?",
+      "answers": [
+        {
+          "response": "Yes",
+          "action": "CONTINUE"
+        },
+        {
+          "response": "No",
+          "action": "TERMINATE, RECORD ON TALLY SHEET, ERASE AND RE-USE"
+        }
+      ]
+    },
+    {
+      "question": "Have you, yourself, participated in a market research survey in the past year?",
+      "answers": [
+        {
+          "response": "Yes",
+          "action": "TERMINATE, RECORD ON TALLY SHEET, ERASE AND RE-USE"
+        },
+        {
+          "response": "No",
+          "action": "CONTINUE"
+        }
+      ]
+    },
+    {
+      "question": "And which of the following age groups best describes your age?",
+      "answers": [
+        {
+          "age_group": "Under 18",
+          "action": "TERMINATE, RECORD ON TALLY SHEET, ERASE AND RE-USE"
+        },
+        {
+          "age_group": "18-20",
+          "action": ""
+        },
+        {
+          "age_group": "21-24",
+          "action": ""
+        },
+        {
+          "age_group": "25-29",
+          "action": "QUALIFIES FOR 18-34 YEAR OLD QUOTA"
+        },
+        {
+          "age_group": "30-34",
+          "action": ""
+        },
+        {
+          "age_group": "35-39",
+          "action": ""
+        },
+        {
+          "age_group": "40-49",
+          "action": "QUALIFIES FOR 35-59 YEAR OLD QUOTA"
+        },
+        {
+          "age_group": "50-54",
+          "action": ""
+        },
+        {
+          "age_group": "55-59",
+          "action": ""
+        },
+        {
+          "age_group": "60 and over",
+          "action": "TERMINATE, RECORD ON TALLY SHEET, ERASE AND RE-USE"
+        }
+      ]
     }
+  ],
+  "cigarette_consumption": {
+    "instruction": "DO NOT READ LIST. IF ANSWER FALLS BETWEEN 2 CATEGORIES, RECORD AS HIGHER AMOUNT",
+    "categories": [
+      {
+        "cigarettes": "1-9",
+        "packs": "Less than 1/2 pack",
+        "action": "TERMINATE, RECORD ON TALLY SHEET, ERASE AND RE-USE"
+      },
+      {
+        "cigarettes": "10-19",
+        "packs": "1/2 pack, but less than 1 pack",
+        "action": ""
+      },
+      {
+        "cigarettes": "20-29",
+        "packs": "1 pack, but less than 1-1/2 packs",
+        "action": ""
+      },
+      {
+        "cigarettes": "30-39",
+        "packs": "1-1/2 packs, but less than 2 packs",
+        "action": "CONTINUE"
+      },
+      {
+        "cigarettes": "40-49",
+        "packs": "2 packs, but less than 2-1/2 packs",
+        "action": ""
+      },
+      {
+        "cigarettes": "50+",
+        "packs": "2-1/2 packs or more",
+        "action": ""
+      }
+    ]
+  }
 }

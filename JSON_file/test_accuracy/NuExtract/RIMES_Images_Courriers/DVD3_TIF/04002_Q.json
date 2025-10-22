@@ -1,48 +1,51 @@
 {
-  "Code d'envoi": {
-    "Questionnaire": {
-      "Identite fictive": {
-        "Nom": "ALBERTINI",
-        "Prenom": "a.",
-        "Adresse": "O...GRAND RuE",
-        "Code postal": "[S74 8 O]",
-        "Ville": "W.ALD.W!SSE",
-        "Tel": "031030965"
-      },
-      "Scenario": {
-        "Categorie": "Re'c!a.ma.hon.",
-        "Objet": "o...ou.....oe.....ui.sa..cs...sano..e.",
-        "Complement": "e...ch..en...de..o...a..s.o...es...o.p..u.y.an.",
-        "Reference client eventuelle": null,
-        "Interlocuteur": "Rie.",
-        "Adresse": "RU...EA...AREs.",
-        "Code postal": "L85 7O",
-        "Ville": "VELL.U!.RE",
-        "Redaction": {
-          "Type de stylo (noir) utilise": [
-            "bille plume feutre"
-          ],
-          "Temps passe a traiter le scenario": "minutes."
-        },
-        "Contribution": {
-          "Cocher les elements de_votre contribution pour le scenario traite": [
-            "(6e) J'envoie mon courrier par voie postale á la date du ...23..a3./..2ca...",
-            "(+2€) Mon courrier contient une page de garde de fax.",
-            "(+1€) Avant mon envoi postal, j'ai télécopié ma contribution le",
-            "(+1€) J'ai envoyé par courriel mon courrier numérisé le"
-          ],
-          "Marque et modele du scanner": "L",
-          "Format": [
-            "PNG",
-            "GIF",
-            "TIFF"
-          ],
-          "Resolution des images": [
-            "dpi",
-            "ppp"
-          ]
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "ALBERIINI",
+                "Prenom": "Pau.",
+                "Adresse": "20 GRAND pue",
+                "Code postal": "511418,01",
+                "Ville": "WALDWISSe",
+                "Tel": "335"
+            },
+            "Scenario": {
+                "Categorie": "Reclamahon.",
+                "Objet": "Veus Vqus P d_ Q.UISances sanoQes",
+                "Complement": "Le_chiea ck Vos. Veisias_esE beuyaat",
+                "Reference client eventuelle": "",
+                "Interlocuteur": "Maleie.",
+                "Adresse": "RUE_JEAN_JALRE_",
+                "Code postal": "L8,5,3H01",
+                "Ville": "VELLULRE",
+                "Redaction": {
+                    "Type de stylo (noir) utilise": [
+                        "bille",
+                        "plume",
+                        "feutre"
+                    ],
+                    "Temps passe a traiter le scenario": "42 minutes"
+                },
+                "Contribution": {
+                    "Cocher les elements de_votre contribution pour le scenario traite": [
+                        "(6€) J'envoie mon courrier par voie postale a la date du 23./o3y.zoo1",
+                        "(+2e) Mon courrier contient une page de garde de fax",
+                        "(+1€) Avant mon envoi postal, jai telecopie ma contribution le",
+                        "(+1€) J'ai envoye par courriel mon courrier numerise le"
+                    ],
+                    "Marque et modele du scanner": "",
+                    "Format": [
+                        "PNG",
+                        "GIF",
+                        "TIFF"
+                    ],
+                    "Resolution des images": [
+                        "dpilppp",
+                        "laigney",
+                        "Lop"
+                    ]
+                }
+            }
         }
-      }
     }
-  }
 }

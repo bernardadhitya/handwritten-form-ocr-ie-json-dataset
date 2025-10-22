@@ -1,41 +1,47 @@
 {
-  "Code d'envoi": "ZVPBEA",
-  "Identite fictive": {
-    "Nom": "LA.MD..M.",
-    "Prenom": "S.y.l.vi.e.",
-    "Adresse": {
-      "Rue": "oa.......ue.........a.is",
-      "Code postal": "S3&5.Vville ...L.AU.DE.R..A.NG.",
-      "Ville": "L.AU.DE.R..A.NG."
+    "Code d'envoi": "Questionnaire",
+    "Identite fictive": {
+        "Nom": "ELANDAN_",
+        "Prenom": "_Sylui",
+        "Adresse": {
+            "Rue": "Eglise_",
+            "Code postal": "5124344842",
+            "Ville": "LauDCREANG"
+        },
+        "Tel": "28"
     },
-    "Tel": null
-  },
-  "Scenario": {
-    "Categorie": "eas....e...ouei..e......ép.s",
-    "Stns": null,
-    "Objet": "b.e...den.n.de...de...esili.aton........oi...em..",
-    "A.A": null
-  },
-  "Complement": {
-    "JCOn": null,
-    "Interlocuteur": "Bo....ele.co...",
-    "Adresse": {
-      "Gean.cle.": {
-        "Rue": null,
-        "Ville": null
-      }
+    "Scenario": {
+        "Categorie": "Relanse de ceuarier",
+        "Stns": "Repouse",
+        "Objet": "ktee denexde de resilahon du sdois_dekmler.",
+        "A.A": "32"
+    },
+    "Complement": {
+        "JCOn": "Reference client eventuelle",
+        "Interlocuteur": "Rq. jeleceh",
+        "Adresse": {
+            "Gean.cle.": {
+                "Rue": "Code postal lex2Arduol",
+                "Ville": "enbg-X-en arroualSe"
+            }
+        }
+    },
+    "Redaction": {
+        "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+        ],
+        "Temps passe a traiter le scenario": "Ap minutes"
+    },
+    "Contribution": {
+        "Cocher les_elements de_votre contribution pour le scenario traite": [
+            "(6€) Jenvoie mon courrier par voie postale a la date du 23_DaRS.",
+            "(+2e) Mon courrier contient une page de garde de fax",
+            "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+            "(+1€) J'ai envoye par courriel mon courrier numerise le"
+        ],
+        "Marque et modele du scanner": "Format PNG GIF TIFF",
+        "Resolution des images": "dpilppp"
     }
-  },
-  "Redaction": {
-    "Type de stylo (noir) utilise": [
-      "bille plume",
-      "feutre"
-    ],
-    "Temps passe a traiter le scenario": "A..... minutes"
-  },
-  "Contribution": {
-    "Cocher les_elements de_votre contribution pour le scenario traite": [],
-    "Marque et modele du scanner": "PNG GIF TIFF",
-    "Resolution des images": "ddd/!dp"
-  }
 }

@@ -1,0 +1,119 @@
+{
+  "company": null,
+  "division": null,
+  "address": {
+    "street": null,
+    "suite": null,
+    "box": null,
+    "city": "New York",
+    "state": null,
+    "zip": null
+  },
+  "date": "August, 1977",
+  "document": {
+    "title": null,
+    "section": null,
+    "type": null
+  },
+  "interview": {
+    "time": {
+      "started": "12.20",
+      "ended": null
+    },
+    "respondent": {
+      "name": "",
+      "tel": null,
+      "address": null,
+      "city": null,
+      "state": null
+    },
+    "interviewer": null,
+    "metro_area": null,
+    "date": null,
+    "validated_by": "",
+    "validation_date": null
+  },
+  "cities": [
+    null,
+    null,
+    "Detroit",
+    null,
+    "New Orleans",
+    null
+  ],
+  "initial_refusal_numbers": [
+    null,
+    10,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    20,
+    26,
+    27,
+    28,
+    null,
+    30,
+    null,
+    null,
+    33,
+    null,
+    null,
+    null,
+    37,
+    38,
+    39,
+    null,
+    46,
+    47,
+    null,
+    49,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    68,
+    null,
+    80,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "questions": [
+    {
+      "text": "Have you, yourself, participated in a market research survey in the past 6 months or so?",
+      "terminate_if": null,
+      "continue_if": "No"
+    },
+    {
+      "text": null,
+      "terminate_if": "Under 21",
+      "continue_if": null,
+      "terminate_if_next": null
+    }
+  ],
+  "age_card_numbers": [
+    null,
+    null,
+    null,
+    null,
+    11
+  ],
+  "age_card_code": null
+}

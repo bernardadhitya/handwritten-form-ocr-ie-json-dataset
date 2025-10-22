@@ -1,0 +1,100 @@
+{
+  "header": {
+    "code": null,
+    "id": null,
+    "title": null,
+    "address": {
+      "street": null,
+      "suite": null,
+      "city": "New York",
+      "state": "New York",
+      "zip": null
+    },
+    "date": null
+  },
+  "questionnaire": {
+    "title": "SCREENING QUESTIONNAIRE",
+    "sections": [
+      {
+        "title": null,
+        "time_interview": {
+          "started": null,
+          "ended": null
+        },
+        "respondent": {
+          "address": null,
+          "interviewer": null,
+          "metro_area": "",
+          "date": "",
+          "validated_by": null
+        },
+        "indicate_city": [
+          null,
+          null,
+          "Detroit",
+          "Lincoln",
+          null,
+          null
+        ],
+        "initial_refusal": {
+          "circle_next_highest_number": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            26,
+            null,
+            null,
+            null,
+            null,
+            null,
+            50,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "market_research_survey": {
+          "question": "Have you, yourself, participated in a market research survey in the last three months or so?",
+          "terminate_and_circle_next_highest_number": "Yes",
+          "continue": null
+        },
+        "participated_in": {
+          "adults": [
+            2,
+            null,
+            4,
+            null,
+            null,
+            null,
+            null,
+            null,
+            11,
+            null
+          ]
+        },
+        "show_age_card": {
+          "question": null,
+          "terminate_and_circle_next_highest_number": [
+            null,
+            null,
+            null,
+            null,
+            "39 to",
+            null,
+            null,
+            null,
+            null
+          ],
+          "continue": null
+        }
+      }
+    ]
+  }
+}

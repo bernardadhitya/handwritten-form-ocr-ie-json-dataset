@@ -1,0 +1,138 @@
+{
+  "company": null,
+  "division": "NATIONAL CONSENSUS SURVEYS",
+  "address": {
+    "street": null,
+    "suite": "3032",
+    "city": "New York",
+    "state": "New York",
+    "zip": null
+  },
+  "date": null,
+  "reference_number": null,
+  "project": {
+    "title": "CICARETTE PORTFOLIO",
+    "type": null,
+    "code": null
+  },
+  "survey": {
+    "started": "420",
+    "ended": null,
+    "respondent": {
+      "name": null,
+      "telephone": null,
+      "address": null,
+      "state": null,
+      "metro_area": "",
+      "city": null
+    },
+    "validation": {
+      "validated_by": null,
+      "date": null
+    },
+    "cities": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "Minneapolis",
+      "Syracuse"
+    ],
+    "initial_refusal": [
+      null,
+      13,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      25,
+      null,
+      null,
+      null,
+      29,
+      null,
+      3,
+      null,
+      34,
+      null,
+      36,
+      null,
+      40,
+      42,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      33,
+      57,
+      60,
+      null,
+      null,
+      77,
+      null,
+      null,
+      null,
+      81,
+      null,
+      96,
+      97,
+      null
+    ],
+    "participated_in_study": {
+      "question": "Have you, yourself, participated in a market research survey in the past three months or so?",
+      "answers": {
+        "yes": null,
+        "no": null
+      },
+      "options": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "age_card": {
+      "question": null,
+      "answers": {
+        "A": "Under 21",
+        "B": null,
+        "C": null,
+        "D": "45 to 44",
+        "E": "49 to 50",
+        "F": null,
+        "G": null
+      },
+      "terminate": null,
+      "under_or_over_age": [
+        null,
+        4,
+        null,
+        null,
+        0,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  }
+}

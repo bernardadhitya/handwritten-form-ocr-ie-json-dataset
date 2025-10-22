@@ -1,35 +1,56 @@
 {
-  "company": null,
-  "interview": {
-    "interviewer": null,
-    "interviewee": null,
-    "date": null,
-    "questions": [],
-    "qualifications": {
-      "frozen_food_producer": null,
-      "marketing_research_company": null,
-      "construction_company": null,
-      "pharmaceutical_or_drug_company": null,
-      "tobacco_company": null,
-      "airline": null,
-      "beer_or_wine_distributor": null,
-      "advertising_agency": null,
-      "insurance_company": null,
-      "newspaper_or_magazine_publisher": null,
-      "self_employed": null
-    },
-    "magazine_readership": {
-      "read_current_issue": null,
-      "read_last_four_issues": null
-    },
-    "follow_up": {
-      "leave_copy": null,
-      "contact_method": "telephore",
-      "purpose": "to eake sagazsnes wore estfel and interesting."
-    },
-    "demographics": {
-      "gender": null,
-      "age": null
+    "company": "RCSSINC",
+    "interview": {
+        "interviewer": "JSTT",
+        "interviewee": "Jtb571",
+        "date": "8/11/86",
+        "questions": [
+            {
+                "question": "Have you bought or used any frozen foods in the past month, or not?",
+                "response": null
+            },
+            {
+                "question": "Do you smoke at least fifty cigarettes a day, or not?",
+                "response": null
+            },
+            {
+                "question": "Have you bought or used a headache remedy in the past month or not?",
+                "response": null
+            },
+            {
+                "question": "Have you flown on a commercial airline in the past 6 months, or not?",
+                "response": null
+            },
+            {
+                "question": "Do you occasionally have a glass of wine or beer with dinner?",
+                "response": null
+            }
+        ],
+        "qualifications": {
+            "frozen_food_producer": false,
+            "marketing_research_company": false,
+            "construction_company": false,
+            "pharmaceutical_or_drug_company": false,
+            "tobacco_company": false,
+            "airline": false,
+            "beer_or_wine_distributor": false,
+            "advertising_agency": false,
+            "insurance_company": false,
+            "newspaper_or_magazine_publisher": false,
+            "self_employed": false
+        },
+        "magazine_readership": {
+            "read_current_issue": false,
+            "read_last_four_issues": false
+        },
+        "follow_up": {
+            "leave_copy": true,
+            "contact_method": "telephone",
+            "purpose": "make magazines more useful and interesting"
+        },
+        "demographics": {
+            "gender": null,
+            "age": null
+        }
     }
-  }
 }

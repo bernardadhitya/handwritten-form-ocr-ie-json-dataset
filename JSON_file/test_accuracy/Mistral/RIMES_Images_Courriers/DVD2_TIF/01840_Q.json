@@ -1,36 +1,38 @@
 {
-  "Code d'envoi": "LRXURM",
-  "Identite fictive": {
-    "Nom": "H.U.GO.T",
-    "Prenom": "My.iaM.",
-    "Adresse": "ue...ame...Desmouin......C.o.",
-    "Code postal": "9n2 3ville....Cach.a..",
-    "Ville": null,
-    "Tel": null
-  },
-  "Scenario": {
-    "Categorie": "eshon.........siis.t..",
-    "Objet": "a...aites...ae.....wot...assuaoc....habita..iom",
-    "Complement": "MBFGO5S",
-    "Reference client eventuelle": "...Ba....ssu.a..",
-    "Adresse": null,
-    "Code postal": null,
-    "Ville": null
-  },
-  "Redaction": {
-    "Type de stylo (noir) utilise": [
-      "bille"
-    ],
-    "Temps passe a traiter le scenario": null,
-    "Contribution": {
-      "Cocher les_elements_ de_votre contribution pour le_scenario traite": [
-        "(6€)",
-        "(+2€)",
-        "(+1€)",
-        "(+1€)"
-      ],
-      "Marque et modele du scanner": null,
-      "Resolution des images": "ddd/!dp"
+    "Code d'envoi": "03",
+    "Identite fictive": {
+        "Nom": "HuGoI",
+        "Prenom": "_Myriam",
+        "Adresse": "62 Que. Camille_ Desmulias 7 #pl C.6Q2_",
+        "Code postal": "91421319",
+        "Ville": "Cachaa",
+        "Tel": "8"
+    },
+    "Scenario": {
+        "Categorie": "Ieshan d Siaistee",
+        "Objet": "Vaus. Icles 4 votee_ assuraac_ hakilatox",
+        "Complement": "Vau l_ Aez SubiE Aa- dgak clu. ecX",
+        "Reference client eventuelle": "Interlocuteur BAAE @SSURa_",
+        "Adresse": "Rug_ Cmile . Hauvillee",
+        "Code postal": "30,5100",
+        "Ville": "Core"
+    },
+    "Redaction": {
+        "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+        ],
+        "Temps passe a traiter le scenario": "minutes.",
+        "Contribution": {
+            "Cocher les_elements_ de_votre contribution pour le_scenario traite": [
+                "(6e) J'envoie mon courrier par voie postale a Ia date du",
+                "(+2€) Mon courrier contient une page de garde de fax:",
+                "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                "(+1€) Jai envoye par courriel mon courrier numerise le"
+            ],
+            "Marque et modele du scanner": "Format PNG GIF TIFF",
+            "Resolution des images": "dpilppp QRel"
+        }
     }
-  }
 }

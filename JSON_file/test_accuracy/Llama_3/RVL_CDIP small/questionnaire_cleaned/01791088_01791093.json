@@ -1,0 +1,71 @@
+{
+  "company": null,
+  "gender": null,
+  "location": {
+    "Chicago": "5 -1",
+    "New York": null,
+    "San Francisco": "-3"
+  },
+  "project": null,
+  "group": null,
+  "group_code": null,
+  "time": null,
+  "name": null,
+  "time_began": null,
+  "address": null,
+  "city_town": null,
+  "state": null,
+  "telephone": "TELEPHONE#",
+  "zip_code": null,
+  "interviewed_by": null,
+  "interview_date": "DATE",
+  "validated_by": null,
+  "validation_date": null,
+  "introduction": null,
+  "questions": {
+    "1a": {
+      "question": "Do you smoke filter, non-menthol cigarettes?",
+      "answers": {
+        "Yes": "CONTINUE",
+        "No": null
+      }
+    },
+    "1b": {
+      "question": null,
+      "answers": {
+        "0-9": null,
+        "10-15": null,
+        "16-25": null,
+        "More than 25": "-3"
+      }
+    },
+    "1c": {
+      "question": null,
+      "instruction": null
+    },
+    "2": {
+      "question": null,
+      "statements": {
+        "A": "I eat dinner in a restaurant at least once a month.",
+        "B": "I read a daily newspaper.",
+        "C": null,
+        "D": "I have taken an airline trip on a scheduled commercial airline in the past 12 months."
+      },
+      "codes": {
+        "A": null,
+        "B": null,
+        "C": null,
+        "D": "-4"
+      }
+    },
+    "3": {
+      "question": "Into which of the following age groups do you fall?",
+      "age_groups": {
+        "Under 21": null,
+        "21-34": null,
+        "35-65": null,
+        "65+": "TERMINATE"
+      }
+    }
+  }
+}

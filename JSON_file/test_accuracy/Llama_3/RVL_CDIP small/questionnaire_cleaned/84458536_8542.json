@@ -1,0 +1,161 @@
+{
+  "company": null,
+  "division": null,
+  "address": {
+    "street": null,
+    "suite": null,
+    "postal_code": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "date": "May, 1977",
+  "survey": {
+    "title": null,
+    "interview": {
+      "time": {
+        "started": null,
+        "ended": null
+      },
+      "respondent": {
+        "name": null,
+        "address": null,
+        "city": null,
+        "state": null
+      },
+      "interviewer": null,
+      "metro_area": null,
+      "date": null,
+      "validated_by": null,
+      "validation_date": null
+    },
+    "questions": [
+      {
+        "id": null,
+        "question": "Indicate city.",
+        "options": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          "Milwaukee",
+          "Minneapolis",
+          null
+        ]
+      },
+      {
+        "id": 2,
+        "question": null,
+        "instruction": null,
+        "options": [
+          null,
+          11,
+          null,
+          15,
+          null,
+          null,
+          18,
+          19,
+          20,
+          null,
+          null,
+          31,
+          null,
+          null,
+          null,
+          null,
+          36,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          50,
+          51,
+          null,
+          null,
+          null,
+          null,
+          null,
+          60,
+          null,
+          66,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          80,
+          null,
+          null,
+          88,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "terminate_instruction": "Terminate and circle next highest number below",
+        "continue": null,
+        "no": "No"
+      },
+      {
+        "id": null,
+        "question": "Participated in study",
+        "options": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          12
+        ]
+      },
+      {
+        "id": null,
+        "question": null,
+        "instruction": "Please tell which letter on this card includes your age",
+        "terminate_instruction": null,
+        "age_ranges": {
+          "under_21": null,
+          "continue": [
+            null,
+            null,
+            null,
+            null,
+            36,
+            null,
+            50
+          ],
+          "terminate": null
+        }
+      }
+    ],
+    "age_card": {
+      "under_or_over_age": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  }
+}

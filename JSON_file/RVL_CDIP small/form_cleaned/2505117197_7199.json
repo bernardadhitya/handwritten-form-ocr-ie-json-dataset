@@ -1,79 +1,149 @@
 {
-    "contractResearchCenter": "CRC CONTRACT RESEARCH CENTER",
-    "formNumber": "144",
-    "code": "6 CW94",
-    "department": "DRD/BRW",
-    "formType": "[PEAFORM\\LABFO\\FLOW]",
-    "formApproval": ".54",
-    "measurement": "MEASUREMENT OF FLOW RATE",
-    "projectNumber": "B08",
-    "groupCode": "6K",
-    "presumedFlowRate": "l/minL",
-    "dayOfStudy": "",
-    "equipment": "Bubbelmeten",
-    "factor": "60",
-    "flowFor": {
-        "analytic": "",
-        "flowThroughDiaphragm": "TPM",
-        "flowThroughExposureChamber": "",
-        "dilutionAir": "",
-        "othersDescribed": ""
+  "contractResearchCenter": "CRC CONTRACT RESEARCH CENTER",
+  "formNumber": "144",
+  "code": "16K",
+  "department": "DRD/BRW",
+  "formType": "[PEAFORM\\LABFO\\FLOW]",
+  "formApproval": ".54",
+  "measurement": "MEASUREMENT OF FLOW RATE",
+  "projectNumber": "B08",
+  "groupCode": "16K",
+  "presumedFlowRate": "100 l/min",
+  "dayOfStudy": "129",
+  "equipment": "Bubbelmeter 2",
+  "factor": "960.2",
+  "flowFor": {
+    "analytic": "",
+    "flowThroughDiaphragm": "TPM",
+    "flowThroughExposureChamber": "X",
+    "dilutionAir": "",
+    "othersDescribed": ""
+  },
+  "preDilution": {
+    "first": "15.7 l/min (1.7 cm)",
+    "second": ""
+  },
+  "siteOfMeasurement": "[Drawing of bubbler meter]",
+  "conditionsForMeasurement": "chamber pressure: 13-6 mbar\nwaste: 5-5 mbar\n1st predilution: 15.7 l/min (1.7 cm)",
+  "note": "",
+  "sm": "Sm",
+  "preDilutionOutcome": "",
+  "bubbelnetes": "Bubbelmeter 2",
+  "rotameter": "ROTAMETER",
+  "rotascale": "ROTASCALE",
+  "flow": "FLOW",
+  "n": "N",
+  "mean": "MEAN",
+  "remarks": "REMARKS",
+  "measurements": [
+    {
+      "no": "No 2",
+      "rate": "7.5",
+      "flowRate": "90.5",
+      "time": "84",
+      "cm": "",
+      "sec": "84",
+      "lPerMin": "90.5",
+      "lPerMin2": ""
     },
-    "preDilution": {
-        "first": "",
-        "second": ""
+    {
+      "no": "CRC 1A",
+      "rate": "",
+      "flowRate": "90.5",
+      "time": "84",
+      "cm": "",
+      "sec": "84",
+      "lPerMin": "90.5",
+      "lPerMin2": ""
     },
-    "siteOfMeasurement": "e.g., description, plan",
-    "conditionsForMeasurement": "e.g., tubes, diameter",
-    "note": "wote",
-    "sm": "Sm",
-    "preDilutionOutcome": "Je piecilutiou :istlInin (uutcom)",
-    "bubbelnetes": "Bubbelnetes",
-    "rotameter": "ROTAMETER",
-    "rotascale": "ROTASCALE",
-    "flow": "FLOW",
-    "n": "N",
-    "mean": "MEAN",
-    "remarks": "REMARKS",
-    "measurements": [
-        {
-            "no": "1",
-            "rate": "84",
-            "flowRate": "5",
-            "time": "84",
-            "cm": "h8",
-            "sec": "90.5",
-            "lPerMin": "h8",
-            "lPerMin2": "905"
-        },
-        {
-            "no": "e",
-            "rate": "8",
-            "flowRate": "38",
-            "time": "92.7",
-            "cm": "2505117197",
-            "sec": "8.3",
-            "lPerMin": "96",
-            "lPerMin2": "S"
-        },
-        {
-            "no": "92.5",
-            "rate": "82",
-            "flowRate": "89",
-            "time": "ttb",
-            "cm": "89",
-            "sec": "92.7",
-            "lPerMin": "draft",
-            "lPerMin2": "Date"
-        }
-    ],
-    "errorCodes": {
-        "A": "writing",
-        "B": "calculation",
-        "C": "mixing up",
-        "D": "reading",
-        "E": "copy",
-        "F": "other"
+    {
+      "no": "AH195",
+      "rate": "",
+      "flowRate": "90.5",
+      "time": "84",
+      "cm": "",
+      "sec": "84",
+      "lPerMin": "90.5",
+      "lPerMin2": ""
     },
-    "initials": "00299"
+    {
+      "no": "",
+      "rate": "",
+      "flowRate": "90.5",
+      "time": "84",
+      "cm": "",
+      "sec": "84",
+      "lPerMin": "90.5",
+      "lPerMin2": ""
+    },
+    {
+      "no": "",
+      "rate": "",
+      "flowRate": "90.5",
+      "time": "84",
+      "cm": "",
+      "sec": "84",
+      "lPerMin": "90.5",
+      "lPerMin2": ""
+    },
+    {
+      "no": "",
+      "rate": "8.0",
+      "flowRate": "92.7",
+      "time": "88",
+      "cm": "",
+      "sec": "88",
+      "lPerMin": "92.7",
+      "lPerMin2": ""
+    },
+    {
+      "no": "",
+      "rate": "",
+      "flowRate": "91.6",
+      "time": "83",
+      "cm": "",
+      "sec": "83",
+      "lPerMin": "91.6",
+      "lPerMin2": ""
+    },
+    {
+      "no": "",
+      "rate": "",
+      "flowRate": "92.7",
+      "time": "82",
+      "cm": "",
+      "sec": "82",
+      "lPerMin": "92.7",
+      "lPerMin2": ""
+    },
+    {
+      "no": "",
+      "rate": "",
+      "flowRate": "92.7",
+      "time": "82",
+      "cm": "",
+      "sec": "82",
+      "lPerMin": "92.7",
+      "lPerMin2": ""
+    },
+    {
+      "no": "",
+      "rate": "",
+      "flowRate": "92.7",
+      "time": "82",
+      "cm": "",
+      "sec": "82",
+      "lPerMin": "92.7",
+      "lPerMin2": ""
+    }
+  ],
+  "errorCodes": {
+    "A": "writing",
+    "B": "calculation",
+    "C": "mixing up",
+    "D": "reading",
+    "E": "copy",
+    "F": "other"
+  },
+  "initials": "[signatures]"
 }

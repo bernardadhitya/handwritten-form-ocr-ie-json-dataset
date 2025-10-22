@@ -1,0 +1,45 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": "Caaa.",
+        "Adresse": null,
+        "Code postal": null,
+        "Ville": null,
+        "Tel": "33"
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": null,
+        "Complement": null,
+        "MoU": null,
+        "Reference client eventuelle": null,
+        "Interlocuteur": null,
+        "Axaouncea": {
+          "Adresse": null,
+          "Code postal": null,
+          "Ville": "~RQQUCfcQiL"
+        },
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            null,
+            "plume",
+            null
+          ],
+          "Temps passe a traiter le scenario": null
+        },
+        "Contribution": {
+          "Cocher les elements de_votre contribution pour le scenario traite": [
+            null,
+            null,
+            "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+            null
+          ],
+          "Marque et modele du scanner": "Format PNG GIF TIFF",
+          "Resolution des images": null
+        }
+      }
+    }
+  }
+}

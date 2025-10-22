@@ -1,51 +1,58 @@
 {
-    "tasks": [
+  "tasks": [
+    {
+      "id": "2/85",
+      "description": "Generate and evaluate prototypes using the fuel sources and flour systems developed above.",
+      "subtasks": [
         {
-            "id": "2/85",
-            "description": "Evaluate prototype young fuel sources and flound systems developed.",
-            "subtasks": [
-                {
-                    "id": "1o",
-                    "description": "Determine processing cost viability of prototype on a mass production basis."
-                }
-            ]
-        },
-        {
-            "id": "3/85",
-            "description": "Conduct necessary toxicological studies of prototypes.",
-            "subtasks": [
-                {
-                    "id": "a",
-                    "description": "To assure safe sensory testing."
-                },
-                {
-                    "id": "b",
-                    "description": "To assure meeting established objective of the T6A project."
-                }
-            ]
-        },
-        {
-            "id": "12",
-            "description": "Modify prototypes as needed to meet toxicological constraints.",
-            "status": "Ongoing"
-        },
-        {
-            "id": "13",
-            "description": "Conduct strong testing of prototypes to identify product deficiencies.",
-            "subtasks": [
-                {
-                    "id": "Jy",
-                    "description": "Modify prototypes as needed to correct sensory deficiencies."
-                }
-            ]
-        },
-        {
-            "id": "I",
-            "description": "Develop product cost estimates."
-        },
-        {
-            "id": "5802",
-            "description": "Product implementation."
+          "id": "3/85",
+          "description": "Determine processing / cost viability of prototypes on a mass production basis."
         }
-    ]
+      ]
+    },
+    {
+      "id": "3/85",
+      "description": "Conduct necessary toxicological studies of prototypes:",
+      "subtasks": [
+        {
+          "id": "a",
+          "description": "To assure \"safe\" sensory testing"
+        },
+        {
+          "id": "b",
+          "description": "To assure meeting established objectives of the T6A project"
+        }
+      ]
+    },
+    {
+      "id": "Ongoing",
+      "description": "Modify prototypes, as needed, to meet toxicological constraints especially CO.",
+      "subtasks": []
+    },
+    {
+      "id": "4/85",
+      "description": "Conduct sensory testing of prototypes. Identify product deficiencies.",
+      "subtasks": [
+        {
+          "id": "8/85",
+          "description": "Modify prototypes, as needed, to correct sensory deficiencies."
+        }
+      ]
+    },
+    {
+      "id": "10/85",
+      "description": "Design necessary manufacturing processes for extrusion, molding, production.",
+      "subtasks": []
+    },
+    {
+      "id": "11/85",
+      "description": "Develop product cost estimates.",
+      "subtasks": []
+    },
+    {
+      "id": "12/86",
+      "description": "Product implementation.",
+      "subtasks": []
+    }
+  ]
 }

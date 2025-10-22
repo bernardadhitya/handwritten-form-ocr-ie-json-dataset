@@ -1,28 +1,28 @@
 {
-  "transaction": {
-    "type": null,
-    "bank": null,
-    "account_number": null,
-    "transaction_id": null,
-    "recipient": {
-      "name": "Renata Lukic",
-      "additional_info": "Net t rew lar Cwar Ethel M.Bryson R.1.B. CeuenThousand.SxHunared Total du verscment and SeventuShree 7673 Nate deloptrotion Signature du clicnt Caisse Cochér ct visa de la AT"
-    },
-    "issuer": {
-      "name": null,
-      "code": null
-    },
-    "amount": {
-      "written": null,
-      "numeric": null
-    },
-    "note": null,
-    "client_signature": null,
-    "cashier": {
-      "name": null,
-      "approval": null
-    },
-    "date": null,
-    "reference": null
-  }
+    "transaction": {
+        "type": "VERSEMENTESPECES",
+        "bank": "BIAT",
+        "account_number": "907043",
+        "transaction_id": "Ntrucht",
+        "recipient": {
+            "name": "Renata Lukic",
+            "additional_info": "Net t rew lar Cwar"
+        },
+        "issuer": {
+            "name": "Ethel M. Bryson",
+            "code": "R.1.B."
+        },
+        "amount": {
+            "written": "CeuenThousand.SxHunared and SeventuShree",
+            "numeric": 7673
+        },
+        "note": "Nate deloptrotion",
+        "client_signature": "Signature du clicnt",
+        "cashier": {
+            "name": "Caisse",
+            "approval": "Cocher ct visa de la AT"
+        },
+        "date": "06/05/22",
+        "reference": "rsesgpe"
+    }
 }

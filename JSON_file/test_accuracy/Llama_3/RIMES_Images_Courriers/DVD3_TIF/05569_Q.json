@@ -1,0 +1,61 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": "Dal",
+        "Adresse": null,
+        "Code postal": null,
+        "Ville": null,
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": null,
+        "Duree_traitement": null
+      },
+      "Contribution": {
+        "Elements": [
+          {
+            "Prix": null,
+            "Description": null
+          },
+          {
+            "Prix": null,
+            "Description": "Mon courrier contient une page de garde de fax"
+          },
+          {
+            "Prix": null,
+            "Description": null
+          },
+          {
+            "Prix": "+1€",
+            "Description": "J'ai envoye par courriel mon courrier numerise le"
+          }
+        ]
+      }
+    },
+    "Interlocuteur": {
+      "Hebdemdaite": "Cole",
+      "Adresse": null,
+      "Code postal": null,
+      "Ville": null
+    },
+    "Redaction": {
+      "Type_stylo_utilise": [
+        "bille",
+        null,
+        null
+      ]
+    },
+    "Scanner": {
+      "Marque_modele": null,
+      "Format": [
+        null,
+        "GIF",
+        null
+      ],
+      "Resolution_images": null
+    }
+  }
+}

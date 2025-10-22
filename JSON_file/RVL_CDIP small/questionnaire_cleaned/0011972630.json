@@ -1,84 +1,82 @@
 {
-    "store_number": 21,
-    "store_name": "JJ Market",
-    "store_type": "Store Typ",
-    "address": "1912 Broadway",
-    "active_checklanes": "No.of Active Chccklanes",
-    "package_sales": {
-        "self_service": "Sel Service",
-        "non_self_service": "Non Self Sorvice"
+  "store_number": 21,
+  "store_name": "J - J Market",
+  "store_type": "Grocery",
+  "address": "1912 Broadway",
+  "active_checklanes": "1",
+  "package_sales": {
+    "self_service": "Y",
+    "non_self_service": "Y"
+  },
+  "regular_customers": {
+    "hallmark": "Y"
+  },
+  "customer_description": {
+    "male": "M",
+    "female": "F",
+    "younger": "Younger",
+    "older": "Older",
+    "white": "White",
+    "black": "Black",
+    "native": "",
+    "other": ""
+  },
+  "comments_on_product": "Slow (week reports little movement) This manager in the store",
+  "product_sales_relative_to_national": {
+    "better": "Better",
+    "equal": "Equal",
+    "half": "1/2",
+    "quarter": "1/4"
+  },
+  "product_sales_relative_to_saratoga": {
+    "better": "Better",
+    "equal": "Equal",
+    "half": "1/2",
+    "quarter": "1/4"
+  },
+  "redeem_coupons": "Y",
+  "oos_problems": "Y",
+  "products": [
+    {
+      "name": "HALLMARK",
+      "fact": "FACT"
     },
-    "regular_customers": {
-        "hallmark": "A"
-    },
-    "customer_description": {
-        "male": "M",
-        "female": "F",
-        "younger": "Younger",
-        "older": "Older",
-        "white": "White",
-        "black": "Black",
-        "native": "Nttiy",
-        "other": "ithtoy"
-    },
-    "comments_on_product": "Any cosnents on the box or the product?",
-    "product_sales_relative_to_national": {
-        "better": "Botter",
-        "equal": "Equal",
-        "half": "1/2",
-        "quarter": "1/4"
-    },
-    "product_sales_relative_to_saratoga": {
-        "better": "Better",
-        "equal": "Equal",
-        "half": "1/2",
-        "quarter": "1/4"
-    },
-    "redeem_coupons": "Y",
-    "oos_problems": "Any 0-0-S problemis?",
-    "products": [
-        {
-            "name": "HALLMARK",
-            "fact": "FACT"
-        },
-        {
-            "name": "KOOL LONGS",
-            "price": "$SL"
-        }
-    ],
-    "selling_price": "$94",
-    "inventory": {
-        "both_styles": "ctnb pk"
-    },
-    "cartons_ordered_per_week": 150,
-    "order_frequency": "Do you order every weck",
-    "order_from": "Who do you order fxom",
-    "anyone_else": "Anyone Blse?",
-    "point_of_purchase": [
-        "10 carton floor display",
-        "XCash register easel",
-        "Ceiling mobile",
-        "Floor easel",
-        "X20 pack wooden",
-        "3 pkg.rack cxtender",
-        "counter display",
-        "Counter easel",
-        "20.pack temp.",
-        "Universal sign",
-        "counter display"
-    ],
-    "neighborhood_description": "Neighborhood description and other",
-    "additional_info": {
-        "maragy": "Maragy",
-        "clientele": "yruy clienlaf",
-        "ha": "Ha",
-        "store_presentation": "Stmepreall",
-        "store_in_well_industrial": "ttlsh/c",
-        "store_in_well_industrial_2": "store inwllndst.",
-        "conllittk": "coNll.ittk",
-        "neighborhood_again": "neb.agne"
-    },
-    "unknown_code": "D",
-    "unknown_code_2": 464702491,
-    "unknown_code_3": "C"
+    {
+      "name": "KOOL LONGS",
+      "price": "59¢"
+    }
+  ],
+  "selling_price": "75¢",
+  "inventory": {
+    "both_styles": "1 ctn 16 pk ctn 10 pk"
+  },
+  "cartons_ordered_per_week": 150,
+  "order_frequency": "Y",
+  "order_from": "Davis/Cool",
+  "anyone_else": "",
+  "point_of_purchase": [
+    "10 carton floor display",
+    "Cash register easel",
+    "Ceiling mobile",
+    "Floor easel",
+    "20 pack wooden counter display",
+    "5 pkg. rack extender",
+    "Counter easel",
+    "20 pack temp. counter display",
+    "Universal sign"
+  ],
+  "neighborhood_description": "Manager Head and (?) store in Woodland St. at East Nashville. Little movements to 57th graph Woodland Beverage Store (Davis & Cool) Mid Class young clientele some upscale little black",
+  "additional_info": {
+    "maragy": "",
+    "clientele": "",
+    "ha": "",
+    "store_presentation": "",
+    "store_in_well_industrial": "",
+    "store_in_well_industrial_2": "",
+    "conllittk": "",
+    "neighborhood_again": ""
+  },
+  "unknown_code": "",
+  "unknown_code_2": 0,
+  "unknown_code_3": ""
 }

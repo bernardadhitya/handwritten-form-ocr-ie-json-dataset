@@ -1,0 +1,47 @@
+{
+  "Code d'envoi": null,
+  "Questionnaire": {
+    "Identite fictive": {
+      "Nom": null,
+      "Prenom": null,
+      "Adresse": null,
+      "Code postal": null,
+      "Ville": "Zieuze",
+      "Tei": null
+    },
+    "Scenario": {
+      "Categorie": null,
+      "Objet": null,
+      "Reference client eventuelle": null,
+      "Interlocuteur": {
+        "NaiE": "ASs.urances",
+        "Adresse": null,
+        "Code postal": null,
+        "Ville": null
+      }
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        null,
+        null,
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": null
+    },
+    "Contribution": {
+      "Cocher les_elements de_votre contribution pour le scenario traite": [
+        null,
+        "(+2€) Mon courrier contient une page de garde de fax:",
+        "(t1€) Avant mon envoi postal, jai telecopie ma contribution le",
+        null
+      ],
+      "Marque et modele du scanner": "Canon MANOSCAN RS6o.",
+      "Format": [
+        null,
+        null,
+        "ETIFF"
+      ],
+      "Resolution des images": null
+    }
+  }
+}

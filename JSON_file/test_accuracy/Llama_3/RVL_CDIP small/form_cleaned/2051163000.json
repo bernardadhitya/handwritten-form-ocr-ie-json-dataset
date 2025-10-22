@@ -1,0 +1,82 @@
+{
+  "company": null,
+  "department": null,
+  "form_type": null,
+  "to": "Records Administration",
+  "form_number": null,
+  "requestor": {
+    "name": null,
+    "department": null,
+    "cost_center_number": null,
+    "extension": null
+  },
+  "case_reference": {
+    "description": null,
+    "case_number": null,
+    "order_of_preparation": {
+      "chronological": null,
+      "alphabetical": null,
+      "numerical": null,
+      "subject_matter": null,
+      "other": null
+    },
+    "record_location": {
+      "title_of_folder": null,
+      "in_file_folder": null,
+      "loose": false
+    },
+    "send": {
+      "entire_folder": false,
+      "entire_case": null,
+      "document_from_folder": null,
+      "document_from_case": null,
+      "describe": null
+    }
+  },
+  "department_access": {
+    "reader_printer": false,
+    "fiche_jacket_reader_equipment": false,
+    "other": null
+  },
+  "delivery": {
+    "method": null,
+    "time_and_date_required": null,
+    "courier": null,
+    "mail": false,
+    "telephone": null,
+    "reviewed_in_records_administration": null,
+    "pick_up": null
+  },
+  "authorization": {
+    "authorized_by": null,
+    "date_submitted": null
+  },
+  "records_administration_use": {
+    "record_status": {
+      "microfilmed": null,
+      "stored_as_hard_copy": null,
+      "pending_microfilmed": null
+    },
+    "roll_number": null,
+    "roll_location": null,
+    "case_location": null,
+    "method_of_supplying_request": {
+      "hard_copy_duplicate": null,
+      "roll_film_duplicate": false,
+      "hard_copy_original": false,
+      "film_portion_duplicate": null
+    },
+    "action": {
+      "duplicate_destroy": null,
+      "original_return_to_records_administration": null,
+      "original_returned_to_department": false
+    },
+    "approved_by": null,
+    "date_delivered": null,
+    "contact_number": null
+  },
+  "return_instructions": {
+    "return_to": "RECORDS ADMINISTRATION",
+    "location": null
+  }
+}

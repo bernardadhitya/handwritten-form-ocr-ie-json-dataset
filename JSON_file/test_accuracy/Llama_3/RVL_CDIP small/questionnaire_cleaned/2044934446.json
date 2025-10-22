@@ -1,0 +1,154 @@
+{
+    "survey": {
+        "title": "A free gift? Now you're talking",
+        "description": "Get a free grab bag gift when you fill out this survey.",
+        "questions": [
+            {
+                "id": 1,
+                "text": "What is your regular brand of cigarettes?"
+            },
+            {
+                "id": 2,
+                "text": "Is your regular brand... (Check one.)",
+                "options": [
+                    "Regular/King Size",
+                    "100s",
+                    "120s",
+                    "Store Brand/Generic"
+                ]
+            },
+            {
+                "id": 3,
+                "text": "Is your regular brand...? (Check one.)",
+                "options": [
+                    "Menthol",
+                    "Non-Menthol"
+                ]
+            },
+            {
+                "id": 4,
+                "text": "Is your regular brand...? (Check one.)",
+                "options": [
+                    "Filter",
+                    "Non-Filter"
+                ]
+            },
+            {
+                "id": 5,
+                "text": "Is your regular brand...? (Check one.)",
+                "options": [
+                    "Lowest 1 mg. Tar",
+                    "Ultra/Extra Low Tar",
+                    "Medium",
+                    "Light/Mild"
+                ]
+            },
+            {
+                "id": 6,
+                "text": "Do you usually buy it by the... (Check one.)",
+                "options": [
+                    "Pack",
+                    "Carton",
+                    "Both Ways"
+                ]
+            },
+            {
+                "id": 7,
+                "text": "How long have you smoked this brand?",
+                "options": [
+                    "Less than 1 year",
+                    "1 to 2 years",
+                    "2 to 3 years",
+                    "3 to 5 years",
+                    "Over 5 years"
+                ]
+            },
+            {
+                "id": 8,
+                "text": "What, if any, was your previous brand?"
+            },
+            {
+                "id": 9,
+                "text": "The next time you go to the store, if your regular brand were not available, what would you do? (Check one.)",
+                "options": [
+                    "Go to another store to buy my regular brand",
+                    "Buy another type or length of my regular brand",
+                    "Wait until the store has my regular brand",
+                    "Buy a different brand entirely"
+                ]
+            },
+            {
+                "id": 10,
+                "text": "Which of the following statements best describes the way you use cigarette coupons? (Check one.)",
+                "options": [
+                    "I use almost any cigarette coupon I get",
+                    "I occasionally use coupons for cigarettes, even if they are not for my regular brand",
+                    "I only use coupons if they are for my regular brand",
+                    "I never use coupons to buy cigarettes"
+                ]
+            },
+            {
+                "id": 11,
+                "text": "If your regular brand were not available, which of the following brands would you consider buying? (Check all that apply.)",
+                "options": [
+                    "Alpine",
+                    "Kool",
+                    "Salem",
+                    "Basic",
+                    "Malibu",
+                    "Benson & Hedges",
+                    "Marlboro",
+                    "Sterling",
+                    "Bristol",
+                    "Merit",
+                    "Style",
+                    "Cambridge",
+                    "Misty",
+                    "Capri",
+                    "Monarch",
+                    "Superslims",
+                    "Carlton",
+                    "Montclair",
+                    "Virginia Slims",
+                    "Doral",
+                    "More",
+                    "Winston",
+                    "Eve",
+                    "Newport",
+                    "GPC",
+                    "Newport Strips",
+                    "Other"
+                ]
+            },
+            {
+                "id": 12,
+                "text": "Please list all the brands of cigarettes you smoked at least one pack of in the past two weeks. How many packs did you smoke of each brand? (Use as many lines as you need. Write in the exact number of packs for each brand below.)"
+            },
+            {
+                "id": 13,
+                "text": "How often do you use special in-store cigarette offers, such as a free gift with purchase, a 2-for-1, or special prices?",
+                "options": [
+                    "Frequently",
+                    "Occasionally",
+                    "Never"
+                ]
+            },
+            {
+                "id": 14,
+                "text": "Which of the following best describes you? (Check one.)",
+                "options": [
+                    "White",
+                    "African American",
+                    "Hispanic",
+                    "Asian",
+                    "American Indian",
+                    "Other"
+                ]
+            }
+        ],
+        "footer": "Thanks so much for participating in this Virginia Slims Club Survey. Not only will your participation help us serve you even better in the future, it'll earn you a great free grab bag gift. We look forward to hearing from you by 3/31/94.",
+        "disclaimer": "Limited to smokers 21 years of age or older. No facsimiles accepted. Allow 10-12 weeks for delivery. By completing this survey and signing below, I certify I am a smoker 21 years of age or older. I am also willing to receive free cigarettes and other branded incentive items in the mail, subject to applicable state and federal laws.",
+        "signature": "Signature",
+        "birth_date": "Birth Date"
+    }
+}

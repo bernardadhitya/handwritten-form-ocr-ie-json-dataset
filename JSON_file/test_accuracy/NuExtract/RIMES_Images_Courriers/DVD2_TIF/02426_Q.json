@@ -1,36 +1,57 @@
 {
-  "Code d'envoi": {
-    "Questionnaire": {
-      "Identite fictive": {
-        "Nom": "A",
-        "Prenom": "y",
-        "Adresse": "ue...de....a.e.tes.",
-        "Code postal": "6 7 16 o] Ville....W.1..s.E.M.6.o.vR.6 036051F005",
-        "Ville": "W.1..s.E.M.6.o.vR.6 036051F005",
-        "Tel": null
-      },
-      "Scenario": {
-        "Categorie": "Fer..me.vr...d...o.m..te..e.r.me.......om..te..an..a..e.",
-        "Objet": "Complément ....a..cv...",
-        "Complement": "a..cv...",
-        "Reference client eventuelle": null,
-        "Interlocuteur": {
-          "Banque": null,
-          "Adresse": null,
-          "Code postal": null,
-          "Ville": null
-        },
-        "Redaction": {
-          "Type de stylo (noir) utilise": [],
-          "Temps passe a traiter le scenario": null
-        },
-        "Contribution": {
-          "Elements": [],
-          "Marque et modele du scanner": null,
-          "Format": [],
-          "Resolution des images": null
+    "Code d'envoi": {
+        "Questionnaire": {
+            "Identite fictive": {
+                "Nom": "MANLEL",
+                "Prenom": "Y",
+                "Adresse": "kve. des_ Eavvette:_",
+                "Code postal": "L634LbO",
+                "Ville": "W",
+                "Tel": "355"
+            },
+            "Scenario": {
+                "Categorie": "Ie. Evcg_ d4 cemptz",
+                "Objet": "Fermetvr& d& Sqmpte bancalke",
+                "Complement": "44cun.",
+                "Reference client eventuelle": "0",
+                "Interlocuteur": {
+                    "Banque": "Cre_dik Eapvlalrg",
+                    "Adresse": "cv Jeanng d\"Aks",
+                    "Code postal": "L4344519",
+                    "Ville": "VALS. RAEs_ LE_ Rex"
+                },
+                "Redaction": {
+                    "Type de stylo (noir) utilise": [
+                        "bille",
+                        "plume",
+                        "feutre"
+                    ],
+                    "Temps passe a traiter le scenario": "15 minutes."
+                },
+                "Contribution": {
+                    "Elements": [
+                        {
+                            "(6€) Jenvoie mon courrier par voie postale a la date du 31_janxier_Zeck": ""
+                        },
+                        {
+                            "(+28) Mon courrier contient une page de garde de fax": ""
+                        },
+                        {
+                            "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le 32,janvier_Zoek": ""
+                        },
+                        {
+                            "(+1€) J'ai envoye par courriel mon courrier numerise le": ""
+                        }
+                    ],
+                    "Marque et modele du scanner": "",
+                    "Format": [
+                        "PNG",
+                        "GIF",
+                        "TIFF"
+                    ],
+                    "Resolution des images": "dpilppp 26 Ker._"
+                }
+            }
         }
-      }
     }
-  }
 }

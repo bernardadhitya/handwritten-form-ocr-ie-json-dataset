@@ -1,0 +1,51 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": "",
+        "Adresse": {
+          "K": "Bea_L_illes",
+          "Code postal": null,
+          "Ville": null,
+          "Tel": "3"
+        }
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": null,
+        "Complement": null,
+        "Reference client eventuelle": null,
+        "Interlocuteur": null,
+        "Ass_Lfaces": {
+          "Adresse": null,
+          "Code postal": "[2451bol",
+          "Ville": "LS^"
+        }
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille",
+          null,
+          null
+        ],
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les_elements_de_votre contribution pour le_scenario traite": [
+          null,
+          null,
+          "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+          null
+        ],
+        "Marque et modele du scanner": null,
+        "Format": [
+          null,
+          null,
+          null
+        ],
+        "Resolution des images": null
+      }
+    }
+  }
+}

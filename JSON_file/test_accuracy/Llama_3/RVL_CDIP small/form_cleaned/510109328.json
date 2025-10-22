@@ -1,0 +1,61 @@
+{
+  "FactoryTest": {
+    "Number": null,
+    "ProjectLeader": null,
+    "ProjectLeaderID": 7546,
+    "Brand": "SALEM Ultra 100",
+    "Approved": "D7NC/BU",
+    "Date": null,
+    "PurposeOfTest": null,
+    "SpecialInstructions": null
+  },
+  "FilterSpecifications": {
+    "TowItem": null,
+    "FilterPressureDrop_mm": null,
+    "FilterSegmentLength_mm": null,
+    "Circumference_mm": 24.8,
+    "Plasticizer": null,
+    "PlugWrap_ID_No": "260M1"
+  },
+  "CigaretteSpecifications": {
+    "TotalCigaretteLength_mm": null,
+    "TobaccoRodLength_mm": null,
+    "Circumference_mm": 24.8,
+    "CigaretteWeight_grams": null,
+    "CigarettePaper_ID_No": null,
+    "TippingPorosity": null,
+    "TotalWidth_mm": null,
+    "Collor": null,
+    "Type": null,
+    "PerforationLinesAndLocation": "126C/C",
+    "ID_No": null,
+    "Print": null,
+    "NewPack": null
+  },
+  "CigarettePackaging": {
+    "NonBandedCigarette_Ctns": {
+      "MonadicWrappers": "Smoke First Wrappers",
+      "SmokeSecondWrappers": null,
+      "TotalCartonsRequired": null
+    },
+    "BandedCigarette_Ctns": {
+      "BandingWidth": null,
+      "Plain": "Monadic Wrappers",
+      "RJR_CONFIDENTA": null,
+      "SmokeSecondWrappers": null,
+      "SmokeSecondSmokeSecondWrappers": null
+    }
+  },
+  "PanelTesting": {
+    "CompanyWidePackTest": null,
+    "ConsumerUSMailPanel": null,
+    "CentralLocationPanel": null,
+    "MARCPanel": null,
+    "NFOPanel": "Other"
+  },
+  "Scheduling": {
+    "MPWeekOf": "10/28/82",
+    "ShippingDateNeeded": null,
+    "OtherInformation": null
+  }
+}

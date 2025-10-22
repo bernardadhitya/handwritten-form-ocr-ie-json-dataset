@@ -1,0 +1,41 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": null,
+        "Adresse": null,
+        "Suala": null,
+        "Code": null,
+        "Ville": null,
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": null,
+        "SQAA": null,
+        "elet": "",
+        "Complement": null,
+        "Reference client eventuelle": null,
+        "Interlocuteur": "ASSEDC.",
+        "Assuance_Chsmage": null,
+        "Adresse": "_LE;",
+        "illage": null,
+        "Code postal": null,
+        "Ville": null
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": "bille",
+        "plume": null,
+        "feutre": null,
+        "Temps passe a traiter le scenario": "S_ minutes"
+      },
+      "Contribution": {
+        "Cocher les elements de_votre contribution pour le scenario_traite": null,
+        "Marque et modele du scanner": null,
+        "Format": "PNG GIF TIFF",
+        "Resolution des images": null
+      }
+    }
+  }
+}

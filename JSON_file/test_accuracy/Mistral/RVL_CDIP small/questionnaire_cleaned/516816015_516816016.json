@@ -1,0 +1,44 @@
+{
+    "title": "Winston MM Florida Launch",
+    "test": "2-Pack vs. 3-Pack T-shirt Test",
+    "objectives": [
+        "Assess 2-pk vs. 3-pk buyer profile with respect to franchise/competitive, 18-34, 35+",
+        "Assess incremental volume from respective offers and whether that volume came from vulnerable franchise or competitive.",
+        "Determine reach vs. multiple buying, given that 4 different t-shirt graphic designs will be available in each SKU 4 designs @ 5 offers each for 20 total offers per SKU"
+    ],
+    "inStoreInterceptQuestionnaireFlow": {
+        "instructions": "Physically note buyers of Winston offer in store. Stop smoker upon leaving store and ask for help with a short questionnaire (<5 minutes)",
+        "questions": [
+            {
+                "question": "Do you smoke cigarettes?",
+                "note": "If no or purchase was for someone else, terminate."
+            },
+            {
+                "question": "Are you age 21 or older?",
+                "note": "If no, terminate."
+            },
+            {
+                "question": "Just for classification purposes, in which of the following ranges does your age fall?",
+                "options": [
+                    "21-24",
+                    "25-34",
+                    "35-49",
+                    "50 or over"
+                ]
+            },
+            {
+                "question": "What one brand of cigarettes do you buy most often and consider to be your usual brand?",
+                "note": "If Winston mentioned, ask: Is that Winston or Winston Select?"
+            },
+            {
+                "question": "How many packs of cigarettes do you usually smoke in an average month?",
+                "note": "Record exact number. If respondent says # packs per day, then calculate # per month as follows: 1/2 pack day = 15 packs per month, 1 pack/day = 30 packs per month, 1 1/2 packs/day = 45 packs per month, 2 packs/day = 60 packs per month, etc."
+            }
+        ],
+        "interviewerNote": "Also record answer from Q4 on bottom of grid after Q6."
+    },
+    "codes": [
+        51681,
+        6015
+    ]
+}

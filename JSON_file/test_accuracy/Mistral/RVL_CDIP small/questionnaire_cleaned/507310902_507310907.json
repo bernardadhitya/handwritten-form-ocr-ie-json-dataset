@@ -1,0 +1,61 @@
+{
+  "study_number": null,
+  "study_type": "xxxxxx",
+  "respondent_range": null,
+  "new_cpt_screening_questionnaire": {
+    "date": null,
+    "name": null,
+    "address": null,
+    "city_state": null,
+    "telephone": null,
+    "date_interview": null,
+    "time_begun": null,
+    "interviewer": null,
+    "validated_by": null
+  },
+  "introduction": null,
+  "interviewer_note": null,
+  "terminate_problem": null,
+  "questions": {
+    "A": {
+      "question": null,
+      "options": {
+        "under_18": null,
+        "18_24": "",
+        "25_34": "",
+        "35_56": "",
+        "50_and_over": null,
+        "refused": null
+      },
+      "terminate_reason": "Wrong age/refused"
+    },
+    "B": {
+      "question": null,
+      "options": {
+        "male": null,
+        "female": null
+      },
+      "terminate_reason": null
+    },
+    "C": {
+      "question": null,
+      "options": {
+        "white": null
+      }
+    },
+    "D": {
+      "question": null,
+      "options": {
+        "less_than_5": null,
+        "5_10": null,
+        "11_20": "",
+        "21_30": null,
+        "31_40": null,
+        "41_or_more": "",
+        "dont_know_no_answer": null
+      },
+      "terminate_reason": "Smoke less than per day/don't know/no answer"
+    }
+  },
+  "code": "507310902"
+}

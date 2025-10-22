@@ -1,20 +1,20 @@
 {
-  "bank": "CREDIT AGRICOLE",
-  "branch": "SUDOEST",
-  "accountDetails": {
-    "accountNumber": "oyercomececaaveeost",
-    "sortCode": "441o04410",
-    "IBAN": "frigona1aea=.100.06105122"
-  },
-  "transaction": {
-    "amount": null,
-    "currency": null,
-    "date": "12:5",
-    "reference": "EL237 Re du CraPercre OCTOL.CLSE",
-    "description": "Chee.e N"
-  },
-  "additionalInfo": {
-    "code": "HAEVA gngture",
-    "checkNumber": "2581230 0658085474125"
-  }
+    "bank": "CREDIT AGRICOLE",
+    "branch": "SUDOUEST",
+    "accountDetails": {
+        "accountNumber": "2581230",
+        "sortCode": "0658085474125",
+        "IBAN": "369852369852"
+    },
+    "transaction": {
+        "amount": 44.1,
+        "currency": "EUR",
+        "date": "06105122",
+        "reference": "EL237",
+        "description": "Re du CraPercre"
+    },
+    "additionalInfo": {
+        "code": "OCTOL.CLSE",
+        "checkNumber": "Chee.e N"
+    }
 }

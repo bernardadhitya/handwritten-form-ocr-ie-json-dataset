@@ -1,0 +1,79 @@
+{
+    "contractResearchCenter": "CRC CONTRACT RESEARCH CENTER",
+    "formNumber": "144",
+    "code": "6 CW94",
+    "department": "DRD/BRW",
+    "formType": "[PEAFORM\\LABFO\\FLOW]",
+    "formApproval": ".54",
+    "measurement": "MEASUREMENT OF FLOW RATE",
+    "projectNumber": "B08",
+    "groupCode": "6K",
+    "presumedFlowRate": "l/minL",
+    "dayOfStudy": "",
+    "equipment": "Bubbelmeten",
+    "factor": "60",
+    "flowFor": {
+        "analytic": "",
+        "flowThroughDiaphragm": "TPM",
+        "flowThroughExposureChamber": "",
+        "dilutionAir": "",
+        "othersDescribed": ""
+    },
+    "preDilution": {
+        "first": "",
+        "second": ""
+    },
+    "siteOfMeasurement": "e.g., description, plan",
+    "conditionsForMeasurement": "e.g., tubes, diameter",
+    "note": "wote",
+    "sm": "Sm",
+    "preDilutionOutcome": "Je piecilutiou :istlInin (uutcom)",
+    "bubbelnetes": "Bubbelnetes",
+    "rotameter": "ROTAMETER",
+    "rotascale": "ROTASCALE",
+    "flow": "FLOW",
+    "n": "N",
+    "mean": "MEAN",
+    "remarks": "REMARKS",
+    "measurements": [
+        {
+            "no": "1",
+            "rate": "84",
+            "flowRate": "5",
+            "time": "84",
+            "cm": "h8",
+            "sec": "90.5",
+            "lPerMin": "h8",
+            "lPerMin2": "905"
+        },
+        {
+            "no": "e",
+            "rate": "8",
+            "flowRate": "38",
+            "time": "92.7",
+            "cm": "2505117197",
+            "sec": "8.3",
+            "lPerMin": "96",
+            "lPerMin2": "S"
+        },
+        {
+            "no": "92.5",
+            "rate": "82",
+            "flowRate": "89",
+            "time": "ttb",
+            "cm": "89",
+            "sec": "92.7",
+            "lPerMin": "draft",
+            "lPerMin2": "Date"
+        }
+    ],
+    "errorCodes": {
+        "A": "writing",
+        "B": "calculation",
+        "C": "mixing up",
+        "D": "reading",
+        "E": "copy",
+        "F": "other"
+    },
+    "initials": "00299"
+}

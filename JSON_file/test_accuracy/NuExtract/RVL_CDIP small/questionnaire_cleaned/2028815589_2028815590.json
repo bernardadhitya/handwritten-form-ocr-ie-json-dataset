@@ -1,37 +1,37 @@
 {
-  "prep_study": "PREP STUDY",
-  "name": null,
-  "regular_brand": null,
-  "cigarette": null,
-  "time_deprivation": "2 HOURS",
-  "last_cigarette": ".00",
-  "last_caffeine": null,
-  "mouth_throat_impact": {
-    "low": null,
-    "high": null
-  },
-  "unusual_flavor": null,
-  "off_taste": null,
-  "mouth_coating": {
-    "not_at_all": null,
-    "very": null
-  },
-  "satisfaction": {
-    "not_at_all": null,
-    "very": null
-  },
-  "like_dislike": {
-    "dislike_extremely": null,
-    "like_extremely": null
-  },
-  "mentholated": "Yes",
-  "menthol": {
-    "very_little": null,
-    "a_lot": null
-  },
-  "cooling": {
-    "very_little": null,
-    "a_lot": null
-  },
-  "id": "2028815589"
+    "prep_study": "CA",
+    "name": "SESSION",
+    "regular_brand": "15Z INa",
+    "cigarette": "y",
+    "time_deprivation": "2 HOURS NICOTINE 1 HOUR CAFFEINE",
+    "last_cigarette": ".00",
+    "last_caffeine": "/",
+    "mouth_throat_impact": {
+        "low": true,
+        "high": false
+    },
+    "unusual_flavor": false,
+    "off_taste": false,
+    "mouth_coating": {
+        "not_at_all": true,
+        "very": false
+    },
+    "satisfaction": {
+        "not_at_all": true,
+        "very": false
+    },
+    "like_dislike": {
+        "dislike_extremely": false,
+        "like_extremely": false
+    },
+    "mentholated": "Yes",
+    "menthol": {
+        "very_little": true,
+        "a_lot": false
+    },
+    "cooling": {
+        "very_little": true,
+        "a_lot": false
+    },
+    "id": "2028815589"
 }

@@ -1,0 +1,61 @@
+{
+  "study_number": null,
+  "study_type": null,
+  "respondent_range": null,
+  "new_cpt_screening_questionnaire": {
+    "date": null,
+    "name": null,
+    "address": null,
+    "city_state": null,
+    "telephone": null,
+    "date_interview": null,
+    "time_begun": "",
+    "interviewer": null,
+    "validated_by": "Kello, 1"
+  },
+  "introduction": null,
+  "interviewer_note": "If you reject a respondent because of language or hearing problems, in a hurry, etc., record below.",
+  "terminate_problem": null,
+  "questions": {
+    "A": {
+      "question": null,
+      "options": {
+        "under_18": null,
+        "18_24": null,
+        "25_34": "",
+        "35_56": "",
+        "50_and_over": "",
+        "refused": "Terminate and record below."
+      },
+      "terminate_reason": null
+    },
+    "B": {
+      "question": null,
+      "options": {
+        "male": null,
+        "female": null
+      },
+      "terminate_reason": null
+    },
+    "C": {
+      "question": null,
+      "options": {
+        "white": null
+      }
+    },
+    "D": {
+      "question": null,
+      "options": {
+        "less_than_5": null,
+        "5_10": null,
+        "11_20": null,
+        "21_30": null,
+        "31_40": "",
+        "41_or_more": "",
+        "dont_know_no_answer": null
+      },
+      "terminate_reason": null
+    }
+  },
+  "code": null
+}

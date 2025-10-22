@@ -1,40 +1,44 @@
 {
-  "Code d'envoi": "Questionnaire",
-  "Identite fictive": {
-    "Nom": "A.M.1.",
-    "Prenom": "S.R.U.N.O.",
-    "Adresse": "e.sgers.",
-    "Code postal": "352313648",
-    "Ville": "Dogncvi"
-  },
-  "Scenario": {
-    "Categorie": "Demande...mPowmatian",
-    "Objet": "enseignemem....s...e...oaire.....a..nei.",
-    "Complement": null,
-    "Reference client eventuelle": "CP.AM...Caie...Paimaie......Ass.n..a.nce..Maladi",
-    "Adresse": "ao......natioma.",
-    "Code postal": null,
-    "Ville": null
-  },
-  "Redaction": {
-    "Type de stylo (noir) utilise": [
-      "bille"
-    ],
-    "Temps passe a traiter le scenario": null
-  },
-  "Contribution": {
-    "Cocher les elements de votre contribution pour le_scenario_traite": [
-      "(6e)",
-      "9./.4",
-      "X(+2€)",
-      "Mon courrier contient une page de garde de fax",
-      "+1€",
-      "J'ai envoyé par courriel mon courrier numérisé le"
-    ],
-    "Marque et modele du scanner": "L",
-    "Format": [
-      "PNG"
-    ],
-    "Resolution des images": null
-  }
+    "Code d'envoi": "Questionnaire",
+    "Identite fictive": {
+        "Nom": "LAMI",
+        "Prenom": "GRuNo",
+        "Adresse": "134_n6. dea_ Nexfera",
+        "Code postal": "81840100",
+        "Ville": "Deancvilea",
+        "Tel": "358"
+    },
+    "Scenario": {
+        "Categorie": "Demandc_",
+        "Objet": "AsX. les_benaitea. Lleucnel Rcnacthtntat",
+        "Complement": "Dalr",
+        "Reference client eventuelle": "",
+        "Interlocuteur": "_CPAM_Caltl_Pxiteiae_L_Assalanee_Haladit",
+        "Adresse": "21_nentc_natienelc_",
+        "Code postal": "L4LeLd6ol",
+        "Ville": "SL_Beneiat Sml_Klanc"
+    },
+    "Redaction": {
+        "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+        ],
+        "Temps passe a traiter le scenario": "A} _ minutes."
+    },
+    "Contribution": {
+        "Cocher les elements de votre contribution pour le_scenario_traite": [
+            "J'envoie mon courrier par voie postale a la date du _19/.9k",
+            "Mon courrier contient une page de garde de fax",
+            "Avant mon envoi postal, j'ai telecopie ma contribution le",
+            "J'ai envoye par courriel mon courrier numerise le"
+        ],
+        "Marque et modele du scanner": "",
+        "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+        ],
+        "Resolution des images": "dpilppp"
+    }
 }

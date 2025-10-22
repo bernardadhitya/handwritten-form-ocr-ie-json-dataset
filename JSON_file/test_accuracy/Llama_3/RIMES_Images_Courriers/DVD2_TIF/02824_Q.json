@@ -1,0 +1,41 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": null,
+    "Identite fictive": {
+      "Nom": null,
+      "Prenom": null,
+      "Adresse": {
+        "Rut": null,
+        "Anamt": null,
+        "Oeat": null,
+        "Ville": "GAR",
+        "Tel": "598225"
+      }
+    },
+    "Scenario": {
+      "Categorie": null,
+      "Autas": "Objet Vouo.",
+      "Dontactss": null,
+      "Reference client eventuelle": "A H",
+      "Interlocuteur": null,
+      "Adresse": null,
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille",
+          null,
+          null
+        ],
+        "Temps passe a traiter le scenario": null,
+        "Contribution": {
+          "Cocher les_elements_de_votre contribution pour le scenario traite": [
+            null,
+            null,
+            "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+            null
+          ],
+          "Marque et modele du scanner": null
+        }
+      }
+    }
+  }
+}

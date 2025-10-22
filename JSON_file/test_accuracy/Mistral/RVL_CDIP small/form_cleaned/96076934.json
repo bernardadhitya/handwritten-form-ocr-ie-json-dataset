@@ -1,20 +1,22 @@
 {
   "consignmentItems": {
     "salesRep": "R.SowtAD",
-    "date": "96076934",
+    "date": "DATE-D-96",
     "items": [
       {
-        "itemDescription": "Ay5sous",
-        "promoCpnSerial": "/3",
-        "quantity": 300
-      },
-      {
-        "itemDescription": "STyLE..So4eoNs",
-        "promoCpnSerial": "3186012320",
-        "quantity": 1
+        "description": "Ay5sous",
+        "promo": "/3",
+        "cpn": "3506139-e738",
+        "serial": null,
+        "quantity": 300,
+        "number": "LZV",
+        "numbers": "5.AAgCs",
+        "style": "STyLE..So4eoNs",
+        "tle": "3186012320",
+        "z0000": "Z0000"
       }
     ],
-    "signatureDate": "D-96",
-    "signatureNumber": "Z0000"
+    "signatureDate": "DATE-D-96",
+    "signatureNumber": "96076934"
   }
 }

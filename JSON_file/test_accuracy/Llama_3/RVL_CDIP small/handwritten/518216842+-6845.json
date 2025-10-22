@@ -1,0 +1,43 @@
+{
+  "store": "ALBERTSONS",
+  "address": {
+    "street": null,
+    "city": null,
+    "state": "CA",
+    "zip": "93H45"
+  },
+  "transaction": {
+    "number": null,
+    "terminal": "10",
+    "cashier": null,
+    "store_number": null,
+    "date": "Thu Jun 29 1995",
+    "time": null
+  },
+  "items": [
+    {
+      "name": null,
+      "price": null,
+      "tax": null
+    },
+    {
+      "name": null,
+      "price": null,
+      "tax": false
+    },
+    {
+      "name": null,
+      "price": null,
+      "tax": null
+    }
+  ],
+  "totals": {
+    "subtotal": 15.47,
+    "tax_paid": null,
+    "total": null,
+    "cash": null,
+    "total_tender": null,
+    "change": null
+  },
+  "message": null
+}

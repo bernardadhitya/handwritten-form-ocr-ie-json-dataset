@@ -1,0 +1,59 @@
+{
+  "Objectives": {
+    "Instructions": null,
+    "Questions": [
+      {
+        "Question": "Please rank your company's three most important objectives in providing health promotion activities in the space on the left. (Use a scale of 1 to 3, with 1 being the most important. Please use each ranking only once.)",
+        "Options": [
+          null,
+          null,
+          null,
+          null,
+          "Reduced absenteeism",
+          null,
+          null,
+          null,
+          null
+        ],
+        "Rank": {
+          "Improved employee health": null,
+          "Medical cost containment": null,
+          "Improved employee morale": null,
+          "Increased productivity": null,
+          "Reduced absenteeism": null,
+          "Increased organizational effectiveness as part of total quality program": null,
+          "Response to competitive pressures": null,
+          "Employee recruiting/retention": null,
+          "Other (specify)": null
+        }
+      },
+      {
+        "Question": "Please rate how effective your program has been in meeting each of your three most important objectives.",
+        "Effectiveness": [
+          {
+            "Objective": "First",
+            "Very Effective": null,
+            "Slightly or Effective": null,
+            "Not Effective": null,
+            "Not Sure": null
+          },
+          {
+            "Objective": null,
+            "Very Effective": null,
+            "Slightly or Effective": null,
+            "Not Effective": null,
+            "Not Sure": null
+          },
+          {
+            "Objective": "Third",
+            "Very Effective": null,
+            "Slightly or Effective": null,
+            "Not Effective": null,
+            "Not Sure": null
+          }
+        ]
+      }
+    ]
+  },
+  "Company": "Hewitt Associates"
+}

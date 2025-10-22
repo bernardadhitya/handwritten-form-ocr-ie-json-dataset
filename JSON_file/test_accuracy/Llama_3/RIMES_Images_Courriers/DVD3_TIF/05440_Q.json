@@ -1,0 +1,53 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": "",
+        "Adresse": null,
+        "Code postal": "818.181219",
+        "Ville": "",
+        "Tel": null
+      }
+    }
+  },
+  "Scenario": {
+    "Categorie": null,
+    "Complement": {
+      "Reference client eventuelle": null
+    },
+    "Interlocuteur": {
+      "akup": {
+        "d_eanceA": {
+          "Adresse": null,
+          "Auene:_Rasn": null,
+          "Code postal": null,
+          "Ville": null
+        }
+      }
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        null,
+        null,
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": null,
+      "Contribution": {
+        "Cocher les_elements de_votre contribution pour le scenario _traite": [
+          "(6e) Jenvoie mon courrier par voie postale a la date du 26LZx",
+          null,
+          null,
+          null
+        ]
+      },
+      "Marque et modele du scanner": null,
+      "Format": [
+        "PNG",
+        "GIF",
+        null
+      ],
+      "Resolution des images": null
+    }
+  }
+}

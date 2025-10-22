@@ -1,15 +1,15 @@
 {
-  "Form Number": "8201Rv.5/86",
-  "Department": "BRAND MARKETING",
-  "Approvals": {
-    "Brand Manager": 3,
-    "Marketing Director": 3,
-    "Law Department": 1
-  },
-  "Date": null,
-  "Originator": null,
-  "Approval Requirements": {
-    "Advertising Company": 1,
-    "Advertising Legal Stats": 1
-  }
+    "Form Number": "8201",
+    "Department": "BRAND MARKETING",
+    "Approvals": {
+        "Brand Manager": true,
+        "Marketing Director": true,
+        "Law Department": true
+    },
+    "Date": "Mar 1995",
+    "Originator": "Originator (routine)",
+    "Approval Requirements": {
+        "Advertising Company": 12468,
+        "Advertising Legal Stats": 432
+    }
 }

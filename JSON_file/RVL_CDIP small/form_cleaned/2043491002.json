@@ -1,47 +1,48 @@
 {
-    "keyToCodes": {
-        "QRSA": "Quick Retrieval Storage Area - 100 Park Avenue",
-        "TER": "Until Terminated",
-        "SUP": "Until Superceded",
-        "PER": "Permanently",
-        "CUR": "Current Year"
-    },
-    "keyBanks": [
-        "BANK FILES",
-        "ADMINISTRATIVE PMCC FILES",
-        "ACCOUNTING FILES"
-    ],
-    "accountingFiles": {
-        "accounts": "CUR+2",
-        "qtlyGeneralLedger": "CUR+7",
-        "worksheets": "CUR+2",
-        "journalEntries": "CUR+2",
-        "directorsReportMonthly": "CUR+2"
-    },
-    "recordTitle": "Philip Morris Incorporated",
-    "bookingRuns": "Records Management Headquarters Services",
-    "terminations": "TER",
-    "comfiche": "DISC",
-    "office": "PM Credit Corporation",
-    "department": [
-        "Legal Counsel",
-        "Records Management",
-        "Department Management"
-    ],
-    "authorization": "ON-SITE",
-    "recordsRetentionSchedule": {
-        "QRSA": "CARLSTADT",
-        "retentionPeriod": "OFF-SITE",
-        "duration": 5
-    },
-    "cowaA": "DENNIS Flotm",
-    "total": "TER",
-    "holdUntilCompletion": "CUR+7*",
-    "location": "120 Park Avenue",
-    "date": [
-        "7/5/x5",
-        "6/28/85"
-    ],
-    "page": "1 of 3",
-    "remarks": "2043491002"
+  "keyToCodes": {
+    "QRSA": "Quick Retrieval Storage Area - 100 Park Avenue",
+    "TER": "Until Terminated",
+    "SUP": "Until Superceded",
+    "PER": "Permanently",
+    "CUR": "Current Year"
+  },
+  "keyBanks": [
+    "BANK FILES",
+    "ADMINISTRATIVE PMCC FILES",
+    "ACCOUNTING FILES"
+  ],
+  "accountingFiles": {
+    "accounts": "CUR+2",
+    "qtlyGeneralLedger": "CUR+7",
+    "worksheets": "CUR+2",
+    "journalEntries": "CUR+2",
+    "directorsReportMonthly": "CUR+2"
+  },
+  "recordTitle": "ACCOUNTING FILES (DISC)",
+  "bookingRuns": "KEYBANKS (BOOKING RUNS/ TERMINATIONS)",
+  "terminations": "TER",
+  "comfiche": "ACCOUNTING FILES (COMFICHE)",
+  "office": "ON-SITE OFFICE",
+  "department": [
+    "Department Management",
+    "Records Management",
+    "Legal Counsel"
+  ],
+  "authorization": "",
+  "recordsRetentionSchedule": {
+    "QRSA": "CARLSTADT",
+    "retentionPeriod": "OFF-SITE",
+    "duration": 5
+  },
+  "cowaA": "",
+  "total": "CUR+7*",
+  "holdUntilCompletion": "*HOLD UNTIL COMPLETION OF IRS AUDIT.",
+  "location": "120 PARK AVENUE",
+  "date": [
+    "6/28/85",
+    "7/15/85",
+    "4/25/85"
+  ],
+  "page": "",
+  "remarks": ""
 }

@@ -1,36 +1,35 @@
 {
-  "items": [
-    {
-      "sku": "87768",
-      "name": "OneCarton of DORAL",
-      "price": {
-        "original": "$200.00",
-        "discount": "$200.00"
-      }
-    },
-    {
-      "sku": "87769",
-      "name": "OnePack of DORAL",
-      "price": {
-        "original": "$40.00",
-        "discount": "$40.00"
-      }
-    },
-    {
-      "sku": "8293",
-      "name": "OnePack of DORAL",
-      "price": {
-        "original": null,
-        "discount": null
-      }
-    },
-    {
-      "sku": "87769",
-      "name": "OneCarton of DORA",
-      "price": {
-        "original": null,
-        "discount": null
-      }
-    }
-  ]
+    "items": [
+        {
+            "code": "87768",
+            "discount": "$200OFF",
+            "description": "One Carton of DORAL"
+        },
+        {
+            "code": "SUPERAMERIC",
+            "description": "DORAL"
+        },
+        {
+            "code": "87768",
+            "discount": "$2000FF",
+            "description": "One Carton of DORA"
+        },
+        {
+            "code": "DORAL",
+            "discount": "40OFF",
+            "description": "One Pack of DORAL"
+        },
+        {
+            "code": "87769",
+            "description": "One Pack of DORAL",
+            "discount": "40 OFF"
+        },
+        {
+            "code": "8293"
+        },
+        {
+            "code": "87769",
+            "description": "PORL"
+        }
+    ]
 }

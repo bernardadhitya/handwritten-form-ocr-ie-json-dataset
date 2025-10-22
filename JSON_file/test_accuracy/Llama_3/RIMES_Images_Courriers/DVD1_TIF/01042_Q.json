@@ -1,0 +1,48 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": null,
+        "Adresse": null,
+        "Code postal": "131810",
+        "Ville": null,
+        "Tel": "3583"
+      },
+      "Scenario": {
+        "Categorie": "Eelance",
+        "Caas": null,
+        "Objet": null,
+        "Complement": "ns_suak",
+        "Reference client eventuelle": "M",
+        "Interlocuteur": null,
+        "Adresse": null,
+        "Code postal": "121400",
+        "Ville": null
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          null,
+          null,
+          null
+        ],
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les elements de_votre contribution pour le_scenario traite": [
+          null,
+          null,
+          null,
+          null
+        ],
+        "Marque et modele du scanner": null,
+        "Format": [
+          "PNG",
+          null,
+          "XTIFF"
+        ],
+        "Resolution des images": null
+      }
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "company": null,
+  "location": {
+    "city": null,
+    "state": null
+  },
+  "codes": {
+    "5301": null
+  },
+  "survey": {
+    "title": "CIGARETTE PRODUCT TEST SCREENING QUESTIONNAIRE",
+    "respondent": {
+      "name": null,
+      "telephone_area_code": ""
+    },
+    "interviewer": "",
+    "address": {
+      "street": null,
+      "city": null,
+      "state": null,
+      "zip_code": null
+    },
+    "interview_time": {
+      "started": null,
+      "ended": null
+    }
+  },
+  "questions": [
+    {
+      "question": null,
+      "responses": {
+        "yes": null,
+        "no": null
+      }
+    },
+    {
+      "question": null,
+      "responses": {
+        "yes": null,
+        "no": "Continue"
+      }
+    }
+  ],
+  "notes": {
+    "if_tobacco_mentioned": "Terminate and circle below",
+    "related_industry": "23"
+  },
+  "reference_number": null
+}

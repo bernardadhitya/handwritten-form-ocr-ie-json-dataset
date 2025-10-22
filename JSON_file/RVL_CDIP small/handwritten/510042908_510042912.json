@@ -1,49 +1,49 @@
 {
-    "stockSolutions": {
-        "BiDR": {
-            "concentration": "0.01mM",
-            "volume": "50ul",
-            "totalVolume": "5ml",
-            "stockConcentration": "100x",
-            "calculation": "0.01mM x 100 = 1mM",
-            "stock": "0.3071g/l"
-        },
-        "Cytophr": {
-            "concentration": "2.5/n",
-            "stock": "3rto.ng/mC",
-            "dilution": "100X"
-        },
-        "PC": {
-            "concentration": "0.2MS",
-            "value": "11.96j"
-        },
-        "miscellaneous": {
-            "values": [
-                "0.2M",
-                "0.4",
-                "358.2",
-                "71.64",
-                "138.011",
-                "7.6",
-                "154.03",
-                "1./",
-                "25",
-                "yme Camotr",
-                "ym.Hpy",
-                "1.C",
-                "3r.5",
-                "19.5",
-                "7.2",
-                "3.0",
-                "14.0",
-                "2",
-                "40.5",
-                "9.5",
-                "7.4",
-                "6.5",
-                "51004",
-                "2908"
-            ]
-        }
+  "stockSolutions": {
+    "BiDR": {
+      "concentration": "0.01 mM",
+      "volume": "50 µL",
+      "totalVolume": "5 mL",
+      "stockConcentration": "100 x",
+      "calculation": "0.01 mM x 100 = 1 mM STOCK",
+      "stock": "0.3071 g/L"
+    },
+    "Cytophr": {
+      "concentration": "2.5 µg/mL final; 1.0 µg/mL final needed",
+      "stock": "2500 µg/mL",
+      "dilution": "1:20 = 250 µg/mL; 1:50 = 100 µg/mL"
+    },
+    "PC": {
+      "concentration": "",
+      "value": ""
+    },
+    "miscellaneous": {
+      "values": [
+        "0.2 M",
+        "141.96",
+        "28.39",
+        "178.05",
+        "35.61",
+        "358.22",
+        "71.64",
+        "138.01",
+        "27.6",
+        "156.02",
+        "31.21",
+        "7.6",
+        "43.5",
+        "6.5",
+        "25",
+        "31.5",
+        "19.5",
+        "7.0",
+        "36.0",
+        "14.0",
+        "7.2",
+        "40.5",
+        "9.5",
+        "7.4"
+      ]
     }
+  }
 }

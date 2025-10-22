@@ -1,0 +1,118 @@
+{
+  "company": null,
+  "study_number": null,
+  "address": {
+    "street": "1700 BEDFORD STREET",
+    "city": "STAMFORD",
+    "state": "CONNECTICUT",
+    "zip": null
+  },
+  "phone": null,
+  "date": "June 1986",
+  "validation_number": null,
+  "master": null,
+  "concept_test": null,
+  "telephone_screening_questionnaire": {
+    "quota_box": {
+      "age": null,
+      "usual_brand": [
+        {
+          "type": null,
+          "code": "FF",
+          "range": null
+        },
+        {
+          "type": null,
+          "code": null,
+          "range": null
+        },
+        {
+          "type": null,
+          "code": null,
+          "range": "3A"
+        }
+      ],
+      "sizes": [
+        "85mm",
+        null
+      ],
+      "mac": null
+    },
+    "date": null,
+    "time_started": null,
+    "time_completed": null,
+    "total_time_in_minutes": null,
+    "respondent": {
+      "name": null,
+      "street_address": null,
+      "telephone": null,
+      "city": null,
+      "state": null,
+      "zip": null
+    },
+    "interviewer": null,
+    "introduction": null,
+    "respondent_availability": {
+      "available": true,
+      "not_available": null,
+      "no_eligible_respondent": null
+    },
+    "termination_numbers": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "10",
+      null,
+      null,
+      null,
+      "14",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "24",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "41",
+      "42",
+      "43",
+      null,
+      null,
+      null,
+      "47",
+      "48",
+      null,
+      null
+    ]
+  },
+  "additional_info": {
+    "foronmn_bos": null,
+    "spash_cek": null,
+    "kf_hstci": null
+  }
+}

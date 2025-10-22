@@ -1,0 +1,128 @@
+{
+  "SampleNumber": null,
+  "Confidential": null,
+  "Code": null,
+  "SampleDate": null,
+  "Observations": null,
+  "FilamentAbundance": {
+    "None": 0,
+    "Few": 1,
+    "Some": null,
+    "Common": 6,
+    "VeryAbundant": null,
+    "Excessive": null
+  },
+  "FilamentEffectOnFlocStructure": {
+    "LittleOrNone": null,
+    "Bridging": null,
+    "OpenFlocStructure": false
+  },
+  "MorphologyOfFloc": {
+    "Firm": null,
+    "Weak": null,
+    "Round": false,
+    "Irregular": null,
+    "Compact": null,
+    "Diffuse": false
+  },
+  "Size": {
+    "LessThan150": null,
+    "Between150And500": null,
+    "GreaterThan500": false
+  },
+  "PercentageInRange": null,
+  "Flament": null,
+  "Features": [
+    "Free cells in suspension",
+    null,
+    null,
+    null,
+    "Spirochaetes",
+    null,
+    null
+  ],
+  "FilamentousMicroorganismSummary": {
+    "Nocardia sp.": {
+      "Rank": null,
+      "Abundance": null
+    },
+    "M.parvicella": {
+      "Rank": null,
+      "Abundance": null
+    },
+    "Type 1701": {
+      "Rank": null,
+      "Abundance": null
+    },
+    "Type 0581": {
+      "Rank": null,
+      "Abundance": null
+    },
+    "S.natans": {
+      "Rank": null,
+      "Abundance": null
+    },
+    "Type 0092": {
+      "Rank": null,
+      "Abundance": null
+    },
+    "Type 021N": {
+      "Rank": null,
+      "Abundance": null
+    },
+    "Type 0803": {
+      "Rank": null,
+      "Abundance": null
+    },
+    "Thiothrix sp.": {
+      "Rank": null,
+      "Abundance": null
+    },
+    "Type 1851": {
+      "Rank": null,
+      "Abundance": null
+    },
+    "Type 0041": {
+      "Rank": null,
+      "Abundance": null
+    },
+    "Type 0961": {
+      "Rank": null,
+      "Abundance": null
+    },
+    "H.hydrossis": {
+      "Rank": null,
+      "Abundance": null
+    },
+    "Type 0675": {
+      "Rank": null,
+      "Abundance": null
+    },
+    "N.limicola": {
+      "Rank": null,
+      "Abundance": null
+    },
+    "Other": {
+      "Fungus": null,
+      "Other": null
+    },
+    "N": {
+      "limicola": {
+        "Abundance": null
+      }
+    },
+    "S": {
+      "natans": {
+        "Abundance": null
+      }
+    },
+    "M": {
+      "parvicella": {
+        "Abundance": null
+      }
+    }
+  },
+  "Remarks": null,
+  "Basn": null,
+  "CodeNumber": null
+}

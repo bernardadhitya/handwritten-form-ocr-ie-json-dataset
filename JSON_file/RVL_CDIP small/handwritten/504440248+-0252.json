@@ -1,34 +1,32 @@
 {
-    "year": 1978,
-    "accomplishments": [
+  "year": 1978,
+  "accomplishments": [
+    {
+      "id": "DETABN",
+      "details": [
         {
-            "id": "DETABN",
-            "details": [
-                {
-                    "type": "FITR Analysis",
-                    "description": "Evaluated foliar addition. Evaluated NaBi on aO3, SiQ, Siow, Suju, MqO. Evaluated ascorbic acid on Carbon, QlO, tow. Identified usage of additives (preliminary).",
-                    "ratios": {
-                        "[7/5]": 0.73,
-                        "[Cu]/[Sn]": 6.0
-                    },
-                    "compounds": [
-                        "Cu, Sn, Fe",
-                        "Sn, Cu, Pd"
-                    ]
-                },
-                {
-                    "type": "Evaluation",
-                    "description": "Evaluated AgMOy, Ql, preliminary experiments. Evaluated sucrose and saccharin on Carbon, SiO2, butyl, tow. Evaluated salicylic acid on Carbon, SiO2 (preserve). Evaluated poly N,N'-phenylurea (synthesized methyl bis salicylideneimine) cobalt complex.",
-                    "compounds": [
-                        "J3, sl, cn, lawite, sP"
-                    ]
-                },
-                {
-                    "type": "Catalyst Evaluation",
-                    "description": "Evaluated two Pd/Cu catalysts based on the legal form of Rowe FormTs (or Ql03, SiO2-Ql, os).",
-                    "code": 504440248
-                }
-            ]
+          "type": "FITR Analysis",
+          "description": "Evaluated Ambersorb XE-340 & XE-318. Pyridylized ion-exchange resin adsorbents, both fresh & aged. Evaluated NaBiO3 on Al2O3, SiO2, SiO2 w/sugar & MgO. Evaluated ascorbic acid on Carbon, Al2O3, tow. Evaluated Cu/Sn gel filter additives (preliminary expts).",
+          "ratios": {
+            "[Cu]/[Sn]": 0.73
+          },
+          "compounds": [
+            "Cu, Sn, Co",
+            "Sn, Cu, Fe",
+            "Sn, Cu, Pd"
+          ]
+        },
+        {
+          "type": "Evaluation",
+          "description": "Evaluated Ag/MoO4/Al2O3 (preliminary expts). Evaluated salcomine and salminine on carbon, Al2O3, SiO2-Al2O3, bauxite, tow. Evaluated salcomine on carbon, Al2O3, SiO2-Al2O3 (in progress). Evaluated poly-N,N'-1,2-phenylene (5,5'-methylenebis (salicylideneiminato)), cobalt (II) on Al2O3 & carbon.",
+          "compounds": []
+        },
+        {
+          "type": "Catalyst Evaluation",
+          "description": "Made 4 attempts at Al2O3 coating of supports (Al2O3 (pH 1) & 3.0 wt% on bauxite SRC). Evaluated two Pd/Cu catalysts based on the Lloyd & Rowe patents (on Al2O3 & SiO2-Al2O3).",
+          "code": ""
         }
-    ]
+      ]
+    }
+  ]
 }

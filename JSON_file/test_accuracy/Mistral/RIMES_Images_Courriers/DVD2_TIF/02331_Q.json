@@ -1,0 +1,53 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": "Benedicte"
+      },
+      "Adresse": "2, Que d_ coa He",
+      "Code postal": null,
+      "Ville": null,
+      "Tel": null
+    },
+    "Scenario": {
+      "Categorie": null,
+      "Objet": "Semeture c cmnb boncete",
+      "Complement": null,
+      "Reference client eventuelle": null
+    },
+    "Interlocuteur": {
+      "Aciete_Gea": {
+        "Adresse": null,
+        "Code postal": null,
+        "Ville": null
+      }
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "bille",
+        null,
+        null
+      ],
+      "Temps passe a traiter le scenario": null
+    },
+    "Contribution": {
+      "Cocher les_elements de_votre contribution pour le_scenario traite": {
+        "(6e) Jenvoie mon courrier par voie postale a la date du J6_lol.lez": null,
+        "(+2e) Mon courrier contient une page de garde de fax": null,
+        "(+1e) Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+        "(+1€) J'ai envoye par courriel mon courrier numerise le": true
+      },
+      "Marque et modele du scanner": null,
+      "Format": [
+        null,
+        "GIF",
+        null
+      ],
+      "Resolution des images": [
+        null,
+        null
+      ]
+    }
+  }
+}

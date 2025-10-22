@@ -1,0 +1,48 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": null,
+        "Adresse": null,
+        "Code postal": null,
+        "Ville": null,
+        "Tel": "353"
+      },
+      "Scenario": {
+        "Categorie": "Demande_d_Vinfarmation",
+        "Objet": null,
+        "Vo": null,
+        "Complement": null,
+        "Reference client eventuelle": null,
+        "Debit_Lyonncs_": {
+          "Adresse": null,
+          "Code postal": null,
+          "Ville": "VERDES"
+        },
+        "Redaction de stylo (noir) utilise": {
+          "bille": null,
+          "plume": null,
+          "feutre": null
+        },
+        "Temps passe a traiter le scenario": null,
+        "Contribution": {
+          "Jenvoie mon courrier par voie postale a la date du": true,
+          "Mon courrier contient une page de garde de fax": null,
+          "Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+          "J'ai envoye par courriel mon courrier numerise le": null
+        },
+        "Marque et modele du scanner": null,
+        "Format": [
+          null,
+          "GIF",
+          null
+        ],
+        "Resolution des images": null,
+        "facture": null,
+        "Bonque": null,
+        "Type": null
+      }
+    }
+  }
+}

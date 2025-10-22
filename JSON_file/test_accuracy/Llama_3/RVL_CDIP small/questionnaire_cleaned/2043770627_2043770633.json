@@ -1,0 +1,106 @@
+{
+  "company": null,
+  "address": {
+    "street": null,
+    "job": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "document": {
+    "type": null,
+    "date": "March, 1978"
+  },
+  "time_started": null,
+  "introduction": null,
+  "questions": {
+    "A": {
+      "question": "Do you or does anyone in your household smoke cigarettes?",
+      "answers": {
+        "yes": "Continue",
+        "no": null
+      }
+    },
+    "B": {
+      "question": null,
+      "instruction": null
+    },
+    "C": {
+      "question": null,
+      "instruction": null
+    }
+  },
+  "grid": {
+    "smokers": [
+      {
+        "name": null,
+        "sex": null
+      },
+      {
+        "name": null,
+        "sex": ""
+      },
+      {
+        "name": null,
+        "sex": null
+      },
+      {
+        "name": null,
+        "sex": null
+      }
+    ],
+    "brands_smoked": [
+      "MR9-",
+      "12-",
+      "15-",
+      null,
+      null,
+      null,
+      null,
+      null,
+      "11-",
+      null,
+      null,
+      "20-"
+    ],
+    "selected": null
+  },
+  "instructions_to_interviewer": null,
+  "questions_continued": {
+    "2": {
+      "question": null,
+      "instruction": null
+    },
+    "callback": {
+      "instruction": "BE AT HOME; RECORD BELOW AND CALL BACK AT THAT TIME.",
+      "date": null,
+      "time": ""
+    },
+    "3": {
+      "question": null,
+      "options": {
+        "3_months_or_less": null,
+        "4_6_months": null,
+        "7_11_months": null,
+        "12_months_1_year": null,
+        "over_1_year_to_2_years": null,
+        "more_than_2_years": null
+      }
+    },
+    "2a": {
+      "question": null,
+      "options": {
+        "king_size": "25",
+        "100s": null
+      }
+    },
+    "2b": {
+      "question": null,
+      "answers": {
+        "yes": null,
+        "no": "26-L"
+      }
+    }
+  },
+  "contact_number": null
+}

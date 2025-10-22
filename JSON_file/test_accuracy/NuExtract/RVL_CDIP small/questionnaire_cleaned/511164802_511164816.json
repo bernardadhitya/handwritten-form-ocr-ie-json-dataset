@@ -1,0 +1,78 @@
+{
+    "MasterChecklist": {
+        "1994StimulusEvaluationAndResponseSelection": {
+            "BloodStudy": {
+                "Name": "Darrell Adkins",
+                "Date": "7-19-94",
+                "Code": "Soa",
+                "Age": "a3",
+                "Weight": 80,
+                "ConsentForm": false,
+                "BreathCOLevelUponArrival": {
+                    "COLevel": 10,
+                    "PPM": true
+                },
+                "EEGCapHookUp": false,
+                "InsertCatheter": false,
+                "PracticeTheTask": false,
+                "BreathCO": {
+                    "COLevel": 7,
+                    "Ndd": true
+                },
+                "BloodSamplePreSmoking": {
+                    "Time": "-5 min",
+                    "COHbLevel": 2.0
+                },
+                "PreSmokingTask": false,
+                "BreathCOPreSmoking": {
+                    "COLevel": 8.5,
+                    "PPM": true
+                },
+                "BloodSample0MinPreSmoking": {
+                    "COHbLevel": 67
+                },
+                "SmokeCigaretteUtilizingQSDSMachine": false,
+                "BreathCOPostSmoking1Min": {
+                    "COLevel": null,
+                    "PPM": true
+                },
+                "BloodSample1MinPostSmoking": {
+                    "COHbLevel": 3.3
+                },
+                "FirstPostSmokingTask": false,
+                "BreathCOPostSmoking8Min": {
+                    "COLevel": 13.8,
+                    "PPM": true
+                },
+                "BloodSample8MinPostSmoking": {
+                    "COHbLevel": 3.2
+                },
+                "SecondPostSmokingTask": false,
+                "BreathCOPostSmoking15Min": {
+                    "COLevel": 13,
+                    "PPM": true
+                },
+                "BloodSample15MinPostSmoking": {
+                    "COHbLevel": 3.2
+                },
+                "ThirdPostSmokingTask": false,
+                "BreathCOPostSmoking22Min": {
+                    "COLevel": null,
+                    "PPM": true
+                },
+                "BloodSample22MinPostSmoking": {
+                    "COHbLevel": 3.1
+                },
+                "FourthPostSmokingTask": false,
+                "BreathCOPostSmoking29Min": {
+                    "COLevel": 1.5,
+                    "PPM": true
+                },
+                "BloodSample29MinPostSmoking": {
+                    "COHbLevel": 3.9
+                },
+                "FifthPostSmokingTask": false
+            }
+        }
+    }
+}

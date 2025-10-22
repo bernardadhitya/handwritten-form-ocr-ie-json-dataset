@@ -1,83 +1,29 @@
 {
-  "questionnaire": {
-    "question1": {
-      "question": "Compared to the brand you smoke most often the sample cigarettes were",
-      "options": [
-        {
-          "text": "a great deal smoother",
-          "selected": false
-        },
-        {
-          "text": "somewhat smoother",
-          "selected": false
-        },
-        {
-          "text": "exactly the same",
-          "selected": false
-        },
-        {
-          "text": "somewhat harsher",
-          "selected": false
-        },
-        {
-          "text": "a great deal harsher",
-          "selected": false
-        }
-      ]
+    "questionnaire": {
+        "question1": "Compared to the brand you smoke most often the sample cigarettes were..",
+        "responses1": [
+            "a great deal smoother",
+            "somewhat smoother",
+            "exactly the same",
+            "somewhat harsher",
+            "a great deal harsher"
+        ],
+        "question2": "Compared to the brand you smoke most often the sample cigarettes had..",
+        "responses2": [
+            "a lot more strength",
+            "somewhat more strength",
+            "the same strength",
+            "somewhat less strength",
+            "a lot less strength"
+        ],
+        "question3": "The sample cigarettes have.",
+        "responses3": [
+            "a very pleasant taste",
+            "a somewhat pleasant taste",
+            "neither a pleasant nor unpleasant taste",
+            "a somewhat unpleasant taste",
+            "a very unpleasant taste"
+        ]
     },
-    "responses1": [],
-    "question2": {
-      "question": "Compared to the brand you smoke most often the sample cigarettes had",
-      "options": [
-        {
-          "text": "a lot more strength",
-          "selected": false
-        },
-        {
-          "text": "somewhat more strength",
-          "selected": false
-        },
-        {
-          "text": "the same strength",
-          "selected": false
-        },
-        {
-          "text": "somewhat less strength",
-          "selected": false
-        },
-        {
-          "text": "a lot less strength",
-          "selected": false
-        }
-      ]
-    },
-    "responses2": [],
-    "question3": {
-      "question": "The sample cigarettes have",
-      "options": [
-        {
-          "text": "a very pleasant taste",
-          "selected": false
-        },
-        {
-          "text": "a somewhat pleasant taste",
-          "selected": false
-        },
-        {
-          "text": "neither a pleasant nor unpleasant taste",
-          "selected": false
-        },
-        {
-          "text": "a somewhat unpleasant taste",
-          "selected": false
-        },
-        {
-          "text": "a very unpleasant taste",
-          "selected": false
-        }
-      ]
-    },
-    "responses3": [],
-    "identifier": "620477466"
-  }
+    "identifier": 620477466
 }

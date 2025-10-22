@@ -1,128 +1,219 @@
 {
-    "company": "AHP Marketing Research",
-    "survey": "National Consensus Surveys",
-    "address": {
-        "street": "801 Second Avenue",
-        "suite": "391",
-        "zip": "12947W",
-        "city": "New York",
-        "state": "New York",
-        "postal_code": "10017"
-    },
-    "date": "May 1977",
-    "questionnaire": {
-        "title": "Cigarette Portfolio Screening Questionnaire",
-        "sections": [
-            {
-                "title": "Time Interview",
-                "fields": [
-                    "Started",
-                    "Ended",
-                    "Respondent's Address",
-                    "State",
-                    "Interviewer",
-                    "Validated By",
-                    "Date"
-                ]
-            },
-            {
-                "title": "Indicate City",
-                "options": [
-                    "Albany",
-                    "Boston",
-                    "Denver",
-                    "Buffalo",
-                    "Des Moines",
-                    "Milwaukee",
-                    "Minneapolis",
-                    "Syracuse"
-                ]
-            },
-            {
-                "title": "Initial Refusal",
-                "instructions": "Circle next highest number below",
-                "numbers": [
-                    10,
-                    18,
-                    19,
-                    21,
-                    22,
-                    23,
-                    26,
-                    30,
-                    38,
-                    41,
-                    53,
-                    57,
-                    60,
-                    76,
-                    101,
-                    102,
-                    103,
-                    104,
-                    105,
-                    106,
-                    107,
-                    108,
-                    109,
-                    110,
-                    111,
-                    112,
-                    113,
-                    114,
-                    116,
-                    117,
-                    118,
-                    119,
-                    120
-                ]
-            },
-            {
-                "title": "Market Research Participation",
-                "question": "Have you, yourself, participated in a market research survey in the past 6 months or so?",
-                "responses": {
-                    "yes": "Terminate and circle next highest number below",
-                    "no": "Continue"
-                }
-            },
-            {
-                "title": "Age Group",
-                "instructions": "Show age card. Please tell me which letter on this card includes your age",
-                "age_groups": [
-                    {
-                        "range": "Under 21",
-                        "action": "Terminate and circle next highest number below"
-                    },
-                    {
-                        "range": "21-24",
-                        "action": "Continue"
-                    },
-                    {
-                        "range": "25-29",
-                        "action": "Continue"
-                    },
-                    {
-                        "range": "30-34",
-                        "action": "Continue"
-                    },
-                    {
-                        "range": "35-39",
-                        "action": "Continue"
-                    },
-                    {
-                        "range": "40-44",
-                        "action": "Continue"
-                    },
-                    {
-                        "range": "45-54",
-                        "action": "Continue"
-                    },
-                    {
-                        "range": "Over 55",
-                        "action": "Terminate and circle next highest number below"
-                    }
-                ]
-            }
+  "company": "National Consensus Surveys",
+  "survey": "National Consensus Surveys",
+  "address": {
+    "street": "711 8th St Apt 3",
+    "suite": "",
+    "zip": "",
+    "city": "D.M.",
+    "state": "IA",
+    "postal_code": ""
+  },
+  "date": "May 25",
+  "questionnaire": {
+    "title": "Cigarette Portfolio Screening Questionnaire",
+    "sections": [
+      {
+        "title": "Time Interview",
+        "fields": [
+          "Started 4:25",
+          "Ended 4:37",
+          "Respondent's Address 711 8th St Apt 3 D.M.",
+          "State IA",
+          "Interviewer Jo Kuehn",
+          "Validated By ",
+          "Date May 25"
         ]
-    }
+      },
+      {
+        "title": "Indicate City",
+        "options": [
+          "Albany",
+          "Boston",
+          "Buffalo",
+          "Denver",
+          "Des Moines",
+          "Milwaukee",
+          "Minneapolis",
+          "Syracuse"
+        ]
+      },
+      {
+        "title": "Initial Refusal",
+        "instructions": "Circle next highest number below",
+        "numbers": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          79,
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118,
+          119,
+          120
+        ]
+      },
+      {
+        "title": "Market Research Participation",
+        "question": "Have you, yourself, participated in a market research survey in the past three months or so?",
+        "responses": {
+          "yes": "Terminate and circle next highest number below",
+          "no": "Continue"
+        }
+      },
+      {
+        "title": "Age Group",
+        "instructions": "Show age card. Please tell me which letter on this card includes your age",
+        "age_groups": [
+          {
+            "range": "Under 21",
+            "action": "Terminate and circle next highest number below"
+          },
+          {
+            "range": "21 to 24",
+            "action": "Continue"
+          },
+          {
+            "range": "25 to 29",
+            "action": "Continue"
+          },
+          {
+            "range": "30 to 34",
+            "action": "Continue"
+          },
+          {
+            "range": "35 to 39",
+            "action": "Continue"
+          },
+          {
+            "range": "40 to 44",
+            "action": "Continue"
+          },
+          {
+            "range": "45 to 49",
+            "action": "Continue"
+          },
+          {
+            "range": "50 to 55",
+            "action": "Continue"
+          },
+          {
+            "range": "Over 55",
+            "action": "Terminate and circle next highest number below"
+          }
+        ]
+      }
+    ]
+  }
 }

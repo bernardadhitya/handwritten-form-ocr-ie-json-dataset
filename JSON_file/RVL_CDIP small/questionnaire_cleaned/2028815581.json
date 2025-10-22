@@ -1,48 +1,48 @@
 {
-    "study": "PREP STUDY",
-    "session": "REGULAR",
-    "brand": "NAES",
-    "date": "DATEO",
-    "code": "ZZ",
-    "group": "G1",
-    "product": "CIGARETTE",
-    "time": {
-        "deprivation": "2 HOURS",
-        "nicotine": "1 HOUR",
-        "caffeine": "LAST CIGARETTE /C5",
-        "last_caffeine": "LAST CAFFEINE"
+  "study": "PREP STUDY",
+  "session": "2",
+  "brand": "Superior Menthol",
+  "date": "Oct 22 91",
+  "code": "E",
+  "group": "",
+  "product": "CIGARETTE",
+  "time": {
+    "deprivation": "2 HOURS",
+    "nicotine": "NICOTINE 1 HOUR",
+    "caffeine": "1 HOUR",
+    "last_caffeine": "12:00"
+  },
+  "attributes": {
+    "mouth_throat_impact": {
+      "low": true,
+      "high": false
     },
-    "attributes": {
-        "mouth_throat_impact": {
-            "low": true,
-            "high": false
-        },
-        "flavor": {
-            "unusual": false
-        },
-        "off_taste": {
-            "strong": false
-        },
-        "mouth_coating": {
-            "very": false
-        },
-        "satisfaction": {
-            "very": false
-        },
-        "preference": {
-            "extremely": false
-        }
+    "flavor": {
+      "unusual": true
     },
-    "mentholated": {
-        "is_mentholated": true,
-        "menthol": {
-            "very_little": false,
-            "a_lot": false
-        },
-        "cooling": {
-            "very_little": false,
-            "a_lot": false
-        }
+    "off_taste": {
+      "strong": true
     },
-    "id": "2028815581"
+    "mouth_coating": {
+      "very": false
+    },
+    "satisfaction": {
+      "very": false
+    },
+    "preference": {
+      "extremely": false
+    }
+  },
+  "mentholated": {
+    "is_mentholated": false,
+    "menthol": {
+      "very_little": false,
+      "a_lot": false
+    },
+    "cooling": {
+      "very_little": false,
+      "a_lot": true
+    }
+  },
+  "id": "2028815581"
 }

@@ -1,0 +1,74 @@
+{
+  "document": {
+    "title": null,
+    "dateRouted": null,
+    "contract": {
+      "number": null,
+      "subject": null,
+      "company": null,
+      "brands": [
+        null,
+        null
+      ],
+      "totalCost": null,
+      "currentYearCost": null,
+      "description": null
+    },
+    "glCode": null,
+    "programBudgetCode": null,
+    "originator": {
+      "name": null,
+      "signature": null,
+      "date": null
+    },
+    "manager": {
+      "name": null,
+      "signature": null,
+      "date": null
+    },
+    "reviewRouting": {
+      "insurance": {
+        "signature": null,
+        "date": null
+      },
+      "law": {
+        "signature": null,
+        "date": null
+      },
+      "fsMarketing": {
+        "signature": null,
+        "date": null
+      }
+    },
+    "revisionsToShell": {
+      "pages": null,
+      "sections": null,
+      "other": null
+    },
+    "approvalRouting": {
+      "srManager": {
+        "name": null,
+        "signature": null
+      },
+      "director": {
+        "name": null,
+        "signature": null
+      },
+      "srVP": {
+        "name": null,
+        "signature": "8130"
+      }
+    },
+    "returnTo": {
+      "name": "MARY SEAGRAVES",
+      "department": "SME",
+      "address": "13 Plaza",
+      "extension": "1485"
+    },
+    "approvalLimit": {
+      "upTo": "$25,000",
+      "over": null
+    },
+    "revisionDate": null
+  }
+}

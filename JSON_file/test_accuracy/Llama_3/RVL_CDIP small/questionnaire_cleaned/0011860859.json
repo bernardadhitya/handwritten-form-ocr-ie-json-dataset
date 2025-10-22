@@ -1,0 +1,68 @@
+{
+  "areaCodeAndPhoneNumber": null,
+  "company": null,
+  "projectNumber": null,
+  "date": null,
+  "interview": {
+    "name": null,
+    "results": null,
+    "state": null,
+    "duration": null,
+    "wave": null,
+    "sex": null
+  },
+  "brandsRated": [
+    {
+      "brand": null,
+      "weeks": null,
+      "rating": null
+    },
+    {
+      "brand": null,
+      "weeks": null,
+      "rating": "1"
+    },
+    {
+      "brand": null,
+      "weeks": null,
+      "rating": null
+    },
+    {
+      "brand": "Capri",
+      "weeks": null,
+      "rating": "15"
+    },
+    {
+      "brand": null,
+      "weeks": null,
+      "rating": null
+    },
+    {
+      "brand": "Benson and Hedges",
+      "weeks": null,
+      "rating": null
+    }
+  ],
+  "survey": {
+    "introduction": null,
+    "questions": [
+      {
+        "question": null,
+        "responses": {
+          "noOne21OrOlder": null,
+          "calledToPhone": "GO TO Q.B",
+          "unavailable": "SET UP CALLBACK"
+        }
+      },
+      {
+        "question": null,
+        "note": null
+      },
+      {
+        "question": null,
+        "note": null
+      }
+    ]
+  },
+  "companyCode": null
+}

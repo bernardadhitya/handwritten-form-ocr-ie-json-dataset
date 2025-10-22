@@ -1,68 +1,68 @@
 {
-    "form": "INTERNATIONALPROJECTINFORMATIONFORM",
-    "form_number": "9-047",
-    "project_code": "IPIFSp#P",
-    "project_reference": "FxPORT StR CeSE: SPE-S7",
-    "section": "I",
-    "project_information": {
-        "project_name": "RRANDLAUNCH",
-        "project_purpose_summary": "Summarize purpose of project",
-        "project_type": {
-            "new_brand_launch": {
-                "brand_name": "BrandyKX",
-                "note": "complete separate form for each new brand style"
-            },
-            "change_to_existing_packaging": {
-                "brand_style": "Duc To",
-                "attachments": [
-                    "Met Sor multiple styles",
-                    "justification/rationale"
-                ],
-                "reason": {
-                    "government_regulation_change": true,
-                    "other": "Specify"
-                }
-            },
-            "change_manufacturing_source": {
-                "from": "From",
-                "to": "To",
-                "brand_style": "Attach t for multiple styles and rationale for change"
-            }
-        },
-        "country_code": {
-            "duty_free": true,
-            "other": true
-        },
-        "classification": "Duty Paid",
-        "business_type": [
-            "Export",
-            "Contract",
-            "Licensee"
+  "form": "INTERNATIONAL PROJECT INFORMATION FORM",
+  "form_number": "96-047",
+  "project_code": "AP46006",
+  "project_reference": "Export SFR Code: SPE-57",
+  "section": "I",
+  "project_information": {
+    "project_name": "",
+    "project_purpose_summary": "REBRAND LAUNCH",
+    "project_type": {
+      "new_brand_launch": {
+        "brand_name": "VICTORY LIGHTS KS BOX",
+        "note": "complete separate form for each new brand style"
+      },
+      "change_to_existing_packaging": {
+        "brand_style": "",
+        "attachments": [
+          "Attach list for multiple styles",
+          "Attach justification/rationale"
         ],
-        "production": "9mmy",
-        "timing_requirement": {
-            "in_market_arrival_date": "9(mmdy)",
-            "market_launch_date": "Ape996",
-            "note": "For B&W Exports: Please reference timetable standards for dates above. As actual timetable will be used additional costs."
-        },
-        "product_quantity_required": {
-            "new_brand_launch": {
-                "initial_order": "cases",
-                "minimum_order": "For B&W Export brands a minimum 40 case order",
-                "ongoing_monthly": "cases"
-            },
-            "package_change_or_sourcing_change": "attach list of quantity requirements for each brand style"
+        "reason": {
+          "government_regulation_change": "",
+          "other": "Specify"
         }
+      },
+      "change_manufacturing_source": {
+        "from": "",
+        "to": "",
+        "brand_style": "Attach list for multiple styles and rationale for change"
+      }
     },
-    "form_completion": {
-        "new_brand_launch": "Continue with SECTION",
-        "change_to_existing_products_or_change_to_manufacturing_source": "Skip to SECTION I and continue"
+    "country_code": {
+      "duty_free": false,
+      "other": true
     },
-    "contact": {
-        "phone": "01784448652",
-        "fax": "835017978"
+    "classification": "Other SEZ",
+    "business_type": [
+      "Export",
+      "",
+      ""
+    ],
+    "production": "PRODUCTION APRIL 1996",
+    "timing_requirement": {
+      "in_market_arrival_date": "11/5/96",
+      "market_launch_date": "11/6/96",
+      "note": "For B&W Exports: Please reference timetable standards for dates above. An actual timetable will be issued upon IPIF approval. Any change to an approved IPIF will result in a delay of the in-market arrival date and/or additional costs."
     },
-    "page": "001",
-    "date": "FEB22%12:08",
-    "source": "PRODUCED FROM B&W WEB SITE"
+    "product_quantity_required": {
+      "new_brand_launch": {
+        "initial_order": "cases",
+        "minimum_order": "For B&W Export brands: a minimum 40 case order",
+        "ongoing_monthly": "cases per brand style per order is required"
+      },
+      "package_change_or_sourcing_change": "attach list of quantity requirements for each brand style"
+    }
+  },
+  "form_completion": {
+    "new_brand_launch": "Continue with SECTION II.",
+    "change_to_existing_products_or_change_to_manufacturing_source": "Skip to SECTION III and continue."
+  },
+  "contact": {
+    "phone": "",
+    "fax": ""
+  },
+  "page": "",
+  "date": "",
+  "source": ""
 }

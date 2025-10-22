@@ -1,48 +1,39 @@
 {
-  "Identite": {
-    "Nom": "R.a.b.w.rs",
-    "Prenom": "..a.e...la",
-    "Adresse": "w....ra..",
-    "Code postal": "[S+ S6]",
-    "Ville": "ville....ca&.",
-    "Categorie": "e.w.a....e...",
-    "Andortal'mn": null,
-    "Complement": null,
-    "Reference client eventuelle": null,
-    "Interlocuteur": "N.M.A....Ascwa....",
-    "Adresse2": "a.s.......a.'.e..",
-    "Code postal2": "ont  to ville.....aha.w......a.gan.",
-    "Ville2": null
-  },
-  "Redactic": {
-    "Type de stylo (noir) utilise": [
-      "bille plume",
-      "feutre"
-    ],
-    "Temps passe a traiter le scenario": "...... minutes",
-    "Contributii": [
-      {
-        "Montant": 6,
-        "Description": "J'envoie mon courrier par voie postale à la date du"
-      },
-      {
-        "Montant": 2,
-        "Description": "Mon courrier contient une page de garde de fax."
-      },
-      {
-        "Montant": 1,
-        "Description": "Avant mon envoi postal, j'ai télécopié ma contribution le"
-      },
-      {
-        "Montant": 1,
-        "Description": "J'ai envoyé par courriel mon courrier numérisé le"
-      }
-    ],
-    "Marque et modele du scanner": "L.",
-    "Format": [
-      "PNG",
-      "TIFF"
-    ],
-    "Resolution des images": "dpi/"
-  }
+    "Identite": {
+        "Nom": "Rabeuss",
+        "Prenom": ".llax^c_-laluc",
+        "Adresse": "3 M&. L. Ska L&:",
+        "Code postal": "LsHSGzcl",
+        "Ville": "RcauLe Le",
+        "Tel": "369",
+        "Categorie": "Lec~lle",
+        "Andortal'mn": "Jeuleu~Le",
+        "Complement": "auUa_",
+        "Reference client eventuelle": "2pRI",
+        "Interlocuteur": "NNa_AsclAlGe",
+        "Adresse2": "Pls&_Je k_Ac\"al&",
+        "Code postal2": "LextLZlel",
+        "Ville2": "Baalheleay"
+    },
+    "Redactic": {
+        "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+        ],
+        "Temps passe a traiter le scenario": "minutes_",
+        "Contributii": [
+            "Jenvoie mon courrier par voie postale a la date du",
+            "Mon courrier contient une page de garde de fax",
+            "Avant mon envoi postal, j'ai telecopie ma contribution le",
+            "Jai envoye par courriel mon courrier numerise le"
+        ],
+        "Marque et modele du scanner": "",
+        "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+        ],
+        "Resolution des images": "dpil"
+    }
 }

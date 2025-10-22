@@ -1,16 +1,16 @@
 {
-    "cigarette": {
-        "brand": "ABC",
-        "characteristics": {
-            "draw": "excellent",
-            "taste": null,
-            "burning_quality": null,
-            "mildness": null
-        },
-        "comments": null,
-        "regular_smoke": null,
-        "reason": null,
-        "current_brand": null,
-        "gender": null
-    }
+  "cigarette": {
+    "brand": "ABC - 1",
+    "characteristics": {
+      "draw": "good",
+      "taste": "good",
+      "burning_quality": "good",
+      "mildness": "fair"
+    },
+    "comments": "NO",
+    "regular_smoke": "NO",
+    "reason": "Because I like the brand that I am smoking.",
+    "current_brand": "Tareyton",
+    "gender": "MALE"
+  }
 }

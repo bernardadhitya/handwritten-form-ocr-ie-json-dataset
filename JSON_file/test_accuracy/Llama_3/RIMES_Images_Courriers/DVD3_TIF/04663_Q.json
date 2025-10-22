@@ -1,0 +1,52 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": null,
+        "Adresse": {
+          "Allee": "Beaa_",
+          "Rivage": null
+        },
+        "Code": "[44uZsorl",
+        "Ville": null,
+        "Tel": null
+      }
+    },
+    "Scenario": {
+      "Categorie": null,
+      "de.cenlsak": null,
+      "Objet": null,
+      "Complement": "Reference client eventuelle",
+      "Interlocuteur": {
+        "Iceoleaie": null,
+        "Adresse": null,
+        "Code postal": null,
+        "Ville": null
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          null,
+          null,
+          null
+        ],
+        "Temps a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le scenario traite": [
+          "(6€) Jenvoie mon courrier par voie postale a la date du",
+          "(+2€) Mon courrier contient une page de garde de fax",
+          null,
+          null
+        ],
+        "Marque et modele du scanner": null,
+        "Format": [
+          "PNG",
+          null,
+          null
+        ],
+        "Resolution des images": null
+      }
+    }
+  }
+}

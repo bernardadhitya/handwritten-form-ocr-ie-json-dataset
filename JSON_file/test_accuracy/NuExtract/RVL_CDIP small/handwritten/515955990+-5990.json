@@ -1,15 +1,53 @@
 {
-  "questions": [
-    "Is your usual brand Menthol?",
-    "Is your usual brand Non-Menthol?",
-    "Have you bought any packs of cigarettes in the past three months?",
-    "How do you use coupons to buy your usual brand?",
-    "Are you currently buying packs of cigarettes with proofs of purchase or money?",
-    "In the past six months have you spent money to get merchandise?",
-    "What is your birthdate?"
-  ],
-  "requirements": [
-    "Complete this survey and send it to us by 6/30/9",
-    "Be sure to include your birthdate and signature."
-  ]
+    "questions": [
+        {
+            "id": 1,
+            "type": "select",
+            "label": "USUAL BRAND",
+            "options": [
+                "Menbit",
+                "Qt NeeMexbl",
+                "SURDES",
+                "4. hy SAL BRAND?"
+            ]
+        },
+        {
+            "id": 2,
+            "type": "select",
+            "label": "Brand",
+            "options": [
+                "1: Menbit",
+                "2: Qt NeeMexbl",
+                "3: SURDES",
+                "4: hy SAL BRAND?"
+            ]
+        },
+        {
+            "id": 3,
+            "type": "select",
+            "label": "How do you usually buy your USUAL BRAND?",
+            "options": [
+                "1: Online",
+                "2: In-store",
+                "3: Other (please specify)"
+            ]
+        },
+        {
+            "id": 4,
+            "type": "text",
+            "label": "Additional comments"
+        }
+    ],
+    "requirements": [
+        {
+            "id": 1,
+            "type": "signature",
+            "label": "Signature"
+        },
+        {
+            "id": 2,
+            "type": "birthdate",
+            "label": "Birthdate"
+        }
+    ]
 }

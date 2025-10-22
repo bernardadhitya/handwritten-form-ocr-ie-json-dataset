@@ -1,17 +1,17 @@
 {
-  "actualExpenditures": {
-    "year": 1984,
-    "capitalBudget": {
-      "IO": 0.017,
-      "newProjectSupport": 800.0,
-      "budgetRD": "BIC0",
-      "project": "Projxe+ lla"
-    },
-    "monthlyPayroll": 150.65321,
-    "weeklyPayroll": null,
-    "fringe": 55.98335,
-    "suppliesGeneral": 4014.68,
-    "total": 225.64343,
-    "code": 2883.0
-  }
+    "actualExpenditures": {
+        "year": 1984,
+        "capitalBudget": {
+            "IO": 17,
+            "newProjectSupport": 800,
+            "budgetRD": "BIC0",
+            "project": "lla"
+        },
+        "monthlyPayroll": 150653.21,
+        "weeklyPayroll": "Fringe",
+        "fringe": 55983.35,
+        "suppliesGeneral": 4014.68,
+        "total": 225643.43,
+        "code": 2883
+    }
 }

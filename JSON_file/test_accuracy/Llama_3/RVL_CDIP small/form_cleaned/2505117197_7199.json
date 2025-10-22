@@ -1,0 +1,79 @@
+{
+  "contractResearchCenter": null,
+  "formNumber": "144",
+  "code": null,
+  "department": null,
+  "formType": "[PEAFORM\\LABFO\\FLOW]",
+  "formApproval": null,
+  "measurement": null,
+  "projectNumber": null,
+  "groupCode": "6K",
+  "presumedFlowRate": "l/minL",
+  "dayOfStudy": null,
+  "equipment": "Bubbelmeten",
+  "factor": null,
+  "flowFor": {
+    "analytic": null,
+    "flowThroughDiaphragm": null,
+    "flowThroughExposureChamber": null,
+    "dilutionAir": "",
+    "othersDescribed": ""
+  },
+  "preDilution": {
+    "first": null,
+    "second": null
+  },
+  "siteOfMeasurement": null,
+  "conditionsForMeasurement": null,
+  "note": null,
+  "sm": null,
+  "preDilutionOutcome": null,
+  "bubbelnetes": null,
+  "rotameter": null,
+  "rotascale": null,
+  "flow": "FLOW",
+  "n": null,
+  "mean": null,
+  "remarks": null,
+  "measurements": [
+    {
+      "no": null,
+      "rate": null,
+      "flowRate": null,
+      "time": "84",
+      "cm": "h8",
+      "sec": "90.5",
+      "lPerMin": "h8",
+      "lPerMin2": null
+    },
+    {
+      "no": null,
+      "rate": null,
+      "flowRate": null,
+      "time": null,
+      "cm": null,
+      "sec": "8.3",
+      "lPerMin": null,
+      "lPerMin2": null
+    },
+    {
+      "no": null,
+      "rate": null,
+      "flowRate": null,
+      "time": null,
+      "cm": "89",
+      "sec": null,
+      "lPerMin": null,
+      "lPerMin2": "Date"
+    }
+  ],
+  "errorCodes": {
+    "A": null,
+    "B": null,
+    "C": null,
+    "D": null,
+    "E": null,
+    "F": null
+  },
+  "initials": null
+}

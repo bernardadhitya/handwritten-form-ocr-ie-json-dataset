@@ -1,0 +1,47 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": null,
+        "Adresse": null,
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": "Az-xuelle^",
+        "Complement": null,
+        "Reference client eventuelle": null,
+        "Interlocuteur": {
+          "Nom": null,
+          "Adresse": null,
+          "Code postal": null,
+          "Ville": null
+        },
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            null,
+            null,
+            null
+          ],
+          "Temps passe a traiter le scenario": null
+        },
+        "Contribution": {
+          "Elements de contribution": {
+            "(6€) Jenvoie mon courrier par voie postale a la date du": "483",
+            "(+2€) Mon courrier contient une page de garde de fax": null,
+            "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le": "8",
+            "(+1€) J'ai envoye par courriel mon courrier numerise le": "2"
+          },
+          "Marque et modele du scanner": null,
+          "Format": [
+            "PNG",
+            null,
+            "TIFF"
+          ],
+          "Resolution des images": null
+        }
+      }
+    }
+  }
+}

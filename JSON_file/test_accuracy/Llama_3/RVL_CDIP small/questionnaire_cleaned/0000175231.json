@@ -1,0 +1,63 @@
+{
+  "company": null,
+  "address": {
+    "street": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "project_number": "219-3",
+  "document": {
+    "title": null,
+    "date": null
+  },
+  "introduction": null,
+  "questions": [
+    {
+      "question": "What is your age?",
+      "options": [
+        null,
+        null,
+        null
+      ],
+      "actions": {
+        "Younger than 21": null,
+        "Between 21 and 35": "CONTINUE",
+        "Older than 35": null
+      }
+    },
+    {
+      "question": null,
+      "options": [
+        null,
+        "A market research company",
+        null
+      ],
+      "actions": {
+        "Yes to any of the above": null
+      }
+    },
+    {
+      "question": null,
+      "options": [
+        null,
+        "Have a glass of beer",
+        null
+      ],
+      "actions": {
+        "Smoke a cigarette": null
+      }
+    },
+    {
+      "question": "About how many cigarettes do you smoke in an average day?",
+      "options": [
+        null,
+        "A pack or more"
+      ],
+      "actions": {
+        "Less than half a pack": null,
+        "A pack or more": "CONTINUE"
+      }
+    }
+  ]
+}

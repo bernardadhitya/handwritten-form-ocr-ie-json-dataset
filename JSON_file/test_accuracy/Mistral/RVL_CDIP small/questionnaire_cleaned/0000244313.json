@@ -1,55 +1,32 @@
 {
-  "organization": null,
-  "location": null,
-  "documents": [
-    {
-      "type": "DOCUMENT CONTROL PROJECT",
-      "description": "PHOTOCOPYING VARIANCE SHEET"
-    }
-  ],
-  "notations": [
-    {
-      "type": "SAME_SEQUENCE",
-      "status": "YES"
-    },
-    {
-      "type": "DUPLICATE_DOCUMENTS",
-      "status": "YES"
-    },
-    {
-      "type": "MISSING_PAGE_NUMBERS",
-      "status": "YES"
-    },
-    {
-      "type": "POOR_QUALITY_ORIGINAL",
-      "status": "YES"
-    },
-    {
-      "type": "OVERLAY_ITEM_DAMAGE",
-      "status": "YES"
-    },
-    {
-      "type": "NO_DOCUMENTS_FOUND",
-      "status": "NO"
-    }
-  ],
-  "details": {
-    "original": "PHOTOCOPYING VARIANCE SHEET",
-    "missing_pages": [
-      ""
+    "organization": "BROWE WLLIAMSON LC",
+    "location": "LOUISVILLE",
+    "documents": [
+        {
+            "type": "PHOTOGRAPHY",
+            "name": "VARIANCE SHEET"
+        },
+        {
+            "type": "REPRODUCTION",
+            "name": "DOCUMENT CONTROL PROJECT"
+        }
     ],
-    "quality": "POOR",
-    "overlay": "ITEM COULD NOT BE REMOVED"
-  },
-  "additional_items": [
-    "FILE FOLDER",
-    "REDROPE EXPANDASLE FILE",
-    "HANGING FILE",
-    "ENVELOPE",
-    "OTHERSPECIFY"
-  ],
-  "reproduction_details": {
-    "color": null,
-    "purpose": null
-  }
+    "notations": "#CGE MADC",
+    "details": {
+        "original": "DUPLICATE DOCUMENTS APPEARED THE ORIGINAL.",
+        "missing_pages": "PAGE NUMBER(S) #MISSING",
+        "quality": "POOR QUALITY ORIGINAL.",
+        "overlay": "ITEM COULD NOT BE REMOVED WITHOUT DAMAGE TO THE ORIGINAL.",
+        "no_documents_found": "NO DOCUMENTS WERE FOUND WITHIN THE ORIGINAL FILE FOLDER."
+    },
+    "additional_items": [
+        "REDROPE EXPANDABLE FILE",
+        "HANGING FILE",
+        "ENVELOPE",
+        "OTHER (SPECIFY)"
+    ],
+    "reproduction_details": {
+        "color": "COLOR",
+        "purpose": "TO PERMIT CORRECT INTERPRETATION"
+    }
 }

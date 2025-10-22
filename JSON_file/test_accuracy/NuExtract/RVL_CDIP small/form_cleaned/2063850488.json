@@ -1,13 +1,19 @@
 {
-  "instructions": "You will be given two coded cigarettes.",
+  "instructions": "You will be given two coded cigarettes. 1. Which cigarette has the most mouth fullness? 3. Which cigarette has the most cigarette taste? ONLY ONE cigarette per question. 2. Which cigarette is the harshest? AROyn",
   "test_type": "CHOICE TEST",
-  "date": null,
+  "date": "th/01/L",
   "questions": [
-    "Which cigarette has the most mouth fullness?",
-    "Which cigarette has the most cigarette taste?",
-    "Which cigarette do you like the best?"
+    {
+      "question": "Which cigarette has the most mouth fullness?"
+    },
+    {
+      "question": "Which cigarette is the harshest?"
+    },
+    {
+      "question": "Which cigarette has the most cigarette taste?"
+    }
   ],
   "thank_you_note": "THANK YOU FOR YOUR PARTICIPATION.",
-  "name": null,
+  "name": "NAME:",
   "id": "2063850488"
 }

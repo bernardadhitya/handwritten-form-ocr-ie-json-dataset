@@ -1,0 +1,39 @@
+{
+    "Report": {
+        "Number": 184,
+        "Date": "8-20-86"
+    },
+    "Material": {
+        "Tested": "DZD",
+        "Fuel Sources": {
+            "Supplier": "SSL",
+            "Lot or Sample": "01043_1-34-86-3",
+            "Quantity Received": "OZZ",
+            "Date Received": "8-15-86"
+        },
+        "ACCEPTED": true,
+        "REJECTED": true,
+        "Physical/Visual Properties": {
+            "Diameter": {
+                "Status": "Rejected",
+                "Value": "1779in",
+                "Specs": "LZ5_JJin"
+            }
+        },
+        "Comments": "Recommends fuel sources not used for machine product testing"
+    },
+    "Technologist": {
+        "Name": "Kenneth W. Smith",
+        "Role": "QA",
+        "Telephone": "6926"
+    },
+    "Distribution": [
+        "Mr Lucien Bass III",
+        "Dr Connor",
+        "Mr Peterson",
+        "Mr B. Scantland",
+        "Ms R. deLacy",
+        "Mr Shannon",
+        "Mr McGee"
+    ]
+}

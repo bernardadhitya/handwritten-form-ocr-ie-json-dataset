@@ -1,23 +1,23 @@
 {
-    "questionnaire": "Brown & Williamson Maxwell Seminar",
-    "purpose": "To receive personal responses to the information presented by B&W at the 1985 Maxwell Seminar.",
-    "comments": "Completion of this brief questionnaire is appreciated. Signature is optional.",
-    "questions": [
-        {
-            "question": "The presentation clearly identified B&W's corporate strategy for the next 12 to 18 months.",
-            "response_scale": "Low Degree to High Degree"
-        },
-        {
-            "question": "Would you have need for BATUS and B.A.T.",
-            "response_scale": "Low Degree to High Degree"
-        },
-        {
-            "question": "Do you feel the answers to questions were responsive?",
-            "response_scale": "Low Degree to High Degree"
-        },
-        {
-            "question": "How do you rate B&W on company objectives?",
-            "response_scale": "Low Degree to High Degree"
-        }
-    ]
+  "questionnaire": "Brown & Williamson Maxwell Seminar",
+  "purpose": "The purpose of this questionnaire is to receive your personal response to the information presented by B&W at the 1985 Maxwell Seminar.",
+  "comments": "We would appreciate your comments through completion of this brief questionnaire. Your signature is optional.",
+  "questions": [
+    {
+      "question": "The presentation clearly identified B&W's corporate strategy for the next 12 to 18 months.",
+      "response_scale": "Low Degree 1 2 3 4 5 6 7 8 High Degree 9"
+    },
+    {
+      "question": "Would you have need for additional financial information about B&W, BATUS, and B.A.T.?",
+      "response_scale": "Low Degree 1 2 3 4 5 6 7 8 9 High Degree"
+    },
+    {
+      "question": "Do you feel the answers to questions raised in the Q&A session were responsive?",
+      "response_scale": "Low Degree 1 2 3 4 5 6 7 8 High Degree 9"
+    },
+    {
+      "question": "How do you rate B&W on communicating information and business goals and objectives?",
+      "response_scale": "Low Degree 1 2 3 4 5 6 7 8 High Degree 9"
+    }
+  ]
 }

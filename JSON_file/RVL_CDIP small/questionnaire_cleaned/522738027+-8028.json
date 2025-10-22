@@ -1,68 +1,68 @@
 {
-    "survey": {
-        "questions": [
-            {
-                "id": 1,
-                "category": "EASE OF CONTACT",
-                "aspects": [
-                    "Ability to get through on first call",
-                    "Satisfaction with telephone recording",
-                    "If put on hold length of time on hold"
-                ]
-            },
-            {
-                "id": 2,
-                "category": "PERSONNEL",
-                "aspects": [
-                    "Courtesy",
-                    "Professionalism",
-                    "Knowledge",
-                    "Authority to resolve problem"
-                ]
-            },
-            {
-                "id": 3,
-                "category": "RESPONSE",
-                "aspects": [
-                    "Timeliness",
-                    "Clarity",
-                    "Helpfulness",
-                    "Follow through on promised action"
-                ]
-            }
-        ],
-        "satisfaction_statement": [
-            "I was completely satisfied.",
-            "I was NOT completely satisfied but the action taken was acceptable.",
-            "I was NOT completely satisfied but some action was taken.",
-            "I was NOT AT ALL satisfied with the action taken.",
-            "I was NOT AT ALL satisfied no action was taken."
-        ],
-        "purchase_intent": {
-            "question": "Based on how well you were treated by our representative, will you continue to purchase the brand of cigarettes you contacted us about?",
-            "options": [
-                "Definitely Would",
-                "Probably Would",
-                "Might or Might Not",
-                "Probably Would Not",
-                "Definitely Would Not"
-            ]
-        },
-        "recommendation": {
-            "question": "Would you recommend this brand of cigarettes to an adult smoker (21 years of age or older)?",
-            "options": [
-                "Definitely Would",
-                "Probably Would",
-                "Might or Might Not",
-                "Probably Would Not",
-                "Definitely Would Not"
-            ]
-        },
-        "additional_comments": "Please add any additional comments:"
+  "survey": {
+    "questions": [
+      {
+        "id": 1,
+        "category": "EASE OF CONTACT",
+        "aspects": [
+          "Ability to get through on first call",
+          "Satisfaction with telephone recording",
+          "If put on hold length of time on hold"
+        ]
+      },
+      {
+        "id": 2,
+        "category": "PERSONNEL",
+        "aspects": [
+          "Courtesy",
+          "Professionalism",
+          "Knowledge",
+          "Authority to resolve problem"
+        ]
+      },
+      {
+        "id": 3,
+        "category": "RESPONSE",
+        "aspects": [
+          "Timeliness",
+          "Clarity",
+          "Helpfulness",
+          "Follow through on promised action"
+        ]
+      }
+    ],
+    "satisfaction_statement": [
+      "I was completely satisfied.",
+      "I was NOT completely satisfied but the action taken was acceptable.",
+      "I was NOT completely satisfied but some action was taken.",
+      "I was NOT AT ALL satisfied with the action taken.",
+      "I was NOT AT ALL satisfied no action was taken."
+    ],
+    "purchase_intent": {
+      "question": "Based on how well you were treated by our representative, will you continue to purchase the brand of cigarettes you contacted us about?",
+      "options": [
+        "Definitely Would",
+        "Probably Would",
+        "Might or Might Not",
+        "Probably Would Not",
+        "Definitely Would Not"
+      ]
     },
-    "metadata": {
-        "key": 52273,
-        "code": 8027,
-        "status": "new"
-    }
+    "recommendation": {
+      "question": "Would you recommend this brand of cigarettes to an adult smoker (21 years of age or older)?",
+      "options": [
+        "Definitely Would",
+        "Probably Would",
+        "Might or Might Not",
+        "Probably Would Not",
+        "Definitely Would Not"
+      ]
+    },
+    "additional_comments": "I was sent coupons by your Co. to store to purchase cigarettes but will not take them because he said the company gets him enough help to prove to prevent them & that he said that R.J. Reynolds coupons were used for sales. He said it isn’t worth his time he will accept no coupons but be deprived otherwise. Now they & they said they have no time also seems to be the truth."
+  },
+  "metadata": {
+    "key": 52273,
+    "code": 8027,
+    "status": "new"
+  }
 }

@@ -1,0 +1,53 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": null,
+        "Adresse": "3Pkue_la_",
+        "Code postal": null,
+        "Ville": null,
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": "Demnarc",
+        "Scye": null,
+        "Complement": {
+          "Reference client eventuelle": null,
+          "Interlocuteur": null,
+          "Adresse": null,
+          "Code postal": "8k2ol",
+          "Ville": "Chin"
+        },
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            null,
+            null,
+            null
+          ],
+          "Temps passe a traiter le scenario": null
+        },
+        "Contribution": {
+          "Cocher les elements de_votre contribution pour le scenario _traite": [
+            null,
+            null,
+            "Avant mon envoi postal, j'ai telecopie ma contribution le",
+            null
+          ],
+          "Marque et modele du scanner": null,
+          "Format": [
+            null,
+            null,
+            "TIFF"
+          ],
+          "Resolution des images": [
+            null,
+            null,
+            null
+          ]
+        }
+      }
+    }
+  }
+}

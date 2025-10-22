@@ -1,0 +1,52 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "L": "p",
+      "R": "T"
+    },
+    "Identite fictive": {
+      "Nom": null,
+      "Prenom": "CCane",
+      "Adresse": null,
+      "Code postal": null,
+      "Ville": "ST_EIICNNE",
+      "Tel": null
+    },
+    "Scenario": {
+      "Categorie": null,
+      "Objet": null,
+      "SanceAnank_Can": null,
+      "Quuta": null,
+      "Reference client eventuelle": null,
+      "Interlocuteur": {
+        "Nom": null,
+        "Assuuancen": null,
+        "Code postal": null,
+        "Ville": null
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          null,
+          "plume",
+          null
+        ],
+        "Temps passe a traiter le scenario": null,
+        "Contribution": {
+          "Cocher les elements de_votre contribution pour le scenario traite": [
+            null,
+            null,
+            "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+            null
+          ],
+          "Marque et modele du scanner": null,
+          "Format": [
+            null,
+            "GIF",
+            "TIFF"
+          ],
+          "Resolution des images": null
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "company": null,
+  "study_number": null,
+  "address": {
+    "street": "1700 BEDFORD STREET",
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "phone": null,
+  "date": "June 1986",
+  "validation_number": null,
+  "master": null,
+  "concept_test": null,
+  "telephone_screening_questionnaire": {
+    "quota_box": {
+      "age": null,
+      "usual_brand": [
+        {
+          "type": "Full Flavor",
+          "code": null,
+          "range": null
+        },
+        {
+          "type": null,
+          "code": null,
+          "range": null
+        },
+        {
+          "type": null,
+          "code": "ULT",
+          "range": null
+        }
+      ],
+      "sizes": [
+        "85mm",
+        null
+      ],
+      "mac": null
+    },
+    "date": null,
+    "time_started": null,
+    "time_completed": null,
+    "total_time_in_minutes": null,
+    "respondent": {
+      "name": null,
+      "street_address": null,
+      "telephone": null,
+      "city": null,
+      "state": null,
+      "zip": null
+    },
+    "interviewer": null,
+    "introduction": null,
+    "respondent_availability": {
+      "available": null,
+      "not_available": null,
+      "no_eligible_respondent": null
+    },
+    "termination_numbers": [
+      "01",
+      "02",
+      null,
+      "04",
+      null,
+      null,
+      null,
+      "08",
+      null,
+      "10",
+      null,
+      null,
+      null,
+      "14",
+      "15",
+      "16",
+      "17",
+      null,
+      null,
+      "20",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "29",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "39",
+      null,
+      null,
+      null,
+      "43",
+      null,
+      null,
+      "46",
+      "47",
+      null,
+      null,
+      null
+    ]
+  },
+  "additional_info": {
+    "foronmn_bos": null,
+    "spash_cek": null,
+    "kf_hstci": null
+  }
+}

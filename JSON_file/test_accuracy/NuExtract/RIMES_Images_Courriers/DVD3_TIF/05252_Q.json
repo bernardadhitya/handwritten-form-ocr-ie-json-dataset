@@ -1,45 +1,49 @@
 {
-  "Questionnaire": {
-    "Identite fictive": {
-      "Nom": "FAY",
-      "Prenom": "ased."
+    "Questionnaire": {
+        "Identite fictive": {
+            "Nom": "eA",
+            "Prenom": "Bucd."
+        },
+        "Adresse": {
+            "Cue_Extise": "derniec at_ cestee",
+            "Code postal": "[61k65L0",
+            "Ville": "PLFFE ENTHAL",
+            "Tel": "3282"
+        }
     },
-    "Adresse": {
-      "Cue_Extise": "L665o] Ville....iEFEENTHAL",
-      "Code postal": "039892821",
-      "Ville": "iEFEENTHAL",
-      "Tel": "039892821"
-    }
-  },
-  "Scenario": {
-    "Categorie": null,
-    "Objet": null,
-    "Complement": null,
-    "Interlocuteur": {
-      "Broullke": {
-        "Adresse": null,
-        "Code postal": null,
-        "Ville": null
-      }
-    }
-  },
-  "Redaction": {
-    "Type de stylo (noir) utilise": [],
-    "Temps passe a traiter le scenario": null
-  },
-  "Contribution": {
-    "Cocher les elements de votre contribution pour le_scenario traite": {
-      "Jenvoie mon courrier par voie postale a la date du 24.leuloz.": null,
-      "Mon courrier contient une page de garde de fax": null,
-      "Avant mon envoi postal, jai telecopie ma contribution le": null,
-      "Jai envoye par courriel mon courrier numerise le 23L.4L.10.1.": null
+    "Scenario": {
+        "Categorie": "Rkog",
+        "Objet": "Ltce %na8_ inbernatian du .010i derniec at_ cestee SJns_e Het.",
+        "Complement": "Reference client eventuelle",
+        "Interlocuteur": {
+            "Broullke": {
+                "Adresse": "55.5 d& Chenqcezux.",
+                "Code postal": "[3183100]",
+                "Ville": "SQuE. LES TouaS_"
+            }
+        }
     },
-    "Marque et modele du scanner": "6.00...Pr",
-    "Format": [
-      "PNG",
-      "XGIF",
-      "TIFF"
-    ],
-    "Resolution des images": "300pp"
-  }
+    "Redaction": {
+        "Type de stylo (noir) utilise": [
+            "bille",
+            "plume",
+            "feutre"
+        ],
+        "Temps passe a traiter le scenario": "30 minutes"
+    },
+    "Contribution": {
+        "Cocher les elements de votre contribution pour le_scenario traite": {
+            "Jenvoie mon courrier par voie postale a la date du 24.leuloz.": "+6",
+            "Mon courrier contient une page de garde de fax": "+1",
+            "Avant mon envoi postal, jai telecopie ma contribution le": "+1",
+            "Jai envoye par courriel mon courrier numerise le 23L.4L.10.1.": "+1"
+        },
+        "Marque et modele du scanner": "ActiScan: J6.0v",
+        "Format": [
+            "PNG",
+            "GIF",
+            "TIFF"
+        ],
+        "Resolution des images": "300 pp"
+    }
 }

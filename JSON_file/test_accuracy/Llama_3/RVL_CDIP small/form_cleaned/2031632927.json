@@ -1,0 +1,36 @@
+{
+  "caseNumber": null,
+  "courtLocation": {
+    "city": null,
+    "state": null,
+    "zip": "90023"
+  },
+  "plaintiff": {
+    "name": null,
+    "address": null,
+    "city": null,
+    "state": null,
+    "zip": null
+  },
+  "defendant": {
+    "name": "Lorillard, Incorporated",
+    "agent": null,
+    "address": null,
+    "city": "Los Angeles",
+    "state": null,
+    "zip": "90004"
+  },
+  "claim": {
+    "amount": 5000.0,
+    "description": null,
+    "date": null
+  },
+  "trial": {
+    "date": null,
+    "filedDate": null
+  },
+  "declaration": {
+    "date": "08/12/94",
+    "name": null
+  }
+}

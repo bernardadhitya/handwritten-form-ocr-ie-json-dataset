@@ -1,28 +1,28 @@
 {
-    "survey": "NATIONAL CONSENSUS SURVEY",
-    "company": "AHF MARKETING RESEARCH",
-    "address": "801 Second Avenue, New York, New York, 10017",
-    "job": "JOB1972G",
-    "code": "18b",
-    "questionnaire": {
-        "base": "TA 356O",
-        "title": "Why smoke",
-        "job": "Jof3",
-        "question": "Approved by Proj. Dir. Client",
-        "card": "#",
-        "date": "",
-        "note": "Create a 'Low tar/nicotine Taste (subset)' that combines 'Low tar Product + Nicotine (subset)' with 'Taste subset' when both appear in the same questionnaire",
-        "columns": {
-            "taste_better": "Mild, not as strong, milder than regular, is strong",
-            "irritation": "Vothar, does not irritate throat",
-            "satisfaction": "Satisfying taste",
-            "difference": "Different taste, taste different than the others/King size",
-            "same_taste": "Tastes the same"
-        },
-        "subnet": {
-            "low_tar_nicotine": "Low tar/nicotine",
-            "code": "03847238",
-            "description": "ess/low tar/nicotine"
-        }
+  "survey": "NATIONAL CONSENSUS SURVEY",
+  "company": "AHF MARKETING RESEARCH",
+  "address": "801 Second Avenue, New York, New York, 10017",
+  "job": "JOB1972G",
+  "code": "18b",
+  "questionnaire": {
+    "base": "TA 256 (1)",
+    "title": "Why smoke 100 mm",
+    "job": "P. 1 of 3",
+    "question": "",
+    "card": "345",
+    "date": "",
+    "note": "Create a \"Low tar/nicotine\" Taste (subnet) that combines \"Low tar\" nicotine (subnet) with \"Taste (subnet)\" when both appear in the same questionnaire",
+    "columns": {
+      "taste_better": "tastes better",
+      "irritation": "doesn't irritate throat; don't cough as much OUT",
+      "satisfaction": "Satisfying taste others don't satisfy",
+      "difference": "taste different than the others / king size",
+      "same_taste": "Tastes the same DNDC within subnet"
+    },
+    "subnet": {
+      "low_tar_nicotine": "Low tar/nicotine DNDC within subnet",
+      "code": "",
+      "description": "Less/lower tar/nicotine DNDC w/y Lowest/least tar/nicotine DNDC w/y"
     }
+  }
 }

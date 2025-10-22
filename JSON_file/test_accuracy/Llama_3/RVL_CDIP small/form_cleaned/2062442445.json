@@ -1,0 +1,111 @@
+{
+  "program": null,
+  "retailerUnderstanding": {
+    "phaseI": {
+      "priceReduction": {
+        "Marlboro": {
+          "pack": null,
+          "carton": null
+        },
+        "Basic": {
+          "pack": "20¢",
+          "carton": "$2"
+        }
+      },
+      "duration": {
+        "start": null,
+        "end": "July 9, 1995"
+      },
+      "posItems": [
+        {
+          "item": null,
+          "location": null
+        },
+        {
+          "item": null,
+          "location": null
+        },
+        {
+          "item": null,
+          "location": null
+        },
+        {
+          "item": null,
+          "location": null
+        }
+      ]
+    },
+    "phaseII": {
+      "priceReduction": {
+        "Benson & Hedges": {
+          "pack": null,
+          "carton": null
+        },
+        "Merit": {
+          "pack": null,
+          "carton": "$2"
+        },
+        "Parliament": {
+          "pack": null,
+          "carton": null
+        },
+        "Virginia Slims": {
+          "pack": null,
+          "carton": null
+        }
+      },
+      "duration": {
+        "start": null,
+        "end": null
+      },
+      "posItems": [
+        {
+          "item": null,
+          "location": null
+        },
+        {
+          "item": null,
+          "location": "Location"
+        },
+        {
+          "item": null,
+          "location": null
+        }
+      ]
+    }
+  },
+  "promotionAllowance": {
+    "phaseI": {
+      "potentialAllowance": null
+    },
+    "phaseII": {
+      "potentialAllowance": null
+    },
+    "flexFundAllowance": "extend Marlboro 1 week",
+    "totalPotentialAllowance": null
+  },
+  "auditRights": null,
+  "storeDetails": {
+    "storeName": null,
+    "control": "75",
+    "storeAddress": null,
+    "phone": "2062442445"
+  },
+  "representative": {
+    "name": null,
+    "territoryNumber": "",
+    "signature": null,
+    "date": null
+  },
+  "retailer": {
+    "name": null,
+    "signature": null,
+    "date": null
+  },
+  "distribution": {
+    "original": null,
+    "copy1": "PM Manager",
+    "copy2": null,
+    "copy3": null
+  }
+}

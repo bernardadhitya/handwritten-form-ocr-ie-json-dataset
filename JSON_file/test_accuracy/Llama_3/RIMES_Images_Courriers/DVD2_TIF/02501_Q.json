@@ -1,0 +1,50 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "PQUA",
+        "Prenom": null,
+        "Adresse": null,
+        "Code postal": null,
+        "Ville": "Altuipe",
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": null,
+        "Complement": null,
+        "Reference client eventuelle": null
+      },
+      "Interlocuteur": {
+        "Gse": {
+          "Adresse": null,
+          "Code postal": "[86LOol",
+          "Ville": null
+        }
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          null,
+          null,
+          null
+        ],
+        "Temps passe a traiter le scenario": "0 minutes"
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le scenario_traite": {
+          "J'envoie mon courrier par voie postale a la date du": null,
+          "Mon courrier contient une page de garde de fax": null,
+          "Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+          "J'ai envoye par courriel mon courrier numerise le": null
+        },
+        "Marque et modele du scanner": null,
+        "Format": [
+          null,
+          null,
+          "TIFF"
+        ],
+        "Resolution des images": "dpilppp"
+      }
+    }
+  }
+}

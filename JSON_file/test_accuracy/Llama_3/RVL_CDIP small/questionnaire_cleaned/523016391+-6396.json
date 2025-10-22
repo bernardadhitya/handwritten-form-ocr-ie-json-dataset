@@ -1,0 +1,61 @@
+{
+  "R&DCustomerSelectionTeam": {
+    "Name": null,
+    "SmokerGroups": null,
+    "SurveyDetails": {
+      "Purpose": null,
+      "InterviewProcess": null,
+      "InformationRequested": null,
+      "Questions": null,
+      "FeedbackRequest": null,
+      "NoteTaking": null
+    },
+    "Questions": {
+      "Age": null,
+      "Gender": {
+        "Male": false,
+        "Female": false
+      },
+      "MaritalStatus": null,
+      "Occupation": null,
+      "CompanyType": null,
+      "CurrentCigaretteUsualBrand": null,
+      "UsualBrandPurchaseFrequency": {
+        "Last10Purchases": null,
+        "PurchaseMethod": {
+          "ByPack": null,
+          "ByCarton": null,
+          "Both50/50": null
+        }
+      },
+      "OtherBrandsPurchasedLastMonth": null,
+      "SecondChoiceBrand": "",
+      "SmokingFrequency": {
+        "Daily": null,
+        "PartTimeNotDaily": null
+      },
+      "CigarettesPerDay": "",
+      "UsualBrandTarNicotineLevels": {
+        "Tar": null,
+        "Nicotine": null
+      },
+      "SmokingHistory": [
+        {
+          "Age": null,
+          "Brand": "",
+          "LifeEvents": null
+        },
+        {
+          "Age": null,
+          "Brand": "",
+          "LifeEvents": null
+        },
+        {
+          "Age": null,
+          "Brand": "",
+          "LifeEvents": null
+        }
+      ]
+    }
+  }
+}

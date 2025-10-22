@@ -1,0 +1,53 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": null,
+        "Adresse": null,
+        "Code postal": null,
+        "Ville": null,
+        "Tel": null
+      }
+    }
+  },
+  "Scenario": {
+    "Categorie": null,
+    "Complement": {
+      "Reference client eventuelle": ""
+    },
+    "Interlocuteur": {
+      "akup": {
+        "d_eanceA": {
+          "Adresse": null,
+          "Auene:_Rasn": null,
+          "Code postal": null,
+          "Ville": "Caei"
+        }
+      }
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        null,
+        null,
+        null
+      ],
+      "Temps passe a traiter le scenario": null,
+      "Contribution": {
+        "Cocher les_elements de_votre contribution pour le scenario _traite": [
+          "(6e) Jenvoie mon courrier par voie postale a la date du 26LZx",
+          null,
+          null,
+          "(+1€) Jai envoye par courriel mon courrier numerise le 232"
+        ]
+      },
+      "Marque et modele du scanner": null,
+      "Format": [
+        null,
+        "GIF",
+        "TIFF"
+      ],
+      "Resolution des images": null
+    }
+  }
+}

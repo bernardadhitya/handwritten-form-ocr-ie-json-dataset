@@ -1,86 +1,87 @@
 {
-    "product": {
-        "name": "BPlW/BN7A Flavored Humectant Formule",
-        "weight": "92.92 g",
-        "components": [
-            {
-                "name": "Glycerin",
-                "percentage": "92.92%"
-            },
-            {
-                "name": "Smoke B (wss)-1-W Formula",
-                "percentage": "1.77%"
-            },
-            {
-                "name": "#L1 Formula",
-                "weight": "1.77g",
-                "percentage": "1.77%"
-            },
-            {
-                "name": "BN#18-CFcrmula",
-                "percentage": "1.77%"
-            },
-            {
-                "name": "BN#7A Formula",
-                "percentage": "1.779%"
-            }
-        ],
-        "total_weight": "100.00g",
-        "total_percentage": "100.00%",
-        "notes": "* 1.c8% of Bpiw/Bn7A Flavored( Humectnf is Actua1 Flavor in B-3 on the Subshnte Mix",
-        "subshnte_mix": {
-            "name": "Sukshte Mix Br/W/BN7A",
-            "weight_per_capsule": "3192g"
-        },
-        "additional_components": [
-            {
-                "name": "BP1w/BN 7A F1avored Humectunt",
-                "weight": "23.74g",
-                "percentage": "23.74%"
-            },
-            {
-                "name": "A/cou. A1umina (-14+20).# 8304-1",
-                "weight": "64.47g"
-            },
-            {
-                "name": "%LH'h9 SSTEP",
-                "code": "CAC#4163",
-                "weight": "8.00g",
-                "percentage": "8.00%"
-            },
-            {
-                "weight": "3.79g",
-                "percentage": "3.79%"
-            }
-        ],
-        "model_configuration": {
-            "model": "H j",
-            "overall_length_mm": "78",
-            "fuel_source": "1492-7B (w5s Mix) Baked e 350/10ooC",
-            "inserted_by": "3mm into Capsule",
-            "capsule": {
-                "type": "DD6-2 S1o+-CB (Concave Bottom)",
-                "volume_filled_to": "26mm"
-            },
-            "mouth_end_piece": {
-                "type": "CoD 1Omm 2.7Dpf Cellu1ese Acetute",
-                "hole_diameter": "4mm",
-                "code": "P1483-90-4"
-            },
-            "tobacco_jacket": {
-                "composition": "100% Puffed 75/25 Blend",
-                "paper": "646 Plugwrap Paper"
-            },
-            "fiberglass_jacket": {
-                "weight": "0.075g",
-                "code": "#6437",
-                "binder": "3% HMP (3%Pechin Binder)",
-                "underwrap_paper": "KC 63-5 (coated with 3% Citrate)"
-            },
-            "front_end_overwrap": {
-                "paper": "KC 208 uT (No Citrate)",
-                "flavor_code": "#28 Flavor"
-            }
-        }
+  "product": {
+    "name": "BPlW/BN7A Flavored Humectant Formula",
+    "weight": "92.92 g",
+    "components": [
+      {
+        "name": "Glycerin",
+        "percentage": "92.92 %"
+      },
+      {
+        "name": "Smoke B (WSS)-1-W Formula",
+        "percentage": "1.77 %"
+      },
+      {
+        "name": "#L1 Formula",
+        "weight": "1.77 g",
+        "percentage": "1.77 %"
+      },
+      {
+        "name": "BN#18-C Formula",
+        "percentage": "1.77 %"
+      },
+      {
+        "name": "BN#7A Formula",
+        "percentage": "1.77 %"
+      }
+    ],
+    "total_weight": "100.00 g",
+    "total_percentage": "100.00 %",
+    "notes": "* 1.68% of BPlW/BN7A Flavored Humectant is Actual Flavor in B-3 on the Substrate Mix",
+    "subshnte_mix": {
+      "name": "Substrate Mix BPlW/BN7A",
+      "weight_per_capsule": "3.192 g"
+    },
+    "additional_components": [
+      {
+        "name": "BPlW/BN7A Flavored Humectant",
+        "weight": "23.74 g",
+        "percentage": "23.74 %"
+      },
+      {
+        "name": "Alcoa Alumina (-14+20). #8304-1",
+        "weight": "64.47 g",
+        "percentage": ""
+      },
+      {
+        "name": "CAC #4163",
+        "weight": "8.00 g",
+        "percentage": "8.00 %"
+      },
+      {
+        "name": "",
+        "weight": "3.79 g",
+        "percentage": "3.79 %"
+      }
+    ],
+    "model_configuration": {
+      "model": "H",
+      "overall_length_mm": "78",
+      "fuel_source": "1492-7B (WSS Mix) Baked @ 350/1000°C 10 mm Length",
+      "inserted_by": "3 mm into Capsule",
+      "capsule": {
+        "type": "DD6-2 Slot-CB (Concave Bottom)",
+        "volume_filled_to": "26 mm"
+      },
+      "mouth_end_piece": {
+        "type": "CoD 10 mm 2.7 Dpf Cellulose Acetate",
+        "hole_diameter": "4 mm",
+        "code": "P1483-90-4"
+      },
+      "tobacco_jacket": {
+        "composition": "100% Puffed 75/25 Blend",
+        "paper": "646 Plugwrap Paper"
+      },
+      "fiberglass_jacket": {
+        "weight": "0.075 g",
+        "code": "#6437",
+        "binder": "3% HMP (3% Pectin Binder)",
+        "underwrap_paper": "KC 63-5 (coated with 3% Citrate)"
+      },
+      "front_end_overwrap": {
+        "paper": "KC 208 uT (No Citrate)",
+        "flavor_code": "#28 Flavor"
+      }
     }
+  }
 }

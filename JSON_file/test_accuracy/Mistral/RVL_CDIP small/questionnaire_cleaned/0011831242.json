@@ -1,0 +1,86 @@
+{
+  "master": {
+    "areaCodeAndPhoneNumber": null,
+    "projectNumber": null,
+    "date": "March 211938",
+    "forOfficeUse": {
+      "repNumber": null,
+      "interviewNumber": null,
+      "femaleName": null,
+      "results": 1234,
+      "state": null,
+      "duration": null
+    },
+    "wave": null,
+    "q21": {
+      "brandsRated": [
+        {
+          "brand": null,
+          "code": null,
+          "week": null
+        },
+        {
+          "brand": null,
+          "code": null,
+          "week": null
+        },
+        {
+          "brand": null,
+          "code": null,
+          "week": "15 week"
+        },
+        {
+          "brand": null,
+          "code": null,
+          "week": "20 week"
+        },
+        {
+          "brand": null,
+          "code": null,
+          "week": null
+        },
+        {
+          "brand": "Benson and Hedges",
+          "code": null,
+          "week": null
+        }
+      ],
+      "noneRated": null
+    },
+    "reloIm": null,
+    "products": "products you may use.Your phone number was selected at randon frm all telephone households in the area, and we would really appreciate your opinions for answers will be hed in conplete confidence.",
+    "questions": {
+      "A": {
+        "question": null,
+        "responses": {
+          "noOne21OrOlder": null,
+          "onCalledToPhone": null,
+          "unavailable": null
+        }
+      },
+      "B": {
+        "question": null,
+        "subQuestions": [
+          null,
+          "Smoke cigarettes?",
+          null
+        ],
+        "instructions": {
+          "mustSayYes": null,
+          "askQCAndGoToQE": null,
+          "ifMoreThanOne": null,
+          "ifOneAskForThatPersonThen": null
+        }
+      },
+      "C": {
+        "question": null,
+        "responses": {
+          "advertisingAgency": null,
+          "cigaretteManufacturer": null,
+          "magazineNewspaperRadioTelevision": null
+        }
+      }
+    },
+    "code": null
+  }
+}

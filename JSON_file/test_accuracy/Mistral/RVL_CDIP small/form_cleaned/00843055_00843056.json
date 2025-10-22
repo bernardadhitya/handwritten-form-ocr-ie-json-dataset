@@ -1,0 +1,91 @@
+{
+    "title": "AMES ASSAY FOR MUTAGENICITY",
+    "organization": "Lorillard-Organic Chemistry",
+    "source": "A104",
+    "lorillard_no": "OR63-17",
+    "date_received": "12/4/80",
+    "tested": "2/4-2/10/81",
+    "reported": "2/12/81",
+    "investigators": [
+        "H. S. Tong",
+        "A.A. Poole"
+    ],
+    "notebook_page": "BC18-105",
+    "signatures": [],
+    "toxicity": {
+        "percent_survival": {
+            "50": 80,
+            "100": null
+        }
+    },
+    "solvent": "DMSO/WATER",
+    "concentration_mg_ml": 0.05,
+    "other": "S. TYPHIMURIUM",
+    "strains": {
+        "TA1535": {
+            "no_s9": 12.67,
+            "plus_s9": 18.67
+        },
+        "TA100": {
+            "no_s9": 48.33,
+            "plus_s9": 42.0
+        },
+        "TA98": {
+            "no_s9": 15.33,
+            "plus_s9": 21.33
+        }
+    },
+    "compound_ug_plate": {
+        "reversion_rate": {
+            "test_revertants_control_revertants_per_plate": {
+                "50": [
+                    1.39,
+                    1.01,
+                    1.03
+                ],
+                "25": [
+                    0.71,
+                    1.16,
+                    1.02
+                ],
+                "12.5": [
+                    1.25,
+                    0.88,
+                    0.97
+                ]
+            }
+        }
+    },
+    "positive_control_ug_plate": {
+        "2-aminoanthracene": {
+            "4": [
+                1.26,
+                3.54,
+                0.89,
+                3.37,
+                2.35,
+                20.2
+            ],
+            "2": [
+                1.03,
+                4.39,
+                1.02,
+                3.11,
+                0.33,
+                23.11
+            ]
+        }
+    },
+    "conclusion": "This compound is judged non-mutagenic in this test system.",
+    "copies_to": [
+        {
+            "name": "Dr. H. J. Minnemeyer",
+            "id": "00843055"
+        },
+        {
+            "name": "Ms. L.B. Gray",
+            "organization": "LORILLARD-RESEARCH CENTER"
+        }
+    ],
+    "form": "FORM6(580"
+}

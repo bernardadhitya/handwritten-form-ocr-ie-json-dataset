@@ -1,0 +1,53 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": null,
+        "Adresse": "Joul_des_Gestao",
+        "Code postal": null,
+        "Ville": null,
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": "Demande de Jemise qnacielue",
+        "Complement": null,
+        "Reference client eventuelle": null
+      },
+      "Interlocuteur": {
+        "EDE": {
+          "Adresse": "Soua_du_Ylateau",
+          "Code postal": null,
+          "Ville": null
+        },
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            null,
+            null,
+            null
+          ],
+          "Temps passe a traiter le scenario": null
+        }
+      },
+      "Contribution": {
+        "Cocher les elements devotre contribution pour le scenario traite": [
+          null,
+          "(+2€) Mon courrier contient une page de de fax",
+          null,
+          "(+1e) Jai envoye par courriel mon courrier numerise le 48 [42 [2006."
+        ],
+        "Marque et modele du scanner": [
+          null,
+          null
+        ],
+        "Format": [
+          "PNG",
+          null,
+          "TIFF"
+        ],
+        "Resolution des images": null
+      }
+    }
+  }
+}

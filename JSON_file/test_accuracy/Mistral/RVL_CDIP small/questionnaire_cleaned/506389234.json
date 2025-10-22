@@ -1,0 +1,72 @@
+{
+  "ALPHA_RECOGNITION_THRESHOLD_ATTRIBUTE_PROFILE_ARTAP": {
+    "NAME": null,
+    "DATE9": null,
+    "FEMA_NO": null,
+    "CODE_NO": null,
+    "AROMA_RAW_MATERIAL": "Meuthgne",
+    "THRESHOLD": {
+      "Min": null,
+      "Max": null,
+      "Unit": null
+    },
+    "ATTRIBUTE_PROFILE": {
+      "Cigarette_like_taste": null,
+      "Artificial_taste": null,
+      "Fresh_tobacco_like_taste": null,
+      "Smoke_like_taste": null,
+      "Background_mask": "Increase",
+      "Dry_puff_character": null,
+      "Aftertaste": {
+        "Yes_No": null,
+        "Agreeable": null,
+        "Disagreeable": null,
+        "clean": null,
+        "Tingering": null,
+        "sweet": null,
+        "coating": null,
+        "sour": null,
+        "oily": null
+      },
+      "Trigeminal_sensation": [
+        null,
+        null,
+        null,
+        "throat scratch",
+        "astringent",
+        "heating",
+        null,
+        null
+      ],
+      "Categorization_of_flavor": [
+        null,
+        "metallic",
+        "nutty/pyrazine",
+        null,
+        null,
+        null,
+        null,
+        "roasted",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "carame7",
+        null
+      ],
+      "Major_character_description": null,
+      "Recommendations": [
+        null,
+        null,
+        null
+      ]
+    },
+    "ADDITIONAL_COMMENTS": {
+      "ranf+8d #rns": null
+    }
+  }
+}

@@ -1,37 +1,37 @@
 {
-    "prep_study": "CA",
-    "name": "SESSION",
-    "regular_brand": "15Z INa",
-    "cigarette": "y",
-    "time_deprivation": "2 HOURS NICOTINE 1 HOUR CAFFEINE",
-    "last_cigarette": ".00",
-    "last_caffeine": "/",
-    "mouth_throat_impact": {
-        "low": true,
-        "high": false
-    },
-    "unusual_flavor": false,
-    "off_taste": false,
-    "mouth_coating": {
-        "not_at_all": true,
-        "very": false
-    },
-    "satisfaction": {
-        "not_at_all": true,
-        "very": false
-    },
-    "like_dislike": {
-        "dislike_extremely": false,
-        "like_extremely": false
-    },
-    "mentholated": "Yes",
-    "menthol": {
-        "very_little": true,
-        "a_lot": false
-    },
-    "cooling": {
-        "very_little": true,
-        "a_lot": false
-    },
-    "id": "2028815589"
+  "prep_study": "PREP STUDY",
+  "name": "Carolyn Keese",
+  "regular_brand": "",
+  "cigarette": "Y",
+  "time_deprivation": "2 HOURS NICOTINE 1 HOUR CAFFEINE",
+  "last_cigarette": "9:00",
+  "last_caffeine": "10:00",
+  "mouth_throat_impact": {
+    "low": false,
+    "high": true
+  },
+  "unusual_flavor": true,
+  "off_taste": true,
+  "mouth_coating": {
+    "not_at_all": false,
+    "very": true
+  },
+  "satisfaction": {
+    "not_at_all": false,
+    "very": true
+  },
+  "like_dislike": {
+    "dislike_extremely": false,
+    "like_extremely": false
+  },
+  "mentholated": "No",
+  "menthol": {
+    "very_little": false,
+    "a_lot": false
+  },
+  "cooling": {
+    "very_little": false,
+    "a_lot": false
+  },
+  "id": "2028815589"
 }

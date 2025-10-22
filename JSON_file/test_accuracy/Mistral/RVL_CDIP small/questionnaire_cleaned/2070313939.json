@@ -2,42 +2,28 @@
   "name": "Mr.Randy Pennington",
   "questions": [
     {
-      "question": "On which one of the following topics would you be most likely to express your views to elected officials?",
-      "answers": {
-        "government_restriction": true,
-        "excise_taxes": false,
-        "smoking_restrictions": true,
-        "employment_discrimination": false
-      }
+      "question": "I.Are you a registered voter?",
+      "answer": "No"
     },
     {
-      "question": "Do you receive the Smoker's Advocate Newsletter about issues concerning smokers' rights?",
-      "answers": {
-        "yes": true
-      }
+      "question": "On which one of the following topics would you be most likely to express your vicws to elected officials?",
+      "answer": "Government restriction on the sale and marketing of tobacco products"
+    },
+    {
+      "question": "Do you receive the Smoker's Advocate Newsletter about issues concerning smokers'rights?",
+      "answer": "Ys"
     },
     {
       "question": "If so, which topics do you most like to read about?",
-      "answers": {
-        "businesses_that_accommodate_smokers": false,
-        "legislative_news": true,
-        "international_news": false,
-        "state_news": false,
-        "the_internet": false
-      }
+      "answer": "Legislative news"
     },
     {
-      "question": "What do you think would encourage other people to take the time to let their views be known?",
-      "answers": {
-        "NENKSGETDRE": false,
-        "MALLINCS": false,
-        "2070313939": false,
-        "C039203039-1": false
-      }
+      "question": "You have taken the time to make your views known on issucs related to tobacco,what do you think would encourage other people to take the time to let their views be known?",
+      "answer": "NENKSGETDRE"
     }
   ],
   "contact": {
-    "phone": null,
-    "is_registered_voter": false
+    "phone": "2070313939",
+    "code": "C039203039-1"
   }
 }

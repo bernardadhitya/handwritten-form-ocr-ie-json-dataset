@@ -1,69 +1,72 @@
 {
-    "communicationResultReport": {
-        "date": "May 5, 1999",
-        "time": "4:18 PM",
-        "tti": null,
-        "fileMode": null,
-        "option": null,
-        "addressGroup": null,
-        "result": "OK",
-        "page": "31/31",
-        "memoryTx": null,
-        "tln": null,
-        "reasonForError": "E-3 RUSYACSIMILE CONNECTION",
-        "details": {
-            "date": "May 25, 1989",
-            "time": "10:04 AM",
-            "sender": "Frog-A P DC",
-            "faxNumber": "+2020426088",
-            "transmissionId": "T-160",
-            "pages": "03/33",
-            "faxCode": "F-562",
-            "recipientFaxNumber": "2075294174",
-            "recipient": "JONES DAY REAVIS & POGUE",
-            "locations": [
-                "ATLANTA",
-                "LONDON",
-                "CHICAGO",
-                "LOS ANGELES",
-                "CLEVELAND",
-                "COLUMBUS",
-                "NEW YORK",
-                "DALLAS",
-                "PARIS",
-                "PITTSBURGH PENNSYLVANIA",
-                "FRANKFURT",
-                "GENEVA",
-                "HONG KONG",
-                "TOKYO",
-                "IRVINE",
-                "WASHINGTON"
-            ],
-            "address": "SOO GRANT STREET",
-            "facsimile": "1209-7333",
-            "contact": {
-                "name": "WAITERE DIRECT UKSER",
-                "phone": "412394-7914"
-            }
-        },
-        "dateOfLetter": "May 21, 1999",
-        "subject": "A.D. Bedell Wholesale Co. Inc. vs. Philip Morris Inc. et al",
-        "recipients": [
-            {
-                "name": "Merjorie P. Lindblom Esq",
-                "firm": "Kirkland & Ellis",
-                "address": "153 E. 53rd St, New York, NY 10022"
-            },
-            {
-                "name": "Douglas Wald Esq",
-                "firm": "Arnold & Porter",
-                "address": "555 12th Street N.W., Washington D.C. 20004"
-            },
-            {
-                "name": "Barnard D. Marcus Esq",
-                "firm": "Marcus & Shapira",
-                "address": "One Oxford Centre, 35th Floor, Pittsburgh, PA 15219"
-            }
-        ]
-    }
+  "communicationResultReport": {
+    "date": "May 25, 1999",
+    "time": "4:18 PM",
+    "tti": "TTI",
+    "fileMode": "054",
+    "option": "MEMORY TX",
+    "addressGroup": "TLN",
+    "result": "OK",
+    "page": "31/31",
+    "memoryTx": "",
+    "tln": "",
+    "reasonForError": "E-1) HANG UP OR LINE FAIL E-2) BUSY E-3) NO ANSWER E-4) NO FACSIMILE CONNECTION",
+    "details": {
+      "date": "May-25-89",
+      "time": "10:04 AM",
+      "sender": "Frog-A P DC",
+      "faxNumber": "+2020426088",
+      "transmissionId": "T-160",
+      "pages": "03/33",
+      "faxCode": "F-562",
+      "recipientFaxNumber": "",
+      "recipient": "JONES, DAY, REAVIS & POGUE",
+      "locations": [
+        "ATLANTA",
+        "LONDON",
+        "NASHVILLE",
+        "LOS ANGELES",
+        "CHICAGO",
+        "NEW DELHI",
+        "CLEVELAND",
+        "NEW YORK",
+        "COLUMBUS",
+        "PARIS",
+        "DALLAS",
+        "RHADAM",
+        "FRANKFURT",
+        "TAIPEI",
+        "GENEVA",
+        "TOKYO",
+        "HONG KONG",
+        "IRVINE",
+        "WASHINGTON"
+      ],
+      "address": "SUITE 3100 500 GRANT STREET PITTSBURGH, PENNSYLVANIA 15219",
+      "facsimile": "(412) 394-7914",
+      "contact": {
+        "name": "",
+        "phone": "(412) 394-7914"
+      }
+    },
+    "dateOfLetter": "May 21, 1999",
+    "subject": "A.D. Bedell Wholesale Co. Inc. vs. Philip Morris Inc. et al.",
+    "recipients": [
+      {
+        "name": "Marjorie P. Lindblom, Esq.",
+        "firm": "Kirkland & Ellis",
+        "address": "153 E. 53rd St. 39th Floor New York, NY 10022"
+      },
+      {
+        "name": "Douglas Wald, Esq.",
+        "firm": "Arnold & Porter",
+        "address": "555 12th Street, N.W. Washington, D.C. 20004"
+      },
+      {
+        "name": "Bernard D. Marcus, Esq.",
+        "firm": "Marcus & Shapira",
+        "address": "One Oxford Center 35th Floor Pittsburgh, PA 15219"
+      }
+    ]
+  }
 }

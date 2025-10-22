@@ -1,0 +1,89 @@
+{
+    "company": "F. Reynolds Tobacco USA Inc.",
+    "authorizationRequest": {
+        "subject": "In-vitro Genetic Toxicology Testing",
+        "dateRouted": "5/21/87",
+        "deptRefNo": "556",
+        "startDate": "5/87",
+        "operationalDate": "3/88",
+        "approvalRequestSummary": "A summary discussion is attached. R&D Biochemical/Biobehavioral currently has Hazelton Biotechnology under contract to perform in-vitro genetic toxicology assays for programs other than ALPHA. (Copies of AR and contract 87-771-010 for $100,000 are attached). This AR and contract supplements the original request for a consolidated funding of $250,000 in order to conduct assays specifically for ALPHA.",
+        "authorityRequested": {
+            "authorizationType": "Capital",
+            "previouslyRequested": 100000,
+            "totalRequest": 250000,
+            "expense": {
+                "contractProductSupport": "Other",
+                "productModificationIntroduction": "No",
+                "previousProposals": "None",
+                "leaseOrOtherContinuingCommitment": {
+                    "minimum": "$",
+                    "total": "$"
+                },
+                "costJustifiedAt": "%RO1"
+            }
+        },
+        "financeData": {
+            "capital": {
+                "expense": 150000,
+                "capitalID": "",
+                "authorityRequestedCoveredBy": {
+                    "budgetedDepartment": 780,
+                    "amount": 150000
+                },
+                "projectID": "",
+                "fundsRequiredFrom": "",
+                "expenseCode": "04-90-0218-9010-780",
+                "department": "Corporate"
+            },
+            "financialImpact": {
+                "1987": {
+                    "operatingEarningsLoss": "$150M",
+                    "corporateFundsRequested": ""
+                },
+                "thereafter": {
+                    "average": ""
+                }
+            }
+        },
+        "reviews": {
+            "approvals": [
+                {
+                    "dept": "GTB-TRD",
+                    "date": "6-1-87",
+                    "deptInitials": "GRD-SR.VP",
+                    "signature": "MN"
+                },
+                {
+                    "dept": "BGTC",
+                    "date": "6-2-87",
+                    "deptInitials": "AWH-BIO/BL"
+                },
+                {
+                    "dept": "GRG-FIN",
+                    "date": "S-2-87",
+                    "deptInitials": "CFO",
+                    "signature": "SLJ-LEGALSSg"
+                },
+                {
+                    "dept": "Operations",
+                    "date": "G-5-87",
+                    "deptInitials": "BCM-NPT"
+                },
+                {
+                    "dept": "Fin.&Admin.",
+                    "date": "G-5-87",
+                    "deptInitials": "RAL-NPTGX"
+                },
+                {
+                    "dept": "Pres.&CEO",
+                    "date": "7",
+                    "deptInitials": "RJR-MKTG.RAR"
+                }
+            ]
+        },
+        "implementorProjectManager": "G.T.Burger",
+        "projectClientRepresentative": "Dr D.Doolittle",
+        "departmentManagement": "7315"
+    },
+    "form": "RJRT Form 8711-Rv.01/87 J2/87"
+}

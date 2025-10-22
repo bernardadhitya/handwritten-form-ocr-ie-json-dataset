@@ -1,21 +1,22 @@
 {
-  "Confidential": "Confidential",
-  "Initiator of Test": "A.Initiator of Test",
-  "Date Submitted": "3-2-9",
-  "Purpose of Test": "SECEyF.TRD.CAPACITV.CILAA",
-  "TRD": "TRD",
-  "CILAA": "CILAA",
-  "Test Procedure": "Attach written procedure, if necessary, and appropriate Data/Log Sheets reguired: SSEE ATTACHED",
-  "Test Samples and Lab Analyses Required": "S.Test Samples and Lab Analyses Reguired (Use attached Test Reguest Data Sheet).",
-  "Coordination Needed Between Departments": "LMR.2024742319",
-  "Departmental Approvals": {
-    "Designated Coordinator of Test": "Desianated Coordinator ofTes",
-    "W.Xenl.": "W.Xenl.",
-    "GLeNL.iARKEe": "GLeNL.iARKEe",
-    "XHthomos": "XHthomos",
-    "CXHELE": "CXHELE",
-    "KEITH": "KEITH",
-    "GGNRK": "GGNRK",
-    "V.SwA": "V.SwA"
-  }
+    "Confidential": true,
+    "Initiator of Test": "A",
+    "Date Submitted": "3-2-9",
+    "Purpose of Test": "SECEyF",
+    "TRD": "CAPACITV",
+    "CILAA": true,
+    "Test Procedure": "SEE ATTACHED",
+    "Test Samples and Lab Analyses Required": "Use attached Test Request Data Sheet",
+    "Coordination Needed Between Departments": "LMR",
+    "Contact Number": "2024742319",
+    "Departmental Approvals": {
+        "Designated Coordinator of Test": "Production",
+        "W.Xenl.": true,
+        "GLeNL.iARKEe": true,
+        "XHthomos": true,
+        "CXHELE": true,
+        "KEITH": true,
+        "GGNRK": true,
+        "V.SwA": true
+    }
 }

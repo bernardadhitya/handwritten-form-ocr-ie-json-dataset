@@ -1,40 +1,39 @@
 {
   "date": "2345",
-  "interviewer": "CALLBACK: 78210",
-  "callback": null,
-  "rotation": null,
+  "interviewer": "National Family Opinion",
+  "callback": "78210",
+  "rotation": "78210",
   "introduction": "I'm calling long distance for Carol Adams of National Family Opinion in Toledo, Ohio.",
   "question_1": {
-    "question": "year",
-    "response": null,
-    "follow_up": "test.",
-    "response_number": null
+    "question": "Did you finish smoking all the cigarettes?",
+    "response": "NO",
+    "follow_up": "About how many cigarettes have you smoked:",
+    "response_number": "11"
   },
   "question_2": {
-    "question": "If you like the brand very much rate it a 10. If you do not like the brand at all, rate it a 0. If you're somewhere in between, use any number from 1 to 10.",
-    "scale": null,
+    "question": "Id like to have you rate your usual brand on a l to l0 rating scale.",
+    "scale": "l to l0",
     "response": "2",
-    "note": null
+    "note": "O/"
   },
   "question_2b": {
-    "question": "As a cigarette for your own use, what number from 1 to 10 best describes your overall feelings toward the cigarettes we sent you?",
-    "response": "6359",
-    "note": null
+    "question": "What number from 1 to l0 best describes your overall feelings toward the cigarettes we sent you?",
+    "response": "6359"
   },
   "question_2c": {
     "question": "And what number from 1 to 10 best describes your overall feelings toward menthol filter cigarettes in general?",
-    "response": null
+    "response": "16)"
   },
   "question_3": {
-    "question": null,
-    "response": null,
-    "follow_up": null,
-    "response_follow_up": null
+    "question": "What did you like about the cigarettes we sent you?",
+    "response": "7A.",
+    "follow_up": "What-else?",
+    "response_follow_up": "21"
   },
   "question_4": {
-    "question": null,
-    "response": null,
-    "follow_up": null,
-    "response_follow_up": null
+    "question": "What did you not like about the cigarettes we sent you?",
+    "response": "24 *.",
+    "follow_up": "What else?",
+    "response_follow_up": "27"
   }
 }

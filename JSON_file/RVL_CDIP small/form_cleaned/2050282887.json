@@ -1,45 +1,45 @@
 {
-    "run_no": 441,
-    "date": "8-11-87",
-    "purpose": "FIUER CITECNOUT -1TRUN",
-    "reference": "PLANNNG RUN P87-415",
-    "filler": "ME w/0 AC",
-    "ov": 25,
-    "ab_loading": "Z $DWB",
-    "vessel_1": {
-        "capacity": 4000,
-        "total_weight_dwb": 335,
-        "total_weight_as_is": 456,
-        "wt_top_basket_as_is": 456,
-        "wt_bottom_basket_as_is": 0
-    },
-    "stem": {
-        "type": "BGHT NE SHEODED",
-        "ov": 35,
-        "citrate_loading_dwb": 2000,
-        "total_weight_dwb": 148,
-        "vessel": "L",
-        "total_weight_as_is": 278,
-        "wt_top_basket_as_is": 53,
-        "wt_bottom_basket_as_is": "Z27"
-    },
-    "vessel_2": {
-        "capacity": 1000,
-        "total_weight_dwb": 148,
-        "total_weight_as_is": "Z79",
-        "wt_top_basket_as_is": 69,
-        "wt_bottom_basket_as_is": "Z10"
-    },
-    "process_targets": {
-        "pressure": 3800,
-        "temperature": "13//M//3",
-        "flow_rate": "1000 lbs/min",
-        "co2_flow": {
-            "direction": "38",
-            "time_mins": "C02:12500",
-            "fill": "1bs FILL_/05991bs",
-            "step_1": "STEP127Z56 lbs",
-            "step_2": "2050282887"
-        }
+  "run_no": 441,
+  "date": "8-11-87",
+  "purpose": "FILLER CHECKOUT - 1ST RUN",
+  "reference": "PLANNING RUN P87-415",
+  "filler": "ME w/o AC",
+  "ov": 25,
+  "ab_loading": "2 % DWB",
+  "vessel_1": {
+    "capacity": 4000,
+    "total_weight_dwb": 335,
+    "total_weight_as_is": 456,
+    "wt_top_basket_as_is": 456,
+    "wt_bottom_basket_as_is": 0
+  },
+  "stem": {
+    "type": "BRIGHT FINE SHREDDED",
+    "ov": 35,
+    "citrate_loading_dwb": "17 % DWB",
+    "total_weight_dwb": 148,
+    "vessel": "2000 L",
+    "total_weight_as_is": 278,
+    "wt_top_basket_as_is": 53,
+    "wt_bottom_basket_as_is": 227
+  },
+  "vessel_2": {
+    "capacity": 1000,
+    "total_weight_dwb": 148,
+    "total_weight_as_is": 279,
+    "wt_top_basket_as_is": 69,
+    "wt_bottom_basket_as_is": 210
+  },
+  "process_targets": {
+    "pressure": 3800,
+    "temperature": "131 °F",
+    "flow_rate": "1000 lbs/min",
+    "co2_flow": {
+      "direction": "down",
+      "time_mins": "38 mins",
+      "fill": "12,500 lbs FILL",
+      "step_1": "10,599 lbs STEP 1",
+      "step_2": "27,256 lbs STEP 2"
     }
+  }
 }

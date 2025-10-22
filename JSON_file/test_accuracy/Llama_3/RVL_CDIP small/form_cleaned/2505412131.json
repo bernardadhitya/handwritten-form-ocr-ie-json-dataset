@@ -1,0 +1,39 @@
+{
+  "company": {
+    "name": null,
+    "type": null,
+    "address": {
+      "street": null,
+      "postal_code": null,
+      "city": null,
+      "country": null
+    },
+    "contact": {
+      "telephone": null,
+      "telefax": null
+    },
+    "general_manager": null,
+    "trade_register": null
+  },
+  "telefax_message": {
+    "number": null,
+    "date": null,
+    "from": null,
+    "to": {
+      "name": "Ms. Diane Gray",
+      "address": {
+        "company": "Toxicology Testing Services",
+        "division": "BioReliance",
+        "street": null,
+        "city": "Rockville",
+        "state": null,
+        "postal_code": "20850",
+        "country": null
+      },
+      "fax_no": "001-301-7381036"
+    },
+    "subject": null,
+    "message": null,
+    "reference": "2505412131"
+  }
+}

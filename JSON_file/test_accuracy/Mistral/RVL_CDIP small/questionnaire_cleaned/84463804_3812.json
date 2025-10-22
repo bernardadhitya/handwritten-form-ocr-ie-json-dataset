@@ -1,0 +1,73 @@
+{
+  "organization": null,
+  "survey": null,
+  "address": {
+    "street": null,
+    "suite": "1146",
+    "postal_code": null,
+    "city": null,
+    "state": null,
+    "zip_code": "10017"
+  },
+  "date": null,
+  "project": null,
+  "screening_questionnaire": {
+    "time_interview": {
+      "started": null,
+      "ended": null
+    },
+    "respondents": "NA",
+    "telephone": "0442-466-3",
+    "address": null,
+    "city": null,
+    "state": null,
+    "interviewer": null,
+    "metro_area": null,
+    "date": null,
+    "validated_by": null,
+    "validation_date": null,
+    "indicate_city": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      "New Orleans"
+    ],
+    "initial_refusal": {
+      "circle_mex": [
+        10,
+        null,
+        21,
+        null,
+        null,
+        null,
+        null,
+        50,
+        null
+      ]
+    },
+    "participation": {
+      "question": "Have you, yourself, participated in a study in the last 6 months or so?",
+      "terminate_and_circle_next_highest_number_below": null,
+      "response": {
+        "yes": null,
+        "no": null
+      }
+    },
+    "age_card": {
+      "instruction": "Please tell me which letter on this card includes your age.",
+      "terminate_and_circle_next_highest_number": null,
+      "age_groups": {
+        "A": null,
+        "B": null,
+        "C": null,
+        "D": null,
+        "E": "45 to 54",
+        "F": null,
+        "G": null
+      },
+      "terminate_and_circle_next_highest_number_under_or_over_age": null
+    }
+  }
+}

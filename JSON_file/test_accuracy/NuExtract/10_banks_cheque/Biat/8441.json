@@ -1,19 +1,18 @@
 {
-  "transactionType": "VERSEMENTESPECES",
-  "bank": "AT",
-  "transactionId": "907043",
-  "names": [
-    "Ethel M. Bryson",
-    "Edmee Pelletier",
-    "R.1 B"
-  ],
-  "reference": "Tlun'fi",
-  "location": null,
-  "amount": "Two Thousand Three.Hundred",
-  "total": "Twenty Five.",
-  "note": "Signature du clicnt",
-  "clientSignature": "Cocher ct visa de la AT",
-  "cashier": "Caisse",
-  "approval": null,
-  "date": "06/05122"
+    "transactionType": "VERSEMENTESPECES",
+    "bank": "BIAT",
+    "transactionId": "907043",
+    "names": [
+        "Ethel M. Bryson",
+        "Edmee Pelletier"
+    ],
+    "reference": "R.1.B.",
+    "location": "Tlun'fi",
+    "amount": "Two Thousand Three Hundred and Twenty Five",
+    "total": "Totol du vesscment",
+    "note": "Nate deToptrotion",
+    "clientSignature": "Signature du clicnt",
+    "cashier": "Caisse",
+    "approval": "Cocher ct visa de la AT",
+    "date": "06/05/22"
 }

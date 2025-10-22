@@ -1,0 +1,50 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": null
+      },
+      "Adresse": {
+        "Rue": null,
+        "Code": null,
+        "Ville": "Lachaelle"
+      },
+      "Tei": {
+        "Scenario": {
+          "Categorie": "Relante",
+          "Objet": null
+        }
+      },
+      "Interlocuteur": {
+        "Nom": null,
+        "Adresse": null,
+        "Code postal": null,
+        "Ville": null
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          null,
+          "plume",
+          "feutre"
+        ],
+        "Temps a traiter le scenario": null
+      },
+      "Contribution": {
+        "Elements": [
+          null,
+          null,
+          "Avant mon envoi postal, j'ai telecopie ma contribution le J6_ockobs.2oj6.",
+          "Jai envoye par courriel mon courrier numerise le A6 sckr_226."
+        ],
+        "Marque et modele du scanner": null,
+        "Format": [
+          null,
+          null,
+          null
+        ],
+        "Resolution des images": null
+      }
+    }
+  }
+}

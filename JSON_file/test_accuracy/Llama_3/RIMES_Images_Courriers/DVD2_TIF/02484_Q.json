@@ -1,0 +1,47 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": null,
+        "Adresse": null,
+        "Code postal": null,
+        "Ville": null,
+        "Tel": "0335"
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": null,
+        "Complement": null,
+        "Interlocuteur _ BAAE": "Ass",
+        "Adresse": null,
+        "Code postal": "LE12L e1eLe]",
+        "Ville": "MeIL",
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            "bille",
+            null,
+            null
+          ],
+          "Temps passe a traiter le scenario": null
+        },
+        "Contribution": {
+          "Cocher les elements de votre contribution pour le scenario traite": [
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "Marque et modele du scanner": {
+          "Format": [
+            "PNG",
+            null,
+            null
+          ],
+          "Resolution des images": null
+        }
+      }
+    }
+  }
+}

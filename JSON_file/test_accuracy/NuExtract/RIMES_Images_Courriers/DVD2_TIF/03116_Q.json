@@ -1,40 +1,49 @@
 {
-  "Code d'envoi": {
-    "Identite fictive": {
-      "Nom": "V.E.R..E.R.S.C.H.",
-      "Prenom": "T.H....s.",
-      "Adresse": "o... u..de....Xon...e.",
-      "Code postal": "21oVill ....R...A.....Es...RE..R.E..aN..",
-      "Ville": "R...A.....Es...RE..R.E..aN..",
-      "Retirenant": {
-        "Tel": null
-      }
-    },
-    "Scenario": {
-      "Categorie": "anc.......aune...us...sams...ponse",
-      "Objet": "V.o.....u.lamahon...du..m.oi...mw...w....ah...sans.",
-      "Complement": "acu.",
-      "Reference client eventuelle": null,
-      "Interlocuteur": {
-        "Nom": "A......do.u...",
-        "Adresse": null,
-        "Code postal": null,
-        "Ville": null
-      },
-      "Redaction": {
-        "Type de stylo (noir) utilise": [
-          "bille",
-          "plume",
-          "feutre"
-        ],
-        "Temps passe a traiter le scenario": null
-      },
-      "Contribution": {
-        "Cocher les elements de votre contribution pour le scenario traite": [],
-        "Marque et modele du scanner": null,
-        "Format": [],
-        "Resolution des images": null
-      }
+    "Code d'envoi": {
+        "Identite fictive": {
+            "Nom": "VErnEescH_",
+            "Prenom": "MaIKief",
+            "Adresse": "40&. nue de. XonVa Elera_",
+            "Code postal": "ELELELOIO",
+            "Ville": "RQticaRIin_LES.",
+            "Retiretant": {
+                "Tel": "388738"
+            }
+        },
+        "Scenario": {
+            "Categorie": "Relanck. c Gue Asl Sams: MRRnus",
+            "Objet": "VeKas Lsbmabon dsmois elexmr_eek_aahr_{anA",
+            "Complement": "auldla",
+            "Reference client eventuelle": "A",
+            "Interlocuteur": {
+                "Nom": "La_Rebouie",
+                "Adresse": "LE_RavRG:",
+                "Code postal": "2138130",
+                "Ville": "ST GERIALM Lo_CadCNG"
+            },
+            "Redaction": {
+                "Type de stylo (noir) utilise": [
+                    "bille",
+                    "plume",
+                    "feutre"
+                ],
+                "Temps passe a traiter le scenario": "minutes."
+            },
+            "Contribution": {
+                "Cocher les elements de_votre contribution pour le scenario traite": [
+                    "(6€) J'envoie mon courrier par voie postale a Ia date du .2Elog_",
+                    "(+2e) Mon courrier contient une page de garde de fax:",
+                    "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le 26/e.&",
+                    "(+1€) Jai envoye par courriel mon courrier numerise le"
+                ],
+                "Marque et modele du scanner": null,
+                "Format": [
+                    "PNG",
+                    "GIF",
+                    "TIFF"
+                ],
+                "Resolution des images": "dpilppp"
+            }
+        }
     }
-  }
 }

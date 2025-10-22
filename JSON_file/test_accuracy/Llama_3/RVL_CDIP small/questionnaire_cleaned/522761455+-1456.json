@@ -1,0 +1,71 @@
+{
+  "survey": {
+    "contact_method": {
+      "phone": {
+        "questions": [
+          {
+            "id": null,
+            "category": "Ease of Contact",
+            "aspects": [
+              null,
+              "Satisfaction with telephone recording",
+              null
+            ]
+          },
+          {
+            "id": null,
+            "category": null,
+            "aspects": [
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "id": null,
+            "category": null,
+            "aspects": [
+              null,
+              null,
+              "Helpfulness",
+              null
+            ]
+          }
+        ]
+      },
+      "letter": {
+        "skip_to_question": null
+      }
+    },
+    "satisfaction_statement": {
+      "options": [
+        null,
+        "I was NOT completely satisfied but the action taken was acceptable.",
+        null,
+        "I was NOT AT ALL satisfied with the action taken.",
+        null
+      ]
+    },
+    "purchase_intent": {
+      "question": "Based on how you were treated by our representative, will you continue to purchase the brand of cigarettes you contacted us about?",
+      "options": [
+        null,
+        "Probably Would",
+        "Might or Might Not",
+        null,
+        null
+      ]
+    },
+    "recommendation": {
+      "question": null,
+      "options": [
+        null,
+        "Probably Would",
+        null,
+        null,
+        null
+      ]
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+    "from": "SUSMAN",
+    "return_route_to": "SLOVINGS",
+    "company": "SUSMAN GODFREY L.L.P",
+    "description": "A REGISTERED LIMITED LIABILITY PARTNERSHIP",
+    "position": "File Clerk",
+    "profession": "Attorneys at Law",
+    "address": "5100 First Interstate Bank Plaza",
+    "from_person": "SANDRA LOVINGS",
+    "from_address": "1000 Louisiana, Houston, Texas 77002-5096",
+    "date": "October 2, 1996",
+    "cli_mat_number": "6649.4542",
+    "phone": "713-651-9366",
+    "telecopy": "713-653-7897",
+    "total_pages_including_cover": null,
+    "recipients": [
+        {
+            "name": "Steven P. Rissman",
+            "company": "Philip Morris",
+            "fax": "212-907-5796",
+            "confirm_by_phone": "212-880-3310",
+            "machine_confirm": true
+        },
+        {
+            "name": "Mary Tourenq",
+            "company": "Zimmerman, Axelrad, Meyer Stern & Wise",
+            "fax": "713-963-0859",
+            "confirm_by_phone": "713-552-1234",
+            "machine_confirm": true
+        }
+    ],
+    "message": "Mr. Rissman: Karen Susman asked that I let you know that Mary Tourenq is preparing the lease for the house in Pascagoula. The lease will be faxed to you tomorrow morning for your approval.",
+    "sender_contact": "SANDRA: 713-653-7847",
+    "notice_of_confidentiality": {
+        "privilege": "ATTORNEY-CLIENT PRIVILEGE",
+        "work_product": "ATTORNEY WORK PRODUCT",
+        "confidential": true,
+        "intended_recipient": "individual or entity designated above",
+        "action_on_error": "contact sender at (713) 651-9366, ext. 596, immediately"
+    },
+    "fax_note": "An original hard copy of this transmission will not be sent separately."
+}

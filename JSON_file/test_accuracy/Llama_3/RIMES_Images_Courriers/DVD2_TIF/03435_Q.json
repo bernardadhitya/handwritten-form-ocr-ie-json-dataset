@@ -1,0 +1,45 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": "Joxette"
+      },
+      "Adresse": null,
+      "Code postal": null,
+      "Ville": null,
+      "Tel": "1414BI24"
+    },
+    "Scenario": {
+      "Categorie": null,
+      "Objet": null,
+      "Complement": "#V-cW:",
+      "Reference client eventuelle": null,
+      "Interlocuteur": null,
+      "Adresse": null,
+      "Code postal": null,
+      "Ville": null,
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille",
+          null,
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Jenvoie mon courrier par voie postale a la date du": "0.1",
+        "Mon courrier contient une page de garde de fax": null,
+        "Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+        "Jai envoye par courriel mon courrier numerise le": null
+      },
+      "Marque et modele du scanner": "AGEA",
+      "Format": [
+        null,
+        null,
+        null
+      ],
+      "Resolution des images": null
+    }
+  }
+}

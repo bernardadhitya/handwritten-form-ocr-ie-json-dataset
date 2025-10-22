@@ -1,29 +1,36 @@
 {
-  "Institution": {
-    "Name": "Indiana University School of Medicine",
-    "Location": "Indianapolis, Indiana"
-  },
-  "Investigators": [
-    "Paul L. McHenry",
-    "John W. Jordan"
-  ],
-  "Study Details": {
-    "Title": "Cardiovascular Function and Electrocardiographic Changes in Smokers and Non-Smokers in Response to Maximal Treadmill Exercise",
-    "Age Range": "25.and 55 years of age",
-    "Objective": "determine if there are any significant differences between cigarette smokers and non-smokers.",
-    "Parameters": [
-      "Maximal heart rate",
-      "Duration of maximal exercise",
-      "Systolic blood pressure during maximal exercise testing",
-      "Incidence of arrhythmias during maximal exercise testing",
-      "Differences in the computer quantitated changes in the ST segment slope and depression in response to maximal exercise"
-    ]
-  },
-  "Grant Information": {
-    "Recipient": "Paul L. McHenry",
-    "Grant Period": "three years",
-    "Start Date": "February 1, 1971",
-    "Total Budget": "$30,400.00",
-    "First Year Budget Approved": "$9,550.00"
-  }
+    "Institution": {
+        "Name": "Indiana University School of Medicine",
+        "Location": "Indianapolis, Indiana"
+    },
+    "Investigators": [
+        {
+            "Role": "Principal Investigator",
+            "Name": "Paul K. McHenry"
+        },
+        {
+            "Role": "Co-Investigator",
+            "Name": "John M. Jordan"
+        }
+    ],
+    "Study Details": {
+        "Title": "Electrocardiographic Changes in Smokers vs Non-Smokers",
+        "Age Range": "25-55 years",
+        "Objective": "To determine if there are any significant differences between cigarette smokers and non-smokers in response to exercise",
+        "Parameters": [
+            "Maximal Exercise",
+            "Heart Rate",
+            "Blood Pressure",
+            "Arrhythmias",
+            "Computer Quantified Changes in ST Segment",
+            "Exercise Tolerance"
+        ]
+    },
+    "Grant Information": {
+        "Recipient": "Paul L. McHenry",
+        "Grant Period": "3 years",
+        "Start Date": "February 1971",
+        "Total Budget": "$30,400.00",
+        "First Year Budget Approved": "$5,498.00"
+    }
 }

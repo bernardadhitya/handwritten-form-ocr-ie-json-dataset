@@ -1,0 +1,64 @@
+{
+  "documentType": null,
+  "dateRouted": "8/1/90",
+  "documentNumber": null,
+  "contract": {
+    "company": null,
+    "brands": null,
+    "totalContractCost": null,
+    "currentYearCost": null,
+    "briefDescription": null
+  },
+  "originator": {
+    "name": null,
+    "signature": null,
+    "date": null
+  },
+  "manager": {
+    "name": null,
+    "signature": null,
+    "date": null
+  },
+  "reviewRouting": {
+    "insurance": {
+      "toBeReviewedBy": null,
+      "signature": null,
+      "date": null
+    },
+    "law": {
+      "toBeReviewedBy": "",
+      "signature": "",
+      "date": null
+    },
+    "fsMarketing": {
+      "toBeReviewedBy": "",
+      "signature": null,
+      "date": ""
+    }
+  },
+  "approvalRouting": {
+    "vpDirector": {
+      "signature": null,
+      "date": null
+    },
+    "srVp": {
+      "signature": null,
+      "date": null
+    }
+  },
+  "returnTo": {
+    "name": null,
+    "department": "Sports Marketing Enterprises",
+    "location": null
+  },
+  "contractLimits": {
+    "upToAndIncluding": null,
+    "over": null
+  },
+  "contactNumbers": {
+    "number1": null,
+    "number2": null
+  },
+  "revisionDate": null,
+  "documentClassification": "Doc.Cl."
+}

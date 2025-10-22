@@ -1,22 +1,20 @@
 {
-  "transactionType": null,
-  "bank": null,
-  "transactionId": "907043",
-  "names": [
-    "Nertuchtw",
-    "Cermade.Geus",
-    "Edmee.Petletier",
-    "R.1.B.",
-    "mmwn CNinoJhousondNintf"
-  ],
-  "reference": null,
-  "amountInWords": null,
-  "totalAmount": 9943,
-  "currency": "E",
-  "additionalInfo": "Nate deloptrotion",
-  "note": "Signaturc du clicnt",
-  "clientSignature": "Caisse",
-  "cashier": "Cocher ctvisa de la tAT",
-  "verification": "06/05122",
-  "date": null
+    "transactionType": "VERSEMENTESPECES",
+    "bank": "BIAT",
+    "transactionId": "907043",
+    "names": [
+        "Nertuchtw",
+        "Cermade.Geus",
+        "Edmee.Petletier"
+    ],
+    "reference": "R.1.B",
+    "amountInWords": "mmwn CNinoJhousondNintfundred",
+    "totalAmount": 9943,
+    "currency": "E",
+    "additionalInfo": "Jhae",
+    "note": "Nate deloptrotion",
+    "clientSignature": "Signaturc du clicnt",
+    "cashier": "Caisse",
+    "verification": "Cocher ctvisa de la tAT",
+    "date": "06/05/22"
 }

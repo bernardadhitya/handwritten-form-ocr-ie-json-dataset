@@ -1,56 +1,67 @@
 {
-    "title": "NATIONAL CONSENSUS SURVEYS",
-    "address": {
-        "street": "42318",
-        "city": "New York",
-        "state": "New York",
-        "zip": "10017"
+  "title": "NATIONAL CONSENSUS SURVEYS",
+  "address": {
+    "street": "801 Second Avenue",
+    "city": "New York",
+    "state": "New York",
+    "zip": "10017"
+  },
+  "phone": "496-7902",
+  "instructions": "Please take a few minutes to go through the advertisements in this book. Please take as much time with each ad as you care to. If you ordinarily wear reading glasses, you'll need these. (HAND RESPONDENT PORTFOLIO AND TAKE IT BACK BEFORE CONTINUING.)",
+  "questions": [
+    {
+      "question": "What brands or products do you remember seeing ads for in the book?",
+      "note": "PROBE: Any other brands? DO NOT READ EITHER BRAND NAMES OR PRODUCT CATEGORIES.",
+      "categories": [
+        "GENERAL ADS",
+        "CIGARETTE ADS (14)"
+      ],
+      "brands": [
+        "Anana Ranga",
+        "BankAmericard/VISA",
+        "Beyer Aspirin",
+        "Bolems Lawn Mowers",
+        "Budweiser",
+        "Canadian Club",
+        "Coca Cola",
+        "Concord Watches",
+        "Crest toothpaste",
+        "Dole Pineapple",
+        "General Electric Washer",
+        "Hilton Hotels",
+        "Kawasaki",
+        "Old Spice Pocket Cologne",
+        "Polaroid Camera",
+        "Singer Sewing Machines",
+        "Taster's Choice",
+        "Weight Watchers"
+      ]
     },
-    "phone": "c061-961",
-    "instructions": "Please take a few minutes to go through the advertisements in this book. Please respond and take it back before continuing.",
-    "questions": [
-        {
-            "question": "What brands or products do you remember seeing ads for in the book?",
-            "note": "Do not read other brand names or product categories.",
-            "categories": [
-                "Cereal Ads",
-                "Cigarette Ads"
-            ],
-            "brands": [
-                "Anana Ranga",
-                "Dole Pineapple",
-                "BankAmericard/VISA",
-                "General Electric Washer",
-                "Golden Lights",
-                "Hilton Hotels",
-                "Old Spice Pocket Cologne",
-                "Budweiser",
-                "Canadian Club",
-                "Polaroid Camera",
-                "CocaCola",
-                "Singer Sewing Machines",
-                "Concord Watches",
-                "Taster's Choice",
-                "Crest Toothpaste",
-                "Weight Watchers",
-                "Other (Specify)"
-            ]
-        },
-        {
-            "question": "Do you remember any ads for cigarettes?",
-            "brands": [
-                "Golden Lights",
-                "Kent",
-                "Other (Specify)"
-            ]
-        },
-        {
-            "question": "Do you remember any ads for any other brands of cigarettes?",
-            "brands": [
-                "Golden Lights",
-                "Kent",
-                "Other (Specify)"
-            ]
-        }
-    ]
+    {
+      "question": "Do you remember any ads for cigarettes?",
+      "brands": [
+        "Luke",
+        "Golden Lights",
+        "Golden (Unsp.)",
+        "Kent Golden Lights",
+        "Kent Lights",
+        "Kent (Unsp.)",
+        "Lights (Unsp.)",
+        "Other (SPECIFY)"
+      ]
+    },
+    {
+      "question": "Do you remember any ads for any other brands of cigarettes?",
+      "brands": [
+        "Luke",
+        "Golden Lights",
+        "Golden (Unsp.)",
+        "Kent Golden Lights",
+        "Kent Lights",
+        "Kent (Unsp.)",
+        "Lights (Unsp.)",
+        "Other (SPECIFY)"
+      ]
+    }
+  ]
 }

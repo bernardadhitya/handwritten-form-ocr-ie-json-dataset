@@ -1,18 +1,18 @@
 {
-  "transaction": {
-    "type": "VERSEMENT",
-    "bank": "VERSEMENTESPECES",
-    "account_number": "907043",
-    "customer": {
-      "first_name": "ColetteMonjeau",
-      "last_name": "Edmee.Pelletier."
-    },
-    "reference": "R.1.B.",
-    "agent": null,
-    "branch": null,
-    "amount": "Six-Thousand-SeuenHundred",
-    "amount_in_words": "Six Thousand Six Hundred",
-    "date": "06/05122",
-    "transaction_id": "114"
-  }
+    "transaction": {
+        "type": "VERSEMENTESPECES",
+        "bank": "BIAT",
+        "account_number": "907043",
+        "customer": {
+            "first_name": "Colette",
+            "last_name": "Monjeau"
+        },
+        "reference": "Neture/larCwar",
+        "agent": "Edmee.Pelletier",
+        "branch": "R.1.B",
+        "amount": 6721,
+        "amount_in_words": "Six-Thousand-Seven-Hundred and Twenty-One",
+        "date": "06/05/22",
+        "transaction_id": "114"
+    }
 }

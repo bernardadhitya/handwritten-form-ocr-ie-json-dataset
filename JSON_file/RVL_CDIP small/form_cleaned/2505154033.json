@@ -1,80 +1,143 @@
 {
-    "contractResearchCenter": "CRCCONTRACT RESEARCH CENTER",
-    "formNumber": "11",
-    "code": "05 CW 98",
-    "reference": "KMH/MCM",
-    "formApproval": "Form approved",
-    "observations": {
-        "type": "GROUP AND INDIVIDUAL IN-LIFE OBSERVATIONS",
-        "projectNumber": "3276",
-        "groupCode": "9ro",
-        "dayOfStudy": 5,
-        "date": "3Ap98",
-        "group": {
-            "males": {},
-            "females": {},
-            "time": "4.08",
-            "totalNumberOfAnimals": "do",
-            "decreasedSpontaneousActivity": null,
-            "trembling": "e",
-            "partiallyOrFullyClosedEyelids": null,
-            "harderianGlandSecretion": 2,
-            "initials": "OY",
-            "partiallyOrFullyWetOrMoistFur": null,
-            "abnormalBreathing": "O"
+  "contractResearchCenter": "CRCCONTRACT RESEARCH CENTER",
+  "formNumber": "11",
+  "code": "05 CW 98",
+  "reference": "KMH/MCM",
+  "formApproval": "Form approved",
+  "observations": {
+    "type": "GROUP AND INDIVIDUAL IN-LIFE OBSERVATIONS",
+    "projectNumber": "B 3276",
+    "groupCode": "016",
+    "dayOfStudy": 59,
+    "date": "3 Apr 98",
+    "group": {
+      "males": {
+        "time": "14:08",
+        "totalNumberOfAnimals": 10,
+        "decreasedSpontaneousActivity": 0,
+        "trembling": 0,
+        "partiallyOrFullyClosedEyelids": 0,
+        "harderianGlandSecretion": 2,
+        "partiallyOrFullyWetOrMoistFur": 10,
+        "abnormalBreathing": 0
+      },
+      "females": {
+        "time": "14:17",
+        "totalNumberOfAnimals": 41,
+        "decreasedSpontaneousActivity": 0,
+        "trembling": 0,
+        "partiallyOrFullyClosedEyelids": 0,
+        "harderianGlandSecretion": 6,
+        "partiallyOrFullyWetOrMoistFur": 10,
+        "abnormalBreathing": 0
+      }
+    },
+    "individual": {
+      "animalNumber": [
+        "01109",
+        "01140"
+      ],
+      "sex": [
+        "M",
+        "M"
+      ],
+      "time": [
+        "14:52",
+        "14:57"
+      ],
+      "codes": {
+        "spontaneousActivity": "",
+        "irritability": [
+          0,
+          0
+        ],
+        "turningReflex": [
+          -1,
+          ""
+        ],
+        "grippingAbility": [
+          0,
+          ""
+        ],
+        "closedEyelids": [
+          "",
+          ""
+        ],
+        "trembling": [
+          "",
+          ""
+        ],
+        "highLeggedGait": [
+          "",
+          ""
+        ],
+        "abnormalBreathing": [
+          "",
+          ""
+        ],
+        "harderianGlandSecretion": [
+          "",
+          ""
+        ],
+        "hairChanges": {
+          "rough": [
+            0,
+            0
+          ],
+          "moistWetPercentage": [
+            "60%",
+            "100%"
+          ],
+          "discoloration": [
+            "+",
+            "+"
+          ],
+          "hairlossPercentage": [
+            0,
+            0
+          ]
         },
-        "individual": {
-            "animalNumber": "6o rYO",
-            "sex": null,
-            "time": "44.52",
-            "codes": {
-                "spontaneousActivity": "0f0",
-                "irritability": 10,
-                "turningReflex": "A",
-                "grippingAbility": 35,
-                "closedEyelids": "Q",
-                "trembling": 40,
-                "highLeggedGait": 45,
-                "abnormalBreathing": 50,
-                "harderianGlandSecretion": 55,
-                "hairChanges": {
-                    "rough": 60,
-                    "moistWetPercentage": "603",
-                    "discoloration": "+",
-                    "hairlossPercentage": "2505154033"
-                },
-                "skinChanges": 95,
-                "incisors": 100,
-                "injuries": 105
-            }
-        }
+        "skinChanges": [
+          "",
+          ""
+        ],
+        "incisors": [
+          "",
+          ""
+        ],
+        "injuries": [
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "remarks": "Oracle input",
+  "dates": [
+    {
+      "date": "7 APR 98",
+      "initials": ""
     },
-    "remarks": "Oracle",
-    "dates": [
-        {
-            "date": "TAPA8",
-            "initials": null
-        },
-        {
-            "date": "09APR1999",
-            "initials": "SD"
-        }
-    ],
-    "grades": {
-        "0": "normal",
-        "-1": "slight decrease",
-        "-2": "marked decrease",
-        "+1": "slight increase",
-        "+2": "marked increase",
-        "x": "finding, describe if necessary"
-    },
-    "errorCodes": {
-        "A": "writing",
-        "B": "calculation",
-        "C": "mixing up",
-        "D": "reading",
-        "E": "copy",
-        "F": "other with explanation"
-    },
-    "errorCodeNumber": "0992"
+    {
+      "date": "09 APR 1999",
+      "initials": "SD"
+    }
+  ],
+  "grades": {
+    "0": "normal",
+    "-1": "slight decrease",
+    "-2": "marked decrease",
+    "+1": "slight increase",
+    "+2": "marked increase",
+    "x": "finding, describe if necessary"
+  },
+  "errorCodes": {
+    "A": "writing",
+    "B": "calculation",
+    "C": "mixing up",
+    "D": "reading",
+    "E": "copy",
+    "F": "other with explanation"
+  },
+  "errorCodeNumber": "004223"
 }

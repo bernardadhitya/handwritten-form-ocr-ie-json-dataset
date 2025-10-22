@@ -1,30 +1,30 @@
 {
-  "fax": "804 9152137",
-  "consumerCenter": "CONSUMER O CENTR",
-  "brochureNonResponders": {
-    "respondent": {
-      "dateTimeContacted": null,
-      "leftFullMessage": null,
-      "noAnswer": null,
-      "script": {
-        "greeting": "Hello, may I please speak with name on label - adult smoker?",
-        "callerName": "and I'm calling from the",
-        "callCenter": "Consumer Opinion Center",
-        "ifNotAvailable": {
-          "askForTimeDate": "ask for time/date when he/she migh",
-          "dateTime": null
-        },
-        "ifAskedAboutCall": "say to ask a couple of questions about a mailing we sent to this address",
-        "brochureMailing": {
-          "timeFrame": "During the past two weeks, we mailed you a brochure that was enclosed in a clear plastic envelope",
-          "description": "Did you receive it?",
-          "received": "IF RECEIVED, Go to second page....",
-          "notReceived": "IF NOT RECEIVEDGo to third page...."
+    "fax": "8049152137",
+    "consumerCenter": "Consumer Opinion Center",
+    "brochureNonResponders": {
+        "respondent": {
+            "dateTimeContacted": "02/9/98 MON 08:36",
+            "leftFullMessage": false,
+            "noAnswer": false,
+            "script": {
+                "greeting": "Hello, may I please speak with name on label - adult smoker?",
+                "callerName": "",
+                "callCenter": "Consumer Opinion Center",
+                "ifNotAvailable": {
+                    "askForTimeDate": "when he/she might be available",
+                    "dateTime": ""
+                },
+                "ifAskedAboutCall": "to ask a couple of questions about a mailing we sent to this address",
+                "brochureMailing": {
+                    "timeFrame": "During the past two weeks",
+                    "description": "a brochure that was enclosed in a clear plastic envelope",
+                    "received": "IF RECEIVED, Go to second page",
+                    "notReceived": "IF NOT RECEIVED Go to third page"
+                }
+            }
         }
-      }
-    }
-  },
-  "contactNumber": "2064702521",
-  "unknownField": null,
-  "unknownField2": null
+    },
+    "contactNumber": "2064702521",
+    "unknownField": "73",
+    "unknownField2": "1/d N"
 }

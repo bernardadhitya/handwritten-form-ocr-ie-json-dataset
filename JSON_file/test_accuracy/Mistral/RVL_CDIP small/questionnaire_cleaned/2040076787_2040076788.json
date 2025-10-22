@@ -1,0 +1,77 @@
+{
+  "cigarette": null,
+  "callback": null,
+  "reasonsForNoInterview": [
+    null,
+    "Son/daughter moved away",
+    null,
+    null,
+    null
+  ],
+  "testerOtherThanNameOnLabel": null,
+  "result": "callback",
+  "attempt": "NA",
+  "schedule": {
+    "date": null,
+    "time": null,
+    "cc": null,
+    "bsy": null,
+    "receive": null,
+    "ue": null,
+    "refTQ": null,
+    "other": null
+  },
+  "interview": {
+    "introduction": "Hello, I'm calling for Janet Hall of Home Testing Institute. May I speak to (NAME OF PERSON ON LABEL)?",
+    "callbackArrangement": null,
+    "reintroduce": null,
+    "questions": [
+      {
+        "question": null,
+        "yes": null,
+        "no": null
+      },
+      {
+        "question": null,
+        "yes": null,
+        "no": {
+          "followUp": null,
+          "packsN18": null,
+          "cigarettesN18": null,
+          "packsF85": null,
+          "cigarettesF85": null,
+          "callbackArrangement": null,
+          "completeInterview": null,
+          "didntLikeN18": null,
+          "didntLikeF85": null
+        }
+      },
+      {
+        "question": "Did you notice any difference in TASTE between the cigarettes called N18 you tried first and the cigarettes called F85 you tried second?",
+        "yes": null,
+        "no": "SKIP TOQ.6"
+      },
+      {
+        "question": null,
+        "n18": null,
+        "f85": null
+      },
+      {
+        "question": null,
+        "preferN18": null,
+        "preferF85": "Prefer taste of F85 cigarettes",
+        "noPreference": "No preference"
+      },
+      {
+        "question": "Did you notice whether or not one cigarette was harsher to your mouth or throat than the other?",
+        "yes": "ASKQ.7",
+        "no": null
+      },
+      {
+        "question": null,
+        "n18": "N18 cigarettes were harsher",
+        "f85": null
+      }
+    ]
+  }
+}

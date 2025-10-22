@@ -3,30 +3,38 @@
   "address": {
     "line1": "1201 PENNSYLVANIA AVENUE. N.W.",
     "line2": "P.O.BOX7566",
-    "city": "WASHINGTON",
-    "state": "D.C.",
+    "city": "WASHINGTON.D.C.",
+    "state": "20044-7566",
     "zip": "20044-7566"
   },
   "phone": "(202)662-6000",
   "offices": [
-    "LECONFIELD HOUSE",
-    "CURZON STREET",
-    "44 AVENUEDESARTS",
-    "BRUSSELS 1OOBELGIUM"
+    {
+      "name": "BRUSSHLS CORRESPONDENT OFFICE",
+      "address": {
+        "line1": "CURZON STREET",
+        "line2": "44 AVENUEDESARTS",
+        "city": "LONDON",
+        "state": "W1Y8AS",
+        "zip": "ENGLAND"
+      },
+      "phone": "44-71-495-5655",
+      "fax": "202)662-6291",
+      "telex": "89-593(COVLING WSII)"
+    }
   ],
-  "fax": "202662-6291",
+  "fax": "TELEPHONE: 32-2-549-5230",
   "date": "March 16, 1999",
   "to": "Ginny Murphy",
   "from": "David H. Remes",
   "room": "803E",
-  "pages": "A6",
+  "pages": "Message: The Maos. A6 Ruleo os fublished.",
   "message": "The Maos. A6 Ruleo os fublished.",
   "transmission_problem_contact": [
     "2065078339",
-    "202662-6280",
-    "202662-5942"
+    "202662-6280"
   ],
-  "telecommunications": "202662-6000",
+  "telecommunications": "202662-5942",
   "secretary": "Leslie L. Daniels",
   "timestamp": "00:01",
   "roh": "03.16.1999"

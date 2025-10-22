@@ -1,0 +1,72 @@
+{
+  "document_id": null,
+  "time": "0840AM",
+  "location": null,
+  "subject": null,
+  "page": "P.2",
+  "section": "Questionnaire",
+  "respondent": {
+    "name": null,
+    "address": null,
+    "city_state": null,
+    "zip_code": null,
+    "telephone_number": null,
+    "date": null,
+    "interviewers_signature": null
+  },
+  "introduction": {
+    "greeting": null,
+    "from": null,
+    "request": null
+  },
+  "instructions": null,
+  "availability": {
+    "not_available": null,
+    "call_back": null,
+    "end": null
+  },
+  "survey": {
+    "introduction": null,
+    "age_category": {
+      "question": null,
+      "categories": [
+        "18-21",
+        null,
+        null,
+        null,
+        "65 or over",
+        null
+      ],
+      "termination": null
+    },
+    "questions": [
+      {
+        "question": "Do you smoke cigarettes?",
+        "answers": {
+          "yes": "1",
+          "no": "0"
+        },
+        "termination": null
+      },
+      {
+        "question": "Do you currently smoke filtered or non-filtered cigarettes?",
+        "answers": {
+          "filtered": null,
+          "non_filtered": null
+        },
+        "termination": null
+      },
+      {
+        "question": "Is your regular brand of cigarettes non-menthol or menthol?",
+        "answers": {
+          "non_menthol": null,
+          "menthol": null
+        }
+      }
+    ]
+  },
+  "contact": {
+    "telephone_number": "20407123",
+    "company": null
+  }
+}

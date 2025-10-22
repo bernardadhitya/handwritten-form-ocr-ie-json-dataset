@@ -14,19 +14,19 @@
       "Cigarette_like_taste": "Yes",
       "Artificial_taste": "No",
       "Fresh_tobacco_like_taste": "NO",
-      "Smoke_like_taste": "e",
+      "Smoke_like_taste": null,
       "Background_mask": "Increase",
       "Dry_puff_character": "100",
       "Aftertaste": {
-        "Yes_No": "Yes No",
-        "Agreeable": "Agreeable",
-        "Disagreeable": "Disagreeable",
-        "clean": "clean",
-        "Tingering": "tingering",
-        "sweet": "sweet",
-        "coating": "coating",
-        "sour": "sour",
-        "oily": "oily"
+        "Yes_No": "Yes",
+        "Agreeable": null,
+        "Disagreeable": null,
+        "clean": null,
+        "Tingering": null,
+        "sweet": null,
+        "coating": null,
+        "sour": null,
+        "oily": null
       },
       "Trigeminal_sensation": [
         "nasal sting",
@@ -35,16 +35,15 @@
         "throat scratch",
         "astringent",
         "heating",
-        "peppery (tingly)",
-        "soothing",
+        "peppery (tingly) soothing",
         "salivating"
       ],
       "Categorization_of_flavor": [
-        "artificial chocolate/cocoa",
-        "flue-cured",
+        "artificial chocolate/cocoa flue-cured",
         "metallic",
         "nutty/pyrazine",
         "burley",
+        "wyy",
         "nice mutk fe",
         "phenolic",
         "roasted",
@@ -52,16 +51,18 @@
         "green",
         "honey",
         "fruity/wine",
-        "sour/acidic",
-        "woody",
-        "spicy 4",
+        "sour/acidic woody",
+        "spicy",
+        "4",
         "sweet",
         "carame7",
         "bitter"
       ],
-      "Major_character_description": "artificial chocolate/cocoa flue-cured",
+      "Major_character_description": null,
       "Recommendations": [
-        "50638 NM 9234"
+        "50638",
+        "NM",
+        "9234"
       ]
     },
     "ADDITIONAL_COMMENTS": {

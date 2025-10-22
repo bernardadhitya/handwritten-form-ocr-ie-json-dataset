@@ -1,0 +1,119 @@
+{
+  "company": null,
+  "division": null,
+  "address": {
+    "street": null,
+    "suite": "1155",
+    "box": "#25077W",
+    "city": null,
+    "state": "New York",
+    "zip": null
+  },
+  "date": null,
+  "document": {
+    "title": "Cigarette Portfolio",
+    "section": null,
+    "type": null
+  },
+  "interview": {
+    "time": {
+      "started": null,
+      "ended": null
+    },
+    "respondent": {
+      "name": null,
+      "tel": null,
+      "address": null,
+      "city": "",
+      "state": null
+    },
+    "interviewer": null,
+    "metro_area": null,
+    "date": null,
+    "validated_by": null,
+    "validation_date": null
+  },
+  "cities": [
+    null,
+    "Des Moines",
+    null,
+    null,
+    "New Orleans",
+    "San Francisco"
+  ],
+  "initial_refusal_numbers": [
+    null,
+    10,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    27,
+    null,
+    null,
+    null,
+    31,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    38,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    50,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    62,
+    54,
+    null,
+    null,
+    67,
+    null,
+    null,
+    null,
+    82,
+    null,
+    null,
+    86,
+    null
+  ],
+  "questions": [
+    {
+      "text": null,
+      "terminate_if": null,
+      "continue_if": null
+    },
+    {
+      "text": null,
+      "terminate_if": null,
+      "continue_if": null,
+      "terminate_if_next": null
+    }
+  ],
+  "age_card_numbers": [
+    null,
+    null,
+    8,
+    null,
+    null
+  ],
+  "age_card_code": "84463885"
+}

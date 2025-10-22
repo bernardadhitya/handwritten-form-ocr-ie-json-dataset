@@ -1,57 +1,60 @@
 {
-    "request": "REQUEST FOR MACHINE-MADE EXPERIMENTAL CIGARETTES",
-    "delivery": {
-        "to": "73",
-        "ibm_code": "ab 4349",
-        "pack_code": "XSOORGC"
+  "request": "REQUEST FOR MACHINE-MADE EXPERIMENTAL CIGARETTES",
+  "delivery": {
+    "to": "o/c 7310",
+    "ibm_code": "Lab 4349",
+    "pack_code": "X500B6C"
+  },
+  "codes": {
+    "h8hc": "E",
+    "2486": "2487",
+    "G": "2488",
+    "Spruilt": "9479",
+    "64": "Ambrosia II / lotus (1440/106) - 45g WRAPPER",
+    "Ambccsia/Lotusye/ioc": ""
+  },
+  "cigarettes": {
+    "required": "4000 cigt each packed",
+    "filler_supplied": {
+      "lbs": "",
+      "2": "(4)",
+      "masl": "marl its production"
+    },
+    "production": {
+      "marl": "marl its production",
+      "5": "\" \" \"",
+      "6": "\" \" \""
+    },
+    "rod": {
+      "wt": ".815",
+      "length": "67/31.5"
+    },
+    "paper": {
+      "cigarette": "45g 7/45",
+      "code": "Filter Code",
+      "width_mm": "Width mm",
+      "Dilution 8": "Dilution %"
     },
     "codes": {
-        "h8hc": "E",
-        "2486": "2487",
-        "G": "488",
-        "Spruilt": "58t",
-        "64": "Purpose..",
-        "Ambccsia/Lotusye/ioc": "4SWRAPPER"
-    },
-    "cigarettes": {
-        "required": "400o cigt coch lacked",
-        "filler_supplied": {
-            "lbs": "Filler Code (l",
-            "2": "(4)",
-            "masl": "t"
-        },
-        "production": {
-            "marl": "ltsoraduetien",
-            "5": "3",
-            "6": "Cigt.Circ.y0 mm"
-        },
-        "rod": {
-            "wt": "8/5",
-            "length": "7/3/5"
-        },
-        "paper": {
-            "cigarette": "Filter",
-            "code": "Tipping Code",
-            "width_mm": "Dilution 8"
-        },
-        "codes": {
-            "45y": "POqE",
-            "A": "0-705",
-            "POGE": "72",
-            "33": "05-705-A",
-            "y5": "POQD",
-            "5": "POQA",
-            "14": "A",
-            "POQA": "5-05A"
-        }
-    },
-    "ibm_code": "RTD",
-    "totals": {
-        "wt": "TOTAL",
-        "dils": "AVG",
-        "made": "PACKED"
-    },
-    "additional_specifications": "5-705A",
-    "completed": "2021358080",
-    "shipped": true
+      "45y": "POQE",
+      "A": "A",
+      "POGE": "05-705-A",
+      "33": "72",
+      "05-705-A": "33 ± 2",
+      "y5": "POQA",
+      "5": "05-705-A",
+      "14": "A",
+      "POQA": "05-705-A"
+    }
+  },
+  "ibm_code": "RTD",
+  "totals": {
+    "wt": "TOTAL WT",
+    "dils": "AVG",
+    "made": "MADE",
+    "packed": "PACKED"
+  },
+  "additional_specifications": "05-705-A Filters supplied by regulator",
+  "completed": "",
+  "shipped": "2021358080"
 }

@@ -1,53 +1,58 @@
 {
-    "ResponsibleRecordsManagementGroupApproval": {
-        "AuthorizedSignature": null,
-        "NameOfDepartment": null
+  "ResponsibleRecordsManagementGroupApproval": {
+    "AuthorizedSignature": "[X] (signature)",
+    "NameOfDepartment": "York Engineering ERO 05EROp25"
+  },
+  "LegalCounselApproval": {
+    "From": "",
+    "To": ""
+  },
+  "Description": "You must attach a description of records in each new category requested and reasons for any suggested retention period changes.",
+  "Note": "You will receive a separate memorandum providing you with any new record category codes or with reasons for denial of requested additions or changes.",
+  "RecordsManagementDepartment": "Records Management Department",
+  "Inventory": [
+    {
+      "Code": "A0294",
+      "Category": "",
+      "Record": "Awards"
     },
-    "LegalCounselApproval": {
-        "From": "N6recds",
-        "To": "De1"
+    {
+      "Code": "C0509",
+      "Category": "",
+      "Record": "Christmas Club Savings Fund"
     },
-    "Description": "You must attach a description of records in each new category requested and reasons for any suggested retention period",
-    "Note": "Frances Everington",
-    "RecordsManagementDepartment": "Records Management Department",
-    "Inventory": [
-        {
-            "Code": "E0265",
-            "Category": "York Engineering ERO 05EROp25",
-            "Record": "categories"
-        },
-        {
-            "Code": "E0259",
-            "Category": "Employee Relations Operations",
-            "Record": "EEOC Reports & Legal Documents"
-        },
-        {
-            "Code": "C0510",
-            "Category": "Communications - General",
-            "Record": "Christmas Club Savings Fund"
-        },
-        {
-            "Code": "C0509",
-            "Category": "Awards",
-            "Record": null
-        }
-    ],
-    "RetentionScheduleMaintenanceForm": {
-        "RecordCategory": null,
-        "ForRecordsManagementUse": {
-            "Add": "Add to the records retention schedule",
-            "RequestedRevisionCodes": {
-                "CRP": "Change the retention period for a category",
-                "CRC": "Change the record category description",
-                "OEL": "Delete from the records retention schedule"
-            }
-        }
+    {
+      "Code": "C0510",
+      "Category": "",
+      "Record": "Communications - General"
     },
-    "ResponsibleRecordsManagementGroup": {
-        "InDept": "WELLIAMS",
-        "RecordsCoordinator": "2051082763",
-        "DepartmentHead": null,
-        "Date": "5-28-92",
-        "Total": null
+    {
+      "Code": "E0259",
+      "Category": "",
+      "Record": "EEOC Reports & Legal Documents"
+    },
+    {
+      "Code": "E0265",
+      "Category": "",
+      "Record": "Employee Relations Operations"
     }
+  ],
+  "RetentionScheduleMaintenanceForm": {
+    "RecordCategory": "",
+    "ForRecordsManagementUse": {
+      "Add": "Add to the records retention schedule",
+      "RequestedRevisionCodes": {
+        "CRP": "Change the retention period for a category",
+        "CRC": "Change the record category description",
+        "OEL": "Delete from the records retention schedule"
+      }
+    }
+  },
+  "ResponsibleRecordsManagementGroup": {
+    "InDept": "",
+    "RecordsCoordinator": "",
+    "DepartmentHead": "",
+    "Date": "5-28-92",
+    "Total": ""
+  }
 }

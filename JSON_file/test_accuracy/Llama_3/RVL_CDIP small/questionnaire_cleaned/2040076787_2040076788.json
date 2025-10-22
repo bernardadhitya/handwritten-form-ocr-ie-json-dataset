@@ -1,0 +1,77 @@
+{
+  "cigarette": null,
+  "callback": null,
+  "reasonsForNoInterview": [
+    null,
+    "Son/daughter moved away",
+    "No longer smokes",
+    null,
+    null
+  ],
+  "testerOtherThanNameOnLabel": null,
+  "result": "callback",
+  "attempt": null,
+  "schedule": {
+    "date": null,
+    "time": null,
+    "cc": null,
+    "bsy": null,
+    "receive": null,
+    "ue": null,
+    "refTQ": null,
+    "other": null
+  },
+  "interview": {
+    "introduction": null,
+    "callbackArrangement": null,
+    "reintroduce": "IF RESPONDENT AVAILABLE - REINTRODUCE YOURSELF",
+    "questions": [
+      {
+        "question": null,
+        "yes": null,
+        "no": null
+      },
+      {
+        "question": null,
+        "yes": null,
+        "no": {
+          "followUp": null,
+          "packsN18": null,
+          "cigarettesN18": null,
+          "packsF85": null,
+          "cigarettesF85": null,
+          "callbackArrangement": "If NONE or less than 1 pack of either/both, make callback arrangements, if you can.",
+          "completeInterview": null,
+          "didntLikeN18": null,
+          "didntLikeF85": null
+        }
+      },
+      {
+        "question": null,
+        "yes": "ASKQ.4&5",
+        "no": null
+      },
+      {
+        "question": "Which cigarette has more taste, the one you smoked first called N18, or the one you tried second called F85?",
+        "n18": "N18 cigarettes have more taste",
+        "f85": null
+      },
+      {
+        "question": null,
+        "preferN18": "Prefer taste of N18 cigarettes",
+        "preferF85": null,
+        "noPreference": null
+      },
+      {
+        "question": "Did you notice whether or not one cigarette was harsher to your mouth or throat than the other?",
+        "yes": null,
+        "no": null
+      },
+      {
+        "question": null,
+        "n18": null,
+        "f85": null
+      }
+    ]
+  }
+}

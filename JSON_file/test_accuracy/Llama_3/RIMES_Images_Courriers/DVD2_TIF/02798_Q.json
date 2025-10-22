@@ -1,0 +1,47 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "RENeY",
+        "Prenom": null,
+        "Adresse": null,
+        "Code postal": null,
+        "Ville": null,
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Anboxken": null,
+        "Complement": "Axc",
+        "Reference client eventuelle": null,
+        "Interlocuteur": null,
+        "Adresse": "2e:. Bxy",
+        "Code postal": null,
+        "Ville": null
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          null,
+          null,
+          "feutre"
+        ],
+        "Temps passe a traiter le scenario": "5 minutes"
+      },
+      "Contribution": {
+        "Cocher les elements de_votre contribution pour le scenario traite": {
+          "(6e) J'envoie mon courrier par voie postale a la date du 13Le2Z1": null,
+          "(+2e) Mon courrier contient une page de de fax": true,
+          "(+1e) Avant mon envoi postal, j'ai telecopie ma contribution le 13.L.q2.": null,
+          "(+1€) Jai envoye par courriel mon courrier numerise le": null
+        },
+        "Marque et modele du scanner": null,
+        "Format": [
+          null,
+          null,
+          null
+        ],
+        "Resolution des images": null
+      }
+    }
+  }
+}

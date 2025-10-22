@@ -1,0 +1,72 @@
+{
+  "document_id": "1094",
+  "time": null,
+  "location": null,
+  "subject": null,
+  "page": null,
+  "section": null,
+  "respondent": {
+    "name": null,
+    "address": "",
+    "city_state": null,
+    "zip_code": null,
+    "telephone_number": null,
+    "date": null,
+    "interviewers_signature": null
+  },
+  "introduction": {
+    "greeting": null,
+    "from": null,
+    "request": "May I please speak to NAME OF PERSON LISTED ABOVE"
+  },
+  "instructions": null,
+  "availability": {
+    "not_available": null,
+    "call_back": "Call back",
+    "end": null
+  },
+  "survey": {
+    "introduction": null,
+    "age_category": {
+      "question": null,
+      "categories": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "termination": null
+    },
+    "questions": [
+      {
+        "question": null,
+        "answers": {
+          "yes": "1",
+          "no": "0"
+        },
+        "termination": null
+      },
+      {
+        "question": null,
+        "answers": {
+          "filtered": null,
+          "non_filtered": null
+        },
+        "termination": "THANK AND TERMINATE"
+      },
+      {
+        "question": null,
+        "answers": {
+          "non_menthol": null,
+          "menthol": null
+        }
+      }
+    ]
+  },
+  "contact": {
+    "telephone_number": "20407123",
+    "company": "MARKETING INFO SYS INTL."
+  }
+}

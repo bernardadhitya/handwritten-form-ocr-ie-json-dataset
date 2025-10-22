@@ -1,0 +1,63 @@
+{
+  "Revised": "6/18/96",
+  "ChainVoucherRequest": {
+    "To": null,
+    "PleaseAttachDocumentation": "5s923",
+    "AccountName": null,
+    "Voucher": {
+      "Payee": null,
+      "RequestedBy": "Lbh",
+      "Date": null,
+      "OnIts": {
+        "Rate": null,
+        "Total": null,
+        "HHTPSCode": null,
+        "Units": null,
+        "Camz": null,
+        "C180": null,
+        "236": null,
+        "980": null,
+        "196": "MONAh"
+      },
+      "TPSExplanation": null,
+      "Units": {
+        "Rate": null,
+        "HHTPSCode": null,
+        "Total": "QTR.",
+        "Circle": null
+      },
+      "AdditionalUnits": [
+        {
+          "Rate": null,
+          "HHTPSCode": null,
+          "Circle": null
+        },
+        {
+          "Rate": null,
+          "HHTPSCode": null,
+          "Circle": "DIS OR NON-DISC"
+        },
+        {
+          "Rate": 1.0,
+          "HHTPSCode": "S86RAC",
+          "Circle": null
+        },
+        {
+          "Rate": null,
+          "HHTPSCode": null,
+          "Circle": null
+        },
+        {
+          "Rate": 1.0,
+          "HHTPSCode": null,
+          "Circle": null
+        }
+      ],
+      "TPSExplanation2": null,
+      "ROUToComplete": {
+        "VoucherNumber": "1534-3.518",
+        "DateRequested": ""
+      }
+    }
+  }
+}

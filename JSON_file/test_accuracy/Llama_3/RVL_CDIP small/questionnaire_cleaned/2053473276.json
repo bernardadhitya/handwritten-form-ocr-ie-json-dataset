@@ -1,0 +1,57 @@
+{
+  "productOpinion": {
+    "laboratory": null,
+    "telephone": null
+  },
+  "instructions": {
+    "label": "ONLY THE PERSON WHOSE NAME APPEARS ON THIS LABEL SHOULD TAKE THE TEST",
+    "returnBallotBy": "RED",
+    "addressChange": {
+      "applyTo": null,
+      "newPhoneNumber": "Please include area code"
+    }
+  },
+  "letter": {
+    "greeting": "Dear Panelist",
+    "content": null,
+    "closing": null
+  },
+  "parts": {
+    "partI": {
+      "instruction": null
+    },
+    "partII": {
+      "instruction": null
+    },
+    "partIII": {
+      "instruction": null
+    }
+  },
+  "questions": {
+    "currentCigarette": {
+      "exactName": null,
+      "contains": {
+        "milds": null,
+        "superLights": "Super Lights or Extra Lights",
+        "other": null
+      },
+      "filtered": null,
+      "package": {
+        "softPack": null,
+        "hardPack": "Hard Pack"
+      },
+      "menthol": null,
+      "length": null,
+      "dailyConsumption": null
+    },
+    "cigaretteLengthScale": {
+      "placeEnd": null,
+      "lengths": {
+        "80": null,
+        "85": null,
+        "100": null,
+        "120": "120mm"
+      }
+    }
+  }
+}

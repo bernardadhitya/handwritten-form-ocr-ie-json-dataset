@@ -1,48 +1,46 @@
 {
-  "Code d'envoi": {
-    "YUxEKG": null
-  },
-  "Questionnaire": {
-    "Identite fictive": {
-      "Nom": "Bou.H.i.E.R.",
-      "Prenom": "A.T..H.i..DE",
-      "Adresse": "LE...G.RANO....CHAM.Ps",
-      "Code postal": "0666 Oville .Au.Ro.N.",
-      "Ville": "Au.Ro.N.",
-      "Tel": "04665232"
-    },
-    "Scenario": {
-      "Categorie": "RE.C.LA..A.T.iO.N.",
-      "Objet": "P.LA..N..T.E....SE....NU..SANCES....SONORE.S...",
-      "Complement": "E....CHi.E.N...O.E.S...NOi.SiN.S...E.S....Oe....BRu..AN..",
-      "Reference client eventuelle": null,
-      "Interlocuteur": "Ai.R.i..",
-      "Adresse": "Ra.ce..u...AY.......RAN..",
-      "Code postal": "[5 OO]",
-      "Ville": "Roi.s.s.Y...EN...RANCE"
-    },
-    "Redaction": {
-      "Type de stylo (noir) utilise": [
-        "bille plume",
-        "feutre"
-      ],
-      "Temps passe a traiter le scenario": null
-    },
-    "Contribution": {
-      "Cocher les_elements de_votre contribution pour le_scenario traite": [
-        "(6e) J'envoie mon courrier par voie postale á la date du .25....3.1..20...",
-        "(+2€) Mon courrier contient une page de garde de fax.",
-        "(+1€) Avant mon envoi postal, j'ai télécopié ma contribution le",
-        "(+1€) J'ai envoyé par courriel mon courrier numérisé le",
-        "Marque et modéle du scanner :"
-      ],
-      "Marque et modele du scanner": null,
-      "Format": [
-        "PNG",
-        "GIF",
-        "TIFF"
-      ],
-      "Resolution des images": "ddd/!dp"
+    "Code d'envoi": {},
+    "Questionnaire": {
+        "Identite fictive": {
+            "Nom": "BouHiek",
+            "Prenom": "HAIHiLDE",
+            "Adresse": "LE_kRAND CHAres",
+            "Code postal": "[016166ol",
+            "Ville": "AuRon",
+            "Tel": "5 213"
+        },
+        "Scenario": {
+            "Categorie": "RECLArJATiON",
+            "Objet": "PLAiNTE DE NUISANCES SONORES",
+            "Complement": "LE CHiEn DE.S. VaiSiNS ESI_IRoe_BRUYANI",
+            "Reference client eventuelle": "",
+            "Interlocuteur": "LaiRiE",
+            "Adresse": "5_ Place: du_ PAys_DE_CRANCE_",
+            "Code postal": "95,3100",
+            "Ville": "RoissY_EN_KRANCE"
+        },
+        "Redaction": {
+            "Type de stylo (noir) utilise": [
+                "bille",
+                "plume",
+                "feutre"
+            ],
+            "Temps passe a traiter le scenario": "Q0 minutes"
+        },
+        "Contribution": {
+            "Cocher les_elements de_votre contribution pour le_scenario traite": [
+                "(6e) J'envoie mon courrier par voie postale a la date du 25.lo3L201",
+                "(+2e) Mon courrier contient une page de garde de fax",
+                "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le",
+                "(+1€) J'ai envoye par courriel mon courrier numerise le"
+            ],
+            "Marque et modele du scanner": "",
+            "Format": [
+                "PNG",
+                "GIF",
+                "TIFF"
+            ],
+            "Resolution des images": "dpilppp"
+        }
     }
-  }
 }

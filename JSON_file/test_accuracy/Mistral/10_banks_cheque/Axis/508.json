@@ -1,16 +1,16 @@
 {
-  "bank": "AXIS BANK",
-  "transaction": {
-    "value": "50020242616031",
-    "reference": "SAM426160",
-    "payee": "Wafiyah Nashwa Wasem",
-    "currency": "RUPEES",
-    "amount": "500"
-  },
-  "account": {
-    "number": "5113 01594059484059801590",
-    "code": "CA SEAER",
-    "branch": null,
-    "transaction_id": "000508"
-  }
+    "bank": "AXIS BANK",
+    "transaction": {
+        "value": "FORTHRE",
+        "reference": "RAAANWOO",
+        "payee": "Wafiyah Nashwa Wasem",
+        "currency": "RUPEES",
+        "amount": 5113
+    },
+    "account": {
+        "number": "01594059484059801590",
+        "code": "SAM426160",
+        "branch": "000508",
+        "transaction_id": "50020242616031"
+    }
 }

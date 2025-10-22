@@ -1,0 +1,78 @@
+{
+  "MasterChecklist": {
+    "1994StimulusEvaluationAndResponseSelection": {
+      "BloodStudy": {
+        "Name": "Darrell Adkins",
+        "Date": null,
+        "Code": null,
+        "Age": null,
+        "Weight": null,
+        "ConsentForm": null,
+        "BreathCOLevelUponArrival": {
+          "COLevel": null,
+          "PPM": null
+        },
+        "EEGCapHookUp": null,
+        "InsertCatheter": null,
+        "PracticeTheTask": false,
+        "BreathCO": {
+          "COLevel": null,
+          "Ndd": true
+        },
+        "BloodSamplePreSmoking": {
+          "Time": "-5 min",
+          "COHbLevel": 2.0
+        },
+        "PreSmokingTask": null,
+        "BreathCOPreSmoking": {
+          "COLevel": null,
+          "PPM": null
+        },
+        "BloodSample0MinPreSmoking": {
+          "COHbLevel": 67
+        },
+        "SmokeCigaretteUtilizingQSDSMachine": null,
+        "BreathCOPostSmoking1Min": {
+          "COLevel": null,
+          "PPM": null
+        },
+        "BloodSample1MinPostSmoking": {
+          "COHbLevel": null
+        },
+        "FirstPostSmokingTask": null,
+        "BreathCOPostSmoking8Min": {
+          "COLevel": 13.8,
+          "PPM": true
+        },
+        "BloodSample8MinPostSmoking": {
+          "COHbLevel": 3.2
+        },
+        "SecondPostSmokingTask": false,
+        "BreathCOPostSmoking15Min": {
+          "COLevel": null,
+          "PPM": null
+        },
+        "BloodSample15MinPostSmoking": {
+          "COHbLevel": 3.2
+        },
+        "ThirdPostSmokingTask": null,
+        "BreathCOPostSmoking22Min": {
+          "COLevel": null,
+          "PPM": null
+        },
+        "BloodSample22MinPostSmoking": {
+          "COHbLevel": null
+        },
+        "FourthPostSmokingTask": null,
+        "BreathCOPostSmoking29Min": {
+          "COLevel": null,
+          "PPM": null
+        },
+        "BloodSample29MinPostSmoking": {
+          "COHbLevel": null
+        },
+        "FifthPostSmokingTask": null
+      }
+    }
+  }
+}

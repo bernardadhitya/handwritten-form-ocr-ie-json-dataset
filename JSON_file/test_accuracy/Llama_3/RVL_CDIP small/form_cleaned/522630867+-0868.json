@@ -1,0 +1,47 @@
+{
+  "application": {
+    "name": null,
+    "number": "P:3O.OOO",
+    "description": null,
+    "code": null,
+    "details": null
+  },
+  "applicant": {
+    "instructions": null,
+    "brmPermitHolderName": null,
+    "streetAddress": null,
+    "cityStateZip": null,
+    "permitNumberAndCityOfIssue": null,
+    "signature": null
+  },
+  "internalUseOnly": {
+    "brmRateCategoryRequested": null,
+    "weight": "over 1 oz. but not more than 2 ozs.",
+    "verifyingEmployee": "u MAsg Regule",
+    "employeeId": null,
+    "date": null
+  },
+  "mailpieceDesignAnalyst": {
+    "analysisAndRecommendations": {
+      "brmFormatVerified": null,
+      "zip4BarcodeVerified": "In Compliance",
+      "isMailpieceCompatibleWithAutomatedEquipment": null
+    },
+    "completedBy": null,
+    "completionDate": null
+  },
+  "authorization": {
+    "by": "BUSINESS MAIL ENTRY OR POSTMASTER",
+    "status": null,
+    "authorizedBy": null,
+    "signature": null,
+    "date": "52263"
+  },
+  "dallasApplicantsOnly": {
+    "instructions": null,
+    "code": null
+  },
+  "form": {
+    "revision": "BCFORM-REVISED 1/95"
+  }
+}

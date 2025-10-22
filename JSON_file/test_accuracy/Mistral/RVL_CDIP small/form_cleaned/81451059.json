@@ -1,45 +1,46 @@
 {
-  "compliance": {
-    "regulations": "RCRA, DEPARTMENT OF TRANSPORTATION, MARYLAND STATE",
-    "requirements": "Provide following information in English"
-  },
-  "testArticle": {
-    "ident": "LOT 9",
-    "lotNumber": null,
-    "quantitySubmitted": null,
-    "physicalDescription": "MustardColoredPowder",
-    "storage": "B+4",
-    "expirationDate": null,
-    "strength": "4009",
-    "species": "Rats",
-    "route": null
-  },
-  "precautions": {
-    "handlingOrDisposal": "N ORDER TO COMPLY WITH RCRA, DEPARTMENT OF TRANSPORTATION AND MARYLAND STATE REGULATIONS"
-  },
-  "regulatoryAffairs": {
-    "department": "Regulatory Affairs/Quality Assurance",
-    "responsibility": "Will assume responsibility for managing material and will not disclose identity to laboratory personnel"
-  },
-  "chemicalInfo": {
-    "chemicalClass": null,
-    "properDOTShipping": null,
-    "unOrNaNumber": null,
-    "epaWasteNumber": null,
-    "mdarelNor": "MA-261"
-  },
-  "sponsor": {
-    "name": "Assoclates INC",
-    "signature": null,
-    "address": {
-      "street": "11/84",
-      "city": "Greensboro",
-      "state": "North Carolina",
-      "zipCode": "27420"
+    "compliance": {
+        "regulations": "Good Laboratory Practice",
+        "requirements": "Proper handling and accurate evaluation of test article"
+    },
+    "testArticle": {
+        "ident": "B.3",
+        "lotNumber": "9",
+        "quantitySubmitted": "Not specified",
+        "physicalDescription": "Mustard Colored Powder",
+        "storage": "Not specified",
+        "expirationDate": "Not specified",
+        "strength": "4009",
+        "species": "Rats",
+        "route": "Not specified"
+    },
+    "precautions": {
+        "handlingOrDisposal": "Comply with RCRA, Department of Transportation, and Maryland State regulations for hazardous waste management"
+    },
+    "regulatoryAffairs": {
+        "department": "Regulatory Affairs/Quality Assurance",
+        "responsibility": "Managing the material and not disclosing identity to laboratory personnel"
+    },
+    "chemicalInfo": {
+        "chemicalClass": "Not known",
+        "properDOTShipping": "Not specified",
+        "unOrNaNumber": "Not specified",
+        "epaWasteNumber": "Not specified",
+        "mdarelNor": "Not specified"
+    },
+    "sponsor": {
+        "name": "Lorillard Research Center",
+        "signature": "Not specified",
+        "address": {
+            "street": "420 English Street P.O. Box 21688",
+            "city": "Greensboro",
+            "state": "North Carolina",
+            "zipCode": "27420"
+        }
+    },
+    "form": {
+        "number": "MA-261",
+        "date": "11/84",
+        "associates": "MICROBIOLOGICAL ASSOCIATES INC"
     }
-  },
-  "form": {
-    "number": null,
-    "date": "11/84"
-  }
 }

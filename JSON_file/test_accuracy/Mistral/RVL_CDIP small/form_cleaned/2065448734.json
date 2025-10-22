@@ -1,0 +1,63 @@
+{
+  "productContaminationComplaint": {
+    "instructions": {
+      "howToHandleCustomer": [
+        null,
+        "If damages are claimed, complete Report of Accident Form Item #372474"
+      ],
+      "whoToNotify": {
+        "VD": [
+          null,
+          "Notify DSM"
+        ]
+      },
+      "howToHandleProduct": [
+        null,
+        "Wait for product pick-up instructions from Woonsocket Office",
+        null
+      ],
+      "howToHandleOutsideAgencies": [
+        "Cooperate with all agencies (ex: FDA, Dept. of Health): verify positive identification",
+        null,
+        null
+      ],
+      "howToCompleteForm": [
+        null,
+        "Complete in duplicate",
+        null,
+        null
+      ]
+    },
+    "storeInformation": {
+      "storeManager": null,
+      "storeNumber": null,
+      "employeeWhoReceivedComplaint": null,
+      "jobTitle": "assistant manager",
+      "dateTime": null,
+      "dateTimeDSMNotified": null,
+      "qualityAssuranceDeptNotified": null
+    },
+    "customerInformation": {
+      "customerName": null,
+      "telephoneNumber": null,
+      "address": null,
+      "details": null
+    },
+    "productInformation": {
+      "lotNumber": null,
+      "productNameSize": null,
+      "manufacturer": null,
+      "dateOfPurchase": null,
+      "sentTo": null,
+      "date": null
+    },
+    "outsideAgencyInformation": {
+      "nameOfPerson": null,
+      "telephoneNumber": null,
+      "title": "",
+      "idConfirmed": "",
+      "agency": null,
+      "pickedUpDate": null
+    }
+  }
+}

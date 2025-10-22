@@ -1,0 +1,51 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "YIs": null,
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": null,
+        "Adresse": null,
+        "Cexaier": null,
+        "Ville": null,
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": null,
+        "Complement": null,
+        "Reference client eventuelle": null,
+        "Adresse": null,
+        "Code postal": null,
+        "Ville": null
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          null,
+          null,
+          null
+        ],
+        "Temps passe a traiter le scenario": "30.minutes."
+      },
+      "Contribution": {
+        "Cocher les elements de_votre contribution pour le_scenario traite": {
+          "(6e) J'envoie mon courrier par voie postale a la date du": null,
+          "(+2e) Mon courrier contient une page de garde de fax": "",
+          "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+          "(+1€) J'ai envoye par courriel mon courrier numerise le": ""
+        },
+        "Marque et modele du scanner": null,
+        "Format": [
+          null,
+          null,
+          null
+        ],
+        "Resolution des images": [
+          "dpilppp",
+          null,
+          "kems: Iopl Cauxquge; ~Liay:"
+        ]
+      }
+    }
+  }
+}

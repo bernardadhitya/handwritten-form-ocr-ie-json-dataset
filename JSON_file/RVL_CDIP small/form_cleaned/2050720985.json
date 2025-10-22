@@ -1,103 +1,111 @@
 {
-    "report": "LINE THREE REPORT",
-    "date": "012393",
-    "rlt_domestic": {
-        "tasks": [
-            {
-                "task": "Complete line three accountability logsheet.",
-                "status": [
-                    "Yes",
-                    "YES"
-                ]
-            },
-            {
-                "task": "Maintain housekeeping in AA areas.",
-                "status": [
-                    "yes",
-                    "YES"
-                ]
-            },
-            {
-                "task": "Restock station supplies.",
-                "status": [
-                    "yes",
-                    "YES"
-                ]
-            },
-            {
-                "task": "Restock folded filter paper.",
-                "status": [
-                    "NO"
-                ]
-            },
-            {
-                "task": "Make up bottles for all lines.",
-                "status": [
-                    "YES"
-                ]
-            },
-            {
-                "task": "Prepare .01H2SO4 extraction solution.",
-                "status": [
-                    "NO",
-                    "YES"
-                ]
-            },
-            {
-                "task": "Clean RLT FS grinder.",
-                "status": [
-                    "NO",
-                    "YES"
-                ]
-            },
-            {
-                "task": "Clean RLT BW grinder.",
-                "status": [
-                    "NO",
-                    "NO"
-                ]
-            },
-            {
-                "task": "Dump dust collector and vacuum cleaner.",
-                "status": [
-                    "yes",
-                    "NO"
-                ]
-            },
-            {
-                "task": "Samples pending",
-                "status": [
-                    "YES/NO",
-                    "YES/NO",
-                    "YES/NO"
-                ]
-            }
-        ],
-        "technician": "PovrinH.",
-        "shifts": [
-            {
-                "time": "11pm-7am",
-                "code": "C"
-            },
-            {
-                "time": "7am-3pm",
-                "code": "A"
-            },
-            {
-                "time": "3pm-11pm",
-                "code": "D"
-            }
-        ],
-        "comments": [
-            "1b Moihine sponot~380spm peps",
-            "Ossbra hrs.",
-            "13Rejecls",
-            "10500bh",
-            "Bo dive bolt on codatoue foso",
-            "S0d3837a43",
-            "2050720985"
+  "report": "LINE THREE REPORT",
+  "date": "01.23.93",
+  "rlt_domestic": {
+    "tasks": [
+      {
+        "task": "Complete line three accountability logsheet.",
+        "status": [
+          "X",
+          "X",
+          "X"
         ]
-    },
-    "report_id": "A:REPORTID.WK",
-    "revision": "12/15/92"
+      },
+      {
+        "task": "Maintain housekeeping in AA areas.",
+        "status": [
+          "X",
+          "X",
+          "X"
+        ]
+      },
+      {
+        "task": "Restock station supplies.",
+        "status": [
+          "X",
+          "/",
+          "X"
+        ]
+      },
+      {
+        "task": "Restock folded filter paper.",
+        "status": [
+          " ",
+          "/",
+          " "
+        ]
+      },
+      {
+        "task": "Make up bottles for all lines.",
+        "status": [
+          " ",
+          "",
+          "X"
+        ]
+      },
+      {
+        "task": "Prepare .01 H2SO4 extraction solution.",
+        "status": [
+          " ",
+          "/",
+          "X"
+        ]
+      },
+      {
+        "task": "Clean RLT FS grinder.",
+        "status": [
+          " ",
+          "",
+          "X"
+        ]
+      },
+      {
+        "task": "Clean RLT BW grinder.",
+        "status": [
+          " ",
+          "",
+          " "
+        ]
+      },
+      {
+        "task": "Dump dust collector and vacuum cleaner.",
+        "status": [
+          "X",
+          "",
+          " "
+        ]
+      },
+      {
+        "task": "Samples pending",
+        "status": [
+          "YES / NO",
+          "YES / NO",
+          "YES / NO"
+        ]
+      }
+    ],
+    "technician": "Kevin H.",
+    "shifts": [
+      {
+        "time": "11pm–7am",
+        "code": "C"
+      },
+      {
+        "time": "7am–3pm",
+        "code": "D"
+      },
+      {
+        "time": "3pm–11pm",
+        "code": "A"
+      }
+    ],
+    "comments": [
+      "Machine speed at 380 spm peps lasting 7-2 hrs. 13 rejects.",
+      "2-3 min down for E.W. ~1025, resumed ~1050.",
+      "2 D.V. rejects both pH.",
+      "Broken drive belt on codex tower fan so slowed down 380 → 370 at 1430."
+    ]
+  },
+  "report_id": "A:REPORTID.WK",
+  "revision": "12/15/92"
 }

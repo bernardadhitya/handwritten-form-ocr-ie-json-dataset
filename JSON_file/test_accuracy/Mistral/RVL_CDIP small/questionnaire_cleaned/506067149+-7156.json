@@ -1,0 +1,62 @@
+{
+  "company": "FOSS-COOPER ASSOCIATES, INC.",
+  "address": null,
+  "project": {
+    "name": null,
+    "code": "350-35-83",
+    "phone": null,
+    "date": null,
+    "test": null,
+    "version": null
+  },
+  "interview": {
+    "name": null,
+    "address": null,
+    "interviewer": null,
+    "date": null,
+    "validated_by": "",
+    "time_began": null,
+    "introduction": null,
+    "questions": [
+      {
+        "id": null,
+        "text": null,
+        "options": {
+          "yes": null,
+          "no": "CONTINUE"
+        }
+      },
+      {
+        "id": null,
+        "text": null,
+        "options": {
+          "drug_company": null,
+          "marketing_research_firm": "TERMINATE BELOW",
+          "automobile_manufacturer": "CONTINUE",
+          "tobacco_company_or_wholesaler": "TERMINATE BELOW",
+          "newspaper_or_magazine_company": null,
+          "television_manufacturer": null,
+          "advertising_company": "TERMINATE BELOW",
+          "food_processing_company": null,
+          "none_of_the_above": null
+        }
+      },
+      {
+        "id": null,
+        "text": null,
+        "options": {
+          "male": "1",
+          "female": null
+        }
+      }
+    ],
+    "brand_quota": {
+      "other": null,
+      "camel_lights": "",
+      "marlboro_regular": null,
+      "marlboro_lights": null,
+      "all_other_full_flavor": null,
+      "all_other_lights": null
+    }
+  }
+}

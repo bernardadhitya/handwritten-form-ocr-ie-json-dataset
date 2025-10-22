@@ -1,0 +1,49 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": null,
+        "Adresse": null,
+        "Code postal": null,
+        "Ville": null,
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": null,
+        "Complement": null,
+        "Reference client eventuelle": null,
+        "Interlocuteur": null,
+        "Asswince": {
+          "Adresse": null,
+          "Code postal": null,
+          "Ville": "Ra_Keaaye"
+        },
+        "Redaction": {
+          "Type de stylo (noir) utilise": [
+            null,
+            "plume",
+            "feutre"
+          ],
+          "Temps passe a traiter le scenario": null
+        },
+        "Contribution": {
+          "Cocher les_elements de_votre contribution pour le scenario_traite": [
+            "(6e) J'envoie mon courrier par voie postale a la date du 23to1/9",
+            null,
+            null,
+            null
+          ],
+          "Marque et modele du scanner": null,
+          "Format": [
+            "PNG",
+            null,
+            "TIFF"
+          ],
+          "Resolution des images": null
+        }
+      }
+    }
+  }
+}

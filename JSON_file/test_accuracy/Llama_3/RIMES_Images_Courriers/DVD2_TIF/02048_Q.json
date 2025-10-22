@@ -1,0 +1,56 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": "Ninir",
+    "Identite fictive": {
+      "Nom": null,
+      "Prenom": null,
+      "Adresse": null,
+      "Code postal": null,
+      "Ville": null,
+      "Tel": null
+    },
+    "Scenario": {
+      "Categorie": "Id;| calcv",
+      "Gen": null,
+      "Gmm": null,
+      "Cenletvo": null,
+      "Gam": null,
+      "Vesss": null,
+      "Lncsnwellk": null,
+      "Reenle": "CHus__A6_",
+      "Reference client eventuelle": null
+    },
+    "Interlocuteur": {
+      "Nom": null,
+      "Adresse": null,
+      "Code postal": null,
+      "Ville": null
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        null,
+        null,
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": null,
+      "Contribution": {
+        "Jenvoie mon courrier par voie postale a la date du": null,
+        "Mon courrier contient une page de garde de fax": "+2€",
+        "Avant mon envoi postal, j'ai telecopie ma contribution le": "+1€",
+        "J'ai envoye par courriel mon courrier numerise le": null
+      },
+      "Marque et modele du scanner": "Format",
+      "Format": [
+        "PNG",
+        "GIF",
+        "TIFF"
+      ],
+      "Resolution des images": [
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  }
+}

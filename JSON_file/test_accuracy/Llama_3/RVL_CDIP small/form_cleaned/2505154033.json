@@ -1,0 +1,74 @@
+{
+  "contractResearchCenter": null,
+  "formNumber": null,
+  "code": null,
+  "reference": null,
+  "formApproval": null,
+  "observations": {
+    "type": null,
+    "projectNumber": null,
+    "groupCode": null,
+    "dayOfStudy": null,
+    "date": null,
+    "group": {
+      "males": null,
+      "females": null,
+      "time": "4.08",
+      "totalNumberOfAnimals": null,
+      "decreasedSpontaneousActivity": null,
+      "trembling": null,
+      "partiallyOrFullyClosedEyelids": null,
+      "harderianGlandSecretion": null,
+      "initials": null,
+      "partiallyOrFullyWetOrMoistFur": null,
+      "abnormalBreathing": null
+    },
+    "individual": {
+      "animalNumber": null,
+      "sex": null,
+      "time": null,
+      "codes": {
+        "spontaneousActivity": null,
+        "irritability": null,
+        "turningReflex": null,
+        "grippingAbility": 35,
+        "closedEyelids": null,
+        "trembling": null,
+        "highLeggedGait": null,
+        "abnormalBreathing": null,
+        "harderianGlandSecretion": null,
+        "hairChanges": {
+          "rough": null,
+          "moistWetPercentage": null,
+          "discoloration": null,
+          "hairlossPercentage": "2505154033"
+        },
+        "skinChanges": null,
+        "incisors": 105,
+        "injuries": null
+      }
+    }
+  },
+  "remarks": null,
+  "dates": [
+    null,
+    "1999-04-09"
+  ],
+  "grades": {
+    "0": null,
+    "-1": null,
+    "-2": null,
+    "+1": null,
+    "+2": "marked increase",
+    "x": "finding, describe if necessary."
+  },
+  "errorCodes": {
+    "A": null,
+    "B": "calculation",
+    "C": "mixing up",
+    "D": null,
+    "E": "copy",
+    "F": null
+  },
+  "errorCodeNumber": "0992"
+}

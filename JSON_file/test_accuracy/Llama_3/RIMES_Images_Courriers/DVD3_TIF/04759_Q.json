@@ -1,0 +1,50 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "BAZLN",
+        "Prenom": "CeLCILe"
+      },
+      "Adresse": {
+        "Code postal": null,
+        "Ville": null,
+        "Tel": null
+      }
+    },
+    "Scenario": {
+      "Categorie": null,
+      "Objet": null,
+      "Ccrfhe": null,
+      "Complement": {
+        "Reference client eventuelle": null,
+        "Interlocuteur": null,
+        "Adresse": null,
+        "Code postal": "438kyy",
+        "Ville": null
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          null,
+          null,
+          null
+        ],
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les_elements_de_votre contribution pour le scenario trite": [
+          null,
+          "(+2€) Mon courrier contient une page de garde de fax",
+          "(+1€) Avant mon envoi postal, jai telecopie ma contribution le",
+          null
+        ],
+        "Marque et modele du scanner": null,
+        "Format": [
+          null,
+          null,
+          null
+        ],
+        "Resolution des images": null
+      }
+    }
+  }
+}

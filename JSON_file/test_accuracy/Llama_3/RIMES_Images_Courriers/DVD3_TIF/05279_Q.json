@@ -1,0 +1,50 @@
+{
+  "Identite fictive": {
+    "Nom": null,
+    "Prenom": null,
+    "Qauzle": "AX",
+    "Adresse": null,
+    "Code postal": "Iz",
+    "Ville": null,
+    "Tel": null
+  },
+  "Scenario": {
+    "Categorie": null,
+    "Objet": null,
+    "Complement": "Vouz",
+    "Reference client eventuelle": null
+  },
+  "Interlocuteur": {
+    "Banqhus_": null,
+    "Geulala": {
+      "Adresse": null,
+      "Code": null,
+      "Ville": null,
+      "Kaure": "Redaction"
+    }
+  },
+  "Redaction": {
+    "Type de stylo (noir) utilise": [
+      null,
+      "plume",
+      null
+    ],
+    "Temps passe & traiter le scenario": "minutes."
+  },
+  "Contribution": {
+    "Cocher les elements de votre contribution pour le_scenario_traite": {
+      "(6D) J'envoie mon courrier par voie postale a la date du": "BS_4.8",
+      "(+2D) Mon courrier contient une page de garde de fax.": null,
+      "(+1D) Avant mon envoi postal, j'ai telecopie ma contribution le": null,
+      "(+1D) J'ai envoye par courriel mon courrier numerise le": null
+    },
+    "Marque et modele du scanner": null,
+    "Format": [
+      null,
+      null,
+      null
+    ],
+    "Resolution des images": null,
+    "Canypt": null
+  }
+}

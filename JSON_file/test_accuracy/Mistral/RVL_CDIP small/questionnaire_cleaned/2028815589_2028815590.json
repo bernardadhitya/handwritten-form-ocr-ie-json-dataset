@@ -1,68 +1,37 @@
 {
-  "prep_study": "CA",
-  "name": null,
-  "regular_brand": "REGULAR BRAND",
-  "cigarette": "15Z INa CIGARETTE",
-  "time_deprivation": {
-    "nicotine": "2 HOURS",
-    "caffeine": "1 HOUR"
-  },
-  "last_cigarette": ".00",
-  "last_caffeine": null,
-  "mouth_throat_impact": {
-    "low": [
-      "Has low mouth and throat impact"
-    ],
-    "high": [
-      "Has high mouth and throat impact"
-    ]
-  },
-  "unusual_flavor": [
-    "Does not have an unusual flavor"
-  ],
-  "off_taste": [
-    "Does not have an off-taste"
-  ],
-  "mouth_coating": {
-    "not_at_all": [
-      "Is not at all mouthcoating"
-    ],
-    "very": [
-      "Is very mouthcoating"
-    ]
-  },
-  "satisfaction": {
-    "not_at_all": [
-      "Is not satisfying()"
-    ],
-    "very": [
-      "Is very satisfying"
-    ]
-  },
-  "like_dislike": {
-    "dislike_extremely": [
-      "I dislike"
-    ],
-    "like_extremely": [
-      "I like extremely"
-    ]
-  },
-  "mentholated": "Yes",
-  "menthol": {
-    "very_little": [
-      "Has very little menthol"
-    ],
-    "a_lot": [
-      "Has a lot of menthol"
-    ]
-  },
-  "cooling": {
-    "very_little": [
-      "Has very little cooling"
-    ],
-    "a_lot": [
-      "Has a lot of cooling"
-    ]
-  },
-  "id": "2028815589"
+    "prep_study": "CA",
+    "name": "SESSION",
+    "regular_brand": "15Z INa",
+    "cigarette": "y",
+    "time_deprivation": "2 HOURS NICOTINE 1 HOUR CAFFEINE",
+    "last_cigarette": ".00",
+    "last_caffeine": "/",
+    "mouth_throat_impact": {
+        "low": true,
+        "high": false
+    },
+    "unusual_flavor": false,
+    "off_taste": false,
+    "mouth_coating": {
+        "not_at_all": true,
+        "very": false
+    },
+    "satisfaction": {
+        "not_at_all": true,
+        "very": false
+    },
+    "like_dislike": {
+        "dislike_extremely": false,
+        "like_extremely": false
+    },
+    "mentholated": "Yes",
+    "menthol": {
+        "very_little": true,
+        "a_lot": false
+    },
+    "cooling": {
+        "very_little": true,
+        "a_lot": false
+    },
+    "id": "2028815589"
 }

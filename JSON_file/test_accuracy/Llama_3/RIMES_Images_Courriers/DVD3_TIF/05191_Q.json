@@ -1,0 +1,54 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": null
+      },
+      "Adresse": {
+        "Rue": null,
+        "Code postal": "61420",
+        "Ville": null
+      },
+      "Tel": "3539"
+    },
+    "Scenario": {
+      "Categorie": null,
+      "Objet": null,
+      "Complement": "Yes_Veus",
+      "Anstallez": null,
+      "Reference client eventuelle": null,
+      "Interlocuteur": null,
+      "Asserances": {
+        "Adresse": null,
+        "Code postal": null,
+        "Ville": null
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille",
+          null,
+          null
+        ],
+        "Temps passe & traiter le scenario": null,
+        "Contribution": {
+          "Cocher les_elements_de_votre_contribution pour le_scenario traite": {
+            "6e": "Jenvoie mon courrier par voie postale a la date du 22.4vS.4.282",
+            "2e": null,
+            "1e": [
+              null,
+              "J'ai envoye par courriel mon courrier numerise le 241,2vci l_Ao2+"
+            ]
+          },
+          "Marque et modele du scanner": "MFC_Brzthes_242",
+          "Format": [
+            null,
+            null,
+            null
+          ],
+          "Resolution des images": null
+        }
+      }
+    }
+  }
+}

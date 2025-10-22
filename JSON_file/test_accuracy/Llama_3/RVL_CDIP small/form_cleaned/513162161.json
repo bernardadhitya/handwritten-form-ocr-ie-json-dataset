@@ -1,0 +1,67 @@
+{
+  "company": "R.J.Reynolds Tobacco USA, Inc.",
+  "authorization_request": {
+    "ar_no": "702-16",
+    "date_routed": null,
+    "subject": null,
+    "originator": "D.C.Hirsch",
+    "dept_ref_no": null,
+    "operational_date": null,
+    "approval_request_summary": null
+  },
+  "authority_requested": {
+    "authorization_type": {
+      "capital": {
+        "previously_approved": null,
+        "this_request": null,
+        "total_request": 146816
+      },
+      "expense": {
+        "contract": true,
+        "promotion": null,
+        "other": 146816,
+        "total_request": null
+      }
+    },
+    "product_modification_introduction": null,
+    "previous_proposals": null,
+    "lease_or_other_continuing_commitment": {
+      "minimum": null,
+      "for": "Total $",
+      "cost_justified_at": null
+    }
+  },
+  "finance_data": {
+    "capital": {
+      "expense": null,
+      "capital_id": null
+    },
+    "project_id": "Funds Required From:",
+    "expense_code": null,
+    "department": null
+  },
+  "financial_impact": {
+    "1987": {
+      "operating_earnings_loss": 146816
+    },
+    "average_thereafter": {
+      "operating_earnings_loss": null
+    },
+    "corporate_funds_requested": null
+  },
+  "reviews_approvals": {
+    "dept": {
+      "date": null,
+      "signature": "Date"
+    },
+    "legal": null,
+    "cfo": null,
+    "operations": null,
+    "tob_ins": "JEL",
+    "prom": null,
+    "fin_admin": null,
+    "pres_ceo": null
+  },
+  "implementor_project_manager": null,
+  "form": null
+}

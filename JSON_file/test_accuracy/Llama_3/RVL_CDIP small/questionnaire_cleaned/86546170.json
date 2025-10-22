@@ -1,0 +1,53 @@
+{
+  "SMOKER_RESCREENER": {
+    "Name": "",
+    "Age": null,
+    "Market_Research_Participation": {
+      "Question": null,
+      "Answer": null
+    },
+    "Cigarettes_Per_Day": {
+      "Question": null,
+      "Options": [
+        null,
+        null
+      ],
+      "Answer": ""
+    },
+    "Cigarette_Type": {
+      "Question": "What type of cigarettes do you smoke on a regular basis, by type meaning full flavored, light or menthol?",
+      "Options": [
+        null,
+        "Full flavor non-menthol",
+        "Light menthol",
+        null
+      ],
+      "Answer": null
+    },
+    "Brands": {
+      "Most_Often": null,
+      "Heard_Of": [
+        null,
+        null,
+        null,
+        "Planet",
+        null,
+        null,
+        "Pure Tobacco",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Balleys",
+        null,
+        "Valentine",
+        null,
+        null
+      ],
+      "Other": null
+    }
+  }
+}

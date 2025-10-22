@@ -1,0 +1,46 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": "PAQuce",
+        "Prenom": null,
+        "Adresse": null,
+        "Code postal": "L9214610",
+        "Ville": null,
+        "Tel": null
+      },
+      "Categorie": null,
+      "de": null,
+      "Objet": null,
+      "Reference client eventuelle": null,
+      "Interlocuteur": null,
+      "Adresse": {
+        "Code postal": null,
+        "Ville": null
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          null,
+          null,
+          null
+        ],
+        "Temps passe a traiter le scenario": "Aq minutes"
+      },
+      "Contribution": {
+        "Cocher les elements de votre contribution pour le_scenario_traite": {
+          "(6€) J'envoie mon courrier par voie postale a la date du deZoez_": null,
+          "(+2€) Mon courrier contient une page de garde de fax": null,
+          "(+1€) Avant mon envoi postal, j'ai telecopie ma contribution le": true,
+          "(+1€) Jai envoye par courriel mon courrier numerise le": null
+        },
+        "Marque et modele du scanner": null,
+        "Format": [
+          "PNG",
+          null,
+          "TIFF"
+        ],
+        "Resolution des images": null
+      }
+    }
+  }
+}

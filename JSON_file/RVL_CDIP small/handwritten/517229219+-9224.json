@@ -1,10 +1,12 @@
 {
-    "question": "Please indicate which Winston Select brand style you prefer (chk only n)",
-    "options": [
-        "D1 Full Flavor 85s Soft Pack",
-        "02 Full Flavor 85s Box",
-        "03 Lights 85s Soft Pack",
-        "4 Lights 85s Box"
-    ],
-    "note": "Your request cannot be processed without your signature and birthdate."
+  "question": "Please indicate which Winston Select brand style you prefer (check only one):",
+  "options": [
+    "01 Full Flavor 85's Soft Pack",
+    "02 Full Flavor 85's Box",
+    "03 Lights 85's Soft Pack",
+    "04 Lights 85's Box",
+    "05 Lights 100's Soft Pack",
+    "06 Slim Lights 100's Box"
+  ],
+  "note": "Your request cannot be processed without your signature and birthdate."
 }

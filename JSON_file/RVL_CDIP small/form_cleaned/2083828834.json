@@ -1,29 +1,30 @@
 {
-    "program": "2000 Marlboro Bar Program",
-    "contractTopSheet": {
-        "gmmSsm": "Jeannine DoerfleL",
-        "location": "Atlanta",
-        "market": "jlliE A THE lNAL1",
-        "venue": {
-            "name": "Venue Name",
-            "id": "ATL.CIOZ.LL"
-        },
-        "clubType": {
-            "visibility": true,
-            "music": true,
-            "rnb": true
-        },
-        "venueAdmissionPolicy": [
-            "AO18-P",
-            "A021-P",
-            "PAO-P",
-            "AO18-V",
-            "A021-V"
-        ],
-        "gmmSsmId": "2083828834",
-        "signature": null,
-        "signatureDate": null,
-        "sellinApproval": null,
-        "sellinApprovalDate": null
-    }
+  "program": "2000 Marlboro Bar Program",
+  "contractTopSheet": {
+    "gmmSsm": "JEANNINE DOERFLER",
+    "location": "ATLANTA",
+    "market": "ATLANTA",
+    "venue": {
+      "name": "HOLE IN THE WALL",
+      "id": "ATL.C102.LL"
+    },
+    "clubType": {
+      "visibility": false,
+      "music": false,
+      "rnb": false,
+      "event": true
+    },
+    "venueAdmissionPolicy": [
+      "AO18-P",
+      "AO21-P",
+      "PAO-P",
+      "AO18-V",
+      "AO21-V"
+    ],
+    "gmmSsmId": "",
+    "signature": "[signature]",
+    "signatureDate": "2/11/00",
+    "sellinApproval": "[signature]",
+    "sellinApprovalDate": "2/15/00"
+  }
 }

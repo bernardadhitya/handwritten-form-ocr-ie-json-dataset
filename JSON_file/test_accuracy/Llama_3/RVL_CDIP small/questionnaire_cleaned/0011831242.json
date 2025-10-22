@@ -1,0 +1,86 @@
+{
+  "master": {
+    "areaCodeAndPhoneNumber": null,
+    "projectNumber": "88-2963",
+    "date": null,
+    "forOfficeUse": {
+      "repNumber": null,
+      "interviewNumber": null,
+      "femaleName": null,
+      "results": null,
+      "state": null,
+      "duration": null
+    },
+    "wave": null,
+    "q21": {
+      "brandsRated": [
+        {
+          "brand": null,
+          "code": -1,
+          "week": null
+        },
+        {
+          "brand": null,
+          "code": null,
+          "week": null
+        },
+        {
+          "brand": null,
+          "code": 6,
+          "week": "15 week"
+        },
+        {
+          "brand": "Capri",
+          "code": null,
+          "week": "20 week"
+        },
+        {
+          "brand": null,
+          "code": null,
+          "week": null
+        },
+        {
+          "brand": null,
+          "code": null,
+          "week": null
+        }
+      ],
+      "noneRated": null
+    },
+    "reloIm": null,
+    "products": null,
+    "questions": {
+      "A": {
+        "question": null,
+        "responses": {
+          "noOne21OrOlder": null,
+          "onCalledToPhone": null,
+          "unavailable": null
+        }
+      },
+      "B": {
+        "question": null,
+        "subQuestions": [
+          null,
+          null,
+          "Eat Mexican food"
+        ],
+        "instructions": {
+          "mustSayYes": null,
+          "askQCAndGoToQE": "ON THE NEXT PAGE",
+          "ifMoreThanOne": null,
+          "ifOneAskForThatPersonThen": "AND Q.D"
+        }
+      },
+      "C": {
+        "question": "Do you or does anyone in your immediate family work for...",
+        "responses": {
+          "advertisingAgency": null,
+          "cigaretteManufacturer": null,
+          "magazineNewspaperRadioTelevision": null
+        }
+      }
+    },
+    "code": null
+  }
+}

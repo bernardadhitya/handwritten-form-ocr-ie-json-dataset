@@ -1,0 +1,50 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": null
+      },
+      "Adresse": {
+        "Rue": null,
+        "Code postal": null,
+        "Ville": null
+      },
+      "Tel": null
+    },
+    "Scenario": {
+      "Categorie": null,
+      "Objet": null,
+      "Cx2": null,
+      "Complement": null
+    },
+    "Interlocuteur": {
+      "Les": "SLe fs.",
+      "Adresse": "Az.",
+      "Code postal": null,
+      "Ville": "QYRE"
+    },
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        null,
+        null,
+        "feutre"
+      ],
+      "Temps passe a traiter le scenario": null
+    },
+    "Contribution": {
+      "Cocher les elements de votre contribution pour le scenario traite": {
+        "(6€) J'envoie mon courrier par voie postale a la date du": null,
+        "(+2€) Mon courrier contient une page de fax": null,
+        "(+1€) Jai envoye par courriel mon courrier numerise le": "5_Au_Zop+"
+      },
+      "Marque et modele du scanner": "H",
+      "Format": [
+        null,
+        null,
+        null
+      ],
+      "Resolution des images": null
+    }
+  }
+}

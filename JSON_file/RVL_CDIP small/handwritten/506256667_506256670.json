@@ -1,64 +1,61 @@
 {
-    "session": "NOrKiNg Sessi~0N",
-    "location": "gepeva",
-    "date": "February 2-6, 1987",
-    "topics": [
+  "session": "Working Session",
+  "location": "Geneva",
+  "date": "February 2-6, 1987",
+  "topics": [
+    {
+      "code": "AYS",
+      "title": "AEV"
+    },
+    {
+      "code": "KWS",
+      "title": "PHS"
+    },
+    {
+      "code": "1",
+      "title": "Evaluation of CSC Chemicals",
+      "details": [
         {
-            "code": "Ays",
-            "title": "A.EV"
+          "code": "4",
+          "title": "Evaluation of PTGA Flavors"
         },
         {
-            "code": "Kws",
-            "title": "PHS"
+          "code": "6",
+          "title": "Smoke Flavor, KS-6"
         },
         {
-            "code": "FvAluation of Csc Chemicu1s",
-            "details": [
-                {
-                    "code": "4",
-                    "title": "FEva luation oF PTGA FIAVOIS"
-                },
-                {
-                    "code": "b",
-                    "title": "Smoke Flnvor."
-                },
-                {
-                    "code": "Ks-6",
-                    "title": "?- Tobocco Extracts [FractioNatd)"
-                },
-                {
-                    "code": "3",
-                    "title": "Evu/uata of 1iguis Spofe FracHor!s"
-                },
-                {
-                    "code": "5",
-                    "title": "Evaluatioa of PuNgert Princp!s"
-                },
-                {
-                    "code": "I",
-                    "title": "Pof. Flavor:"
-                },
-                {
-                    "code": "8",
-                    "title": "Creetative. Apjre"
-                },
-                {
-                    "code": "f0",
-                    "title": "SAmp1e s"
-                },
-                {
-                    "code": "A",
-                    "title": "Q DA mode!"
-                },
-                {
-                    "code": "I",
-                    "title": "Reconinrata"
-                }
-            ]
+          "code": "2",
+          "title": "Tobacco Extracts (Fractionated)"
+        },
+        {
+          "code": "3",
+          "title": "Evaluation of Liquid Smoke Fractions"
+        },
+        {
+          "code": "5",
+          "title": "Evaluation of Pungent Principles"
+        },
+        {
+          "code": "7",
+          "title": "Paper Flavor"
+        },
+        {
+          "code": "8",
+          "title": "Creative Approach"
+        },
+        {
+          "code": "10",
+          "title": "Samples"
+        },
+        {
+          "code": "9",
+          "title": "QDA model Recommendation"
         }
-    ],
-    "codes": [
-        50625,
-        6667
-    ]
+      ]
+    }
+  ],
+  "codes": [
+    50625,
+    6667
+  ]
 }

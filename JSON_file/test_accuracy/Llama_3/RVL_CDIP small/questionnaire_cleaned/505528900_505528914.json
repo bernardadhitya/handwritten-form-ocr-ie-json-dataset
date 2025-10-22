@@ -1,0 +1,74 @@
+{
+  "company": null,
+  "job_number": "0906",
+  "address": null,
+  "date": null,
+  "project": null,
+  "document_type": null,
+  "respondent": {
+    "name": null,
+    "state": "N.C.",
+    "area_code": null,
+    "phone": null,
+    "date": null,
+    "interviewed_by": "N"
+  },
+  "instructions": {
+    "interview_women_only": null,
+    "age_question": {
+      "question": null,
+      "options": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "terminate_if": [
+        null,
+        null,
+        "25-3-2",
+        "35-49",
+        null
+      ]
+    },
+    "product_usage_question": {
+      "question": "Which of the following products do you use daily?",
+      "options": [
+        null,
+        null,
+        "Cigarettes",
+        null,
+        "Cream toothpaste"
+      ],
+      "continue_if": [
+        "Breathmints",
+        null,
+        null
+      ]
+    },
+    "brand_usage_question": {
+      "question": null,
+      "options": [
+        null,
+        null,
+        "Clorets breathmints",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "continue_if": [
+        null,
+        null,
+        "Clorets breathmints",
+        null,
+        null,
+        "Clinomint",
+        "Scope",
+        null
+      ]
+    }
+  }
+}

@@ -1,66 +1,66 @@
 {
-    "company": "R.3.REYNOLDS TOBACCO COMPANY",
-    "contract": {
-        "name": "RETAIL PARTNERS MARKETING PLAN CONTRACT",
-        "type": "SELF-SERVICE PACK OUTLET-LEVEL 1/2"
-    },
-    "taxpayer_information": {
-        "corporation_name": "Foc Coy",
-        "corporation_exempt": "Yes",
-        "sole_proprietor_name": "",
-        "sole_proprietor_business_name": "",
-        "ein": "",
-        "address": {
-            "street": "",
-            "city_state_zip": ""
-        }
-    },
-    "certification": {
-        "penalty_of_perjury": true,
-        "backup_withholding": false
-    },
-    "store_information": {
-        "store_name": "RAc",
-        "rjr_account_no": "",
-        "street_address": "3sm",
-        "city_state": "St",
-        "zip_code": "0037",
-        "rjr_territory_no": "14200",
-        "classification": "Call",
-        "brand_chain": "13250000",
-        "current": "51870",
-        "rjr_vol": "",
-        "type": "Stores",
-        "monthly_payment": "30000",
-        "total_quarterly": "",
-        "dollar_amount": "130",
-        "si": "361",
-        "total": "9"
-    },
-    "contract_details": {
-        "date_signed": "",
-        "signature": "598",
-        "title": "M-",
-        "contract_effective_date": "ag",
-        "function": "EFFECTIVE",
-        "contract_type": "PLAN",
-        "units": "UNITS",
-        "rate": "RATE",
-        "mo_yr": "MO/YR",
-        "function_a": "A",
-        "nw": "NW",
-        "pack": "PACK",
-        "s": "s",
-        "e3": "E3",
-        "a_add": "A-ADD",
-        "p": "P",
-        "e": "E",
-        "end": "END",
-        "prp": "PRP",
-        "delete": "=DELETE",
-        "049": "049",
-        "c_change": "C=CHANGE",
-        "item_no": "TTEMNO",
-        "form": "FORM"
+  "company": "R.J. REYNOLDS TOBACCO COMPANY",
+  "contract": {
+    "name": "",
+    "type": "Self Service"
+  },
+  "taxpayer_information": {
+    "corporation_name": "Food Bag Convenience Store",
+    "corporation_exempt": "",
+    "sole_proprietor_name": "",
+    "sole_proprietor_business_name": "",
+    "ein": "",
+    "address": {
+      "street": "",
+      "city_state_zip": ""
     }
+  },
+  "certification": {
+    "penalty_of_perjury": true,
+    "backup_withholding": false
+  },
+  "store_information": {
+    "store_name": "Food Bag",
+    "rjr_account_no": "650 60",
+    "street_address": "315 Main St",
+    "city_state": "Kensington CT 31",
+    "zip_code": "06037",
+    "rjr_territory_no": "114260",
+    "classification": "1325 00 00",
+    "brand_chain": "",
+    "current": "130",
+    "rjr_vol": "",
+    "type": "Self Service",
+    "monthly_payment": "300 00",
+    "total_quarterly": "$ 900.00",
+    "dollar_amount": "",
+    "si": "",
+    "total": ""
+  },
+  "contract_details": {
+    "date_signed": "7-1-78",
+    "signature": "Jerry Palardy 6-5-78",
+    "title": "Buyer",
+    "contract_effective_date": "",
+    "function": "A",
+    "contract_type": "[N]",
+    "units": "1",
+    "rate": "7.50",
+    "mo_yr": "07 78",
+    "function_a": "A",
+    "nw": "[N]",
+    "pack": "PACK",
+    "s": "S",
+    "e3": "",
+    "a_add": "",
+    "p": "P",
+    "e": "E",
+    "end": "END",
+    "prp": "PRP",
+    "delete": "=DELETE",
+    "049": "049",
+    "c_change": "C=CHANGE",
+    "item_no": "TTEMNO",
+    "form": "FORM"
+  }
 }

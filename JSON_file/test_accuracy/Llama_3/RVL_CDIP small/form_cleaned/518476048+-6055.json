@@ -1,0 +1,155 @@
+{
+  "workPlanVoucherRequest": {
+    "period": null,
+    "instructions": "USE ONE VOUCHER FORM FOR EACH PROMOTION (Please Print or Type in EXCEL)",
+    "division": null,
+    "date": null,
+    "jrPersonnel": null,
+    "signature": null,
+    "jobberName": null,
+    "jobberSignature": null,
+    "accountNumber": null,
+    "checkMailedTo": "Division Office",
+    "promotions": [
+      {
+        "promotion": null,
+        "rate": null,
+        "units": null,
+        "payment": null,
+        "comments": null
+      },
+      {
+        "promotion": "R NY.25DPC VP",
+        "rate": null,
+        "units": null,
+        "payment": null,
+        "comments": null
+      },
+      {
+        "promotion": null,
+        "rate": null,
+        "units": null,
+        "payment": 73.0,
+        "comments": "Salem 4 Carton DPC Displays"
+      },
+      {
+        "promotion": null,
+        "rate": null,
+        "units": null,
+        "payment": null,
+        "comments": null
+      },
+      {
+        "promotion": null,
+        "rate": null,
+        "units": null,
+        "payment": null,
+        "comments": null
+      },
+      {
+        "promotion": "R.25VPR2 CTN)",
+        "rate": null,
+        "units": null,
+        "payment": null,
+        "comments": "Doral 2 Carton OPC Displays"
+      },
+      {
+        "promotion": null,
+        "rate": null,
+        "units": "X",
+        "payment": null,
+        "comments": null
+      },
+      {
+        "promotion": null,
+        "rate": 0.2,
+        "units": "X",
+        "payment": "",
+        "comments": null
+      }
+    ],
+    "displayAssembly": [
+      {
+        "item": null,
+        "rate": 28.0,
+        "units": null,
+        "comments": null
+      },
+      {
+        "item": null,
+        "rate": null,
+        "units": null,
+        "comments": null
+      },
+      {
+        "item": null,
+        "rate": 28.0,
+        "units": null,
+        "comments": "Sep Doral B2G1F Displays"
+      },
+      {
+        "item": null,
+        "rate": 28.0,
+        "units": null,
+        "comments": "Oct Salem B2G2F Displays"
+      },
+      {
+        "item": "VCamel B2GF Lighter",
+        "rate": null,
+        "units": null,
+        "comments": null
+      },
+      {
+        "item": null,
+        "rate": null,
+        "units": "X",
+        "comments": null
+      },
+      {
+        "item": null,
+        "rate": 28.0,
+        "units": null,
+        "payment": null,
+        "comments": null
+      },
+      {
+        "item": null,
+        "rate": null,
+        "units": null,
+        "comments": null
+      }
+    ],
+    "temporaryPaymentSystem": [
+      {
+        "promotion": null,
+        "rate": null,
+        "units": null
+      },
+      {
+        "promotion": "96 RAC DISC",
+        "rate": null,
+        "units": null,
+        "comments": "W 98 RAC DISC"
+      },
+      {
+        "promotion": "96 RAC DISC",
+        "rate": 1.0,
+        "units": null,
+        "comments": null
+      },
+      {
+        "promotion": null,
+        "rate": null,
+        "units": null,
+        "comments": null
+      },
+      {
+        "promotion": "96 RAC DISC",
+        "rate": 1.0,
+        "units": null,
+        "comments": null
+      }
+    ],
+    "voucher": null
+  }
+}

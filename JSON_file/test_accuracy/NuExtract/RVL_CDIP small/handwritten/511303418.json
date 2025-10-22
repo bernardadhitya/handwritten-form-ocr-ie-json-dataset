@@ -1,33 +1,33 @@
 {
-  "Company": "RJR Industries,Inc.",
-  "Proposal": {
-    "Type": "PROPOSAL FOR PROFIT,EXPENDITURE,OR POLICY CHANGE",
-    "Profit Proposal": {
-      "Pre-Tax Profit & Loss Effect": {
-        "Budget Change": {
-          "Yes": false,
-          "Amount": null
+    "Company": "RJR Industries, Inc",
+    "Proposal": {
+        "Type": "Profit, Expenditure, or Policy Change",
+        "Profit Proposal": {
+            "Pre-Tax Profit & Loss Effect": {
+                "Budget Change": {
+                    "Yes": true,
+                    "Amount": "Unknown"
+                }
+            }
+        },
+        "Capital Expenditure Proposal": {
+            "Disbursement of Funds": {
+                "Total Request": "Unknown",
+                "Timing": "Unknown"
+            }
+        },
+        "Policy Change Proposal": {
+            "Literature to be Changed": "Unknown",
+            "Description": "Opportunity or Problem Description",
+            "Background": "Substantiating References and Facts",
+            "Proposed Action and Alternatives": {
+                "Scope": "Unknown",
+                "Method": "Unknown"
+            },
+            "Results": {
+                "Profit Effect": "Unknown",
+                "Return on Investment": "Unknown"
+            }
         }
-      }
-    },
-    "Capital Expenditure Proposal": {
-      "Disbursement of Funds": {
-        "Total Request": null,
-        "Timing": null
-      }
-    },
-    "Policy Change Proposal": {
-      "Literature to be Changed": null,
-      "Description": null,
-      "Background": null,
-      "Proposed Action and Alternatives": {
-        "Scope": null,
-        "Method": null
-      },
-      "Results": {
-        "Profit Effect": null,
-        "Return on Investment": null
-      }
     }
-  }
 }

@@ -1,59 +1,45 @@
 {
-  "VA": "VA",
+  "VA": "TOOTAL",
   "Range": "00-129 TO 00-136",
-  "Description": [
-    "WIDE EXCEL RISER CARD GMUC CO",
-    "WIDE EXCEL RISER CARD SPANISH"
-  ],
+  "Description": "WIDE EXCEL RISER CARD GMUC CO",
   "Mechanicals": {
-    "ToProduction": [
-      "REISISO",
-      "TERN",
-      "4-00",
-      "CARTON",
-      "$06-00",
-      "CATON",
-      "TIERII",
-      "CARTON",
-      "TERRL"
-    ],
-    "FromBrand": "NEWPORT"
+    "ToProduction": "MECHANICALS TO PRODUCTION",
+    "FromBrand": "MECHANICALS FROM BRAND"
   },
-  "QuantitiesToProduction": [
-    "100"
-  ],
-  "Quarter": "_APRMAY C",
+  "QuantitiesToProduction": "REISISO",
+  "Quarter": "APRMAY C",
   "Carton": {
-    "Tern": "TERN",
-    "Price": [
-      "$06-00"
-    ],
-    "TierII": "TIERII",
+    "Tern": "4-00",
+    "Price": "$06-00",
+    "TierII": "CARTON",
     "Terrl": "TERRL"
   },
   "PurchaseRequisition": {
-    "AOY": null,
-    "TER": null,
-    "SOd": null,
-    "AAo": null,
-    "1EEE": null
+    "AOY": "AOY",
+    "TER": "TER",
+    "SOd": "SOd",
+    "AAo": "AAo",
+    "1EEE": "1EEE"
   },
   "Distribution": [
-    "BHINEG.BAROODY, LLAMSG.OVERONM.AHASEBS.RAGU"
+    "BHINEG.BAROODY",
+    "LLAMSG.OVERONM.AHASEBS.RAGU"
   ],
-  "Code": null,
-  "MIYACN": null,
+  "Code": "161616113883331511",
+  "MIYACN": "GM, SAVE 4Q/NO VALUI",
   "RGE": {
-    "Burst": "EBURST2",
-    "Burst2Sided": "RGE BURST (2 SIDED, SL, SAVE 40/NO VALUE)",
-    "Burst2SidedPrice": [
-      "$4 OFF/NOVALUE"
-    ],
-    "BurstPrice": null
+    "Burst": "RGE BURST (2 SIDED, SL, SAVE 40/NO VALUE",
+    "Burst2Sided": "$4 OFF/NOVALUE"
   },
-  "ItemCode": null,
-  "ItemRange": null,
+  "ItemCode": "98620101",
+  "ItemRange": "00-129 TO00-136",
+  "ItemDescription": [
+    "WIDE EXCEL RISER CARD GMUC CO",
+    "WIDE EXCEL RISER CARD SPANISH"
+  ],
   "Date": "12/17/99",
-  "SpecialNotes": null,
+  "EBURST2": "LG CTN FLOOR",
+  "ROGRAN#S": "130",
+  "SpecialNotes": "BRAND:",
   "Brand": "NEWPORT"
 }

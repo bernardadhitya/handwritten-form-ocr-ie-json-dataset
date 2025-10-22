@@ -1,0 +1,101 @@
+{
+  "title": "AMES ASSAY FOR MUTAGENICITY",
+  "organization": null,
+  "source": null,
+  "lorillard_no": null,
+  "date_received": null,
+  "tested": null,
+  "reported": null,
+  "investigators": [
+    null,
+    null
+  ],
+  "notebook_page": null,
+  "signatures": [],
+  "toxicity": {
+    "percent_survival": {
+      "50": null,
+      "100": null
+    }
+  },
+  "solvent": null,
+  "concentration_mg_ml": null,
+  "other": "S. TYPHIMURIUM",
+  "strains": {
+    "TA1535": {
+      "no_s9": null,
+      "plus_s9": null
+    },
+    "TA100": {
+      "no_s9": null,
+      "plus_s9": null
+    },
+    "TA98": {
+      "no_s9": null,
+      "plus_s9": null
+    }
+  },
+  "compound_ug_plate": {
+    "reversion_rate": {
+      "test_revertants_control_revertants_per_plate": {
+        "50": [
+          null,
+          1.01,
+          null
+        ],
+        "25": [
+          0.71,
+          1.16,
+          null
+        ],
+        "12.5": [
+          null,
+          null,
+          null
+        ],
+        "12": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {
+            "0": null
+          }
+        ]
+      }
+    }
+  },
+  "positive_control_ug_plate": {
+    "2-aminoanthracene": {
+      "4": [
+        null,
+        3.54,
+        null,
+        null,
+        null,
+        null
+      ],
+      "2": [
+        1.03,
+        4.39,
+        null,
+        null,
+        0.33,
+        null
+      ]
+    }
+  },
+  "conclusion": null,
+  "copies_to": [
+    {
+      "name": null,
+      "id": null
+    },
+    {
+      "name": "Ms. L.B. Gray",
+      "organization": null
+    }
+  ],
+  "form": "FORM6(580"
+}

@@ -1,62 +1,63 @@
 {
-    "company": "NATIONAL CONSENSUS SURVEYS",
-    "address": {
-        "street": "801 Second Avenue",
-        "suite": "42318W",
-        "city": "New York",
-        "state": "New York",
-        "zip": "10017"
-    },
-    "survey": {
-        "id": "13-1",
-        "name": "",
-        "phone": "",
-        "instructions": "Take as much care with each ad as you are able to. If you ordinarily wear reading glasses, you'll need them.",
-        "questions": [
-            {
-                "id": 2,
-                "text": "Now I'd like to ask you a few questions about the ads in the book. What brands or products do you remember seeing ads for in the book?",
-                "probe": "Any other brands? DO NOT READ EITHER BRAND NAMES OR PRODUCT CATEGORIES.",
-                "categories": {
-                    "general_ads": [
-                        "Amana Range",
-                        "BankAmericard/VISA",
-                        "Dole Pineapple",
-                        "General Electric Washer",
-                        "Hilton Hotels",
-                        "Bolens Lawn Mower",
-                        "Budweiser",
-                        "Old Spice Pocket Cologne",
-                        "Kawasaki",
-                        "Polaroid Camera",
-                        "Coca Cola",
-                        "Singer Sewing Machines",
-                        "Concord Watches",
-                        "Taster's Choice",
-                        "Crest toothpaste",
-                        "Weight Watchers"
-                    ],
-                    "cigarette_ads": [
-                        "Luke",
-                        "Golden Lights",
-                        "Kent Golden",
-                        "Kent Golden Light",
-                        "Kent Lights"
-                    ]
-                }
-            },
-            {
-                "id": 3,
-                "text": "Do you remember any ads for cigarettes?",
-                "brands": [
-                    "Luke",
-                    "Golden Lights",
-                    "Kent Golden",
-                    "Kent Golden Light",
-                    "Kent Lights"
-                ],
-                "other_specify": ""
-            }
-        ]
-    }
+  "company": "NATIONAL CONSENSUS SURVEYS",
+  "address": {
+    "street": "801 Second Avenue",
+    "suite": "42318W",
+    "city": "New York",
+    "state": "New York",
+    "zip": "10017"
+  },
+  "survey": {
+    "id": "13-1",
+    "name": "John M. Allen",
+    "phone": "6 3 6 - 5 2 6 5",
+    "instructions": "Please take a few minutes to go through the advertisements in this book. Please take as much time with each ad as you care to. If you ordinarily wear reading glasses, you'll need them.",
+    "questions": [
+      {
+        "id": 2,
+        "text": "Now, I'd like to ask you a few questions about the ads in the book. What brands or products do you remember seeing ads for in the book?",
+        "probe": "Any other brands? DO NOT READ EITHER BRAND NAMES OR PRODUCT CATEGORIES.",
+        "categories": {
+          "general_ads": [
+            "Amana Range",
+            "BankAmericard/VISA",
+            "Bayer Aspirin",
+            "Bolens Lawn Mower",
+            "Budweiser",
+            "Canadian Club",
+            "Coca Cola",
+            "Concord Watches",
+            "Crest toothpaste"
+          ],
+          "cigarette_ads": [
+            "Luke",
+            "Golden Lights",
+            "Golden (Unsp.)",
+            "Kent Golden",
+            "Kent Golden Lights",
+            "Kent Lights",
+            "Kent (Unsp.)",
+            "Lights (Unsp.)",
+            "True"
+          ]
+        }
+      },
+      {
+        "id": 3,
+        "text": "Do you remember any ads for cigarettes?",
+        "brands": [
+          "Luke",
+          "Golden Lights",
+          "Golden (Unsp.)",
+          "Kent Golden",
+          "Kent Golden Lights",
+          "Kent Lights",
+          "Kent (Unsp.)",
+          "Lights (Unsp.)",
+          "True"
+        ],
+        "other_specify": "y"
+      }
+    ]
+  }
 }

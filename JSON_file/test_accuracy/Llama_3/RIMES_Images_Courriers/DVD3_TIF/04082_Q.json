@@ -1,0 +1,47 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": null,
+        "Adresse": null,
+        "Code postal": null,
+        "Ville": null,
+        "Tel": "33581"
+      }
+    }
+  },
+  "Scenario": {
+    "Categorie": null,
+    "Objet": null,
+    "Complement": "INCUN",
+    "Reference client eventuelle": null,
+    "Interlocuteur": null,
+    "Adresse": null,
+    "Code postal": null,
+    "Ville": "RailLeul",
+    "Redaction": {
+      "Type de stylo (noir) utilise": [
+        "bille",
+        "plume",
+        null
+      ],
+      "Temps passe a traiter le scenario": "2.5 minutes."
+    },
+    "Contribution": {
+      "Cocher les elements_de_votre contribution pour le_scenario traite": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "Marque et modele du scanner": null,
+      "Format": [
+        null,
+        null,
+        null
+      ],
+      "Resolution des images": "dpilppp"
+    }
+  }
+}

@@ -1,72 +1,75 @@
 {
-    "productOpinion": {
-        "company": "LA30RAT0RY",
-        "address": "P.O. Box 26563, Richmond, Virginia 23261",
-        "telephone": "(804) 271-5002"
+  "productOpinion": {
+    "company": "",
+    "address": "",
+    "telephone": ""
+  },
+  "instructions": {
+    "label": "ONLY THE PERSON WHOSE NAME APPEARS ON THIS LABEL SHOULD TAKE THE TEST.",
+    "returnBallotBy": "(RED CODES)  Black",
+    "addressChange": {
+      "prompt": "Please print name/address corrections on label.",
+      "applyTo": "Does the change apply to all family members ______ or just to you ______?"
     },
-    "instructions": {
-        "label": "ON THIS LABEL SHOULD TAKE THE TEST ONLY THE PERSON WHOSE NAME APPEARS",
-        "returnBallotBy": "CODES",
-        "addressChange": {
-            "prompt": "Please print name/address corrections",
-            "applyTo": "Does the change apply to you or just to all family members on label?"
-        },
-        "addressChangeDetails": "If Address Changed: What is your (Please include area code.)"
+    "addressChangeDetails": "If Address Changed: What is your new phone number? (Please include area code.) _______________________"
+  },
+  "message": {
+    "greeting": "Dear Panelist:",
+    "content": "With this ballot I am enclosing six packs of cigarettes coded as follows: 3 packs and 3 packs. Please read the directions for each part carefully and pay special attention when judging these cigarettes—we will be sending you a free carton of the test cigarette you choose in Part III.",
+    "closing": "When the ballot is completely filled out, please return it to me in the enclosed postage-paid envelope. Thank you very much—your cooperation in this test is most helpful.",
+    "signature": "Study Leader"
+  },
+  "testInstructions": {
+    "part": "PART I",
+    "firstStep": "FIRST SMOKE ONE OR TWO PACKS OF THE CIGARETTES CODED ______.",
+    "phrases": "Read the phrases at each end of each line of boxes. Which phrase do you think describes the cigarette coded ______.",
+    "scale": {
+      "left": "If the one on the left describes it better, mark an X in one of the boxes on the left side—the more you think the description is true, the closer to the left side.",
+      "right": "If you think the phrase on the right side of the boxes is a better description, mark one of the boxes on the right side—again the truer it is, the closer to the right side."
+    }
+  },
+  "cigaretteEvaluation": {
+    "mildTaste": {
+      "negative": "Does not have a mild taste",
+      "positive": "Has a mild taste"
     },
-    "message": {
-        "greeting": "Dear Panelist",
-        "content": "With this ballot I am enclosing six packs of cigarettes coded as follows: -3 packs. Please read the directions for each part carefully and pay special attention when judging these cigarettes--we will be sending you a free carton of the test cigarette you choose in Part III.",
-        "closing": "Thank you very much--your cooperation in this test is most helpful.",
-        "signature": "Study Leader"
+    "harshness": {
+      "negative": "Is not harsh",
+      "positive": "Is harsh"
     },
-    "testInstructions": {
-        "part": "PART",
-        "firstStep": "FIRST SMOKE ONE OR TWO PACKS OF THE CIGARETTES CODED",
-        "phrases": "Read the phrases at each end of each line of boxes. Which phrase do you think describes the cigarette coded",
-        "scale": {
-            "left": "the left side--the more you think the description is true the closer to the left side.",
-            "right": "If you think side--again the surer it is the closer to the right side."
-        }
+    "goodTaste": {
+      "negative": "Does not have a good taste",
+      "positive": "Has a good taste"
     },
-    "cigaretteEvaluation": {
-        "mildTaste": {
-            "negative": "Does not have a mild taste.",
-            "positive": "Has a mild taste"
-        },
-        "harshness": {
-            "negative": "Is not harsh",
-            "positive": "Is harsh"
-        },
-        "goodTaste": {
-            "negative": "Does not have a good taste",
-            "positive": "Has a good taste"
-        },
-        "satisfaction": {
-            "negative": "Is not satisfying",
-            "positive": "Is satisfying"
-        },
-        "coolSmoking": {
-            "negative": "Is not cool smoking",
-            "positive": "Is cool smoking"
-        },
-        "burnRate": "Burns too fast",
-        "draw": {
-            "negative": "Does not have an easy draw",
-            "positive": "Has an easy draw"
-        },
-        "dryTaste": {
-            "negative": "Does not have a dry taste in the mouth",
-            "positive": "Has a dry taste in the mouth"
-        },
-        "aftertaste": {
-            "negative": "Does not leave a good aftertaste in my mouth",
-            "positive": "Leaves a good aftertaste in my mouth"
-        },
-        "preference": {
-            "dislike": "I dislike extremely",
-            "like": "I like extremely"
-        }
+    "satisfaction": {
+      "negative": "Is not satisfying",
+      "positive": "Is satisfying"
     },
-    "note": "CONTINUE ON REVERSE SIDE",
-    "code": "NV=10N"
+    "coolSmoking": {
+      "negative": "Is not cool smoking",
+      "positive": "Is cool smoking"
+    },
+    "burnRate": {
+      "negative": "Does not burn too fast",
+      "positive": "Burns too fast"
+    },
+    "draw": {
+      "negative": "Does not have an easy draw",
+      "positive": "Has an easy draw"
+    },
+    "dryTaste": {
+      "negative": "Does not have a dry taste in the mouth",
+      "positive": "Has a dry taste in the mouth"
+    },
+    "aftertaste": {
+      "negative": "Does not leave a good aftertaste in my mouth",
+      "positive": "Leaves a good aftertaste in my mouth"
+    },
+    "preference": {
+      "dislike": "I dislike extremely",
+      "like": "I like extremely"
+    }
+  },
+  "note": "CONTINUE ON REVERSE SIDE",
+  "code": ""
 }

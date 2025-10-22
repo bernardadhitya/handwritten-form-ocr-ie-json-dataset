@@ -1,0 +1,40 @@
+{
+    "institution": "INBIFO Institut fur biologische Forschung GmbH, Koln",
+    "document": {
+        "reference": "20.KW97NDA/MWO X:\\MWO\\QAAMEND\\AND_5342.DOC",
+        "studyPlanAmendment": "P-/5342",
+        "changeNumber": 11,
+        "majorChange": true,
+        "shortTitle": "Ames, Single Blends",
+        "studyDirector": "TME",
+        "dateOfStudyPlanApproval": "3 Nov. 97",
+        "authorOfChange": "TME",
+        "dateSubmitted": "30 Jan. 98",
+        "subject": "Additional testing of MSC of X6D5RN",
+        "reasonsForChange": "Due to client's request pers. comm. by FTE, 28 Jan. 98",
+        "changeDescription": "In addition, the MSC of the test cigarette X6D5RN will be prepared and assayed.",
+        "testCigarette": {
+            "name": "X6D5RN",
+            "synonym": "ATT",
+            "quantity": 168000,
+            "receivedDate": "12 Mar. 95",
+            "inbifoCode": "K 186",
+            "baseWebSheet": "CDL"
+        },
+        "mscDosing": {
+            "doses": [
+                0.05,
+                0.1,
+                0.2,
+                0.4
+            ],
+            "unit": "mg dry condensate/plate"
+        },
+        "controls": "Controls for the assay will be taken from the parallel running study P-/3280",
+        "consequencesAndMeasures": "Information of teams AC and IT",
+        "additionalInfo": {
+            "numberAssignedByStudyDirector": 2505366588,
+            "decisionByStudyDirector": true
+        }
+    }
+}

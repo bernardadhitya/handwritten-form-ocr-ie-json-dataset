@@ -1,0 +1,49 @@
+{
+  "Code d'envoi": {
+    "Questionnaire": {
+      "Identite fictive": {
+        "Nom": null,
+        "Prenom": "Pa",
+        "Adresse": null,
+        "Code postal": null,
+        "Ville": null,
+        "Tel": null
+      },
+      "Scenario": {
+        "Categorie": null,
+        "Objet": "~auuuuuando-d'un_lat_da LAuante",
+        "CDaeaDe": {
+          "Complement": null,
+          "Reference client eventuelle": "8"
+        },
+        "Interlocuteur": null,
+        "Adresse": null,
+        "Code postal": null,
+        "Ville": null
+      },
+      "Redaction": {
+        "Type de stylo (noir) utilise": [
+          "bille",
+          null,
+          null
+        ],
+        "Temps passe a traiter le scenario": null
+      },
+      "Contribution": {
+        "Cocher les elements de_votre contribution pour le scenario traite": [
+          null,
+          "(+2€) Mon courrier contient une page de garde de fax",
+          null,
+          null
+        ],
+        "Marque et modele du scanner": null,
+        "Format": [
+          null,
+          null,
+          "TIFF"
+        ],
+        "Resolution des images": "dpilppp"
+      }
+    }
+  }
+}

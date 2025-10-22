@@ -1,48 +1,48 @@
 {
-    "ProjectNo": "776",
-    "QuestionNo": "1-5",
-    "File": "fil74-15",
-    "Study": "CIGARETTE STUDY - TELEPHONE INTERVIEW",
-    "Interviewer": "",
-    "FieldStation": "",
-    "Date": "",
-    "TimeBegan": "",
-    "AM_PM": "",
-    "RespondentDetails": {
-        "Name": "",
-        "Address": "",
-        "Phone": "(10 age)"
+  "ProjectNo": "776",
+  "QuestionNo": "1-5",
+  "File": "fil74-15",
+  "Study": "CIGARETTE STUDY - TELEPHONE INTERVIEW",
+  "Interviewer": "",
+  "FieldStation": "",
+  "Date": "",
+  "TimeBegan": "",
+  "AM_PM": "",
+  "RespondentDetails": {
+    "Name": "",
+    "Address": "",
+    "Phone": "(10 oge)"
+  },
+  "Introduction": "Hello, my name is . . . . . . . I’m from Market Facts, Incorporated in Chicago. May I speak to . . . . . . [READ RESPONDENT’S NAME FROM ABOVE]?",
+  "Availability": "Unavailable . . 2 (DETERMINE WHEN BEST TO CALL BACK AND RECORD TIME BELOW)",
+  "Callbacks": {
+    "Callback1": "",
+    "Callback2": ""
+  },
+  "InterviewDetails": {
+    "PreviousInterview": "Several weeks ago we interviewed you and asked you some questions about your smoking characteristics. We’d like to ask you just a few more questions that are similar to ones you’ve answered before. But now we’re interested in your smoking characteristics at this specific time.",
+    "PacksSmoked": {
+      "Question": "Now think about all the PACKS of cigarettes you’ve smoked these past TWO weeks. About how many packs of cigarettes would you estimate you’ve smoked these past TWO weeks?",
+      "NumberOfPacks": "11"
     },
-    "Introduction": "Hello, my name is [Interviewer]. I'm from Market Facts, Incorporated in Chicago. May I speak to [Respondent's Name]?",
-    "Availability": "Unavailable. Determine when best to call back and record time below.",
-    "Callbacks": {
-        "Callback1": "",
-        "Callback2": ""
-    },
-    "InterviewDetails": {
-        "PreviousInterview": "Several weeks ago we interviewed you and asked you some questions about your smoking characteristics. We'd like to ask you just a few more questions that are similar to ones you've answered before, but now we're interested in your smoking characteristics at this specific time.",
-        "PacksSmoked": {
-            "Question": "Now think about all the packs of cigarettes you've smoked in the past two weeks. About how many packs of cigarettes would you estimate you've smoked these past weeks?",
-            "NumberOfPacks": "26"
+    "BrandsSmoked": {
+      "Question": "Now, would you please name all the brands of cigarettes you have smoked a pack or more of these past 2 weeks? Any others? (CIRCLE PRE-LISTED BRANDS MENTIONED BELOW ON GRID, WRITE IN ALL OTHERS)",
+      "Brands": [
+        {
+          "BrandName": "Viceroy",
+          "AmountSmoked": ""
         },
-        "BrandsSmoked": {
-            "Question": "Now, would you please name all the brands of cigarettes you have smoked a pack or more of this week? Any others?",
-            "Brands": [
-                {
-                    "BrandName": "Viceroy",
-                    "AmountSmoked": ""
-                },
-                {
-                    "BrandName": "Viceroy Rich Lights",
-                    "AmountSmoked": ""
-                },
-                {
-                    "BrandName": "Rich Lights",
-                    "AmountSmoked": ""
-                }
-            ],
-            "TotalMustAgree": "Total must add up to answer in PacksSmoked"
+        {
+          "BrandName": "Viceroy Rich Lights",
+          "AmountSmoked": ""
+        },
+        {
+          "BrandName": "Rich Lights",
+          "AmountSmoked": ""
         }
-    },
-    "ThankYou": "Thank respondent"
+      ],
+      "TotalMustAgree": "TOTAL MUST AGREE TO TOTAL IN QU. 2a"
+    }
+  },
+  "ThankYou": "Thank respondent"
 }

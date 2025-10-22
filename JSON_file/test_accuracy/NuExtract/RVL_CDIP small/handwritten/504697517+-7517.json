@@ -1,23 +1,36 @@
 {
-  "date": null,
-  "participants": [],
-  "activities": [],
-  "results": {
-    "tar_levels": null,
-    "appearance_of_paper": "The Appearance of The. paper. .Seemed. .Obtect!onabLe."
-  },
-  "cigarette_details": {
-    "Camel Lights KS": {
-      "tar": "7.8",
-      "nicotine": null,
-      "carbon_monoxide": "7.9"
+    "date": "7-9-80",
+    "participants": [
+        "Reeves",
+        "Richard Craver"
+    ],
+    "activities": [
+        "Written test",
+        "Cigarettes selected",
+        "Multidraft ITR evaluations",
+        "Factory tests submitted to research for filtration efficiency",
+        "Machining trials",
+        "New plug wraps run at 64 feet",
+        "Computer training on Wattens tab",
+        "Cigarette paper completed",
+        "No further testing planned"
+    ],
+    "results": {
+        "tar_levels": "increased",
+        "appearance_of_paper": "objectionable"
     },
-    "Camel Filter": {
-      "tar": "19.3",
-      "nicotine": null,
-      "carbon_monoxide": "18.2",
-      "co/tar": "1.000",
-      "yields": "1.000"
+    "cigarette_details": {
+        "Camel Lights KS": {
+            "tar": "7.8",
+            "nicotine": "0.7",
+            "carbon_monoxide": "10.8"
+        },
+        "Camel Filter": {
+            "tar": "20.6",
+            "nicotine": "1.3",
+            "carbon_monoxide": "20.6",
+            "co/tar": "943",
+            "yields": "1000"
+        }
     }
-  }
 }

@@ -1,0 +1,52 @@
+{
+  "Blend": "Regular",
+  "Brand": "Kent",
+  "Callback": null,
+  "RespondentName": null,
+  "ID": null,
+  "Questions": [
+    {
+      "Question": "About how many of the YORK FILTER cigarettes did you yourself smoke?",
+      "Response": null
+    },
+    {
+      "Question": "What, if anything, did you particularly like about York FILTER cigarettes?",
+      "Response": "Taste"
+    },
+    {
+      "Question": null,
+      "Response": null
+    }
+  ],
+  "RatingComparison": {
+    "Taste": {
+      "MuchMoreSatisfying": false,
+      "LittleMoreSatisfying": null,
+      "AboutTheSame": false,
+      "LittleLessSatisfying": null,
+      "MuchLessSatisfying": null
+    },
+    "Mildness": {
+      "MuchMilder": null,
+      "LittleMilder": null,
+      "AboutTheSame": null,
+      "LittleStronger": null
+    },
+    "FilterDraw": {
+      "MuchEasier": null,
+      "LittleEasier": null
+    }
+  },
+  "Preference": {
+    "Taste": null,
+    "Mildness": null,
+    "FilterDraw": null
+  },
+  "OverallPreference": {
+    "York": null,
+    "RegularBrand": null,
+    "YorkLittleMore": null,
+    "RegularBrandLittleMore": null,
+    "NoPreference": null
+  }
+}

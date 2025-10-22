@@ -1,73 +1,65 @@
 {
-    "organization": "AHF Market Research",
-    "survey": "National Consensus Surveys",
-    "address": {
-        "street": "108 Anunay Pttnas",
-        "suite": "1146",
-        "postal_code": "#25077W",
-        "city": "New York",
-        "state": "New York",
-        "zip_code": "10017"
+  "organization": "National Consensus Surveys",
+  "survey": "National Consensus Surveys",
+  "address": {
+    "street": "6826 64th St",
+    "suite": "",
+    "postal_code": "",
+    "city": "Lincoln",
+    "state": "Nebr",
+    "zip_code": ""
+  },
+  "date": "8-26-77",
+  "project": "",
+  "screening_questionnaire": {
+    "time_interview": {
+      "started": "3:10",
+      "ended": "3:15"
     },
-    "date": "August, 1977",
-    "project": "Cigarette Portfolio",
-    "screening_questionnaire": {
-        "time_interview": {
-            "started": null,
-            "ended": null
-        },
-        "respondents": "NA",
-        "telephone": "0442-466-3",
-        "address": null,
-        "city": "Lincoln",
-        "state": "Nehe",
-        "interviewer": null,
-        "metro_area": null,
-        "date": null,
-        "validated_by": null,
-        "validation_date": null,
-        "indicate_city": [
-            "Boston",
-            "Detroit",
-            "Des Moines",
-            "Lincoln",
-            "Omaha",
-            "New Orleans"
-        ],
-        "initial_refusal": {
-            "circle_mex": [
-                10,
-                20,
-                21,
-                22,
-                27,
-                30,
-                46,
-                50,
-                58
-            ]
-        },
-        "participation": {
-            "question": "Have you, yourself, participated in a study in the last 6 months or so?",
-            "terminate_and_circle_next_highest_number_below": null,
-            "response": {
-                "yes": "Continue",
-                "no": null
-            }
-        },
-        "age_card": {
-            "instruction": "Please tell me which letter on this card includes your age.",
-            "terminate_and_circle_next_highest_number": null,
-            "age_groups": {
-                "A": "Under 21",
-                "B": "21 to 24",
-                "C": "25 to 34",
-                "D": "35 to 44",
-                "E": "45 to 54",
-                "F": "55 to 64",
-                "G": "65 and over"
-            },
-            "terminate_and_circle_next_highest_number_under_or_over_age": null
-        }
+    "respondents": "Cruz, She",
+    "telephone": "402-466-3166",
+    "address": "6826 64th St",
+    "city": "Lincoln",
+    "state": "Nebr",
+    "interviewer": "Dale Smith",
+    "metro_area": "",
+    "date": "8-26-77",
+    "validated_by": "",
+    "validation_date": "",
+    "indicate_city": [
+      "Boston",
+      "Des Moines",
+      "Detroit",
+      "Lincoln",
+      "New Orleans",
+      "Omaha",
+      "San Francisco"
+    ],
+    "initial_refusal": {
+      "circle_mex": []
+    },
+    "participation": {
+      "question": "Have you, yourself, participated in a market research survey in the past three months or so?",
+      "terminate_and_circle_next_highest_number_below": "",
+      "response": {
+        "yes": "Terminate and circle next highest number below",
+        "no": "Continue"
+      }
+    },
+    "age_card": {
+      "instruction": "Please tell me which letter on this card includes your age.",
+      "terminate_and_circle_next_highest_number": "",
+      "age_groups": {
+        "A": "Under 21",
+        "B": "21 to 24",
+        "C": "25 to 29",
+        "D": "30 to 34",
+        "E": "35 to 39",
+        "F": "40 to 44",
+        "G": "45 to 49",
+        "H": "50 to 55"
+      },
+      "terminate_and_circle_next_highest_number_under_or_over_age": ""
     }
+  }
 }

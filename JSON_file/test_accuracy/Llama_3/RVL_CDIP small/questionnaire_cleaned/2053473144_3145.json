@@ -1,0 +1,72 @@
+{
+  "productOpinion": {
+    "company": "LA30RAT0RY",
+    "address": null,
+    "telephone": "(804) 271-5002"
+  },
+  "instructions": {
+    "label": null,
+    "returnBallotBy": null,
+    "addressChange": {
+      "prompt": "Please print name/address corrections",
+      "applyTo": "Does the change apply to you or just to all family members on label?"
+    },
+    "addressChangeDetails": "If Address Changed: What is your (Please include area code.)"
+  },
+  "message": {
+    "greeting": null,
+    "content": null,
+    "closing": null,
+    "signature": null
+  },
+  "testInstructions": {
+    "part": "PART",
+    "firstStep": null,
+    "phrases": "Read the phrases at each end of each line of boxes. Which phrase do you think describes the cigarette coded",
+    "scale": {
+      "left": null,
+      "right": "If you think side--again the surer it is the closer to the right side."
+    }
+  },
+  "cigaretteEvaluation": {
+    "mildTaste": {
+      "negative": null,
+      "positive": null
+    },
+    "harshness": {
+      "negative": null,
+      "positive": "Is harsh"
+    },
+    "goodTaste": {
+      "negative": null,
+      "positive": null
+    },
+    "satisfaction": {
+      "negative": null,
+      "positive": null
+    },
+    "coolSmoking": {
+      "negative": null,
+      "positive": null
+    },
+    "burnRate": "Burns too fast",
+    "draw": {
+      "negative": null,
+      "positive": null
+    },
+    "dryTaste": {
+      "negative": null,
+      "positive": null
+    },
+    "aftertaste": {
+      "negative": null,
+      "positive": null
+    },
+    "preference": {
+      "dislike": null,
+      "like": null
+    }
+  },
+  "note": null,
+  "code": null
+}

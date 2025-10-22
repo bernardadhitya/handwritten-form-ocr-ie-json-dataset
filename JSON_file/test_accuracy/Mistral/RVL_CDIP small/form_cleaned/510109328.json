@@ -1,0 +1,61 @@
+{
+    "FactoryTest": {
+        "Number": 3707,
+        "ProjectLeader": "A.",
+        "ProjectLeaderID": 7546,
+        "Brand": "SALEM Ultra 100",
+        "Approved": "D7NC/BU",
+        "Date": "10/28",
+        "PurposeOfTest": "Evaluation of SALEM Ultra 100 graphics change",
+        "SpecialInstructions": "PRODUCT WILL BE SUPPLIED TO R &D BY MANUFACTURING."
+    },
+    "FilterSpecifications": {
+        "TowItem": "2.7/48000",
+        "FilterPressureDrop_mm": 130,
+        "FilterSegmentLength_mm": 27.5,
+        "Circumference_mm": 24.8,
+        "Plasticizer": "E-19F@7%",
+        "PlugWrap_ID_No": "260M1"
+    },
+    "CigaretteSpecifications": {
+        "TotalCigaretteLength_mm": 99.5,
+        "TobaccoRodLength_mm": 72.0,
+        "Circumference_mm": 24.8,
+        "CigaretteWeight_grams": 1.153,
+        "CigarettePaper_ID_No": 754,
+        "TippingPorosity": "2800CP",
+        "TotalWidth_mm": 69,
+        "Collor": "Printed",
+        "Type": "Mechanical",
+        "PerforationLinesAndLocation": "126C/C",
+        "ID_No": "Current Prod.",
+        "Print": "YES",
+        "NewPack": "Old pack w/o insert"
+    },
+    "CigarettePackaging": {
+        "NonBandedCigarette_Ctns": {
+            "MonadicWrappers": "Smoke First Wrappers",
+            "SmokeSecondWrappers": "Printed (Specify Brand) SU 100",
+            "TotalCartonsRequired": 85
+        },
+        "BandedCigarette_Ctns": {
+            "BandingWidth": "Position/mm. from mouth end",
+            "Plain": "Monadic Wrappers",
+            "RJR_CONFIDENTA": "Smoke First Wrappers",
+            "SmokeSecondWrappers": "Smoke First/Smoke First Wrappers",
+            "SmokeSecondSmokeSecondWrappers": "TOTAL CARTONS REQUIRED: 85"
+        }
+    },
+    "PanelTesting": {
+        "CompanyWidePackTest": "Employee U.S. Mail Panel",
+        "ConsumerUSMailPanel": 510109328,
+        "CentralLocationPanel": 1,
+        "MARCPanel": 11,
+        "NFOPanel": "Other"
+    },
+    "Scheduling": {
+        "MPWeekOf": "10/28/82",
+        "ShippingDateNeeded": "10/28/82",
+        "OtherInformation": "10/28/82"
+    }
+}

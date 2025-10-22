@@ -1,13 +1,13 @@
 {
-  "bank": "CREDIT AGRICOLE",
-  "branch": "SUDOEST",
-  "account_holder": "Sidney Lapointe, Faabie F",
-  "account_number": "8041 0658085474125",
-  "transaction_reference": "EL237 Re du CraPercre OCTOL.CLSE Chee.eN 2581230 1aea=",
-  "transaction_date": "06/05/22",
-  "transaction_amount": "0.44",
-  "transaction_currency": null,
-  "transaction_location": null,
-  "transaction_id": "cgnotur",
-  "customer_id": null
+    "bank": "CREDIT AGRICOLE",
+    "branch": "SUDOUEST",
+    "account_holder": "Sidney Lapointe",
+    "account_number": "8041",
+    "transaction_reference": "EL237",
+    "transaction_date": "06/05/22",
+    "transaction_amount": 1000,
+    "transaction_currency": "EUR",
+    "transaction_location": "Re du CraPercre",
+    "transaction_id": "0658085474125",
+    "customer_id": "369852369852"
 }
